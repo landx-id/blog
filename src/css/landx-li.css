@@ -1,0 +1,64 @@
+.landx-card {
+  width: 100%;
+  height: 300px;
+  background-color: black;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-end;
+  padding: 12px;
+  margin-top: 10px;
+  box-shadow: 0px 4px 4px 0px #2b2b2b60;
+  position: relative;
+  color: white;
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  transition: all 0.2s ease-in-out;
+  overflow: hidden;  
+  border-radius: 20px;
+}
+
+.landx-card .description {
+  font-size: 12px;
+  max-width: 100%;
+  max-height: 60px;
+  /* white-space: nowrap; */
+  overflow: hidden;
+  text-overflow: ellipsis;
+  z-index: 2;
+}
+
+.landx-card .title {
+  font-weight: 700;
+  text-align: left;
+  max-width: 70%;
+  z-index: 2;
+  font-size: 0.9rem;
+  text-shadow: 3px 5px 8px #141414;
+}
+
+.landx-card .container {
+  background-color: rgba(0, 0, 0, 0.705);
+  backdrop-filter: blur(8px);
+  padding: 12px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-end;
+  gap: 12px;
+  min-height: 40%;
+  min-width: 100%;
+  border-radius: 20px;
+  box-shadow: 0px 4px 4px 0px #2b2b2b60;
+}
+
+.container .date {
+  font-size: 12px;
+  font-style: italic;
+}
+
+.landx-card:hover {
+  filter: brightness(70%);
+  transform: translate(-2px, -2px);
+}

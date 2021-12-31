@@ -1,0 +1,20 @@
+<!doctype html>
+<html lang="{{ $.Site.Language.Lang }}">
+{{ partial "head" . }}
+
+<body class="sans-serif">
+
+  {{ block "header" . }}{{ partial "landx-header" . }}{{end}}
+  <div style="margin-top: 88px;">
+    {{ block "main" . }}{{ end }}
+  </div>
+
+  {{ block "footer" . }}{{ partial "landx-footer" . }}{{end}}
+
+  {{ $script := .Site.Data.webpack.main }}
+  {{ with $script.js }}
+  <script src="{{ relURL . }}"></script>
+  {{ end }}
+</body>
+
+</html>

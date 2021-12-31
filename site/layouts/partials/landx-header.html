@@ -1,0 +1,115 @@
+<div class='lx-header-container'>
+  <div class="main-container">
+    <img src='/img/logo-1.png' class="lx-logo" alt='landx logo' onclick="goTo('https://landx.id/')"/>
+    <div class="lx-header-right  in-desktop">
+      <a href='https://landx.id/#why-landx'>Mengapa Landx</a>
+      <a href='https://landx.id/#ongoing-projects'>Proyek</a>
+      <a href='https://landx.id/#how-it-works'>Cara Kerja</a>
+      <a href='https://landx.id/contact.html'>Kontak</a>
+      <a href=''>Blog</a>
+      <div class="dropdown">
+        <span>Perusahaan</span>
+        <span><i class="fa fa-chevron-up closed" style="font-size: 12px;"></i></span>
+        <span><i class="fa fa-chevron-down expanded" style="font-size: 12px;"></i></span>
+        <div class="dropdown-content">
+          <div>
+            <a href='https://landx.id/blog/jobs-at-landx/'>Karir</a>
+          </div>
+          <div>
+            <a href='https://landx.id/syarat-dan-ketentuan.html'>Syarat & Ketentuan</a>
+          </div>
+          <div>
+            <a href='https://landx.id/privacy-policy.html'>Kebijakan Privasi</a>
+          </div>
+          <div>
+            <a href='https://landx.id/service-level-agreement.html'>Service Level Agreement</a>
+          </div>
+          <div>
+            <a href='https://landx.id/kebijakan-isms.html'>Kebijakan ISMS</a>
+          </div>
+          <div>
+            <a href='https://landx.id/mitigasi-risiko.html'>Mitigasi Resiko</a>
+          </div>
+          <div>
+            <a href='https://landx.id/blog/faq-landx'>FAQ</a>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <img src='/img/hamburgerMenu.svg' class="in-mobile menu" onclick="toggleMenu()" />
+
+    <button class="lx-button in-desktop" onclick="goTo('https://landx.id/pendaftaran-perusahaan.html')">Pendaftaran
+      Perusahaan</button>
+  </div>
+</div>
+
+<div class="menu-drawer" id="menudrawer">
+  <div class="menu-container" id='menucontainer'>
+    <a href='https://landx.id/#why-landx' class="menu-item">Mengapa Landx</a>
+    <a href='https://landx.id/#ongoing-projects' class="menu-item">Proyek</a>
+    <a href='https://landx.id/#how-it-works' class="menu-item">Cara Kerja</a>
+    <a href='https://landx.id/contact.html' class="menu-item">Kontak</a>
+    <a class="menu-item" onclick="expandMenu()">Perusahaan</a>
+    <div class="second-menu" id="secondmenu">
+      <div id='items'>
+        <div class="second-menu-item">
+          <a href='https://landx.id/blog/jobs-at-landx/'>Karir</a>
+        </div>
+        <div class="second-menu-item">
+          <a href='https://landx.id/syarat-dan-ketentuan.html'>Syarat & Ketentuan</a>
+        </div>
+        <div class="second-menu-item">
+          <a href='https://landx.id/privacy-policy.html'>Kebijakan Privasi</a>
+        </div>
+        <div class="second-menu-item">
+          <a href='https://landx.id/service-level-agreement.html'>Service Level Agreement</a>
+        </div>
+        <div class="second-menu-item">
+          <a href='https://landx.id/kebijakan-isms.html'>Kebijakan ISMS</a>
+        </div>
+        <div class="second-menu-item">
+          <a href='https://landx.id/mitigasi-risiko.html'>Mitigasi Resiko</a>
+        </div>
+        <div class="second-menu-item">
+          <a href='https://landx.id/blog/faq-landx'>FAQ</a>
+        </div>
+      </div>
+    </div>
+
+    <button class="lx-button" style="margin-top: 16px;" onclick="goTo('https://landx.id/pendaftaran-perusahaan.html')"
+      type="button">Pendaftaran Perusahaan</button>
+  </div>
+</div>
+
+<script>
+  let isMenuOpen = false
+
+  let md = document.getElementById('menudrawer')
+  let mc = document.getElementById('menucontainer')
+  let sm = document.getElementById('secondmenu')
+  let it = document.getElementById('items')
+
+  function toggleMenu() {
+    isMenuOpen = !isMenuOpen
+    md.style.height = isMenuOpen ? `${mc.offsetHeight}px` : '0px'
+    md.style.padding = isMenuOpen ? '16px' : '0px'
+  }
+
+  function expandMenu() {
+    sm.style.height = sm.style.height === `${it.offsetHeight}px` ? '0px' : `${it.offsetHeight}px`
+    md.style.height = md.style.height === `${mc.offsetHeight}px` ? '0px' : `${mc.offsetHeight}px`
+  }
+
+  function goTo(string) {
+    window.location.href = string;
+  }
+
+  window.addEventListener('resize', () => {
+    if (window.innerWidth > 768 && isMenuOpen) {
+      toggleMenu()
+    }
+  })
+
+
+</script>
