@@ -1,19 +1,22 @@
 {{ define "main" }}
 
-<div class="mw6 center ph3 pv4">
+<div class="mw6 center ph3 pv4 post-container">
   <h1 class="f2 lh-title b mb3">{{.Title}}</h1>
   <div class="flex justify-between grey-3">
-    <p>{{ .Date.Format "Mon, Jan 2, 2006" }}</p>
+    <p>{{ .Date.Format "Monday, 2 Jan 2006" }}</p>
     <p>Read in {{ .ReadingTime }} minutes</p>
   </div>
   <div class="cms mw6">
-    <p>{{ .Description }}</p>
     {{ if .Params.image }}<img src="{{ .Params.image }}" alt="{{ .Title }}" />{{ end }}
+    <p class="description">{{ .Description }}</p>
+    <div class="toc-container">
+      <h2>Table Of Contents</h2>
+      {{.TableOfContents}}
+    </div>
     {{ .Content }}
   </div>
 
-  <div class="paginator-container" style="padding-top: 32px; border-top: 1px solid #ccd7df">   
-
+  <div class="paginator-container" style="padding-top: 32px; border-top: 1px solid #ccd7df">
     {{with .Next}}
     <a title='Previous Page' href="{{.Permalink}}">
       <i class="fas fa-arrow-left"></i>
@@ -34,9 +37,20 @@
   </div>
 </div>
 
+<script>
+  window.addEventListener('DOMContentLoaded', () => {
+    const toc = document.getElementById("TableOfContents");
+    const anchor = toc.getElementsByTagName('a')
+    const loc = window.location
+    for (let i = 0; i < anchor.length; i++) {
+      anchor[i].href = loc.origin + loc.pathname + anchor[i].hash
+    }
 
-
-
-
+    const headings = document.querySelectorAll("h1[id], h2[id], h3[id], h4[id], h5[id], h6[id")
+    headings.forEach(item => {
+      item.style.scrollMarginTop = '3em'
+    })
+  });
+</script>
 
 {{ end }}
