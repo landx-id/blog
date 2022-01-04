@@ -1,0 +1,14 @@
+{{ define "main" }}
+{{ partial "jumbotron" (dict "imageUrl" "/img/header_background.webp" "title" .Title) }}
+
+<div class="mw8 center">
+  <ul class="flex-ns flex-wrap mhn1-ns pa3">
+    {{ range .Data.Pages }}
+    <div class="w-50-ns ph3-ns flex">
+      {{ .Render "landx-li"}}
+    </div>
+    {{ end }}
+  </ul>
+  {{ partial "landx-paginator" . }}
+</div>
+{{ end }}

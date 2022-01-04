@@ -1,0 +1,12 @@
+{{ define "main" }}
+
+{{ partial "jumbotron" (dict "imageUrl" "/img/header_background.webp" "title" .Title) }}
+
+<div class="terms-container" style="margin-top: 32px;">
+	<div class="chip-container">
+		{{ range sort .Data.Pages }}
+		<a href="{{ .Permalink }}" class="chip">{{ .Title }}</a>
+		{{ end }}
+	</div>
+</div>
+{{ end}}

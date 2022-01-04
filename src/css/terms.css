@@ -1,0 +1,50 @@
+.terms-container {
+  display: flex;
+  width: 100%;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  padding: 10px;
+  gap: 10px;
+}
+
+.terms-container .chip-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 12px;
+  flex-wrap: wrap;
+  width: 80%;
+}
+
+.chip-container.in-content {
+  justify-content: flex-start !important;
+  width: 100%;
+  margin-bottom: 12px;
+}
+
+.terms-container .chip {
+  padding: 8px 24px;
+  /* background-color: #2cba5e; */
+  border: 2px solid #2cba5e;
+  border-radius: 20px;
+  font-size: 14px;
+  font-weight: 700;
+  color: var(--primary);
+  transition: all 0.2s ease-in-out;
+  user-select: none;
+  -webkit-tap-highlight-color: transparent;
+}
+
+.in-content .chip {
+  padding: 4px 12px;
+  border: 1px solid #2cba5e;
+  font-weight: normal;
+}
+
+.terms-container .chip:hover {
+  filter: brightness(90%);
+  transform: translate(-1px,-2px);
+  box-shadow: 0px 6px 6px 0px #D5D5D566;
+
+}

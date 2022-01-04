@@ -77,6 +77,8 @@
 @import './landx-li.css';
 @import './landx-paginator.css';
 @import './landx-single-post.css';
+@import './terms.css';
+@import './taxonomy.css';
 
 /* Variables */
 /* Importing here will allow you to override any variables in the modules */
@@ -99,6 +101,7 @@ a:focus {
 
 html, body {
   scroll-behavior: smooth;
+  background-color: white;
 }
 
 /* Uncomment out the line below to help debug layout issues */

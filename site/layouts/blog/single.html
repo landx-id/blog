@@ -2,10 +2,34 @@
 
 <div class="mw6 center ph3 pv4 post-container">
   <h1 class="f2 lh-title b mb3">{{.Title}}</h1>
+
+
+
+  <!-- <div class="tag-group">
+    {{ range .Params.tags }}
+    <div class="tag">
+      <span class="tag-text">
+        <a href="/tags/{{. | urlize }}">#{{.}}</a>
+      </span>
+    </div>
+    {{end}}
+  </div>  -->
+
+
+
   <div class="flex justify-between grey-3">
     <p>{{ .Date.Format "Monday, 2 Jan 2006" }}</p>
     <p>Read in {{ .ReadingTime }} minutes</p>
   </div>
+  
+  <div class="terms-container">
+    <div class="chip-container in-content">
+      {{ range .Params.tags }}
+      <a href="/tags/{{. | urlize }}" class="chip">#{{.}}</a>
+      {{ end }}
+    </div>
+  </div>
+
   <div class="cms mw6">
     {{ if .Params.image }}<img src="{{ .Params.image }}" alt="{{ .Title }}" />{{ end }}
     <p class="description">{{ .Description }}</p>
