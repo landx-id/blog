@@ -50,6 +50,7 @@
 .lx-logo {
   cursor: pointer;
   width: 91px;
+  height: 31px;
 }
 
 .lx-button {
@@ -121,6 +122,7 @@
 
 .menu {
   width: 32px;
+  height: 31px;
   border-radius: 0px !important;
 }
 
