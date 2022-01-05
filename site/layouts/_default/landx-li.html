@@ -5,10 +5,19 @@
 	<p class="link b dib black mb0">Read →</p>
 </a> -->
 
-<a href="{{ .RelPermalink }}" class="landx-card" style="background-image: url({{.Params.image}});">
+<a href="{{ .RelPermalink }}" class="landx-card">
   <div class="container">
     <div class="title">{{ .Title }}</div>
     <div class="description">{{ .Description }}</div>
     <div class="date">{{ .Date.Format "Mon, 2 Jan 2006" }} - {{ .ReadingTime }} min read</div>
   </div>
 </a>
+
+<!-- <img class="post-card-image"
+  srcset="https://images.unsplash.com/photo-1522992319-0365e5f11656?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=MnwxMTc3M3wwfDF8c2VhcmNofDEyfHxjb2ZmZWV8ZW58MHx8fHwxNjQxMDQ5MjEy&amp;ixlib=rb-1.2.1&amp;q=80&amp;w=1080 300w,
+                    https://images.unsplash.com/photo-1522992319-0365e5f11656?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=MnwxMTc3M3wwfDF8c2VhcmNofDEyfHxjb2ZmZWV8ZW58MHx8fHwxNjQxMDQ5MjEy&amp;ixlib=rb-1.2.1&amp;q=80&amp;w=1080 600w,
+                    https://images.unsplash.com/photo-1522992319-0365e5f11656?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=MnwxMTc3M3wwfDF8c2VhcmNofDEyfHxjb2ZmZWV8ZW58MHx8fHwxNjQxMDQ5MjEy&amp;ixlib=rb-1.2.1&amp;q=80&amp;w=1080 1000w,
+                    https://images.unsplash.com/photo-1522992319-0365e5f11656?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=MnwxMTc3M3wwfDF8c2VhcmNofDEyfHxjb2ZmZWV8ZW58MHx8fHwxNjQxMDQ5MjEy&amp;ixlib=rb-1.2.1&amp;q=80&amp;w=1080 2000w"
+  sizes="(max-width: 1000px) 400px, 700px"
+  src="https://images.unsplash.com/photo-1522992319-0365e5f11656?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=MnwxMTc3M3wwfDF8c2VhcmNofDEyfHxjb2ZmZWV8ZW58MHx8fHwxNjQxMDQ5MjEy&amp;ixlib=rb-1.2.1&amp;q=80&amp;w=1080"
+  alt="4 Langkah Persiapan Utama untuk Memulai Bisnis Coffee Shop"> -->
