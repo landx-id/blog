@@ -1,13 +1,16 @@
 {{ define "main" }}
 
-{{ partial "jumbotron" (dict "imageUrl" .Params.image "title" .Title "subtitle" .Params.subtitle) }}
+{{ partial "jumbotron" (dict "imageUrl" "/img/header_background.webp" "title" "Landx Blog") }}
 
-{{ partial "short-text" .Params.blurb}}
+<div class="mw8 center">
+  <ul class="flex-ns flex-wrap mhn1-ns pa3">
+    {{ range (.Paginator 20).Pages.ByPublishDate.Reverse }}
+    <div class="w-50-ns ph3-ns flex">
+      {{ .Render "landx-li"}}
+    </div>
+    {{ end }}
+  </ul>
+  {{ partial "landx-paginator" . }}
+</div>
 
-{{ partial "2-up" .Params }}
-
-{{ partial "text-and-image" (dict "heading" .Params.values.heading "text" .Params.values.text "buttonText" "Read more" "buttonLink" "/values") }}
-
-{{ partial "blog" . }}
-
-{{ end }}
+{{end}}
