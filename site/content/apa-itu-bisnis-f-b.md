@@ -22,14 +22,6 @@ Oleh sebab itu, pandemi menghadirkan peluang baru bagi sebagian bisnis f&b yang 
 
 ---
 
-## Table of Content
-
-* **[Model Bisnis F&B di Masa Pandemi](https://landx.id/blog/apa-itu-bisnis-f-b/#perkembangan-model-bisnis-fb-di-masa-pandemi)**
-* **[Perkembangan Model Bisnis F&B di Masa Pandemi](https://landx.id/blog/apa-itu-bisnis-f-b/#perkembangan-model-bisnis-f-b-di-masa-pandemi)**
-* **[Memulai Investasi Bisnis F&B dengan Equity Crowdfunding](#memulai-investasi-bisnis-fb-dengan-equity-crowdfunding)**
-
----
-
 ## Perkembangan Model Bisnis F&B di Masa Pandemi
 
 Industri _food and beverage_ menjadi salah satu bisnis yang mengalami perubahan sangat besar dalam beberapa waktu belakangan ditambah lagi adanya pandemi yang menyebabkan perubahan modal bisni fnb.

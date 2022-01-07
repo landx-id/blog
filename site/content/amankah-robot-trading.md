@@ -24,18 +24,6 @@ Biar kamu tidak seperti itu, yuk kita bahas bareng-bareng tentang robot trading 
 
 ---
 
-## Table of Content
-
-* **[Apa Itu Robot Trading?](https://landx.id/blog/amankah-robot-trading/#apa-itu-rbot-trading?) **
-* [**Robot Trading Forex**](https://landx.id/blog/amankah-robot-trading/#robot-trading-forex)
-* [**Perbedaan Robot Trading dengan Binary Option**](https://landx.id/blog/amankah-robot-trading/#perbedaan-robot-trading-dengan-binary-option)
-* **[Kelebihan dan Kekurangan Robot Trading](https://landx.id/blog/amankah-robot-trading/#kelebihan-dan-kekurangan-robot-trading)**- [Kelebihan Trading Menggunakan Robot](#kelebihan-trading-menggunakan-robot)[- Kekurangan Trading Menggunakan Robot](#kekurangan-trading-menggunakan-robot)
-* [**Penipuan dengan Kedok Robot Trading**](https://landx.id/blog/amankah-robot-trading/#penipuan-dengan-kedok-robot-trading)
-* [**Belajar dari Kasus Sunton Capital**](https://landx.id/blog/amankah-robot-trading/#belajar-dari-kasus-sunton-capital)
-* [**Kesimpulan**](https://landx.id/blog/amankah-robot-trading/#kesimpulan)
-
----
-
 ## Apa Itu Robot Trading?
 
 Pertama-tama, mari kita bahas dari hal yang paling dasar yaitu memahami apa itu robot trading sebenarnya.
