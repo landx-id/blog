@@ -21,9 +21,8 @@ jobs:
       #     username: ${{ secrets.GHCR_USERNAME }}
       #     password: ${{ secrets.GITHUB_TOKEN }}
 
-      - name: Sync repository
+      - uses: net-engine/github-repository-sync-action@v1
         run: sudo apt-get install -y git
-        uses: net-engine/github-repository-sync-action@v1
         with:
           ssh_private_key: ${{ secrets.SSH_PRIVATE_KEY }}
           target_repo_url: git@code.landx.id:landx/blog.git
