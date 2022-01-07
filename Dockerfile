@@ -7,4 +7,4 @@ COPY . .
 
 RUN npm install
 RUN hugo version
-CMD [ "npm", "build" ]
+CMD [ "npm", "run", "build" ]
