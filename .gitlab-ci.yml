@@ -1,0 +1,44 @@
+.for_release:
+  environment:
+    name: release
+  variables:
+    DOCKER_IMAGE_TAG: latest
+  only:
+    - main
+
+.build:
+  image: docker:stable
+  services:
+    - docker:19-dind
+  script:
+    - docker login -u ${CI_REGISTRY_USER} -p ${CI_REGISTRY_PASSWORD} ${CI_REGISTRY}
+    - docker pull ${CI_REGISTRY_IMAGE}:builder.${DOCKER_IMAGE_TAG} || true
+    - docker pull ${CI_REGISTRY_IMAGE}:${DOCKER_IMAGE_TAG} || true
+    - docker build
+        --cache-from ${CI_REGISTRY_IMAGE}:builder.${DOCKER_IMAGE_TAG}
+        --build-arg SSH_PRIVATE_KEY="$(cat $READ_ONLY_PRIV_KEY)"
+        --tag ${CI_REGISTRY_IMAGE}:builder.${DOCKER_IMAGE_TAG}
+        --target builder
+        .
+    - docker build
+        --cache-from ${CI_REGISTRY_IMAGE}:builder.${DOCKER_IMAGE_TAG}
+        --cache-from ${CI_REGISTRY_IMAGE}:${DOCKER_IMAGE_TAG}
+        --build-arg SSH_PRIVATE_KEY="$(cat $READ_ONLY_PRIV_KEY)"
+        --tag ${CI_REGISTRY_IMAGE}:${DOCKER_IMAGE_TAG}
+        --label org.label-schema.schema-version="1.0"
+        --label org.label-schema.vcs-url="${CI_PROJECT_URL}.git"
+        --label org.label-schema.vcs-ref="${CI_COMMIT_SHA}"
+        .
+    - docker push ${CI_REGISTRY_IMAGE}:${DOCKER_IMAGE_TAG}
+    - docker push ${CI_REGISTRY_IMAGE}:builder.${DOCKER_IMAGE_TAG}
+
+.prepare_release:
+  extends: .build
+  stage: build
+  before_script:
+    - DOCKER_IMAGE_TAG=${CI_COMMIT_TAG}
+
+release:publish:
+  extends:
+    - .prepare_release
+    - .for_release
