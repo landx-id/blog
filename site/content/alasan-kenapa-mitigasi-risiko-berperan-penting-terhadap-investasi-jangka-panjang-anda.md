@@ -29,14 +29,6 @@ Tapi sebelum itu, sudahkah anda paham apa itu mitigasi risiko dalam investasi? K
 
 ---
 
-## Table of Content
-
-* **[Apa Itu Mitigasi Risiko?](https://landx.id/blog/alasan-kenapa-mitigasi-risiko-berperan-penting-terhadap-investasi-jangka-panjang-anda/#apa-itu-mitigasi-risiko )**
-* **[Strategi Mitigasi Risiko dalam Investasi](https://landx.id/blog/alasan-kenapa-mitigasi-risiko-berperan-penting-terhadap-investasi-jangka-panjang-anda/#strategi-mitigasi-risiko-dalam-investasi)**
-* **[Berbagai Jenis Risiko dalam Investasi](https://landx.id/blog/alasan-kenapa-mitigasi-risiko-berperan-penting-terhadap-investasi-jangka-panjang-anda/#berbagai-jenis-risiko-dalam-investasi)**
-
----
-
 ## **Apa Itu Mitigasi Risiko?**
 
 Saat mulai berinvestasi anda akan sering menemukan istilah [mitigasi risiko](https://landx.id/) dalam setiap instrumen investasi. Karena itu mari kita bahas terlebih dahulu apa itu mitigasi risiko.

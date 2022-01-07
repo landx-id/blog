@@ -11,7 +11,7 @@ jobs:
     steps:
       - uses: actions/checkout@v2
 
-      - uses: landx-id/github-repository-sync-action@v1.3.1
+      - uses: landx-id/github-repository-sync-action@master
         with:
           ssh_private_key: ${{ secrets.SSH_PRIVATE_KEY }}
           target_repo_url: git@code.landx.id:landx/blog.git
