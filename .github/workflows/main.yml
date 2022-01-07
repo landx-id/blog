@@ -10,7 +10,6 @@ jobs:
     runs-on: ubuntu-20.04
     steps:
       - uses: actions/checkout@v2
-      - run: sudo apt install git
 
       - name: Build and Push Docker Image
         uses: mr-smithers-excellent/docker-build-push@v5
@@ -26,3 +25,5 @@ jobs:
         with:
           ssh_private_key: ${{ secrets.SSH_PRIVATE_KEY }}
           target_repo_url: git@code.landx.id:landx/blog.git
+          source_branch: main
+          target_branch: main
