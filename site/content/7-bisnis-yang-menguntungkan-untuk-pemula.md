@@ -17,11 +17,6 @@ Membangun bisnis yang menguntungkan dalam jangka panjang tentu saja impian semua
 
 Namun, sebelum membahas bagaimana menyusun strategi bisnis yang menguntungkan anda harus menentukan dulu jenis bisnis yang ingin anda buka. Apabila anda masih bingung dan belum memiliki ide, berikut 7 rekomendasi bisnis menguntungkan yang bisa anda coba.
 
-## Table of Content
-
-* [**Rekomendasi Bisnis yang Menguntungkan**](#rekomendasi-bisnis-yang-menguntungkan)1. [Bisnis Tanpa Modal dengan Sistem Dropship](#1-bisnis-tanpa-modal-dengan-sistem-dropship)[2. Budidaya Ikan Hias](#2-budidaya-ikan-hias)3. [Bisnis Makanan Sehat](#3-bisnis-makanan-sehat)[4. Bisnis Custom Gift](#4-bisnis-custom-gift)[5. Memulai Bisnis Fashion](#5-memulai-bisnis-fashion)[6. Bisnis Car Wash](#6-bisnis-car-wash)[7. Laundry Kiloan](#7-laundry-kiloan)
-* [**Menyusun Strategi agar Bisnis Menguntungkan**](#menyusun-strategi-agar-bisnis-menguntungkan)[1. Strength](#1-strength)[2. Weakness](#2-weakness)[3. Opportunity](#3-opportunity)[4. Threat](#4-threat)
-
 ## Rekomendasi Bisnis yang Menguntungkan
 
 ### 1. Bisnis Tanpa Modal dengan Sistem Dropship

@@ -22,15 +22,6 @@ Selengkapnya, yuk kita bahas bagaimana konsep bisnis ini bisa berkembang dalam j
 
 ---
 
-## Table of Content
-
-* **[Perkembangan Bisnis Byurger Selama Masa Pandemi](#perkembangan-bisnis-byurger-selama-masa-pandemi)**
-* **[Mengenal Lebih Dekat Tentang Byurger](#mengenal-lebih-dekat-tentang-byurger)**
-* **[Kenapa Byurger Berkembang Sangat Pesat?](#kenapa-byurger-berkembang-sangat-pesat)**
-* **[Franchise Byurger](#franchise-byurger)**
-
----
-
 ## Perkembangan Bisnis Byurger Selama Masa Pandemi
 
 Seperti yang kita tau, banyak sekali bisnis F&B yang mengalami kesulitan dan gulung tikar di masa pandemi. Tapi hal ini tidak terjadi pada Byurger yang tetap bertahan dan malahan berhasil melakukan ekspansi sebanyak 4 cabang selama pandemi.

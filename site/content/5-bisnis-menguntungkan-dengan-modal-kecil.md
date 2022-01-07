@@ -19,10 +19,6 @@ Karena itu, untuk menemukan bisnis terbaik untuk kondisi seperti saat ini anda p
 
 Untuk anda yang belum memiliki ide, berikut beberapa ide [bisnis modal kecil di masa pandemi](https://landx.id/project/index.html) yang bisa anda coba.
 
-## Table of Content
-
-* [**5 Pilihan Bisnis Modal Kecil**  **di Masa Pandemi**](#5-pilihan-bisnis-modal-kecil-di-masa-pandemi)[1.](#1-bisnis-kebutuhan-bahan-pokok) **[Bisnis Kebutuhan Bahan Pokok](#1-bisnis-kebutuhan-bahan-pokok)****[2. Franchise Delivery Service](#2-franchise-delivery-service)****[3. Makanan dan Minuman Sehat](#3-makanan-dan-minuman)****[4. Bisnis Laundry](#4-bisnis-laundry)****[5. Cloud Kitchen](#5-cloud-kitchen)**
-
 ## 5 Pilihan Bisnis Modal Kecil di Masa Pandemi
 
 Untuk anda yang sedang mau memulai bisnis di masa pandemi, berikut beberapa bisnis ide bisnis modal kecil yang bisa anda coba.

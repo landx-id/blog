@@ -17,18 +17,6 @@ Menyiapkan investasi yang menguntungkan pun kini tidak harus dilakukan dengan mo
 
 Pilihan investasi untuk masa depan anda pun kini kian beragam sehingga anda memiliki pilihan berbagai jenis instrumen investasi anda. Berikut beberapa pilihan investasi menguntungkan untuk masa depan anda.
 
-## Table of Content
-
-* ******[Investasi Properti](#investasi-properti)******
-* ******[Investasi Agribisnis](#investasi-agribisnis)******
-* **[Investasi Emas](#investasi-emas)**
-* **[Investasi Saham](#investasi-saham )**
-* **[Investasi Reksa Dana](#investasi-reksa-dana )**
-* **[Investasi Obligasi](#investasi-obligasi ) **
-* **[Investasi Deposito](#investasi-deposito)**
-* **[Investasi P2P Lending](#investasi-p2p-lending)**
-* ******[Equity Crowdfunding]( #equity-crowdfunding)******
-
 ## Investasi Properti
 
 Properti bisa menjadi pilihan investasi jangka panjang anda yang akan memberikan anda keuntungan di masa mendatang. Memilih properti yang tepat akan memberikan anda keuntungan jangka panjang yang bisa membantu anda membangun aset yang menguntungkan di masa mendatang.

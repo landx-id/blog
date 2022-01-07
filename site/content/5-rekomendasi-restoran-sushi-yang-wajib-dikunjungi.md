@@ -28,18 +28,6 @@ Dari banyak restoran masakan Jepang di Jakarta, berikut rekomendasi 5 restoran s
 
 ---
 
-## Table of Content
-
-1. ******[Sushi Tei](#1-sushi-tei)******
-2. ******[Sushi Go!](#2-sushi-go)******
-3. ******[3 Wise Monkey](#3-3-wise-monkey)******
-4. ******Genki Sushi******
-5. **[****Okinawa**** S****ushi****](#5-okinawa-sushi)**
-
-**[Jadi Pemilik Okinawa Sushi Cuma dengan Modal 1 Juta](#jadi-pemilik-okinawa-sushi-cuma-dengan-modal-1-juta)**
-
----
-
 ### 1. Sushi Tei
 
 Sushi Tei merupakan jaringan restoran jepang paling populer di Singapura. Sejak tahun 2003 Sushi Tei meluaskan cabangnya di berbagai kota besar di Indonesia, dan khusus kota Jakarta sendiri terdapat 27 cabang restoran Sushi Tei yang mudah ditemukan di mal-mal besar Jakarta.

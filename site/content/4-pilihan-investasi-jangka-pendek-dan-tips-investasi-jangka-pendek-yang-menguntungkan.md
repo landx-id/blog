@@ -27,18 +27,6 @@ Sebelum membahas berbagai jenis investasi jangka pendek, mari terlebih dahulu ki
 
 ---
 
-## Table of Content
-
-* [**Investasi Jangka Pendek**  ](#investasi-jangka-pendek )
-* **[Pilihan Investasi Jangka Pendek](#pilihan-investasi-jangka-pendek )**
-* **[Deposito](#deposito)**
-* **[Reksa Dana Pasar Uang](#reksa-dana-pasar-uang)**
-* **[Saham](#saham )**
-* **[Peer to Peer Lending](#peer-to-peer-lending)**
-* **[Tips Investasi Jangka Pendek](#tips-investasi-jangka-pendek)**
-
----
-
 ## Investasi Jangka Pendek
 
 
