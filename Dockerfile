@@ -8,4 +8,3 @@ COPY . .
 RUN npm install
 RUN hugo version
 CMD [ "npm", "start" ]
-
