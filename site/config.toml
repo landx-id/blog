@@ -1,7 +1,10 @@
-baseurl = "/"
+baseurl = "/blog"
 languageCode = "en-us"
 languageLang = "en"
 title = "Blog"
+
+[Params]
+  pathUrl = 'blog'
 
 # RSS, categories and tags disabled for an easy start
 # See configuration options for more details: 
