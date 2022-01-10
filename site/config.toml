@@ -1,10 +1,10 @@
-baseurl = "/blog"
+baseurl = "/netifly"
 languageCode = "en-us"
 languageLang = "en"
 title = "LandX"
 
 [Params]
-  pathUrl = 'blog'
+  pathUrl = 'netifly'
 
 # RSS, categories and tags disabled for an easy start
 # See configuration options for more details: 
