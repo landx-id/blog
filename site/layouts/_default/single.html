@@ -1,66 +1,6 @@
 {{ define "main" }}
 
-<div class="mw6 center ph3 pv4 post-container">
-  <h1 class="f2 lh-title b mb3">{{.Title}}</h1>
-
-  <div class="flex justify-between grey-3">
-    <p>{{ .Date.Format "Monday, 2 Jan 2006" }}</p>
-    <p>Read in {{ .ReadingTime }} minutes</p>
-  </div>
-  
-  <div class="terms-container">
-    <div class="chip-container in-content">
-      {{ range .Params.tags }}
-      <a href="/tags/{{. | urlize }}" class="chip">#{{.}}</a>
-      {{ end }}
-    </div>
-  </div>
-
-  <div class="cms mw6">
-    {{ if .Params.image }}<img src="{{ .Params.image }}" alt="{{ .Title }}" />{{ end }}
-    <p class="description">{{ .Description }}</p>
-    <div class="toc-container">
-      <h2>Table Of Contents</h2>
-      {{.TableOfContents}}
-    </div>
-    {{ .Content }}
-  </div>
-
-  <div class="paginator-container" style="padding-top: 32px; border-top: 1px solid #ccd7df">
-    {{with .Next}}
-    <a title='Previous Page' href="{{.Permalink}}">
-      <i class="fas fa-arrow-left"></i>
-      <span>Previous</span>
-    </a>
-    {{ else }}
-    <div>&nbsp;</div>
-    {{ end }}
-
-    {{with .Prev}}
-    <a title='Previous Page' href="{{.Permalink}}">
-      <span>Next</span>
-      <i class="fas fa-arrow-right"></i>
-    </a>
-    {{ else }}
-    <div>&nbsp;</div>
-    {{ end }}
-  </div>
-</div>
-
-<script>
-  window.addEventListener('DOMContentLoaded', () => {
-    const toc = document.getElementById("TableOfContents");
-    const anchor = toc.getElementsByTagName('a')
-    const loc = window.location
-    for (let i = 0; i < anchor.length; i++) {
-      anchor[i].href = loc.origin + loc.pathname + anchor[i].hash
-    }
-
-    const headings = document.querySelectorAll("h1[id], h2[id], h3[id], h4[id], h5[id], h6[id")
-    headings.forEach(item => {
-      item.style.scrollMarginTop = '3em'
-    })
-  });
-</script>
+{{ partial "jumbotron" (dict "imageUrl" "/img/7.jpg" "title" "This is where the heading goes" "subtitle" "This is where the subtitle goes") }}
+{{ .Content }}
 
 {{ end }}
