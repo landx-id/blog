@@ -11,7 +11,7 @@
   <div class="terms-container">
     <div class="chip-container in-content">
       {{ range .Params.tags }}
-      <a href="/tags/{{. | urlize }}" class="chip">#{{.}}</a>
+      <a href="{{$.Site.Params.pathUrl}}/tags/{{. | urlize }}" class="chip">#{{.}}</a>
       {{ end }}
     </div>
   </div>
