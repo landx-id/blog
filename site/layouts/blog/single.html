@@ -10,7 +10,7 @@
   
   <div class="terms-container">
     <div class="chip-container in-content">
-      {{ range .Params.tags }}
+      {{ range .Params.tag }}
       <a href="{{$.Site.Params.pathUrl}}/tags/{{. | urlize }}" class="chip">#{{.}}</a>
       {{ end }}
     </div>
@@ -18,7 +18,7 @@
 
   <div class="cms mw6">
     {{ if .Params.image }}<img src="{{ .Params.image }}" alt="{{ .Title }}" />{{ end }}
-    <p class="description">{{ .Description }}</p>
+    <p class="description">{{ .Params.intro }}</p>
     <div class="toc-container">
       <h2>Table Of Contents</h2>
       {{.TableOfContents}}

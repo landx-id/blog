@@ -1,11 +1,18 @@
 <head>
+	{{ $sitetitle := "LandX Blog" }}
 
+	{{ with .Params.metaTitle }}
+	<title>{{ . }} | {{ $.Site.Title }}</title>
+	{{ else }}
 	<title>{{ .Title }} | {{ $.Site.Title }}</title>
+	{{ end }}
+
 
 	{{ $stylesheet := .Site.Data.webpack.main }}
 	{{ with $stylesheet.css }}
 	<link href="{{ relURL . }}" rel="stylesheet">
 	{{ end }}
+
 
 	<meta charset="utf-8">
 	<meta http-equiv="x-ua-compatible" content="ie=edge">
@@ -27,8 +34,7 @@
 	<meta property="og:url" content="/">
 	<meta property="og:image" content="{{.Site.Params.pathUrl}}/img/logo-1.png">
 
-	<meta name="description"
-		content="LandX adalah platform equity crowdfunding terpercaya yang telah berizin dan diawasi OJK. Equity crowdfunding merupakan skema investasi ke UKM potensial dengan modal 1 Jutaan">
+	<meta name="description" content="{{ .Params.description }}">
 
 	<!-- IMPORT GOOGLE FONTS AND FONT AWESOME ICONS -->
 	<link rel="preconnect" href="https://fonts.googleapis.com">
