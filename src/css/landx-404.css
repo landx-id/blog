@@ -1,0 +1,15 @@
+.container-404{
+    height: calc(100vh - (88px + 49px));
+    margin-top: calc(88px + 49px);
+    width: 100vw;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    gap: 12px;
+    color: #5e798d;
+}
+
+.container-404 .main {
+    font-size: 3rem;
+}

@@ -211,13 +211,15 @@
   font-size: 0.7rem;
   z-index: 2;
   cursor: pointer;
+  text-decoration: none;
+  height: 49px;
 
   /* height: 0px; */
   /* overflow-y: hidden; */
   /* transition: height 0.5s ease-in-out; */
 }
 
-.category-section div:hover {
+.category-section a:hover {
   color: #415361;
 }
 
@@ -235,6 +237,14 @@
 
 @media (max-width: 768px) {
   .in-desktop {
+    display: none;
+  }
+
+  .category-section {
+    gap: 12px;
+    font-size: 0.65rem;
+  }
+  .category-section i {
     display: none;
   }
 }

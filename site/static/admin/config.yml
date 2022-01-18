@@ -60,7 +60,7 @@ collections: # A list of collections the CMS should be able to edit
           # - {label: "Values", name: "values", widget: "object", fields: [
           #     {label: "Heading", name: "heading", widget: string},
           #     {label: "Text", name: "text", widget: "text"}]}
-      - file: "site/content/tag/_index.md"
+      - file: "site/content/blog/tag/_index.md"
         label: "Tag Page"
         name: "tag"
         fields:
@@ -79,12 +79,22 @@ collections: # A list of collections the CMS should be able to edit
           #     - label: Text
           #       name: text
           #       widget: text
-      - file: "site/content/category/_index.md"
+      - file: "site/content/blog/category/_index.md"
         label: "Category Page"
         name: "category"
         fields:
           - { label: Meta Title, name: title, widget: string }
           - { label: Meta Description, name: description, widget: text }
+      - file: "site/content/partials/landx-header/_index.md"
+        label: "Header Categories"
+        name: "headerCategories"
+        fields:
+          - {
+              label: "Highlighted Categories",
+              name: "headerCategory",
+              widget: "list",
+              field: { name: headerCategory, label: Header Category, widget: string },
+            }
       # - file: "site/content/products/_index.md"
       #   label: "Products Page"
       #   name: "products"
