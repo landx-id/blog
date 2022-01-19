@@ -12,7 +12,7 @@ collections: # A list of collections the CMS should be able to edit
     label: "Tags"
     folder: 'site/content/tag/'
     create: true
-    path: 'niceman/index.md'
+    path: "{{slug}}/_index"
     fields:
       - { label: Tag Name, name: title, widget: string, pattern: ['^.{0,70}$', "Can't be more than 70 Characters"] }
       - { label: Meta Title, name: metaTitle, widget: string, pattern: ['^.{0,70}$', "Can't be more than 70 Characters"] }
