@@ -6,14 +6,23 @@ media_folder: "site/static/img" # Folder where user uploaded files should go
 public_folder: "img"
 
 collections: # A list of collections the CMS should be able to edit
-  - name: "Tag Pages"
-    label: "Tag Pages"
+  - name: "Tags"
+    label: "Tags"
     folder: 'site/content/tag'
     create: true
     fields:
-      - { label: Tag Name, name: tagName, widget: string }
-      - { label: Meta Title, name: title, widget: string }
-      - { label: Meta Description, name: description, widget: text }
+      - { label: Tag Name, name: title, widget: string, pattern: ['^.{0,70}$', "Can't be more than 70 Characters"] }
+      - { label: Meta Title, name: metaTitle, widget: string, pattern: ['^.{0,70}$', "Can't be more than 70 Characters"] }
+      - { label: Meta Description, name: description, widget: text, pattern: ['^.{0,150}$', "Can't be more than 150 Characters"]}
+  - name: "Categories"
+    label: "Categories"
+    folder: 'site/content/category'
+    create: true
+    fields:
+      - { label: Category Name, name: title, widget: string, pattern: ['^.{0,70}$', "Can't be more than 70 Characters"] }
+      - { label: Meta Title, name: metaTitle, widget: string, pattern: ['^.{0,70}$', "Can't be more than 70 Characters"] }
+      - { label: Meta Description, name: description, widget: text, pattern: ['^.{0,150}$', "Can't be more than 150 Characters"]}
+  
   - name: "blog" # Used in routes, ie.: /admin/collections/:slug/edit
     file: "site/content/blog/_index.md"
     label: "Blog" # Used in the UI, ie.: "New Post"
