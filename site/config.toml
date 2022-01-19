@@ -1,11 +1,11 @@
-# baseurl = "/netifly"
-baseurl = "/"
+baseurl = "/netifly"
+# baseurl = "/"
 languageCode = "en-us"
 languageLang = "en"
 title = "LandX"
 
-# [Params]
-#   pathUrl = 'netifly'
+[Params]
+  pathUrl = 'netifly'
 
 [taxonomies]
   tag = "tag"
