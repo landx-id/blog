@@ -12,7 +12,7 @@ collections: # A list of collections the CMS should be able to edit
     label: "Tags"
     folder: 'site/content/tag'
     slug: '{{ fields.title }}'
-    path: '{{slug}}/index'
+    # path: '{{slug}}/index'
     create: true
     fields:
       - { label: Tag Name, name: title, widget: string, pattern: ['^.{0,70}$', "Can't be more than 70 Characters"] }
