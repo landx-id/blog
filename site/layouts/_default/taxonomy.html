@@ -1,6 +1,9 @@
 {{ define "main" }}
 {{ partial "jumbotron" (dict "imageUrl" "/img/header_background.webp" "title" .Title "path" .Site.Params.pathUrl) }}
 
+
+<div>{{.Data.Term}}</div>
+<div>yeah</div>
 <div class="mw8 center">
   <ul class="flex-ns flex-wrap mhn1-ns pa3">
     {{ range .Data.Pages }}

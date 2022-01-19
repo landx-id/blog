@@ -8,6 +8,11 @@
 	{{ end }}
 
 
+	<meta name="description" content="{{ .Params.description }}">
+
+
+
+
 	{{ $stylesheet := .Site.Data.webpack.main }}
 	{{ with $stylesheet.css }}
 	<link href="{{ relURL . }}" rel="stylesheet">
@@ -34,7 +39,6 @@
 	<meta property="og:url" content="/">
 	<meta property="og:image" content="{{.Site.Params.pathUrl}}/img/logo-1.png">
 
-	<meta name="description" content="{{ .Params.description }}">
 
 	<!-- IMPORT GOOGLE FONTS AND FONT AWESOME ICONS -->
 	<link rel="preconnect" href="https://fonts.googleapis.com">
