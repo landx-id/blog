@@ -5,12 +5,14 @@ backend:
 media_folder: "site/static/img" # Folder where user uploaded files should go
 public_folder: "img"
 
+# local_backend: true
+
 collections: # A list of collections the CMS should be able to edit
   - name: "Tags"
     label: "Tags"
     folder: 'site/content/tag/'
-    slug: /{{slug}}/index.md
     create: true
+    path: '{{slug}}/index.md'
     fields:
       - { label: Tag Name, name: title, widget: string, pattern: ['^.{0,70}$', "Can't be more than 70 Characters"] }
       - { label: Meta Title, name: metaTitle, widget: string, pattern: ['^.{0,70}$', "Can't be more than 70 Characters"] }
