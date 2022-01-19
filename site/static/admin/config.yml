@@ -11,7 +11,7 @@ collections: # A list of collections the CMS should be able to edit
   - name: "tags"
     label: "Tags"
     folder: 'site/content/tag'
-    # slug: '{{fields.title}}'
+    slug: '{{ fields.title }}'
     # path: '{{slug}}/index.md'
     create: true
     fields:
