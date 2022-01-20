@@ -2,7 +2,7 @@
 author = "Gunawan Aldy"
 category = ["investasi", "landx", "properti"]
 date = 2019-04-02T08:50:48Z
-description = "Tidak selamanya memiliki investasi properti harus menggunakan modal besar. Banyak yang membuktikan jika investasi properti modal kecil bisa dilakukan."
+metaDescription = "Tidak selamanya memiliki investasi properti harus menggunakan modal besar. Banyak yang membuktikan jika investasi properti modal kecil bisa dilakukan."
 draft = false
 image = "https://accountgram-production.sfo2.cdn.digitaloceanspaces.com/landx_ghost/2019/05/Investasi-Properti-Modal-Kecil-yang-Perlu-Diketahui.jpg"
 slug = "investasi-properti-modal-kecil-yang-perlu-diketahui"

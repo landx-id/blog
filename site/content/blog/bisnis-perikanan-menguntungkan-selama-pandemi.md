@@ -2,7 +2,7 @@
 author = "Abdul Wahhab"
 category = ["bisnis investasi", "bisnis investasi online", "bisnis di masa pandemi"]
 date = 2021-08-23T09:23:20Z
-description = "Industri perikanan merupakan salah satu industri yang cenderung stabil bahkan semakin berkembang selama masa pandemi|Investasi ke membangun kapal cumi"
+metaDescription = "Industri perikanan merupakan salah satu industri yang cenderung stabil bahkan semakin berkembang selama masa pandemi|Investasi ke membangun kapal cumi"
 draft = false
 slug = "bisnis-perikanan-menguntungkan-selama-pandemi"
 tag = ["bisnis investasi", "bisnis investasi online", "bisnis di masa pandemi"]

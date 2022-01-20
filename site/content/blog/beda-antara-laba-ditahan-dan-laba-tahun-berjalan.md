@@ -2,7 +2,7 @@
 author = "Abdul Wahhab"
 category = ["laba tahun berjalan", "laba ditahan", "investasi saham"]
 date = 2021-07-07T06:14:36Z
-description = "Laba tahun berjalan merupakan istilah penting dalam investasi yang harus anda pahami. Pahami perbedaan antara laba tahun berjalan dengan laba ditahan......"
+metaDescription = "Laba tahun berjalan merupakan istilah penting dalam investasi yang harus anda pahami. Pahami perbedaan antara laba tahun berjalan dengan laba ditahan......"
 draft = false
 slug = "beda-antara-laba-ditahan-dan-laba-tahun-berjalan"
 tag = ["laba tahun berjalan", "laba ditahan", "investasi saham"]

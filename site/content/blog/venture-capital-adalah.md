@@ -2,7 +2,7 @@
 author = "Abdul Wahhab"
 category = ["venture capital", "hedge fund", "investasi bisnis"]
 date = 2021-06-14T04:53:09Z
-description = "Venture capital adalah lembaga keuangan yang mengelola pendanaan untuk disalurkan kepada berbagai perusahaan dengan potensi keuntungan jangka panjang"
+metaDescription = "Venture capital adalah lembaga keuangan yang mengelola pendanaan untuk disalurkan kepada berbagai perusahaan dengan potensi keuntungan jangka panjang"
 draft = false
 slug = "venture-capital-adalah"
 tag = ["venture capital", "hedge fund", "investasi bisnis"]

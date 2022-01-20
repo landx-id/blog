@@ -2,7 +2,7 @@
 author = "Abdul Wahhab"
 category = ["rasio keuangan", "rasio solvabilitas", "investasi saham", "tips investasi"]
 date = 2021-07-29T10:55:26Z
-description = "Memahami apa itu rasio solvabilitas dan bagaimana menggunakan rasio solvabilitas untuk membantu anda menemukan investasi terbaik|Rasio solvabilitas adalah.."
+metaDescription = "Memahami apa itu rasio solvabilitas dan bagaimana menggunakan rasio solvabilitas untuk membantu anda menemukan investasi terbaik|Rasio solvabilitas adalah.."
 draft = false
 slug = "rasio-solvabilitas-adalah"
 tag = ["rasio keuangan", "rasio solvabilitas", "investasi saham", "tips investasi"]

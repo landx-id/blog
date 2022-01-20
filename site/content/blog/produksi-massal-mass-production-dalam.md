@@ -2,7 +2,7 @@
 author = "Abdul Wahhab"
 category = ["Ximivogue Listing di LandX", "retail", "bisnis ritel"]
 date = 2021-11-05T04:40:51Z
-description = "Produksi massal adalah kegiatan produksi yang dilakukan dalam skala besar, cepat dan berulang terhadap suatu barang yang akan didistribusikan ke pasar"
+metaDescription = "Produksi massal adalah kegiatan produksi yang dilakukan dalam skala besar, cepat dan berulang terhadap suatu barang yang akan didistribusikan ke pasar"
 draft = false
 image = "https://images.unsplash.com/photo-1589793463357-5fb813435467?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxMTc3M3wwfDF8c2VhcmNofDN8fGZhY3Rvcnl8ZW58MHx8fHwxNjQwMTQxNjk3&ixlib=rb-1.2.1&q=80&w=1080"
 slug = "produksi-massal-mass-production-dalam"

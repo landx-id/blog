@@ -2,7 +2,7 @@
 author = "Abdul Wahhab"
 category = ["Cara Investasi Saham", "Equity Crowdfunding", "Investasi Menguntungkan", "Saham Online"]
 date = 2021-05-21T03:31:35Z
-description = "Simak tips bagaimana cara investasi saham dengan modal kecil yang menguntungkan untuk pemula. Pahami bagaimana cara investasi saham menguntungkan untuk anda"
+metaDescription = "Simak tips bagaimana cara investasi saham dengan modal kecil yang menguntungkan untuk pemula. Pahami bagaimana cara investasi saham menguntungkan untuk anda"
 draft = false
 slug = "tips-cara-investasi-saham-dengan-modal-kecil-untuk-pemula"
 tag = ["Cara Investasi Saham", "Equity Crowdfunding", "Investasi Menguntungkan", "Saham Online"]

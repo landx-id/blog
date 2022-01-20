@@ -2,7 +2,7 @@
 author = "Abdul Wahhab"
 category = ["bisnis investasi", "Investasi Menguntungkan", "Investasi modal kecil", "investasi online", "Equity Crowdfunding", "urun dana"]
 date = 2021-04-21T03:43:10Z
-description = "Membangun aset dari nol merupakan sesuatu hal yang sulit untuk dilakukan, namun anda bisa mulai berinvestasi dengan urun dana untuk aset jangka panjang anda"
+metaDescription = "Membangun aset dari nol merupakan sesuatu hal yang sulit untuk dilakukan, namun anda bisa mulai berinvestasi dengan urun dana untuk aset jangka panjang anda"
 draft = false
 image = "https://images.unsplash.com/photo-1542323228-002ac256e7b8?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxMTc3M3wwfDF8c2VhcmNofDE1fHxDUk9XRHxlbnwwfHx8fDE2MzkwNDU0MzE&ixlib=rb-1.2.1&q=80&w=1080"
 slug = "memulai-investasi-urun-dana-cara-membangun-aset-investasi-jangka-panjang-dengan-urun-dana"

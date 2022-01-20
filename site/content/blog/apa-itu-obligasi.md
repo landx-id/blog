@@ -2,7 +2,7 @@
 author = "Abdul Wahhab"
 category = ["obligasi", "instrumen pasar modal", "investasi jangka panjang", "pilihan investasi", "Securities Crowdfunding untuk Pengembangan UMKM di Indonesia"]
 date = 2021-08-07T19:25:28Z
-description = "Obligasi adalah surat utang yang merupakan salah satu instrumen pasar modal yang bisa dijadikan pilihan investasi jangka panjang. Berbagai jenis obligasi"
+metaDescription = "Obligasi adalah surat utang yang merupakan salah satu instrumen pasar modal yang bisa dijadikan pilihan investasi jangka panjang. Berbagai jenis obligasi"
 draft = false
 slug = "apa-itu-obligasi"
 tag = ["obligasi", "instrumen pasar modal", "investasi jangka panjang", "pilihan investasi", "Securities Crowdfunding untuk Pengembangan UMKM di Indonesia"]

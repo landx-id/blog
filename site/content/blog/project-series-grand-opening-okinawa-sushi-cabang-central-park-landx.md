@@ -2,7 +2,7 @@
 author = "Vlora Riyandi"
 category = ["Okinawa Sushi", "Bisnis F&B", "franchise f&b", "Bisnis Modal Kecil", "Memulai usaha", "Franchise Makanan"]
 date = 2021-12-10T20:05:17Z
-description = "Okinawa Sushi baru saja membuka cabang baru di Central Park yang merupakan patungan bisnis para investor melalui sistem equity crowdfunding di LandX"
+metaDescription = "Okinawa Sushi baru saja membuka cabang baru di Central Park yang merupakan patungan bisnis para investor melalui sistem equity crowdfunding di LandX"
 draft = false
 image = "https://accountgram-production.sfo2.cdn.digitaloceanspaces.com/landx_ghost/2021/12/jadi-pemilik-okinawa-sushi-modal-1-juta-.jpg"
 slug = "project-series-grand-opening-okinawa-sushi-cabang-central-park-landx"

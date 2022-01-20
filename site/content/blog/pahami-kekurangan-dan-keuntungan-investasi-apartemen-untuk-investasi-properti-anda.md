@@ -2,7 +2,7 @@
 author = "Abdul Wahhab"
 category = ["bisnis investasi", "bisnis investasi online", "crowdfunding indonesia", "investasi bagi hasil", "investasi bisnis", "Investasi Menguntungkan"]
 date = 2021-04-26T02:32:53Z
-description = "Keterbatasan lahan membuat apartemen menjadi solusi hunian masyarakat, karena itu pahami risiko dan investasi apartemen untuk properti jangka panjang anda"
+metaDescription = "Keterbatasan lahan membuat apartemen menjadi solusi hunian masyarakat, karena itu pahami risiko dan investasi apartemen untuk properti jangka panjang anda"
 draft = false
 image = "https://images.unsplash.com/photo-1560518883-ce09059eeffa?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxMTc3M3wwfDF8c2VhcmNofDF8fHByb3BlcnR5fGVufDB8fHx8MTY0MDI4MzExMA&ixlib=rb-1.2.1&q=80&w=1080"
 slug = "pahami-kekurangan-dan-keuntungan-investasi-apartemen-untuk-investasi-properti-anda"

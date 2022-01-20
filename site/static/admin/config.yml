@@ -12,21 +12,35 @@ collections: # A list of collections the CMS should be able to edit
     label: "Tags"
     folder: 'site/content/tag'
     # slug: '{{ fields.title }}'
-    path: '{{slug}}/index.md'
+    path: '{{slug}}/_index'
     create: true
     fields:
       - { label: Tag Name, name: title, widget: string, pattern: ['^.{0,70}$', "Can't be more than 70 Characters"] }
       - { label: Meta Title, name: metaTitle, widget: string, pattern: ['^.{0,70}$', "Can't be more than 70 Characters"] }
-      - { label: Meta Description, name: description, widget: text, pattern: ['^.{0,150}$', "Can't be more than 150 Characters"]}
-  - name: "Categories"
+      - { label: Meta Description, name: metaDescription, widget: text, pattern: ['^.{0,150}$', "Can't be more than 150 Characters"]}
+      - name: featuredImage
+        label: Featured image
+        widget: object
+        fields:
+          - {name: src, label: Image, widget: image}
+          - {name: alt, label: Alt text, widget: string}
+          - {name: title, label: Title, widget: string}
+  - name: "categories"
     label: "Categories"
     folder: 'site/content/category'
+    path: '{{slug}}/_index'
     create: true
     fields:
       - { label: Category Name, name: title, widget: string, pattern: ['^.{0,70}$', "Can't be more than 70 Characters"] }
       - { label: Meta Title, name: metaTitle, widget: string, pattern: ['^.{0,70}$', "Can't be more than 70 Characters"] }
-      - { label: Meta Description, name: description, widget: text, pattern: ['^.{0,150}$', "Can't be more than 150 Characters"]}
-  
+      - { label: Meta Description, name: metaDescription, widget: text, pattern: ['^.{0,150}$', "Can't be more than 150 Characters"]}
+      - name: featuredImage
+        label: Featured image
+        widget: object
+        fields:
+          - {name: src, label: Image, widget: image}
+          - {name: alt, label: Alt text, widget: string}
+          - {name: title, label: Title, widget: string}
   - name: "blog" # Used in routes, ie.: /admin/collections/:slug/edit
     file: "site/content/blog/_index.md"
     label: "Blog" # Used in the UI, ie.: "New Post"
@@ -47,7 +61,7 @@ collections: # A list of collections the CMS should be able to edit
         }
       - { label: "Title", name: "title", widget: "string", pattern: ['^.{0,70}$', "Can't be more than 70 Characters"]}
       - { label: "Meta Title", name: "metaTitle", widget: "string", pattern: ['^.{0,70}$', "Can't be more than 70 Characters"]}
-      - { label: "Meta Description", name: "description", widget: "string", pattern: ['^.{0,150}$', "Can't be more than 150 Characters"]}
+      - { label: "Meta Description", name: "metaDescription", widget: "string", pattern: ['^.{0,150}$', "Can't be more than 150 Characters"]}
       - { label: "Publish Date", name: "date", widget: "datetime" }
       - { label: "Intro Blurb", name: "intro", widget: "text" }
       - { label: "Image", name: "image", widget: "image", required: true }
@@ -67,7 +81,7 @@ collections: # A list of collections the CMS should be able to edit
         name: "blog"
         fields:
           - { label: Meta Title, name: title, widget: string }
-          - { label: Meta Description, name: description, widget: text }
+          - { label: Meta Description, name: metaDescription, widget: text }
           # - {label: Image, name: image, widget: image}
           # - {label: "Blurb", name: blurb, widget: object, fields: [
           #     {label: "Heading", name: "heading", widget: string},
@@ -86,7 +100,7 @@ collections: # A list of collections the CMS should be able to edit
         name: "tag"
         fields:
           - { label: Meta Title, name: title, widget: string }
-          - { label: Meta Description, name: description, widget: text }
+          - { label: Meta Description, name: metaDescription, widget: text }
           # - { label: Title, name: title, widget: string }
           # - { label: Logo, name: logo, widget: image }
           # - { label: Body, name: body, widget: markdown }
@@ -105,7 +119,7 @@ collections: # A list of collections the CMS should be able to edit
         name: "category"
         fields:
           - { label: Meta Title, name: title, widget: string }
-          - { label: Meta Description, name: description, widget: text }
+          - { label: Meta Description, name: metaDescription, widget: text }
       - file: "site/content/partials/landx-header/_index.md"
         label: "Header Categories"
         name: "headerCategories"

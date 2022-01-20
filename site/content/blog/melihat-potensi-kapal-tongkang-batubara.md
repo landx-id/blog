@@ -2,7 +2,7 @@
 author = "Vlora Riyandi"
 category = ["Kapal Tongkang", "bisnis investasi", "bisnis masa pandemi", "bisnis patungan", "Instrumen Investasi", "investasi dengan modal kecil", "Investasi Tahun 2022", "investasi terbaik", "bisnis jangka panjang", "bisnis menguntungkan", "Bisnis Modal Kecil"]
 date = 2021-12-10T06:37:52Z
-description = "Kapal tongkang atau barge berfungsi mengangkut barang bermuatan besar seperti batubara, kayu, pasir dan minyak. Kapal ini dibantu tugboat untuk mobilitasnya"
+metaDescription = "Kapal tongkang atau barge berfungsi mengangkut barang bermuatan besar seperti batubara, kayu, pasir dan minyak. Kapal ini dibantu tugboat untuk mobilitasnya"
 draft = false
 image = "https://images.unsplash.com/photo-1606605853156-e6e0181b7662?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxMTc3M3wwfDF8c2VhcmNofDJ8fGJhcmdlfGVufDB8fHx8MTYzODk0NzE0MQ&ixlib=rb-1.2.1&q=80&w=1080"
 slug = "melihat-potensi-kapal-tongkang-batubara"

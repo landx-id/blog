@@ -2,7 +2,7 @@
 author = "Abdul Wahhab"
 category = ["bisnis investasi", "crowdfunding indonesia", "crowdfunding properti", "investasi bisnis", "Situs Crowdfunding"]
 date = 2021-03-30T04:41:47Z
-description = "Saat mulai investasi bisnis, anda perlu memahami berbagai macam istilah yang digunakan dalam investasi untuk mempermudah proses investasi yang anda jalankan"
+metaDescription = "Saat mulai investasi bisnis, anda perlu memahami berbagai macam istilah yang digunakan dalam investasi untuk mempermudah proses investasi yang anda jalankan"
 draft = false
 image = "https://images.unsplash.com/photo-1536825211030-094de935f680?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxMTc3M3wwfDF8c2VhcmNofDIwfHxpbnZlc3RtZW50fGVufDB8fHx8MTYzODgxMjMzNA&ixlib=rb-1.2.1&q=80&w=1080"
 slug = "pahami-10-istilah-penting-dalam-investasi-agar-investasi-bisnis-anda-menjadi-lebih-mudah"

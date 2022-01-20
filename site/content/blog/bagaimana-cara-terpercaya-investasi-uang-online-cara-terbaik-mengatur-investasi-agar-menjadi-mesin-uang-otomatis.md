@@ -2,7 +2,7 @@
 author = "Abdul Wahhab"
 category = ["investasi bisnis", "investasi online", "investasi", "tips investasi", "Instrumen Investasi", "Investasi untuk Pemula", "investasi pemula"]
 date = 2021-03-23T02:57:49Z
-description = "Setiap orang tentu saja ingin memiliki mesin uang otomatis melalui investasi mereka. karena itu pelajari cara memilih investasi uang terpercaya "
+metaDescription = "Setiap orang tentu saja ingin memiliki mesin uang otomatis melalui investasi mereka. karena itu pelajari cara memilih investasi uang terpercaya "
 draft = false
 image = "https://images.unsplash.com/photo-1518458028785-8fbcd101ebb9?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxMTc3M3wwfDF8c2VhcmNofDl8fG1vbmV5JTIwbWFuYWdlbWVufGVufDB8fHx8MTYzODgxMTU2Mg&ixlib=rb-1.2.1&q=80&w=1080"
 slug = "bagaimana-cara-terpercaya-investasi-uang-online-cara-terbaik-mengatur-investasi-agar-menjadi-mesin-uang-otomatis"

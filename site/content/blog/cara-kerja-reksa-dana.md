@@ -2,7 +2,7 @@
 author = "Abdul Wahhab"
 category = ["cara kerja reksa dana", "reksa dana", "investasi jangka panjang"]
 date = 2021-06-11T03:32:54Z
-description = "Pahami cara kerja reksa dana agar anda bisa mendapatkan keuntungan dari investasi reksa dana yang anda lakukan. pahami bagaimana cara kerja reksa dana"
+metaDescription = "Pahami cara kerja reksa dana agar anda bisa mendapatkan keuntungan dari investasi reksa dana yang anda lakukan. pahami bagaimana cara kerja reksa dana"
 draft = false
 slug = "cara-kerja-reksa-dana"
 tag = ["cara kerja reksa dana", "reksa dana", "investasi jangka panjang"]

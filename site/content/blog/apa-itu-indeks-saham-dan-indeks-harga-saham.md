@@ -2,7 +2,7 @@
 author = "Abdul Wahhab"
 category = ["Cara Investasi Saham", "investasi saham", "investasi keuangan"]
 date = 2021-06-22T04:59:22Z
-description = "Pahami apa itu Indeks saham dan bagaimana menghitung indeks harga saham untuk membantu investasi yang anda lakukan. Berinvestasi untuk masa depan"
+metaDescription = "Pahami apa itu Indeks saham dan bagaimana menghitung indeks harga saham untuk membantu investasi yang anda lakukan. Berinvestasi untuk masa depan"
 draft = false
 slug = "apa-itu-indeks-saham-dan-indeks-harga-saham"
 tag = ["Cara Investasi Saham", "investasi saham", "investasi keuangan"]

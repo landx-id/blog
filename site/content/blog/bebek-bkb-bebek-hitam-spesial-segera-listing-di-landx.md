@@ -1,7 +1,7 @@
 +++
 author = "Abdul Wahhab"
 date = 2021-12-16T17:13:20Z
-description = ""
+metaDescription = ""
 draft = true
 slug = "bebek-bkb-bebek-hitam-spesial-segera-listing-di-landx"
 title = "Bebek BKB: Bebek Hitam Spesial Segera Listing di LandX!"

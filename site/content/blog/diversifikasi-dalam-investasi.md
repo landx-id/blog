@@ -2,7 +2,7 @@
 author = "Abdul Wahhab"
 category = ["diversifikasi dalam investasi", "investasi bisnis", "bisnis investasi online", "bisnis investasi terpercaya", "bisnis jangka panjang", "agio saham", "Equity Crowdfunding", "Securities Crowdfunding untuk Pengembangan UMKM di Indonesia", "tips investasi", "investasi saham"]
 date = 2021-10-05T13:35:02Z
-description = "diversifikasi adalah strategi yang dilakukan investor untuk memasukkan uang mereka ke dalam berbagai instrumen investasi agar keuntungan optimal"
+metaDescription = "diversifikasi adalah strategi yang dilakukan investor untuk memasukkan uang mereka ke dalam berbagai instrumen investasi agar keuntungan optimal"
 draft = false
 image = "https://images.unsplash.com/photo-1560472355-536de3962603?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxMTc3M3wwfDF8c2VhcmNofDQ4fHxpbnZlc3R8ZW58MHx8fHwxNjQwMTUwNTkz&ixlib=rb-1.2.1&q=80&w=1080"
 slug = "diversifikasi-dalam-investasi"

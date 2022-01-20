@@ -2,7 +2,7 @@
 author = "Abdul Wahhab"
 category = ["rasio keuangan", "price to sales ratio", "tips investasi"]
 date = 2021-07-20T10:17:27Z
-description = "Cara Menghitung Price to Sales Ratio yang bisa membantu anda memilih investasi terbaik yang menguntungkan untuk anda dalam jangka panjang"
+metaDescription = "Cara Menghitung Price to Sales Ratio yang bisa membantu anda memilih investasi terbaik yang menguntungkan untuk anda dalam jangka panjang"
 draft = false
 slug = "price-to-sales-ratio-adalah"
 tag = ["rasio keuangan", "price to sales ratio", "tips investasi"]

@@ -2,7 +2,7 @@
 author = "Abdul Wahhab"
 category = ["Investasi Menguntungkan", "memulai investasi menguntungkan", "investasi pemula", "Securities Crowdfunding untuk Pengembangan UMKM di Indonesia"]
 date = 2021-06-10T04:23:27Z
-description = "Dalam melakukan investasi, agar menguntungkan anda harus memperhatikan beberapa hal. Berikut hal yang harus diperhatikan agar investasi anda menguntungkan"
+metaDescription = "Dalam melakukan investasi, agar menguntungkan anda harus memperhatikan beberapa hal. Berikut hal yang harus diperhatikan agar investasi anda menguntungkan"
 draft = false
 slug = "memulai-investasi-menguntungkan"
 tag = ["Investasi Menguntungkan", "memulai investasi menguntungkan", "investasi pemula", "Securities Crowdfunding untuk Pengembangan UMKM di Indonesia"]

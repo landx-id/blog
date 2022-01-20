@@ -2,7 +2,7 @@
 author = "Abdul Wahhab"
 category = ["bisnis kosmetik", "franchise klinik kecantikan", "bisnis investasi", "investasi bisnis"]
 date = 2021-06-24T05:00:30Z
-description = "simak cara bisnis kosmetik menguntungkan yang bisa anda coba. berikut beberapa tips bisnis kosmetik menguntungkan yang bisa anda coba"
+metaDescription = "simak cara bisnis kosmetik menguntungkan yang bisa anda coba. berikut beberapa tips bisnis kosmetik menguntungkan yang bisa anda coba"
 draft = false
 slug = "bisnis-kosmetik-menguntungkan"
 tag = ["bisnis kosmetik", "franchise klinik kecantikan", "bisnis investasi", "investasi bisnis"]

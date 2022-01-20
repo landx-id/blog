@@ -2,7 +2,7 @@
 author = "Abdul Wahhab"
 category = ["investasi", "bisnis di masa pandemi", "tips investasi"]
 date = 2021-08-20T06:30:01Z
-description = "resesi adalah penurunan ekonomi yang terjadi selama dua kuartal berturut-turut dan depresi merupakan kondisi di mana resesi terjadi dalam jangka panjang"
+metaDescription = "resesi adalah penurunan ekonomi yang terjadi selama dua kuartal berturut-turut dan depresi merupakan kondisi di mana resesi terjadi dalam jangka panjang"
 draft = false
 slug = "perbedaan-depresi-resesi-dan-krisis-ekonomi"
 tag = ["investasi", "bisnis di masa pandemi", "tips investasi"]

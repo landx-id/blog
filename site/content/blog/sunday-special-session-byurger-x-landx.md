@@ -1,7 +1,7 @@
 +++
 author = "Abdul Wahhab"
 date = 2021-10-01T03:54:00Z
-description = "SEHARI ABIS 300 PORSI?!, DENGAN SEBULAN DAPAT RATUSAN JUTA? "
+metaDescription = "SEHARI ABIS 300 PORSI?!, DENGAN SEBULAN DAPAT RATUSAN JUTA? "
 draft = false
 image = "https://accountgram-production.sfo2.cdn.digitaloceanspaces.com/landx_ghost/2021/12/pexels-kezia-lynn-6205791_11zon-1.jpg"
 slug = "sunday-special-session-byurger-x-landx"

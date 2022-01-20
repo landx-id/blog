@@ -1,7 +1,7 @@
 +++
 author = "Abdul Wahhab"
 date = 2021-06-09T04:23:44Z
-description = ""
+metaDescription = ""
 draft = false
 slug = "obligasi-konversi"
 title = "Obligasi Konversi: Mengenal Apa Itu Obligasi Konversi dan Jenis-Jenis dari Instrumen Investasi Ini"

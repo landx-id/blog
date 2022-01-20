@@ -1,7 +1,7 @@
 +++
 author = "Khurin N. Imandini"
 date = 2021-12-29T15:04:26Z
-description = ""
+metaDescription = ""
 draft = true
 slug = "4-langkah-persiapan-utama-untuk-memulai-bisnis-coffee-shop"
 title = "4 Langkah Persiapan Utama untuk Memulai Bisnis Coffee Shop"

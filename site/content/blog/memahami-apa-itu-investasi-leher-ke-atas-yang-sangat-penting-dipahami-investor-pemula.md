@@ -2,7 +2,7 @@
 author = "Abdul Wahhab"
 category = ["investasi", "Investasi untuk Pemula", "Investasi Menguntungkan", "memulai investasi menguntungkan"]
 date = 2021-09-27T11:40:53Z
-description = "Investasi leher ke atas adalah investasi yang harus anda lakukan kepada bagian atas tubuh yaitu otak atau pikiran|Simak cara investasi lahir ke atas"
+metaDescription = "Investasi leher ke atas adalah investasi yang harus anda lakukan kepada bagian atas tubuh yaitu otak atau pikiran|Simak cara investasi lahir ke atas"
 draft = false
 image = "https://images.unsplash.com/photo-1522211988038-6fcbb8c12c7e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxMTc3M3wwfDF8c2VhcmNofDUyfHxsZWFybmluZ3xlbnwwfHx8fDE2NDAxNTk2ODU&ixlib=rb-1.2.1&q=80&w=1080"
 slug = "memahami-apa-itu-investasi-leher-ke-atas-yang-sangat-penting-dipahami-investor-pemula"

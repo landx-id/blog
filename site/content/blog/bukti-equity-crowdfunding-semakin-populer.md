@@ -2,7 +2,7 @@
 author = "Abdul Wahhab"
 category = ["Equity Crowdfunding", "Securities Crowdfunding untuk Pengembangan UMKM di Indonesia", "crowdfunding", "crowdfunding indonesia", "Situs Crowdfunding"]
 date = 2021-08-23T08:55:30Z
-description = "Equity crowdfunding merupakan salah satu sistem investasi yang semakin berkembang di Indonesia belakangan ini | Pahami apa itu equity crowdfunding"
+metaDescription = "Equity crowdfunding merupakan salah satu sistem investasi yang semakin berkembang di Indonesia belakangan ini | Pahami apa itu equity crowdfunding"
 draft = false
 slug = "bukti-equity-crowdfunding-semakin-populer"
 tag = ["Equity Crowdfunding", "Securities Crowdfunding untuk Pengembangan UMKM di Indonesia", "crowdfunding", "crowdfunding indonesia", "Situs Crowdfunding"]

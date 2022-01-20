@@ -2,7 +2,7 @@
 author = "Gunawan Aldy"
 category = ["landx", "crowdfunding properti", "landx-app-announcement-staging", "news"]
 date = 2019-06-10T04:13:15Z
-description = "Apa yang dimaksud crowdfunding properti? Apa saja jenis-jenis crowdfunding properti yang ada? Pelajari lebih lanjut tentang crowdfunding properti"
+metaDescription = "Apa yang dimaksud crowdfunding properti? Apa saja jenis-jenis crowdfunding properti yang ada? Pelajari lebih lanjut tentang crowdfunding properti"
 draft = false
 image = "https://accountgram-production.sfo2.cdn.digitaloceanspaces.com/landx_ghost/2019/05/crowdfunding-properti.jpg"
 slug = "crowdfunding-properti"

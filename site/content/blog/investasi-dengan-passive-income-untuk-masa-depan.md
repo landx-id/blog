@@ -2,7 +2,7 @@
 author = "Abdul Wahhab"
 category = ["Investasi Passive Income", "investasi bisnis"]
 date = 2021-10-25T14:35:15Z
-description = "Passive income adalah penghasilan yang anda dapatkan tanpa perlu aktif terlibat secara langsung dalam kegiatan menghasilkan uang tersebut."
+metaDescription = "Passive income adalah penghasilan yang anda dapatkan tanpa perlu aktif terlibat secara langsung dalam kegiatan menghasilkan uang tersebut."
 draft = false
 image = "https://images.unsplash.com/photo-1633158829585-23ba8f7c8caf?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxMTc3M3wwfDF8c2VhcmNofDd8fGluY29tZXxlbnwwfHx8fDE2MzkwNDI3MDg&ixlib=rb-1.2.1&q=80&w=1080"
 slug = "investasi-dengan-passive-income-untuk-masa-depan"

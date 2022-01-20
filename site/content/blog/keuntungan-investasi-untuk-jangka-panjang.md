@@ -2,7 +2,7 @@
 author = "Abdul Wahhab"
 category = ["keuntungan investasi", "Investasi Menguntungkan", "memulai investasi menguntungkan", "investasi jangka panjang", "tips investasi"]
 date = 2021-08-07T18:59:56Z
-description = "Investasi memiliki berbagai keuntungan yang bisa membantu membangun kondisi finansial yang lebih baik di masa mendatang. Simak berbagai keuntungan Investasi"
+metaDescription = "Investasi memiliki berbagai keuntungan yang bisa membantu membangun kondisi finansial yang lebih baik di masa mendatang. Simak berbagai keuntungan Investasi"
 draft = false
 slug = "keuntungan-investasi-untuk-jangka-panjang"
 tag = ["keuntungan investasi", "Investasi Menguntungkan", "memulai investasi menguntungkan", "investasi jangka panjang", "tips investasi"]

@@ -2,7 +2,7 @@
 author = "Abdul Wahhab"
 category = ["investasi bisnis", "investasi bagi hasil", "investasi online", "crowdfunding indonesia"]
 date = 2021-03-25T03:23:46Z
-description = "Investasi bagi hasil merupakan salah satu pilihan investasi menguntungkan. Sebelum memulai anda perlu paham berbagai jenis investasi bagi hasil terpercaya."
+metaDescription = "Investasi bagi hasil merupakan salah satu pilihan investasi menguntungkan. Sebelum memulai anda perlu paham berbagai jenis investasi bagi hasil terpercaya."
 draft = false
 image = "https://accountgram-production.sfo2.cdn.digitaloceanspaces.com/landx_ghost/2021/03/3.-investasi-bagi-hasil-terpercaya.jpg"
 slug = "mengenal-jenis-investasi-bagi-hasil-terpercaya"

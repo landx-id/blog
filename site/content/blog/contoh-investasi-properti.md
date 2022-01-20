@@ -1,7 +1,7 @@
 +++
 author = "Gunawan Aldy"
 date = 2019-08-05T03:19:06Z
-description = "Investasi adalah cara untuk menambah atau meningkatkan keuangan kita. Dengan kata lain, investasi adalah upaya untuk membuat keuangan lebih produktif atau lebih efisien."
+metaDescription = "Investasi adalah cara untuk menambah atau meningkatkan keuangan kita. Dengan kata lain, investasi adalah upaya untuk membuat keuangan lebih produktif atau lebih efisien."
 draft = false
 image = "https://accountgram-production.sfo2.cdn.digitaloceanspaces.com/landx_ghost/2019/06/Contoh-Investasi-Properti.jpg"
 slug = "contoh-investasi-properti"

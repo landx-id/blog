@@ -2,7 +2,7 @@
 author = "Abdul Wahhab"
 category = ["compounding effect", "efek compounding", "investasi bisnis", "bisnis investasi", "bisnis investasi online"]
 date = 2021-05-25T04:32:58Z
-description = "sudahkan anda paham apa itu compounding effect atau effect compounding yang bisa membuat investasi anda dapat berkembang sangat cepat dalam jangka panjang?"
+metaDescription = "sudahkan anda paham apa itu compounding effect atau effect compounding yang bisa membuat investasi anda dapat berkembang sangat cepat dalam jangka panjang?"
 draft = false
 slug = "pahami-bagaimana-efek-compounding-dapat-membantu-pengembangan-investasi-anda"
 tag = ["compounding effect", "efek compounding", "investasi bisnis", "bisnis investasi", "bisnis investasi online"]

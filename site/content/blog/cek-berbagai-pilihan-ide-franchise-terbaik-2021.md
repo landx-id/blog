@@ -2,7 +2,7 @@
 author = "Abdul Wahhab"
 category = ["bisnis investasi", "Bisnis Franchise Modal Kecil", "Bisnis F&B", "bisnis investasi online"]
 date = 2021-05-07T04:07:28Z
-description = "2021 sudah waktunya untuk anda mulai membuka bisnis sendiri. Sistem franchise bisa menjadi ide bisnis anda. Cek ide franchise bisnis terbaik 2021"
+metaDescription = "2021 sudah waktunya untuk anda mulai membuka bisnis sendiri. Sistem franchise bisa menjadi ide bisnis anda. Cek ide franchise bisnis terbaik 2021"
 draft = false
 slug = "cek-berbagai-pilihan-ide-franchise-terbaik-2021"
 tag = ["bisnis investasi", "Bisnis Franchise Modal Kecil", "Bisnis F&B", "bisnis investasi online"]

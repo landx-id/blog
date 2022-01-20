@@ -2,7 +2,7 @@
 author = "Abdul Wahhab"
 category = ["crowdfunding indonesia", "bisnis investasi online", "crowdfunding properti", "Equity Crowdfunding", "investasi bagi hasil", "investasi bisnis", "Investasi Menguntungkan", "investasi online", "Investasi modal kecil", "investasi", "Investasi online terbaru"]
 date = 2021-04-15T06:18:00Z
-description = "Saat ini investasi semakin mudah karena sistem digital yang sudah semakin berkembang sehingga proses investasi menjadi lebih mudah | Cara memilih investasi"
+metaDescription = "Saat ini investasi semakin mudah karena sistem digital yang sudah semakin berkembang sehingga proses investasi menjadi lebih mudah | Cara memilih investasi"
 draft = false
 image = "https://images.unsplash.com/photo-1609266378844-4a8af6d72fab?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxMTc3M3wwfDF8c2VhcmNofDF8fDIwMjF8ZW58MHx8fHwxNjM5MDMxNTY5&ixlib=rb-1.2.1&q=80&w=1080"
 slug = "rekomendasi-investasi-online-terbaru-menyiapkan-investasi-online-resmi-terbaik-di-tahun-2021"

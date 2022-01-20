@@ -2,7 +2,7 @@
 author = "Abdul Wahhab"
 category = ["usaha laundry", "sistem franchise", "Bisnis Franchise Modal Kecil"]
 date = 2021-07-22T06:27:40Z
-description = "Pahami tips dan rekomendasi terbaik saat ingin memulai franchise laundry menguntungkan|Rekomendasi franchise laundry terbaik untuk investasi"
+metaDescription = "Pahami tips dan rekomendasi terbaik saat ingin memulai franchise laundry menguntungkan|Rekomendasi franchise laundry terbaik untuk investasi"
 draft = false
 slug = "memulai-bisnis-franchise-laundry"
 tag = ["usaha laundry", "sistem franchise", "Bisnis Franchise Modal Kecil"]

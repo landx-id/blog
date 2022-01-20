@@ -2,7 +2,7 @@
 author = "Abdul Wahhab"
 category = ["Cara Investasi Saham", "investasi saham", "investasi"]
 date = 2021-10-17T08:36:50Z
-description = "Stock split adalah kebijakan korporasi yang dilakukan oleh emiten/ perusahaan penerbit untuk memecah nilai saham mereka berdasarkan rasio yang ditentukan"
+metaDescription = "Stock split adalah kebijakan korporasi yang dilakukan oleh emiten/ perusahaan penerbit untuk memecah nilai saham mereka berdasarkan rasio yang ditentukan"
 draft = false
 image = "https://images.unsplash.com/photo-1454165804606-c3d57bc86b40?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxMTc3M3wwfDF8c2VhcmNofDl8fHN0b2NrfGVufDB8fHx8MTY0MDE0Nzc2Mw&ixlib=rb-1.2.1&q=80&w=1080"
 slug = "stock-split-memahami-apa-itu-stock-split-dan-pengaruhnya-terhadap-harga-saham"

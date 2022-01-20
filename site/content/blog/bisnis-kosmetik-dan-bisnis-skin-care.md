@@ -2,7 +2,7 @@
 author = "Abdul Wahhab"
 category = ["investasi bisnis", "bisnis kosmetik"]
 date = 2021-06-17T04:44:14Z
-description = "berikut beberapa cara memanfaatkan peluang usaha kosmetik. berikut beberapa cara bisnis kosmetik seperti franchise klinik kecantikan modal kecil bisa dicoba"
+metaDescription = "berikut beberapa cara memanfaatkan peluang usaha kosmetik. berikut beberapa cara bisnis kosmetik seperti franchise klinik kecantikan modal kecil bisa dicoba"
 draft = false
 slug = "bisnis-kosmetik-dan-bisnis-skin-care"
 tag = ["investasi bisnis", "bisnis kosmetik"]

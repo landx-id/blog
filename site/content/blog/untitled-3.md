@@ -1,7 +1,7 @@
 +++
 author = "Vlora Riyandi"
 date = 2021-12-30T04:44:00Z
-description = "A year of review, perjalanan LandX.id membangun fintech investasi demi kemudahan UMKM Indonesia berkembang dan akses investasi semudah berbelanja online."
+metaDescription = "A year of review, perjalanan LandX.id membangun fintech investasi demi kemudahan UMKM Indonesia berkembang dan akses investasi semudah berbelanja online."
 draft = true
 slug = "untitled-3"
 title = "LandX.id Sewaktu 2021"

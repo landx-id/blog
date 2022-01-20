@@ -2,7 +2,7 @@
 author = "Khurin N. Imandini"
 category = ["Kapal Tongkang", "investasi bisnis", "Bisnis Modal Kecil", "Investasi Passive Income", "strategi investasi", "bisnis di masa pandemi"]
 date = 2021-12-16T15:06:22Z
-description = "Bisnis kapal tongkang menjadi salah satu bisnis yang paling menjadi dan tetap berkembang di masa pandemi karena tetap dibutuhkan untuk berbagai industri"
+metaDescription = "Bisnis kapal tongkang menjadi salah satu bisnis yang paling menjadi dan tetap berkembang di masa pandemi karena tetap dibutuhkan untuk berbagai industri"
 draft = false
 image = "https://images.unsplash.com/photo-1548909710-4f03ab85c6b3?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxMTc3M3wwfDF8c2VhcmNofDV8fGJhcmdlfGVufDB8fHx8MTYzOTY2NzI2NQ&ixlib=rb-1.2.1&q=80&w=1080"
 slug = "tertarik-berbisnis-kapal-tongkang"

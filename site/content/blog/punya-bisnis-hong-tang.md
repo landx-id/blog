@@ -2,7 +2,7 @@
 author = "Abdul Wahhab"
 category = ["Hong Tang", "Cloud Kitchen", "Bisnis F&B", "Bisnis Franchise Modal Kecil", "sistem franchise", "Franchise Makanan"]
 date = 2021-11-25T15:26:18Z
-description = "MAU PUNYA BISNIS ASIAN DESSERT YANG SUDAH TERKENAL DI INDONESIA?!"
+metaDescription = "MAU PUNYA BISNIS ASIAN DESSERT YANG SUDAH TERKENAL DI INDONESIA?!"
 draft = false
 image = "https://accountgram-production.sfo2.cdn.digitaloceanspaces.com/landx_ghost/2021/11/Miliki-7-cabang-hong-tang-hanya-dengan-modal-1-juta-saja-min.png"
 slug = "punya-bisnis-hong-tang"

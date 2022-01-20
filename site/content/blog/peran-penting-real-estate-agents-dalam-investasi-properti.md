@@ -2,7 +2,7 @@
 author = "Abdul Wahhab"
 category = ["investasi properti", "investasi real estate", "bisnis properti", "crowdfunding properti"]
 date = 2021-08-19T08:53:25Z
-description = "Real estate agents adalah pihak yang memiliki peran penting dalam proses transaksi dan investasi properti yang dilakukan. Apa itu real estate agents?"
+metaDescription = "Real estate agents adalah pihak yang memiliki peran penting dalam proses transaksi dan investasi properti yang dilakukan. Apa itu real estate agents?"
 draft = false
 slug = "peran-penting-real-estate-agents-dalam-investasi-properti"
 tag = ["investasi properti", "investasi real estate", "bisnis properti", "crowdfunding properti"]

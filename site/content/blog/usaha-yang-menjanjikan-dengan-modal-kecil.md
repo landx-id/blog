@@ -2,7 +2,7 @@
 author = "Abdul Wahhab"
 category = ["investasi bisnis", "bisnis investasi terpercaya"]
 date = 2021-06-25T10:42:27Z
-description = "berikut beberapa rekomendasi usaha yang menjanjikan dengan modal kecil yang bisa anda coba di tahun 2021. Rekomnedasai usaha modal kecil menjanjikan"
+metaDescription = "berikut beberapa rekomendasi usaha yang menjanjikan dengan modal kecil yang bisa anda coba di tahun 2021. Rekomnedasai usaha modal kecil menjanjikan"
 draft = false
 slug = "usaha-yang-menjanjikan-dengan-modal-kecil"
 tag = ["investasi bisnis", "bisnis investasi terpercaya"]

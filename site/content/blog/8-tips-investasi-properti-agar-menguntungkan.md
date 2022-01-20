@@ -2,7 +2,7 @@
 author = "Gunawan Aldy"
 category = ["properti", "investasi"]
 date = 2019-10-14T05:47:16Z
-description = "Untuk memulai investasi properti segera untuk berhasil dan mendapatkan manfaat yang diinginkan, Anda dapat mulai dengan mengikuti tips investasi properti ini"
+metaDescription = "Untuk memulai investasi properti segera untuk berhasil dan mendapatkan manfaat yang diinginkan, Anda dapat mulai dengan mengikuti tips investasi properti ini"
 draft = false
 image = "https://accountgram-production.sfo2.cdn.digitaloceanspaces.com/landx_ghost/2019/10/8-Tips-Investasi-Properti-Agar-Menguntungkan.jpg"
 slug = "8-tips-investasi-properti-agar-menguntungkan"

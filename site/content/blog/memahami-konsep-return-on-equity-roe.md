@@ -2,7 +2,7 @@
 author = "Abdul Wahhab"
 category = ["rasio keuangan", "tips investasi", "investasi pemula", "strategi investasi"]
 date = 2021-07-29T05:17:00Z
-description = "ROE atau Return on Equity merupakan salah satu rasio keuangan yang penting untuk dipahami saat memulai investasi | Pahami cara menghitung ROE untuk analisis"
+metaDescription = "ROE atau Return on Equity merupakan salah satu rasio keuangan yang penting untuk dipahami saat memulai investasi | Pahami cara menghitung ROE untuk analisis"
 draft = false
 slug = "memahami-konsep-return-on-equity-roe"
 tag = ["rasio keuangan", "tips investasi", "investasi pemula", "strategi investasi"]

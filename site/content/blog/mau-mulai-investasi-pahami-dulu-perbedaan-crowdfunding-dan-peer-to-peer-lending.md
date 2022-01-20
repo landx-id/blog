@@ -2,7 +2,7 @@
 author = "Abdul Wahhab"
 category = ["bisnis investasi", "crowdfunding indonesia", "bisnis investasi online", "Equity Crowdfunding", "crowdfunding properti", "Investasi modal kecil", "Investasi online terbaru"]
 date = 2021-04-23T02:53:01Z
-description = "Crowdfunding dan P2P Lending merupakan dua jenis investasi yang berbeda akan sering dianggap sama. Karena itu pahami perbedaan crowdfunding dan P2P lending"
+metaDescription = "Crowdfunding dan P2P Lending merupakan dua jenis investasi yang berbeda akan sering dianggap sama. Karena itu pahami perbedaan crowdfunding dan P2P lending"
 draft = false
 image = "https://images.unsplash.com/photo-1444653614773-995cb1ef9efa?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxMTc3M3wwfDF8c2VhcmNofDI1fHxmaW50ZWNofGVufDB8fHx8MTY0MDI4MTYxNQ&ixlib=rb-1.2.1&q=80&w=1080"
 slug = "mau-mulai-investasi-pahami-dulu-perbedaan-crowdfunding-dan-peer-to-peer-lending"

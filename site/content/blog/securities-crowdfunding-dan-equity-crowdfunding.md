@@ -2,7 +2,7 @@
 author = "Abdul Wahhab"
 category = ["Securities Crowdfunding untuk Pengembangan UMKM di Indonesia", "Equity Crowdfunding", "crowdfunding", "Situs Crowdfunding", "bisnis investasi", "investasi bisnis"]
 date = 2021-08-07T18:05:32Z
-description = "SCF merupakan metode pengumpulan dana dengan skema patungan bisnis yang bisa membantu pendanaan bagi bisnis  dan sekaligus instrumen investasi menguntungkan"
+metaDescription = "SCF merupakan metode pengumpulan dana dengan skema patungan bisnis yang bisa membantu pendanaan bagi bisnis  dan sekaligus instrumen investasi menguntungkan"
 draft = false
 slug = "securities-crowdfunding-dan-equity-crowdfunding"
 tag = ["Securities Crowdfunding untuk Pengembangan UMKM di Indonesia", "Equity Crowdfunding", "crowdfunding", "Situs Crowdfunding", "bisnis investasi", "investasi bisnis"]

@@ -2,7 +2,7 @@
 author = "Gunawan Aldy"
 category = ["investasi", "properti", "landx-app-announcement-staging", "alert"]
 date = 2019-06-10T04:13:28Z
-description = "Apakah Anda berencana untuk membeli rumah pertama Anda? Ikuti tips menabung ini agar modal Anda semakin cepat terkumpul."
+metaDescription = "Apakah Anda berencana untuk membeli rumah pertama Anda? Ikuti tips menabung ini agar modal Anda semakin cepat terkumpul."
 draft = false
 image = "https://accountgram-production.sfo2.cdn.digitaloceanspaces.com/landx_ghost/2019/05/tips-menabung-untuk-membeli-rumah.jpg"
 slug = "tips-menabung-untuk-membeli-rumah"

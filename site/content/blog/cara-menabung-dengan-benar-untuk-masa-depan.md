@@ -2,7 +2,7 @@
 author = "Abdul Wahhab"
 category = ["menabung dengan benar", "compounding effect", "efek compounding", "investasi"]
 date = 2021-07-02T06:41:05Z
-description = "Pahami bagaimana cara menabung untuk masa depan untuk rencana keuangan jangka panjang yang bisa memberikan anda keuntungan. tips menabung jangka panjang"
+metaDescription = "Pahami bagaimana cara menabung untuk masa depan untuk rencana keuangan jangka panjang yang bisa memberikan anda keuntungan. tips menabung jangka panjang"
 draft = false
 slug = "cara-menabung-dengan-benar-untuk-masa-depan"
 tag = ["menabung dengan benar", "compounding effect", "efek compounding", "investasi"]

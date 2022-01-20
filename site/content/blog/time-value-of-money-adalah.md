@@ -2,7 +2,7 @@
 author = "Abdul Wahhab"
 category = ["net present value", "time value of money"]
 date = 2021-06-25T16:13:41Z
-description = "Pahami konsep time value of money atau nilai uang dari waktu. Konsep TVM penting untuk anda pahami. Konsep time value of money adalah konsep menghitung..."
+metaDescription = "Pahami konsep time value of money atau nilai uang dari waktu. Konsep TVM penting untuk anda pahami. Konsep time value of money adalah konsep menghitung..."
 draft = false
 slug = "time-value-of-money-adalah"
 tag = ["net present value", "time value of money"]

@@ -2,7 +2,7 @@
 author = "Abdul Wahhab"
 category = ["investasi online", "bisnis investasi online", "Investasi propertionline", "Properti online", "Investasi untuk Pemula", "pilihan investasi", "instrumen pasar modal"]
 date = 2021-03-26T04:22:00Z
-description = "Selain mencari investasi dengan potensi keuntungan jangka panjang yang menjanjikan, kamu juga harus memastikan bahwa kamu telah memilih investasi terpercaya"
+metaDescription = "Selain mencari investasi dengan potensi keuntungan jangka panjang yang menjanjikan, kamu juga harus memastikan bahwa kamu telah memilih investasi terpercaya"
 draft = false
 image = "https://accountgram-production.sfo2.cdn.digitaloceanspaces.com/landx_ghost/2021/03/6.-Bisnis-investasi-online-terpercaya.jpg"
 slug = "pilihan-investasi-online-terpercaya-yang-dapat-membuat-anda-menjadi-milyarder"

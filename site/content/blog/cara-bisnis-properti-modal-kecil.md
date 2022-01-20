@@ -2,7 +2,7 @@
 author = "Abdul Wahhab"
 category = ["bisnis properti", "investor properti", "investasi bisnis", "investasi properti online", "investasi properti", "Securities Crowdfunding untuk Pengembangan UMKM di Indonesia"]
 date = 2021-04-16T02:05:00Z
-description = "Investasi properti harus modal besar? Siapa bilang yuk simak bagaimana cara menjadi pemilik bisnis properti hanya dengan modal 1 jutaan saja, yuk simak....."
+metaDescription = "Investasi properti harus modal besar? Siapa bilang yuk simak bagaimana cara menjadi pemilik bisnis properti hanya dengan modal 1 jutaan saja, yuk simak....."
 draft = false
 image = "https://images.unsplash.com/photo-1516156008625-3a9d6067fab5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxMTc3M3wwfDF8c2VhcmNofDE1fHxwcm9wZXJ0eXxlbnwwfHx8fDE2MzkwNDE2OTM&ixlib=rb-1.2.1&q=80&w=1080"
 slug = "cara-bisnis-properti-modal-kecil"

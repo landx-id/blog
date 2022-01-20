@@ -2,7 +2,7 @@
 author = "Abdul Wahhab"
 category = ["dana darurat", "investasi", "investasi jangka panjang", "investasi keuangan", "keuntungan investasi", "P2P Lending", "pilihan investasi", "sandwich generation", "strategi investasi", "dana pensiun"]
 date = 2021-11-17T05:00:46Z
-description = "Dana pensiun adalah dana yang harus disiapkan sedini mungkin untuk hari tua  yang independen, berikut cara menghitung dana pensiun ideal untuk masa depan.."
+metaDescription = "Dana pensiun adalah dana yang harus disiapkan sedini mungkin untuk hari tua  yang independen, berikut cara menghitung dana pensiun ideal untuk masa depan.."
 draft = false
 image = "https://accountgram-production.sfo2.cdn.digitaloceanspaces.com/landx_ghost/2021/12/pexels-andrea-piacquadio-3783577-min.jpg"
 slug = "perencanaan-keuangan-untuk-hari-tua"

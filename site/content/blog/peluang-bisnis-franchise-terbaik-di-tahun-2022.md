@@ -2,7 +2,7 @@
 author = "Vlora Riyandi"
 category = ["Bisnis Franchise Modal Kecil", "sistem franchise", "Franchise Makanan", "Bisnis Modal Kecil", "Hong Tang", "Padang Merdeka: Bisnis Rumah Makan Padang dengan Konsep Modern", "peluang bisnis", "patungan bisnis", "Bebek BKB"]
 date = 2021-12-16T03:49:47Z
-description = "Mau punya bisnis dengan sistem franchise tapi modal masih terbatas? Yuk simak peluang bisnis franchise modal kecil yang bisa jadi sumber cuan di 2022"
+metaDescription = "Mau punya bisnis dengan sistem franchise tapi modal masih terbatas? Yuk simak peluang bisnis franchise modal kecil yang bisa jadi sumber cuan di 2022"
 draft = false
 image = "https://images.unsplash.com/photo-1637291454111-1d115acb5023?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxMTc3M3wwfDF8c2VhcmNofDExfHwyMDIyfGVufDB8fHx8MTY0MDE0OTU5NA&ixlib=rb-1.2.1&q=80&w=1080"
 slug = "peluang-bisnis-franchise-terbaik-di-tahun-2022"

@@ -2,7 +2,7 @@
 author = "Abdul Wahhab"
 category = ["Investasi Tahun 2022", "bisnis investasi", "efek compounding", "inflasi", "investasi bagi hasil", "investasi dengan modal kecil", "investasi keuangan", "Investasi Menguntungkan", "Investasi modal kecil", "investasi online", "Investasi online terbaru", "investasi pemula", "investasi real estate", "investasi terbaik", "Investasi untuk Pemula", "investasi jangka panjang", "keuntungan investasi"]
 date = 2021-11-17T14:53:15Z
-description = "Memulai tahun 2022 dengan berbagai investasi terbaik yang cocok untuk kamu: 1. Deposito 2. Obligasi 3. Reksa Dana 4. Investasi Saham 5. Investasi Properti."
+metaDescription = "Memulai tahun 2022 dengan berbagai investasi terbaik yang cocok untuk kamu: 1. Deposito 2. Obligasi 3. Reksa Dana 4. Investasi Saham 5. Investasi Properti."
 draft = false
 image = "https://images.unsplash.com/photo-1600880292203-757bb62b4baf?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxMTc3M3wwfDF8c2VhcmNofDI2fHxidXNpbmVzc3xlbnwwfHx8fDE2NDAwNjI1MDM&ixlib=rb-1.2.1&q=80&w=1080"
 slug = "rekomendasi-investasi-di-tahun-2022"

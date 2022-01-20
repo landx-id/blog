@@ -2,7 +2,7 @@
 author = "Abdul Wahhab"
 category = ["investasi rumah", "investasi apartemen", "rumah vs apartemen", "Properti investasi"]
 date = 2021-07-08T16:38:31Z
-description = "Bingung mau investasi beli rumah atau apartemen? Yuk simak berbabagi pertimbangan sebelum menentukan pilihan anda|Rumah Vs Apartemen"
+metaDescription = "Bingung mau investasi beli rumah atau apartemen? Yuk simak berbabagi pertimbangan sebelum menentukan pilihan anda|Rumah Vs Apartemen"
 draft = false
 slug = "rumah-vs-apartemen-untuk-investasi"
 tag = ["investasi rumah", "investasi apartemen", "rumah vs apartemen", "Properti investasi"]

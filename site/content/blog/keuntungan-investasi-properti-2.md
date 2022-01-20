@@ -1,7 +1,7 @@
 +++
 author = "Gunawan Aldy"
 date = 2019-07-15T03:08:26Z
-description = "Jika Anda masih enggan berinvestasi di properti atau real estat pada tahun 2019, berikut adalah keuntungan investasi properti yang dapat Anda pertimbangkan sebelum memulai."
+metaDescription = "Jika Anda masih enggan berinvestasi di properti atau real estat pada tahun 2019, berikut adalah keuntungan investasi properti yang dapat Anda pertimbangkan sebelum memulai."
 draft = false
 image = "https://accountgram-production.sfo2.cdn.digitaloceanspaces.com/landx_ghost/2019/06/Keuntungan-Investasi-Properti.jpg"
 slug = "keuntungan-investasi-properti-2"

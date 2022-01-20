@@ -2,7 +2,7 @@
 author = "Abdul Wahhab"
 category = ["instrumen pasar modal", "Cara Investasi Saham", "investasi", "investasi jangka panjang", "investasi keuangan", "Investasi Menguntungkan", "Investasi modal kecil"]
 date = 2021-08-09T06:53:03Z
-description = "Pasar modal adalah salah satu investasi yang banyak diminati masyarakat saat ini dengan beberapa instrumen yaitu: saham, reksa dana, obligasi, derivatif"
+metaDescription = "Pasar modal adalah salah satu investasi yang banyak diminati masyarakat saat ini dengan beberapa instrumen yaitu: saham, reksa dana, obligasi, derivatif"
 draft = false
 slug = "pasar-modal-adalah"
 tag = ["instrumen pasar modal", "Cara Investasi Saham", "investasi", "investasi jangka panjang", "investasi keuangan", "Investasi Menguntungkan", "Investasi modal kecil"]

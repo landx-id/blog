@@ -1,7 +1,7 @@
 +++
 author = "Gunawan Aldy"
 date = 2021-08-10T03:59:03Z
-description = "HANGRY Kini Listing d LandX!"
+metaDescription = "HANGRY Kini Listing d LandX!"
 draft = false
 slug = "hangry-listing-di-landx"
 summary = "Mau Jadi Investor dari Bisnis Kuliner Paling CUAN Saat Ini?\nHANGRY Kini Listing di LandX!"

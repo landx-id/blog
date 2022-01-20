@@ -2,7 +2,7 @@
 author = "Abdul Wahhab"
 category = ["usaha laundry", "Bisnis Franchise Modal Kecil", "investasi bisnis"]
 date = 2021-07-16T04:34:06Z
-description = "Pahami berbagai hal penting yang harus anda siapkan saat ingin membangun bisnis laundry kiloan yang menguntungkan|Bisnis laundry kiloan modal kecil"
+metaDescription = "Pahami berbagai hal penting yang harus anda siapkan saat ingin membangun bisnis laundry kiloan yang menguntungkan|Bisnis laundry kiloan modal kecil"
 draft = false
 slug = "memulai-bisnis-laundry-kiloan"
 tag = ["usaha laundry", "Bisnis Franchise Modal Kecil", "investasi bisnis"]

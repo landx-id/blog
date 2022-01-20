@@ -2,7 +2,7 @@
 author = "Abdul Wahhab"
 category = ["Equity Crowdfunding", "Securities Crowdfunding untuk Pengembangan UMKM di Indonesia", "crowdfunding indonesia", "Situs Crowdfunding"]
 date = 2021-09-09T10:52:51Z
-description = "Equity crowdfunding adalah sistem urun dana di mana para investor dapat melakukan patungan untuk membangun suatu bisnis dan mendapatkan saham dari bisnis .."
+metaDescription = "Equity crowdfunding adalah sistem urun dana di mana para investor dapat melakukan patungan untuk membangun suatu bisnis dan mendapatkan saham dari bisnis .."
 draft = false
 image = "https://accountgram-production.sfo2.cdn.digitaloceanspaces.com/landx_ghost/2021/09/equity-crowdfunding-adalah.png"
 slug = "memahami-konsep-investasi-melalui-equity-crowdfunding-ecf"

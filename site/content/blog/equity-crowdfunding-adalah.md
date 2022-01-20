@@ -2,7 +2,7 @@
 author = "Abdul Wahhab"
 category = ["Equity Crowdfunding", "Securities Crowdfunding untuk Pengembangan UMKM di Indonesia"]
 date = 2021-03-12T03:55:38Z
-description = "Equity Crowdfunding adalah sistem investasi yang mempermudah investor dengan modal kecil dapat menanamkan modal kedalam UKM dan bisnis disekitarnya........."
+metaDescription = "Equity Crowdfunding adalah sistem investasi yang mempermudah investor dengan modal kecil dapat menanamkan modal kedalam UKM dan bisnis disekitarnya........."
 draft = false
 image = "https://images.unsplash.com/photo-1559067096-49ebca3406aa?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxMTc3M3wwfDF8c2VhcmNofDZ8fGZ1bmR8ZW58MHx8fHwxNjM4ODA3Njgz&ixlib=rb-1.2.1&q=80&w=1080"
 slug = "equity-crowdfunding-adalah"

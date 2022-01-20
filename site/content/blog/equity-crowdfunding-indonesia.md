@@ -2,7 +2,7 @@
 author = "Abdul Wahhab"
 category = ["bisnis investasi", "Equity Crowdfunding", "Situs Crowdfunding", "Securities Crowdfunding untuk Pengembangan UMKM di Indonesia", "crowdfunding", "crowdfunding indonesia"]
 date = 2021-03-30T05:05:00Z
-description = "Sistem pendanaan equity crowdfunding mungkin masih jadi sesuatu yang baru di Indonesia. Padahal sistem investasi ini telah populer di beberapa negara maju.."
+metaDescription = "Sistem pendanaan equity crowdfunding mungkin masih jadi sesuatu yang baru di Indonesia. Padahal sistem investasi ini telah populer di beberapa negara maju.."
 draft = false
 image = "https://images.unsplash.com/photo-1590140297846-fa479ed30a6b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxMTc3M3wwfDF8c2VhcmNofDV8fGZ1bmRpbmd8ZW58MHx8fHwxNjM4ODEyNjIw&ixlib=rb-1.2.1&q=80&w=1080"
 slug = "equity-crowdfunding-indonesia"

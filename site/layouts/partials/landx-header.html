@@ -49,7 +49,7 @@
 
   {{ with .Site.GetPage "/partials/landx-header/_index.md" }}
   {{ range .Params.headerCategory }}
-    <a href="/category/{{ . | urlize }}">{{ . }}</a>
+    <a href="{{$.Site.BaseURL}}/category/{{ . | urlize }}">{{ . }}</a>
   {{ end }}
 
   {{ end }}

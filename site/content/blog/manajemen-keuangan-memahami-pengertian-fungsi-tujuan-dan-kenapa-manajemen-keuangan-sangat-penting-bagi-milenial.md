@@ -2,7 +2,7 @@
 author = "Abdul Wahhab"
 category = ["manajemen keuangan", "mengatur keuangan", "Mengelola Keuangan"]
 date = 2021-11-04T10:12:55Z
-description = "Manajemen keuangan adalah bagaimana pengelolaan uang dengan baik agar memberikan hasil yang optimal. Hal ini bertujuan untuk mengoptimalkan keuntungan"
+metaDescription = "Manajemen keuangan adalah bagaimana pengelolaan uang dengan baik agar memberikan hasil yang optimal. Hal ini bertujuan untuk mengoptimalkan keuntungan"
 draft = false
 image = "https://images.unsplash.com/photo-1512358958014-b651a7ee1773?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxMTc3M3wwfDF8c2VhcmNofDI4fHxtb25leSUyMG1hbmFnZW1lbnR8ZW58MHx8fHwxNjQwMTQxODEy&ixlib=rb-1.2.1&q=80&w=1080"
 slug = "manajemen-keuangan-memahami-pengertian-fungsi-tujuan-dan-kenapa-manajemen-keuangan-sangat-penting-bagi-milenial"

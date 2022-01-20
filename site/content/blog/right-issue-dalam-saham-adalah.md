@@ -2,7 +2,7 @@
 author = "Abdul Wahhab"
 category = ["strategi investasi", "Investasi Menguntungkan", "memulai investasi menguntungkan", "investasi", "investasi saham"]
 date = 2021-09-10T06:12:12Z
-description = "Right issue merupakan yang diberikan kepada investor lama untuk membeli duluan efek yang baru diterbitkan sebelum ditawarkan kepada publik atau stanby buyer"
+metaDescription = "Right issue merupakan yang diberikan kepada investor lama untuk membeli duluan efek yang baru diterbitkan sebelum ditawarkan kepada publik atau stanby buyer"
 draft = false
 image = "https://images.unsplash.com/photo-1517940001917-1c03b8b1b85b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxMTc3M3wwfDF8c2VhcmNofDR8fHNtYXJ0JTIwcGVvcGxlfGVufDB8fHx8MTY0MDI1MTE2Mw&ixlib=rb-1.2.1&q=80&w=1080"
 slug = "right-issue-dalam-saham-adalah"

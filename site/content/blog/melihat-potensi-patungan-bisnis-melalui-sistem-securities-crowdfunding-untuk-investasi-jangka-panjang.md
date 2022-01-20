@@ -2,7 +2,7 @@
 author = "Abdul Wahhab"
 category = ["Securities Crowdfunding untuk Pengembangan UMKM di Indonesia", "Equity Crowdfunding", "crowdfunding", "crowdfunding indonesia", "Situs Crowdfunding", "investasi bisnis", "bisnis patungan"]
 date = 2021-09-27T06:30:08Z
-description = "Securities crowdfunding merupakan sistem investasi yang memudahkan investor ritel untuk ikut patungan membangun suatu bisnis dan dapat return dari bisnis..."
+metaDescription = "Securities crowdfunding merupakan sistem investasi yang memudahkan investor ritel untuk ikut patungan membangun suatu bisnis dan dapat return dari bisnis..."
 draft = false
 image = "https://accountgram-production.sfo2.cdn.digitaloceanspaces.com/landx_ghost/2021/09/patungan-bisnis-menguntungkan-bareng-landx-5.png"
 slug = "melihat-potensi-patungan-bisnis-melalui-sistem-securities-crowdfunding-untuk-investasi-jangka-panjang"

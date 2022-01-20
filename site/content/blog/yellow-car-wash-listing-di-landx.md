@@ -2,7 +2,7 @@
 author = "Abdul Wahhab"
 category = ["investasi bisnis", "bisnis cuci mobil", "yellow car wash"]
 date = 2021-08-23T10:40:58Z
-description = "Mau punya cabang Yellow Car Wash cuma dengan modal 1 jutaan? Yuk simak bagaimana memiliki Yellow Car Wash dengan modal kecil"
+metaDescription = "Mau punya cabang Yellow Car Wash cuma dengan modal 1 jutaan? Yuk simak bagaimana memiliki Yellow Car Wash dengan modal kecil"
 draft = false
 slug = "yellow-car-wash-listing-di-landx"
 tag = ["investasi bisnis", "bisnis cuci mobil", "yellow car wash"]

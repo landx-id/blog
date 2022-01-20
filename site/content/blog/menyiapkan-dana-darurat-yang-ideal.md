@@ -2,7 +2,7 @@
 author = "Abdul Wahhab"
 category = ["tips investasi", "investasi", "bisnis patungan", "cara mengembangkan uang dengan cepat", "diversifikasi dalam investasi", "instrumen pasar modal", "Investasi Menguntungkan", "strategi investasi", "dana darurat"]
 date = 2021-10-25T13:36:21Z
-description = "Dana darurat adalah dana fungsional yang kamu persiapkan untuk menghadapi keadaan di masa depan. Dana darurat wajib bersifat likuid agar mudah dicairkan"
+metaDescription = "Dana darurat adalah dana fungsional yang kamu persiapkan untuk menghadapi keadaan di masa depan. Dana darurat wajib bersifat likuid agar mudah dicairkan"
 draft = false
 image = "https://accountgram-production.sfo2.cdn.digitaloceanspaces.com/landx_ghost/2021/11/Menyiapkan-dana-darurat-agar-investasi-anda-menjadi-lebih-aman-dan-nyaman.jpeg"
 slug = "menyiapkan-dana-darurat-yang-ideal"

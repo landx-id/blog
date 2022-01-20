@@ -2,7 +2,7 @@
 author = "Abdul Wahhab"
 category = ["bisnis properti", "bisnis di masa pandemi", "investasi jangka panjang", "crowdfunding properti"]
 date = 2021-08-03T08:26:24Z
-description = "Mau mulai bisnis properti di masa pandemi? Simak bisnis seperti apa yang tetap potensial dan menguntungkan walaupun di tengah pandemi"
+metaDescription = "Mau mulai bisnis properti di masa pandemi? Simak bisnis seperti apa yang tetap potensial dan menguntungkan walaupun di tengah pandemi"
 draft = false
 slug = "potensi-bisnis-properti-di-masa-pandemi"
 tag = ["bisnis properti", "bisnis di masa pandemi", "investasi jangka panjang", "crowdfunding properti"]

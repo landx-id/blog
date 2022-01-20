@@ -2,7 +2,7 @@
 author = "Abdul Wahhab"
 category = ["Securities Crowdfunding untuk Pengembangan UMKM di Indonesia", "investasi umkm", "investasi bisnis", "bisnis investasi", "Investasi modal kecil"]
 date = 2021-08-16T06:05:26Z
-description = "securities crowdfunding merupakan salah satu platform yang membantu UKM dan UMKM berkualitas menemukan investor untuk ekspansi bisnis mereka. "
+metaDescription = "securities crowdfunding merupakan salah satu platform yang membantu UKM dan UMKM berkualitas menemukan investor untuk ekspansi bisnis mereka. "
 draft = false
 slug = "investasi-umkm-melalui-securities-crowdfunding"
 tag = ["Securities Crowdfunding untuk Pengembangan UMKM di Indonesia", "investasi umkm", "investasi bisnis", "bisnis investasi", "Investasi modal kecil"]

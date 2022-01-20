@@ -2,7 +2,7 @@
 author = "Vlora Riyandi"
 category = ["venture capital", "tips investasi", "lembaga pembiayaan"]
 date = 2021-12-09T19:41:00Z
-description = "Presiden Indonesia akan segera launching Merah Putih Fund. Apa fungsi Merah Putih Fund? Benarkah Merah Putih Fund danai bisnis lokal? \nYuk simak di sini"
+metaDescription = "Presiden Indonesia akan segera launching Merah Putih Fund. Apa fungsi Merah Putih Fund? Benarkah Merah Putih Fund danai bisnis lokal? \nYuk simak di sini"
 draft = false
 image = "https://images.unsplash.com/photo-1593510987459-9a1489817a3b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxMTc3M3wwfDF8c2VhcmNofDF8fFZlbnR1cmV8ZW58MHx8fHwxNjM5MDc0NjIz&ixlib=rb-1.2.1&q=80&w=1080"
 slug = "memahami-seluk-beluk-merah-putih-fund"

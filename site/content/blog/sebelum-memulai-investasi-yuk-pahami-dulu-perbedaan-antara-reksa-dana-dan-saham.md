@@ -2,7 +2,7 @@
 author = "Abdul Wahhab"
 category = ["investasi online", "Investasi modal kecil", "Investasi Menguntungkan", "Saham Online", "reksa dana"]
 date = 2021-05-10T02:56:54Z
-description = "Saat mengelola keuangan melalui investasi anda harus bisa membedakan berbagai instrumen investasi karena itu pahami perbedaan reksa dana dan saham"
+metaDescription = "Saat mengelola keuangan melalui investasi anda harus bisa membedakan berbagai instrumen investasi karena itu pahami perbedaan reksa dana dan saham"
 draft = false
 slug = "sebelum-memulai-investasi-yuk-pahami-dulu-perbedaan-antara-reksa-dana-dan-saham"
 tag = ["investasi online", "Investasi modal kecil", "Investasi Menguntungkan", "Saham Online", "reksa dana"]

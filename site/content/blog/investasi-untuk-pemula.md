@@ -2,7 +2,7 @@
 author = "Abdul Wahhab"
 category = ["Investasi untuk Pemula", "Investasi Menguntungkan", "memulai investasi menguntungkan"]
 date = 2021-06-21T04:57:16Z
-description = "pahami bagaimana memulai investasi untuk pemula agar bisa memberikan anda keuntungan. Tips investasi untuk pemula agar menguntungkan dalam jangka panjang"
+metaDescription = "pahami bagaimana memulai investasi untuk pemula agar bisa memberikan anda keuntungan. Tips investasi untuk pemula agar menguntungkan dalam jangka panjang"
 draft = false
 slug = "investasi-untuk-pemula"
 tag = ["Investasi untuk Pemula", "Investasi Menguntungkan", "memulai investasi menguntungkan"]

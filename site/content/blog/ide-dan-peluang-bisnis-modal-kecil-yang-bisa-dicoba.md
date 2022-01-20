@@ -1,7 +1,7 @@
 +++
 author = "Gunawan Aldy"
 date = 2019-11-12T03:44:05Z
-description = "Bagi Anda yang masih mempertimbangkan memulai bisnis dan peluang bisnis modal kecil, mari kita lihat peluang bisnis modal kecil yang menjanjikan!"
+metaDescription = "Bagi Anda yang masih mempertimbangkan memulai bisnis dan peluang bisnis modal kecil, mari kita lihat peluang bisnis modal kecil yang menjanjikan!"
 draft = false
 image = "https://accountgram-production.sfo2.cdn.digitaloceanspaces.com/landx_ghost/2019/11/Ide-dan-Peluang-Bisnis-Modal-Kecil-yang-Bisa-Dicoba.jpg"
 slug = "ide-dan-peluang-bisnis-modal-kecil-yang-bisa-dicoba"

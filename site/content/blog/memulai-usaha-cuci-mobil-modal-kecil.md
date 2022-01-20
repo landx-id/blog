@@ -2,7 +2,7 @@
 author = "Abdul Wahhab"
 category = ["bisnis menguntungkan", "yellow car wash", "Memulai usaha", "peluang bisnis"]
 date = 2021-08-28T14:14:27Z
-description = "Mau mulai usaha cuci mobil? Cek modal dan omset menggiurkan dari usaha cuci mobil|Cara memiliki Yellow Car Wash dengan modal kecil"
+metaDescription = "Mau mulai usaha cuci mobil? Cek modal dan omset menggiurkan dari usaha cuci mobil|Cara memiliki Yellow Car Wash dengan modal kecil"
 draft = false
 slug = "memulai-usaha-cuci-mobil-modal-kecil"
 tag = ["bisnis menguntungkan", "yellow car wash", "Memulai usaha", "peluang bisnis"]

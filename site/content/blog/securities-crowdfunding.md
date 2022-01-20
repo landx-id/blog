@@ -2,7 +2,7 @@
 author = "Abdul Wahhab"
 category = ["Securities Crowdfunding untuk Pengembangan UMKM di Indonesia", "bisnis investasi", "bisnis investasi online", "Equity Crowdfunding"]
 date = 2021-05-06T04:09:17Z
-description = "Investasi bisnis jangka panjang kini makin mudah dilakukan dengan adanya platform securities crowdfunding terpercaya untuk pendanaan bisnis potensial. "
+metaDescription = "Investasi bisnis jangka panjang kini makin mudah dilakukan dengan adanya platform securities crowdfunding terpercaya untuk pendanaan bisnis potensial. "
 draft = false
 slug = "securities-crowdfunding"
 tag = ["Securities Crowdfunding untuk Pengembangan UMKM di Indonesia", "bisnis investasi", "bisnis investasi online", "Equity Crowdfunding"]

@@ -2,7 +2,7 @@
 author = "Gunawan Aldy"
 category = ["properti"]
 date = 2019-11-04T08:54:05Z
-description = "Jika Anda sedang mencari rumah untuk dibeli, coba ikuti tip berikut untuk mendapatkan rumah dengan harga lebih rendah."
+metaDescription = "Jika Anda sedang mencari rumah untuk dibeli, coba ikuti tip berikut untuk mendapatkan rumah dengan harga lebih rendah."
 draft = false
 image = "https://accountgram-production.sfo2.cdn.digitaloceanspaces.com/landx_ghost/2019/11/Tips-Cari-Rumah-Murah-dan-Terjangkau.jpg"
 slug = "tips-cari-rumah-murah-dan-terjangkau"

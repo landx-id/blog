@@ -2,7 +2,7 @@
 author = "Abdul Wahhab"
 category = ["bisnis menguntungkan", "keuntungan investasi", "bisnis jangka panjang"]
 date = 2021-08-30T13:56:00Z
-description = "Mau memulai bisnis menguntungkan? Berikut 10+ rekomendasi bisnis menguntungkan dengan potensi keuntungan jangka panjang yang menjanjikan. "
+metaDescription = "Mau memulai bisnis menguntungkan? Berikut 10+ rekomendasi bisnis menguntungkan dengan potensi keuntungan jangka panjang yang menjanjikan. "
 draft = false
 slug = "10-bisnis-menguntungkan-jangka-panjang-yang-cocok-untuk-pemula"
 tag = ["bisnis menguntungkan", "keuntungan investasi", "bisnis jangka panjang"]

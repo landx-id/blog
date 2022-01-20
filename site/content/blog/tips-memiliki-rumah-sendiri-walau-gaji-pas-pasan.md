@@ -2,7 +2,7 @@
 author = "Gunawan Aldy"
 category = ["properti", "investasi"]
 date = 2019-06-24T03:38:21Z
-description = "Mungkinkah seseorang dengan gaji pas-pasan bisa memiliki rumah? Pelajari lebih lanjut tentang bagaimana tips memiliki rumah walau gaji pas-pasan"
+metaDescription = "Mungkinkah seseorang dengan gaji pas-pasan bisa memiliki rumah? Pelajari lebih lanjut tentang bagaimana tips memiliki rumah walau gaji pas-pasan"
 draft = false
 image = "https://accountgram-production.sfo2.cdn.digitaloceanspaces.com/landx_ghost/2019/05/tips-memiliki-rumah-sendiri-walau-gaji-pas-pasan.jpg"
 slug = "tips-memiliki-rumah-sendiri-walau-gaji-pas-pasan"

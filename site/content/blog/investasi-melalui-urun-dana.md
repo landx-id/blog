@@ -2,7 +2,7 @@
 author = "Abdul Wahhab"
 category = ["urun dana", "Securities Crowdfunding untuk Pengembangan UMKM di Indonesia"]
 date = 2021-08-19T11:51:41Z
-description = "Urun dana merupakan sistem yang memberikan anda kesempatan untuk melakukan investasi bisnis dengan modal kecil. Apa itu urun dana?"
+metaDescription = "Urun dana merupakan sistem yang memberikan anda kesempatan untuk melakukan investasi bisnis dengan modal kecil. Apa itu urun dana?"
 draft = false
 slug = "investasi-melalui-urun-dana"
 tag = ["urun dana", "Securities Crowdfunding untuk Pengembangan UMKM di Indonesia"]

@@ -2,7 +2,7 @@
 author = "Abdul Wahhab"
 category = ["crowdfunding indonesia", "Situs Crowdfunding", "Securities Crowdfunding untuk Pengembangan UMKM di Indonesia"]
 date = 2021-03-12T04:43:00Z
-description = "Equity crowdfunding merupakan sistem investasi yang aman dan telah berizin OJK yang telah diatur dalam POJK 37 tahun 2018 dan dikembangkan menjadi scf"
+metaDescription = "Equity crowdfunding merupakan sistem investasi yang aman dan telah berizin OJK yang telah diatur dalam POJK 37 tahun 2018 dan dikembangkan menjadi scf"
 draft = false
 image = "https://images.unsplash.com/photo-1460925895917-afdab827c52f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxMTc3M3wwfDF8c2VhcmNofDEwfHxidXNpbmVzc3xlbnwwfHx8fDE2Mzg4MDc3MzI&ixlib=rb-1.2.1&q=80&w=1080"
 slug = "equity-crowdfunding"

@@ -2,7 +2,7 @@
 author = "Abdul Wahhab"
 category = ["tips investasi", "menabung dengan benar"]
 date = 2021-07-29T10:55:16Z
-description = "Pahami langkah pengelolaan keuangan yang baik agar tujuan finansial anda dapat dicapai dengan lebih mudah|Tips mengelola uang jangka panjang"
+metaDescription = "Pahami langkah pengelolaan keuangan yang baik agar tujuan finansial anda dapat dicapai dengan lebih mudah|Tips mengelola uang jangka panjang"
 draft = false
 slug = "pengelolaan-keuangan-yang-baik"
 tag = ["tips investasi", "menabung dengan benar"]

@@ -2,7 +2,7 @@
 author = "Abdul Wahhab"
 category = ["bisnis di masa pandemi", "Memulai usaha", "bisnis jangka panjang"]
 date = 2021-07-07T06:59:43Z
-description = "Hindari hal ini yang menyebabkan kegagalan dalam usaha agar bisnis anda dapat berjalan dalam jangka panjang|Hal-halyang dapat menyebabkan kegagalan usaha..."
+metaDescription = "Hindari hal ini yang menyebabkan kegagalan dalam usaha agar bisnis anda dapat berjalan dalam jangka panjang|Hal-halyang dapat menyebabkan kegagalan usaha..."
 draft = false
 slug = "berikut-hal-hal-yang-dapat-menyebabkan-kegagalan-usaha-adalah"
 tag = ["bisnis di masa pandemi", "Memulai usaha", "bisnis jangka panjang"]

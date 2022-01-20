@@ -2,7 +2,7 @@
 author = "Gunawan Aldy"
 category = ["investasi", "landx", "Getting Started", "properti", "investasi properti", "Investasi untuk Pemula", "crowdfunding properti"]
 date = 2019-04-03T05:49:25Z
-description = "Tidak sedikit pemula yang mengalami rugi karena tidak bisa menganalisa dan mengurus properti. Jika Anda termasuk pemula, ada baiknya Anda membaca ulasan ini"
+metaDescription = "Tidak sedikit pemula yang mengalami rugi karena tidak bisa menganalisa dan mengurus properti. Jika Anda termasuk pemula, ada baiknya Anda membaca ulasan ini"
 draft = false
 image = "https://accountgram-production.sfo2.cdn.digitaloceanspaces.com/landx_ghost/2019/05/investasi-properti-untuk-pemula-1.jpg"
 slug = "investasi-properti-untuk-pemula"

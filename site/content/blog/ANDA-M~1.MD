@@ -2,7 +2,7 @@
 author = "Abdul Wahhab"
 category = ["Mengelola Keuangan", "bisnis di masa pandemi", "investasi bisnis", "investasi"]
 date = 2021-04-17T04:11:00Z
-description = "Tips mengelola uang dengan baik: 1. gunakan prinsip 50-30-20 2. miliki beberapa rekening tabungan 3. dana darurat 4. dana pensiun 5. asuransi 6. investasi"
+metaDescription = "Tips mengelola uang dengan baik: 1. gunakan prinsip 50-30-20 2. miliki beberapa rekening tabungan 3. dana darurat 4. dana pensiun 5. asuransi 6. investasi"
 draft = false
 image = "https://images.unsplash.com/photo-1518458028785-8fbcd101ebb9?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxMTc3M3wwfDF8c2VhcmNofDN8fG1vbmV5JTIwbWFuYWdlbWVudHxlbnwwfHx8fDE2MzkwNDQ2ODA&ixlib=rb-1.2.1&q=80&w=1080"
 slug = "anda-masih-kebingungan-bagaimana-mengelola-keuangan-ikuti-tips-mengelola-keuangan-untuk-generasi-milenial-berikut-untuk-kondisi-manajemen-keuangan-lebih-baik-di-2021"

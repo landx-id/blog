@@ -2,7 +2,7 @@
 author = "Abdul Wahhab"
 category = ["crowdfunding", "crowdfunding indonesia", "Situs Crowdfunding", "Securities Crowdfunding untuk Pengembangan UMKM di Indonesia"]
 date = 2021-09-13T04:52:08Z
-description = "crowdfunding adalah sistem pendaan yang melibatkan masyarakat luas untuk mendanai suatu proyek atau bisnis sehingga menjadi salah satu instrumen investasi"
+metaDescription = "crowdfunding adalah sistem pendaan yang melibatkan masyarakat luas untuk mendanai suatu proyek atau bisnis sehingga menjadi salah satu instrumen investasi"
 draft = false
 image = "https://images.unsplash.com/photo-1555043722-4523972f07ee?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxMTc3M3wwfDF8c2VhcmNofDV8fGluZG9uZXNpYXxlbnwwfHx8fDE2NDAyNTEwNzM&ixlib=rb-1.2.1&q=80&w=1080"
 slug = "crowdfunding-di-indonesia-untuk-investasi"

@@ -2,7 +2,7 @@
 author = "Abdul Wahhab"
 category = ["Memulai usaha", "usaha laundry", "Bisnis Franchise Modal Kecil", "bisnis di masa pandemi"]
 date = 2021-07-14T05:50:43Z
-description = "Yuk simak berbagai pertimbangan saat membangun usaha laundry yang bisa menguntungkan dalam jangka panjang. Berbagai hal penting dalam usaha laundry "
+metaDescription = "Yuk simak berbagai pertimbangan saat membangun usaha laundry yang bisa menguntungkan dalam jangka panjang. Berbagai hal penting dalam usaha laundry "
 draft = false
 slug = "usaha-laundry"
 tag = ["Memulai usaha", "usaha laundry", "Bisnis Franchise Modal Kecil", "bisnis di masa pandemi"]

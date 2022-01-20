@@ -2,7 +2,7 @@
 author = "Khurin N. Imandini"
 category = ["Padang Merdeka: Bisnis Rumah Makan Padang dengan Konsep Modern", "Bisnis F&B", "Bisnis Franchise Modal Kecil", "Bisnis Modal Kecil", "Franchise Makanan"]
 date = 2021-12-17T17:27:15Z
-description = "Restoran Padang Merdeka baru saja listing di LandX dan langsung diserbu oleh para investor hingga sold hanya dalam 39 menit, yuk cek berbagai project LandX"
+metaDescription = "Restoran Padang Merdeka baru saja listing di LandX dan langsung diserbu oleh para investor hingga sold hanya dalam 39 menit, yuk cek berbagai project LandX"
 draft = false
 image = "https://accountgram-production.sfo2.cdn.digitaloceanspaces.com/landx_ghost/2021/12/PADANG-MERDEKA-LISTING-DI-LANDX-SOLD-CUMA-DENGAN-39-MENIT-copy.jpg"
 slug = "listing-padang-merdeka-di-landx"

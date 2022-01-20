@@ -2,7 +2,7 @@
 author = "Abdul Wahhab"
 category = ["net present value", "npv", "tips investasi", "rasio keuangan"]
 date = 2021-06-11T02:22:58Z
-description = "Net present value merupakan hal penting dalam berinvestasi, karena itu yuk pahami definisi dan cara menghitung net present value sebelum berinvestasi"
+metaDescription = "Net present value merupakan hal penting dalam berinvestasi, karena itu yuk pahami definisi dan cara menghitung net present value sebelum berinvestasi"
 draft = false
 slug = "mengenal-apa-itu-net-present-value-atau-npv-definisi-fungsi-dan-cara-menghitung-npv"
 tag = ["net present value", "npv", "tips investasi", "rasio keuangan"]

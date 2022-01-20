@@ -2,7 +2,7 @@
 author = "Abdul Wahhab"
 category = ["Perbedaan Dividen dan Capital Gain", "investasi", "ROI"]
 date = 2021-11-08T07:10:56Z
-description = "Dividen adalah keuntungan bersih yang didapatkan perusahaan dan dibagikan kepada pemegang saham, berikut beberapa jenis dan perhitungan dividen "
+metaDescription = "Dividen adalah keuntungan bersih yang didapatkan perusahaan dan dibagikan kepada pemegang saham, berikut beberapa jenis dan perhitungan dividen "
 draft = false
 image = "https://images.unsplash.com/photo-1518458028785-8fbcd101ebb9?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxMTc3M3wwfDF8c2VhcmNofDF8fG1vbmV5JTIwcGVvcGxlfGVufDB8fHx8MTY0MDE0MTU2Ng&ixlib=rb-1.2.1&q=80&w=1080"
 slug = "memahami-apa-itu-dividen"

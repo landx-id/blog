@@ -2,7 +2,7 @@
 author = "Abdul Wahhab"
 category = ["tips investasi", "bisnis patungan"]
 date = 2021-10-17T07:45:00Z
-description = "Joint venture atau perusahaan patungan adalah perusahaan yang terbentuk  dari kolaborasi dua perusahaan hingga menghasilkan satu perusahaan baru"
+metaDescription = "Joint venture atau perusahaan patungan adalah perusahaan yang terbentuk  dari kolaborasi dua perusahaan hingga menghasilkan satu perusahaan baru"
 draft = false
 image = "https://images.unsplash.com/photo-1549923746-c502d488b3ea?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxMTc3M3wwfDF8c2VhcmNofDJ8fGpvaW50JTIwdmVudHVyZXxlbnwwfHx8fDE2NDAxNDc4NTA&ixlib=rb-1.2.1&q=80&w=1080"
 slug = "memahami-apa-itu-joint-venture-dan-kenapa-perusahaan-membentuk-joint-venture"

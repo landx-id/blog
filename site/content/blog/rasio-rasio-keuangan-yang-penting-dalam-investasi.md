@@ -2,7 +2,7 @@
 author = "Abdul Wahhab"
 category = ["rasio keuangan", "agio saham", "investasi", "investasi jangka panjang", "investasi keuangan", "investasi pemula", "tips investasi"]
 date = 2021-07-22T05:55:16Z
-description = "Rasio-rasio keuangan yang penting dipahami: 1. Rasio Profitabilitas 2. Rasio Likuiditas 3. Rasio Solvabilitas 4. Rasio Aktivitas | Pentingnya Rasio Keuangan"
+metaDescription = "Rasio-rasio keuangan yang penting dipahami: 1. Rasio Profitabilitas 2. Rasio Likuiditas 3. Rasio Solvabilitas 4. Rasio Aktivitas | Pentingnya Rasio Keuangan"
 draft = false
 slug = "rasio-rasio-keuangan-yang-penting-dalam-investasi"
 tag = ["rasio keuangan", "agio saham", "investasi", "investasi jangka panjang", "investasi keuangan", "investasi pemula", "tips investasi"]

@@ -1,7 +1,7 @@
 +++
 author = "Gunawan Aldy"
 date = 2019-09-16T03:19:36Z
-description = "Banyak hal harus dipahami untuk membuat Anda sukses ketika Anda berinvestasi di properti/real estat. Ikuti tips-tips berikut ini"
+metaDescription = "Banyak hal harus dipahami untuk membuat Anda sukses ketika Anda berinvestasi di properti/real estat. Ikuti tips-tips berikut ini"
 draft = false
 image = "https://accountgram-production.sfo2.cdn.digitaloceanspaces.com/landx_ghost/2019/09/investasi-properti-dengan-benar.jpg"
 slug = "11-tips-investasi-properti-dengan-benar"

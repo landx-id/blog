@@ -2,7 +2,7 @@
 author = "Abdul Wahhab"
 category = ["investasi", "investasi keuangan", "menabung dengan benar", "memulai investasi menguntungkan"]
 date = 2021-09-27T09:22:08Z
-description = "Aset adalah sumber daya yang dimiliki oleh individu atau instansi yang bisa memberikan keuntungan kepada pemiliknya di masa mendatang. Jenis-jenis aset"
+metaDescription = "Aset adalah sumber daya yang dimiliki oleh individu atau instansi yang bisa memberikan keuntungan kepada pemiliknya di masa mendatang. Jenis-jenis aset"
 draft = false
 image = "https://images.unsplash.com/photo-1634757439914-23b8acb9d411?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxMTc3M3wwfDF8c2VhcmNofDJ8fGhvdXNlJTIwbW9uZXl8ZW58MHx8fHwxNjQwMjQ5OTk4&ixlib=rb-1.2.1&q=80&w=1080"
 slug = "aset-adalah-memahami-jenis-jenis-dan-apa-itu-aset"

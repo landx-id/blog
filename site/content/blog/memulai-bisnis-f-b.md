@@ -2,7 +2,7 @@
 author = "Abdul Wahhab"
 category = ["Bisnis F&B", "Bisnis Franchise Modal Kecil", "bisnis investasi", "bisnis investasi terpercaya"]
 date = 2021-06-23T04:45:45Z
-description = "Berikut beberapa tips memulai bisnis F&B yang bisa anda terapkan untuk bisnis anda. Perhatikan beberapa hal ini saat anda memulai bisnis F&B."
+metaDescription = "Berikut beberapa tips memulai bisnis F&B yang bisa anda terapkan untuk bisnis anda. Perhatikan beberapa hal ini saat anda memulai bisnis F&B."
 draft = false
 slug = "memulai-bisnis-f-b"
 tag = ["Bisnis F&B", "Bisnis Franchise Modal Kecil", "bisnis investasi", "bisnis investasi terpercaya"]

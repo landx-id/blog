@@ -2,7 +2,7 @@
 author = "Gunawan Aldy"
 category = ["landx-app-announcement"]
 date = 2021-07-08T02:39:21Z
-description = "Yuk lihat gimana serunya Nirina Zubir menjalani treatment kecantikan di NMW Clinic| Tonton videp keseruan Nirina Zubir di NMW Clinic"
+metaDescription = "Yuk lihat gimana serunya Nirina Zubir menjalani treatment kecantikan di NMW Clinic| Tonton videp keseruan Nirina Zubir di NMW Clinic"
 draft = false
 image = "https://accountgram-production.sfo2.cdn.digitaloceanspaces.com/landx_ghost/2021/07/Screenshot-2021-07-08-at-13-31-21-Simak-Keseruan-Nirina-Zubir-Saat-Menjalani-Treatment-di-NMW-Clinic.png"
 slug = "keseruan-nirina-zubir-menjalani-treatment-kecantikan-di-nmw-clinic"

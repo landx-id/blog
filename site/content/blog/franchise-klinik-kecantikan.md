@@ -2,7 +2,7 @@
 author = "Abdul Wahhab"
 category = ["Bisnis Franchise Modal Kecil", "franchise klinik kecantikan", "sistem franchise", "investasi bisnis"]
 date = 2021-06-18T04:31:46Z
-description = "simak bagaimana membangun franchise atau waralaba klinik kecantikan dengan modal kecil untung besar. Tips memulai waralaba klinik kecantikan modal kecil"
+metaDescription = "simak bagaimana membangun franchise atau waralaba klinik kecantikan dengan modal kecil untung besar. Tips memulai waralaba klinik kecantikan modal kecil"
 draft = false
 slug = "franchise-klinik-kecantikan"
 tag = ["Bisnis Franchise Modal Kecil", "franchise klinik kecantikan", "sistem franchise", "investasi bisnis"]

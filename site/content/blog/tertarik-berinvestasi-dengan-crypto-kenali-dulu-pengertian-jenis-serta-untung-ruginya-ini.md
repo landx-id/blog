@@ -2,7 +2,7 @@
 author = "Abdul Wahhab"
 category = ["Cryptocurrency", "Instrumen Investasi"]
 date = 2021-11-24T09:16:45Z
-description = "Cryptocurrency atau yang sering kita sebut kripto adalah mata uang digital yang menggunakan sistem kriptografi yang membantu menjaga keamanan dari sistem.."
+metaDescription = "Cryptocurrency atau yang sering kita sebut kripto adalah mata uang digital yang menggunakan sistem kriptografi yang membantu menjaga keamanan dari sistem.."
 draft = false
 image = "https://images.unsplash.com/photo-1638913976381-5b8ed66c36d6?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxMTc3M3wxfDF8c2VhcmNofDF8fGNyeXB0b3xlbnwwfHx8fDE2NDAwNjE2MjM&ixlib=rb-1.2.1&q=80&w=1080"
 slug = "tertarik-berinvestasi-dengan-crypto-kenali-dulu-pengertian-jenis-serta-untung-ruginya-ini"

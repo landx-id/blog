@@ -2,7 +2,7 @@
 author = "Gunawan Aldy"
 category = ["faq", "Getting Started", "landx"]
 date = 2019-04-09T14:46:20Z
-description = "Pahami cara mulai membeli properti crowdfunding melalui LandX | Cara membeli properti online melalui LandX equity crowdfunding."
+metaDescription = "Pahami cara mulai membeli properti crowdfunding melalui LandX | Cara membeli properti online melalui LandX equity crowdfunding."
 draft = false
 slug = "cara-membeli-properti-online-di-landx"
 tag = ["faq", "Getting Started", "landx"]

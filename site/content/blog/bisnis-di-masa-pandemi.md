@@ -2,7 +2,7 @@
 author = "Abdul Wahhab"
 category = ["Bisnis F&B", "Bisnis Franchise Modal Kecil", "bisnis di masa pandemi"]
 date = 2021-06-25T16:25:42Z
-description = "cek beberapa jenis bisnis yang tetap berkembang pesat di setelah masa pandemi berlalu untuk pilihan bisnis yang bisa anda coba. bisnis masa pandemi"
+metaDescription = "cek beberapa jenis bisnis yang tetap berkembang pesat di setelah masa pandemi berlalu untuk pilihan bisnis yang bisa anda coba. bisnis masa pandemi"
 draft = false
 slug = "bisnis-di-masa-pandemi"
 tag = ["Bisnis F&B", "Bisnis Franchise Modal Kecil", "bisnis di masa pandemi"]

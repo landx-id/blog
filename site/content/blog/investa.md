@@ -2,7 +2,7 @@
 author = "Abdul Wahhab"
 category = ["bisnis investasi", "crowdfunding indonesia", "crowdfunding properti", "Equity Crowdfunding", "investasi bisnis", "Securities Crowdfunding untuk Pengembangan UMKM di Indonesia"]
 date = 2021-03-24T10:05:43Z
-description = "Kini sangat mungkin bagi anda untuk mendapatkan keuntungan besar melalui investasi yang bisa dimulai hanya dengan modal 10 juta melalui investasi"
+metaDescription = "Kini sangat mungkin bagi anda untuk mendapatkan keuntungan besar melalui investasi yang bisa dimulai hanya dengan modal 10 juta melalui investasi"
 draft = false
 image = "https://images.unsplash.com/photo-1589666564459-93cdd3ab856a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxMTc3M3wwfDF8c2VhcmNofDd8fGludmVzdG1lbnR8ZW58MHx8fHwxNjM4ODEyMzM0&ixlib=rb-1.2.1&q=80&w=1080"
 slug = "investa"

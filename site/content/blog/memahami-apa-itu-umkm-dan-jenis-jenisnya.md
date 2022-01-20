@@ -2,7 +2,7 @@
 author = "Abdul Wahhab"
 category = ["Securities Crowdfunding untuk Pengembangan UMKM di Indonesia", "investasi umkm", "UMKM"]
 date = 2021-11-24T12:30:26Z
-description = "Secara garis besar, UMKM merupakan sebuah bisnis atau usaha yang dijalankan oleh individu, keluarga, maupun badan usaha berukuran mikro. UMKM memiliki peran."
+metaDescription = "Secara garis besar, UMKM merupakan sebuah bisnis atau usaha yang dijalankan oleh individu, keluarga, maupun badan usaha berukuran mikro. UMKM memiliki peran."
 draft = false
 image = "https://images.unsplash.com/photo-1556740758-90de374c12ad?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxMTc3M3wwfDF8c2VhcmNofDJ8fHNtYWxsJTIwYnVzaW5lc3N8ZW58MHx8fHwxNjQwMDYxNTQ1&ixlib=rb-1.2.1&q=80&w=1080"
 slug = "memahami-apa-itu-umkm-dan-jenis-jenisnya"

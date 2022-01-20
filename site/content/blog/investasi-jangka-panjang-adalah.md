@@ -2,7 +2,7 @@
 author = "Abdul Wahhab"
 category = ["investasi jangka panjang", "investasi bagi hasil"]
 date = 2021-08-03T06:38:52Z
-description = "Investasi jangka panjang, pahami berbagai tips membangun investasi jangka panjang yang menguntungkan | Rekomendasi investasi jangka panjang terbaik"
+metaDescription = "Investasi jangka panjang, pahami berbagai tips membangun investasi jangka panjang yang menguntungkan | Rekomendasi investasi jangka panjang terbaik"
 draft = false
 slug = "investasi-jangka-panjang-adalah"
 tag = ["investasi jangka panjang", "investasi bagi hasil"]

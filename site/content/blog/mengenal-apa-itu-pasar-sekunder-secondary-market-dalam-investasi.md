@@ -2,7 +2,7 @@
 author = "Abdul Wahhab"
 category = ["investasi", "investasi bagi hasil", "investasi bisnis", "investasi dengan modal kecil", "investasi keuangan", "investasi pemula", "Cara Investasi Saham", "investasi saham", "Securities Crowdfunding untuk Pengembangan UMKM di Indonesia"]
 date = 2021-04-27T02:23:07Z
-description = "Pasar primer (primary market) dan pasar sekunder (secondary market) adalah dua istilah yang harus kamu pahami apabila berinvestasi di pasar modal."
+metaDescription = "Pasar primer (primary market) dan pasar sekunder (secondary market) adalah dua istilah yang harus kamu pahami apabila berinvestasi di pasar modal."
 draft = false
 image = "https://images.unsplash.com/photo-1516321497487-e288fb19713f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxMTc3M3wwfDF8c2VhcmNofDF8fHNlY29uZGFyeSUyMG1hcmtldHxlbnwwfHx8fDE2NDAyODYxOTc&ixlib=rb-1.2.1&q=80&w=1080"
 slug = "mengenal-apa-itu-pasar-sekunder-secondary-market-dalam-investasi"

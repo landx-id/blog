@@ -2,7 +2,7 @@
 author = "Abdul Wahhab"
 category = ["investasi saham", "Cara Investasi Saham"]
 date = 2021-06-25T10:29:54Z
-description = "price earning ratio adalah salah satu rasio keuangan yang bisa digunakan untuk menilai saham. price to earning ratio menunjukkan bagaimana saham yang akan.."
+metaDescription = "price earning ratio adalah salah satu rasio keuangan yang bisa digunakan untuk menilai saham. price to earning ratio menunjukkan bagaimana saham yang akan.."
 draft = false
 slug = "price-earning-ratio-adalah"
 tag = ["investasi saham", "Cara Investasi Saham"]

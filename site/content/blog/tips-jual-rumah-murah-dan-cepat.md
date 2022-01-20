@@ -2,7 +2,7 @@
 author = "Gunawan Aldy"
 category = ["properti"]
 date = 2019-10-21T10:05:39Z
-description = "Untuk membuat penjualan rumah Anda lebih cepat dan lebih mudah, dan tentu saja dengan harga yang baik tergantung pada pasar."
+metaDescription = "Untuk membuat penjualan rumah Anda lebih cepat dan lebih mudah, dan tentu saja dengan harga yang baik tergantung pada pasar."
 draft = false
 image = "https://accountgram-production.sfo2.cdn.digitaloceanspaces.com/landx_ghost/2019/10/Tips-Jual-Rumah-Murah-dan-Cepat.jpg"
 slug = "tips-jual-rumah-murah-dan-cepat"

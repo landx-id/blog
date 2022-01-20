@@ -2,7 +2,7 @@
 author = "Abdul Wahhab"
 category = ["tips investasi", "manajemen keuangan", "cara mengembangkan uang dengan cepat", "Mengelola Keuangan", "dana darurat", "investasi", "investasi pemula"]
 date = 2021-11-12T03:36:07Z
-description = "Skala prioritas adalah urutan cara pengurutan kebutuhan dari yang paling penting hingga yang tidak/ bisa ditunda. Menyusun skala prioritas dalam keuangan"
+metaDescription = "Skala prioritas adalah urutan cara pengurutan kebutuhan dari yang paling penting hingga yang tidak/ bisa ditunda. Menyusun skala prioritas dalam keuangan"
 draft = false
 image = "https://images.unsplash.com/photo-1530653048-4d8c08678aa0?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxMTc3M3wwfDF8c2VhcmNofDJ8fHByaW9yaXR5fGVufDB8fHx8MTY0MDA2OTEwNA&ixlib=rb-1.2.1&q=80&w=1080"
 slug = "konsep-skala-prioritas"

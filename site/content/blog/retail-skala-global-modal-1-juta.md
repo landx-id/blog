@@ -2,7 +2,7 @@
 author = "Abdul Wahhab"
 category = ["landx-app-announcement"]
 date = 2021-11-03T07:29:10Z
-description = "New Project!  \nXIMIVOGUE INDONESIA LISTING DI LANDX! "
+metaDescription = "New Project!  \nXIMIVOGUE INDONESIA LISTING DI LANDX! "
 draft = false
 slug = "retail-skala-global-modal-1-juta"
 tag = ["landx-app-announcement"]

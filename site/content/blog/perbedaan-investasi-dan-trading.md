@@ -2,7 +2,7 @@
 author = "Abdul Wahhab"
 category = ["investasi", "bisnis jangka panjang", "bisnis investasi terpercaya"]
 date = 2021-06-16T05:20:28Z
-description = "sudahkah anda  anda tahu apa perbedaan dari investasi dan trading? kalau belum yuk simak penjelasan di bawah ini tentang perbedaan investasi dan trading"
+metaDescription = "sudahkah anda  anda tahu apa perbedaan dari investasi dan trading? kalau belum yuk simak penjelasan di bawah ini tentang perbedaan investasi dan trading"
 draft = false
 image = "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxMTc3M3wwfDF8c2VhcmNofDF8fHRyYWRpbmd8ZW58MHx8fHwxNjM4ODYyMTc5&ixlib=rb-1.2.1&q=80&w=1080"
 slug = "perbedaan-investasi-dan-trading"

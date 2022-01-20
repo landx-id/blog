@@ -2,7 +2,7 @@
 author = "Gunawan Aldy"
 category = ["landx", "faq"]
 date = 2019-03-28T03:28:27Z
-description = "Jawaban untuk pertanyaan-pertanyaan yang paling sering ditanyakan seputar LandX."
+metaDescription = "Jawaban untuk pertanyaan-pertanyaan yang paling sering ditanyakan seputar LandX."
 draft = false
 image = "https://accountgram-production.sfo2.cdn.digitaloceanspaces.com/landx_ghost/2019/05/faq-landx.jpg"
 slug = "faq-landx"

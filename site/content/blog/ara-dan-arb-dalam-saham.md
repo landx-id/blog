@@ -2,7 +2,7 @@
 author = "Abdul Wahhab"
 category = ["tips investasi", "Cara Investasi Saham", "investasi", "investasi jangka panjang"]
 date = 2021-08-10T08:50:24Z
-description = "ARA (Auto Reject Atas) dan ARB (Auto Reject Bawah) adalah istilah penting dalam dunia saham terkait batas pergerakan suatu saham | Batas ARA & ARB saham"
+metaDescription = "ARA (Auto Reject Atas) dan ARB (Auto Reject Bawah) adalah istilah penting dalam dunia saham terkait batas pergerakan suatu saham | Batas ARA & ARB saham"
 draft = false
 slug = "ara-dan-arb-dalam-saham"
 tag = ["tips investasi", "Cara Investasi Saham", "investasi", "investasi jangka panjang"]

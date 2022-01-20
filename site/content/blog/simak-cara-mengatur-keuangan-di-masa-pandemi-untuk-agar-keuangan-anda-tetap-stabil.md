@@ -2,7 +2,7 @@
 author = "Abdul Wahhab"
 category = ["mengatur keuangan", "Investasi untuk Pemula", "investasi pemula", "tips investasi"]
 date = 2021-10-25T06:08:03Z
-description = "Berikut cara mengatur keuangan yang baik agar keuangan tetap stabil selama menghadapi pandemi: 1. Memahami Konsep 50-30-20 2. Menyusun Rencana Finansial"
+metaDescription = "Berikut cara mengatur keuangan yang baik agar keuangan tetap stabil selama menghadapi pandemi: 1. Memahami Konsep 50-30-20 2. Menyusun Rencana Finansial"
 draft = false
 image = "https://images.unsplash.com/photo-1592772425601-c23646d4c119?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxMTc3M3wwfDF8c2VhcmNofDR8fHBhbmRlbWljJTIwbW9uZXl8ZW58MHx8fHwxNjQwMTQ3NjI2&ixlib=rb-1.2.1&q=80&w=1080"
 slug = "simak-cara-mengatur-keuangan-di-masa-pandemi-untuk-agar-keuangan-anda-tetap-stabil"

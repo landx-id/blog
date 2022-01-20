@@ -2,7 +2,7 @@
 author = "Abdul Wahhab"
 category = ["cara mengembangkan uang dengan cepat", "Equity Crowdfunding", "investasi bisnis", "bisnis investasi"]
 date = 2021-05-24T03:41:44Z
-description = "Pahami cara mengembangkan uang dengan cepat melalui manajemen keuangan yang baik agar kondisi finansial anda menjadi lebih baik di tahun 2021."
+metaDescription = "Pahami cara mengembangkan uang dengan cepat melalui manajemen keuangan yang baik agar kondisi finansial anda menjadi lebih baik di tahun 2021."
 draft = false
 slug = "cara-mengembangkan-uang-dengan-cepat-mulai-mengatur-uang-dengan-baik-di-tahun-2021"
 tag = ["cara mengembangkan uang dengan cepat", "Equity Crowdfunding", "investasi bisnis", "bisnis investasi"]

@@ -2,7 +2,7 @@
 author = "Abdul Wahhab"
 category = ["investasi properti"]
 date = 2021-06-04T02:43:20Z
-description = "10 Rekomendasi situs jual beli rumah terpercaya terbaru tahun 2021 | Situs jual beli rumah terpercaya untuk pilihan transaksi properti anda."
+metaDescription = "10 Rekomendasi situs jual beli rumah terpercaya terbaru tahun 2021 | Situs jual beli rumah terpercaya untuk pilihan transaksi properti anda."
 draft = false
 image = "https://accountgram-production.sfo2.cdn.digitaloceanspaces.com/landx_ghost/2021/06/9.-situs-jual-beli-rumah-terpercaya.jpg"
 slug = "10-rekomendasi-situs-jual-beli-rumah-terpercaya-2021"

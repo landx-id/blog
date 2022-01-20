@@ -2,7 +2,7 @@
 author = "Abdul Wahhab"
 category = ["bisnis menguntungkan", "bisnis masa pandemi"]
 date = 2021-07-29T04:43:01Z
-description = "Mau memulai bisnis di masa pandemi? Berikut pilihan bisnis yang bisa anda coba mulai di tengah masa pandemi dengan keuntungan menjanjikan"
+metaDescription = "Mau memulai bisnis di masa pandemi? Berikut pilihan bisnis yang bisa anda coba mulai di tengah masa pandemi dengan keuntungan menjanjikan"
 draft = false
 slug = "5-bisnis-menguntungkan-dengan-modal-kecil"
 tag = ["bisnis menguntungkan", "bisnis masa pandemi"]

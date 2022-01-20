@@ -2,7 +2,7 @@
 author = "Abdul Wahhab"
 category = ["tips investasi", "dana darurat", "sandwich generation", "financial freedom"]
 date = 2021-11-02T16:48:43Z
-description = "Sandwich Generation adalah generasi terimpit karena menanggung beban dari dua keluarga, simak cara mengatur uang untuk memutus rantai generasi sandwich"
+metaDescription = "Sandwich Generation adalah generasi terimpit karena menanggung beban dari dua keluarga, simak cara mengatur uang untuk memutus rantai generasi sandwich"
 draft = false
 image = "https://accountgram-production.sfo2.cdn.digitaloceanspaces.com/landx_ghost/2021/11/Cara-menghindari-sandwich-generation.jpeg"
 slug = "memutus-rantai-sandwich-generation"

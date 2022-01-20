@@ -1,7 +1,7 @@
 +++
 author = "Abdul Wahhab"
 date = 2021-09-02T06:45:50Z
-description = "Kupas Tuntas Bisnis Kapal Cumi yang Terus Sustain Walaupun Dihadang Pandemi"
+metaDescription = "Kupas Tuntas Bisnis Kapal Cumi yang Terus Sustain Walaupun Dihadang Pandemi"
 draft = false
 image = "https://accountgram-production.sfo2.cdn.digitaloceanspaces.com/landx_ghost/2021/09/IMG-20210902-WA0000.jpg"
 slug = "kupas-tuntas-bisnis-kapal-cumi"

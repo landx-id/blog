@@ -2,7 +2,7 @@
 author = "Abdul Wahhab"
 category = ["Bisnis Franchise Modal Kecil", "investasi bisnis", "Bisnis F&B", "Equity Crowdfunding", "Investasi Menguntungkan"]
 date = 2021-05-03T04:55:07Z
-description = "Bisnis franchise bisa menjadi pilihan investasi bisnis jangka panjang. Pelajari beberapa hal yang harus anda perhatikan dalam memilih bisnis franchise "
+metaDescription = "Bisnis franchise bisa menjadi pilihan investasi bisnis jangka panjang. Pelajari beberapa hal yang harus anda perhatikan dalam memilih bisnis franchise "
 draft = false
 slug = "tips-memilih-bisnis-franchise-terbaik-untuk-investasi-menguntungkan-jangka-panjang"
 tag = ["Bisnis Franchise Modal Kecil", "investasi bisnis", "Bisnis F&B", "Equity Crowdfunding", "Investasi Menguntungkan"]

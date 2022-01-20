@@ -2,7 +2,7 @@
 author = "Abdul Wahhab"
 category = ["Franchise Makanan", "sistem franchise", "Bisnis Franchise Modal Kecil", "franchise f&b", "franchise klinik kecantikan"]
 date = 2021-10-25T08:03:40Z
-description = "Franchise/ waralaba adalah salah satu sistem kemitraan dalam bisnis dimana pemilik franchise memberikan kesempatan untuk orang lain membuka bisnis serupa"
+metaDescription = "Franchise/ waralaba adalah salah satu sistem kemitraan dalam bisnis dimana pemilik franchise memberikan kesempatan untuk orang lain membuka bisnis serupa"
 draft = false
 image = "https://images.unsplash.com/photo-1466978913421-dad2ebd01d17?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxMTc3M3wwfDF8c2VhcmNofDJ8fHJlc3RhdXJhbnR8ZW58MHx8fHwxNjQwMTQ1Mjg4&ixlib=rb-1.2.1&q=80&w=1080"
 slug = "memiliki-bisnis-franchise-untuk-pemula"

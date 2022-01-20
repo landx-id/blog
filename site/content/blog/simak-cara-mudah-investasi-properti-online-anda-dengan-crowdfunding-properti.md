@@ -2,7 +2,7 @@
 author = "Abdul Wahhab"
 category = ["investasi properti", "investasi online", "crowdfunding properti", "Equity Crowdfunding", "Investasi propertionline", "Properti online", "Securities Crowdfunding untuk Pengembangan UMKM di Indonesia"]
 date = 2021-03-17T02:37:37Z
-description = "Investasi properti online bisa menjadi lebih mudah untuk investor bermodal kecil melalui crowdfunding properti | Yuk pelajari cara mudah mulai investasi...."
+metaDescription = "Investasi properti online bisa menjadi lebih mudah untuk investor bermodal kecil melalui crowdfunding properti | Yuk pelajari cara mudah mulai investasi...."
 draft = false
 slug = "simak-cara-mudah-investasi-properti-online-anda-dengan-crowdfunding-properti"
 tag = ["investasi properti", "investasi online", "crowdfunding properti", "Equity Crowdfunding", "Investasi propertionline", "Properti online", "Securities Crowdfunding untuk Pengembangan UMKM di Indonesia"]

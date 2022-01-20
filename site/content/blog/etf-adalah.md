@@ -2,7 +2,7 @@
 author = "Abdul Wahhab"
 category = ["ETF", "investasi", "investasi online", "investasi jangka panjang"]
 date = 2021-06-22T05:36:06Z
-description = "Exchange-Traded Fund (ETF) adalah instrumen investasi yang saat ini semakian diminati di pasaran. ETF memiliki sifat campuran dari reksa dana dan saham"
+metaDescription = "Exchange-Traded Fund (ETF) adalah instrumen investasi yang saat ini semakian diminati di pasaran. ETF memiliki sifat campuran dari reksa dana dan saham"
 draft = false
 slug = "etf-adalah"
 tag = ["ETF", "investasi", "investasi online", "investasi jangka panjang"]

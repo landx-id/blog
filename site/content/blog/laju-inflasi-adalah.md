@@ -2,7 +2,7 @@
 author = "Abdul Wahhab"
 category = ["laju inflasi", "inflasi"]
 date = 2021-06-14T06:53:33Z
-description = "Memahami apa itu laju inflasi dan bagaimana cara berinvestasi yang benar untuk menghadapi kondisi laju inflasi yang terus terjadi dari waktu ke waktu"
+metaDescription = "Memahami apa itu laju inflasi dan bagaimana cara berinvestasi yang benar untuk menghadapi kondisi laju inflasi yang terus terjadi dari waktu ke waktu"
 draft = false
 slug = "laju-inflasi-adalah"
 tag = ["laju inflasi", "inflasi"]

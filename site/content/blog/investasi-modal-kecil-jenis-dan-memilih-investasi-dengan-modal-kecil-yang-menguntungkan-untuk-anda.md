@@ -2,7 +2,7 @@
 author = "Abdul Wahhab"
 category = ["Investasi modal kecil", "crowdfunding", "investasi dengan modal kecil"]
 date = 2021-06-05T16:21:49Z
-description = "Investasi modal kecil menguntungkan sering kali dianggap tidak mungkin bagi investor pemula, padahal ada berbagai pilihan investasi modal kecil..."
+metaDescription = "Investasi modal kecil menguntungkan sering kali dianggap tidak mungkin bagi investor pemula, padahal ada berbagai pilihan investasi modal kecil..."
 draft = false
 slug = "investasi-modal-kecil-jenis-dan-memilih-investasi-dengan-modal-kecil-yang-menguntungkan-untuk-anda"
 tag = ["Investasi modal kecil", "crowdfunding", "investasi dengan modal kecil"]

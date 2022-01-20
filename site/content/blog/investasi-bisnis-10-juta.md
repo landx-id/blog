@@ -2,7 +2,7 @@
 author = "Abdul Wahhab"
 category = ["investasi bisnis", "Equity Crowdfunding", "investasi online", "Investasi Menguntungkan", "Cara Investasi Saham", "investasi saham", "dana darurat", "obligasi", "urun dana", "Investasi modal kecil"]
 date = 2021-03-19T03:01:27Z
-description = "Kalau punya uang 10 juta, enaknya investasi apa ya? Yuk simak investasi apa saja yang bisa dilakukan dengan modal 10 juta dan memberikan keuntungan optimal"
+metaDescription = "Kalau punya uang 10 juta, enaknya investasi apa ya? Yuk simak investasi apa saja yang bisa dilakukan dengan modal 10 juta dan memberikan keuntungan optimal"
 draft = false
 image = "https://images.unsplash.com/photo-1579621970795-87facc2f976d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxMTc3M3wwfDF8c2VhcmNofDV8fG1vbmV5fGVufDB8fHx8MTYzODgxMDQ1Mg&ixlib=rb-1.2.1&q=80&w=1080"
 slug = "investasi-bisnis-10-juta"

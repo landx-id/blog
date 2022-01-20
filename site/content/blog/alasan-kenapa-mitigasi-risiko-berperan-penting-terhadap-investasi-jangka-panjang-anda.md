@@ -2,7 +2,7 @@
 author = "Abdul Wahhab"
 category = ["bisnis investasi", "Equity Crowdfunding", "investasi", "Investasi modal kecil", "investasi properti", "Securities Crowdfunding untuk Pengembangan UMKM di Indonesia"]
 date = 2021-05-06T04:43:24Z
-description = "Apa itu mitigasi risiko? Mitigasi risiko adalah strategi yang harus anda siapkan agar untuk menghadapi berbagai risiko yang mungkin muncul dalam investasi"
+metaDescription = "Apa itu mitigasi risiko? Mitigasi risiko adalah strategi yang harus anda siapkan agar untuk menghadapi berbagai risiko yang mungkin muncul dalam investasi"
 draft = false
 slug = "alasan-kenapa-mitigasi-risiko-berperan-penting-terhadap-investasi-jangka-panjang-anda"
 tag = ["bisnis investasi", "Equity Crowdfunding", "investasi", "Investasi modal kecil", "investasi properti", "Securities Crowdfunding untuk Pengembangan UMKM di Indonesia"]

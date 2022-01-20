@@ -2,7 +2,7 @@
 author = "Abdul Wahhab"
 category = ["Bisnis Franchise Modal Kecil", "Bisnis F&B", "Franchise Makanan", "sistem franchise"]
 date = 2021-05-07T03:35:25Z
-description = "Sistem franchise bisa menjadi solusi apabila anda ingin membuka bisnis tapi tidak mau kesulitan membangun brand dari awal. Pelajari cara memilih franchise.."
+metaDescription = "Sistem franchise bisa menjadi solusi apabila anda ingin membuka bisnis tapi tidak mau kesulitan membangun brand dari awal. Pelajari cara memilih franchise.."
 draft = false
 slug = "mengenal-franchise-dalam-bisnis-kemudahan-memulai-bisnis-dengan-sistem-franchise"
 tag = ["Bisnis Franchise Modal Kecil", "Bisnis F&B", "Franchise Makanan", "sistem franchise"]

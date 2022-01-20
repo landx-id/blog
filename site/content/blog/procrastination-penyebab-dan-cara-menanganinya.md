@@ -2,7 +2,7 @@
 author = "Khurin N. Imandini"
 category = ["memulai investasi menguntungkan", "tips investasi", "investasi terbaik"]
 date = 2021-12-03T10:51:30Z
-description = "Procrastination adalah perilaku suka menunda-nunda suatu pekerjaan sehingga dapat mengganggu berbagai kegiatan lain yang harus dikerjakan seseorang"
+metaDescription = "Procrastination adalah perilaku suka menunda-nunda suatu pekerjaan sehingga dapat mengganggu berbagai kegiatan lain yang harus dikerjakan seseorang"
 draft = false
 image = "https://images.unsplash.com/photo-1618068656845-fa244b9f8bd4?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxMTc3M3wwfDF8c2VhcmNofDZ8fGRlbGF5fGVufDB8fHx8MTYzODUzMzY0MA&ixlib=rb-1.2.1&q=80&w=1080"
 slug = "procrastination-penyebab-dan-cara-menanganinya"

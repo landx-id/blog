@@ -2,7 +2,7 @@
 author = "Abdul Wahhab"
 category = ["Orang Terkaya di Dunia", "Ellon Musk", "Jeff Bezos", "Bill Gates", "Larry Page", "tips investasi"]
 date = 2021-11-16T10:26:29Z
-description = "Forbes baru saja merilis daftar orang terkaya di dunia 2021: \n#1 Ellon Musk #2 Jeff Bezos #3 Bernard Arnault & Family #4 Bill Gates #5 Larry Page\n"
+metaDescription = "Forbes baru saja merilis daftar orang terkaya di dunia 2021: \n#1 Ellon Musk #2 Jeff Bezos #3 Bernard Arnault & Family #4 Bill Gates #5 Larry Page\n"
 draft = false
 image = "https://images.unsplash.com/photo-1617671536627-ad3218167479?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxMTc3M3wwfDF8c2VhcmNofDMzfHxlbG9ufGVufDB8fHx8MTY0MDA2ODY1MQ&ixlib=rb-1.2.1&q=80&w=1080"
 slug = "daftar-orang-terkaya-di-dunia-tahun-2021"

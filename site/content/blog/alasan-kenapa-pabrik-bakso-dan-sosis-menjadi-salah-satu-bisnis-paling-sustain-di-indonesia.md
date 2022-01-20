@@ -2,7 +2,7 @@
 author = "Abdul Wahhab"
 category = ["investasi bisnis", "Investasi modal kecil", "bisnis investasi online", "bisnis di masa pandemi", "Bisnis Franchise Modal Kecil", "bisnis investasi terpercaya", "bisnis jangka panjang", "bisnis menguntungkan", "Equity Crowdfunding", "Memulai usaha", "Volatilitas"]
 date = 2021-10-05T12:13:22Z
-description = "Pabrik bakso dan sosis merupakan bisnis yang tahan pandemi karena demand/ permintaan akan produk ini tetap meningkat walaupun masa pandemi"
+metaDescription = "Pabrik bakso dan sosis merupakan bisnis yang tahan pandemi karena demand/ permintaan akan produk ini tetap meningkat walaupun masa pandemi"
 draft = false
 image = "https://images.unsplash.com/photo-1620238259493-79ab814a426c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxMTc3M3wwfDF8c2VhcmNofDN8fG1lYXRiYWxsfGVufDB8fHx8MTY0MDE0OTk0Mw&ixlib=rb-1.2.1&q=80&w=1080"
 slug = "alasan-kenapa-pabrik-bakso-dan-sosis-menjadi-salah-satu-bisnis-paling-sustain-di-indonesia"

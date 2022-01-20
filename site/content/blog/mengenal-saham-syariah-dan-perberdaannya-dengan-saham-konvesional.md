@@ -2,7 +2,7 @@
 author = "Abdul Wahhab"
 category = ["Cara Investasi Saham", "investasi saham", "saham konvensional", "saham syariah"]
 date = 2021-11-17T12:50:49Z
-description = "Saham syariah adalah bukti kepemilkan modal terhadap suatu perusahaan yang berjalan sesuai dengan prinsip dan aturan syariah islam| Indeks saham syariah"
+metaDescription = "Saham syariah adalah bukti kepemilkan modal terhadap suatu perusahaan yang berjalan sesuai dengan prinsip dan aturan syariah islam| Indeks saham syariah"
 draft = false
 image = "https://images.unsplash.com/photo-1559526324-593bc073d938?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxMTc3M3wwfDF8c2VhcmNofDMyfHxzdG9ja3xlbnwwfHx8fDE2NDAxNDc3ODU&ixlib=rb-1.2.1&q=80&w=1080"
 slug = "mengenal-saham-syariah-dan-perberdaannya-dengan-saham-konvesional"

@@ -1,7 +1,7 @@
 +++
 author = "Gunawan Aldy"
 date = 2019-07-08T09:02:51Z
-description = "Investasi Crowdfunding melibatkan peningkatan jumlah tertentu untuk mendanai produk / proyek, bisnis atau kegiatan filantropi oleh sejumlah besar orang, biasanya melalui platform online."
+metaDescription = "Investasi Crowdfunding melibatkan peningkatan jumlah tertentu untuk mendanai produk / proyek, bisnis atau kegiatan filantropi oleh sejumlah besar orang, biasanya melalui platform online."
 draft = false
 image = "https://accountgram-production.sfo2.cdn.digitaloceanspaces.com/landx_ghost/2019/06/investasi-crowdfunding.jpg"
 slug = "investasi-crowdfunding"

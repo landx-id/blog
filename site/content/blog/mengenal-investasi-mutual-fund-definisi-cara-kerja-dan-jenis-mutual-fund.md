@@ -2,7 +2,7 @@
 author = "Abdul Wahhab"
 category = ["investasi bisnis", "investasi bagi hasil", "investasi", "Investasi Menguntungkan", "investasi online", "Investasi online terbaru"]
 date = 2021-04-28T04:12:15Z
-description = "Mutual fund merupakan salah satu pilihan investasi yang cocok untuk investor pemula yang masih memiliki keterbatasan kemampuan dan waktu untuk investasi"
+metaDescription = "Mutual fund merupakan salah satu pilihan investasi yang cocok untuk investor pemula yang masih memiliki keterbatasan kemampuan dan waktu untuk investasi"
 draft = false
 slug = "mengenal-investasi-mutual-fund-definisi-cara-kerja-dan-jenis-mutual-fund"
 tag = ["investasi bisnis", "investasi bagi hasil", "investasi", "Investasi Menguntungkan", "investasi online", "Investasi online terbaru"]

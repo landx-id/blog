@@ -1,7 +1,7 @@
 +++
 author = "Gunawan Aldy"
 date = 2019-07-24T04:03:25Z
-description = "Investasi ini dapat dilakukan secara langsung (misalnya: saham) atau secara tidak langsung, dalam bentuk lembaga atau lembaga investasi (misalnya, reksa dana)."
+metaDescription = "Investasi ini dapat dilakukan secara langsung (misalnya: saham) atau secara tidak langsung, dalam bentuk lembaga atau lembaga investasi (misalnya, reksa dana)."
 draft = false
 image = "https://accountgram-production.sfo2.cdn.digitaloceanspaces.com/landx_ghost/2019/06/investasi-finansial.jpg"
 slug = "investasi-finansial"

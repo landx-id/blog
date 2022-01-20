@@ -2,7 +2,7 @@
 author = "Abdul Wahhab"
 category = ["Bisnis Franchise Modal Kecil", "franchise f&b", "sistem franchise", "Franchise Makanan", "Padang Merdeka: Bisnis Rumah Makan Padang dengan Konsep Modern", "Bisnis F&B"]
 date = 2021-10-05T10:48:00Z
-description = "Banyak restoran padang saat ini mulai membuka kemitraan dengan sistem franchise sehingga membuka bisnis potensial ini menjadi lebih mudah dan menguntungkan"
+metaDescription = "Banyak restoran padang saat ini mulai membuka kemitraan dengan sistem franchise sehingga membuka bisnis potensial ini menjadi lebih mudah dan menguntungkan"
 draft = false
 image = "https://accountgram-production.sfo2.cdn.digitaloceanspaces.com/landx_ghost/2021/12/jadi-pemilik-franchise-padang-merdeka-cuma-dengan-modal-1-jutaan-aja.png"
 slug = "membangun-bisnis-rumah-makan-padang-dengan-sistem-franchise"

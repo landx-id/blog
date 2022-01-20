@@ -2,7 +2,7 @@
 author = "Vlora Riyandi"
 category = ["Fintech", "tips investasi", "Tips Keuangan"]
 date = 2021-11-25T13:19:40Z
-description = "Layanan pinjaman online, fintech lending atau P2P lending telah menjadi isu yang sering dibahas saat ini, karena selain pinjol ilegal pinjol illegal juga me"
+metaDescription = "Layanan pinjaman online, fintech lending atau P2P lending telah menjadi isu yang sering dibahas saat ini, karena selain pinjol ilegal pinjol illegal juga me"
 draft = false
 image = "https://accountgram-production.sfo2.cdn.digitaloceanspaces.com/landx_ghost/2021/11/Pinjol-legal-mulai-berguguran--jangan-pindah-pinjol-ilegal-ya.jpg"
 slug = "pinjol-legal-ojk-berguguran"

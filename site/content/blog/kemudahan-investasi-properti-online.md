@@ -2,7 +2,7 @@
 author = "Gunawan Aldy"
 category = ["investasi", "landx", "properti", "Getting Started"]
 date = 2019-04-03T05:58:39Z
-description = "Meraih keuntungan dengan investasi properti semakin mudah dengan investasi properti online dengan platform crowdfunding (patungan). "
+metaDescription = "Meraih keuntungan dengan investasi properti semakin mudah dengan investasi properti online dengan platform crowdfunding (patungan). "
 draft = false
 image = "https://accountgram-production.sfo2.cdn.digitaloceanspaces.com/landx_ghost/2019/05/kemudahan-investasi-properti-online.jpg"
 slug = "kemudahan-investasi-properti-online"

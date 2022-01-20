@@ -2,7 +2,7 @@
 author = "Abdul Wahhab"
 category = ["bisnis investasi", "investasi", "Situs Crowdfunding"]
 date = 2021-04-29T04:11:50Z
-description = "Apa itu hedge fund dan bagaimana sistem investasi menggunakan hedge fund serta karakteristik yang membedakan hedge fund dan mutual fund"
+metaDescription = "Apa itu hedge fund dan bagaimana sistem investasi menggunakan hedge fund serta karakteristik yang membedakan hedge fund dan mutual fund"
 draft = false
 slug = "hedge-fund-pengertian-tujuan-karakteristik-dan-memulai-hedge-fund"
 tag = ["bisnis investasi", "investasi", "Situs Crowdfunding"]

@@ -2,7 +2,7 @@
 author = "Abdul Wahhab"
 category = ["investasi properti", "crowdfunding properti", "investasi bisnis"]
 date = 2021-06-29T05:01:49Z
-description = "Investasi Rumah|Tips Investasi Rumah|Cara Memulai Investasi Rumah yang Menguntungkan untuk Pemula|Membangun Rumah untuk Investasi"
+metaDescription = "Investasi Rumah|Tips Investasi Rumah|Cara Memulai Investasi Rumah yang Menguntungkan untuk Pemula|Membangun Rumah untuk Investasi"
 draft = false
 slug = "memulai-investasi-rumah"
 tag = ["investasi properti", "crowdfunding properti", "investasi bisnis"]

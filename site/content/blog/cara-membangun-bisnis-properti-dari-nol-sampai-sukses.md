@@ -2,7 +2,7 @@
 author = "Gunawan Aldy"
 category = ["properti", "investasi"]
 date = 2019-04-02T08:18:04Z
-description = "Salah satu kendala terbesar yang seringkali dihadapi oleh seseorang yang ingin memulai bisnis properti adalah keterbatasan modal. Simak solusi berikut ini."
+metaDescription = "Salah satu kendala terbesar yang seringkali dihadapi oleh seseorang yang ingin memulai bisnis properti adalah keterbatasan modal. Simak solusi berikut ini."
 draft = false
 image = "https://accountgram-production.sfo2.cdn.digitaloceanspaces.com/landx_ghost/2019/05/Cara-Membangun-Bisnis-Properti-dari-Nol-Sampai-Sukses.jpg"
 slug = "cara-membangun-bisnis-properti-dari-nol-sampai-sukses"

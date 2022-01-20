@@ -2,7 +2,7 @@
 author = "Abdul Wahhab"
 category = ["Securities Crowdfunding untuk Pengembangan UMKM di Indonesia", "crowdfunding", "bisnis investasi", "investasi bisnis", "Investasi Menguntungkan"]
 date = 2021-05-06T03:35:45Z
-description = "Securities crowdfunding adalah sistem urun dana untuk pendanaan kepada bisnis dan UMKM yang juga menjadi sarana investor untuk melakukan investasi"
+metaDescription = "Securities crowdfunding adalah sistem urun dana untuk pendanaan kepada bisnis dan UMKM yang juga menjadi sarana investor untuk melakukan investasi"
 draft = false
 slug = "securities-crowdfunding-scf-dan-equity-crowdfunding-ecf"
 tag = ["Securities Crowdfunding untuk Pengembangan UMKM di Indonesia", "crowdfunding", "bisnis investasi", "investasi bisnis", "Investasi Menguntungkan"]

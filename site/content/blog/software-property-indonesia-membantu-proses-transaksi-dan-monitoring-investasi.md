@@ -2,7 +2,7 @@
 author = "Abdul Wahhab"
 category = ["bisnis investasi online", "crowdfunding indonesia", "investasi online", "investasi properti"]
 date = 2021-03-27T05:23:00Z
-description = "Software property Indonesia memudahkan proses transaksi dan monitoring investasi properti yang anda lakukan | Memilih Software Property terpercaya."
+metaDescription = "Software property Indonesia memudahkan proses transaksi dan monitoring investasi properti yang anda lakukan | Memilih Software Property terpercaya."
 draft = false
 image = "https://accountgram-production.sfo2.cdn.digitaloceanspaces.com/landx_ghost/2021/03/7.-software-propert-indonesia.jpg"
 slug = "software-property-indonesia-membantu-proses-transaksi-dan-monitoring-investasi"

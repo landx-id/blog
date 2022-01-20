@@ -2,7 +2,7 @@
 author = "Gunawan Aldy"
 category = ["investasi", "Getting Started", "properti"]
 date = 2019-05-28T03:00:00Z
-description = "Diperlukan cara atau strategi yang tepat untuk mendapatkan keuntungan dari investasi properti. Langkah pertama adalah menentukan tempat investasi properti. "
+metaDescription = "Diperlukan cara atau strategi yang tepat untuk mendapatkan keuntungan dari investasi properti. Langkah pertama adalah menentukan tempat investasi properti. "
 draft = false
 image = "https://accountgram-production.sfo2.cdn.digitaloceanspaces.com/landx_ghost/2019/05/Tempat-Terbaik-Untuk-Investasi-Properti-di-Indonesia.jpg"
 slug = "tempat-terbaik-untuk-investasi-properti-di-indonesia"

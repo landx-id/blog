@@ -2,7 +2,7 @@
 author = "Abdul Wahhab"
 category = ["bisnis investasi terpercaya", "investasi jangka panjang"]
 date = 2021-06-16T05:06:23Z
-description = "Pahami bagaimana mengelola secara online melalui investasi terpercaya yang bisa membantu uang anda berkembang. Memilih Investasi uang online terpercaya"
+metaDescription = "Pahami bagaimana mengelola secara online melalui investasi terpercaya yang bisa membantu uang anda berkembang. Memilih Investasi uang online terpercaya"
 draft = false
 slug = "investasi-terpercaya"
 tag = ["bisnis investasi terpercaya", "investasi jangka panjang"]

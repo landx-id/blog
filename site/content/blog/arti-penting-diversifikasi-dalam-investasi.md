@@ -2,7 +2,7 @@
 author = "Abdul Wahhab"
 category = ["diversifikasi dalam investasi"]
 date = 2021-10-26T11:32:06Z
-description = "Masih bingung dengan apa yang dimaksud dengan diversifikasi? berikut arti dan cara diversifikasi yang bisa dilakukan agar investasi kamu makin cuan"
+metaDescription = "Masih bingung dengan apa yang dimaksud dengan diversifikasi? berikut arti dan cara diversifikasi yang bisa dilakukan agar investasi kamu makin cuan"
 draft = false
 image = "https://images.unsplash.com/photo-1606189934846-a527add8a77b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxMTc3M3wwfDF8c2VhcmNofDV8fG1vbmV5JTIwbWFuYWdlbWVudHxlbnwwfHx8fDE2NDAxNDE4MTI&ixlib=rb-1.2.1&q=80&w=1080"
 slug = "arti-penting-diversifikasi-dalam-investasi"

@@ -2,7 +2,7 @@
 author = "Abdul Wahhab"
 category = ["Cryptocurrency", "diversifikasi dalam investasi", "Instrumen Investasi", "Blockchain", "Ellon Musk", "Jeff Bezos", "Investasi Tahun 2022"]
 date = 2021-12-26T15:01:20Z
-description = "Harga bitcoin terbilang cukup fluktuatif sehingga kamu harus paham faktor penyebab naik turun dari aset kripto satu ini agar investasi kamu lebih mudah"
+metaDescription = "Harga bitcoin terbilang cukup fluktuatif sehingga kamu harus paham faktor penyebab naik turun dari aset kripto satu ini agar investasi kamu lebih mudah"
 draft = false
 image = "https://images.unsplash.com/photo-1625806786037-2af608423424?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxMTc3M3wwfDF8c2VhcmNofDIwfHxiaXRjb2lufGVufDB8fHx8MTY0MDUzODg2OQ&ixlib=rb-1.2.1&q=80&w=1080"
 slug = "memahami-naik-turun-harga-bitcoin"

@@ -2,7 +2,7 @@
 author = "Abdul Wahhab"
 category = ["rasio keuangan", "investor pemula", "tips investasi", "rasio likuiditas"]
 date = 2021-07-22T06:49:35Z
-description = "Memahami apa itu rasio likuiditas dan pentingnya dalam membantu proses investasi anda|Rasio likuiditas adalah rasio yang menggambarkan tingkat likuidasi d.."
+metaDescription = "Memahami apa itu rasio likuiditas dan pentingnya dalam membantu proses investasi anda|Rasio likuiditas adalah rasio yang menggambarkan tingkat likuidasi d.."
 draft = false
 slug = "rasio-likuiditas-adalah"
 tag = ["rasio keuangan", "investor pemula", "tips investasi", "rasio likuiditas"]

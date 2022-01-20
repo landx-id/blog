@@ -2,7 +2,7 @@
 author = "Abdul Wahhab"
 category = ["Investasi modal kecil", "Equity Crowdfunding", "Securities Crowdfunding untuk Pengembangan UMKM di Indonesia", "Instrumen Investasi", "investasi jangka panjang", "instrumen pasar modal"]
 date = 2021-03-15T06:19:44Z
-description = "Investasi modal kecil untung besar tentu saja menjadi keinginan setiap orang, tapi sudah kamu tahu berbagai jenis instrumen investasi yang bisa kamu pilih? "
+metaDescription = "Investasi modal kecil untung besar tentu saja menjadi keinginan setiap orang, tapi sudah kamu tahu berbagai jenis instrumen investasi yang bisa kamu pilih? "
 draft = false
 image = "https://images.unsplash.com/photo-1567427013953-88102117053a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxMTc3M3wwfDF8c2VhcmNofDIzfHxpbnZlc3R8ZW58MHx8fHwxNjM4ODA3NzYz&ixlib=rb-1.2.1&q=80&w=1080"
 slug = "investasi-dengan-modal-kecil-kini-makin-mudah-yuk-intip-pilihan-investasi-yang-cocok-untuk-memulai-investasi-dengan-modal-kecil"

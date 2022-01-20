@@ -2,7 +2,7 @@
 author = "Abdul Wahhab"
 category = ["bisnis ritel", "retail", "Bisnis Franchise Modal Kecil", "sistem franchise", "Ximivogue Listing di LandX"]
 date = 2021-10-29T07:20:15Z
-description = "Bisnis retail adalah pihak yang menghubungkan antara produsen dan konsumen sehingga mendapatkan keuntungan dengan cara  menjual dengan harga lebih tinggi,"
+metaDescription = "Bisnis retail adalah pihak yang menghubungkan antara produsen dan konsumen sehingga mendapatkan keuntungan dengan cara  menjual dengan harga lebih tinggi,"
 draft = false
 image = "https://images.unsplash.com/photo-1522684462852-01b24e76b77d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxMTc3M3wwfDF8c2VhcmNofDJ8fHJldGFpbHxlbnwwfHx8fDE2NDAxNDE5MjY&ixlib=rb-1.2.1&q=80&w=1080"
 slug = "apa-itu-ritel-mengenal-pengertian-sistem-jenis-dan-potensi-bisnis-ritel-di-indonesia"

@@ -2,7 +2,7 @@
 author = "Abdul Wahhab"
 category = ["investor pemula", "investasi bisnis", "pilihan investasi"]
 date = 2021-08-02T06:11:15Z
-description = "Simak bagaimana tips menjadi investor dengan modal kecil dan untung yang besar | Cara memilih investasi terbaik untuk investor pemula"
+metaDescription = "Simak bagaimana tips menjadi investor dengan modal kecil dan untung yang besar | Cara memilih investasi terbaik untuk investor pemula"
 draft = false
 slug = "cara-menjadi-investor"
 tag = ["investor pemula", "investasi bisnis", "pilihan investasi"]

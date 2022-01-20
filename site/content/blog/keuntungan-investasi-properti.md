@@ -2,7 +2,7 @@
 author = "Gunawan Aldy"
 category = ["investasi", "landx", "properti"]
 date = 2019-04-29T02:00:00Z
-description = "Dari beberapa jenis investasi, investasi properti termasuk yang paling menguntungkan. Berikut keuntungan investasi properti."
+metaDescription = "Dari beberapa jenis investasi, investasi properti termasuk yang paling menguntungkan. Berikut keuntungan investasi properti."
 draft = false
 image = "https://accountgram-production.sfo2.cdn.digitaloceanspaces.com/landx_ghost/2019/05/Keuntungan-Investasi-Properti-yang-Menggiurkan.jpg"
 slug = "keuntungan-investasi-properti"

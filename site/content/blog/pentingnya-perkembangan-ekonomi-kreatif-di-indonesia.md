@@ -2,7 +2,7 @@
 author = "Abdul Wahhab"
 category = ["Investasi modal kecil", "bisnis investasi", "investasi online"]
 date = 2021-10-17T07:04:37Z
-description = "ekonomi kreatif adalah pengembangan ekonomi yang berfokus pada pengembangan ide dan kreativitas intelektual untuk kegiatan ekonomi yang dikembangkan "
+metaDescription = "ekonomi kreatif adalah pengembangan ekonomi yang berfokus pada pengembangan ide dan kreativitas intelektual untuk kegiatan ekonomi yang dikembangkan "
 draft = false
 image = "https://images.unsplash.com/photo-1523240795612-9a054b0db644?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxMTc3M3wwfDF8c2VhcmNofDIxfHxjcmVhdGl2ZSUyMG1hcmtldHxlbnwwfHx8fDE2NDAxNDgxODM&ixlib=rb-1.2.1&q=80&w=1080"
 slug = "pentingnya-perkembangan-ekonomi-kreatif-di-indonesia"

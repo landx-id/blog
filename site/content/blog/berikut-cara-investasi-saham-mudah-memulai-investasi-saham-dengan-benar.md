@@ -2,7 +2,7 @@
 author = "Abdul Wahhab"
 category = ["Saham Online", "Cara Investasi Saham", "investasi bisnis", "Properti online", "reksa dana"]
 date = 2021-05-21T02:42:50Z
-description = "Saham merupakan pilihan investasi yang bisa memberikan anda keuntungan dalam jangka panjang maupun pendek. Pahami cara investasi saham yang menguntungkan"
+metaDescription = "Saham merupakan pilihan investasi yang bisa memberikan anda keuntungan dalam jangka panjang maupun pendek. Pahami cara investasi saham yang menguntungkan"
 draft = false
 slug = "berikut-cara-investasi-saham-mudah-memulai-investasi-saham-dengan-benar"
 tag = ["Saham Online", "Cara Investasi Saham", "investasi bisnis", "Properti online", "reksa dana"]

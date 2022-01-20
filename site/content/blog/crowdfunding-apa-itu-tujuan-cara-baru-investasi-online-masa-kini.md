@@ -2,7 +2,7 @@
 author = "Abdul Wahhab"
 category = ["Investasi online terbaru", "investasi online", "Equity Crowdfunding", "investasi bisnis", "Securities Crowdfunding untuk Pengembangan UMKM di Indonesia", "crowdfunding", "Situs Crowdfunding"]
 date = 2021-03-25T03:46:44Z
-description = "Crowdfunding merupakan cara terbaru investasi online. Kenali cara terbaru investasi online dengan memahami berbagai berbagai keuntungan crowdfunding"
+metaDescription = "Crowdfunding merupakan cara terbaru investasi online. Kenali cara terbaru investasi online dengan memahami berbagai berbagai keuntungan crowdfunding"
 draft = false
 image = "https://accountgram-production.sfo2.cdn.digitaloceanspaces.com/landx_ghost/2021/03/4.-investai-online-terbaru.jpg"
 slug = "crowdfunding-apa-itu-tujuan-cara-baru-investasi-online-masa-kini"

@@ -2,7 +2,7 @@
 author = "Abdul Wahhab"
 category = ["Cara Investasi Saham", "investasi saham", "Instrumen Investasi", "instrumen pasar modal", "investasi terbaik"]
 date = 2021-12-17T18:01:47Z
-description = "Apabila kamu pemula yang masih bingung cara berinvestasi ke dalam saham seperti apa yang bisa memberikan keuntungan, maka saham bluechip bisa jadi pilihan"
+metaDescription = "Apabila kamu pemula yang masih bingung cara berinvestasi ke dalam saham seperti apa yang bisa memberikan keuntungan, maka saham bluechip bisa jadi pilihan"
 draft = false
 image = "https://images.unsplash.com/photo-1554260570-e9689a3418b8?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxMTc3M3wwfDF8c2VhcmNofDE0fHxzdG9ja3xlbnwwfHx8fDE2Mzk3NjM2NjY&ixlib=rb-1.2.1&q=80&w=1080"
 slug = "investasi-ke-saham-blue-chip"

@@ -2,7 +2,7 @@
 author = "Gunawan Aldy"
 category = ["Getting Started", "investasi", "properti"]
 date = 2019-05-20T08:05:00Z
-description = "Dalam investasi properti, lokasi adalah faktor penentu ada atau tidaknya orang yang ingin membeli/menyewa. "
+metaDescription = "Dalam investasi properti, lokasi adalah faktor penentu ada atau tidaknya orang yang ingin membeli/menyewa. "
 draft = false
 image = "https://accountgram-production.sfo2.cdn.digitaloceanspaces.com/landx_ghost/2019/05/Mengetahui-Macam-Macam-Properti-Rumah-sebelum-Melakukan-Investasi-min.jpg"
 slug = "mengetahui-macam-macam-properti-rumah-sebelum-melakukan-investasi"

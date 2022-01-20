@@ -2,7 +2,7 @@
 author = "Abdul Wahhab"
 category = ["tips investasi", "bisnis investasi online", "Equity Crowdfunding", "Situs Crowdfunding", "crowdfunding indonesia", "Investasi modal kecil", "Cara Investasi Saham", "investasi bisnis"]
 date = 2021-10-05T12:52:42Z
-description = "buyback adalah kebijakan pembelian kembali suatu saham yang oleh perusahaan yang menerbitkan saham tersebut|Buyback dalam equity crowdfunding"
+metaDescription = "buyback adalah kebijakan pembelian kembali suatu saham yang oleh perusahaan yang menerbitkan saham tersebut|Buyback dalam equity crowdfunding"
 draft = false
 image = "https://images.unsplash.com/photo-1519085360753-af0119f7cbe7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxMTc3M3wwfDF8c2VhcmNofDV8fGludmVzdG9yfGVufDB8fHx8MTY0MDE1MDA1Mg&ixlib=rb-1.2.1&q=80&w=1080"
 slug = "buyback-adalah"

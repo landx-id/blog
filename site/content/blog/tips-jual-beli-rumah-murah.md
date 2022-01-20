@@ -2,7 +2,7 @@
 author = "Gunawan Aldy"
 category = ["properti"]
 date = 2019-05-06T02:00:00Z
-description = "Penting bagi setiap pelaku bisnis properti untuk mengetahui tips jual beli rumah murah yang nantinya bisa dijual kembali dengan untung besar berikut ini."
+metaDescription = "Penting bagi setiap pelaku bisnis properti untuk mengetahui tips jual beli rumah murah yang nantinya bisa dijual kembali dengan untung besar berikut ini."
 draft = false
 image = "https://accountgram-production.sfo2.cdn.digitaloceanspaces.com/landx_ghost/2019/05/Tips-Jual-Beli-Rumah-Murah.jpg"
 slug = "tips-jual-beli-rumah-murah"

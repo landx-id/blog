@@ -1,7 +1,7 @@
 +++
 author = "Gunawan Aldy"
 date = 2019-06-27T06:44:00Z
-description = "Investasi Riil (nyata) adalah investasi dalam bentuk fisik (terlihat secara fisik) atau juga disebut aset berwujud, seperti Emas, Berlian, Perak, Properti, Tanah, Karya seni, dan lain-lain."
+metaDescription = "Investasi Riil (nyata) adalah investasi dalam bentuk fisik (terlihat secara fisik) atau juga disebut aset berwujud, seperti Emas, Berlian, Perak, Properti, Tanah, Karya seni, dan lain-lain."
 draft = false
 image = "https://accountgram-production.sfo2.cdn.digitaloceanspaces.com/landx_ghost/2019/06/Investasi-Riil.jpg"
 slug = "investasi-riil"

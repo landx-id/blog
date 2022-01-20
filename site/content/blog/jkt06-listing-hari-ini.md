@@ -2,7 +2,7 @@
 author = "Gunawan Aldy"
 category = ["landx-app-announcement"]
 date = 2021-01-18T02:20:03Z
-description = "Investasi properti listing JKT06 sudah dibuka | Mulai berinvestasi properti modal kecil dengan equity crowdfunding bersama LandX. "
+metaDescription = "Investasi properti listing JKT06 sudah dibuka | Mulai berinvestasi properti modal kecil dengan equity crowdfunding bersama LandX. "
 draft = false
 slug = "jkt06-listing-hari-ini"
 summary = "Crowdsale JKT06 mulai 11.00 (WIB) tanggal 18 Januari 2021!"

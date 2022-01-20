@@ -2,7 +2,7 @@
 author = "Abdul Wahhab"
 category = ["bisnis investasi", "investasi bisnis", "investasi bagi hasil", "Investasi modal kecil", "Situs Crowdfunding", "urun dana", "investasi umkm"]
 date = 2021-04-07T06:03:21Z
-description = "Urun dana atau equity crowdfunding adalah sistem investasi baru yang sangat cocok untuk pemula yang ingin mulai berinvestasi ke dalam bisnis modal kecil"
+metaDescription = "Urun dana atau equity crowdfunding adalah sistem investasi baru yang sangat cocok untuk pemula yang ingin mulai berinvestasi ke dalam bisnis modal kecil"
 draft = false
 image = "https://images.unsplash.com/photo-1559526324-4b87b5e36e44?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxMTc3M3wwfDF8c2VhcmNofDI5fHxlcXVpdHklMjBjcm93ZGZ1bmRpbmd8ZW58MHx8fHwxNjM4OTQ3MTcz&ixlib=rb-1.2.1&q=80&w=1080"
 slug = "equity-crowdfunding-untuk-pemula"

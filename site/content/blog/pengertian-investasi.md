@@ -1,7 +1,7 @@
 +++
 author = "Gunawan Aldy"
 date = 2019-06-27T06:43:00Z
-description = "Investasi adalah istilah dengan banyak makna yang berkaitan dengan keuangan dan ekonomi. Jika anda ingin memulai investasi pahami lebih lanjut investasi "
+metaDescription = "Investasi adalah istilah dengan banyak makna yang berkaitan dengan keuangan dan ekonomi. Jika anda ingin memulai investasi pahami lebih lanjut investasi "
 draft = false
 slug = "pengertian-investasi"
 title = "Pengertian Investasi"

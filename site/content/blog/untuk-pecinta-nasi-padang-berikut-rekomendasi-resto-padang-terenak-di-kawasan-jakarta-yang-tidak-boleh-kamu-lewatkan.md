@@ -2,7 +2,7 @@
 author = "Abdul Wahhab"
 category = ["investasi bisnis", "Padang Merdeka: Bisnis Rumah Makan Padang dengan Konsep Modern", "bisnis investasi", "Memulai usaha"]
 date = 2021-09-27T12:33:05Z
-description = "Rekomendasi Nasi Padang Terbaik: \n1. Padang Merdeka 2. Pagi Sore 3. Sederhana 4. Simpang Raya 5. Nasi Kapau Pak Ciman 6. Kedai Sutan Mangkuto"
+metaDescription = "Rekomendasi Nasi Padang Terbaik: \n1. Padang Merdeka 2. Pagi Sore 3. Sederhana 4. Simpang Raya 5. Nasi Kapau Pak Ciman 6. Kedai Sutan Mangkuto"
 draft = false
 image = "https://accountgram-production.sfo2.cdn.digitaloceanspaces.com/landx_ghost/2021/12/nasi-padang-merdeka-landx-jkt.jpg"
 slug = "untuk-pecinta-nasi-padang-berikut-rekomendasi-resto-padang-terenak-di-kawasan-jakarta-yang-tidak-boleh-kamu-lewatkan"

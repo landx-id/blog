@@ -2,7 +2,7 @@
 author = "Abdul Wahhab"
 category = ["Cara Investasi Saham", "tips investasi", "IPO Bukalapak", "cara mengembangkan uang dengan cepat", "investasi saham"]
 date = 2021-07-20T10:16:50Z
-description = "Apa Itu IPO dalam Saham? Pahami apa itu IPO agar anda bisa mengambil keputusan investasi yang lebih baik dan menguntungkan saat memilih saham\n"
+metaDescription = "Apa Itu IPO dalam Saham? Pahami apa itu IPO agar anda bisa mengambil keputusan investasi yang lebih baik dan menguntungkan saat memilih saham\n"
 draft = false
 image = "https://images.unsplash.com/photo-1560221328-12fe60f83ab8?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxMTc3M3wwfDF8c2VhcmNofDJ8fHN0b2NrfGVufDB8fHx8MTY0MDMzMzA0MQ&ixlib=rb-1.2.1&q=80&w=1080"
 slug = "ipo-dalam-saham-adalah"

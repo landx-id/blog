@@ -2,7 +2,7 @@
 author = "Abdul Wahhab"
 category = ["investasi pemula", "tips investasi", "Investasi modal kecil"]
 date = 2021-08-19T11:12:25Z
-description = "Bagi pemula yang masih bingung bagaimana cara mulai berinvestasi, Kamu harus simak berbagai tips investasi yang penting untuk dipahami investor pemula. "
+metaDescription = "Bagi pemula yang masih bingung bagaimana cara mulai berinvestasi, Kamu harus simak berbagai tips investasi yang penting untuk dipahami investor pemula. "
 draft = false
 slug = "tips-penting-investasi-untuk-pemula"
 tag = ["investasi pemula", "tips investasi", "Investasi modal kecil"]

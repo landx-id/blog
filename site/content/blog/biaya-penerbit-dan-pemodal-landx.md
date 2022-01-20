@@ -2,7 +2,7 @@
 author = "Gunawan Aldy"
 category = ["faq"]
 date = 2021-02-25T02:43:18Z
-description = "rincian biaya yang dikenakan untuk Penerbit dan Pemodal LandX"
+metaDescription = "rincian biaya yang dikenakan untuk Penerbit dan Pemodal LandX"
 draft = false
 slug = "biaya-penerbit-dan-pemodal-landx"
 tag = ["faq"]

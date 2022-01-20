@@ -2,7 +2,7 @@
 author = "Abdul Wahhab"
 category = ["venture capital", "lembaga pembiayaan", "bisnis investasi"]
 date = 2021-07-29T03:31:51Z
-description = "Lembaga pembiayaan adalah badan usaha yang memiliki peran penting dalam perekenomian karena berperan sebagai badan lembaga yang membantu pendanaa. "
+metaDescription = "Lembaga pembiayaan adalah badan usaha yang memiliki peran penting dalam perekenomian karena berperan sebagai badan lembaga yang membantu pendanaa. "
 draft = false
 slug = "lembaga-pembiayaan-adalah"
 tag = ["venture capital", "lembaga pembiayaan", "bisnis investasi"]

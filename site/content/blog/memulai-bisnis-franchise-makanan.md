@@ -2,7 +2,7 @@
 author = "Abdul Wahhab"
 category = ["Bisnis Franchise Modal Kecil", "Franchise Makanan", "Bisnis F&B"]
 date = 2021-07-13T11:55:53Z
-description = "Berikut beberapa kelebihan dan kekurangan dari penggunaan sistem franchise saat memulai bisnis|Memulai bisnis f&b melalui sistem franchise"
+metaDescription = "Berikut beberapa kelebihan dan kekurangan dari penggunaan sistem franchise saat memulai bisnis|Memulai bisnis f&b melalui sistem franchise"
 draft = false
 slug = "memulai-bisnis-franchise-makanan"
 tag = ["Bisnis Franchise Modal Kecil", "Franchise Makanan", "Bisnis F&B"]

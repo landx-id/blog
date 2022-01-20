@@ -2,7 +2,7 @@
 author = "Abdul Wahhab"
 category = ["bisnis investasi", "crowdfunding", "crowdfunding indonesia", "investasi", "Investasi Menguntungkan", "investasi online", "investasi properti", "Saham Online", "Securities Crowdfunding untuk Pengembangan UMKM di Indonesia", "Properti online", "reksa dana", "urun dana"]
 date = 2021-05-17T09:03:21Z
-description = "Menyiapkan investasi sangat penting untuk masa depan anda, karena itu siapkan dari sekarang dengan pilihan instrumen terbaik, berikut pilihan investasi 2021"
+metaDescription = "Menyiapkan investasi sangat penting untuk masa depan anda, karena itu siapkan dari sekarang dengan pilihan instrumen terbaik, berikut pilihan investasi 2021"
 draft = false
 slug = "8-investasi-menguntungkan-untuk-masa-depan-anda-yuk-mulai-investasi-dari-sekarang"
 tag = ["bisnis investasi", "crowdfunding", "crowdfunding indonesia", "investasi", "Investasi Menguntungkan", "investasi online", "investasi properti", "Saham Online", "Securities Crowdfunding untuk Pengembangan UMKM di Indonesia", "Properti online", "reksa dana", "urun dana"]

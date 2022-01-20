@@ -2,7 +2,7 @@
 author = "Abdul Wahhab"
 category = ["surat berharga", "kumpulan surat berharga", "investasi", "investasi bisnis", "Equity Crowdfunding"]
 date = 2021-05-25T04:18:10Z
-description = "Surat berharga merupakan sesuatu hal yang sangat dekat dengan kehidupan sehari-hari anda. Oleh sebab itu pahami jenis surat berharga untuk investasi anda"
+metaDescription = "Surat berharga merupakan sesuatu hal yang sangat dekat dengan kehidupan sehari-hari anda. Oleh sebab itu pahami jenis surat berharga untuk investasi anda"
 draft = false
 slug = "pahami-apa-itu-surat-berharga-dan-jenis-jenis-surat-berharga"
 tag = ["surat berharga", "kumpulan surat berharga", "investasi", "investasi bisnis", "Equity Crowdfunding"]

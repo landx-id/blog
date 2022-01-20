@@ -2,7 +2,7 @@
 author = "Vlora Riyandi"
 category = ["Ellon Musk", "financial freedom", "compounding effect", "Cryptocurrency", "efek compounding", "Fintech", "Investasi Menguntungkan", "Investasi Passive Income"]
 date = 2021-12-03T14:19:29Z
-description = "Elon Musk dan Warren Buffet merupakan dua orang yang masuk ke dalam jajaran orang terkaya di dunia dengan berbagai aset investasi yang mereka miliki"
+metaDescription = "Elon Musk dan Warren Buffet merupakan dua orang yang masuk ke dalam jajaran orang terkaya di dunia dengan berbagai aset investasi yang mereka miliki"
 draft = false
 image = "https://images.unsplash.com/photo-1427751840561-9852520f8ce8?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxMTc3M3wwfDF8c2VhcmNofDJ8fGludmVzdHxlbnwwfHx8fDE2MzgxNTM3MzY&ixlib=rb-1.2.1&q=80&w=1080"
 slug = "berinvestasi-gaya-elon-musk-atau-warren-buffet-2-pandangan-buat-kamu-yang-ingin-ikutan-bitcoin"

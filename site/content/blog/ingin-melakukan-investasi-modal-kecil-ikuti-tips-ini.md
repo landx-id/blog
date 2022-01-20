@@ -2,7 +2,7 @@
 author = "Abdul Wahhab"
 category = ["Investasi modal kecil", "crowdfunding indonesia", "Equity Crowdfunding", "investasi online", "investasi bisnis"]
 date = 2021-03-24T10:23:19Z
-description = "Anda harus mungkin masih berpikir mustahil untuk investasi dengan modal kecil. Padahal banyak pilihan investasi yang bisa anda mulai dengan modal kecil. "
+metaDescription = "Anda harus mungkin masih berpikir mustahil untuk investasi dengan modal kecil. Padahal banyak pilihan investasi yang bisa anda mulai dengan modal kecil. "
 draft = false
 image = "https://images.unsplash.com/photo-1584134239909-eb4800257d6a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxMTc3M3wwfDF8c2VhcmNofDN8fGZ1bmRpbmd8ZW58MHx8fHwxNjM4ODEyNjIw&ixlib=rb-1.2.1&q=80&w=1080"
 slug = "ingin-melakukan-investasi-modal-kecil-ikuti-tips-ini"

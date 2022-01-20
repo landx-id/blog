@@ -2,7 +2,7 @@
 author = "Abdul Wahhab"
 category = ["Volatilitas", "investasi keuangan", "Investasi Menguntungkan"]
 date = 2021-06-07T03:26:54Z
-description = "yuk pahami apa itu istilah volatilitas dalam investasi agar investasi yang anda lakukan dapat memberikan keuntungan jangka panjang kepada anda"
+metaDescription = "yuk pahami apa itu istilah volatilitas dalam investasi agar investasi yang anda lakukan dapat memberikan keuntungan jangka panjang kepada anda"
 draft = false
 slug = "volatilitas-definisi-jenis-cara-dan-penyebab-terjadinya-volatilitas"
 tag = ["Volatilitas", "investasi keuangan", "Investasi Menguntungkan"]

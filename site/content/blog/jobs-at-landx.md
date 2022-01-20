@@ -2,7 +2,7 @@
 author = "Eca Ita Sihriwayati"
 category = ["landx", "job vacancy"]
 date = 2021-09-07T02:00:00Z
-description = "We are looking for energetic & talented people to join us and work from anywhere you like, home or office.\n\nWe are currently looking to fill the following positions:"
+metaDescription = "We are looking for energetic & talented people to join us and work from anywhere you like, home or office.\n\nWe are currently looking to fill the following positions:"
 draft = false
 image = "https://images.unsplash.com/photo-1522202176988-66273c2fd55f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxMTc3M3wwfDF8c2VhcmNofDF8fGludGVybnxlbnwwfHx8fDE2NDAyNTEzNzE&ixlib=rb-1.2.1&q=80&w=1080"
 slug = "jobs-at-landx"

@@ -2,7 +2,7 @@
 author = "Abdul Wahhab"
 category = ["mengatur keuangan", "Investasi untuk Pemula", "Investasi Passive Income"]
 date = 2021-09-27T11:58:15Z
-description = "Impulsive buying adalah keputusan pembelian emosional sehingga pembeli proses pemberian cenderung tidak memikirkan aspek rasional seperti kegunaan.........."
+metaDescription = "Impulsive buying adalah keputusan pembelian emosional sehingga pembeli proses pemberian cenderung tidak memikirkan aspek rasional seperti kegunaan.........."
 draft = false
 image = "https://images.unsplash.com/photo-1483985988355-763728e1935b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxMTc3M3wwfDF8c2VhcmNofDJ8fHNob3BwaW5nfGVufDB8fHx8MTY0MDE1OTI2MA&ixlib=rb-1.2.1&q=80&w=1080"
 slug = "mengenal-apa-itu-impulsive-buying-dan-cara-menghindari-berbagai-pemicu-impulsive-buying-selama-pandemi"

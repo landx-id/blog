@@ -2,7 +2,7 @@
 author = "Abdul Wahhab"
 category = ["bisnis investasi", "bisnis investasi online", "crowdfunding indonesia", "Equity Crowdfunding", "investasi bisnis", "investasi online", "Situs Crowdfunding"]
 date = 2021-04-09T03:46:22Z
-description = "Investasi ke dalam UMKM lewat patungan bisnis menjadi salah satu cara untuk investor pemula yang ingin membeli saham-saham dari dengan modal kecil"
+metaDescription = "Investasi ke dalam UMKM lewat patungan bisnis menjadi salah satu cara untuk investor pemula yang ingin membeli saham-saham dari dengan modal kecil"
 draft = false
 image = "https://images.unsplash.com/photo-1594392175511-30eca83d51c8?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxMTc3M3wwfDF8c2VhcmNofDd8fHNtYWxsJTIwYnVzaW5lc3N8ZW58MHx8fHwxNjM4OTQ4NTk3&ixlib=rb-1.2.1&q=80&w=1080"
 slug = "investasi-umkm"

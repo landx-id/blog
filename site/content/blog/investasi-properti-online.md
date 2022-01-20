@@ -2,7 +2,7 @@
 author = "Gunawan Aldy"
 category = ["investasi", "properti"]
 date = 2019-06-17T03:30:00Z
-description = "Mungkinkah kita berinvestasi properti secara online secara aman? Apa saja cara investasi online? berikut cara berinvestasi properti secara online. "
+metaDescription = "Mungkinkah kita berinvestasi properti secara online secara aman? Apa saja cara investasi online? berikut cara berinvestasi properti secara online. "
 draft = false
 image = "https://accountgram-production.sfo2.cdn.digitaloceanspaces.com/landx_ghost/2019/05/investasi-properti-online.jpg"
 slug = "investasi-properti-online"

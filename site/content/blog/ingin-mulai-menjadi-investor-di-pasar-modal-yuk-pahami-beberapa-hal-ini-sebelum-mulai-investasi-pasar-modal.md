@@ -2,7 +2,7 @@
 author = "Abdul Wahhab"
 category = ["bisnis investasi", "crowdfunding indonesia", "bisnis investasi online", "crowdfunding properti", "Equity Crowdfunding", "investasi bagi hasil", "Investasi modal kecil", "investasi properti"]
 date = 2021-04-19T04:27:16Z
-description = "Masyarakat kini semakin sadar pentingnya berinvetasi dan menjadi investor di pasar modal. Yuk pahami dulu berbagai istilah saat jadi investor di pasar modal"
+metaDescription = "Masyarakat kini semakin sadar pentingnya berinvetasi dan menjadi investor di pasar modal. Yuk pahami dulu berbagai istilah saat jadi investor di pasar modal"
 draft = false
 image = "https://images.unsplash.com/photo-1632507127024-ae2d7369c784?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxMTc3M3wwfDF8c2VhcmNofDI0fHxTVE9DSyUyME1BUktFVHxlbnwwfHx8fDE2MzkwNDUyMDQ&ixlib=rb-1.2.1&q=80&w=1080"
 slug = "ingin-mulai-menjadi-investor-di-pasar-modal-yuk-pahami-beberapa-hal-ini-sebelum-mulai-investasi-pasar-modal"

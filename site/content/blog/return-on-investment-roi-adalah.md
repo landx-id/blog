@@ -2,7 +2,7 @@
 author = "Abdul Wahhab"
 category = ["investasi", "investasi jangka panjang", "ROI", "rasio keuangan", "return on investment"]
 date = 2021-08-20T07:49:02Z
-description = "Return on Investment (ROI) adalah salah satu faktor penting yang harus sangat diperhatikan dalam memilih instrumen investasi | Menghitung ROI investasi"
+metaDescription = "Return on Investment (ROI) adalah salah satu faktor penting yang harus sangat diperhatikan dalam memilih instrumen investasi | Menghitung ROI investasi"
 draft = false
 slug = "return-on-investment-roi-adalah"
 tag = ["investasi", "investasi jangka panjang", "ROI", "rasio keuangan", "return on investment"]

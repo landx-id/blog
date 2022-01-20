@@ -2,7 +2,7 @@
 author = "Abdul Wahhab"
 category = ["bisnis investasi terpercaya", "bisnis investasi online", "Bisnis Franchise Modal Kecil", "cara mengembangkan uang dengan cepat"]
 date = 2021-06-05T16:34:15Z
-description = "Untuk investor pemula memilih bisnis investasi terpercaya yang bisa memberikan keuntungan adalah hal penting, karena itu simak tips investasi di bawah ini"
+metaDescription = "Untuk investor pemula memilih bisnis investasi terpercaya yang bisa memberikan keuntungan adalah hal penting, karena itu simak tips investasi di bawah ini"
 draft = false
 slug = "buat-investor-pemula-yuk-simak-bagaimana-memilih-bisnis-investasi-terpercaya-untuk-rencana-keuangan-jangka-panjang-anda"
 tag = ["bisnis investasi terpercaya", "bisnis investasi online", "Bisnis Franchise Modal Kecil", "cara mengembangkan uang dengan cepat"]

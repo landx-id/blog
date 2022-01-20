@@ -2,7 +2,7 @@
 author = "Abdul Wahhab"
 category = ["investasi", "tips investasi"]
 date = 2021-08-24T06:00:39Z
-description = "Hampir Mengalami Depresi, Indonesia Resmi Keluar dari Resesi dengan Pertumbuhan Ekonomi 7,07% pada Q2-2021. Lalu bagaimana dengan kuartal III?\n"
+metaDescription = "Hampir Mengalami Depresi, Indonesia Resmi Keluar dari Resesi dengan Pertumbuhan Ekonomi 7,07% pada Q2-2021. Lalu bagaimana dengan kuartal III?\n"
 draft = false
 slug = "indonesia-sukses-lepas-dari-jurang-depresi-yakin"
 tag = ["investasi", "tips investasi"]

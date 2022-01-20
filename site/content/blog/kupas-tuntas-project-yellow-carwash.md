@@ -1,7 +1,7 @@
 +++
 author = "Abdul Wahhab"
 date = 2021-09-06T04:35:29Z
-description = "Yuk Kupas Tuntas Project Yellow Car Wash, Bisnis dengan Market Seksi yang Kompetensi Industrinya Tidak Seberapa "
+metaDescription = "Yuk Kupas Tuntas Project Yellow Car Wash, Bisnis dengan Market Seksi yang Kompetensi Industrinya Tidak Seberapa "
 draft = false
 image = "https://accountgram-production.sfo2.cdn.digitaloceanspaces.com/landx_ghost/2021/09/Kupas-tuntas-bisnis-yellow-car-wash.jpg"
 slug = "kupas-tuntas-project-yellow-carwash"

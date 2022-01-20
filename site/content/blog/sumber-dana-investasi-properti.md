@@ -2,7 +2,7 @@
 author = "Gunawan Aldy"
 category = ["investasi", "properti"]
 date = 2019-04-02T08:40:02Z
-description = "Menggunakan dana simpanan untuk membeli properti tentu sangat lumrah. Namun jika dana yang Anda kumpulkan belum cukup, apa alternatif yang bisa dilakukan?"
+metaDescription = "Menggunakan dana simpanan untuk membeli properti tentu sangat lumrah. Namun jika dana yang Anda kumpulkan belum cukup, apa alternatif yang bisa dilakukan?"
 draft = false
 image = "https://accountgram-production.sfo2.cdn.digitaloceanspaces.com/landx_ghost/2019/05/Mencari-Dana-yang-Diperlukan-Untuk-Melakukan-Investasi-Properti.jpg"
 slug = "sumber-dana-investasi-properti"

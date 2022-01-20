@@ -2,7 +2,7 @@
 author = "Vlora Riyandi"
 category = ["laju inflasi", "tips investasi", "inflasi", "keuntungan investasi", "Cara Investasi Saham", "investasi saham"]
 date = 2021-11-25T10:47:37Z
-description = "Stagflasi adalah karakteristik situasi saat inflasi tinggi, pertumbuhan ekonomi berjalan lambat/ stagnasi yang sering menjadi dilema negara maju "
+metaDescription = "Stagflasi adalah karakteristik situasi saat inflasi tinggi, pertumbuhan ekonomi berjalan lambat/ stagnasi yang sering menjadi dilema negara maju "
 draft = false
 image = "https://accountgram-production.sfo2.cdn.digitaloceanspaces.com/landx_ghost/2021/11/memahami-apa-itu-stagflasi-dan-pengaruhnya-terhadap-pertumbuhan-ekonomi.jpg"
 slug = "apa-itu-stagflasi-dan-bagaimana-dampaknya-terhadap-investasi-di-indonesia"

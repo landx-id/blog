@@ -2,7 +2,7 @@
 author = "Abdul Wahhab"
 category = ["bisnis jangka panjang", "investasi bisnis", "bisnis investasi", "bisnis menguntungkan"]
 date = 2021-08-28T13:16:34Z
-description = "Bisnis perikanan merupakan bisnis dengan potensi yang sangat menjanjikan di Indonesia. Berbagai potensi keuntungan dari usaha perikanan tangkap"
+metaDescription = "Bisnis perikanan merupakan bisnis dengan potensi yang sangat menjanjikan di Indonesia. Berbagai potensi keuntungan dari usaha perikanan tangkap"
 draft = false
 slug = "bisnis-perikanan-tangkap-di-indonesia"
 tag = ["bisnis jangka panjang", "investasi bisnis", "bisnis investasi", "bisnis menguntungkan"]

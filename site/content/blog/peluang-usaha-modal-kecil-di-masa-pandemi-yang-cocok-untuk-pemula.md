@@ -2,7 +2,7 @@
 author = "Abdul Wahhab"
 category = ["bisnis menguntungkan", "Bisnis Modal Kecil", "bisnis di masa pandemi", "Bisnis F&B", "cara mengembangkan uang dengan cepat", "investasi bisnis", "patungan bisnis", "Memulai usaha"]
 date = 2021-09-20T06:44:00Z
-description = "Mau  memulai bisnis modal kecil? simak 13+ rekomendasi bisnis modal kecil yang bisa anda mulai di masa pandemi | Usaha Modal Kecl untuk pemula"
+metaDescription = "Mau  memulai bisnis modal kecil? simak 13+ rekomendasi bisnis modal kecil yang bisa anda mulai di masa pandemi | Usaha Modal Kecl untuk pemula"
 draft = false
 image = "https://images.unsplash.com/photo-1556911220-e15b29be8c8f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxMTc3M3wwfDF8c2VhcmNofDF8fGNvb2tpbmclMjBhdCUyMGhvbWV8ZW58MHx8fHwxNjQwMjUwNTkz&ixlib=rb-1.2.1&q=80&w=1080"
 slug = "peluang-usaha-modal-kecil-di-masa-pandemi-yang-cocok-untuk-pemula"

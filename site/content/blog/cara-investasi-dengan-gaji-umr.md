@@ -2,7 +2,7 @@
 author = "Khurin N. Imandini"
 category = ["Investasi untuk Pemula", "Investasi modal kecil", "Instrumen Investasi", "Bisnis Modal Kecil", "compounding effect", "dana darurat"]
 date = 2021-12-10T11:56:42Z
-description = "Gaji UMR gak bisa investasi?? siapa bilang kamu yang bergaji UMR bisa lo berinvestasi asalkan kamu paham dengan baik tentang bagaimana mengelola uang...."
+metaDescription = "Gaji UMR gak bisa investasi?? siapa bilang kamu yang bergaji UMR bisa lo berinvestasi asalkan kamu paham dengan baik tentang bagaimana mengelola uang...."
 draft = false
 image = "https://images.unsplash.com/photo-1554768804-50c1e2b50a6e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxMTc3M3wwfDF8c2VhcmNofDF8fHNhbGFyeXxlbnwwfHx8fDE2MzkxNDA0NDM&ixlib=rb-1.2.1&q=80&w=1080"
 slug = "cara-investasi-dengan-gaji-umr"

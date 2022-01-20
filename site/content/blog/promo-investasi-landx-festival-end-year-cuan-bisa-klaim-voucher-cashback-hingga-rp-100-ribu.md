@@ -2,7 +2,7 @@
 author = "Abdul Wahhab"
 category = ["Promo LandX", "Promo Cashback"]
 date = 2021-12-20T17:08:19Z
-description = "LandX mau ajak kamu investasi lebih cuan biar keuangan kamu nambah terus. Kamu bisa dapat voucher cashback hingga Rp 100 ribu pada 20-31 Desember 2021"
+metaDescription = "LandX mau ajak kamu investasi lebih cuan biar keuangan kamu nambah terus. Kamu bisa dapat voucher cashback hingga Rp 100 ribu pada 20-31 Desember 2021"
 draft = false
 image = "https://accountgram-production.sfo2.cdn.digitaloceanspaces.com/landx_ghost/2021/12/promo-investasi-dan-cashback-di-landx-mulai-100-ribuan--min.png"
 slug = "promo-investasi-landx-festival-end-year-cuan-bisa-klaim-voucher-cashback-hingga-rp-100-ribu"

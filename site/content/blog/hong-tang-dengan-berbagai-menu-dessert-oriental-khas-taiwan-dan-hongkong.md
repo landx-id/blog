@@ -2,7 +2,7 @@
 author = "Abdul Wahhab"
 category = ["Hong Tang", "Bisnis F&B", "Bisnis Franchise Modal Kecil", "bisnis makanan", "Bisnis Modal Kecil", "Cloud Kitchen", "investasi dengan modal kecil", "sistem franchise"]
 date = 2021-11-09T18:16:49Z
-description = "Apabila kamu mencari dessert segar khas ortienal, maka Hong Tang adalah makanan pencuci mulut yang harus kamu coba dengan berbagai pilihan menu khas Asia"
+metaDescription = "Apabila kamu mencari dessert segar khas ortienal, maka Hong Tang adalah makanan pencuci mulut yang harus kamu coba dengan berbagai pilihan menu khas Asia"
 draft = false
 image = "https://accountgram-production.sfo2.cdn.digitaloceanspaces.com/landx_ghost/2021/12/hongtang-landx-taiwan-1.png"
 slug = "hong-tang-dengan-berbagai-menu-dessert-oriental-khas-taiwan-dan-hongkong"

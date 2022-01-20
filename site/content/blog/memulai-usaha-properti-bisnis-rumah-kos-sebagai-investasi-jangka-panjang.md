@@ -2,7 +2,7 @@
 author = "Abdul Wahhab"
 category = ["crowdfunding properti", "bisnis investasi", "bisnis investasi online", "crowdfunding indonesia", "investasi properti", "Investasi online terbaru", "Saham Online", "Bisnis Franchise Modal Kecil"]
 date = 2021-05-20T10:19:35Z
-description = "Rumah kos merupakan salah satu pilihan usaha properti yang bisa anda lakukan untuk investasi jangka panjang anda. Investasi rumah kost untuk pemula"
+metaDescription = "Rumah kos merupakan salah satu pilihan usaha properti yang bisa anda lakukan untuk investasi jangka panjang anda. Investasi rumah kost untuk pemula"
 draft = false
 slug = "memulai-usaha-properti-bisnis-rumah-kos-sebagai-investasi-jangka-panjang"
 tag = ["crowdfunding properti", "bisnis investasi", "bisnis investasi online", "crowdfunding indonesia", "investasi properti", "Investasi online terbaru", "Saham Online", "Bisnis Franchise Modal Kecil"]

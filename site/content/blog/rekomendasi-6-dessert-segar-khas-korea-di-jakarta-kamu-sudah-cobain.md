@@ -2,7 +2,7 @@
 author = "Abdul Wahhab"
 category = ["Hong Tang", "Cloud Kitchen", "bisnis makanan", "Bisnis Franchise Modal Kecil", "franchise f&b"]
 date = 2021-11-09T08:20:07Z
-description = "Dessert khas Korea dan Taiwan menjadi salah satu makanan yang sangat populer dan mengunggah selera bagi orang-orang| 6 Rekomendasi dessert khas korea"
+metaDescription = "Dessert khas Korea dan Taiwan menjadi salah satu makanan yang sangat populer dan mengunggah selera bagi orang-orang| 6 Rekomendasi dessert khas korea"
 draft = false
 image = "https://images.unsplash.com/photo-1611052937731-9c120ffc09ec?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxMTc3M3wwfDF8c2VhcmNofDE1fHxib2JhfGVufDB8fHx8MTY0MDA3MDUyNg&ixlib=rb-1.2.1&q=80&w=1080"
 slug = "rekomendasi-6-dessert-segar-khas-korea-di-jakarta-kamu-sudah-cobain"

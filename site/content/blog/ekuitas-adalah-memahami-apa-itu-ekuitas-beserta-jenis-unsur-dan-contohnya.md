@@ -2,7 +2,7 @@
 author = "Abdul Wahhab"
 category = ["rasio keuangan", "investasi saham", "tips investasi"]
 date = 2021-10-25T06:44:01Z
-description = "Ekuitas adalah hak kepemilikan atas aset yang sudah dikurangi dengan liabilitas dan berbagai kewajiban, berikut jenis dan unsur-unsur ekuitas"
+metaDescription = "Ekuitas adalah hak kepemilikan atas aset yang sudah dikurangi dengan liabilitas dan berbagai kewajiban, berikut jenis dan unsur-unsur ekuitas"
 draft = false
 image = "https://images.unsplash.com/photo-1560518883-ce09059eeffa?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxMTc3M3wwfDF8c2VhcmNofDEwfHxpbnZlc3RtZW50fGVufDB8fHx8MTY0MDE0ODgzMA&ixlib=rb-1.2.1&q=80&w=1080"
 slug = "ekuitas-adalah-memahami-apa-itu-ekuitas-beserta-jenis-unsur-dan-contohnya"

@@ -2,7 +2,7 @@
 author = "Abdul Wahhab"
 category = ["Cara Investasi Saham", "investasi saham", "investasi keuangan", "diversifikasi dalam investasi", "keuntungan investasi", "Mengelola Keuangan", "pilihan investasi", "tips investasi"]
 date = 2021-10-11T11:26:22Z
-description = "Trading dan investasi merupakan dua konsep yang berbeda yang penting dipahami pemula yang ingin masuk ke dunia saham| Perbedaan trading dan Investasi saham"
+metaDescription = "Trading dan investasi merupakan dua konsep yang berbeda yang penting dipahami pemula yang ingin masuk ke dunia saham| Perbedaan trading dan Investasi saham"
 draft = false
 image = "https://images.unsplash.com/photo-1518186233392-c232efbf2373?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxMTc3M3wwfDF8c2VhcmNofDM1fHxzdG9ja3xlbnwwfHx8fDE2NDAxNDc3ODU&ixlib=rb-1.2.1&q=80&w=1080"
 slug = "memahami-perbedaan-trading-dan-investasi"

@@ -2,7 +2,7 @@
 author = "Abdul Wahhab"
 category = ["bisnis investasi", "crowdfunding indonesia", "investasi bisnis", "investasi properti", "Equity Crowdfunding", "bisnis investasi online"]
 date = 2021-04-08T03:54:43Z
-description = "Kini investasi ke dalam bisnis privat menjadi semakin mudah dengan adanya equity crowdfunding yang memudahkan investasi usaha dengan modal kecil"
+metaDescription = "Kini investasi ke dalam bisnis privat menjadi semakin mudah dengan adanya equity crowdfunding yang memudahkan investasi usaha dengan modal kecil"
 draft = false
 slug = "investasi-bisnis-equity-crowdfunding"
 tag = ["bisnis investasi", "crowdfunding indonesia", "investasi bisnis", "investasi properti", "Equity Crowdfunding", "bisnis investasi online"]

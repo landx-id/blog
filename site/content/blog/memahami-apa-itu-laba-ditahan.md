@@ -2,7 +2,7 @@
 author = "Abdul Wahhab"
 category = ["bisnis investasi", "bisnis investasi online", "crowdfunding indonesia", "crowdfunding properti", "Equity Crowdfunding", "investasi", "investasi bagi hasil", "investasi bisnis"]
 date = 2021-04-17T03:04:00Z
-description = "Laba ditahan merupakan istilah yang sering muncul dalam investasi. Agar anda dapat menjalankan investasi dengan lebih lancar. pahami fungsi laba ditahan"
+metaDescription = "Laba ditahan merupakan istilah yang sering muncul dalam investasi. Agar anda dapat menjalankan investasi dengan lebih lancar. pahami fungsi laba ditahan"
 draft = false
 slug = "memahami-apa-itu-laba-ditahan"
 tag = ["bisnis investasi", "bisnis investasi online", "crowdfunding indonesia", "crowdfunding properti", "Equity Crowdfunding", "investasi", "investasi bagi hasil", "investasi bisnis"]

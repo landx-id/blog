@@ -2,7 +2,7 @@
 author = "Abdul Wahhab"
 category = ["Fintech", "Equity Crowdfunding", "P2P Lending", "lembaga pembiayaan"]
 date = 2021-11-18T08:46:22Z
-description = "Fintech adalah singkatan dari financial technology dimana berbagai jasa keuangan memanfaat kemajuan teknologi untuk mempermudah proses keuangan seperti..."
+metaDescription = "Fintech adalah singkatan dari financial technology dimana berbagai jasa keuangan memanfaat kemajuan teknologi untuk mempermudah proses keuangan seperti..."
 draft = false
 image = "https://images.unsplash.com/photo-1556742031-c6961e8560b0?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxMTc3M3wwfDF8c2VhcmNofDE0fHxmaW50ZWNofGVufDB8fHx8MTY0MDA2MjI1NA&ixlib=rb-1.2.1&q=80&w=1080"
 slug = "fintech-aman-dan-berizin-ojk-di-indonesia"

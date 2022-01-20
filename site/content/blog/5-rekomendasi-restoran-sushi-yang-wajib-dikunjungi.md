@@ -2,7 +2,7 @@
 author = "Abdul Wahhab"
 category = ["Okinawa Sushi", "Bisnis F&B", "franchise f&b", "Franchise Makanan", "Bisnis Franchise Modal Kecil", "bisnis menguntungkan", "Bisnis Modal Kecil", "bisnis patungan"]
 date = 2021-11-08T07:23:42Z
-description = "Kamu pecinta masakan Jepang terutama sushi? Kalau iya kamu harus cek 5 rekomendasi sushi terbaik| Punya Onikawa Sushi Modal 1 juta"
+metaDescription = "Kamu pecinta masakan Jepang terutama sushi? Kalau iya kamu harus cek 5 rekomendasi sushi terbaik| Punya Onikawa Sushi Modal 1 juta"
 draft = false
 image = "https://images.unsplash.com/photo-1611143669185-af224c5e3252?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxMTc3M3wwfDF8c2VhcmNofDJ8fG9raW5hd2ElMjBzdXNoaXxlbnwwfHx8fDE2NDAxNDE0NjA&ixlib=rb-1.2.1&q=80&w=1080"
 slug = "5-rekomendasi-restoran-sushi-yang-wajib-dikunjungi"

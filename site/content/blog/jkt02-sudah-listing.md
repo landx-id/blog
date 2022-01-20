@@ -2,7 +2,7 @@
 author = "Gunawan Aldy"
 category = ["landx-app-announcement"]
 date = 2021-01-15T03:36:06Z
-description = "Yuk ikut investasi properti dalam listingan JKT05 baru LandX | Investasi crowdfunding bersama LandX untuk bangun aset investasi anda mulai dari sekarang. "
+metaDescription = "Yuk ikut investasi properti dalam listingan JKT05 baru LandX | Investasi crowdfunding bersama LandX untuk bangun aset investasi anda mulai dari sekarang. "
 draft = false
 slug = "jkt02-sudah-listing"
 summary = "Hi,\nJKT05 sudah listing hari ini loh.."

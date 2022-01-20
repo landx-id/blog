@@ -2,7 +2,7 @@
 author = "Abdul Wahhab"
 category = ["crowdfunding", "crowdfunding indonesia", "crowdfunding properti", "Equity Crowdfunding", "Investasi Menguntungkan", "Investasi modal kecil", "investasi online", "Investasi online terbaru", "P2P Lending", "Securities Crowdfunding untuk Pengembangan UMKM di Indonesia"]
 date = 2021-05-19T11:25:37Z
-description = "Investasi dengan modal kecil sangat mungkin untuk anda lakukan karena sekarang tersedia berbagai instrumen investasi dengan modal 1 juta yang menguntungkan"
+metaDescription = "Investasi dengan modal kecil sangat mungkin untuk anda lakukan karena sekarang tersedia berbagai instrumen investasi dengan modal 1 juta yang menguntungkan"
 draft = false
 slug = "mau-investasi-dengan-modal-kecil-simak-cara-mengembangkan-investasi-modal-1-juta"
 tag = ["crowdfunding", "crowdfunding indonesia", "crowdfunding properti", "Equity Crowdfunding", "Investasi Menguntungkan", "Investasi modal kecil", "investasi online", "Investasi online terbaru", "P2P Lending", "Securities Crowdfunding untuk Pengembangan UMKM di Indonesia"]

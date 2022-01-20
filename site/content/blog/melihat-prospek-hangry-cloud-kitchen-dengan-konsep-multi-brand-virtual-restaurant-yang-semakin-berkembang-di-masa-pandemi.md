@@ -2,7 +2,7 @@
 author = "Abdul Wahhab"
 category = ["Cloud Kitchen", "Bisnis F&B", "Bisnis Franchise Modal Kecil", "Bisnis Modal Kecil", "Investasi modal kecil", "patungan bisnis"]
 date = 2021-09-19T17:29:03Z
-description = "Hangry adalah salah satu bisnis F&B cloud kitchen dengan konsep multi-brand virtual restaurant yang sangat potensial selama pandemi | Franchise Hangry"
+metaDescription = "Hangry adalah salah satu bisnis F&B cloud kitchen dengan konsep multi-brand virtual restaurant yang sangat potensial selama pandemi | Franchise Hangry"
 draft = false
 image = "https://accountgram-production.sfo2.cdn.digitaloceanspaces.com/landx_ghost/2021/09/Screenshot-2021-09-20-at-00-24-27-LandX-Investasi-Bisnis-dan-Properti-Semudah-Belanja-Online.png"
 slug = "melihat-prospek-hangry-cloud-kitchen-dengan-konsep-multi-brand-virtual-restaurant-yang-semakin-berkembang-di-masa-pandemi"

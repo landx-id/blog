@@ -2,7 +2,7 @@
 author = "Abdul Wahhab"
 category = ["investasi", "Investasi Menguntungkan", "Perbedaan Dividen dan Capital Gain"]
 date = 2021-05-11T03:31:49Z
-description = "Investor perlu paham perbedaan antara dividen dan capital gain sebelum memutuskan untuk memulai investasi agar paham prospek keuntungan dari investasi anda"
+metaDescription = "Investor perlu paham perbedaan antara dividen dan capital gain sebelum memutuskan untuk memulai investasi agar paham prospek keuntungan dari investasi anda"
 draft = false
 image = "https://images.unsplash.com/photo-1568234928966-359c35dd8327?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxMTc3M3wwfDF8c2VhcmNofDF8fHByb2ZpdHxlbnwwfHx8fDE2NDAwMjE0NDk&ixlib=rb-1.2.1&q=80&w=1080"
 slug = "pahami-perbedaan-dividen-dan-capital-gain-sebelum-memulai-investasi"

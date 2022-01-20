@@ -2,7 +2,7 @@
 author = "Gunawan Aldy"
 category = ["investasi", "properti", "investasi properti online", "bisnis properti", "investasi jangka panjang"]
 date = 2019-09-02T04:34:02Z
-description = "Investasi properti memiliki berbagai resiko sehingga investor perlu memahami beberapa hal sebelum memulai investasi | 6 pertimbangan penting sebelum investasi properti. "
+metaDescription = "Investasi properti memiliki berbagai resiko sehingga investor perlu memahami beberapa hal sebelum memulai investasi | 6 pertimbangan penting sebelum investasi properti. "
 draft = false
 image = "https://accountgram-production.sfo2.cdn.digitaloceanspaces.com/landx_ghost/2019/09/6-Pertimbangan-Penting-Sebelum-Investasi-Properti.jpg"
 slug = "6-pertimbangan-penting-sebelum-investasi-properti"

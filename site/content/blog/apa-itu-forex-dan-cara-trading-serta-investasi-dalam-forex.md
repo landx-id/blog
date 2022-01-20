@@ -2,7 +2,7 @@
 author = "Abdul Wahhab"
 category = ["Robot Trading", "Forex", "ETF", "Instrumen Investasi"]
 date = 2021-11-24T14:28:10Z
-description = "Forex atau foreign exchange merupakan instrumen mata uang asing yang bisa untuk investasi dan objek trading oleh banyak orang karena volatilitasnya tinggi"
+metaDescription = "Forex atau foreign exchange merupakan instrumen mata uang asing yang bisa untuk investasi dan objek trading oleh banyak orang karena volatilitasnya tinggi"
 draft = false
 image = "https://images.unsplash.com/photo-1620808353968-92abf48219a9?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxMTc3M3wwfDF8c2VhcmNofDIwfHxmb3JleHxlbnwwfHx8fDE2NDAwNjE0NjU&ixlib=rb-1.2.1&q=80&w=1080"
 slug = "apa-itu-forex-dan-cara-trading-serta-investasi-dalam-forex"

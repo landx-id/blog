@@ -2,7 +2,7 @@
 author = "Abdul Wahhab"
 category = ["investasi pemula", "investor pemula", "pilihan investasi"]
 date = 2021-06-10T04:11:04Z
-description = "Sebagai pemula yang ingin memulai investasi kamu tentu masih kebingungan dalam menentukan investasi mana yang cocok untuk anda, cek pilihan investasi pemula"
+metaDescription = "Sebagai pemula yang ingin memulai investasi kamu tentu masih kebingungan dalam menentukan investasi mana yang cocok untuk anda, cek pilihan investasi pemula"
 draft = false
 slug = "investasi-yang-cocok-untuk-pemula"
 tag = ["investasi pemula", "investor pemula", "pilihan investasi"]

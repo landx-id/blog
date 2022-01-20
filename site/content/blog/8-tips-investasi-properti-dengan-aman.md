@@ -2,7 +2,7 @@
 author = "Gunawan Aldy"
 category = ["investasi", "properti"]
 date = 2019-09-30T03:37:56Z
-description = "Investasi properti harus dilakukan dengan sangat hati-hati. Pertimbangkan 8 tips penting berikut ketika ingin investasi properti dengan aman."
+metaDescription = "Investasi properti harus dilakukan dengan sangat hati-hati. Pertimbangkan 8 tips penting berikut ketika ingin investasi properti dengan aman."
 draft = false
 image = "https://accountgram-production.sfo2.cdn.digitaloceanspaces.com/landx_ghost/2019/09/8-Tips-Investasi-Properti-dengan-Aman.png"
 slug = "8-tips-investasi-properti-dengan-aman"

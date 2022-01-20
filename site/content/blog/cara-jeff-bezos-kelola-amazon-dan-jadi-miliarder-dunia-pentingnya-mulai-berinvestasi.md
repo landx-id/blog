@@ -2,7 +2,7 @@
 author = "Vlora Riyandi"
 category = ["Jeff Bezos", "strategi investasi", "investasi bisnis", "bisnis patungan", "Cryptocurrency", "Equity Crowdfunding", "Fintech", "Instrumen Investasi", "bisnis jangka panjang", "Investasi Passive Income"]
 date = 2021-12-03T16:11:46Z
-description = "Amazon awalnya hanya menjual buku, namun Jeff Bezos yang visioner mewujudkan impiannya menjadikan ecommerce super tersebut sebagai situs penyedia segalanya."
+metaDescription = "Amazon awalnya hanya menjual buku, namun Jeff Bezos yang visioner mewujudkan impiannya menjadikan ecommerce super tersebut sebagai situs penyedia segalanya."
 draft = false
 image = "https://images.unsplash.com/photo-1523474253046-8cd2748b5fd2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxMTc3M3wwfDF8c2VhcmNofDF8fGFtYXpvbnxlbnwwfHx8fDE2Mzg1NDc2MDI&ixlib=rb-1.2.1&q=80&w=1080"
 slug = "cara-jeff-bezos-kelola-amazon-dan-jadi-miliarder-dunia-pentingnya-mulai-berinvestasi"

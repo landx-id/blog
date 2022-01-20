@@ -2,7 +2,7 @@
 author = "Abdul Wahhab"
 category = ["bisnis di masa pandemi", "memulai investasi menguntungkan", "Memulai usaha", "investasi bisnis"]
 date = 2021-07-08T06:03:41Z
-description = "Yuk cek berbagai pilihan bisnis yang menguntungkan untuk pemula yang bisa anda coba di tahun 2021|Strategi membangun bisnis yang menguntungkan"
+metaDescription = "Yuk cek berbagai pilihan bisnis yang menguntungkan untuk pemula yang bisa anda coba di tahun 2021|Strategi membangun bisnis yang menguntungkan"
 draft = false
 slug = "7-bisnis-yang-menguntungkan-untuk-pemula"
 tag = ["bisnis di masa pandemi", "memulai investasi menguntungkan", "Memulai usaha", "investasi bisnis"]

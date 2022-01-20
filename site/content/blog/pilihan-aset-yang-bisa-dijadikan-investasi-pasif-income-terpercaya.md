@@ -2,7 +2,7 @@
 author = "Abdul Wahhab"
 category = ["bisnis investasi", "bisnis investasi online", "crowdfunding indonesia", "crowdfunding properti", "Equity Crowdfunding", "investasi bisnis", "investasi properti", "Securities Crowdfunding untuk Pengembangan UMKM di Indonesia"]
 date = 2021-04-23T02:22:04Z
-description = "Investasi pasif income adalah investasi yang bisa memberikan anda penghasilan tanpa melakukan apapun yang perlu disiapkan sedini mungkin bagi investor"
+metaDescription = "Investasi pasif income adalah investasi yang bisa memberikan anda penghasilan tanpa melakukan apapun yang perlu disiapkan sedini mungkin bagi investor"
 draft = false
 image = "https://images.unsplash.com/photo-1626266061368-46a8f578ddd6?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxMTc3M3wwfDF8c2VhcmNofDN8fGluY29tZXxlbnwwfHx8fDE2NDAwMjA0NDk&ixlib=rb-1.2.1&q=80&w=1080"
 slug = "pilihan-aset-yang-bisa-dijadikan-investasi-pasif-income-terpercaya"

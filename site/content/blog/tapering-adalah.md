@@ -2,7 +2,7 @@
 author = "Abdul Wahhab"
 category = ["investasi", "investasi terbaik", "Equity Crowdfunding", "investasi jangka panjang"]
 date = 2021-09-09T08:23:19Z
-description = "Kebijakan tapering adalah pengurangan pembelian surat hutang oleh Bank Sentral Amerika The Fed. Indonesia diperkirakan akan menghadapi tapering pada bulan.."
+metaDescription = "Kebijakan tapering adalah pengurangan pembelian surat hutang oleh Bank Sentral Amerika The Fed. Indonesia diperkirakan akan menghadapi tapering pada bulan.."
 draft = false
 image = "https://images.unsplash.com/photo-1569025690938-a00729c9e1f9?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxMTc3M3wwfDF8c2VhcmNofDExfHxmaW5hbmNlfGVufDB8fHx8MTYzOTk5MjAzNQ&ixlib=rb-1.2.1&q=80&w=1080"
 slug = "tapering-adalah"

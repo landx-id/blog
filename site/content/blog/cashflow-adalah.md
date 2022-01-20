@@ -2,7 +2,7 @@
 author = "Abdul Wahhab"
 category = ["rasio keuangan", "investasi keuangan", "manajemen keuangan", "menabung dengan benar"]
 date = 2021-07-26T06:21:05Z
-description = "Cash Flow adalah hal penting yang harus diperhatikan apabila anda menginginkan kondisi keuangan yang lebih baik | Berikut tips mengelola cash flow yang baik"
+metaDescription = "Cash Flow adalah hal penting yang harus diperhatikan apabila anda menginginkan kondisi keuangan yang lebih baik | Berikut tips mengelola cash flow yang baik"
 draft = false
 slug = "cashflow-adalah"
 tag = ["rasio keuangan", "investasi keuangan", "manajemen keuangan", "menabung dengan benar"]

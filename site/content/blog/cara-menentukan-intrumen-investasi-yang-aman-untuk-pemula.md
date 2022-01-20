@@ -2,7 +2,7 @@
 author = "Abdul Wahhab"
 category = ["investasi", "investasi pemula", "investor pemula", "tips investasi", "investasi bisnis", "investasi keuangan", "strategi investasi", "Investasi untuk Pemula"]
 date = 2021-10-11T10:52:01Z
-description = "Investasi yang aman merupakan kunci utama yang harus anda perhatikan saat memutuskan untuk berinvestasi, berikut pilihan investasi yang aman untuk pemula"
+metaDescription = "Investasi yang aman merupakan kunci utama yang harus anda perhatikan saat memutuskan untuk berinvestasi, berikut pilihan investasi yang aman untuk pemula"
 draft = false
 image = "https://images.unsplash.com/photo-1524508762098-fd966ffb6ef9?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxMTc3M3wwfDF8c2VhcmNofDExfHxzYWZlJTIwc3RvY2t8ZW58MHx8fHwxNjQwMTQ4NDgy&ixlib=rb-1.2.1&q=80&w=1080"
 slug = "cara-menentukan-intrumen-investasi-yang-aman-untuk-pemula"

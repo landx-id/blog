@@ -2,7 +2,7 @@
 author = "Gunawan Aldy"
 category = ["investasi"]
 date = 2019-09-24T09:21:02Z
-description = "Peluang yang ditawarkan oleh investasi di properti pada dasarnya cukup besar dan mudah dieksploitasi karena Anda dapat mengelola investasi ini dengan modal yang tidak signifikan. "
+metaDescription = "Peluang yang ditawarkan oleh investasi di properti pada dasarnya cukup besar dan mudah dieksploitasi karena Anda dapat mengelola investasi ini dengan modal yang tidak signifikan. "
 draft = false
 image = "https://accountgram-production.sfo2.cdn.digitaloceanspaces.com/landx_ghost/2019/09/7-Tips-Investasi-Properti-dengan-Modal-Kecil.jpg"
 slug = "7-tips-investasi-properti-dengan-modal-kecil"

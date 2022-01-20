@@ -2,7 +2,7 @@
 author = "Abdul Wahhab"
 category = ["investasi bisnis", "crowdfunding properti", "bisnis investasi", "bisnis investasi online", "investasi properti"]
 date = 2021-03-28T06:21:00Z
-description = "Investasi rumah kost memiliki potensi perkembangan yang sangat pesat dalam beberapa waktu kedepan | Investasi ini bisa dimulai dengan modal kecil di LandX"
+metaDescription = "Investasi rumah kost memiliki potensi perkembangan yang sangat pesat dalam beberapa waktu kedepan | Investasi ini bisa dimulai dengan modal kecil di LandX"
 draft = false
 image = "https://images.unsplash.com/photo-1531420082871-1c5eb4d20871?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxMTc3M3wwfDF8c2VhcmNofDd8fGZsYXR8ZW58MHx8fHwxNjM4ODkwNTcx&ixlib=rb-1.2.1&q=80&w=1080"
 slug = "tips-dan-strategi-investasi-rumah-kost-untuk-pemula"

@@ -2,7 +2,7 @@
 author = "Abdul Wahhab"
 category = ["strategi investasi", "investasi", "Investasi Menguntungkan", "investasi terbaik"]
 date = 2021-09-09T09:29:34Z
-description = "The Fed adalah singkatan dari The Federal Reserve System yang merupakan Bank Sentral Amerika yang mengambil berbagai kebijakan  moneter"
+metaDescription = "The Fed adalah singkatan dari The Federal Reserve System yang merupakan Bank Sentral Amerika yang mengambil berbagai kebijakan  moneter"
 draft = false
 image = "https://images.unsplash.com/photo-1499092346589-b9b6be3e94b2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxMTc3M3wwfDF8c2VhcmNofDV8fGFtZXJpY2F8ZW58MHx8fHwxNjQwMjUxMzE0&ixlib=rb-1.2.1&q=80&w=1080"
 slug = "the-fed-adalah-bank-sentral-amerika"

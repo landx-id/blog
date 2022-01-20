@@ -1,7 +1,7 @@
 +++
 author = "Vlora Riyandi"
 date = 2021-12-27T07:42:39Z
-description = "Window Dressing adalah strategi mempercantik portofolio oleh manajer investasi sebelum disuguhkan kepada pemegang saham atau klien."
+metaDescription = "Window Dressing adalah strategi mempercantik portofolio oleh manajer investasi sebelum disuguhkan kepada pemegang saham atau klien."
 draft = true
 image = "https://images.unsplash.com/photo-1526628953301-3e589a6a8b74?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxMTc3M3wwfDF8c2VhcmNofDU2fHxpbnZlc3RtZW50JTIwMjAyMXxlbnwwfHx8fDE2NDA1OTE5NDE&ixlib=rb-1.2.1&q=80&w=1080"
 slug = "untitled-2"

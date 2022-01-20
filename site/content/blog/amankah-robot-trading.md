@@ -2,7 +2,7 @@
 author = "Abdul Wahhab"
 category = ["Robot Trading", "Penipuan Telegram", "Investasi Bodong"]
 date = 2021-11-19T13:22:37Z
-description = "Trading forex menggunakan robot menjadi hal yang sangat populer belakangan ini, namun tidak sedikit juga robot trading menjadi modus penipuan oleh pihak.."
+metaDescription = "Trading forex menggunakan robot menjadi hal yang sangat populer belakangan ini, namun tidak sedikit juga robot trading menjadi modus penipuan oleh pihak.."
 draft = false
 image = "https://images.unsplash.com/photo-1531837763904-5d3cb2632ea3?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxMTc3M3wwfDF8c2VhcmNofDYwfHxyb2JvdCUyMHRyYWRpbmd8ZW58MHx8fHwxNjQwMDYyMTE4&ixlib=rb-1.2.1&q=80&w=1080"
 slug = "amankah-robot-trading"

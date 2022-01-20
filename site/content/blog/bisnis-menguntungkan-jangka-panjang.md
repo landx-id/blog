@@ -2,7 +2,7 @@
 author = "Abdul Wahhab"
 category = ["investasi jangka panjang", "bisnis jangka panjang", "bisnis investasi", "investasi bisnis"]
 date = 2021-06-14T04:08:18Z
-description = "simak bagaimana memilih bisnis jangka panjang yang menguntungkan agar anda bisa menentukan pilihan bisnis jangka panjang untuk investasi anda"
+metaDescription = "simak bagaimana memilih bisnis jangka panjang yang menguntungkan agar anda bisa menentukan pilihan bisnis jangka panjang untuk investasi anda"
 draft = false
 slug = "bisnis-menguntungkan-jangka-panjang"
 tag = ["investasi jangka panjang", "bisnis jangka panjang", "bisnis investasi", "investasi bisnis"]

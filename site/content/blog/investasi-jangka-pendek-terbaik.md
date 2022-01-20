@@ -2,7 +2,7 @@
 author = "Abdul Wahhab"
 category = ["investasi", "investasi saham", "cara mengembangkan uang dengan cepat"]
 date = 2021-08-28T16:31:08Z
-description = "Investasi jangka pendek adalah jenis investasi yang dilakukan dalam periode waktu singkat mulai dari 1-3 tahun. Pilihan investasi jangka pendek: deposito,.."
+metaDescription = "Investasi jangka pendek adalah jenis investasi yang dilakukan dalam periode waktu singkat mulai dari 1-3 tahun. Pilihan investasi jangka pendek: deposito,.."
 draft = false
 slug = "investasi-jangka-pendek-terbaik"
 tag = ["investasi", "investasi saham", "cara mengembangkan uang dengan cepat"]

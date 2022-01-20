@@ -2,7 +2,7 @@
 author = "Abdul Wahhab"
 category = ["crowdfunding", "Equity Crowdfunding", "investasi", "Investasi Menguntungkan", "investasi online", "reksa dana", "Saham Online", "obligasi", "instrumen pasar modal"]
 date = 2021-05-11T03:57:56Z
-description = "Pilihan investasi pasar modal: 1. Saham 2. Obligasi 3. Reksa Dana 4. Exchange Traded Fund 5. Derivatif \nInstrumen investasi yang dijual di pasar modal"
+metaDescription = "Pilihan investasi pasar modal: 1. Saham 2. Obligasi 3. Reksa Dana 4. Exchange Traded Fund 5. Derivatif \nInstrumen investasi yang dijual di pasar modal"
 draft = false
 slug = "kenali-4-instrumen-pasar-modal-sebelum-memutuskan-instrumen-pasar-modal-terbaik-anda"
 tag = ["crowdfunding", "Equity Crowdfunding", "investasi", "Investasi Menguntungkan", "investasi online", "reksa dana", "Saham Online", "obligasi", "instrumen pasar modal"]

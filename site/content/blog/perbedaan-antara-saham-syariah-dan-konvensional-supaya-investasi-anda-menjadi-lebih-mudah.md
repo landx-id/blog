@@ -2,7 +2,7 @@
 author = "Abdul Wahhab"
 category = ["saham syariah", "saham konvensional", "bisnis investasi", "Cara Investasi Saham"]
 date = 2021-05-28T10:04:20Z
-description = "Yuk pahami perbedaan antara saham syariah dan konvensional supaya anda bisa lebih paham lagi tentang bagaimana memilih saham "
+metaDescription = "Yuk pahami perbedaan antara saham syariah dan konvensional supaya anda bisa lebih paham lagi tentang bagaimana memilih saham "
 draft = false
 slug = "perbedaan-antara-saham-syariah-dan-konvensional-supaya-investasi-anda-menjadi-lebih-mudah"
 tag = ["saham syariah", "saham konvensional", "bisnis investasi", "Cara Investasi Saham"]

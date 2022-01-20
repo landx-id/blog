@@ -2,7 +2,7 @@
 author = "Vlora Riyandi"
 category = ["IPO Bukalapak", "investasi bisnis", "Cara Investasi Saham", "investasi saham"]
 date = 2021-12-20T09:49:07Z
-description = "Walaupun sempat ARA di awal IPO (Initial Public Offering), saham Bukalapak kini terus mengalami ARB, membuat banyak investor merasa dirugikan oleh hal ini."
+metaDescription = "Walaupun sempat ARA di awal IPO (Initial Public Offering), saham Bukalapak kini terus mengalami ARB, membuat banyak investor merasa dirugikan oleh hal ini."
 draft = false
 image = "https://images.unsplash.com/photo-1612178991541-b48cc8e92a4d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxMTc3M3wwfDF8c2VhcmNofDF8fHN0b2NrJTIwZXhjaGFuZ2V8ZW58MHx8fHwxNjM5OTkzODAx&ixlib=rb-1.2.1&q=80&w=1080"
 slug = "ipo-bukalapak-menelusuri-penyebab-anjloknya-harga-saham-bukalapak-semenjak-ipo"

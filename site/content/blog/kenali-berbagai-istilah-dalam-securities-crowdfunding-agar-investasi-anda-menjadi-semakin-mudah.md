@@ -2,7 +2,7 @@
 author = "Abdul Wahhab"
 category = ["Securities Crowdfunding untuk Pengembangan UMKM di Indonesia", "Equity Crowdfunding", "investasi bisnis", "investasi bagi hasil"]
 date = 2021-05-24T04:10:05Z
-description = "Securities crowdfunding merupakan sistem investasi yang baru-baru ini dikenalkan oleh pemerintah. Berikut beberapa istilah dalam securities crowdfunding"
+metaDescription = "Securities crowdfunding merupakan sistem investasi yang baru-baru ini dikenalkan oleh pemerintah. Berikut beberapa istilah dalam securities crowdfunding"
 draft = false
 slug = "kenali-berbagai-istilah-dalam-securities-crowdfunding-agar-investasi-anda-menjadi-semakin-mudah"
 tag = ["Securities Crowdfunding untuk Pengembangan UMKM di Indonesia", "Equity Crowdfunding", "investasi bisnis", "investasi bagi hasil"]

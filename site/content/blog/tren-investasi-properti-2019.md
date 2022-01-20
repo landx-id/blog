@@ -2,7 +2,7 @@
 author = "Gunawan Aldy"
 category = ["properti", "investasi"]
 date = 2019-10-10T08:12:38Z
-description = "Akibatnya, pemilihan umum serentak di awal 2019 tidak dianggap memiliki pengaruh besar pada pertumbuhan investasi properti."
+metaDescription = "Akibatnya, pemilihan umum serentak di awal 2019 tidak dianggap memiliki pengaruh besar pada pertumbuhan investasi properti."
 draft = false
 image = "https://accountgram-production.sfo2.cdn.digitaloceanspaces.com/landx_ghost/2019/10/Tren-Investasi-Properti-2019.jpg"
 slug = "tren-investasi-properti-2019"

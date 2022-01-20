@@ -2,7 +2,7 @@
 author = "Gunawan Aldy"
 category = ["investasi", "properti"]
 date = 2019-04-01T08:58:56Z
-description = "Luas bumi tidak akan pernah bertambah. Itulah sebabnya kenapa investasi properti dianggap sangat penting untuk dilakukan secepatnya."
+metaDescription = "Luas bumi tidak akan pernah bertambah. Itulah sebabnya kenapa investasi properti dianggap sangat penting untuk dilakukan secepatnya."
 draft = false
 image = "https://accountgram-production.sfo2.cdn.digitaloceanspaces.com/landx_ghost/2019/05/Alasan-Pentingnya-Untuk-Berinvestasi-Properti-Secepatnya.jpg"
 slug = "alasan-pentingnya-untuk-berinvestasi-properti-secepatnya"

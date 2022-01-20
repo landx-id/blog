@@ -2,7 +2,7 @@
 author = "Abdul Wahhab"
 category = ["investasi terbaik", "Investasi Menguntungkan", "memulai investasi menguntungkan"]
 date = 2021-08-16T08:20:26Z
-description = "Menemukan investasi terbaik bukanlah hal yang mudah, tapi kini anda bisa mulai berinvestasi ke dalam berbagai bisnis potensial hanya dengan modal kecil"
+metaDescription = "Menemukan investasi terbaik bukanlah hal yang mudah, tapi kini anda bisa mulai berinvestasi ke dalam berbagai bisnis potensial hanya dengan modal kecil"
 draft = false
 slug = "cara-investasi-bisnis-terbaik"
 tag = ["investasi terbaik", "Investasi Menguntungkan", "memulai investasi menguntungkan"]

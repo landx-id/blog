@@ -1,0 +1,30 @@
+.jumbotron-container {
+    position: relative;
+    min-height: calc(100vh - (88px + 49px));
+    width: 100vw;
+    margin-top: calc(88px + 49px);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+.jumbotron-container .bg {
+    height: 100%;
+    width: 100%;
+    position: absolute;
+    top: 0;
+    left: 0;
+    border-radius: 0;
+}
+
+.jumbotron-text {
+    position: absolute;
+    top: auto;
+    left: auto;
+    font-size: 3rem;
+    text-shadow: 3px 5px 8px #14141442;
+    color: white;
+    text-transform: uppercase;
+    font-weight: 900;
+}

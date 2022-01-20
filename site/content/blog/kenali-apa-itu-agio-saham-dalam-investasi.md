@@ -2,7 +2,7 @@
 author = "Abdul Wahhab"
 category = ["Cara Investasi Saham", "agio saham"]
 date = 2021-06-18T04:47:01Z
-description = "pahami apa itu agio saham agar investasi yang anda semakin mudah dalam melakukan investasi saham. Kenali berbagai jenis agio saham"
+metaDescription = "pahami apa itu agio saham agar investasi yang anda semakin mudah dalam melakukan investasi saham. Kenali berbagai jenis agio saham"
 draft = false
 slug = "kenali-apa-itu-agio-saham-dalam-investasi"
 tag = ["Cara Investasi Saham", "agio saham"]

@@ -2,7 +2,7 @@
 author = "Gunawan Aldy"
 category = ["investasi", "properti"]
 date = 2019-03-27T03:24:06Z
-description = "Solusi untuk yang tidak mampu menjangkau investasi properti, atau sulit menemukan properti dengan hasil sewa yang tinggi."
+metaDescription = "Solusi untuk yang tidak mampu menjangkau investasi properti, atau sulit menemukan properti dengan hasil sewa yang tinggi."
 draft = false
 image = "https://accountgram-production.sfo2.cdn.digitaloceanspaces.com/landx_ghost/2019/05/menjadi-investor-properti-dengan-modal-5-juta.jpg"
 slug = "menjadi-investor-properti-dengan-modal-5-juta"

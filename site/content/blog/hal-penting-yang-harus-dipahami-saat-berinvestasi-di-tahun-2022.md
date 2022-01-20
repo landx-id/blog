@@ -2,7 +2,7 @@
 author = "Khurin N. Imandini"
 category = ["investasi", "bisnis patungan", "crowdfunding indonesia", "Equity Crowdfunding", "investasi jangka panjang", "Investasi Tahun 2022"]
 date = 2021-12-03T06:19:35Z
-description = "Sebelum menyusun rencana investasi untuk tahun 2022, yuk simak dulu berbagai tips penting yang bisa membantu investasi kamu di tahun 2022"
+metaDescription = "Sebelum menyusun rencana investasi untuk tahun 2022, yuk simak dulu berbagai tips penting yang bisa membantu investasi kamu di tahun 2022"
 draft = false
 image = "https://images.unsplash.com/photo-1629839958207-5400ab5e1e7f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxMTc3M3wwfDF8c2VhcmNofDN8fDIwMjJ8ZW58MHx8fHwxNjM4NTI4MDIx&ixlib=rb-1.2.1&q=80&w=1080"
 slug = "hal-penting-yang-harus-dipahami-saat-berinvestasi-di-tahun-2022"

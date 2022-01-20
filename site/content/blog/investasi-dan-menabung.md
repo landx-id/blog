@@ -2,7 +2,7 @@
 author = "Abdul Wahhab"
 category = ["Equity Crowdfunding", "menabung dengan benar", "Instrumen Investasi", "Investasi online terbaru", "instrumen pasar modal", "investasi", "dana darurat"]
 date = 2021-04-12T03:46:23Z
-description = "Untuk mempersiapkan masa depan, kamu tidak cukup hanya sekedar menabung saja karena kita mungkin akan menghadapi inflasi yang terus terjadi....."
+metaDescription = "Untuk mempersiapkan masa depan, kamu tidak cukup hanya sekedar menabung saja karena kita mungkin akan menghadapi inflasi yang terus terjadi....."
 draft = false
 image = "https://images.unsplash.com/photo-1579621970563-ebec7560ff3e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxMTc3M3wwfDF8c2VhcmNofDR8fHNhdmluZ3xlbnwwfHx8fDE2MzkwMjI3MjM&ixlib=rb-1.2.1&q=80&w=1080"
 slug = "investasi-dan-menabung"

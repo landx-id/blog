@@ -2,7 +2,7 @@
 author = "Gunawan Aldy"
 category = ["investasi", "properti", "news", "landx.id"]
 date = 2019-03-25T09:37:15Z
-description = "Instrumen investasi lain yang cocok untuk pemula. Yang bisa disesuaikan dengan profil risiko, tenor, atau jumlah dana yang dimiliki."
+metaDescription = "Instrumen investasi lain yang cocok untuk pemula. Yang bisa disesuaikan dengan profil risiko, tenor, atau jumlah dana yang dimiliki."
 draft = false
 image = "https://accountgram-production.sfo2.cdn.digitaloceanspaces.com/landx_ghost/2019/05/pilihan-investasi-untuk-pemula.jpg"
 slug = "pilihan-investasi-untuk-pemula"

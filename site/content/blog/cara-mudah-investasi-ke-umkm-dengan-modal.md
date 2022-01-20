@@ -2,7 +2,7 @@
 author = "Abdul Wahhab"
 category = ["investasi umkm", "investasi bisnis", "bisnis investasi", "Equity Crowdfunding", "crowdfunding", "crowdfunding indonesia"]
 date = 2021-09-20T05:10:19Z
-description = "Saat ini, investasi ke UMKM sangatlah mudah dan bisa dimulai dengan modal kecil karena kini tersedia sistem investasi online yang membantu investasi UMKM..."
+metaDescription = "Saat ini, investasi ke UMKM sangatlah mudah dan bisa dimulai dengan modal kecil karena kini tersedia sistem investasi online yang membantu investasi UMKM..."
 draft = false
 image = "https://images.unsplash.com/photo-1573612664822-d7d347da7b80?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxMTc3M3wwfDF8c2VhcmNofDE0fHxzbWFsbCUyMGJ1c2luZXNzfGVufDB8fHx8MTY0MDI1MDQxNg&ixlib=rb-1.2.1&q=80&w=1080"
 slug = "cara-mudah-investasi-ke-umkm-dengan-modal"

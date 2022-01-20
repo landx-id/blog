@@ -1,7 +1,7 @@
 +++
 author = "Gunawan Aldy"
 date = 2019-08-13T10:14:26Z
-description = ""
+metaDescription = ""
 draft = false
 image = "https://accountgram-production.sfo2.cdn.digitaloceanspaces.com/landx_ghost/2019/08/JKT01_TM-01-outdoor.png"
 slug = "voting-jkt01"

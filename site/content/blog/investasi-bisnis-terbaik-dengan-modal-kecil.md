@@ -2,7 +2,7 @@
 author = "Abdul Wahhab"
 category = ["investasi bisnis", "Equity Crowdfunding", "bisnis investasi", "Securities Crowdfunding untuk Pengembangan UMKM di Indonesia", "aludi", "investasi online"]
 date = 2021-03-18T02:59:03Z
-description = "Investasi bisnis modal kecil tentu saja harapan semua orang terutama bagi yang ingin berinvestasi ke sektor privat dengan modal kecil, yuk simak caranya"
+metaDescription = "Investasi bisnis modal kecil tentu saja harapan semua orang terutama bagi yang ingin berinvestasi ke sektor privat dengan modal kecil, yuk simak caranya"
 draft = false
 image = "https://images.unsplash.com/photo-1454165804606-c3d57bc86b40?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxMTc3M3wwfDF8c2VhcmNofDExfHxidXNpbmVzc3xlbnwwfHx8fDE2Mzg4MDc3MzI&ixlib=rb-1.2.1&q=80&w=1080"
 slug = "investasi-bisnis-terbaik-dengan-modal-kecil"

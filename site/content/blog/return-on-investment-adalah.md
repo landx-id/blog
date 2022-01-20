@@ -2,7 +2,7 @@
 author = "Abdul Wahhab"
 category = ["Equity Crowdfunding", "crowdfunding properti", "investasi properti", "Investasi online terbaru"]
 date = 2021-04-22T05:18:25Z
-description = "Return on Investment (ROI) merupakan hal penting yang harus diperhatikan saat memulai investasi, karena itu pahami lebih lanjut apa itu return on investment"
+metaDescription = "Return on Investment (ROI) merupakan hal penting yang harus diperhatikan saat memulai investasi, karena itu pahami lebih lanjut apa itu return on investment"
 draft = false
 slug = "return-on-investment-adalah"
 tag = ["Equity Crowdfunding", "crowdfunding properti", "investasi properti", "Investasi online terbaru"]

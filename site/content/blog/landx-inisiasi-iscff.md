@@ -2,7 +2,7 @@
 author = "Abdul Wahhab"
 category = ["Equity Crowdfunding", "Securities Crowdfunding untuk Pengembangan UMKM di Indonesia", "patungan bisnis", "bisnis investasi online", "crowdfunding"]
 date = 2021-09-19T18:08:26Z
-description = "ISSCF merupakan bentuk komitmen LandX untuk meningkatkan inklusi literasi keuangan masyarakat agar lebih paham tentang bagaimana pentingnya berinvestasi"
+metaDescription = "ISSCF merupakan bentuk komitmen LandX untuk meningkatkan inklusi literasi keuangan masyarakat agar lebih paham tentang bagaimana pentingnya berinvestasi"
 draft = false
 image = "https://accountgram-production.sfo2.cdn.digitaloceanspaces.com/landx_ghost/2021/12/landx.png"
 slug = "landx-inisiasi-iscff"

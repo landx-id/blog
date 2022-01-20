@@ -1,7 +1,7 @@
 +++
 author = "Khurin N. Imandini"
 date = 2021-12-27T07:04:01Z
-description = ""
+metaDescription = ""
 draft = true
 slug = "untitled"
 title = "Tips dan Trik Menabung dengan Benar"

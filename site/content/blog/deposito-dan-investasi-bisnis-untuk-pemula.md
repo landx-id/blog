@@ -2,7 +2,7 @@
 author = "Abdul Wahhab"
 category = ["bisnis investasi", "investasi bisnis", "Cara Investasi Saham", "Investasi Menguntungkan", "investasi terbaik", "bisnis investasi terpercaya", "Equity Crowdfunding", "crowdfunding", "Securities Crowdfunding untuk Pengembangan UMKM di Indonesia"]
 date = 2021-09-22T06:01:00Z
-description = "Deposito merupakan salah satu produk investasi yang dikeluarkan perbankan yang populer di kalangan masyarakat | Deposito atau Investasi Bisnis?"
+metaDescription = "Deposito merupakan salah satu produk investasi yang dikeluarkan perbankan yang populer di kalangan masyarakat | Deposito atau Investasi Bisnis?"
 draft = false
 image = "https://images.unsplash.com/photo-1551260627-fd1b6daa6224?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxMTc3M3wwfDF8c2VhcmNofDE3fHxiYW5rfGVufDB8fHx8MTY0MDI1MDY2NQ&ixlib=rb-1.2.1&q=80&w=1080"
 slug = "deposito-dan-investasi-bisnis-untuk-pemula"

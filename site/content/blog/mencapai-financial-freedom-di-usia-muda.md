@@ -2,7 +2,7 @@
 author = "Abdul Wahhab"
 category = ["tips investasi", "Investasi Passive Income", "investasi pemula", "Equity Crowdfunding", "investasi", "investasi terbaik", "investor pemula", "laju inflasi", "patungan bisnis"]
 date = 2021-10-11T09:23:37Z
-description = "Financial freedom adalah saat seseorang bisa tetap hidup bercukupan tanpa bekerja karena mereka sudah memiliki passive income yang sudah bisa mencukupi"
+metaDescription = "Financial freedom adalah saat seseorang bisa tetap hidup bercukupan tanpa bekerja karena mereka sudah memiliki passive income yang sudah bisa mencukupi"
 draft = false
 image = "https://images.unsplash.com/photo-1550071593-fd1bdaf1f93c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxMTc3M3wwfDF8c2VhcmNofDExfHxoYXBweSUyMHdvcmtlcnxlbnwwfHx8fDE2NDAxNDkwNDg&ixlib=rb-1.2.1&q=80&w=1080"
 slug = "mencapai-financial-freedom-di-usia-muda"

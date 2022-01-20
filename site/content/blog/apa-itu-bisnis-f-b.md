@@ -2,7 +2,7 @@
 author = "Abdul Wahhab"
 category = ["crowdfunding indonesia", "Equity Crowdfunding", "investasi bisnis", "investasi bagi hasil", "Cloud Kitchen", "Bisnis F&B", "bisnis di masa pandemi", "franchise f&b"]
 date = 2021-04-06T02:47:51Z
-description = "Tahukah anda bahwa bisnis F&B atau Food and Beverage merupakan bisnis yang memiliki potensi perkembangan yang menjanjikan pada masa pandemi ini?"
+metaDescription = "Tahukah anda bahwa bisnis F&B atau Food and Beverage merupakan bisnis yang memiliki potensi perkembangan yang menjanjikan pada masa pandemi ini?"
 draft = false
 image = "https://images.unsplash.com/photo-1466978913421-dad2ebd01d17?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxMTc3M3wwfDF8c2VhcmNofDJ8fHJlc3RhdXJhbnR8ZW58MHx8fHwxNjM4ODk5NzE2&ixlib=rb-1.2.1&q=80&w=1080"
 slug = "apa-itu-bisnis-f-b"

@@ -2,7 +2,7 @@
 author = "Abdul Wahhab"
 category = ["investasi online", "bisnis investasi online", "crowdfunding properti", "Equity Crowdfunding", "Investasi untuk Pemula", "investor pemula", "instrumen pasar modal"]
 date = 2021-03-26T03:51:00Z
-description = "Pemula dapat memulai bisnis investasi online dengan berbagai pilihan instrumen investasi online di sekitar anda. Berikut rekomendasi bisnis investasi online"
+metaDescription = "Pemula dapat memulai bisnis investasi online dengan berbagai pilihan instrumen investasi online di sekitar anda. Berikut rekomendasi bisnis investasi online"
 draft = false
 image = "https://accountgram-production.sfo2.cdn.digitaloceanspaces.com/landx_ghost/2021/03/5.-bisnis-investasi-online.jpg"
 slug = "rekomendasi-bisnis-investasi-online-terbaik-yang-aman-untuk-pemula"

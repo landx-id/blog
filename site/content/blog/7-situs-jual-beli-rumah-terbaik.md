@@ -2,7 +2,7 @@
 author = "Gunawan Aldy"
 category = ["properti"]
 date = 2019-10-28T03:42:06Z
-description = "Dari banyak situs web real estat Indonesia di Internet, hanya sebagian kecil di antaranya yang telah menarik hati pembeli dan penjual."
+metaDescription = "Dari banyak situs web real estat Indonesia di Internet, hanya sebagian kecil di antaranya yang telah menarik hati pembeli dan penjual."
 draft = false
 image = "https://accountgram-production.sfo2.cdn.digitaloceanspaces.com/landx_ghost/2019/10/7-Situs-Jual-Beli-Rumah-Terbaik.jpg"
 slug = "7-situs-jual-beli-rumah-terbaik"

@@ -2,7 +2,7 @@
 author = "Vlora Riyandi"
 category = ["Kapal Tongkang", "keuntungan investasi", "bisnis patungan", "bisnis masa pandemi", "crowdfunding indonesia", "ETF", "Instrumen Investasi", "investasi bisnis", "Helmy Yahya"]
 date = 2021-12-17T08:30:44Z
-description = "Seorang entertainer yang kini juga mengembangkan fokusnya pada pengembangan bisnis, membuat Helmy Yahya menjadi salah satu pengusaha sukses di Indonesia."
+metaDescription = "Seorang entertainer yang kini juga mengembangkan fokusnya pada pengembangan bisnis, membuat Helmy Yahya menjadi salah satu pengusaha sukses di Indonesia."
 draft = false
 slug = "profil-lengkap-helmy-yahya"
 tag = ["Kapal Tongkang", "keuntungan investasi", "bisnis patungan", "bisnis masa pandemi", "crowdfunding indonesia", "ETF", "Instrumen Investasi", "investasi bisnis", "Helmy Yahya"]

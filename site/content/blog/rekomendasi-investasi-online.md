@@ -2,7 +2,7 @@
 author = "Abdul Wahhab"
 category = ["Equity Crowdfunding", "investasi online", "Investasi online terbaru", "Saham Online", "Properti online", "P2P Lending", "bisnis investasi"]
 date = 2021-05-03T02:58:53Z
-description = "Investasi kini makin mudah dengan adanya investasi online. Jenis investasi online kini kian beragam menyesuaikan tujuan investasi dan profil risiko anda"
+metaDescription = "Investasi kini makin mudah dengan adanya investasi online. Jenis investasi online kini kian beragam menyesuaikan tujuan investasi dan profil risiko anda"
 draft = false
 image = "https://accountgram-production.sfo2.cdn.digitaloceanspaces.com/landx_ghost/2021/05/6.-Bisnis-investasi-online-terpercaya.jpg"
 slug = "rekomendasi-investasi-online"

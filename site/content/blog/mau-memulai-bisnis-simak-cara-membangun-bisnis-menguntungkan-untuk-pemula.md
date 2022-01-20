@@ -2,7 +2,7 @@
 author = "Abdul Wahhab"
 category = ["bisnis menguntungkan", "bisnis investasi", "peluang bisnis", "investasi bisnis"]
 date = 2021-09-15T01:44:26Z
-description = "Yuk pahami bagaimana cara membangun bisnis dari nol dan berbagai persiapan yang harus dimiliki saat ingin memulai suatu bisnis"
+metaDescription = "Yuk pahami bagaimana cara membangun bisnis dari nol dan berbagai persiapan yang harus dimiliki saat ingin memulai suatu bisnis"
 draft = false
 image = "https://images.unsplash.com/photo-1512758017271-d7b84c2113f1?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxMTc3M3wwfDF8c2VhcmNofDR8fGJ1aWxkJTIwYnVzaW5lc3N8ZW58MHx8fHwxNjQwMjUwOTcy&ixlib=rb-1.2.1&q=80&w=1080"
 slug = "mau-memulai-bisnis-simak-cara-membangun-bisnis-menguntungkan-untuk-pemula"

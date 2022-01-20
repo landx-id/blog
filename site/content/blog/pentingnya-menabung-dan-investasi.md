@@ -2,7 +2,7 @@
 author = "Abdul Wahhab"
 category = ["menabung dengan benar", "investasi", "investasi jangka panjang", "investasi pemula"]
 date = 2021-08-19T07:04:04Z
-description = "Selain menabung kita juga harus menyiapkan investasi agar uang yang kita miliki dapat berkembang dengan optimal | Simak kenapa kita sangat butuh investasi"
+metaDescription = "Selain menabung kita juga harus menyiapkan investasi agar uang yang kita miliki dapat berkembang dengan optimal | Simak kenapa kita sangat butuh investasi"
 draft = false
 slug = "pentingnya-menabung-dan-investasi"
 tag = ["menabung dengan benar", "investasi", "investasi jangka panjang", "investasi pemula"]

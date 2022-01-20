@@ -2,7 +2,7 @@
 author = "Abdul Wahhab"
 category = ["Instrumen Investasi", "Blockchain"]
 date = 2021-11-24T03:54:53Z
-description = "Blockchain adalah sistem penyimpanan data yang terdesentralisasi sehingga menjadi sistem yang digunakan untuk berbagai industri salah satunya cryptocurrency"
+metaDescription = "Blockchain adalah sistem penyimpanan data yang terdesentralisasi sehingga menjadi sistem yang digunakan untuk berbagai industri salah satunya cryptocurrency"
 draft = false
 image = "https://images.unsplash.com/photo-1559445368-b8a993676d7a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxMTc3M3wwfDF8c2VhcmNofDExfHxibG9ja2NoYWlufGVufDB8fHx8MTY0MDA2MjAyNg&ixlib=rb-1.2.1&q=80&w=1080"
 slug = "apa-itu-blockchain-ini-pengertian-kelebihan-dan-cara-kerjanya"

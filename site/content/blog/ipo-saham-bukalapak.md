@@ -2,7 +2,7 @@
 author = "Abdul Wahhab"
 category = ["investasi saham", "Cara Investasi Saham", "tips investasi"]
 date = 2021-08-02T05:24:32Z
-description = "memahami apa itu IPO dan bagaimana prospek membeli saham saat IPO | Analisis saham IPO Bukalapak dan potensi keuntungan dalam jangka panjang"
+metaDescription = "memahami apa itu IPO dan bagaimana prospek membeli saham saat IPO | Analisis saham IPO Bukalapak dan potensi keuntungan dalam jangka panjang"
 draft = false
 image = "https://images.unsplash.com/photo-1621264448270-9ef00e88a935?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxMTc3M3wwfDF8c2VhcmNofDE1fHxzdG9ja3xlbnwwfHx8fDE2NDA2NjM1Njg&ixlib=rb-1.2.1&q=80&w=1080"
 slug = "ipo-saham-bukalapak"

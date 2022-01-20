@@ -2,7 +2,7 @@
 author = "Abdul Wahhab"
 category = ["bisnis investasi", "crowdfunding indonesia", "investasi bagi hasil", "investasi bisnis", "Investasi Menguntungkan", "Investasi Passive Income"]
 date = 2021-03-22T06:41:01Z
-description = "Investasi dengan passive income bisa kamu lakukan dengan investasi usaha modal kecil yang bisa dilakukan oleh pemula, yuk simak caranya"
+metaDescription = "Investasi dengan passive income bisa kamu lakukan dengan investasi usaha modal kecil yang bisa dilakukan oleh pemula, yuk simak caranya"
 draft = false
 image = "https://images.unsplash.com/photo-1565372781813-6e4d16bb4a3b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxMTc3M3wwfDF8c2VhcmNofDEzfHxwcm9maXR8ZW58MHx8fHwxNjM4ODEwNTQy&ixlib=rb-1.2.1&q=80&w=1080"
 slug = "cara-mendapatkan-passive-income-melalui-bagi-hasil"

@@ -2,7 +2,7 @@
 author = "Abdul Wahhab"
 category = ["tips investasi", "bisnis investasi", "bisnis jangka panjang", "bisnis investasi online", "cara kerja reksa dana", "Cara Investasi Saham", "diversifikasi dalam investasi", "efek compounding", "Equity Crowdfunding", "investasi bisnis", "investasi dengan modal kecil", "investasi jangka panjang", "investasi keuangan", "Investasi Menguntungkan", "Investasi modal kecil", "investasi online", "investor pemula", "Securities Crowdfunding untuk Pengembangan UMKM di Indonesia"]
 date = 2021-10-11T10:13:51Z
-description = "Investasi adalah kegiatan penenaman modal pada suatu kegiatan ekonomi atau bisnis dengan harapan keuntungan atau return di masa mendatang"
+metaDescription = "Investasi adalah kegiatan penenaman modal pada suatu kegiatan ekonomi atau bisnis dengan harapan keuntungan atau return di masa mendatang"
 draft = false
 image = "https://images.unsplash.com/photo-1604594849809-dfedbc827105?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxMTc3M3wwfDF8c2VhcmNofDF8fGludmVzdG1lbnR8ZW58MHx8fHwxNjQwMTQ4ODMw&ixlib=rb-1.2.1&q=80&w=1080"
 slug = "apa-yang-dimaskud-dengan-investasi-untuk-investasi"

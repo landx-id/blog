@@ -2,7 +2,7 @@
 author = "Abdul Wahhab"
 category = ["Bisnis F&B", "Bisnis Franchise Modal Kecil", "Bisnis Modal Kecil", "Investasi untuk Pemula", "franchise f&b", "sistem franchise"]
 date = 2021-12-10T12:54:03Z
-description = "Dragon Hot Pot baru saja membuka cabang barunya di kawasan PIK 2. Cabang ini terbentuk melalui sistem patungan bisnis atau equity crowdfunding/ urun dana"
+metaDescription = "Dragon Hot Pot baru saja membuka cabang barunya di kawasan PIK 2. Cabang ini terbentuk melalui sistem patungan bisnis atau equity crowdfunding/ urun dana"
 draft = false
 image = "https://accountgram-production.sfo2.cdn.digitaloceanspaces.com/landx_ghost/2021/12/Screenshot-2021-12-10-at-19-57-19-PROJECT-SERIES-DRAGON-HOT-POT-x-LANDX-Investasi-Cabang-Baru-di-PIK.png"
 slug = "dragon-hot-pot-bisnis-fnb-yang-sukses-listing-di-landx"

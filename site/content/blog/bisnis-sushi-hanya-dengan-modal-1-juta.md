@@ -2,7 +2,7 @@
 author = "Abdul Wahhab"
 category = ["Okinawa Sushi"]
 date = 2021-11-03T06:44:11Z
-description = "Suka makanan Jepang? Hmm, makan aja?? Yuk, MinLand ajak JADI PEMILIK restoran sushi, OKINAWA SUSHI hanya dengan 1 JUTA RUPIAH AJA"
+metaDescription = "Suka makanan Jepang? Hmm, makan aja?? Yuk, MinLand ajak JADI PEMILIK restoran sushi, OKINAWA SUSHI hanya dengan 1 JUTA RUPIAH AJA"
 draft = false
 image = "https://accountgram-production.sfo2.cdn.digitaloceanspaces.com/landx_ghost/2021/11/Thumbnail-OKinawa-Abdul-01-min-2.jpg"
 slug = "bisnis-sushi-hanya-dengan-modal-1-juta"

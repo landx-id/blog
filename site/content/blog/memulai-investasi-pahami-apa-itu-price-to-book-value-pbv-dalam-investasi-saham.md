@@ -2,7 +2,7 @@
 author = "Abdul Wahhab"
 category = ["price to book value", "pbv", "Cara Investasi Saham", "saham syariah"]
 date = 2021-05-31T02:49:28Z
-description = "Yuk Pahami Bagaimana Cara Menghitung Price to Book Value (PBV) agar anda semakin mudah memilih saham untuk investasi jangka panjang anda|Yuk Mulai Investasi"
+metaDescription = "Yuk Pahami Bagaimana Cara Menghitung Price to Book Value (PBV) agar anda semakin mudah memilih saham untuk investasi jangka panjang anda|Yuk Mulai Investasi"
 draft = false
 slug = "memulai-investasi-pahami-apa-itu-price-to-book-value-pbv-dalam-investasi-saham"
 tag = ["price to book value", "pbv", "Cara Investasi Saham", "saham syariah"]

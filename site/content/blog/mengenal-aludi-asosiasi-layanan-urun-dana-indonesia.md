@@ -2,7 +2,7 @@
 author = "Abdul Wahhab"
 category = ["Securities Crowdfunding untuk Pengembangan UMKM di Indonesia", "aludi", "Equity Crowdfunding"]
 date = 2021-08-07T18:43:09Z
-description = "ALUDI adalah Asosiasi Layanan Urun Dana Indonesia yang telah di tunjuk OJK sebagai asosiasi resmi yang mengawasi ekosistem layanan urun dana di Indonesia"
+metaDescription = "ALUDI adalah Asosiasi Layanan Urun Dana Indonesia yang telah di tunjuk OJK sebagai asosiasi resmi yang mengawasi ekosistem layanan urun dana di Indonesia"
 draft = false
 slug = "mengenal-aludi-asosiasi-layanan-urun-dana-indonesia"
 tag = ["Securities Crowdfunding untuk Pengembangan UMKM di Indonesia", "aludi", "Equity Crowdfunding"]

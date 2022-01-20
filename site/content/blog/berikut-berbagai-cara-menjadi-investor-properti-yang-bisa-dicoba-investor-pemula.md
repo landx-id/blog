@@ -2,7 +2,7 @@
 author = "Abdul Wahhab"
 category = ["investor properti", "investasi properti", "investasi properti online", "Equity Crowdfunding", "Securities Crowdfunding untuk Pengembangan UMKM di Indonesia", "investasi bisnis"]
 date = 2021-05-25T03:25:25Z
-description = "Apakah anda ingin menjadi investor properti? Yuk pahami lebih dalam terlebih dahulu tentang berbagai cara menjadi investor properti untuk investor pemula"
+metaDescription = "Apakah anda ingin menjadi investor properti? Yuk pahami lebih dalam terlebih dahulu tentang berbagai cara menjadi investor properti untuk investor pemula"
 draft = false
 slug = "berikut-berbagai-cara-menjadi-investor-properti-yang-bisa-dicoba-investor-pemula"
 tag = ["investor properti", "investasi properti", "investasi properti online", "Equity Crowdfunding", "Securities Crowdfunding untuk Pengembangan UMKM di Indonesia", "investasi bisnis"]

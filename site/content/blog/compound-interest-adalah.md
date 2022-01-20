@@ -2,7 +2,7 @@
 author = "Abdul Wahhab"
 category = ["compounding effect", "efek compounding", "investasi"]
 date = 2021-07-13T11:41:43Z
-description = "Compound Interest|Pahami bagaimana compound interest membuat investasi jangka panjang anda menjadi jauh lebih menguntungkan"
+metaDescription = "Compound Interest|Pahami bagaimana compound interest membuat investasi jangka panjang anda menjadi jauh lebih menguntungkan"
 draft = false
 slug = "compound-interest-adalah"
 tag = ["compounding effect", "efek compounding", "investasi"]

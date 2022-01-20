@@ -1,7 +1,7 @@
 +++
 author = "Abdul Wahhab"
 date = 2021-05-10T03:23:25Z
-description = ""
+metaDescription = ""
 draft = false
 slug = "4-pilihan-investasi-jangka-pendek-dan-tips-investasi-jangka-pendek-yang-menguntungkan"
 title = "4 Pilihan Investasi Jangka Pendek dan Tips Investasi Jangka Pendek yang Menguntungkan"

@@ -2,7 +2,7 @@
 author = "Vlora Riyandi"
 category = ["Bisnis Modal Kecil", "bisnis menguntungkan", "Bisnis F&B", "Bisnis Franchise Modal Kecil", "bisnis investasi terpercaya", "bisnis jangka panjang", "bisnis masa pandemi", "bisnis patungan", "cara mengembangkan uang dengan cepat", "Investasi modal kecil"]
 date = 2021-12-10T13:28:04Z
-description = "Mau mulai bisnis tapi modal yang kamu miliki terbatas? Yuk simak berbagai bisnis modal kecil yang bisa jadi pilihan kamu apabila ingin membangun bisnis"
+metaDescription = "Mau mulai bisnis tapi modal yang kamu miliki terbatas? Yuk simak berbagai bisnis modal kecil yang bisa jadi pilihan kamu apabila ingin membangun bisnis"
 draft = false
 image = "https://images.unsplash.com/photo-1543269865-cbf427effbad?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxMTc3M3wwfDF8c2VhcmNofDM5fHxidXNpbmVzc3xlbnwwfHx8fDE2MzgyNDUzOTc&ixlib=rb-1.2.1&q=80&w=1080"
 slug = "mulai-bisnis-modal-kecil-yang-cocok-untuk-pemula"
