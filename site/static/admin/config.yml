@@ -5,7 +5,7 @@ backend:
 media_folder: "site/static/img" # Folder where user uploaded files should go
 public_folder: "img"
 
-local_backend: true
+# local_backend: true
 
 collections: # A list of collections the CMS should be able to edit
   - name: "tags"
