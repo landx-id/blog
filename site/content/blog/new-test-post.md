@@ -12,3 +12,4 @@ featuredImage:
 this is the body of content
 
 {{< youtube id="wQUH06QRCi4" >}}
+{{< button link="https://www.youtube.com/watch?v=wQUH06QRCi4" text="Watch This Video" >}}
