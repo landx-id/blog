@@ -8,7 +8,8 @@ image = "https://accountgram-production.sfo2.cdn.digitaloceanspaces.com/landx_gh
 slug = "4-cabang-bisnis-burger-cuma-dengan-modal-1-juta"
 tag = ["Equity Crowdfunding", "investasi bisnis", "Bisnis F&B", "bisnis di masa pandemi", "Bisnis Franchise Modal Kecil", "Bisnis Modal Kecil", "investasi dengan modal kecil"]
 title = "Franchise Burger: Melihat Potensi Byurger, Burger Kekinian yang Tetap Berkembang Pesat Selama Pandemi"
-meta-title = "Meta title for 4 Cabang bisnis burger"
+metaTitle = "Meta title for 4 Cabang bisnis burger"
+isHomepage = true
 
 +++
 

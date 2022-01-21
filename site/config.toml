@@ -1,15 +1,26 @@
-baseurl = "/netifly"
-# baseurl = "/"
+# baseurl = "/netifly"
+baseurl = "/"
 languageCode = "en-us"
 languageLang = "en"
 title = "LandX"
 
-[Params]
-  pathUrl = 'netifly'
+# [Params]
+#   pathUrl = 'netifly'
 
 [taxonomies]
   tag = "tag"
   category = "category"
+
+[related]
+  includeNewer = false
+  threshold = 80
+  toLower = false
+[[related.indices]]
+  name = 'tag'
+  weight = 60
+[[related.indices]]
+  name = 'category'
+  weight = 80
 
 # RSS, categories and tags disabled for an easy start
 # See configuration options for more details: 

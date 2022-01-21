@@ -1,0 +1,17 @@
+{{ $related := .Site.RegularPages.Related . }}
+{{ with $related }}
+<h3 class="bold">Baca Juga</h3>
+
+<div class="related-container">
+    {{ range first 4 . }}
+    <a href="{{.RelPermalink}}" class="item">
+        <img src="{{.Params.image}}" height="60px" />
+        <div class="detail">
+            <div class="title">{{.Title}}</div>
+            <p class="date">{{ .Date.Format "Monday, 2 Jan 2006" }}</p>
+        </div>
+    </a>
+    {{ end }}
+</div>
+
+{{ end }}

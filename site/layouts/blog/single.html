@@ -7,7 +7,7 @@
     <p>{{ .Date.Format "Monday, 2 Jan 2006" }}</p>
     <p>Read in {{ .ReadingTime }} minutes</p>
   </div>
-  
+
   <div class="terms-container">
     <div class="chip-container in-content">
       {{ range .Params.tag }}
@@ -26,25 +26,28 @@
     {{ .Content }}
   </div>
 
-  <div class="paginator-container" style="padding-top: 32px; border-top: 1px solid #ccd7df">
-    {{with .Next}}
-    <a title='Previous Page' href="{{.Permalink}}">
-      <i class="fas fa-arrow-left"></i>
-      <span>Previous</span>
-    </a>
-    {{ else }}
-    <div>&nbsp;</div>
-    {{ end }}
+  {{partial "related" .}}
 
-    {{with .Prev}}
-    <a title='Previous Page' href="{{.Permalink}}">
-      <span>Next</span>
-      <i class="fas fa-arrow-right"></i>
-    </a>
-    {{ else }}
-    <div>&nbsp;</div>
-    {{ end }}
-  </div>
+    <div class="paginator-container" style="padding-top: 32px; border-top: 1px solid #ccd7df">
+      {{with .Next}}
+      <a title='Previous Page' href="{{.Permalink}}">
+        <i class="fas fa-arrow-left"></i>
+        <span>Previous</span>
+      </a>
+      {{ else }}
+      <div>&nbsp;</div>
+      {{ end }}
+
+      {{with .Prev}}
+      <a title='Previous Page' href="{{.Permalink}}">
+        <span>Next</span>
+        <i class="fas fa-arrow-right"></i>
+      </a>
+      {{ else }}
+      <div>&nbsp;</div>
+      {{ end }}
+    </div>
+
 </div>
 
 <script>
