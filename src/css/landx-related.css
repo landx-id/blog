@@ -23,6 +23,12 @@
     gap: 12px;
 }
 
+.related-container img {
+    min-width: 60px;
+    max-width: 60px;
+    object-fit: cover;
+}
+
 .related-container .title {
     font-weight: 700;
     font-size: 0.7rem;
