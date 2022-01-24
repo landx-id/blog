@@ -73,10 +73,21 @@
 
 
 <a href="{{ .RelPermalink }}" class="item-card">
-  {{if .Params.image}}<img src="{{.Params.image}}" class="image" />
-  {{else if .Params.featuredImage.src}} <img src="{{.Params.featuredImage.src}}" class="image"
-    alt="{{.Params.featuredImage.alt}}" />
+  {{if .Params.image}}
+    {{if in .Params.image "http"}}
+    <img src="{{.Params.image}}" class="image" />
+    {{else}}
+    <img src="{{.Site.Params.pathUrl}}/{{.Params.image}}" class="image" />
+    {{end}}
+
+  {{else if .Params.featuredImage.src}} 
+    {{if in .Params.featuredImage.src "http"}}
+    <img src="{{.Params.featuredImage.src}}" class="image" alt="{{.Params.featuredImage.alt}}" title="{{.Params.featuredImage.title}}"/>
+    {{else}}
+    <img src="{{.Site.Params.pathUrl}}/{{.Params.featuredImage.src}}" class="image" alt="{{.Params.featuredImage.alt}}" title="{{.Params.featuredImage.title}}"/>
+    {{end}}
   {{end}}
+  
   <div class="item-detail">
     <div class="title bold">{{.Params.title}}</div>
     <p class="summary">{{.Params.intro}}</p>

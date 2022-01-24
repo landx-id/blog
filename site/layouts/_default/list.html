@@ -107,7 +107,7 @@
       max-width: unset;
       min-width: unset;
     }
-    
+
     .pinned-item .image {
       height: 100px;
       width: 100px;
@@ -121,9 +121,23 @@
     {{ range .Site.Pages}}
     {{ if .Params.isPinned }}
     <a href="{{.RelPermalink}}" class="pinned-item">
-      {{if .Params.image}}<img src="{{.Params.image}}" class="image" />
-      {{else if .Params.featuredImage.src}} <img src="{{.Params.featuredImage.src}}" class="image" title="{{.Params.featuredImage.title}}" />
+      {{if .Params.image}}
+        {{if in .Params.image "http"}}
+        <img src="{{.Params.image}}" class="image" />
+        {{else}}
+        <img src="{{.Site.Params.pathUrl}}/{{.Params.image}}" class="image" />
       {{end}}
+
+      {{else if .Params.featuredImage.src}}
+        {{if in .Params.featuredImage.src "http"}}
+        <img src="{{.Params.featuredImage.src}}" class="image" alt="{{.Params.featuredImage.alt}}"
+          title="{{.Params.featuredImage.title}}" />
+        {{else}}
+        <img src="{{.Site.Params.pathUrl}}/{{.Params.featuredImage.src}}" class="image"
+          alt="{{.Params.featuredImage.alt}}" title="{{.Params.featuredImage.title}}" />
+        {{end}}
+      {{end}}
+      
       <div class="item-detail">
         <div class="title bold">{{.Params.title}}</div>
         <!-- <p class="summary">{{.Params.intro}}</p> -->
