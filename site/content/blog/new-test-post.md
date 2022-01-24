@@ -6,7 +6,7 @@ date: 2022-01-21T06:42:35.905Z
 intro: Hey this is the intro blurb for new test post
 isPinned: true
 featuredImage:
-  src: img/about-single-origin.jpg
+  src: img/about-sustainable-farming.jpg
   alt: alt text for test post image
   title: title text for test post image
 ---
