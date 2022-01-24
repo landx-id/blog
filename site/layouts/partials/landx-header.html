@@ -46,15 +46,16 @@
 </div>
 
 <div class="category-section" id="categorysection">
-
-  {{ with .Site.GetPage "/partials/landx-header/_index.md" }}
-  {{ range .Params.headerCategory }}
-    <a href="{{$.Site.BaseURL}}/category/{{ . | urlize }}">{{ . }}</a>
-  {{ end }}
-
-  {{ end }}
-
-  <i class="far fa-newspaper"></i>
+  <div class="main-container">
+    {{ with .Site.GetPage "/partials/landx-header/_index.md" }}
+    {{ range .Params.headerCategory }}
+      <a href="/category/{{ . | urlize }}">{{ . }}</a>
+    {{ end }}
+  
+    {{ end }}
+  
+    <i class="far fa-newspaper"></i>
+  </div>
 </div>
 
 <div class="menu-drawer" id="menudrawer">

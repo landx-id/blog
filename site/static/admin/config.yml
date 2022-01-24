@@ -5,7 +5,7 @@ backend:
 media_folder: "site/static/img" # Folder where user uploaded files should go
 public_folder: "img"
 
-# local_backend: true
+local_backend: true
 
 collections: # A list of collections the CMS should be able to edit
   - name: "tags"
@@ -64,6 +64,7 @@ collections: # A list of collections the CMS should be able to edit
       - { label: "Meta Description", name: "metaDescription", widget: "string", pattern: ['^.{0,150}$', "Can't be more than 150 Characters"]}
       - { label: "Publish Date", name: "date", widget: "datetime" }
       - { label: "Intro Blurb", name: "intro", widget: "text" }
+      - { label: "Pin This Post", name: "isPinned", widget: "boolean" }
       - name: featuredImage
         label: Featured image
         widget: object

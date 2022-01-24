@@ -1,14 +1,85 @@
-<!-- <a href="{{ .RelPermalink }}" class="no-underline pa3 bg-grey-1 br1 mb2 db raise w-100">
-	<h2 class="f3 b lh-title mb1 primary">{{ .Title }}</h2>
-	<p class="mid-gray lh-title mb2">{{ .Date.Format "Mon, Jan 2, 2006" }}</p>
-	<p class="mb0">{{ .Description }}</p>
-	<p class="link b dib black mb0">Read →</p>
-</a> -->
-
-<a href="{{ .RelPermalink }}" class="landx-card" style="background-image: url({{.Params.image}});">
+<!-- <a href="{{ .RelPermalink }}" class="landx-card" style="background-image: url({{.Params.image}});">
   <div class="container">
     <div class="title">{{ .Title }}</div>
     <div class="description">{{ .Description }}</div>
     <div class="date">{{ .Date.Format "Mon, 2 Jan 2006" }} - {{ .ReadingTime }} min read</div>
+  </div>
+</a> -->
+
+<style>
+  .item-card {
+    width: 100%;
+    /* max-width: 500px; */
+    min-width: 320px;
+    background-color: white;
+    display: flex;
+    flex-direction: row;
+    gap: 12px;
+    align-items: center;
+    padding: 16px;
+  }
+
+  .item-card .image {
+    width: 150px;
+    height: 150px;
+    object-fit: cover;
+    border-radius: 50%;
+  }
+
+  .item-card .item-detail {
+    display: flex;
+    flex-direction: column;
+    gap: 4px;
+    align-items: flex-start;
+    justify-content: flex-start;
+  }
+
+  .item-detail .summary {
+    font-size: 0.7rem;
+    color: #8ca1b1;
+    overflow: hidden;
+    max-width: 75ch;
+  }
+
+  .item-detail .date {
+    font-style: italic;
+    font-size: 0.6rem;
+    color: #8ca1b1;
+  }
+
+  .item-detail .title {
+    font-size: 0.8rem;
+    transition: all 0.3s ease-in-out;
+  }
+
+  a.item-card:hover .item-detail .title {
+    color: var(--primary);
+  }
+
+
+  @media (max-width: 768px) {
+    .item-card .image {
+      width: 80px;
+      height: 80px;
+    }
+
+    .item-card {
+      width: 100%;
+      max-width: calc(100vw - 40px);
+      padding: 16px 0px
+    }
+  }
+</style>
+
+
+<a href="{{ .RelPermalink }}" class="item-card">
+  {{if .Params.image}}<img src="{{.Params.image}}" class="image" />
+  {{else if .Params.featuredImage.src}} <img src="{{.Params.featuredImage.src}}" class="image"
+    alt="{{.Params.featuredImage.alt}}" />
+  {{end}}
+  <div class="item-detail">
+    <div class="title bold">{{.Params.title}}</div>
+    <p class="summary">{{.Params.intro}}</p>
+    <div class="date">{{ .Date.Format "Monday, 2 Jan 2006" }}</div>
   </div>
 </a>

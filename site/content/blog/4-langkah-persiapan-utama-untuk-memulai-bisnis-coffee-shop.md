@@ -5,7 +5,7 @@ metaDescription = ""
 draft = true
 slug = "4-langkah-persiapan-utama-untuk-memulai-bisnis-coffee-shop"
 title = "4 Langkah Persiapan Utama untuk Memulai Bisnis Coffee Shop"
-isHomepage = true
+isPinned = true
 
 +++
 

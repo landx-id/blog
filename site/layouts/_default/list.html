@@ -1,18 +1,152 @@
 {{ define "main" }}
 
-{{ partial "landx-jumbotron" (dict "imageUrl" "/img/header_background2.webp" "title" "Landx Blog" "path"
-.Site.Params.pathUrl) }}
+<!-- {{ partial "landx-jumbotron" (dict "imageUrl" "/img/header_background.webp" "title" "Landx Blog" "path"
+.Site.Params.pathUrl) }} -->
 
-<div class="mw8 center">
+<style>
+  .blog-main-container {
+    width: 100%;
+    max-width: 1140px;
+    min-height: 200px;
+    margin-bottom: 64px;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 32px;
+    gap: 20px;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start;
+  }
 
-  <ul class="flex-ns flex-wrap mhn1-ns pa3">
+  .blog-main-container .section-title {
+    font-size: 1.5rem;
+    color: #5e798D;
+  }
+
+  .blog-section {
+    height: fit-content;
+    width: 100%;
+    max-width: 1140px;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    gap: 12px;
+  }
+
+  .blog-section .pinned-item {
+    width: 50%;
+    max-width: 500px;
+    min-width: 320px;
+    background-color: white;
+    display: flex;
+    flex-direction: row;
+    gap: 12px;
+    align-items: center;
+    padding: 16px;
+    /* height: 180px; */
+  }
+
+  .pinned-item .item-detail {
+    display: flex;
+    flex-direction: column;
+    gap: 8px;
+    align-items: flex-start;
+    justify-content: flex-start;
+  }
+
+  .item-detail .summary {
+    font-style: italic;
+    font-size: 0.7rem;
+    color: #8ca1b1;
+    overflow: hidden;
+    max-width: 75ch;
+  }
+
+  .item-detail .date {
+    font-style: italic;
+    font-size: 0.6rem;
+    color: #8ca1b1;
+  }
+
+  .item-detail .title {
+    font-size: 0.8rem;
+    transition: all 0.3s ease-in-out;
+  }
+
+  .pinned-item .image {
+    width: 150px;
+    height: 150px;
+    object-fit: cover;
+    border-radius: 50%;
+  }
+
+  a.pinned-item:hover .item-detail .title {
+    color: var(--primary);
+    font-size: 0.81rem;
+  }
+
+  .blog-item-container {
+    flex: 0.5;
+  }
+
+  @media (max-width: 768px) {
+    .blog-main-container {
+      padding: 32px 20px;
+    }
+
+    .blog-item-container {
+      flex: 1;
+    }
+  }
+
+  @media (max-width: 1024px) {
+
+    .blog-section .pinned-item {
+      width: 100%;
+      max-width: unset;
+      min-width: unset;
+    }
+    
+    .pinned-item .image {
+      height: 100px;
+      width: 100px;
+    }
+  }
+</style>
+
+<div class="blog-main-container">
+  <h1 class="section-title extra-bold">Artikel Pilihan</h1>
+  <div class="blog-section">
+    {{ range .Site.Pages}}
+    {{ if .Params.isPinned }}
+    <a href="{{.RelPermalink}}" class="pinned-item">
+      {{if .Params.image}}<img src="{{.Params.image}}" class="image" />
+      {{else if .Params.featuredImage.src}} <img src="{{.Params.featuredImage.src}}" class="image" />
+      {{end}}
+      <div class="item-detail">
+        <div class="title bold">{{.Params.title}}</div>
+        <!-- <p class="summary">{{.Params.intro}}</p> -->
+        <div class="date">{{ .Date.Format "Monday, 2 Jan 2006" }}</div>
+      </div>
+    </a>
+    {{end}}
+    {{ end }}
+  </div>
+
+  <br>
+  <br>
+
+  <h2 class="section-title extra-bold">Artikel Lainnya</h2>
+  <div class="blog-section">
     {{ range (.Paginator 20).Pages.ByPublishDate.Reverse }}
-    <div class="w-50-ns ph3-ns flex">
+    <div class="blog-item-container">
       {{ .Render "landx-li"}}
     </div>
     {{ end }}
-  </ul>
+  </div>
   {{ partial "landx-paginator" . }}
+
 </div>
 
 {{end}}

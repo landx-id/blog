@@ -4,6 +4,7 @@ metaTitle: Meta title for new test post
 metaDescription: meta description for new test post
 date: 2022-01-21T06:42:35.905Z
 intro: Hey this is the intro blurb for new test post
+isPinned: true
 featuredImage:
   src: img/home-jumbotron.jpg
   alt: alt text for test post image

@@ -8,6 +8,7 @@ image = "https://images.unsplash.com/photo-1611143669185-af224c5e3252?crop=entro
 slug = "5-rekomendasi-restoran-sushi-yang-wajib-dikunjungi"
 tag = ["Okinawa Sushi", "Bisnis F&B", "franchise f&b", "Franchise Makanan", "Bisnis Franchise Modal Kecil", "bisnis menguntungkan", "Bisnis Modal Kecil", "bisnis patungan"]
 title = "5 Rekomendasi Restoran Sushi Kawasan Jakarta yang Wajib Dikunjungi"
+isPinned = true
 
 +++
 

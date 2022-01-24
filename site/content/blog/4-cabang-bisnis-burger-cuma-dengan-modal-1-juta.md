@@ -9,7 +9,8 @@ slug = "4-cabang-bisnis-burger-cuma-dengan-modal-1-juta"
 tag = ["Equity Crowdfunding", "investasi bisnis", "Bisnis F&B", "bisnis di masa pandemi", "Bisnis Franchise Modal Kecil", "Bisnis Modal Kecil", "investasi dengan modal kecil"]
 title = "Franchise Burger: Melihat Potensi Byurger, Burger Kekinian yang Tetap Berkembang Pesat Selama Pandemi"
 metaTitle = "Meta title for 4 Cabang bisnis burger"
-isHomepage = true
+intro = "Lorem reprehenderit officia amet occaecat nisi aliquip amet qui anim aute adipisicing laborum. Do adipisicing commodo enim veniam cillum duis ex id esse ipsum sunt veniam magna et. Irure ex occaecat laboris cupidatat ea ipsum minim in laboris nisi pariatur est. Incididunt consequat culpa quis mollit ex. Elit elit cillum voluptate pariatur dolor deserunt adipisicing ea."
+isPinned = true
 
 +++
 

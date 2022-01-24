@@ -5,6 +5,7 @@ metaDescription = ""
 draft = false
 slug = "4-pilihan-investasi-jangka-pendek-dan-tips-investasi-jangka-pendek-yang-menguntungkan"
 title = "4 Pilihan Investasi Jangka Pendek dan Tips Investasi Jangka Pendek yang Menguntungkan"
+isPinned = true
 
 +++
 

@@ -7,6 +7,7 @@ draft = false
 slug = "5-bisnis-menguntungkan-dengan-modal-kecil"
 tag = ["bisnis menguntungkan", "bisnis masa pandemi"]
 title = "Berikut 5+ Bisnis Modal Kecil dengan Keuntungan Menjanjikan di Masa Pandemi"
+isPinned = true
 
 +++
 
