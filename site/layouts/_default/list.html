@@ -121,8 +121,8 @@
     {{ range .Site.Pages}}
     {{ if .Params.isPinned }}
     <a href="{{.RelPermalink}}" class="pinned-item">
-      {{if .Params.image}}<img src="{{.Site.Params.pathUrl}}/{{.Params.image}}" class="image" />
-      {{else if .Params.featuredImage.src}} <img src="{{.Site.Params.pathUrl}}/{{.Params.featuredImage.src}}" class="image" title="{{.Params.featuredImage.title}}" />
+      {{if .Params.image}}<img src="{{.Params.image}}" class="image" />
+      {{else if .Params.featuredImage.src}} <img src="{{.Params.featuredImage.src}}" class="image" title="{{.Params.featuredImage.title}}" />
       {{end}}
       <div class="item-detail">
         <div class="title bold">{{.Params.title}}</div>

@@ -3,44 +3,11 @@ backend:
   branch: main
 
 media_folder: "site/static/img" # Folder where user uploaded files should go
-public_folder: "img"
+public_folder: "netifly/img"
 
 local_backend: true
 
 collections: # A list of collections the CMS should be able to edit
-  - name: "tags"
-    label: "Tags"
-    folder: 'site/content/tag'
-    # slug: '{{ fields.title }}'
-    path: '{{slug}}/_index'
-    create: true
-    fields:
-      - { label: Tag Name, name: title, widget: string, pattern: ['^.{0,70}$', "Can't be more than 70 Characters"] }
-      - { label: Meta Title, name: metaTitle, widget: string, pattern: ['^.{0,70}$', "Can't be more than 70 Characters"] }
-      - { label: Meta Description, name: metaDescription, widget: text, pattern: ['^.{0,150}$', "Can't be more than 150 Characters"]}
-      - name: featuredImage
-        label: Featured image
-        widget: object
-        fields:
-          - {name: src, label: Image, widget: image}
-          - {name: alt, label: Alt text, widget: string}
-          - {name: title, label: Title, widget: string}
-  - name: "categories"
-    label: "Categories"
-    folder: 'site/content/category'
-    path: '{{slug}}/_index'
-    create: true
-    fields:
-      - { label: Category Name, name: title, widget: string, pattern: ['^.{0,70}$', "Can't be more than 70 Characters"] }
-      - { label: Meta Title, name: metaTitle, widget: string, pattern: ['^.{0,70}$', "Can't be more than 70 Characters"] }
-      - { label: Meta Description, name: metaDescription, widget: text, pattern: ['^.{0,150}$', "Can't be more than 150 Characters"]}
-      - name: featuredImage
-        label: Featured image
-        widget: object
-        fields:
-          - {name: src, label: Image, widget: image}
-          - {name: alt, label: Alt text, widget: string}
-          - {name: title, label: Title, widget: string}
   - name: "blog" # Used in routes, ie.: /admin/collections/:slug/edit
     file: "site/content/blog/_index.md"
     label: "Blog" # Used in the UI, ie.: "New Post"
@@ -80,6 +47,39 @@ collections: # A list of collections the CMS should be able to edit
   #   fields: # The fields each document in this collection have
   #     - {label: "Name", name: "name", widget: "string", required: true}
   #     - {label: "Avatar", name: "avatar", widget: "image", required: true}
+    - name: "tags"
+    label: "Tags"
+    folder: 'site/content/tag'
+    # slug: '{{ fields.title }}'
+    path: '{{slug}}/_index'
+    create: true
+    fields:
+      - { label: Tag Name, name: title, widget: string, pattern: ['^.{0,70}$', "Can't be more than 70 Characters"] }
+      - { label: Meta Title, name: metaTitle, widget: string, pattern: ['^.{0,70}$', "Can't be more than 70 Characters"] }
+      - { label: Meta Description, name: metaDescription, widget: text, pattern: ['^.{0,150}$', "Can't be more than 150 Characters"]}
+      - name: featuredImage
+        label: Featured image
+        widget: object
+        fields:
+          - {name: src, label: Image, widget: image}
+          - {name: alt, label: Alt text, widget: string}
+          - {name: title, label: Title, widget: string}
+  - name: "categories"
+    label: "Categories"
+    folder: 'site/content/category'
+    path: '{{slug}}/_index'
+    create: true
+    fields:
+      - { label: Category Name, name: title, widget: string, pattern: ['^.{0,70}$', "Can't be more than 70 Characters"] }
+      - { label: Meta Title, name: metaTitle, widget: string, pattern: ['^.{0,70}$', "Can't be more than 70 Characters"] }
+      - { label: Meta Description, name: metaDescription, widget: text, pattern: ['^.{0,150}$', "Can't be more than 150 Characters"]}
+      - name: featuredImage
+        label: Featured image
+        widget: object
+        fields:
+          - {name: src, label: Image, widget: image}
+          - {name: alt, label: Alt text, widget: string}
+          - {name: title, label: Title, widget: string}
   - name: "pages"
     label: "Pages"
     files:

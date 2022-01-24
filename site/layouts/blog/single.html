@@ -18,10 +18,10 @@
 
   <div class="cms mw6">
     <!-- Handle old Format -->
-    {{ if .Params.image }}<img src="{{.Site.Params.pathUrl}}/{{ .Params.image }}" alt="{{ .Title }}" />
+    {{ if .Params.image }}<img src="{{ .Params.image }}" alt="{{ .Title }}" />
     <!-- Handle New format -->
     {{else if .Params.featuredImage.src}}
-    <img src="{{.Site.Params.pathUrl}}/{{ .Params.featuredImage.src }}" alt="{{ .Params.featuredImage.alt }}" title="{{.Params.featuredImage.title}}"/>
+    <img src="{{ .Params.featuredImage.src }}" alt="{{ .Params.featuredImage.alt }}" title="{{.Params.featuredImage.title}}"/>
     {{ end }}
 
     <p class="description">{{ .Params.intro }}</p>
