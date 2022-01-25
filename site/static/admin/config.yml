@@ -47,7 +47,7 @@ collections: # A list of collections the CMS should be able to edit
   #   fields: # The fields each document in this collection have
   #     - {label: "Name", name: "name", widget: "string", required: true}
   #     - {label: "Avatar", name: "avatar", widget: "image", required: true}
-    - name: "tags"
+  - name: "tags"
     label: "Tags"
     folder: 'site/content/tag'
     # slug: '{{ fields.title }}'
