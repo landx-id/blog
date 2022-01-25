@@ -7,6 +7,16 @@ title = "LandX"
 [Params]
   pathUrl = 'netifly'
 
+[params]
+author = "Landx"
+logo = "img/16x16.png"
+header = "Week In Memes"
+
+facebook = "weekinmemes"
+twitter = "weekinmemes"
+instagram = "weekinmemes"
+github = "weekinmemes"
+
 [taxonomies]
   tag = "tag"
   category = "category"

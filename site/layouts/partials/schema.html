@@ -1,5 +1,5 @@
 <script type="application/ld+json">
-  {{ if eq .Section "posts" }}
+  {{ if eq .Section "blog" }}
   {
     "@context": "https://schema.org",
     "@type": "BlogPosting",
@@ -9,7 +9,7 @@
     "dateModified": {{ .Lastmod }},
     "author": {
       "@type": "Person",
-      "name": {{ .Site.Params.author }}
+      "name": {{ .Params.author }}
     },
     "mainEntityOfPage": { "@type": "WebPage" },
      "publisher": {
