@@ -1,10 +1,18 @@
 <script type="application/ld+json">
   {{ if eq .Section "blog" }}
+  
+  {{.Scratch.Set "Image" "/" }}
+  {{if .Params.featuredImage.src }}
+    {{.Scratch.Set "Image" .Params.featuredImage.src}}
+  {{else if .Params.image }}
+    {{.Scratch.Set "Image" .Params.image}}
+  {{end}}
+
   {
     "@context": "https://schema.org",
     "@type": "BlogPosting",
     "headline": {{ .Title }},
-    "image": {{ .Params.featuredImage | absURL }},
+    "image": {{ .Scratch.Get "Image" }},
     "datePublished": {{ .PublishDate }},
     "dateModified": {{ .Lastmod }},
     "author": {
@@ -13,7 +21,7 @@
     },
     "mainEntityOfPage": { "@type": "WebPage" },
      "publisher": {
-      "@type": "Organization",
+      "@type": "Organization",  
       "name": {{ .Site.Params.header }},
       "logo": {
         "@type": "ImageObject",
