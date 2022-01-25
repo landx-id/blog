@@ -8,7 +8,11 @@
 	<title>{{ .Title }} | {{ $.Site.Title }}</title>
 	{{ end }}
 
+	{{if .Params.metaDescription}}
 	<meta name="description" content="{{ .Params.metaDescription }}">
+	{{else}}	
+	<meta name="description" content="{{ .Site.Params.metaDescription }}">
+	{{end}}
 
 	{{ $stylesheet := .Site.Data.webpack.main }}
 	{{ with $stylesheet.css }}
