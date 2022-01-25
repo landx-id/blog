@@ -6,16 +6,12 @@ title = "LandX"
 
 [Params]
   pathUrl = 'netifly'
+  author = "Landx"
+  logo = "img/16x16.png"
+  header = "LandX"
 
-[params]
-author = "Landx"
-logo = "img/16x16.png"
-header = "Week In Memes"
-
-facebook = "weekinmemes"
-twitter = "weekinmemes"
-instagram = "weekinmemes"
-github = "weekinmemes"
+  facebook = "landx.id"
+  instagram = "landx.id"
 
 [taxonomies]
   tag = "tag"
