@@ -1,5 +1,6 @@
 <head>
-	{{ $sitetitle := "LandX Blog" }}
+	<meta charset="utf-8">
+	{{ partial "schema" . }}
 
 	{{ with .Params.metaTitle }}
 	<title>{{ . }} | {{ $.Site.Title }}</title>
@@ -7,17 +8,13 @@
 	<title>{{ .Title }} | {{ $.Site.Title }}</title>
 	{{ end }}
 
-
 	<meta name="description" content="{{ .Params.metaDescription }}">
-
 
 	{{ $stylesheet := .Site.Data.webpack.main }}
 	{{ with $stylesheet.css }}
 	<link href="{{ relURL . }}" rel="stylesheet">
 	{{ end }}
 
-
-	<meta charset="utf-8">
 	<meta http-equiv="x-ua-compatible" content="ie=edge">
 	<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
 	<base href="{{ if getenv " CONTEXT" }}{{ cond (eq "production" (getenv "CONTEXT" )) (getenv "URL" )
@@ -36,7 +33,6 @@
 	<meta property="og:title" content="Investasi dan Miliki Bisnis Menguntungkan Mulai dari 1 Jutaan di LandX">
 	<meta property="og:url" content="/">
 	<meta property="og:image" content="{{.Site.Params.pathUrl}}/img/logo-1.png">
-
 
 	<!-- IMPORT GOOGLE FONTS AND FONT AWESOME ICONS -->
 	<link rel="preconnect" href="https://fonts.googleapis.com">
