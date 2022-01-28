@@ -24,11 +24,26 @@
     
     - docker push ${CI_REGISTRY_IMAGE}:${DOCKER_IMAGE_TAG}
 
+.deploy:
+  stage: deploy
+  image: google/cloud-sdk
+  script:
+    # Authenticate using the service account
+    - echo $GCLOUD_SERVICE_KEY | base64 --decode -i > ~/gcloud-service-key.json
+    - gcloud auth activate-service-account --key-file ~/gcloud-service-key.json
+    - gcloud config set project $GCLOUD_PROJECT_NAME
+    - gcloud --quiet container clusters get-credentials $CLUSTER_NAME --region $CLUSTER_REGION
+
+    - kubectl rollout restart -n landx-blog deployment/landx-blog
+
+
 .prepare_release:
   extends: .build
   stage: build
 
 release:publish:
   extends:
-    - .prepare_release
+    - .deploy
     - .for_release
+  dependencies:
+    - .prepare_release
