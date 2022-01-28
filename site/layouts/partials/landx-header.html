@@ -49,7 +49,7 @@
   <div class="main-container">
     {{ with .Site.GetPage "/partials/landx-header/_index.md" }}
     {{ range .Params.headerCategory }}
-      <a href="/netifly/category/{{ . | urlize }}">{{ . }}</a>
+      <a href="/blog/category/{{ . | urlize }}">{{ . }}</a>
     {{ end }}
   
     {{ end }}

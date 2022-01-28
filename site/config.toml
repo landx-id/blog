@@ -1,16 +1,16 @@
-baseurl = "/netifly"
+baseurl = "/blog"
 # baseurl = "/"
 languageCode = "en-us"
 languageLang = "en"
 title = "LandX"
 
 [Params]
-  pathUrl = 'netifly'
+  pathUrl = 'blog'
   author = "Landx"
   logo = "img/16x16.png"
   header = "LandX"
 
-  metaDescription = 'Investasi bisnis & properti semudah belanja online'
+  metametaDescription = 'Investasi bisnis & properti semudah belanja online'
 
   facebook = "landx.id"
   instagram = "landx.id"
