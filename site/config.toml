@@ -4,7 +4,7 @@ languageLang = "en"
 title = "LandX"
 
 [Params]
-  pathUrl = ''
+  pathUrl = 'blog'
   author = "Landx"
   logo = "img/16x16.png"
   header = "LandX"
