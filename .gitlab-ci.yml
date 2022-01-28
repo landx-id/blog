@@ -36,8 +36,7 @@
 
     - kubectl rollout restart -n landx-blog deployment/landx-blog
 
-
-.prepare_release:
+prepare_release:
   extends: .build
   stage: build
 
@@ -46,4 +45,4 @@ release:publish:
     - .deploy
     - .for_release
   dependencies:
-    - .prepare_release
+    - prepare_release
