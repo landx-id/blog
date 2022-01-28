@@ -8,9 +8,6 @@ image = "https://accountgram-production.sfo2.cdn.digitaloceanspaces.com/landx_gh
 slug = "4-cabang-bisnis-burger-cuma-dengan-modal-1-juta"
 tag = ["Equity Crowdfunding", "investasi bisnis", "Bisnis F&B", "bisnis di masa pandemi", "Bisnis Franchise Modal Kecil", "Bisnis Modal Kecil", "investasi dengan modal kecil"]
 title = "Franchise Burger: Melihat Potensi Byurger, Burger Kekinian yang Tetap Berkembang Pesat Selama Pandemi"
-metaTitle = "Meta title for 4 Cabang bisnis burger"
-intro = "Lorem reprehenderit officia amet occaecat nisi aliquip amet qui anim aute adipisicing laborum. Do adipisicing commodo enim veniam cillum duis ex id esse ipsum sunt veniam magna et. Irure ex occaecat laboris cupidatat ea ipsum minim in laboris nisi pariatur est. Incididunt consequat culpa quis mollit ex. Elit elit cillum voluptate pariatur dolor deserunt adipisicing ea."
-isPinned = true
 
 +++
 
@@ -22,6 +19,15 @@ Walaupun burger merupakan makanan yang berasal dari luar, saat ini banyak sekali
 [**Byurger**](https://landx.id/project/#/byr1) merupakan salah satu brand burger kekinian yang sangat populer dan berkembang belakangan ini, walaupun di tengah pandemi byurger menjadi salah satu bisnis F&B yang mengalami pertumbuhan pesat di tengah pandemi.
 
 Selengkapnya, yuk kita bahas bagaimana konsep bisnis ini bisa berkembang dalam jangka panjang.
+
+---
+
+## Table of Content
+
+* **[Perkembangan Bisnis Byurger Selama Masa Pandemi](#perkembangan-bisnis-byurger-selama-masa-pandemi)**
+* **[Mengenal Lebih Dekat Tentang Byurger](#mengenal-lebih-dekat-tentang-byurger)**
+* **[Kenapa Byurger Berkembang Sangat Pesat?](#kenapa-byurger-berkembang-sangat-pesat)**
+* **[Franchise Byurger](#franchise-byurger)**
 
 ---
 

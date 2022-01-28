@@ -4,7 +4,7 @@ category = ["Kapal Tongkang", "investasi bisnis", "Bisnis Modal Kecil", "Investa
 date = 2021-12-16T15:06:22Z
 metaDescription = "Bisnis kapal tongkang menjadi salah satu bisnis yang paling menjadi dan tetap berkembang di masa pandemi karena tetap dibutuhkan untuk berbagai industri"
 draft = false
-image = "https://images.unsplash.com/photo-1548909710-4f03ab85c6b3?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxMTc3M3wwfDF8c2VhcmNofDV8fGJhcmdlfGVufDB8fHx8MTYzOTY2NzI2NQ&ixlib=rb-1.2.1&q=80&w=1080"
+image = "https://accountgram-production.sfo2.cdn.digitaloceanspaces.com/landx_ghost/2022/01/Cara-jadi-pemilik-bisnis-kapal-tongkang-cuma-dengan-modal-1-juta-rupiah.png"
 slug = "tertarik-berbisnis-kapal-tongkang"
 tag = ["Kapal Tongkang", "investasi bisnis", "Bisnis Modal Kecil", "Investasi Passive Income", "strategi investasi", "bisnis di masa pandemi"]
 title = "Tertarik Berbisnis Kapal Tongkang?"

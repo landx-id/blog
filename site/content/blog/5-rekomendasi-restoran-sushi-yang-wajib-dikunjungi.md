@@ -8,7 +8,6 @@ image = "https://images.unsplash.com/photo-1611143669185-af224c5e3252?crop=entro
 slug = "5-rekomendasi-restoran-sushi-yang-wajib-dikunjungi"
 tag = ["Okinawa Sushi", "Bisnis F&B", "franchise f&b", "Franchise Makanan", "Bisnis Franchise Modal Kecil", "bisnis menguntungkan", "Bisnis Modal Kecil", "bisnis patungan"]
 title = "5 Rekomendasi Restoran Sushi Kawasan Jakarta yang Wajib Dikunjungi"
-isPinned = true
 
 +++
 
@@ -26,6 +25,18 @@ Nah, buat kamu warga Jakarta yang gemar menyantap makanan Jepang, banyak banget 
 Tersedia dengan harga yang super terjangkau hingga pilihan paket dengan variasi harga medium hingga terbilang mahal. Namun, dalam mencari restoran Jepang dengan sajian sushi jangan sampai kamu ga merasa puas karena tergiur harga yang kelewat murah.
 
 Dari banyak restoran masakan Jepang di Jakarta, berikut rekomendasi 5 restoran sushi paling hits di Jakarta yang wajib kamu coba.
+
+---
+
+## Table of Content
+
+1. ******[Sushi Tei](#1-sushi-tei)******
+2. ******[Sushi Go!](#2-sushi-go)******
+3. ******[3 Wise Monkey](#3-3-wise-monkey)******
+4. ******Genki Sushi******
+5. **[****Okinawa**** S****ushi****](#5-okinawa-sushi)**
+
+**[Jadi Pemilik Okinawa Sushi Cuma dengan Modal 1 Juta](#jadi-pemilik-okinawa-sushi-cuma-dengan-modal-1-juta)**
 
 ---
 

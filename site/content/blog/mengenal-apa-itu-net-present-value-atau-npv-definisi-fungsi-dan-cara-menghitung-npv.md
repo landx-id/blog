@@ -2,8 +2,9 @@
 author = "Abdul Wahhab"
 category = ["net present value", "npv", "tips investasi", "rasio keuangan"]
 date = 2021-06-11T02:22:58Z
-metaDescription = "Net present value merupakan hal penting dalam berinvestasi, karena itu yuk pahami definisi dan cara menghitung net present value sebelum berinvestasi"
+metaDescription = "Net presnt value adalah hal yang sangat penting untuk kamu perhatikan apabila kamu berinvestasi agar kamu tau bagaimana nilai uang di masa mendatang"
 draft = false
+image = "https://images.unsplash.com/photo-1635840420799-f75477b0b977?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxMTc3M3wwfDF8c2VhcmNofDEwfHxpbmZsYXRpb258ZW58MHx8fHwxNjQxMTg0MzE3&ixlib=rb-1.2.1&q=80&w=1080"
 slug = "mengenal-apa-itu-net-present-value-atau-npv-definisi-fungsi-dan-cara-menghitung-npv"
 tag = ["net present value", "npv", "tips investasi", "rasio keuangan"]
 title = "Mengenal Apa Itu Net Present Value atau NPV: Definisi, Fungsi, dan Cara Menghitung NPV"
@@ -11,59 +12,70 @@ title = "Mengenal Apa Itu Net Present Value atau NPV: Definisi, Fungsi, dan Cara
 +++
 
 
-Net present value atau NPV adalah salah satu hal yang harus dipahami bagi anda yang ingin melakukan investasi. NPV adalah perkiraan arus kas di masa mendatang yang menggunakan _social opportunity cost of capital sehingga_ dikurangi berbagai diskon.
+**Net present value atau NPV** adalah salah satu hal  penting untuk dipahami apabila kamu ingin melakukan investasi. **NPV adalah** perkiraan arus kas di masa mendatang yang menggunakan _**social opportunity cost of capital** sehingga_ dikurangi berbagai diskon.
 
 Istilah NPV adalah istilah yang sangat umum digunakan di dunia akuntan tapi juga sangat penting anda pahami apabila anda ingin mulai berinvestasi.
 
-Memahami apa itu NPV dan bagaimana cara menghitungnya akan membantu anda menganalisis keputusan keuangan terbaik yang bisa memberikan anda keuntungan. Perhitungan NPV akan membantu anda melakukan pengelolaan keuangan yang lebih baik sehingga bisa memberikan anda keuntungan yang optimal di masa mendatang.
+**Memahami apa itu NPV** dan cara menghitung NPV bagi investor pemula sangatlah penting karena akan membantu menganalisis keputusan keuangan terbaik untuk mendapatkan keuntungan investasi yang lebih optimal.
 
-Karena itu mari kita bahas lebih lanjut apa itu _net present value_ agar anda bisa membuat keputusan investasi lebih baik di masa mendatang.
+**Menghitung NPV** terbilang cukup mudah karena ada **rumus net present value (NPV)** yang akan membantu anda melakukan pengelolaan keuangan dengan lebih baik sehingga bisa memberikan anda keuntungan yang optimal di masa mendatang.
+
+Karena itu mari kita bahas lebih lanjut apa itu _net present value_ (NPV) __ agar anda bisa membuat keputusan investasi lebih baik di masa mendatang.
 
 ---
 
 ## Table of Content
 
-* **[Definisi Net Present Value (NPV)](#definisi-net-present-value-npv-)**
-* **[Fungsi Net Present Value (NPV)](#fungsi-net-present-value-npv-)**
-* **[Cara Menghitung Net Present Value (NPV)](#cara-menghitung-net-present-value-npv-)**
-* **[Penutup](#penutup)**
+* **Apa Itu [Net Present Value (NPV)](https://landx.id/blog/mengenal-apa-itu-net-present-value-atau-npv-definisi-fungsi-dan-cara-menghitung-npv/#pengertian-present-value-npv)**
+* **[Fungsi Net Present Value (NPV)](https://landx.id/blog/mengenal-apa-itu-net-present-value-atau-npv-definisi-fungsi-dan-cara-menghitung-npv/#fungsi-net-present-value-npv-)**
+* **[Cara Menghitung dan Rumus Net Present Value (NPV)](https://landx.id/blog/mengenal-apa-itu-net-present-value-atau-npv-definisi-fungsi-dan-cara-menghitung-npv/#cara-menghitung-dan-rumus-net-present-value-npv-)**
+* **[Pentingnya Menghitung NPV](https://landx.id/blog/mengenal-apa-itu-net-present-value-atau-npv-definisi-fungsi-dan-cara-menghitung-npv/#pentingnya-menghitung-npv)**
 
 ---
 
-## Definisi Net Present Value (NPV)
+## Pengertian Net Present Value (NPV)
 
-_Net Present Value_ atau NPV adalah selisih antara pengeluaran dan pemasukan setelah disesuaikan dengan menggunakan _social opportunity of capital_ sebagai salah satu faktor diskon.
+**_Net Present Value_ atau NPV adalah** selisih antara pengeluaran dan pemasukan setelah disesuaikan dengan menggunakan _social opportunity of capital_ sebagai salah satu faktor diskon.
 
-NPV juga  bisa diartikan sebagai perkiraan arus kas di masa mendatang yang disesuaikan dengan arus kas pada saat ini.
+Net present value juga diartikan sebagai perkiraan arus kas di masa mendatang yang disesuaikan dengan arus kas pada saat ini.
 
-NPV merupakan salah satu analisis yang biasa digunakan untuk proyeksi arus kas sehingga bisa memberikan proyeksi keuntungan dari suatu bisnis atau investasi yang dilakukan.
+NPV adalah salah satu analisis yang biasa digunakan untuk proyeksi arus kas sehingga bisa memberikan proyeksi keuntungan dari suatu bisnis atau investasi yang dilakukan.
 
 NPV memiliki kaitan erat dengan _time value of money_ tentang nilai uang akan mengalami perubahan seiring berjalannya waktu.
 
-Dengan paham konsep NPV investor diharapkan bisa mengukur investasi mana yang berpeluang memberikan mereka keuntungan.
+Dengan paham konsep cara menghitung NPV, investor diharapkan bisa mengukur investasi mana yang berpeluang memberikan mereka keuntungan.
 
-Oleh sebab itu, mari kita bahas lebih lanjut tentang apa saja fungsi dari NPV dalam investasi.
+Oleh sebab itu, mari kita bahas lebih lanjut tentang apa saja fungsi NPV dalam investasi jangka panjang yang kamu lakukan.
 
 ## Fungsi Net Present Value (NPV)
 
-Dalam suatu bisnis menghitung NPV akan membantu anda menilai apakah bisnis yang sedang anda jalankan memiliki peluang keuntungan di masa mendatang seiring perubahan nilai uang.
+Dalam suatu bisnis **menghitung NPV** akan membantu anda menilai apakah bisnis yang sedang anda jalankan memiliki peluang keuntungan di masa mendatang seiring **perubahan nilai uang**.
 
 Hal ini akan membantu anda melihat apakah bisnis atau investasi yang akan dijalankan memiliki potensi keuntungan yang baik di masa mendatang sehingga layak untuk dilakukan.
 
-Dalam investasi, menghitung _net present value_ bisa menjadi salah satu patokan untuk melihat apakah instrumen investasi yang akan anda jalankan saat ini memberikan keuntungan yang optimal dan sesuai dengan nilai uang di masa mendatang.
+**Dalam investasi**, menghitung NPV __ bisa menjadi salah satu patokan untuk melihat apakah instrumen investasi yang akan dijalankan saat ini memberikan keuntungan yang optimal dan sesuai dengan nilai uang di masa mendatang.
 
-Oleh sebab itu NPV bisa menjadi salah alat untuk menghitung peluang investasi yang dilakukan dengan melihat apakah keuntungan yang bisa dihasilkan di masa mendatang sebanding dengan dana yang harus dikeluarkan pada saat ini.
+---
 
-Menghitung  NPV sangat penting terutama untuk investasi jangka panjang yang akan anda jalankan agar anda bisa memastikan keuntungan yang didapatkan sudah sebanding nilai uang pada saat itu. Biar semakin paham mari kita bahas bagaimana cara menghitung NPV
+**Baca Juga:**
 
-## Cara Menghitung Net Present Value (NPV)
+* [Memahami Konsep Time Value of Money (TVM) yang Sangat Penting untuk Investasi](https://landx.id/blog/time-value-of-money-adalah/)
+* [Price Earning Ratio: Memahami Apa Itu Price Earning Ratio (PER) dan Manfaatnya dalam Investasi](https://landx.id/blog/price-earning-ratio-adalah/)
+
+---
+
+Oleh sebab menghitung NPV bisa menjadi salah alat untuk menghitung peluang investasi yang dilakukan dengan melihat apakah keuntungan yang bisa dihasilkan di masa mendatang sebanding dengan dana yang harus dikeluarkan pada saat ini.
+
+**Menghitung  NPV** sangat penting terutama untuk investasi jangka panjang yang akan anda jalankan agar anda bisa memastikan keuntungan yang didapatkan sudah sebanding nilai uang pada saat itu. Biar semakin paham mari kita bahas bagaimana **cara menghitung NPV**
+
+## Cara Menghitung dan Rumus Net Present Value (NPV)
 
 Menghitung NPV membutuhkan dua langkah mudah yang harus anda ikuti:
 
-1. Langkah awal dengan menghitung Present Value (PV) dari keuntungan dan pengeluaran pertahun
-2. Setelah mendapatkan nilai _present value_ dari keuntungan dan pengeluaran per tahun, selanjutnya cari selisih antara keuntungan dan pengeluaran pertahun.
+1. Langkah awal dengan **menghitung Present Value (PV)** dari keuntungan dan pengeluaran pertahun
+2. Setelah mendapatkan **nilai _present value_** dari keuntungan dan pengeluaran per tahun, selanjutnya cari selisih antara keuntungan dan pengeluaran pertahun.
 
-_Present Value_ (PV) merupakan jumlah yang harus anda investasikan pada saat ini untuk mencapai jumlah yang anda inginkan di masa mendatang dan _Future Value_ (FV) merupakan jumlah yang akan anda dapatkan di masa depan apabila berinvestasi pada saat ini.
+**_Present Value_ (PV)** adalah jumlah yang harus anda investasikan pada saat ini untuk mencapai jumlah yang anda inginkan di masa mendatang dan  **_Future Value_ (FV)** merupakan jumlah yang akan anda dapatkan di masa depan apabila berinvestasi pada saat ini.
 
 Apabila anda masih bingung membedakan antara PV dan FV simak contoh di bawah ini:
 
@@ -71,7 +83,7 @@ Apabila anda ingin uang sebanyak Rp 100.000.000 dalam tiga tahun ke depan dan ti
 
 Dalam contoh ini, Rp 100.000.000 merupakan FV atau jumlah uang yang anda harapkan di masa mendatang dan PV merupakan jumlah yang harus anda tabung untuk saat ini. Berikut rumus perhitungan PV yang bisa anda gunakan:
 
-![rumus-menghitung-net-present-value-yang-sangat-penting-dalam-proses-investasi-anda](https://accountgram-production.sfo2.cdn.digitaloceanspaces.com/landx_ghost/2021/09/rumus-menghitung-net-present-value-yang-sangat-penting-dalam-proses-investasi-anda.png)
+![rumus npv, cara menghitung npv untuk analisis dengan menghitung present value (PV) dan future value (FV)](https://accountgram-production.sfo2.cdn.digitaloceanspaces.com/landx_ghost/2021/09/rumus-menghitung-net-present-value-yang-sangat-penting-dalam-proses-investasi-anda.png)
 
 Sehingga dapat dilakukan perhitungan sebagai berikut:
 
@@ -83,11 +95,11 @@ Sehingga dapat dilakukan perhitungan sebagai berikut:
 
 **PV** = Rp 86.383.759
 
-Artinya untuk anda harus saat ini harus menyiapkan uang sekitar 86 juta rupiah agar bisa mendapatkan uang sebanyak Rp. 100.000.000 di masa mendatang. Apabila anda sudah paham maka selanjutnya mari lihat contoh perhitungan _Net Present Value_ (NPV) di bawah ini:
+Artinya untuk anda harus saat ini harus menyiapkan uang sekitar 86 juta rupiah agar bisa mendapatkan uang sebanyak Rp. 100.000.000 di masa mendatang. Apabila anda sudah paham maka selanjutnya mari lihat contoh perhitungan NPV di bawah ini:
 
 Anda sedang menjalankan bisnis restoran dan memutuskan untuk memasang set dapur untuk produksi yang baru senilai Rp. 30.000.000, dengan tingkat bunga deposito saat ini yang diasumsikan 5% apakah tindakan ini menguntungkan untuk masa mendatang atau tidak?
 
-Dalam menghitung NPV anda akan mengasumsikan dana dengan jumlah yang sama akan dimasukkan ke dalam deposito dengan tingkat bunga di asumsi 5 % dan periode waktu 3 tahun sehingga dilakukan perhitungan sebagai berikut:
+Dalam perhitungan present value anda akan mengasumsikan dana dengan jumlah yang sama akan dimasukkan ke dalam deposito dengan tingkat bunga di asumsi 5 % dan periode waktu 3 tahun sehingga dilakukan perhitungan sebagai berikut:
 
 {{< figure src="https://accountgram-production.sfo2.cdn.digitaloceanspaces.com/landx_ghost/2021/09/Screenshot-2021-09-13-at-16-34-54-Mengenal-Apa-Itu-Net-Present-Value-atau-NPV-Definisi--Fungsi--dan-Cara-Menghitung-NPV---L-...-.png" caption="Menghitung NPV menggunakan rumus" >}}
 
@@ -117,14 +129,18 @@ Salah satu instrumen investasi yang wajib anda coba adalah investasi bisnis mela
 
 ## [Yuk Investasi Bisnis di LandX dengan Berbagai Pilihan Bisnis Potensial untuk Investasi Anda](https://landx.id/)
 
-
+[![Bagaimana? Kamu lebih suka bisnis dengan buyback guarantee atau yang bisa disimpan dalam jangka panjang? Apapun pilihan kamu.. Yuk Patungan  dengan Keuntungan Menjanjikan Bareng LandX](https://accountgram-production.sfo2.cdn.digitaloceanspaces.com/landx_ghost/2021/10/Equity-Crowdfunding-di-Indonesia-1--3.png)](http://landx.id/project/)
 
 **[Mau Terus Update Info Seputar Investasi? Yuk Follow Kami di Instagram @landx.id untuk Berbagai Info Terupdate Seputar Investasi](https://instagram.com/landx.id?utm_medium=copy_link)**
 
-**#LandX.id    #landx         #landx.id    #InvestasiBisnis    #EquityCrowdfunding    #InvestasiMenguntungkan    #Urundana    #BisnisPatungan    #InvestasiUsaha**
+---
 
 **Baca Juga:**
 
 * [Volatilitas: Definisi, Jenis, dan Penyebab Terjadinya Volatilitas](https://landx.id/blog/volatilitas-definisi-jenis-cara-dan-penyebab-terjadinya-volatilitas/)
 * [Memulai Investasi: Pahami Apa Itu Price to Book Value (PBV) Dalam Investasi Saham](https://landx.id/blog/memulai-investasi-pahami-apa-itu-price-to-book-value-pbv-dalam-investasi-saham/)
+
+---
+
+**#YukPatunganBisnis**
 

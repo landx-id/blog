@@ -1,11 +1,12 @@
 +++
 author = "Abdul Wahhab"
-category = ["bisnis investasi", "investasi", "Situs Crowdfunding"]
+category = ["bisnis investasi", "investasi", "Situs Crowdfunding", "venture capital"]
 date = 2021-04-29T04:11:50Z
 metaDescription = "Apa itu hedge fund dan bagaimana sistem investasi menggunakan hedge fund serta karakteristik yang membedakan hedge fund dan mutual fund"
 draft = false
+image = "https://images.unsplash.com/photo-1494887205043-c5f291293cf6?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxMTc3M3wwfDF8c2VhcmNofDEyfHxoZWRnZSUyMGZ1bmR8ZW58MHx8fHwxNjQzMDg1ODYy&ixlib=rb-1.2.1&q=80&w=1080"
 slug = "hedge-fund-pengertian-tujuan-karakteristik-dan-memulai-hedge-fund"
-tag = ["bisnis investasi", "investasi", "Situs Crowdfunding"]
+tag = ["bisnis investasi", "investasi", "Situs Crowdfunding", "venture capital"]
 title = "Hedge Fund: Pengertian, Tujuan, Karakteristik, dan Memulai Hedge Fund"
 
 +++
@@ -100,11 +101,11 @@ Dalam _hedge fund_ anda harus memikirkan target yang ingin anda capai saat berin
 
 **Saat ini,** sebenarnya kamu bisa mengakses sektor privat dan berinvestasi di dalamnya dengan modal kecil melalui sistem equity crowdfunding. Sistem ini memberikan kamu kesempatan untuk ikut patungan membangun suatu bisnis dan mendapatkan mendapatkan _return_ dari keuntungan yang dihasilkan dari bisnis tersebut.
 
-Di LandX, kamu akan menemukan bisnis menguntungkan dari berbagai sektor yang bisa kamu danai dengan 1 jutaan saja. \
+Di LandX, kamu akan menemukan bisnis menguntungkan dari berbagai sektor yang bisa kamu danai dengan 1 jutaan saja.
 
-## [Yuk Patungan Bisnis Menguntungkan Bareng LandX Platform Equity Crowdfunding Terpercaya](https://landx.id/project/)
+## [Yuk Patungan Bisnis Menguntungkan Bareng LandX Platform Equity Crowdfunding Terpercaya](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)
 
-[![yuk patungan bisnis menguntungkan bersama landx cuma dengan modal 1 jutaan](https://accountgram-production.sfo2.cdn.digitaloceanspaces.com/landx_ghost/2021/10/patungan-bisnis-menguntungkan-bareng-landx-5.png)](http://landx.id/project/)
+[![yuk patungan bisnis menguntungkan bersama landx cuma dengan modal 1 jutaan](https://accountgram-production.sfo2.cdn.digitaloceanspaces.com/landx_ghost/2021/10/patungan-bisnis-menguntungkan-bareng-landx-5.png)](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)
 
 ---
 

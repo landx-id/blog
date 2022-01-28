@@ -2,8 +2,9 @@
 author = "Abdul Wahhab"
 category = ["crowdfunding properti", "bisnis investasi", "bisnis investasi online", "crowdfunding indonesia", "investasi properti", "Investasi online terbaru", "Saham Online", "Bisnis Franchise Modal Kecil"]
 date = 2021-05-20T10:19:35Z
-metaDescription = "Rumah kos merupakan salah satu pilihan usaha properti yang bisa anda lakukan untuk investasi jangka panjang anda. Investasi rumah kost untuk pemula"
+metaDescription = "Cara jadi pemilik usaha properti cuma dengan modal 1 jutaan? Yuk simak cara mulai jadi investor properti cuma dengan modal 1 jutaan saja"
 draft = false
+image = "https://images.unsplash.com/photo-1597047084897-51e81819a499?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxMTc3M3wwfDF8c2VhcmNofDV8fGZsYXR8ZW58MHx8fHwxNjQxOTIxODI4&ixlib=rb-1.2.1&q=80&w=1080"
 slug = "memulai-usaha-properti-bisnis-rumah-kos-sebagai-investasi-jangka-panjang"
 tag = ["crowdfunding properti", "bisnis investasi", "bisnis investasi online", "crowdfunding indonesia", "investasi properti", "Investasi online terbaru", "Saham Online", "Bisnis Franchise Modal Kecil"]
 title = "Memulai Usaha Properti: Bisnis Rumah Kos Sebagai Investasi Jangka Panjang"
@@ -11,7 +12,7 @@ title = "Memulai Usaha Properti: Bisnis Rumah Kos Sebagai Investasi Jangka Panja
 +++
 
 
-Model [bisnis properti](https://landx.id/) dengan penyewaan rumah kos merupakan salah satu bisnis yang menjanjikan terutama bagi para investor yang ingin berinvestasi dalam jangka panjang. Rumah kos dinilai memiliki yang semakin meningkat dari waktu ke waktu, karena rumah kos merupakan salah satu solusi dari harga lahan pemukiman yang semakin meningkat.
+**Model [bisnis properti](https://landx.id/)** dengan penyewaan rumah kos merupakan salah satu bisnis yang menjanjikan terutama bagi para investor yang ingin berinvestasi dalam jangka panjang. Rumah kos dinilai memiliki yang semakin meningkat dari waktu ke waktu, karena rumah kos merupakan salah satu solusi dari harga lahan pemukiman yang semakin meningkat.
 
 Menyewa rumah kos menjadi pilihan terutama bagi pekerja dan mahasiswa yang berada di suatu wilayah dalam waktu yang tidak begitu lama.
 
@@ -30,15 +31,15 @@ Akan tetapi, setiap investasi memiliki kekurangan dan kelebihan masing-masing ya
 
 ---
 
-## Kelebihan Rumah Kos
+## Kelebihan Rumah Kost
 
-### Potensi Kerugian Rendah
+## Potensi Kerugian Rendah
 
 Kebutuhan hunian yang semakin meningkat membuat harga properti terus meningkat setiap tahunnya. Harga properti yang stabil yang cenderung meningkat menjadi keunggulan dari usaha properti melalui rumah kos.
 
 Rumah kos memiliki nilai yang sama stabilnya dengan berbagai jenis properti lain sehingga bisa menjadi pilihan investasi jangka panjang yang bisa memberikan anda keuntungan dalam jangka panjang. Karena itu sebelum membangun rumah kos anda harus pintar memilih properti dengan prospek yang baik di masa mendatang seperti kawasan yang dekat dengan kampus dan perkantoran agar bisa mendapatkan keuntungan yang optimal dan memperkecil resiko kerugian anda.
 
-1. ******Investasi Jangka Panjang******
+### 1. Investasi Properti Cocok untuk Jangka Panjang
 
 Memulai usaha properti dengan membangun rumah kos merupakan investasi jangka panjang yang bisa memberikan keuntungan dalam waktu yang lama.
 
@@ -46,29 +47,31 @@ Sebagai pemilik rumah kos, anda akan terus mendapatkan keuntungan anda bisa meng
 
 Promosi sangat penting untuk membantu anda mencapai pasar yang lebih luas sehingga rumah kos yang anda miliki memiliki penyewa yang bisa memberikan anda keuntungan.
 
-1. ******Potensi Keuntungan Tinggi******
+### 2. Properti Memiliki Potensi Keuntungan Tinggi
 
 Investasi properti melalui rumah kos akan memberikan anda berbagai macam keuntungan. Selain keuntungan dari biaya sewa, rumah kos juga akan memberikan anda keuntungan yang besar saat anda menjual kembali properti tersebut saat anda membutuhkan uang.
 
 Harga properti yang meningkat setiap tahun membuat rumah kos akan memberikan anda keuntungan yang cukup besar saat anda menjual kembali rumah kos yang anda miliki. Hal ini sangat menguntungkan karena bisa saja di masa mendatang anda memutuskan untuk mengganti instrumen investasi dan ingin menjual properti anda.
 
-### Pasif Income Jangka Panjang
+### 3. Properti Memberikan Passive Income Jangka Panjang
 
 Apabila anda ingin investasi yang bisa memberikan pasif income, rumah kos merupakan salah satu pilihan terbaik untuk anda.
 
-Seperti yang kita tau, rumah kos akan memberikan anda pasif income dari hasil sewa rumah kos yang anda miliki. Investasi ini sangat cocok untuk anda yang mencari investasi yang bisa secara rutin memberikan anda penghasilan. Selain itu, apabila anda ingin meningkatkan penghasilan anda perlu melengkapi rumah kos yang anda miliki dengan berbagai fasilitas sehingga nilai sewa yang anda terima dapat meningkat.
+Seperti yang kita tau, rumah kos akan memberikan anda pasif income dari hasil sewa rumah kos yang anda miliki. Investasi ini sangat cocok untuk anda yang mencari investasi yang bisa secara rutin memberikan anda penghasilan.
 
-### Permintaan Pasar Terus Meningkat
+Selain itu, apabila anda ingin meningkatkan penghasilan anda perlu melengkapi rumah kos yang anda miliki dengan berbagai fasilitas sehingga nilai sewa yang anda terima dapat meningkat.
+
+### 4. Permintaan Properti di Pasaran Terus Meningkat
 
 Pertumbuhan penduduk yang semakin pesat membuat kebutuhan akan hunian juga semakin tinggi. Karena itu rumah kos sering dijadikan alternatif hunian bagi masyarakat luas seperti mahasiswa, karyawan dan keluarga muda yang masih merintis karir.
 
 Karena selain harga yang lebih murah, rumah kos biasanya berada di lokasi yang strategis sehingga mempermudah mobilitas dalam kegiatan sehari-hari mereka. Karena itu sekarang banyak sekali bermunculan berbagai jenis rumah kos yang menjangkau berbagai segmen pasar.
 
-## Risiko Rumah Kos
+## Risiko Investasi Berbisnis Rumah Kost
 
 Selain keunggulan, anda juga harus paham bahwa rumah kos memiliki beberapa kekurangan jika dibandingkan dengan investasi lain. Berikut beberapa kelemahan usaha properti lewat rumah kos.
 
-### Biaya Perawatan
+### 1. Biaya Perawatan Properti
 
 Agar dapat bersaing dengan rumah kos lain, anda perlu memberikan fasilitas terbaik agar konsumen memilih properti sewaan milik anda. Penambahan fasilitas ini tidak hanya memakan biaya yang cukup besar di awal tapi juga akan meningkatkan biaya perawatan dari rumah kos yang anda miliki.
 
@@ -76,36 +79,42 @@ Hal ini akan meningkatkan biaya tetap (_fix cost)_ yang harus anda keluarkan wal
 
 Karena itu anda perlu menyiapkan sejumlah dana cadangan untuk perawatan fasilitas rumah kos untuk berjaga-jaga apabila rumah kos yang anda bangun tidak langsung terisi.
 
-### Persaingan Pasar
+### 2. Persaingan Pasar Properti yang Semakin Ketat
 
 Saat mulai usaha properti, anda akan dihadapkan dengan persaingan yang cukup ketat. Karena itu anda perlu terus melakukan analisis pasar dan meningkatkan berbagai fasilitas yang anda miliki agar konsumen memilih untuk menyewa di rumah kos milik anda.
 
 Selain itu sekarang anda perlu memasarkan properti yang anda miliki secara online sehingga dapat meraup pasar yang lebih luas. Karena itu, selain membangun rumah kos dengan fasilitas yang sesuai pasar anda juga butuh menyusun strategi bagaimana agar rumah kos anda dapat ditemukan oleh para calon penyewa. Hal ini penting dilakukan untuk antisipasi agar rumah kos yang anda miliki tidak kosong.
 
-### Risiko Telat Bayar
+### 3. Risiko Telat Bayar Usaha Properti
 
 Saat memulai bisnis rumah kos, anda harus menentukan periode pembayaran sewa yang akan anda terapkan baik itu bulanan maupun tahunan. Akan tetapi, kita tidak dapat memprediksi bagaimana kondisi keuangan dari penyewa dalam beberapa waktu ke depan. Kesulitan keuangan mungkin saja terjadi pada setiap orang karena berbagai hal tidak terduga sebelumnya seperti pandemi yang menyebabkan banyak orang kehilangan pekerjaan sehingga kesulitan membayar biaya hunian mereka.
 
 Karena itu anda harus siap menghadapi masalah seperti ini saat memutuskan membangun rumah kos. Risiko telat bayar ini juga lumayan sering terjadi di kalangan mahasiswa yang masih memiliki keterbatasan finansial yang membuat mereka menunggak biaya sewa atau terkadang kabur sebelum membayar sewa terlebih dahulu. Karena itu anda butuh manajemen yang baik agar penagihan bisa dilakukan secara teratur.
 
-### Membutuhkan Modal Besar
+### 4. Usaha Properti Membutuhkan Modal Besar
 
-Seperti yang anda tau, membangun sebuah rumah kos membutuhkan biaya awal yang cukup besar sehingga banyak orang kesulitan untuk memulai usaha properti ini.
+Seperti yang anda tau, membangun sebuah rumah kos membutuhkan biaya awal yang cukup besar sehingga banyak orang kesulitan untuk memulai usaha properti ini. Karena itu memulai usaha properti membutuhkan pertimbangan yang matang agar uang yang kamu investasikan tidak sia-sia.
 
-Akan tetapi, anda tidak perlu khawatir karena kini telah tersedia sistem [equity crowdfunding](https://landx.id/) memberikan anda kesempatan untuk memiliki properti yang bisa memberikan anda keuntungan dengan sistem patungan. Sistem ini membuat anda bisa memiliki [properti rumah kost](https://landx.id/) menguntungkan hanya dengan modal kecil.
+## Jadi Pemilik Usaha Properti dengan Modal Kecil
 
-**[Mulai Investasi Properti Menguntungkan Dengan Modal Kecil Bersama LandX](https://landx.id/)**
+Akan tetapi, anda tidak perlu khawatir karena kini telah tersedia **[sistem equity crowdfunding](https://landx.id/)** [](https://landx.id/) memberikan anda kesempatan untuk memiliki properti yang bisa memberikan anda keuntungan dengan sistem patungan. Sistem ini membuat anda bisa memiliki **[properti rumah kost menguntungkan](https://landx.id/)** hanya dengan modal kecil.
 
----
+## [Yuk Jadi Juragan Properti Cuma dengan Modal 1 Jutaan di LandX](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)
 
-## Baca Juga:
-
-* **[Tips dan Strategi Investasi Rumah Kost Untuk Pemula](https://landx.id/blog/tips-dan-strategi-investasi-rumah-kost-untuk-pemula/)**
-* **[Cara Investasi ke Dalam Bisnis Properti: Bagaimana Cara Terbaik Memulai Investasi Properti dengan Modal Kecil.](https://landx.id/blog/memulai-bisnis-laundry-kiloan/)**
+[![Yuk mulai patungan bisnis menguntungkan jangka panja g bersama LandX](https://accountgram-production.sfo2.cdn.digitaloceanspaces.com/landx_ghost/2021/09/Equity-Crowdfunding-di-Indonesia-1--3.png)](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)
 
 ---
 
-> **[Yuk Kunjungi Instagram Kami di @landx.id Untuk Informasi Terupdate Seputar Investasi](https://www.instagram.com/landx.id/?utm_medium=copy_link)**
+[**Supaya Selalu Update Info Seputar Investasi Yuk Follow Instagram Kami @landx.id**](https://www.instagram.com/landx.id/?utm_medium=copy_link)
 
-‌#LandX.id	#landx.id	#InvestasiBisnis	#EquityCrowdfunding #InvestasiMenguntungkan	#Urundana	#BisnisPatungan	#InvestasiUsaha
+---
+
+**Baca Juga:**
+
+* [Mengenal Investasi Mutual Fund: Definisi, Cara Kerja, dan Jenis Mutual Fund](https://landx.id/blog/mengenal-investasi-mutual-fund-definisi-cara-kerja-dan-jenis-mutual-fund/)
+* [Ingin Mulai Menjadi Investor di Pasar Modal? Yuk Pahami Beberapa Hal Ini Sebelum Mulai Investasi Pasar Modal](https://landx.id/blog/ingin-mulai-menjadi-investor-di-pasar-modal-yuk-pahami-beberapa-hal-ini-sebelum-mulai-investasi-pasar-modal/)
+
+---
+
+**#YukPatunganBisnis**
 

@@ -6,7 +6,7 @@ metaDescription = "Simak tips bagaimana cara investasi saham dengan modal kecil 
 draft = false
 slug = "tips-cara-investasi-saham-dengan-modal-kecil-untuk-pemula"
 tag = ["Cara Investasi Saham", "Equity Crowdfunding", "Investasi Menguntungkan", "Saham Online"]
-title = "Tips Cara Investasi Saham Dengan Modal Kecil Untuk Pemula"
+title = "Tips Cara Investasi Saham dengan Modal Kecil untuk Pemula"
 
 +++
 

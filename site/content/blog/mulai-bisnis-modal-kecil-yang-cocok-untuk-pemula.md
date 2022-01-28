@@ -38,7 +38,7 @@ Karena itu, yuk kita bahas berbagai bisnis yang bisa kamu lakukan walaupun denga
 6. [Custom Aksesoris](https://landx.id/blog/mulai-bisnis-modal-kecil-yang-cocok-untuk-pemula/#6-custom-aksesoris)
 7. [Laundry](https://landx.id/blog/mulai-bisnis-modal-kecil-yang-cocok-untuk-pemula/#7-laundry)
 8. [Kedai Kopi](https://landx.id/blog/mulai-bisnis-modal-kecil-yang-cocok-untuk-pemula/#8-kedai-kopi)
-9. [Layanan Titip Hewan Piaraan](9. https://landx.id/blog/mulai-bisnis-modal-kecil-yang-cocok-untuk-pemula/#9-layanan-titip-hewan-piaraan)
+9. [Layanan Titip Hewan Piaraan](https://landx.id/blog/mulai-bisnis-modal-kecil-yang-cocok-untuk-pemula/#9-layanan-titip-hewan-piaraan)
 10. [Budidaya ikan hias](https://landx.id/blog/mulai-bisnis-modal-kecil-yang-cocok-untuk-pemula/#10-budidaya-ikan-hias)
 
 * [**Pertimbangan Memulai Bisnis**](https://landx.id/blog/mulai-bisnis-modal-kecil-yang-cocok-untuk-pemula/#pertimbangan-memulai-bisnis)

@@ -6,7 +6,7 @@ metaDescription = "Yuk Pahami Bagaimana Cara Menghitung Price to Book Value (PBV
 draft = false
 slug = "memulai-investasi-pahami-apa-itu-price-to-book-value-pbv-dalam-investasi-saham"
 tag = ["price to book value", "pbv", "Cara Investasi Saham", "saham syariah"]
-title = "Memulai Investasi: Pahami Apa Itu Price to Book Value (PBV) Dalam Investasi Saham"
+title = "Memulai Investasi: Pahami Apa Itu Price to Book Value (PBV) dalam Investasi Saham"
 
 +++
 
@@ -21,10 +21,14 @@ Apabila anda memilih investasi saham, salah satu istilah yang sering muncul dan 
 
 Karena itu penting bagi anda sebagai [investor](https://landx.id/) paham apa itu _Price to Book Value_ (PBV) untuk membantu anda memilih saham terbaik untuk investasi yang anda lakukan.
 
-Table of Content
+---
+
+## Table of Content
 
 * [Pahami Dulu Apa Itu Price to Book Value?](#pahami-dulu-apa-itu-price-to-book-value-? )
 * [Bagaimana Cara Menghitung PBV?](#bagaimana-cara-menghitung-pbv?)
+
+---
 
 ## Pahami Dulu Apa Itu Price to Book Value?
 
@@ -72,7 +76,7 @@ Selain itu, anda harus bahwa sebagian saham memang wajar memiliki nilai PBV yang
 
 Akan tetapi, anda harus paham bahwa PBV tidak bisa dijadikan acuan satu-satunya yang harus anda perhatikan dalam memilih saham. Karena itu anda perlu melakukan berbagai macam analisis lain yang bisa membantu anda menemukan saham terbaik untuk investasi anda.
 
-**Kesimpulan**
+## Kesimpulan
 
 Penting bagi seorang investor untuk paham berbagai istilah dalam investasi agar investasi yang mereka jalankan menjadi semakin mudah. PBV merupakan salah satu istilah yang sering muncul dan harus anda pahami agar bisa memilih saham terbaik untuk investasi jangka panjang anda. Kalau anda sudah paham, yuk mulai analisis saham mana yang bisa memberikan anda keuntungan.
 

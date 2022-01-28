@@ -4,6 +4,7 @@ category = ["bisnis jangka panjang", "investasi bisnis", "bisnis investasi", "bi
 date = 2021-08-28T13:16:34Z
 metaDescription = "Bisnis perikanan merupakan bisnis dengan potensi yang sangat menjanjikan di Indonesia. Berbagai potensi keuntungan dari usaha perikanan tangkap"
 draft = false
+image = "https://images.unsplash.com/photo-1561623497-3ab314e8f8a9?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxMTc3M3wwfDF8c2VhcmNofDEzfHxtYXJpbmV8ZW58MHx8fHwxNjQzMTI5Njgw&ixlib=rb-1.2.1&q=80&w=1080"
 slug = "bisnis-perikanan-tangkap-di-indonesia"
 tag = ["bisnis jangka panjang", "investasi bisnis", "bisnis investasi", "bisnis menguntungkan"]
 title = "Keuntungan Jangka Panjang Menjanjikan dari Usaha Perikanan di Indonesia"
@@ -11,7 +12,9 @@ title = "Keuntungan Jangka Panjang Menjanjikan dari Usaha Perikanan di Indonesia
 +++
 
 
-**[Bisnis Perikanan](https://landx.id/project/#/asm1) –**  sebagai negara maritim, bisnis perikanan tentu saja menjadi salah satu bisnis dengan potensi keuntungan yang menjanjikan. Selain itu, pertumbuhan industri ini tidak lepas dari kemajuan sistem bisnis perikanan yang membuat industri ini berjalan dengan lebih optimal.
+**[Bisnis Perikanan](https://landx.id/project/#/asm1) –**  Keuntungan Indonesia sebagai negara maritim adalah kekayaan hasil laut yang berlimpah sehingga menjadi salah satu sektor utama untuk menopang perekonomian suatu negara.
+
+Bisnis perikanan tentu saja menjadi salah satu bisnis dengan potensi keuntungan yang menjanjikan. Selain itu, pertumbuhan industri ini tidak lepas dari kemajuan sistem bisnis perikanan yang membuat industri ini berjalan dengan lebih optimal.
 
 Dari sisi kualitas, produk perikanan Indonesia memiliki kualitas yang sangat baik sehingga menjadi salah satu komoditas ekspor ke berbagai negara di seluruh dunia. Hasil laut seperti cumi, ikan tuna, kepiting, dan berbagai jenis ikan lainnya merupakan produk-produk andalan yang dihasilkan dari bisnis perikanan Indonesia.
 
@@ -55,7 +58,11 @@ Peningkatan armada kapal untuk penangkapan cumi merupakan salah satu bentuk opti
 
 Karena itu, peningkatan armada kapal cumi sangat penting agar usaha perikanan di Indonesia bisa memberikan hasil yang jauh lebih optimal.
 
-## Memulai Usaha Perikanan Modal Kecil
+## Apa Keuntungan Indonesia Sebagai Negara Maritim?
+
+Sebagai negara maritim, Indonesia memiliki banyak sekali potensi bisnis yang bisa menjadi penggerak perekonomian suatu negara. Dari sisi industri perikanan, Indonesia sudah menjadi salah satu pemasok produk-produk perikanan untuk berbagai negara di dunia.
+
+Selain itu, sebagai negara maritim Indonesia juga membuka banyak peluang usaha baru seperti **[bisnis kapal tongkang](https://landx.id/project/capt)** untuk transportasi hasil bumi serta berbagai bisnis maritim lain yang terbuka secara luas.
 
 Kamu pasti berpikir bahwa usaha perikanan tangkap membutuhkan modal yang besar karena membutuhkan kapal sebagai alat transportasi untuk menangkap ikan.
 

@@ -50,7 +50,9 @@ Tapi sebelum anda menentukan pilihan, mari kita bahas secara lebih mendalam satu
 
 Deposito biasanya produk investasi yang sudah disiapkan oleh sebuah bank. Bunga yang diberikan dalam deposito pun biasanya sudah ditetapkan oleh bank sesuai dengan tenor dan nilai deposito yang akan anda tanamkan. Umumnya bunga yang diberikan di kisaran 4-7% yang biasanya mengacu kepada suku bunga yang ditentukan oleh Bank Indonesia (BI).
 
-Deposito memang investasi yang cenderung aman dan stabil, tapi perkembangan nilai uang yang bisa anda dapatkan pun bisa dibilang kecil. Contohnya, saat anda menyimpan dana sebesar 100 juta dengan tenor 5 tahun dan suku bunga 5% maka anda berpotensi mendapatkan keuntungan 5 juta hingga di akhir periode akan akan mendapatkan uang sebanyak 105 juta. Tapi hal ini belum bersih karena anda masih harus dikenai pajak. Tapi tiap instrumen tentu saja memiliki kekurangan masing-masing. Deposito sendiri banyak dipilih karena kemungkinan kerugian yang sangat kecil. Deposito sendiri memiliki beberapa jenis yang perlu anda ketahui yaitu :
+Deposito memang investasi yang cenderung aman dan stabil, tapi perkembangan nilai uang yang bisa anda dapatkan pun bisa dibilang kecil. Contohnya, saat anda menyimpan dana sebesar 100 juta dengan tenor 5 tahun dan suku bunga 5% maka anda berpotensi mendapatkan keuntungan 5 juta hingga di akhir periode akan akan mendapatkan uang sebanyak 105 juta.
+
+Tapi hal ini belum bersih karena anda masih harus dikenai pajak. Tapi tiap instrumen tentu saja memiliki kekurangan masing-masing. Deposito sendiri banyak dipilih karena kemungkinan kerugian yang sangat kecil. Deposito sendiri memiliki beberapa jenis yang perlu anda ketahui yaitu :
 
 ## **Jenis Deposito**
 
@@ -59,6 +61,16 @@ Deposito dikategorikan ke dalam tiga jenis yaitu Deposito Berjangka, Sertifikat 
 * **Deposito Berjangka**, Jenis ini sangat umum dan terkenal di kalangan masyarakat. Jenis ini merupakan tabungan berjangka yang akan anda bisa diambil di akhir periode deposito. Deposito ini bisa diterbitkan atas nama individu dan instansi yang uangnya hanya bisa diambil ketika jatuh tempo.
 * **Sertifikat deposito**, deposito juga bisa diterbitkan dalam bentuk sertifikat deposito yang tidak mengacu pada nama instansi atau individu tertentu sehingga dapat diperjualbelikan.
 * **Deposito On Call**, merupakan tabungan berjangka yang dilakukan dalam waktu singkat dengan minimal 7 hari dan paling lama hanya satu bulan. Deposito jenis ini dikhususkan untuk penyimpanan dana dalam jumlah yang besar.
+
+## Beda Deposito dan Tabungan
+
+Saat akan berinvestasi, banyak orang sulit membedakan antara deposito dan tabungan. Secara konsep, memang keduanya sama-sama menyimpan uang di bank dan mendapatkan bunga dari tabungan tersebut sesuai dengan ketentuan bank.
+
+Beda deposito dan tabungan terletak pada besaran bunga dan fleksibilitas pengambilan uang yang telah kamu simpan. Apabila kamu menyimpan uang ke dalam tabungan maka kamu dapat mengambil uang tersebut kapan  saja.
+
+Hal ini berbeda dengan deposito di mana uang kamu akan mendapatkan pinalti apabila mencairkan sebelum waktu yang telah disepakati di awal. Akan tetapi, hal ini juga diikuti dengan **return berupa bunga** yang lebih besar pula dari tabungan biasa.
+
+Oleh sebab itu, deposito masuk ke dalam instrumen investasi dengan risiko rendah karena return yang didapatkan biasanya sudah ditentukan saat awal menyimpan uang.
 
 ## **Kelebihan dan Kekurangan dari Deposito**
 

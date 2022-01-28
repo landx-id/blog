@@ -1,12 +1,12 @@
 +++
 author = "Abdul Wahhab"
-category = ["Cryptocurrency", "Instrumen Investasi"]
+category = ["Instrumen Investasi"]
 date = 2021-11-24T09:16:45Z
 metaDescription = "Cryptocurrency atau yang sering kita sebut kripto adalah mata uang digital yang menggunakan sistem kriptografi yang membantu menjaga keamanan dari sistem.."
 draft = false
 image = "https://images.unsplash.com/photo-1638913976381-5b8ed66c36d6?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxMTc3M3wxfDF8c2VhcmNofDF8fGNyeXB0b3xlbnwwfHx8fDE2NDAwNjE2MjM&ixlib=rb-1.2.1&q=80&w=1080"
 slug = "tertarik-berinvestasi-dengan-crypto-kenali-dulu-pengertian-jenis-serta-untung-ruginya-ini"
-tag = ["Cryptocurrency", "Instrumen Investasi"]
+tag = ["Instrumen Investasi"]
 title = "Tertarik Berinvestasi dengan Crypto? Kenali Dulu Pengertian, Jenis, Serta Untung Ruginya Ini!"
 
 +++
@@ -41,7 +41,21 @@ Meskipun cuma ‘sah’ digunakan sebagai alat transaksi di dunia maya saja, kam
 
 Jadi kripto merupakan istilah digunakan untuk menggambarkan berbagai jenis mata uang digital bukan hanya sebatas Bitcoin saja. Hal sering terjadi karena Bitcoin merupakan mata uang digital dengan nilai hampir 70% nilai total pasar kripto global.
 
-Biarkan kamu makin paham, berikut beberapa jenis kripto dengan market capital paling besar.
+Selain itu, kamu pasti sering mendengar istilah mining crypto atau proses menambang crypto bukan? Istilahi ini belakangan semakin populer karena kegiatan ini ditekuni banyak orang karena dinilai memiliki potensi keuntungan jangka panjang yang menggiurkan.
+
+Karena itu, yuk kita bahas dulu apa itu mining crypto dan bagaimana proses sebenarnya dari mining kripto ini sendiri.
+
+## Proses dan Cara Mining Cryptocurrency
+
+Saat ini, mining cryptocurrency semakin marak dan digiati banyak orang. Bahkan beberapa negara sempat melarang adanya proses mining bitcoin karena dikhawatirkan dapat menimbulkan berbagai masalah karena proses penambangan aset digital ini memakan energi yang sangat banyak.
+
+Dalam prosesnya Bitcoin melibatkan dua kegiatan dasar yaitu penyampaian informasi dan verifikasi info yang melibatkan banyak sekali perangkat lunak di seluruh dunia untuk memastikan bahwa setiap transaksi tercatat dan tidak dapat dijualbelikan dua kali.
+
+Proses ini disebut _"mining"_  dimana proses ini adalah tindakan mencatat setiap transaksi ke dalam **blockchain agar semua orang memiliki informasi yang sama.**
+
+Akan tetapi, proses penambahan ke dalam blockchain ini bukanlah hal yang mudah karena membutuhkan kalkulasi rumit yang membutuhkan perangkat lunak dengan spesifikasi tinggi.
+
+Oleh sebab itu, mining cryptocurrency seperti Bitcoin membutuhkan modal yang cukup besar karena perlu menyediakan perangkat lunak dengan spesifikasi tinggi.
 
 ## Jenis Cryptocurrency dengan Market Cap Paling Besar
 

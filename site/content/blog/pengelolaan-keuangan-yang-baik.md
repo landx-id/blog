@@ -23,19 +23,17 @@ Karena itu, mari kita bahas berbagai tips yang bisa anda jadikan langkah awal pe
 
 ---
 
-## Table of Content
-
-* **[Mengelola Keuangan dengan Baik](https://landx.id/blog/pengelolaan-keuangan-yang-baik/#mengelola-keuangan-dengan-baik)**
-* **[Langkah Penting dalam Pengelolaan Keuangan](https://landx.id/blog/pengelolaan-keuangan-yang-baik/#langkah-penting-dalam-pengelolaan-keuangan)**1. [Menyusun Tujuan Finansial](https://landx.id/blog/pengelolaan-keuangan-yang-baik/#1-menyusun-tujuan-finansial)2. [Mencatat Pemasukan dan Pengeluaran](https://landx.id/blog/pengelolaan-keuangan-yang-baik/#2-mencatat-pemasukan-dan-pengeluaran)3. [Menganalisis Sumber Pengeluaran](https://landx.id/blog/pengelolaan-keuangan-yang-baik/#3-menganalisis-sumber-pengeluaran)4. [Memulai Budgeting dan Skala Prioritas](https://landx.id/blog/pengelolaan-keuangan-yang-baik/#4-memulai-budgeting-dan-skala-prioritas)5. [Membuat Beberapa Rekening Tabungan](https://landx.id/blog/pengelolaan-keuangan-yang-baik/#5-membuat-beberapa-rekening-tabungan)
-* ** [Memulai Investasi](#memulai-investasi)**
-
----
-
 ## Mengelola Keuangan dengan Baik
 
 Mengelola keuangan adalah bagaimana anda mengatur uang yang anda miliki saat ini agar bisa mencapai tujuan finansial anda di masa mendatang. Oleh sebab itu, langkah awal dari mengelola uang dengan baik adalah menentukan **[tujuan finansial](https://landx.id/project/)** yang ingin anda capai dalam beberapa tahun ke depan. Jika tujuan sudah ditentukan dengan jelas di awal, maka proses menyusun strategi dapat dilakukan dengan lebih mudah.
 
 Memiliki keuangan yang teratur akan sangat membantu anda menyusun rencana masa depan dengan lebih baik, terutama bagi anda yang memiliki rencana keuangan jangka panjang yang ingin dicapai. Karena, pengelolaan yang baik akan membantu proyeksi masa depan anda menjadi lebih jelas. Oleh sebab itu, mari kita bahas lebih lanjut tentang langkah-langkah pengelolaan keuangan yang baik.
+
+## Mengapa Pengelolaan Keuangan Begitu Penting?
+
+Dalam kehidupan sehari-hari, banyak orang yang tidak mengelola uang dengan baik karena mereka tidak paham bagaimana cara memulainya.
+
+Padahal pengelolaan uang yang baik menjadi kunci dari kesehatan finansial jangka panjang yang harus mulai kita siapkan sedini mungkin. Apabila kamu tidak menerapkan pengelolaan uang yang baik dari sekarang maka hal ini akan memberikan pengaruh buruk terhadap keuangan jangka panjang.
 
 ## Langkah Penting dalam Pengelolaan Keuangan
 

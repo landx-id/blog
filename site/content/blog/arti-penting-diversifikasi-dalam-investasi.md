@@ -1,13 +1,13 @@
 +++
 author = "Abdul Wahhab"
-category = ["diversifikasi dalam investasi"]
+category = ["diversifikasi dalam investasi", "Instrumen Investasi"]
 date = 2021-10-26T11:32:06Z
 metaDescription = "Masih bingung dengan apa yang dimaksud dengan diversifikasi? berikut arti dan cara diversifikasi yang bisa dilakukan agar investasi kamu makin cuan"
 draft = false
 image = "https://images.unsplash.com/photo-1606189934846-a527add8a77b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxMTc3M3wwfDF8c2VhcmNofDV8fG1vbmV5JTIwbWFuYWdlbWVudHxlbnwwfHx8fDE2NDAxNDE4MTI&ixlib=rb-1.2.1&q=80&w=1080"
 slug = "arti-penting-diversifikasi-dalam-investasi"
-tag = ["diversifikasi dalam investasi"]
-title = "Investasi Selalu Rugi? Coba Lakukan Diversifikasi. Ini 4 Cara Melakukannya!"
+tag = ["diversifikasi dalam investasi", "Instrumen Investasi"]
+title = "Diversifikasi Investasi: Ini 4 Cara Diversifikasi yang Wajib Coba"
 
 +++
 
@@ -32,7 +32,7 @@ karena itu, mari kita bahas apa itu diversifikasi dan dan bagaimana cara melakuk
 
 ## Pengertian Diversifikasi
 
-Kalau kamu investor pemula, kamu pasti masih cukup asing dengan istilah ini, karena itu mari kita bahas lebih lanjut tentang diversifikasi dalam investasi.
+Apabila kamu merupakan investor pemula, mungkin kamu masih awam dengan apa yang dimaksud diversifikasi dalam investasi.
 
 > _**“Jangan tempatkan semua telur dalam satu keranjang.”**_
 
@@ -40,17 +40,21 @@ Apabila kamu bingung tentang apa yang dimaksud dengan diversifikasi, maka kutipa
 
 Kutipan tersebut menggambarkan bagaimana diversifikasi bekerja. Secara lebih lanjut, Diversifikasi investasi adalah menempatkan dana investasi terhadap berbagai instrumen investasi yang berbeda.
 
-Arti diversifikasi sebernarnya cukup luas karena istilah ini digunakan di berbagai bidang, dalam bisnis diversifikasi merupakan strategi perusahaan untuk membangun berbagai unit usaha/ produk untuk mengoptimalkan keuntungan bisnis.
+Pengertian diversifikasi sebenarnya cukup luas karena istilah ini digunakan di berbagai bidang, dalam bisnis diversifikasi merupakan strategi perusahaan untuk membangun berbagai unit usaha/ produk untuk mengoptimalkan keuntungan bisnis.
 
-Dalam investasi, diversifikasi diartikan sebagai strategi menempatkan dana ke beberapa instrumen investasi berbeda dengan tujuan memperkecil risiko dan mengoptimalkan _return_ dari investasi yang dilakukan.
+**Diversifikasi investasi adalah** strategi menempatkan dana ke beberapa instrumen investasi berbeda dengan tujuan memperkecil risiko dan mengoptimalkan _return_ dari investasi yang dilakukan.
 
 Saat ini, banyak sekali instrumen investasi yang bisa kamu pilih. Mulai dari saham, kripto, obligasi, reksadana, emas dan logam mulia, dan lain-lain. Nah, untuk melakukan diversifikasi, sebaiknya kamu tidak menyuntikan dana kamu hanya pada satu instrumen saja.
+
+Apabila kamu belum paham cara diversifikasi, berikut contoh diversifikasi investasi yang mungkin bisa kamu adopsi dan kamu terapkan.
 
 Misal, jika kamu punya dana Rp 100 Juta, maka jangan hanya kamu simpan di saham saja. Cobalah untuk menyimpannya ke instrumen lain yang berbeda seperti emas ataupun kripto.
 
 Kenapa hal ini penting? Hal ini untuk mengurangi resiko kegagalan di masa depan. Diversifikasi adalah mencoba keuntungan dari Plan B seandainya Plan A tidak bekerja. Apabila Plan A kamu gagal, setidaknya kamu masih bisa berharap kepada Plan B.
 
 Dalam kasus di atas, jika seandainya dana yang kamu simpan di saham merugi, maka kamu masih bisa berharap kepada instrumen lain seperti emas maupun kripto.
+
+**Diversifikasi aset adalah sesuatu  yang sangat penting untuk mitigasi risiko karena pada dasarnya kita tidak dapat memprediksi berbagai hal yang akan muncul di masa mendatang.**
 
 ## Cara Melakukan Diversifikasi
 
@@ -87,6 +91,8 @@ Untuk mengelola sebuah portofolio investasi yang baik, kamu harus terhindar dari
 Godaan tersebut bisa saja karena rekomendasi pakar, trend di media sosial, nilai yang naik drastis, dan lain-lain. Dengan fokus terhadap tujuan jangka panjang, kamu bisa lebih konsisten terhindar dari godaan-godaan tersebut.
 
 ## Haruskah Kita Melakukan Diversifikasi?
+
+Diversifikasi investasi adalah hal penting yang harus dilakukan agar investasi menjadi lebih aman dan menguntungkan. Selain itu, diversifikasi juga merupakan cara kita untuk menyiapkan diri apabila berbagai hal tidak terduga terjadi di masa mendatang.
 
 Meski secara umum baik, ternyata diversifikasi juga punya kekurangan _lho_. Jika dilakukan dengan buruk, justru diversifikasi akan menyebabkan kinerja yang lebih buruk, resiko yang lebih tinggi, serta biaya yang melonjak.
 

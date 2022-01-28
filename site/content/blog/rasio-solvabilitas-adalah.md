@@ -1,58 +1,90 @@
 +++
 author = "Abdul Wahhab"
 category = ["rasio keuangan", "rasio solvabilitas", "investasi saham", "tips investasi"]
-date = 2021-07-29T10:55:26Z
-metaDescription = "Memahami apa itu rasio solvabilitas dan bagaimana menggunakan rasio solvabilitas untuk membantu anda menemukan investasi terbaik|Rasio solvabilitas adalah.."
+date = 2022-01-26T10:55:00Z
+metaDescription = "Rasio solvabilitas adalah salah satu rasio keuangan yang penting dalam analisis investasi kamu | Rasio solvabilitas digunakan untuk menghitung kemampuan"
 draft = false
+image = "https://images.unsplash.com/photo-1444653614773-995cb1ef9efa?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxMTc3M3wwfDF8c2VhcmNofDI1fHxmaW5hbmNpYWwlMjByYXRpb3xlbnwwfHx8fDE2NDMxNzA1MTA&ixlib=rb-1.2.1&q=80&w=1080"
 slug = "rasio-solvabilitas-adalah"
 tag = ["rasio keuangan", "rasio solvabilitas", "investasi saham", "tips investasi"]
-title = "Rasio Solvabilitas:  Pentingnya Mengenal Rasio Solvabilitas dalam Investasi"
+title = "Rasio Solvabilitas: Pengertian, Jenis, Rumus, dan Cara Perhitungannya"
 
 +++
 
 
-Sebelum memilih investasi terbaik anda perlu melakukan berbagai analisis. Salah analisis yang penting adalah melakukan analisis keuangan yang dilakukan dengan berbagai jenis rasio. Salah satu rasio yang penting anda perhatikan adalah rasio solvabilitas.
+**Rasio Solvabilitas -** Saat ingin berinvestasi kamu perlu melakukan berbagai analisis untuk menemukan instrumen terbaik untuk jangka keuangan jangka panjang anda.
 
-Rasio solvabilitas merupakan komponen penting yang penting untuk dilihat sebelum memutuskan untuk menjalankan suatu investasi berdasarkan bagaimana posisi keuangan dari perusahaan tersebut.
+Analisis keuangan ini dilakukan dengan beberapa jenis rasio berbeda, salah satunya adalah rasio solvabilitas yang digunakan untuk melihat kemampuan perusahaan menyelesaikan hutang jangka panjang mereka.
 
-Oleh sebab itu mari kita bahas lebih lengkap mengenai rasio solvabilitas agar anda dapat mengambil keputusan investasi yang lebih optimal lagi.
+Rasio solvabilitas adalah salah satu rasio penting karena membantu kamu melihat bagaimana potensi jangka panjang dari perusahaan yang akan jadi tempat kamu berinvestasi.
 
-## Table of Content
+Manfaat rasio solvabilitas sebenarnya bukan hanya untuk menilai bagaimana prospek investasi karena rasio solvabilitas terdiri dari beberapa jenis berbeda sehingga bisa menjelaskan beberapa hal sekaligus.
 
-* **[Mengenal Rasio Solvabilitas](#mengenal-rasio-solvabilitas)**
-* **[Jenis-Jenis Rasio Solvabilitas](#jenis-jenis-rasio-solvabilitas)**1. [Rasio Total Hutang terhadap Total Modal](#rasio-total-hutang-terhadap-total-modal)2. [Rasio Total Hutang terhadap Total Asset](#rasio-total-hutang-terhadap-total-asset)3. [Time Interest-Earned Ratio](#time-interest-earned-ratio)
-* **[Manfaat Rasio Solvabilitas](#manfaat-rasio-solvabilitas)**
-* **[Kesimpulan](#kesimpulan)**
+Oleh sebab, mari kita pelajari lebih lanjut tentang apa yang dimaksud rasio solvabilitas dan bagaimana cara perhitungannya agar kamu dapat membuat keputusan investasi yang lebih optimal di masa mendatang.
 
-## Mengenal Rasio Solvabilitas
+---
+
+## Pengertian Rasio Solvabilitas
 
 **Rasio solvabilitas** adalah rasio yang digunakan untuk mengukur bagaimana kemampuan perusahaan untuk memenuhi berbagai kewajiban hutang jangka panjang mereka.
 
-Rasio ini menunjukkan apakah perusahaan memiliki kemampuan untuk membayar kewajiban jangka panjang mereka yang menunjukkan bagaimana tingkat kesehatan keuangan dari perusahaan.
+**Solvabilitas adalah rasio** yang menunjukkan apakah perusahaan memiliki kemampuan untuk membayar kewajiban jangka panjang mereka yang menunjukkan bagaimana tingkat kesehatan keuangan dari perusahaan.
 
 Selain itu, rasio solvabilitas juga menunjukkan kemampuan dari perusahaan melunasi hutang mereka menggunakan aset yang mereka miliki.
 
 Oleh sebab itu, rasio ini bisa menggambarkan bagaimana kemampuan dari perusahaan untuk melunasi utang jangka panjang dan pendek mereka apabila melakukan likuidasi.
 
-Rasio ini diukur beberapa indikator seperti Rasio Total Hutang terhadap Modal sendiri dan Total Hutang terhadap Total Asset.
+Karena itu, analisis rasio solvabilitas menjadi sangat penting untuk melihat bagaimana potensi jangka dari suatu bisnis.
 
-Berikutnya mari kita bahas lebih lanjut tentang berbagai jenis rasio solvabilitas
+Rasio solvabilitas ini terdiri dari beberapa jenis yaitu: rasio total hutang terhadap total modal, rasio total hutang terhadap total aset, dan time interest earned ratio. Jenis rasio solvabilitas ini memiliki manfaat yang berbeda-beda sehingga perlu kamu sesuaikan penggunaannya.
 
-## Jenis-Jenis Rasio Solvabilitas
+## Jenis-Jenis Rasio Solvabilitas dan Cara Perhitungannya
 
-### Rasio Total Hutang terhadap Total Modal
+Terdapat tiga jenis rasio solvabilitas yaitu rasio total hutang terhadap total modal, rasio total hutang terhadap total aset, dan time interest earned ratio. Supaya lebih jelas, yuk kita bahas satu persatu ketiga jenis rasio solvabilitas ini.
 
-Rasio total hutang terhadap modal menggambarkan kemampuan perusahaan untuk membayar utang dengan modal yang mereka miliki. Idealnya utang perusahaan tidak melebihi modal yang mereka miliki, oleh sebab itu semakin kecil hutang dibanding modal maka semakin baik.
+### 1. Rasio Total Hutang terhadap Total Modal (Debt-to-Equity Ratio)
 
-### Rasio Total Hutang terhadap Total Asset
+**Jenis solvabilitas** yang pertama adalah rasio total hutang terhadap modal menggambarkan kemampuan perusahaan untuk membayar utang dengan modal yang mereka miliki. Idealnya utang perusahaan tidak melebihi modal yang mereka miliki, oleh sebab itu semakin kecil hutang dibanding modal maka semakin baik.
+
+**Rumus solvabilitas jenis ini dihitung dengan pembagian total hutang dengan total modal yang dimiliki oleh perusahaan.**
+
+Dengan menggunakan rumus solvabilitas ini kita bisa melihat apakah perusahaan mampu membayar hutang dengan modal yang mereka miliki.
+
+### 2. Rasio Total Hutang terhadap Total Asset (Debt Ratio)
 
 Rasio ini juga dikenal dengan total debt to assets ratio atau bisa disebut juga sebagai debt ratio. Rasio ini berguna untuk menunjukkan sejauh mana kemampuan total aset (total aktiva) untuk menutupi utang yang dimiliki oleh perusahaan. Apabila angka rasio semakin kecil, maka semakin baik (solvable) serta disukai oleh kreditor dan investor.
 
-### Time Interest-Earned Ratio
+**Rasio solvabilitas jenis ini dihitung dengan perbandingan total hutang dengan total aset yang dimiliki perusahaan.**
+
+### 3. Time Interest-Earned Ratio
 
 Rasio ini sering disebut juga sebagai _interest coverage ratio_ yang digunakan untuk menilai kemampuan perusahaan untuk melunasi beban bunga pada masa mendatang.
 
-Laba ini dihitung dengan membandingkan laba sebelum bayar pajak dan bunga. Semakin besar nilai rasio ini, maka semakin baik kemampuan perusahaan dalam membayar bunga dari utang mereka. Rasio ini bisa menjadi acuan bagi kreditur sebelum memberikan suatu pinjaman.
+**Rasio ini dihitung menggunakan rumus yang membandingkan laba sebelum bayar pajak dan bunga dengan besar bunga yang harus mereka bayarkan.**
+
+Semakin besar nilai rasio solvabilitas ini, maka semakin baik kemampuan perusahaan dalam membayar bunga dari utang mereka. Begitu juga sebaliknya apabila nilai rasio ini rendah maka kemampuan perusahaan dalam membayar hutang-hutang mereka semakin rendah.
+
+Rasio solvabilitas jenis ini sering kali menjadi acuan bagi kredibut dalam mengambil keputusan apakah akan memberikan pinjaman atau tidak.
+
+## Rumus Rasio Solvabilitas
+
+### 1. Rasio Total Hutang terhadap Total Modal (Debt-to-Equity Ratio)
+
+Debt to Equity Ratio dihitung menggunakan rumus sebagai berikut:
+
+![rumus menghitung rasio solvabilitas](https://accountgram-production.sfo2.cdn.digitaloceanspaces.com/landx_ghost/2022/01/Rumus-menghitung-rasio-solvabilitias.png)
+
+### 2. Rasio Total Hutang terhadap Total Asset (Debt Ratio)
+
+Rasio solvabilitas jenis debt ratio dihitung menggunakan rumus berikut:
+
+![rumus solvabilitas debt ratio](https://accountgram-production.sfo2.cdn.digitaloceanspaces.com/landx_ghost/2022/01/rumus-solvabilitas--debt-ratio.png)
+
+### 3. Time Interest-Earned Ratio
+
+Time interest-earned ratio dihitung menggunakan rumus sebagai berikut:
+
+![rumus-rasio-solvabilitas--Time-interest-earned-ratio](https://accountgram-production.sfo2.cdn.digitaloceanspaces.com/landx_ghost/2022/01/rumus-rasio-solvabilitas--Time-interest-earned-ratio.png)
 
 ## Manfaat Rasio Solvabilitas
 
@@ -66,27 +98,37 @@ Pemahaman akan rasio solvabilitas ini menjadi hal yang sangat penting terutama s
 
 Akan tetapi, sebaiknya anda juga memahami berbagai rasio keuangan lain untuk membangun analisis yang lebih baik lagi. Berikut beberapa artikel terkait yang bisa mendukung anda melakukan analisis keuangan dengan lebih baik:
 
+---
+
 * [Rasio-Rasio Keuangan yang Penting Dipahami Investor Pemula dalam Memulai Investasi](https://landx.id/blog/rasio-rasio-keuangan-yang-penting-dalam-investasi/)
 * [Rasio likuiditas](https://landx.id/blog/rasio-likuiditas-adalah/)
+
+---
 
 ## Kesimpulan
 
 Kini anda semakin paham bukan bagaimana memilih perusahaan atau bisnis terbaik untuk investasi berdasarkan laporan keuangan mereka. Memahami berbagai rasio keuangan akan membantu anda mengambil keputusan investasi yang lebih baik sehingga bisa memberikan anda keuntungan.
 
+Solvabilitas adalah rasio yang membantu kamu melakukan analisis te
+
 Kini tentu anda semakin paham kriteria bisnis dan investasi seperti apa yang cocok dan menguntungkan anda dalam jangka panjang.
 
 Salah satu instrumen investasi yang wajib anda coba adalah investasi bisnis melalui skema[ _**equity crowdfunding**_](https://landx.id/). Sistem ini membuat anda bisa melakukan investasi bisnis yang menguntungkan dalam jangka panjang dengan modal kecil. Karena itu…
 
-## **[Yuk Investasi Bisnis di LandX dengan Berbagai Pilihan Bisnis Potensial untuk Investasi Anda](https://landx.id/project/index.html)**
+## **[Yuk Investasi Bisnis di LandX dengan Berbagai Pilihan Bisnis Potensial untuk Investasi Anda](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)**
 
-
+[![Yuk mulai patungan bisnis menguntungkan jangka panja g bersama LandX](https://accountgram-production.sfo2.cdn.digitaloceanspaces.com/landx_ghost/2021/09/Equity-Crowdfunding-di-Indonesia-1--3.png)](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)
 
 [**Mau Terus Update Info Seputar Investasi? Yuk Follow Kami di Instagram @landx.id untuk Berbagai Info Terupdate Seputar Investasi**](https://instagram.com/landx.id?utm_medium=copy_link)
 
-**#LandX.id    #landx.id    #InvestasiBisnis     #EquityCrowdfunding   #SecuritiesCrowdfunding #InvestasiMenguntungkan    #Urundana     #BisnisPatungan    #InvestasiUsaha**
+---
 
 **Baca Juga:**
 
 * [Rasio-Rasio Keuangan yang Penting Dipahami Investor Pemula dalam Memulai Investasi](https://landx.id/blog/rasio-rasio-keuangan-yang-penting-dalam-investasi/)
 * [Yuk Pahami Cara Menggunakan Price to Sales Ratio (P/S) untuk Menilai Suatu Saham](https://landx.id/blog/price-to-sales-ratio-adalah/)
+
+---
+
+#YukPatunganBisnis
 

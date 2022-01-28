@@ -12,6 +12,8 @@ title = "Daftar 5 Orang Terkaya di Dunia 2021 dan Growth Mindset yang Bisa Kamu 
 +++
 
 
+Di Penghujung tahun 2021 ini, mari kita bahas siapakah orang terkaya di dunia tahun ini dan bisnis seperti apa yang mereka geluti hingga mendapatkan gelar orang terkaya di dunia.
+
 Baru-baru ini [Forbes](https://www.forbes.com/real-time-billionaires/#623005d3d788) merilis daftar orang paling kaya di dunia tahun 2021. Walaupun di masa pandemi, banyak orang justru mengalami peningkatan kekayaan karena pandemi Covid-19 ini juga membawa kesempatan baru bagi sebagian orang.
 
 Orang-orang terkaya di dunia ini bergerak di berbagai bidang bisnis dan strategi investasi yang berbeda-beda pula untuk mengembangkan kekayaan yang mereka miliki.
@@ -25,6 +27,8 @@ Karena itu, yuk kita bahas 5 orang terkaya di dunia 2021 versi _Real Time Billio
 *  **[Cara Membangun Growth Mindset](https://landx.id/blog/daftar-orang-terkaya-di-dunia-tahun-2021/#cara-membangun-growth-mindset)**
 
 ## Daftar Orang Terkaya di Dunia 2021
+
+Supaya kamu tau siapakah orang terkaya di dunia tahun 2021, yuk cek list orang-orang terkaya di dunia di bawah ini untuk inspirasi mengatur keuangan di 2o22
 
 ### 1. Elon Musk
 

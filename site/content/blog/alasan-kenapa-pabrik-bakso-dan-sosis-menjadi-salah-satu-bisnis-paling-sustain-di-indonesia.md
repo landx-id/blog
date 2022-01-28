@@ -24,6 +24,14 @@ Supaya kamu paham tentang pabrik bakso ini, mari kita bahas lebih lanjut tentang
 
 ---
 
+## Table of Content
+
+* **[Pabrik Bakso, Industri yang Kokoh Menghadapi Pandemi](#pabrik-bakso-industri-yang-kokoh-menghadapi-pandemi)**
+* **[Prospek Jangka Panjang Pabrik Bakso](#prospek-jangka-panjang-pabrik-bakso)**
+* **[Hal Penting dalam Bisnis Pabrik Bakso dan Sosis](#hal-penting-dalam-bisnis-pabrik-bakso-dan-sosis)**
+
+---
+
 ## Pabrik Bakso, Industri yang Kokoh Menghadapi Pandemi
 
 Berbicara terkait pandemiu, tentu saja banyak bisnis yang terdampak dari wabah penyakit yang mencakup hampir seluruh dunia ini.

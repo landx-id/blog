@@ -28,10 +28,10 @@ Kali ini, kita akan membahas gaya **[berinvestasi](https://landx.id/)** dua oran
 
 * [Elon Musk](https://landx.id/blog/berinvestasi-gaya-elon-musk-atau-warren-buffet-2-pandangan-buat-kamu-yang-ingin-ikutan-bitcoin/#elon-musk) 
 * Melihat Portofolio Elon Musk
-* [Elon Musk dan Aset Kripto](https://landx.id/blog/berinvestasi-gaya-elon-musk-atau-warren-buffet-2-pandangan-buat-kamu-yang-ingin-ikutan-bitcoin/#elon-musk-dan-aset-kriptp)
+* [Elon Musk dan Aset Kripto](https://landx.id/blog/berinvestasi-gaya-elon-musk-atau-warren-buffet-2-pandangan-buat-kamu-yang-ingin-ikutan-bitcoin/#elon-musk-dan-aset-kripto)
 * Warren Buffet
 * [Melihat Portofolio Warren Buffet](https://landx.id/blog/berinvestasi-gaya-elon-musk-atau-warren-buffet-2-pandangan-buat-kamu-yang-ingin-ikutan-bitcoin/#melihat-portofolio-warren-buffet)
-* [Warren Buffet dan Bitcoin](https://landx.id/blog/berinvestasi-gaya-elon-musk-atau-warren-buffet-2-pandangan-buat-kamu-yang-ingin-ikutan-bitcoin/#warren-buffet-dan-buffet/)
+* [Warren Buffet dan Bitcoin](https://landx.id/blog/berinvestasi-gaya-elon-musk-atau-warren-buffet-2-pandangan-buat-kamu-yang-ingin-ikutan-bitcoin/#warren-buffet-dan-buffet)
 * [Strategi Investasi Terbaik](https://landx.id/blog/berinvestasi-gaya-elon-musk-atau-warren-buffet-2-pandangan-buat-kamu-yang-ingin-ikutan-bitcoin/#strategi-investasi-terbaik)
 * [Mulai Berinvestasi](https://landx.id/blog/berinvestasi-gaya-elon-musk-atau-warren-buffet-2-pandangan-buat-kamu-yang-ingin-ikutan-bitcoin/#mulai-berinvestasi)
 
@@ -41,7 +41,7 @@ Kali ini, kita akan membahas gaya **[berinvestasi](https://landx.id/)** dua oran
 
 Sebagai orang terkaya, **Elon Musk bisa mendapatkan setengah juta dollar** setiap jamnya melalui saham perusahaan mobil elektrik yang ia kembangkan, Tesla. Berdasarkan Data _Real Time Billionaires-Forbes_ pada November 2021, kekayaan Elon Musk mencapai $276.2 miliar dolar Amerika.
 
-Elon juga merupakan seorang investor, ia dikenal sebagai jenius era modern atau **“_real life Tony Stark_”**. Dalam ber[investasi](landx.id) yang sangat ia perhatikan ialah kecepatan inovasi (s_pace of innovation_) suatu bisnis untuk berkembang.
+Elon juga merupakan seorang investor, ia dikenal sebagai jenius era modern atau **“_real life Tony Stark_”**. Dalam berinvestasi yang sangat ia perhatikan ialah kecepatan inovasi (s_pace of innovation_) suatu bisnis untuk berkembang.
 
 Hal ini juga tergambar pada bagaimana inovasi yang diterapkannya dalam industri mobil listrik. CEO Tesla ini tidak menghamburkan uangnya untuk mengiklankan produk, karena uang tersebut digunakan untuk berinovasi dan menyempurnakan produknya.
 
@@ -81,7 +81,7 @@ Walau bermain bitcoin dan aset kripto lainnya, Elon mengungkapkan hanya ikutan m
 
 Karena, miliarder ini mengingatkan untuk jangan mempertaruhkan uangmu di kripto. Karena nilai sesungguhnya suatu aset adalah dengan membangun produk dan memberikan pelayanan, bukan uang dalam bentuk lainnya.
 
-Apa kamu juga tertarik [**berdiversifikasi**](https://landx.id/blog/diversifikasi-dalam-investasi/) ke [**aset kripto?**](https://landx.id/blog/tertarik-berinvestasi-dengan-crypto-kenali-dulu-pengertian-jenis-serta-untung-ruginya-ini/)
+Apa kamu juga tertarik **[berdiversifikasi](https://landx.id/blog/diversifikasi-dalam-investasi/)** ke **[aset kripto?](https://landx.id/blog/tertarik-berinvestasi-dengan-crypto-kenali-dulu-pengertian-jenis-serta-untung-ruginya-ini/)**
 
 ---
 
@@ -100,7 +100,7 @@ Dalam **ber[investasi](https://landx.id/project/)**, Warren selalu belajar terka
 
 ## Melihat Portofolio Warren Buffet
 
-Adanya regulasi keuangan membuat Warren Buffet harus mengungkapkan [portofolio investasi](landx.id)nya. Berikut beberapa portofolio sang investor terbaik di dunia per Oktober 2021 yang dikutip [Investopedia](https://www.investopedia.com/articles/investing/022816/top-5-positions-warren-buffetts-portfolio.asp) berdasarkan jumlah sahamnya:
+Adanya regulasi keuangan membuat Warren Buffet harus mengungkapkan portofolio investasinya. Berikut beberapa portofolio sang investor terbaik di dunia per Oktober 2021 yang dikutip [Investopedia](https://www.investopedia.com/articles/investing/022816/top-5-positions-warren-buffetts-portfolio.asp) berdasarkan jumlah sahamnya:
 
 ### 1. Apple
 
@@ -132,17 +132,17 @@ Dikenal selalu berpegang teguh dengan prinsip ber[investasi](landx.id)nya, Warre
 
 ## [Strategi Investasi Terbaik](https://landx.id/blog/tag/strategi-investasi/)
 
-Jadi bagaimana cara ber[investasi](landx.id) dengan strategi terbaik? Dengan memahami strategi ber[investasi](landx.id) para  jenius investor, pahami bisnis yang membuatmu tertarik, dan memahami kondisi keuanganmu.
+Jadi bagaimana cara berinvestasi dengan strategi terbaik? Dengan memahami strategi berinvestasi para  jenius investor, pahami bisnis yang membuatmu tertarik, dan memahami kondisi keuanganmu.
 
-Dengan memahami strategi dan tips para jenius investor, kamu dapat mengkombinasikan strategi tersebut untuk mendapatkan _the ideal mix_. Karena setiap orang memiliki profil yang berbeda dalam merespon sebuah situasi risiko [investasi](landx.id).
+Dengan memahami strategi dan tips para jenius investor, kamu dapat mengkombinasikan strategi tersebut untuk mendapatkan _the ideal mix_. Karena setiap orang memiliki profil yang berbeda dalam merespon sebuah situasi risiko investasi.
 
 ## [Mulai Berinvestasi](https://landx.id/project/)
 
-Apakah kamu seorang pebisnis? Atau pegawai kantoran yang menginginkan punya  [**_passive income_? **](https://landx.id/blog/investasi-dengan-passive-income-untuk-masa-depan/) Kadang pernah terbayang ingin memiliki bisnis sebagai tambahan pendapatan tetapi sibuk dengan kerjaan. Mau [investasi](landx.id) tapi takut risiko yang besar, punya rencana deposito tapi untungnya terasa kekecilan.
+Apakah kamu seorang pebisnis? Atau pegawai kantoran yang menginginkan punya  [**_passive income_? **](https://landx.id/blog/investasi-dengan-passive-income-untuk-masa-depan/) Kadang pernah terbayang ingin memiliki bisnis sebagai tambahan pendapatan tetapi sibuk dengan kerjaan. Mau investasi tapi takut risiko yang besar, punya rencana deposito tapi untungnya terasa kekecilan.
 
-Kamu bisa ber[investasi](landx.id) dengan risiko kecil tapi keuntungan yang membahagiakan dengan cara memilih jenis [investasi](landx.id) yang sesuai profil risiko kamu.
+Kamu bisa berinvestasi dengan risiko kecil tapi keuntungan yang membahagiakan dengan cara memilih jenis investasi yang sesuai profil risiko kamu.
 
-Jika profil kamu adalah seorang yang ingin berinvestasi tapi risiko kecil, [investasi dengan patungan bisnis](landx.id) lewat  _[**equity crowdfunding**](https://landx.id/) _ bisa jadi pilihan kamu.Kamu bisa berinvestasi dengan konsep patungan bisnis melalui [**LandX**](https://landx.id/project/).
+Jika profil kamu adalah seorang yang ingin berinvestasi tapi risiko kecil, investasi dengan patungan bisnis lewat  _[**equity crowdfunding**](https://landx.id/) _ bisa jadi pilihan kamu.Kamu bisa berinvestasi dengan konsep patungan bisnis melalui [**LandX**](https://landx.id/project/).
 
 [**Di LandX**](https://landx.id/project/), sebagai investor kamu juga merupakan seorang pemilik dari bisnis yang kamu investasikan. LandX akan membantu kamu menemukan bisnis terbaik yang bisa memberikan kamu keuntungan jangka panjang yang menjanjikan.
 

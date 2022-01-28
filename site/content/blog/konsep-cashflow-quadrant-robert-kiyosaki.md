@@ -4,7 +4,7 @@ category = ["Investasi Menguntungkan", "memulai investasi menguntungkan", "inves
 date = 2021-09-15T02:22:51Z
 metaDescription = "Untuk kamu yang mau mencapai kebebasan finansial, yuk pahami konsep cashflow quadrant yang dijelaskan robert kiyosaki supaya lebih mudah mengatur keuangan"
 draft = false
-image = "https://images.unsplash.com/photo-1578854247171-25d70ca1b964?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxMTc3M3wwfDF8c2VhcmNofDV8fGNhc2hmbG93JTIwcXVhZHJhbnQlMjBraXlvc2FraXxlbnwwfHx8fDE2NDAyNTA4ODY&ixlib=rb-1.2.1&q=80&w=1080"
+image = "https://images.unsplash.com/photo-1434626881859-194d67b2b86f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxMTc3M3wwfDF8c2VhcmNofDV8fGNhc2glMjBmbG93fGVufDB8fHx8MTY0Mjc0Njc3NQ&ixlib=rb-1.2.1&q=80&w=1080"
 slug = "konsep-cashflow-quadrant-robert-kiyosaki"
 tag = ["Investasi Menguntungkan", "memulai investasi menguntungkan", "investasi bisnis", "bisnis investasi", "investasi"]
 title = "Memahami Konsep Cashflow Quadrant Berdasarkan Teori Robert Kiyosaki"
@@ -12,11 +12,9 @@ title = "Memahami Konsep Cashflow Quadrant Berdasarkan Teori Robert Kiyosaki"
 +++
 
 
-Cashflow quadrant adalah konsep untuk mengenal sumber pendapatan seseorang ke dalam 4 kategori yang dikemukan oleh seorang investor sekaligus penulis yaitu Robert T Kiyosaki.
+Cashflow quadrant adalah konsep untuk mengenal sumber pendapatan seseorang ke dalam 4 kategori yang dikemukakan oleh seorang investor sekaligus penulis yaitu Robert T Kiyosaki.
 
-Konsep _**cashflow quadrant**_ ini mengelompokkan sumber pendapatan seseorang ke dalam 4 kategori yaitu E, S, B, dan I.
-
-Konsep ini dikenalkan untuk mempermudah seseorang mencapai kebebasan finansial den
+Konsep _**cashflow quadrant**_ ini mengelompokkan sumber pendapatan seseorang ke dalam 4 kategori yaitu E, S, B, dan I. Konsep ini dikenalkan untuk mempermudah seseorang mencapai kebebasan finansial den
 
 Berdasarkan konsep ini, Robert T Kiyosaki menjelaskan bahwa setiap orang berkesempatan untuk mengubah arah hidupnya dan mewujudkan impianya dengan mengatur keuangan dengan baik.
 

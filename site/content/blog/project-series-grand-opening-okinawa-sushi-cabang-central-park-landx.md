@@ -28,7 +28,7 @@ Antusiasme dari para pemodal saat pembukaan saham membuat bisnis ini berhasil me
 
 Grand opening ini dihadiri manajemen Okinawa Sushi, Tim LandX serta para investor. [**Outlet Okinawa Sushi**](https://landx.id/project/#/okin) pun semakin menggurita di Indonesia. Ditambah 11 outlet yang telah tersebar di Jakarta, Bandung, Tangerang, Medan, Pekanbaru, Surabaya hingga Bali yang siap menyambut pelanggannya.
 
-[**Yuk simak keseruan grand opening Okinawa Sushi**](https://landx.id/blog/ghost/#/editor/post/https://landx.id/project/#/okin)
+## [Yuk simak keseruan grand opening Okinawa Sushi](https://landx.id/blog/ghost/#/editor/post/https://landx.id/project/#/okin)
 
 <iframe width="200" height="113" src="https://www.youtube.com/embed/RvUcG0RmjmM?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 

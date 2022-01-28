@@ -1,62 +1,61 @@
 +++
 author = "Abdul Wahhab"
-category = ["Equity Crowdfunding", "investasi online", "Investasi online terbaru", "Saham Online", "Properti online", "P2P Lending", "bisnis investasi"]
+category = ["Equity Crowdfunding", "investasi online", "Investasi online terbaru", "Saham Online", "Properti online", "P2P Lending", "bisnis investasi", "Instrumen Investasi", "bisnis investasi terpercaya", "bisnis makanan", "investasi keuangan", "Investasi Passive Income", "investasi pemula", "investasi saham", "peluang bisnis"]
 date = 2021-05-03T02:58:53Z
-metaDescription = "Investasi kini makin mudah dengan adanya investasi online. Jenis investasi online kini kian beragam menyesuaikan tujuan investasi dan profil risiko anda"
+metaDescription = "Investasi online terbaru 2022: \n1. Equity Crowdfunding 2. P2P Lending 3. Saham Online 4. Obligasi 5.ReksaDana 6. Emas Online 7. Properti Online 8. Deposito "
 draft = false
 image = "https://accountgram-production.sfo2.cdn.digitaloceanspaces.com/landx_ghost/2021/05/6.-Bisnis-investasi-online-terpercaya.jpg"
 slug = "rekomendasi-investasi-online"
-tag = ["Equity Crowdfunding", "investasi online", "Investasi online terbaru", "Saham Online", "Properti online", "P2P Lending", "bisnis investasi"]
+tag = ["Equity Crowdfunding", "investasi online", "Investasi online terbaru", "Saham Online", "Properti online", "P2P Lending", "bisnis investasi", "Instrumen Investasi", "bisnis investasi terpercaya", "bisnis makanan", "investasi keuangan", "Investasi Passive Income", "investasi pemula", "investasi saham", "peluang bisnis"]
 title = "8 Rekomendasi Investasi Online Terbaik dan Aman Bagi Pemula: Saham Hingga Equity Crowdfunding"
 
 +++
 
 
-Tahun 2021 Anda masih bingung memulai investasi? Anda harus tahu bahwa sekarang segara hal sudah serba online termasuk salah investasi.
+**Menyambut tahun 2022,** tentu saja banyak orang-orang mulai menyusun resolusi tahun baru mereka. Salah satu resolusi yang banyak disusun adalah **resolusi finansial** yang lebih baik yang salah satu caranya adalah dengan mulai berinvestasi dengan lebih baik.
 
-Perkembangan zaman membuat investasi menjadi lebih mudah dengan adanya sistem investasi online. Investasi berbasis online membuat investasi menjadi lebih mudah sehingga membuat investasi dapat diakses oleh masyarakat dalam cakupan yang luas.
+Oleh sebab itu, banyak orang mulai menyusun rencana investasi mereka di awal tahun 2022 ini dan mulai mencari instrumen investasi seperti apa yang bisa memberikan mereka keuntungan yang optimal.
 
-Instrumen yang tersedia dalam investasi online kini pun mulai beragam seperti [equity crowdfunding](https://landx.id/) yang merupakan investasi melalui [bisnis patungan berbasis online](https://landx.id/) yang bisa menjadi pilihan anda.
-
-[Investasi online](https://landx.id/) memberikan kesempatan kepada investor dalam cakupan yang luas sehingga berbagai kalangan bisa mudah membangun dan mengawasi portofolio investasi milik mereka. Investasi online ini juga membuat kalangan milenial semakin mudah mengakses berbagai instrumen investasi yang tersedia sehingga bisa membangun aset sejak usia muda.
-
-Akan tetapi, karena [pilihan investasi online](https://landx.id/) yang semakin beragam membuat investor pemula kesulitan memilih instrumen yang tepat untuk menjadi aset mereka.
-
-Karena itu berikut beberapa [rekomendasi investasi online](https://landx.id/) terbaik untuk pemula yang masih kebingungan memilih investasi online yang cocok. Berikut beberapa rekomendasi investasi online untuk anda:
+Karena itu, yuk simak berbagai instrumen investasi yang bisa kamu akses secara online untuk pilihan investasi jangka panjang kamu di tahun 2022.
 
 ---
 
 ## Table of Content
 
-* **[Equity Crowdfunding](#equity-crowdfunding)**
-* **[P2P Lending](#p2p-lending)**
-* ******[Saham Online](#saham-online)******
-* ******[Obligasi](#obligasi )******
-* **[Reksa Dana](#reksa-dana )**
-* ******[Emas Online](#emas-online)******
-* **[Properti Online](#properti-online) **
-* **[Deposito](#deposito) **
-* **[Kesimpulan](#kesimpulan)**
+* **[Pilihan Investasi Online Terbaik di Tahun 2022](https://landx.id/blog/rekomendasi-investasi-online/#pilihan-investasi-online-terbaik-di-tahun-2022)**
+
+1. **[Equity Crowdfunding](https://landx.id/blog/rekomendasi-investasi-online/#1-equity-crowdfunding)**
+2. **[P2P Lending](https://landx.id/blog/rekomendasi-investasi-online/#2-p2p-lending-p2pl)**
+3. ******[Saham Online](https://landx.id/blog/rekomendasi-investasi-online/#3-saham-online)******
+4. ******[Obligasi](https://landx.id/blog/rekomendasi-investasi-online/#4-obligasi)******
+5. **[Reksa Dana](https://landx.id/blog/rekomendasi-investasi-online/#5-reksa-dana)**
+6. ******[Emas Online](https://landx.id/blog/rekomendasi-investasi-online/#6-emas-online)******
+7. **[Properti Online](https://landx.id/blog/rekomendasi-investasi-online/#7-properti-online) **
+8. **[Deposito](https://landx.id/blog/rekomendasi-investasi-online/#8-deposito) **
+
+* **[Kesimpulan](https://landx.id/blog/rekomendasi-investasi-online/#kesimpulan)**
 
 ---
 
-## Rekomendasi Investasi Online Terbaik
+## Pilihan Investasi Online Terbaik di Tahun 2022
 
-Berikut beberapa rekomendasi investasi online untuk anda:
+Berikut beberapa rekomendasi investasi online untuk kamu yang ingin memulai invesasi menguntungkan di tahun 2022:
 
-### [Equity Crowdfunding](https://landx.id/)
+### 1. [Equity Crowdfunding](https://landx.id/)
 
-Salah satu jenis investasi online terbaru yang memanfaatkan sistem online untuk menghimpun dari investor dengan cakupan yang luas untuk mendanai sebuah proyek atau bisnis yang memiliki potensi keuntungan yang besar di masa mendatang.
+Salah satu jenis investasi online terbaru yang memanfaatkan sistem online untuk menghimpun dari investor dengan cakupan luas untuk mendanai sebuah proyek atau bisnis dengan potensi keuntungan menjanjikan bagi para investor di masa mendatang.
 
-Sistem investasi online ini membuat investor bisa melakukan investasi bisnis dengan [sistem patungan dengan modal kecil.](https://landx.id/)
+Sistem investasi online ini membuat investor bisa berinvestasi dengan [sistem patungan](https://landx.id/) bisnis untuk membangun bisnis yang bisa memberikan kamu keuntungan jangka panjang.
 
-Investasi online ini akan memberikan investor porsi kepemilikan dari bisnis yang akan diberikan modal sesuai dengan jumlah porsi modal yang mereka tanamkan. Selain kepemilikan modal investor juga akan diberikan dividen secara berkala sesuai periode yang sudah disepakati dan nilainya menyesuaikan porsi kepemilikan dan bagaimana kondisi bisnis dalam periode tersebut apakah menguntungkan atau tidak.
+Berinvestasi dengan sistem ini juga akan memberikan investor porsi kepemilikan dari bisnis sesuai dengan jumlah porsi penamanan modal. Sebagai return, investor akan mendapatkan dividen yang nilainya menyesuaikan porsi kepemilikan dan bagaimana performa bisnis dalam periode tersebut apakah menguntungkan atau tidak.
 
-Sistem ini sangat cocok untuk investor pemula yang ingin berinvestasi bisnis tapi masih memiliki keterbatasan modal. LandX merupakan salah satu equity crowdfunding yang telah berhasil menghimpun dana untuk berbagai jenis bisnis potensial yang memberikan keuntungan kepada para investor.
+Sistem ini sangat cocok untuk investor pemula  karena analisis bisnis jauh lebih mudah karena platform penyelenggara equity crowdfunding  akan membantu proses kurasi dari bisnis yang akan didanai.
 
-### P2P Lending
+**[LandX](https://landx.id/)** merupakan platfotm equity crowdfunding yang bisa jadi pilihan kamu yang ingin berinvestasi ke dalam berbagai bisnis potensial yang telah melewati kurasi sebelumnya. Yuk temukan bisnis terbaik untuk investasi kamu **[di sini](https://landx.id/project/)**
 
-Hampir sama seperti [equity crowdfunding](https://landx.id/), Peer to Peer Lending (P2PL) merupakan jenis investasi online yang hampir sama seperti equity crowdfunding yang mempertemukan pihak yang membutuhkan dana dengan investor dalam satu platform.
+### 2. P2P Lending (P2PL)
+
+Hampir sama seperti [equity crowdfunding](https://landx.id/), Peer to Peer Lending (P2PL) merupakan jenis instrumen yang konsepnya sering disangka sama seperti equity crowdfunding yang mempertemukan pihak dengan kebutuhan modal dengan investor dalam satu platform.
 
 **Artikel Terkait:**
 * **[Mau Mulai Investasi? Pahami Dulu Perbedaan Crowdfunding dan Peer to Peer Lending](https://landx.id/blog/mau-mulai-investasi-pahami-dulu-perbedaan-crowdfunding-dan-peer-to-peer-lending/)**
@@ -65,70 +64,90 @@ Hampir sama seperti [equity crowdfunding](https://landx.id/), Peer to Peer Lendi
 
 Dalam P2P pendanaan berbasis utang sehingga investor merupakan pihak yang akan meminjamkan dan mereka kepada pihak yang membutuhkan dan akan mendapatkan keuntungan dari bunga pinjaman yang didapatkan saat pengembalian dana dilakukan.
 
-Investasi online ini akan mempertemukan investor dengan peminjam dana dalam satu platform yang akan menjadi perantara proses pinjaman dana yang sedang dilakukan. Investor yang berinvestasi ke dalam bisnis lewat sistem ini tidak akan mendapatkan bagian kepemilikan atau saham sehingga keuntungan yang bisa didapatkan adalah bunga pinjaman yang akan diberikan di akhir periode pinjaman.
+Platform P2P Lending akan mempertemukan investor dengan peminjam dana dalam satu platform yang akan menjadi perantara proses peminjaman dana. Investor berinvestasi ke dalam bisnis lewat sistem ini tidak akan mendapatkan bagian kepemilikan atau saham sehingga keuntungan yang bisa didapatkan adalah bunga pinjaman yang diberikan di akhir periode pinjaman.
 
-### Saham Online
+### 3. Saham Online
 
 Investasi online ke dalam saham kini semakin mudah untuk dilakukan karena semakin berkembang platform investasi saham online berbasis web dan aplikasi yang mempermudah investor pemula untuk memulai investasi saham**.**
 
-Investasi saham merupakan investasi yang bisa memberikan anda keuntungan yang besar namun juga diikuti dengan risiko yang tinggi karena pasar saham yang fluktuatif. Karena itu sebelum memutuskan investasi saham online anda harus melakukan analisis mendalam untuk menentukan saham mana yang akan anda beli.
+Saham merupakan instrumen yang bisa memberikan anda keuntungan yang besar namun juga diikuti dengan risiko yang tinggi karena pasar saham yang fluktuatif. Karena itu sebelum memutuskan berinvestasi ke dalam saham  anda harus melakukan analisis mendalam untuk menentukan saham terbaik untuk investasi jangka panjang dan pendek anda.
 
-Pembukaan sistem saham online ini membuat transaksi menjadi lebih mudah sehingga cakupan investor menjadi lebih besar. Selain itu perkembangan ini juga ditujukan untuk mendorong masyarakat luas untuk lebih melek terhadap pentingnya investasi saham.
+Pembukaan sistem saham online ini membuat transaksi menjadi lebih mudah sehingga cakupan investor menjadi lebih besar. Selain itu perkembangan ini juga membuat instrumen saham dapat dijangkau oleh masyarakat dalam cakupan yang lebih lagi.
 
-### Obligasi
+### 4. Obligasi
 
 Obligasi atau surat utang merupakan salah satu produk pasar modal yang kini bisa di akses melalui online. Bagi pemula yang masih belum tau apa itu obligasi, obligasi merupakan surat utang yang dikeluarkan oleh sebuah instansi yang bisa dibeli oleh investor atau secara tidak langsung memberikan pinjaman kepada instansi tersebut.
 
-Investasi ini kini bisa dilakukan secara online melalui berbagai platform yang dikeluarkan oleh berbagai platform investasi online sehingga mudah di akses oleh para calon investor.
+Kini, obligasi semakin mudah untuk diakses karena sudah banyak platform online untuk investor yang ingin melakukan jual-beli instrumen satu ini.
 
-Salah satu produk obligasi yang lumayan populer dengan risiko yang minim adalah Obligasi Negara Ritel (ORI) yang dikeluarkan oleh negara untuk pendanaan berbagai kebutuhan. Obligasi yang dikeluarkan negara ini dinilai memiliki risiko gagal bayar yang sangat rendah sehingga memperkecil risiko kerugian.
+Salah satu produk obligasi yang lumayan populer dengan risiko yang minim adalah Obligasi Negara Ritel (ORI) yang dikeluarkan oleh negara untuk pendanaan berbagai kebutuhan. Obligasi yang dikeluarkan negara ini dinilai memiliki risiko gagal bayar sangat rendah sehingga memperkecil risiko kerugian.
 
-### Reksa Dana
+### 5. Reksa Dana
 
-Reksa Dana merupakan instrumen investasi yang sangat cocok untuk pemula terutama yang masih kesulitan mengatur investasi karena keterbatasan waktu dan pengetahuan. Investasi reksa dana sangat cocok untuk pemula karena dana yang anda investasikan akan diatur dikelola oleh manajer investasi yang sudah memiliki izin untuk mengelola dana investasi yang sudah dikumpulkan dari publik. Dana akan dimasukkan ke dalam berbagai instrumen pasar modal yang dinilai akan memberikan keuntungan kepada investor.
+**Reksa Dana adalah** jenis yang sangat cocok untuk pemula dengan kemampuan dan pengetahuan terbatas terkait instrumen-instumen investasi.
 
-[Investasi online](https://landx.id/) ini sangat cocok untuk pemula karena selain dikelola pihak profesional, modal yang dibutuhkan pun sangat kecil dengan minimum investasi Rp 10.000 yang membuat reksa dana bisa dibeli oleh masyarakat luas.
+Reksa dana sangat cocok untuk pemula karena dana anda akan diatur dan dikelola oleh manajer investasi yang sudah memiliki izin untuk mengelola dana yang sudah dikumpulkan dari publik. Dana akan dimasukkan ke dalam berbagai instrumen pasar modal yang dinilai akan memberikan keuntungan kepada investor.
 
-Akses membeli reksa dana kini kian mudah karena sudah banyak agen reksa dana yang bekerjasama dengan berbagai platform online seperti _e-commerce_ yang memudahkan transaksi online yang dilakukan.  Reksa dana memiliki beberapa jenis yang bisa anda pilih menyesuaikan profil risiko anda seperti reksa dana pasar uang, saham, atau reksa dana campuran.
+Sistem berinvestasi secara [online](https://landx.id/) ini sangat cocok untuk pemula karena selain dikelola pihak profesional, modal yang dibutuhkan pun sangat kecil dengan minimum Rp 10.000 yang membuat reksa dana bisa dibeli oleh masyarakat luas.
+
+Akses membeli reksa dana kini kian mudah karena sudah banyak agen reksa dana yang bekerjasama dengan berbagai platform online seperti _e-commerce untuk_ memudahkan transaksn.  Reksa dana memiliki beberapa jenis yang bisa anda pilih menyesuaikan profil risiko anda seperti reksa dana pasar uang, saham, atau reksa dana campuran.
 
 **Artikel Terkait:**
 * **[Mengenal Investasi Mutual Fund: Definisi, Cara Kerja, dan Jenis Mutual Fund](https://landx.id/blog/mengenal-investasi-mutual-fund-definisi-cara-kerja-dan-jenis-mutual-fund/)**
 
 * **[Hedge Fund: Pengertian, Tujuan, Karakteristik, dan Memulai Hedge Fund](https://landx.id/blog/hedge-fund-pengertian-tujuan-karakteristik-dan-memulai-hedge-fund/)**
 
-### Emas Online
+### 6. Emas Online
 
 Emas merupakan investasi yang sudah ada dari zaman dahulu. Berinvestasi ke dalam emas sebenarnya bisa dibilang lumayan berisiko karena selain risiko karena Anda harus menyiapkan penyimpanan yang aman dari berbagai ancaman.
 
-Untuk menyelesaikan masalah ini, kini muncul sistem investasi emas online yang membuat proses jual beli hingga penyimpanan emas dapat dilakukan secara online yang membuat transaksi emas menjadi lebih mudah. Selain itu, tersedianya sistem investasi online ini membuat investasi emas menjadi lebih liquid lagi karena proses jual beli menjadi jauh lebih cepat dan mengikuti perkembangan harga terbaru.
+Untuk menyelesaikan masalah ini, kini muncul sistem investasi emas online sehingga membuat proses jual beli hingga penyimpanan emas dapat dilakukan secara online untuk membuat transaksi emas menjadi lebih mudah.
 
-Sistem emas online ini bisa menjadi solusi untuk anda yang masih ragu berinvestasi ke instrumen seperti saham atau reksa dana yang dirasa nilainya naik turun sehingga memilih emas yang dinilai lebih stabil.
+Selain itu, tersedianya sistem investasi online ini membuat investasi emas menjadi lebih liquid lagi karena proses jual beli menjadi jauh lebih cepat dan mengikuti perkembangan harga terbaru.
 
-### Properti Online
+Sistem emas online ini bisa menjadi solusi untuk anda yang masih ragu berinvestasi ke instrumen seperti saham atau reksa dana karena dirasa nilainya naik turun sehingga memilih emas sebagai instrumen untuk berinvestasi.
 
-Selain emas, investasi yang semakin mudah dilakukan dengan sistem online adalah investasi properti. Investasi properti online yang mudah dilakukan adalah investasi dengan crowdfunding properti di mana pembelian properti komersial dilakukan dengan sistem patungan. Pembelian properti patungan membuat investasi properti bisa dilakukan dengan modal kecil karena dibeli oleh beberapa investor secara patungan.
+### 7. Properti Online
 
-Investasi online properti dengan crowdfunding ini akan memberikan anda keuntungan berupa dividen selama properti yang anda miliki bisa menghasilkan profit yang akan dibagikan kepada semua investor yang terlibat patungan pembelian properti.
+Selain emas, akses properti juga semakin mudah dilakukan dengan  adanya sistem online. Investasi properti online yang mudah dilakukan adalah investasi dengan crowdfunding properti di mana pembelian properti komersial dilakukan dengan sistem patungan. Pembelian properti patungan membuat investasi properti bisa dilakukan dengan modal kecil karena dibeli oleh beberapa investor secara patungan.
 
-### Deposito
+Investasi online properti dengan crowdfunding ini akan memberikan anda keuntungan berupa dividen selama properti menghasilkan keuntungan dan nanti akan dibagikan kepada semua investor yang terlibat patungan pembelian properti.
 
-Deposito atau tabungan berjangka merupakan produk investasi yang biasanya ditawarkan oleh bank yang akan memberikan keuntungan berupa bunga dalam periode penyimpanan tertentu. Investasi ini memiliki risiko kerugian yang sangat kecil tapi dengan return yang terbilang kecil juga.
+### 8. Deposito
 
-Tabungan deposito membutuhkan komitmen jangka panjang karena pihak yang mengambil uang sebelum jangka waktu selesai biasanya akan mendapatkan denda yang disesuaikan dengan perjanjian yang dilakukan. Tersedianya sistem mobile banking membuat nasabah bank dapat membuka deposito secara online sehingga proses investasi dapat dilakukan dengan lebih mudah lagi.
+Deposito atau tabungan berjangka merupakan produk investasi yang biasanya ditawarkan oleh bank yang akan memberikan keuntungan berupa bunga dalam periode penyimpanan tertentu. Investasi ini memiliki risiko kerugian sangat kecil tapi dengan return terbilang kecil juga.
+
+Tabungan deposito membutuhkan komitmen jangka panjang karena mengambil uang sebelum jangka waktu selesai biasanya akan mendapatkan denda yang disesuaikan dengan perjanjian awal. Tersedianya sistem mobile banking membuat nasabah bank dapat membuka deposito secara online sehingga proses investasi dapat dilakukan dengan lebih mudah lagi.
 
 ## Kesimpulan
 
-Semakin berkembangnya teknologi membuat investasi menjadi lebih mudah lagi karena adanya sistem investasi online yang aman dan terpercaya. Ketersediaan investasi online harusnya menjadikan masyarakat semakin melek tentang pentingnya investasi untuk membangun rencana keuangan jangka panjang anda.
+Semakin berkembangnya teknologi membuat investasi menjadi lebih mudah lagi karena adanya sistem investasi online di tengah kita. Ketersediaan investasi online harusnya menjadikan masyarakat semakin melek tentang pentingnya investasi untuk membangun rencana keuangan jangka panjang anda.
 
-Walaupun akses investasi semakin mudah, anda tetap harus melakukan analisis sendiri untuk menentukan instrumen mana yang sesuai dengan profil risiko dan modal yang akan anda masukkan ke dalam berbagai instrumen yang tersedia.
+Walaupun akses investasi semakin mudah, anda tetap harus melakukan analisis sendiri untuk menentukan instrumen mana yang sesuai dengan profil risiko dan bisa menghitung alokasi dana untuk diinvestasikan secara rutin.
 
-Untuk memperkecil risiko, anda perlu melakukan diversifikasi sehingga anda bisa terhindar dari kerugian besar yang disebabkan oleh satu instrumen dan anda tidak memiliki instrumen lain yang bisa anda andalkan. Karena banyak hal tidak terduga yang mungkin saja terjadi dan membuat investasi anda mengalami kerugian.
+Untuk memperkecil risiko, anda perlu melakukan diversifikasi sehingga anda bisa terhindar dari kerugian besar  karena satu instrumen tidak berjalan sesuai rencana dan anda tidak memiliki instrumen lain untuk diandalkan. Karena banyak hal tidak terduga yang mungkin saja terjadi dan membuat investasi anda mengalami kerugian.
 
-**[Investasi di LandX: Investasi Online Equity Crowdfunding dengan Modal Kecil yang Cocok untuk Pemula](https://landx.id/)**
+Karena itu, kamu butuh diversifikasi sebagai mitigasi risiko apabila sesuatu tidak terduga terjadi di masa mendatang.
+
+Karena itu....
+
+## Yuk [Investasi  Online Modal Kecil Bareng LandX](https://landx.id/)
+
+[![Bagaimana? Kamu lebih suka bisnis dengan buyback guarantee atau yang bisa disimpan dalam jangka panjang? Apapun pilihan kamu.. Yuk Patungan  dengan Keuntungan Menjanjikan Bareng LandX](https://accountgram-production.sfo2.cdn.digitaloceanspaces.com/landx_ghost/2021/10/Equity-Crowdfunding-di-Indonesia-1--3.png)](http://landx.id/project/)
 
 ---
 
-> [**Butuh Informasi Seputar Investasi Lainnya? Yuk Follow Kami di Instagram @landx.id**](https://www.instagram.com/landx.id/?utm_medium=copy_link)
+**[Mau Informasi Menarik Lain Seputar Investasi? Yuk Kunjungi Instagram Kami di @landx.id](https://www.instagram.com/landx.id/?utm_medium=copy_link)**
 
-#LandX.id	#landx.id	#InvestasiBisnis	#EquityCrowdfunding	#InvestasiMenguntungkan	#Urundana	#BisnisPatungan	#InvestasiUsaha
+---
+
+**Baca Juga:**
+
+* [Gaji UMR Mau Investasi? Yuk Simak Tips dan Caranya Investasi dengan Gaji UMR](https://landx.id/blog/cara-investasi-dengan-gaji-umr/)
+* [Investasi dengan Passive Income untuk Masa Depan](https://landx.id/blog/investasi-dengan-passive-income-untuk-masa-depan/)
+* [Investasi Selalu Rugi? Coba Lakukan Diversifikasi. Ini 4 Cara Melakukannya!](https://landx.id/blog/arti-penting-diversifikasi-dalam-investasi/)
+
+---
+
+**#YukPatunganBisnis**
 

@@ -22,6 +22,17 @@ Lalu, apa sebenarnya blockchain? Kenapa blockchain saat ini penting terutama bag
 
 ---
 
+## Table of Content
+
+* **[Apa Itu Blockchain?](https://landx.id/blog/apa-itu-blockchain-ini-pengertian-kelebihan-dan-cara-kerjanya/#apa-itu-blockchain)**
+* **[Karakteristik Blockchain](https://landx.id/blog/apa-itu-blockchain-ini-pengertian-kelebihan-dan-cara-kerjanya/#karakteristik-blockchain)**
+* **[Cara Kerja Blockchain](https://landx.id/blog/apa-itu-blockchain-ini-pengertian-kelebihan-dan-cara-kerjanya/#cara-kerja-blockchain)**
+* **[Perbedaan Blockchain dan Cryptocurrency](https://landx.id/blog/apa-itu-blockchain-ini-pengertian-kelebihan-dan-cara-kerjanya/#perbedaan-blockchain-dan-cryptocurrency)**
+* **[Kelebihan Blockchain](https://landx.id/blog/apa-itu-blockchain-ini-pengertian-kelebihan-dan-cara-kerjanya/#kelebihan-blockchain)**
+* **[Blockchain untuk Sistem Investasi](https://landx.id/blog/apa-itu-blockchain-ini-pengertian-kelebihan-dan-cara-kerjanya/#blockchain-untuk-sistem-investasi)**
+
+---
+
 ## Apa Itu Blockchain?
 
 Diperkenalkan pertama kali oleh **Satoshi Nakamoto** pada tahun 2008, Blockchain sederhananya adalah sebuah buku besar digital yang mencatat transaksi kripto. Dilansir dari [investopedia](https://www.investopedia.com/terms/b/blockchain.asp), meski terkesan rumit, blockchain sejatinya hanyalah sebuah database.

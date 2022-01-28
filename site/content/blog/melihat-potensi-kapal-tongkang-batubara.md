@@ -76,7 +76,9 @@ Kapal tunda (_tugboat_) pada standartnya harus memiliki dua mesin penggerak utam
 
 ### 2. Efisiensi Waktu
 
-Walaupun dalam satu kapal self propelled barge sudah termasuk mesin, namun ukuran kapal akan menjadi lebih dari 1500 GT (_gross ton_) yang artinya dokumen yang harus diproses menjadi lebih banyak. Karena itu pengusaha lebih memiliki kapal tongkang dan _tugboat_, karena tugboat memiliki ukuran yang pada umumnya kecil. Sehingga dokumen yang perlu diproses pun lebih sedikit dan alur operasional berjalan lebih cepat.
+Walaupun dalam satu kapal self propelled barge sudah termasuk mesin, namun ukuran kapal akan menjadi lebih dari 1500 GT (_gross ton_) yang artinya dokumen yang harus diproses menjadi lebih banyak.
+
+Karena itu pengusaha lebih memiliki kapal tongkang dan _tugboat_, karena tugboat memiliki ukuran yang pada umumnya kecil. Sehingga dokumen yang perlu diproses pun lebih sedikit dan alur operasional berjalan lebih cepat.
 
 ### 3. Distribusi Lancar Hingga Pelosok Negeri
 
@@ -91,13 +93,15 @@ Kapal tongkang mampu memuat 2000 hingga 8000 MT (_metric tons_) berdasarkan ukur
 
 ## Potensi Bisnis Kapal Tongkang
 
-Pandemi kemarin, operasional kapal tongkang tidak mengalami kemunduran signifikan. Dikabarkan proses produksi kapal tongkang malah tetap berjalan lancar karena permintaan walaupun biayanya cenderung naik. Dapat disimpulkan kapal tongkang jumlahnya masih minim sehingga belum cukup memenuhi kebutuhan operasional para pengusaha, sepert**i pengusaha batubara.**
+Pandemi kemarin, operasional kapal tongkang tidak mengalami kemunduran signifikan. Dikabarkan proses produksi kapal tongkang malah tetap berjalan lancar karena permintaan walaupun biayanya cenderung naik.
+
+Dapat disimpulkan kapal tongkang jumlahnya masih minim sehingga belum cukup memenuhi kebutuhan operasional para pengusaha, seperti **pengusaha batubara.**
 
 Kebutuhan transportasi untuk proses distribusi material seperti batubara umumnya menggunakan kapal tongkang. Dilansir [ekonomi bisnis](https://ekonomi.bisnis.com/read/20211129/44/1471483/minimnya-kapal-tongkang-jadi-kendala-genjot-ekspor-batu-bara), kapal tongkang batubara saat ini mengalami kenaikan permintaan namun jumlah kapal masih minim. Beberapa konsep kenapa bisnis kapal tongkang potensial:
 
 ### 1. Tetap profit kala pandemi
 
-Laporan [Gugus Tugas Covid-19 Kepulauan Riau](https://corona.kepriprov.go.id/read/Pengusaha%3A+Pandemi+COVID-19+Tidak+Pengaruhi+Perdagangan+Kapal+Tongkang.phtml) yang terkenal dengan kawasan perdagangan bebas dan pelabuhan bebas, pandemi tidak berpengaruh pada perdagangan kapal tongkang. Kapal tongkang batubara adalah salah satu permintaan dengan kebutuhan tertinggi.
+Laporan Gugus Tugas Covid-19 Kepulauan Riau yang terkenal dengan kawasan perdagangan bebas dan pelabuhan bebas, pandemi tidak berpengaruh pada perdagangan kapal tongkang. Kapal tongkang batubara adalah salah satu permintaan dengan kebutuhan tertinggi.
 
 ### 2. Permintaan lebih besar dari ketersediaan
 
@@ -105,7 +109,7 @@ Minimnya ketersediaan kapal tongkang membuat harga naik namun tidak membuat suru
 
 ### 3. Potensi nilai jual tinggi
 
-Harga sebuah kapal tongkang bisa bernilai puluhan miliar, harga ini tetap dapat dijual kembali dengan nilai tinggi sehingga merupakan bentuk [investasi](landx.id) yang baik. Berbisnis sekaligus sebagai [**instrumen investasi.**](https://landx.id/)
+Harga sebuah kapal tongkang bisa bernilai puluhan miliar, harga ini tetap dapat dijual kembali dengan nilai tinggi sehingga merupakan bentuk investasi yang baik. Berbisnis sekaligus sebagai [**instrumen investasi.**](https://landx.id/)
 
 ### 4. Peningkatan hasil produksi bumi
 
@@ -119,9 +123,9 @@ Permintaan yang tinggi serta tahan situasi pandemi tentu membuat bisnis kapal to
 
 [**SekarangBisa**](https://landx.id/project/) jadi pemilik kapal dengan cara [**investasi patungan bisnis**](https://landx.id/) di [LandX](https://landx.id/), **[platform _equity crowdfunding_](https://landx.id/project/)** di Indonesia. Kapal-kapal ini akan segera listing di aplikasi LandX dan mengundang kamu untuk bisa jadi mengawasi pelayaran kapal ini. Kapan? Tunggu listingnya  segera di aplikasi LandX. Penawaran terbatas!
 
-## [Yuk jadi owner bisnis kapal tongkang #SekarangBisa dengan Rp 1 juta saja!](https://landx.id/landx-cuan/)
+## [Yuk jadi owner bisnis kapal tongkang #SekarangBisa dengan Rp 1 juta saja!](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)
 
-[![Bagaimana? Kamu lebih suka bisnis dengan buyback guarantee atau yang bisa disimpan dalam jangka panjang? Apapun pilihan kamu.. Yuk Patungan  dengan Keuntungan Menjanjikan Bareng LandX](https://accountgram-production.sfo2.cdn.digitaloceanspaces.com/landx_ghost/2021/10/Equity-Crowdfunding-di-Indonesia-1--3.png)](http://landx.id/project/)
+[![Bagaimana? Kamu lebih suka bisnis dengan buyback guarantee atau yang bisa disimpan dalam jangka panjang? Apapun pilihan kamu.. Yuk Patungan  dengan Keuntungan Menjanjikan Bareng LandX](https://accountgram-production.sfo2.cdn.digitaloceanspaces.com/landx_ghost/2021/10/Equity-Crowdfunding-di-Indonesia-1--3.png)](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)
 
 [**Jangan Lupa Follow Instagram @landx.id Untuk Berbagai Tips Investasi Menguntungkan Lainnya**](https://www.instagram.com/landx.id/?utm_medium=copy_link)
 
@@ -135,5 +139,5 @@ Permintaan yang tinggi serta tahan situasi pandemi tentu membuat bisnis kapal to
 
 ---
 
-**#YukPatunganBisnis    #LandX.id    #landx         #landx.id    #InvestasiBisnis  #SecuritiesCrowdfunding   #EquityCrowdfunding    #InvestasiMenguntungkan     #Urundana    #BisnisPatungan    #InvestasiUsaha**
+**#YukPatunganBisnis**
 

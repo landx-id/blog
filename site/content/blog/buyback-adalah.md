@@ -4,7 +4,7 @@ category = ["tips investasi", "bisnis investasi online", "Equity Crowdfunding", 
 date = 2021-10-05T12:52:42Z
 metaDescription = "buyback adalah kebijakan pembelian kembali suatu saham yang oleh perusahaan yang menerbitkan saham tersebut|Buyback dalam equity crowdfunding"
 draft = false
-image = "https://images.unsplash.com/photo-1519085360753-af0119f7cbe7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxMTc3M3wwfDF8c2VhcmNofDV8fGludmVzdG9yfGVufDB8fHx8MTY0MDE1MDA1Mg&ixlib=rb-1.2.1&q=80&w=1080"
+image = "https://images.unsplash.com/photo-1565665681743-6ff01c5181e3?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxMTc3M3wwfDF8c2VhcmNofDI5fHxoYW5kc2hha2V8ZW58MHx8fHwxNjQxNTMyNDMy&ixlib=rb-1.2.1&q=80&w=1080"
 slug = "buyback-adalah"
 tag = ["tips investasi", "bisnis investasi online", "Equity Crowdfunding", "Situs Crowdfunding", "crowdfunding indonesia", "Investasi modal kecil", "Cara Investasi Saham", "investasi bisnis"]
 title = "Memahami Konsep Buyback yang Sangat Penting Dipahami Investor"
@@ -61,16 +61,20 @@ Sama seperti investasi saham di pasar modal, _**[buyback guarantee](https://land
 
 **Apapun pilihan kamu..**
 
-**[Yuk Patungan  dengan Keuntungan Menjanjikan Bareng LandX](https://landx.id/project/)**
+## [Yuk Patungan  dengan Keuntungan Menjanjikan Bareng LandX](https://landx.id/project/)
 
-[![Bagaimana? Kamu lebih suka bisnis dengan buyback guarantee atau yang bisa disimpan dalam jangka panjang? Apapun pilihan kamu.. Yuk Patungan  dengan Keuntungan Menjanjikan Bareng LandX](https://accountgram-production.sfo2.cdn.digitaloceanspaces.com/landx_ghost/2021/10/Equity-Crowdfunding-di-Indonesia-1--3.png)](http://landx.id/)
+[![Bagaimana? Kamu lebih suka bisnis dengan buyback guarantee atau yang bisa disimpan dalam jangka panjang? Apapun pilihan kamu.. Yuk Patungan  dengan Keuntungan Menjanjikan Bareng LandX](https://accountgram-production.sfo2.cdn.digitaloceanspaces.com/landx_ghost/2021/10/Equity-Crowdfunding-di-Indonesia-1--3.png)](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)
 
 **[Mau Berbagai info Terbaru Terkait Investasi? Yuk Follow @landx.id di Instagram](https://www.instagram.com/landx.id/?utm_medium=copy_link)**
 
+---
+
 **Baca Juga:**
 
-* ****[**Mau Jadi Investor? Simak Cara Mudah Menjadi Investor Hanya dengan Modal Kecil**](https://landx.id/blog/cara-menjadi-investor/)****
-* ****[**Tips Penting dalam Menyusun Rencana Investasi Jangka Panjang Terbaik**](https://landx.id/blog/investasi-jangka-panjang-adalah/)****
+* [Mau Jadi Investor? Simak Cara Mudah Menjadi Investor Hanya dengan Modal Kecil](https://landx.id/blog/cara-menjadi-investor/)
+* [Tips Penting dalam Menyusun Rencana Investasi Jangka Panjang Terbaik](https://landx.id/blog/investasi-jangka-panjang-adalah/)
 
-**#YukPatunganBisnis    #LandX.id    #landx         #landx.id    #InvestasiBisnis  #SecuritiesCrowdfunding   #EquityCrowdfunding    #InvestasiMenguntungkan     #Urundana    #BisnisPatungan    #InvestasiUsaha**
+---
+
+**#YukPatunganBisnis**
 

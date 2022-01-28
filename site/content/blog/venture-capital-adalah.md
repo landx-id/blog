@@ -1,26 +1,26 @@
 +++
 author = "Abdul Wahhab"
 category = ["venture capital", "hedge fund", "investasi bisnis"]
-date = 2021-06-14T04:53:09Z
-metaDescription = "Venture capital adalah lembaga keuangan yang mengelola pendanaan untuk disalurkan kepada berbagai perusahaan dengan potensi keuntungan jangka panjang"
+date = 2022-01-27T04:53:00Z
+metaDescription = "Venture capital adalah lembaga pendanaan yang melakukan investasi kepada bisnis. Venture capital artinya memberikan bantuan dana kepada startup dan bisnis"
 draft = false
+image = "https://images.unsplash.com/photo-1593510987459-9a1489817a3b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxMTc3M3wwfDF8c2VhcmNofDF8fHZlbnR1cmV8ZW58MHx8fHwxNjQzMzA2NTE0&ixlib=rb-1.2.1&q=80&w=1080"
 slug = "venture-capital-adalah"
 tag = ["venture capital", "hedge fund", "investasi bisnis"]
-title = "Venture Capital: Mengenal Peran Venture Capital dalam Bisnis"
+title = "Venture Capital: Memahami Arti dan Manfaat Venture Capital"
 
 +++
 
 
-Salah satu jenis perusahaan yang semakin berkembang dan banyak anda temui belakangan ini adalah perusahaan jenis _startup_. Berbicara startup tentu saja erat kaitanya dengan investor dan pendanaan awal sehingga bisnis dapat berkembangan dengan cepat.
+Pada era ini, bisnis jenis startup semakin banyak bermunculan dengan berbagai inovasi baru untuk mempermudah kehidupan masyarakat. Akan tetapi tahukah kamu bahwa ada **venture capital dan venture capitalist** yang memberikan pendanaan bagi bisnis agar dapat berkembang dengan pesat?
 
-Agar mereka dapat berkembang secara lebih pesat, salah satu sumber pendanaan yang biasa digunakan _startup_ adalah _venture capital_ yang memiliki peran penting dalam perkembangan suatu bisnis. Agar lebih jelasnya, mari kita bahas apa itu venture capital dan perannya dalam perkembangan bisnis.
+Agar mereka dapat berkembang secara lebih pesat, salah satu sumber pendanaan yang biasa digunakan _startup_ adalah _venture capital._ Karena itu, venture capital adalah pihak yang memiliki peran penting dalam perkembangan bisnis-binsis di suatu negara.
 
-## Table of Content
+Karena itu, baru-baru ini pemerintah baru saja merilis venture capital Indonesia yang diberi nama  **[Merah Putih Fund](https://landx.id/blog/memahami-seluk-beluk-merah-putih-fund/) ** yang ditujukan untuk mempercepat pertumbuhan berbagaimi inovasi bisnis di Indonesia.
 
-* **[Apa Itu Venture Capital?](#apa-itu-venture-capital)**
-* **[Apa Itu Venture Capilist?](#apa-itu-venture-capitalist) **
-* [**Bagaimana Cara Kerja** _**Venture Capital**_**?**](#bagaimana-cara-kerja-venture-capital )
-* [**Berinvestasi Melalui** _**Venture Capital**_](#berinvestasi-melalui-venture-capital)
+Karena itu, yuk kita bahas lebih lanjut apa yang dimaksud dengan venture capital dan manfaat venture capital bagi perekonomian suatu negara.
+
+---
 
 ## Apa Itu Venture Capital?
 
@@ -38,9 +38,11 @@ Akan tetapi, venture capital tentu saja tidak mau memberikan pendanaan kepada se
 
 ## Apa Itu Venture Capitalist?
 
-Venture capitalist atau sering disebut sebagai pemodal vantura adalah pihak bisa individu atau perusahaan yang menjadi penyedia dana atau investor yang akan melakukan analisis untuk menemukan bisnis dengan potensi keuntungan jangka panjang terbaik.
+Venture capitalist atau sering disebut sebagai pemodal ventura adalah pihak bisa individu atau perusahaan yang menjadi penyedia dana atau investor yang akan melakukan analisis untuk menemukan bisnis dengan potensi keuntungan jangka panjang terbaik.
 
 Dengan kata lain, venture capitalist adalah pihak yang melakukan pengelolaan dana untuk disalurkan kepada berbagai bisnis agar mereka bisa berkembang lebih jauh dan menghasilkan keuntungan yang lebih besar lagi.
+
+Di Indonesia sendiri terdapat beberapa venture capitalist dari beberapa venture capital lokal yang terus aktif melakukan penyaringan dan investasi ke berbagai bisnis potensial.
 
 ## Bagaimana Cara Kerja Venture Capital?
 
@@ -49,6 +51,16 @@ Venture capital bekerja dengan melibatkan investor dan venture capitalist yang b
 Setelah menghimpun dana dari para investor, _venture capitalist_ akan menyalurkan dana investor ke dalam berbagai perusahaan dan startup yang telah dinilai memiliki potensi keuntungan dalam jangka panjang.
 
 Investor akan mendapatkan keuntungan pada saat mereka _exit_ dari suatu perusahaan yang sedang mereka danai, hal ini terjadi saat perusahaan melakukan penawaran publik, dijual, atau diakuisisi. Dalam sistem ini biasanya investor akan mendapatkan keuntungan sebanyak 80% dari total return dan ditambah _management fee_.
+
+## Manfaat Venture Capital Indonesia
+
+Pada dasarnya, venture capital bermanfaat untuk memberi membantu pengembangan bisnis-bisnis potensial yang pengembangannya seringkali terhambat karena kekurangan dana.
+
+Karena itu, adanya venture capital mendorong munculnya banyak bisnis-bisnis potensial baru dengan berbagai inovasi yang mereka hadirkan ke tengah masyarakat. Hal ini tentu saja secara tidak mendorong pergerakan ekonomi suatu negara.
+
+Di sisi lain, adanya bantuan pendanaan dari venture capital ini membuat perusahaan menjadi lebih likuid karena peningkatan jumlah modal yang diberikan tanpa adanya angsuran bunga selama periode peminjaman tersebut.
+
+Hal ini tentu saja membuat bisnis berjalan dengan lebih optimal dan tumbuh menjadi sesuatu yang memiliki cakupan lebih luas lagi.
 
 ## Berinvestasi Melalui Venture Capital
 

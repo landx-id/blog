@@ -12,39 +12,39 @@ title = "Ingin Terhindar Dari FOMO saat Berinvestasi? 5 Hal Ini Wajib Kamu Lakuk
 +++
 
 
-Untuk menjadi investor sukses, kamu perlu membangun mental yang kuat dan stabil agar kamu terhindar dari berbagai perilaku dapat merugikan kamu dalam investasi.
+Salah satu yang harus kamu hindari adalah **_FOMO atau Fear of Missing Out_** yang sering membuat keputusan investasi seseorang menjadi tidak rasional.
 
-Salah satu yang harus kamu hindari adalah FOMO atau Fear of Missing Out yang sering membuat keputusan investasi seseorang menjadi tidak rasional.
+**FOMO adalah** salah satu fenomena yang sering terjadi belakangan ini terutama di kalangan anak muda yang tidak mau ketinggalan berbagai tren sehingga mereka mengambil berbagai keputusan yang tidak rasional dalam proses mereka
 
-FOMO (Fear of Missing Out) adalah salah satu fenomena yang sering terjadi belakangan ini terutama di kalangan anak muda yang tidak mau ketinggalan berbagai tren yang ada di sekitar mereka.
+**FOMO** ini berpengaruh cukup besar dalam kehidupan sehari-hari terutama terhadap kondisi finansial karena FOMO ini mempengaruhi berbagai keputusan keuangan yang diambil seseorang.
 
-Rasa FOMO ini berpengaruh cukup besar dalam kehidupan sehari-hari terutama terhadap kondisi finansial karena FOMO ini mempengaruhi berbagai keputusan keuangan yang diambil seseorang.
+**FOMO artinya** kita merasa takut berlebihan apabila tidak mengikuti arus atau tren terbaru seperti merasa takut saat tidak membeli handphone model terbaru sehingga memaksakan diri untuk membeli hal tersebut yang mempengaruhi kondisi keuangan jangka panjang mereka.
 
-Supaya kamu tidak mengalami hal seperti ini, mari kita bahas lebih lanjut apa itu FOMO dana bagaimana cara mengatasi FOMO dalam kehidupan sehari-hari.
+Belakangan, istilah FOMO dalam saham juga menjadi sesuatu yang sering terjadi terutama bagi investor pemula yang membeli suatu suatu saham hanya karena mereka takut ketinggalan.
 
-Simak artikelnya dibawah ini sampai tuntas, ya!
+Hal ini tentu saja berdampak buruk terhadap keputusan keuangan kita sehingga FOMO adalah sesuatu yang harus kita hindari berinvestasi saham ataupun instrumen investasi lainnya.
 
----
+Supaya kamu tidak mengalami hal seperti ini, mari kita bahas lebih lanjut apa itu _fear of missing out_ dan bagaimana cara mengatasi FOMO dalam kehidupan sehari-hari.
 
-## Table of Content
-
-* **[Apa Itu FOMO](https://landx.id/blog/fomo-dalam-kehidupan-dan-investasi/#apa-itu-fomo)?**
-* **[FOMO dalam Investasi](https://landx.id/blog/fomo-dalam-kehidupan-dan-investasi/#fomo-dalam-investasi)**
-* **[Cara Menghindari FOMO](https://landx.id/blog/fomo-dalam-kehidupan-dan-investasi/#cara-menghindari-fomo-dalam-investasi) dalam Investasi**[1. Lakukan Risetmu Sendiri](#1-lakukan-risetmu-sendiri)[2. Buat Rencana Investasi](#2-buat-rencana-investasi) [3. Hati-hati dengan Bias Perilaku](#3-hati-hati-dengan-bias-perilaku)
+Simak artikelnya di bawah ini sampai tuntas, ya!
 
 ---
 
-## Apa Itu FOMO?
+## Apa Itu FOMO atau Fear of Missing Out?
 
-FOMO atau _Fear of Missing Out_ adalah keadaan dimana seseorang merasa takut akan ketinggalan sesuatu. Di zaman modern ini, biasanya 'sesuatu' tersebut mengacu kepada tren yang sedang terjadi di media sosial.
+Pengertian FOMO simpelnya adalah rasa takut ketinggalan yang berlebihan yang membuat seseorang membuat keputusan yang tidak rasional.
+
+Rasa _missing out_ sebenarnya cukup umum dirasakan seseorang, namun hal ini tentu saja akan berdampak buruk apabila kita perasaan mulai mempengaruhi berbagai keputusan kita dalam kehidupan sehari-hari.
+
+FOMO atau _Fear of Missing Out_ adalah keadaan dimana seseorang merasa takut akan ketinggalan sesuatu. Di zaman modern ini, biasanya 'sesuatu' tersebut mengacu kepada rasa missing out atau ketinggalan dengan berbagai tren yang mereka temui di kehidupan sehari-hari mereka.
+
+Tren ini bisa dalam berbagai bentuk mulai dari hal-hal simpel seperti merasa ketinggalan saat tidak membeli handphone terbaru atau malah FOMO saham dimana merasa ketinggalan apabila tidak membeli saham yang sedang banyak dibicarakan orang.
 
 Simpelnya, FOMO artinya adalah rasa takut ketinggalan dari orang lain dalam berbagai aspek kehidupan yang menyebabkan  orang-orang memaksakan diri agar bisa tetap mengikuti arus tersebut.
 
-Sadar atau tidak, sebenarnya fenomena ini sudah sering kamu temui sejak zaman dahulu.
+Sadar atau tidak, sebenarnya fenomena ini sudah sering kamu temui sejak zaman dahulu. Contohnya saat toko langganan kamu sedang mengadakan diskon. Kamu tentu tidak ingin ketinggalan diskon tersebut bukan? Nah, fenomena seperti itu kini populer dengan **istilah FOMO.**
 
-Contohnya saat toko langganan kamu sedang mengadakan diskon. Kamu tentu tidak ingin ketinggalan diskon tersebut bukan? Nah, fenomena seperti itu kini populer dengan istilah FOMO.
-
-FOMO menjadi salah satu faktor yang mendorong _impulsive buying_ karena keputusan pembelian yang tidak rasional
+**Fear of missing out** menjadi salah satu faktor yang mendorong  _**[impulsive buying](https://landx.id/blog/mengenal-apa-itu-impulsive-buying-dan-cara-menghindari-berbagai-pemicu-impulsive-buying-selama-pandemi/)** _ karena keputusan pembelian yang tidak rasional dan sering kali menjadi penyebab tidak stabilnya kondisi keuangan seseorang.
 
 Meski terkesan sepele, keadaan ini ternyata punya efek yang buruk bagi kesehatan mental dan berbagai aspek kehidupan kita terutama kondisi finansial anda.
 
@@ -54,7 +54,7 @@ Dalam investasi, FOMO menjadi salah satu faktor yang membuat keputusan investasi
 
 Supaya kamu terhindar dari FOMO saat berinvestasi, yuk kita bahas bagaimana menghindari FOMO dalam investasi.
 
-## Kenapa FOMO Terjadi?
+## Kenapa FOMO (Fear of Missing Out) Terjadi?
 
 FOMO sebenarnya adalah salah satu fenomena yang sudah ada sejak dulu karena sifat dasar manusia yang sangat takut ketinggalan/ kehilangan suatu momen.
 
@@ -68,7 +68,7 @@ Karena itu, kita harus bisa mengendalikan perasaan FOMO ini agar tidak memberika
 
 Salah satu yang marak kita temukan belakangan ini adalah FOMO dalam berinvestasi. Supaya tidak terjadi kepada kita, mari kita bahas lebih lanjut.
 
-## FOMO dalam Investasi
+## FOMO (_Fear of Missing Out)_ dalam Investasi
 
 Dalam dunia investasi, FOMO terjadi saat investor atau pun trader dihadapi oleh beberapa situasi. Apa saja?
 
@@ -84,7 +84,15 @@ Karena takut akan harga yang semakin menjulang, dengan terpaksa mereka akhirnya 
 
 Kenapa? Karena FOMO dapat menyebabkan kamu bias dan terburu-buru dalam mengambil keputusan investasi. Pengambilan keputusan yang terburu-buru ini dapat dengan mudah membuyarkan strategi dan rencana investasi.
 
-## Cara Menghindari FOMO dalam Investasi
+## Dampak Buruk FOMO (_Fear of Missing Out)_
+
+Dalam kehidupan sehari-hari, perasaan FOMO menjadi salah satu hal yang menganggu banyak aspek dalam kehidupan kita.
+
+Dari kehidupan sosial, FOMO memunculkan perasaan yang tidak tenang apabila kita tidak bisa mengikuti sesuatu yang sedang "_hype"_ sehingga mengganggu berbagai aktivitas sehari-hari kita.
+
+Selain itu, FOMO juga sering menjadi mengganggu proses investasi dan trading karena hal ini menyebabkan seseorang mengambil keputusan investasi dan trading yang tidak optimal karena terbawa FOMO dengan lingkungan sekitar.
+
+## Cara Menghindari FOMO (_Fear of Missing Out)_ dalam Investasi
 
 Setelah tahu akan bahaya FOMO, bisakah kamu menghindari hal tersebut? Tenang, bisa kok!
 

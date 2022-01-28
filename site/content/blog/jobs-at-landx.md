@@ -37,59 +37,79 @@ At LandX, you will be working on the next generation of Equity Crowd Funding sys
 * Have side projects;
 * Opinionated.
 
-## Chief Finance Officer (CFO)
+## Content Manager
 
 **Responsibilities:**
 
-* Formulate financial documents;
-* Responsible for the various types of taxes that exist in the company;
-* Dealing with internal and external parties related to the company's financial flows;
-* Prepare budgets and financial projections for a certain period;
-* Identify and provide reports on the effectiveness of the company's strategy;
-* Supervise and advice the implementation of financial accounting activities;
-* Supervise and ensure the preparation of all financial statements, such as income statements, balance sheets, shareholder reports, tax returns, valuation reports, and governmental agency reports;
-* Build good relationships with investors/ third parties and define measurable corporate values.
+* Work under the Content division;
+* Arrange content plans creatively for a certain period;
+* Create a content by correlating current issues with financial service activities;
+* Create a trend that connect automatically with the audiences to increase engagement;
+* Conduct research to develop content strategy;
+* Develop contents in collaboration with the Marketing division;
+* Involved directly  in product and brand campaigns;
+* Identify and create viral marketing campaigns;
+* Publish content for blogs, Instagram, Facebook, YouTube channels, and other related platforms;
+* Ensure that every content implementation timeline is achieved;
+* Monitor and optimize all content up to manage SEO through CMS implementation;
+* Report website traffic to engagement information from visitors;
+* Analyze published content and prepare improvement plans;
+* Present data analysis reports from various indicators and methodologies;
+* Monitor, control and ensure the quality of content in accordance with predetermined standards.
 
 **Requirements:**
 
 * Male/ Female;
-* Bachelor Degree (Business, Management, Economic, related field);
-* Experience in advanced financial accounting;
-* Experience in advanced management accounting;
-* Well understanding about corporate finance & business valuation;
-* Well understanding about risk management;
-* Experience in auditing both internal & external POV;
-* Experience in handling tax and dispute tax;
+* Bachelor Degree (Management, Communication, Marketing, or related field);
+* Well understanding of Content Management Systems (CMS)
+* Familiar with Ms. Office, CMS, SEO, UI/IX, and other related programs;
+* Experienced in using analytical tools such as Google analytics, social media analytics, business analytics, etc.;
+* Have good knowledge of social media activities;
+* Have effective time management and planning skills;
+* Have good writing and editing skills;
+* Creative and having out of the box ideas;
 * Detail oriented;
-* Strong leadership and communication;
-* Good analytical skills;
-* Good negotiation skills.
+* Good analytical skill;
+* Strong communication skill;
+* Well leadership;
+* Minimal 2 years experience in the similar position, preferably in Startup Company.
 
-## Head of Legal
+## **Creative **Producer****
 
 **Responsibilities:**
 
-* Prepare legal requirements across new and existing projects by building partnerships with both internal and external stakeholders;
-* Supervise business developments related to licenses and agreements;
-* Accommodate company legalization issues with third parties;
-* Representing the company in handling legal activities;
-* As an internal advisor on compliance and litigation for products, campaigns, and partnerships;
-* Manage and ensure regulatory compliance for Indonesian law;
-* Supervise legal team in general;
-* Coordination with cross-division regarding the legal subject.
+* Work under the Content division;
+* Arrange and propose special program with various topics that related to the financial services;
+* Create creative conceptual video;
+* Prepare effective concept of video and publishing;
+* Handle end-to end the video production;
+* Determine story concept and talent selection;
+* Monitor and evaluate production process to keep it according to the standards result that have been determined;
+* Propose editing scripts to match to the updated trends/ issues;
+* Collaboration with Content Manager to ensure visualization concept effectively;
+* Working closely with Photographer-Videographer to oversee the final cut;
+* Connect with external Production House as long as there needs collaboration;
+* Ensure that the video fulfilment target is achieved following the timeline.
 
 **Requirements:**
 
 * Male/ Female;
-* Bachelor Degree (Indonesia's law school graduate);
-* Minimal 3 years experiences in a similar role, preferably in financial services (Bank, FinTech, ECF, SCF);
-* Understand Indonesia's law regulations in general;
-* Experienced in handling agreements;
-* PERADI (Perhimpunan Advokat Indonesia) members will be prioritized;
-* Strong communication in collaboration with internal and external partners;
-* Strong leadership.
+* Bachelor's degree from any major;
+* Minimal 2 years experience in the similar position;
+* Creative and having out of the box ideas;
+* Well understanding of production techniques;
+* Have good knowledge of production standards;
+* Good visualizing and shooting skills;
+* Ready to do any requested video;
+* Have effective time management and planning skills;
+* Have good writing and editing skills;
+* Detail oriented and good analytical skill;
+* Strong communication skill;
+* Good leadership;
+* Able to work both independently and team;
+* Include your portfolio link on your curriculum vitae.
 
-If you are the person we are looking for, let's grow your career with us by following our recruitment. Kindly send your application to:Email: **laras@landx.id / eka@landx.id**Subject: **Application - [Position] - [Your Name]**Only short-listed candidates will be contacted.
+If you are the person we are looking for, let's grow your career with us by following our recruitment. Kindly send your application to:Email: **hr@landx.id**Subject: **Application - [Position] - [Your Name]**Only short-listed candidates will be contacted.
 
 {{< figure src="https://accountgram-production.sfo2.cdn.digitaloceanspaces.com/landx_ghost/2021/11/INTERSHIP-PROGRAM.jpg" >}}
 
@@ -105,7 +125,7 @@ We are inviting energetic students to learn and grow with LandX through an our i
 
 If you are the person who is passionate and interested in the position, please send your application to:
 
-Email: **laras@landx.id / eka@landx.id**Subject: **Internship Program - [Position] - [Your Name]**
+Email: **hr@landx.id**Subject: **Internship Program - [Position] - [Your Name]**
 
 
 

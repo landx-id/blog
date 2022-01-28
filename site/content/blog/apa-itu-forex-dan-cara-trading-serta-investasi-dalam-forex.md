@@ -7,7 +7,7 @@ draft = false
 image = "https://images.unsplash.com/photo-1620808353968-92abf48219a9?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxMTc3M3wwfDF8c2VhcmNofDIwfHxmb3JleHxlbnwwfHx8fDE2NDAwNjE0NjU&ixlib=rb-1.2.1&q=80&w=1080"
 slug = "apa-itu-forex-dan-cara-trading-serta-investasi-dalam-forex"
 tag = ["Robot Trading", "Forex", "ETF", "Instrumen Investasi"]
-title = "Trading Forex: Memahami Apa Forex dan Seluk Beluknya"
+title = "Trading Forex: Memahami Apa Itu Forex yang Jadi Kedok Investasi Bodong"
 
 +++
 
@@ -16,19 +16,9 @@ Forex (_Foreign Exchange)_ adalah instrumen mata uang asing yang sering kali dij
 
 Belakangan, instrumen ini semakin sering dibahas karena forex menjadi salah satu instrumen yang digunakan untuk trading menggunakan robot. Oleh sebab itu forex menjadi salah satu instrumen yang banyak diminati oleh banyak orang.
 
-Mendengar nama forex mungkin kamu sudah familiar dan sedikit mengetahui maksudnya. Tapi, apakah kamu sudah benar-benar tahu apa itu forex dan cara kerjanya? Kali ini mari bakal membahasnya dengan lengkap. Simak artikelnya sampai habis, ya!
+Selain itu, **forex adalah instrumen** yang digunakan dalam modus penipuan karena banyak orang tidak familiar dengan instrumen satu sini.
 
----
-
-## **Table of Content**
-
-* **[Apa Itu Forex?](https://landx.id/blog/apa-itu-forex-dan-cara-trading-serta-investasi-dalam-forex/#apa-itu-forex)**
-* **[Cara Kerja Forex](https://landx.id/blog/apa-itu-forex-dan-cara-trading-serta-investasi-dalam-forex/#cara-kerja-forex)**
-* **[Robot Trading Forex](https://landx.id/blog/apa-itu-forex-dan-cara-trading-serta-investasi-dalam-forex/#robot-trading-forex)**
-* **Tips Melakukan Trading Forex**
-* **Leverage dalam Trading Forex**
-* **[Cara Memahami Proporsi Leverage](https://landx.id/blog/apa-itu-forex-dan-cara-trading-serta-investasi-dalam-forex/#cara-memahami-proporsi-leverage)**
-* **[Kesimpulan](https://landx.id/blog/apa-itu-forex-dan-cara-trading-serta-investasi-dalam-forex/#kesimpulan)**
+**Mendengar nama forex** mungkin kamu sudah familiar dan sedikit mengetahui maksudnya. Tapi, apakah kamu sudah benar-benar tahu apa itu forex dan cara kerjanya? Karena itu yuk **belajar tentang forex** dan seluk-beluknya di sini.
 
 ---
 
@@ -43,6 +33,10 @@ Meski tidak punya lokasi pusat secara fisik, namun pasar forex adalah pasar terb
 Sebagian besar perdagangan dilakukan melalui bank, broker, dan lembaga keuangan. Saking sibuknya, pasar forex bisa buka 24 jam sehari dan lima hari dalam seminggu. Terkadang, pasar forex bisa terus buka di hari libur, meskipun volume perdagangan mungkin lebih rendah.
 
 Banyak orang menggunakan forex sebagai usaha untuk mencari keuntungan. Meskipun begitu, tidak jarang pasar valuta asing ini digunakan sebagai sarana non profit _lho._
+
+Karena itu, pandangan bahwa forex adalah penipuan salah besar karena forex memang sebuah komoditas yang diperjualbelikan di pasar forex. Namun, belakangan memang sedang marak penipuan dengan dalih robot trading forex.
+
+Supaya kenal lebih dekat, yuk kita belajar forex itu apa dan cara kerjanya.
 
 ## Cara Kerja Forex
 
@@ -64,9 +58,19 @@ Yang perlu dicatat adalah, saat melakukan trading, yang menjadi patokan adalah _
 
 Artinya, jika kamu membeli EUR/USD, kamu berharap agar Euro akan menguat. Sebaliknya, jika ternyata kamu punya prediksi USD akan menguat terhadap Euro, maka kamu harus jual.
 
+## Forex Trading Adalah
+
+Saat ini, kata forex dan trading menjadi dua kata yang tidak terpisahkan karena forex menjadi salah satu instrumen yang banyak dijadikan sebagai objek trading oleh para trader.
+
+Trading forex adalah kegiatan jual beli valuta asing yang dilakukan secara online dengan tujuan mengambil keuntungan dari selisih harga beli dan jual valuta asing tersebut.
+
+Kegiatan trading ini mengambil memanfaatkan pasar forex yang terbilang cukup fluktuatif karena mata uang asing yang nilainya cenderung mengalami fluktuasi karena dipengaruhi banyak faktor.
+
+Seiring perkembangan teknologi, kini muncul sebuah algoritma atau sistem yang membantu para trader dalam proses trading mereka yang disebut **robot trading.**
+
 ## Robot Trading Forex
 
-Foreign Exchange atau forex adalah valuta asing yang sering dijadikan objek trading menggunakan robot karena harganya yang terbilang fluktuatif sehingga bisa dimanfaatkan oleh para trader.
+**Foreign Exchange atau forex adalah** valuta asing yang sering dijadikan objek trading menggunakan robot karena harganya yang terbilang fluktuatif sehingga bisa dimanfaatkan oleh para trader.
 
 Akan tetapi, forex masih terbilang cukup awam di kalangan masyarakat sehingga banyak dari mereka yang tertipu investasi bodong dengan kedok trading forex menggunakan robot yang bisa melipat gandakan uang dengan cepat.
 

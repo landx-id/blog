@@ -1,21 +1,34 @@
 +++
 author = "Abdul Wahhab"
 category = ["crowdfunding", "crowdfunding indonesia", "crowdfunding properti", "Equity Crowdfunding", "Investasi Menguntungkan", "Investasi modal kecil", "investasi online", "Investasi online terbaru", "P2P Lending", "Securities Crowdfunding untuk Pengembangan UMKM di Indonesia"]
-date = 2021-05-19T11:25:37Z
+date = 2022-01-11T11:25:00Z
 metaDescription = "Investasi dengan modal kecil sangat mungkin untuk anda lakukan karena sekarang tersedia berbagai instrumen investasi dengan modal 1 juta yang menguntungkan"
 draft = false
+image = "https://images.unsplash.com/photo-1638913658642-8f22bae3335b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxMTc3M3wxfDF8c2VhcmNofDF8fG1vbmV5fGVufDB8fHx8MTY0MjQwODEwNg&ixlib=rb-1.2.1&q=80&w=1080"
 slug = "mau-investasi-dengan-modal-kecil-simak-cara-mengembangkan-investasi-modal-1-juta"
 tag = ["crowdfunding", "crowdfunding indonesia", "crowdfunding properti", "Equity Crowdfunding", "Investasi Menguntungkan", "Investasi modal kecil", "investasi online", "Investasi online terbaru", "P2P Lending", "Securities Crowdfunding untuk Pengembangan UMKM di Indonesia"]
-title = "Mau Investasi Dengan Modal Kecil? Simak Cara Mengembangkan Investasi Modal 1 Juta"
+title = "Mau Investasi dengan Modal Kecil? Simak Cara Berinvestasi dengan Modal 1 Juta"
 
 +++
 
 
+**Investasi 1 juta**  **perbulan? Enaknya investasi apa ya dengan uang 1 juta?**
+
+> Hal ini tentu saja menjadi pertimbangan awal yang kamu pikirkan saat akan mulai berinvestasi. Apalagi, banyak orang berpikir bahwa investasi yang baik harus dimulai dengan modal besar.
+
+Padahal investasi sebenarnya bukan hanya tentang seberapa besar investasi yang kamu keluarkan tapi juga tentang seberapa konsisten kita mengembangkan investasi yang kita lakukan.
+
+Investasi 100 ribu yang rutin tentu saja lebih baik dibandingkan investasi 1 juta tapi hanya dilakukan sekali saja.
+
+Untuk orang yang baru memulai investasi, menemukan strategi investasi yang tepat tentu saja bukanlah hal yang mudah karena biasanya belum memiliki pengalaman investasi sebelumnya.
+
 Dalam memulai investasi, anda harus paham bahwa investasi bukan hanya masalah besar modal yang anda tanamkan tapi juga bagaimana konsistensi anda dalam membangun investasi untuk kondisi keuangan yang lebih baik di masa depan.
 
-Apabila anda berpikir investasi harus dimulai dengan modal besar, anda salah besar karena saat ini tersedia [berbagai instrumen investasi](https://landx.id/) yang bisa dimulai dengan modal kecil. Hanya dengan modal 1 juta, anda sudah bisa berinvestasi ke dalam berbagai instrumen investasi yang bisa membantu anda mengembangkan uang 1 juta anda.
+Apabila anda berpikir investasi harus dimulai dengan modal besar, anda salah besar karena saat ini tersedia [berbagai instrumen investasi](https://landx.id/) yang bisa dimulai dengan modal kecil.
 
-Apabila anda memiliki modal 1 juta, berikut cara mengembangkan uang 1 juta anda lewat investasi.
+Hanya dengan modal 1 juta, anda sudah bisa berinvestasi ke dalam berbagai instrumen investasi yang bisa membantu anda mengembangkan uang 1 juta anda. Apabila anda memiliki modal 1 juta, berikut cara mengembangkan uang 1 juta anda lewat investasi.
+
+---
 
 ## Table of Content
 
@@ -24,6 +37,8 @@ Apabila anda memiliki modal 1 juta, berikut cara mengembangkan uang 1 juta anda 
 * **[Peer to Peer Lending](#peer-to-peer-lending)**
 * **[Equity Crowdfunding di LandX](#equity-crowdfunding-di-landx)**
 * _**[Compounding Effect](#compounding-effect)**_
+
+---
 
 ## [Investasi Dengan Modal Rp 1 Juta](https://landx.id/)
 
@@ -61,7 +76,7 @@ Sistem ini memiliki konsep yang hampir sama dengan saham di mana investor akan d
 
 Saat memulai investasi dalam modal kecil, anda perlu konsisten agar investasi anda semakin cepat berkembang. Walaupun anda mulai dengan modal 1 juta anda harus paham dalam investasi ada istilah _compounding effect_ yang akan membantu perkembangan aset investasi anda.
 
-## _Compounding Effect_
+## _Compounding Effect_ dalam Investasi
 
 Compounding effect merupakan kemampuan dari aset investasi yang anda miliki untuk menghasilkan keuntungan yang diinvestasikan kembali sehingga anda bisa mendapatkan keuntungan berlipat dari sebelumnya.
 
@@ -71,18 +86,28 @@ Sistem ini juga sering disebut “bunga berbunga” di mana keuntungan yang anda
 
 Compounding effect ini akan membantu anda mengembangkan uang 1 juta anda dengan lebih cepat asalkan anda bisa memilih investasi yang tepat sehingga bisa memberikan anda keuntungan dalam jangka panjang.
 
-## [Mulai Investasikan Uang Anda Dengan Modal 1 Juta Melalui Equity Crowdfunding di LandX](https://landx.id/)
+Karena itu, kita harus segera mulai berinvestasi sedini mungkin agar kita bisa lebih cepat menikmati keuntungan dari investasi kita. Selain itu berinvestasi juga membantu menjaga nilai uang kita yang setiap tahun terus mengalami penurunan nilai.
 
+Apabila kamu punya uang 1 juta dan bingung mau investasi kemana, sekarang kamu bisa lo berinvestasi ke berbagai bisnis potensial yang bisa memberikan kamu _passive income_ jangka panjang sesuai dari bagi hasil keuntungan bisnis yang kamu investasikan.
 
+**[LandX](https://landx.id/) adalah** platform equity crowdfunding yang mempermudah kamu untuk berinvestasi ke berbagai bisnis terbaik yang telah dikurasi secara ketat sehingga investasi bisnis kamu bisa menjadi lebih aman.
 
-**Baca Juga:**
+**Karena itu tunggu apalagi....**
 
-* **[8+ Investasi Menguntungkan Untuk Masa Depan Anda, Yuk Mulai Investasi Dari Sekarang](https://landx.id/blog/8-investasi-menguntungkan-untuk-masa-depan-anda-yuk-mulai-investasi-dari-sekarang/)**
-* **[Mau Mulai Investasi?  Pahami Dulu Perbedaan Crowdfunding dan Peer to Peer Lending](https://landx.id/blog/mau-mulai-investasi-pahami-dulu-perbedaan-crowdfunding-dan-peer-to-peer-lending/)**
+## [Yuk Temukan Bisnis Terbaik untuk Investasi Jangka Panjang Kamu di LandX](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)
+
+[![Yuk mulai patungan bisnis menguntungkan jangka panja g bersama LandX](https://accountgram-production.sfo2.cdn.digitaloceanspaces.com/landx_ghost/2021/09/Equity-Crowdfunding-di-Indonesia-1--3.png)](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)
 
 ---
 
-> [**Yuk Follow Instagram Kami di @landx.id Untuk Berbagai Strategi Investasi Menguntungkan Lainnya**](https://www.instagram.com/landx.id/?utm_medium=copy_link)
+[**Yuk Follow Instagram Kami di @landx.id Untuk Berbagai Strategi Investasi Menguntungkan Lainnya**](https://www.instagram.com/landx.id/?utm_medium=copy_link)
 
-‌#LandX.id	#landx.id	#InvestasiBisnis	#EquityCrowdfunding	#InvestasiMenguntungkan	#Urundana	#BisnisPatungan	#InvestasiUsaha
+**Baca Juga:**
+
+* [8+ Investasi Menguntungkan Untuk Masa Depan Anda, Yuk Mulai Investasi Dari Sekarang](https://landx.id/blog/8-investasi-menguntungkan-untuk-masa-depan-anda-yuk-mulai-investasi-dari-sekarang/)
+* [Mau Mulai Investasi?  Pahami Dulu Perbedaan Crowdfunding dan Peer to Peer Lending](https://landx.id/blog/mau-mulai-investasi-pahami-dulu-perbedaan-crowdfunding-dan-peer-to-peer-lending/)
+
+---
+
+**#YukPatunganBisnis**
 

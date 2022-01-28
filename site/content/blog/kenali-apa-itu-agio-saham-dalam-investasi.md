@@ -4,6 +4,7 @@ category = ["Cara Investasi Saham", "agio saham"]
 date = 2021-06-18T04:47:01Z
 metaDescription = "pahami apa itu agio saham agar investasi yang anda semakin mudah dalam melakukan investasi saham. Kenali berbagai jenis agio saham"
 draft = false
+image = "https://images.unsplash.com/photo-1612010167108-3e6b327405f0?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxMTc3M3wwfDF8c2VhcmNofDJ8fHN0b2Nrc3xlbnwwfHx8fDE2NDI1NzMwMDM&ixlib=rb-1.2.1&q=80&w=1080"
 slug = "kenali-apa-itu-agio-saham-dalam-investasi"
 tag = ["Cara Investasi Saham", "agio saham"]
 title = "Untuk Para Investor Pemula, Pahami Apa Itu Agio Saham dan Berbagai Jenisnya"

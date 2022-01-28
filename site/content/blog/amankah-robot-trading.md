@@ -1,12 +1,12 @@
 +++
 author = "Abdul Wahhab"
-category = ["Robot Trading", "Penipuan Telegram", "Investasi Bodong"]
+category = ["Robot Trading", "Penipuan Investasi di Telegram", "Investasi Bodong"]
 date = 2021-11-19T13:22:37Z
 metaDescription = "Trading forex menggunakan robot menjadi hal yang sangat populer belakangan ini, namun tidak sedikit juga robot trading menjadi modus penipuan oleh pihak.."
 draft = false
 image = "https://images.unsplash.com/photo-1531837763904-5d3cb2632ea3?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxMTc3M3wwfDF8c2VhcmNofDYwfHxyb2JvdCUyMHRyYWRpbmd8ZW58MHx8fHwxNjQwMDYyMTE4&ixlib=rb-1.2.1&q=80&w=1080"
 slug = "amankah-robot-trading"
-tag = ["Robot Trading", "Penipuan Telegram", "Investasi Bodong"]
+tag = ["Robot Trading", "Penipuan Investasi di Telegram", "Investasi Bodong"]
 title = "Amankah Robot Trading? Memahami Apa Itu Robot Trading yang Sering Jadi Modus Penipuan"
 
 +++
@@ -21,6 +21,18 @@ Beberapa pihak penyedia robot trading menjanjikan return 1-3% per hari dengan pe
 Hal ini membuat banyak orang mulai melakukan trading dengan menggunakan robot trading tanpa mempelajari lebih lanjut tentang risiko dan keamanan dari robot trading yang mereka gunakan.
 
 Biar kamu tidak seperti itu, yuk kita bahas bareng-bareng tentang robot trading ini.
+
+---
+
+## Table of Content
+
+* **[Apa Itu Robot Trading?](https://landx.id/blog/amankah-robot-trading/#apa-itu-rbot-trading?) **
+* [**Robot Trading Forex**](https://landx.id/blog/amankah-robot-trading/#robot-trading-forex)
+* [**Perbedaan Robot Trading dengan Binary Option**](https://landx.id/blog/amankah-robot-trading/#perbedaan-robot-trading-dengan-binary-option)
+* **[Kelebihan dan Kekurangan Robot Trading](https://landx.id/blog/amankah-robot-trading/#kelebihan-dan-kekurangan-robot-trading)**- [Kelebihan Trading Menggunakan Robot](#kelebihan-trading-menggunakan-robot)[- Kekurangan Trading Menggunakan Robot](#kekurangan-trading-menggunakan-robot)
+* [**Penipuan dengan Kedok Robot Trading**](https://landx.id/blog/amankah-robot-trading/#penipuan-dengan-kedok-robot-trading)
+* [**Belajar dari Kasus Sunton Capital**](https://landx.id/blog/amankah-robot-trading/#belajar-dari-kasus-sunton-capital)
+* [**Kesimpulan**](https://landx.id/blog/amankah-robot-trading/#kesimpulan)
 
 ---
 

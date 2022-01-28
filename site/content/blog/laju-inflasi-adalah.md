@@ -1,11 +1,12 @@
 +++
 author = "Abdul Wahhab"
-category = ["laju inflasi", "inflasi"]
+category = ["laju inflasi", "inflasi", "Cara Investasi Saham", "diversifikasi dalam investasi", "Securities Crowdfunding untuk Pengembangan UMKM di Indonesia"]
 date = 2021-06-14T06:53:33Z
 metaDescription = "Memahami apa itu laju inflasi dan bagaimana cara berinvestasi yang benar untuk menghadapi kondisi laju inflasi yang terus terjadi dari waktu ke waktu"
 draft = false
+image = "https://images.unsplash.com/photo-1533580909002-a2f298d005eb?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxMTc3M3wwfDF8c2VhcmNofDV8fGluZmxhdGlvbnxlbnwwfHx8fDE2NDE1NDIxMjQ&ixlib=rb-1.2.1&q=80&w=1080"
 slug = "laju-inflasi-adalah"
-tag = ["laju inflasi", "inflasi"]
+tag = ["laju inflasi", "inflasi", "Cara Investasi Saham", "diversifikasi dalam investasi", "Securities Crowdfunding untuk Pengembangan UMKM di Indonesia"]
 title = "Laju Inflasi: Memahami Apa Itu Inflasi dan Cara Menghitung Laju Inflasi"
 
 +++
@@ -82,14 +83,20 @@ Apabila berinvestasi dengan sistem ini, anda harus menemukan platform terbaik ya
 
 **[LandX](https://landx.id/)** merupakan salah satu platform equity crowdfunding terpercaya untuk investasi bisnis anda yang dengan berbagai pilihan berbagai bisnis potensial di sekitar anda.
 
-**[Yuk Mulai Investasi Bisnis Jangka Panjang Bersama LandX](https://landx.id/)**
+## [Yuk Mulai Investasi Bisnis Jangka Panjang Bersama LandX](https://landx.id/)
+
+[![Bagaimana? Kamu lebih suka bisnis dengan buyback guarantee atau yang bisa disimpan dalam jangka panjang? Apapun pilihan kamu.. Yuk Patungan  dengan Keuntungan Menjanjikan Bareng LandX](https://accountgram-production.sfo2.cdn.digitaloceanspaces.com/landx_ghost/2021/10/Equity-Crowdfunding-di-Indonesia-1--3.png)](http://landx.id/)
 
 **[Yuk Follow @landx.id di Instagram untuk Berbagai Informasi Menarik Seputar Investasi Lainnya.](https://instagram.com/landx.id?utm_medium=copy_link)**
 
-**#LandX.id    #landx         #landx.id    #InvestasiBisnis    #EquityCrowdfunding    #InvestasiMenguntungkan    #Urundana    #BisnisPatungan    #InvestasiUsaha**
+---
 
 **Baca Juga:**
 
 * [Berikut Cara Investasi Saham Mudah, Memulai Investasi Saham Dengan Benar](https://landx.id/blog/berikut-cara-investasi-saham-mudah-memulai-investasi-saham-dengan-benar/)
 * [4 Pilihan Investasi Jangka Pendek dan Tips Investasi Jangka Pendek yang Menguntungkan](https://landx.id/blog/4-pilihan-investasi-jangka-pendek-dan-tips-investasi-jangka-pendek-yang-menguntungkan/)
+
+---
+
+
 

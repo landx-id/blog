@@ -1,12 +1,12 @@
 +++
 author = "Abdul Wahhab"
-category = ["Investasi Bodong", "Penipuan Telegram", "tips investasi", "investasi pemula"]
+category = ["Investasi Bodong", "Penipuan Investasi di Telegram", "tips investasi", "investasi pemula"]
 date = 2021-11-11T08:57:56Z
 metaDescription = "Investasi bodong adalah modus yang mengajak investor menanamkan modal mereka ke dalam suatu proyek fiktif yang merugikan investor pemula yang masih awam"
 draft = false
 image = "https://accountgram-production.sfo2.cdn.digitaloceanspaces.com/landx_ghost/2021/11/Hati-hati-penipuan-investasi-bodong-yang-mengatasnamakan-LandX-di-Telegram.jpg"
 slug = "berbagai-skema-investasi-bodong-yang-wajib-investor-pemula-waspadai"
-tag = ["Investasi Bodong", "Penipuan Telegram", "tips investasi", "investasi pemula"]
+tag = ["Investasi Bodong", "Penipuan Investasi di Telegram", "tips investasi", "investasi pemula"]
 title = "Mengenal Berbagai Modus Investasi Bodong dan Cara Terhindar dari Penipuan dengan Kedok Investasi"
 
 +++

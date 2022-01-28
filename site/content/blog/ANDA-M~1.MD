@@ -22,6 +22,8 @@ Supaya kamu bisa mengelola uang dengan lebih bijak, yuk kita bahas bagaimana men
 
 ---
 
+## Table of Content
+
 ### Tips Mengelola Uang dengan Baik
 
 * [Memahami Prinsip 50-30-20 dalam Mengelola Uang](https://landx.id/blog/anda-masih-kebingungan-bagaimana-mengelola-keuangan-ikuti-tips-mengelola-keuangan-untuk-generasi-milenial-berikut-untuk-kondisi-manajemen-keuangan-lebih-baik-di-2021/#memahami-prinsip-50-30-20-dalam-mengelola-uang)

@@ -4,6 +4,7 @@ category = ["Kapal Tongkang", "keuntungan investasi", "bisnis patungan", "bisnis
 date = 2021-12-17T08:30:44Z
 metaDescription = "Seorang entertainer yang kini juga mengembangkan fokusnya pada pengembangan bisnis, membuat Helmy Yahya menjadi salah satu pengusaha sukses di Indonesia."
 draft = false
+image = "https://accountgram-production.sfo2.cdn.digitaloceanspaces.com/landx_ghost/2022/01/Punya-bisnis-kapal-tongkang-bersama-helmy-yahya-cuma-dengan-modal-1-jutaan-min.png"
 slug = "profil-lengkap-helmy-yahya"
 tag = ["Kapal Tongkang", "keuntungan investasi", "bisnis patungan", "bisnis masa pandemi", "crowdfunding indonesia", "ETF", "Instrumen Investasi", "investasi bisnis", "Helmy Yahya"]
 title = "Biografi Helmy Yahya: Entertainer dan Pengusaha Sukses yang Siap Rambah Bisnis Kapal Tongkang"

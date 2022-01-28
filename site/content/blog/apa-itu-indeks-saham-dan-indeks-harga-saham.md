@@ -17,6 +17,12 @@ Saham dianggap sebagai instrumen yang dengan potensi keuntungan yang cukup tingg
 
 Salah satu istilah yang sering anda lihat dan dengar adalah indeks saham, istilah ini sangat sering muncul dan dijadikan acuan dalam investasi saham. Oleh sebab itu mari kita bahas lebih lanjut tentang indeks saham.
 
+## Table of Content
+
+* [**Indeks Saham**](#indeks-saham)
+* [**Daftar Indeks Harga Saham**](#daftar-indeks-harga-saham)1. [Indeks Harga Saham Gabungan (IHSG)](#indeks-harga-saham-gabungan-ihsg)2. [IDX80](#idx80)3. [LQ45](#lq45)4. [IDX30](#idx30)5. [IDX Quality30](#idx-quality30)6. [IDX BUMN20](#idx-bumn20)7. [Jakarta Islamic Index (JII)](#jakarta-islamic-index-jii)8. [Kompas100](#kompas100)
+* **[Investasi untuk Pengembangan Dana Jangka Panjang](#investasi-untuk-pengembangan-dana-jangka-panjang)**
+
 ## Indeks Saham
 
 Indeks saham adalah salah satu acuan yang menggambarkan bagaimana pergerakan saham yang ada dalam indeks tersebut. Indeks saham mencerminkan bagaimana trend pasar dari saham apakah memiliki kecenderungan naik atau turun.

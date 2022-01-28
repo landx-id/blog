@@ -1,12 +1,12 @@
 +++
 author = "Abdul Wahhab"
-category = ["faq", "landx", "news", "Investasi Bodong", "Penipuan Telegram"]
+category = ["faq", "landx", "news", "Investasi Bodong", "Penipuan Investasi di Telegram"]
 date = 2021-04-15T06:18:00Z
 metaDescription = "Waspada berbagai modus investasi penipuan yang mengatasnamakan LandX melalui berbagai platform media sosial. Berikut adalah media sosial resmi LandX"
 draft = false
 image = "https://images.unsplash.com/photo-1594979194853-f7dcd77a0a1b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxMTc3M3wwfDF8c2VhcmNofDN8fHNjYW18ZW58MHx8fHwxNjM5MDI4NjM0&ixlib=rb-1.2.1&q=80&w=1080"
 slug = "waspada-penipuan-mengatasnamakan-landx-dengan-modus-titip-dana"
-tag = ["faq", "landx", "news", "Investasi Bodong", "Penipuan Telegram"]
+tag = ["faq", "landx", "news", "Investasi Bodong", "Penipuan Investasi di Telegram"]
 title = "Waspada Penipuan Mengatasnamakan LandX dengan Modus Titip Dana"
 
 +++

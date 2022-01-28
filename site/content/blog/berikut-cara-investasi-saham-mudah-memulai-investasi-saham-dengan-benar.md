@@ -1,12 +1,12 @@
 +++
 author = "Abdul Wahhab"
-category = ["Saham Online", "Cara Investasi Saham", "investasi bisnis", "Properti online", "reksa dana"]
+category = ["Saham Online", "Cara Investasi Saham", "investasi bisnis", "Properti online", "reksa dana", "investasi saham", "saham konvensional"]
 date = 2021-05-21T02:42:50Z
-metaDescription = "Saham merupakan pilihan investasi yang bisa memberikan anda keuntungan dalam jangka panjang maupun pendek. Pahami cara investasi saham yang menguntungkan"
+metaDescription = "Apabila kamu investor pemula yang masih bingung bagaimana cara investasi saham yang mudah dan menguntungkan, yuk simak artikel di bawah ini"
 draft = false
 slug = "berikut-cara-investasi-saham-mudah-memulai-investasi-saham-dengan-benar"
-tag = ["Saham Online", "Cara Investasi Saham", "investasi bisnis", "Properti online", "reksa dana"]
-title = "Berikut Cara Investasi Saham Mudah, Memulai Investasi Saham Dengan Benar"
+tag = ["Saham Online", "Cara Investasi Saham", "investasi bisnis", "Properti online", "reksa dana", "investasi saham", "saham konvensional"]
+title = "Berikut Cara Investasi Saham Mudah|Memulai Investasi Saham dengan Benar"
 
 +++
 
