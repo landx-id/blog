@@ -23,6 +23,8 @@
       .
     
     - docker push ${CI_REGISTRY_IMAGE}:${DOCKER_IMAGE_TAG}
+  extends:
+    - .for_release
 
 .deploy:
   stage: deploy
@@ -43,6 +45,5 @@ prepare_release:
 release:publish:
   extends:
     - .deploy
-    - .for_release
   dependencies:
     - prepare_release
