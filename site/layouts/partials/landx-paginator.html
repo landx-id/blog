@@ -2,7 +2,7 @@
 
 <div class="paginator-container">
   {{ if .Paginator.HasPrev }}
-  <a title='Previous Page' href="{{ .Paginator.Prev.URL }}">
+  <a title='Previous Page' href="/{{.Site.Params.pathUrl}}{{ .Paginator.Prev.URL }}">
     <i class="fas fa-arrow-left"></i>
     <span>Previous</span>
   </a>
@@ -11,7 +11,7 @@
   {{ end }}
 
   {{ if .Paginator.HasNext }}
-  <a title='Previous Page' href="{{ .Paginator.Next.URL }}">
+  <a title='Previous Page' href="/{{.Site.Params.pathUrl}}{{ .Paginator.Next.URL }}">
     <span>Next</span>
     <i class="fas fa-arrow-right"></i>
   </a>
