@@ -6,7 +6,7 @@ metaTitle: "Block Chain Adalah: Mengenal Apa Itu Block Chain dan Jenis Block Cha
 metaDescription: Diperkenalkan pertama kali pada 2008, Blockchain sederhananya
   adalah sebuah buku besar digital yang mencatat transaksi kripto
 featuredImage:
-  src: https://unsplash.com/photos/h5iazR-wljU
+  src: pierre-borthiry-vbcvcwuyvym-unsplash-2-.jpg
   alt: Kenali apa itu blockchain sebelum mulai berinvestasi kedalam instrumennya
   title: Memahami Seluk Beluk Blockchain Sebelum Mulai Berinvestasi ke Dalamnya
 ---
