@@ -14,7 +14,7 @@ intro: >-
   Blockchain adalah pengembangan teknologi dengan sistem digital yang membuat penyimpanan data jadi terintegrasi satu sama lain. Sistem ini menjadi populer belakangan karena sistem ini dinilai bisa digunakan diberbagai sektor bisnis.
 isPinned: true
 slug: apa-itu-blockchain-ini-pengertian-kelebihan-dan-cara-kerjanya
-date: 2021-11-24T03:54:53.000Z
+date: 2022-01-31T18:56:11.853Z
 tag:
   - Instrumen Investasi
   - Blockchain
