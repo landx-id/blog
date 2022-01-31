@@ -1,17 +1,33 @@
-+++
-author = "Abdul Wahhab"
-category = ["Instrumen Investasi", "Blockchain"]
-date = 2021-11-24T03:54:53Z
-metaDescription = "Blockchain adalah sistem penyimpanan data yang terdesentralisasi sehingga menjadi sistem yang digunakan untuk berbagai industri salah satunya cryptocurrency"
-draft = false
-image = "https://images.unsplash.com/photo-1559445368-b8a993676d7a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxMTc3M3wwfDF8c2VhcmNofDExfHxibG9ja2NoYWlufGVufDB8fHx8MTY0MDA2MjAyNg&ixlib=rb-1.2.1&q=80&w=1080"
-slug = "apa-itu-blockchain-ini-pengertian-kelebihan-dan-cara-kerjanya"
-tag = ["Instrumen Investasi", "Blockchain"]
-title = "Apa Itu Blockchain? Ini Pengertian, Kelebihan, Karakteristik, dan Cara Kerjanya"
+---
+draft: false
+author: Abdul Wahhab
+title: Apa Itu Blockchain? Ini Pengertian, Kelebihan, dan Karakteristik
+metaTitle: Apa Itu Blockchain? Ini Pengertian, Kelebihan, dan Karakteristik
+metaDescription: "Blockchain adalah sistem penyimpanan data yang
+  terdesentralisasi sehingga menjadi sistem yang digunakan untuk berbagai "
+intro: >-
+  Seiring meleknya masyarakat Indonesia terhadap cryptocurrency atau kripto,
+  istilah yang mendukung seperti Blockchain juga mulai mendapat perhatian. Namun
+  tidak semua orang paham dengan istilah tersebut.
 
-+++
 
-
+  Blockchain adalah pengembangan teknologi dengan sistem digital yang membuat penyimpanan data jadi terintegrasi satu sama lain. Sistem ini menjadi populer belakangan karena sistem ini dinilai bisa digunakan diberbagai sektor bisnis.
+isPinned: true
+slug: apa-itu-blockchain-ini-pengertian-kelebihan-dan-cara-kerjanya
+date: 2021-11-24T03:54:53.000Z
+tag:
+  - Instrumen Investasi
+  - Blockchain
+featuredImage:
+  src: https://images.unsplash.com/photo-1559445368-b8a993676d7a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxMTc3M3wwfDF8c2VhcmNofDExfHxibG9ja2NoYWlufGVufDB8fHx8MTY0MDA2MjAyNg&ixlib=rb-1.2.1&q=80&w=1080
+  alt: Memahami apa itu blockchain yang kini menjadi salah satu instrumen
+    investasi populer di kalangan masayarakat
+  title: Memahami konsep blockchain sebagai salah satu instrumen investasi
+image: https://images.unsplash.com/photo-1559445368-b8a993676d7a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxMTc3M3wwfDF8c2VhcmNofDExfHxibG9ja2NoYWlufGVufDB8fHx8MTY0MDA2MjAyNg&ixlib=rb-1.2.1&q=80&w=1080
+category:
+  - Block Chain
+  - Investasi
+---
 Seiring meleknya masyarakat Indonesia terhadap cryptocurrency atau kripto, istilah yang mendukung seperti Blockchain juga mulai mendapat perhatian. Namun tidak semua orang paham dengan istilah tersebut.
 
 Blockchain adalah pengembangan teknologi dengan sistem digital yang membuat penyimpanan data jadi terintegrasi satu sama lain. Sistem ini menjadi populer belakangan karena sistem ini dinilai bisa digunakan diberbagai sektor bisnis.
@@ -20,18 +36,7 @@ Akan tetapi, masih banyak orang yang tidak memahami baik dengan konsep ini dan b
 
 Lalu, apa sebenarnya blockchain? Kenapa blockchain saat ini penting terutama bagi dunia kripto? Berikut MinLand bakal jelasin semuanya dengan lengkap melalui melalui artikel di bawah ini. Simak, ya!
 
----
-
-## Table of Content
-
-* **[Apa Itu Blockchain?](https://landx.id/blog/apa-itu-blockchain-ini-pengertian-kelebihan-dan-cara-kerjanya/#apa-itu-blockchain)**
-* **[Karakteristik Blockchain](https://landx.id/blog/apa-itu-blockchain-ini-pengertian-kelebihan-dan-cara-kerjanya/#karakteristik-blockchain)**
-* **[Cara Kerja Blockchain](https://landx.id/blog/apa-itu-blockchain-ini-pengertian-kelebihan-dan-cara-kerjanya/#cara-kerja-blockchain)**
-* **[Perbedaan Blockchain dan Cryptocurrency](https://landx.id/blog/apa-itu-blockchain-ini-pengertian-kelebihan-dan-cara-kerjanya/#perbedaan-blockchain-dan-cryptocurrency)**
-* **[Kelebihan Blockchain](https://landx.id/blog/apa-itu-blockchain-ini-pengertian-kelebihan-dan-cara-kerjanya/#kelebihan-blockchain)**
-* **[Blockchain untuk Sistem Investasi](https://landx.id/blog/apa-itu-blockchain-ini-pengertian-kelebihan-dan-cara-kerjanya/#blockchain-untuk-sistem-investasi)**
-
----
+- - -
 
 ## Apa Itu Blockchain?
 
@@ -131,7 +136,6 @@ Nah, ngomongin soal investasi, kamu bisa mencoba melakukan investasi patungan le
 * [Mengenal Berbagai Modus Investasi Bodong dan Cara Terhindar dari Penipuan dengan Kedok Investasi](https://landx.id/blog/berbagai-skema-investasi-bodong-yang-wajib-investor-pemula-waspadai/)
 * [Manajemen Keuangan: Memahami Pengertian, Fungsi, Tujuan, dan Kenapa Manajemen Keuangan Sangat Penting Bagi Milenial](https://landx.id/blog/manajemen-keuangan-memahami-pengertian-fungsi-tujuan-dan-kenapa-manajemen-keuangan-sangat-penting-bagi-milenial/)
 
----
+- - -
 
-**#YukPatunganBisnis    #LandX.id    #landx         #landx.id     #InvestasiBisnis  #SecuritiesCrowdfunding   #EquityCrowdfunding     #InvestasiMenguntungkan     #Urundana    #BisnisPatungan     #InvestasiUsaha**
-
+**\#YukPatunganBisnis    #LandX.id    #landx         #landx.id     #InvestasiBisnis  #SecuritiesCrowdfunding   #EquityCrowdfunding     #InvestasiMenguntungkan     #Urundana    #BisnisPatungan     #InvestasiUsaha**
