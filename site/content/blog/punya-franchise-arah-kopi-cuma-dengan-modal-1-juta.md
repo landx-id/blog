@@ -20,7 +20,6 @@ tag:
   - Bisnis Modal Kecil
   - bisnis patungan
   - Cloud Kitchen
-  - Bisnis F&B
 featuredImage:
   src: https://accountgram-production.sfo2.cdn.digitaloceanspaces.com/landx_ghost/2022/01/Bisnis-arah-kopi-modal-1-juta-min.png
   alt: jadi pemilik franchise arah kopi modal 1 juta
