@@ -1,15 +1,31 @@
-+++
-author = "Khurin N. Imandini"
-category = ["Penipuan Investasi di Telegram", "Investasi Bodong", "Tips Keuangan"]
-date = 2022-01-25T15:02:00Z
-metaDescription = "Skema Ponzi adalah modus investasi palsu yang memberikan keuntungan kepada investor dari uang mereka sendiri atau dari investor berikutnya yang ikut serta"
-draft = false
-image = "https://images.unsplash.com/photo-1594979194853-f7dcd77a0a1b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxMTc3M3wwfDF8c2VhcmNofDN8fHNjYW18ZW58MHx8fHwxNjQzMjcxMDQw&ixlib=rb-1.2.1&q=80&w=1080"
-slug = "investasi-bodong-dengan-skema-ponzi"
-tag = ["Penipuan Investasi di Telegram", "Investasi Bodong", "Tips Keuangan"]
-title = "Skema Ponzi Ciri-ciri Skema Ponzi dan Cara Menghindarinya"
-
-+++
+---
+draft: false
+author: Khurin N. Imandini
+title: Skema Ponzi Ciri-ciri Skema Ponzi dan Cara Menghindarinya
+metaTitle: Skema Ponzi Ciri-ciri Skema Ponzi dan Cara Menghindarinya
+metaDescription: Skema Ponzi adalah modus investasi palsu memberikan keuntungan
+  kepada investor dari uang mereka sendiri atau dari investor berikutnya yang
+  ikut serta
+intro: Apabila kamu merupakan investor pemula yang baru mulai berinvestasi, maka
+  kamu harus waspada dengan skema ponzi atau ponzi scheme yang memakan banyak
+  korban belakangan ini.
+isPinned: true
+slug: investasi-bodong-dengan-skema-ponzi
+date: 2022-01-25T15:02:00.000Z
+tag:
+  - Penipuan Investasi di Telegram
+  - Investasi Bodong
+  - Tips Keuangan
+  - Penipuan Telegram
+featuredImage:
+  src: https://images.unsplash.com/photo-1594979194853-f7dcd77a0a1b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxMTc3M3wwfDF8c2VhcmNofDN8fHNjYW18ZW58MHx8fHwxNjQzMjcxMDQw&ixlib=rb-1.2.1&q=80&w=1080
+  alt: Kenali sistem ponzi yang sering memakan banyak korban dengan modus
+    investasi dengan keuntungan besar
+  title: "Mengenal ponzi scheme yang banyak memakan korban "
+image: https://images.unsplash.com/photo-1594979194853-f7dcd77a0a1b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxMTc3M3wwfDF8c2VhcmNofDN8fHNjYW18ZW58MHx8fHwxNjQzMjcxMDQw&ixlib=rb-1.2.1&q=80&w=1080
+category:
+  - Investasi
+---
 
 
 Salah satu aspek penting sebelum mulai berinvestasi adalah memperkaya **literasi tentang investasi itu sendiri**, agar tidak mudah terjerat penipuan berkedok investasi atau yang biasa disebut investasi bodong.
