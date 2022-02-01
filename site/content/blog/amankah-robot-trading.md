@@ -1,15 +1,31 @@
-+++
-author = "Abdul Wahhab"
-category = ["Robot Trading", "Penipuan Investasi di Telegram", "Investasi Bodong"]
-date = 2021-11-19T13:22:37Z
-metaDescription = "Trading forex menggunakan robot menjadi hal yang sangat populer belakangan ini, namun tidak sedikit juga robot trading menjadi modus penipuan oleh pihak.."
-draft = false
-image = "https://images.unsplash.com/photo-1531837763904-5d3cb2632ea3?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxMTc3M3wwfDF8c2VhcmNofDYwfHxyb2JvdCUyMHRyYWRpbmd8ZW58MHx8fHwxNjQwMDYyMTE4&ixlib=rb-1.2.1&q=80&w=1080"
-slug = "amankah-robot-trading"
-tag = ["Robot Trading", "Penipuan Investasi di Telegram", "Investasi Bodong"]
-title = "Amankah Robot Trading? Memahami Apa Itu Robot Trading yang Sering Jadi Modus Penipuan"
-
-+++
+---
+draft: false
+author: Abdul Wahhab
+title: Amankah Robot Trading? Waspadai Modus Penipuan Robot Trading Forex
+metaTitle: Amankah Robot Trading? Waspadai Modus Penipuan Robot Trading Forex
+metaDescription: Trading forex menggunakan robot menjadi hal yang sangat populer
+  belakangan ini, namun tidak sedikit juga robot trading menjadi modus penipuan
+intro: Belakangan, robot trading forex  menjadi topik yang banyak
+  diperbincangkan karena banyak disebut-sebut bisa memberikan keuntungan yang
+  besar bagi para trader. Namun, belakangan robot trading menjadi salah modus
+  penipuan yang memakan banyak korban. Karena itu yuk kita apa itu sebenarnya
+  robot trading agar kita terhindar dari modus penipuan satu ini.
+isPinned: true
+slug: amankah-robot-trading
+date: 2021-11-19T13:22:37.000Z
+tag:
+  - Robot Trading
+  - Penipuan Investasi di Telegram
+  - Investasi Bodong
+  - Penipuan Telegram
+featuredImage:
+  src: https://images.unsplash.com/photo-1531837763904-5d3cb2632ea3?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxMTc3M3wwfDF8c2VhcmNofDYwfHxyb2JvdCUyMHRyYWRpbmd8ZW58MHx8fHwxNjQwMDYyMTE4&ixlib=rb-1.2.1&q=80&w=1080
+  alt: Waspada dan kenali berbagai modus penipuan dengan kedok robot trading forex
+  title: Mengenal investasi bodong dengan modus robot trading
+image: https://images.unsplash.com/photo-1531837763904-5d3cb2632ea3?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxMTc3M3wwfDF8c2VhcmNofDYwfHxyb2JvdCUyMHRyYWRpbmd8ZW58MHx8fHwxNjQwMDYyMTE4&ixlib=rb-1.2.1&q=80&w=1080
+category:
+  - Investasi
+---
 
 
 Dalam beberapa waktu belakangan, kamu pasti sering mendengar istilah robot trading atau di mana kegiatan otomasi trading dengan menggunakan suatu aplikasi/ sistem yang disebut robot.
