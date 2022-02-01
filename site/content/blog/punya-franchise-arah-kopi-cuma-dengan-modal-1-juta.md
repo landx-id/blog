@@ -1,15 +1,33 @@
-+++
-author = "Khurin N. Imandini"
-category = ["Arah Kopi", "Bisnis Franchise Modal Kecil", "franchise f&b", "Bisnis F&B", "Bisnis Kopi", "Bisnis Modal Kecil", "bisnis patungan", "Cloud Kitchen"]
-date = 2022-01-26T17:50:10Z
-metaDescription = "Arah Kopi pertama kali dibuka pada tahun 2018. Meskipun baru berdiri selama 4 tahun, kini Arah Kopi sudah memiliki 46 outlet di berbagai kawasan Indonesia"
-draft = false
-image = "https://accountgram-production.sfo2.cdn.digitaloceanspaces.com/landx_ghost/2022/01/Bisnis-arah-kopi-modal-1-juta-min.png"
-slug = "punya-franchise-arah-kopi-cuma-dengan-modal-1-juta"
-tag = ["Arah Kopi", "Bisnis Franchise Modal Kecil", "franchise f&b", "Bisnis F&B", "Bisnis Kopi", "Bisnis Modal Kecil", "bisnis patungan", "Cloud Kitchen"]
-title = "Mengenal Arah Kopi: Coffee Shop yang Tetap Berkembang Pesat di Tengah Pandemi"
-
-+++
+---
+draft: false
+author: Khurin N. Imandini
+title: "Mengenal Arah Kopi: Coffee Shop yang Tetap Berkembang Saat Pandemi"
+metaTitle: "Mengenal Arah Kopi: Coffee Shop yang Tetap Berkembang Saat Pandemi"
+metaDescription: Arah Kopi adalah bisnis coffee shop yang berdiri pada tahun
+  2018 dan berkembang pesat hingga hari ini dengan total 46 cabang
+intro: Arah Kopi merupakan salah satu franchise coffee shop yang menawarkan
+  berbagai menu kopi dari biji kopi khas nusantara. Yuk simak bagaimana
+  perkembangan bisnis Arah Kopi dan Cara jadi pemilik Arah Kopi modal 1 juta
+isPinned: true
+slug: punya-franchise-arah-kopi-cuma-dengan-modal-1-juta
+date: 2022-01-26T17:50:10.000Z
+tag:
+  - Arah Kopi
+  - Bisnis Franchise Modal Kecil
+  - franchise f&b
+  - Bisnis F&B
+  - Bisnis Kopi
+  - Bisnis Modal Kecil
+  - bisnis patungan
+  - Cloud Kitchen
+featuredImage:
+  src: https://accountgram-production.sfo2.cdn.digitaloceanspaces.com/landx_ghost/2022/01/Bisnis-arah-kopi-modal-1-juta-min.png
+  alt: jadi pemilik franchise arah kopi modal 1 juta
+  title: Simak cara memiliki bisnis arah kopi cuma denga modal 1 juta aja
+image: https://accountgram-production.sfo2.cdn.digitaloceanspaces.com/landx_ghost/2022/01/Bisnis-arah-kopi-modal-1-juta-min.png
+category:
+  - Bisnis
+---
 
 
 Kultur kopi di Indonesia telah berkembang cukup pesat. Beragam jenis _coffee shop_ kini telah menjamur di hampir setiap penjuru kota. Masing-masingnya juga memiliki segmen pelanggan yang beragam, mulai dari anak-anak remaja, orang dewasa hingga orang tua.
