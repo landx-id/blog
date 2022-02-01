@@ -1,15 +1,33 @@
-+++
-author = "Abdul Wahhab"
-category = ["faq", "landx", "news", "Investasi Bodong", "Penipuan Investasi di Telegram"]
-date = 2021-04-15T06:18:00Z
-metaDescription = "Waspada berbagai modus investasi penipuan yang mengatasnamakan LandX melalui berbagai platform media sosial. Berikut adalah media sosial resmi LandX"
-draft = false
-image = "https://images.unsplash.com/photo-1594979194853-f7dcd77a0a1b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxMTc3M3wwfDF8c2VhcmNofDN8fHNjYW18ZW58MHx8fHwxNjM5MDI4NjM0&ixlib=rb-1.2.1&q=80&w=1080"
-slug = "waspada-penipuan-mengatasnamakan-landx-dengan-modus-titip-dana"
-tag = ["faq", "landx", "news", "Investasi Bodong", "Penipuan Investasi di Telegram"]
-title = "Waspada Penipuan Mengatasnamakan LandX dengan Modus Titip Dana"
-
-+++
+---
+draft: false
+author: Abdul Wahhab
+title: Waspada Penipuan Mengatasnamakan LandX dengan Modus Titip Dana
+metaTitle: Waspada Penipuan Mengatasnamakan LandX dengan Modus Titip Dana
+metaDescription: Waspada berbagai modus investasi penipuan yang mengatasnamakan
+  LandX melalui berbagai platform media sosial. Berikut adalah media sosial
+  resmi LandX
+intro: “LandX saat ini tidak memiliki grup telegram untuk investasi, media
+  sosial resmi LandX bisa anda lihat melalui halaman utama LandX”
+isPinned: true
+slug: waspada-penipuan-mengatasnamakan-landx-dengan-modus-titip-dana
+date: 2021-04-15T06:18:00.000Z
+tag:
+  - faq
+  - landx
+  - news
+  - Investasi Bodong
+  - Penipuan Investasi di Telegram
+  - Penipuan Telegram
+featuredImage:
+  src: https://accountgram-production.sfo2.cdn.digitaloceanspaces.com/landx_ghost/2021/11/Hati-hati-penipuan-investasi-bodong-yang-mengatasnamakan-LandX-di-Telegram.jpg
+  alt: Berbagai modus investasi bodong yang harus kamu hindari agar investasi kamu
+    bisa melakukan investasi dengan aman
+  title: Kenali berbagai jenis modus investasi bodong yang harus kamu waspadai
+    yang kini kian marak di berbagai platform digital
+image: https://images.unsplash.com/photo-1594979194853-f7dcd77a0a1b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxMTc3M3wwfDF8c2VhcmNofDN8fHNjYW18ZW58MHx8fHwxNjM5MDI4NjM0&ixlib=rb-1.2.1&q=80&w=1080
+category:
+  - Investasi
+---
 
 
 > **“LandX saat ini tidak memiliki grup telegram untuk investasi, media sosial resmi LandX bisa anda lihat melalui halaman utama [LandX](https://landx.id/)”**
