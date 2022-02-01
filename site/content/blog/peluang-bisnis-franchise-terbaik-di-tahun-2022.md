@@ -21,6 +21,7 @@ tag:
   - peluang bisnis
   - patungan bisnis
   - Bebek BKB
+  - Padang Merdeka
 featuredImage:
   src: https://images.unsplash.com/photo-1637291454111-1d115acb5023?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxMTc3M3wwfDF8c2VhcmNofDExfHwyMDIyfGVufDB8fHx8MTY0MDE0OTU5NA&ixlib=rb-1.2.1&q=80&w=1080
   alt: Berbagai bisnis franchise terbaik yang bisa jadi sumber cuan kamu di tahun
