@@ -6,12 +6,12 @@ metaTitle: Apa Itu Blockchain? Ini Pengertian, Kelebihan, dan Karakteristik
 metaDescription: "Blockchain adalah sistem penyimpanan data yang
   terdesentralisasi sehingga menjadi sistem yang digunakan untuk berbagai "
 intro: >-
-  Seiring meleknya masyarakat Indonesia terhadap cryptocurrency atau kripto,
-  istilah yang mendukung seperti Blockchain juga mulai mendapat perhatian. Namun
-  tidak semua orang paham dengan istilah tersebut.
+  Blockchain adalah pengembangan teknologi dengan sistem digital yang membuat
+  penyimpanan data jadi terintegrasi satu sama lain. Sistem ini menjadi populer
+  belakangan karena sistem ini dinilai bisa digunakan diberbagai sektor bisnis.
 
 
-  Blockchain adalah pengembangan teknologi dengan sistem digital yang membuat penyimpanan data jadi terintegrasi satu sama lain. Sistem ini menjadi populer belakangan karena sistem ini dinilai bisa digunakan diberbagai sektor bisnis.
+  Karena itu, yuk kita bahas dan pelajari lebih lanjut tentang apa itu blockchain dan bagaimana cara berinvestasi dengan instrumen investasi satu ini.
 isPinned: true
 slug: apa-itu-blockchain-ini-pengertian-kelebihan-dan-cara-kerjanya
 date: 2022-01-31T18:56:11.853Z
@@ -25,7 +25,7 @@ featuredImage:
   title: Memahami konsep blockchain sebagai salah satu instrumen investasi
 image: https://images.unsplash.com/photo-1559445368-b8a993676d7a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxMTc3M3wwfDF8c2VhcmNofDExfHxibG9ja2NoYWlufGVufDB8fHx8MTY0MDA2MjAyNg&ixlib=rb-1.2.1&q=80&w=1080
 category:
-  - Block Chain
+  - Blockchain
   - Investasi
 ---
 Seiring meleknya masyarakat Indonesia terhadap cryptocurrency atau kripto, istilah yang mendukung seperti Blockchain juga mulai mendapat perhatian. Namun tidak semua orang paham dengan istilah tersebut.
