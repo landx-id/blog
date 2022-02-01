@@ -1,15 +1,32 @@
-+++
-author = "Khurin N. Imandini"
-category = ["Padang Merdeka: Bisnis Rumah Makan Padang dengan Konsep Modern", "Bisnis F&B", "Bisnis Franchise Modal Kecil", "Bisnis Modal Kecil", "Franchise Makanan"]
-date = 2021-12-17T17:27:15Z
-metaDescription = "Restoran Padang Merdeka baru saja listing di LandX dan langsung diserbu oleh para investor hingga sold hanya dalam 39 menit, yuk cek berbagai project LandX"
-draft = false
-image = "https://accountgram-production.sfo2.cdn.digitaloceanspaces.com/landx_ghost/2021/12/PADANG-MERDEKA-LISTING-DI-LANDX-SOLD-CUMA-DENGAN-39-MENIT-copy.jpg"
-slug = "listing-padang-merdeka-di-landx"
-tag = ["Padang Merdeka: Bisnis Rumah Makan Padang dengan Konsep Modern", "Bisnis F&B", "Bisnis Franchise Modal Kecil", "Bisnis Modal Kecil", "Franchise Makanan"]
-title = "Padang Merdeka: SOLD OUT Setelah Beberapa Menit Listing!"
-
-+++
+---
+draft: false
+author: Khurin N. Imandini
+title: "Padang Merdeka: SOLD OUT Setelah Beberapa Menit Listing!"
+metaTitle: "Padang Merdeka: SOLD OUT Setelah Beberapa Menit Listing!"
+metaDescription: Restoran Padang Merdeka baru saja listing di LandX dan langsung
+  diserbu oleh para investor hingga sold hanya  39 menit, yuk cek berbagai
+  project LandX
+intro: "Rumah Makan Padang Merdeka listing di LandX dan sold out hanya dalam
+  beberapa waktu beberapa menit "
+isPinned: true
+slug: listing-padang-merdeka-di-landx
+date: 2021-12-17T17:27:15.000Z
+tag:
+  - "Padang Merdeka: Bisnis Rumah Makan Padang dengan Konsep Modern"
+  - Bisnis F&B
+  - Bisnis Franchise Modal Kecil
+  - Bisnis Modal Kecil
+  - Franchise Makanan
+  - Padang Merdeka
+featuredImage:
+  src: https://accountgram-production.sfo2.cdn.digitaloceanspaces.com/landx_ghost/2021/12/PADANG-MERDEKA-LISTING-DI-LANDX-SOLD-CUMA-DENGAN-39-MENIT-copy.jpg
+  alt: Padang merdeka sold out di landx hanya beberapa menit setelah listing
+  title: Selamat bagi semua investor yang telah bergabung ke dalam project padang
+    merdeka di landx
+image: https://accountgram-production.sfo2.cdn.digitaloceanspaces.com/landx_ghost/2021/12/PADANG-MERDEKA-LISTING-DI-LANDX-SOLD-CUMA-DENGAN-39-MENIT-copy.jpg
+category:
+  - Bisnis
+---
 
 
 ### Lagi-lagi Bisnis Kuliner Jadi Incaran Peternak Cuan!
