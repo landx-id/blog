@@ -1,15 +1,33 @@
-+++
-author = "Abdul Wahhab"
-category = ["Investasi Bodong", "Penipuan Investasi di Telegram", "tips investasi", "investasi pemula"]
-date = 2021-11-11T08:57:56Z
-metaDescription = "Investasi bodong adalah modus yang mengajak investor menanamkan modal mereka ke dalam suatu proyek fiktif yang merugikan investor pemula yang masih awam"
-draft = false
-image = "https://accountgram-production.sfo2.cdn.digitaloceanspaces.com/landx_ghost/2021/11/Hati-hati-penipuan-investasi-bodong-yang-mengatasnamakan-LandX-di-Telegram.jpg"
-slug = "berbagai-skema-investasi-bodong-yang-wajib-investor-pemula-waspadai"
-tag = ["Investasi Bodong", "Penipuan Investasi di Telegram", "tips investasi", "investasi pemula"]
-title = "Mengenal Berbagai Modus Investasi Bodong dan Cara Terhindar dari Penipuan dengan Kedok Investasi"
-
-+++
+---
+draft: false
+author: Abdul Wahhab
+title: Mengenal Berbagai Modus Investasi Bodong yang Harus Kamu Hindari
+metaTitle: Mengenal Berbagai Modus Investasi Bodong yang Harus Kamu Hindari
+metaDescription: Investasi bodong adalah modus yang mengajak investor menanamkan
+  modal mereka ke dalam suatu proyek fiktif yang merugikan investor pemula yang
+  mas
+intro: Supaya kamu terhindar dari berbagai jenis investasi bodong yang kian
+  marak di luar sana, yuk kenali berbagai jenis modus investasi bodong yang
+  harus kamu hindari
+isPinned: true
+slug: berbagai-skema-investasi-bodong-yang-wajib-investor-pemula-waspadai
+date: 2022-02-01T08:57:56.000Z
+tag:
+  - Investasi Bodong
+  - Penipuan Investasi di Telegram
+  - tips investasi
+  - investasi pemula
+  - Penipuan Telegram
+featuredImage:
+  src: https://accountgram-production.sfo2.cdn.digitaloceanspaces.com/landx_ghost/2021/11/Hati-hati-penipuan-investasi-bodong-yang-mengatasnamakan-LandX-di-Telegram.jpg
+  alt: Memahami berbagai modus investasi bodong yang sering menjebak para investor
+    pemula
+  title: Mengenali berbagai modus investasi bodong yang kian marak dalam beberapa
+    waktu belakangan dan memakan banyak korban
+image: https://accountgram-production.sfo2.cdn.digitaloceanspaces.com/landx_ghost/2021/11/Hati-hati-penipuan-investasi-bodong-yang-mengatasnamakan-LandX-di-Telegram.jpg
+category:
+  - Investasi
+---
 
 
 Sebagai investor pemula, investasi bodong adalah momok yang menghantui investor pemula yang masih dalam proses belajar dan mencari investasi yang sesuai dengan mereka.
