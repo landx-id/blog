@@ -1,5 +1,5 @@
 ---
-title: Bisnis FB
+title: bisnis f&b
 metaTitle: Memahami Apa Itu Bisnis F&B dan Cara Jadi Owner Bisnis FnB
 metaDescription: Bisnis F&B merupakan salah satu bisnis potensial dan memiliki
   pasar yang sangat luas, karena itu yuk cek cara jadi pemilik bisnis fnb modal
