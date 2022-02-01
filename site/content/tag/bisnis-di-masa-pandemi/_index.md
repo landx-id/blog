@@ -1,5 +1,5 @@
 ---
-title: bisnis di masa pandemi
+title: bisnis masa pandemi
 metaTitle: Pilihan Bisnis Menguntungkan di Masa Pandemi
 metaDescription: Yuk simak berbagai jenis bisnis yang tetap menguntungkan di masa pandemi
 featuredImage:
