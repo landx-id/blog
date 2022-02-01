@@ -1,15 +1,36 @@
-+++
-author = "Vlora Riyandi"
-category = ["Bisnis Franchise Modal Kecil", "sistem franchise", "Franchise Makanan", "Bisnis Modal Kecil", "Hong Tang", "Padang Merdeka: Bisnis Rumah Makan Padang dengan Konsep Modern", "peluang bisnis", "patungan bisnis", "Bebek BKB"]
-date = 2021-12-16T03:49:47Z
-metaDescription = "Mau punya bisnis dengan sistem franchise tapi modal masih terbatas? Yuk simak peluang bisnis franchise modal kecil yang bisa jadi sumber cuan di 2022"
-draft = false
-image = "https://images.unsplash.com/photo-1637291454111-1d115acb5023?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxMTc3M3wwfDF8c2VhcmNofDExfHwyMDIyfGVufDB8fHx8MTY0MDE0OTU5NA&ixlib=rb-1.2.1&q=80&w=1080"
-slug = "peluang-bisnis-franchise-terbaik-di-tahun-2022"
-tag = ["Bisnis Franchise Modal Kecil", "sistem franchise", "Franchise Makanan", "Bisnis Modal Kecil", "Hong Tang", "Padang Merdeka: Bisnis Rumah Makan Padang dengan Konsep Modern", "peluang bisnis", "patungan bisnis", "Bebek BKB"]
-title = "Peluang Bisnis Franchise Menjanjikan Tahun 2022, Siap Sambut Cuan!"
-
-+++
+---
+draft: false
+author: Vlora Riyandi
+title: Peluang Bisnis Franchise Menjanjikan Tahun 2022, Siap Sambut Cuan!
+metaTitle: Peluang Bisnis Franchise Menjanjikan Tahun 2022, Siap Sambut Cuan!
+metaDescription: Mau punya bisnis dengan sistem franchise tapi modal masih
+  terbatas? Yuk simak peluang bisnis franchise modal kecil yang bisa jadi sumber
+  cuan di 2022
+intro: 2022 mau panen cuan? Yuk cek berbagai pilihan bisnis franchise terbaik
+  yang bisa jadi lahan investasi menguntungkan kamu
+isPinned: false
+slug: peluang-bisnis-franchise-terbaik-di-tahun-2022
+date: 2021-12-16T03:49:47.000Z
+tag:
+  - Bisnis Franchise Modal Kecil
+  - sistem franchise
+  - Franchise Makanan
+  - Bisnis Modal Kecil
+  - Hong Tang
+  - "Padang Merdeka: Bisnis Rumah Makan Padang dengan Konsep Modern"
+  - peluang bisnis
+  - patungan bisnis
+  - Bebek BKB
+featuredImage:
+  src: https://images.unsplash.com/photo-1637291454111-1d115acb5023?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxMTc3M3wwfDF8c2VhcmNofDExfHwyMDIyfGVufDB8fHx8MTY0MDE0OTU5NA&ixlib=rb-1.2.1&q=80&w=1080
+  alt: Berbagai bisnis franchise terbaik yang bisa jadi sumber cuan kamu di tahun
+    2022
+  title: Peluang Bisnis Franchise Menjanjikan Tahun 2022, Siap Sambut Cuan!
+image: https://images.unsplash.com/photo-1637291454111-1d115acb5023?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxMTc3M3wwfDF8c2VhcmNofDExfHwyMDIyfGVufDB8fHx8MTY0MDE0OTU5NA&ixlib=rb-1.2.1&q=80&w=1080
+category:
+  - Bisnis
+  - Investasi
+---
 
 
 **[Bisnis franchise atau waralaba adalah](https://landx.id/blog/tag/franchise-f-b/)** metode kepemilikan pada suatu bisnis model untuk mendapatkan hak mendistribusikan produk atau jasa sebuah bisnis yang sudah terbukti sukses di bawah perjanjian waralaba.
