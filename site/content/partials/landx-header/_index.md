@@ -4,6 +4,6 @@ headerCategory:
   - Cara Investasi di Securities Crowdfunding
   - Investasi
   - Keuangan
-  - Block Chain
+  - Blockchain
   - Bisnis
 ---
