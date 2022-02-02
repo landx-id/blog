@@ -39,25 +39,25 @@ Karena itu [investor](https://landx.id/)  perlu paham apa itu *Price to Book Val
 
 - - -
 
-## Pahami Dulu Apa Itu Price to Book Value?
+## Apa Itu Price to Book Value?
 
-*Price to Book Value* (PBV) merupakan salah satu rasio keuangan yang bisa digunakan untuk menilai apakah sebuah saham layak untuk dibeli atau tidak.
+***Price to Book Value* (PBV) adalah rasio keuangan yang bisa digunakan untuk menilai apakah sebuah saham layak untuk dibeli atau tidak.**
 
-PBV adalah rasio harga terhadap nilai buku untuk melihat harga sebuah saham masuk dalam kategori mahal atau murah untuk membantu investor menemukan saham yang tepat untuk investasi mereka.
+> PBV adalah rasio harga terhadap nilai buku untuk melihat apakah harga suatu saham masuk kategori murah atau mahal sehingga membantu keputusan investasi anda.
 
 Sebagai salah satu rasio keuangan, PBV juga bisa digunakan untuk analisis kondisi keuangan dari sebuah perusahaan agar anda bisa melihat bagaimana kondisi keuangan dari perusahaan yang ingin anda beli sahamnya.
 
-Rasio ini bisa memberikan anda gambaran seberapa besar kemampuan perusahaan menghasilkan nilai dari modal yang diinvestasikan.
+Rasio PBV ini bisa memberikan anda gambaran seberapa besar kemampuan perusahaan menghasilkan nilai dari modal yang diinvestasikan.
 
-[PBV](https://landx.id/) juga bertujuan untuk memperkirakan harga saham pada saat ini dan melihat berapa banyak pemegang saham yang berkontribusi dalam pendanaan aset bersih dari sebuah perusahaan.
+[PBV](https://landx.id/) saham juga bertujuan untuk memperkirakan harga saham pada saat ini dan melihat berapa banyak pemegang saham yang berkontribusi dalam pendanaan aset bersih dari sebuah perusahaan.
 
-Melalui PBV anda bisa melihat apakah harga saham yang beredar di pasar saat ini sejalan dengan nilai buku perusahaan.
+Dengan menghitung PBV investor jadi bisa melihat apakah harga saham yang beredar di pasar saat ini sejalan dengan nilai buku perusahaan. 
 
-Melalui PBV anda bisa melihat tahu apakah saham yang ingin anda beli saat ini berada dalam kategori *overvalued* atau *undervalued* sehingga anda tahu harga saham saat ini lebih tinggi atau rendah dibandingkan nilai aset perusahaan.
+Nilai PBV membantu kita melihat saham yang inginberada dalam **kategori *overvalued* atau *undervalued*** sehingga anda tahu harga saham saat ini lebih tinggi atau rendah dibandingkan nilai aset perusahaan.
 
-Apabila nilai _Price to Book Value (_PBV) memiliki nilai kurang 1, maka harga saham tersebut bisa dikatakan murah dan begitupun sebaliknya.
+Apabila nilai PBV ratio dari suatu memiliki nilai kurang 1, maka harga saham tersebut bisa dikatakan murah dan begitupun sebaliknya.
 
-Apabila anda sudah paham apa itu PBV dan manfaat memahami rasio ini, selanjutnya anda perlu paham bagaimana menghitung nilai PBV.
+Apabila kamu sudah paham apa itu pbv ratio dan manfaat pbv ratio, selanjutnya anda perlu paham bagaimana menghitung PBV atau nilai buku saham agar investasi kamu menjadi lebih mudah.
 
 ## Bagaimana Cara Menghitung PBV?
 
@@ -69,21 +69,31 @@ Pertama mari pahami dulu rumus menghitung *Price to Book Value* (PBV) di bawah i
 
 **Book Value per Saham = Nilai Ekuitas / Jumlah Saham Yang Beredar**
 
-{{< figure src="https://accountgram-production.sfo2.cdn.digitaloceanspaces.com/landx_ghost/2021/05/image.png" caption="Menghitung Price to Book Value" >}}
+![Book Value per Saham = Nilai Ekuitas / Jumlah Saham Yang Beredar](https://accountgram-production.sfo2.cdn.digitaloceanspaces.com/landx_ghost/2021/05/image.png "cara menghitung pbv saham yang penting dipahami para investor")
 
 **Price to Book Value = Harga Pasar Saham / Book Value per Saham**
 
-{{< figure src="https://accountgram-production.sfo2.cdn.digitaloceanspaces.com/landx_ghost/2021/05/image-1.png" caption="Menghitung Price to Book Value" >}}
+![menghitung price to book value yang perlu dihitung sebelum membeli saham](https://accountgram-production.sfo2.cdn.digitaloceanspaces.com/landx_ghost/2021/05/image-1.png "Cara menghitung pbv yang perlu dipahami oleh investor")
 
 Nilai PBV bisa anda hitung dengan membagi harga pasar saham pada saat ini dengan nilai book value per saham atau nilai buku dari saham yang tersebut.
 
 Untuk menentukan harga buku atau *book value* dari sebuah saham anda perlu membagi nilai ekuitas dengan jumlah saham yang beredar di pasar saat ini. Untuk data-data ini anda bisa dapatkan melalui web resmi Bursa Efek Indonesia (BEI).
 
-Apabila anda sudah mendapatkan nilai PBV dari sebuah saham, anda sebaiknya membandingkan nilai PBV antar saham dari perusahaan yang memiliki kesamaan seperti kesamaan sektor bisnis sehingga perbandingan yang anda lakukan lebih efektif. Hal ini dikarenakan setiap bidang bisnis memiliki PBV yang berbeda-beda sehingga akan lebih efektif dan akurat apabila perbandingan dilakukan dalam sektor bisnis sejenis.
+Apabila anda sudah mendapatkan nilai PBV dari sebuah saham, anda sebaiknya membandingkan nilai PBV antar saham dari perusahaan yang memiliki kesamaan seperti kesamaan sektor bisnis sehingga perbandingan yang anda lakukan lebih efektif. 
 
-Selain itu, anda harus bahwa sebagian saham memang wajar memiliki nilai PBV yang tinggi karena bidang dan skala bisnis yang mereka jalankan. Karena itu membeli saham dengan PBV tinggi belum tentu merugikan untuk anda.
+Hal ini dikarenakan setiap bidang bisnis memiliki PBV yang berbeda-beda sehingga akan lebih efektif dan akurat apabila perbandingan dilakukan dalam sektor bisnis sejenis.
 
-Akan tetapi, anda harus paham bahwa PBV tidak bisa dijadikan acuan satu-satunya yang harus anda perhatikan dalam memilih saham. Karena itu anda perlu melakukan berbagai macam analisis lain yang bisa membantu anda menemukan saham terbaik untuk investasi anda.
+Selain itu, anda harus bahwa sebagian saham memang wajar memiliki nilai PBV yang tinggi karena bidang dan skala bisnis yang mereka jalankan. 
+
+Karena itu membeli saham dengan PBV tinggi belum tentu merugikan untuk anda.
+
+Akan tetapi, anda harus paham bahwa PBV tidak bisa dijadikan acuan satu-satunya yang harus anda perhatikan dalam memilih saham. 
+
+Karena itu anda perlu melakukan berbagai macam analisis lain yang bisa membantu anda menemukan saham terbaik untuk investasi anda.
+
+## PBV Saham yang Bagus
+
+PBV ratio atau rasio pbv merupakan rasio yang memnantu
 
 ## Kesimpulan
 
