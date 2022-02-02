@@ -15,7 +15,7 @@
     display: flex;
     flex-direction: row;
     gap: 12px;
-    align-items: center;
+    align-items: flex-start;
     padding: 16px;
   }
 
@@ -38,7 +38,13 @@
     font-size: 0.7rem;
     /* color: #8ca1b1; */
     overflow: hidden;
-    max-width: 75ch;
+    /* max-width: 25ch; */
+    text-overflow: ellipsis;
+    /* white-space: nowrap; */
+    /* max-height: 60px; */
+    display: -webkit-box;
+    -webkit-line-clamp: 3;
+    -webkit-box-orient: vertical;
   }
 
   .item-detail .date {
@@ -74,20 +80,23 @@
 
 <a href="{{ .RelPermalink }}" class="item-card">
   {{if .Params.image}}
-    {{if in .Params.image "http"}}
-    <img loading="lazy" src="{{.Params.image}}" class="image" alt="{{.Params.title}}" title="{{.Params.title}}"/>
-    {{else}}
-    <img loading="lazy" src="{{.Site.Params.pathUrl}}/{{.Params.image}}" class="image" alt="{{.Params.title}}" title="{{.Params.title}}"/>
-    {{end}}
-
-  {{else if .Params.featuredImage.src}} 
-    {{if in .Params.featuredImage.src "http"}}
-    <img loading="lazy" src="{{.Params.featuredImage.src}}" class="image" alt="{{.Params.featuredImage.alt}}" title="{{.Params.featuredImage.title}}"/>
-    {{else}}
-    <img loading="lazy" src="{{.Site.Params.pathUrl}}/{{.Params.featuredImage.src}}" class="image" alt="{{.Params.featuredImage.alt}}" title="{{.Params.featuredImage.title}}"/>
-    {{end}}
+  {{if in .Params.image "http"}}
+  <img loading="lazy" src="{{.Params.image}}" class="image" alt="{{.Params.title}}" title="{{.Params.title}}" />
+  {{else}}
+  <img loading="lazy" src="{{.Site.Params.pathUrl}}/{{.Params.image}}" class="image" alt="{{.Params.title}}"
+    title="{{.Params.title}}" />
   {{end}}
-  
+
+  {{else if .Params.featuredImage.src}}
+  {{if in .Params.featuredImage.src "http"}}
+  <img loading="lazy" src="{{.Params.featuredImage.src}}" class="image" alt="{{.Params.featuredImage.alt}}"
+    title="{{.Params.featuredImage.title}}" />
+  {{else}}
+  <img loading="lazy" src="{{.Site.Params.pathUrl}}/{{.Params.featuredImage.src}}" class="image"
+    alt="{{.Params.featuredImage.alt}}" title="{{.Params.featuredImage.title}}" />
+  {{end}}
+  {{end}}
+
   <div class="item-detail">
     <div class="title bold">{{.Params.title}}</div>
     <p class="summary">{{.Params.intro}}</p>

@@ -1,4 +1,9 @@
 <div class="jumbotron-container">
+    {{if in .imageUrl "http"}}
+    <img src="{{.imageUrl}}" class="bg" alt="{{.altText}}" />
+    {{else}}
     <img src="{{.path}}{{.imageUrl}}" class="bg" alt="{{.altText}}" />
+    {{end}}
+
     <div class="jumbotron-text">{{.title}}</div>
 </div>
