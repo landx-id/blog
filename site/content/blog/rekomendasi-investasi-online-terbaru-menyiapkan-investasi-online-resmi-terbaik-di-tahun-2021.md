@@ -64,23 +64,27 @@ Salah satu contoh investasi online terbaru adalah crowdfunding atau urun dana ya
 Berkembangnya sistem online membuka peluang untuk investor pemula dapat mulai [berinvestasi dengan modal yang kecil](https://landx.id/). Untuk itu berikut adalah beberapa investasi online terbaru yang cocok untuk pemula:
 
 1. **[Equity Crowdfunding](https://landx.id/)**\
+   \
    equity crowdfunding adalah pilihan investasi online terbaru yang akan memberikan kesempatan kepada para investor untuk menyalurkan dana mereka ke dalam berbagai jenis bisnis yang telah mendaftarkan diri ke dalam platform equity crowdfunding. Sistem ini akan memberikan return berupa dividen yang akan disesuaikan kepemilikan modal anda dalam sebuah bisnis. \
    \
    Investasi ini sepenuhnya berbasis digital sehingga proses transaksi hingga pembagian dividen pun dilakukan secara digital. 
    Dalam melakukan investasi ini hal penting yang perlu dipertimbangkan adalah bagaimana memilih platform equity crowdfunding terpercaya agar proses investasi online anda menjadi lebih minim risiko kerugian. 
 2. **[Investasi Properti Online](https://landx.id/)** \
+   \
    Perkembangan zaman membuat kini investasi properti dapat dilakukan dengan sistem online. Dalam hal ini anda memiliki berbagai pilihan seperti berinvestasi lewat crowdfunding properti yang akan memudahkan investor pemula untuk memulai investasi properti walaupun dengan modal yang kecil karena properti dapat dibeli secara patungan. \
    \
    Walaupun investasi properti sering dianggap sebagai investasi yang dengan risiko rendah, anda tetap harus memahami bisnis properti dengan baik agar anda dapat memilih properti terbaik yang bisa memberikan anda keuntungan dalam jangka panjang. 
-3. **Nabung Emas Online** \
+3. **Nabung Emas Online**\
+    \
    Investasi ke dalam emas merupakan investasi yang sudah kita kenal sejak dulu. Kini anda bisa melakukan transaksi emas dengan lebih mudah karena sudah tersedia di berbagai platform digital. Sistem ini sangat memudahkan proses investasi emas yang dilakukan karena emas yang dimiliki dapat diperjualbelikan dengan lebih cepat. \
    \
-   Selain itu sistem ini juga lebih aman karena anda tidak harus menyimpan emas anda secara langsung sehingga terhindar dari berbagai risiko seperti pencurian atau kehilangan. 
-4. **Investasi Saham Online**\
-   \
-   Kemajuan sistem informasi membuat investasi saham kini makin mudah dengan sistem online melalui platform berbasis web atau aplikasi. Dengan sistem ini investor dapat memantau harga saham mereka secara real-time dan dapat mengambil keputusan cepat. \
-   \
-   Oleh sebab itu sekarang saham dapat diakses oleh investor dalam dalam lingkup yang lebih luas lagi. Karena itu tidak ada lagi alasan tidak berinvestasi karena investasi kini dapat diakses dengan sangat mudah.
+   Selain itu sistem ini juga lebih aman karena anda tidak harus menyimpan emas anda secara langsung sehingga terhindar dari berbagai risiko seperti pencurian atau kehilangan..
+
+**Investasi Saham Online**\
+\
+Kemajuan sistem informasi membuat investasi saham kini makin mudah dengan sistem online melalui platform berbasis web atau aplikasi. Dengan sistem ini investor dapat memantau harga saham mereka secara real-time dan dapat mengambil keputusan cepat. \
+\
+Oleh sebab itu sekarang saham dapat diakses oleh investor dalam dalam lingkup yang lebih luas lagi. Karena itu tidak ada lagi alasan tidak berinvestasi karena investasi kini dapat diakses dengan sangat mudah.
 
 ## Tips Memilih Instrumen Investasi Online
 
