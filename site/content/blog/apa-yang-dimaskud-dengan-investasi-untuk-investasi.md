@@ -1,47 +1,71 @@
-+++
-author = "Abdul Wahhab"
-category = ["tips investasi", "bisnis investasi", "bisnis jangka panjang", "bisnis investasi online", "cara kerja reksa dana", "Cara Investasi Saham", "diversifikasi dalam investasi", "efek compounding", "Equity Crowdfunding", "investasi bisnis", "investasi dengan modal kecil", "investasi jangka panjang", "investasi keuangan", "Investasi Menguntungkan", "Investasi modal kecil", "investasi online", "investor pemula", "Securities Crowdfunding untuk Pengembangan UMKM di Indonesia"]
-date = 2021-10-11T10:13:51Z
-metaDescription = "Investasi adalah kegiatan penenaman modal pada suatu kegiatan ekonomi atau bisnis dengan harapan keuntungan atau return di masa mendatang"
-draft = false
-image = "https://images.unsplash.com/photo-1604594849809-dfedbc827105?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxMTc3M3wwfDF8c2VhcmNofDF8fGludmVzdG1lbnR8ZW58MHx8fHwxNjQwMTQ4ODMw&ixlib=rb-1.2.1&q=80&w=1080"
-slug = "apa-yang-dimaskud-dengan-investasi-untuk-investasi"
-tag = ["tips investasi", "bisnis investasi", "bisnis jangka panjang", "bisnis investasi online", "cara kerja reksa dana", "Cara Investasi Saham", "diversifikasi dalam investasi", "efek compounding", "Equity Crowdfunding", "investasi bisnis", "investasi dengan modal kecil", "investasi jangka panjang", "investasi keuangan", "Investasi Menguntungkan", "Investasi modal kecil", "investasi online", "investor pemula", "Securities Crowdfunding untuk Pengembangan UMKM di Indonesia"]
-title = "Memahami Apa yang Dimaksud dengan Investasi dan Instrumen Investasi yang Cocok untuk Pemula"
-
-+++
-
-
+---
+draft: false
+author: Abdul Wahhab
+slug: apa-yang-dimaskud-dengan-investasi-untuk-investasi
+title: Memahami Apa Itu Investasi dan Berbagai Instrumen di Dalamnya
+metaTitle: Memahami Apa Itu Investasi dan Berbagai Instrumen di Dalamnya
+metaDescription: Investasi adalah kegiatan penenaman modal pada suatu kegiatan
+  ekonomi atau bisnis dengan harapan keuntungan atau return di masa mendatang
+intro: Kalau kamu masih bingung terkait apa yang dimaksud investasi dan
+  bagaimana cara mulai berinvestasi, yuk kita bahas lebih lanjut tentang konsep
+  investasi dan cara memulai investasi untuk perencanaan keuangan jangka panjang
+  anda
+date: 2022-02-02T09:11:15.397Z
+tag:
+  - tips investasi
+  - bisnis investasi
+  - bisnis jangka panjang
+  - bisnis investasi online
+  - cara kerja reksa dana
+  - Cara Investasi Saham
+  - diversifikasi dalam investasi
+  - efek compounding
+  - Equity Crowdfunding
+  - investasi bisnis
+  - investasi dengan modal kecil
+  - investasi jangka panjang
+  - investasi keuangan
+  - Investasi Menguntungkan
+  - Investasi modal kecil
+  - investasi online
+  - investor pemula
+  - Securities Crowdfunding untuk Pengembangan UMKM di Indonesia
+featuredImage:
+  src: https://images.unsplash.com/photo-1604594849809-dfedbc827105?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxMTc3M3wwfDF8c2VhcmNofDF8fGludmVzdG1lbnR8ZW58MHx8fHwxNjQwMTQ4ODMw&ixlib=rb-1.2.1&q=80&w=1080
+  alt: Pelajari konsep dasar investasi agar kamu paham kenapa kita harus
+    berinvestasi sedini mungkin
+  title: Pentingnya memahami konsep dasar investasi sedini mungkin terutama bagi
+    para investor
+image: https://images.unsplash.com/photo-1604594849809-dfedbc827105?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxMTc3M3wwfDF8c2VhcmNofDF8fGludmVzdG1lbnR8ZW58MHx8fHwxNjQwMTQ4ODMw&ixlib=rb-1.2.1&q=80&w=1080
+category:
+  - Keuangan
+  - Investasi
+---
 Berbicara terkait dengan [investasi](https://landx.id/blog/tag/investasi/), istilah ini tentu saja sangat sering kita dengan belakangan ini. Bagi kamu yang sudah mulai memiliki penghasilan, investasi adalah salah satu rencana keuangan jangka panjang yang harus kamu siapkan.
 
-Investasi adalah kegiatan penanaman modal ke dalam suatu [proyek atau bisnis](https://landx.id/project/) baik dalam jangka panjang maupun pendek dengan harapan tujuan mendapatkan keuntungan atau _return_ dari investasi atau penanaman modal yang dilakukan tersebut.
+Investasi adalah kegiatan penanaman modal ke dalam suatu [proyek atau bisnis](https://landx.id/project/) baik dalam jangka panjang maupun pendek dengan harapan tujuan mendapatkan keuntungan atau *return* dari investasi atau penanaman modal yang dilakukan tersebut.
 
-Investasi artinya kamu akan menaruh uang kamu ke dalam suatu instrumen investasi yang _return_ atau besar keuntungannya berbeda-beda tergantung dengan pilihan instrumen investasi anda. Tapi jangan lupa, dalam investasi ada yang namanya risiko yang sejalan dengan _return_ yang didapatkan.
+Investasi artinya kamu akan menaruh uang kamu ke dalam suatu instrumen investasi yang *return* atau besar keuntungannya berbeda-beda tergantung dengan pilihan instrumen investasi anda. Tapi jangan lupa, dalam investasi ada yang namanya risiko yang sejalan dengan *return* yang didapatkan.
 
 Banyak orang salah mengartikan tentang konsep investasi ini dan beranggapan bahwa investasi merupakan cara mudah dan cepat untuk melipat gandakan uang yang mereka miliki.
 
 Supaya kamu paham dengan baik tentang apa itu investasi dan bagaimana cara menemukan instrumen investasi yang tepat, mari simak artikel di bawah ini.
 
----
-
-## Table of Content
-
-* **Apa Itu Investasi?**
-* [**Alasan Kenapa Investasi Sangat Penting**](#alasan-kenapa-investasi-sangat-penting)
-* **[Cara Memulai Investasi untuk Pemula](#cara-memulai-investasi-untuk-pemula)**
-* [**Instrumen Investasi yang Cocok untuk Pemula**](#instrumen-investasi-yang-cocok-untuk-pemula)
+- - -
 
 ## Apa Itu Investasi?
 
-Seperti yang sudah kita bahas sekilas sebelumnya, investasi simpelnya adalah kegiatan penanaman modal yang dilakukan kepada suatu kegiatan ekonomi dengan harapan _return_ dari kegiatan tersebut.
+Seperti yang sudah kita bahas sekilas sebelumnya, investasi simpelnya adalah kegiatan penanaman modal yang dilakukan kepada suatu kegiatan ekonomi dengan harapan *return* dari kegiatan tersebut.
+
+> Instrumen investasi adalah berbagai jenis media atau objek yang menjadi tempat para investor menyimpan uang mereka agar bisa menghasilkan keuntungan di masa mendatang.
 
 Hal ini bisa digambarkan sebagai berikut, misalnya pihak A sedang mengembangkan suatu bisnis potensial tapi kekurangan dana untuk pengembangan bisnis tersebut sehingga mereka membuka diri kepada investor untuk menanamkan modal mereka.
 
-Sebagai gantinya, investor akan mendapatkan _return_ dari bagi hasil keuntungan bisnis yang dijalankan tersebut.
+Sebagai gantinya, investor akan mendapatkan *return* dari bagi hasil keuntungan bisnis yang dijalankan tersebut.
 
 Dalam kehidupan nyata, penamanan modal ini dilakukan melalui berbagai metode dan instrumen investasi seperti membeli saham, obligasi, atau patungan bisnis melalui equity crowdfunding.
 
-Saat ini, tersedia berbagai jenis instrumen investasi dengan skema yang berbeda-beda dan estimasi _return_ yang beragam. Oleh sebab itu, kamu harus paham dengan baik bagaimana skema dari investasi yang akan anda lakukan agar kamu paham bagaimana investasi yang anda lakukan dapat memberikan keuntungan.
+Saat ini, tersedia berbagai jenis instrumen investasi dengan skema yang berbeda-beda dan estimasi *return* yang beragam. Oleh sebab itu, kamu harus paham dengan baik bagaimana skema dari investasi yang akan anda lakukan agar kamu paham bagaimana investasi yang anda lakukan dapat memberikan keuntungan.
 
 Selanjutnya, mari kita bahas kenapa kita harus mulai berinvestasi sedini mungkin.
 
@@ -51,11 +75,11 @@ Kalau kamu masih ragu berinvestasi, berikut beberapa alasan kenapa kamu harus me
 
 ### 1. Melawan Laju Inflasi
 
-Inflasi merupakan salah satu faktor yang dapat menyebabkan tergerusnya nilai dari uang yang anda miliki. Oleh sebab itu, menyimpan uang di bank saja tidak cukup untuk menjaga nilai yang anda miliki sehingga kamu butuh investasi dengan _return_ terbaik agar uang anda bisa terus berkembang dan melawan laju inflasi.
+Inflasi merupakan salah satu faktor yang dapat menyebabkan tergerusnya nilai dari uang yang anda miliki. Oleh sebab itu, menyimpan uang di bank saja tidak cukup untuk menjaga nilai yang anda miliki sehingga kamu butuh investasi dengan *return* terbaik agar uang anda bisa terus berkembang dan melawan laju inflasi.
 
 ### 2. Meningkatkan Sumber Penghasilan
 
-Seperti yang sudah kita bahas sebelumnya, investasi yang tepat bisa membantu akan menghasilkan _return_ yang dapat menjadi sumber penghasilan tambahan yang dapat membantu cashflow anda. Karena itu, kamu butuh investasi terbaik yang bisa menjadi sumber passive income untuk keuangan kamu.
+Seperti yang sudah kita bahas sebelumnya, investasi yang tepat bisa membantu akan menghasilkan *return* yang dapat menjadi sumber penghasilan tambahan yang dapat membantu cashflow anda. Karena itu, kamu butuh investasi terbaik yang bisa menjadi sumber passive income untuk keuangan kamu.
 
 ### 3. Tujuan Keuangan Jangka Panjang
 
@@ -125,20 +149,19 @@ Salah satu investasi yang cocok untuk pemula adalah investasi bisnis dengan sist
 
 Sistem ini memberikan anda kesempatan untuk melakukan [patungan bisnis](https://landx.id/) bersama para investor lain yang akan menjadi memiliki saham dari bisnis menguntungkan tersebut.
 
-Investasi melalui platform ini bisa memberikan anda [**_passive income_**](https://landx.id/project/) melalui dividen yang bisa membantu kamu mencapai berbagai tujuan finansial jangka panjang yang ingin anda capai. Karena itu,
+Investasi melalui platform ini bisa memberikan anda ***[passive income](https://landx.id/project/)*** melalui dividen yang bisa membantu kamu mencapai berbagai tujuan finansial jangka panjang yang ingin anda capai. Karena itu,
 
 **[Yuk Patungan Bisnis Menguntungkan Bareng Land](https://landx.id/project/)X**
 
 [![Equity crowdfunding merupakan salah satu instrumen investasi dengan potensi keuntungan menjanjikan untuk pemula yang mau berinvestasi](https://accountgram-production.sfo2.cdn.digitaloceanspaces.com/landx_ghost/2021/10/Equity-Crowdfunding-di-Indonesia-1--4.png)](https://landx.id/project/)
 
-[**Jangan Lupa!!! Follow Juga Kami di Instagram @landx.id Untuk Berbagai Informasi Terupdate Seputar Investasi**](https://instagram.com/landx.id?utm_medium=copy_link)
+**[Jangan Lupa!!! Follow Juga Kami di Instagram @landx.id Untuk Berbagai Informasi Terupdate Seputar Investasi](https://instagram.com/landx.id?utm_medium=copy_link)**
 
-**#YukPatunganBisnis    #LandX.id    #landx         #landx.id    #InvestasiBisnis    #EquityCrowdfunding    #InvestasiMenguntungkan    #Urundana    #BisnisPatungan    #InvestasiUsaha**
+**\#YukPatunganBisnis    #LandX.id    #landx         #landx.id    #InvestasiBisnis    #EquityCrowdfunding    #InvestasiMenguntungkan    #Urundana    #BisnisPatungan    #InvestasiUsaha**
 
----
+- - -
 
 **Baca Juga:**
 
-* [**Buat Yang Mau Investasi, Yuk Pahami Seperti Apa Investasi Jangka Panjang yang Baik untuk Anda**](https://landx.id/blog/tag/investasi-jangka-panjang)
-* [**Investasi Modal Kecil:  Jenis dan Memilih Investasi dengan Modal Kecil yang Menguntungkan untuk Anda**](https://landx.id/blog/investasi-modal-kecil-jenis-dan-memilih-investasi-dengan-modal-kecil-yang-menguntungkan-untuk-anda/)
-
+* **[Buat Yang Mau Investasi, Yuk Pahami Seperti Apa Investasi Jangka Panjang yang Baik untuk Anda](https://landx.id/blog/tag/investasi-jangka-panjang)**
+* **[Investasi Modal Kecil:  Jenis dan Memilih Investasi dengan Modal Kecil yang Menguntungkan untuk Anda](https://landx.id/blog/investasi-modal-kecil-jenis-dan-memilih-investasi-dengan-modal-kecil-yang-menguntungkan-untuk-anda/)**

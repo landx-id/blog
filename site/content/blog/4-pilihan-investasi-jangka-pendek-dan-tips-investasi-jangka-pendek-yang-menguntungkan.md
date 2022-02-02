@@ -1,15 +1,39 @@
-+++
-author = "Abdul Wahhab"
-category = ["investasi jangka panjang", "Cara Investasi Saham", "menabung dengan benar", "Instrumen Investasi", "instrumen pasar modal", "investasi", "investasi dengan modal kecil", "Investasi modal kecil", "Investasi online terbaru", "Investasi Passive Income", "investasi pemula", "investasi properti", "investor pemula"]
-date = 2021-05-10T03:23:25Z
-metaDescription = ""
-draft = false
-image = "https://images.unsplash.com/photo-1434626881859-194d67b2b86f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxMTc3M3wwfDF8c2VhcmNofDI5fHxpbnZlc3RtZW50fGVufDB8fHx8MTY0MTM5OTEzOA&ixlib=rb-1.2.1&q=80&w=1080"
-slug = "4-pilihan-investasi-jangka-pendek-dan-tips-investasi-jangka-pendek-yang-menguntungkan"
-tag = ["investasi jangka panjang", "Cara Investasi Saham", "menabung dengan benar", "Instrumen Investasi", "instrumen pasar modal", "investasi", "investasi dengan modal kecil", "Investasi modal kecil", "Investasi online terbaru", "Investasi Passive Income", "investasi pemula", "investasi properti", "investor pemula"]
-title = "4 Pilihan Investasi Jangka Pendek dan Tips Investasi Jangka Pendek yang Menguntungkan"
-
-+++
+---
+draft: false
+author: Abdul Wahhab
+slug: 4-pilihan-investasi-jangka-pendek-dan-tips-investasi-jangka-pendek-yang-menguntungkan
+title: 4 Pilihan Investasi Jangka Pendek Menguntungkan untuk Pemula
+metaTitle: 4 Pilihan Investasi Jangka Pendek Menguntungkan untuk Pemula
+metaDescription: Mau investasi jangka pendek? Yuk simak tips dan instrumen yang
+  cocok untuk kamu di sini
+intro: Apabila kamu mau berinvestasi ke dalam instrumen investasi jangka pendek,
+  maka berikut beberapa tips investasi jangka pendek dan 4 instrumen investasi
+  yang bisa jadi pilihan instrumen investasi kamu
+date: 2022-02-02T03:23:25.000Z
+tag:
+  - investasi jangka panjang
+  - Cara Investasi Saham
+  - menabung dengan benar
+  - Instrumen Investasi
+  - instrumen pasar modal
+  - investasi
+  - investasi dengan modal kecil
+  - Investasi modal kecil
+  - Investasi online terbaru
+  - Investasi Passive Income
+  - investasi pemula
+  - investasi properti
+  - investor pemula
+featuredImage:
+  src: https://images.unsplash.com/photo-1434626881859-194d67b2b86f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxMTc3M3wwfDF8c2VhcmNofDI5fHxpbnZlc3RtZW50fGVufDB8fHx8MTY0MTM5OTEzOA&ixlib=rb-1.2.1&q=80&w=1080
+  alt: Mengenal berbagai jenis instrumen investasi jangka pendek yang bisa
+    menghiasi portofolio investasi kamu
+  title: Berbagai pilihan instrumen investasi jangka pendek yang cocok untuk pemula
+image: https://images.unsplash.com/photo-1434626881859-194d67b2b86f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxMTc3M3wwfDF8c2VhcmNofDI5fHxpbnZlc3RtZW50fGVufDB8fHx8MTY0MTM5OTEzOA&ixlib=rb-1.2.1&q=80&w=1080
+category:
+  - Investasi
+  - Keuangan
+---
 
 
 Investasi jangaka pendek adalah program investasi dalam periode yang singkat dimana biasanya kurang dari 1 tahun atau tidak lebih dari 2 tahun. Sebenarnnya investasi jangka pendek atau panjang sebenarnya tidak masalah asalkan kita paham dengan baik tujuan dari keputusan investasi yang kita ambil.
