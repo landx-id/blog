@@ -1,15 +1,37 @@
-+++
-author = "Abdul Wahhab"
-category = ["crowdfunding", "Equity Crowdfunding", "investasi", "Investasi Menguntungkan", "investasi online", "reksa dana", "Saham Online", "obligasi", "instrumen pasar modal"]
-date = 2022-01-11T03:57:00Z
-metaDescription = "Mau investasi ke pasar modal tapi bingung mulai dari mana? Yuk simak berbagai jenis instrumen pasar modal untuk investasi jangka panjang kamu."
-draft = false
-image = "https://images.unsplash.com/photo-1632507127024-ae2d7369c784?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxMTc3M3wwfDF8c2VhcmNofDE5fHxzdG9jayUyMG1hcmtldHxlbnwwfHx8fDE2NDE0NDM4NDI&ixlib=rb-1.2.1&q=80&w=1080"
-slug = "kenali-4-instrumen-pasar-modal-sebelum-memutuskan-instrumen-pasar-modal-terbaik-anda"
-tag = ["crowdfunding", "Equity Crowdfunding", "investasi", "Investasi Menguntungkan", "investasi online", "reksa dana", "Saham Online", "obligasi", "instrumen pasar modal"]
-title = "5 Instrumen Pasar Modal Sebelum Memutuskan Instrumen Pasar Modal Terbaik Anda"
-
-+++
+---
+draft: false
+author: Abdul Wahhab
+title: 5 Instrumen Pasar Modal yang Bisa Jadi Pilihan Investasi Kamu
+metaTitle: 5 Instrumen Pasar Modal yang Bisa Jadi Pilihan Investasi Kamu
+metaDescription: Mau investasi ke pasar modal tapi bingung mulai dari mana? Yuk
+  simak berbagai jenis instrumen pasar modal untuk investasi jangka panjang
+  kamu.
+intro: Pasar modal memiliki beberapa jenis instrumen investasi yang bisa jadi
+  pilihan investasi kamu. Yuk kenali berbagai jenis instrumen pasar modal yang
+  siapa tau cocok dengan profil risiko investasi kamu..
+isPinned: true
+slug: kenali-4-instrumen-pasar-modal-sebelum-memutuskan-instrumen-pasar-modal-terbaik-anda
+date: 2022-02-02T12:39:58.015Z
+tag:
+  - crowdfunding
+  - Equity Crowdfunding
+  - investasi
+  - Investasi Menguntungkan
+  - investasi online
+  - reksa dana
+  - Saham Online
+  - obligasi
+  - instrumen pasar modal
+featuredImage:
+  src: https://images.unsplash.com/photo-1632507127024-ae2d7369c784?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxMTc3M3wwfDF8c2VhcmNofDE5fHxzdG9jayUyMG1hcmtldHxlbnwwfHx8fDE2NDE0NDM4NDI&ixlib=rb-1.2.1&q=80&w=1080
+  alt: 5 instrumen pasar modal yang bisa jadi pilihan investasi jangka panjang anda
+  title: Mengenal berbagai jenis instrumen pasar modal yang bisa jadi pilihan
+    investasi jangka panjang kamu
+image: https://images.unsplash.com/photo-1632507127024-ae2d7369c784?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxMTc3M3wwfDF8c2VhcmNofDE5fHxzdG9jayUyMG1hcmtldHxlbnwwfHx8fDE2NDE0NDM4NDI&ixlib=rb-1.2.1&q=80&w=1080
+category:
+  - Investasi
+  - Bisnis
+---
 
 
 **Intrumen pasar modal** adalah salah satu instrumen investasi yang banyak diminati oleh para investor terutama pemula yang baru ingin memasuki dunia investasi. Hal ini karena instrumen investasi pasar modal yang beragam sehingga pemula dapat menyesuaikan instrumen mana yang cocok dengan profil risiko dan tujuan mereka.
