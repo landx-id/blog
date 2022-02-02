@@ -4,10 +4,12 @@
 
 {{ $imageurl := print $.Params.featuredImage.src}}
 
-{{ partial "landx-jumbotron" (dict "imageUrl" $imageurl "title" .Title "path" .Site.Params.pathUrl "altText" .Params.featuredImage.alt) }}
+{{ partial "landx-jumbotron" (dict "imageUrl" $imageurl "title" .Title "path" .Site.Params.pathUrl "altText"
+.Params.featuredImage.alt) }}
 
 {{else}}
-{{ partial "landx-jumbotron" (dict "imageUrl" "/img/header_background.webp" "title" .Title "path" .Site.Params.pathUrl) }}
+{{ partial "landx-jumbotron" (dict "imageUrl" "/img/header_background.webp" "title" .Title "path" .Site.Params.pathUrl)
+}}
 {{end}}
 
 

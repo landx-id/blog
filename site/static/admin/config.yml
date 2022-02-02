@@ -19,7 +19,7 @@ collections: # A list of collections the CMS should be able to edit
       - { label: "Meta Title", name: "metaTitle", widget: "string", pattern: ['^.{0,70}$', "Can't be more than 70 Characters"]}
       - { label: "Meta Description", name: "metaDescription", widget: "string", pattern: ['^.{0,150}$', "Can't be more than 150 Characters"]}
       - { label: "Intro Blurb", name: "intro", widget: "text" }
-      - { label: "Pin This Post", name: "isPinned", widget: "boolean" }
+      - { label: "Pin This Post", name: "isPinned", widget: "boolean", required: false }
       - { label: "Publish Date", name: "date", widget: "datetime" }
       - {
           label: "Tags",
