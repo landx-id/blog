@@ -2,6 +2,13 @@ baseurl = "/"
 languageCode = "en-us"
 languageLang = "en"
 title = "LandX"
+copyright = "2022 LandX All rights reserved"
+rssLimit = 4
+
+[outputFormats]
+  [outputFormats.RSS]
+    mediatype = "application/rss"
+    baseName = "rss"
 
 [Params]
   pathUrl = 'blog'
