@@ -1,27 +1,35 @@
-+++
-author = "Abdul Wahhab"
-category = ["net present value", "time value of money"]
-date = 2021-06-25T16:13:41Z
-metaDescription = "Pahami konsep time value of money atau nilai uang dari waktu. Konsep TVM penting untuk anda pahami. Konsep time value of money adalah konsep menghitung..."
-draft = false
-slug = "time-value-of-money-adalah"
-tag = ["net present value", "time value of money"]
-title = "Memahami Konsep Time Value of Money (TVM) yang Sangat Penting untuk Investasi"
+---
+draft: false
+author: Abdul Wahhab
+slug: time-value-of-money-adalah
+title: Memahami Konsep Time Value of Money (TVM) yang Penting untuk Investasi
+metaTitle: Memahami Konsep Time Value of Money (TVM) yang Penting untuk Investasi
+metaDescription: Pahami konsep time value of money atau nilai uang dari waktu.
+  Konsep TVM penting untuk anda pahami. Konsep time value of money adalah
+intro: >-
+  Time Value of Money – dari waktu ke waktu, anda tentu sadar bahwa uang yang
+  anda miliki mengalami perubahan nilai. Time value of money merupakan konsep
+  yang menjelaskan bagaimana perubahan nilai uang anda dari waktu ke waktu. Uang
+  1 juta yang anda miliki sekarang belum tentu bisa membeli hal yang sama pada
+  tahun depan. Hal ini menunjukkan bahwa nilai uang yang anda miliki bergantung
+  dengan waktu.
 
-+++
 
-
-**Time Value of Money –** dari waktu ke waktu, anda tentu sadar bahwa uang yang anda miliki mengalami perubahan nilai. Time value of money merupakan konsep yang menjelaskan bagaimana perubahan nilai uang anda dari waktu ke waktu. Uang 1 juta yang anda miliki sekarang belum tentu bisa membeli hal yang sama pada tahun depan. Hal ini menunjukkan bahwa nilai uang yang anda miliki bergantung dengan waktu.
-
-Untuk lebih jelasnya, mari kita bahas secara lebih mendalam tentang apa itu time value of money.
-
-## Table of Content
-
-* **[Konsep Time Value of Money](#konsep-time-value-of-money)**
-* **[Manfaat Memahami Time Value of Money](#manfaat-memahami-time-value-of-money)**
-* **[Menghitung Time Value of Money (TVM)](#menghitung-time-value-of-money-tvm)**
-* **[Penutup](#penutup)**
-
+  Untuk lebih jelasnya, mari kita bahas secara lebih mendalam tentang apa itu time value of money.
+date: 2021-06-25T16:13:41.000Z
+tag:
+  - net present value
+  - time value of money
+  - Rasio Keuangan
+category:
+  - Keuangan
+  - Investasi
+featuredImage:
+  src: https://images.unsplash.com/photo-1624953901718-e24ee7200b85?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8M3x8dmFsdWUlMjBvZiUyMG1vbmV5fGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60
+  alt: Memahami konsep time value of money agar kamu paham kenapa harus berinvestasi
+  title: Time value of money atau konsep uang terhadap waktu sangat penting untuk
+    kamu pahami karena merupakan konsep dasar keuangan
+---
 ## Konsep Time Value of Money
 
 Time value of money adalah konsep yang menjelaskan waktu mempengaruhi nilai dari uang. Konsep time value of money menghitung nilai uang berdasarkan waktu. Hal ini sangat penting karena nilai uang yang anda miliki saat ini akan berbeda dengan nilai uang di masa mendatang.
@@ -48,7 +56,7 @@ Memahami bahwa nilai uang yang anda miliki akan berubah dari waktu ke waktu akan
 
 Hal ini membuat anda bisa membuat rencana keuangan anda menjadi lebih matang dengan memperhatikan berbagai faktor seperti inflasi sehingga nilai uang yang anda miliki dapat terus berkembang.
 
-Dari sisi bisnis, hal penting untuk menyusun rencana keuangan jangka panjang seperti keputusan untuk investasi ke dalam bidang _research and development_ untuk mengembangkan bisnis yang anda miliki.
+Dari sisi bisnis, hal penting untuk menyusun rencana keuangan jangka panjang seperti keputusan untuk investasi ke dalam bidang *research and development* untuk mengembangkan bisnis yang anda miliki.
 
 Oleh sebab itu perusahaan perlu memperhitungkan apakah dana yang mereka investasikan untuk inovasi ini akan memberikan keuntungan di masa mendatang atau tidak.
 
@@ -62,29 +70,29 @@ Dalam konsep ini terdapat beberapa komponen lain yang perlu anda pahami yaitu, p
 
 Present value merupakan nilai uang yang anda miliki saat ini yang bisa anda investasikan agar mendapatkan keuntungan yang lebih besar di masa mendatang. Untuk menghitung present value, anda bisa menggunakan rumus sebagai berikut:
 
-![cara-menghitung-time-value-of-money-untuk-keputusan-investasi-yang-lebih-baik](https://accountgram-production.sfo2.cdn.digitaloceanspaces.com/landx_ghost/2021/09/cara-menghitung-time-value-of-money-untuk-keputusan-investasi-yang-lebih-baik.png)
+![cara menghitung-time-value-of-money-untuk-keputusan-investasi-yang-lebih-baik](https://accountgram-production.sfo2.cdn.digitaloceanspaces.com/landx_ghost/2021/09/cara-menghitung-time-value-of-money-untuk-keputusan-investasi-yang-lebih-baik.png "Menghitung present dan future value")
 
-_**Keterangan:**_
+***Keterangan:***
 
-_**Pv:  **_ present value (nilai uang sekarang)
+***Pv:***   present value (nilai uang sekarang)
 
-**Fv: ** future value nilai uang pada tahun ke-n
+**Fv:**  future value nilai uang pada tahun ke-n
 
-**i: ** tingkat suku bunga
+**i:**  tingkat suku bunga
 
-**n: ** periode tahun
+**n:**  periode tahun
 
 ### Contoh Perhitungan
 
 Anda memiliki uang senilai 20 juta dengan tingkat suku bunga 5% per tahun saat ini. Mari kita hitung berapa nilai uang anda pada 3 tahun mendatang.
 
-_Fv = Pv (1 + i) n_
+*Fv = Pv (1 + i) n*
 
-_Fv = 20.000.000 (1+0,05)3_
+*Fv = 20.000.000 (1+0,05)3*
 
-_Fv = 20.000.000 (1,05)3_
+*Fv = 20.000.000 (1,05)3*
 
-_Fv = 23.152.500_
+*Fv = 23.152.500*
 
 Artinya di masa depan uang yang anda miliki bisa berkembanga menjadi 23.152.500 dalam periode waktu 3 tahun.
 
@@ -98,18 +106,17 @@ Memahami konsep TMV akan sangat bermanfaat untuk memastikan bahwa tindakan yang 
 
 Kini tentu anda semakin paham kriteria bisnis dan investasi seperti apa yang cocok dan menguntungkan anda dalam jangka panjang.
 
-Salah satu instrumen investasi yang wajib anda coba adalah investasi bisnis melalui skema[ _**equity crowdfunding**_](https://landx.id/). Sistem ini membuat anda bisa melakukan investasi bisnis yang menguntungkan dalam jangka panjang dengan modal kecil. Karena itu…
+Salah satu instrumen investasi yang wajib anda coba adalah investasi bisnis melalui skema[ ***equity crowdfunding***](https://landx.id/). Sistem ini membuat anda bisa melakukan investasi bisnis yang menguntungkan dalam jangka panjang dengan modal kecil. Karena itu…
 
-## [**Yuk Investasi Bisnis di LandX dengan Berbagai Pilihan Bisnis Potensial untuk Investasi Anda**](https://landx.id/)
+## **[Yuk Investasi Bisnis di LandX dengan Berbagai Pilihan Bisnis Potensial untuk Investasi Anda](https://landx.id/)**
 
+[![Yuk mulai patungan bisnis menguntungkan jangka panja g bersama LandX](https://accountgram-production.sfo2.cdn.digitaloceanspaces.com/landx_ghost/2021/09/Equity-Crowdfunding-di-Indonesia-1--3.png)](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)
 
+**[Mau Terus Update Info Seputar Investasi? Yuk Follow Kami di Instagram @landx.id untuk Berbagai Info Terupdate Seputar Investasi](https://instagram.com/landx.id?utm_medium=copy_link)**
 
-[**Mau Terus Update Info Seputar Investasi? Yuk Follow Kami di Instagram @landx.id untuk Berbagai Info Terupdate Seputar Investasi**](https://instagram.com/landx.id?utm_medium=copy_link)
-
-**#LandX.id    #landx         #landx.id    #InvestasiBisnis    #EquityCrowdfunding    #InvestasiMenguntungkan    #Urundana    #BisnisPatungan    #InvestasiUsaha**
+**\#LandX.id    #landx         #landx.id    #InvestasiBisnis    #EquityCrowdfunding    #InvestasiMenguntungkan    #Urundana    #BisnisPatungan    #InvestasiUsaha**
 
 **Artikel Terkait:**
 
 * [Mengenal Apa Itu Net Present Value atau NPV: Definisi, Fungsi, dan Cara Menghitung NPV](https://landx.id/blog/mengenal-apa-itu-net-present-value-atau-npv-definisi-fungsi-dan-cara-menghitung-npv/)
 * [Price Earning Ratio: Memahami Apa Itu Price Earning Ratio (PER) dan Manfaatnya dalam Investasi](https://landx.id/blog/price-earning-ratio-adalah/)
-
