@@ -14,7 +14,7 @@ intro: >-
 
 
   Produksi massal adalah adalah kegiatan produksi yang dilakukan dalam jumlah besar dan berulang hingga akhirnya sampai ke tangan konsumen akhir melalui berbagai channel suplai seperti ritel.
-date: 2021-11-05T04:40:51.000Z
+date: 2022-02-02T16:34:09.016Z
 tag:
   - Ximivogue Listing di LandX
   - retail
@@ -27,8 +27,6 @@ image: https://images.unsplash.com/photo-1589793463357-5fb813435467?crop=entropy
 category:
   - Bisnis
 ---
-
-
 Di era industri modern seperti saat ini, produksi massal atau mass production semakin berkembang karena perkembangan teknologi yang mendukung proses produksi barang dalam skala besar.
 
 Produksi massal adalah adalah kegiatan produksi yang dilakukan dalam jumlah besar dan berulang hingga akhirnya sampai ke tangan konsumen akhir melalui berbagai channel suplai seperti ritel.
@@ -39,28 +37,21 @@ Oleh sebab itu, sadar atau kamu banyak dari produk yang kamu gunakan sehari-hari
 
 Supaya kamu paham dengan baik tentang bagaimana industri produksi massal ini berjalan, yuk simak artikel ini sampai akhir ya...
 
----
-
-## Table of Content
-
-* **[Memahami Apa Itu Produksi Massal/ Mass Production](#memahami-apa-itu-produksi-massal-mass-production)**
-* **[Karakteristik Produksi Massal](#karakteristik-produksi-massal)**
-* **[Proses Produksi Massal/ Mass Production](#proses-produksi-massal-mass-production)**
-* **[Keuntungan Mass Production/ Produksi Massal](#keuntungan-mass-production-produksi-massal)**
-* [**Kekurangan** _**Mass-Production**_**/ Produksi Massal**](#kekurangan-mass-production-produksi-massal)
-* **[Contoh Produksi Massal dalam Industri Ritel](#contoh-produksi-massal-dalam-industri-ritel)**
-
----
+- - -
 
 ## Memahami Apa Itu Produksi Massal/ Mass Production
 
-Pada dasarnya, produksi massal adalah kegiatan produksi yang dilakukan dalam skala besar dan berkala dengan tujuan memenuhi berbagai kebutuhan konsumen di pasaran.
+> **Pada dasarnya, produksi massal adalah kegiatan produksi yang dilakukan dalam skala besar dan berkala dengan tujuan memenuhi berbagai kebutuhan konsumen di pasaran.**
 
 Selain di produksi dalam skala besar, proses distribusi produk-produk ini ke pasar pun sangat cepat karena biasanya produk-produk ini memiliki permintaan yang tinggi di pasaran.
 
 Karena itu, rata-rata produk yang diproduksi dengan sistem produksi massal adalah produk-produk yang dikonsumsi secara terus menerus sehingga produk ini dibutuhkan secara rutin.
 
 Sebelumnya, sistem produksi massal ini hanya digunakan pada beberapa jenis produk saja. Namun, seiring perkembangan teknologi kini banyak produk dapat diproduksi dengan sistem mass production seperti produk fashion, body care, hingga produk makanan cepat saji yang sering kita temui.
+
+Di era sekarang, produksi massal adalah solusi untuk memenuhi kebutuhan masyarakat yang permintaanya terus meningkat dari waktu ke waktu. Oleh sebab itu, produk-produk FMCG yang kebutuhannya besar rata-rata adalah hasil dari produksi massal.
+
+Produksi massal merupakan salah satu jenis proses produksi yang dilakukan dengan cakupan sangat besar dan cepat sehingga produk-produk yang dihasilkan dari produksi massal pasti merupakan produk-produk yang permintaannya tidak pernah sepi di pasaran. Selain itu, sistem produksi massal termasuk dalam proses produksi yang dilakukan untuk menekan biaya produk karena besarnya kuantitas produksi bisa membantu menekan biaya produksi.
 
 ## Karakteristik Produksi Massal
 
@@ -100,13 +91,13 @@ Selain itu, produksi skala besar juga membuat biaya produksi menjadi lebih murah
 
 ### 3. Penghematan Biaya
 
-Produksi massal membuat biaya produksi menjadi lebih murah karena adanya perubahan _fixed_ dan _variable cost_ saat produk diproduksi secara massal. Penggunaan mesin dan otomasi pada berbagai proses produksi juga menjadi alasan kenapa mass production dapat menekan biaya produksi suatu produk.
+Produksi massal membuat biaya produksi menjadi lebih murah karena adanya perubahan *fixed* dan *variable cost* saat produk diproduksi secara massal. Penggunaan mesin dan otomasi pada berbagai proses produksi juga menjadi alasan kenapa mass production dapat menekan biaya produksi suatu produk.
 
 ### 4. Hasil Produksi yang Presisi
 
-Karena proses perencanaan pra dan pasca produksi direncanakan dengan sangat baik menghasilkan barang yang presisi dan berkualitas dengan jumlah besar dalam waktu yang singkat membuat _mass-production_ sangat menguntungkan.
+Karena proses perencanaan pra dan pasca produksi direncanakan dengan sangat baik menghasilkan barang yang presisi dan berkualitas dengan jumlah besar dalam waktu yang singkat membuat *mass-production* sangat menguntungkan.
 
-## Kekurangan _Mass-Production_/ Produksi Massal
+## Kekurangan *Mass-Production*/ Produksi Massal
 
 ### 1. Membutuhkan Biaya Besar
 
@@ -122,7 +113,7 @@ Selain untuk perawatan, perusahaan juga perlu mengupdate mesin dengan teknologi 
 
 ### 3. Karakteristik Pasar yang Kian Beragam dan Unik
 
-Salah satu kelemahan utama dari mass production adalah sifatnya yang _less custom_ sehingga produksi tidak bisa secara fleksibel berubah mengikuti kondisi pasar yang dinamis.
+Salah satu kelemahan utama dari mass production adalah sifatnya yang *less custom* sehingga produksi tidak bisa secara fleksibel berubah mengikuti kondisi pasar yang dinamis.
 
 Seperti yang kita tau, permintaan pasar dipengaruhi oleh banyak faktor yang terkadang sulit untuk diprediksi sehingga terkadang produksi massal malah menimbulkan risiko baru bagi perusahaan.
 
@@ -152,14 +143,9 @@ Karena itu..
 
 ## [Mau Berbagai info Terbaru Terkait Investasi? Yuk Follow @landx.id di Instagram](https://www.instagram.com/landx.id/?utm_medium=copy_link)
 
----
+- - -
 
 **Baca Juga:**
 
-* ****[**Mau Jadi Investor? Simak Cara Mudah Menjadi Investor Hanya dengan Modal Kecil**](https://landx.id/blog/cara-menjadi-investor/)****
-* ****[**Tips Penting dalam Menyusun Rencana Investasi Jangka Panjang Terbaik**](https://landx.id/blog/investasi-jangka-panjang-adalah/)****
-
----
-
-**#YukPatunganBisnis    #LandX.id    #landx         #landx.id    #InvestasiBisnis  #SecuritiesCrowdfunding   #EquityCrowdfunding    #InvestasiMenguntungkan     #Urundana    #BisnisPatungan    #InvestasiUsaha**
-
+* \***\*[**Mau Jadi Investor? Simak Cara Mudah Menjadi Investor Hanya dengan Modal Kecil**](https://landx.id/blog/cara-menjadi-investor/)\*\***
+* \***\*[**Tips Penting dalam Menyusun Rencana Investasi Jangka Panjang Terbaik**](https://landx.id/blog/investasi-jangka-panjang-adalah/)\*\***
