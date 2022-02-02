@@ -93,7 +93,25 @@ Karena itu anda perlu melakukan berbagai macam analisis lain yang bisa membantu 
 
 ## PBV Saham yang Bagus
 
-PBV ratio atau rasio pbv merupakan rasio yang memnantu
+PBV ratio atau rasio pbv merupakan rasio yang membantu kita melihat harga wajar dari suatu saham agar kita bisa menilai apakah harga saat ini layak untuk dibeli atau sedang dalam overvalued sehingga kita haus mempertimbangkan kembali sebelum membeli saham tersebut. 
+
+PBV saham yang bagus sebenarnya adalah di bawah 1 yang mengartikan bahwa harga suatu saham sedang dalam kondisi undervalued sehingga merupakan waktu cocok untuk kita beli. Begitu juga sebaliknya, apabila nilai pbv berada diatas 1 maka saham tersebut sedang berada dalam kondisi overvalued. 
+
+**Akan tetapi, kamu harus paham bahwa PBV bukan satu-satunya rasio yang kamu gunakan untuk melakukan valuasi saham.** 
+
+Karena itu, kamu sebaiknya tidak mengacu pada satu rasio keuangan saja saat melakukan analisis saham. Saat melakukan analisis kamu perlu melihat rasio-rasio keuangan lain seperti PER, P/E ratio, dan berbagai jenis rasio keuangan lainnya. 
+
+> **Artikel Pilihan:** 
+>
+> * [Rasio Solvabilitas: Pengertian, Jenis, Rumus, dan Cara Perhitungannya](https://landx.id/blog/rasio-solvabilitas-adalah/)
+> * [Rasio-Rasio Keuangan yang Penting Dipahami Investor Pemula dalam Memulai Investasi](https://landx.id/blog/rasio-rasio-keuangan-yang-penting-dalam-investasi/)[](https://landx.id/blog/price-to-sales-ratio-adalah/)
+> * [Yuk Pahami Cara Menggunakan Price to Sales Ratio (P/S) untuk Menilai Suatu Saham](https://landx.id/blog/price-to-sales-ratio-adalah/)
+
+## Membandingkan Nilai PBV antar Saham
+
+Apabila kamu menggunakan pbv sebagai salah satu pertimbangan saat melakukan analisis saham, maka kamu harus paham bahwa perbandingan harus dilakukan antar industri atau bisnis sejenis agar perbandingan jadi lebih optimal.
+
+Hal ini karena setiap industri biasanya memiliki rata-rata pbv yang berbeda-beda sehingga perbandingan akan menjadi lebih valid apabila perbandingan dilakukan terhadap industri yang sejenis. Contohnya, apabila kamu sedang menganalisa saham perbankan maka sebaiknya perbandingan dilakukan antar saham perbankan agar gambaran harga saham dapat terlihat dengan jelas.
 
 ## Kesimpulan
 
