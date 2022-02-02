@@ -1,38 +1,45 @@
-+++
-author = "Abdul Wahhab"
-category = ["price to book value", "pbv", "Cara Investasi Saham", "saham syariah"]
-date = 2021-05-31T02:49:28Z
-metaDescription = "Yuk Pahami Bagaimana Cara Menghitung Price to Book Value (PBV) agar anda semakin mudah memilih saham untuk investasi jangka panjang anda|Yuk Mulai Investasi"
-draft = false
-slug = "memulai-investasi-pahami-apa-itu-price-to-book-value-pbv-dalam-investasi-saham"
-tag = ["price to book value", "pbv", "Cara Investasi Saham", "saham syariah"]
-title = "Memulai Investasi: Pahami Apa Itu Price to Book Value (PBV) dalam Investasi Saham"
-
-+++
-
-
+---
+draft: false
+author: Abdul Wahhab
+title: Pahami Apa Itu Price to Book Value (PBV) yang Penting untuk Investasi
+metaTitle: Pahami Apa Itu Price to Book Value (PBV) yang Penting untuk Investasi
+metaDescription: Yuk Pahami Bagaimana Cara Menghitung Price to Book Value (PBV)
+  agar anda semakin mudah memilih saham untuk investasi jangka panjang anda
+intro: Price to Book Value (PBV) merupakan salah satu rasio keuangan yang bisa
+  digunakan untuk menilai apakah sebuah saham layak untuk dibeli atau tidak.
+  Karena itu, yuk kita pelajari apa itu rasio PBV dan cara menghitungnya.
+isPinned: true
+slug: memulai-investasi-pahami-apa-itu-price-to-book-value-pbv-dalam-investasi-saham
+date: 2022-02-02T12:45:26.728Z
+tag:
+  - price to book value
+  - pbv
+  - Cara Investasi Saham
+  - saham syariah
+category:
+  - Keuangan
+  - Investasi
+featuredImage:
+  src: https://images.unsplash.com/photo-1565514158740-064f34bd6cfd?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8NHx8cmF0aW8lMjBpbnZlc3R8ZW58MHx8MHx8&auto=format&fit=crop&w=500&q=60
+  alt: cara menghitung price to book value yang sangat penting untuk investasi anda
+  title: "PBV adalah rasio yang sangat penting kamu pahami terutama untuk kamu
+    berinvestasi ke dalam saham "
+---
 Dalam memulai investasi, anda akan dihadapkan dengan banyak istilah-istilah baru yang berbeda-beda di setiap instrumen investasi yang anda pilih.
 
 Saat anda sudah memutuskan untuk [berinvestasi](https://landx.id/) ke dalam satu instrumen, anda harus memahami berbagai istilah yang digunakan dalam instrumen tersebut untuk mempermudah investasi yang anda sedang anda jalankan.
 
 Investasi saham merupakan salah satu jenis investasi yang sangat populer belakangan ini sehingga banyak dipilih sebagai instrumen investasi dalam jangka pendek dan panjang.
 
-Apabila anda memilih investasi saham, salah satu istilah yang sering muncul dan harus anda pahami adalah [_Price to Book Value_ (PBV)](https://landx.id/) yang merupakan salah satu patokan yang bisa anda gunakan untuk menilai apakah sebuah layak untuk dibeli atau tidak.
+Apabila anda memilih investasi saham, salah satu istilah yang sering muncul dan harus anda pahami adalah [*Price to Book Value* (PBV)](https://landx.id/) yang merupakan salah satu patokan yang bisa anda gunakan untuk menilai apakah sebuah layak untuk dibeli atau tidak.
 
-Karena itu penting bagi anda sebagai [investor](https://landx.id/) paham apa itu _Price to Book Value_ (PBV) untuk membantu anda memilih saham terbaik untuk investasi yang anda lakukan.
+Karena itu penting bagi anda sebagai [investor](https://landx.id/) paham apa itu *Price to Book Value* (PBV) untuk membantu anda memilih saham terbaik untuk investasi yang anda lakukan.
 
----
-
-## Table of Content
-
-* [Pahami Dulu Apa Itu Price to Book Value?](#pahami-dulu-apa-itu-price-to-book-value-? )
-* [Bagaimana Cara Menghitung PBV?](#bagaimana-cara-menghitung-pbv?)
-
----
+- - -
 
 ## Pahami Dulu Apa Itu Price to Book Value?
 
-_Price to Book Value_ (PBV) merupakan salah satu rasio keuangan yang bisa digunakan untuk menilai apakah sebuah saham layak untuk dibeli atau tidak.
+*Price to Book Value* (PBV) merupakan salah satu rasio keuangan yang bisa digunakan untuk menilai apakah sebuah saham layak untuk dibeli atau tidak.
 
 PBV adalah rasio harga terhadap nilai buku untuk melihat harga sebuah saham masuk dalam kategori mahal atau murah untuk membantu investor menemukan saham yang tepat untuk investasi mereka.
 
@@ -44,7 +51,7 @@ Rasio ini bisa memberikan anda gambaran seberapa besar kemampuan perusahaan meng
 
 Melalui PBV anda bisa melihat apakah harga saham yang beredar di pasar saat ini sejalan dengan nilai buku perusahaan.
 
-Melalui PBV anda bisa melihat tahu apakah saham yang ingin anda beli saat ini berada dalam kategori _overvalued_ atau _undervalued_ sehingga anda tahu harga saham saat ini lebih tinggi atau rendah dibandingkan nilai aset perusahaan.
+Melalui PBV anda bisa melihat tahu apakah saham yang ingin anda beli saat ini berada dalam kategori *overvalued* atau *undervalued* sehingga anda tahu harga saham saat ini lebih tinggi atau rendah dibandingkan nilai aset perusahaan.
 
 Apabila nilai _Price to Book Value (_PBV) memiliki nilai kurang 1, maka harga saham tersebut bisa dikatakan murah dan begitupun sebaliknya.
 
@@ -56,7 +63,7 @@ Setelah paham fungsi dan tujuan dari PBV selanjutnya anda perlu paham apa bagaim
 
 Karena itu mari kita bahas bagaimana cara menghitung PBV agar mempermudah investasi yang ingin anda jalankan.
 
-Pertama mari pahami dulu rumus menghitung _Price to Book Value_ (PBV) di bawah ini:
+Pertama mari pahami dulu rumus menghitung *Price to Book Value* (PBV) di bawah ini:
 
 **Book Value per Saham = Nilai Ekuitas / Jumlah Saham Yang Beredar**
 
@@ -68,7 +75,7 @@ Pertama mari pahami dulu rumus menghitung _Price to Book Value_ (PBV) di bawah i
 
 Nilai PBV bisa anda hitung dengan membagi harga pasar saham pada saat ini dengan nilai book value per saham atau nilai buku dari saham yang tersebut.
 
-Untuk menentukan harga buku atau _book value_ dari sebuah saham anda perlu membagi nilai ekuitas dengan jumlah saham yang beredar di pasar saat ini. Untuk data-data ini anda bisa dapatkan melalui web resmi Bursa Efek Indonesia (BEI).
+Untuk menentukan harga buku atau *book value* dari sebuah saham anda perlu membagi nilai ekuitas dengan jumlah saham yang beredar di pasar saat ini. Untuk data-data ini anda bisa dapatkan melalui web resmi Bursa Efek Indonesia (BEI).
 
 Apabila anda sudah mendapatkan nilai PBV dari sebuah saham, anda sebaiknya membandingkan nilai PBV antar saham dari perusahaan yang memiliki kesamaan seperti kesamaan sektor bisnis sehingga perbandingan yang anda lakukan lebih efektif. Hal ini dikarenakan setiap bidang bisnis memiliki PBV yang berbeda-beda sehingga akan lebih efektif dan akurat apabila perbandingan dilakukan dalam sektor bisnis sejenis.
 
@@ -80,16 +87,15 @@ Akan tetapi, anda harus paham bahwa PBV tidak bisa dijadikan acuan satu-satunya 
 
 Penting bagi seorang investor untuk paham berbagai istilah dalam investasi agar investasi yang mereka jalankan menjadi semakin mudah. PBV merupakan salah satu istilah yang sering muncul dan harus anda pahami agar bisa memilih saham terbaik untuk investasi jangka panjang anda. Kalau anda sudah paham, yuk mulai analisis saham mana yang bisa memberikan anda keuntungan.
 
-Tapi anda juga tahu bahwa sekarang anda investasi yang mudah dan cocok untuk pemula yaitu _Equity Crowdfunding (ECF)_ yang konsepnya hampir sama dengan investasi saham. Karena anda akan mendapatkan bagian kepemilikan dari sebuah bisnis yang sudah anda danai dan bisa mendapatkan dividen dari keuntungan bisnis tersebut. Kalau anda mau investasi bisnis jangka panjang dengan modal kecil….
+Tapi anda juga tahu bahwa sekarang anda investasi yang mudah dan cocok untuk pemula yaitu *Equity Crowdfunding (ECF)* yang konsepnya hampir sama dengan investasi saham. Karena anda akan mendapatkan bagian kepemilikan dari sebuah bisnis yang sudah anda danai dan bisa mendapatkan dividen dari keuntungan bisnis tersebut. Kalau anda mau investasi bisnis jangka panjang dengan modal kecil….
 
 **Yuk Investasi Bisnis Jangka Panjang Dengan Modal Kecil Bersama LandX.**
 
 > **[Yuk Follow Instagram @landx.id Untuk Berbagai Info Menarik Seputar Keuangan Lainnya](https://instagram.com/landx.id?utm_medium=copy_link)**
 
-#LandX.id	#landx.id	#InvestasiBisnis	#EquityCrowdfunding	#InvestasiMenguntungkan	#Urundana	#BisnisPatungan	#InvestasiUsaha
+\#LandX.id	#landx.id	#InvestasiBisnis	#EquityCrowdfunding	#InvestasiMenguntungkan	#Urundana	#BisnisPatungan	#InvestasiUsaha
 
 **Baca Juga:**
 
-* [**Kenali 4 Instrumen Pasar Modal Sebelum Memutuskan Instrumen Pasar Modal Terbaik Anda**](https://landx.id/blog/kenali-4-instrumen-pasar-modal-sebelum-memutuskan-instrumen-pasar-modal-terbaik-anda/)
-* [**Memahami Istilah Laba Ditahan dalam Investasi**](https://landx.id/blog/pahami-perbedaan-dividen-dan-capital-gain-sebelum-memulai-investasi/)
-
+* **[Kenali 4 Instrumen Pasar Modal Sebelum Memutuskan Instrumen Pasar Modal Terbaik Anda](https://landx.id/blog/kenali-4-instrumen-pasar-modal-sebelum-memutuskan-instrumen-pasar-modal-terbaik-anda/)**
+* **[Memahami Istilah Laba Ditahan dalam Investasi](https://landx.id/blog/pahami-perbedaan-dividen-dan-capital-gain-sebelum-memulai-investasi/)**
