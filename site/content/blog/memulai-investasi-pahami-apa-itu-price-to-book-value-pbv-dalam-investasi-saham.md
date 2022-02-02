@@ -16,6 +16,7 @@ tag:
   - pbv
   - Cara Investasi Saham
   - saham syariah
+  - Rasio Keuangan
 category:
   - Keuangan
   - Investasi
