@@ -1,15 +1,32 @@
-+++
-author = "Abdul Wahhab"
-category = ["Ximivogue Listing di LandX", "retail", "bisnis ritel"]
-date = 2021-11-05T04:40:51Z
-metaDescription = "Produksi massal adalah kegiatan produksi yang dilakukan dalam skala besar, cepat dan berulang terhadap suatu barang yang akan didistribusikan ke pasar"
-draft = false
-image = "https://images.unsplash.com/photo-1589793463357-5fb813435467?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxMTc3M3wwfDF8c2VhcmNofDN8fGZhY3Rvcnl8ZW58MHx8fHwxNjQwMTQxNjk3&ixlib=rb-1.2.1&q=80&w=1080"
-slug = "produksi-massal-mass-production-dalam"
-tag = ["Ximivogue Listing di LandX", "retail", "bisnis ritel"]
-title = "Memahami Produksi Massal/ Mass Production di Era Industri Modern"
+---
+draft: false
+author: Abdul Wahhab
+slug: produksi-massal-mass-production-dalam
+title: Memahami Produksi Massal/ Mass Production di Era Industri Modern
+metaTitle: Memahami Produksi Massal/ Mass Production di Era Industri Modern
+metaDescription: Produksi massal adalah kegiatan produksi yang dilakukan dalam
+  skala besar, cepat dan berulang terhadap suatu barang yang akan
+  didistribusikan ke pasar
+intro: >-
+  Di era industri modern seperti saat ini, produksi massal atau mass production
+  semakin berkembang karena perkembangan teknologi yang mendukung proses
+  produksi barang dalam skala besar.
 
-+++
+
+  Produksi massal adalah adalah kegiatan produksi yang dilakukan dalam jumlah besar dan berulang hingga akhirnya sampai ke tangan konsumen akhir melalui berbagai channel suplai seperti ritel.
+date: 2021-11-05T04:40:51.000Z
+tag:
+  - Ximivogue Listing di LandX
+  - retail
+  - bisnis ritel
+featuredImage:
+  src: https://images.unsplash.com/photo-1589793463357-5fb813435467?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxMTc3M3wwfDF8c2VhcmNofDN8fGZhY3Rvcnl8ZW58MHx8fHwxNjQwMTQxNjk3&ixlib=rb-1.2.1&q=80&w=1080
+  alt: Mass production atau produksi massal sebagai solusi industri modern
+  title: Keuntungan bisnis dengan sistem produksi massal
+image: https://images.unsplash.com/photo-1589793463357-5fb813435467?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxMTc3M3wwfDF8c2VhcmNofDN8fGZhY3Rvcnl8ZW58MHx8fHwxNjQwMTQxNjk3&ixlib=rb-1.2.1&q=80&w=1080
+category:
+  - Bisnis
+---
 
 
 Di era industri modern seperti saat ini, produksi massal atau mass production semakin berkembang karena perkembangan teknologi yang mendukung proses produksi barang dalam skala besar.
