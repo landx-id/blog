@@ -1,42 +1,56 @@
-+++
-author = "Abdul Wahhab"
-category = ["tips investasi", "dana darurat", "sandwich generation", "financial freedom"]
-date = 2021-11-02T16:48:43Z
-metaDescription = "Sandwich Generation adalah generasi terimpit karena menanggung beban dari dua keluarga, simak cara mengatur uang untuk memutus rantai generasi sandwich"
-draft = false
-image = "https://accountgram-production.sfo2.cdn.digitaloceanspaces.com/landx_ghost/2021/11/Cara-menghindari-sandwich-generation.jpeg"
-slug = "memutus-rantai-sandwich-generation"
-tag = ["tips investasi", "dana darurat", "sandwich generation", "financial freedom"]
-title = "Apakah Kamu Termasuk Sandwich Generation? Ini 6 Cara Memutus Rantai Generasi Sandwich"
+---
+draft: false
+author: Abdul Wahhab
+title: Memahami Apa Itu Sandwich Generation/ Generasi Sandwich
+metaTitle: Memahami Apa Itu Sandwich Generation/ Generasi Sandwich
+metaDescription: Yuk pahami apa yang dimaksud generasi sandwich dan bagaimana
+  cara memutus rantai sandwich generation
+intro: >-
+  Kalau kamu belum tau apa itu sandwich generation, Sandwich generation artinya
+  generasi yang terhimpit karena harus membiayai dua generasi sekaligus yaitu
+  orang tua dan anaknya dalam waktu bersamaan. Sandwich generation memang sulit
+  untuk kita hindari karena merupakan warisan dari generasi sebelumnya, tapi
+  kita bisa lo memutus rantai sandwich generation agar tidak terjadi kepada anak
+  kita nanti. Karena itu.... 
 
-+++
 
-
+  Yuk kita bahas bagaimana memutus rantai sandwich generation untuk generasi berikutnya.
+isPinned: true
+slug: memutus-rantai-sandwich-generation
+date: 2022-02-03T05:27:41.805Z
+tag:
+  - tips investasi
+  - dana darurat
+  - sandwich generation
+  - financial freedom
+featuredImage:
+  src: https://accountgram-production.sfo2.cdn.digitaloceanspaces.com/landx_ghost/2021/11/Cara-menghindari-sandwich-generation.jpeg
+  alt: "Sandwich generation adalah generasi yang harus membiayai orang tua mereka
+    tapi juga harus membiayai anak dan istrinya "
+  title: Memutus rantai generasi sandwich atau sandwich generation yang sering
+    dihadapi anak muda di masa sekarang
+image: https://accountgram-production.sfo2.cdn.digitaloceanspaces.com/landx_ghost/2021/11/Cara-menghindari-sandwich-generation.jpeg
+category:
+  - Investasi
+  - Keuangan
+---
 Pernah nggak kamu ngalamin baru saja gajian tapi uang tiba-tiba habis? Bukan untuk beli hal-hal konsumtif seperti barang pribadi, tapi untuk memenuhi kebutuhan keluarga sendiri serta orang tua.
 
-Jika kamu pernah mengalaminya, maka kamu sedang berada dalam fase _sandwich generation_.
+Jika kamu pernah mengalaminya, maka kamu sedang **berada dalam fase *sandwich generation atau generasi sandwich*** yang saat ini banyak dialami generasi muda.
 
 Apa artinya? Secara sederhana, sandwich generation adalah keadaan 'terjepit' dimana kamu harus menanggung dua beban keuangan sekaligus, yakni untuk keluargamu sendiri serta orang tua.
 
-Generasi sandwich ini cukup sering dijumpai di Indonesia. Kita tahu masih banyak orang tua disini yang mengharapkan sebuah 'balas budi finansial' dari anaknya setelah dewasa.
+**Generasi sandwich ini cukup sering dijumpai di Indonesia.** Kita tahu masih banyak orang tua disini yang mengharapkan sebuah 'balas budi finansial' dari anaknya setelah dewasa.
 
 Meskipun secara moral hal ini sangat bagus, namun di sisi lain dapat menambah tekanan dan beban bagi sang anak. Apalagi jika mereka sudah punya keluarga sendiri yang harus diprioritaskan terlebih dahulu.
 
-Keadaan seperti ini memang berat, namun bukan berarti mustahil buat kamu untuk menyelesaikannya. Berikut ini penjelasan _sandwich generation_, dari mulai pengertian sampai cara memutusnya. Simak terus sampai akhir, ya!
+Keadaan seperti ini memang berat, namun bukan berarti mustahil buat kamu untuk menyelesaikannya. Berikut ini penjelasan *sandwich generation*, dari mulai pengertian sampai cara memutusnya. Simak terus sampai akhir, ya!
 
----
-
-## Table of Content
-
-* **[Apa Itu Sandwich Generation?](#apa-itu-sandwich-generation)**
-* **[Jenis-jenis Sandwich Generation](#jenis-jenis-sandwich-generation)**[1. Sandwich Generation Tradisional](#1-sandwich-generation-tradisional)[2. The Club Sandwich Generation](#2-the-club-sandwich-generation)[3. Open Faced Sandwich Generation](#3-open-faced-sandwich-generation)
-* **[Cara Memutus Rantai Sandwich Generation](#cara-memutus-rantai-sandwich-generation)**[1. Kelola Keuangan dengan Baik](#1-kelola-keuangan-dengan-baik)[2. Berhati-hati dengan Utang Konsumtif](#2-berhati-hati dengan-utang-konsumtif)[3. Siapkan Dana Pensiun](#3-siapkan-dana-pensiun)[4. Menambah Penghasilan](#4-menambah-penghasilan)[5. Siapkan Dana Darurat dan Asuransi](#5-siapkan-dana-darurat-dan-asuransi)[6. Mulai Investasi Sejak Dini](#6-mulai-investasi-sejak-dini)
-
----
+- - -
 
 ## **Apa Itu Sandwich Generation?**
 
-Apa sebenarnya pengertian dari _sandwich generation_? Sesuai namanya, istilah ini menggambarkan kondisi seseorang yang "ter-sandwich" oleh dua beban sekaligus.
+**Apa sebenarnya pengertian dari *sandwich generation*?** Sesuai namanya, istilah ini menggambarkan kondisi seseorang yang "ter-sandwich" oleh dua beban sekaligus. Sandwich generation ini digambarkan sebagai generasi yang terhimpit karena harus menanggung beban generasi di atas dan di bawahnya.
 
 Pertama, beban untuk memenuhi kebutuhan keluarga dan anak-anaknya sendiri seperti biaya hidup sehari-hari, cicilan kendaraan, dan lain-lain.
 
@@ -44,13 +58,17 @@ Kedua, orang tersebut juga harus mencukupi kebutuhan orang tuanya sendiri sepert
 
 Istilah ini pertama kali diperkenalkan oleh Dorothy A. Miller, seorang profesor asal Amerika Serikat dalam jurnalnya yang berjudul "The 'Sandwich' Generation: Adult Children of the Aging."
 
-Karena tekanan yang berasal dari dua sisi sekaligus, tentu hal ini akan memicu datangnya masalah lain seperti terganggunya pekerjaan, kehidupan sosial, sampai konflik rumah tangga. Bahkan tak jarang orang yang mengalami _sandwich generation_ ini akan mengalami depresi hebat hingga memutuskan untuk mengakhiri hidupnya.
+Karena tekanan yang berasal dari dua sisi sekaligus, tentu hal ini akan memicu datangnya masalah lain seperti terganggunya pekerjaan, kehidupan sosial, sampai konflik rumah tangga. Bahkan tak jarang orang yang mengalami *sandwich generation* ini akan mengalami depresi hebat hingga memutuskan untuk mengakhiri hidupnya.
 
-## **Jenis-jenis Sandwich Generation**
+Generasi sandwich seringkali kesulitan dalam mengatur finansial mereka karena uang mereka habis untuk membiayai orang lain. Karena itu, apabila kamu sudah masuk ke dalam generasi sandwich kamu perlu mengatur keuangan dengan lebih extra. 
 
-Di media sosial, banyak orang tua milenial yang mengeluh soal _sandwich generation._ Mereka terhimpit untuk memenuhi kebutuhan keluarganya yang masih baru serta kebutuhan orang tuanya yang mulai memasuki fase lansia.
+Sebelum itu, yuk kita bahas berbagai jenis sandwich generation.
 
-Sebenarnya kondisi ini tidak hanya menimpa milenial saja, tapi juga orang dalam rentang usia lain. Berikut ini jenis-jenis sandwich generation:
+## **Berbagai Jenis Sandwich Generation**
+
+Di media sosial, banyak orang tua milenial yang mengeluh soal *sandwich generation.* Mereka terhimpit untuk memenuhi kebutuhan keluarganya yang masih baru serta kebutuhan orang tuanya yang mulai memasuki fase lansia.
+
+Sebenarnya kondisi ini tidak hanya menimpa milenial saja, tapi juga orang dalam rentang usia lain. Berikut ini jenis-jenis generasi sandwich yang perlu kamu pahami:
 
 ### 1. Sandwich Generation Tradisional
 
@@ -68,7 +86,7 @@ Kedua, mereka yang berusia 30 sampai 40 tahun. Selain menanggung anak-anaknya ya
 
 Seperti yang kita tau, masyarakat kawasan Asian sebagian besar memiliki budaya kolektif dan hidup dalam kelompok besar. Oleh sebab itu, generasi sandwich jenis ini pasti akan sering ditemui di sekitar kita.
 
-### 3. Open Faced Sandwich Generation
+### 3. Open-Faced Sandwich Generation
 
 Jenis terakhir adalah mereka — tanpa memandang usia — yang terlibat dalam perawatan orang lanjut usia, namun aktivitas tersebut bukan dilakukan dengan profesional. Artinya mereka tidak mendapatkan penghasilan dari merawat orang tua tersebut.
 
@@ -76,11 +94,11 @@ Kondisi ini cukup membingungkan karena di satu sisi mereka perlu berbakti kepada
 
 ## **Cara Memutus Rantai Sandwich Generation**
 
-Akar utama dari _sandwich generation_ disebabkan oleh generasi sebelumnya yang gagal secara finansial. Generasi yang terdampak kemudian mewariskannya kembali ke generasi selanjutnya.
+Akar utama dari *sandwich generation* disebabkan oleh generasi sebelumnya yang gagal secara finansial. Generasi yang terdampak kemudian mewariskannya kembali ke generasi selanjutnya.
 
-Jika tidak diputus rantainya, mustahil bagi sebuah keluarga bisa memutus siklus _sandwich generation._
+Jika tidak diputus rantainya, mustahil bagi sebuah keluarga bisa memutus siklus *sandwich generation.*
 
-Untuk memutus rantai _generasi sandwich_ ini memang sangat sulit, namun bukan berarti mustahil. Berikut beberapa cara yang bisa kamu lakukan untuk memutus rantai sandwich generation.
+Untuk memutus rantai *generasi sandwich* ini memang sangat sulit, namun bukan berarti mustahil. Berikut beberapa cara yang bisa kamu lakukan untuk memutus rantai sandwich generation.
 
 ### 1. Kelola Keuangan dengan Baik
 
@@ -96,29 +114,29 @@ Mengelola uang dengan tepat menjadi langkah awal yang harus kamu lakukan untuk m
 
 Setelah mengelola keuangan dengan baik, selanjutnya kamu harus sebisa mungkin menghindari utang. Hindari utang yang bersifat konsumtif seperti membeli barang mewah secara kredit.
 
-Utang merupakan salah satu akar utama dalam _sandwich generation_. Pasalnya, banyak anak yang harus menanggung beban utang yang ditinggalkan oleh orang tuanya di masa lalu.
+Utang merupakan salah satu akar utama dalam *sandwich generation*. Pasalnya, banyak anak yang harus menanggung beban utang yang ditinggalkan oleh orang tuanya di masa lalu.
 
 Karena itu, selain mengelola uang yang dimiliki kita juga harus bisa mengatur pola konsumsi kita agar tidak menyebabkan hutang konsumtif yang berdampak buruk terhadap keuangan jangka panjang anda.
 
 ### 3. Siapkan Dana Pensiun
 
-Dana pensiun selalu menjadi masalah inti dalam _sandwich generation_. Untuk menghentikannya, kamu bisa mempersiapkan dana pensiun sedini mungkin. Hal ini agar kamu tidak membebani generasi selanjutnya seperti anak dan cucu di masa depan.
+Dana pensiun selalu menjadi masalah inti dalam *sandwich generation*. Untuk menghentikannya, kamu bisa mempersiapkan dana pensiun sedini mungkin. Hal ini agar kamu tidak membebani generasi selanjutnya seperti anak dan cucu di masa depan.
 
 Selain itu, dana pensiun juga akan memberikan manfaat lain secara mental. Kamu bakal lebih siap secara finansial dan bisa menghabiskan masa tua dengan lebih tenang.
 
 Menyiapkan rencana pensiun sebaiknya kita siapkan sedini mungkin karena kita harus bisa menyusun rencana proyeksi keuangan jangka panjang kita agar tidak menyulitkan generasi berikutnya.
 
-Jumlah dana pensiun ideal memang sebenarnya berbeda-beda untuk setiap orang, tapi kamu bisa mulai menyusun rencana untuk mencapai _financial freedom_ agar hingga hari tua kita tidak perlu bergantung kepada orang lain.
+Jumlah dana pensiun ideal memang sebenarnya berbeda-beda untuk setiap orang, tapi kamu bisa mulai menyusun rencana untuk mencapai *financial freedom* agar hingga hari tua kita tidak perlu bergantung kepada orang lain.
 
 ### 4. Menambah Penghasilan
 
-Cara selanjutnya yang bisa kamu coba adalah dengan menambah penghasilan tambahan. Gimana caranya? Salah satunya dengan mencoba bekerja secara _freelance_ saat _weekend_. Manfaatkanlah skill yang sudah kamu kuasai dan cobalah mencari klien.
+Cara selanjutnya yang bisa kamu coba adalah dengan menambah penghasilan tambahan. Gimana caranya? Salah satunya dengan mencoba bekerja secara *freelance* saat *weekend*. Manfaatkanlah skill yang sudah kamu kuasai dan cobalah mencari klien.
 
-Selain _freelance_, kamu juga bisa memanfaatkan aset berlebih yang kamu punya seperti tanah. Ketimbang tidak terpakai, sebaiknya tanah tersebut kamu sewakan. Sehingga di masa depan kamu bisa mendapatkan penghasilan yang bersifat pasif.
+Selain *freelance*, kamu juga bisa memanfaatkan aset berlebih yang kamu punya seperti tanah. Ketimbang tidak terpakai, sebaiknya tanah tersebut kamu sewakan. Sehingga di masa depan kamu bisa mendapatkan penghasilan yang bersifat pasif.
 
 ### 5. Siapkan Dana Darurat dan Asuransi
 
-Dana darurat dan asuransi akan sangat kamu rasakan manfaatnya di masa depan. Banyak sekali _sandwich generation_ yang harus menanggung beban saat orang tuanya masuk rumah sakit. Hal ini karena mereka tidak menyiapkan asuransi ataupun dana darurat di masa lalu.
+Dana darurat dan asuransi akan sangat kamu rasakan manfaatnya di masa depan. Banyak sekali *sandwich generation* yang harus menanggung beban saat orang tuanya masuk rumah sakit. Hal ini karena mereka tidak menyiapkan asuransi ataupun dana darurat di masa lalu.
 
 Tidak memiliki asuransi menjadi salah satu faktor yang banyak orang menjadi sandwich generation dari waktu ke waktu.
 
@@ -134,20 +152,19 @@ Ada banyak sekali jenis investasi yang bisa kamu coba, salah satunya adalah Land
 
 LandX merupakan tempat dimana kamu bisa berinvestasi patungan terhadap perusahaan UMKM terbaik yang ada di Indonesia. Cukup dengan **Rp 1 Juta**, kamu sudah bisa mulai berinvestasi dan mendapatkan keuntungan di masa depan.
 
-Tunggu apa lagi? **Ayo berinvestasi di LandX** sekarang juga!
+## Tunggu apa lagi? **Ayo berinvestasi di LandX** sekarang juga!
 
-[![Bagaimana? Kamu lebih suka bisnis dengan buyback guarantee atau yang bisa disimpan dalam jangka panjang? Apapun pilihan kamu.. Yuk Patungan  dengan Keuntungan Menjanjikan Bareng LandX](https://accountgram-production.sfo2.cdn.digitaloceanspaces.com/landx_ghost/2021/10/Equity-Crowdfunding-di-Indonesia-1--3.png)](https://landx.id/project/#/ximi)
+[![Yuk mulai patungan bisnis menguntungkan jangka panja g bersama LandX](https://accountgram-production.sfo2.cdn.digitaloceanspaces.com/landx_ghost/2021/09/Equity-Crowdfunding-di-Indonesia-1--3.png)](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)
 
 ## [Mau Berbagai info Terbaru Terkait Investasi? Yuk Follow @landx.id di Instagram](https://www.instagram.com/landx.id/?utm_medium=copy_link)
 
----
+- - -
 
 **Baca Juga:**
 
-* ****[**Mau Jadi Investor? Simak Cara Mudah Menjadi Investor Hanya dengan Modal Kecil**](https://landx.id/blog/cara-menjadi-investor/)****
-* ****[**Tips Penting dalam Menyusun Rencana Investasi Jangka Panjang Terbaik**](https://landx.id/blog/investasi-jangka-panjang-adalah/)****
+* \***\*[**Mau Jadi Investor? Simak Cara Mudah Menjadi Investor Hanya dengan Modal Kecil**](https://landx.id/blog/cara-menjadi-investor/)\*\***
+* \***\*[**Tips Penting dalam Menyusun Rencana Investasi Jangka Panjang Terbaik**](https://landx.id/blog/investasi-jangka-panjang-adalah/)\*\***
 
----
+- - -
 
-**#YukPatunganBisnis    #LandX.id    #landx         #landx.id    #InvestasiBisnis  #SecuritiesCrowdfunding   #EquityCrowdfunding    #InvestasiMenguntungkan     #Urundana    #BisnisPatungan    #InvestasiUsaha**
-
+**\#YukPatunganBisnis    #LandX.id    #landx         #landx.id    #InvestasiBisnis  #SecuritiesCrowdfunding   #EquityCrowdfunding    #InvestasiMenguntungkan     #Urundana    #BisnisPatungan    #InvestasiUsaha**
