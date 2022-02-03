@@ -1,15 +1,34 @@
-+++
-author = "Abdul Wahhab"
-category = ["investasi", "investasi jangka panjang", "ROI", "rasio keuangan", "return on investment"]
-date = 2022-01-17T07:49:00Z
-metaDescription = "Return on Investment (ROI) adalah salah satu faktor penting yang harus sangat diperhatikan dalam memilih instrumen investasi | Menghitung ROI investasi"
-draft = false
-image = "https://images.unsplash.com/photo-1622186477895-f2af6a0f5a97?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxMTc3M3wwfDF8c2VhcmNofDI3fHxyZXR1cm58ZW58MHx8fHwxNjQyNDAwMzE2&ixlib=rb-1.2.1&q=80&w=1080"
-slug = "return-on-investment-roi-adalah"
-tag = ["investasi", "investasi jangka panjang", "ROI", "rasio keuangan", "return on investment"]
-title = "Return on Investment (ROI): Cara Menghitung dan Jenis-Jenis ROI"
+---
+draft: false
+author: Abdul Wahhab
+slug: return-on-investment-roi-adalah
+title: "Return on Investment (ROI): Cara Menghitung dan Jenis-Jenis ROI"
+metaTitle: "Return on Investment (ROI): Cara Menghitung dan Jenis-Jenis ROI"
+metaDescription: Return on Investment (ROI) adalah salah satu faktor penting
+  yang harus sangat diperhatikan dalam memilih instrumen investasi|Menghitung
+  ROI
+intro: >-
+  ROI atau Return on Investment adalah salah satu komponen penting yang sangat
+  dipertimbangkan investor saat melakukan investasi. 
 
-+++
+  Akan tetapi, sudahkah kamu paham bagaimana cara menghitung ROI dan berapa ROI yang baik untuk setiap investasi? Kalau belum yuk simak penjelasan Minland terkait ROI di bawah ini.......
+date: 2022-01-17T07:49:00.000Z
+tag:
+  - investasi
+  - investasi jangka panjang
+  - ROI
+  - rasio keuangan
+  - return on investment
+featuredImage:
+  src: https://images.unsplash.com/photo-1622186477895-f2af6a0f5a97?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxMTc3M3wwfDF8c2VhcmNofDI3fHxyZXR1cm58ZW58MHx8fHwxNjQyNDAwMzE2&ixlib=rb-1.2.1&q=80&w=1080
+  alt: Memahami konsep dasar dari ROI dan cara menghitung ROI
+  title: Memahami berbagai jenis roi dan cara menghitungnya menggunakan rumus ROI
+image: https://images.unsplash.com/photo-1622186477895-f2af6a0f5a97?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxMTc3M3wwfDF8c2VhcmNofDI3fHxyZXR1cm58ZW58MHx8fHwxNjQyNDAwMzE2&ixlib=rb-1.2.1&q=80&w=1080
+category:
+  - Keuangan
+  - Investasi
+  - Bisnis
+---
 
 
 Return on Investment (ROI) adalah rasio untuk menunjukkan besar pengembalian (_return)_ atau keuntungan dari investasi yang dilakukan investor oleh investor. Melalui ROI, investor jadi tau seberapa besar keuntungan dari setiap penanaman modal mereka .
