@@ -34,8 +34,6 @@ category:
   - Investasi
   - Keuangan
 ---
-
-
 Investasi jangaka pendek adalah program investasi dalam periode yang singkat dimana biasanya kurang dari 1 tahun atau tidak lebih dari 2 tahun. Sebenarnnya investasi jangka pendek atau panjang sebenarnya tidak masalah asalkan kita paham dengan baik tujuan dari keputusan investasi yang kita ambil.
 
 Akan tetapi, dalam berinvestasi pemilihan instrumen yang akan digunakan kembali lagi kepada tujuan investasi anda apakah ingin memilih investasi jangka pendek atau panjang.
@@ -48,11 +46,11 @@ Investasi jangka pendek biasanya merupakan [instrumen yang  lebih likuid](https:
 
 Selain itu, investasi jangka pendek juga biasanya memiliki risiko lebih rendah sehingga dipilih untuk mengamankan modal/ aset.
 
-Tapi risiko kecil tentu akan memberikan anda _retun_ dengan relatif lebih kecil pula dibandingkan instrumen jangka panjang. Hal instrumen dengan jangka pendek diminati cukup banyak orang.
+Tapi risiko kecil tentu akan memberikan anda *retun* dengan relatif lebih kecil pula dibandingkan instrumen jangka panjang. Hal instrumen dengan jangka pendek diminati cukup banyak orang.
 
 Sebelum membahas berbagai jenis investasi jangka pendek, mari terlebih dahulu kita bahas apa yang dimaksud dengan investasi jangka.
 
----
+- - -
 
 ## Investasi Jangka Pendek
 
@@ -98,18 +96,18 @@ Namun hal ini bukanlah hal mudah, anda perlu menyusun dan melakukan analisis and
 
 ### 4. Peer to Peer Lending
 
-Berinvestasi melalui **_P2P Lending_** bisa menjadi pilihan instrumen jangka pendek anda. Dalam sistem ini periode peminjaman dan bunga yang ditawarkan beragam sehingga anda bisa memilih kemana akan menyalurkan dana yang anda miliki berdasarkan tujuan investasi kamu.
+Berinvestasi melalui ***P2P Lending*** bisa menjadi pilihan instrumen jangka pendek anda. Dalam sistem ini periode peminjaman dan bunga yang ditawarkan beragam sehingga anda bisa memilih kemana akan menyalurkan dana yang anda miliki berdasarkan tujuan investasi kamu.
 
 Setelah paham beberapa jenis investasi jangka pendek, berikut beberapa tips investasi untuk kamu berinvestasi dengan periode waktu singkat.
 
----
+- - -
 
 **Baca Juga:**
 
 * [Diversifikasi Adalah: Memahami Apa Itu Diversifikasi dan Pentingnya Strategi Diversifikasi dalam Investasi](https://landx.id/blog/diversifikasi-dalam-investasi/)
 * [Window Dressing dan Prospek Investasi di Tahun 2022](https://landx.id/blog/memahami-konsep-window-dressing-2022/)
 
----
+- - -
 
 ## Tips Investasi Jangka Pendek
 
@@ -133,16 +131,6 @@ Dalam berinvestasi anda perlu melakukan diversifikasi untuk memaksimalkan keuntu
 
 **[Mau Berbagai info Terbaru Terkait Investasi? Yuk Follow @landx.id di Instagram](https://www.instagram.com/landx.id/?utm_medium=copy_link)**
 
----
+- - -
 
-**Baca Juga:**
-
-* [Ingin Mulai Menjadi Investor di Pasar Modal? Yuk Pahami Beberapa Hal Ini Sebelum Mulai Investasi Pasar Modal](https://landx.id/blog/ingin-mulai-menjadi-investor-di-pasar-modal-yuk-pahami-beberapa-hal-ini-sebelum-mulai-investasi-pasar-modal/)
-* [Anda Masih Kebingungan Bagaimana Mengelola  Keuangan? Ikuti Tips  Mengelola Keuangan untuk Generasi Milenial Berikut  Untuk Kondisi Manajemen Keuangan Lebih Baik di 2021](https://landx.id/blog/anda-masih-kebingungan-bagaimana-mengelola-keuangan-ikuti-tips-mengelola-keuangan-untuk-generasi-milenial-berikut-untuk-kondisi-manajemen-keuangan-lebih-baik-di-2021/)
-
----
-
-‌**#YukPatunganBisnis**
-
-
-
+* ‌**\#YukPatunganBisnis**
