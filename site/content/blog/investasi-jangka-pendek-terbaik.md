@@ -22,7 +22,7 @@ category:
 featuredImage:
   src: https://images.unsplash.com/photo-1501139083538-0139583c060f?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTR8fHNhdmluZ3xlbnwwfHwwfHw%3D&auto=format&fit=crop&w=500&q=60
   alt: Pilihan investasi jangka pendek yang menguntungkan
-  title: Tips memilih investasi jangka panjang yang menguntungka
+  title: Tips memilih investasi jangka panjang yang menguntungkan
 ---
 Dalam menentukan [investasi jangka pendek](https://landx.id/) anda harus mengacu lagi kepada tujuan dari investasi yang anda lakukan.
 
