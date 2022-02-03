@@ -17,6 +17,7 @@
     left: 0;
     border-radius: 0;
     object-fit: cover;
+    filter: brightness(50%);
 }
 
 .jumbotron-text {

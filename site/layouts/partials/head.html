@@ -33,9 +33,9 @@
 	<meta name="theme-color" content="#fff">
 
 	{{if eq .Type "blog"}}
-	<link rel="canonical" href="https://landx.id{{ .RelPermalink }}amp/" />
+	<link rel="canonical" href="https://landx.id/blog/{{ .File.TranslationBaseName | urlize }}" />
 	{{else if or (eq .Type "tag") (eq .Type "category")}}
-	<link rel="canonical" href="https://landx.id/{{ .Type }}/{{ .Title | urlize }}" />
+	<link rel="canonical" href="https://landx.id/blog/{{ .Type }}/{{ .Title | urlize }}" />
 	{{end}}
 
 	<!-- Open Graph -->
