@@ -36,7 +36,7 @@ Tapi risiko yang kecil tentu akan memberikan anda *return* yang relatif lebih ke
 
 Sebelum membahas berbagai jenis investasi jangka pendek, mari terlebih dahulu kita bahas apa yang dimaksud dengan investasi jangka.
 
-## **Investasi Jangka Pendek**
+## **Investasi Jangka Pendek Adalah...**
 
 Investasi jangka pendek merupakan instrumen investasi yang dilakukan dalam jangka waktu yang cenderung singkat. Biasanya kurun waktu investasi ini mulai dari 1-3 tahun saja.
 
@@ -48,7 +48,9 @@ Investasi jangka pendek pun kini semakin beragam dan mudah untuk diakses karena 
 
 Dalam berinvestasi anda akan dihadapkan berbagai jenis instrumen investasi mulai dari yang berisiko rendah hingga tinggi. Karena jenis instrumen yang beragam, anda harus bisa memilih investasi yang tepat dengan menyesuaikan dengan profil risiko dan periode investasi yang ingin anda jalankan.
 
-**Investasi jangka pendek terbaik** sebernarnya akan memiliki versi berbeda untuk setiap orang karena hal ini kembali lagi kepada profil risiko dan tujuan finansial anda. Apabila kamu memang 
+**Investasi jangka pendek terbaik** sebernarnya akan memiliki versi berbeda untuk setiap orang karena hal ini kembali lagi kepada profil risiko dan tujuan finansial anda. Apabila kamu memang berani menanggung risiko besar untuk mendapatkan potensi return besar maka kamu bisa memilih saham dengan volatilitas tinggi. 
+
+Akan tetapi, kalau kamu memang belum berani menanggung risiko sebesar itu, maka kamu bisa memilih instrumen dengan harga yang cenderung stabil maka kamu sebaiknya memilih instrumen dengan harga yang lebih stabil seperti deposito dan reksa dana pasar uang.
 
 Yuk cek beberapa pilihan investasi jangka pendek terbaik yang bisa jadi pilihan kamu :
 
@@ -72,7 +74,7 @@ Jenis reksa dana ini memiliki periode yang lebih singkat dan risiko yang bisa di
 
 Akan tetapi jenis ini tetap memberikan keuntungan yang cukup besar dibandingkan berinvestasi melalui deposito yang harus terkena potongan pajak.
 
-### **Saham**
+### **Saham Jangka Pendek**
 
 Saham merupakan investasi yang bisa dilakukan baik jangka panjang maupun jangka pendek karena saham merupakan instrumen investasi yang sangat likuid sehingga mudah untuk dicairkan saat anda membutuhkan dana.
 
