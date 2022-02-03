@@ -1,17 +1,33 @@
-+++
-author = "Abdul Wahhab"
-category = ["rasio keuangan", "investasi saham", "tips investasi"]
-date = 2021-10-25T06:44:01Z
-metaDescription = "Ekuitas adalah hak kepemilikan atas aset yang sudah dikurangi dengan liabilitas dan berbagai kewajiban, berikut jenis dan unsur-unsur ekuitas"
-draft = false
-image = "https://images.unsplash.com/photo-1560518883-ce09059eeffa?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxMTc3M3wwfDF8c2VhcmNofDEwfHxpbnZlc3RtZW50fGVufDB8fHx8MTY0MDE0ODgzMA&ixlib=rb-1.2.1&q=80&w=1080"
-slug = "ekuitas-adalah-memahami-apa-itu-ekuitas-beserta-jenis-unsur-dan-contohnya"
-tag = ["rasio keuangan", "investasi saham", "tips investasi"]
-title = "Ekuitas Adalah: Memahami Apa itu Ekuitas Beserta Jenis, Unsur, dan Contohnya"
+---
+draft: false
+author: Abdul Wahhab
+slug: ekuitas-adalah-memahami-apa-itu-ekuitas-beserta-jenis-unsur-dan-contohnya
+title: "Ekuitas Adalah: Memahami Apa itu Ekuitas Beserta Jenis, dan Unsur"
+metaTitle: "Ekuitas Adalah: Memahami Apa itu Ekuitas Beserta Jenis, dan Unsur"
+metaDescription: Ekuitas adalah hak kepemilikan atas aset yang sudah dikurangi
+  dengan liabilitas dan berbagai kewajiban, berikut jenis dan unsur-unsur
+  ekuitas
+intro: >-
+  Berbicara tentang ekuitas kamu pasti sering mendengar istilah ini dalam
+  kehidupan sehari-hari terutama untuk kamu yang berkecimpung di dunia keuangan.
 
-+++
 
-
+  Karena itu, kita bahas secara mendalam tentang apa itu ekuitas dan unsur-unsurnya.
+date: 2022-02-03T14:42:35.416Z
+tag:
+  - rasio keuangan
+  - investasi saham
+  - tips investasi
+featuredImage:
+  src: https://images.unsplash.com/photo-1560518883-ce09059eeffa?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxMTc3M3wwfDF8c2VhcmNofDEwfHxpbnZlc3RtZW50fGVufDB8fHx8MTY0MDE0ODgzMA&ixlib=rb-1.2.1&q=80&w=1080
+  alt: Memahami apa itu ekuitas
+  title: "Ekuitas Adalah: Memahami Apa itu Ekuitas Beserta Jenis, Unsur, dan
+    Contohnya"
+image: https://images.unsplash.com/photo-1560518883-ce09059eeffa?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxMTc3M3wwfDF8c2VhcmNofDEwfHxpbnZlc3RtZW50fGVufDB8fHx8MTY0MDE0ODgzMA&ixlib=rb-1.2.1&q=80&w=1080
+category:
+  - Keuangan
+  - Investasi
+---
 Berbicara tentang ekuitas kamu pasti sering mendengar istilah ini dalam kehidupan sehari-hari terutama untuk kamu yang berkecimpung di dunia keuangan.
 
 Ekuitas adalah hak kepemilikan atas suatu aset yang sudah dikurangi dengan liabilitas atau berbagai kewajiban harus dikeluarkan.
@@ -22,14 +38,14 @@ Jumlah ekuitas ini menjadi salah satu indikator yang menjelaskan bagaimana kondi
 
 Supaya lebih paham lagi, mari kita bahas lebih lanjut tentang ekuitas.
 
----
+- - -
 
 * **[Pengertian Ekuitas](#pengertian-ekuitas)**
 * **[Jenis dan Unsur Ekuitas](#jenis-dan-unsur-ekuitas)**
 * **[Unsur-unsur Ekuitas](#unsur-unsur-ekuitas)**
 * **[Jenis Ekuitas](#jenis-ekuitas)**
 
----
+- - -
 
 ## Pengertian Ekuitas
 
@@ -54,6 +70,7 @@ Modal saham adalah jumlah/ nominal saham yang beredar. Sedangkan agio/ disagio m
 **Artikel Terkait:**
 
 * **[Agio dan Disagio dalam Saham](https://landx.id/blog/kenali-apa-itu-agio-saham-dalam-investasi/)**
+* [Investor Pemula Wajib Tau, Berbagai Jenis dan Risiko Obligasi](https://landx.id/blog/apa-itu-obligasi/)
 
 ### 2. Laba Ditahan
 
@@ -103,34 +120,26 @@ Ekuitas pemilik perusahaan pada dasarnya hampir sama seperti ekuitas pemegang sa
 
 Saat perusahaan berjalan dengan baik dan optimal tapi tidak memberikan profit yang signifikan, maka perusahaan bisa melakukan pembiayaan ekuitas dengan menjual saham mereka kepada publik dan menggunakan dana hasil penjualan ini untuk dana ekspansi dan pengembangan usaha untuk keuntungan yang lebih optimal lagi.
 
-Pembiayaan ini dilakukan dengan berbagai cara seperti melakukan _go-public_ melalui IPO sehingga masyarakat umum dapat membeli saham dari bisnis tersebut.
+Pembiayaan ini dilakukan dengan berbagai cara seperti melakukan *go-public* melalui IPO sehingga masyarakat umum dapat membeli saham dari bisnis tersebut.
 
 Selain itu melalui IPO pendanaan juga kini bisa dilakukan dengan skema equity crowdfunding yang mempermudah perusahaan privat untuk menjual saham mereka kepada publik.
 
 IPO biasanya dilakukan untuk bisnis atau korporasi dengan skala yang besar sehingga tidak semua perusahaan dengan mudah melakukan IPO.
 
-[**Equity crowdfunding**](https://landx.id/) merupakan sistem yang mempermudah bisnis dan UKM potensial untuk mendapatkan pembiayaan dengan memberikan masyarakat luas untuk memberi saham mereka.
+**[Equity crowdfunding](https://landx.id/)** merupakan sistem yang mempermudah bisnis dan UKM potensial untuk mendapatkan pembiayaan dengan memberikan masyarakat luas untuk memberi saham mereka.
 
-**[LandX](https://landx.id/) ** merupakan platform equity crowdfunding yang membantu bisnis potensial bertemu dengan investor. Sebagai pemegang saham, investor nantinya bisa mendapatkan keuntungan berupa dividen dari bagi hasil keuntungan yang didapatkan oleh bisnis.
+**[LandX](https://landx.id/)**  merupakan platform equity crowdfunding yang membantu bisnis potensial bertemu dengan investor. Sebagai pemegang saham, investor nantinya bisa mendapatkan keuntungan berupa dividen dari bagi hasil keuntungan yang didapatkan oleh bisnis.
 
 Karena itu, selain membantu bisnis berkembang dengan lebih cepat, equity crowdfunding juga menjadi instrumen investasi jangka panjang yang sangat menjanjikan.
 
----
+- - -
 
 **[Yuk Temukan Bisnis Menjanjikan dengan Keuntungan Terbaik di LandX](https://landx.id/project/)**
 
-[![diversifikasi investasi anda dengan ikut patungan bisnis menguntungkan bareng LandX](https://accountgram-production.sfo2.cdn.digitaloceanspaces.com/landx_ghost/2021/10/patungan-bisnis-menguntungkan-bareng-landx-4.png)](https://landx.id/project/)
+[![diversifikasi investasi anda dengan ikut patungan bisnis menguntungkan bareng LandX](https://accountgram-production.sfo2.cdn.digitaloceanspaces.com/landx_ghost/2021/10/patungan-bisnis-menguntungkan-bareng-landx-4.png)](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)
 
-[**Yuk Follow Kami di Instagram @landx.id Untuk Berbagai Update Terbaru Seputar Investasi**](https://www.instagram.com/landx.id/?utm_medium=copy_link)
+**[Yuk Follow Kami di Instagram @landx.id Untuk Berbagai Update Terbaru Seputar Investasi](https://www.instagram.com/landx.id/?utm_medium=copy_link)**
 
----
+- - -
 
-**Baca Juga:**
-
-* [Anda Masih Kebingungan Bagaimana Mengelola  Keuangan? Ikuti Tips  Mengelola Keuangan untuk Generasi Milenial Berikut  Untuk Kondisi Manajemen Keuangan Lebih Baik di 2021](https://landx.id/blog/anda-masih-kebingungan-bagaimana-mengelola-keuangan-ikuti-tips-mengelola-keuangan-untuk-generasi-milenial-berikut-untuk-kondisi-manajemen-keuangan-lebih-baik-di-2021/)
-* [Investor Pemula Wajib Tau, Berbagai Jenis dan Risiko Obligasi](https://landx.id/blog/apa-itu-obligasi/)
-
----
-
-**#YukPatunganBisnis	#LandX.id    #landx.id    #InvestasiBisnis    #EquityCrowdfunding #SecuritiesCrowdfunding   #InvestasiMenguntungkan    #Urundana    #BisnisPatungan    #InvestasiUsaha**
-
+**\#SekarangBisa**
