@@ -1,15 +1,36 @@
-+++
-author = "Abdul Wahhab"
-category = ["mengatur keuangan", "Investasi untuk Pemula", "investasi pemula", "tips investasi"]
-date = 2021-10-25T06:08:03Z
-metaDescription = "Berikut cara mengatur keuangan yang baik agar keuangan tetap stabil selama menghadapi pandemi: 1. Memahami Konsep 50-30-20 2. Menyusun Rencana Finansial"
-draft = false
-image = "https://images.unsplash.com/photo-1592772425601-c23646d4c119?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxMTc3M3wwfDF8c2VhcmNofDR8fHBhbmRlbWljJTIwbW9uZXl8ZW58MHx8fHwxNjQwMTQ3NjI2&ixlib=rb-1.2.1&q=80&w=1080"
-slug = "simak-cara-mengatur-keuangan-di-masa-pandemi-untuk-agar-keuangan-anda-tetap-stabil"
-tag = ["mengatur keuangan", "Investasi untuk Pemula", "investasi pemula", "tips investasi"]
-title = "Simak Cara Mengatur Keuangan di Masa Pandemi untuk Agar Keuangan Anda Tetap Stabil"
+---
+draft: false
+author: Abdul Wahhab
+title: Simak Cara Mengatur Keuangan di Masa Pandemi Agar Tetap Stabil
+metaTitle: Simak Cara Mengatur Keuangan di Masa Pandemi Agar Tetap Stabil
+metaDescription: "Berikut cara mengatur keuangan yang baik agar keuangan tetap
+  stabil selama menghadapi pandemi: 1. Memahami Konsep 50-30-20 2. Menyusun
+  finc"
+intro: >-
+  Selama masa pandemi, pasti banyak orang kesulitan mengatur uang pribadi mereka
+  karena berbagai perubahan kondisi yang membuat keuangan mereka pun menjadi
+  sedikit terganggu seperti jumlah pemasukkan yang berkurang dan berbagai
+  pengeluaran baru yang harus mereka siapkan.
 
-+++
+
+  Karena itu, yuk kita bahas bagaimana cara mengatur uang yang baik selama pandemi.
+isPinned: true
+slug: simak-cara-mengatur-keuangan-di-masa-pandemi-untuk-agar-keuangan-anda-tetap-stabil
+date: 2022-02-03T14:04:21.673Z
+tag:
+  - mengatur keuangan
+  - Investasi untuk Pemula
+  - investasi pemula
+  - tips investasi
+featuredImage:
+  src: https://images.unsplash.com/photo-1592772425601-c23646d4c119?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxMTc3M3wwfDF8c2VhcmNofDR8fHBhbmRlbWljJTIwbW9uZXl8ZW58MHx8fHwxNjQwMTQ3NjI2&ixlib=rb-1.2.1&q=80&w=1080
+  alt: Cara mengatur uang yang baik di masa pandemi
+  title: menyusun finansial dengan baik selama pandemi
+image: https://images.unsplash.com/photo-1592772425601-c23646d4c119?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxMTc3M3wwfDF8c2VhcmNofDR8fHBhbmRlbWljJTIwbW9uZXl8ZW58MHx8fHwxNjQwMTQ3NjI2&ixlib=rb-1.2.1&q=80&w=1080
+category:
+  - Investasi
+  - Keuangan
+---
 
 
 Selama pandemi, banyak orang mengalami kesulitan finansial sehingga mempersulit mereka untuk mengatur keuangan.
