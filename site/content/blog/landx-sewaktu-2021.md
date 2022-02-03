@@ -64,7 +64,7 @@ Ekosistem *fintech* di Indonesia terbagi dalam berbagai sektor, yaitu sektor keu
 
 Pada awal tahun 2022 ini [LandX](https://landx.id/) muncul sebagai salah satu penyelenggara *crowdfunding* terpopuler di Indonesia. Hal ini terlihat pada logo [LandX](https://landx.id/) yang muncul pada acara [Pembukaan Perdagangan Bursa Efek Indonesia (BEI) Tahun 2022](https://www.youtube.com/watch?v=qMoEZfYTZwE) oleh Ketua Dewan Komisaris OJK, Wimboh Santoso.
 
-**[LandX merupakan platform *Equity Crowdfunding*](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)** yang berizin dan diawasi oleh Otoritas Jasa Keuangan (OJK). LandX.id bertindak sebagai penyelenggara layanan urun dana (*crowdfunding*) yang mempertemukan pengusaha dengan pemoda[l](http://www.landx.id/blog/faq-landx/).
+**[LandX merupakan platform *Equity Crowdfunding*](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)** yang berizin dan diawasi oleh Otoritas Jasa Keuangan (OJK). LandX.id bertindak sebagai penyelenggara layanan urun dana (*crowdfunding*) yang mempertemukan pengusaha dengan pemodal.
 
 **[LandX](https://landx.id/)** hadir dalam rangka mendukung program pemerintah untuk membangun dan mengembangkan UMKM di Indonesia. Melalui [LandX](https://landx.id/), para pengusaha UMKM mampu menjawab permasalahan utama yaitu kendala modal dalam mengembangkan usahanya.
 
