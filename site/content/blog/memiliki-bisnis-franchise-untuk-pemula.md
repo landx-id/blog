@@ -1,17 +1,35 @@
-+++
-author = "Abdul Wahhab"
-category = ["Franchise Makanan", "sistem franchise", "Bisnis Franchise Modal Kecil", "franchise f&b", "franchise klinik kecantikan"]
-date = 2021-10-25T08:03:40Z
-metaDescription = "Franchise/ waralaba adalah salah satu sistem kemitraan dalam bisnis dimana pemilik franchise memberikan kesempatan untuk orang lain membuka bisnis serupa"
-draft = false
-image = "https://images.unsplash.com/photo-1466978913421-dad2ebd01d17?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxMTc3M3wwfDF8c2VhcmNofDJ8fHJlc3RhdXJhbnR8ZW58MHx8fHwxNjQwMTQ1Mjg4&ixlib=rb-1.2.1&q=80&w=1080"
-slug = "memiliki-bisnis-franchise-untuk-pemula"
-tag = ["Franchise Makanan", "sistem franchise", "Bisnis Franchise Modal Kecil", "franchise f&b", "franchise klinik kecantikan"]
-title = "Franchise Adalah: Mengenal Sistem Bisnis Franchise di Indonesia dan Keuntungan dari Sistem Ini"
+---
+draft: false
+author: Abdul Wahhab
+title: "Franchise Adalah: Potensi Sistem Bisnis Franchise di Indonesia  "
+metaTitle: "Franchise Adalah: Potensi Sistem Bisnis Franchise di Indonesia  "
+metaDescription: Franchise/ waralaba adalah salah satu sistem kemitraan dalam
+  bisnis dimana pemilik franchise menjual bisnis ke orang lain
+intro: >-
+  Salah satu yang paling populer adalah franchise berbagai makanan kekinian yang
+  berkembang sangat pesat karena adanya sistem franchise. 
 
-+++
-
-
+  Supaya kamu paham dengan baik tentang bisnis franchise, yuk kita bahas secara mendalam seluk beluk berbisnis dengan sistem franchise.
+isPinned: true
+slug: memiliki-bisnis-franchise-untuk-pemula
+date: 2022-02-03T13:07:11.187Z
+tag:
+  - Franchise Makanan
+  - sistem franchise
+  - Bisnis Franchise Modal Kecil
+  - franchise f&b
+  - franchise klinik kecantikan
+featuredImage:
+  src: https://images.unsplash.com/photo-1466978913421-dad2ebd01d17?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxMTc3M3wwfDF8c2VhcmNofDJ8fHJlc3RhdXJhbnR8ZW58MHx8fHwxNjQwMTQ1Mjg4&ixlib=rb-1.2.1&q=80&w=1080
+  alt: " Franchise adalah sistem bisnis yang memberikan kesempatan bagi mitra
+    untuk membeli hak franchise sehingga orang lain bisa membuka bisnis sejenis"
+  title: Memahami apa itu sistem franchise untuk mempermudah proses pembukaan
+    bisnis kamu
+image: https://images.unsplash.com/photo-1466978913421-dad2ebd01d17?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxMTc3M3wwfDF8c2VhcmNofDJ8fHJlc3RhdXJhbnR8ZW58MHx8fHwxNjQwMTQ1Mjg4&ixlib=rb-1.2.1&q=80&w=1080
+category:
+  - Bisnis
+  - Investasi
+---
 Apabila kamu pemula dan masih bingung cara memulai bisnis, mungkin franchise adalah solusi untuk mempermudah kamu memiliki bisnis sendiri.
 
 Franchise atau waralaba adalah salah satu sistem kemitraan dalam bisnis dimana pemilik franchise memberikan kesempatan kepada pembeli franchise untuk menjalankan bisnis.
@@ -22,22 +40,11 @@ Saat ini, bisnis melalui franchise menjadi salah satu sistem yang berkembang di
 
 Indonesia saat ini sehingga banyak sekali berbagai bisnis membuka kemitraan melalui sistem franchise.
 
-Salah satu yang paling populer adalah franchise berbagai makanan kekinian yang berkembang sangat pesat karena adanya [**sistem franchise**](https://landx.id/project/).
+Salah satu yang paling populer adalah franchise berbagai makanan kekinian yang berkembang sangat pesat karena adanya **[sistem franchise](https://landx.id/project/)**.
 
 Supaya kamu paham dengan baik tentang bisnis franchise, yuk kita bahas secara mendalam seluk beluk berbisnis dengan sistem franchise.
 
----
-
-## Table of Content
-
-* **[Memulai Bisnis Franchise](#memulai-bisnis-franchise)**
-* **[Kelebihan dan Kekurangan Memulai Usaha dengan Sistem Franchise](#kelebihan-dan-kekurangan-memulai-usaha-dengan-sistem-franchise)**
-* **[Memilih Franchise Terbaik](#memilih-franchise-terbaik)**
-* **[Istilah-istilah Penting dalam Sistem Franchise](#istilah-istilah-penting-dalam-sistem-franchise)**
-* **[Apakah Skema Franchise Terbaik untuk Pemula?](#apakah-skema-franchise-terbaik-untuk-pemula)**
-* **[Memiliki Franchise dengan Modal Kecil](#memiliki-franchise-dengan-modal-kecil)**
-
----
+- - -
 
 ## Memulai Bisnis Franchise
 
@@ -49,9 +56,9 @@ Simpelnya, perusahaan yang membuka kemitraan franchise artinya memberikan kesemp
 
 Pihak pembeli franchise  yang sudah membeli kemitraan akan mendapatkan akses terhadap berbagai sistem dari bisnis yang bisa mereka terapkan kepada bisnis yang akan mereka buka.
 
-Pembeli franchise biasanya akan mendapatkan akses ke dalam sistem bisnis, produk, hingga berbagai _marketing kit_ guna memudahkan anda dalam membangun bisnis.
+Pembeli franchise biasanya akan mendapatkan akses ke dalam sistem bisnis, produk, hingga berbagai *marketing kit* guna memudahkan anda dalam membangun bisnis.
 
-Pemberian akses ini membuat proses pembangunan bisnis menjadi lebih mudah karena menghemat waktu riset yang membutuhkan waktu panjang karena akan menghadapi _trial and error_ dalam proses _product development._
+Pemberian akses ini membuat proses pembangunan bisnis menjadi lebih mudah karena menghemat waktu riset yang membutuhkan waktu panjang karena akan menghadapi *trial and error* dalam proses *product development.*
 
 Dari sisi pebisnis, sistem franchise juga mempermudah mereka melakukan ekspansi ke pasar baru sehingga cakupan bisnis bisa menjadi lebih luas. Karena itu sistem franchise banyak digunakan perusahaan multinasional untuk memasuki negara baru.
 
@@ -63,7 +70,7 @@ Dalam dunia bisnis tentu saja tidak ada sistem yang sempurna dan bisa dengan sec
 
 ### 1. Manajemen Bisnis yang Teratur
 
-Salah satu keunggulan memulai usaha franchise  adalah kejelasan sistem manajemen dan SOP dari bisnis yang akan dijalankan sehingga kamu tidak perlu kesulitan lagi membangun sistem bisnis dari awal yang biasanya memakan waktu cukup panjang karena butuh _trial and error_.
+Salah satu keunggulan memulai usaha franchise  adalah kejelasan sistem manajemen dan SOP dari bisnis yang akan dijalankan sehingga kamu tidak perlu kesulitan lagi membangun sistem bisnis dari awal yang biasanya memakan waktu cukup panjang karena butuh *trial and error*.
 
 Manajemen  bisnis yang baik merupakan salah satu faktor penentu keberlangsungan bisnis jangka panjang karena banyak sekali usaha-usaha potensial mengalami kegagalan karena manajemen yang kurang baik.
 
@@ -75,7 +82,7 @@ Oleh sebab itu, kamu harus melihat apakah franchise yang kamu beli memiliki sist
 
 Seperti yang sudah kita bahas sebelumnya, bisnis yang membuka kemitraan dengan sistem franchise biasanya merupakan bisnis-bisnis yang sudah terbukti sukses dan sudah terkenal di pasaran.
 
-Oleh sebab itu, biasanya bisnis ini sudah memiliki brand yang kuat sehingga mempermudah para mitra mereka untuk memasuki pasar baru. Selain itu, biasanya para mitra juga dibekali dengan berbagai _marketing kit_ sehingga proses promosi menjadi jauh lebih mudah.
+Oleh sebab itu, biasanya bisnis ini sudah memiliki brand yang kuat sehingga mempermudah para mitra mereka untuk memasuki pasar baru. Selain itu, biasanya para mitra juga dibekali dengan berbagai *marketing kit* sehingga proses promosi menjadi jauh lebih mudah.
 
 Karena itu, bagaimana posisi suatu usaha juga menjadi faktor yang menentukan harga suatu usaha franchise.
 
@@ -189,11 +196,11 @@ Karena itu kamu harus tetap mempertimbangkan potensi kerugian karena kondisi pas
 
 ## **Memiliki Franchise dengan Modal Kecil**
 
-Sebagai pebisnis pemula anda harus bisa berhati-hati mengambil franchise karena tidak semua [**bisnis franchise**](https://landx.id/blog/tag/bisnis-franchise/https://landx.id/) potensial dan bisa memberikan anda keuntungan. Semua hal ini akan kembali kepada anda sebagai pebisnis yang harus bisa mengelola bisnis dengan baik.
+Sebagai pebisnis pemula anda harus bisa berhati-hati mengambil franchise karena tidak semua **[bisnis franchise](https://landx.id/blog/tag/bisnis-franchise/)** potensial dan bisa memberikan anda keuntungan. Semua hal ini akan kembali kepada anda sebagai pebisnis yang harus bisa mengelola bisnis dengan baik.
 
 Hal ini karena bisnis dalam membangun bisnis kamu butuh modal, waktu, dan pengalaman yang cukup agar bisnis dapat berjalan baik dan menghasilkan keuntungan.
 
-Tapi apabila kamu tidak memiliki ketiga poin di atas, kamu tidak usah khawatir karena bisa memiliki berbagai bisnis potensial yang dikelola oleh profesional hanya modal 1 jutaan dengan ikut patungan bisnis di [**LandX**](https://landx.id/)
+Tapi apabila kamu tidak memiliki ketiga poin di atas, kamu tidak usah khawatir karena bisa memiliki berbagai bisnis potensial yang dikelola oleh profesional hanya modal 1 jutaan dengan ikut patungan bisnis di **[LandX](https://landx.id/)**
 
 Bareng LandX kamu bisa ikut patungan membangun berbagai bisnis potensial yang nantinya akan dikelola profesional hanya dengan 1 juta. Setelah ikut patungan, kamu nanti bisa menikmati dividen dari bagi hasil keuntungan yang didapatkan oleh bisnis tersebut.
 
@@ -203,16 +210,15 @@ Karena itu...
 
 [![Equity crowdfunding merupakan salah satu instrumen investasi dengan potensi keuntungan menjanjikan untuk pemula yang mau berinvestasi](https://accountgram-production.sfo2.cdn.digitaloceanspaces.com/landx_ghost/2021/10/Equity-Crowdfunding-di-Indonesia-1--4.png)](https://landx.id/project/)
 
----
+- - -
 
-[**Yuk Follow Kami di Instagram @landx.id Untuk Berbagai Update Terbaru Seputar Investasi**](https://www.instagram.com/landx.id/?utm_medium=copy_link)
+**[Yuk Follow Kami di Instagram @landx.id Untuk Berbagai Update Terbaru Seputar Investasi](https://www.instagram.com/landx.id/?utm_medium=copy_link)**
 
-#YukPatunganBisnis    #LandX.id    #landx.id    #InvestasiBisnis    #EquityCrowdfunding    #InvestasiMenguntungkan    #Urundana    #BisnisPatungan    #InvestasiUsaha
+\#YukPatunganBisnis    #LandX.id    #landx.id    #InvestasiBisnis    #EquityCrowdfunding    #InvestasiMenguntungkan    #Urundana    #BisnisPatungan    #InvestasiUsaha
 
 ## Baca Juga:
 
-* [**Mengenal Franchise Dalam Bisnis: Kemudahan Memulai Bisnis dengan Sistem Franchise**](https://landx.id/blog/mengenal-franchise-dalam-bisnis-kemudahan-memulai-bisnis-dengan-sistem-franchise/)
-* [**Tips Memilih Bisnis Franchise Terbaik untuk Investasi Menguntungkan Jangka Panjang**](https://landx.id/blog/tips-memilih-bisnis-franchise-terbaik-untuk-investasi-menguntungkan-jangka-panjang/)
+* **[Mengenal Franchise Dalam Bisnis: Kemudahan Memulai Bisnis dengan Sistem Franchise](https://landx.id/blog/mengenal-franchise-dalam-bisnis-kemudahan-memulai-bisnis-dengan-sistem-franchise/)**
+* **[Tips Memilih Bisnis Franchise Terbaik untuk Investasi Menguntungkan Jangka Panjang](https://landx.id/blog/tips-memilih-bisnis-franchise-terbaik-untuk-investasi-menguntungkan-jangka-panjang/)**
 
----
-
+- - -
