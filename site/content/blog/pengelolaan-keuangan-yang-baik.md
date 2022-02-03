@@ -1,14 +1,30 @@
-+++
-author = "Abdul Wahhab"
-category = ["tips investasi", "menabung dengan benar"]
-date = 2021-07-29T10:55:16Z
-metaDescription = "Pahami langkah pengelolaan keuangan yang baik agar tujuan finansial anda dapat dicapai dengan lebih mudah|Tips mengelola uang jangka panjang"
-draft = false
-slug = "pengelolaan-keuangan-yang-baik"
-tag = ["tips investasi", "menabung dengan benar"]
-title = "Masih Bingung Cara Mengelola Uang? Simak Tips Pengelolaan Keuangan yang Baik untuk Pemula Berikut Ini"
+---
+draft: false
+author: Abdul Wahhab
+slug: pengelolaan-keuangan-yang-baik
+title: Masih Bingung Cara Mengelola Uang? Simak Tips Pengelolaan Keuangan
+metaTitle: Masih Bingung Cara Mengelola Uang? Simak Tips Pengelolaan Keuangan
+metaDescription: Pahami langkah pengelolaan keuangan yang baik agar tujuan
+  finansial anda dapat dicapai dengan lebih mudah|Tips mengelola uang jangka
+  panjang
+intro: >-
+  Memiliki keuangan yang teratur akan sangat membantu anda menyusun rencana masa
+  depan dengan lebih baik, terutama bagi anda yang memiliki rencana keuangan
+  jangka panjang yang ingin dicapai. 
 
-+++
+
+  Karena, pengelolaan yang baik akan membantu proyeksi masa depan anda menjadi lebih jelas. Oleh sebab itu, mari kita bahas lebih lanjut tentang langkah-langkah pengelolaan keuangan yang baik.
+date: 2022-02-03T14:12:04.063Z
+tag:
+  - tips investasi
+  - menabung dengan benar
+category:
+  - Mengatur keuangan
+featuredImage:
+  src: https://images.unsplash.com/photo-1624454003060-fc7189ed6242?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MjB8fHNhdmluZ3xlbnwwfHwwfHw%3D&auto=format&fit=crop&w=500&q=60
+  alt: mengelola uang yang baik
+  title: cara mengrelo
+---
 
 
 Selama ini, banyak orang berpikir bahwa pengelolaan keuangan yang baik hanya dibutuhkan saat kondisi sudah memiliki uang dalam jumlah besar. Pandangan ini membuat banyak orang tidak menerapkan pengelolaan uang yang baik sehingga menyebabkan masalah keuangan di masa mendatang.
