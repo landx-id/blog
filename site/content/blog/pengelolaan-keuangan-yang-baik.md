@@ -23,21 +23,19 @@ category:
 featuredImage:
   src: https://images.unsplash.com/photo-1624454003060-fc7189ed6242?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MjB8fHNhdmluZ3xlbnwwfHwwfHw%3D&auto=format&fit=crop&w=500&q=60
   alt: mengelola uang yang baik
-  title: cara mengrelo
+  title: cara mengelola uang yang baik bagi pemula
 ---
-
-
 Selama ini, banyak orang berpikir bahwa pengelolaan keuangan yang baik hanya dibutuhkan saat kondisi sudah memiliki uang dalam jumlah besar. Pandangan ini membuat banyak orang tidak menerapkan pengelolaan uang yang baik sehingga menyebabkan masalah keuangan di masa mendatang.
 
 Oleh sebab itu, pengelolaan keuangan yang baik merupakan hal yang sangat penting dan perlu diterapkan sedini mungkin untuk mempermudah membangun rencana keuangan jangka panjang.
 
 Pengelolaan keuangan yang buruk menjadi salah satu faktor yang menyebabkan banyak orang mengalami kesulitan di kemudian hari. Hal ini bisa kita melalui berbagai hal banyak generasi muda yang lebih memilih menggunakan uang mereka untuk gaya hidup hedonisme dibandingkan menyiapkan dana darurat untuk masa depan mereka.
 
-Gaya hidup konsumtif ini muncul karena berbagai hal seperti prinsip hidup YOLO (_You Only Live Once)_ yang membuat mereka tidak begitu memikirkan masa depan atau perasaan** [FOMO (_Fear of Missing Out)_](https://landx.id/blog/fomo-dalam-kehidupan-dan-investasi/)** yang mendorong mereka menjadi konsumtif karena merasa takut ketinggalan. Karena itu, memahami bagaimana mengelola uang dengan baik merupakan hal penting agar hal seperti ini tidak terjadi.
+Gaya hidup konsumtif ini muncul karena berbagai hal seperti prinsip hidup YOLO (*You Only Live Once)* yang membuat mereka tidak begitu memikirkan masa depan atau perasaan** [FOMO (*Fear of Missing Out)*](https://landx.id/blog/fomo-dalam-kehidupan-dan-investasi/)** yang mendorong mereka menjadi konsumtif karena merasa takut ketinggalan. Karena itu, memahami bagaimana mengelola uang dengan baik merupakan hal penting agar hal seperti ini tidak terjadi.
 
 Karena itu, mari kita bahas berbagai tips yang bisa anda jadikan langkah awal pengelolaan keuangan yang lebih baik.
 
----
+- - -
 
 ## Mengelola Keuangan dengan Baik
 
@@ -67,7 +65,9 @@ Apabila ingin tinggal di rumah sendiri, anda harus menghitung berapa kira-kira d
 
 Apabila ingin paham lebih lanjut tentang tujuan finansial, yuk simak video di bawah ini dulu:
 
-<iframe width="200" height="113" src="https://www.youtube.com/embed/Ug5wff_JQF8?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+**{{< button link="**https://www.youtube.com/watch?v=Ug5wff_JQF8&feature=emb_imp_woyt" **text="Watch This Video" >}**
+
+**{{< youtube id=**Ug5wff_JQF8 **\>}}**
 
 ### 2. Mencatat Pemasukan dan Pengeluaran
 
@@ -75,14 +75,14 @@ Berikutnya, langkah awal untuk pengelolaan uang yang lebih baik adalah dengan me
 
 Hal ini ditujukan untuk melihat arus kas atau cash flow sehingga kita bisa menganalisis apakah kita sudah mengatur uang dengan baik atau belum. Dengan pencatatan yang baik, kita jadi paham hal-hal apa saja yang perlu kita optimalkan agar kondisi keuangan kita bisa menjadi lebih baik.
 
----
+- - -
 
 **Artikel Terkait:**
 
-* Memahami Apa Itu Cash Flow dan Manfaatnya dalam Menyusun Rencana Investasi
+* [Memahami Apa Itu Cash Flow dan Manfaatnya dalam Menyusun Rencana Investasi](https://landx.id/blog/cashflow-adalah/)
 * [Ingin Terhindar Dari FOMO saat Berinvestasi? 5 Hal Ini Wajib Kamu Lakukan](https://landx.id/blog/fomo-dalam-kehidupan-dan-investasi/)
 
----
+- - -
 
 ### 3. Menganalisis Sumber Pengeluaran
 
@@ -114,20 +114,19 @@ Investasi bisnis merupakan salah satu pilihan yang bisa anda coba karena investa
 
 Hal ini akan membuat uang yang anda miliki bisa berkembang dengan lebih cepat. Apabila anda tertarik, anda bisa memilih berbagai bisnis dengan potensi menjanjikan dengan mengunjungi laman [LandX](https://landx.id/).
 
-[**Yuk Temukan Bisnis Menjanjikan dengan Keuntungan Terbaik di LandX**](https://landx.id/)
+**[Yuk Temukan Bisnis Menjanjikan dengan Keuntungan Terbaik di LandX](https://landx.id/)**
 
 [![Bagaimana? Kamu lebih suka bisnis dengan buyback guarantee atau yang bisa disimpan dalam jangka panjang? Apapun pilihan kamu.. Yuk Patungan  dengan Keuntungan Menjanjikan Bareng LandX](https://accountgram-production.sfo2.cdn.digitaloceanspaces.com/landx_ghost/2021/10/Equity-Crowdfunding-di-Indonesia-1--3.png)](http://landx.id/)
 
-[**Yuk Follow Kami di Instagram @landx.id Untuk Berbagai Update Terbaru Seputar Investasi**](https://www.instagram.com/landx.id/?utm_medium=copy_link)
+**[Yuk Follow Kami di Instagram @landx.id Untuk Berbagai Update Terbaru Seputar Investasi](https://www.instagram.com/landx.id/?utm_medium=copy_link)**
 
----
+- - -
 
 **Baca Juga:**
 
 * [Anda Masih Kebingungan Bagaimana Mengelola  Keuangan? Ikuti Tips  Mengelola Keuangan untuk Generasi Milenial Berikut  Untuk Kondisi Manajemen Keuangan Lebih Baik di 2021](https://landx.id/blog/anda-masih-kebingungan-bagaimana-mengelola-keuangan-ikuti-tips-mengelola-keuangan-untuk-generasi-milenial-berikut-untuk-kondisi-manajemen-keuangan-lebih-baik-di-2021/)
 * [Investor Pemula Wajib Tau, Berbagai Jenis dan Risiko Obligasi](https://landx.id/blog/apa-itu-obligasi/)
 
----
+- - -
 
-**#LandX.id    #landx.id    #InvestasiBisnis    #EquityCrowdfunding #SecuritiesCrowdfunding   #InvestasiMenguntungkan    #Urundana    #BisnisPatungan    #InvestasiUsaha**
-
+**\#LandX.id    #landx.id    #InvestasiBisnis    #EquityCrowdfunding #SecuritiesCrowdfunding   #InvestasiMenguntungkan    #Urundana    #BisnisPatungan    #InvestasiUsaha**
