@@ -36,7 +36,9 @@ featuredImage:
   title: Perjalanan LandX Selama 2021 yang Dominasi Pendanaan Equity Crowdfunding
     di Indonesia
 image: https://accountgram-production.sfo2.cdn.digitaloceanspaces.com/landx_ghost/2022/01/infografis-sewaktu-LandX--2021-_01-1.png
-category: []
+category:
+  - Bisnis
+  - Investasi
 ---
 Perjalanan [LandX](https://landx.id/) membangun *fintech platform* investasi *online* demi kemudahan UMKM Indonesia berkembang dan akses investasi semudah berbelanja *online*.
 
@@ -98,23 +100,23 @@ Setiap bisnis di [LandX](https://landx.id/) telah melalui proses seleksi dengan 
 
 Sewaktu 2021, [LandX](https://landx.id/) telah sukses melaksanakan urun dana dengan pendanaan terbesar **hingga Rp 10 M**. LandX telah membantu mengumpulkan pendanaan untuk berbagai bisnis potensial seperti Dragon Hot Pot, Ximivague, NMW Clinic, Byurger, Yellow Car Wash, SnappIn, Okinawa Sushi, Hong Tang, dan PT Casagro Futura Pratama.
 
-![](https://accountgram-production.sfo2.cdn.digitaloceanspaces.com/landx_ghost/2022/01/infografis-sewaktu-LandX--2021-_07-min.png)
+![LandX lakukan pendanaan kepada bisnis hingga 10 miliar](https://accountgram-production.sfo2.cdn.digitaloceanspaces.com/landx_ghost/2022/01/infografis-sewaktu-LandX--2021-_07-min.png "LandX berikan pendanaan hingga 10 miliar kepada bisnis-bisnis potensial")
 
 ## 10 Pendanaan Tercepat Sewaktu 2021
 
 **Pertumbuhan minat investor Indonesia** yang meningkat juga terlihat dari saham-saham bisnis di platform crowdfunding kami diminati. Saham bisnis F&B menjadi yang tercepat dalam sold out kuota lot dengan tercepat Project OKIN **dalam 26 menit saja**, diikuti oleh bisnis properti.
 
-{{< figure src="https://accountgram-production.sfo2.cdn.digitaloceanspaces.com/landx_ghost/2022/01/infografis-sewaktu-LandX--2021-_05-min-1.png" caption="Bisnis dengan Pendanaan Tercepat Selama 2021" >}}
+![pendanaan tercepat di LandX cuma 26 menit](https://accountgram-production.sfo2.cdn.digitaloceanspaces.com/landx_ghost/2022/01/infografis-sewaktu-LandX--2021-_05-min-1.png "LandX lakukan pendanaan hanya dalam waktu 26 menit")
 
 ## Outlet Terbanyak Sewaktu 2021
 
 Investasi #[YukPatunganBisnis](https://landx.id/) di [LandX](https://landx.id/) memungkinkan setiap investor menjadi pemilik cabang baru dari bisnis potensial cuan. Tidak hanya memekarkan cabangnya pada satu tempat saja, terdapat bisnis yang memperluas jangkauannya hingga 7 outlet yang bisa dimiliki oleh pemegang sahamnya.
 
-{{< figure src="https://accountgram-production.sfo2.cdn.digitaloceanspaces.com/landx_ghost/2022/01/infografis-sewaktu-LandX--2021-_08-min.png" caption="Project dengan cabang terbanyak selama 2021" >}}
+![LandX bantu investor buka hingga 7 outlet bisnis baru](https://accountgram-production.sfo2.cdn.digitaloceanspaces.com/landx_ghost/2022/01/infografis-sewaktu-LandX--2021-_08-min.png "LandX bantu bisnis lakukan ekspansi")
 
 ## 10 Bisnis dengan Jumlah Investor Terbanyak
 
-{{< figure src="https://accountgram-production.sfo2.cdn.digitaloceanspaces.com/landx_ghost/2022/01/infografis-sewaktu-LandX--2021-_06-min.png" caption="10 bisnis dengan jumlah investor terbanyak selama 2021" >}}
+![LandX membantu banyak investor berinvestasi ke berbagai bisnis potensial](https://accountgram-production.sfo2.cdn.digitaloceanspaces.com/landx_ghost/2022/01/infografis-sewaktu-LandX--2021-_06-min.png "Bisnis-bisnis potensial yang memberikan bisnis keuntugan jangka panjang")
 
 Selama 2021, LandX telah membuka kesempatan ribuan investor untuk berinvestasi ke berbagai bisnis terbaik dengan potensi keuntungan jangka panjang. Di tahun 2021, LandX berhasil mengajak 1802 investor untuk mendanai project Byurger  dan 1432 investor untuk mendanai NMW Clinic.
 
