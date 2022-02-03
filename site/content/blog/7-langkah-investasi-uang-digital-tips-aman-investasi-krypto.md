@@ -11,7 +11,7 @@ intro: >
   terdapat banyak instrumen yang bisa jadi tempat anda berinvestasi, salah
   satunya adalah instrumen mata uang digital yang kini semakin banyak pilihannya
   untuk investasi anda.
-date: 2022-02-03T04:08:17.789Z
+date: 2022-02-03T07:26:58.929Z
 tag:
   - Blockchain
   - Instrumen Investasi
@@ -22,31 +22,26 @@ category:
   - Investasi
   - Keuangan
 featuredImage:
-  title: "  7 Langkah Investasi Uang Digital | Tips Aman Investasi Krypto"
-  src: https://unsplash.com/photos/gogwOet3mkM
-  alt: investasi-uang-digital
+  title: 7 Langkah Investasi Uang Digital dan Tips Aman Investasi Digital
+  src: https://images.unsplash.com/photo-1621761191319-c6fb62004040?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=387&q=80
+  alt: Investasi uang digital seperti bitcoin, mata uang NFT yaitu ethereum,dan
+    investasi mata uang asing menjadi tren. Berikut langkah-langkahnya
 ---
-🎵Aku ingin begini, aku ingin begitu, ingin ini, ingin itu banyak sekali~
+Mata uang digital kini menjadi salah satu instrumen investasi yang semakin di Indonesia pada saat ini. Mata uang digital di Indonesia kini semakin beragam sehingga apabila ingin berinvestasi ke dalam mata uang digital kamu melakukan analisis dengan baik terlebih dahulu. 
 
-Apa Anda familiar dengan kalimat yang bisa dinyanyikan ini? Lirik dari serial kartun masa kecil sebagian besar orang ini menggambarkan betapa banyaknya keinginan seseorang.
+Akan tetapi, sebelum berinvestasi ke dalam mata uang digital kamu perlu paham dulu apa itu mata uang digital dan bagaimana risiko berinvestasi ke dalam instrumen yang satu ini. 
 
-Minggu ini mau beli pakaian warna tren terbaru, minggu depan rencana beli produk perawatan kulit variasi jenis terbaru, bulan depan maunya beli ini-itu. 
+Hal ini karena investasi merupakan suatu aktivitas menyimpan atau menempatkan dana dengan tujuan mendapatkan keuntungan dan peningkatan dari nilai sebelumnya. Karena itu, sebelum berinvestasi kamu perlu paham dengan baik tentang instrumen investasi yang akan kamu pilih untuk mengembangkan aset kamu.
 
-Belum lagi bayar biaya rutin bulanan sesuai waktu. Perlu bagi setiap kita buat kelola keuangan lebih rapi dan berusaha cari celah passive income yang baru.
+Oleh sebab itu, saat kamu berinvestasi ke dalam mata uang digital kamu harus paham dengan baik apa itu mata uang digital dan bagaimana mata uang digital ini bisa memberikan kamu keuntungan jangka panjang. 
 
-Buat Anda dengan pengeluaran dan belanja bulanan besar, keinginan banyak dan spend yang tinggi karena punya kelebihan uang dingin bisa coba investasi uang digital.
+Karena itu, yuk kita bahas lebih lanjut tentang mata uang digital ini agar keputusan investasi kamu menjadi lebih optimal. 
 
-Investasi merupakan suatu aktivitas menyimpan atau menempatkan dana dengan tujuan mendapatkan keuntungan dan peningkatan dari nilai sebelumnya. Pelaku investasi disebut dengan investor. 
+## Apa Itu Mata Uang Digital?
 
-Tujuan utama investasi bukan menjadikan seseorang agar cepat kaya, tapi lebih kepada bagaimana ia mengelola aset yang dimilikinya agar memiliki manfaat jangka panjang. 
+Mata uang digital pada dasarnya adalah mata uang yang digunakan untuk transaksi secara digital sehingga tidak perlu menggunakan pihak ketiga, mata uang digital biasanya menggunakan sistem blockchain sehingga tidak melibatkan pihak ketiga lagi.
 
-Namun periode investasi justru ada yang dalam jangka pendek saja sudah mendapatkan keuntungan. Tergantung bagaimana dan investasi jenis apa yang dilakukan. Tetap pertimbangkan dan janga gegabah saat anda akan melakukan investasi. 
-
-Pasalnya di era sekarang sangat banyak sekali investasi bodong yang meresahkan. Untuk lebih jelasnya simak artikel yang akan mengulas langkah seputar investasi uang digital berikut ini.
-
-## Siapa yang Mengawali Investasi Uang Digital?
-
-Pada tahun 1983, seorang ahli kriptografi Amerika Serikat yaitu David Chaum menggunakan uang digital kriptografi atau e-cash. Kemudian berlanjut pada tahun 1995, David menetapkannya melalui digicash yang digunakan sebagai bentuk awal pembayaran elektronik kriptografi. 
+Cikal bakal sistem mata uang digitak sebenarnya sudah ada sejak tahun 1983, seorang ahli kriptografi Amerika Serikat yaitu David Chaum menggunakan uang digital kriptografi atau e-cash. Kemudian berlanjut pada tahun 1995, David menetapkannya melalui digicash yang digunakan sebagai bentuk awal pembayaran elektronik kriptografi. 
 
 Pada tahun 1998, Wei Dei menerbitkan deskripsi b-money. Lalu Nick Szabo menggambarkan bit gold yang mengharuskan pengguna melengkapi fungsi kerja dengan menerbitkan dan menyatukan kriptografi. 
 
@@ -68,11 +63,20 @@ Bagi pemula yang penasaran dan ingin mencoba investasi uang digital berikut lang
 
 Setelah Anda mengetahui cara investasi uang digital, kami ingin membagikan kepada Anda tips investasi uang digital agar Anda dapat berhati-hati dalam berinvestasi dan mendapa keuntungan yang maksimal.
 
-* Tips pertama yang tepat untuk Anda adalah dengan mencari platform yang tepat untuk bisnis krypto secara legal dan terdaftar pada Bappebti
-* Pelajari dan selami secara mendalam semua hal yang berhubungan dengan uang krypto. Jangan panik saat aset yang Anda investasikan sedang jeblok.
-* Gunakan yang tidak digunakan dalam jangka pendek untuk investasi.
-* Usahakan untuk memilih aset kripto blue chip seperti bitcoin dan ethereum yang kenaikan dan penurunannya lebih stabil
-* Tips yang paling penting adalah beli aset krypto pada saat harga sedang anjlok. Agar beberapa tahun kedepan saat aset anda mengalami kenaikan  akan menguntungkan
+1. Tips pertama yang tepat untuk Anda adalah dengan mencari platform yang tepat untuk bisnis krypto secara legal dan terdaftar pada Bappebti
+2. Pelajari dan selami secara mendalam semua hal yang berhubungan dengan uang krypto. Jangan panik saat aset yang Anda investasikan sedang jeblok.
+3. Gunakan yang tidak digunakan dalam jangka pendek untuk investasi.
+4. Usahakan untuk memilih aset kripto blue chip seperti bitcoin dan ethereum yang kenaikan dan penurunannya lebih stabil
+5. Tips yang paling penting adalah beli aset krypto pada saat harga sedang anjlok. Agar beberapa tahun kedepan saat aset anda mengalami kenaikan  akan menguntungkan
+
+   <!--StartFragment-->
+
+   **Baca Juga:**
+
+   * **[Kenali 4 Instrumen Pasar Modal Sebelum Memutuskan Instrumen Pasar Modal Terbaik Anda](https://landx.id/blog/kenali-4-instrumen-pasar-modal-sebelum-memutuskan-instrumen-pasar-modal-terbaik-anda/)**
+   * **[Memahami Istilah Laba Ditahan dalam Investasi](https://landx.id/blog/pahami-perbedaan-dividen-dan-capital-gain-sebelum-memulai-investasi/)**
+
+   <!--EndFragment-->
 
 ## Rekomendasi Investasi Uang Digital
 
@@ -100,9 +104,9 @@ Jika kondisi ekonomi sedang dalam keadaan bagus, maka mata uang negara yang Anda
 
 Jadi pada dasarnya, jika Anda melakukan digital investasi ke mata uang asing akan sangat menjanjikan selama Anda paham kapan waktu penukaran atau pencairannya.
 
-## Investasi Digital Crowdfunding
+## [Investasi Digital Lewat Equity Crowdfunding](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)
 
-Investasi semakin mudah, ketersediaan akses online atau investasi digital mampu menghadirkan ragam jenis investasi. Ada saham, krypto, valuta asing, juga terdapat crowdfunding sebagai alternatif diversifikasi portofolio Anda.
+[](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)Investasi semakin mudah, ketersediaan akses online atau investasi digital mampu menghadirkan ragam jenis investasi. Ada saham, krypto, valuta asing, juga terdapat crowdfunding sebagai alternatif diversifikasi portofolio Anda.
 
 Crowdfunding adalah sistem penggalangan dana berbasis teknologi untuk sebuah proyek atau bisnis yang dihimpun dari masyarakat. Strong player dalam industri equity crowdfunding ada LandX.id.
 
@@ -110,6 +114,10 @@ LandX.id sebagai platform equity crowdfunding membantu bisnis lebih berkembang d
 
 Yuk, lakukan diversifikasi portofolio Anda untuk raih keuntungan lebih dengan download aplikasi LandX.id di Play Store dan App Store Anda
 
+**Yuk Investasi Bisnis Jangka Panjang Dengan Modal Kecil Bersama LandX.**
+
+[![Yuk mulai patungan bisnis menguntungkan jangka panja g bersama LandX](https://accountgram-production.sfo2.cdn.digitaloceanspaces.com/landx_ghost/2021/09/Equity-Crowdfunding-di-Indonesia-1--3.png)](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)
 
 
-<!--EndFragment-->
+
+> **[Yuk Follow Instagram @landx.id Untuk Berbagai Info Menarik Seputar Keuangan Lainnya](https://instagram.com/landx.id?utm_medium=copy_link)**
