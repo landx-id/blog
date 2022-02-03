@@ -15,9 +15,9 @@ collections: # A list of collections the CMS should be able to edit
     create: true # Allow users to create new documents in this collection
     fields: # The fields each document in this collection have
       - { label: "Author", name: "author", widget: "string" }
-      - { label: "Title", name: "title", widget: "string", pattern: ['^.{0,70}$', "Can't be more than 70 Characters"]}
-      - { label: "Meta Title", name: "metaTitle", widget: "string", pattern: ['^.{0,70}$', "Can't be more than 70 Characters"]}
-      - { label: "Meta Description", name: "metaDescription", widget: "string", pattern: ['^.{0,150}$', "Can't be more than 150 Characters"]}
+      - { label: "Title", name: "title", widget: "string", hint: "Can't be more than 70 Characters", pattern: ['^.{0,70}$', "Can't be more than 70 Characters"]}
+      - { label: "Meta Title", name: "metaTitle", widget: "string", hint: "Can't be more than 70 Characters", pattern: ['^.{0,70}$', "Can't be more than 70 Characters"]}
+      - { label: "Meta Description", name: "metaDescription", hint: "Can't be more than 150 Characters", widget: "string", pattern: ['^.{0,150}$', "Can't be more than 150 Characters"]}
       - { label: "Intro Blurb", name: "intro", widget: "text" }
       - { label: "Pin This Post", name: "isPinned", widget: "boolean", required: false }
       - { label: "Publish Date", name: "date", widget: "datetime" }
@@ -51,13 +51,15 @@ collections: # A list of collections the CMS should be able to edit
   - name: "tags"
     label: "Tags"
     folder: 'site/content/tag'
-    # slug: '{{ fields.title }}'
+    slug: '{{fields.slug}}'
     path: '{{slug}}/_index'
     create: true
     fields:
-      - { label: Tag Name, name: title, widget: string, pattern: ['^.{0,70}$', "Can't be more than 70 Characters"] }
-      - { label: Meta Title, name: metaTitle, widget: string, pattern: ['^.{0,70}$', "Can't be more than 70 Characters"] }
-      - { label: Meta Description, name: metaDescription, widget: text, pattern: ['^.{0,150}$', "Can't be more than 150 Characters"]}
+      - { label: Tag Name, name: title, widget: string, hint: "Can't be more than 70 Characters", pattern: ['^.{0,70}$', "Can't be more than 70 Characters"] }
+      - { label: Slug, name: slug, widget: string, hint: 'Custom url for this tag, do not enter special characters, else it will be removed'}
+      - { label: Meta Title, name: metaTitle, widget: string, hint: "Can't be more than 70 Characters", pattern: ['^.{0,70}$', "Can't be more than 70 Characters"] }
+      - { label: Meta Description, name: metaDescription, hint: "Can't be more than 150 Characters", widget: text, pattern: ['^.{0,150}$', "Can't be more than 150 Characters"]}
+      - { label: Description, name: description, hint: "This will be displayed to visitor on tag page", widget: text, required: false}
       - name: featuredImage
         label: Featured image
         widget: object
@@ -68,12 +70,15 @@ collections: # A list of collections the CMS should be able to edit
   - name: "categories"
     label: "Categories"
     folder: 'site/content/category'
+    slug: '{{fields.slug}}'
     path: '{{slug}}/_index'
     create: true
     fields:
-      - { label: Category Name, name: title, widget: string, pattern: ['^.{0,70}$', "Can't be more than 70 Characters"] }
-      - { label: Meta Title, name: metaTitle, widget: string, pattern: ['^.{0,70}$', "Can't be more than 70 Characters"] }
-      - { label: Meta Description, name: metaDescription, widget: text, pattern: ['^.{0,150}$', "Can't be more than 150 Characters"]}
+      - { label: Category Name, name: title, widget: string, hint: "Can't be more than 70 Characters", pattern: ['^.{0,70}$', "Can't be more than 70 Characters"] }
+      - { label: Slug, name: slug, hint: "Custom url for this tag, do not enter special characters, else it will be removed", widget: string}
+      - { label: Meta Title, name: metaTitle, widget: string, hint: "Can't be more than 70 Characters", pattern: ['^.{0,70}$', "Can't be more than 70 Characters"] }
+      - { label: Meta Description, name: metaDescription, widget: text, hint: "Can't be more than 150 Characters", pattern: ['^.{0,150}$', "Can't be more than 150 Characters"]}
+      - { label: Description, name: description, hint: "This will be displayed to visitor on description page", widget: text, required: false}
       - name: featuredImage
         label: Featured image
         widget: object
