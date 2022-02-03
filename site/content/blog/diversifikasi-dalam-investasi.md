@@ -35,8 +35,6 @@ category:
   - Keuangan
   - Investasi
 ---
-
-
 Apabila kamu mendalami dunia [bisnis dan investasi](https://landx.id/blog/tag/bisnis-modal-kecil/), kamu pasti sering sekali mendengar istilah diversifikasi.
 
 Dalam dunia bisnis, diversifikasi adalah usaha suatu bisnis untuk membangun beragam produk dan bidang usaha untuk memaksimalkan keuntungan serta sebagai strategi untuk menghadapi berbagai kondisi tidak terduga di masa mendatang.
@@ -47,7 +45,7 @@ Selain dalam bidang bisnis, [diversifikasi](https://landx.id/) juga merupakan is
 
 Karena itu, mari kita bahas lebih lanjut tentang apa itu diversifikasi dan bagaimana strategi diversifikasi yang baik agar investasi menjadi jauh lebih menguntungkan.
 
----
+- - -
 
 ## Apa Itu Diversifikasi dalam Investasi?
 
@@ -59,7 +57,7 @@ Karena itu, diversifikasi merupakan cara untuk menghadapi kondisi yang sulit unt
 
 Hal ini sangat berguna terutama apabila kamu membutuhkan dana pada saat itu jadi kamu tidak perlu mencairkan investasi yang dalam posisi turun. Oleh sebab itu, salah satu diversifikasi investasi yang paling penting adalah membagi investasi berdasarkan jangka waktu dari investasi tersebut.
 
-Konsep ini hampir sama dengan bagaimana suatu perusahaan membuka berbagai lini bisnis sebagai salah satu cara mereka mengoptimalkan keuntungan mereka dan sebagai _back up_ apabila salah satu dari lini bisnis mereka tidak berjalan dengan baik.
+Konsep ini hampir sama dengan bagaimana suatu perusahaan membuka berbagai lini bisnis sebagai salah satu cara mereka mengoptimalkan keuntungan mereka dan sebagai *back up* apabila salah satu dari lini bisnis mereka tidak berjalan dengan baik.
 
 ## Bagaimana Cara Menyusun Strategi Diversifikasi dalam Investasi?
 
@@ -67,7 +65,7 @@ Apabila kamu ingin mulai menyusun strategi diversifikasi dalam investasi, maka k
 
 Profil risiko adalah berapa besar risiko atau kerugian yang sanggup kamu hadapi dalam melakukan investasi. Memahami profil risiko akan membuat kamu paham instrumen mana saja yang risiko dapat kamu terima atau hadapi.
 
-Diversifikasi adalah strategi mitigasi risiko, jadi melakukan diversifikasi bukan berarti jaminan bahwa investasi kamu pasti untung karena hal ini kembali lagi dengan bagaimana strategi investasi yang kamu susun
+> Diversifikasi adalah strategi mitigasi risiko, jadi melakukan diversifikasi bukan berarti jaminan bahwa investasi kamu pasti untung karena hal ini kembali lagi dengan bagaimana strategi investasi yang kamu susun
 
 Setelah paham profil risiko, kamu jadi paham bukan instrumen seperti apa saja yang akan ada dalam portofolio kamu dan berapa porsi uang yang akan kamu tanamkan dalam setiap instrumen tersebut. Cara ini akan membuat kombinasi portofolio kamu sesuai dengan tujuan investasi yang ingin kamu capai.
 
@@ -91,14 +89,13 @@ Di LandX, kamu bisa menemukan berbagai bisnis potensial dari berbagai sektor yan
 
 **[Mau Tau Berbagai Info Terbaru Seputar Keuangan Lainnya? Yuk Follow @landx.id di Instagram](https://www.instagram.com/landx.id/?utm_medium=copy_link)**
 
----
+- - -
 
 **Baca Juga:**
 
-* ****[**Mau Jadi Investor? Simak Cara Mudah Menjadi Investor Hanya dengan Modal Kecil**](https://landx.id/blog/cara-menjadi-investor/)****
-* ****[**Tips Penting dalam Menyusun Rencana Investasi Jangka Panjang Terbaik**](https://landx.id/blog/investasi-jangka-panjang-adalah/)****
+* \***\*[**Mau Jadi Investor? Simak Cara Mudah Menjadi Investor Hanya dengan Modal Kecil**](https://landx.id/blog/cara-menjadi-investor/)\*\***
+* \***\*[**Tips Penting dalam Menyusun Rencana Investasi Jangka Panjang Terbaik**](https://landx.id/blog/investasi-jangka-panjang-adalah/)\*\***
 
----
+- - -
 
-**#YukPatunganBisnis    #LandX.id    #landx         #landx.id    #InvestasiBisnis  #SecuritiesCrowdfunding   #EquityCrowdfunding    #InvestasiMenguntungkan     #Urundana    #BisnisPatungan    #InvestasiUsaha**
-
+**\#YukPatunganBisnis    #LandX.id    #landx         #landx.id    #InvestasiBisnis  #SecuritiesCrowdfunding   #EquityCrowdfunding    #InvestasiMenguntungkan     #Urundana    #BisnisPatungan    #InvestasiUsaha**
