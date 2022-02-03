@@ -52,11 +52,17 @@ Setelah itu muncullah bitcoin pada tahun 2009 yang dikembangkan oleh Satoshi Nak
 Bagi pemula yang penasaran dan ingin mencoba investasi uang digital berikut langkah-langkahnya :
 
 1. Lakukan pendafataran melalui aplikasi atau website exchange
+
 2. Setelah membuka aplikasi atau website, dapatkan kode KYC atau verifikasi agar Anda dapat melakukan transaksi dengan syarat mengunggah KTP asli, mengisi data pribadi, serta  mengupload foto selfie yang jelas.
+
 3. Nah, setelah aktivasi Anda terverifikasi, lakukan deposit rupiah ke rekening yang telah ditentukan exchange minimal 30.000 sampai 50.000 melalui e-wallet, PPOB, kartu debit atau transfer antar Atm.
+
 4. Deposit juga dapat dilakukan menggunakan koin yang nantinya akan dikirimkan dalam wallet yang diberikan pihak exchange
+
 5. Tentukan pair aset krypto yang akan Anda beli. Yang paling populer adalah pair bitcoin rupiah (harga bitcoin dalam rupiah)
+
 6. Setelah itu, masukan jumlah dan harga bitcoin yang akan dibeli. Pilih jenis ‘taker’ jika orderan Anda ingin dilakukan saat itu juga namun, pilih ‘maker’ jika orderan ingin dipending sampai match diharga yang Anda inginkan
+
 7. Terakhir, jual krypto melalui aplikasi exchange
 
 ## Tips Investasi Uang Digital
@@ -64,19 +70,19 @@ Bagi pemula yang penasaran dan ingin mencoba investasi uang digital berikut lang
 Setelah Anda mengetahui cara investasi uang digital, kami ingin membagikan kepada Anda tips investasi uang digital agar Anda dapat berhati-hati dalam berinvestasi dan mendapa keuntungan yang maksimal.
 
 1. Tips pertama yang tepat untuk Anda adalah dengan mencari platform yang tepat untuk bisnis krypto secara legal dan terdaftar pada Bappebti
+
 2. Pelajari dan selami secara mendalam semua hal yang berhubungan dengan uang krypto. Jangan panik saat aset yang Anda investasikan sedang jeblok.
+
 3. Gunakan yang tidak digunakan dalam jangka pendek untuk investasi.
+
 4. Usahakan untuk memilih aset kripto blue chip seperti bitcoin dan ethereum yang kenaikan dan penurunannya lebih stabil
+
 5. Tips yang paling penting adalah beli aset krypto pada saat harga sedang anjlok. Agar beberapa tahun kedepan saat aset anda mengalami kenaikan  akan menguntungkan
 
-   <!--StartFragment-->
+**Baca Juga:**
 
-   **Baca Juga:**
-
-   * **[Kenali 4 Instrumen Pasar Modal Sebelum Memutuskan Instrumen Pasar Modal Terbaik Anda](https://landx.id/blog/kenali-4-instrumen-pasar-modal-sebelum-memutuskan-instrumen-pasar-modal-terbaik-anda/)**
-   * **[Memahami Istilah Laba Ditahan dalam Investasi](https://landx.id/blog/pahami-perbedaan-dividen-dan-capital-gain-sebelum-memulai-investasi/)**
-
-   <!--EndFragment-->
+* **[Kenali 4 Instrumen Pasar Modal Sebelum Memutuskan Instrumen Pasar Modal Terbaik Anda](https://landx.id/blog/kenali-4-instrumen-pasar-modal-sebelum-memutuskan-instrumen-pasar-modal-terbaik-anda/)**
+* **[Memahami Istilah Laba Ditahan dalam Investasi](https://landx.id/blog/pahami-perbedaan-dividen-dan-capital-gain-sebelum-memulai-investasi/)**
 
 ## Rekomendasi Investasi Uang Digital
 
@@ -117,7 +123,5 @@ Yuk, lakukan diversifikasi portofolio Anda untuk raih keuntungan lebih dengan do
 **Yuk Investasi Bisnis Jangka Panjang Dengan Modal Kecil Bersama LandX.**
 
 [![Yuk mulai patungan bisnis menguntungkan jangka panja g bersama LandX](https://accountgram-production.sfo2.cdn.digitaloceanspaces.com/landx_ghost/2021/09/Equity-Crowdfunding-di-Indonesia-1--3.png)](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)
-
-
 
 > **[Yuk Follow Instagram @landx.id Untuk Berbagai Info Menarik Seputar Keuangan Lainnya](https://instagram.com/landx.id?utm_medium=copy_link)**
