@@ -128,7 +128,7 @@ Tidak hanya bisnis dan investor saja yang diuntungkan, setiap bisnis dengan caba
 
 [**LandX** ](https://landx.id/) mendukung program pemerintah dalam membangun iklim bisnis yang subur. Meningkatkan nilai ekonomi serta meningkatkan inklusi keuangan Indonesia.
 
-## [LandX](https://landx.id/) Blog of The Year
+## **[LandX Blog of The Year](https://landx.id/)**
 
 Selalu berusaha memberikan informasi dan edukasi terkait keuangan, investasi, dan berbagai sektor bisnis. Melalui situs blog, [LandX](https://landx.id/) selalu menghadirkan warta menarik untuk dibaca secara ringan. Penjelasan terhadap berbagai istilah dalam dunia investasi agar mantap saat mengambil langkah.
 
