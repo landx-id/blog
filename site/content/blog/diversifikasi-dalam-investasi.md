@@ -1,15 +1,40 @@
-+++
-author = "Abdul Wahhab"
-category = ["diversifikasi dalam investasi", "investasi bisnis", "bisnis investasi online", "bisnis investasi terpercaya", "bisnis jangka panjang", "agio saham", "Equity Crowdfunding", "Securities Crowdfunding untuk Pengembangan UMKM di Indonesia", "tips investasi", "investasi saham"]
-date = 2021-10-05T13:35:02Z
-metaDescription = "diversifikasi adalah strategi yang dilakukan investor untuk memasukkan uang mereka ke dalam berbagai instrumen investasi agar keuntungan optimal"
-draft = false
-image = "https://images.unsplash.com/photo-1560472355-536de3962603?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxMTc3M3wwfDF8c2VhcmNofDQ4fHxpbnZlc3R8ZW58MHx8fHwxNjQwMTUwNTkz&ixlib=rb-1.2.1&q=80&w=1080"
-slug = "diversifikasi-dalam-investasi"
-tag = ["diversifikasi dalam investasi", "investasi bisnis", "bisnis investasi online", "bisnis investasi terpercaya", "bisnis jangka panjang", "agio saham", "Equity Crowdfunding", "Securities Crowdfunding untuk Pengembangan UMKM di Indonesia", "tips investasi", "investasi saham"]
-title = "Diversifikasi Adalah: Memahami Apa Itu Diversifikasi dan Pentingnya Strategi Diversifikasi dalam Investasi"
+---
+draft: false
+author: Abdul Wahhab
+slug: diversifikasi-dalam-investasi
+title: "Diversifikasi Adalah: Membangun Strategi Diversifikasi dalam Investasi"
+metaTitle: "Diversifikasi Adalah: Membangun Strategi Diversifikasi dalam Investasi"
+metaDescription: diversifikasi adalah strategi yang dilakukan investor untuk
+  memasukkan uang mereka ke dalam berbagai instrumen investasi agar keuntungan
+  optimal
+intro: >-
+  Konsep diversifikasi ini sangat penting untuk dipahami oleh para investor
+  pemula karena hal ini salah satu pemahaman dasar yang harus dipahami oleh
+  seseorang saat memulai investasi.
 
-+++
+
+  Diversifikasi adalah salah satu strategi mitigasi risiko dalam investasi yang membantu kamu mendapatkan keuntungan yang lebih optimal dan risiko yang lebih kecil. Karena itu, mari kita bahas lebih lanjut tentang apa itu diversifikasi dan bagaimana strategi diversifikasi yang baik agar investasi menjadi jauh lebih menguntungkan.
+date: 2021-10-05T13:35:02.000Z
+tag:
+  - diversifikasi dalam investasi
+  - investasi bisnis
+  - bisnis investasi online
+  - bisnis investasi terpercaya
+  - bisnis jangka panjang
+  - agio saham
+  - Equity Crowdfunding
+  - Securities Crowdfunding untuk Pengembangan UMKM di Indonesia
+  - tips investasi
+  - investasi saham
+featuredImage:
+  src: https://images.unsplash.com/photo-1560472355-536de3962603?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxMTc3M3wwfDF8c2VhcmNofDQ4fHxpbnZlc3R8ZW58MHx8fHwxNjQwMTUwNTkz&ixlib=rb-1.2.1&q=80&w=1080
+  alt: "Cara diversifikasi yang baik dan benar untuk investor "
+  title: Melakukan diversifikasi sebagai strategi mitigasi risiko yang baik
+image: https://images.unsplash.com/photo-1560472355-536de3962603?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxMTc3M3wwfDF8c2VhcmNofDQ4fHxpbnZlc3R8ZW58MHx8fHwxNjQwMTUwNTkz&ixlib=rb-1.2.1&q=80&w=1080
+category:
+  - Keuangan
+  - Investasi
+---
 
 
 Apabila kamu mendalami dunia [bisnis dan investasi](https://landx.id/blog/tag/bisnis-modal-kecil/), kamu pasti sering sekali mendengar istilah diversifikasi.
@@ -21,14 +46,6 @@ Selain dalam bidang bisnis, [diversifikasi](https://landx.id/) juga merupakan is
 [Konsep diversifikasi](https://landx.id/) ini sangat penting untuk dipahami oleh para investor pemula karena hal ini salah satu pemahaman dasar yang harus dipahami oleh seseorang saat memulai investasi.
 
 Karena itu, mari kita bahas lebih lanjut tentang apa itu diversifikasi dan bagaimana strategi diversifikasi yang baik agar investasi menjadi jauh lebih menguntungkan.
-
----
-
-## Table of Content
-
-* **[Apa Itu Diversifikasi dalam Investasi?](#apa-itu-diversifikasi-dalam-investasi)**
-* **[Bagaimana Cara Menyusun Strategi Diversifikasi dalam Investasi?](#bagaimana-cara-menyusun-strategi-diversifikasi-dalam-investasi) **
-* **[Diversifikasi dalam Investasi Bisnis](#diversifikasi-dalam-investasi-bisnis)**
 
 ---
 
@@ -49,6 +66,8 @@ Konsep ini hampir sama dengan bagaimana suatu perusahaan membuka berbagai lini b
 Apabila kamu ingin mulai menyusun strategi diversifikasi dalam investasi, maka kamu harus paham dulu [profil risiko](https://landx.id/project/) dan tujuan investasi yang ingin kamu capai.
 
 Profil risiko adalah berapa besar risiko atau kerugian yang sanggup kamu hadapi dalam melakukan investasi. Memahami profil risiko akan membuat kamu paham instrumen mana saja yang risiko dapat kamu terima atau hadapi.
+
+Diversifikasi adalah strategi mitigasi risiko, jadi melakukan diversifikasi bukan berarti jaminan bahwa investasi kamu pasti untung karena hal ini kembali lagi dengan bagaimana strategi investasi yang kamu susun
 
 Setelah paham profil risiko, kamu jadi paham bukan instrumen seperti apa saja yang akan ada dalam portofolio kamu dan berapa porsi uang yang akan kamu tanamkan dalam setiap instrumen tersebut. Cara ini akan membuat kombinasi portofolio kamu sesuai dengan tujuan investasi yang ingin kamu capai.
 
