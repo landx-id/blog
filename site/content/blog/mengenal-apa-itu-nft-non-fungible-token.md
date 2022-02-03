@@ -1,18 +1,40 @@
-+++
-author = "Vlora Riyandi"
-category = ["Cryptocurrency", "Blockchain", "Instrumen Investasi", "Tips Keuangan", "pilihan investasi"]
-date = 2022-01-21T04:48:22Z
-metaDescription = "NFT atau Non Fungible Token adalah aset karya digital yang unik dan tidak tergantikan di mana sistem ini membuat pemiliknya dapat memperjualbelikan hasil karya mereka."
-draft = false
-image = "https://images.unsplash.com/photo-1638913971789-667874197280?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxMTc3M3wxfDF8c2VhcmNofDF8fG5mdHxlbnwwfHx8fDE2NDI3NDAyNDA&ixlib=rb-1.2.1&q=80&w=1080"
-slug = "mengenal-apa-itu-nft-non-fungible-token"
-tag = ["Cryptocurrency", "Blockchain", "Instrumen Investasi", "Tips Keuangan", "pilihan investasi"]
-title = "Ghozali Everyday, Apa Itu Bisnis NFT? Memahami Aset Digital Prospek Untung Miliaran"
+---
+draft: false
+author: Vlora Riyandi
+title: " Apa Itu Bisnis NFT? Memahami Aset Digital NFT untuk Investasi"
+metaTitle: " Apa Itu Bisnis NFT? Memahami Aset Digital NFT untuk Investasi"
+metaDescription: NFT atau Non Fungible Token adalah aset karya digital yang unik
+  dan tidak tergantikan di mana sistem ini membuat pemiliknya dapat
+  memperjualbelikan
+intro: >-
+  Kalau kamu penasaran apa itu NFT dan bagaimana sistem keuntungan dari aset
+  digital satu ini, NFT atau Non Fungible Token adalah aset karya digital yang
+  unik dan tidak tergantikan di mana sistem ini membuat pemiliknya dapat
+  memperjualbelikan hasil karya mereka.
 
-+++
+
+  Tapi bagaimana sih sistem NFT (Non Fungible Token) bekerja? Apa itu NFT? Yuk kita bahas lebih lanjut tentang bagaimana aset digital satu ini bisa menjadi sumber cuan baru untuk kamu.
+isPinned: true
+slug: mengenal-apa-itu-nft-non-fungible-token
+date: 2022-01-21T04:48:22.000Z
+tag:
+  - Cryptocurrency
+  - Blockchain
+  - Instrumen Investasi
+  - Tips Keuangan
+  - pilihan investasi
+featuredImage:
+  src: https://images.unsplash.com/photo-1638913971789-667874197280?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxMTc3M3wxfDF8c2VhcmNofDF8fG5mdHxlbnwwfHx8fDE2NDI3NDAyNDA&ixlib=rb-1.2.1&q=80&w=1080
+  alt: Memahami konsep nft sebagai instrumen investasi yang menggunakan blockchain
+  title: Memahami apa itu nft dan bagaimana potensi jangka panjang dari NFT
+image: https://images.unsplash.com/photo-1638913971789-667874197280?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxMTc3M3wxfDF8c2VhcmNofDF8fG5mdHxlbnwwfHx8fDE2NDI3NDAyNDA&ixlib=rb-1.2.1&q=80&w=1080
+category:
+  - Blockchain
+  - Investasi
+---
 
 
-“Ghozali Everyday, jualan foto selfie dapat untung miliaran rupiah”, menjadi headline berita diberbagai situs media. Pria kelahiran tahun 1999 ini mendadak viral karena memiliki pendapatan fantastis dari hasil berjualan 933 swafoto dirinya sebagai **aset NFT _(Non Fungible Token)_.**
+“Ghozali Everyday, jualan foto selfie dapat untung miliaran rupiah”, menjadi headline berita diberbagai situs media. Pria kelahiran tahun 1999 ini mendadak viral karena memiliki pendapatan fantastis dari hasil berjualan 933 swafoto dirinya sebagai **aset NFT (Non Fungible Token)**
 
 Ghozali mulai menjual foto selfienya sejak tahun 2017 dengan harga 0,0001 ETH atau berkisar Rp 48 ribu. Setelah 4 tahun berjalan, kini terdapat kenaikan harga pada harga aset digital NTF milik Ghozali menjadi 0,3 ETH yang setara dengan Rp 13-14 juta.
 
@@ -20,7 +42,7 @@ Kalau kamu penasaran apa itu NFT dan bagaimana sistem keuntungan dari aset digit
 
 Tapi bagaimana sih sistem **NFT (Non Fungible Token)** bekerja? Apa itu NFT? Yuk kita bahas lebih lanjut tentang bagaimana aset digital satu ini bisa menjadi sumber cuan baru untuk kamu.
 
-## Apa Itu NFT _(Non Fungible Token)?_
+## Apa Itu NFT (Non Fungible Token)?
 
 **_Non fungible token_**  **atau NFT  adalah** aset karya digital yang unik dan tidak tergantikan. Seperti yang kita tahu, aset digital tidak memiliki bentuk nyata yang bisa disentuh dan rentan di download oleh siapa pun. Aset digital juga terkadang sulit menemukan pemilik originalnya, nah kehadiran NFT menjadi solusi untuk permasalahan ini.
 
@@ -100,9 +122,9 @@ Karena itu, kamu butuh diversifikasi ke dalam instrumen lain agar sebagai  strat
 
 [**Investasi NFT** ](https://landx.id/) kini dikenal sebagai investasi dengan untung miliaran, namun setiap investasi tentu memiliki risikonyo sendiri. Apalagi untuk memulai berinvestasi aset NFT yang likuid perlu modal yang besar.
 
-Sebagai solusi investasi NFT yang tidak bisa dipecah kepemilikan lot sahamnya kini terdapat investasi dengan[[ **sistem equity crowdfunding**](https://landx.id/)](https://landx.id/). Crowdfunding juga dikenal juga sebagai investasi patungan bisnis, Anda dapat memiliki bisnis prospek cuan miliaran hanya dengan modal Rp 1 juta saja melalui platform crowdfunding [[**LandX.**](https://landx.id/)](https://landx.id/)
+Sebagai solusi investasi NFT yang tidak bisa dipecah kepemilikan lot sahamnya kini terdapat investasi dengan [ **sistem equity crowdfunding**]. Crowdfunding juga dikenal juga sebagai investasi patungan bisnis, Anda dapat memiliki bisnis prospek cuan miliaran hanya dengan modal Rp 1 juta saja melalui platform crowdfunding [[**LandX.**]
 
-**[Berinvestasi di LandX.](https://landx.id/)** Anda bisa mendapat keuntungan dividen serta profit capital gain dengan mdoal sejutaan saja. Tinggal duduk manis jadi owner bisnis tanpa repot kelola operasional dan cari pelanggan.
+**[Berinvestasi di LandX.]** Anda bisa mendapat keuntungan dividen serta profit capital gain dengan mdoal sejutaan saja. Tinggal duduk manis jadi owner bisnis tanpa repot kelola operasional dan cari pelanggan.
 
 **Karena itu.....**
 
