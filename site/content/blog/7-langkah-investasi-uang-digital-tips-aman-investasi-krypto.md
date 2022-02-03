@@ -1,12 +1,26 @@
 ---
 author: Vlora Riyandi
-title: "  7 Langkah Investasi Uang Digital | Tips Aman Investasi Krypto"
-metaTitle: "  7 Langkah Investasi Uang Digital | Tips Aman Investasi Krypto"
+title: 7 Langkah Investasi Uang Digital dan Tips Aman Investasi Digital
+metaTitle: 7 Langkah Investasi Uang Digital dan Tips Aman Investasi Digital
 metaDescription: Investasi uang digital seperti bitcoin, mata uang NFT yaitu
   ethereum,dan investasi mata uang asing menjadi tren. Berikut
   langkah-langkahnya
-intro: "-"
+intro: >
+  Investasi merupakan suatu aktivitas menyimpan atau menempatkan dana dengan
+  tujuan mendapatkan keuntungan dan peningkatan dari nilai sebelumnya. Saat ini,
+  terdapat banyak instrumen yang bisa jadi tempat anda berinvestasi, salah
+  satunya adalah instrumen mata uang digital yang kini semakin banyak pilihannya
+  untuk investasi anda.
 date: 2022-02-03T04:08:17.789Z
+tag:
+  - Blockchain
+  - Instrumen Investasi
+  - Investasi
+  - Investasi Online
+category:
+  - Blockchain
+  - Investasi
+  - Keuangan
 featuredImage:
   title: "  7 Langkah Investasi Uang Digital | Tips Aman Investasi Krypto"
   src: https://unsplash.com/photos/gogwOet3mkM
