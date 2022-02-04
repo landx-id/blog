@@ -26,8 +26,6 @@ image: https://images.unsplash.com/photo-1531837763904-5d3cb2632ea3?crop=entropy
 category:
   - Investasi
 ---
-
-
 Dalam beberapa waktu belakangan, kamu pasti sering mendengar istilah robot trading atau di mana kegiatan otomasi trading dengan menggunakan suatu aplikasi/ sistem yang disebut robot.
 
 Trading menggunakan robot ini sering semakin marak belakangan terutama untuk instrumen-intrumen dengan volatilitas tinggi seperti forex, kripto, saham, dan berbagai instrumen investasi lainnya yang harganya cenderung **fluktuatif.**
@@ -38,19 +36,7 @@ Hal ini membuat banyak orang mulai melakukan trading dengan menggunakan robot tr
 
 Biar kamu tidak seperti itu, yuk kita bahas bareng-bareng tentang robot trading ini.
 
----
-
-## Table of Content
-
-* **[Apa Itu Robot Trading?](https://landx.id/blog/amankah-robot-trading/#apa-itu-rbot-trading?) **
-* [**Robot Trading Forex**](https://landx.id/blog/amankah-robot-trading/#robot-trading-forex)
-* [**Perbedaan Robot Trading dengan Binary Option**](https://landx.id/blog/amankah-robot-trading/#perbedaan-robot-trading-dengan-binary-option)
-* **[Kelebihan dan Kekurangan Robot Trading](https://landx.id/blog/amankah-robot-trading/#kelebihan-dan-kekurangan-robot-trading)**- [Kelebihan Trading Menggunakan Robot](#kelebihan-trading-menggunakan-robot)[- Kekurangan Trading Menggunakan Robot](#kekurangan-trading-menggunakan-robot)
-* [**Penipuan dengan Kedok Robot Trading**](https://landx.id/blog/amankah-robot-trading/#penipuan-dengan-kedok-robot-trading)
-* [**Belajar dari Kasus Sunton Capital**](https://landx.id/blog/amankah-robot-trading/#belajar-dari-kasus-sunton-capital)
-* [**Kesimpulan**](https://landx.id/blog/amankah-robot-trading/#kesimpulan)
-
----
+- - -
 
 ## Apa Itu Robot Trading?
 
@@ -58,7 +44,7 @@ Pertama-tama, mari kita bahas dari hal yang paling dasar yaitu memahami apa itu 
 
 Robot trading sebenarnya adalah suatu program alogaritma yang disusun untuk membantu melakukan analisa terhadap fluktuasi suatu instrumen investasi dan mengambil keputusan secara otomatis berdasarkan analisis yang dilakukan.
 
-Jadi bisa dibilang robot trading merupakan alat (_tools)_ yang membantu proses trading menjadi autopilot sehingga trader tidak perlu memamtau fluktuasi harga saham selama 24 jam.
+Jadi bisa dibilang robot trading merupakan alat (*tools)* yang membantu proses trading menjadi autopilot sehingga trader tidak perlu memamtau fluktuasi harga saham selama 24 jam.
 
 Program algoritma ini biasanya dibuat dengan indikator teknikal sehingga membantu memberikan sinyal-sinyal pergerakan harga kepada trader agar proses pengambilan keputusan menjadi jauh lebih mudah dan cepat.
 
@@ -174,18 +160,15 @@ Bersama LandX, kamu bisa menemukan bisnis terbaik yang kamu bisa terlibat patung
 
 ### [Yuk Temukan Bisnis Terbaik untuk Keuntungan Jangka Panjang Anda](https://landx.id/project/)
 
-
-
 [![miliki bisnis modal kecil cuma dengan 1 jutaan dapat 4 cabang ](https://accountgram-production.sfo2.cdn.digitaloceanspaces.com/landx_ghost/2021/11/jadi-owner-bisnis-hanya-1-jutaan-dengan-cuan-yang-sangat-menjanjikan.png)](https://landx.id/project/)
 
-[**Mau Berbagai Info Menarik Seputar Investasi Lainnya? Yuk Follow Instagram @landx.id**](https://instagram.com/landx.id?utm_medium=copy_link)
+**[Mau Berbagai Info Menarik Seputar Investasi Lainnya? Yuk Follow Instagram @landx.id](https://instagram.com/landx.id?utm_medium=copy_link)**
 
----
+- - -
 
 * [Stock Split: Memahami Apa Itu Stock Split dan Pengaruhnya Terhadap Harga Saham](https://landx.id/blog/stock-split-memahami-apa-itu-stock-split-dan-pengaruhnya-terhadap-harga-saham/)
 * [Mau Mulai Investasi Saham? Kenali Perbedaan antara Trading dan Investasi dalam Saham](https://landx.id/blog/memahami-perbedaan-trading-dan-investasi/)
 
----
+- - -
 
-**#YukPatunganBisnis    #LandX.id    #landx         #landx.id     #InvestasiBisnis    #EquityCrowdfunding    #InvestasiMenguntungkan     #Urundana    #BisnisPatungan    #InvestasiUsaha**
-
+**\#YukPatunganBisnis    #LandX.id    #landx         #landx.id     #InvestasiBisnis    #EquityCrowdfunding    #InvestasiMenguntungkan     #Urundana    #BisnisPatungan    #InvestasiUsaha**
