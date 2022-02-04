@@ -24,7 +24,7 @@ featuredImage:
     Investasi Bodong yang berkedok trading forex
   alt: Trading binary option adalah investasi bodong yang memakan banyak korban
     terutama bagi kamu yang masih awam soal forex
-  src: https://images.unsplash.com/photo-1620714223084-8fcacc6dfd8d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8c2NhbXxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=300&q=60
+  src: https://images.unsplash.com/photo-1620714223084-8fcacc6dfd8d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1171&q=80
 ---
 Memahami Sistem Untung Besar dengan Binary Option yang Sebenarnya Investasi Bodong
 
