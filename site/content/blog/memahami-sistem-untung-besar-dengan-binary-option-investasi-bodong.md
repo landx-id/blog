@@ -62,7 +62,9 @@ Trading binary option tidak sejalan dengan bentuk trading saham yang kita tahu s
 
 Namun, pada sistem binary option hal ini tidak terjadi. Pada binary option, Anda akan dihadapkan pada pilihan naik atau turun yang harus ditebak dalam jangka waktu yang singkat, misal 5 menit. Hal ini membuat Anda tidak memiliki untuk mempelajari bisnis tersebut dan terkesan berjudi.
 
-Terdapat juga kasus affiliator binary option yang membuat korbannya menjerit karena kehilangan ratusan juta jumlah kekayaan. Seorang affiliator binary option, Doni Salmanan tau Indra Kesuma atau Indra Kenz dituding sebagai affiliator yang melakukan penipuan. 
+Apakah ada broker binary option yang legal di Indonesia? Seiring pemblokiran domain-domain binary option di Indonesia, ini berarti tidak ada broker binary option yang legal di Indonesia karena praktik ini melanggar undang-undang.
+
+Terdapat berbagai kasus affiliator binary option yang membuat korbannya menjerit karena kehilangan ratusan juta jumlah kekayaan. Para affiliator binary option umumnya memamerkan kekayaan mereka seperti moge dan barang mewah dituding sebagai affiliator yang melakukan penipuan. 
 
 Penipuan affiliator binary option ini dikabarkan dilakukan dengan cara memberikan info menyimpang dari cara trading yang benar dan meraup keuntungan apabila korbannya merugi di broker binary option. Biasanya trading binary option ini berkedok forex atau indeks saham atau binary forex dalam praktiknya.
 
@@ -92,7 +94,5 @@ Berikut beberapa tips berinvestasi aman:
 Salah satu platform investasi yang aman dan diawasi OJK yang bisa Anda gunakan sebagai diversifikasi portofolio investasi ada LandX.id. LandX.id adalah platform equity crowdfunding yang membuat Anda bisa berinvestasi pada bisnis profit potensial dan memiliki bisnis dengan Rp 1 jutaan.
 
 **\#SekarangBisa** berinvestasi dan merasakan memiliki bisnis dengan semakin mudah. Serta, memiliki kesempatan bagi hasil keuntungan berupa dividen sesuai jangka waktu perjanjian. 
-
-
 
 <!--EndFragment-->
