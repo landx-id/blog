@@ -24,7 +24,7 @@ featuredImage:
     Investasi Bodong yang berkedok trading forex
   alt: Trading binary option adalah investasi bodong yang memakan banyak korban
     terutama bagi kamu yang masih awam soal forex
-  src: https://images.unsplash.com/photo-1620714223084-8fcacc6dfd8d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8c2NhbXxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=300&q=60
+  src: https://images.unsplash.com/photo-1620714223084-8fcacc6dfd8d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1171&q=80
 ---
 Memahami Sistem Untung Besar dengan Binary Option yang Sebenarnya Investasi Bodong
 
@@ -39,8 +39,11 @@ Apa yang ditebak? Harga-harga dari crypto, emas, forex, hingga saham.
 ### **Mekanisme Binary Option:**
 
 1. Kita akan diberi waktu 5 menit untuk menebak , misal harga bitcoin dalam 5 menit ke depan apakah akan naik atau turun.
+
 2. Kemudian kita bertaruh sejumlah uang, Rp 1 juta rupiah misalnya.
+
 3. Apabila kita benar, kita dapat keuntungan 80% dari modal atau Rp 800 ribu
+
 4. Apabilan tebakan salah, akan kehilangan seluruh uang yang ditaruhkan
 
 Karena ini binary option dikenal sebagai cash or nothing. Sebenarnya binary option atau opsi biner juga merupakan permainan kata dimana biner merupakan bahasa teknologi atau IT yang berarti 1 atau 0. 
@@ -53,9 +56,9 @@ Bebeberapa platform binary option yang populer dan harus Anda waspadai ada Binom
 
 **Menurut founder dan CEO Astronacci International, Dr. Gema Goeyardi, ada 3 kenapa banyak trader pemula yang rugi dalam trading binary option.**
 
-1. Dugaan kecurangan pada algoritme sistem binary option itu sendiri
-2. Hasil naik atau turun pada dugaan algoritma saham tidak didasari situasi resmi, namun pada spekulasi beberapa orang.
-3. Sifat trader pemula yang ingin cepat kaya namun tidak menyadari apa yang mereka lakukan. Faktanya dalam berinvestasi saat Anda berspekulasi atau trading kata kuncinya risk to reward. Apabila Anda menang satu maka Anda juga kalah satu, tapi pada binary option terlihat tidak adil saat kalah hialng 100% tapi pada saat Anda menang hanya menerima 80%.
+* Dugaan kecurangan pada algoritme sistem binary option itu sendiri
+* Hasil naik atau turun pada dugaan algoritma saham tidak didasari situasi resmi, namun pada spekulasi beberapa orang.
+* Sifat trader pemula yang ingin cepat kaya namun tidak menyadari apa yang mereka lakukan. Faktanya dalam berinvestasi saat Anda berspekulasi atau trading kata kuncinya risk to reward. Apabila Anda menang satu maka Anda juga kalah satu, tapi pada binary option terlihat tidak adil saat kalah hialng 100% tapi pada saat Anda menang hanya menerima 80%.
 
 Hal ini mirip pada saat Anda dan teman-teman Anda betting atau menebak apakah akan terjdi gol dalam sebuah pertandingan bola. Ketika benar menebak, Anda menerima sejumlah uang namun pada saat salah maka Anda akan kehilangan seluruh uang yang Anda taruhkan.
 
@@ -79,10 +82,13 @@ Terdapat berbagai kasus affiliator binary option yang membuat korbannya menjerit
 
 Penipuan affiliator binary option ini dikabarkan dilakukan dengan cara memberikan info menyimpang dari cara trading yang benar dan meraup keuntungan apabila korbannya merugi di broker binary option. Biasanya trading binary option ini berkedok forex atau indeks saham atau binary forex dalam praktiknya.
 
-> **Baca Juga:**
->
-> * [Stock Split: Memahami Apa Itu Stock Split dan Pengaruhnya Terhadap Harga Saham](https://landx.id/blog/stock-split-memahami-apa-itu-stock-split-dan-pengaruhnya-terhadap-harga-saham/)
-> * [Mau Mulai Investasi Saham? Kenali Perbedaan antara Trading dan Investasi dalam Saham](https://landx.id/blog/memahami-perbedaan-trading-dan-investasi/)
+* * *
+
+**Baca Juga:**
+
+* [Stock Split: Memahami Apa Itu Stock Split dan Pengaruhnya Terhadap Harga Saham](https://landx.id/blog/stock-split-memahami-apa-itu-stock-split-dan-pengaruhnya-terhadap-harga-saham/)
+* [Mau Mulai Investasi Saham? Kenali Perbedaan antara Trading dan Investasi dalam Saham](https://landx.id/blog/memahami-perbedaan-trading-dan-investasi/)
+* * *
 
 ## Binary Option Halal atau Haram?
 
