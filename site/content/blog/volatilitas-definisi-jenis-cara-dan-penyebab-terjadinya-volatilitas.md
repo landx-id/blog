@@ -50,12 +50,12 @@ Biar anda semakin paham, mari kita bahas beberapa jenis volatilitas
 
 ## **Jenis-Jenis Volatilitas**
 
-Volatilitas memiliki beberapa jenis yaitu:
+Berikut beberapa jenis volatilitas yang perlu kamu pahami:
 
 1. **Volatilitas Historis (*Historical Volatility)***: Volatilitas historis merupakan jumlah volatilitas yang dimiliki oleh sebuah efek dalam setahun terakhir. Jenis ini melihat bagaimana variasi harga saham dalam satu tahun terakhir. Apabila suatu saham memiliki harga yang variatif dalam setahun terakhir berarti saham tersebut memiliki nilai volatilitas yang tinggi.
-2. Volatilitas Pasar(Market Volatility): Volatilitas pasar merupakan kecepatan perubahan harga di pasar manapun termasuk di dalamnya pasar saham, komoditas dan valuta asing. Peningkatan volatilitas pasar biasanya menandakan bahwa kondisi sedang berada di dasar atau puncak pasar sudah dekat. Saat menghadapi kondisi ini investor akan mengambil keputusan sesuai dengan strategi investasi yang mereka miliki. **\*\*\*\***
-3. Volatilitas Tersirat (**_**Implied  Volatility): Jenis ini mengacu kepada pandangan *trader* terhadap volatilitas yang akan terjadi di masa mendatang. Hal ini mengacu tingkat permintaan dan penawaran dari sebuah saham yang digunakan untuk memprediksi naik turunnya sebuah saham di masa mendatang.
-4. Volatilitas Saham: Volatilitas saham menggunakan pengukuran yang disebut beta yang bisa menjelaskan kepada anda seberapa baik harga sebuah saham berkorelasi dengan Indeks Standard & Poor's 500. Jika harga saham bergerak sempurna sejalan dengan indeks maka nilai beta-nya akan 1 dan apabila lebih dari 1 artinya saham memiliki nilai yang tidak stabil sehingga mudah berubah dan begitu juga sebaliknya. Angka ini bisa menjadi salah satu acuan bagi investor untuk memilih saham untuk investasi mereka.
+2. **Volatilitas Pasar (Market Volatility):** Volatilitas pasar merupakan kecepatan perubahan harga di pasar manapun termasuk di dalamnya pasar saham, komoditas dan valuta asing. Peningkatan volatilitas pasar biasanya menandakan bahwa kondisi sedang berada di dasar atau puncak pasar sudah dekat. Saat menghadapi kondisi ini investor akan mengambil keputusan sesuai dengan strategi investasi yang mereka miliki.
+3. **Volatilitas Tersirat (Implied  Volatility)**: Jenis ini mengacu kepada pandangan *trader* terhadap volatilitas yang akan terjadi di masa mendatang. Hal ini mengacu tingkat permintaan dan penawaran dari sebuah saham yang digunakan untuk memprediksi naik turunnya sebuah saham di masa mendatang.
+4. **Volatilitas Saham:** Volatilitas saham menggunakan pengukuran yang disebut beta yang bisa menjelaskan kepada anda seberapa baik harga sebuah saham berkorelasi dengan Indeks Standard & Poor's 500. Jika harga saham bergerak sempurna sejalan dengan indeks maka nilai beta-nya akan 1 dan apabila lebih dari 1 artinya saham memiliki nilai yang tidak stabil sehingga mudah berubah dan begitu juga sebaliknya. Angka ini bisa menjadi salah satu acuan bagi investor untuk memilih saham untuk investasi mereka.
 
 ## Penyebab Terjadinya Volatilitas
 
