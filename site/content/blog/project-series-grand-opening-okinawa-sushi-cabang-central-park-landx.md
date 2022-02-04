@@ -35,6 +35,9 @@ category:
 
 **[Gandeng LandX,](https://landx.id/project/)** restoran fusion makanan Jepang Okinawa Sushi mengumumkan pembukaan outlet barunya yang berlokasi di Mall Central Park, Jakarta, pada Jumat, 26 November 2021 lalu.
 
+{{< button link="https://www.youtube.com/watch?v=s46i5RS8z8U" text="Watch This Video" >}}
+{{< youtube id="s46i5RS8z8U" >}}
+
 **[Okinawa Sushi](https://landx.id/project/#/okin)** hadir sebagai restoran makanan Jepang yang menghidangkan sajian dengan cita rasa mewah dan instagramable. Selain tatanan sushi yang terlihat menggugah selera, penyajiannya juga unik. Seperti sushi yang disusun di atas anak tangga, serta pohon sushi menjadi daya tarik tersendiri.
 
 **[Okinawa Sushi](https://landx.id/project/#/okin)** memiliki 400 menu dengan sajian andalan berupa Abura Sushi dan House of Dream yang wajib di coba. Restoran fusion ini mengusung interior yang modern nan elegan yang menawarkan rasa nyaman saat kamu menikmati jam makan.
