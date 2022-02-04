@@ -1,41 +1,55 @@
-+++
-author = "Abdul Wahhab"
-category = ["investasi bisnis", "investasi bagi hasil", "investasi", "Investasi Menguntungkan", "investasi online", "Investasi online terbaru", "cara kerja reksa dana", "reksa dana"]
-date = 2021-04-28T04:12:15Z
-metaDescription = "Mutual fund adalah salah satu pilihan investasi yang cocok untuk investor pemula yang masih memiliki keterbatasan kemampuan dan waktu untuk investasi"
-draft = false
-image = "https://images.unsplash.com/photo-1565373677928-90e963765eac?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxMTc3M3wwfDF8c2VhcmNofDJ8fG11dHVhbCUyMGZ1bmR8ZW58MHx8fHwxNjQxMDUyMDE1&ixlib=rb-1.2.1&q=80&w=1080"
-slug = "mengenal-investasi-mutual-fund-definisi-cara-kerja-dan-jenis-mutual-fund"
-tag = ["investasi bisnis", "investasi bagi hasil", "investasi", "Investasi Menguntungkan", "investasi online", "Investasi online terbaru", "cara kerja reksa dana", "reksa dana"]
-title = "Mengenal Investasi Mutual Fund: Definisi, Cara Kerja, dan Jenis Mutual Fund"
-
-+++
-
-
-**[Mutual fund](https://landx.id/blog/)** merupakan salah satu pilihan investasi untuk [investor pemula](https://landx.id/) dengan keterbatasan pengetahuan terkait bagaimana manajemen risiko dan peluang keuntungan dari berbagai [**instrumen investasi**](https://landx.id/project/).
-
-_**Mutual fund** _ dalam bahasa Indonesia disebut **reksa dana**, instrumen investasi  reksa dana atau  **_mutual fund_ adalah** salah satu instrumen investasi yang sering direkomendasikan untuk investor pemula yang tidak memiliki kemampuan dan waktu untuk mengatur investasi yang dilakukan.
-
-_Mutual fund_ merupakan investasi dengan risiko rendah akan tetapi masih belum populer dan dipahami masyarakat luas. Karena itu, mari kita bahas lebih lanjut terkait _mutual fund_ atau reksa dana.
-
 ---
+draft: false
+author: Abdul Wahhab
+slug: mengenal-investasi-mutual-fund-definisi-cara-kerja-dan-jenis-mutual-fund
+title: "Mengenal Investasi Mutual Fund: Cara Kerja dan Jenis Mutual Fund"
+metaTitle: "Mengenal Investasi Mutual Fund: Cara Kerja dan Jenis Mutual Fund"
+metaDescription: Mutual fund adalah salah satu pilihan investasi yang cocok
+  untuk investor pemula yang masih memiliki keterbatasan kemampuan dan waktu
+  untuk investasi
+intro: >-
+  Mutual fund dalam bahasa Indonesia disebut reksa dana, instrumen investasi
+  reksa dana atau mutual fund adalah salah satu instrumen investasi yang sering
+  direkomendasikan untuk investor pemula yang tidak memiliki kemampuan dan waktu
+  untuk mengatur investasi yang dilakukan.
 
-## Table of Content
 
-* [**Definisi**](#mutual-fund-adalah) _**Mutual Fund**_ **[atau Reksa Dana](#apa-itu-mutual-fund)**
-* **[Cara Kerja Mutual Fund](#cara-kerja-mutual-fund)**
-* **[Jenis Mutual Fund](#jenis-mutual-fund )**
-* **[Memilih Mutual Fund](#memilih-mutual-fund ) **
-
+  Kalau kamu tertarik berinvestasi ke dalam instrumen satu ini, yuk kita bahas cara kerja dan jenis mutual fund yang bisa jadi pilihan investasi kamu.
+date: 2022-02-04T10:56:43.791Z
+tag:
+  - investasi bisnis
+  - investasi bagi hasil
+  - investasi
+  - Investasi Menguntungkan
+  - investasi online
+  - Investasi online terbaru
+  - cara kerja reksa dana
+  - reksa dana
+featuredImage:
+  src: https://images.unsplash.com/photo-1565373677928-90e963765eac?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxMTc3M3wwfDF8c2VhcmNofDJ8fG11dHVhbCUyMGZ1bmR8ZW58MHx8fHwxNjQxMDUyMDE1&ixlib=rb-1.2.1&q=80&w=1080
+  alt: Mengenal berbagai jenis mutual fund dan cara kerja mutual fund agar
+    investasi kamu semakin mudah
+  title: "Mengenal Investasi Mutual Fund: Definisi, Cara Kerja, dan Jenis Mutual Fund"
+image: https://images.unsplash.com/photo-1565373677928-90e963765eac?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxMTc3M3wwfDF8c2VhcmNofDJ8fG11dHVhbCUyMGZ1bmR8ZW58MHx8fHwxNjQxMDUyMDE1&ixlib=rb-1.2.1&q=80&w=1080
+category:
+  - Investasi
+  - Keuangan
 ---
+**[Mutual fund](https://landx.id/blog/)** merupakan salah satu pilihan investasi untuk [investor pemula](https://landx.id/) dengan keterbatasan pengetahuan terkait bagaimana manajemen risiko dan peluang keuntungan dari berbagai **[instrumen investasi](https://landx.id/project/)**.
 
-##  _Apa Itu Mutual Fund?_
+***Mutual fund** dalam bahasa Indonesia disebut **reksa dana**, instrumen investasi  reksa dana atau mutual fund* adalahsalah satu instrumen investasi yang sering direkomendasikan untuk investor pemula yang tidak memiliki kemampuan dan waktu untuk mengatur investasi yang dilakukan.
 
-**_Mutual fund_ adalah** jenis investasi yang menghimpun dana investor yang selanjutnya akan diatur oleh manajer investasi untuk diinvestasikan ke berbagai [portofolio efek](https://landx.id/) atau sekuritas pilihan manajer investasi.
+***Mutual fund* adalah investasi** dengan risiko rendah akan tetapi masih belum populer dan dipahami masyarakat luas. Karena itu, mari kita bahas lebih lanjut terkait *mutual fund* atau reksa dana.
+
+- - -
+
+## *Apa Itu Mutual Fund?*
+
+***Mutual fund* adalah** jenis investasi yang menghimpun dana investor yang selanjutnya akan diatur oleh manajer investasi untuk diinvestasikan ke berbagai [portofolio efek](https://landx.id/) atau sekuritas pilihan manajer investasi.
 
 Manajer investasi akan mengalokasi dana para investor ke dalam berbagai instrumen agar bisa memberikan keuntungan kepada para investor atau penanam modal.
 
-**Mutual fund atau reksa dana** sendiri memiliki berbagai jenis sehingga investor bisa menyesuaikan dengan tujuan dan profil risiko mereka. _Mutual fund_ memberikan kesempatan untuk investor dengan modal kecil sehingga dapat instrumen ini dapat diakses oleh masyarakat luas dnegan lebih mudah.
+**Mutual fund atau reksa dana** sendiri memiliki berbagai jenis sehingga investor bisa menyesuaikan dengan tujuan dan profil risiko mereka. *Mutual fund* memberikan kesempatan untuk investor dengan modal kecil sehingga dapat instrumen ini dapat diakses oleh masyarakat luas dnegan lebih mudah.
 
 **Investor pemula** menjadi lebih mudah uang mereka dikelola oleh pihak manajer investasi berpengalaman dan diawasi oleh Otoritas Jasa Keuangan (OJK).
 
@@ -43,24 +57,24 @@ Manajer investasi akan mengalokasi dana para investor ke dalam berbagai instrume
 
 ## Cara Kerja Mutual Fund
 
-**_Mutual fund_ pada dasarnya** bekerja dengan adanya manajer investasi. Modal yang anda investasikan akan di-distribusikan ke dalam beberapa instrumen yang telah dinilai memiliki potensi keuntungan kepada investor.
+***Mutual fund* pada dasarnya** bekerja dengan adanya manajer investasi. Modal yang anda investasikan akan di-distribusikan ke dalam beberapa instrumen yang telah dinilai memiliki potensi keuntungan kepada investor.
 
-Manajer investasi akan melakukan [**diversifikasi**](https://landx.id/) ke dalam beberapa instrumen untuk memperkecil risiko kerugian bagi para investor yang ikut mengumpulkan uang mereka.
+Manajer investasi akan melakukan **[diversifikasi](https://landx.id/)** ke dalam beberapa instrumen untuk memperkecil risiko kerugian bagi para investor yang ikut mengumpulkan uang mereka.
 
-Di era sekarang, berinvestasi lewat **mutual fund** semakin mudah di akses melalui berbagai platform investasi online yang bisa di akses masyarakat luas. Reksa dana akan memberikan keuntungan kepada investor dalam bentuk dividen dan  _[capital gain.](https://landx.id/blog/) _
+Di era sekarang, berinvestasi lewat **mutual fund** semakin mudah di akses melalui berbagai platform investasi online yang bisa di akses masyarakat luas. Reksa dana akan memberikan keuntungan kepada investor dalam bentuk dividen dan  *[capital gain.](https://landx.id/blog/)* 
 
----
+- - -
 
 **Baca Juga:**
 
 * [Diversifikasi Adalah: Memahami Apa Itu Diversifikasi dan Pentingnya Strategi Diversifikasi dalam Investasi](https://landx.id/blog/diversifikasi-dalam-investasi/)
 * [Cara Kerja Reksa Dana - Memahami Seluk Beluk Instrumen Reksa Dana](https://landx.id/blog/cara-kerja-reksa-dana/)
 
----
+- - -
 
 ## Jenis Mutual Fund
 
-Sebelum memutuskan untuk berinvestasi ke dalam _mutual fund_ anda harus paham terlebih **jenis-jenis mutual fund** yang tersedia di pasar modal. Berikut beberapa jenis reksa dana yang bisa anda pilih:
+Sebelum memutuskan untuk berinvestasi ke dalam *mutual fund* anda harus paham terlebih **jenis-jenis mutual fund** yang tersedia di pasar modal. Berikut beberapa jenis reksa dana yang bisa anda pilih:
 
 ### 1. Reksa Dana Pasar Uang
 
@@ -92,7 +106,7 @@ Reksa dana ini menempatkan dana investor ke dalam beberapa instrumen investasi s
 
 ## Memilih Mutual Fund
 
-Karena mutual fund memiliki jenis yang beragam, anda perlu mempertimbangkan berbagai hal agar anda memilih _mutual fund_ yang sesuai dengan tujuan investasi kamu. Untuk itu berikut beberapa hal yang harus anda perhatikan saat memulai investasi di _mutual fund._
+Karena mutual fund memiliki jenis yang beragam, anda perlu mempertimbangkan berbagai hal agar anda memilih *mutual fund* yang sesuai dengan tujuan investasi kamu. Untuk itu berikut beberapa hal yang harus anda perhatikan saat memulai investasi di *mutual fund.*
 
 ### 1. Pilih Platform yang kredibel
 
@@ -110,7 +124,7 @@ Anda perlu menghitung berapa besar risiko yang bisa anda tanggung saat melakukan
 
 Diversifikasi adalah hal penting untuk dipahami semua investor pemula karena ktia tidak boleh menaruh semua uang kita dalam satu instrumen karena kita tidak pernah tau hal-hal yang mungkin terjadi di masa mendatang.
 
-Karena itu, kamu butuh merencanakan instrumen-instrumen lain yang harus kamu miliki untuk _back-up plan_ apabila salah satu instrumen kita tidak berjalan sesuai dengan harapan.
+Karena itu, kamu butuh merencanakan instrumen-instrumen lain yang harus kamu miliki untuk *back-up plan* apabila salah satu instrumen kita tidak berjalan sesuai dengan harapan.
 
 Apabila kamu masih bingung berinvestasi ke dalam instrumen jenis apa, maka kamu bisa mulai dengan **investasi bisnis modal kecil kecil lewat equity crowdfunding.**
 
@@ -120,7 +134,7 @@ Sistem ini memberikan kamu kesempatan untuk berinvestasi ke dalam berbagai bisni
 
 ## [Yuk Temukan Bisnis Terbaik untuk Investasi Jangka Panjang Kamu di LandX](https://landx.id/project/)
 
-[![Bagaimana? Kamu lebih suka bisnis dengan buyback guarantee atau yang bisa disimpan dalam jangka panjang? Apapun pilihan kamu.. Yuk Patungan  dengan Keuntungan Menjanjikan Bareng LandX](https://accountgram-production.sfo2.cdn.digitaloceanspaces.com/landx_ghost/2021/10/Equity-Crowdfunding-di-Indonesia-1--3.png)](http://landx.id/)
+[![Bagaimana? Kamu lebih suka bisnis dengan buyback guarantee atau yang bisa disimpan dalam jangka panjang? Apapun pilihan kamu.. Yuk Patungan  dengan Keuntungan Menjanjikan Bareng LandX](https://accountgram-production.sfo2.cdn.digitaloceanspaces.com/landx_ghost/2021/10/Equity-Crowdfunding-di-Indonesia-1--3.png)](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)
 
 **Baca Juga:**
 
@@ -128,7 +142,6 @@ Sistem ini memberikan kamu kesempatan untuk berinvestasi ke dalam berbagai bisni
 * [Mau Jadi Investor? Simak Cara Mudah Menjadi Investor Hanya dengan Modal Kecil](https://landx.id/blog/cara-menjadi-investor/)
 * [Tips Penting dalam Menyusun Rencana Investasi Jangka Panjang Terbaik](https://landx.id/blog/investasi-jangka-panjang-adalah/)
 
----
+- - -
 
-**#YukPatunganBisnis**
-
+**\#YukPatunganBisnis**
