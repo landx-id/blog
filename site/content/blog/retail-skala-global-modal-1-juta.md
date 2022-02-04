@@ -1,33 +1,44 @@
-+++
-author = "Abdul Wahhab"
-category = ["landx-app-announcement"]
-date = 2021-11-03T07:29:10Z
-metaDescription = "New Project!  \nXIMIVOGUE INDONESIA LISTING DI LANDX! "
-draft = false
-slug = "retail-skala-global-modal-1-juta"
-tag = ["landx-app-announcement"]
-title = "XIMIVOGUE: BISNIS RETAIL SKALA GLOBAL LISTING DI LANDX"
+---
+draft: false
+author: Abdul Wahhab
+slug: retail-skala-global-modal-1-juta
+title: "XIMIVOGUE: BISNIS RETAIL SKALA GLOBAL LISTING DI LANDX"
+metaTitle: "XIMIVOGUE: BISNIS RETAIL SKALA GLOBAL LISTING DI LANDX"
+metaDescription: "XIMIVOGUE INDONESIA LISTING DI LANDX! "
+intro: >-
+  aat ini, Ximivogue telah memiliki 6 cabang di kawasan Jakarta dan sekitarnya
+  dan terus melakukan ekspansi ke seluruh Indonesia.
 
-+++
+
+  Bersama LandX, Ximivogue akan membuka 2 cabang baru di lokasi yang sangat strategis yaitu Pondok Indah Mall 3 dan Tunjungan Plaza yang berada di Kota Surabaya.
 
 
+  Perkembangan yang sangat pesat di kawasan Jakarta dan sekitarnya menunjukkan besarnya permintaan pasar akan produk-produk Korean Based Design yang berkualitas.
+date: 2021-11-03T07:29:10.000Z
+tag:
+  - Bisnis Retail
+  - Ximivogue Listing di LandX
+category:
+  - Bisnis
+featuredImage:
+  src: https://landx.id/images/XIMI/1.webp
+  alt: Ximivogue raih pendanaan lewat LandX
+  title: Ximivogue raih pendanaan melalui pendanaan LandX
+---
 ## New Project!
 
 ## XIMIVOGUE INDONESIA LISTING DI LANDX!
 
-
-
-<iframe width="200" height="113" src="https://www.youtube.com/embed/MW4Kt5RUvl8?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+{{< youtube id="MW4Kt5RUvl8" >}}
+ {{< button link="https://www.youtube.com/watch?v=MW4Kt5RUvl8" text="Watch This Video" >}}
 
 10 Tahun Berpengalaman di Dunia Retail Fast Fashion Brand Internasional dengan Ribuan Outlet di 90 NegaraTerdaftar di Berbagai Marketplace Indonesia
 
-[**Gabung sekarang! Dapatkan Dividen Rutin 10 Hingga 15% Mulai 1 Jutaan Saja! Cuma di LandX**](https://landx.id/project/#/ximi)
+**[Gabung sekarang! Dapatkan Dividen Rutin 10 Hingga 15% Mulai 1 Jutaan Saja! Cuma di LandX](https://landx.id/project/#/ximi)**
 
----
+- - -
 
 ## Ximivogue Resmi Masuk dan Mulai Ekspansi Industri Ritel di Indonesia
-
-
 
 Saat ini, Korean Lifestyle menjadi salah satu tren yang berkembang sangat pesat dalam beberapa waktu belakangan sehingga mempengaruhi berbagai gaya hidup penggemarnya seperti makanan, gaya fashion, hingga berbagai barang-barang lucu yang mereka lihat dalam drama Korea yang mereka tonton.
 
@@ -91,16 +102,13 @@ Karena itu, tunggu apalagi...
 
 ## [Mau Berbagai info Terbaru Terkait Investasi? Yuk Follow @landx.id di Instagram](https://www.instagram.com/landx.id/?utm_medium=copy_link)
 
----
+- - -
 
 **Baca Juga:**
 
-* ****[**Mau Jadi Investor? Simak Cara Mudah Menjadi Investor Hanya dengan Modal Kecil**](https://landx.id/blog/cara-menjadi-investor/)****
-* ****[**Tips Penting dalam Menyusun Rencana Investasi Jangka Panjang Terbaik**](https://landx.id/blog/investasi-jangka-panjang-adalah/)****
+* \***\*[**Mau Jadi Investor? Simak Cara Mudah Menjadi Investor Hanya dengan Modal Kecil**](https://landx.id/blog/cara-menjadi-investor/)\*\***
+* \***\*[**Tips Penting dalam Menyusun Rencana Investasi Jangka Panjang Terbaik**](https://landx.id/blog/investasi-jangka-panjang-adalah/)\*\***
 
----
+- - -
 
-**#YukPatunganBisnis    #LandX.id    #landx         #landx.id    #InvestasiBisnis  #SecuritiesCrowdfunding   #EquityCrowdfunding    #InvestasiMenguntungkan     #Urundana    #BisnisPatungan    #InvestasiUsaha**
-
-
-
+**\#YukPatunganBisnis    #LandX.id    #landx         #landx.id    #InvestasiBisnis  #SecuritiesCrowdfunding   #EquityCrowdfunding    #InvestasiMenguntungkan     #Urundana    #BisnisPatungan    #InvestasiUsaha**
