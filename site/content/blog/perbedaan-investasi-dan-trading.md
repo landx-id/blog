@@ -30,22 +30,15 @@ category:
   - Investasi
   - Keuangan
 ---
-
-
 Seiring berjalannya waktu, sekarang masyarakat semakin sadar bahwa untuk mengembangkan uang tidak cukup hanya dengan sekedar menabung sehingga mereka membutuhkan rencana investasi yang baik. Selain itu investasi kini semakin mudah diakses karena tersedianya berbagai instrumen investasi yang dapat diakses secara online.
 
 Apabila anda berinvestasi anda tentu saja mendengar istilah trading yang sering muncul saat anda menjalankan investasi. Akan tetapi, sudahkah anda paham apa itu trading dan bagaimana trading bisa membantu anda membangun aset? Apabila anda belum tahu yuk kita bahas perbedaan antara investasi dan trading.
-
-## Table of Content
-
-* **[Perbedaan Investasi dan Trading](#perbedaan-investasi-dan-trading)**
-* **[Lebih Baik Trading atau Investasi?](#lebih-baik-trading-atau-investasi)**
 
 ## Perbedaan Investasi dan Trading
 
 Trading dan investasi sebenarnya memiliki tujuan yang sama yaitu untuk memaksimalkan keuntungan dari investasi yang anda lakukan. Akan tetapi terdapat beberapa perbedaan konsep yang menjadi pembeda antara trading dan investasi.
 
-### Investasi 
+### Menjadi Investor
 
 Investasi merupakan kegiatan di mana anda menanamkan modal ke dalam suatu instrumen dengan harapan mendapatkan keuntungan di masa mendatang.
 
@@ -55,15 +48,23 @@ Dalam investasi anda bisa mendapatkan keuntungan berupa bunga atau deviden yang 
 
 Investasi memiliki periode yang berbeda-beda sehingga anda bisa menyesuaikan instrumen investasi mana yang sesuai dengan tujuan keuangan yang ingin anda capai.
 
-### Trading
+### Menjadi Trader
 
 Berbeda dengan investasi, dalam trading anda tidak hanya menaruh uang anda ke dalam suatu instrumen lalu menunggu instrumen tersebut memberikan anda keuntungan. Dalam trading anda anda akan bertindak lebih aktif untuk mendapatkan keuntungan dari investasi yang anda lakukan.
 
 Apabila anda memutuskan untuk melakukan trading anda harus bisa melakukan manajemen investasi yang baik sehingga bisa mendapatkan keuntungan yang optimal.
 
-Salah satu contoh trading yang sering anda lihat adalah investasi dalam melalui _foreign exchange_ atau forex yang menuntut analisis yang teliti dari seorang trader agar mereka bisa menentukan kapan mereka harus membeli dan menjual aset yang mereka miliki agar bisa mendapatkan keuntungan yang optimal.
+Salah satu contoh trading yang sering anda lihat adalah investasi dalam melalui *foreign exchange* atau forex yang menuntut analisis yang teliti dari seorang trader agar mereka bisa menentukan kapan mereka harus membeli dan menjual aset yang mereka miliki agar bisa mendapatkan keuntungan yang optimal.
 
 Akan tetapi hal ini tentu saja membutuhkan analisis yang mendalam agar anda tidak mengalami kerugian.
+
+* * *
+
+**Baca Juga:**
+
+* [Pahami Bagaimana Efek Compounding Dapat Membantu Pengembangan Investasi Anda](https://landx.id/blog/pahami-bagaimana-efek-compounding-dapat-membantu-pengembangan-investasi-anda/)
+* [Bisnis Jangka Panjang: Memilih Bisnis yang Menguntungkan untuk Jangka Panjang](https://landx.id/blog/bisnis-menguntungkan-jangka-panjang/)
+* * *
 
 ## Lebih Baik Trading atau Investasi?
 
@@ -89,12 +90,6 @@ Kalau anda tertarik untuk investasi, anda bisa mencoba investasi bisnis dengan s
 
 **[Yuk Investasi Bisnis Terpercaya Bersama LandX](https://landx.id/)**
 
+[![Yuk mulai patungan bisnis menguntungkan jangka panja g bersama LandX](https://accountgram-production.sfo2.cdn.digitaloceanspaces.com/landx_ghost/2021/09/Equity-Crowdfunding-di-Indonesia-1--3.png)](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)
+
 **[Follow Juga Kami di Instagram @landx.id Supaya Anda Terus Update Berbagai Info Seputar Investasi Lainnya](https://instagram.com/landx.id?utm_medium=copy_link)**
-
-**#LandX.id    #landx         #landx.id    #InvestasiBisnis    #EquityCrowdfunding    #InvestasiMenguntungkan    #Urundana    #BisnisPatungan    #InvestasiUsaha**
-
-**Baca Juga:**
-
-* [Pahami Bagaimana Efek Compounding Dapat Membantu Pengembangan Investasi Anda](https://landx.id/blog/pahami-bagaimana-efek-compounding-dapat-membantu-pengembangan-investasi-anda/)
-* [Bisnis Jangka Panjang: Memilih Bisnis yang Menguntungkan untuk Jangka Panjang](https://landx.id/blog/bisnis-menguntungkan-jangka-panjang/)
-
