@@ -91,7 +91,7 @@ Menentukan tujuan investasi merupakan hal penting yang harus dilakukan di awal a
 
 Menentukan tujuan investasi juga akan membantu anda dalam menentukan tujuan investasi, oleh sebab itu anda harus memikirkan tujuan seperti apa yang ingin anda capai melalui investasi yang dilakukan.
 
-* **\*\***Menentukan Profil Risiko Investasi untuk Pemula**\*\***
+### Menentukan Profil Risiko Investasi untuk Pemula
 
 Menentukan profil risiko adalah hal penting karena seperti yang kita tahu bahwa setiap investasi selalu diikuti risiko. Anda harus tahu seberapa besar risiko kerugian yang bisa anda tanggung dalam investasi agar anda bisa memilih instrumen yang sesuai dengan besar risiko yang bisa anda terima.
 
@@ -99,27 +99,35 @@ Hal ini sangat penting karena seperti yang kita tahu bahwa setiap keuntungan yan
 
 Selain itu, instrumen investasi sangatlah beragam dan memiliki risiko yang berbeda-beda sehingga mengetahui profil risiko dapat membantu mereka menemukan instrumen investasi yang sesuai dengan mereka.
 
-* **\*\***Lakukan Analisis untuk Proyeksi Investasi dalam Jangka Panjang**\*\***
+### Lakukan Analisis untuk Proyeksi Investasi dalam Jangka Panjang
 
 Dalam investasi anda harus bisa menganalisis dan melihat jauh ke depan sehingga anda bisa lebih mudah memilih instrumen investasi yang tepat. Oleh sebab itu anda harus mempertimbangkan berbagai kemungkinan di masa mendatang agar anda bisa memilih investasi dengan prospek keuntungan yang terbaik. Anda bisa mulai dengan  melihat bagaimana trend pasar dan seperti apa keuntungan yang bisa anda dapatkan.
 
 Selanjutnya yuk kita bahas beberapa jenis investasi yang cocok untuk pemula.
 
+* * *
+
+**Baca Juga:**
+
+* [Buat Yang Mau Investasi, Yuk Pahami Seperti Apa Investasi Jangka Panjang yang Baik untuk Anda](https://landx.id/blog/tag/investasi-jangka-panjang)
+* [Investasi Modal Kecil:  Jenis dan Memilih Investasi dengan Modal Kecil yang Menguntungkan untuk Anda](https://landx.id/blog/investasi-modal-kecil-jenis-dan-memilih-investasi-dengan-modal-kecil-yang-menguntungkan-untuk-anda/)
+* * *
+
 ## Pilihan Investasi untuk Pemula
 
-* **\*\***Obligasi**\*\***
+### Obligasi
 
 Obligasi merupakan surat utang yang diterbitkan oleh suatu perusahaan atau pemerintah dan dana investor akan dikembalikan beserta bunganya pada akhir periode yang telah dijanjikan. Investasi jenis ini sangat cocok untuk pemula karena terbilang memiliki risiko yang rendah terutama obligasi yang diterbitkan oleh pemerintah karena risiko gagal bayar yang rendah.
 
 Instrumen ini sangat cocok untuk investor pemula karena selain risiko yang terbilang rendah, instrumen ini juga bisa dimulai dengan modal kecil. Saat membeli obligasi anda harus memperhatikan siapa penerbit dari obligasi ini untuk melihat tingkat risiko gagal bayar dari investasi yang anda lakukan.
 
-* **\*\***Reksa Dana**\*\***
+### Reksa Dana
 
 Reksa dana merupakan jenis investasi yang sangat cocok untuk investor pemula terutama yang belum punya kemampuan yang cukup untuk mengatur sendiri investasinya. Dalam reksa dana, uang yang anda miliki akan dikumpulkan dan dikelola oleh seorang manajer investasi yang akan menyalurkan uang anda ke berbagai instrumen investasi yang menguntungkan.
 
-Jenis juga sangat digemari oleh pemula karena modal yang dibutuhkan dalam investasi ini terbilang kecil dan mudah di akses melalui berbagai platform investasi online.
+Jenis juga sangat digemari oleh pemula karena modal yang dibutuhkan dalam investasi ini terbilang kecil dan mudah di akses melalui berbagai platform investasi online. Untuk pemula, kamu bisa mulai dengan reksa dana yang memiliki risiko kecil seperti reksa dana pasar uang dengan risiko cenderung lebih kecil dibandingkan jenis lain.
 
-* **\*\***Equity Crowdfunding**\*\***
+### Equity Crowdfunding
 
 Salah satu investasi yang cocok untuk pemula adalah investasi bisnis dengan sistem [equity crowdfunding](https://landx.id/). Sistem ini memberikan anda kesempatan untuk melakukan [patungan membangun suatu bisnis](https://landx.id/) bersama para investor lain yang akan diberikan bukti kepemilikan berupa saham sesuai dengan modal yang anda berikan.
 
@@ -127,17 +135,12 @@ Hal ini menjadi solusi bagi investor pemula yang memiliki dana terbatas tapi ing
 
 Sebagai investor pemula anda akan sangat terbantu dengan sistem ini karena anda bisa berinvestasi ke dalam berbagai bisnis potensial yang menguntungkan asalkan anda bisa memilih [platform equity crowdfunding](https://landx.id/) yang tepat.
 
-**[Yuk Mulai Investasi Bisnis Modal Kecil yang Menguntungkan Bersama LandX](https://landx.id/)**
+**[Yuk Temukan Bisnis Menjanjikan dengan Keuntungan Terbaik di LandX](https://landx.id/project/)**
 
-[LandX](https://landx.id/) bisa menjadi pilihan investasi untuk pemula yang ingin mengembangkan modal yang anda miliki melalui investasi bisnis jangka panjang yang menguntungkan anda.
+[![miliki bisnis modal kecil cuma dengan 1 jutaan dapat 4 cabang ](https://accountgram-production.sfo2.cdn.digitaloceanspaces.com/landx_ghost/2021/11/jadi-owner-bisnis-hanya-1-jutaan-dengan-cuan-yang-sangat-menjanjikan.png)](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)
 
-**[Yuk Mulai Investasi di LandX](https://landx.id/)**
+**[Yuk Follow Kami di Instagram @landx.id Untuk Berbagai Update Terbaru Seputar Investasi](https://www.instagram.com/landx.id/?utm_medium=copy_link)**
 
-**[Jangan Lupa!!! Follow Juga Kami di Instagram @landx.id Untuk Berbagai Informasi Terupdate Seputar Investasi](https://instagram.com/landx.id?utm_medium=copy_link)**
+- - -
 
-\#LandX.id    #landx         #landx.id    #InvestasiBisnis    #EquityCrowdfunding    #InvestasiMenguntungkan    #Urundana    #BisnisPatungan    #InvestasiUsaha
-
-**Baca Juga:**
-
-* [Buat Yang Mau Investasi, Yuk Pahami Seperti Apa Investasi Jangka Panjang yang Baik untuk Anda](https://landx.id/blog/tag/investasi-jangka-panjang)
-* [Investasi Modal Kecil:  Jenis dan Memilih Investasi dengan Modal Kecil yang Menguntungkan untuk Anda](https://landx.id/blog/investasi-modal-kecil-jenis-dan-memilih-investasi-dengan-modal-kecil-yang-menguntungkan-untuk-anda/)
+\#SekarangBisa
