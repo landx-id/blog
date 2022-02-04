@@ -35,21 +35,23 @@ Karena itu, yuk kita bahas bagaimana cara berinvestasi yang bisa memberikan keun
 
 - - -
 
-## Apa Itu Investasi
+## Berinvestasi Adalah....
+
+**Sebelum kita memilih instrumen seperti apa yang cocok untuk kita, sebagai pemula kamu harus paham dulu apa itu investasi**
 
 Investasi adalah kegiatan menanamkan modal yang dilakukan oleh investor dengan harapan bisa mendapatkan keuntungan dari modal yang sudah ditanamkan sebelumnya.
 
-Berinvestasi bisa diibaratkan seperti menanam sebuah bibit pohon dengan harapan pohon bisa menghasilkan buah untuk bisa dijual sehingga memberikan anda keuntungan.
+> Berinvestasi bisa diibaratkan seperti menanam sebuah bibit pohon dengan harapan pohon bisa menghasilkan buah untuk bisa dijual sehingga memberikan anda keuntungan.
 
 Karena itu dalam berinvestasi anda sebagai investor harus bisa menganalisis instrumen investasi mana yang bisa memberikan anda keuntungan besar sesuai dengan modal yang anda miliki.
 
 Ibaratnya, saat menanam pohon anda harus pintar memilih bibit terbaik agar pohon yang tumbuh menghasilkan buah dengan kualitas terbaik. Akan tetapi, pemula yang baru memulai investasi sering lupa bahwa setiap investasi memiliki risiko yang berbeda-beda dan keuntungan besar dalam investasi akan selalu diikuti risiko yang besar pula.
 
+Sebagai investor pemula kamu juga harus paham kenapa menabung saja tidak cukup dan kamu butuh investasi untuk mencapai tujuan jangka panjang kamu. 
+
 ## Perbedaan Investasi Dibanding Sekedar Menabung
 
-Salah satu kesalahan pemula saat ingin berinvestasi adalah berpikir bahwa menabung dan investasi merupakan hal yang sama.
-
-Menabung dan investasi merupakan dua hal yang berbeda sehingga apabila anda ingin mengembangkan uang anda perlu lebih dari sekedar menyimpan uang yang anda miliki.
+Salah satu kesalahan pemula saat ingin berinvestasi adalah berpikir bahwa menabung dan investasi merupakan hal yang sama. Menabung dan investasi merupakan dua hal yang berbeda sehingga apabila anda ingin mengembangkan uang anda perlu lebih dari sekedar menyimpan uang yang anda miliki.
 
 Salah alasan anda harus berinvestasi adalah untuk melawan inflasi yang bisa membuat nilai uang anda menjadi menurun dari waktu ke waktu apabila hanya disimpan saja dalam tabungan.
 
@@ -59,7 +61,7 @@ Karena itu anda harus bisa menyiapkan investasi terbaik untuk menghadapi berbaga
 
 ## Menyiapkan Investasi untuk Pemula
 
-* **\*\***Siapkan Dana Darurat**\*\***
+### Siapkan Dana Darurat
 
 Langkah awal yang tidak boleh dilupakan oleh pemula saat berinvestasi adalah menyiapkan dana darurat untuk menghadapi berbagai hal tidak terduga. Hal ini penting agar investasi yang anda lakukan tidak terganggu apabila anda menghadapi berbagai hal tidak terduga.
 
@@ -67,13 +69,13 @@ Jumlah dana darurat bisa anda hitung dengan mengkalkulasikan biaya hidup anda se
 
 Jumlah dana darurat yang harus disiapkan sangat opsional dan menyesuaikan kebutuhan dana masing-masing orang. Karena itu anda harus menghitung dahulu dana yang anda butuhkan dalam sebulan.
 
-* **\*\***Menentukan Budget Sesuai Penghasilan Anda**\*\***
+### Menentukan Budget Sesuai Penghasilan Anda
 
 Saat ingin mulai berinvestasi anda tidak boleh lupa untuk memiliki manajemen keuangan yang baik terlebih dahulu. Salah satu hal penting yang harus anda perhatikan adalah budgeting, anda harus menghitung terlebih dahulu berapa persen penghasilan yang bisa anda investasikan sehingga anda bisa melihat instrumen mana yang cocok dengan budget investasi anda tersebut.
 
 Oleh sebab itu, sebagai investor pemula anda harus menghitung dulu pengeluaran pokok anda di awal sehingga anda tahu berapa sisa uang yang anda miliki untuk mulai berinvestasi. Menentukan budget investasi akan mempermudah anda menemukan instrumen investasi terbaik untuk pemula.
 
-* **\*\***Mempelajari Investasi secara Mendalam**\*\***
+### Mempelajari Investasi secara Mendalam
 
 Sebelum terjun ke dalam dunia investasi, anda harus terlebih dahulu mempelajari instrumen yang akan anda gunakan. Anda harus paham skema yang digunakan dan bagaimana instrumen tersebut memberikan anda keuntungan.
 
@@ -81,9 +83,9 @@ Selain mengetahui potensi keuntungan, anda juga harus paham risiko apa saja yang
 
 Setelah menyiapkan beberapa hal di atas, selanjutnya anda perlu memperhatikan beberapa hal berikut dalam menentukan investasi terbaik untuk pemula.
 
-## Menentukan Investasi Terbaik untuk Pemula
+## Cara Menentukan Investasi Terbaik untuk Pemula
 
-* **\*\***Menentukan Tujuan Investasi**\*\***
+### Menentukan Tujuan Investasi
 
 Menentukan tujuan investasi merupakan hal penting yang harus dilakukan di awal agar anda bisa memilih instrumen investasi yang sesuai dengan tujuan finansial yang ingin anda capai. Pertama anda harus menentukan terlebih dahulu apakah anda akan melakukan investasi ini dalam jangka pendek atau panjang sehingga bisa memilih instrumen yang sesuai.
 
