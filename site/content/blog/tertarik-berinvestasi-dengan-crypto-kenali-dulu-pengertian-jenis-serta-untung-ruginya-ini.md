@@ -16,7 +16,7 @@ intro: >-
 
 
   Apabila kamu juga tertarik berinvestasi ke dalam instrumen satu ini, yuk kita lebih lanjut tentang apa itu cryptocurrency dan jenis mata uang kripto yang bisa jadi pilihan investasi jangka panjang maupun pendek kamu. 
-date: 2021-11-24T09:16:45.000Z
+date: 2022-02-04T16:51:22.383Z
 tag:
   - Instrumen Investasi
   - Investasi
@@ -45,11 +45,13 @@ Apabila kamu ingin berinvestasi ke dalam instrumen ini, yuk kita bahaas apa itu 
 
 ## Pengertian Cryptocurrency
 
-Seperti dikutip dari [investopedia](https://www.investopedia.com/terms/c/cryptocurrency.asp), Cryptocurrency atau kripto adalah sebuah mata uang digital yang dijamin dan diawasi oleh Cryptography, sebuah sistem yang melindungi data dari ancaman keamanan seperti *hacker*. Dengan perlindungan yang sulit ditembus, aset virtual ini sangat sulit untuk dimanipulasi.
+Seperti dikutip dari [investopedia](https://www.investopedia.com/terms/c/cryptocurrency.asp), Cryptocurrency atau kripto adalah sebuah mata uang digital yang dijamin dan diawasi oleh Cryptography, sebuah sistem yang melindungi data dari ancaman keamanan seperti *hacker*.
+
+Dengan perlindungan yang sulit ditembus, aset virtual ini sangat sulit untuk dimanipulasi.
 
 Berbeda dengan mata uang konvensional, tidak mempunyai bentuk fisik sama sekali. Selain itu, mata uang ini cuma bisa kamu gunakan sebagai alat transaksi di pasar *online* saja.
 
-Meskipun cuma ‘sah’ digunakan sebagai alat transaksi di dunia maya saja, kamu masih bisa menukar Cryptocurrency dengan mata uang fiat seperti Rupiah, Yen, Dollar, dan lain-lain.
+> Meskipun cuma ‘sah’ digunakan sebagai alat transaksi di dunia maya saja, kamu masih bisa menukar Cryptocurrency dengan mata uang fiat seperti Rupiah, Yen, Dollar, dan lain-lain.
 
 Jadi kripto merupakan istilah digunakan untuk menggambarkan berbagai jenis mata uang digital bukan hanya sebatas Bitcoin saja. Hal sering terjadi karena Bitcoin merupakan mata uang digital dengan nilai hampir 70% nilai total pasar kripto global.
 
