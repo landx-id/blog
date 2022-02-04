@@ -1,15 +1,34 @@
-+++
-author = "Abdul Wahhab"
-category = ["investasi", "bisnis jangka panjang", "bisnis investasi terpercaya"]
-date = 2021-06-16T05:20:28Z
-metaDescription = "sudahkah anda  anda tahu apa perbedaan dari investasi dan trading? kalau belum yuk simak penjelasan di bawah ini tentang perbedaan investasi dan trading"
-draft = false
-image = "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxMTc3M3wwfDF8c2VhcmNofDF8fHRyYWRpbmd8ZW58MHx8fHwxNjM4ODYyMTc5&ixlib=rb-1.2.1&q=80&w=1080"
-slug = "perbedaan-investasi-dan-trading"
-tag = ["investasi", "bisnis jangka panjang", "bisnis investasi terpercaya"]
-title = "Mau Mulai Investasi? Yuk Pahami Dulu Perbedaan Investasi dan Trading"
+---
+draft: false
+author: Abdul Wahhab
+slug: perbedaan-investasi-dan-trading
+title: Mau Mulai Investasi? Yuk Pahami Dulu Perbedaan Investor dan Trader
+metaTitle: Mau Mulai Investasi? Yuk Pahami Dulu Perbedaan Investor dan Trader
+metaDescription: Kalau kamu belum paham membedakan antara trader dan investor,
+  yuk kita simak dulu apa bedanya trading dan investasi
+intro: >-
+  Trader dan investor merupakan dua hal yang berbeda namun sebenarnya memiliki
+  kesamaan tujuan yaitu mendapatkan keuntungan dari berbagai instrumen investasi
+  yang ada. Pada dasarnya trader dan investor sama-sama bertujuan untuk
+  mendapatkan keuntungan namun memang dengan cara dan konsep yang berbeda. 
 
-+++
+
+  Supaya lebih jelas, yuk kita pahami beda antara investasi dan trading....
+date: 2021-06-16T05:20:28.000Z
+tag:
+  - investasi
+  - bisnis jangka panjang
+  - bisnis investasi terpercaya
+featuredImage:
+  src: https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxMTc3M3wwfDF8c2VhcmNofDF8fHRyYWRpbmd8ZW58MHx8fHwxNjM4ODYyMTc5&ixlib=rb-1.2.1&q=80&w=1080
+  alt: Memahami beda antara investor dan trader serta caranya mendapatkan
+    keuntungan lewat trading dan investasi
+  title: Beda trader dan investor mendapatkan keuntungan dari investasi
+image: https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxMTc3M3wwfDF8c2VhcmNofDF8fHRyYWRpbmd8ZW58MHx8fHwxNjM4ODYyMTc5&ixlib=rb-1.2.1&q=80&w=1080
+category:
+  - Investasi
+  - Keuangan
+---
 
 
 Seiring berjalannya waktu, sekarang masyarakat semakin sadar bahwa untuk mengembangkan uang tidak cukup hanya dengan sekedar menabung sehingga mereka membutuhkan rencana investasi yang baik. Selain itu investasi kini semakin mudah diakses karena tersedianya berbagai instrumen investasi yang dapat diakses secara online.
