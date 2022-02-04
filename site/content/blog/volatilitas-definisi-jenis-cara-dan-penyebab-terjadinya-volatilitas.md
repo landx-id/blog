@@ -6,8 +6,14 @@ title: "Volatilitas: Definisi, Jenis, dan Penyebab Terjadinya Volatilitas"
 metaTitle: "Volatilitas: Definisi, Jenis, dan Penyebab Terjadinya Volatilitas"
 metaDescription: Memahami apa itu volatilitas dan pengaruh volatilitas harga
   saham terhadap keputusan investasi
-intro: "Dalam beberapa instrumen investasi, volatilitas atau volatility adalah
-  hal yang "
+intro: >-
+  Dalam beberapa instrumen investasi, volatilitas atau volatility adalah hal
+  yang harus kamu perhatikan dalam memilih instrumen investasi. Hal ini karena
+  volatilitas mempengaruhi bagaimana strategi investasi atau trading yang kamu
+  lakukan. 
+
+
+  Karena itu, yuk kita bahas lebih lanjut tentang apa itu volatilitas dan bagaimana pengaruhnya terhadap keputusan investasi yang kamu lakukan.
 date: 2021-06-07T03:26:54.000Z
 tag:
   - Volatilitas
