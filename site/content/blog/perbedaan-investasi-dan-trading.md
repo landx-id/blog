@@ -23,7 +23,8 @@ featuredImage:
   src: https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxMTc3M3wwfDF8c2VhcmNofDF8fHRyYWRpbmd8ZW58MHx8fHwxNjM4ODYyMTc5&ixlib=rb-1.2.1&q=80&w=1080
   alt: Memahami beda antara investor dan trader serta caranya mendapatkan
     keuntungan lewat trading dan investasi
-  title: Beda trader dan investor mendapatkan keuntungan dari investasi
+  title: Beda trader dan investor mendapatkan keuntungan dari berbagai instrumen
+    investasi
 image: https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxMTc3M3wwfDF8c2VhcmNofDF8fHRyYWRpbmd8ZW58MHx8fHwxNjM4ODYyMTc5&ixlib=rb-1.2.1&q=80&w=1080
 category:
   - Investasi
