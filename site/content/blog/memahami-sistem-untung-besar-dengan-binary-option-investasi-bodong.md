@@ -1,17 +1,21 @@
 ---
 author: Vlora Riyandi
-title: Memahami Sistem Untung Besar dengan Binary Option | Investasi Bodong
-metaTitle: Memahami Sistem Untung Besar dengan Binary Option | Investasi Bodong
+title: "Investasi Bodong: Memahami Sistem Binary Option Harus Kamu Waspadai"
+metaTitle: "Investasi Bodong: Memahami Sistem Binary Option Harus Kamu Waspadai"
 metaDescription: Asal katanya bi artinya dua dan option yaitu pilihan. Binary
   option adalah aktivitas menebak di antara dua pilihan. Binary option bukanlah
   investasi.
-intro: "-"
+intro: Binary option atau opsi biner kini jadi perbincangan para trader saham
+  pemula yang mudah di iming-imingi hasil besar yang high risk, high reward.
+  Sudahkan Anda memahami apa itu binary option? Yuk, pahami mekanisme dan risiko
+  di opsi biner dalam mencapai untung besar.
+isPinned: true
 date: 2022-02-04T01:04:19.195Z
 featuredImage:
   title: Memahami Sistem Untung Besar dengan Binary Option yang Sebenarnya
     Investasi Bodong
   alt: Trading binary option adalah investasi bodong
-  src: https://www.istockphoto.com/photo/dichotomous-questions-yes-no-buttons-vote-poll-concept-gm1191857368-338419595?utm_source=unsplash&utm_medium=affiliate&utm_campaign=srp_photos_top&utm_content=https%3A%2F%2Funsplash.com%2Fs%2Fphotos%2Fbinary-option&utm_term=binary%20option%3A%3A%3A
+  src: https://images.unsplash.com/photo-1487058792275-0ad4aaf24ca7?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8NHx8c2NhbXxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=300&q=60
 ---
 <!--StartFragment-->
 
