@@ -17,6 +17,7 @@ intro: >-
 date: 2021-07-29T03:31:51.000Z
 tag:
   - Investasi
+  - Venture Capital
 category:
   - Keuangan
 featuredImage:
