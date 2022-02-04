@@ -1,14 +1,29 @@
-+++
-author = "Abdul Wahhab"
-category = ["venture capital", "lembaga pembiayaan", "bisnis investasi"]
-date = 2021-07-29T03:31:51Z
-metaDescription = "Lembaga pembiayaan adalah badan usaha yang memiliki peran penting dalam perekenomian karena berperan sebagai badan lembaga yang membantu pendanaa. "
-draft = false
-slug = "lembaga-pembiayaan-adalah"
-tag = ["venture capital", "lembaga pembiayaan", "bisnis investasi"]
-title = "Lembaga Pembiayaan: Mengenal Berbagai Jenis dan Peran Penting dari Lembaga Pembiayaan"
+---
+draft: false
+author: Abdul Wahhab
+slug: lembaga-pembiayaan-adalah
+title: "Lembaga Pembiayaan: Berbagai Jenis dan Peran Lembaga Pembiayaan"
+metaTitle: "Lembaga Pembiayaan: Berbagai Jenis dan Peran Lembaga Pembiayaan"
+metaDescription: Lembaga pembiayaan adalah badan usaha yang memiliki peran
+  penting dalam perekonomian karena berperan sebagai badan lembaga pendanaan
+intro: >-
+  Lembaga pembiayaan merupakan salah satu lembaga yang memiliki peran penting
+  terhadap perkembangan ekonomi. Hal ini dikarenakan lembaga pembiayaan
+  merupakan badan usaha yang membantu menyalurkan dana melalui pembiayaan dan
+  pendanaan kepada berbagai investasi dan proyek pengembangan ekonomi 
 
-+++
+
+  Supaya lebih jelas, yuk kita bahas berbagai jenis lembaga pembiayaan dan peran penting dari lembaga satu ini. 
+date: 2021-07-29T03:31:51.000Z
+tag:
+  - Investasi
+category:
+  - Keuangan
+featuredImage:
+  src: https://images.unsplash.com/photo-1617664837373-f107dd7be738?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=687&q=80
+  alt: Mengenal berbagai jenis lembaga pembiayaan dan perannya bagi perekonomian
+  title: berbagai jenis lembaga pembiayaan yang harus kamu pahami
+---
 
 
 Lembaga pembiayaan merupakan salah satu lembaga yang memiliki peran penting terhadap perkembangan ekonomi. Hal ini dikarenakan lembaga pembiayaan merupakan badan usaha yang membantu menyalurkan dana melalui pembiayaan dan pendanaan kepada berbagai investasi dan proyek pengembangan ekonomi.
@@ -19,12 +34,7 @@ Oleh sebab itu, lembaga pembiayaan memiliki peran penting untuk pembangunan ekon
 
 Kehadiran lembaga pembiayaan membuat bisnis menjadi lebih mudah mendapatkan pendanaan untuk mengembangkan bisnis sehingga membantu pergerakan ekonomi. Untuk itu, mari kita bahas lebih lanjut tentang apa itu lembaga pembiayaan dan jenis-jenis dari lembaga ini.
 
-## Table of Content
-
-* **[Lembaga Pembiayaan](#lembaga-pembiayaan)**
-* **[Jenis-Jenis Lembaga Pembiayaan](#jenis-jenis-lembaga-pembiayaan)**1. ******[Perusahaan Pembiayaan](#perusahaan-pembiayaan)******2.******[Perusahaan Modal Ventura](#perusahaan-modal-ventura)******3. **[Perusahaan Pembiayaan Infrastruktur](#perusahaan-pembiayaan-infrastruktur)**
-* **Peran Penting Lembaga Pembiayaan**
-* **[Kesimpulan](#kesimpulan)**
+- - - 
 
 ## Lembaga Pembiayaan
 
@@ -85,13 +95,10 @@ Sistem ini memberikan anda kesempatan untuk ikut patungan mendanai suatu bisnis 
 
 LandX memberikan anda pilihan berbagai [bisnis potensial]( https://landx.id/project/index.html) yang bisa anda jadikan pilihan investasi jangka panjang.
 
-**[Yuk Temukan Bisnis Terbaik untuk Investasi Jangka Panjang Anda Bersama LandX](https://landx.id/project/index.html)**
+**[Yuk Temukan Bisnis Terbaik untuk Investasi Jangka Panjang Anda Bersama LandX](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)**
+
+[![miliki bisnis modal kecil cuma dengan 1 jutaan dapat 4 cabang ](https://accountgram-production.sfo2.cdn.digitaloceanspaces.com/landx_ghost/2021/11/jadi-owner-bisnis-hanya-1-jutaan-dengan-cuan-yang-sangat-menjanjikan.png)](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)
 
 [**Agar Gak Kelewatan Berbagai Info Seputar Bisnis dan Investasi Lainnya Follow Instagram Kami di @landx.id Ya..**](https://instagram.com/landx.id?utm_medium=copy_link)
-
-**#LandX.id    #landx         #landx.id    #InvestasiBisnis    #EquityCrowdfunding  #SecuritiesCrowdfunding  #InvestasiMenguntungkan    #Urundana    #BisnisPatungan    #InvestasiUsaha**
-
-**Baca Juga:**
-
-* [Kemudahan Investasi Bisnis Jangka Panjang melalui Securities Crowdfunding](https://landx.id/blog/securities-crowdfunding/)
+- - - 
 
