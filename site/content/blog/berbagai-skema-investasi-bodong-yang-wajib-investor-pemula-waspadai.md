@@ -19,7 +19,7 @@ tag:
   - investasi pemula
   - Penipuan Telegram
 featuredImage:
-  src: https://accountgram-production.sfo2.cdn.digitaloceanspaces.com/landx_ghost/2021/11/Hati-hati-penipuan-investasi-bodong-yang-mengatasnamakan-LandX-di-Telegram.jpg
+  src: https://images.unsplash.com/photo-1634038971336-9c105b3116e7?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTN8fG1vbmV5JTIwZ2FtZXxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=300&q=60
   alt: Memahami berbagai modus investasi bodong yang sering menjebak para investor
     pemula
   title: Mengenali berbagai modus investasi bodong yang kian marak dalam beberapa
