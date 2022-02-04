@@ -80,6 +80,8 @@ LandX merupakan platform equity crowdfunding (ECF) yang mempertemukan para pebis
 
 **[Tunggu apalagi, segera verifikasi akun Anda di LandX agar tidak kehabisan project Vilo Gelato atau project-project bisnis menarik lainnya.\*\**](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)**
 
-![Jadi pemilik franchise gelato cuma dengan modal 1 juta](img/jadi-pemilik-franchise-gelato-cuma-dengan-modal-1-juta.png "Jadi pemilik franchise vilo gelato modal 1 juta")
+[![Jadi Pemilik Vilo Gelato Cuma dengan Modal 1 Juta](https://media.discordapp.net/attachments/913743599844343808/939222534199582800/Jadi_pemilik_franchise_gelato_cuma_dengan_modal_1_juta.png)](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)
 
 {{< button link="https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog" text="Yuk Investasi Sekarang" >}}
+
+- - -
