@@ -25,9 +25,9 @@ featuredImage:
   alt: Memahami bagaimana cara investasi yang baik untuk pemula
   title: Cara menyusun rencana investasi yang baik bagi pemula
 ---
-**[Investasi yang Cocok untuk Pemula](https://landx.id/) –** Berinvestasi merupakan suatu hal yang sangat penting untuk disiapkan sedini mungkin, akan tetapi masih banyak orang belum mengerti tentang konsep dasar dari investasi itu sendiri sehingga takut untuk mulai berinvestasi.
+**[Investasi yang Cocok untuk Pemula](https://landx.id/) –** Berinvestasi adalah suatu hal yang sangat penting untuk disiapkan sedini mungkin, karena itu kita perlu menyiapkan aset yang bisa memberikan kita *passive income* di masa mendatang. 
 
-Hal ini membuat banyak calon investor pemula ragu untuk memulai investasi karena sudah terpapar berbagai informasi yang salah tentang investasi seperti ribet, membutuhkan modal besar, dan berbagai asumsi salah lain terkait investasi yang masih tersebar di kalangan masyarakat.
+Akan tetapi, banyak
 
 Hal ini membuat banyak orang ragu untuk mulai berinvestasi ke dalam berbagai instrumen investasi yang sudah sebenarnya bisa dapat dengan mudah mereka akses.
 
@@ -36,16 +36,6 @@ Menentukan investasi yang cocok merupakan hal yang tentunya sulit terutama untuk
 Oleh sebab itu, pemula yang ingin mulai berinvestasi harus paham terlebih dahulu konsep investasi sehingga anda bisa memilih investasi yang benar-benar sesuai dengan tujuan finansial dan profil risiko yang anda miliki.
 
 Karena itu, yuk kita bahas bagaimana memulai investasi yang menguntungkan untuk pemula sehingga anda bisa segera mencapai tujuan finansial yang ingin anda capai. Pertama, mari kita bahas apa itu investasi terlebih dahulu.
-
-- - -
-
-## Table of Content
-
-* **[Apa Itu Investasi](#apa-itu-investasi)**
-* **[Perbedaan Investasi Dibanding Sekedar Menabung](#perbedaan-investasi-dibanding-sekedar-menabung)**
-* **[Menyiapkan Investasi untuk Pemula](#menyiapkan-investasi-untuk-pemula)**
-* **[Menentukan Investasi Terbaik untuk Pemula](#menentukan-investasi-terbaik-untuk-pemula)**
-* **[Pilihan Investasi untuk Pemula](#pilihan-investasi-untuk-pemula)**
 
 - - -
 
