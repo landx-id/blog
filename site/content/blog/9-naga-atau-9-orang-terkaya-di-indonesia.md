@@ -1,15 +1,38 @@
-+++
-author = "Vlora Riyandi"
-category = ["Orang Terkaya di Dunia", "bisnis investasi", "bisnis jangka panjang", "bisnis menguntungkan", "Fintech", "Instrumen Investasi", "investasi bagi hasil", "investasi keuangan", "Memulai usaha"]
-date = 2022-01-19T06:33:32Z
-metaDescription = "9 orang terkaya di Indonesia  9 naga penguasa ekonomi di Indonesia, siapa sih mereka? Yuk, kenali profil singkat serta bisnis yang digeluti para konglomerat"
-draft = false
-image = "https://images.unsplash.com/photo-1604594849809-dfedbc827105?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxMTc3M3wwfDF8c2VhcmNofDF8fHJpY2h8ZW58MHx8fHwxNjQyNTc0MDI5&ixlib=rb-1.2.1&q=80&w=1080"
-slug = "9-naga-atau-9-orang-terkaya-di-indonesia"
-tag = ["Orang Terkaya di Dunia", "bisnis investasi", "bisnis jangka panjang", "bisnis menguntungkan", "Fintech", "Instrumen Investasi", "investasi bagi hasil", "investasi keuangan", "Memulai usaha"]
-title = "Mengenal Bisnis 9 Orang Terkaya di Indonesia, Konglomerat dengan Bisnis dan Harta Melimpah"
+---
+draft: false
+author: Vlora Riyandi
+slug: 9-naga-atau-9-orang-terkaya-di-indonesia
+title: Mengenal Bisnis 9 Orang Terkaya di Indonesia dan Bisnisnya
+metaTitle: Mengenal Bisnis 9 Orang Terkaya di Indonesia dan Bisnisnya
+metaDescription: 9 orang terkaya di Indonesia  9 naga penguasa ekonomi di
+  Indonesia, siapa sih mereka? Yuk, kenali profil singkat serta bisnis-bisnis
+  mereka
+intro: >-
+  Sembilan naga adalah sebutan untuk para pengusaha Indonesia yang digadang
+  memiliki pengaruh besar pada kelangsungan perekonomian Indonesia.
 
-+++
+
+  Selain sembilan naga di Indonesia yang dikenal di kalangan bisnis konglomerat Indonesia. Ada baiknya kita mengenali para 9 orang terkaya di Indonesia serta bisnis apa saja yang digelutinya.
+date: 2022-01-19T06:33:32.000Z
+tag:
+  - Orang Terkaya di Dunia
+  - bisnis investasi
+  - bisnis jangka panjang
+  - bisnis menguntungkan
+  - Fintech
+  - Instrumen Investasi
+  - investasi bagi hasil
+  - investasi keuangan
+  - Memulai usaha
+featuredImage:
+  src: https://images.unsplash.com/photo-1604594849809-dfedbc827105?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxMTc3M3wwfDF8c2VhcmNofDF8fHJpY2h8ZW58MHx8fHwxNjQyNTc0MDI5&ixlib=rb-1.2.1&q=80&w=1080
+  alt: Mengenal sembilan naga yang merupakan orang terkaya di dunia
+  title: Mengenal sembilan naga yang merupakan orang terkaya di dunia
+image: https://images.unsplash.com/photo-1604594849809-dfedbc827105?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxMTc3M3wwfDF8c2VhcmNofDF8fHJpY2h8ZW58MHx8fHwxNjQyNTc0MDI5&ixlib=rb-1.2.1&q=80&w=1080
+category:
+  - Investasi
+  - Bisnis
+---
 
 
 **Tidak hanya Jeff Bezos, Elon Musk dan Warren Buffet** yang ditelaah kekayaannya. Indonesia juga telah dirilis nama-namanya oleh majalah bisnis, Forbes, Januari 2022.
