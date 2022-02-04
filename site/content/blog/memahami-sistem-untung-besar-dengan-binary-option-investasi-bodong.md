@@ -11,25 +11,32 @@ intro: Binary option atau opsi biner kini jadi perbincangan para trader saham
   di opsi biner dalam mencapai untung besar.
 isPinned: true
 date: 2022-02-04T01:04:19.195Z
+tag:
+  - investasi bodong
+  - Penipuan telegram
+  - Penipuan Investasi di Telegram
+category:
+  - Keuangan
+  - Investasi
+  - Blockchain
 featuredImage:
   title: Memahami Sistem Untung Besar dengan Binary Option yang Sebenarnya
-    Investasi Bodong
-  alt: Trading binary option adalah investasi bodong
+    Investasi Bodong yang berkedok trading forex
+  alt: Trading binary option adalah investasi bodong yang memakan banyak korban
+    terutama bagi kamu yang masih awam soal forex
   src: https://images.unsplash.com/photo-1487058792275-0ad4aaf24ca7?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8NHx8c2NhbXxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=300&q=60
 ---
-<!--StartFragment-->
-
 Memahami Sistem Untung Besar dengan Binary Option yang Sebenarnya Investasi Bodong
 
 Binary option atau opsi biner kini jadi perbincangan para trader saham pemula yang mudah di iming-imingi hasil besar yang high risk, high reward. Sudahkan Anda memahami apa itu binary option? Yuk, pahami mekanisme dan risiko di opsi biner dalam mencapai untung besar.
 
-## APA ITU BINARY OPTION DAN SISTEMNYA
+## Apa Itu Binary Option dan Sistemnya
 
 Mari telaah dari asal katanya, dijelaskan secara mudah oleh Youtuber yang sering bahas investasi, Felicia Putri Tjiasaka, bi artinya dua dan option adalah pilihan. Jadi, **binary option adalah aktivitas menebak di antara dua pilihan.** 
 
 Apa yang ditebak? Harga-harga dari crypto, emas, forex, hingga saham.
 
-**Mekanisme binary option:**
+### **Mekanisme Binary Option:**
 
 1. Kita akan diberi waktu 5 menit untuk menebak , misal harga bitcoin dalam 5 menit ke depan apakah akan naik atau turun.
 2. Kemudian kita bertaruh sejumlah uang, Rp 1 juta rupiah misalnya.
