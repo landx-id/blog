@@ -39,16 +39,15 @@
 	<meta property="og:image" content="{{.Site.Params.pathUrl}}/img/logo-1.png">
 
 	{{if eq .Type "blog"}}
-		{{ with .File }}
-		<link rel="canonical" href="https://landx.id/blog/{{ .File.TranslationBaseName | urlize }}" />
-		{{end}}
+	<link rel="canonical" href="https://landx.id{{.Permalink}}" />
 	{{else if or (eq .Type "tag") (eq .Type "category")}}
+	<link rel="canonical" href="https://landx.id/blog/{{ .Type }}/{{ .Title | urlize }}" />
 	{{end}}
 
 
 	<!-- IMPORT GOOGLE FONTS AND FONT AWESOME ICONS -->
 	<link rel="preconnect" href="https://fonts.googleapis.com">
-	<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>	
+	<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 	<link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800&display=swap"
 		rel="stylesheet">
 	<link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.13.0/css/all.min.css" rel="stylesheet">
