@@ -38,13 +38,10 @@ Apa yang ditebak? Harga-harga dari crypto, emas, forex, hingga saham.
 
 ### **Mekanisme Binary Option:**
 
-1. Kita akan diberi waktu 5 menit untuk menebak , misal harga bitcoin dalam 5 menit ke depan apakah akan naik atau turun.
-
-2. Kemudian kita bertaruh sejumlah uang, Rp 1 juta rupiah misalnya.
-
-3. Apabila kita benar, kita dapat keuntungan 80% dari modal atau Rp 800 ribu
-
-4. Apabilan tebakan salah, akan kehilangan seluruh uang yang ditaruhkan
+* Kita akan diberi waktu 5 menit untuk menebak , misal harga bitcoin dalam 5 menit ke depan apakah akan naik atau turun.
+* Kemudian kita bertaruh sejumlah uang, Rp 1 juta rupiah misalnya.
+* Apabila kita benar, kita dapat keuntungan 80% dari modal atau Rp 800 ribu
+* Apabilan tebakan salah, akan kehilangan seluruh uang yang ditaruhkan
 
 Karena ini binary option dikenal sebagai cash or nothing. Sebenarnya binary option atau opsi biner juga merupakan permainan kata dimana biner merupakan bahasa teknologi atau IT yang berarti 1 atau 0. 
 
@@ -82,13 +79,14 @@ Terdapat berbagai kasus affiliator binary option yang membuat korbannya menjerit
 
 Penipuan affiliator binary option ini dikabarkan dilakukan dengan cara memberikan info menyimpang dari cara trading yang benar dan meraup keuntungan apabila korbannya merugi di broker binary option. Biasanya trading binary option ini berkedok forex atau indeks saham atau binary forex dalam praktiknya.
 
-* * *
+- - -
 
 **Baca Juga:**
 
 * [Stock Split: Memahami Apa Itu Stock Split dan Pengaruhnya Terhadap Harga Saham](https://landx.id/blog/stock-split-memahami-apa-itu-stock-split-dan-pengaruhnya-terhadap-harga-saham/)
 * [Mau Mulai Investasi Saham? Kenali Perbedaan antara Trading dan Investasi dalam Saham](https://landx.id/blog/memahami-perbedaan-trading-dan-investasi/)
-* * *
+
+- - -
 
 ## Binary Option Halal atau Haram?
 
@@ -108,10 +106,10 @@ Terdapat banyak tips tersebar mengenai bagaimana cara berinvestasi yang aman. Ka
 
 ### **Berikut beberapa tips berinvestasi aman:**
 
-1. Mempelajari dan memilih instrumen yang sesuai profil investasi
-2. Menggunakan dana dingin
-3. Melakukan diversifikasi portofolio investasi
-4. Berinvestasi pada platform investasi yang aman dan diawasi OJK
+* Mempelajari dan memilih instrumen yang sesuai profil investasi
+* Menggunakan dana dingin
+* Melakukan diversifikasi portofolio investasi
+* Berinvestasi pada platform investasi yang aman dan diawasi OJK
 
 Salah satu platform investasi yang aman dan diawasi OJK yang bisa Anda gunakan sebagai diversifikasi portofolio investasi ada LandX.id. LandX.id adalah platform equity crowdfunding yang membuat Anda bisa berinvestasi pada bisnis profit potensial dan memiliki bisnis dengan Rp 1 jutaan.
 
