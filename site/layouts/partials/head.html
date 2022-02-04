@@ -32,21 +32,23 @@
 	<link rel="mask-icon" href="{{.Site.Params.pathUrl}}/img/safari-pinned-tab.svg" color="#ff4400">
 	<meta name="theme-color" content="#fff">
 
-	{{if eq .Type "blog"}}
-	<link rel="canonical" href="https://landx.id/blog/{{ .File.TranslationBaseName | urlize }}" />
-	{{else if or (eq .Type "tag") (eq .Type "category")}}
-	<link rel="canonical" href="https://landx.id/blog/{{ .Type }}/{{ .Title | urlize }}/" />
-	{{end}}
-
 	<!-- Open Graph -->
 	<meta property="og:type" content="business.business">
 	<meta property="og:title" content="Investasi dan Miliki Bisnis Menguntungkan Mulai dari 1 Jutaan di LandX">
 	<meta property="og:url" content="/">
 	<meta property="og:image" content="{{.Site.Params.pathUrl}}/img/logo-1.png">
 
+	{{if eq .Type "blog"}}
+		{{ with .File }}
+		<link rel="canonical" href="https://landx.id/blog/{{ .File.TranslationBaseName | urlize }}" />
+		{{end}}
+	{{else if or (eq .Type "tag") (eq .Type "category")}}
+	{{end}}
+
+
 	<!-- IMPORT GOOGLE FONTS AND FONT AWESOME ICONS -->
 	<link rel="preconnect" href="https://fonts.googleapis.com">
-	<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+	<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>	
 	<link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800&display=swap"
 		rel="stylesheet">
 	<link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.13.0/css/all.min.css" rel="stylesheet">
@@ -58,10 +60,10 @@
 	<!-- Global site tag (gtag.js) - Google Analytics -->
 	<script async src="https://www.googletagmanager.com/gtag/js?id=UA-207958011-2%22%3E"></script>
 	<script>
-	  window.dataLayer = window.dataLayer || [];
-	  function gtag(){dataLayer.push(arguments);}
-	  gtag('js', new Date());
-	
-	  gtag('config', 'UA-207958011-2');
+		window.dataLayer = window.dataLayer || [];
+		function gtag() { dataLayer.push(arguments); }
+		gtag('js', new Date());
+
+		gtag('config', 'UA-207958011-2');
 	</script>
 </head>
