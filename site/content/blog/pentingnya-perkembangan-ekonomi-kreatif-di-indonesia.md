@@ -1,15 +1,34 @@
-+++
-author = "Abdul Wahhab"
-category = ["Investasi modal kecil", "bisnis investasi", "investasi online"]
-date = 2021-10-17T07:04:37Z
-metaDescription = "ekonomi kreatif adalah pengembangan ekonomi yang berfokus pada pengembangan ide dan kreativitas intelektual untuk kegiatan ekonomi yang dikembangkan "
-draft = false
-image = "https://images.unsplash.com/photo-1523240795612-9a054b0db644?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxMTc3M3wwfDF8c2VhcmNofDIxfHxjcmVhdGl2ZSUyMG1hcmtldHxlbnwwfHx8fDE2NDAxNDgxODM&ixlib=rb-1.2.1&q=80&w=1080"
-slug = "pentingnya-perkembangan-ekonomi-kreatif-di-indonesia"
-tag = ["Investasi modal kecil", "bisnis investasi", "investasi online"]
-title = "Ekonomi Kreatif: Memahami Apa yang Dimaksud dengan Ekonomi Kreatif dan Perkembangan Ekonomi Kreatif di Indonesia"
+---
+draft: false
+author: Abdul Wahhab
+slug: pentingnya-perkembangan-ekonomi-kreatif-di-indonesia
+title: "Ekonomi Kreatif: Memahami Apa yang Dimaksud Ekonomi Kreatif "
+metaTitle: "Ekonomi Kreatif: Memahami Apa yang Dimaksud Ekonomi Kreatif "
+metaDescription: "ekonomi kreatif adalah pengembangan ekonomi yang berfokus pada
+  pengembangan ide dan kreativitas intelektual untuk kegiatan ekonomi yang
+  dikembangkan "
+intro: >-
+  Ekonomi kreatif adalah ekonomi yang berfokus pada berbagai pengembangan
+  berbagai ide dan gagasan kreatif sebagai acuan utama dalam pergerakan suatu
+  ekonomi. Sistem ini mengandalkan kreativitas dan ide dari sumber daya manusia
+  sebagai poin utama dalam suatu kegiatan ekonomi.
 
-+++
+
+  Yuk kenali lebih lanjut apa yang dimaksud dengan ekonomi kreatif dan perkembangan ekonomi kreatif di Indonesia
+date: 2021-10-17T07:04:37.000Z
+tag:
+  - Investasi modal kecil
+  - bisnis investasi
+  - investasi online
+featuredImage:
+  alt: Memahami apa itu ekonomi kreatif dan bagaimana perkembangannya di Indonesia
+  src: https://images.unsplash.com/photo-1523240795612-9a054b0db644?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxMTc3M3wwfDF8c2VhcmNofDIxfHxjcmVhdGl2ZSUyMG1hcmtldHxlbnwwfHx8fDE2NDAxNDgxODM&ixlib=rb-1.2.1&q=80&w=1080
+  title: Mengenal berbagai jenis ekonomi kreatif di Indonesia
+image: https://images.unsplash.com/photo-1523240795612-9a054b0db644?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxMTc3M3wwfDF8c2VhcmNofDIxfHxjcmVhdGl2ZSUyMG1hcmtldHxlbnwwfHx8fDE2NDAxNDgxODM&ixlib=rb-1.2.1&q=80&w=1080
+category:
+  - Bisnis
+  - Keuangan
+---
 
 
 [**Ekonomi Kreatif**](https://landx.id/project/) **–** dalam beberapa waktu belakangan, kamu pasti sering mendengar tentang perkembangan ekonomi kreatif di Indonesia yang diharapkan sebagai salah satu sektor yang bisa memberikan kontribusi positif terhadap perekonomian Indonesia.
