@@ -68,11 +68,17 @@ Karena itu mari kita bahas bagaimana cara menghitung PBV agar mempermudah invest
 
 Pertama mari pahami dulu rumus menghitung *Price to Book Value* (PBV) di bawah ini:
 
-**Pertama, kamu harus menghitung dulu Book Value per Share (BVPS).** 
+**Pertama,** kamu harus menghitung dulu Book Value per Share (BVPS).
+
+**BVPS atau Book value per share adalah** jumlah nilai ekuitas yang dimiliki oleh setiap lembar saham yang beredar di pasar. Book value per share akan menunjukkan berapa besar nilai yang akan diterima untuk setiap lembar saham saat terjadi likuidasi. 
+
+Nilai buku per saham membantu kita melihat apakah saham masuk undervalued atau tidak dengan membandingkan nilai buku per saham dengan nilai pasar per saham. Apabila nilai buku per saham lebih tinggi, maka suatu saham dapat dikategorikan undervalued. 
+
+Supaya kamu bisa menghitung BVPS, berikut rumus BVPS untuk membantu analisis PBV kamu:
 
 
 
-**Rumus Book Value per Share = Nilai Ekuitas / Jumlah Saham Yang Beredar**
+> **Rumus Book Value per Share = Nilai Ekuitas / Jumlah Saham Yang Beredar**
 
 ![Book Value per Share = Nilai Ekuitas / Jumlah Saham Yang Beredar](https://accountgram-production.sfo2.cdn.digitaloceanspaces.com/landx_ghost/2021/05/image.png "cara menghitung BVPS saham yang penting dipahami para investor")
 
