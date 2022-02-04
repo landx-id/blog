@@ -27,15 +27,11 @@ featuredImage:
 ---
 **[Investasi yang Cocok untuk Pemula](https://landx.id/) –** Berinvestasi adalah suatu hal yang sangat penting untuk disiapkan sedini mungkin, karena itu kita perlu menyiapkan aset yang bisa memberikan kita *passive income* di masa mendatang. 
 
-Akan tetapi, banyak
+Akan tetapi, banyak orang ragu untuk memulai investasi karena pemula sering kali bingung menentukan instrumen investasi seperti apa yang cocok untuk pemula dan bagaimana cara investasi yang baik untuk pemula. 
 
-Hal ini membuat banyak orang ragu untuk mulai berinvestasi ke dalam berbagai instrumen investasi yang sudah sebenarnya bisa dapat dengan mudah mereka akses.
+Menentukan investasi yang cocok memang bukanlah hal yang mudah terutama bagi pemula yang tidak pernah berinvestasi sebelumnya. Oleh sebab itu, pemula yang ingin mulai berinvestasi harus paham terlebih dahulu konsep investasi sehingga anda bisa memilih investasi yang benar-benar sesuai dengan tujuan finansial dan profil risiko yang anda miliki.
 
-Menentukan investasi yang cocok merupakan hal yang tentunya sulit terutama untuk investor pemula yang belum pernah berinvestasi sebelumnya.
-
-Oleh sebab itu, pemula yang ingin mulai berinvestasi harus paham terlebih dahulu konsep investasi sehingga anda bisa memilih investasi yang benar-benar sesuai dengan tujuan finansial dan profil risiko yang anda miliki.
-
-Karena itu, yuk kita bahas bagaimana memulai investasi yang menguntungkan untuk pemula sehingga anda bisa segera mencapai tujuan finansial yang ingin anda capai. Pertama, mari kita bahas apa itu investasi terlebih dahulu.
+Karena itu, yuk kita bahas bagaimana cara berinvestasi yang bisa memberikan keuntungan yang optimal bagi pemula.
 
 - - -
 
