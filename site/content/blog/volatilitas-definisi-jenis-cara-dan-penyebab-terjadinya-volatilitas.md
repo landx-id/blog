@@ -26,13 +26,15 @@ category:
 featuredImage:
   src: https://images.unsplash.com/photo-1625812346416-ae997372d98e?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1171&q=80
   alt: memilih instrumen investasi yang volatile dan arti volatility dalam investasi
-  title: "Pengaruh volatilitas terhadap investasi "
+  title: Pengaruh volatilitas terhadap keputusan investasi yang kamu lakukan.
 ---
-Salah satu istilah penting yang sering muncul dalam investasi adalah volatilitas atau volatility. Volatilitas merupakan salah satu istilah yang akan sering dalam investasi terutama apabila anda berinvestasi melalui instrumen saham.
+Salah satu istilah penting yang sering muncul dalam investasi adalah **volatilitas atau volatility**. Volatilitas merupakan salah satu istilah yang akan sering dalam investasi terutama apabila anda berinvestasi melalui instrumen saham.
 
-Sebagai investor penting bagi anda paham berbagai istilah dalam investasi agar langkah investasi yang anda ambil tidak salah dan merugikan anda.
+Sebagai investor penting bagi kamu untuk paham apa itu volatilitas karena volatility dari suatu instrumen menjadi hal penting yang harus kamu perhatikan saat mengambil keputusan investasi terutama apabila kamu berinvestasi ke dalam instrumen dengan volatilitas tinggi. 
 
-Karena itu mari kita bahas apa itu volatilitas agar anda dapat mengambil keputusan investasi yang lebih baik lagi.
+Karena itu, yuk kita bahas lebih lanjut arti volatilitas dan bagaimana mengambil keuntungan dari instrumen investasi yang volatile
+
+## Apa Itu Volatilitas
 
 Volatilitas adalah tingkat fluktuasi harga dari sebuah saham atau sekuritas dalam waktu ke waktu sehingga sering juga disebut sebagai “*market mood”* karena berkaitan dengan naik turunnya harga sekuritas dalam kurun waktu tertentu.
 
@@ -46,7 +48,7 @@ Akan hal ini tentu saja juga diikuti dengan risiko yang tinggi karena fluktuasi 
 
 Biar anda semakin paham, mari kita bahas beberapa jenis volatilitas
 
-**Jenis-Jenis Volatilitas**
+## **Jenis-Jenis Volatilitas**
 
 Volatilitas memiliki beberapa jenis yaitu:
 
