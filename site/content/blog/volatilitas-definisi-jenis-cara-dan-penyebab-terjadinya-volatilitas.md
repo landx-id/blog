@@ -1,14 +1,26 @@
-+++
-author = "Abdul Wahhab"
-category = ["Volatilitas", "investasi keuangan", "Investasi Menguntungkan"]
-date = 2021-06-07T03:26:54Z
-metaDescription = "yuk pahami apa itu istilah volatilitas dalam investasi agar investasi yang anda lakukan dapat memberikan keuntungan jangka panjang kepada anda"
-draft = false
-slug = "volatilitas-definisi-jenis-cara-dan-penyebab-terjadinya-volatilitas"
-tag = ["Volatilitas", "investasi keuangan", "Investasi Menguntungkan"]
-title = "Volatilitas: Definisi, Jenis, dan Penyebab Terjadinya Volatilitas"
-
-+++
+---
+draft: false
+author: Abdul Wahhab
+slug: volatilitas-definisi-jenis-cara-dan-penyebab-terjadinya-volatilitas
+title: "Volatilitas: Definisi, Jenis, dan Penyebab Terjadinya Volatilitas"
+metaTitle: "Volatilitas: Definisi, Jenis, dan Penyebab Terjadinya Volatilitas"
+metaDescription: Memahami apa itu volatilitas dan pengaruh volatilitas harga
+  saham terhadap keputusan investasi
+intro: "Dalam beberapa instrumen investasi, volatilitas atau volatility adalah
+  hal yang "
+date: 2021-06-07T03:26:54.000Z
+tag:
+  - Volatilitas
+  - investasi keuangan
+  - Investasi Menguntungkan
+  - Rasio keuangan
+category:
+  - Investasi
+featuredImage:
+  src: https://images.unsplash.com/photo-1625812346416-ae997372d98e?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1171&q=80
+  alt: "-"
+  title: "-"
+---
 
 
 Salah satu istilah penting yang sering muncul dalam investasi adalah volatilitas atau volatility. Volatilitas merupakan salah satu istilah yang akan sering dalam investasi terutama apabila anda berinvestasi melalui instrumen saham.
