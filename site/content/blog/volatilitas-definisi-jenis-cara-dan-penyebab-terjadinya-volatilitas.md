@@ -16,27 +16,19 @@ tag:
   - Rasio keuangan
 category:
   - Investasi
+  - Keuangan
 featuredImage:
   src: https://images.unsplash.com/photo-1625812346416-ae997372d98e?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1171&q=80
-  alt: "-"
-  title: "-"
+  alt: memilih instrumen investasi yang volatile dan arti volatility dalam investasi
+  title: "Pengaruh volatilitas terhadap investasi "
 ---
-
-
 Salah satu istilah penting yang sering muncul dalam investasi adalah volatilitas atau volatility. Volatilitas merupakan salah satu istilah yang akan sering dalam investasi terutama apabila anda berinvestasi melalui instrumen saham.
 
 Sebagai investor penting bagi anda paham berbagai istilah dalam investasi agar langkah investasi yang anda ambil tidak salah dan merugikan anda.
 
 Karena itu mari kita bahas apa itu volatilitas agar anda dapat mengambil keputusan investasi yang lebih baik lagi.
 
-## Table of Content
-
-* **[Definisi Volatilitas](#definisi-volatilitas)**
-* **[Jenis-Jenis Volatilitas](#jenis-jenis-volatilitas)**
-* **[Penyebab Terjadinya Volatilitas](#penyebab-terjadinya-volatilitas)**
-* **[Kesimpulan](#kesimpulan)**
-
-Volatilitas adalah tingkat fluktuasi harga dari sebuah saham atau sekuritas dalam waktu ke waktu sehingga sering juga disebut sebagai “_market mood”_ karena berkaitan dengan naik turunnya harga sekuritas dalam kurun waktu tertentu.
+Volatilitas adalah tingkat fluktuasi harga dari sebuah saham atau sekuritas dalam waktu ke waktu sehingga sering juga disebut sebagai “*market mood”* karena berkaitan dengan naik turunnya harga sekuritas dalam kurun waktu tertentu.
 
 Volatilitas bisa dijadikan sebagai acuan untuk menghitung peluang dan risiko dari suatu sekuritas.
 
@@ -52,10 +44,10 @@ Biar anda semakin paham, mari kita bahas beberapa jenis volatilitas
 
 Volatilitas memiliki beberapa jenis yaitu:
 
-1. **Volatilitas Historis (**_**Historical Volatility)**_: Volatilitas historis merupakan jumlah volatilitas yang dimiliki oleh sebuah efek dalam setahun terakhir. Jenis ini melihat bagaimana variasi harga saham dalam satu tahun terakhir. Apabila suatu saham memiliki harga yang variatif dalam setahun terakhir berarti saham tersebut memiliki nilai volatilitas yang tinggi.
-2. ******Volatilitas Pasar** _**(Market Volatility):**_**** Volatilitas pasar merupakan kecepatan perubahan harga di pasar manapun termasuk di dalamnya pasar saham, komoditas dan valuta asing. Peningkatan volatilitas pasar biasanya menandakan bahwa kondisi sedang berada di dasar atau puncak pasar sudah dekat. Saat menghadapi kondisi ini investor akan mengambil keputusan sesuai dengan strategi investasi yang mereka miliki. ********
-3. ******Volatilitas Tersirat (**_**Implied  Volatility)**_**:****** Jenis ini mengacu kepada pandangan _trader_ terhadap volatilitas yang akan terjadi di masa mendatang. Hal ini mengacu tingkat permintaan dan penawaran dari sebuah saham yang digunakan untuk memprediksi naik turunnya sebuah saham di masa mendatang.
-4. ******Volatilitas Saham:****** Volatilitas saham menggunakan pengukuran yang disebut beta yang bisa menjelaskan kepada anda seberapa baik harga sebuah saham berkorelasi dengan Indeks Standard & Poor's 500. Jika harga saham bergerak sempurna sejalan dengan indeks maka nilai beta-nya akan 1 dan apabila lebih dari 1 artinya saham memiliki nilai yang tidak stabil sehingga mudah berubah dan begitu juga sebaliknya. Angka ini bisa menjadi salah satu acuan bagi investor untuk memilih saham untuk investasi mereka.
+1. **Volatilitas Historis (*Historical Volatility)***: Volatilitas historis merupakan jumlah volatilitas yang dimiliki oleh sebuah efek dalam setahun terakhir. Jenis ini melihat bagaimana variasi harga saham dalam satu tahun terakhir. Apabila suatu saham memiliki harga yang variatif dalam setahun terakhir berarti saham tersebut memiliki nilai volatilitas yang tinggi.
+2. **\*\***Volatilitas Pasar **_**(Market Volatility):**_\*\*** Volatilitas pasar merupakan kecepatan perubahan harga di pasar manapun termasuk di dalamnya pasar saham, komoditas dan valuta asing. Peningkatan volatilitas pasar biasanya menandakan bahwa kondisi sedang berada di dasar atau puncak pasar sudah dekat. Saat menghadapi kondisi ini investor akan mengambil keputusan sesuai dengan strategi investasi yang mereka miliki. **\*\*\*\***
+3. **\*\***Volatilitas Tersirat (**_**Implied  Volatility)**_**:**\*\*** Jenis ini mengacu kepada pandangan *trader* terhadap volatilitas yang akan terjadi di masa mendatang. Hal ini mengacu tingkat permintaan dan penawaran dari sebuah saham yang digunakan untuk memprediksi naik turunnya sebuah saham di masa mendatang.
+4. **\*\***Volatilitas Saham:**\*\*** Volatilitas saham menggunakan pengukuran yang disebut beta yang bisa menjelaskan kepada anda seberapa baik harga sebuah saham berkorelasi dengan Indeks Standard & Poor's 500. Jika harga saham bergerak sempurna sejalan dengan indeks maka nilai beta-nya akan 1 dan apabila lebih dari 1 artinya saham memiliki nilai yang tidak stabil sehingga mudah berubah dan begitu juga sebaliknya. Angka ini bisa menjadi salah satu acuan bagi investor untuk memilih saham untuk investasi mereka.
 
 ## Penyebab Terjadinya Volatilitas
 
@@ -87,18 +79,15 @@ Namun, apakah anda tahu bahwa anda sistem investasi equity crowdfunding yang sis
 
 [LandX](https://landx.id/) memberikan kesempatan untuk anda melakukan investasi bisnis dengan modal kecil ke dalam berbagai bisnis potensial yang ada di sekitar anda.[ **Yuk Investasi Sekarang**](https://landx.id/)
 
-**[Supaya Gak Ketinggalan Berbagai Informasi Seputar Investasi Lainnya, Yuk Follow @landx.id di Instagram](https://instagram.com/landx.id?utm_medium=copy_link) **
+**[Supaya Gak Ketinggalan Berbagai Informasi Seputar Investasi Lainnya, Yuk Follow @landx.id di Instagram](https://instagram.com/landx.id?utm_medium=copy_link)** 
 
-#LandX.id	#landx.id	#landx #InvestasiBisnis	#EquityCrowdfunding	#InvestasiMenguntungkan	#Urundana	#BisnisPatungan	#InvestasiUsaha
+\#LandX.id	#landx.id	#landx #InvestasiBisnis	#EquityCrowdfunding	#InvestasiMenguntungkan	#Urundana	#BisnisPatungan	#InvestasiUsaha
 
----
+- - -
 
 **Baca Juga:**
 
 * [Memulai Investasi: Pahami Apa Itu Price to Book Value (PBV) Dalam Investasi Saham](https://landx.id/blog/memulai-investasi-pahami-apa-itu-price-to-book-value-pbv-dalam-investasi-saham/)
 * [Pahami Bagaimana Efek Compounding Dapat Membantu Pengembangan Investasi Anda](https://landx.id/blog/pahami-bagaimana-efek-compounding-dapat-membantu-pengembangan-investasi-anda/)
 
----
-
-
-
+- - -
