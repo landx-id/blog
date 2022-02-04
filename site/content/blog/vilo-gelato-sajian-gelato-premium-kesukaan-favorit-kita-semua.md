@@ -52,7 +52,7 @@ Ketiga, Selalu menggunakan bahan-bahan hasil perkebunan lokal. Hal ini bertujuan
 
 ## Konsep dan Menu Vilo Gelato
 
-![Berbagai menu gelato premium di vilo gelato](img/menu-vilo-gelato.png "Aneka menu galeto premium di vilo gelato")
+![Menu pilihan vilo gelato - Jadi pemilik vilo gelato modal 1 juta](https://media.discordapp.net/attachments/913743599844343808/939223361769316362/Menu_vilo_gelato.png)
 
 Pada daftar menunya, ada tiga varian ukuran penyajian gelato, yakni 90 ml, 250 ml, dan 500 ml. Untuk varian rasa, terdapat lebih dari 50 varian rasa gelato unik yang tersedia setiap hari, di antaranya seperti Dutch Chocolate, Butter Coffee, Strawberry Cheesecake, hingga rasa nusantara seperti Klepon, Pandan Kaya Toast, Martabak, dan lain-lain. 
 
