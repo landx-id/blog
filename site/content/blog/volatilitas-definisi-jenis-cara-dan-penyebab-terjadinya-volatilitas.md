@@ -53,9 +53,9 @@ Biar anda semakin paham, mari kita bahas beberapa jenis volatilitas
 Volatilitas memiliki beberapa jenis yaitu:
 
 1. **Volatilitas Historis (*Historical Volatility)***: Volatilitas historis merupakan jumlah volatilitas yang dimiliki oleh sebuah efek dalam setahun terakhir. Jenis ini melihat bagaimana variasi harga saham dalam satu tahun terakhir. Apabila suatu saham memiliki harga yang variatif dalam setahun terakhir berarti saham tersebut memiliki nilai volatilitas yang tinggi.
-2. **\*\***Volatilitas Pasar **_**(Market Volatility):**_\*\*** Volatilitas pasar merupakan kecepatan perubahan harga di pasar manapun termasuk di dalamnya pasar saham, komoditas dan valuta asing. Peningkatan volatilitas pasar biasanya menandakan bahwa kondisi sedang berada di dasar atau puncak pasar sudah dekat. Saat menghadapi kondisi ini investor akan mengambil keputusan sesuai dengan strategi investasi yang mereka miliki. **\*\*\*\***
-3. **\*\***Volatilitas Tersirat (**_**Implied  Volatility)**_**:**\*\*** Jenis ini mengacu kepada pandangan *trader* terhadap volatilitas yang akan terjadi di masa mendatang. Hal ini mengacu tingkat permintaan dan penawaran dari sebuah saham yang digunakan untuk memprediksi naik turunnya sebuah saham di masa mendatang.
-4. **\*\***Volatilitas Saham:**\*\*** Volatilitas saham menggunakan pengukuran yang disebut beta yang bisa menjelaskan kepada anda seberapa baik harga sebuah saham berkorelasi dengan Indeks Standard & Poor's 500. Jika harga saham bergerak sempurna sejalan dengan indeks maka nilai beta-nya akan 1 dan apabila lebih dari 1 artinya saham memiliki nilai yang tidak stabil sehingga mudah berubah dan begitu juga sebaliknya. Angka ini bisa menjadi salah satu acuan bagi investor untuk memilih saham untuk investasi mereka.
+2. Volatilitas Pasar(Market Volatility): Volatilitas pasar merupakan kecepatan perubahan harga di pasar manapun termasuk di dalamnya pasar saham, komoditas dan valuta asing. Peningkatan volatilitas pasar biasanya menandakan bahwa kondisi sedang berada di dasar atau puncak pasar sudah dekat. Saat menghadapi kondisi ini investor akan mengambil keputusan sesuai dengan strategi investasi yang mereka miliki. **\*\*\*\***
+3. Volatilitas Tersirat (**_**Implied  Volatility): Jenis ini mengacu kepada pandangan *trader* terhadap volatilitas yang akan terjadi di masa mendatang. Hal ini mengacu tingkat permintaan dan penawaran dari sebuah saham yang digunakan untuk memprediksi naik turunnya sebuah saham di masa mendatang.
+4. Volatilitas Saham: Volatilitas saham menggunakan pengukuran yang disebut beta yang bisa menjelaskan kepada anda seberapa baik harga sebuah saham berkorelasi dengan Indeks Standard & Poor's 500. Jika harga saham bergerak sempurna sejalan dengan indeks maka nilai beta-nya akan 1 dan apabila lebih dari 1 artinya saham memiliki nilai yang tidak stabil sehingga mudah berubah dan begitu juga sebaliknya. Angka ini bisa menjadi salah satu acuan bagi investor untuk memilih saham untuk investasi mereka.
 
 ## Penyebab Terjadinya Volatilitas
 
@@ -83,13 +83,11 @@ Tapi anda harus tahu bahwa setiap investasi memiliki risiko sehingga anda harus 
 
 Namun, apakah anda tahu bahwa anda sistem investasi equity crowdfunding yang sistemnya hampir sama dengan investasi saham, tapi memberikan anda kesempatan untuk berinvestasi ke dalam bisnis privat. Kalau belum…
 
-**[Yuk Mulai Investasi Bisnis Bersama LandX, Platform Equity Crowdfunding Terpercaya](https://landx.id/)**
+## [Yuk Temukan Bisnis Terbaik untuk Investasi Jangka Panjang Kamu di LandX](https://landx.id/project/)
 
-[LandX](https://landx.id/) memberikan kesempatan untuk anda melakukan investasi bisnis dengan modal kecil ke dalam berbagai bisnis potensial yang ada di sekitar anda.[ **Yuk Investasi Sekarang**](https://landx.id/)
+[![Bagaimana? Kamu lebih suka bisnis dengan buyback guarantee atau yang bisa disimpan dalam jangka panjang? Apapun pilihan kamu.. Yuk Patungan  dengan Keuntungan Menjanjikan Bareng LandX](https://accountgram-production.sfo2.cdn.digitaloceanspaces.com/landx_ghost/2021/10/Equity-Crowdfunding-di-Indonesia-1--3.png)](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)
 
 **[Supaya Gak Ketinggalan Berbagai Informasi Seputar Investasi Lainnya, Yuk Follow @landx.id di Instagram](https://instagram.com/landx.id?utm_medium=copy_link)** 
-
-\#LandX.id	#landx.id	#landx #InvestasiBisnis	#EquityCrowdfunding	#InvestasiMenguntungkan	#Urundana	#BisnisPatungan	#InvestasiUsaha
 
 - - -
 
