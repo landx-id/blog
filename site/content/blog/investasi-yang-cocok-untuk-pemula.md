@@ -1,17 +1,31 @@
-+++
-author = "Abdul Wahhab"
-category = ["investasi pemula", "investor pemula", "pilihan investasi"]
-date = 2021-06-10T04:11:04Z
-metaDescription = "Sebagai pemula yang ingin memulai investasi kamu tentu masih kebingungan dalam menentukan investasi mana yang cocok untuk anda, cek pilihan investasi pemula"
-draft = false
-slug = "investasi-yang-cocok-untuk-pemula"
-tag = ["investasi pemula", "investor pemula", "pilihan investasi"]
-title = "Untuk Investor Pemula, Yuk Simak Bagaimana Cara Memulai Investasi yang Cocok untuk Pemula"
-
-+++
-
-
-**[Investasi Pemula](https://landx.id/) –** Berinvestasi merupakan suatu hal yang sangat penting untuk disiapkan sedini mungkin, akan tetapi masih banyak orang belum mengerti tentang konsep dasar dari investasi itu sendiri sehingga takut untuk mulai berinvestasi.
+---
+draft: false
+author: Abdul Wahhab
+title: Investasi yang Cocok untuk Pemula yang Baru Memulai Investasi
+metaTitle: Investasi yang Cocok untuk Pemula yang Baru Memulai Investasi
+metaDescription: Yuk cek  investasi apa yang cocok untuk pemula yang baru mulai
+  menyusun rencana dan tujuan keuangan
+intro: Kalau kamu bingung investasi seperti apa yang cocok untuk pemula, yuk
+  simak bagaimana cara menyusun investasi yang sesuai dengan tujuan keuangan
+  yang ingin kamu capai.
+isPinned: true
+slug: investasi-yang-cocok-untuk-pemula
+date: 2022-02-04T10:00:08.953Z
+tag:
+  - investasi pemula
+  - investor pemula
+  - pilihan investasi
+  - Instrumen investasi
+  - Investasi Bisnis
+category:
+  - Investasi
+  - Keuangan
+featuredImage:
+  src: https://images.unsplash.com/photo-1634757439914-23b8acb9d411?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=988&q=80
+  alt: Memahami bagaimana cara investasi yang baik untuk pemula
+  title: Cara menyusun rencana investasi yang baik bagi pemula
+---
+**[Investasi yang Cocok untuk Pemula](https://landx.id/) –** Berinvestasi merupakan suatu hal yang sangat penting untuk disiapkan sedini mungkin, akan tetapi masih banyak orang belum mengerti tentang konsep dasar dari investasi itu sendiri sehingga takut untuk mulai berinvestasi.
 
 Hal ini membuat banyak calon investor pemula ragu untuk memulai investasi karena sudah terpapar berbagai informasi yang salah tentang investasi seperti ribet, membutuhkan modal besar, dan berbagai asumsi salah lain terkait investasi yang masih tersebar di kalangan masyarakat.
 
@@ -23,7 +37,7 @@ Oleh sebab itu, pemula yang ingin mulai berinvestasi harus paham terlebih dahulu
 
 Karena itu, yuk kita bahas bagaimana memulai investasi yang menguntungkan untuk pemula sehingga anda bisa segera mencapai tujuan finansial yang ingin anda capai. Pertama, mari kita bahas apa itu investasi terlebih dahulu.
 
----
+- - -
 
 ## Table of Content
 
@@ -33,7 +47,7 @@ Karena itu, yuk kita bahas bagaimana memulai investasi yang menguntungkan untuk 
 * **[Menentukan Investasi Terbaik untuk Pemula](#menentukan-investasi-terbaik-untuk-pemula)**
 * **[Pilihan Investasi untuk Pemula](#pilihan-investasi-untuk-pemula)**
 
----
+- - -
 
 ## Apa Itu Investasi
 
@@ -59,7 +73,7 @@ Karena itu anda harus bisa menyiapkan investasi terbaik untuk menghadapi berbaga
 
 ## Menyiapkan Investasi untuk Pemula
 
-* ******Siapkan Dana Darurat******
+* **\*\***Siapkan Dana Darurat**\*\***
 
 Langkah awal yang tidak boleh dilupakan oleh pemula saat berinvestasi adalah menyiapkan dana darurat untuk menghadapi berbagai hal tidak terduga. Hal ini penting agar investasi yang anda lakukan tidak terganggu apabila anda menghadapi berbagai hal tidak terduga.
 
@@ -67,13 +81,13 @@ Jumlah dana darurat bisa anda hitung dengan mengkalkulasikan biaya hidup anda se
 
 Jumlah dana darurat yang harus disiapkan sangat opsional dan menyesuaikan kebutuhan dana masing-masing orang. Karena itu anda harus menghitung dahulu dana yang anda butuhkan dalam sebulan.
 
-* ******Menentukan Budget Sesuai Penghasilan Anda******
+* **\*\***Menentukan Budget Sesuai Penghasilan Anda**\*\***
 
 Saat ingin mulai berinvestasi anda tidak boleh lupa untuk memiliki manajemen keuangan yang baik terlebih dahulu. Salah satu hal penting yang harus anda perhatikan adalah budgeting, anda harus menghitung terlebih dahulu berapa persen penghasilan yang bisa anda investasikan sehingga anda bisa melihat instrumen mana yang cocok dengan budget investasi anda tersebut.
 
 Oleh sebab itu, sebagai investor pemula anda harus menghitung dulu pengeluaran pokok anda di awal sehingga anda tahu berapa sisa uang yang anda miliki untuk mulai berinvestasi. Menentukan budget investasi akan mempermudah anda menemukan instrumen investasi terbaik untuk pemula.
 
-* ******Mempelajari Investasi secara Mendalam******
+* **\*\***Mempelajari Investasi secara Mendalam**\*\***
 
 Sebelum terjun ke dalam dunia investasi, anda harus terlebih dahulu mempelajari instrumen yang akan anda gunakan. Anda harus paham skema yang digunakan dan bagaimana instrumen tersebut memberikan anda keuntungan.
 
@@ -83,13 +97,13 @@ Setelah menyiapkan beberapa hal di atas, selanjutnya anda perlu memperhatikan be
 
 ## Menentukan Investasi Terbaik untuk Pemula
 
-* ******Menentukan Tujuan Investasi******
+* **\*\***Menentukan Tujuan Investasi**\*\***
 
 Menentukan tujuan investasi merupakan hal penting yang harus dilakukan di awal agar anda bisa memilih instrumen investasi yang sesuai dengan tujuan finansial yang ingin anda capai. Pertama anda harus menentukan terlebih dahulu apakah anda akan melakukan investasi ini dalam jangka pendek atau panjang sehingga bisa memilih instrumen yang sesuai.
 
 Menentukan tujuan investasi juga akan membantu anda dalam menentukan tujuan investasi, oleh sebab itu anda harus memikirkan tujuan seperti apa yang ingin anda capai melalui investasi yang dilakukan.
 
-* ******Menentukan Profil Risiko Investasi untuk Pemula******
+* **\*\***Menentukan Profil Risiko Investasi untuk Pemula**\*\***
 
 Menentukan profil risiko adalah hal penting karena seperti yang kita tahu bahwa setiap investasi selalu diikuti risiko. Anda harus tahu seberapa besar risiko kerugian yang bisa anda tanggung dalam investasi agar anda bisa memilih instrumen yang sesuai dengan besar risiko yang bisa anda terima.
 
@@ -97,7 +111,7 @@ Hal ini sangat penting karena seperti yang kita tahu bahwa setiap keuntungan yan
 
 Selain itu, instrumen investasi sangatlah beragam dan memiliki risiko yang berbeda-beda sehingga mengetahui profil risiko dapat membantu mereka menemukan instrumen investasi yang sesuai dengan mereka.
 
-* ******Lakukan Analisis untuk Proyeksi Investasi dalam Jangka Panjang******
+* **\*\***Lakukan Analisis untuk Proyeksi Investasi dalam Jangka Panjang**\*\***
 
 Dalam investasi anda harus bisa menganalisis dan melihat jauh ke depan sehingga anda bisa lebih mudah memilih instrumen investasi yang tepat. Oleh sebab itu anda harus mempertimbangkan berbagai kemungkinan di masa mendatang agar anda bisa memilih investasi dengan prospek keuntungan yang terbaik. Anda bisa mulai dengan  melihat bagaimana trend pasar dan seperti apa keuntungan yang bisa anda dapatkan.
 
@@ -105,19 +119,19 @@ Selanjutnya yuk kita bahas beberapa jenis investasi yang cocok untuk pemula.
 
 ## Pilihan Investasi untuk Pemula
 
-* ******Obligasi******
+* **\*\***Obligasi**\*\***
 
 Obligasi merupakan surat utang yang diterbitkan oleh suatu perusahaan atau pemerintah dan dana investor akan dikembalikan beserta bunganya pada akhir periode yang telah dijanjikan. Investasi jenis ini sangat cocok untuk pemula karena terbilang memiliki risiko yang rendah terutama obligasi yang diterbitkan oleh pemerintah karena risiko gagal bayar yang rendah.
 
 Instrumen ini sangat cocok untuk investor pemula karena selain risiko yang terbilang rendah, instrumen ini juga bisa dimulai dengan modal kecil. Saat membeli obligasi anda harus memperhatikan siapa penerbit dari obligasi ini untuk melihat tingkat risiko gagal bayar dari investasi yang anda lakukan.
 
-* ******Reksa Dana******
+* **\*\***Reksa Dana**\*\***
 
 Reksa dana merupakan jenis investasi yang sangat cocok untuk investor pemula terutama yang belum punya kemampuan yang cukup untuk mengatur sendiri investasinya. Dalam reksa dana, uang yang anda miliki akan dikumpulkan dan dikelola oleh seorang manajer investasi yang akan menyalurkan uang anda ke berbagai instrumen investasi yang menguntungkan.
 
 Jenis juga sangat digemari oleh pemula karena modal yang dibutuhkan dalam investasi ini terbilang kecil dan mudah di akses melalui berbagai platform investasi online.
 
-* ******Equity Crowdfunding******
+* **\*\***Equity Crowdfunding**\*\***
 
 Salah satu investasi yang cocok untuk pemula adalah investasi bisnis dengan sistem [equity crowdfunding](https://landx.id/). Sistem ini memberikan anda kesempatan untuk melakukan [patungan membangun suatu bisnis](https://landx.id/) bersama para investor lain yang akan diberikan bukti kepemilikan berupa saham sesuai dengan modal yang anda berikan.
 
@@ -133,10 +147,9 @@ Sebagai investor pemula anda akan sangat terbantu dengan sistem ini karena anda 
 
 **[Jangan Lupa!!! Follow Juga Kami di Instagram @landx.id Untuk Berbagai Informasi Terupdate Seputar Investasi](https://instagram.com/landx.id?utm_medium=copy_link)**
 
-#LandX.id    #landx         #landx.id    #InvestasiBisnis    #EquityCrowdfunding    #InvestasiMenguntungkan    #Urundana    #BisnisPatungan    #InvestasiUsaha
+\#LandX.id    #landx         #landx.id    #InvestasiBisnis    #EquityCrowdfunding    #InvestasiMenguntungkan    #Urundana    #BisnisPatungan    #InvestasiUsaha
 
 **Baca Juga:**
 
 * [Buat Yang Mau Investasi, Yuk Pahami Seperti Apa Investasi Jangka Panjang yang Baik untuk Anda](https://landx.id/blog/tag/investasi-jangka-panjang)
 * [Investasi Modal Kecil:  Jenis dan Memilih Investasi dengan Modal Kecil yang Menguntungkan untuk Anda](https://landx.id/blog/investasi-modal-kecil-jenis-dan-memilih-investasi-dengan-modal-kecil-yang-menguntungkan-untuk-anda/)
-
