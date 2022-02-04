@@ -47,16 +47,6 @@ Antusiasme dari para pemodal saat pembukaan saham membuat bisnis ini berhasil me
 
 Grand opening ini dihadiri manajemen Okinawa Sushi, Tim LandX serta para investor. **[Outlet Okinawa Sushi](https://landx.id/project/#/okin)** pun semakin menggurita di Indonesia. Ditambah 11 outlet yang telah tersebar di Jakarta, Bandung, Tangerang, Medan, Pekanbaru, Surabaya hingga Bali yang siap menyambut pelanggannya.
 
-##  \[Video] Keseruan Grand Opening Okinawa Sushi
-
-<!--StartFragment-->
-
-**{{< youtube id="wQUH06QRCi4" >}}**
-
-<!--StartFragment-->
-
-**{{< buttonlink="**https://www.youtube.com/embed/RvUcG0RmjmM?**" text="Watch This Video" >}}**
-
 ## Jadi Investor Sekaligus Pemilik Bisnis dengan Rp 1 Juta
 
 Kesuksesan urun dana ini disebabkan kemudahan dalam berinvestasi patungan bisnis hanya dengan Rp 1 juta saja.  Platform equity crowdfunding, LandX, yang ketat melakukan pemilihan bisnis pun membuat setiap project bisnis yang ditawarkan kepada calon investor dapat menjadi cuan yang menjanjikan.

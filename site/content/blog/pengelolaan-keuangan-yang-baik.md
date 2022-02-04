@@ -65,9 +65,9 @@ Apabila ingin tinggal di rumah sendiri, anda harus menghitung berapa kira-kira d
 
 Apabila ingin paham lebih lanjut tentang tujuan finansial, yuk simak video di bawah ini dulu:
 
-**{{< button link="**https://www.youtube.com/watch?v=Ug5wff_JQF8&feature=emb_imp_woyt" **text="Watch This Video" >}**
+{{< button link="https://www.youtube.com/watch?v=Ug5wff_JQF8&feature=emb_imp_woyt" text="Watch This Video" >}}
 
-**{{< youtube id=**Ug5wff_JQF8 **\>}}**
+{{< youtube id="Ug5wff_JQF8" >}}
 
 ### 2. Mencatat Pemasukan dan Pengeluaran
 
