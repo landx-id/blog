@@ -64,7 +64,9 @@ Selain dalam dunia saham, anda juga harus paham konsep *buyback* dalam [investas
 
 Dalam equity crowdfunding, skala bisnis yang menjadi penerbit saham biasanya dalam skala lebih kecil atau UKM. Oleh sebab itu, equity crowdfunding merupakan cara untuk berinvestasi ke sektor bisnis privat dengan modal kecil.
 
-***Buyback*** dalam ***[equity crowdfunding](https://landx.id/)*** merupakan kebijakan pembelian kembali saham yang oleh penerbit setelah beberapa periode waktu. Konsep ini hampir sama dengan *buyback* di pasar modal namun periode waktunya akan dijelaskan di proses awal penawaran.
+***Buyback*** dalam ***[equity crowdfunding](https://landx.id/)*** adalah kebijakan pembelian kembali saham yang oleh penerbit setelah beberapa periode waktu. Konsep ini hampir sama dengan *buyback* di pasar modal namun periode waktunya akan dijelaskan di proses awal penawaran.
+
+Dalam buyback dalam equity crowdfunding adalah sesuatu yang biasanya sudah ditentukan di awal sehingga kamu bisa tau kapan periode buyback saham bisnis akan dilakukan agar kamu bisa memperhitungkan rencana investasi kamu dengan lebih baik. 
 
 Konsep ini menjadi salah satu cara mitigasi risiko untuk melindungi modal para investor karena saham mereka tetap akan dibeli kembali walaupun bisnis yang didanai tidak berjalan dengan baik.
 
