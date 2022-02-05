@@ -1,5 +1,6 @@
 ---
 title: Yellow Car Wash
+slug: yellow car wash
 metaTitle: "Jadi Pemilik Franchise Car Wash Terkenal Cuma dengan Modal 1 Juta "
 metaDescription: Jadi pemilik franchise car wash Yellow Car Wash cuma dengan
   modal 1 jutaan aja hanya di LandX
