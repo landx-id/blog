@@ -1,15 +1,36 @@
-+++
-author = "Abdul Wahhab"
-category = ["ETF", "investasi", "investasi online", "investasi jangka panjang", "Instrumen Investasi", "instrumen pasar modal"]
-date = 2022-01-25T05:36:00Z
-metaDescription = "Exchange traded fund atau ETF adalah instrumen investasi dengan sifat gabungan antara reksa dana dan saham | Perbedaan ETF dan Reksa Dana"
-draft = false
-image = "https://images.unsplash.com/photo-1559526324-593bc073d938?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxMTc3M3wwfDF8c2VhcmNofDExfHxleGFuZ2UlMjB0cmFkZWQlMjBmdW5kfGVufDB8fHx8MTY0MzA5MDU5Mg&ixlib=rb-1.2.1&q=80&w=1080"
-slug = "etf-adalah"
-tag = ["ETF", "investasi", "investasi online", "investasi jangka panjang", "Instrumen Investasi", "instrumen pasar modal"]
-title = "ETF Adalah: Memahami Apa Itu ETF dan Perbedaannya dengan Reksa Dana"
+---
+draft: false
+author: Abdul Wahhab
+slug: etf-adalah
+title: "ETF Adalah: Memahami Apa Itu ETF dan Perbedaannya dengan Reksa Dana"
+metaTitle: "ETF Adalah: Memahami Apa Itu ETF dan Perbedaannya dengan Reksa Dana"
+metaDescription: Exchange traded fund atau ETF adalah instrumen investasi dengan
+  sifat gabungan antara reksa dana dan saham | Perbedaan ETF dan Reksa Dana
+intro: >-
+  ETF pertama kali masuk ke Indonesia pada 18 Desember 2007 dan terus berkembang
+  hingga menjadi salah satu instrumen investasi yang banyak diminati investor.
+  Namun, saat ini masih banyak orang belum paham tentang ETF sehingga tidak bisa
+  perbedaaan antara ETF dan reksa dana. 
 
-+++
+
+  Supaya kamu memahami dengan baik apa itu ETF, yuk simka artikel ini sampai habis.....
+date: 2022-01-25T05:36:00.000Z
+tag:
+  - ETF
+  - investasi
+  - investasi online
+  - investasi jangka panjang
+  - Instrumen Investasi
+  - instrumen pasar modal
+featuredImage:
+  src: https://images.unsplash.com/photo-1559526324-593bc073d938?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxMTc3M3wwfDF8c2VhcmNofDExfHxleGFuZ2UlMjB0cmFkZWQlMjBmdW5kfGVufDB8fHx8MTY0MzA5MDU5Mg&ixlib=rb-1.2.1&q=80&w=1080
+  alt: Memahami apa itu ETF atau exchange traded fund serta cara kerja instrumen
+    investasi satu ini
+  title: ETF adalah dan perbedaan antara etf dan reksa dana
+image: https://images.unsplash.com/photo-1559526324-593bc073d938?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxMTc3M3wwfDF8c2VhcmNofDExfHxleGFuZ2UlMjB0cmFkZWQlMjBmdW5kfGVufDB8fHx8MTY0MzA5MDU5Mg&ixlib=rb-1.2.1&q=80&w=1080
+category:
+  - Investasi
+---
 
 
 Saat ini, tersedia banyak sekali instrumen investasi yang bisa anda pilih, salah satunya adalah ETF yang kini tersedia semakin banyak di Indonesia.
