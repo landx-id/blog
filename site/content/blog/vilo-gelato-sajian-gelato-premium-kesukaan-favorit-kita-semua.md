@@ -1,6 +1,6 @@
 ---
 author: Abdul Wahhab
-title: "Vilo Gelato: Sajian Gelato Premium Kesukaan Favorit Kita Semua"
+title: "Vilo Gelato: Sajian Gelato Premium Kesukaan Kita Semua"
 metaTitle: "Vilo Gelato: Sajian Gelato Premium Kesukaan Favorit Kita Semua"
 metaDescription: Menu Vilo Gelato yang beragam menjadikan Vilo Gelato memiliki
   cabang di berbagai kawasan di Indonesia
