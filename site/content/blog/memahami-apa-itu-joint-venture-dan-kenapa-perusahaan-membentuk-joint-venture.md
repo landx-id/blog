@@ -1,15 +1,34 @@
-+++
-author = "Abdul Wahhab"
-category = ["tips investasi", "bisnis patungan"]
-date = 2021-10-17T07:45:00Z
-metaDescription = "Joint venture atau perusahaan patungan adalah perusahaan yang terbentuk  dari kolaborasi dua perusahaan hingga menghasilkan satu perusahaan baru"
-draft = false
-image = "https://images.unsplash.com/photo-1549923746-c502d488b3ea?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxMTc3M3wwfDF8c2VhcmNofDJ8fGpvaW50JTIwdmVudHVyZXxlbnwwfHx8fDE2NDAxNDc4NTA&ixlib=rb-1.2.1&q=80&w=1080"
-slug = "memahami-apa-itu-joint-venture-dan-kenapa-perusahaan-membentuk-joint-venture"
-tag = ["tips investasi", "bisnis patungan"]
-title = "Memahami Apa Itu Joint Venture dan Kenapa Perusahaan Membentuk Joint Venture"
+---
+draft: false
+author: Abdul Wahhab
+slug: memahami-apa-itu-joint-venture-dan-kenapa-perusahaan-membentuk-joint-venture
+title: Memahami Apa Itu Joint Venture dan Kenapa Perusahaan Joint Venture
+metaTitle: Memahami Apa Itu Joint Venture dan Kenapa Perusahaan Joint Venture
+metaDescription: Joint venture atau perusahaan patungan adalah perusahaan yang
+  terbentuk  dari kolaborasi dua perusahaan hingga menghasilkan satu perusahaan
+  baru
+intro: >-
+  Joint venture adalah kerja sama yang dilakukan oleh dua atau lebih perusahaan
+  untuk mencapai suatu tujuan yang telah disepakati oleh semua pihak yang
+  terlibat dalam kerja sama ini. Joint venture adalah strategi yang dilakukan
+  untuk berbagai tujuan seperti ekspansi pasar baru atau pengembangan produk
+  baru yang dilakukan dengan kolaborasi sumber daya yang dimiliki oleh kedua
+  belah pihak
 
-+++
+
+  Supaya lebih paham lagi tentang apa yang dimaksud dengan joint venture dan bagaimana contoh joint venture, yuk simak penjelasan di bawah ini.
+date: 2021-10-17T07:45:00.000Z
+tag:
+  - tips investasi
+  - bisnis patungan
+featuredImage:
+  src: https://images.unsplash.com/photo-1549923746-c502d488b3ea?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxMTc3M3wwfDF8c2VhcmNofDJ8fGpvaW50JTIwdmVudHVyZXxlbnwwfHx8fDE2NDAxNDc4NTA&ixlib=rb-1.2.1&q=80&w=1080
+  alt: Memahami apa itu joint venture atau perusahaan patungan
+  title: Pembentukan perusahaan patungan atau joint venture
+image: https://images.unsplash.com/photo-1549923746-c502d488b3ea?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxMTc3M3wwfDF8c2VhcmNofDJ8fGpvaW50JTIwdmVudHVyZXxlbnwwfHx8fDE2NDAxNDc4NTA&ixlib=rb-1.2.1&q=80&w=1080
+category:
+  - Bisnis
+---
 
 
 Dalam dunia bisnis, kamu pasti pernah mendengar istilah joint venture atau [perusahaan patungan](https://landx.id/project/) yang dilakukan merupakan kebijakan yang diambil beberapa perusahaan belakangan ini.
