@@ -1,41 +1,49 @@
-+++
-author = "Abdul Wahhab"
-category = ["Cara Investasi Saham", "investasi saham", "investasi"]
-date = 2021-10-17T08:36:50Z
-metaDescription = "Stock split adalah kebijakan korporasi yang dilakukan oleh emiten/ perusahaan penerbit untuk memecah nilai saham mereka berdasarkan rasio yang ditentukan"
-draft = false
-image = "https://images.unsplash.com/photo-1454165804606-c3d57bc86b40?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxMTc3M3wwfDF8c2VhcmNofDl8fHN0b2NrfGVufDB8fHx8MTY0MDE0Nzc2Mw&ixlib=rb-1.2.1&q=80&w=1080"
-slug = "stock-split-memahami-apa-itu-stock-split-dan-pengaruhnya-terhadap-harga-saham"
-tag = ["Cara Investasi Saham", "investasi saham", "investasi"]
-title = "Stock Split: Memahami Apa Itu Stock Split dan Pengaruhnya Terhadap Harga Saham"
+---
+draft: false
+author: Abdul Wahhab
+slug: stock-split-memahami-apa-itu-stock-split-dan-pengaruhnya-terhadap-harga-saham
+title: Memahami Apa Itu Stock Split dan Pengaruhnya Terhadap Harga Saham
+metaTitle: Memahami Apa Itu Stock Split dan Pengaruhnya Terhadap Harga Saham
+metaDescription: Stock split adalah kebijakan korporasi yang dilakukan oleh
+  emiten/ perusahaan penerbit untuk memecah nilai saham mereka sesuai rasio yang
+  ditentukan
+intro: >-
+  Dalam beberapa waktu belakangan, kamu pasti sering mendengar istilah ini
+  karena salah satu emiten besar yaitu bank BCA atau emiten BBCA melakukan stock
+  split baru-baru ini. Sebelum BBCA, ada beberapa emiten lain yang sebelumnya
+  pernah melakukan stock split seperti emiten UNVR atau Unilever yang melakukan
+  stock split pada awal 2020 lalu.
 
-+++
 
+  Akan tetapi, sudahkah kamu paham apa itu stock split dan bagaimana pengaruh stock split terhadap saham anda? Kalau belum yuk sama-sama kita bahas lebih lanjut...
+date: 2021-10-17T08:36:50.000Z
+tag:
+  - Cara Investasi Saham
+  - investasi saham
+  - investasi
+featuredImage:
+  src: https://images.unsplash.com/photo-1454165804606-c3d57bc86b40?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxMTc3M3wwfDF8c2VhcmNofDl8fHN0b2NrfGVufDB8fHx8MTY0MDE0Nzc2Mw&ixlib=rb-1.2.1&q=80&w=1080
+  alt: Memamami dengan baik tentang kebijakan stock split dan pengaruhnya terhadap
+    harga saham anda
+  title: Membahas apa itu stock split dan bagaimana pengaruh stock split terhadap
+    investasi
+image: https://images.unsplash.com/photo-1454165804606-c3d57bc86b40?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxMTc3M3wwfDF8c2VhcmNofDl8fHN0b2NrfGVufDB8fHx8MTY0MDE0Nzc2Mw&ixlib=rb-1.2.1&q=80&w=1080
+category:
+  - Investasi
+---
+Stock split adalah kebijakan yang dilakukan oleh emiten/ perusahaan penerbit di mana mereka melakukan *split* atau pemecahan nilai saham mereka dengan rasio yang telah ditentukan sebelumnya.
 
-Stock split adalah kebijakan yang dilakukan oleh emiten/ perusahaan penerbit di mana mereka melakukan _split_ atau pemecahan nilai saham mereka dengan rasio yang telah ditentukan sebelumnya.
-
-Dalam beberapa waktu belakangan, kamu pasti sering mendengar istilah ini karena salah satu emiten besar yaitu bank BCA atau emiten BBCA melakukan stock split baru-baru ini. Sebelum BBCA, ada beberapa emiten lain yang sebelumnya pernah melakukan _stock split_ seperti emiten UNVR atau Unilever yang melakukan _stock split_ pada awal 2020 lalu.
+Dalam beberapa waktu belakangan, kamu pasti sering mendengar istilah ini karena salah satu emiten besar yaitu bank BCA atau emiten BBCA melakukan stock split baru-baru ini. Sebelum BBCA, ada beberapa emiten lain yang sebelumnya pernah melakukan *stock split* seperti emiten UNVR atau Unilever yang melakukan *stock split* pada awal 2020 lalu.
 
 Kebijakan stock split sendiri dilakukan dengan alasan yang berbeda-beda tergantung dengan korporasi yang mengambil kebijakan ini.
 
 Biar kamu lebih paham lagi tentang stock split, yuk kita bahas apa itu stock split dan apakah stock split menguntungkan atau tidak bagi para investor.
 
----
-
-## Table of Content
-
-* **Apa Itu Stock Split?**
-* [**Apakah Stock Split Menguntungkan Investor?**](#apakah-stock-split-menguntungkan-investor)
-* **[Rasio Stock Split](#rasio-stock-split)**
-* **[Reverse Stock Split](#reverse-stock-split)**
-* [**Pengaruh S**](#pengaruh-stock-split-terhadap-harga-saham)**[tock Split Terhadap Harga Saham](#pengaruh-stock-split-terhadap-harga-saham)**
-* **[Kesimpulan](#kesimpulan)**
-
----
+- - -
 
 ## Apa Itu Stock Split?
 
-Seperti yang sudah sekilas kita bahas sebelumnya, _stock split_ adalah kebijakan korporasi memecah nilai saham mereka dengan rasio yang telah ditentukan sebelumnya. Salah satu alasan kebijakan ini diambil adalah untuk menurunkan harga saham sehingga dapat dijangkau oleh investor yang lebih luas lagi.
+Seperti yang sudah sekilas kita bahas sebelumnya, *stock split* adalah kebijakan korporasi memecah nilai saham mereka dengan rasio yang telah ditentukan sebelumnya. Salah satu alasan kebijakan ini diambil adalah untuk menurunkan harga saham sehingga dapat dijangkau oleh investor yang lebih luas lagi.
 
 Adanya stock split juga membuat lembar saham yang beredar menjadi semakin banyak, namun tidak mengubah jumlah modal yang disetorkan.
 
@@ -91,20 +99,19 @@ Caranya adalah dengan ikut patungan bisnis menguntungkan bareng LandX agar kamu 
 
 Karena itu..
 
-**[Yuk Patungan Bisnis Menguntungkan Bareng LandX](https://landx.id/project/)**
+## **[Yuk Patungan Bisnis Menguntungkan Bareng LandX](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)**
 
-{{< figure src="https://accountgram-production.sfo2.cdn.digitaloceanspaces.com/landx_ghost/2021/10/patungan-bisnis-menguntungkan-bareng-landx-6.png" >}}
+[![Bagaimana? Kamu lebih suka bisnis dengan buyback guarantee atau yang bisa disimpan dalam jangka panjang? Apapun pilihan kamu.. Yuk Patungan  dengan Keuntungan Menjanjikan Bareng LandX](https://accountgram-production.sfo2.cdn.digitaloceanspaces.com/landx_ghost/2021/10/Equity-Crowdfunding-di-Indonesia-1--3.png)](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)
 
 **[Mau Berbagai Informasi Menarik Seputar Keuangan Lainnya? Yuk Follow Instagram Kami @landx.id](https://www.instagram.com/landx.id/?utm_medium=copy_link)**
 
----
+- - -
 
 **Baca Juga:**
 
 * [Untuk Para Investor Pemula, Pahami Apa Itu Agio Saham dan Berbagai Jenisnya](https://landx.id/blog/kenali-apa-itu-agio-saham-dalam-investasi/)
 * [Volatilitas: Definisi, Jenis, dan Penyebab Terjadinya Volatilitas](https://landx.id/blog/volatilitas-definisi-jenis-cara-dan-penyebab-terjadinya-volatilitas/)
 
----
+- - -
 
-#YukPatunganBisnis #LandX.id    #landx.id    #InvestasiBisnis    #EquityCrowdfunding    #InvestasiMenguntungkan    #Urundana    #BisnisPatungan    #InvestasiUsaha
-
+\#YukPatunganBisnis #LandX.id    #landx.id    #InvestasiBisnis    #EquityCrowdfunding    #InvestasiMenguntungkan    #Urundana    #BisnisPatungan    #InvestasiUsaha
