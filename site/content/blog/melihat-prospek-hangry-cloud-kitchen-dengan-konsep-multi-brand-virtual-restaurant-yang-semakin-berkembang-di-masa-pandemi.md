@@ -1,15 +1,34 @@
-+++
-author = "Abdul Wahhab"
-category = ["Cloud Kitchen", "Bisnis F&B", "Bisnis Franchise Modal Kecil", "Bisnis Modal Kecil", "Investasi modal kecil", "patungan bisnis"]
-date = 2021-09-19T17:29:03Z
-metaDescription = "Hangry adalah salah satu bisnis F&B cloud kitchen dengan konsep multi-brand virtual restaurant yang sangat potensial selama pandemi | Franchise Hangry"
-draft = false
-image = "https://accountgram-production.sfo2.cdn.digitaloceanspaces.com/landx_ghost/2021/09/Screenshot-2021-09-20-at-00-24-27-LandX-Investasi-Bisnis-dan-Properti-Semudah-Belanja-Online.png"
-slug = "melihat-prospek-hangry-cloud-kitchen-dengan-konsep-multi-brand-virtual-restaurant-yang-semakin-berkembang-di-masa-pandemi"
-tag = ["Cloud Kitchen", "Bisnis F&B", "Bisnis Franchise Modal Kecil", "Bisnis Modal Kecil", "Investasi modal kecil", "patungan bisnis"]
-title = "Melihat Prospek Hangry: Cloud Kitchen dengan Konsep Multi-Brand Virtual Restaurant yang Semakin Berkembang di Masa Pandemi"
+---
+draft: false
+author: Abdul Wahhab
+slug: melihat-prospek-hangry-cloud-kitchen-dengan-konsep-multi-brand-virtual-restaurant-yang-semakin-berkembang-di-masa-pandemi
+title: "Restaurant Hangry: Cloud Kitchen  yang Berkembang di Masa Pandemi"
+metaTitle: "Restaurant Hangry: Cloud Kitchen  yang Berkembang di Masa Pandemi"
+metaDescription: Hangry adalah salah satu bisnis F&B cloud kitchen dengan konsep
+  multi-brand virtual restaurant yang sangat potensial selama pandemi
+intro: >-
+  Konsep cloud kitchen menjadi solusi bagi bisnis-bisnis F&B yang mengalami
+  kesulitan di masa pandemi. Hangry merupakan salah satu pelopor cloud kitchen
+  di Indonesia dengan beberapa brand yang dikembangkan di bawahnya. 
 
-+++
+
+  Karena itu, yuk kita simak bagaimana perkembangan dan prospek jangka panjang dari bisnis fnb satu ini...
+date: 2021-09-19T17:29:03.000Z
+tag:
+  - Cloud Kitchen
+  - Bisnis F&B
+  - Bisnis Franchise Modal Kecil
+  - Bisnis Modal Kecil
+  - Investasi modal kecil
+  - patungan bisnis
+featuredImage:
+  src: https://accountgram-production.sfo2.cdn.digitaloceanspaces.com/landx_ghost/2021/09/Screenshot-2021-09-20-at-00-24-27-LandX-Investasi-Bisnis-dan-Properti-Semudah-Belanja-Online.png
+  alt: Jadi pemilik franchise hangry cuma modal 1 juta
+  title: Cara jadi pemilik franchise hangry cuma modal 1 juta
+image: https://accountgram-production.sfo2.cdn.digitaloceanspaces.com/landx_ghost/2021/09/Screenshot-2021-09-20-at-00-24-27-LandX-Investasi-Bisnis-dan-Properti-Semudah-Belanja-Online.png
+category:
+  - Bisnis
+---
 
 
 **[Hangry](https://landx.id/project/#/hgy1) –** bisnis dengan konsep cloud kitchen bisa dikatakan salah satu konsep bisnis yang paling potensial dan cocok dengan kondisi pandemi di mana segala sesuatu serba virtual termasuk urusan makanan.
@@ -84,9 +103,9 @@ Kalau kamu tertarik, hanya dengan 1 jutaan kamu sudah bisa ikut patungan membang
 
 **[Yuk Miliki Bisnis Hangry Hanya dengan Modal 1 Jutaan di LandX](https://landx.id/project/#/hgy1)**
 
-[**Jangan Lupa Follow Instagram Kita Ya untuk Berbagai Info Terbaru Seputar Bisnis dan Investasi**](https://www.instagram.com/landx.id/?utm_medium=copy_link)
+[![Jadi Pemilik Vilo Gelato Cuma dengan Modal 1 Juta](https://media.discordapp.net/attachments/913743599844343808/939222534199582800/Jadi_pemilik_franchise_gelato_cuma_dengan_modal_1_juta.png)](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)
 
-[**‌**](https://www.instagram.com/landx.id/?utm_medium=copy_link)**#LandX.id    #landx.id #YukPatunganBisnis    #InvestasiBisnis    #SecuritiesCrowdfunding  #EquityCrowdfunding    #InvestasiMenguntungkan    #Urundana    #BisnisPatungan    #InvestasiUsaha**
+{{< button link="https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog" text="Yuk Investasi Sekarang" >}}
 
 ---
 
