@@ -1,17 +1,37 @@
-+++
-author = "Abdul Wahhab"
-category = ["tips investasi", "manajemen keuangan", "cara mengembangkan uang dengan cepat", "Mengelola Keuangan", "dana darurat", "investasi", "investasi pemula"]
-date = 2021-11-12T03:36:07Z
-metaDescription = "Skala prioritas adalah urutan cara pengurutan kebutuhan dari yang paling penting hingga yang tidak/ bisa ditunda. Menyusun skala prioritas dalam keuangan"
-draft = false
-image = "https://images.unsplash.com/photo-1530653048-4d8c08678aa0?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxMTc3M3wwfDF8c2VhcmNofDJ8fHByaW9yaXR5fGVufDB8fHx8MTY0MDA2OTEwNA&ixlib=rb-1.2.1&q=80&w=1080"
-slug = "konsep-skala-prioritas"
-tag = ["tips investasi", "manajemen keuangan", "cara mengembangkan uang dengan cepat", "Mengelola Keuangan", "dana darurat", "investasi", "investasi pemula"]
-title = "Skala Prioritas: Memahami Pengertian dan Tujuan Menyusun Skala Prioritas dalam Mengelola Keuangan"
+---
+draft: false
+author: Abdul Wahhab
+slug: konsep-skala-prioritas
+title: "Skala Prioritas: Pengertian & Tujuan Menyusun Skala Prioritas Keuangan"
+metaTitle: "Skala Prioritas: Pengertian & Tujuan Menyusun Skala Prioritas Keuangan"
+metaDescription: Skala prioritas adalah urutan cara pengurutan kebutuhan dari
+  yang paling penting hingga yang tidak/ bisa ditunda. Prioritas adalah
+intro: >-
+  Tujuan seseorang menyusun skala prioritas adalah agar mereka paham bagaimana
+  menyusun kebutuhan dari yang terpenting hingga yang bisa ditunda terlebih
+  dahulu karena tidak begitu penting. Hal ini menjadi bagian penting dan
+  berdampak terhadap keputusan keuangan jangka panjang anda.
 
-+++
 
-
+  Akan tetapi, sudahkah kamu paham bagaimana cara menyusun skala prioritas yang baik? Kalau belum yuk kita bahas bersama-sama.
+date: 2021-11-12T03:36:07.000Z
+tag:
+  - tips investasi
+  - manajemen keuangan
+  - cara mengembangkan uang dengan cepat
+  - Mengelola Keuangan
+  - dana darurat
+  - investasi
+  - investasi pemula
+featuredImage:
+  src: https://images.unsplash.com/photo-1530653048-4d8c08678aa0?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxMTc3M3wwfDF8c2VhcmNofDJ8fHByaW9yaXR5fGVufDB8fHx8MTY0MDA2OTEwNA&ixlib=rb-1.2.1&q=80&w=1080
+  alt: Cara menyusun skala prioritas
+  title: prioritas adalah hal yang harus kita dahulukan dibandingkan yang lain
+    karena penting.
+image: https://images.unsplash.com/photo-1530653048-4d8c08678aa0?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxMTc3M3wwfDF8c2VhcmNofDJ8fHByaW9yaXR5fGVufDB8fHx8MTY0MDA2OTEwNA&ixlib=rb-1.2.1&q=80&w=1080
+category:
+  - Keuangan
+---
 Dalam kehidupan sehari-hari, kita tentu saja memiliki berbagai kebutuhan dan keinginan yang ingin kita penuhi. Akan tetapi, sudahkah kamu tau hal mana yang harus kamu penuhi terlebih dahulu? Apabila belum maka kamu perlu memahami konsep skala prioritas yang akan sangat berguna bagi kehidupan sehari-hari anda.
 
 Skala prioritas adalah bagaimana kita membuat sesuatu dari yang terpenting hingga yang tidak begitu penting atau bisa ditunda.
@@ -24,20 +44,13 @@ Karena itu, salah satu tujuan seseorang menyusun skala prioritas adalah agar kep
 
 Supaya kamu lebih paham lagi tentang apa yang dimaksud dengan skala prioritas, yuk ikuti artikel ini sampe akhir.
 
----
-
-## Table of Content
-
-* **Pengertian Skala Prioritas**
-* **Kenapa Kita Harus Membuat Skala Prioritas?**
-* **Faktor  Penting yang Memengaruhi Skala Prioritas**
-* **Menyusun Skala Prioritas**
-* **Skala Prioritas dalam Pengelolaan Uang**
-* **Memulai Investasi untuk Pemula**
-
----
+- - -
 
 ## Pengertian Skala Prioritas
+
+Prioritas adalah sesuatu yang penting atau utama sehingga hal ini menjadi sesuatu yang perlu didahulukan jika dibandignkan yang lain. 
+
+Dalam kehidupan sehari-hari kita seringkali lupa akan priorioritas kita sehingga kita melakukan hal lain yang tidak begitu penting. Agar itu tidak terjadi, maka kita butuh menyusun skala prioritas dengan baik.
 
 Skala prioritas adalah pengurutan kebutuhan berdasarkan tingkat kepentingan dari kebutuhan tersebut agar kita paham mana yang harus dipenuhi terlebih berdasarkan urutan kebutuhan tersebutan.
 
@@ -99,7 +112,7 @@ Dalam mengelola keuangan, kamu sebenarnya memiliki beberapa prioritas dasar yait
 
 Untuk jangka pendek, kita harus berusaha memenuhi kebutuhan dasar dan menyiapkan budget untuk memenuhi kebutuhan ini.
 
-Apabila kita sudah memenuhi hal ini, maka kita baru bisa mulai menyiapkan rencana untuk menghadapi berbagai kondisi tidak terduga di masa mendatang seperti asuransi dan dana darurat agar kita lebih _secure_ dalam menghadapi berbagai kondisi.
+Apabila kita sudah memenuhi hal ini, maka kita baru bisa mulai menyiapkan rencana untuk menghadapi berbagai kondisi tidak terduga di masa mendatang seperti asuransi dan dana darurat agar kita lebih *secure* dalam menghadapi berbagai kondisi.
 
 Setelah hal ini terpenuhi, maka kita bisa mulai menyusun rencana keuangan untuk mencapai berbagai tujuan keuangan yang kita inginkan melalui investasi. Investasi harus menjadi salah satu hal yang anda prioritas karena kita butuh menyiapkan bagaimana keuangan kita di masa mendatang.
 
@@ -117,20 +130,19 @@ Selain itu, di LandX bisnis yang listing merupakan bisnis-bisnis terbaik yang te
 
 Karena itu..
 
-## [Yuk Mulai Investasi Bisnis Menguntungkan di LandX](https://landx.id/project/)
+## [Yuk Mulai Investasi Bisnis Menguntungkan di LandX](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)
 
-[![Mau punya bisnis menguntungkan modal 1 juta aja? ya landX solusinya](https://accountgram-production.sfo2.cdn.digitaloceanspaces.com/landx_ghost/2021/10/Equity-Crowdfunding-di-Indonesia-1--3.png)](https://landx.id/project/#/ximi)
+[![Mau punya bisnis menguntungkan modal 1 juta aja? ya landX solusinya](https://accountgram-production.sfo2.cdn.digitaloceanspaces.com/landx_ghost/2021/10/Equity-Crowdfunding-di-Indonesia-1--3.png)](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)
 
-## [**Mau Berbagai info Terbaru Terkait Investasi? Yuk Follow @landx.id di Instagram**](https://www.instagram.com/landx.id/?utm_medium=copy_link)
+## **[Mau Berbagai info Terbaru Terkait Investasi? Yuk Follow @landx.id di Instagram](https://www.instagram.com/landx.id/?utm_medium=copy_link)**
 
----
+- - -
 
 **Baca Juga:**
 
 * **[Rekomendasi 6  Dessert Segar di Jakarta: Dessert Khas Korea hingga Taiwan](https://landx.id/blog/rekomendasi-6-dessert-segar-khas-korea-di-jakarta-kamu-sudah-cobain/)**
-* [**Franchise Rumah Makan Padang: Melihat Potensi Bisnis Nasi Padang dengan Sistem Franchise**](https://landx.id/blog/membangun-bisnis-rumah-makan-padang-dengan-sistem-franchise/)
+* **[Franchise Rumah Makan Padang: Melihat Potensi Bisnis Nasi Padang dengan Sistem Franchise](https://landx.id/blog/membangun-bisnis-rumah-makan-padang-dengan-sistem-franchise/)**
 
----
+- - -
 
-**#YukPatunganBisnis    #LandX.id    #landx         #landx.id    #InvestasiBisnis  #SecuritiesCrowdfunding   #EquityCrowdfunding    #InvestasiMenguntungkan     #Urundana    #BisnisPatungan    #InvestasiUsaha**
-
+**\#YukPatunganBisnis    #LandX.id    #landx         #landx.id    #InvestasiBisnis  #SecuritiesCrowdfunding   #EquityCrowdfunding    #InvestasiMenguntungkan     #Urundana    #BisnisPatungan    #InvestasiUsaha**
