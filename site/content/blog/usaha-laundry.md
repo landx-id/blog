@@ -115,7 +115,7 @@ Untuk berpartisipasi dalam [patungan bisnis](https://landx.id/project/index.html
 
 [**Jangan Lupa!!! Follow Juga Kami di Instagram @landx.id Untuk Berbagai Informasi Terupdate Seputar Investasi**](https://instagram.com/landx.id?utm_medium=copy_link) **dan Bisnis**
 
-**#LandX.id    #landx         #landx.id    #InvestasiBisnis    #EquityCrowdfunding    #InvestasiMenguntungkan    #Urundana    #BisnisPatungan    #InvestasiUsaha**
+#SekarangBisa
 
 **Baca Juga:**
 
