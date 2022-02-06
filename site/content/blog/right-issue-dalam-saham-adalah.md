@@ -1,18 +1,34 @@
-+++
-author = "Abdul Wahhab"
-category = ["strategi investasi", "Investasi Menguntungkan", "memulai investasi menguntungkan", "investasi", "investasi saham"]
-date = 2021-09-10T06:12:12Z
-metaDescription = "Right issue merupakan yang diberikan kepada investor lama untuk membeli duluan efek yang baru diterbitkan sebelum ditawarkan kepada publik atau stanby buyer"
-draft = false
-image = "https://images.unsplash.com/photo-1517940001917-1c03b8b1b85b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxMTc3M3wwfDF8c2VhcmNofDR8fHNtYXJ0JTIwcGVvcGxlfGVufDB8fHx8MTY0MDI1MTE2Mw&ixlib=rb-1.2.1&q=80&w=1080"
-slug = "right-issue-dalam-saham-adalah"
-tag = ["strategi investasi", "Investasi Menguntungkan", "memulai investasi menguntungkan", "investasi", "investasi saham"]
-title = "Memahami Apa Itu Right Issue dalam Saham dan Pengaruhnya Terhadap Investor"
-
-+++
-
-
 ---
+draft: false
+author: Abdul Wahhab
+slug: right-issue-dalam-saham-adalah
+title: Memahami Apa Itu Right Issue dalam Saham dan Pengaruhnya Harga Saham
+metaTitle: Memahami Apa Itu Right Issue dalam Saham dan Pengaruhnya Harga Saham
+metaDescription: Right issue adalah hak investor lama untuk membeli duluan efek
+  yang baru diterbitkan sebelum ditawarkan kepada publik/ stanby buyer
+intro: >
+  Istilah right semakin sering dibahas belakangan ini  karena Bank Rakyat
+  Indonesia (BRI) berencana untuk menerapkan right issue dalam beberapa waktu ke
+  depan.
+
+
+  Karena itu, mari kita bahas lebih lanjut tentang apa itu right issue dan bagaimana pengaruh kebijakan ini terhadap investasi.
+date: 2021-09-10T06:12:12.000Z
+tag:
+  - strategi investasi
+  - Investasi Menguntungkan
+  - memulai investasi menguntungkan
+  - investasi
+  - investasi saham
+featuredImage:
+  src: https://images.unsplash.com/photo-1517940001917-1c03b8b1b85b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxMTc3M3wwfDF8c2VhcmNofDR8fHNtYXJ0JTIwcGVvcGxlfGVufDB8fHx8MTY0MDI1MTE2Mw&ixlib=rb-1.2.1&q=80&w=1080
+  alt: memahami dampak positif dan negatif right issue terhadap investasi saham anda
+  title: Memahami right issue saham terhadap investasi jangka panjang anda
+image: https://images.unsplash.com/photo-1517940001917-1c03b8b1b85b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxMTc3M3wwfDF8c2VhcmNofDR8fHNtYXJ0JTIwcGVvcGxlfGVufDB8fHx8MTY0MDI1MTE2Mw&ixlib=rb-1.2.1&q=80&w=1080
+category:
+  - Investasi
+---
+- - -
 
 Apabila anda berinvestasi menggunakan instrumen pasar modal seperti saham, anda pasti sering mendengar istilah **right issue saham.**
 
@@ -22,17 +38,7 @@ Istilah ini semakin sering dibahas belakangan ini  karena Bank Rakyat Indonesia 
 
 Untuk lebih lengkapnya, mari kita bahas lebih lanjut tentang apa itu right issue dan bagaimana pengaruh kebijakan ini terhadap investasi.
 
----
-
-## Table of Content
-
-* **Apa Itu Right Issue?**
-* **[Berbagai Bentuk Lain dari Right Issue](#berbagai-bentuk-lain-dari-right-issue)**
-* **[Kenapa Right Issue Terjadi?](#kenapa-right-issue-terjadi ) **
-* **[Apakah Right Issue Menguntungkan Investor?](#apakah-right-issue-menguntungkan-investor)**
-* **[Kesimpulan](#kesimpulan)**
-
----
+- - -
 
 ## Apa Itu Right Issue?
 
@@ -78,18 +84,17 @@ Dalam investasi, anda harus melakukan diversifikasi agar investasi anda menjadi 
 
 Selain itu, dalam sistem ini anda bisa ikut patungan membangun berbagai bisnis dan UKM potensial yang berada di sekitar anda dan bisa ikut menikmati keuntungan dari bisnis tersebut.
 
-**[Yuk Ikut Patungan Bisnis Menguntungkan Bareng LandX.](https://landx.id/project/)**
+## [Yuk Temukan Bisnis Terbaik untuk Investasi Jangka Panjang Kamu di LandX](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)
 
-[**Yuk Follow Instagram Kami @landx.id Supaya Anda Tidak Ketinggalan Informasi Terbaru Seputar Investasi dan Bisnis**](https://www.instagram.com/landx.id/?utm_medium=copy_link)
+[![Yuk mulai patungan bisnis menguntungkan jangka panjang bersama LandX](https://accountgram-production.sfo2.cdn.digitaloceanspaces.com/landx_ghost/2021/09/Equity-Crowdfunding-di-Indonesia-1--3.png)](https://landx.id/project/?
 
----
+- - -
 
 **Baca Juga:**
 
 * [Untuk Para Investor Pemula, Pahami Apa Itu Agio Saham dan Berbagai Jenisnya](https://landx.id/blog/kenali-apa-itu-agio-saham-dalam-investasi/)
 * [Volatilitas: Definisi, Jenis, dan Penyebab Terjadinya Volatilitas](https://landx.id/blog/volatilitas-definisi-jenis-cara-dan-penyebab-terjadinya-volatilitas/)
 
----
+- - -
 
-#YukPatunganBisnis #LandX.id    #landx.id    #InvestasiBisnis    #EquityCrowdfunding    #InvestasiMenguntungkan    #Urundana    #BisnisPatungan    #InvestasiUsaha
-
+\#YukPatunganBisnis #LandX.id    #landx.id    #InvestasiBisnis    #EquityCrowdfunding    #InvestasiMenguntungkan    #Urundana    #BisnisPatungan    #InvestasiUsaha
