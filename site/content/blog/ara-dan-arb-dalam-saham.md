@@ -1,34 +1,34 @@
-+++
-author = "Abdul Wahhab"
-category = ["tips investasi", "Cara Investasi Saham", "investasi", "investasi jangka panjang"]
-date = 2021-08-10T08:50:24Z
-metaDescription = "ARA (Auto Reject Atas) dan ARB (Auto Reject Bawah) adalah istilah penting dalam dunia saham terkait batas pergerakan suatu saham | Batas ARA & ARB saham"
-draft = false
-slug = "ara-dan-arb-dalam-saham"
-tag = ["tips investasi", "Cara Investasi Saham", "investasi", "investasi jangka panjang"]
-title = "Memahami Apa Itu ARA dan ARB dalam Investasi Saham yang Sangat Penting Dipahami Pemula"
-
-+++
-
-
+---
+draft: false
+author: Abdul Wahhab
+slug: ara-dan-arb-dalam-saham
+title: Memahami Apa Itu ARA dan ARB dalam Saham yang Penting Bagi Pemula
+metaTitle: Memahami Apa Itu ARA dan ARB dalam Saham yang Penting Bagi Pemula
+metaDescription: ARA (Auto Reject Atas) dan ARB (Auto Reject Bawah) adalah
+  istilah penting dalam dunia saham terkait  Batas ARA & ARB saham
+intro: ARA dan ARB adalah istilah penting dalam saham yang harus kamu pahami.
+  Karena itu, mari kita bahas tentang apa itu ARA dan ARB dalam saham.
+date: 2021-08-10T08:50:24.000Z
+tag:
+  - tips investasi
+  - Cara Investasi Saham
+  - investasi
+  - investasi jangka panjang
+category:
+  - Keuangan
+  - Investasi
+featuredImage:
+  src: https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80
+  alt: "Memahami konsep ARA saham dan ARB saham "
+  title: "Kapan ARA dan ARB Saham Terjadi? "
+---
 Dalam beberapa waktu belakangan,  Auto Reject Atas (ARA) dan Auto Reject Bawah (ARB) merupakan istilah yang sangat sering kamu dengar terutama apabila anda merupakan investor saham.
 
 Salah satu yang paling banyak diperbincangkan adalah Bukalapak yang IPO baru-baru ini dan resmi tercatat di Bursa Efek Indonesia (BEI) pada 6 Agustus lalu dan mengalami ARA karena masih melonjaknya peminat dari saham ini.
 
 ARA dan ARB merupakan istilah yang akan sering anda temui apabila anda terjun ke dunia saham sebagai investor maupun trader. Oleh sebab itu mari kita pelajari istilah ini secara lebih lanjut agar mempermudah anda saat memasuki dunia investasi saham.
 
----
-
-## Table of Content
-
-* **[ARA (Auto Reject Atas) dalam Saham](https://landx.id/blog/ara-dan-arb-dalam-saham//#ara-auto-reject-atas-dalam-saham)**
-* **[ARB (Auto Reject Bawah) dalam Saham](https://landx.id/blog/ara-dan-arb-dalam-saham/#arb-auto-reject-bawa-dalam-saham)**
-* **[Bisakah Kita Menjual Saham Saat ARB Terjadi?](https://landx.id/blog/ara-dan-arb-dalam-saham/#bisakah-kita-menjual-saham-saat-arb-terjadi)**
-* [**Kenapa ARB Saham Bisa Terjadi?**](https://landx.id/blog/ara-dan-arb-dalam-saham/#kenapa-arb-saham-bisa-terjadi)
-* **[Pentingnya ARA dan ARB](https://landx.id/blog/ara-dan-arb-dalam-saham/#pentingnya-ara-dan-arb)**
-* **[Kesimpulan](#kesimpulanhttps://landx.id/blog/ara-dan-arb-dalam-saham/)**
-
----
+- - -
 
 ## ARA (Auto Reject Atas) dalam Saham
 
@@ -36,13 +36,13 @@ Auto Reject Atas (ARA) adalah batas kenaikan harga tertinggi dari saham. Artinya
 
 Batas atas kenaikan harga saham atau ARA mengatur berapa persen kenaikan maksimal dari suatu saham dalam satu hari. Berdasarkan Keputusan Direksi Bursa Efek Indonesia Nomor Kep-00023/BEI/03-2020 berikut aturan ARA suatu saham:
 
-![Aturan ARA (auto reject atas) dalam saham agar harga saham terkendendali](https://accountgram-production.sfo2.cdn.digitaloceanspaces.com/landx_ghost/2021/09/aturan-ara-berdasarkan-Kep-00023-BEI-03-2020.png)
+![Aturan ARA (auto reject atas) dalam saham agar harga saham terkendendali](https://accountgram-production.sfo2.cdn.digitaloceanspaces.com/landx_ghost/2021/09/aturan-ara-berdasarkan-Kep-00023-BEI-03-2020.png "Memahami Konsep ARA dan ARB")
 
 Aturan ARA sesuai dengan ketentuan BEI
 
 Berdasarkan aturan ini, maka kita bisa melihat bahwa batas kenaikan maksimal saham berbeda-beda tergantung dengan harga dari suatu saham.
 
-Biasanya, saham yang baru IPO atau _go-public_ seringkali mengalami ARA karena banyak orang ingin memiliki saham tersebut pada saat penawaran perdana di mana harga saham cenderung masih murah.
+Biasanya, saham yang baru IPO atau *go-public* seringkali mengalami ARA karena banyak orang ingin memiliki saham tersebut pada saat penawaran perdana di mana harga saham cenderung masih murah.
 
 Contohnya adalah saham Bukalapak yang baru resmi tercatat di BEi dengan harga Rp 850 telah mengalami kenaikan harga yang signifikan dalam selang 3 hari hingga menyentuh harga Rp 1.325 pada hari ini (9/8) yang menyebabkan saham ini ARA.
 
@@ -54,8 +54,6 @@ Seperti yang kita tahu, kenaikan signifikan ini bisa terjadi karena berbagai hal
 
 Kalau ARA merupakan kenaikan harga yang menguntungkan para investor, maka selanjutnya mari kita bahas ARB atau Auto Reject Bawah yang perhatian penting juga bagi para investor.
 
-
-
 ## ARB (Auto Reject Bawah) dalam Saham
 
 ARB adalah Auto Reject Bawah yang artinya berkebalikan dengan ARA yang sudah kita bahas sebelumnya. ARB merupakan batas penurunan maksimum dari suatu saham dalam satu hari, dengan kata lain ARB merupakan batas bawah penurunan saham harga saham dalam satu hari.
@@ -64,7 +62,7 @@ Batas ARB saham sendiri mengalami beberapa perubahan dalam beberapa waktu belaka
 
 Keputusan ini diambil karena pandemi membuat banyak sekali saham mengalami penurunan yang cukup signifikan sehingga BEI membentuk kebijakan baru. Berikut ketentuan ARB berdasarkan Keputusan Direksi Bursa Efek Indonesia Nomor Kep-00023/BEI/03-2020:
 
-![ketentuan-ARB atau auto reject bawah)-berdasarkan-keputusan-direksi-bursa-efek-indonesia-nomor-Kep-00023-BEI-02-2020-1](https://accountgram-production.sfo2.cdn.digitaloceanspaces.com/landx_ghost/2021/09/ketentuan-ARB-berdasarkan-keputusan-direksi-bursa-efek-indonesia-nomor-Kep-00023-BEI-02-2020-1.png)
+![ketentuan-ARB atau auto reject bawah)-berdasarkan-keputusan-direksi-bursa-efek-indonesia-nomor-Kep-00023-BEI-02-2020-1](https://accountgram-production.sfo2.cdn.digitaloceanspaces.com/landx_ghost/2021/09/ketentuan-ARB-berdasarkan-keputusan-direksi-bursa-efek-indonesia-nomor-Kep-00023-BEI-02-2020-1.png "ARB artinya")
 
 Berdasarkan aturan ini, maka kita bisa melihat bahwa nilai terendah dari saham adalah Rp50 dan tidak akan turun lagi apabila sudah mencapai titik ini. Saham yang sudah mencapai titik ini cenderung akan sulit dijual karena sudah tidak diminati lagi oleh para investor.
 
@@ -92,17 +90,16 @@ Menentukan saham terbaik untuk investasi anda tentu saja bukanlah hal yang mudah
 
 Untuk pemula yang baru memulai investasi, anda bisa mulai dengan investasi yang lebih mudah dianalisis seperti investasi ke dalam bisnis yang skalanya lebih kecil dan familiar bagi anda. Karena sebagai sebagai pemula anda harus mulai dengan sesuatu yang anda pahami dengan baik terlebih dahulu.
 
-Tapi anda harus tahu bahwa sekarang anda investasi yang mudah dan cocok untuk pemula yaitu[ _Equity Crowdfunding (ECF)_](https://landx.id/) __ yang konsepnya hampir sama dengan investasi saham.
+Tapi anda harus tahu bahwa sekarang anda investasi yang mudah dan cocok untuk pemula yaitu[ *Equity Crowdfunding (ECF)*](https://landx.id/) __ yang konsepnya hampir sama dengan investasi saham.
 
 Karena anda akan mendapatkan bagian kepemilikan dari sebuah bisnis yang sudah anda danai dan bisa mendapatkan dividen dari keuntungan bisnis tersebut. Kalau anda mau investasi bisnis jangka panjang dengan modal kecil….
 
-[**Yuk Investasi Bisnis Jangka Panjang Dengan Modal Kecil Bersama LandX.**](https://landx.id/project/index.html)
+**[Yuk Investasi Bisnis Jangka Panjang Dengan Modal Kecil Bersama LandX.](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)**
 
-[**Yuk Follow Instagram @landx.id Untuk Berbagai Info Menarik Seputar Keuangan Lainnya**](https://instagram.com/landx.id?utm_medium=copy_link)
+**[Yuk Follow Instagram @landx.id Untuk Berbagai Info Menarik Seputar Keuangan Lainnya](https://instagram.com/landx.id?utm_medium=copy_link)**
 
-**#LandX.id    #landx.id    #InvestasiBisnis    #EquityCrowdfunding    #InvestasiMenguntungkan    #Urundana    #BisnisPatungan    #InvestasiUsaha**
+**\#LandX.id    #landx.id    #InvestasiBisnis    #EquityCrowdfunding    #InvestasiMenguntungkan    #Urundana    #BisnisPatungan    #InvestasiUsaha**
 
 **Baca Juga:**
 
-* [**Kenali 4 Instrumen Pasar Modal Sebelum Memutuskan Instrumen Pasar Modal Terbaik Anda**](https://landx.id/blog/kenali-4-instrumen-pasar-modal-sebelum-memutuskan-instrumen-pasar-modal-terbaik-anda/)
-
+* **[Kenali 4 Instrumen Pasar Modal Sebelum Memutuskan Instrumen Pasar Modal Terbaik Anda](https://landx.id/blog/kenali-4-instrumen-pasar-modal-sebelum-memutuskan-instrumen-pasar-modal-terbaik-anda/)**
