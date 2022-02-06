@@ -31,19 +31,11 @@ Saat ingin memulai suatu bisnis, anda tentu saja menginginkan keuntungan yang op
 
 Salah satu bisnis yang terus berkembang dari ke waktu ke waktu adalah usaha laundry. Usaha laundry semakin berkembang karena permintaan akan jasa ini terus meningkat dari waktu ke waktu karena laundry menjadi solusi yang mempermudah hidup mereka. Sekarang laundry menjadi bagian penting dari gaya hidup masyarakat yang ingin serba praktis.
 
-Hal ini membuat bisnis laundry semakin berkembang dengan layanan yang semakin beragam pula seperti layanan laundry dengan sistem koin yang belakangan cukup menjamur di Indonesia.
+Laundry adalah layanan yang sangat dicari banyak orang saat ini sehingga usaha atau bisnis laundry pasti selalu ada diberbagain kawasan strategis. Tingginya permintaan membuat usaha laundry semakin berkembang dengan layanan yang semakin beragam pula seperti layanan laundry dengan sistem koin yang belakangan cukup menjamur di Indonesia.
 
 Selain itu, kini juga muncul  **[laundry ramah lingkungan](https://landx.id/project/index.html) ** sebagai usaha yang _sustainable_ untuk menjaga kelestarian bumi. Laundry ramah lingkungan semakin berkembang karena semakin banyak konsumen beralih ke produk yang lebih ramah lingkungan sehingga bisnis ini memiliki potensi perkembangan yang besar di masa mendatang.
 
 Apabila anda ingin memulai usaha laundry, mari kita bahas lebih dalam tentang membangun usaha laundry yang menguntungkan.
-
-## Table of Content
-
-* **[Kenapa Usaha Laundry?](#kenapa-usaha-laundry)**
-* [**Persaingan dalam Usaha Laundry**](#persaingan-dalam-usaha-laundry)
-* **[Memberikan Sesuatu yang Lebih untuk Konsumen](#memberikan-sesuatu-yang-lebih-untuk-konsumen)**
-* **[Pertimbangan dalam Memulai Usaha Laundry](#pertimbangan-dalam-memulai-usaha-laundry)**1. **[Modal Usaha Laundry](#modal-usaha-laundry)**2. **[Lokasi Bisnis](#lokasi-bisnis)**3. **[Memahami Tingkat Kompetisi](#memahami-tingkat-kompetisi)**4. **[Menentukan Jenis Usaha Laundry](#menentukan-jenis-usaha-laundry)**
-* **[Risiko Bisnis Laundry](#risiko-bisnis-laundry)**
 
 ## Kenapa Usaha Laundry?
 
@@ -86,6 +78,8 @@ Apabila anda ingin memulai usaha laundry, berikut beberapa hal yang harus anda p
 Modal merupakan hal penting yang harus anda perhatikan saat memulai bisnis jenis apapun. Karena itu, anda harus menyesuaikan modal yang anda miliki dengan skala laundry yang akan buka. Dalam bisnis laundry, anda membutuhkan modal untuk berbagai peralatan seperti mesin cuci dan mesin setrika yang menjadi kunci utama dari proses layanan anda.
 
 Akan tetapi, masih banyak hal lain yang harus anda anggarkan seperti biaya karyawan, sewa lokasi, dan biaya listrik yang harus anda keluarkan. Oleh sebab itu, sebaiknya anda harus bisa mengatur keuangan dengan baik.
+
+Karena itu, modal bisnis laundry ini akan sangat bergantung dengan jenis laundry seperti apa yang ini kamu buka nantinya.
 
 ### Lokasi Bisnis
 
