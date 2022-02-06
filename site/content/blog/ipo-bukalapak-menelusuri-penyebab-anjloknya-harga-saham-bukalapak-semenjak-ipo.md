@@ -1,15 +1,29 @@
-+++
-author = "Vlora Riyandi"
-category = ["IPO Bukalapak", "investasi bisnis", "Cara Investasi Saham", "investasi saham"]
-date = 2021-12-20T09:49:07Z
-metaDescription = "Walaupun sempat ARA di awal IPO (Initial Public Offering), saham Bukalapak kini terus mengalami ARB, membuat banyak investor merasa dirugikan oleh hal ini."
-draft = false
-image = "https://images.unsplash.com/photo-1612178991541-b48cc8e92a4d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxMTc3M3wwfDF8c2VhcmNofDF8fHN0b2NrJTIwZXhjaGFuZ2V8ZW58MHx8fHwxNjM5OTkzODAx&ixlib=rb-1.2.1&q=80&w=1080"
-slug = "ipo-bukalapak-menelusuri-penyebab-anjloknya-harga-saham-bukalapak-semenjak-ipo"
-tag = ["IPO Bukalapak", "investasi bisnis", "Cara Investasi Saham", "investasi saham"]
-title = "IPO Bukalapak: Menelusuri Penyebab Anjloknya Harga Saham Bukalapak Semenjak IPO"
-
-+++
+---
+draft: false
+author: Vlora Riyandi
+slug: ipo-bukalapak-menelusuri-penyebab-anjloknya-harga-saham-bukalapak-semenjak-ipo
+title: "IPO Bukalapak: Menelusuri Anjloknya Harga Saham Bukalapak Sejak IPO"
+metaTitle: "IPO Bukalapak: Menelusuri Anjloknya Harga Saham Bukalapak Sejak IPO"
+metaDescription: Walaupun sempat ARA di awal IPO (Initial Public Offering),
+  saham Bukalapak (BUKA) kini terus mengalami ARB.
+intro: Sejak Bukalapak IPO dengan kode saham BUKA, harga saham Bukalapak memang
+  sempat mengalami ARA di beberapa hari awal. Namun, selanjutnya harga saham
+  BUKA terus turun hingga hari ini. Karena itu, yuk kita telusuri penyebab saham
+  ini terus turun.
+date: 2021-12-20T09:49:07.000Z
+tag:
+  - IPO Bukalapak
+  - investasi bisnis
+  - Cara Investasi Saham
+  - investasi saham
+featuredImage:
+  src: https://images.unsplash.com/photo-1612178991541-b48cc8e92a4d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxMTc3M3wwfDF8c2VhcmNofDF8fHN0b2NrJTIwZXhjaGFuZ2V8ZW58MHx8fHwxNjM5OTkzODAx&ixlib=rb-1.2.1&q=80&w=1080
+  alt: Harga saham BUKA terus turun semenjak IPO
+  title: Saham Bukalapak Sejak IPO Terus Turun
+image: https://images.unsplash.com/photo-1612178991541-b48cc8e92a4d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxMTc3M3wwfDF8c2VhcmNofDF8fHN0b2NrJTIwZXhjaGFuZ2V8ZW58MHx8fHwxNjM5OTkzODAx&ixlib=rb-1.2.1&q=80&w=1080
+category:
+  - Investasi
+---
 
 
 Walaupun sempat ARA di awal IPO (_Initial Public Offering), **saham Bukalapak**_ kini terus mengalami ARB hingga membuat banyak investor merasa dirugikan oleh hal ini.
@@ -18,18 +32,7 @@ Emiten _e-commerce_ unicorn, BUKA dari Bukalapak menyentuh level paling rendah b
 
 Siapa yang tidak menantikan _initial public offering_ (IPO) dari perusahaan dengan berstatus unicorn di Indonesia ini. Namun, kini beberapa orang menganggap Bukapalak belum dapat memenuhi ekspektasi investor. Simak kisah BUKA dari awal IPO hingga saat ini.
 
----
-
-## Table of Content
-
-* **[Harga Saham Bukalapak Terus Turun Semenjak IPO](https://landx.id/blog/ipo-bukalapak-menelusuri-penyebab-anjloknya-harga-saham-bukalapak-semenjak-ipo/#harga-saham-bukalapak-terus-turun-semenjak-ipo)**
-* **[Saham Bukalapak ARB Berturut-turut, Kenapa?](https://landx.id/blog/ipo-bukalapak-menelusuri-penyebab-anjloknya-harga-saham-bukalapak-semenjak-ipo/#saham-bukalapak-arb-berturut-turut-kenapa)**
-* **Potensi Saham BUKA**
-* **[Tips Beli Saham IPO](https://landx.id/blog/ipo-bukalapak-menelusuri-penyebab-anjloknya-harga-saham-bukalapak-semenjak-ipo/#tips-beli-saham-ipo)**
-* **[Berinvestasi Adalah Tentang Melihat ke Depan](https://landx.id/blog/ipo-bukalapak-menelusuri-penyebab-anjloknya-harga-saham-bukalapak-semenjak-ipo/#berinvestasi-adalah-tentang-melihat-ke-depan)**
-* **[Investasi dengan Dividen Rutin](https://landx.id/blog/ipo-bukalapak-menelusuri-penyebab-anjloknya-harga-saham-bukalapak-semenjak-ipo/#investasi-dengan-dividen-rutin)**
-
----
+- - -
 
 ## Harga Saham Bukalapak Terus Turun Semenjak IPO
 
@@ -145,9 +148,9 @@ Penawaran saham terbatas dan peminat bisnis yang banyak buat kamu harus sigap. G
 
 Karena itu,
 
-## [Kenalan yuk dengan bisnisnya untuk memutuskan apakah bisnis kapal tongkang batubara suatu yang cocok dengan kamu, sebelum kehabisaan!](https://landx.id/project/)
+## [Kenalan yuk dengan bisnisnya untuk memutuskan apakah bisnis kapal tongkang batubara suatu yang cocok dengan kamu, sebelum kehabisaan!](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)
 
-[![Bagaimana? Kamu lebih suka bisnis dengan buyback guarantee atau yang bisa disimpan dalam jangka panjang? Apapun pilihan kamu.. Yuk Patungan  dengan Keuntungan Menjanjikan Bareng LandX](https://accountgram-production.sfo2.cdn.digitaloceanspaces.com/landx_ghost/2021/10/Equity-Crowdfunding-di-Indonesia-1--3.png)](http://landx.id/project/)
+[![Bagaimana? Kamu lebih suka bisnis dengan buyback guarantee atau yang bisa disimpan dalam jangka panjang? Apapun pilihan kamu.. Yuk Patungan  dengan Keuntungan Menjanjikan Bareng LandX](https://accountgram-production.sfo2.cdn.digitaloceanspaces.com/landx_ghost/2021/10/Equity-Crowdfunding-di-Indonesia-1--3.png)](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)
 
 #YukPatunganBisnis
 
