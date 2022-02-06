@@ -1,14 +1,27 @@
-+++
-author = "Abdul Wahhab"
-category = ["surat berharga", "kumpulan surat berharga", "investasi", "investasi bisnis", "Equity Crowdfunding"]
-date = 2021-05-25T04:18:10Z
-metaDescription = "Surat berharga merupakan sesuatu hal yang sangat dekat dengan kehidupan sehari-hari anda. Oleh sebab itu pahami jenis surat berharga untuk investasi anda"
-draft = false
-slug = "pahami-apa-itu-surat-berharga-dan-jenis-jenis-surat-berharga"
-tag = ["surat berharga", "kumpulan surat berharga", "investasi", "investasi bisnis", "Equity Crowdfunding"]
-title = "Pahami Apa Itu Surat Berharga dan Jenis-Jenis Surat Berharga"
-
-+++
+---
+draft: false
+author: Abdul Wahhab
+slug: pahami-apa-itu-surat-berharga-dan-jenis-jenis-surat-berharga
+title: Pahami Apa Itu Surat Berharga dan Jenis-Jenis Surat Berharga
+metaTitle: Pahami Apa Itu Surat Berharga dan Jenis-Jenis Surat Berharga
+metaDescription: Kenali jenis-jenis surat berharga dan surat-surat berharga untuk investasi anda
+intro: "Surat berharga adalah salah satu instrumen yang bisa dijadikan instrumen
+  investasi. Karena itu yuk kenali berbagai jenis surat berharga yang mungkin
+  bisa jadi instrumen investasi anda. "
+date: 2021-05-25T04:18:10.000Z
+tag:
+  - surat berharga
+  - kumpulan surat berharga
+  - investasi
+  - investasi bisnis
+  - Equity Crowdfunding
+category:
+  - Investasi
+featuredImage:
+  src: https://images.unsplash.com/photo-1516409590654-e8d51fc2d25c?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1126&q=80
+  alt: "Berbagai jenis surat berharga yang harus kamu kenal "
+  title: Mengenal berbagai jenis surat berharga yang harus kamu kenali
+---
 
 
 Dalam kehidupan sehari-hari, anda tentu sering mendengar istilah surat berharga.
@@ -18,17 +31,6 @@ Tapi sudahkah anda tau apa itu surat berharga dan berbagai jenisnya? Kalau belum
 Surat berharga merupakan dokumen yang sering anda temui dalam kehidupan sehari-hari terutama berkaitan dengan perdagangan karena surat berharga juga sering digunakan sebagai alat pembayaran dan transaksi.
 
 Surat berharga memiliki nilai yang dilindungi oleh hukum sehingga diakui oleh negara.
-
----
-
-## Table of Content
-
-* **[Pengertian Surat Berharga](#pengertian-surat-berharga)**
-* **[Ciri-Ciri Surat Berharga](#ciri-ciri-surat-berharga)**
-* **[Jenis-Jenis Surat Berharga](#jenis-jenis-surat-berharga) **
-* **[Surat Berharga Sesuai KUHD](#surat-berharga-sesuai-kuhd)**
-* **[Surat Berharga Di Luar KUHD](#surat-berharga-di-luar-kuhd)**
-* **[Kesimpulan](#kesimpulan ) **
 
 ---
 
@@ -105,9 +107,9 @@ Surat saham dan obligasi merupakan dua jenis yang bisa anda jadikan instrumen in
 
 Saat ini tersedia sangat banyak pilihan investasi yang bisa anda mulai, namun masih belum menemukan jenis investasi yang cocok mungkin anda bisa mulai dengan investasi bisnis lewat equity crowdfunding di [LandX](https://landx.id/)
 
-[LandX](https://landx.id/) memberikan anda kesempatan untuk ikut berinvestasi ke dalam berbagai bisnis menguntungkan yang bisa anda mulai dengan modal kecil.
+[LandX](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog) memberikan anda kesempatan untuk ikut berinvestasi ke dalam berbagai bisnis menguntungkan yang bisa anda mulai dengan modal kecil.
 
-## [Yuk Mulai Investasi Bisnis Modal Kecil di LandX](https://landx.id/)
+## [Yuk Mulai Investasi Bisnis Modal Kecil di LandX](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)
 
 ---
 
