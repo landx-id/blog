@@ -40,7 +40,7 @@ Untuk lebih lengkapnya, mari kita bahas lebih lanjut tentang apa itu right issue
 
 - - -
 
-## Apa Itu Right Issue?
+## Apa Itu Right Issue dalam Saham?
 
 Berdasarkan Keputusan Badan Pengawasan Pasar Modal Nomor 26 Tahun 2003, right issue adalah hak yang merekat pada saham yang memungkinkan pemegang saham yang sudah ada untuk membeli efek baru.
 
@@ -68,9 +68,9 @@ Selain itu, investor lama yang tidak mau membeli saham baru dapat menjual hak me
 
 Right issue juga sering membawa sentimen positif sehingga bisa membuat harga saham menjadi meningkat.
 
-Akan tetapi, kebijakan ini juga bisa membawa dampak negatif seperti dilusi atau di mana persentase kepemilikan dari investor lama akan mengalami penurunan.
+Akan tetapi, kebijakan ini juga bisa membawa dampak negatif seperti dilusi atau di mana persentase kepemilikan dari investor lama akan mengalami penurunan. Hal ini akan terjadi apabila investor lama tidak ikut membeli saham yang baru terbit sehingga persentase kepemilikan mereka mengalami delusi.
 
-Hal ini akan terjadi apabila investor lama tidak ikut membeli saham yang baru terbit sehingga persentase kepemilikan mereka mengalami delusi.
+Cara menebus right issue dalam saham bagi investor biasanya dilakukan beberapa waktu sebelum right issue investor akan diberikan pemberitahuan agar mereka bisa memberi saham tersebut.
 
 ## Kesimpulan
 
