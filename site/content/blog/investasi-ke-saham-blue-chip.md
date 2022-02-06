@@ -1,17 +1,30 @@
-+++
-author = "Abdul Wahhab"
-category = ["Cara Investasi Saham", "investasi saham", "Instrumen Investasi", "instrumen pasar modal", "investasi terbaik"]
-date = 2021-12-17T18:01:47Z
-metaDescription = "Apabila kamu pemula yang masih bingung cara berinvestasi ke dalam saham seperti apa yang bisa memberikan keuntungan, maka saham bluechip bisa jadi pilihan"
-draft = false
-image = "https://images.unsplash.com/photo-1554260570-e9689a3418b8?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxMTc3M3wwfDF8c2VhcmNofDE0fHxzdG9ja3xlbnwwfHx8fDE2Mzk3NjM2NjY&ixlib=rb-1.2.1&q=80&w=1080"
-slug = "investasi-ke-saham-blue-chip"
-tag = ["Cara Investasi Saham", "investasi saham", "Instrumen Investasi", "instrumen pasar modal", "investasi terbaik"]
-title = "Mau Mulai Investasi Saham? Yuk Cek Saham Blue Chip untuk Pemula"
-
-+++
-
-
+---
+draft: false
+author: Abdul Wahhab
+slug: investasi-ke-saham-blue-chip
+title: "Saham Blue Chip 2021: Yuk Cek Saham Blue Chip untuk Pemula"
+metaTitle: "Saham Blue Chip 2021: Yuk Cek Saham Blue Chip untuk Pemula"
+metaDescription: Apabila kamu pemula di investasi saham, maka saham blue chip
+  adalah pilihan saham yang cocok
+intro: Saham blue chip adalah saham yang memiliki kualitas baik berdasarkan
+  beberapa kriteria seperti fundamental dan berbagai rasio keuangan untuk
+  menghitung valuasi suatu saham. Karena itu, yuk cek daftar saham bluechip
+  untuk investasi kamu.
+date: 2021-12-17T18:01:47.000Z
+tag:
+  - Cara Investasi Saham
+  - investasi saham
+  - Instrumen Investasi
+  - instrumen pasar modal
+  - investasi terbaik
+featuredImage:
+  src: https://images.unsplash.com/photo-1554260570-e9689a3418b8?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxMTc3M3wwfDF8c2VhcmNofDE0fHxzdG9ja3xlbnwwfHx8fDE2Mzk3NjM2NjY&ixlib=rb-1.2.1&q=80&w=1080
+  alt: daftar saham blue chip lq 45 yang bisa jadi pilihan investasi saham
+  title: Mengenal saham-saham blue chip 2022 untuk investasi kamu
+image: https://images.unsplash.com/photo-1554260570-e9689a3418b8?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxMTc3M3wwfDF8c2VhcmNofDE0fHxzdG9ja3xlbnwwfHx8fDE2Mzk3NjM2NjY&ixlib=rb-1.2.1&q=80&w=1080
+category:
+  - Investasi
+---
 Apabila kamu pemula yang masih bingung cara berinvestasi ke dalam saham seperti apa yang bisa memberikan keuntungan, maka saham blue chip bisa jadi pilihan bagi investor pemula.
 
 Saham blue chip adalah saham yang memiliki kualitas baik berdasarkan beberapa kriteria seperti fundamental dan berbagai rasio keuangan untuk menghitung valuasi suatu saham.
@@ -19,23 +32,13 @@ Saham blue chip adalah saham yang memiliki kualitas baik berdasarkan beberapa kr
 Oleh sebab itu, terdapat beberapa daftar saham blue chip yang jadi incaran investor pemula
 
 ---
-
-## Table of Content
-
-* **Mulai Berinvestasi ke Saham Blue Chip**
-* **[Definisi Saham Blue Chip](https://landx.id/blog/investasi-ke-saham-blue-chip/#definisi-saham-blue-chip)**
-* **[Kriteria Saham Blue Chip](https://landx.id/blog/investasi-ke-saham-blue-chip/#kriteria-saham-blue-chip)**
-* **[Keuntungan Berinvestasi ke Saham Blue Chip](https://landx.id/blog/investasi-ke-saham-blue-chip/#keuntungan-berinvestasi-ke-saham-blue-chip)**
-
----
-
-## Mulai Berinvestasi ke Saham Blue Chip
+## Saham Blue Chip untuk Investasi
 
 [**Investor pemula**](https://landx.id/blog/tag/investor-pemula/) biasanya masih mengalami kesulitan dalam menentukan ke mana harus berinvestasi. Karena minimnya pengalaman dan kemampuan dalam mengatur keuangan, banyak pakar yang menyarankan agar para investor pemula sebaiknya memilih medan investasi yang lebih rendah risiko.
 
 Rekomendasi yang paling sering diberikan salah satunya adalah tabungan deposito, karena sangat mudah diterapkan dan hampir tidak memiliki risiko apapun. Namun, bagi yang bosan dengan deposito dan ingin mencoba saham, investor pemula disarankan agar langsung mencoba saham blue chip. Apa itu saham blue chip?
 
-## Definisi Saham Blue Chip
+## Saham Blue Chip Adalah
 
 Saham blue chip adalah jenis saham yang berasal dari perusahaan-perusahaan yang dapat dikatakan mapan serta memiliki catatan kinerja keuangan yang stabil dan prima. Biasanya merupakan perusahaan yang telah beroperasi selama berdekade lamanya dan terbukti mampu terus bertahan dalam menghadapi berbagai krisis.
 
@@ -43,9 +46,9 @@ Istilah ini pertama kali digunakan di Amerika Serikat pada tahun 1923. Kala itu,
 
 Istilah “blue chip” sendiri mengacu pada referensi chip pada permainan poker, di mana chip yang berwarna biru memiliki nilai tukar yang lebih tinggi dibanding chip berwarna merah dan putih.
 
-Meski begitu, saat ini saham blue chip tidak hanya dimaknai sebagai saham-saham dengan nilai tinggi, namun lebih dimaknai sebagai saham berkualitas baik yang berasal dari perusahaan-perusahaan mapan yang ketahanannya telah teruji selama bertahun-tahun.
+Meski begitu, saat ini blue chip dalam saham tidak hanya dimaknai sebagai saham-saham dengan nilai tinggi, namun lebih dimaknai sebagai saham berkualitas baik yang berasal dari perusahaan-perusahaan mapan yang ketahanannya telah teruji selama bertahun-tahun.
 
-## Kriteria Saham Blue Chip
+## Kriteria Blue Chip dalam Investasi Saham
 
 Ada beberapa hal yang menjadi kriteria atau ciri-ciri dari saham blue chip yang dapat diketahui. Perlu dicatat bahwa seluruh **kriteria berikut bersifat kumulatif**, artinya seluruh kriteria harus terpenuhi agar dapat masuk ke dalam saham blue chip.
 
