@@ -51,7 +51,7 @@ Menteri Komunikasi dan Informatika Johnny G Plate mengungkapkan bahwa Presiden R
 
 **Titah ini diturunkan** karena maraknya tindak pindana yang dilakukan oleh perusahaan pinjaman *online*, terutama yang ilegal. Hal ini diungkap pada rapat terbatas yang membahas tata kelola pinjaman *online* yang dihadiri oleh Kementerian Keuangan, Kominfo serta OJK. Diharapkan moratorium ini dapat membatasi gerak aktivitas pinjaman *online* ilegal serta memperkuat perlindungan konsumen finansial Indonesia.
 
-## Pinjol Legal Berkurang? Jangan Sampai Beralih dan Terjerat Pinjol Ilegal
+## Pinjol Legal OJK Berkurang? Jangan Sampai Beralih dan Terjerat Pinjol Ilegal
 
 Jangan sampai kamu terjerat pinjam online ilegal, angka yang kamu ajukan mungkin relatif kecil, namun cara menagihnya bisa menjadi gaduh dan menimbulkan teriakan. **Pinjol ilegal** bahkan sampai dicetus sebagai premanisme digital.
 
