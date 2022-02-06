@@ -1,20 +1,38 @@
-+++
-author = "Abdul Wahhab"
-category = ["investasi", "Investasi untuk Pemula", "Investasi Menguntungkan", "memulai investasi menguntungkan"]
-date = 2021-09-27T11:40:53Z
-metaDescription = "Investasi leher ke atas adalah investasi yang harus anda lakukan kepada bagian atas tubuh yaitu otak atau pikiran|Simak cara investasi lahir ke atas"
-draft = false
-image = "https://images.unsplash.com/photo-1522211988038-6fcbb8c12c7e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxMTc3M3wwfDF8c2VhcmNofDUyfHxsZWFybmluZ3xlbnwwfHx8fDE2NDAxNTk2ODU&ixlib=rb-1.2.1&q=80&w=1080"
-slug = "memahami-apa-itu-investasi-leher-ke-atas-yang-sangat-penting-dipahami-investor-pemula"
-tag = ["investasi", "Investasi untuk Pemula", "Investasi Menguntungkan", "memulai investasi menguntungkan"]
-title = "Memahami Apa Itu Investasi Leher ke Atas yang Sangat Penting Dipahami Investor Pemula"
+---
+draft: false
+author: Abdul Wahhab
+title: Memahami Apa Itu Investasi Leher ke Atas yang Harus Dilakukan Pemula
+metaTitle: Memahami Apa Itu Investasi Leher ke Atas yang Harus Dilakukan Pemula
+metaDescription: Investasi leher ke atas adalah investasi yang harus anda
+  lakukan kepada bagian atas tubuh yaitu otak atau pikiran|Simak cara investasi
+  lahir ke atas
+intro: >-
+  Dalam berinvestasi, banyak orang lupa bahwa selain berinvestasi ke dalam
+  berbagai instrumen yang memberikan mereka keuntungan mereka juga perlu
+  melakukan investasi leher ke atas yang profitnya tidak akan ada habisnya dan
+  minim risiko. 
 
-+++
 
-
+  Oleh sebab itu, mari kita bahas apa itu investasi leher ke atas dan bagaimana investasi satu ini bisa memberikan kamu keuntungan jangka panjang.
+isPinned: true
+slug: memahami-apa-itu-investasi-leher-ke-atas-yang-sangat-penting-dipahami-investor-pemula
+date: 2022-02-06T07:54:26.127Z
+tag:
+  - investasi
+  - Investasi untuk Pemula
+  - Investasi Menguntungkan
+  - memulai investasi menguntungkan
+featuredImage:
+  src: https://images.unsplash.com/photo-1522211988038-6fcbb8c12c7e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxMTc3M3wwfDF8c2VhcmNofDUyfHxsZWFybmluZ3xlbnwwfHx8fDE2NDAxNTk2ODU&ixlib=rb-1.2.1&q=80&w=1080
+  alt: Memahami maksud investasi leher ke atas yang harus kamu pahami
+  title: Alasan kenapa investasi leher ke atas sangat penting bagi investor pemula
+image: https://images.unsplash.com/photo-1522211988038-6fcbb8c12c7e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxMTc3M3wwfDF8c2VhcmNofDUyfHxsZWFybmluZ3xlbnwwfHx8fDE2NDAxNTk2ODU&ixlib=rb-1.2.1&q=80&w=1080
+category:
+  - Investasi
+---
 **[Invetasi Leher ke Atas](https://landx.id/blog/) –** Saat memulai investasi, banyak orang hanya berfokus pada menemukan instrumen [investasi terbaik dan paling menguntungkan](https://landx.id/). Sebagian besar investor pemula tentu saja langsung mencari instrumen investasi dengan return terbaik dan risiko rendah.
 
-Dalam berinvestasi kita harus paham bahwa return merupakan dua hal yang saling berkaitan sehingga dalam investasi ada istilah _high risk high return_. Oleh sebab itu, kita harus bisa menyusun diversifikasi yang baik untuk memperkecil risiko yang muncul.
+Dalam berinvestasi kita harus paham bahwa return merupakan dua hal yang saling berkaitan sehingga dalam investasi ada istilah *high risk high return*. Oleh sebab itu, kita harus bisa menyusun diversifikasi yang baik untuk memperkecil risiko yang muncul.
 
 Kamu bisa memasukkan uang kita ke berbagai instrumen investasi seperti saham, reksa dana, deposito, atau investasi bisnis melalui equity crowdfunding.
 
@@ -22,15 +40,7 @@ Akan tetapi, ada satu investasi yang tak kalah penting yang seringkali dilewatka
 
 Supaya kamu paham yuk kita bahas apa itu investasi leher ke atas, dan kenapa investasi ini sangat penting dan menguntungkan untuk investor pemula.
 
----
-
-## Table of Content
-
-* **[Memahami Konsep Investasi Leher ke Atas](#memahami-konsep-investasi-leher-ke-atas)**
-* **[Kenapa Investasi Leher ke Atas Sangat Penting?](#kenapa-investasi-leher-ke-atas-sangat-penting)**
-* **[Memulai Investasi Leher ke Atas](#memulai-investasi-leher-ke-atas )**
-
----
+- - -
 
 ## Memahami Konsep Investasi Leher ke Atas
 
@@ -80,10 +90,9 @@ Karena itu..
 
 **Baca Juga :**
 
-* [**Rekomendasi Bisnis Investasi Online Terbaik yang Aman untuk Pemula**](https://landx.id/blog/rekomendasi-bisnis-investasi-online-terbaik-yang-aman-untuk-pemula/)
+* **[Rekomendasi Bisnis Investasi Online Terbaik yang Aman untuk Pemula](https://landx.id/blog/rekomendasi-bisnis-investasi-online-terbaik-yang-aman-untuk-pemula/)**
 * **[Cara  Investasi Bagi Hasil Terpercaya agar Investasi Usaha Anda bisa Memberikan Passive Income yang Maksimal](https://landx.id/blog/investasi-dengan-passive-income-untuk-masa-depan/)**
 
----
+- - -
 
-**#YukPatunganBisnis   #LandX.id    #landx.id    #InvestasiBisnis    #SecuritiesCrowdfunding    #EquityCrowdfunding    #InvestasiMenguntungkan    #Urundana    #BisnisPatungan    #InvestasiUsaha**
-
+**\#YukPatunganBisnis   #LandX.id    #landx.id    #InvestasiBisnis    #SecuritiesCrowdfunding    #EquityCrowdfunding    #InvestasiMenguntungkan    #Urundana    #BisnisPatungan    #InvestasiUsaha**
