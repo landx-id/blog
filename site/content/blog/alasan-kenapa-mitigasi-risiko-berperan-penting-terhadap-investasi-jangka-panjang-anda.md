@@ -1,15 +1,33 @@
-+++
-author = "Abdul Wahhab"
-category = ["bisnis investasi", "Equity Crowdfunding", "investasi", "Investasi modal kecil", "investasi properti", "Securities Crowdfunding untuk Pengembangan UMKM di Indonesia"]
-date = 2021-05-06T04:43:24Z
-metaDescription = "Apa itu mitigasi risiko? Mitigasi risiko adalah strategi yang harus anda siapkan agar untuk menghadapi berbagai risiko yang mungkin muncul dalam investasi"
-draft = false
-image = "https://images.unsplash.com/photo-1526628953301-3e589a6a8b74?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxMTc3M3wwfDF8c2VhcmNofDE2fHxyaXNrfGVufDB8fHx8MTY0MTM4OTQzOA&ixlib=rb-1.2.1&q=80&w=1080"
-slug = "alasan-kenapa-mitigasi-risiko-berperan-penting-terhadap-investasi-jangka-panjang-anda"
-tag = ["bisnis investasi", "Equity Crowdfunding", "investasi", "Investasi modal kecil", "investasi properti", "Securities Crowdfunding untuk Pengembangan UMKM di Indonesia"]
-title = "Mitigasi Risiko: Menyusun Strategi Mitigasi Risiko Terbaik dalam Berinvestasi"
-
-+++
+---
+draft: false
+author: Abdul Wahhab
+slug: alasan-kenapa-mitigasi-risiko-berperan-penting-terhadap-investasi-jangka-panjang-anda
+title: "Mitigasi Risiko: Menyusun Strategi Mitigasi Risiko Saat Berinvestasi"
+metaTitle: "Mitigasi Risiko: Menyusun Strategi Mitigasi Risiko Saat Berinvestasi"
+metaDescription: Apa itu mitigasi risiko? Mitigasi risiko adalah strategi yang
+  harus anda siapkan agar untuk memperkecil risiko investasi yang kamu lakukan
+intro: Setiap instrumen investasi pasti memiliki risiko yang berbeda-beda yang
+  harus kamu pahami dengan baik agar kamu bisa mempersiapkan strategi untuk
+  menghadapi hal tersebut. Karena itu, kamu perlu menyusun strategi mitigasi
+  risiko yang baik agar investasi kamu tetap dapat memberikan keuntungan yang
+  optimal.
+date: 2022-02-06T09:33:37.836Z
+tag:
+  - bisnis investasi
+  - Equity Crowdfunding
+  - investasi
+  - Investasi modal kecil
+  - investasi properti
+  - Securities Crowdfunding untuk Pengembangan UMKM di Indonesia
+featuredImage:
+  src: https://images.unsplash.com/photo-1526628953301-3e589a6a8b74?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxMTc3M3wwfDF8c2VhcmNofDE2fHxyaXNrfGVufDB8fHx8MTY0MTM4OTQzOA&ixlib=rb-1.2.1&q=80&w=1080
+  alt: Menyusun strategi mitigasi risiko agar investasi dapat memberikan
+    keuntungan yang optimal
+  title: Cara Menyusun Strategi Mitigasi Risiko Saat Berinvestasi
+image: https://images.unsplash.com/photo-1526628953301-3e589a6a8b74?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxMTc3M3wwfDF8c2VhcmNofDE2fHxyaXNrfGVufDB8fHx8MTY0MTM4OTQzOA&ixlib=rb-1.2.1&q=80&w=1080
+category:
+  - Investasi
+---
 
 
 Berbicara terkait investasi, **mitigasi risiko adalah** hal penting yang tidak boleh dilupakan investor agar investasi menjadi lebih aman dan menguntungkan.
@@ -121,9 +139,9 @@ Memilih [**platform crowdfunding**](https://landx.id/) yang baik merupakan salah
 
 [**LandX**](https://landx.id/) merupakan [platform equity crowdfunding](https://landx.id/) yang sudah berpengalaman menyalurkan dana investor ke dalam berbagai bisnis potensial di sekitar anda.
 
-## [Yuk Patungan Bisnis Menguntungkan Bareng LandX](https://landx.id/project/)
+## [Yuk Patungan Bisnis Menguntungkan Bareng LandX](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)
 
-[![miliki bisnis modal kecil cuma dengan 1 jutaan dapat 4 cabang ](https://accountgram-production.sfo2.cdn.digitaloceanspaces.com/landx_ghost/2021/11/jadi-owner-bisnis-hanya-1-jutaan-dengan-cuan-yang-sangat-menjanjikan.png)](https://landx.id/project/)
+[![miliki bisnis modal kecil cuma dengan 1 jutaan dapat 4 cabang ](https://accountgram-production.sfo2.cdn.digitaloceanspaces.com/landx_ghost/2021/11/jadi-owner-bisnis-hanya-1-jutaan-dengan-cuan-yang-sangat-menjanjikan.png)](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)
 
 [**Yuk Tetap Update Info Seputar Investasi Terbaru Dengan Follow Instagram Kami @landx.id**](https://www.instagram.com/landx.id/?utm_medium=copy_link)
 
