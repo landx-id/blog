@@ -8,12 +8,9 @@ metaDescription: Joint venture atau perusahaan patungan adalah perusahaan yang
   terbentuk  dari kolaborasi dua perusahaan hingga menghasilkan satu perusahaan
   baru
 intro: >-
-  Joint venture adalah kerja sama yang dilakukan oleh dua atau lebih perusahaan
-  untuk mencapai suatu tujuan yang telah disepakati oleh semua pihak yang
-  terlibat dalam kerja sama ini. Joint venture adalah strategi yang dilakukan
-  untuk berbagai tujuan seperti ekspansi pasar baru atau pengembangan produk
-  baru yang dilakukan dengan kolaborasi sumber daya yang dimiliki oleh kedua
-  belah pihak
+  Joint venture adalah strategi yang dilakukan untuk berbagai tujuan seperti
+  ekspansi pasar baru atau pengembangan produk baru yang dilakukan dengan
+  kolaborasi sumber daya yang dimiliki oleh kedua belah pihak.
 
 
   Supaya lebih paham lagi tentang apa yang dimaksud dengan joint venture dan bagaimana contoh joint venture, yuk simak penjelasan di bawah ini.
