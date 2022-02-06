@@ -1,18 +1,31 @@
-+++
-author = "Abdul Wahhab"
-category = ["compounding effect", "efek compounding", "investasi bisnis", "bisnis investasi", "bisnis investasi online"]
-date = 2021-05-25T04:32:58Z
-metaDescription = "Efek compounding atau compounding effect adalah efek bunga berbunga dimana return investasi diinvestasikan kembali sehingga  memberikan return lebih besar"
-draft = false
-image = "https://images.unsplash.com/photo-1589666564459-93cdd3ab856a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxMTc3M3wwfDF8c2VhcmNofDN8fGludGVyZXN0fGVufDB8fHx8MTY0Mjg2NjA1OA&ixlib=rb-1.2.1&q=80&w=1080"
-slug = "pahami-bagaimana-efek-compounding-dapat-membantu-pengembangan-investasi-anda"
-tag = ["compounding effect", "efek compounding", "investasi bisnis", "bisnis investasi", "bisnis investasi online"]
-title = "Pahami Bagaimana Efek Compounding Dapat Membantu Pengembangan Investasi Anda"
-
-+++
-
-
-Dalam investasi anda tentu saja akan sering mendengar istilah _[compounding effect](https://landx.id/)_ atau efek compounding yang bisa membantu mengembangkan dana yang anda miliki dalam jangka panjang.
+---
+draft: false
+author: Abdul Wahhab
+slug: pahami-bagaimana-efek-compounding-dapat-membantu-pengembangan-investasi-anda
+title: Pahami Bagaimana Efek Compounding Membantu Pengembangan Investasi
+metaTitle: Pahami Bagaimana Efek Compounding Membantu Pengembangan Investasi
+metaDescription: Efek compounding atau compounding effect adalah efek bunga
+  berbunga dimana return investasi diinvestasikan kembali dan memberikan return
+intro: "Compounding effect atau efek compounding adalah salah satu efek dari
+  investasi yang harus kamu pahami karena akan sangat membantu pengembangan aset
+  investasi yang kamu miliki. Karena itu, mari kita bahas apa itu compounding
+  efek dan pengaruhnya terhadap keuangan jangka panjang kamu. "
+date: 2021-05-25T04:32:58.000Z
+tag:
+  - compounding effect
+  - efek compounding
+  - investasi bisnis
+  - bisnis investasi
+  - bisnis investasi online
+featuredImage:
+  src: https://images.unsplash.com/photo-1589666564459-93cdd3ab856a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxMTc3M3wwfDF8c2VhcmNofDN8fGludGVyZXN0fGVufDB8fHx8MTY0Mjg2NjA1OA&ixlib=rb-1.2.1&q=80&w=1080
+  alt: Memahami konsep compounding efek yang mempercepat pertumbuhan investasi kamu
+  title: Memahami bagaimana compounding effect membantu investasi yang kamu lakukan
+image: https://images.unsplash.com/photo-1589666564459-93cdd3ab856a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxMTc3M3wwfDF8c2VhcmNofDN8fGludGVyZXN0fGVufDB8fHx8MTY0Mjg2NjA1OA&ixlib=rb-1.2.1&q=80&w=1080
+category:
+  - Investasi
+---
+Dalam investasi anda tentu saja akan sering mendengar istilah *[compounding effect](https://landx.id/)* atau efek compounding yang bisa membantu mengembangkan dana yang anda miliki dalam jangka panjang.
 
 **Efek compounding atau compounding effect adalah** kemampuan suatu aset/ instrumen investasi untuk menghasilkan keuntungan yang kemudian dapat diinvestasikan sehingga dapat menghasilkan keuntungan berlipat di masa mendatang.
 
@@ -22,7 +35,7 @@ Menerapkan hal ini dengan baik tentu saja dapat membuat keuntungan investasi kit
 
 Karena itu penting bagi investor untuk paham tentang apa itu [efek compoundin](https://landx.id/)g agar investasi anda dapat bertumbuh dengan lebih optimal.
 
----
+- - -
 
 ## Pengertian Compounding Effect
 
@@ -30,7 +43,7 @@ Efek compounding adalah istilah yang digunakan untuk menggambarkan strategi di m
 
 Istilah ini juga dikenal dengan **compounded return** karena return sebelumnya akan ikut menyumbang return pada periode investasi berikutnya.
 
-Karena itu, Pengertian compounding simpelnya adalah **bunga berbunga atau bunga bergulung** dimana bunga (_return)_ sebelumnya menghasilkan return baru  yang membuat keuntungan bisa menjadi lebih optimal dan mempercepat investor mencapai tujuan finansial mereka.
+Karena itu, Pengertian compounding simpelnya adalah **bunga berbunga atau bunga bergulung** dimana bunga (*return)* sebelumnya menghasilkan return baru  yang membuat keuntungan bisa menjadi lebih optimal dan mempercepat investor mencapai tujuan finansial mereka.
 
 Keberhasilan dari efek compounding tidak hanya bergantung kepada besar dana yang anda keluarkan tapi juga terkait dengan konsistensi anda untuk terus menambah aset yang anda miliki agar keuntungan bisa menjadi maksimal.
 
@@ -42,7 +55,7 @@ Penerapan efek compounding akan sangat membantu mempercepat tujuan investasi jan
 
 ## Efek Compounding dalam Investasi Saham
 
-Berbicara tentang efek compounding pada saham, kamu harus paham dulu dua jenis _return_ dalam saham yaitu dividen dan capital gain agar kamu tahu keuntungan seperti yang akan kamu dapatkan dan diinvestasikan kembali.
+Berbicara tentang efek compounding pada saham, kamu harus paham dulu dua jenis *return* dalam saham yaitu dividen dan capital gain agar kamu tahu keuntungan seperti yang akan kamu dapatkan dan diinvestasikan kembali.
 
 Saat mendapatkan return dari saham, kamu sebenarnya memiliki dua pilihan antara membeli saham yang sama atau membeli saham berbeda agar bisa melakukan diversifikasi.
 
@@ -52,14 +65,14 @@ Namun, apabila keuntungan berupa dividen, maka kamu bisa menggunakan dividen ter
 
 Apabila hal ini dilakukan secara konsisten, maka proses pertumbuhan aset investasi akan menjadi jauh lebih cepat. Karena itu, menemukan saham untuk investasi jangka panjang menjadi sangat penting.
 
----
+- - -
 
 **Baca Juga:**
 
 * [Compound Interest: Mengoptimalkan Keuntungan dengan Memahami Konsep Compound Interest](https://landx.id/blog/compound-interest-adalah/)
 * [Price Earning Ratio: Memahami Apa Itu Price Earning Ratio (PER) dan Manfaatnya dalam Investasi](https://landx.id/blog/price-earning-ratio-adalah/)
 
----
+- - -
 
 ## Tips Mengembangkan Investasi Lewat Efek Compounding
 
@@ -91,22 +104,19 @@ Salah satu pilihan yang bisa anda lakukan adalah memulai investasi bisnis yang b
 
 Karena itu…
 
-**[Yuk Mulai Investasi Bisnis Lewat Equity Crowdfunding di LandX](https://landx.id/)**
+## **[Yuk Mulai Investasi Bisnis Lewat Equity Crowdfunding di LandX](https://landx.id/)**
 
 [![Bagaimana? Kamu lebih suka bisnis dengan buyback guarantee atau yang bisa disimpan dalam jangka panjang? Apapun pilihan kamu.. Yuk Patungan  dengan Keuntungan Menjanjikan Bareng LandX](https://accountgram-production.sfo2.cdn.digitaloceanspaces.com/landx_ghost/2021/10/Equity-Crowdfunding-di-Indonesia-1--3.png)](https://landx.id/project/#/ximi)
 
 **[Mau Tips Investasi Lain? Yuk Follow Kami di Instagram @landx.id](https://instagram.com/landx.id?utm_medium=copy_link)**
 
----
+- - -
 
 **Baca Juga:**
 
 * **[Pahami Berbagai Jenis Return on Investment untuk Investasi Jangka Panjang Anda](https://landx.id/blog/return-on-investment-adalah/)**
 * **[Cara Mengembangkan Uang dengan Cepat: Mulai Mengatur Uang dengan Baik di Tahun 2021](https://landx.id/blog/cara-mengembangkan-uang-dengan-cepat-mulai-mengatur-uang-dengan-baik-di-tahun-2021/)**
 
----
+- - -
 
-**#YukPatunganBisnsi**
-
-
-
+**\#YukPatunganBisnsi**
