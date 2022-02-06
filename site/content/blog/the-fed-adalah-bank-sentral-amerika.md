@@ -1,17 +1,32 @@
-+++
-author = "Abdul Wahhab"
-category = ["strategi investasi", "investasi", "Investasi Menguntungkan", "investasi terbaik"]
-date = 2021-09-09T09:29:34Z
-metaDescription = "The Fed adalah singkatan dari The Federal Reserve System yang merupakan Bank Sentral Amerika yang mengambil berbagai kebijakan  moneter"
-draft = false
-image = "https://images.unsplash.com/photo-1499092346589-b9b6be3e94b2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxMTc3M3wwfDF8c2VhcmNofDV8fGFtZXJpY2F8ZW58MHx8fHwxNjQwMjUxMzE0&ixlib=rb-1.2.1&q=80&w=1080"
-slug = "the-fed-adalah-bank-sentral-amerika"
-tag = ["strategi investasi", "investasi", "Investasi Menguntungkan", "investasi terbaik"]
-title = "Mengenal Apa Itu The Fed, Bank Sentral AS dan Pengaruhnya Terhadap Perekonomian Dunia"
+---
+draft: false
+author: Abdul Wahhab
+slug: the-fed-adalah-bank-sentral-amerika
+title: Mengenal Apa Itu The Fed, Bank Sentral Amerika dan Federal Reserve
+metaTitle: Mengenal Apa Itu The Fed, Bank Sentral Amerika dan Federal Reserve
+metaDescription: The Fed adalah singkatan dari The Federal Reserve System yang
+  merupakan Bank Sentral Amerika yang mengambil berbagai kebijakan  moneter
+intro: >-
+  Belakangan The Fed menjadi pembahasan banyak orang karena Bank Sentral Amerika
+  ini merupakan lembaga yang akan mengambil keputusan untuk tapering off pada
+  akhir tahun ini. 
 
-+++
 
-
+  Karena itu, yuk kita bahas apa itu The Federal Reserve sistem dan bagaimana pengaruh kebijakan The Fed terhadap perekonomian dunia. 
+date: 2021-09-09T09:29:34.000Z
+tag:
+  - strategi investasi
+  - investasi
+  - Investasi Menguntungkan
+  - investasi terbaik
+featuredImage:
+  src: https://images.unsplash.com/photo-1499092346589-b9b6be3e94b2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxMTc3M3wwfDF8c2VhcmNofDV8fGFtZXJpY2F8ZW58MHx8fHwxNjQwMjUxMzE0&ixlib=rb-1.2.1&q=80&w=1080
+  alt: "Mengenal federal reserve system yang mempengaruhi investasi anda "
+  title: The Fed adalah Bank Sentral Amerika
+image: https://images.unsplash.com/photo-1499092346589-b9b6be3e94b2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxMTc3M3wwfDF8c2VhcmNofDV8fGFtZXJpY2F8ZW58MHx8fHwxNjQwMjUxMzE0&ixlib=rb-1.2.1&q=80&w=1080
+category:
+  - Keuangan
+---
 The Fed adalah singkatan dari The Federal Reserve System yang merupakan Bank Sentral Amerika Serikat. Sebagai Bank Sentral AS, The Fed menerapkan berbagai kebijakan moneter untuk menjaga stabilitas ekonomi di AS.
 
 Akan tetapi, sebagai Bank Sentral Amerika yang mata uangnya digunakan masyarakat luas di seluruh dunia, kebijakan The Fed memiliki pengaruh besar terhadap perekonomian global.
@@ -20,26 +35,19 @@ Oleh sebab itu, bank sentral ini memiliki pengaruh signifikan terhadap kondisi p
 
 Lebih jelasnya, mari kita bahas lebih lanjut tentang apa itu The Fed dan berbagai kebijakan The Fed yang mempengaruhi perekonomian global.
 
----
-
-## Table of Content
-
-* **[The Fed Adalah](#the-fed-adalah)**
-* **[Mengenal Entitas Utama dalam The Fed](#mengenal-entitas-utama-dalam-the-fed)**
-* **[Kenapa The Fed Sangat Berpengaruh Terhadap Perekonomian Dunia?](#kenapa-the-fed-sangat-berpengaruh-terhadap-perekonomian-dunia)**
-* **[Kesimpulan](#kesimpulan)**
-
----
+- - -
 
 ## The Fed Adalah
 
-The Fed adalah Bank Sentral AS yang merupakan salah satu bank tertua yang di dunia yang telah berdiri sejak tahun 1913 melalui kongres.
+Sebelum kita mambahas lebih dalam tentang sistem federal reserve, yuk kita bahas dulu apa itu The Fed
 
-The Fed adalah Bank Sentral yang Independen sehingga berbagai kebijakan yang mereka ambil tidak membutuhkan izin dari pemerintahan AS. walaupun begitu, kinerja The Fed akan dievaluasi secara berkala melalui kongres.
+**The Fed adalah Bank Sentral AS** yang merupakan salah satu bank tertua yang di dunia yang telah berdiri sejak tahun 1913 melalui kongres.
 
-Bank ini terbentuk karena kepanikan atas krisis keuangan yang terjadi di Amerika pada tahun 1907 sehingga sekelompok orang melakukan pertemuan rahasia pada tahun 1910 untuk membahas reformasi sistem perbankan negara akan krisis ini dapat diselesaikan.
+**The Fed adalah Bank Sentral** yang Independen sehingga berbagai kebijakan yang mereka ambil tidak membutuhkan izin dari pemerintahan AS. walaupun begitu, kinerja The Fed akan dievaluasi secara berkala melalui kongres.
 
-Bank ini terdiri dari 3 entitas utama yaitu dewan gubernur (Board of Governors), 12 bank sentral regional (Federal Reserve Banks), dan komite pasar terbuka federal.
+Bank Sentral Amerika ini terbentuk karena kepanikan atas krisis keuangan yang terjadi di Amerika pada tahun 1907 sehingga sekelompok orang melakukan pertemuan rahasia pada tahun 1910 untuk membahas reformasi sistem perbankan negara akan krisis ini dapat diselesaikan.
+
+Bank Sentral ini terdiri dari 3 entitas utama yaitu dewan gubernur (Board of Governors), 12 bank sentral regional (Federal Reserve Banks), dan komite pasar terbuka federal.
 
 Bank sentral ini memiliki tugas untuk mengambil berbagai kebijakan moneter mengatur suku bunga, menyediakan layanan keuangan, dan berbagai kebijakan lain untuk menjaga stabilitas moneter suatu negara.
 
@@ -67,7 +75,7 @@ Pada diskusi kebijakan moneter, pemimpin Bank Federal Reserve diharapkan bisa me
 
 Entitas ini merupakan bagian paling bawah dari struktur The Fed yang bertugas untuk membuat berbagai kebijakan dan keputusan moneter seperti penetapan suku bunga. Anggota dari entitas ini merupakan gabungan dari dua entitas sebelumnya yang akan berpartisipasi dalam pembuatan berbagai kebijakan  moneter.
 
-## Kenapa The Fed Sangat Berpengaruh Terhadap Perekonomian Dunia?
+## Pengaruh The Fed Terhadap Perekonomian Dunia
 
 Seperti yang kita tahu, dolar Amerika merupakan mata uang yang digunakan secara global sehingga setiap tindakan yang ambil oleh The Fed mempengaruhi negara-negara lain di seluruh dunia.
 
@@ -93,7 +101,7 @@ Tapi jangan lupa, kamu juga harus menyiapkan investasi terbaik agar uang yang an
 
 Dalam investasi, kamu harus melakukan diversifikasi sebagai strategi untuk memperkecil berbagai risiko yang muncul selama investasi.
 
-Investasi melalui [**equity crowdfunding**](https://landx.id/) bisa menjadi salah satu pilihan investasi menguntungkan yang bisa anda coba. Melalui sistem ini kamu bisa ikut patungan membangun bisnis dan menikmati cash flow rutin dari keuntungan yang dihasilkan bisnis tersebut.
+Investasi melalui **[equity crowdfunding](https://landx.id/)** bisa menjadi salah satu pilihan investasi menguntungkan yang bisa anda coba. Melalui sistem ini kamu bisa ikut patungan membangun bisnis dan menikmati cash flow rutin dari keuntungan yang dihasilkan bisnis tersebut.
 
 **Karena itu, tunggu apa lagi...**
 
@@ -101,7 +109,6 @@ Investasi melalui [**equity crowdfunding**](https://landx.id/) bisa menjadi sala
 
 **[Mau Informasi Terupdate Lain Seputar Investasi dan Keuangan? Yuk Follow Kami di Instagram @landx.id](https://www.instagram.com/landx.id/?utm_medium=copy_link)**
 
----
+- - -
 
-#PatunganBisnis 	#LandX.id	#landx.id	#landx  #InvestasiBisnis	#EquityCrowdfunding	#InvestasiMenguntungkan	#Urundana	#BisnisPatungan	#InvestasiUsaha
-
+\#PatunganBisnis 	#LandX.id	#landx.id	#landx  #InvestasiBisnis	#EquityCrowdfunding	#InvestasiMenguntungkan	#Urundana	#BisnisPatungan	#InvestasiUsaha
