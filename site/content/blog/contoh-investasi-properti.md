@@ -1,17 +1,25 @@
-+++
-author = "Gunawan Aldy"
-date = 2019-08-05T03:19:06Z
-metaDescription = "Investasi adalah cara untuk menambah atau meningkatkan keuangan kita. Dengan kata lain, investasi adalah upaya untuk membuat keuangan lebih produktif atau lebih efisien."
-draft = false
-image = "https://accountgram-production.sfo2.cdn.digitaloceanspaces.com/landx_ghost/2019/06/Contoh-Investasi-Properti.jpg"
-slug = "contoh-investasi-properti"
-title = "Contoh Investasi Properti"
-
-+++
-
-
-Investasi adalah cara untuk menambah atau meningkatkan keuangan kita. Dengan kata lain, investasi adalah upaya untuk membuat keuangan lebih produktif atau lebih efisien. Ada banyak cara untuk berinvestasi dari investasi dalam bentuk tabungan atau deposito, investasi dalam emas, investasi dalam saham atau bisnis, dan investasi properti.
-
+---
+draft: false
+author: Gunawan Aldy
+slug: contoh-investasi-properti
+title: Contoh Investasi Properti yang Bisa Jadi Pilihan Kamu
+metaTitle: Mengenal berbagai jenis properti untuk investasi
+metaDescription: Contoh properti yang bisa jadi pilihan investasi jangka panjang kamu
+intro: Investasi adalah cara untuk menambah atau meningkatkan keuangan kita.
+  Dengan kata lain, investasi adalah upaya untuk membuat keuangan lebih
+  produktif atau lebih efisien. Ada banyak cara untuk berinvestasi dari
+  investasi dalam bentuk tabungan atau deposito, investasi dalam emas, investasi
+  dalam saham atau bisnis, dan investasi properti.
+date: 2019-08-05T03:19:06.000Z
+tag:
+  - Investasi
+  - Crowdfunding Properti
+featuredImage:
+  src: https://accountgram-production.sfo2.cdn.digitaloceanspaces.com/landx_ghost/2019/06/Contoh-Investasi-Properti.jpg
+  alt: Contoh properti yang bisa jadi pilihan investasi kamu
+  title: Contoh-contoh properti untuk investasi jangka panjang kamu
+image: https://accountgram-production.sfo2.cdn.digitaloceanspaces.com/landx_ghost/2019/06/Contoh-Investasi-Properti.jpg
+---
 ## Berikut adalah manfaat dari investasi properti
 
 ### Harga relatif naik
