@@ -26,8 +26,6 @@ image: https://images.unsplash.com/photo-1549923746-c502d488b3ea?crop=entropy&cs
 category:
   - Bisnis
 ---
-
-
 Dalam dunia bisnis, kamu pasti pernah mendengar istilah joint venture atau [perusahaan patungan](https://landx.id/project/) yang dilakukan merupakan kebijakan yang diambil beberapa perusahaan belakangan ini.
 
 Joint venture adalah kerja sama yang dilakukan oleh dua atau lebih perusahaan untuk mencapai suatu tujuan yang telah disepakati oleh semua pihak yang terlibat dalam kerja sama ini.
@@ -38,17 +36,7 @@ Istilah joint venture juga sering disebut perusahaan patungan karena suatu perus
 
 Supaya lebih paham lagi tentang apa yang dimaksud dengan joint venture dan bagaimana  contoh joint venture, yuk simak penjelasan di bawah ini.
 
----
-
-## Table of Content
-
-* **Joint Venture Adalah**
-* **[Perbedaan Joint Venture dengan Partnership](#perbedaan-joint-venture-dengan-partnership)**
-* [**Alasan Kenapa Joint Venture Dilakukan**](#alasan-kenapa-joint-venture-dilakukan)
-* **[Perjanjian Joint Venture](#perjanjian-joint-venture)**
-* [**Kesimpulan**](#kesimpulan)
-
----
+- - -
 
 ## Joint Venture Adalah
 
@@ -80,7 +68,7 @@ Perusahaan-perusahaan yang terlibat joint venture memiliki spefikasi dan keahlia
 
 ### 3. Menghemat Biaya
 
-Perusahaan patungan biasanya juga dibentuk dengan tujuan menghemat biaya yang harus dikeluarkan untuk mencapai suatu tujuan. Joint venture membantu perusahaan meningkatkan _economic scale_ sehingga dapat menekan berbagai biaya dalam bisnis.
+Perusahaan patungan biasanya juga dibentuk dengan tujuan menghemat biaya yang harus dikeluarkan untuk mencapai suatu tujuan. Joint venture membantu perusahaan meningkatkan *economic scale* sehingga dapat menekan berbagai biaya dalam bisnis.
 
 ### 4. Menciptakan Inovasi Produk Baru
 
@@ -104,9 +92,9 @@ Umumnya perjanjian berisikan hal-hal penting seperti siapa saja yang terlibat da
 
 Joint venture merupakan bentuk kolaborasi dari dua atau lebih entitas bisnis/ perusahaan untuk menghasilkan suatu perusahaan baru. Sistem ini memberikan banyak keuntungan karena perusahaan dapat mengkombinasikan keahlian yang mereka miliki satu sama lain sehingga menghasilkan suatu produk baru yang sedang dibutuhkan pasar.
 
-Berbicara tentang patungan, LandX merupakan [**platform equity crowdfunding**](https://landx.id/) yang memberikan kamu kesempatan untuk ikut patungan membangun bisnis dengan potensi keuntungan yang sangat menjanjikan untuk jangka panjang anda.
+Berbicara tentang patungan, LandX merupakan **[platform equity crowdfunding](https://landx.id/)** yang memberikan kamu kesempatan untuk ikut patungan membangun bisnis dengan potensi keuntungan yang sangat menjanjikan untuk jangka panjang anda.
 
-[**Bersama LandX**](https://landx.id/project/), kamu akan menemukan bisnis-bisnis terbaik yang sudah diseleksi ketat oleh pihak LandX sebelumnya sehingga investasi bisnis kamu menjadi jauh lebih mudah.
+**[Bersama LandX](https://landx.id/project/)**, kamu akan menemukan bisnis-bisnis terbaik yang sudah diseleksi ketat oleh pihak LandX sebelumnya sehingga investasi bisnis kamu menjadi jauh lebih mudah.
 
 Karena itu,,,,
 
@@ -116,14 +104,13 @@ Karena itu,,,,
 
 **[Mau Berbagai Informasi Menarik Seputar Keuangan Lainnya? Yuk Follow Instagram Kami @landx.id](https://www.instagram.com/landx.id/?utm_medium=copy_link)**
 
----
+- - -
 
 **Baca Juga:**
 
 * [Untuk Para Investor Pemula, Pahami Apa Itu Agio Saham dan Berbagai Jenisnya](https://landx.id/blog/kenali-apa-itu-agio-saham-dalam-investasi/)
 * [Volatilitas: Definisi, Jenis, dan Penyebab Terjadinya Volatilitas](https://landx.id/blog/volatilitas-definisi-jenis-cara-dan-penyebab-terjadinya-volatilitas/)
 
----
+- - -
 
-**#YukPatunganBisnis #LandX.id    #landx.id    #InvestasiBisnis    #EquityCrowdfunding    #InvestasiMenguntungkan    #Urundana    #BisnisPatungan    #InvestasiUsaha**
-
+**\#YukPatunganBisnis #LandX.id    #landx.id    #InvestasiBisnis    #EquityCrowdfunding    #InvestasiMenguntungkan    #Urundana    #BisnisPatungan    #InvestasiUsaha**
