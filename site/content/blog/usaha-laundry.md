@@ -1,14 +1,28 @@
-+++
-author = "Abdul Wahhab"
-category = ["Memulai usaha", "usaha laundry", "Bisnis Franchise Modal Kecil", "bisnis di masa pandemi"]
-date = 2021-07-14T05:50:43Z
-metaDescription = "Yuk simak berbagai pertimbangan saat membangun usaha laundry yang bisa menguntungkan dalam jangka panjang. Berbagai hal penting dalam usaha laundry "
-draft = false
-slug = "usaha-laundry"
-tag = ["Memulai usaha", "usaha laundry", "Bisnis Franchise Modal Kecil", "bisnis di masa pandemi"]
-title = "Usaha Laundry: Yuk Analisa Bagaimana Potensi Keuntungan Jangka Panjang dari Usaha Laundry"
-
-+++
+---
+draft: false
+author: Abdul Wahhab
+slug: usaha-laundry
+title: "Usaha Laundry: Analisa Potensi Keuntungan Usaha Laundry"
+metaTitle: "Usaha Laundry: Analisa Potensi Keuntungan Usaha Laundry"
+metaDescription: "Yuk simak berbagai pertimbangan saat membangun usaha laundry
+  yang bisa menguntungkan dalam jangka panjang. "
+intro: "Usaha laundry adalah salah satu bisnis yang semakin berkembang dan
+  potensial karena masyarakat yang waktunya semakin terbatas sehingga
+  membutuhkan jasa laundry. Kali ini, yuk kita bahas usaha laundry seperti apa
+  yang potensial dan menguntungkan dalam jangka panjang. "
+date: 2021-07-14T05:50:43.000Z
+tag:
+  - Memulai usaha
+  - usaha laundry
+  - Bisnis Franchise Modal Kecil
+  - bisnis di masa pandemi
+category:
+  - Bisnis
+featuredImage:
+  src: https://images.unsplash.com/photo-1635274605638-d44babc08a4f?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80\
+  alt: Analisis modal usaha laundry dan cara memulai usaha laundry
+  title: Jadi pemilik usaha laundry cuma dengan modal 1 juta
+---
 
 
 **Usaha Laundry**
@@ -99,11 +113,11 @@ Sistem ini membuat anda bisa memiliki bisnis dengan modal kecil dan meminimalisi
 
 Untuk berpartisipasi dalam [patungan bisnis](https://landx.id/project/index.html), anda perlu mencari platform crowdfunding terpercaya yang membantu anda menemukan bisnis terbaik untuk anda danai.
 
-[LandX](https://landx.id/) merupakan platform equity crowdfunding terpercaya yang sudah berpengalaman menyalurkan dana investor ke dalam berbagai bisnis dengan potensi keuntungan jangka panjang.
+[LandX](https://landx.id/project/) merupakan platform equity crowdfunding terpercaya yang sudah berpengalaman menyalurkan dana investor ke dalam berbagai bisnis dengan potensi keuntungan jangka panjang.
 
-[LandX](https://landx.id/) memberikan anda berbagai bisnis potensial dari berbagai bidang yang bisa jadi pilihan investasi anda. Karena itu…….
+[LandX](https://landx.id/project/) memberikan anda berbagai bisnis potensial dari berbagai bidang yang bisa jadi pilihan investasi anda. Karena itu…….
 
-**[Yuk Mulai Tentukan Bisnis Terbaik untuk Investasi Jangka Panjang Anda Bersama LandX](https://landx.id/project/index.html)**
+**[Yuk Mulai Tentukan Bisnis Terbaik untuk Investasi Jangka Panjang Anda Bersama LandX](https://landx.id/project/)**
 
 [**Jangan Lupa!!! Follow Juga Kami di Instagram @landx.id Untuk Berbagai Informasi Terupdate Seputar Investasi**](https://instagram.com/landx.id?utm_medium=copy_link) **dan Bisnis**
 
