@@ -104,7 +104,6 @@ Sistem [equity crowdfunding](https://landx.id/) memberikan anda memiliki bagian 
 
 [![miliki bisnis modal kecil cuma dengan 1 jutaan dapat 4 cabang ](https://accountgram-production.sfo2.cdn.digitaloceanspaces.com/landx_ghost/2021/11/jadi-owner-bisnis-hanya-1-jutaan-dengan-cuan-yang-sangat-menjanjikan.png)](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)
 
-
 **[Supaya Terus Update Info Seputar Investasi dan Bisnis Terbaru, Jangan Lupa Follow Kami di @landx.id](https://instagram.com/landx.id?utm_medium=copy_link)**
 
 **\#LandX.id    #landx         #landx.id    #InvestasiBisnis    #EquityCrowdfunding    #InvestasiMenguntungkan    #Urundana    #BisnisPatungan    #InvestasiUsaha**
