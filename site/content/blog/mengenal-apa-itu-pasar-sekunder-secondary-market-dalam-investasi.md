@@ -39,9 +39,11 @@ Sebelum memahami apa itu secondary dan fungsinya, kamu harus paham dulu apa itu 
 
 Sebelum mengenal apa itu ***secondary market***, anda harus paham dahulu perbedaan pasar primer dan sekunder. Istilah ***[primary market](https://landx.id/project/)*** yang merupakan tempat sebuah efek diterbitkan untuk pertama kalinya.
 
-**Primary market** juga bisa disebut pasar perdana di mana emiten atau pihak yang membutuhkan dana melakukan penawaran pertama kepada investor dalam kurun waktu tertentu sebelum akhirnya ditawarkan ke ***secondary marrket** s_aat periode penawaran awal sudah selesai. Penawaran awal ini juga sering disebut dengan istilah  \*\**[Initial Public Offering](https://landx.id/project/)_  [(IPO).](https://landx.id/)\*\*
+**Primary market** adalah pasar perdana di mana emiten atau pihak yang membutuhkan dana melakukan penawaran pertama kepada investor dalam kurun waktu tertentu sebelum akhirnya ditawarkan ke **secondary market** s*aat periode penawaran awal sudah selesai. Penawaran awal ini juga sering disebut dengan istilah [Initial Public Offering](https://landx.id/project/)* [(IPO)](https://landx.id/).
 
 ***Secondary market***  adalah tempat transaksi jual beli efek secara luas yang dilakukan oleh para investor setelah masa penawaran perdana berakhir. *Secondary market* bisa digambarkan sebagai pasar tempat jual beli saham yang dilakukan antar investor.
+
+Pengertian pasar sekunder adalah tempat bagi para investor untuk menjual saham yang mereka beli saat primary market sehingga investor yang tidak bisa membeli saham saat primary market atau pasar perdana dapat memiliki saham yang mereka inginkan.
 
 Ini kesempatan kedua bagi investor yang belum berhasil memiliki sebuah sekuritas pada penawaran perdana. Periode pembukaan pasar sekunder ini sendiri berbeda-beda tergantung efek yang anda miliki, untuk ***[equity crowdfunding](https://landx.id/project/)*** sendiri *secondary market* akan dibuka 1 tahun setelah sebuah proyek berhasil didanai.
 
@@ -74,6 +76,8 @@ Pasar tunai adalah yang disediakan untuk menyelesaikan masalah kegagalan dari an
 Setelah penawaran perdana, harga sekuritas anda akan menjadi fluktuatif mengikuti permintaan dan penawaran akan sekuritas yang anda miliki. Jika emiten merupakan perusahaan yang dipercaya bisa memberikan keuntungan sehingga permintaan saham tersebut meningkat maka harga saham akan cenderung meningkat dan begitu juga sebaliknya.
 
 Oleh sebab itu berinvestasi di *secondary market* membutuhkan analisis untuk memperkirakan sekuritas mana yang memiliki potensi kenaikan harga sehingga memberikan keuntungan dalam jangka panjang.
+
+Contoh pasar sekunder adalah tempat kamu melakukan transaksi saham-saham yang telah 
 
 ## Secondary Vs Primary Market
 
