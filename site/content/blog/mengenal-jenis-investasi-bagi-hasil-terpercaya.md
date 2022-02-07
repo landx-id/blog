@@ -1,15 +1,28 @@
-+++
-author = "Abdul Wahhab"
-category = ["investasi bisnis", "investasi bagi hasil", "investasi online", "crowdfunding indonesia"]
-date = 2021-03-25T03:23:46Z
-metaDescription = "Investasi bagi hasil merupakan salah satu pilihan investasi menguntungkan. Sebelum memulai anda perlu paham berbagai jenis investasi bagi hasil terpercaya."
-draft = false
-image = "https://accountgram-production.sfo2.cdn.digitaloceanspaces.com/landx_ghost/2021/03/3.-investasi-bagi-hasil-terpercaya.jpg"
-slug = "mengenal-jenis-investasi-bagi-hasil-terpercaya"
-tag = ["investasi bisnis", "investasi bagi hasil", "investasi online", "crowdfunding indonesia"]
-title = "Mengenal Jenis Investasi Bagi Hasil Terpercaya"
-
-+++
+---
+draft: false
+author: Abdul Wahhab
+slug: mengenal-jenis-investasi-bagi-hasil-terpercaya
+title: Jenis Investasi Bagi Hasil Terpercaya yang Bisa Kamu Coba
+metaTitle: Jenis Investasi Bagi Hasil Terpercaya yang Bisa Kamu Coba
+metaDescription: Investasi bagi hasil menjadi salah satu sistem investasi yang
+  bisa  kamu coba, yuk cek cara investasi bagi hasil menguntungkan
+intro: Mau mulai investasi bagi hasil terpercaya dengan modal kecil? Yuk simak
+  bagaimana cara menemukan investasi bagi hasil yang cocok untuk pemula
+date: 2021-03-25T03:23:46.000Z
+tag:
+  - investasi bisnis
+  - investasi bagi hasil
+  - investasi online
+  - crowdfunding indonesia
+featuredImage:
+  src: https://accountgram-production.sfo2.cdn.digitaloceanspaces.com/landx_ghost/2021/03/3.-investasi-bagi-hasil-terpercaya.jpg
+  alt: Memilih investasi bagi hasil terpercaya yang menguntungkan untuk anda
+  title: Mulai investasi bagi hasil yang memberikan kamu keuntungan jangka panjang
+image: https://accountgram-production.sfo2.cdn.digitaloceanspaces.com/landx_ghost/2021/03/3.-investasi-bagi-hasil-terpercaya.jpg
+category:
+  - Investasi
+  - Bisnis
+---
 
 
 [Investasi bagi hasil](https://landx.id/). Dalam setiap bisnis, salah satu kendala awal berwirausaha biasanya berkaitan dengan permodalan.
