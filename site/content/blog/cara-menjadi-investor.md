@@ -91,9 +91,9 @@ Karena itu, anda harus bisa menemukan bisnis dengan potensi perkembangan yang ba
 
 [Investasi bisnis](https://landx.id/project/index.html) di LandX pun sangat mudah dan membutuhkan modal yang relatif kecil. Hanya dengan 1 juta rupiah saja anda sudah bisa memiliki bagian di berbagai bisnis potensial yang ada di LandX. Karena itu, yuk…
 
-## [Mulai Investasi Bisnis Modal Kecil Bersama LandX Hanya dengan 1 Juta](https://landx.id/project/index.html)
+## **[Yuk Jadi Investor Bisnis Bareng LandX ](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)**
 
-**[Jangan Lupa!!! Follow Juga Kami di Instagram @landx.id Untuk Berbagai Informasi Terupdate Seputar Investasi](https://instagram.com/landx.id?utm_medium=copy_link)**
+[![miliki bisnis modal kecil cuma dengan 1 jutaan dapat 4 cabang ](https://accountgram-production.sfo2.cdn.digitaloceanspaces.com/landx_ghost/2021/11/jadi-owner-bisnis-hanya-1-jutaan-dengan-cuan-yang-sangat-menjanjikan.png)](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)
 
 **\#LandX.id    #landx         #landx.id    #InvestasiBisnis    #EquityCrowdfunding    #InvestasiMenguntungkan    #Urundana    #BisnisPatungan    #InvestasiUsaha**
 
