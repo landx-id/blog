@@ -6,7 +6,7 @@ title: Investasi Finansial
 metaTitle: Investasi Finansial
 metaDescription: Bentuk-bentuk investasi finansial yang perlu kamu pahami dengan baik
 intro: Cara investasi finansial yang bisa memberikan kamu keuntungan jangka
-  panjang yang harus kamu perhatikan dengan baik
+  panjang yang harus kamu perhatikan dengan baik saat mulai berinvestasi
 date: 2019-07-24T04:03:25.000Z
 tag:
   - Investasi
