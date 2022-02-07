@@ -31,8 +31,6 @@ category:
   - Investasi
   - Keuangan
 ---
-
-
 Selama pandemi, banyak orang mengalami kesulitan finansial sehingga mempersulit mereka untuk mengatur keuangan.
 
 Mengatur keuangan dengan baik merupakan hal yang sangat penting terutama untuk kamu yang sudah memiliki penghasilan sendiri. Kemampuan mengatur uang ini menjadi salah satu skill dasar yang harus kamu siapkan sedini mungkin.
@@ -41,16 +39,16 @@ Mengatur keuangan yang baik akan membantu kamu mempersiapkan berbagai kondisi ti
 
 Supaya kamu bisa mempersiapkan keuangan kamu dengan baik, yuk simak tips dan cara mengatur keuangan yang baik di bawah ini.
 
----
+- - -
 
 ## Table of Content
 
 * **[Mengatur Keuangan Pribadi dengan Baik di Masa Pandemi](#mengatur-keuangan-pribadi-dengan-baik-di-masa-pandemi)**
 * **[Mengenal Apa Itu Konsep 50-30-20 dalam Mengatur Keuangan](#mengenal-apa-itu-konsep-50-30-20-dalam-mengatur-keuangan)**
-* **[Tips Mengatur Keuangan yang Baik](#tips-mengatur-keuangan-yang-baik) ** [**1. Menyusun Tujuan Finansial**](#1-menyusun-tujuan-finansial)[**2. Mulai Pencatatan Keuangan dengan Baik**](#2-mulai-pencatatan-keuangan-dengan-baik)[**3. Siapkan Dana Darura**](#3-siapkan-dana-darurat)**t****[4. Siapkan Asuransi](#4-siapkan-asuransi)**[**5. Mencatat Pemasukan dan Pengeluaran**](#5-mencatat-pemasukan-dan-pengeluaran)[**6. Miliki Beberapa Rekening Tabungan**](#6-miliki-beberapa-rekening-tabungan)**[7. Mulailah Belajar Investasi Secara Bertahap](#7-mulailah-belajar-investasi-secara-bertahap)**
+* **[Tips Mengatur Keuangan yang Baik](#tips-mengatur-keuangan-yang-baik)**  **[1. Menyusun Tujuan Finansial](#1-menyusun-tujuan-finansial)****[2. Mulai Pencatatan Keuangan dengan Baik](#2-mulai-pencatatan-keuangan-dengan-baik)****[3. Siapkan Dana Darura](#3-siapkan-dana-darurat)t\*\***[4. Siapkan Asuransi](#4-siapkan-asuransi)**[**5. Mencatat Pemasukan dan Pengeluaran**](#5-mencatat-pemasukan-dan-pengeluaran)[**6. Miliki Beberapa Rekening Tabungan**](#6-miliki-beberapa-rekening-tabungan)**[7. Mulailah Belajar Investasi Secara Bertahap](#7-mulailah-belajar-investasi-secara-bertahap)\*\*
 * **[Memulai Investasi](#memulai-investasi)**
 
----
+- - -
 
 ## Mengatur Keuangan Pribadi dengan Baik di Masa Pandemi
 
@@ -72,7 +70,7 @@ Selama pandemi, impulsive buying adalah hal yang sangat penting untuk diwaspadai
 
 Dalam mengatur keuangan pribadi, konsep 50-30-20 merupakan salah satu cara mengatur uang yang populer dan mudah diterapkan oleh banyak barang. Karena itu, mari kita bahas konsep 50-30-20 dalam mengatur keuangan.
 
-## Mengenal Apa Itu Konsep 50-30-20 dalam Mengatur Keuangan
+## Mengenal Cara Mengatur Keuangan 50-30-20
 
 Konsep 50-30-20 adalah salah satu cara mengatur keuangan yang sangat mudah dipahami terutama untuk kamu yang memiliki penghasilan tetap setiap bulannya dan ingin mulai menyusun keuangan jangka panjang.
 
@@ -144,7 +142,7 @@ Setelah anda bisa mengelola keuangan dengan baik, tidak ada salahnya anda mulai 
 
 Anda bisa mulai dengan investasi dengan risiko rendah dahulu seperti reksa dana atau [equity crowdfunding](https://landx.id/) yang memiliki risiko dengan dan memiliki potensi keuntungan dalam jangka panjang. Apabila anda sudah paham dan bisa menerima risiko investasi yang lebih tinggi anda bisa mulai belajar investasi di pasar modal atau instrumen investasi lain dengan risiko yang lebih tinggi lagi.
 
-## [**Memulai Investasi**](https://landx.id/project/index.html)
+## **[Memulai Investasi](https://landx.id/project/index.html)**
 
 Apabila anda sudah bisa mengelola uang dengan baik, anda tidak boleh lupa menyusun juga rencana investasi berdasarkan rencana finansial anda.
 
@@ -160,8 +158,8 @@ Hal ini akan membuat uang yang anda miliki bisa berkembang dengan lebih cepat. A
 
 [![miliki bisnis modal kecil cuma dengan 1 jutaan dapat 4 cabang ](https://accountgram-production.sfo2.cdn.digitaloceanspaces.com/landx_ghost/2021/11/jadi-owner-bisnis-hanya-1-jutaan-dengan-cuan-yang-sangat-menjanjikan.png)](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)
 
-[**Yuk Follow Kami di Instagram @landx.id Untuk Berbagai Update Terbaru Seputar Investasi**](https://www.instagram.com/landx.id/?utm_medium=copy_link)
+**[Yuk Follow Kami di Instagram @landx.id Untuk Berbagai Update Terbaru Seputar Investasi](https://www.instagram.com/landx.id/?utm_medium=copy_link)**
 
----
-#SekarangBisa
+- - -
 
+\#SekarangBisa
