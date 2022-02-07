@@ -1,18 +1,33 @@
-+++
-author = "Abdul Wahhab"
-category = ["crowdfunding", "crowdfunding indonesia", "Situs Crowdfunding", "Securities Crowdfunding untuk Pengembangan UMKM di Indonesia"]
-date = 2021-09-13T04:52:08Z
-metaDescription = "crowdfunding adalah sistem pendaan yang melibatkan masyarakat luas untuk mendanai suatu proyek atau bisnis sehingga menjadi salah satu instrumen investasi"
-draft = false
-image = "https://images.unsplash.com/photo-1555043722-4523972f07ee?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxMTc3M3wwfDF8c2VhcmNofDV8fGluZG9uZXNpYXxlbnwwfHx8fDE2NDAyNTEwNzM&ixlib=rb-1.2.1&q=80&w=1080"
-slug = "crowdfunding-di-indonesia-untuk-investasi"
-tag = ["crowdfunding", "crowdfunding indonesia", "Situs Crowdfunding", "Securities Crowdfunding untuk Pengembangan UMKM di Indonesia"]
-title = "Crowdfunding di Indonesia: Mengenal Sistem Investasi Melalui crowdfunding yang Semakin Diminati Masyarakat Indonesia"
-
-+++
-
-
 ---
+draft: false
+author: Abdul Wahhab
+slug: crowdfunding-di-indonesia-untuk-investasi
+title: "Crowdfunding Adalah: Sistem Investasi Crowdfunding di Indonesia"
+metaTitle: "Crowdfunding Adalah: Sistem Investasi Crowdfunding di Indonesia"
+metaDescription: Crowdfunding adalah sistem pendanaan lewat masyarakat luas dan
+  kini berkembang jadi sistem investasi kepada saham bisnis
+intro: Crowdfunding artinya merupakan sistem pendanaan dengan melibatkan
+  masyarakat luas melalui platform online. Jenis crowdfunding kini semakin
+  berkembang sehingga kini crowdfunding juga menjadi salah satu instrumen
+  investasi jangka panjang yang menjanjikan. Karena itu, yuk kita bahas lebih
+  lanjut tentang apa itu crowdfunding dan bagaimana cara kerja setiap jenis
+  crowdfunding yang ada di Indonesia.
+date: 2021-09-13T04:52:08.000Z
+tag:
+  - crowdfunding
+  - crowdfunding indonesia
+  - Situs Crowdfunding
+  - Securities Crowdfunding untuk Pengembangan UMKM di Indonesia
+featuredImage:
+  src: https://images.unsplash.com/photo-1582213782179-e0d53f98f2ca?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80
+  alt: Memahami apa itu crowdfunding dan cara kerja berbagai jenis crowdfunding
+  title: Kenali apa itu crowdfunding dan cara kerja sistem crowdfunding untuk
+    investasi
+image: https://images.unsplash.com/photo-1555043722-4523972f07ee?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxMTc3M3wwfDF8c2VhcmNofDV8fGluZG9uZXNpYXxlbnwwfHx8fDE2NDAyNTEwNzM&ixlib=rb-1.2.1&q=80&w=1080
+category:
+  - Cara Investasi di Securities Crowdfunding
+---
+- - -
 
 Seiring berjalannya waktu, crowdfunding menjadi salah satu sistem investasi yang semakin diminati di Indonesia. Selain sebagai instrumen investasi, sistem crowdfunding menjadi salah satu alternatif pendanaan bagi bisnis dan UKM yang kesulitan mengakses permodal.
 
@@ -20,26 +35,15 @@ Karena itu, crowdfunding di Indonesia menjadi menjadi salah sistem yang mendukun
 
 Supaya lebih jelas, mari kita bahas apa itu crowdfunding dan bagaimana perkembangan sistem crowdfunding di Indonesia hingga saat ini.
 
----
-
-## Table of Content
-
-* **[Apa Itu Crowdfunding?](#apa-itu-crowdfunding)**
-* **[Jenis-Jenis Crowdfunding](#jenis-jenis-crowdfunding)**
-* **[Kenapa Crowdfunding Semakin Diminati di Indonesia?](#kenapa-crowdfunding-semakin-diminati-di-indonesia)**
-* **[Keunggulan dan Kekurangan Crowdfunding](#keunggulan-dan-risiko-crowdfunding)**
-* **[Perkembangan Sistem Crowdfunding di Indonesia](#perkembangan-sistem-crowdfunding-di-indonesia)**
-* **[Tips Melakukan Crowdfunding](#tips-melakukan-crowdfunding)**
-
----
+- - -
 
 ## **Apa Itu Crowdfunding?**
 
-_[Crowdfunding](https://landx.id/) _ adalah istilah yang berasal dari _crowd_ yang artinya orang banyak dan _funding_ yang artinya pendanaan, jadi crowdfunding bisa dikatakan sebagai sistem pendanaan yang melibatkan masyarakat luas (crowd).
+*[Crowdfunding](https://landx.id/)*  adalah istilah yang berasal dari *crowd* yang artinya orang banyak dan *funding* yang artinya pendanaan, jadi crowdfunding bisa dikatakan sebagai sistem pendanaan yang melibatkan masyarakat luas (crowd).
 
 Crowdfunding sebenarnya bukanlah sesuatu yang baru karena sudah digunakan sejak bertahun-tahun lalu untuk berbagai tujuan sesuai dengan jenisnya.
 
-Dalam bidang investasi, crowdfunding yang berbasis ekuitas atau _equity crowdfunding_ merupakan instrumen investasi yang mempermudah investor ritel untuk mengakses bisnis privat.
+Dalam bidang investasi, crowdfunding yang berbasis ekuitas atau *equity crowdfunding* merupakan instrumen investasi yang mempermudah investor ritel untuk mengakses bisnis privat.
 
 Dahulu berinvestasi ke dalam perusahaan privat merupakan suatu hal yang sulit diakses semua orang karena berbagai alasan seperti keterbatasan modal. Namun kini hal tersebut menjadi lebih mudah dan dapat diakses oleh masyarakat luas melalui sistem crowdfunding yang membuat investasi bisnis ke bisnis privat menjadi lebih mudah.
 
@@ -51,15 +55,15 @@ Lebih lengkapnya mari kita bahas beberapa jenis crowdfunding yang ada di Indones
 
 Anda dapat mencoba tiga jenis crowdfunding yang mudah anda akses yaitu:
 
-* **Crowdfunding berbasis Donasi**
+* ### **Crowdfunding Berbasis Donasi (Donation-Based Crowdfunding)**
 
 Pada crowdfunding ini lebih fokus pada bantuan kemanusiaan, seperti bencana alam, beasiswa, amal dan juga organisasi nirlaba. Oleh karena itu, investor tidak dapat menuntut pengembalian atau mengharapkan pengembalian dana yang diperoleh.
 
-* **Crowdfunding berbasis Hadiah**
+* ### **Crowdfunding Berbasis Hadiah (Reward-Based Crowdfunding)**
 
 Jenis crowdfunding ini akan menarik investor dalam bentuk hadiah. Namun, investor masih tidak bisa mengharapkan pengembalian uang atau pengembalian bisnis. Jenis ini sering digunakan bisnis kecil untuk menarik investor membantu bisnis mereka dengan imbalan produk edisi khusus untuk penanam modal.
 
-* **Crowdfunding berbasis Ekuitas**
+* ### **Crowdfunding Berbasis Ekuitas (Equity-Based Crowdfunding)**
 
 Berlawanan dengan dua jenis crowdfunding sebelumnya, dalam crowdfunding equity, investor memiliki semua hak pemilik perusahaan, dan memiliki hak untuk berbagi ekuitas dan keuntungan. Skema ini sama seperti anda membeli saham perusahaan akan tetapi, pada skema ini anda bisa membeli saham perusahaan privat.
 
@@ -97,17 +101,17 @@ Crowdfunding yang bertujuan untuk meningkatkan modal perusahaan dapat menghasilk
 
 Selain kelebihan di atas, bagi pemilik bisnis atau investor, crowdfunding juga memiliki berbagai risiko, kendala, kekurangan, dan juga tingkat ketidakpastian yang cukup tinggi. Berikut ini adalah beberapa risikonya.
 
-* **Resiko Kegagalan**
+* ### **Resiko Kegagalan**
 
 Risiko kegagalan suatu proyek yang didanai tentu saja ada. Equity crowdfunding tetap memiliki resiko kegagalan yang lumayan tinggi apabila anda tidak paham tentang bagaimana memilih bisnis yang tepat untuk investasi anda.Namun, hal ini bisa dimitagasi dengan memilih bisnis yang memiliki buyback guarantee sehingga modal anda bisa tetap aman. Akan tetapi, selalu ingat bahwa risiko dan keuntungan merupakan hal yang sejalan sehingga harus anda pertimbangkan selama berinvestasi.
 
-* **Rentan Terhadap Penyalahgunaan**
+* ### **Rentan Terhadap Penyalahgunaan**
 
 Tidak jarang para pemilik bisnis menghadapi kesulitan. Di satu sisi, mereka harus melepas produknya ke publik saat modal awal ditanamkan. Tapi, disisi lain, mereka pasti khawatir ide baru yang tidak terpakai ini akan dicuri oleh orang-orang tak bertanggung jawab lainnya.
 
 Karena sistem ini sudah diawasi OJK, maka anda anda harus memilih platform yang sudah memiliki izin OJK agar anda dapat berinvestasi dengan aman dan nyaman.
 
-* **Resiko Penyalahgunaan Dana Tinggi**
+* ### **Resiko Penyalahgunaan Dana Tinggi**
 
 Jika hal ini dilakukan tanpa aturan yang mengikat antara investor dan pemilik usaha, maka dana yang terkumpul berisiko tidak digunakan seperti yang telah dijelaskan sebelumnya.
 
@@ -117,7 +121,7 @@ Karena sistem ini sudah diawasi OJK, maka anda anda harus memilih platform yang 
 
 ## **Perkembangan Sistem Crowdfunding di Indonesia**
 
-Sistem ini sudah semakin berkembang di Indonesia dan baru-baru ini pemerintah baru saja mengenalkan sistem [_Securities Crowdfunding_ (SCF)](https://landx.id/) sebagai penyempurnaan dari sistem Equity Crowdfunding (ECF).
+Sistem ini sudah semakin berkembang di Indonesia dan baru-baru ini pemerintah baru saja mengenalkan sistem [*Securities Crowdfunding* (SCF)](https://landx.id/) sebagai penyempurnaan dari sistem Equity Crowdfunding (ECF).
 
 Penyempurnaan ini dilakukan agar sistem crowdfunding ini memiliki cakupan yang lebih luas baik dari sisi investor maupun bisnis yang membutuhkan dana.
 
@@ -131,20 +135,21 @@ Dalam berinvestasi dengan sistem ini, anda harus memperhatikan platform crowdfun
 
 [Platform crowdfunding](https://landx.id/https://landx.id/) yang baik akan membantu anda menemukan bisnis yang kredibel dan potensial untuk pilihan investasi anda. Maka dari itu, anda harus melihat dulu bagaimana rekam jejak dari suatu platform sebelum mulai berinvestasi.
 
-**[LandX](https://landx.id/) ** merupakan [platform equity crowdfunding](https://landx.id/) terpercaya yang telah berpengalaman menyalurkan dana ke berbagai bisnis menguntungkan dari berbagai sektor mulai dari F&B, properti, industri kecantikan, cuci mobil, laundry, dan berbagai sektor lainnya.
+**[LandX](https://landx.id/)**  merupakan [platform equity crowdfunding](https://landx.id/) terpercaya yang telah berpengalaman menyalurkan dana ke berbagai bisnis menguntungkan dari berbagai sektor mulai dari F&B, properti, industri kecantikan, cuci mobil, laundry, dan berbagai sektor lainnya.
 
-**[Yuk Ikut Patungan Bisnis Menguntungkan Jangka Panjang Bareng LandX](https://landx.id/project/)**
+## [Yuk Ikut Crowdfunding Membangun Berbagai Bisnis Potensial di LandX](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)
+
+[![miliki bisnis modal kecil cuma dengan 1 jutaan dapat 4 cabang ](https://accountgram-production.sfo2.cdn.digitaloceanspaces.com/landx_ghost/2021/11/jadi-owner-bisnis-hanya-1-jutaan-dengan-cuan-yang-sangat-menjanjikan.png)](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)
 
 **[Mau Berbagai Info Menarik Seputar Investasi Lainnya? Yuk Follow Instagram Kami di @landx.id](https://www.instagram.com/landx.id/?utm_medium=copy_link)**
 
----
+- - -
 
 **Baca Juga:**
 
 * [Bagaimana Cara Terpercaya Investasi Uang Online: Cara Terbaik Mengatur Investasi agar Menjadi Mesin Uang Otomatis](https://landx.id/blog/bagaimana-cara-terpercaya-investasi-uang-online-cara-terbaik-mengatur-investasi-agar-menjadi-mesin-uang-otomatis/)
 * [Simak Cara Mudah Investasi Properti Online Anda dengan Crowdfunding Properti](https://landx.id/blog/simak-cara-mudah-investasi-properti-online-anda-dengan-crowdfunding-properti/)
 
----
+- - -
 
-#YukPatunganBisnis	#LandX.id    #landx.id    #InvestasiBisnis    #EquityCrowdfunding    #InvestasiMenguntungkan    #Urundana    #BisnisPatungan    #InvestasiUsaha
-
+\#SekarangBisa
