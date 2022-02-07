@@ -23,8 +23,6 @@ category:
   - Investasi
   - Bisnis
 ---
-
-
 [Investasi bagi hasil](https://landx.id/). Dalam setiap bisnis, salah satu kendala awal berwirausaha biasanya berkaitan dengan permodalan.
 
 Bagi para pebisnis yang tidak ingin menjalankan bisnis di bank dengan utang yang besar, solusinya adalah berbisnis melalui joint venture dengan mitra bisnis terpercaya atau berinvestasi pada bisnis dengan bagi hasil . Jika anda melakukan ini, Anda perlu memahami rencana distribusi laba yang diterapkan perusahaan.
@@ -33,20 +31,11 @@ Selama ini pembagian keuntungan terkadang disesuaikan dengan jumlah modal yang d
 
 Hal ini membuat  proses pembagian keuntungan dengan menggunakan sistem distribusi aset tetap dianggap tidak adil, hingga akhirnya muncul sistem baru dengan distribusi aset dinamis. Berikut penjelasan dari berbagai jenis investasi bagi hasil.
 
----
-
-## Table of Content
-
-* **[Jenis Investasi Bagi Hasil Terpercaya](#jenis-investasi-bagi-hasil-terpercaya)**
-* **[Crowdfunding, Cara Terbaru Investasi Bagi Hasil Terpercaya](#crowdfunding-cara-terbaru-investasi-bagi-hasil-terpercaya)**
-* **[Keuntungan Crowdfunding](#keuntungan-crowdfunding)**
-* **[LandX Crowdfunding, Metode Pembiayaan Terbaru dan Efektif](#landx-crowdfunding-metode-pembiayaan-terbaru-dan-efektif)**
-
----
+- - -
 
 ## **Jenis Investasi Bagi Hasil Terpercaya**
 
-### **Usaha Patungan Fixed Equity Split** 
+### **Usaha Patungan Fixed Equity Split**
 
 Pemisahan aktiva tetap atau pembagian investasi hasil usaha masih sering muncul pada usaha baru, bukan dalam bentuk PT atau perseroan terbatas. Misalnya, A dan B sepakat membentuk usaha patungan, yang terdiri dari modal awal dan sistem [bagi hasil](https://landx.id/).
 
@@ -122,9 +111,9 @@ Anda tidak perlu lagi khawatir menaruh dana anda di investasi bisnis yang salah 
 
 [![jadi-owner-bisnis-hanya-1-jutaan-dengan-cuan-yang-sangat-menjanjikan](https://accountgram-production.sfo2.cdn.digitaloceanspaces.com/landx_ghost/2021/11/jadi-owner-bisnis-hanya-1-jutaan-dengan-cuan-yang-sangat-menjanjikan.png)](https://landx.id/project/)
 
-[**Mau Berbagai info Terbaru Terkait Investasi? Yuk Follow @landx.id di Instagram**](https://www.instagram.com/landx.id/?utm_medium=copy_link)
+**[Mau Berbagai info Terbaru Terkait Investasi? Yuk Follow @landx.id di Instagram](https://www.instagram.com/landx.id/?utm_medium=copy_link)**
 
----
+- - -
 
 **Baca Juga :**
 
@@ -132,7 +121,6 @@ Anda tidak perlu lagi khawatir menaruh dana anda di investasi bisnis yang salah 
 * [Apakah Kamu Termasuk Sandwich Generation? Ini 6 Cara Memutus Rantai Generasi Sandwich](https://landx.id/blog/memutus-rantai-sandwich-generation/)
 * [Alasan Kenapa Dana Darurat Sangat Penting Disiapkan Sedini Mungkin](https://landx.id/blog/menyiapkan-dana-darurat-yang-ideal/)
 
----
+- - -
 
-**#YukPatunganBisnis    #LandX.id    #landx         #landx.id     #InvestasiBisnis  #SecuritiesCrowdfunding   #EquityCrowdfunding     #InvestasiMenguntungkan     #Urundana    #BisnisPatungan     #InvestasiUsaha**
-
+**\#YukPatunganBisnis    #LandX.id    #landx         #landx.id     #InvestasiBisnis  #SecuritiesCrowdfunding   #EquityCrowdfunding     #InvestasiMenguntungkan     #Urundana    #BisnisPatungan     #InvestasiUsaha**
