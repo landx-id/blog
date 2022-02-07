@@ -1,14 +1,28 @@
-+++
-author = "Abdul Wahhab"
-date = 2021-09-06T04:35:29Z
-metaDescription = "Yuk Kupas Tuntas Project Yellow Car Wash, Bisnis dengan Market Seksi yang Kompetensi Industrinya Tidak Seberapa "
-draft = false
-image = "https://accountgram-production.sfo2.cdn.digitaloceanspaces.com/landx_ghost/2021/09/Kupas-tuntas-bisnis-yellow-car-wash.jpg"
-slug = "kupas-tuntas-project-yellow-carwash"
-summary = "BISNIS INI GAK PUNYA KOMPETITOR?"
-title = "KUPAS TUNTAS PROJECT YELLOW CARWASH"
-
-+++
+---
+draft: false
+summary: BISNIS INI GAK PUNYA KOMPETITOR?
+author: Abdul Wahhab
+slug: kupas-tuntas-project-yellow-carwash
+title: KUPAS TUNTAS PROJECT YELLOW CARWASH
+metaTitle: KUPAS TUNTAS PROJECT YELLOW CARWASH
+metaDescription: "Yuk Kupas Tuntas Project Yellow Car Wash, Bisnis dengan Market
+  Seksi yang Kompetensi Industrinya Tidak Seberapa "
+intro: "Yuk cek gimana potensi jangka panjang dari bisnis Yellow Car Wash yang
+  bisa kamu miliki cuma dengan  modal 1 jutaan aja. "
+date: 2021-09-06T04:35:29.000Z
+tag:
+  - Yellow Car Wash
+  - "Investasi Bisnis "
+  - Bisnis Cuci Mobil
+featuredImage:
+  src: https://accountgram-production.sfo2.cdn.digitaloceanspaces.com/landx_ghost/2021/09/Kupas-tuntas-bisnis-yellow-car-wash.jpg
+  alt: Kupas tuntas potensi jangka panjang Yellow Car Wash
+  title: Cara jadi Pemilik Yellow Car Wash cuma dengan modal 1 juta
+image: https://accountgram-production.sfo2.cdn.digitaloceanspaces.com/landx_ghost/2021/09/Kupas-tuntas-bisnis-yellow-car-wash.jpg
+category:
+  - Bisnis
+  - Investasi
+---
 
 
 BISNIS INI GAK PUNYA KOMPETITOR?
