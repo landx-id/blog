@@ -23,7 +23,9 @@ category:
 
 Investasi Finansial adalah investasi dalam bentuk cair, biasanya diwakili oleh kehadiran sekuritas. Investasi ini dapat dilakukan secara langsung (misalnya: saham) atau secara tidak langsung, dalam bentuk lembaga atau lembaga investasi (misalnya, reksa dana).
 
-Jadi, secara keseluruhan, investasi di sektor keuangan/Finansial dibagi menjadi 3 (tiga) bagian utama, yaitu:
+Investasi adalah kegiatan menanamkan modal ke dalam suatu proyek dengan harapan mendapatkan keuntungan/ return di masa mendatang. Investasi ini bisa dilakukan ke dalam berbagai bentuk instrumen salah satunya ke dalam sektor keuangan/ finansial.
+
+Karena itu, mari kita bahas jenis investasi keuangan/Finansial yang dibagi menjadi 3 (tiga) bagian utama, yaitu:
 
 ## 3 Sektor Investasi Finansial atau Keuangan
 
