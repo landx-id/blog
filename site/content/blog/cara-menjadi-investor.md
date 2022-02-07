@@ -1,29 +1,35 @@
-+++
-author = "Abdul Wahhab"
-category = ["investor pemula", "investasi bisnis", "pilihan investasi"]
-date = 2021-08-02T06:11:15Z
-metaDescription = "Simak bagaimana tips menjadi investor dengan modal kecil dan untung yang besar | Cara memilih investasi terbaik untuk investor pemula"
-draft = false
-slug = "cara-menjadi-investor"
-tag = ["investor pemula", "investasi bisnis", "pilihan investasi"]
-title = "Mau Jadi Investor? Simak Cara Mudah Menjadi Investor Hanya dengan Modal Kecil"
-
-+++
-
-
+---
+draft: false
+author: Abdul Wahhab
+slug: cara-menjadi-investor
+title: Apa Itu Investor? Simak Cara Menjadi Investor Modal Kecil
+metaTitle: Apa Itu Investor? Simak Cara Menjadi Investor Modal Kecil
+metaDescription: Yuk pahami apa yang dimaksud dengan investor dan bagaimana cara
+  jadi investor saham modal kecil
+intro: "Istilah investor tentu saja menjadi sesuatu yang sering kamu dengar
+  belakangan ini. Namun sudahkah kamu paham apa yang dimaksud dengan investor
+  dan bagaimana cara jadi investor bagi pemula. Apabila belum, yuk kita bahas
+  lebih lanjut tentang arti investor. "
+date: 2021-08-02T06:11:15.000Z
+tag:
+  - investor pemula
+  - investasi bisnis
+  - pilihan investasi
+category:
+  - Investasi
+featuredImage:
+  src: https://images.unsplash.com/photo-1606189934846-a527add8a77b?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80
+  alt: Memahami arti investor dan bagaimana cara jadi investor bagi pemula dengan
+    modal kecil
+  title: Memahami Apa Itu Investor dan Cara Menjadi Investor Modal Kecil
+---
 Pada saat ini istilah investor pasti sudah menjadi istilah yang sering kita temui dalam kehidupan sehari-hari terutama bagi anda yang baru mulai belajar cara pengembangan uang melalui investasi.
 
 Istilah ini juga kian populer karena saat ini masyarakat semakin melek investasi sehingga banyak yang mulai terjun ke dunia investasi.
 
-Investasi sendiri merupakan kegiatan menanamkan modal terhadap suatu proyek atau kegiatan ekonomi dengan harapan bisa mendapatkan  _[return](https://landx.id/project/index.html) _ atau keuntungan di masa mendatang. Sedangkan investor adalah orang yang bertindak sebagai penanam modal di proyek tersebut.
+Investasi sendiri merupakan kegiatan menanamkan modal terhadap suatu proyek atau kegiatan ekonomi dengan harapan bisa mendapatkan  *[return](https://landx.id/project/index.html)*  atau keuntungan di masa mendatang. Sedangkan investor adalah orang yang bertindak sebagai penanam modal di proyek tersebut.
 
 Untuk itu, mari kita bahas lebih lanjut apa itu investor dan bagaimana cara menjadi investor dengan modal kecil yang membantu pengembangan modal anda.
-
-## Table of Content
-
-* **[Apa Itu Investor?](#apa-itu-investor)**
-* **[Cara Menjadi Investor dengan Modal Kecil](#cara-menjadi-investor-dengan-modal-kecil)**
-* **[Menjadi Investor dengan Modal Kecil](#mulai-investasi-bisnis-modal-kecil-bersama-landx-Hanya-dengan-1-Juta)**
 
 ## Apa Itu Investor?
 
@@ -39,7 +45,7 @@ Akan tetapi, banyak orang salah kaprah dengan istilah ini dan menganggap bahwa i
 
 Apabila anda belum tahu cara menjadi investor dengan modal kecil, mari kita bahas bagaimana cara menjadi investor dengan modal kecil.
 
-## Cara Menjadi Investor dengan Modal Kecil
+## Cara Menjadi Investor Pemula
 
 Apabila anda ingin menjadi investor dan mau mulai berinvestasi, sebenarnya anda bisa melakukan hal ini melalui berbagai cara karena tersedia banyak instrumen investasi bisa disesuaikan dengan budget dan tujuan investasi anda. Karena itu, berikut beberapa cara menjadi investor yang bisa anda coba.
 
@@ -67,7 +73,7 @@ Apabila anda mulai investasi ke dalam suatu bisnis, maka anda harus menghitung b
 
 ### 4. Memulai Investasi Bisnis Modal Kecil
 
-Berikutnya, sebagai investor anda tidak boleh lupa membangun investasi yang bisa memberikan anda _[passive income](https://landx.id/project/index.html)_ dalam jangka panjang sehingga modal yang anda miliki menjadi lebih optimal.
+Berikutnya, sebagai investor anda tidak boleh lupa membangun investasi yang bisa memberikan anda *[passive income](https://landx.id/project/index.html)* dalam jangka panjang sehingga modal yang anda miliki menjadi lebih optimal.
 
 Salah satu caranya adalah dengan mulai melakukan investasi bisnis yang berpotensi memberikan anda keuntungan jangka panjang melalui dividen yang nilainya berdasarkan keuntungan suatu bisnis.
 
@@ -87,14 +93,11 @@ Karena itu, anda harus bisa menemukan bisnis dengan potensi perkembangan yang ba
 
 ## [Mulai Investasi Bisnis Modal Kecil Bersama LandX Hanya dengan 1 Juta](https://landx.id/project/index.html)
 
+**[Jangan Lupa!!! Follow Juga Kami di Instagram @landx.id Untuk Berbagai Informasi Terupdate Seputar Investasi](https://instagram.com/landx.id?utm_medium=copy_link)**
 
-
-[**Jangan Lupa!!! Follow Juga Kami di Instagram @landx.id Untuk Berbagai Informasi Terupdate Seputar Investasi**](https://instagram.com/landx.id?utm_medium=copy_link)
-
-**#LandX.id    #landx         #landx.id    #InvestasiBisnis    #EquityCrowdfunding    #InvestasiMenguntungkan    #Urundana    #BisnisPatungan    #InvestasiUsaha**
+**\#LandX.id    #landx         #landx.id    #InvestasiBisnis    #EquityCrowdfunding    #InvestasiMenguntungkan    #Urundana    #BisnisPatungan    #InvestasiUsaha**
 
 **Baca Juga:**
 
-* ******[Buat Yang Mau Investasi, Yuk Pahami Seperti Apa Investasi Jangka Panjang yang Baik untuk Anda](https://landx.id/blog/tag/investasi-jangka-panjang)******
-* ****[**Investasi Modal Kecil:  Jenis dan Memilih Investasi dengan Modal Kecil yang Menguntungkan untuk Anda**](https://landx.id/blog/investasi-modal-kecil-jenis-dan-memilih-investasi-dengan-modal-kecil-yang-menguntungkan-untuk-anda/)****
-
+* **\*\***[Buat Yang Mau Investasi, Yuk Pahami Seperti Apa Investasi Jangka Panjang yang Baik untuk Anda](https://landx.id/blog/tag/investasi-jangka-panjang)**\*\***
+* \***\*[**Investasi Modal Kecil:  Jenis dan Memilih Investasi dengan Modal Kecil yang Menguntungkan untuk Anda**](https://landx.id/blog/investasi-modal-kecil-jenis-dan-memilih-investasi-dengan-modal-kecil-yang-menguntungkan-untuk-anda/)\*\***
