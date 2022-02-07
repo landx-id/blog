@@ -1,15 +1,24 @@
-+++
-author = "Gunawan Aldy"
-date = 2019-07-24T04:03:25Z
-metaDescription = "Investasi ini dapat dilakukan secara langsung (misalnya: saham) atau secara tidak langsung, dalam bentuk lembaga atau lembaga investasi (misalnya, reksa dana)."
-draft = false
-image = "https://accountgram-production.sfo2.cdn.digitaloceanspaces.com/landx_ghost/2019/06/investasi-finansial.jpg"
-slug = "investasi-finansial"
-title = "Investasi Finansial"
-
-+++
-
-
+---
+draft: false
+author: Gunawan Aldy
+slug: investasi-finansial
+title: Investasi Finansial
+metaTitle: Investasi Finansial
+metaDescription: Bentuk-bentuk investasi finansial yang perlu kamu pahami dengan baik
+intro: Cara investasi finansial yang bisa memberikan kamu keuntungan jangka
+  panjang yang harus kamu perhatikan dengan baik
+date: 2019-07-24T04:03:25.000Z
+tag:
+  - Investasi
+  - Instrumen Investasi
+featuredImage:
+  src: https://accountgram-production.sfo2.cdn.digitaloceanspaces.com/landx_ghost/2019/06/investasi-finansial.jpg
+  alt: Memulai investasi Finansial
+  title: Investasi finansial yang perlu kamu siapkan sedini mungkin
+image: https://accountgram-production.sfo2.cdn.digitaloceanspaces.com/landx_ghost/2019/06/investasi-finansial.jpg
+category:
+  - Investasi
+---
 ## Definisi Investasi Finansial, Jenis dan Perbedaan
 
 Investasi Finansial adalah investasi dalam bentuk cair, biasanya diwakili oleh kehadiran sekuritas. Investasi ini dapat dilakukan secara langsung (misalnya: saham) atau secara tidak langsung, dalam bentuk lembaga atau lembaga investasi (misalnya, reksa dana).
@@ -64,9 +73,10 @@ Ini berbeda dari properti yang memiliki umur lebih panjang, dan bahkan dapat dia
 
 Dalam jangka panjang, [investasi properti](https://landx.id/) tidak sebanding dengan investasi lain di sektor keuangan. Singkatnya, tiga belas faktor membedakan investasi properti dari investasi keuangan. Pendapatan potensial dari properti berasal dari penyewaan properti; bisa berupa rumah, toko atau kios.
 
-> [**Yuk Ikuti Kami di Instagram @landx.id Untuk Berbagai Informasi Finansial Terbaru**](https://instagram.com/landx.id?utm_medium=copy_link)
+**[Yuk Mulai Investasi Finansial Kamu di LandX](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)**[![miliki bisnis modal kecil cuma dengan 1 jutaan dapat 4 cabang ](https://accountgram-production.sfo2.cdn.digitaloceanspaces.com/landx_ghost/2021/11/jadi-owner-bisnis-hanya-1-jutaan-dengan-cuan-yang-sangat-menjanjikan.png)](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)
 
----
+> **[Yuk Ikuti Kami di Instagram @landx.id Untuk Berbagai Informasi Finansial Terbaru](https://instagram.com/landx.id?utm_medium=copy_link)**
 
-#LandX.id	#landx.id	#InvestasiBisnis	#EquityCrowdfunding	#InvestasiMenguntungkan	#Urundana	#BisnisPatungan	#InvestasiUsaha
+- - -
 
+\#LandX.id	#landx.id	#InvestasiBisnis	#EquityCrowdfunding	#InvestasiMenguntungkan	#Urundana	#BisnisPatungan	#InvestasiUsaha
