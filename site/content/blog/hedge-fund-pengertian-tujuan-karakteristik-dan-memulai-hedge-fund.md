@@ -15,7 +15,7 @@ intro: >-
 
 
   Karena itu, yuk kita bahas apa itu hedge fund dan bagaimana cara investasi ke instrumen investasi satu ini. 
-date: 2021-04-29T04:11:50.000Z
+date: 2022-02-07T03:26:05.536Z
 tag:
   - bisnis investasi
   - investasi
