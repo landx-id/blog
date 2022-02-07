@@ -1,25 +1,37 @@
-+++
-author = "Abdul Wahhab"
-date = 2021-06-09T04:23:44Z
-metaDescription = ""
-draft = false
-slug = "obligasi-konversi"
-title = "Obligasi Konversi: Mengenal Apa Itu Obligasi Konversi dan Jenis-Jenis dari Instrumen Investasi Ini"
+---
+draft: false
+author: Abdul Wahhab
+slug: obligasi-konversi
+title: "Obligasi Konversi: Apa Itu Obligasi Konversi dan Keuntungannya"
+metaTitle: "Obligasi Konversi: Apa Itu Obligasi Konversi dan Keuntungannya"
+metaDescription: Obligasi konversi adalah jenis obligasi yang bisa jadi pilihan
+  untuk investasi anda, konversi obligasi jadi saham
+intro: >-
+  Obligasi konversi adalah salah satu instrumen investasi yang bisa memberikan
+  anda keuntungan, akan tetapi sudahkan anda tahu berbagai jenis obligasi yang
+  bisa jadi instrumen investasi anda? Salah satu jenis obligasi yang bisa anda
+  coba adalah obligasi konversi.
 
-+++
 
-
+  Jenis obligasi ini bisa menjadi pilihan instrumen investasi yang bisa memberikan anda keuntungan. Karena itu mari kita bahas lebih lanjut apa itu obligasi konversi.
+date: 2021-06-09T04:23:44.000Z
+tag:
+  - Obligasi
+  - Instrumen Investasi
+category:
+  - Investasi
+featuredImage:
+  src: https://images.unsplash.com/photo-1624953187654-9d6c86f63315?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80
+  alt: Mengenal obligasi konversi dan  jenis-jenis obligasi konversi yang bisa
+    memberikan kamu keuntungan jangka panjanga
+  title: Mengenal jenis obligasi konversi yang bisa memberikan kamu keuntungan
+    jangka panjang
+---
 Obligasi merupakan salah satu instrumen investasi yang bisa memberikan anda keuntungan, akan tetapi sudahkan anda tahu berbagai jenis obligasi yang bisa jadi instrumen investasi anda? Salah satu jenis obligasi yang bisa anda coba adalah obligasi konversi.
 
 Jenis obligasi ini bisa menjadi pilihan instrumen investasi yang bisa memberikan anda keuntungan. Karena itu mari kita bahas lebih lanjut apa itu obligasi konversi.
 
-## Table of Content
-
-* **[Obligasi Konversi](#obligasi-konversi)**
-* **[Cara Kerja Obligasi Konversi](#cara-kerja-obligasi-konversi)**
-* **[Keuntungan Obligasi Konversi](#keuntungan-obligasi-konversi)**
-* **[Jenis-Jenis Obligasi Konversi](#jenis-jenis-obligasi-konversi )**
-* **[Kesimpulan](#kesimpulan)**
+- - -
 
 ## Obligasi Konversi
 
@@ -47,36 +59,37 @@ Akan tetapi, anda harus tetap mempertimbangkan risiko yang muncul di masa mendat
 
 ## Jenis-Jenis Obligasi Konversi
 
-* **Obligasi Tukar**
+* ### **Obligasi Tukar**
 
-Obligasi tukar juga sering disebut sebagai _exchangeable convertible_ merupakan jenis obligasi konversi di mana saham yang digunakan dalam obligasi konversi merupakan saham perusahaan yang berbeda dari penerbit obligasi tersebut.
+Obligasi tukar juga sering disebut sebagai *exchangeable convertible* merupakan jenis obligasi konversi di mana saham yang digunakan dalam obligasi konversi merupakan saham perusahaan yang berbeda dari penerbit obligasi tersebut.
 
-* ******Obligasi Wajib Konversi******
+* ### Obligasi Wajib Konversi
 
-Jenis  ini juga disebut _mandatory convertibles_ di mana obligasi jenis ini memiliki memiliki periode waktu pendek dengan _return_ yang tinggi dan wajib untuk dikonversikan menjadi saham biasa yang mengacu pada harga pasar saham pada saat dilakukan konversi.
+Jenis  ini juga disebut *mandatory convertibles* di mana obligasi jenis ini memiliki memiliki periode waktu pendek dengan *return* yang tinggi dan wajib untuk dikonversikan menjadi saham biasa yang mengacu pada harga pasar saham pada saat dilakukan konversi.
 
-* ******Obligasi Konversi Bersyarat******
+* ### Obligasi Konversi Bersyarat
 
 Dalam sistem ini, investor hanya diperbolehkan untuk melakukan konversi obligasi menjadi saham dalam kondisi persentase tertentu di atas harga konversi yang sudah disepakati sejak awal.
 
-* ******Obligasi Konversi Saham Preferen******
+* ### Obligasi Konversi Saham Preferen
 
 Jenis ini hampir sama dengan jenis obligasi pada umumnya, yang menjadi pembeda adalah struktur permodalan dalam obligasi konversi jenis ini. Dalam sistem ini, struktur modal memiliki peringkat senioritas yang lebih rendah.
 
-## Kesimpulan
+## Diversifikasi dalam Berinvestasi
 
-Setelah paham apa itu obligasi konversi tentu kini anda tahu obligasi konversi jenis apa yang cocok untuk investasi anda.
+Setiap instrumen investasi memiliki keuntungan jangka panjang termasuk obligasi konversi, tapi jangan lupa kamu juga perlu menyiapkan strategi diversifikasi agar keuntungan investasi kamu menjadi lebih optimal. Salah satu instrumen yang bisa kamu pilih adalah investasi bisnis lewat **equity crowdfunding.**
 
-Akan tetapi sudahkan anda tahu bahwa anda bahwa anda bisa menjadi pemilik saham dari berbagai bisnis potensial di sekitar anda? Jika anda belum belum tahu maka anda wajib mencoba investasi bisnis bersama [LandX](https://landx.id/) yang memberikan anda kesempatan untuk berinvestasi ke dalam berbagai bisnis potensial.
+Sistem ini memberikan kamu kesempatan untuk berinvestasi ke dalam berbagai bisnis menguntungkan cuma dengan modal 1 juta saja.... 
 
-**[Yuk Investasi Bisnis Bersama LandX untuk Bangun Investasi Jangka Panjang yang Menguntungkan](https://landx.id/)**
+Karena itu.......
 
-**[Supaya Gak Ketinggalan Informasi Seputar Investasi Lainnya, yuk Follow Kami di Instagram @landx.id](https://instagram.com/landx.id?utm_medium=copy_link)**
+## **[Yuk Temukan Bisnis Menjanjikan dengan Keuntungan Terbaik di LandX](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)**
 
-#LandX.id    #landx         #landx.id    #InvestasiBisnis    #EquityCrowdfunding    #InvestasiMenguntungkan    #Urundana    #BisnisPatungan    #InvestasiUsaha
+[![miliki bisnis modal kecil cuma dengan 1 jutaan dapat 4 cabang ](https://accountgram-production.sfo2.cdn.digitaloceanspaces.com/landx_ghost/2021/11/jadi-owner-bisnis-hanya-1-jutaan-dengan-cuan-yang-sangat-menjanjikan.png)](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)
+
+
 
 **Baca Juga:**
 
 * [Investor Pemula Wajib Tau, Berbagai Jenis dan Risiko Obligasi](https://landx.id/blog/apa-itu-obligasi/)
 * [Resmi Diluncurkan, Berikut Perbedaan antara Securities Crowdfunding (SCF) dan Equity Crowdfunding (ECF)](https://landx.id/blog/securities-crowdfunding-dan-equity-crowdfunding/)
-
