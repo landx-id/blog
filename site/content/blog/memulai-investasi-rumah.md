@@ -1,25 +1,30 @@
-+++
-author = "Abdul Wahhab"
-category = ["investasi properti", "crowdfunding properti", "investasi bisnis"]
-date = 2021-06-29T05:01:49Z
-metaDescription = "Investasi Rumah|Tips Investasi Rumah|Cara Memulai Investasi Rumah yang Menguntungkan untuk Pemula|Membangun Rumah untuk Investasi"
-draft = false
-slug = "memulai-investasi-rumah"
-tag = ["investasi properti", "crowdfunding properti", "investasi bisnis"]
-title = "Mau Investasi Rumah? Berikut Hal yang Wajib Kamu Ketahui Tentang Investasi Rumah"
-
-+++
-
-
+---
+draft: false
+author: Abdul Wahhab
+slug: memulai-investasi-rumah
+title: Mau Investasi Rumah? Persiapan Penting Saat Investasi Rumah
+metaTitle: Mau Investasi Rumah? Persiapan Penting Saat Investasi Rumah
+metaDescription: Tips Investasi Rumah dan Cara Memulai Investasi Rumah yang
+  Menguntungkan untuk Pemula Membangun Rumah untuk Investasi
+intro: Investasi rumah adalah salah satu investasi properti yang disukai oleh
+  banyak orang sejak dulu. Akan tetapi, sudahkah paham berbagai persiapan saat
+  ingin investasi rumah? Jika belum, yuk kita bahas berbagai persiapan penting
+  saat ingin investasi rumah.
+date: 2021-06-29T05:01:49.000Z
+tag:
+  - investasi properti
+  - crowdfunding properti
+  - investasi bisnis
+category:
+  - Investasi
+featuredImage:
+  src: https://images.unsplash.com/photo-1560520653-9e0e4c89eb11?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1073&q=80
+  alt: Investasi rumah adalah investasi properti yang menguntungkan
+  title: Memulai investasi rumah untuk passive income jangka panjang
+---
 Pemerintah Indonesia baru saja mengeluarkan kebijakan baru yang mempermudah anda untuk berinvestasi properti karena pemerintah memberikan insentif berupa penggratisan PPN untuk rumah dengan harga jual paling tinggi Rp 2 miliar dan subsidi PPN sebanyak 50% untuk rumah dengan harga di atas Rp 2 hingga Rp 5 miliar.  Hal ini dilakukan untuk mendorong bangkitnya sektor industri properti yang sempat turun karena efek pandemi.
 
 Kebijakan baru pemerintah ini membuka kesempatan untuk anda yang ingin mulai investasi rumah. Momentum ini membuat investasi rumah yang anda lakukan menjadi lebih mudah karena modal untuk [berinvestasi rumah](https://landx.id/) menjadi lebih kecil. Tapi sebelum itu, yuk ikuti beberapa tips jitu investasi rumah yang bisa anda coba.
-
-## Table of Content
-
-* **[Memahami Investasi Rumah](#memahami-investasi-rumah)**
-* **[Tips Investasi Rumah](#tips-investasi-rumah)**1. [Lokasi Strategis](#lokasi-strategis)2. [Menentukan Momentum yang Tepat untuk Membeli Rumah](#menentukan-momentum-yang-tepat-untuk-membeli-rumah)3. [Metode Pembelian Rumah](#metode-pembelian-rumah)4. [Memperhatikan Kualitas Properti](#memperhatikan-kualitas-properti)5. [Rencana Pengembangan](#rencana-pengembangan)6. [Investasi Rumah untuk Jangka Panjang](#investasi-rumah-untuk-jangka-panjang)
-* **[Hal yang Harus Diperhatikan dalam Investasi Rumah](#hal-yang-harus-diperhatikan-dalam-investasi-rumah)**1. [Salah Paham tentang Konsep Investasi Rumah](#salah-paham-tentang-konsep-investasi-rumah)2[. Perawatan](#perawatan)3. [Permodalan](#permodalan)
 
 ## Memahami Investasi Rumah
 
@@ -91,6 +96,8 @@ Selanjutnya mari kita bahas hal yang harus diperhatikan dalam investasi rumah
 
 ## Hal yang Harus Diperhatikan dalam Investasi Rumah
 
+Saat ingin investasi rumah, berikut beberapa hal yang harus kamu perhatikan: 
+
 ### Salah Paham tentang Konsep Investasi Rumah
 
 Banyak orang beranggapan bahwa membeli rumah untuk ditempati merupakan salah satu cara investasi rumah. Hal ini karena banyak orang tidak bisa membedakan kapan rumah disebut sebagai investasi dan kapan disebut sebagai beban.
@@ -115,16 +122,15 @@ Sistem ini mempermudah dan memperkecil risiko [investasi properti](https://landx
 
 Cara ini menjadi solusi untuk anda yang ingin investasi properti tapi masih memiliki modal yang terbatas. Apabila anda tertarik…….
 
-## [Yuk Mulai Investasi Properti Menguntungkan Bersama LandX](https://landx.id/)
+## [Yuk Mulai Investasi Properti Menguntungkan Bersama LandX](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)
 
+[![miliki bisnis modal kecil cuma dengan 1 jutaan dapat 4 cabang ](https://accountgram-production.sfo2.cdn.digitaloceanspaces.com/landx_ghost/2021/11/jadi-owner-bisnis-hanya-1-jutaan-dengan-cuan-yang-sangat-menjanjikan.png)](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)
 
+**[Supaya Lebih Paham Tentang Investasi, Jangan Lupa Follow @landx.id di Instagram](https://www.instagram.com/landx.id/?utm_medium=copy_link)**
 
-[**Supaya Lebih Paham Tentang Investasi, Jangan Lupa Follow @landx.id di Instagram**](https://www.instagram.com/landx.id/?utm_medium=copy_link)
-
-**#LandX.id    #landx.id    #InvestasiBisnis    #EquityCrowdfunding    #InvestasiMenguntungkan    #Urundana    #BisnisPatungan    #InvestasiUsaha**
+**\#LandX.id    #landx.id    #InvestasiBisnis    #EquityCrowdfunding    #InvestasiMenguntungkan    #Urundana    #BisnisPatungan    #InvestasiUsaha**
 
 **Baca Juga:**
 
 * [10 Rekomendasi Situs Jual Beli Rumah Terpercaya 2021](https://landx.id/blog/10-rekomendasi-situs-jual-beli-rumah-terpercaya-2021/)
 * [Cara Mengembangkan Uang dengan Cepat: Mulai Mengatur Uang dengan Baik di Tahun 2021](https://landx.id/blog/cara-mengembangkan-uang-dengan-cepat-mulai-mengatur-uang-dengan-baik-di-tahun-2021/)
-
