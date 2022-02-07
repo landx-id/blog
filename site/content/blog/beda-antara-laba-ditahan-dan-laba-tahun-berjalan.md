@@ -56,23 +56,23 @@ Laba ditahan atau *retained earnings* merupakan laba yang didapatkan oleh perusa
 
 Berikut beberapa manfaat laba ditahan untuk suatu perusahaan:
 
-## 1. Membiayai Operasional Perusahaan
+### 1. Membiayai Operasional Perusahaan
 
 Agar operasional perusahaan dapat berjalan dengan baik dan terus berkembang, maka laba ditahan seringkali digunakan untuk membiayai operasional perusahaan. Kebijakan ini diambil dengan tujuan operasional bisnis bisa  berjalan dengan lebih baik sehingga dapat berkembang dengan lebih optimal lagi pada periode berikutnya. Akan tetapi, pengambilan kebijakan ini kembali lagi kepada keputusan para investor dalam RUPS.
 
-## 2. Membayar Hutang Perusahaan
+### 2. Membayar Hutang Perusahaan
 
 Apabila perusahaan memiliki hutang yang akan jatuh tempo dalam waktu dekat sehingga butuh segera dibayarkan, maka perusahaan dapat merencanakan penggunaan laba yang didapatkan untuk membayar hutang terlebih dahulu. Hal ini untuk menghindari penunggakan hutang yang dapat berdampak buruk terhadap nama baik perusahaan. 
 
 Oleh sebab itu, biasanya laba ditahan akan digunakan untuk hutang yang segera jatuh tempo sehingga harus dibayarkan sesegera mungkin.
 
-## 3. Menyiapkan Modal Cadangan
+### 3. Menyiapkan Modal Cadangan
 
 Penahanan laba juga bisa dilakukan dengan tujuan untuk disimpan sebagai modal cadangan untuk berbagai kendala yang tidak terduga di masa mendatang. Hal ini dilakukan agar perusahaan tidak perlu berhutang apabila membutuhkan dana sehingga bisnis dapat berkembang dengan lebih baik dari waktu ke waktu. 
 
 Modal cadangan sangat penting melihat berbagai kondisi mungkin saja terjadi di masa mendatang sehingga perusahaan harus menyiapkan dana cadangan agar tetap bisa berjalan dengan baik.
 
-## 4. Ekspansi Bisnis Jangka Panjang
+### 4. Ekspansi Bisnis Jangka Panjang
 
 Perusahaan tentu saja memiliki rencana ekspansi agar bisnis dapat berkembang dengan skala yang lebih besar sehingga potensi keuntungan pun menjadi lebih besar. Pengembangan ini bisa dilakukan dengan menggunakan laba ditahan dengan persetujuan para investor dalam RUPS. Pengembangan ini sangat penting agar perusahaan dapat terus berkembang sehingga bisa memberikan keuntungan yang lebih besar lagi.
 
