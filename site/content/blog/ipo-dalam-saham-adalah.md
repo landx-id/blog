@@ -1,43 +1,52 @@
-+++
-author = "Abdul Wahhab"
-category = ["Cara Investasi Saham", "tips investasi", "IPO Bukalapak", "cara mengembangkan uang dengan cepat", "investasi saham"]
-date = 2021-07-20T10:16:50Z
-metaDescription = "Apa Itu IPO dalam Saham? Pahami apa itu IPO agar anda bisa mengambil keputusan investasi yang lebih baik dan menguntungkan saat memilih saham\n"
-draft = false
-image = "https://images.unsplash.com/photo-1560221328-12fe60f83ab8?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxMTc3M3wwfDF8c2VhcmNofDJ8fHN0b2NrfGVufDB8fHx8MTY0MDMzMzA0MQ&ixlib=rb-1.2.1&q=80&w=1080"
-slug = "ipo-dalam-saham-adalah"
-tag = ["Cara Investasi Saham", "tips investasi", "IPO Bukalapak", "cara mengembangkan uang dengan cepat", "investasi saham"]
-title = "Memahami dengan Lebih Baik Tentang Apa Itu IPO dalam Dunia Saham"
-
-+++
-
-
-Belakangan anda tentu saja sering mendengar istilah [IPO atau _initial public offering_](https://landx.id/project/index.html) __ setelah beberapa perusahaan rintisan berbasis teknologi seperti **[Bukalapak](https://landx.id/blog/ipo-bukalapak-menelusuri-penyebab-anjloknya-harga-saham-bukalapak-semenjak-ipo/), Gojek dan Tokopedia yang berencana melakukan IPO dalam waktu dekat**.
-
-**_Initial public offering_ adalah** hal yang sangat umum dilakukan suatu perusahaan dengan berbagai tujuan seperti keinginan untuk mengembangkan bisnis ke skala yang lebih besar.
-
-IPO adalah langkah besar yang diambil oleh perusahaan karena mereka akan melepaskan saham mereka kepada masyarakat luas.
-
-Oleh sebab itu, pelepasan kepada publik ini merupakan tahap dimana perusahaan membuka kesempatan kepada masyarakat untuk memiliki bagian di bisnis mereka. Agar anda semakin paham, yuk kita bahas lebih lanjut tentang apa itu IPO.
-
 ---
+draft: false
+author: Abdul Wahhab
+slug: ipo-dalam-saham-adalah
+title: "IPO adalah: Memahami Apa Itu IPO Saham dan Berinvestasi ke Saham IPO"
+metaTitle: "IPO adalah: Memahami Apa Itu IPO Saham dan Berinvestasi ke Saham IPO"
+metaDescription: IPO saham adalah penawaran perdana saham ke publik sehingga
+  publik dapat memiliki dari perusahaan yang melakukan IPO|Membeli Saham IPO
+intro: "IPO sebuah perusahaan adalah sesuatu yang ditunggu oleh banyak investor
+  karena IPO menjadi penawaran perdana saham suatu perusahaan kepada masyarakat
+  luas. Saham IPO menjadi incaran banyak orang karena IPO menjadi kesempatan
+  untuk membeli saham pada harga buku atau penawaran awal. Karena ity, yuk kita
+  bahas bagaimana potensi saham IPO untuk investasi jangka panjang anda. "
+date: 2021-07-20T10:16:50.000Z
+tag:
+  - Cara Investasi Saham
+  - tips investasi
+  - IPO Bukalapak
+  - cara mengembangkan uang dengan cepat
+  - investasi saham
+featuredImage:
+  src: https://images.unsplash.com/photo-1560221328-12fe60f83ab8?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxMTc3M3wwfDF8c2VhcmNofDJ8fHN0b2NrfGVufDB8fHx8MTY0MDMzMzA0MQ&ixlib=rb-1.2.1&q=80&w=1080
+  alt: Memahami apa itu ipo dan cara membeli saham IPO untuk pemula
+  title: Melihat potensi investasi ke saham IPO
+image: https://images.unsplash.com/photo-1560221328-12fe60f83ab8?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxMTc3M3wwfDF8c2VhcmNofDJ8fHN0b2NrfGVufDB8fHx8MTY0MDMzMzA0MQ&ixlib=rb-1.2.1&q=80&w=1080
+category:
+  - Investasi
+---
+**Belakangan anda tentu saja sering mendengar istilah [IPO atau *initial public offering*](https://landx.id/project/index.html)** setelah beberapa perusahaan rintisan berbasis teknologi seperti **[Bukalapak](https://landx.id/blog/ipo-bukalapak-menelusuri-penyebab-anjloknya-harga-saham-bukalapak-semenjak-ipo/), Gojek dan Tokopedia yang berencana melakukan IPO dalam waktu dekat**.
 
-## Table of Content
+***Initial public offering atau IPO* adalah** hal yang sangat umum dilakukan suatu perusahaan dengan berbagai tujuan seperti keinginan untuk mengembangkan bisnis ke skala yang lebih besar.
 
-* **[Apa Itu IPO dalam Saham?](https://landx.id/blog/ipo-dalam-saham-adalah/#apa-itu-ipo-dalam-saham)**
-* **[Penyebab Perusahaan Melakukan IPO](https://landx.id/blog/ipo-dalam-saham-adalah/#penyebab-perusahaan-melakukan-ipo)**[1. Mendapatkan Penambahan Moda******l******](https://landx.id/blog/ipo-dalam-saham-adalah/#1-mnedapatkan-penambahan-modal)2. [Pengembangan Bisnis Jangka Panjang](https://landx.id/blog/ipo-dalam-saham-adalah/#2-pengembangan-bisnis-jangka-panjang)3. [Meningkatkan Nilai Perusahaan](https://landx.id/blog/ipo-dalam-saham-adalah/#3-meningkatkan-nilai-perusahaan)
-* **[Pertimbangan Membeli Saham IPO](https://landx.id/blog/ipo-dalam-saham-adalah/#pertimbangan-membeli-saham-ipo)**
-* **[Penutup](#penutup)**
+IPO adalah langkah besar yang diambil oleh perusahaan karena mereka akan melepaskan saham mereka kepada masyarakat luas. Hal ini menjadikan saham IPO adalah saham yang diburu banyak investor karena biasanya harganya masih murah dan potensi meningkatnya sangat tinggi. 
+
+Karena itu, saham IPO terbaru selalu menarik perhatian banyak investor terutama apabila IPO saham berasal dari perusahaan-perusahaan bonafit yang telah ditunggu publik untuk IPO. 
+
+Karena itu, yuk kita bahas lebih secara lebih lanjut tentang saham IPO dan bagaiman cara beli saham IPO.
+
+- - -
 
 ## Apa Itu IPO dalam Saham?
 
-IPO adalah _initial public offering_ atau bisa disebut juga sebagai penawaran perdana suatu saham kepada masyarakat umum. Tahap ini di mana perusahaan membua diri kepada publik mereka kepada publik sehingga masyarakat luas dapat memiliki bagian dari perusahaan tersebut.
+IPO adalah *initial public offering* atau bisa disebut juga sebagai penawaran perdana suatu saham kepada masyarakat umum. Tahap ini di mana perusahaan membua diri kepada publik mereka kepada publik sehingga masyarakat luas dapat memiliki bagian dari perusahaan tersebut.
 
 Tahap ini sangat krusial bagi perusahaan karena mereka akan mendapatkan pendanaan dari investor dengan cakupan yang lebih luas lagi. Untuk melakukan IPO perusahaan akan melewati beberapa tahap hingga akhirnya melakukan pencatatan di BEI dan bisa diakses oleh publik.
 
 Apabila sudah memutuskan untuk melantai di bursa saham, maka mereka artinya sudah membuka kesempatan masyarakat luas untuk menjadi investor kepada bisnis tersebut.
 
-Oleh sebab itu, perusahaan dengan prospek menjanjikan sangat ditunggu investor untuk melantai di bursa saham. Lebih lanjut mari kita bahas berbagai alasan perusahaan melakukan penawaran perdana atau _initial public offering_.
+Oleh sebab itu, perusahaan dengan prospek menjanjikan sangat ditunggu investor untuk melantai di bursa saham. Lebih lanjut mari kita bahas berbagai alasan perusahaan melakukan penawaran perdana atau *initial public offering*.
 
 ## Penyebab Perusahaan Melakukan IPO
 
@@ -63,17 +72,17 @@ Peningkatan nilai perusahaan ini tentu saja membuat memiliki posisi yang lebih k
 
 ## Pertimbangan Membeli Saham IPO
 
-Membeli saham pada saat penawaran perdana memiliki kelebihan dan kekurangan, oleh sebab itu mari kita bahas dulu keunggulan dari membeli saham IPO.
+Membeli saham pada saat penawaran perdana memiliki kelebihan dan kekurangan, oleh sebab itu mari kita bahas dulu keunggulan dari membeli saham IPO. Pembelian saham saat penawaran perdana biasanya memiliki harga yang lebih rendah dibandingkan membeli saham di pasar sekunder.
 
-Pembelian saham saat penawaran perdana biasanya memiliki harga yang lebih rendah dibandingkan membeli saham di pasar sekunder.
-
-Hal ini otomatis membuat potensi keuntungan dari saham IPO lebih besar dan menarik investor. Oleh sebab itu, banyak orang tertarik untuk membeli saham dari perusahaan saat mereka IPO.
-
-Akan tetapi, selain potensi keuntungan saat membeli saham di harga awal yang relatif murah, membeli saham IPO juga memiliki risiko yang harus tetap anda pertimbangkan.
+Hal ini otomatis membuat potensi keuntungan dari saham IPO lebih besar dan menarik investor. Oleh sebab itu, banyak orang tertarik untuk membeli saham dari perusahaan saat mereka IPO. Akan tetapi, selain potensi keuntungan saat membeli saham di harga awal yang relatif murah, membeli saham IPO juga memiliki risiko yang harus tetap anda pertimbangkan.
 
 Hal ini karena saham IPO tetap memiliki potensi untuk penurunan nilai dari waktu ke waktu. Selain itu, pembelian saham IPO membutuhkan waktu yang lebih lama karena anda harus melewati beberapa tahapan sebelumnya.
 
-## Penutup
+Dalam membeli saham IPO, kamua harus melakukan analisis secara mendalam karena tidak semua saham IPO merupakan saham potensial yang harganya akan terus naik dari waktu ke waktu. Kamu harus tau bahwa sebagian perusahaan menggunakan IPO sebagai strategi exit mereka. 
+
+Karena itu, saat beli saham IPO kamu perlu berhati-hati dan memahami dengan baik tentang perusahaan tersebut agar kamu paham strategi seperti apa yang akan dilakukan perusahaan dengan uang yang mereka dapatkan dari publik tersebut.
+
+## Beli Saham  Bisnis Saat Penawaran Perdana
 
 IPO saham merupakan kesempatan untuk anda mendapatkan saham dari perusahaan potensial dengan harga yang cenderung lebih murah dibandingkan membeli di pasar sekunder.
 
@@ -85,14 +94,15 @@ Apabila anda ingin melakukan investasi bisnis ke dalam berbagai bisnis potensial
 
 [LandX](https://landx.id/) merupakan platform equity crowdfunding terbaik yang bisa membantu anda menemukan bisnis yang bisa anda beli sahamnya untuk investasi jangka panjang. Sebagai pemegang saham, anda tentu saja berpotensi mendapatkan keuntungan berupa dividen sesuai dengan performa bisnis yang anda danai. Karena itu...
 
-**[Yuk Mulai Investasi Bisnis dengan Hanya dengan Modal 1 Juta Bersama LandX](https://landx.id/project/index.html)**
+## **[Yuk Temukan Saham Bisnis Terbaik Kamu di LandX](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)**
 
-[**Biar Gak Ketinggalan Info Seputar Bisnis Terbaru Anda, Jangan Lupa Follow @landx.id di Instagram**](https://instagram.com/landx.id?utm_medium=copy_link)
+[![miliki bisnis modal kecil cuma dengan 1 jutaan dapat 4 cabang ](https://accountgram-production.sfo2.cdn.digitaloceanspaces.com/landx_ghost/2021/11/jadi-owner-bisnis-hanya-1-jutaan-dengan-cuan-yang-sangat-menjanjikan.png)](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)
 
-#LandX.id    #landx         #landx.id    #InvestasiBisnis    #EquityCrowdfunding    #InvestasiMenguntungkan    #Urundana    #BisnisPatungan    #InvestasiUsaha
+**[Biar Gak Ketinggalan Info Seputar Bisnis Terbaru Anda, Jangan Lupa Follow @landx.id di Instagram](https://instagram.com/landx.id?utm_medium=copy_link)**
+
+\#LandX.id    #landx         #landx.id    #InvestasiBisnis    #EquityCrowdfunding    #InvestasiMenguntungkan    #Urundana    #BisnisPatungan    #InvestasiUsaha
 
 **Baca Juga:**
 
 * [Compound Interest: Mengoptimalkan Keuntungan dengan Memahami Konsep Compound Interest](https://landx.id/blog/compound-interest-adalah/)
 * [Bisnis Menguntungkan: Berikut 7 Bisnis Paling Menguntungkan untuk Pemula dengan Modal Keci](https://landx.id/blog/7-bisnis-yang-menguntungkan-untuk-pemula/)l
-
