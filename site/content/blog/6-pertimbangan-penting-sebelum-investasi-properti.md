@@ -1,15 +1,30 @@
-+++
-author = "Gunawan Aldy"
-category = ["investasi", "properti", "investasi properti online", "bisnis properti", "investasi jangka panjang"]
-date = 2019-09-02T04:34:02Z
-metaDescription = "Investasi properti memiliki berbagai resiko sehingga investor perlu memahami beberapa hal sebelum memulai investasi | 6 pertimbangan penting sebelum investasi properti. "
-draft = false
-image = "https://accountgram-production.sfo2.cdn.digitaloceanspaces.com/landx_ghost/2019/09/6-Pertimbangan-Penting-Sebelum-Investasi-Properti.jpg"
-slug = "6-pertimbangan-penting-sebelum-investasi-properti"
-tag = ["investasi", "properti", "investasi properti online", "bisnis properti", "investasi jangka panjang"]
-title = "6 Pertimbangan Penting Sebelum Investasi Properti"
-
-+++
+---
+draft: false
+author: Gunawan Aldy
+slug: 6-pertimbangan-penting-sebelum-investasi-properti
+title: 6 Pertimbangan Penting Sebelum Investasi Properti
+metaTitle: 6 Pertimbangan Penting Sebelum Investasi Properti
+metaDescription: Properti adalah salah satu instrumen investasi dengan potensi
+  keuntungan jangka panjang|Pertimbangan dalam investasi properti
+intro: Investasi properti menjadi salah satu investasi jangka panjang yang
+  sangat bisa dimulai oleh semua orang. Akan tetapi, sebelum berinvestasi ke
+  properti yuk pahami simak beberapa pertimbangan penting ini.
+date: 2019-09-02T04:34:02.000Z
+tag:
+  - investasi
+  - properti
+  - investasi properti online
+  - bisnis properti
+  - investasi jangka panjang
+featuredImage:
+  src: https://accountgram-production.sfo2.cdn.digitaloceanspaces.com/landx_ghost/2019/09/6-Pertimbangan-Penting-Sebelum-Investasi-Properti.jpg
+  alt: Memulai investasi properti yang bisa memberikan kamu keuntungan jangka
+    panjang
+  title: Memilih investasi jangka panjang yang menguntungkan untuk pemula
+image: https://accountgram-production.sfo2.cdn.digitaloceanspaces.com/landx_ghost/2019/09/6-Pertimbangan-Penting-Sebelum-Investasi-Properti.jpg
+category:
+  - Investasi
+---
 
 
 ## Pertimbangan penting sebelum investasi properti.
