@@ -141,8 +141,8 @@ Untuk membangun fondasi finansial yang kuat kamu butuh investasi mulai dari seka
 
 **Baca Juga:**
 
-* \***\*[**Mau Jadi Investor? Simak Cara Mudah Menjadi Investor Hanya dengan Modal Kecil**](https://landx.id/blog/cara-menjadi-investor/)\*\***
-* \***\*[**Tips Penting dalam Menyusun Rencana Investasi Jangka Panjang Terbaik**](https://landx.id/blog/investasi-jangka-panjang-adalah/)\*\***
+* [Mau Jadi Investor? Simak Cara Mudah Menjadi Investor Hanya dengan Modal Kecil](https://landx.id/blog/cara-menjadi-investor/)
+* [Tips Penting dalam Menyusun Rencana Investasi Jangka Panjang Terbaik](<* **https://landx.id/blog/investasi-jangka-panjang-adalah/**>)
 
 - - -
 
