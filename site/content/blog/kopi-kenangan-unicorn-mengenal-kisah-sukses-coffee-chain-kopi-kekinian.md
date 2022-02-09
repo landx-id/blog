@@ -59,7 +59,7 @@ Bersama rekan-rekannya, James Prananto dan Cynthia Chaerunnisa selaku **co-found
 
 Masih mengembangkan model bisnis secara bersama sampai hari ini, James Prananto bertindak sebagai Chief Business Development Officer. Serta secara strategis, Cynthia Chaerunnisa sebagai Chief Marketing Officer dari *brand* yang memiliki kantor *headquarter* di Jakarta Selatan ini.
 
-## Perkembangan Kopi Kenangan
+## Perkembangan Kopi Kenangan hingga Jadi Unicorn F&B
 
 * **2017** – Perusahaan yang bergerak di bidang minuman ini telah hadir di tahun 2017 meramaikan tren kopi kekinian di Indonesia. Menyajikan menu berkualitas tinggi dengan harga yang terjangkau yang mampu menyaingi brand internasional serta brand lokal yang parkir di  warung-warung. Gerai pertama Kopi Kekinian awalnya terdapat di daerah Kuningan, Jakarta Selatan.
 * **2018** – Kopi Kenangan pertama kali mendapat suntikan modal pada tahun 2018 dari JWC Ventures sebesar $1 juta.
@@ -114,9 +114,9 @@ Hmm, kalau bisnisnya melakukan **[penawaran saham perdana (IPO)](https://landx.i
 
 ***[Crowdfunding](https://landx.id/)*  adalah sistem urun dana untuk penggalangan modal sebuah bisnis yang dikumpulkan dari masyarakat. Keuntungan yang bisa didapatkan adalah persentase dividen yang disetujui.**
 
-## [Pspspss.. Bakal ada project seru di LandX.id, nantikan kabarnya melalui website serta sosial media LandX juga, ya!](https://landx.id/project/)
+## **[Yuk Temukan Bisnis Menjanjikan dengan Keuntungan Terbaik di LandX](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)**
 
-[![Bagaimana? Kamu lebih suka bisnis dengan buyback guarantee atau yang bisa disimpan dalam jangka panjang? Apapun pilihan kamu.. Yuk Patungan  dengan Keuntungan Menjanjikan Bareng LandX](https://accountgram-production.sfo2.cdn.digitaloceanspaces.com/landx_ghost/2021/10/Equity-Crowdfunding-di-Indonesia-1--3.png)](http://landx.id/project/)
+[![miliki bisnis modal kecil cuma dengan 1 jutaan dapat 4 cabang ](https://accountgram-production.sfo2.cdn.digitaloceanspaces.com/landx_ghost/2021/11/jadi-owner-bisnis-hanya-1-jutaan-dengan-cuan-yang-sangat-menjanjikan.png)](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)
 
 **[Mau Informasi Menarik Lain Seputar Investasi? Yuk Kunjungi Instagram Kami di @landx.id](https://www.instagram.com/landx.id/?utm_medium=copy_link)**
 
