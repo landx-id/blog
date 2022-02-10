@@ -27,7 +27,7 @@ category:
 ---
 Dalam investasi saham istilah agio merupakan hal yang akan sering muncul. Akan tetapi, banyak orang belum paham apa itu agio saham dan menganggap bahwa agio saham merupakan hal yang sama dengan capital gain.
 
-Padahal agio saham dan capital gain merupakan hal yang berbeda, oleh sebab itu mari kita bahas lebih lanjut apa itu agio saham agar anda semakin paham dalam berinvestasi.
+Padahal agio saham dan capital gain merupakan hal yang berbeda, oleh sebab itu mari kita bahas lebih lanjut apa itu agio saham agar anda semakin paham dalam berinvestasi. 
 
 ## Agio Saham Adalah
 
@@ -35,7 +35,9 @@ Padahal agio saham dan capital gain merupakan hal yang berbeda, oleh sebab itu m
 
 Agio saham adalah total kekayaan bersih yang dimiliki oleh perusahaan yang bersumber dari penjualan saham di atas nilai nominalnya.
 
-Oleh sebab itu nilai agio saham didapatkan dengan mencari selisih antara nilai jual dan beli suatu saham.
+Oleh sebab itu nilai agio saham didapatkan dengan mencari selisih antara nilai jual dan beli suatu saham. 
+
+Lebih jelasnya, berikut cara menghitung agio saham:
 
 Contohnya adalah saat suatu saham dengan harga nominal Rp 15.000 per lembar dijual dengan harga Rp 20.000 per lembar maka nilai agio saham adalah Rp 5.000. Agio saham ini akan masuk kepada emiten dan akan disertakan dalam laporan keuangan perusahaan nantinya.
 
@@ -65,13 +67,13 @@ Disagio adalah kebalikan agio saham. Disagio saham adalah kondisi adanya kekuran
 
 Nilai disagio ini nantinya akan dilaporkan kepada para investor sehigga mereka dapat mengurangi modal yang mereka keluarkan. Karena itu, disagio bisa juga disebut potongan kepada para investor agar perusahaan bisa mendapatkan dana segar 
 
-## Kesimpulan
+## Agio dan Disagio dalam Saham
 
-Agio saham merupakan istilah yang berkaitan dengan selisih nilai jual dan nilai nominal dari suatu saham. Apabila jual lebih tinggi dibandingkan harga nominal maka hal ini disebut agio saham, namun apabila sebaliknya maka hal ini disebut disagio.
+Agio dan diagio adalah istilah yang berkaitan dengan selisih nilai jual dan nilai nominal dari suatu saham. Apabila jual lebih tinggi dibandingkan harga nominal maka hal ini disebut agio saham, namun apabila sebaliknya maka hal ini disebut disagio.
 
-Agio saham dan dividen merupakan dua hal yang berbeda walaupun sama-sama terkait dengan selisih harga jual dari suatu saham karena agio akan masuk ke dalam kas emiten sedangkan capital gain merupakan sesuatu yang menguntungkan untuk investor atau pemegang saham.
+**Agio saham dan dividen merupaka**n dua hal yang berbeda walaupun sama-sama terkait dengan selisih harga jual dari suatu saham karena agio akan masuk ke dalam kas emiten sedangkan capital gain merupakan sesuatu yang menguntungkan untuk investor atau pemegang saham.
 
-Bagaimana? Sekarang anda lebih paham bukan apa itu agio dalam saham.
+Bagaimana? Sekarang anda lebih paham bukan apa itu agio dalam saham. 
 
 Selain berinvestasi ke dalam bisnis yang ada di pasar modal, anda sekarang juga bisa membeli saham dan berinvestasi ke dalam berbagai privat bisnis potensial yang berada di sekitar anda melalui [**platform equity crowdfunding**.](https://landx.id/) 
 
