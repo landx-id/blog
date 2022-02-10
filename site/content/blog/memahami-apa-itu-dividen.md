@@ -49,9 +49,11 @@ Karena itu, kebijakan terkait dividen seperti apakah akan dibagikan atau dijadik
 
 Seperti yang sudah kita bahas sebelumnya, dividen dibagikan setelah persetujuan dalam Rapat Umum Pemegang Saham (RUPS)  yang dilakukan sekali setahun. Namun, ada juga dividen interim yang mungkin saja dibagikan lebih dari satu kali dalam setahun.
 
+Karena itu, kamu jangan kaget kalau ada saham-saham tertentu yang pembagiannya 2 kali dalam setahun. Selain itu, apabila kamu berinvestasi lewat[ equity crowdfunding](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog) kamu bisa saja dapat dividen sampai 4 kali setahun tergantung dengan jenis project tempat kamu berinvestasi.
+
 RUPS biasanya akan diadakan pada kuartal I/ II setiap tahunnya sehingga pembagian dividen biasanya akan dilakukan tidak lama setelah RUPS ini dilaksanakan. Pembagian dividen ini akan dilakukan berdasarkan hasil keputusan RUPS, karena itu mungkin saja ada kebijakan untuk tidak membangikan dividen karena berbagai pertimbangan seperti penggunaan keuntungan tersebut sebagai cadangan modal atau sebagai dana yang digunakan untuk ekspansi bisnis yang dilakukan. 
 
-## Berbagai Jenis Dividen
+## Jenis-jenis Dividen
 
 Setelah paham apa itu dividen, berikutnya mari kita bahas berbagai jenis dividen:
 
