@@ -1,15 +1,30 @@
-+++
-author = "Abdul Wahhab"
-category = ["Perbedaan Dividen dan Capital Gain", "investasi", "ROI"]
-date = 2021-11-08T07:10:56Z
-metaDescription = "Dividen adalah keuntungan bersih yang didapatkan perusahaan dan dibagikan kepada pemegang saham, berikut beberapa jenis dan perhitungan dividen "
-draft = false
-image = "https://images.unsplash.com/photo-1518458028785-8fbcd101ebb9?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxMTc3M3wwfDF8c2VhcmNofDF8fG1vbmV5JTIwcGVvcGxlfGVufDB8fHx8MTY0MDE0MTU2Ng&ixlib=rb-1.2.1&q=80&w=1080"
-slug = "memahami-apa-itu-dividen"
-tag = ["Perbedaan Dividen dan Capital Gain", "investasi", "ROI"]
-title = "Dividen Adalah: Memahami Apa Itu Dividen sebagai Komponen Penting dalam Investasi"
-
-+++
+---
+draft: false
+author: Abdul Wahhab
+slug: memahami-apa-itu-dividen
+title: "Dividen Adalah: Memahami Apa Itu Dividen dan Sistem Pembagian Dividen"
+metaTitle: "Dividen Adalah: Memahami Apa Itu Dividen dan Sistem Pembagian Dividen"
+metaDescription: Dividen adalah keuntungan yang dibagikan kepada pemegang saham
+  yang telah menanamkan dana mereka sebelumnya|Pembagian Dividen
+intro: "Dividen adalah salah satu jenis return dari investasi yang tentu saja
+  sangat dinanti-nanti oleh investor yang sebelumnya telah menanamkan modal
+  mereka ke dalam suatu proyek atau bisnis. Karena itu, mari kita bahas lebih
+  tentang apa itu dividen dan bagaimana sistem pembagian dividen kepada para
+  investor dilakukan. "
+date: 2021-11-08T07:10:56.000Z
+tag:
+  - Perbedaan Dividen dan Capital Gain
+  - investasi
+  - ROI
+featuredImage:
+  src: https://images.unsplash.com/photo-1518458028785-8fbcd101ebb9?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxMTc3M3wwfDF8c2VhcmNofDF8fG1vbmV5JTIwcGVvcGxlfGVufDB8fHx8MTY0MDE0MTU2Ng&ixlib=rb-1.2.1&q=80&w=1080
+  alt: "Memahami apa itu dividen dan cara menghitung dividen saat berinvestasi "
+  title: Konsep Dividen dalam investasi dan cara pembagiannya
+image: https://images.unsplash.com/photo-1518458028785-8fbcd101ebb9?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxMTc3M3wwfDF8c2VhcmNofDF8fG1vbmV5JTIwcGVvcGxlfGVufDB8fHx8MTY0MDE0MTU2Ng&ixlib=rb-1.2.1&q=80&w=1080
+category:
+  - Keuangan
+  - Investasi
+---
 
 
 [Dalam dunia investasi dividen](https://landx.id/) pasti menjadi salah satu topik yang sering dibahas dan ditunggu oleh para investor terutama bagi investor yang berinvestasi melalui instrumen saham yang pasti menunggu pembagian dividen.
