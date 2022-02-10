@@ -81,7 +81,7 @@ Kebijakan pembagian dividen skrip ini biasanya dilakukan perusahaan karena keter
 
 Dividen likuadasi adalah dividen yang dibagikan kepada investor saat perusahaan mengalami kebangkrutan sehingga mereka mengembalikan modal investor dengan sisa aset yang mereka miliki. Oleh sebab itu, dividen ini bersifat optional dengan bagaimana kondisi perusahaan yang mengalami kebangkrutan.
 
-## Rumus dan Perhitungan dalam Dividen
+## Rumus dan Perhitungan Dividen
 
 Dalam menghitung dividen, terdapat beberapa perhitungan rasio keuangan yang digunakan, berikut beberapa rumus dan perhitungan penting dalam dividen:
 
@@ -89,17 +89,17 @@ Dalam menghitung dividen, terdapat beberapa perhitungan rasio keuangan yang digu
 
 DPR atau *dividend payout ratio* adalah penghitungan untuk mengukur seberapa banyak laba bersih perusahaan yang akan dibagikan kepada para investor melalui dividen. Hal ini karena tidak semua laba bersih tidak semuanya akan dibagikan kepada investor karena bisa saja diputarkan kembali untuk pengembangan bisnis ke depan.
 
-Contoh simpelnya seperti ini, apabila perusahaan A mendapatkan laba bersih Rp 1.000.000.000 dan memutuskan untuk membagikan dividen sebesar Rp 250.000.000 maka _dividend payout ratio_nya adalah 25% dengan perhitungan sebagao berikut:
+Contoh simpelnya seperti ini, apabila perusahaan A mendapatkan laba bersih Rp 1.000.000.000 dan memutuskan untuk membagikan dividen sebesar Rp 250.000.000 maka dividend payout ratioya adalah 25% dengan rumus dividend payout ratio sebagai berikut:
 
-250.000.000/1.000.000.000 *100%
-
-\= 25%
+> 250.000.000/1.000.000.000 *100%
+>
+> \= 25%
 
 ### 2. *Dividend Per Share* (DPS)
 
 *Dividend Per Share* (DPS) adalah dividen per lembar saham. Angka ini didapat dari pembagian dividen perusahaan dengan jumlah total lembar saham. DPS menjelaskan berapa besar dividen yang dihasilkan oleh satu lembar yang dimiliki oleh investor.
 
-Misalnya seperti ini, perusahaan C memiliki memiliki 100.000 lembar saham dan membagikan dividen sebesar Rp 100.000.000, maka DPS dihitung sebagai berikut:
+Misalnya seperti ini, perusahaan C memiliki memiliki 100.000 lembar saham dan membagikan dividen sebesar Rp 100.000.000, maka rumus dividend per share dihitung sebagai berikut:
 
 DPS = 100.000.000/100.000 = 1000
 
@@ -107,19 +107,19 @@ maka DPS dari saham C adalah Rp 1.000
 
 ### 3. *Dividend Yield*
 
-*Dividend yield* adalah perbandingan seberapa besar dividen yang dibagi perusahaan terhadap harga saham yang sedang beredar.[\[6]](https://id.wikipedia.org/wiki/Dividen#cite_note-6)
+*Dividend yield* adalah perbandingan seberapa besar dividen yang dibagi perusahaan terhadap harga saham yang sedang beredar. Karean itu cara menghitung dividend yield saham adalah sebagai berikut:
 
-Contoh sederhana:
+**Rumus dividend yield:**
 
-* *Dividend Per Share* (DPS) dari PT. ABC adalah Rp 500,-.
-* Harga saham PT. ABC adalah Rp 10.000,-.
-* *Dividend yield* = 500 / 10.000 * 100% = 5%.
+> * *Dividend Per Share* (DPS) dari PT. ABC adalah Rp 500,-.
+> * Harga saham PT. ABC adalah Rp 10.000,-.
+> * *Dividend yield* = 500 / 10.000 * 100% = 5%.
+>
+> Jadi, *dividend yield* dari PT. ABC adalah 5%.
 
-Jadi, *dividend yield* dari PT. ABC adalah 5%.
+## *Passive Income* dari Dividen
 
-## Dividen Sebagai *Passive Income*
-
-Dividen merupakan salah satu return investasi sehingga tentu saja bisa menjadi salah satu sumber passive income untuk membantu anda mencapai financial freedom.
+Dividen merupakan salah satu return investasi sehingga tentu saja bisa menjadi salah satu sumber passive income untuk membantu anda **mencapai financial freedom**.
 
 Tapi tentu anda harus bisa menghitung berapa banyak investasi yang harus anda lakukan agar bisa menghasilkan dividen yang bisa memenuhi kebutuhan anda.
 
@@ -131,9 +131,9 @@ LandX merupakan platform equity crowdfunding yang akan membantu kamu menemukan b
 
 karena itu...
 
-## [Yuk Patungan Bisnis Menguntungkan Bareng LandX](https://landx.id/project/#/ximi)
+## [Yuk Patungan Bisnis Menguntungkan Bareng LandX](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)
 
-[![Bagaimana? Kamu lebih suka bisnis dengan buyback guarantee atau yang bisa disimpan dalam jangka panjang? Apapun pilihan kamu.. Yuk Patungan  dengan Keuntungan Menjanjikan Bareng LandX](https://accountgram-production.sfo2.cdn.digitaloceanspaces.com/landx_ghost/2021/10/Equity-Crowdfunding-di-Indonesia-1--3.png)](https://landx.id/project/#/ximi)
+[![Bagaimana? Kamu lebih suka bisnis dengan buyback guarantee atau yang bisa disimpan dalam jangka panjang? Apapun pilihan kamu.. Yuk Patungan  dengan Keuntungan Menjanjikan Bareng LandX](https://accountgram-production.sfo2.cdn.digitaloceanspaces.com/landx_ghost/2021/10/Equity-Crowdfunding-di-Indonesia-1--3.png)](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)
 
 ## [Mau Berbagai info Terbaru Terkait Investasi? Yuk Follow @landx.id di Instagram](https://www.instagram.com/landx.id/?utm_medium=copy_link)
 
