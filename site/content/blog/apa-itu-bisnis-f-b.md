@@ -40,11 +40,11 @@ Oleh sebab itu, bisnis cloud kitchen menjadi salah satu pilihan model bisnis fnb
 
 - - -
 
-## Usaha F&B di Masa Pandemi
+## Usaha FnB di Masa Pandemi
 
-Industri *food and beverage* menjadi salah satu bisnis yang mengalami perubahan sangat besar dalam beberapa waktu belakangan ditambah lagi adanya pandemi yang menyebabkan perubahan modal bisni fnb.
+**FnB adalah** industri kuliner yang menjadi salah satu industri yang perkembangan sangat pesat dari waktu ke waktu karena semakin banyaknya varian yang ditawarkan dan permintaan pasar yang terus meningkat dari waktu ke waktu. 
 
-Pada masa sekarang ini, anda membutuhkan banyak pertimbangan dalam memulai bisnis F&B melihat kondisi yang belum pulih total akibat pandemi.
+Industri *food and beverage* menjadi salah satu bisnis yang mengalami perubahan sangat besar dalam beberapa waktu belakangan ditambah lagi adanya pandemi yang menyebabkan perubahan modal bisni fnb. Pada masa sekarang ini, anda membutuhkan banyak pertimbangan dalam memulai bisnis F&B melihat kondisi yang belum pulih total akibat pandemi.
 
 Untuk itu anda perlu memperhitungkan modal bisnis F&B yang akan terapkan dalam bisnis. Salah satu model bisnis makanan dan minuman yang populer belakangan ini adalah model bisnis Cloud Kitchen.
 
@@ -52,19 +52,21 @@ Apabila anda masih belum familiar dengan sistem ini, cloud kitchen merupakan sis
 
 Bisnis ini tidak akan menyediakan meja dan bangku untuk konsumen karena hanya melayani *take-away*. Sistem ini menjadi solusi bagi pebisnis untuk memperkecil biaya yang akan mereka keluarkan saat memulai bisnis, apalagi sistem dine-in belum bisa dioperasikan secara optimal mengacu pada aturan new normal dari pemerintah.
 
-**[Model bisnis F&B](https://landx.id/project/)** ini kini semakin mudah untuk diadopsi dengan adanya dukungan dari berbagai platform pemesanan makanan online sehingga adopsi sistem ini semakin cepat. Dalam model bisnis ini pebisnis dapat fokus dalam menyiapkan dapur yang optimal untuk produksi produk makanan yang akan anda jual.
+**[Model bisnis F&B](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)** ini kini semakin mudah untuk diadopsi dengan adanya dukungan dari berbagai platform pemesanan makanan online sehingga adopsi sistem ini semakin cepat. Dalam model bisnis ini pebisnis dapat fokus dalam menyiapkan dapur yang optimal untuk produksi produk makanan yang akan anda jual.
 
 Akan tetapi bisnis ini tentu saja tetap membutuhkan modal yang cukup banyak dan kemampuan anda dalam manajemen bisnis F&B yang akan anda lakukan mulai dari produksi hingga perawatan dapur yang harus anda lakukan.
 
+Hal ini mengapa dalam bisnis kuliner biaya resiko harus diperhitungkan dengan baik karena kita akan menghadapi pasar yang dinamis dan penuh tantangan sehingga butuh persiapan yang matang saat akan memasuki industri satu ini. 
+
 ## Memulai Bisnis Makanan dengan Modal Kecil
 
-Apabila modal yang anda miliki terbatas dan belum bisa memulai cloud kitchen maka anda bisa mulai dengan memulai bisnis makanan online siap saji yang semakin populer belakangan ini.
+Apabila modal yang anda miliki terbatas dan belum bisa memulai cloud kitchen maka anda bisa mulai dengan memulai bisnis makanan online siap saji yang semakin populer belakangan ini. Sistem ini akan sangat menghemat waktu anda karena tidak perlu menyiapkan dapur untuk produksi dan perawatan terhadap perlengkapan dapur. 
 
-Sistem ini akan sangat menghemat waktu anda karena tidak perlu menyiapkan dapur untuk produksi dan perawatan terhadap perlengkapan dapur. Dalam menjual hal ini anda perlu menyusun strategi pemasaran yang tepat dan manajemen stok yang baik agar produk dapat sampai dalam kondisi baik di tangan konsumen.
+Dalam menjual hal ini anda perlu menyusun strategi pemasaran yang tepat dan manajemen stok yang baik agar produk dapat sampai dalam kondisi baik di tangan konsumen. 
 
-Hal lain yang perlu diperhitungkan dengan baik adalah bagaimana memilih supplier terpercaya agar anda bisa konsisten memberikan produk makanan atau minuman yang berkualitas kepada konsumen agar [[**bisnis makanan**](https://landx.id/project/)](https://landx.id/project/) anda bisa terus memberikan keuntungan kepada anda dalam jangka panjang.
+Hal lain yang perlu diperhitungkan dengan baik adalah bagaimana memilih supplier terpercaya agar anda bisa konsisten memberikan produk makanan atau minuman yang berkualitas kepada konsumen agar **[bisnis makanan](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)** anda bisa terus memberikan keuntungan kepada anda dalam jangka panjang.
 
-Tapi dalam melakukan bisnis ini anda harus menyiapkan waktu dan tenaga anda untuk mengatur bisnis online anda dapat berjalan sesuai rencana.
+**Cloud kitchen** sebenarnya menjadi pilihan yang sangat tepat apabila kamu ingin bisnis fnb modal kecil karena kamu tidak perlu mengeluarkan biaya untuk set up area dine-in yang menyerap cukup banyak biaya. Model bisnis ini mu
 
 Namun apabila opsi ini masih sulit anda lakukan, berikut adalah rekomendasi bisnis makanan yang mudah anda lakukan dan bisa memberikan anda keuntungan walaupun dengan modal kecil.
 
@@ -77,7 +79,7 @@ Namun apabila opsi ini masih sulit anda lakukan, berikut adalah rekomendasi bisn
 
 - - -
 
-## [Memulai Investasi Bisnis F&B dengan Equity Crowdfunding](https://landx.id/project/)
+## [Jadi Pemilik Bisnis FnB Modal 1 Jutaan](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)
 
 Apabila anda ingin memulai bisnis F&B tapi terkendala dan waktu untuk mengatur bisnis, maka anda bisa mulai dengan melakukan investasi bisnis dengan skema equity crowdfunding.
 
@@ -85,7 +87,7 @@ Skema ini bisa menjadikan anda seorang pemilik bisnis hanya dengan modal awal mu
 
 Hal ini tentu saja solusi yang amat tepat bagi orang-orang yang ingin memulai bisnis tapi masih terhalang oleh dana dan pengetahuan terkait bisnis yang akan anda jalankan. Karena resiko kegagalan dalam bisnis sangat tinggi apabila tidak dikelola oleh profesional.
 
-Dalam **[equity crowdfunding](https://landx.id/)** anda akan diberikan kesempatan untuk memilih bisnis mana yang anda rasa potensial sehingga dapat anda tanami modal yang akan membuat memiliki bagian kepemilikan dalam bisnis tersebut sesuai dengan modal yang anda miliki.
+Dalam **[equity crowdfunding](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)** anda akan diberikan kesempatan untuk memilih bisnis mana yang anda rasa potensial sehingga dapat anda tanami modal yang akan membuat memiliki bagian kepemilikan dalam bisnis tersebut sesuai dengan modal yang anda miliki.
 
 Karena itu anda perlu [platform equity crowdfunding terpercaya](https://landx.id/) yang memberikan anda pilihan investasi bisnis terbaik.
 
