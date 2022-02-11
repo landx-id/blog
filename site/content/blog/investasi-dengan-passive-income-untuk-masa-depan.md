@@ -113,7 +113,7 @@ Anda bisa mulai dengan membangun blog yang baik sehingga bisa dimonetisasi denga
 
 Hal ini akan memberikan anda passive income dalam jangka panjang asalkan konten yang anda bangun bisa menjawab kebutuhan informasi target audien anda.
 
-## **5. Mengikuti Program** ***Affliate Marketing***
+### **5. Mengikuti Program** ***Affliate Marketing***
 
 Saat ini, affliate program adalah salah satu cara mudah untuk mendapatkan passive income tanpa modal yang besar. Kamu hanya butuh membagikan link produk afiliasi kamu kepada orang-orang dan mendapatkan bagian keuntungan dari setiap transaksi tersebut.
 
@@ -129,9 +129,15 @@ Investasi bisnis merupakan pilihan yang tepat untuk investasi jangka panjang apa
 
 Kini anda tidak perlu bingung lagi untuk mencari potensial yang membutuhkan dana, karena di Indonesia sudah ada [platform equity crowdfunding](https://landx.id/) yang membantu menyalurkan modal anda ke bisnis-bisnis potensial di sekitar anda.
 
-**[Yuk Patungan Bisnis Bareng LandX untuk Passive Income Jangka Panjang Anda](https://landx.id/project/)**
+## Investasi dengan Passive Income Jangka Panjang
 
-[![Bagaimana? Kamu lebih suka bisnis dengan buyback guarantee atau yang bisa disimpan dalam jangka panjang? Apapun pilihan kamu.. Yuk Patungan  dengan Keuntungan Menjanjikan Bareng LandX](https://accountgram-production.sfo2.cdn.digitaloceanspaces.com/landx_ghost/2021/10/Equity-Crowdfunding-di-Indonesia-1--3.png)](http://landx.id/)
+Arti passive income sendiri sebenanrya adalah segala income yang akan kita terima tanpa perlu terlibat langsung. Income pasif ini menjadi hal yang sangat penting untuk kita siapkan agar di masa depan kebutuhan kita bisa terpenenuhi dari penghasilan pasif. Oleh sebab itu, perlu menyiapkan aset yang bisa memberikan kita passive income mulai dari sekarang. 
+
+Investasi bisnis di LandX bisa jadi salah satu pilihan investasi yang bisa memberikan kamu passive income jangka panjang lewat dividen yang berasal dari keuntungan bisnis tempat kamu berinvestasi sebelumnya.
+
+**[Yuk Patungan Bisnis Bareng LandX untuk Passive Income Jangka Panjang Anda](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)**
+
+[![miliki bisnis modal kecil cuma dengan 1 jutaan dapat 4 cabang ](https://accountgram-production.sfo2.cdn.digitaloceanspaces.com/landx_ghost/2021/11/jadi-owner-bisnis-hanya-1-jutaan-dengan-cuan-yang-sangat-menjanjikan.png)](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)[](http://landx.id/)
 
 **[Jangan Lupa Follow Instagram @landx.id Untuk Berbagai Tips Investasi Menguntungkan Lainnya](https://www.instagram.com/landx.id/?utm_medium=copy_link)**
 
@@ -145,4 +151,4 @@ Kini anda tidak perlu bingung lagi untuk mencari potensial yang membutuhkan dana
 
 - - -
 
-**\#YukPatunganBisnis    #LandX.id    #landx.id    #InvestasiBisnis    #EquityCrowdfunding    #InvestasiMenguntungkan    #Urundana    #BisnisPatungan    #InvestasiUsaha**
+**\#SekarangBisa**
