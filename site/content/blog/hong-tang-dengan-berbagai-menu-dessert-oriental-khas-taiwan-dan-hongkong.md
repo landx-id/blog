@@ -1,15 +1,34 @@
-+++
-author = "Abdul Wahhab"
-category = ["Hong Tang", "Bisnis F&B", "Bisnis Franchise Modal Kecil", "bisnis makanan", "Bisnis Modal Kecil", "Cloud Kitchen", "investasi dengan modal kecil", "sistem franchise"]
-date = 2021-11-09T18:16:49Z
-metaDescription = "Apabila kamu mencari dessert segar khas ortienal, maka Hong Tang adalah makanan pencuci mulut yang harus kamu coba dengan berbagai pilihan menu khas Asia"
-draft = false
-image = "https://accountgram-production.sfo2.cdn.digitaloceanspaces.com/landx_ghost/2021/12/hongtang-landx-taiwan-1.png"
-slug = "hong-tang-dengan-berbagai-menu-dessert-oriental-khas-taiwan-dan-hongkong"
-tag = ["Hong Tang", "Bisnis F&B", "Bisnis Franchise Modal Kecil", "bisnis makanan", "Bisnis Modal Kecil", "Cloud Kitchen", "investasi dengan modal kecil", "sistem franchise"]
-title = "Hong Tang: Kesegaran Berbagai Dessert Khas Asia dengan Konsep Cloud Kitchen"
-
-+++
+---
+draft: false
+author: Abdul Wahhab
+slug: hong-tang-dengan-berbagai-menu-dessert-oriental-khas-taiwan-dan-hongkong
+title: "Hong Tang: Kesegaran Dessert Khas Asia dengan Konsep Cloud Kitchen"
+metaTitle: "Hong Tang: Kesegaran Dessert Khas Asia dengan Konsep Cloud Kitchen"
+metaDescription: Apabila kamu mencari dessert segar khas oriental,  Hong Tang
+  adalah makanan pencuci mulut yang harus kamu coba dengan berbagai pilihan menu
+  khas Asia
+intro: "Kalau kamu pecinta dessert oriental khas asia, maka kamu harus mencoba
+  berbagai menu dessert yang ditawarkan Hong Tang. Hong Tang merupakan bisnis
+  F&B dengan konsep cloud kitchen yang menawarkan berbagai menu dessert khas
+  asia yang harus kamu wajib kamu coba. "
+date: 2021-11-09T18:16:49.000Z
+tag:
+  - Hong Tang
+  - Bisnis F&B
+  - Bisnis Franchise Modal Kecil
+  - bisnis makanan
+  - Bisnis Modal Kecil
+  - Cloud Kitchen
+  - investasi dengan modal kecil
+  - sistem franchise
+featuredImage:
+  src: https://accountgram-production.sfo2.cdn.digitaloceanspaces.com/landx_ghost/2021/12/hongtang-landx-taiwan-1.png
+  alt: Dessert oriental khas asia dengan konsep cloud kitchen
+  title: "Bisnis dessert oriental dengan konsep cloud kitchen "
+image: https://accountgram-production.sfo2.cdn.digitaloceanspaces.com/landx_ghost/2021/12/hongtang-landx-taiwan-1.png
+category:
+  - Bisnis
+---
 
 
 Siang hari yang panas atau malam yang gerah alangkah nyamannya jika disejukkan dengan makanan yang segar dan manis. Makanan penutup atau dessert dengan tekstur lembut tentu juga mampu membuat perut kamu terasa dipadamkan setelah melahap makanan pedas.
