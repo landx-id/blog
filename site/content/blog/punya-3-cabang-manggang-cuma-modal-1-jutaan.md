@@ -1,15 +1,30 @@
-+++
-author = "Abdul Wahhab"
-category = ["Franchise Makanan", "Bisnis F&B", "franchise f&b", "MangGang", "bisnis makanan", "Cloud Kitchen", "Bisnis Franchise Modal Kecil"]
-date = 2022-01-18T13:24:35Z
-metaDescription = "MangGang Grilled Beef Bowl merupakan rice bowl ala Korean BBQ yang mengusung tema Luxury Sensation in a Simple Way | Punya 3 Cabang MangGang Modal 1 Juta"
-draft = false
-image = "https://accountgram-production.sfo2.cdn.digitaloceanspaces.com/landx_ghost/2022/01/Cara-punya-franchise-manggang--cloud-kitchen-fnb-modal-1-jutaan.png"
-slug = "punya-3-cabang-manggang-cuma-modal-1-jutaan"
-tag = ["Franchise Makanan", "Bisnis F&B", "franchise f&b", "MangGang", "bisnis makanan", "Cloud Kitchen", "Bisnis Franchise Modal Kecil"]
-title = "Korean BBQ MangGang akan Listing di LandX!"
-
-+++
+---
+draft: false
+author: Abdul Wahhab
+slug: punya-3-cabang-manggang-cuma-modal-1-jutaan
+title: Korean BBQ MangGang akan Listing di LandX!
+metaTitle: Korean BBQ MangGang akan Listing di LandX!
+metaDescription: MangGang Grilled Beef Bowl merupakan rice bowl ala Korean BBQ
+  yang mengusung tema Luxury Sensation in a Simple Way|Franchise makanan korea
+intro: Mau punya franchise makanan korea cuma modal 1 juta? Yuk cek simak
+  bagaimana caranya jadi pemilik franchise korean bbq MangGang di LandX
+date: 2022-01-18T13:24:35.000Z
+tag:
+  - Franchise Makanan
+  - Bisnis F&B
+  - franchise f&b
+  - MangGang
+  - bisnis makanan
+  - Cloud Kitchen
+  - Bisnis Franchise Modal Kecil
+featuredImage:
+  src: https://accountgram-production.sfo2.cdn.digitaloceanspaces.com/landx_ghost/2022/01/Cara-punya-franchise-manggang--cloud-kitchen-fnb-modal-1-jutaan.png
+  alt: Jadi pemilik franchise makanan korea cuma modal 1 juta
+  title: Franchise korean bbq cuma dengan 1 juta
+image: https://accountgram-production.sfo2.cdn.digitaloceanspaces.com/landx_ghost/2022/01/Cara-punya-franchise-manggang--cloud-kitchen-fnb-modal-1-jutaan.png
+category:
+  - Bisnis
+---
 
 
 ## Korean BBQ MangGang Listing di LandX!
