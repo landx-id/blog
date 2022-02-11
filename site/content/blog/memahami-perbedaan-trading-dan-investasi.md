@@ -1,15 +1,33 @@
-+++
-author = "Abdul Wahhab"
-category = ["Cara Investasi Saham", "investasi saham", "investasi keuangan", "diversifikasi dalam investasi", "keuntungan investasi", "Mengelola Keuangan", "pilihan investasi", "tips investasi"]
-date = 2021-10-11T11:26:22Z
-metaDescription = "Trading dan investasi merupakan dua konsep yang berbeda yang penting dipahami pemula yang ingin masuk ke dunia saham| Perbedaan trading dan Investasi saham"
-draft = false
-image = "https://images.unsplash.com/photo-1518186233392-c232efbf2373?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxMTc3M3wwfDF8c2VhcmNofDM1fHxzdG9ja3xlbnwwfHx8fDE2NDAxNDc3ODU&ixlib=rb-1.2.1&q=80&w=1080"
-slug = "memahami-perbedaan-trading-dan-investasi"
-tag = ["Cara Investasi Saham", "investasi saham", "investasi keuangan", "diversifikasi dalam investasi", "keuntungan investasi", "Mengelola Keuangan", "pilihan investasi", "tips investasi"]
-title = "Mau Mulai Investasi Saham? Kenali Perbedaan antara Trading dan Investasi dalam Saham"
-
-+++
+---
+draft: false
+author: Abdul Wahhab
+slug: memahami-perbedaan-trading-dan-investasi
+title: "Investasi Vs Trading: Memahami Perbedaan Trading dan Investasi Saham"
+metaTitle: "Investasi Vs Trading: Memahami Perbedaan Trading dan Investasi Saham"
+metaDescription: Investasi trading adalah dua hal yang harus kamu pahami saat
+  mulai berinvestasi ke dalam saham|Perbedaan trading dan investasi
+intro: Investasi dan trading adalah dua hal akan yang akan sering kamu temui
+  saat berinvestasi ke dalam saham. Karena itu, yuk kita bahas apa perbedaan
+  trading dan investasi secara lebih lanjut.
+date: 2022-02-11T03:59:57.905Z
+tag:
+  - Cara Investasi Saham
+  - investasi saham
+  - investasi keuangan
+  - diversifikasi dalam investasi
+  - keuntungan investasi
+  - Mengelola Keuangan
+  - pilihan investasi
+  - tips investasi
+featuredImage:
+  src: https://images.unsplash.com/photo-1518186233392-c232efbf2373?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxMTc3M3wwfDF8c2VhcmNofDM1fHxzdG9ja3xlbnwwfHx8fDE2NDAxNDc3ODU&ixlib=rb-1.2.1&q=80&w=1080
+  alt: Perbedaan Investasi dan Trading
+  title: Trading Vs Investasi
+image: https://images.unsplash.com/photo-1518186233392-c232efbf2373?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxMTc3M3wwfDF8c2VhcmNofDM1fHxzdG9ja3xlbnwwfHx8fDE2NDAxNDc3ODU&ixlib=rb-1.2.1&q=80&w=1080
+category:
+  - Investasi
+  - Keuangan
+---
 
 
 Apabila kamu merupakan investor pemula yang ingin masuk ke dunia saham, kamu harus paham dulu perbedaan antara trading dan investasi dalam seham sehingga kamu bisa menentukan apakah kamu ingin menjadi seorang investor atau trader saham.
