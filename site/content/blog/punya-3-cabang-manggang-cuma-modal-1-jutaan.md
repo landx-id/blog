@@ -53,7 +53,7 @@ Namun, meski dengan konsep kesederhanaan dan kepraktisan ala rice bowl, makanan 
 
 [**Menu andalan MangGang**](https://landx.id/project/mang) yang paling banyak digemari pelanggan di antaranya ialah Grilled Beef and Egg Bowl, Grilled Beef and Mozzarella, dan Volcano Bowl untuk penggemar selera pedas.
 
-[![berbagai-menu-beef-bowl-cloud-kitchen-hanya-di-manggang-min](https://accountgram-production.sfo2.cdn.digitaloceanspaces.com/landx_ghost/2022/01/berbagai-menu-beef-bowl-cloud-kitchen-hanya-di-manggang-min.png)](https://landx.id/project/utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)
+[![Menu pilihan maanggang yang wajib kamu coba](https://accountgram-production.sfo2.cdn.digitaloceanspaces.com/landx_ghost/2022/01/berbagai-menu-beef-bowl-cloud-kitchen-hanya-di-manggang-min.png)](https://landx.id/project/utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)
 
 Semua menu ini bisa dipesan langsung melalui jasa pesan-antar online, sehingga sangat bisa dinikmati kapanpun dan di mana pun.
 
