@@ -86,16 +86,14 @@ Penyajian dalam suhu berkisar di -10°C juga merupakan faktor yang membuat gelat
 
 Memiliki bisnis dessert bisa jadi impian semua orang. Apalagi jika melihat pertumbuhan cold dessert dan dessert berbahan dasar susu jadi incaran penikmat dairy beberapa akhir tahun ini. Saat ini, cara berbisnis gelato semakin beragam dan bisa kamu mulai dari modal kecil. 
 
-**Pertama**, kamu bisa mulai franchise gelato yang saat ini terdapat beberapa jenis bisnis 
+**Pertama**, kamu bisa mulai franchise gelato yang kini semakin banyak brand gelato yang membuka kemitraan dengan sistem franchise. Harga franchise gelato ini pun kini beragam tergantung dengan jenis yang ingin kamu buka. Oleh sebab itu, membuka franchise gelato bisa menjadi pilihan bagi kamu yang ingin memulai bisnis gelato. 
 
-
+Akan tetapi, kamu harus paham bahwa membuka franchise gelato dari brand yang sudah besar tidak menjamin kesuksesan dari bisnis gelato yang kamu bangun kamu tetap butuh keterampilan dalam membangun bisnis.
 
 Memang memulai bisnis dessert atau bisnis lainnya tidak mudah. Khususnya dessert gelato perlu keterampilan memilih lokasi yang strategis, memiliki teknik pengolahan yang baik, mindset selalu berusaha mencoba resep baru, serta modal yang tidak sedikit.
 
-Ada opsi untuk bisa berbisnis gelato yaitu memulai dengan modal sendiri atau bergabung pada gelato franchise, mencari investor atau menjadi investor dan memiliki ownership atas bisnis gelato. Menjadi investor bisnis gelato tak akan membuat kamu pusing untuk mencari lokasi, membuat resep sendiri, ataupun melakukan strategi promosi.
+**Kedua, ada opsi untuk bisa berbisnis gelato yaitu memulai dengan modal sendiri atau bergabung pada gelato franchise, mencari investor atau menjadi investor dan memiliki ownership atas bisnis gelato. Menjadi investor bisnis gelato tak akan membuat kamu pusing untuk mencari lokasi, membuat resep sendiri, ataupun melakukan strategi promosi.**K
 
-Bagaimana cari menjadi investor bisnis gelato? Kini menjadi investor bisnis gelato dapat dilakukan mulai dengan Rp 1 juta saja di platform LandX. Berinvestasi pada bisnis potensial yang terbukti profit dan mendapat keuntung bagi hasil dividen sebagai investor. 
+**Bagaimana cari menjadi investor bisnis gelato?** Kini menjadi investor bisnis gelato dapat dilakukan mulai dengan Rp 1 juta saja di platform LandX. Berinvestasi pada bisnis potensial yang terbukti profit dan mendapat keuntung bagi hasil dividen sebagai investor. 
 
-### \#SekarangBisa memiliki bisnis gelato mulai dengan Rp 1 juta di LandX.id
-
-Kunjungi LandX.id sekarang sebelum kehabisan!
+### \#SekarangBisa memiliki bisnis gelato mulai dengan Rp 1 juta di LandX
