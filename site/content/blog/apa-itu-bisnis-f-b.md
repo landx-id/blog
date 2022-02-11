@@ -109,4 +109,4 @@ Karena itu anda perlu [platform equity crowdfunding terpercaya](https://landx.id
 
 - - -
 
-\#YukPatunganBisnis	#LandX.id	#landx.id	#InvestasiBisnis	#EquityCrowdfunding	#InvestasiMenguntungkan	#Urundana	#BisnisPatungan	#InvestasiUsaha
+**\#SekarangBisa**
