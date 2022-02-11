@@ -23,7 +23,7 @@ category:
 featuredImage:
   title: All About Gelato, Apa Bedanya Gelato dan Ice Cream? Berbisnis Gelato
     Modal Minim
-  src: https://media.discordapp.net/attachments/913743599844343808/939222534199582800/Jadi_pemilik_franchise_gelato_cuma_dengan_modal_1_juta.png?width=512&height=288
+  src: https://media.discordapp.net/attachments/913743599844343808/939222534199582800/Jadi_pemilik_franchise_gelato_cuma_dengan_modal_1_juta.png
   alt: "beda gelato dan ice cream, bisnis gelato di Indonesia modal kecil "
 ---
 Apa kamu penggemar gelato? Biasanya orang menyukai gelato karena teksturnya yang lebih padat dan beragam rasa unik tersaji. Bisnis gelato atau frozen dairy ini dinilai menjanjikan dan menantang karena perlu melalui proses pengolahan khusus namun digandrungi penggemarnya.
