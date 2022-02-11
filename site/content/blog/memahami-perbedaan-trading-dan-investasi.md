@@ -28,8 +28,6 @@ category:
   - Investasi
   - Keuangan
 ---
-
-
 Apabila kamu merupakan investor pemula yang ingin masuk ke dunia saham, kamu harus paham dulu perbedaan antara trading dan investasi dalam seham sehingga kamu bisa menentukan apakah kamu ingin menjadi seorang investor atau trader saham.
 
 Untuk pemula yang baru mau bermain tentu saja bertanya-tanya apa itu trading saham dan apa yang membedakan trading dengan investasi.
@@ -40,21 +38,15 @@ Dalam dunia saham, baik trading maupun investasi sebenarnya sama-sama bertujuan 
 
 Supaya kamu tidak kebingungan lagi membedakan trading dan investasi, mari kita bahas tentang apa itu trading dan investasi agar kamu tau mau jadi investor atau trader saham.
 
----
+- - -
 
-## Ta**b**le of Content
+- - -
 
-* **[Perbedaan Trading dan Investasi](#perbedaan-trading-dan-investasi)**- [Pengertian Trading](#pengertian-trading)- [Pengertian Investasi](#pengertian-investasi)
-* **[Trading Vs Investasi](#trading-vs-investasi)**
-* **[Diversifikasi dalam Investasi](#diversifikasi-dalam-investasi)**
-
----
-
-## Perbedaan Trading dan Investasi
+## Perbedaan Trading dan Investasi Saham
 
 Pada dasarnya, trading dan investasi sebenarnya memiliki tujuan yang sama yaitu untuk memaksimalkan keuntungan saat berinvestasi ke dalam saham. Akan tetapi terdapat beberapa perbedaan konsep dalam cara mendapatkan keuntungan dari saham yang dimiliki.
 
-### Pengertian Trading
+## Apa Itu Trading Saham
 
 Saat ingin mulai masuk ke dunia saham, kamu pasti sering mendengar istilah trading dan trader yang pasti membuat kamu bertanya-tanya apa itu trading saham.
 
@@ -70,7 +62,7 @@ Akan tetapi, hal ini tentu saja membutuhkan analisis yang mendalam karena hal in
 
 Walaupun potensi keuntungannya sangat besar, kamu harus ingat bahwa keuntungan dan risiko yang berjalan beringan dalam investasi sehingga kamu juga harus sanggup menanggung risiko tersebut.
 
-### Pengertian Investasi
+## Pengertian Investasi Saham
 
 Investasi adalah kegiatan di mana anda menanamkan modal ke dalam suatu instrumen dengan harapan mendapatkan keuntungan di masa mendatang dari instrumen tersebut.
 
@@ -80,7 +72,7 @@ Dalam investasi saham, kamu bisa mendapatkan keuntungan dari pembagian dividen a
 
 Saham sendiri merupakan instrumen investasi yang bisa dijadikan invesasi jangka panjang maupun pendek tergantung dengan tujuan dari investasi anda. Oleh sebab itu, kamu perlu menentukan tujuan investasi di awal agar kamu bisa memilih saham seperti yang cocok untuk tujuan dan profil risiko yang kamu miliki.
 
-## **Trading Vs Investasi**
+## **Investasi Vs Trading**
 
 Dalam mengelola uang yang anda miliki, anda harus paham dahulu tujuan keuangan dan profil risiko yang anda miliki.
 
@@ -110,13 +102,13 @@ Sistem ini hampir sama seperti membeli saham di pasar modal namun skala bisnisny
 
 Karena itu..
 
-**[Yuk Patungan Bisnis Menguntungkan Bareng LandX](https://landx.id/project/)**
+## **[Yuk Temukan Bisnis Menjanjikan dengan Keuntungan Terbaik di LandX](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)**
 
-[![diversifikasi investasi anda dengan ikut patungan bisnis menguntungkan bareng LandX](https://accountgram-production.sfo2.cdn.digitaloceanspaces.com/landx_ghost/2021/10/patungan-bisnis-menguntungkan-bareng-landx-4.png)](https://landx.id/project/)
+[![miliki bisnis modal kecil cuma dengan 1 jutaan dapat 4 cabang ](https://accountgram-production.sfo2.cdn.digitaloceanspaces.com/landx_ghost/2021/11/jadi-owner-bisnis-hanya-1-jutaan-dengan-cuan-yang-sangat-menjanjikan.png)](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)
 
-[**Follow Juga Kami di Instagram @landx.id Supaya Anda Terus Update Berbagai Info Seputar Investasi Lainnya**](https://instagram.com/landx.id?utm_medium=copy_link)
+**[Follow Juga Kami di Instagram @landx.id Supaya Anda Terus Update Berbagai Info Seputar Investasi Lainnya](https://instagram.com/landx.id?utm_medium=copy_link)**
 
----
+- - -
 
 **Baca Juga:**
 
@@ -124,5 +116,4 @@ Karena itu..
 * [Bisnis Jangka Panjang: Memilih Bisnis yang Menguntungkan untuk Jangka Panjang](https://landx.id/blog/bisnis-menguntungkan-jangka-panjang/)
 * [Memahami Apa Itu Aset dan Jenis-Jenis Aset Menguntungkan yang Harus Anda Miliki](https://landx.id/blog/aset-adalah-memahami-jenis-jenis-dan-apa-itu-aset/)
 
-**#YukPatungaBisnis  #LandX.id    #landx         #landx.id    #InvestasiBisnis    #EquityCrowdfunding    #InvestasiMenguntungkan    #Urundana    #BisnisPatungan    #InvestasiUsaha**
-
+**\#YukPatungaBisnis  #LandX.id    #landx         #landx.id    #InvestasiBisnis    #EquityCrowdfunding    #InvestasiMenguntungkan    #Urundana    #BisnisPatungan    #InvestasiUsaha**
