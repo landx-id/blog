@@ -20,6 +20,7 @@ tag:
   - Bisnis Modal Kecil
   - Cloud Kitchen
   - Franchise makananan
+  - Vilo Gelato
 category:
   - Bisnis
   - Investasi
