@@ -1,23 +1,33 @@
 ---
 author: Vlora Riyandi
-title: All About Gelato, Beda Gelato dan Ice Cream, Bisnis Gelato Modal Minim
-metaTitle: All About Gelato, Beda Gelato dan Ice Cream, Bisnis Gelato Modal Minim
-metaDescription: Gelato berarti beku (frozen) dalam bahasa Italia. Gelato dan
-  ice cream berbeda mulai dari proporsi bahan, tekstur, dan temperatur
-  penyajian.
-intro: "-"
+title: "Franchise Gelato: Cara Memulai Bisnis Gelato dengan Modal Minim"
+metaTitle: "Franchise Gelato: Cara Memulai Bisnis Gelato dengan Modal Minim"
+metaDescription: Franchise ice cream gelato kini semakin banyak karena potensi
+  bisnis gelato yang semakin besar di pasar Indonesia|Franchise gelato modal
+  kecil
+intro: Bisnis gelato menjadi salah satu bisnis dessert yang paling banyak
+  digemari oleh banyak orang saat ini. Selain karena penggemar gelato yang
+  banyak, gerai gelato kini menjadi pilihan tempat nongkrong selain coffee shop
+  yang disukai banyak orang. Karena itu, mari kita bahas seluk beluk bisnis
+  gelato dan bagaimana potensinya dalam jangka panjang.
 date: 2022-02-11T03:55:39.209Z
+tag:
+  - Bisnis F&B
+  - Franchise F&B
+  - Bisnis Modal Kecil
+  - Franchise Makanan
+  - Vilo Gelato
 featuredImage:
   title: All About Gelato, Apa Bedanya Gelato dan Ice Cream? Berbisnis Gelato
     Modal Minim
-  src: https://www.istockphoto.com/photo/famous-italian-gelato-at-trevi-fountain-rome-gm1037362838-277693360?utm_source=unsplash&utm_medium=affiliate&utm_campaign=srp_photos_top&utm_content=https%3A%2F%2Funsplash.com%2Fs%2Fphotos%2Fgelato&utm_term=gelato%3A%3A%3A
+  src: https://media.discordapp.net/attachments/913743599844343808/939222534199582800/Jadi_pemilik_franchise_gelato_cuma_dengan_modal_1_juta.png?width=512&height=288
   alt: "beda gelato dan ice cream, bisnis gelato di Indonesia modal kecil "
 ---
 Apa kamu penggemar gelato? Biasanya orang menyukai gelato karena teksturnya yang lebih padat dan beragam rasa unik tersaji. Bisnis gelato atau frozen dairy ini dinilai menjanjikan dan menantang karena perlu melalui proses pengolahan khusus namun digandrungi penggemarnya.
 
 Gelato sendiri adalah olahan ice cream gaya Italia yang kemudian dikategorikan berbeda dengan jenis ice cream pada umumnya. Gelato berarti beku (frozen) dalam bahasa Italia. 
 
-## Sejarah Gelato dan Bisnis Gelato di Indonesia
+## Bisnis Gelato di Indonesia
 
 Awal mula gelato sulit ditelusuri dan dicari pembuktiannya. Dikabarkan gelato berasal pada saat masa Mesir kuno, Kekaisaran Roma dan pedagang Cina yang pada kala itu menyajikan salju yang diatasnya ditaruh madu dan buah-buahan pada piala perak. 
 
@@ -33,9 +43,11 @@ Kini, store gelato telah hadir diberbagai negara yang membuktikan potensi bisnis
 
 Dilansir berbagai media, pemenang Gelato World Tour Indonesia Challenge, Jovita Pranata mengungkapkan bisnis gelato di Indonesia semakin berkembang selama beberapa tahun belakangan.
 
-## Beda Gelato dan Ice Cream
+## Perbedaan Gelato dan Ice Cream
 
-Dilansir Food Network, Morgan Morano seorang gelato expert mengungkapkan perbedaan yang terdapat pada gelato dan ice cream. 
+Ice cream dan gelato sebenarnya merupakan dua menu yang berbeda, akan tetapi banyak orang tidak paham bedanya gelato dan ice cream. Karena itu yuk kita pahami dulu apa bedanya gelato dan ice cream.
+
+**Dilansir Food Network, Morgan Morano seorang gelato expert mengungkapkan perbedaan yang terdapat pada gelato dan ice cream.** 
 
 * Bahan\
   Gelato dan ice cream sama-sama menggunakan krim, susu, dan gula. Namun, aslinya gelato lebih banyak menggunakan susu dalam pembuatannya dan lebih sedikit krim dibanding ice cream. Ice cream juga menggunakan kuning telur yang tidak dipakai oleh pembuatan gelato. Pada gelato juga gula lebih sedikit digunakan dan biasanya memakai buah segar dalam racikan ragam rasanya.
@@ -45,15 +57,17 @@ Dilansir Food Network, Morgan Morano seorang gelato expert mengungkapkan perbeda
 * Temperatur\
   Tentunya sebagai frozen dairy, gelato dan ice cream disajikan dalam suhu dibawah nol derajat celsius. Namun, gelato disajikan ‘lebih hangat’ dibanding ice cream yaitu -10°C hingga -11°C. Sedangkan ice cream siap untuk disajikan dalam suhu dibawah -18°C.
 
-## Mitos Tentang Gelato
+## Kenapa Gelato Diminati Banyak Orang di Indonesia?
 
-1. **Gelato cuma jenis ice cream-nya orang Italia**
+**Gelato Berbeda dengan Ice Cream**
 
-Nope! Faktanya gelato adalah gelato dan ice cream adalah ice cream. Dari cara penyajian dan penyimpanan saja sudah berbeda. Gelato disajikan dalam suhu yang ‘lebih hangat’ dibanding ice cream yang mudah mencair.
+Faktanya gelato adalah gelato dan ice cream adalah ice cream. Dari cara penyajian dan penyimpanan saja sudah berbeda. Gelato disajikan dalam suhu yang ‘lebih hangat’ dibanding ice cream yang mudah mencair.
 
-Pada proses pembuatannya, setelah bahan-bahan dicampur sesuai takaran kemudian dilakukan proses pengadukan. Di poin inilah terlihat perbedaan mendasar gelato dan ice cream. Ice cream diaduk dalam kecepatan tinggi, sehingga udara masuk dan adonan mengembang.
+Pada proses pembuatannya, setelah bahan-bahan dicampur sesuai takaran kemudian dilakukan proses pengadukan. Di poin inilah terlihat perbedaan mendasar gelato dan ice cream. Ice cream diaduk dalam kecepatan tinggi, sehingga udara masuk dan adonan mengembang. Sedangkan gelato diaduk dalam kecepatan rendah sehingga udara sulit masuk dan tekstur menjadi lebih padat dibanding ice cream. Karena itulah terdapat lebih banyak udara pada ice cream dibanding gelato.
 
-Sedangkan gelato diaduk dalam kecepatan rendah sehingga udara sulit masuk dan tekstur menjadi lebih padat dibanding ice cream. Karena itulah terdapat lebih banyak udara pada ice cream dibanding gelato.
+Hal ini menjadikan ada sensasi berbeda antara 
+
+
 
 2. **Gelato bikin gemuk!**
 
@@ -67,7 +81,7 @@ Tekstur gelato yang tidak mudah cair dan lebih elastis padat dibandingkan ice cr
 
 Penyajian dalam suhu berkisar di -10°C juga merupakan faktor yang membuat gelato menjadi elastis. Karena jika terlalu dingin, gelato akan menjadi lebih keras. Jadi, gelato ga pakai gelatin ya dalam pembuatannya.
 
-4. **Bisnis Gelato Selalu Mahal**
+## **Bisnis Gelato Tidak Selalu Mahal**
 
 Memiliki bisnis dessert bisa jadi impian semua orang. Apalagi jika melihat pertumbuhan cold dessert dan dessert berbahan dasar susu jadi incaran penikmat dairy beberapa akhir tahun ini.
 
