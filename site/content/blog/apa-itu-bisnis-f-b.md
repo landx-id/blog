@@ -34,11 +34,9 @@ Usaha yang bergerak di bidang makanan dan minuman atau sering kita sebut sebagai
 
 Bisnis F&B atau *food and beverage* adalah salah satu bisnis yang tidak ada matinya dan terus berkembang dari waktu ke waktu. 
 
-Bahkan semasa pandemi pun bisnis ini tetap terus berkembang dengan berbagai penyesuaian seperti **[cloud kitchen.](https://landx.id/blog/bisnis-cloud-kitchen-di-masa-pandemi/)** Usaha fnb dengan konsep cloud kitchen 
+Bahkan semasa pandemi pun bisnis ini tetap terus berkembang dengan berbagai penyesuaian seperti **[cloud kitchen.](https://landx.id/blog/bisnis-cloud-kitchen-di-masa-pandemi/)** Usaha fnb dengan konsep cloud kitchen berkembang cukup pesat di masa pandemi karena pembatasan sosial yang membuat orang-orang tidak bisa melakukan dine-in sehingga harus melakukan delivery melalui berbagai platform pemesanan online yang semakin beragam. 
 
-Masa pandemi mendorong bisnis F&B untuk mengikuti kebiasaan baru masyarakat sehingga bisnis ini dapat terus berkembang dan bisa bertahan walaupun diterpa pandemi. Bisa kita lihat sendiri bahwa masa pandemi ini mendorong tumbuhnya berbagai bisnis online makanan yang menjanjikan keuntungan walau dengan modal kecil.
-
-Oleh sebab itu, pandemi menghadirkan peluang baru bagi sebagian bisnis f&b yang malah berkembang pesat di masa pandemi. lebih lengkapnya, yuk kita bahas bagaimana perubahan bisnis fnb dari waktu ke waktu.
+Oleh sebab itu, bisnis cloud kitchen menjadi salah satu pilihan model bisnis fnb yang banyak digemari saat masa pandemi. Karena itu, mari kita bahas secara lengkap tentang bagaiman potensi jangka panjang bisnis fnb dan model fnb seperti apa yang tetap akan bertahan dalam jangka panjang.
 
 - - -
 
