@@ -11,7 +11,7 @@ intro: "Dividen adalah salah satu jenis return dari investasi yang tentu saja
   mereka ke dalam suatu proyek atau bisnis. Karena itu, mari kita bahas lebih
   tentang apa itu dividen dan bagaimana sistem pembagian dividen kepada para
   investor dilakukan. "
-date: 2021-11-08T07:10:56.000Z
+date: 2022-02-11T03:37:01.503Z
 tag:
   - Perbedaan Dividen dan Capital Gain
   - investasi
