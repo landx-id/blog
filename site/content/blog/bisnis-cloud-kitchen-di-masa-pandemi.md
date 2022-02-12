@@ -38,7 +38,7 @@ Karena itu, yuk kita bahas lebih lanjut tentang apa cloud kitchen dan bagaimana 
 
 ## Mengenal Konsep Bisnis Cloud Kitchen di Indonesia
 
-Cloud kitchen adalah konse
+Cloud kitchen adalah konsep bisnis F&B yang berfokus pada pembangunan dapur atau kitchen yang nantinya akan disewakan kepada beberapa brand F&B lain sehingga dalam satu tempat bisa terdapat banyak brand fnb sekaligus. 
 
 Untuk itu anda perlu memperhitungkan modal bisnis F&B yang akan terapkan dalam bisnis. Salah satu model bisnis makanan dan minuman yang populer belakangan ini adalah model bisnis Cloud Kitchen.
 
