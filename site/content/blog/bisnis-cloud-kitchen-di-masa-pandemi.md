@@ -1,14 +1,33 @@
-+++
-author = "Abdul Wahhab"
-category = ["Bisnis F&B", "Franchise Makanan", "bisnis masa pandemi", "Cloud Kitchen", "Bisnis Franchise Modal Kecil"]
-date = 2021-07-27T04:39:09Z
-metaDescription = "Bisnis F&B dengan model cloud kitchen merupakan salah satu jenis f&b yang bertahan selama pandemi|Simak cara memiliki cloud kitchen modal kecil "
-draft = false
-slug = "bisnis-cloud-kitchen-di-masa-pandemi"
-tag = ["Bisnis F&B", "Franchise Makanan", "bisnis masa pandemi", "Cloud Kitchen", "Bisnis Franchise Modal Kecil"]
-title = "Bisnis di Masa Pandemi - Melihat Bagaimana Strategi Bisnis F&B Cloud Kitchen Bertahan di Masa Pandemi"
-
-+++
+---
+draft: false
+author: Abdul Wahhab
+slug: bisnis-cloud-kitchen-di-masa-pandemi
+title: Apa Itu Cloud Kitchen? Mengenal Konsep Cloud Kitchen dalam Bisnis F&B
+metaTitle: Apa Itu Cloud Kitchen? Mengenal Konsep Cloud Kitchen dalam Bisnis F&B
+metaDescription: Cloud kitchen adalah konsep bisnis F&B yang tidak melayani
+  dine-in dan fokus pada layanan pesan antar saja|Memahami konsep bisnis cloud
+  kitchen
+intro: Semasa pandemi, bisnis F&B dengan konsep cloud kitchen menjadi salah satu
+  model bisnis F&B yang dinilai paling cocok untuk menghadapi situasi pandemi
+  seperti saat ini. Selain itu, konsep cloud kitchen juga dinilai cocok untuk
+  pemula yang ingin memulai bisnis dengan modal kecil. Karena itu, yuk kita
+  bahas bagaimana potensi jangka panjang bisnis cloud kitchen ini di Indonesia.
+date: 2022-02-12T10:14:10.132Z
+tag:
+  - Bisnis F&B
+  - Franchise Makanan
+  - bisnis masa pandemi
+  - Cloud Kitchen
+  - Bisnis Franchise Modal Kecil
+category:
+  - Bisnis
+  - Investasi
+featuredImage:
+  src: https://images.unsplash.com/photo-1440335680360-79703e7032f9?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80
+  alt: Cloud kitchen adalah sistem bisnis yang berfokus pada pemesanan via online
+    dan tidak menyediakan dine-in
+  title: Memahami konsep cloud kitchen dalam bisnis fnb
+---
 
 
 Pandemi Covid-19 tentu saja mempengaruhi berbagai sektor bisnis sehingga bisnis harus menyusun strategi untuk bisa bertahan di tengah kondisi ini. Hal ini sangat penting karena pandemi telah membuat banyak bisnis gulung tikar karena kesulitan berjalan di tengah masa pandemi.
