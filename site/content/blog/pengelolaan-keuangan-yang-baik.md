@@ -43,7 +43,7 @@ Mengelola keuangan adalah bagaimana anda mengatur uang yang anda miliki saat ini
 
 Memiliki keuangan yang teratur akan sangat membantu anda menyusun rencana masa depan dengan lebih baik, terutama bagi anda yang memiliki rencana keuangan jangka panjang yang ingin dicapai. Karena, pengelolaan yang baik akan membantu proyeksi masa depan anda menjadi lebih jelas. Oleh sebab itu, mari kita bahas lebih lanjut tentang langkah-langkah pengelolaan keuangan yang baik.
 
-## Mengapa Pengelolaan Keuangan Begitu Penting?
+## Mengapa Pengelolaan Keuangan Itu Perlu
 
 Dalam kehidupan sehari-hari, banyak orang yang tidak mengelola uang dengan baik karena mereka tidak paham bagaimana cara memulainya.
 
