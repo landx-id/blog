@@ -1,36 +1,43 @@
-+++
-author = "Abdul Wahhab"
-category = ["tips investasi", "investasi", "bisnis patungan", "cara mengembangkan uang dengan cepat", "diversifikasi dalam investasi", "instrumen pasar modal", "Investasi Menguntungkan", "strategi investasi", "dana darurat"]
-date = 2021-10-25T13:36:21Z
-metaDescription = "Dana darurat adalah dana fungsional yang kamu persiapkan untuk menghadapi keadaan di masa depan. Dana darurat wajib bersifat likuid agar mudah dicairkan"
-draft = false
-image = "https://accountgram-production.sfo2.cdn.digitaloceanspaces.com/landx_ghost/2021/11/Menyiapkan-dana-darurat-agar-investasi-anda-menjadi-lebih-aman-dan-nyaman.jpeg"
-slug = "menyiapkan-dana-darurat-yang-ideal"
-tag = ["tips investasi", "investasi", "bisnis patungan", "cara mengembangkan uang dengan cepat", "diversifikasi dalam investasi", "instrumen pasar modal", "Investasi Menguntungkan", "strategi investasi", "dana darurat"]
-title = "Alasan Kenapa Dana Darurat Sangat Penting Disiapkan Sedini Mungkin"
-
-+++
-
-
+---
+draft: false
+author: Abdul Wahhab
+slug: menyiapkan-dana-darurat-yang-ideal
+title: "Dana Darurat: Menyiapkan Dana Darurat Ideal Sedini Mungkin"
+metaTitle: "Dana Darurat: Menyiapkan Dana Darurat Ideal Sedini Mungkin"
+metaDescription: Menghitung berapa dana darurat ideal untuk menghadapi  berbagai
+  kondisi tidak terduga|Menyiapkan dana darurat
+intro: "Dana darurat adalah dana yang disiapkan untuk kondisi berbagai kondisi
+  tidak terduga sehingga dana darurat atau emergency fund ini tidak ditujukan
+  untuk tujuan keuangan tertentu karena bersifat dana cadangan yang standby
+  apalagi dibutuhkan di kondisi terdesak. "
+date: 2021-10-25T13:36:21.000Z
+tag:
+  - tips investasi
+  - investasi
+  - bisnis patungan
+  - cara mengembangkan uang dengan cepat
+  - diversifikasi dalam investasi
+  - instrumen pasar modal
+  - Investasi Menguntungkan
+  - strategi investasi
+  - dana darurat
+featuredImage:
+  src: https://images.unsplash.com/photo-1494797710133-75ad43b1cd95?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1470&q=80
+  alt: Menghitung dana darurat ideal untuk masa depan anda
+  title: "Dana Darurat Adalah: Menentukan Dana Darurat Sebaiknya Disimpan Dimana "
+image: https://accountgram-production.sfo2.cdn.digitaloceanspaces.com/landx_ghost/2021/11/Menyiapkan-dana-darurat-agar-investasi-anda-menjadi-lebih-aman-dan-nyaman.jpeg
+category:
+  - Investasi
+---
 Masa depan merupakan sebuah misteri yang tidak bisa kita prediksi. Meskipun begitu, setidaknya kita harus mempersiapkan diri lebih baik. Nah, dalam keuangan, salah satu hal yang bisa kita persiapkan untuk masa depan adalah dana darurat.
 
 Dana darurat adalah sesuatu yang harus disiapkan sedini mungkin dan menjadi pondasi awal apabila kamu ingin memiliki pondasi keuangan yang baik. Namun banyak lupa menyiapkan dana darurat karena kurangnya pemahaman tentang [apa itu dana darurat.](https://landx.id/blog/tag/dana-darurat/)
 
 Karena itu, mari kita bahas apa sebenarnya itu dana darurat dan kenapa kamu wajib untuk mempersiapkannya melalui artikel di bawah ini yang bakal membahasnya secara lengkap. Simak terus sampai akhir, ya!
 
----
+- - -
 
-## Table of Content
-
-* **Apa Itu Dana Darurat?**
-* [**Pentingnya Dana Darurat Saat Pandemi**](#pentingnya-dana-darurat-saat-pandemi)
-* [**5 Manfaat Dana Darurat**](#5-manfaat-dana-darurat)
-* [**Cara Menghitung Dana Darurat**](#cara-menghitung-dana-darurat)
-* [**Tips Menyiapkan Dana Darurat**](#tips-menyiapkan-dana-darurat)
-
----
-
-## Apa Itu Dana Darurat?
+## Dana Darurat Adalah
 
 Dana darurat adalah dana fungsional yang kamu persiapkan untuk menghadapi keadaan di masa depan. Dana darurat wajib bersifat likuid, artinya dapat dicairkan dengan cepat dan mudah jika sesuatu yang genting terjadi.
 
@@ -64,7 +71,7 @@ Selain itu, dana darurat juga bisa membuat mental kamu tenang saat sakit. Sudah 
 
 ### 2. Memperbaiki Aset yang Rusak
 
-Aset pribadi yang kamu miliki seperti mobil, laptop, atau bahkan _handphone_ sangat rentan mengalami kerusakan.. Dengan adanya dana darurat, kamu sudah siap untuk membayar biaya perbaikannya yang terkadang butuh nominal besar.
+Aset pribadi yang kamu miliki seperti mobil, laptop, atau bahkan *handphone* sangat rentan mengalami kerusakan.. Dengan adanya dana darurat, kamu sudah siap untuk membayar biaya perbaikannya yang terkadang butuh nominal besar.
 
 Menyiapkan dana darurat untuk hal-hal seperti ini sangat penting biaya perawatan tidak terduga dari aset yang kita miliki sering kali menyebabkan masalah terhadap kestabilan keuangan kita.
 
@@ -132,7 +139,7 @@ Nah, itulah artikel lengkap tentang dana darurat. Mulai dari pengertian, manfaat
 
 Berbicara tentang soal persiapan keuangan, kamu bisa juga tidak boleh lupa menyiapkan rencana investasi untuk mencapai tujuan keuangan jangka panjang anda.
 
-[**Kamu bisa mulai dengan berinvestasi di LandX. Dengan modal mula1 1 juta saja**](https://landx.id/project/), kamu sudah bisa memiliki saham perusahaan UMKM hebat di Indonesia __ sekaligus mendapatkan dividen dari keuntungan yang dihasilkan bisnis tersebut.
+**[Kamu bisa mulai dengan berinvestasi di LandX. Dengan modal mula1 1 juta saja](https://landx.id/project/)**, kamu sudah bisa memiliki saham perusahaan UMKM hebat di Indonesia __ sekaligus mendapatkan dividen dari keuntungan yang dihasilkan bisnis tersebut.
 
 **[LandX](https://landx.id/project/)** membantu anda menemukan bisnis terbaik dengan potensi keuntungan jangka panjang sehingga kamu semakin mudah memilih bisnis terbaik untuk investasi
 
@@ -144,7 +151,7 @@ Berbicara tentang soal persiapan keuangan, kamu bisa juga tidak boleh lupa menyi
 
 **[Mau Berbagai info Terbaru Terkait Investasi? Yuk Follow @landx.id di Instagram](https://www.instagram.com/landx.id/?utm_medium=copy_link)**
 
----
+- - -
 
 **Baca Juga:**
 
@@ -152,9 +159,8 @@ Berbicara tentang soal persiapan keuangan, kamu bisa juga tidak boleh lupa menyi
 * [Apakah Kamu Termasuk Sandwich Generation? Ini 6 Cara Memutus Rantai Generasi Sandwich](https://landx.id/blog/memutus-rantai-sandwich-generation/)
 * [Skala Prioritas: Memahami Pengertian dan Tujuan Menyusun Skala Prioritas dalam Mengelola Keuangan](https://landx.id/blog/konsep-skala-prioritas/)
 
----
+- - -
 
-**#YukPatunganBisnis    #LandX.id    #landx         #landx.id    #InvestasiBisnis  #SecuritiesCrowdfunding   #EquityCrowdfunding    #InvestasiMenguntungkan     #Urundana    #BisnisPatungan    #InvestasiUsaha**
+**\#YukPatunganBisnis    #LandX.id    #landx         #landx.id    #InvestasiBisnis  #SecuritiesCrowdfunding   #EquityCrowdfunding    #InvestasiMenguntungkan     #Urundana    #BisnisPatungan    #InvestasiUsaha**
 
-_Writer: Galih_
-
+*Writer: Galih*
