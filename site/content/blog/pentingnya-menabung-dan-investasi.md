@@ -36,14 +36,18 @@ Oleh sebab itu, selain menyiapkan tabungan anda perlu menyusun strategi investas
 
 ## **Mengapa Kita Harus Menabung?** 
 
-Dari kecil kita tentu saja diajarkan untuk menabung agar kita memiliki dana yang cukup untuk berbagai hal di masa mendatang. 
+Dari kecil kita tentu saja diajarkan untuk menabung agar kita memiliki dana yang cukup untuk berbagai hal di masa mendatang. Alasan menabung sebenarnya beragam tergantung dengan tujuan yang ingin dicapai seseorang, ada yang menabung untuk membeli rumah atau da yang menabung untuk menyiapkan hari tua mereka. 
 
-## **Kenapa Harus Berinvestasi?**
+Selain itu, tabungan menjadi bagian penting yang harus kita siapkan karena kita perlu menyiapkan dana yang cukup untuk menghadapi berbagai kondisi tidak terduga di masa mendatang. Akan tetapi, menabung di bank saja sebenarnya tidak cukup untuk menyiapkan finansial masa depan karena nilai uang kita akan mengalami penurunan dari waktu ke waktu akibat dari inflasi. 
 
-Sebelum membahas lebih mendalam, yuk simak video ini dulu:
+Karena itu, kamu butuh strategi menabung yang menguntungkan dalam jangka panjang. Hal ini sangat penting karena apabila tidak dilakukan dengan baik malah menabung ini bisa merugikan bagi finansial kamu.
+
+**Sebelum membahas lebih mendalam, yuk simak video ini dulu:**
 
 {{< youtube id="wBsrpNUzfI0" >}}
 {{< button link="https://www.youtube.com/watch?v=wBsrpNUzfI0" text="Watch This Video" >}}
+
+## **Kenapa Harus Berinvestasi?**
 
 apabila uang anda hanya dibiarkan dalam tabungan, maka uang tersebut berpotensi untuk mengalami penurunan nilai dikarenakan inflasi yang terjadi dari waktu ke waktu.
 
@@ -59,7 +63,11 @@ Apabila anda mulai investasi, maka uang anda ini mungkin saja telah mengalami pe
 
 Contohnya investasi yang menguntungkan adalah investasi ke dalam bisnis yang akan memberikan anda capital gain saat nilai saham anda naik dan dividen yang akan dibagikan sesuai dengan nilai keuntungan dari bisnis tersebut sehingga dana yang anda miliki akan memiliki potensi perkembangan dari waktu ke waktu.
 
-## **Cara Mengembangkan Investasi**
+## Menabung Vs Investasi
+
+Setiap orang memiliki alasan menabung atau investasi yang berbeda-beda. Akan tetapi, saat kamu berinvestasi 
+
+## **Cara Melakukan Investasi**
 
 Mengembangkan investasi merupakan hal yang harus anda lakukan agar nilai investasi yang anda miliki terus berkembang. Dalam investasi anda harus paham *risk and reward* dalam pengembangan investasi yang akan anda lakukan.
 
