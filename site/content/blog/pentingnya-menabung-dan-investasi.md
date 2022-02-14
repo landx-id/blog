@@ -97,7 +97,7 @@ Dalam hal ini investor harus jeli melihat bagaimana pergerakan pasar pada saat i
 
 Oleh sebab itu anda harus memiliki pengetahuan yang cukup sebelum memutuskan bisnis mana yang akan anda berikan modal.
 
-## **Berinvestasi untuk Melawan Inflasi**
+## **Mulai Berinvestasi untuk Melawan Inflasi**
 
 Dalam mengelola dana untuk menyiapkan masa depan, anda butuh lebih dari sekedar menabung. Oleh sebab itu anda perlu menyiapkan investasi jangka panjang yang bisa membuat uang anda dapat berkembang dengan lebih cepat.
 
