@@ -1,19 +1,30 @@
-+++
-author = "Abdul Wahhab"
-category = ["menabung dengan benar", "investasi", "investasi jangka panjang", "investasi pemula"]
-date = 2021-08-19T07:04:04Z
-metaDescription = "Selain menabung kita juga harus menyiapkan investasi agar uang yang kita miliki dapat berkembang dengan optimal | Simak kenapa kita sangat butuh investasi"
-draft = false
-slug = "pentingnya-menabung-dan-investasi"
-tag = ["menabung dengan benar", "investasi", "investasi jangka panjang", "investasi pemula"]
-title = "Alasan Kenapa Selain Menabung Anda Perlu Melakukan Investasi"
-
-+++
-
-
 ---
+draft: false
+author: Abdul Wahhab
+slug: pentingnya-menabung-dan-investasi
+title: Alasan Kenapa Selain Menabung Anda Perlu Melakukan Investasi
+metaTitle: Alasan Kenapa Selain Menabung Anda Perlu Melakukan Investasi
+metaDescription: "Menabung Vs Investasi: Alasan Kenapa Menabung Saja Tidak Cukup
+  dan Butuh Investasi"
+intro: "Menabung atau investasi? Yuk simak alasan kenapa menabung saja tidak
+  cukup untuk menyiapkan kondisi finansial yang optimal di masa mendatang. "
+date: 2021-08-19T07:04:04.000Z
+tag:
+  - menabung dengan benar
+  - investasi
+  - investasi jangka panjang
+  - investasi pemula
+category:
+  - Investasi
+featuredImage:
+  src: https://images.unsplash.com/photo-1553729459-efe14ef6055d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1470&q=80
+  alt: "Menabung Vs Investasi: Alasan menabung menabung saja tidak cukup dan
+    kenapa kita harus berinvestasi"
+  title: Alasan kenapa harus berinvestasi dan tidak cukup hanya sekedar menabung
+---
+- - -
 
-[**Investasi yang menguntungkan**](https://landx.id/) **–** untuk mempersiapkan keuangan di masa depan, anda tentu saja perlu menyiapkan tabungan dan investasi untuk menghadapi berbagai kondisi tak terduga di masa.
+**[](https://landx.id/)Mengapa kita harus menabung?** untuk mempersiapkan keuangan di masa depan, anda tentu saja perlu menyiapkan tabungan untuk menghadapi berbagai kondisi tak terduga di masa.
 
 Menabung merupakan hal yang sudah diajarkan kepada kita sejak dulu untuk menghadapi berbagai kebutuhan yang tidak anda terduga. Menyiapkan tabungan untuk berbagai hal tak terduga sangat penting agar finansial anda tetap stabil dalam berbagai kondisi.
 
@@ -21,22 +32,14 @@ tapi, selain menabung anda butuh investasi agar uang yang anda miliki tidak terg
 
 Oleh sebab itu, selain menyiapkan tabungan anda perlu menyusun strategi investasi untuk pengembangan uang yang anda miliki. Karena itu, yuk kita bahas lebih lanjut kenapa selain menabung kita perlu investasi.
 
----
-
-## Table of Content
-
-* **[Kenapa Harus Investasi?](#kenapa-harus-investasi)**
-* **[Cara Mengembangkan Investasi](#cara-mengembangkan-investasi)**
-* **[Investasi Bagi Hasil untuk Menambah Income](#investasi-bagi-hasil-untuk-menambah-income)**
-* **[Mulai Investasi Bisnis Menguntungkan dengan Modal 1 Juta](#mulai-investasi-bisnis-menguntungkan-dengan-modal-1-juta)**
-
----
+- - -
 
 ## **Kenapa Harus Berinvestasi?**
 
 Sebelum membahas lebih mendalam, yuk simak video ini dulu:
 
-<iframe width="200" height="113" src="https://www.youtube.com/embed/wBsrpNUzfI0?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+{{< youtube id="wBsrpNUzfI0" >}}
+{{< button link="https://www.youtube.com/watch?v=wBsrpNUzfI0" text="Watch This Video" >}}
 
 apabila uang anda hanya dibiarkan dalam tabungan, maka uang tersebut berpotensi untuk mengalami penurunan nilai dikarenakan inflasi yang terjadi dari waktu ke waktu.
 
@@ -44,7 +47,7 @@ Dalam investasi, dana yang anda miliki akan memiliki potensi kenaikan nilai dari
 
 Apabila anda berpikir bahwa investasi merupakan sesuatu yang sangat berisiko, anda harus tahu bahwa investasi memiliki berbagai jenis instrumen yang bisa anda pilih sesuai dengan profil risiko yang anda miliki.
 
-Apabila anda masih awal, maka anda bisa mulai dengan instrumen investasi yang memiliki risiko rendah seperti reksa dana atau [**equity crowdfunding**](https://landx.id/) yang bisa membantu dana anda bisa terus berkembang.
+Apabila anda masih awal, maka anda bisa mulai dengan instrumen investasi yang memiliki risiko rendah seperti reksa dana atau **[equity crowdfunding](https://landx.id/)** yang bisa membantu dana anda bisa terus berkembang.
 
 Contohnya begini, uang 300 juta yang sanggup membeli properti pada saat ini belum tentu bisa membeli properti yang sama tahun depan. Hal ini membuktikan bahwa uang anda mengalami penurunan nilai apabila uang yang anda miliki hanya disimpan saja tanpa di investasikan.
 
@@ -54,21 +57,21 @@ Contohnya investasi yang menguntungkan adalah investasi ke dalam bisnis yang aka
 
 ## **Cara Mengembangkan Investasi**
 
-Mengembangkan investasi merupakan hal yang harus anda lakukan agar nilai investasi yang anda miliki terus berkembang. Dalam investasi anda harus paham _risk and reward_ dalam pengembangan investasi yang akan anda lakukan.
+Mengembangkan investasi merupakan hal yang harus anda lakukan agar nilai investasi yang anda miliki terus berkembang. Dalam investasi anda harus paham *risk and reward* dalam pengembangan investasi yang akan anda lakukan.
 
-Dalam mencari investasi yang menguntungkan anda perlu paham bahwa _risk_ atau risiko yang anda hadapi berbanding lurus dengan _reward_ atau keuntungan yang akan dapatkan. Karena itu, anda harus paham dengan jelas risiko dan keuntungan dari tiap investasi yang akan anda lakukan.
+Dalam mencari investasi yang menguntungkan anda perlu paham bahwa *risk* atau risiko yang anda hadapi berbanding lurus dengan *reward* atau keuntungan yang akan dapatkan. Karena itu, anda harus paham dengan jelas risiko dan keuntungan dari tiap investasi yang akan anda lakukan.
 
-Kunci dari pengembangan investasi adalah melakukan [**diversifikasi investasi**](https://landx.id/blog/diversifikasi-dalam-investasi/) yang anda lakukan. Anda harus bisa membagi dana anda ke dalam berbagai instrumen investasi baik yang berisiko rendah hingga tinggi.
+Kunci dari pengembangan investasi adalah melakukan **[diversifikasi investasi](https://landx.id/blog/diversifikasi-dalam-investasi/)** yang anda lakukan. Anda harus bisa membagi dana anda ke dalam berbagai instrumen investasi baik yang berisiko rendah hingga tinggi.
 
 Hal ini ditujukan untuk memperkecil risiko dan memperbesar potensi keuntungan yang anda dapatkan karena keberagaman investasi yang anda lakukan.
 
 Untuk investasi dengan risiko rendah anda bisa mulai berinvestasi lewat reksa dana, emas dan [equity crowdfunding](https://landx.id/) yang bisa membantu peningkatan nilai uang yang anda miliki.
 
-Investasi bisnis merupakan bisnis yang sering dijadikan pilihan karena selain peningkatan nilai uang, investasi ini memiliki potensi memberikan anda  _**[passive income](https://landx.id/blog/tag/investasi-passive-income/)** _ melalui bagi hasil.
+Investasi bisnis merupakan bisnis yang sering dijadikan pilihan karena selain peningkatan nilai uang, investasi ini memiliki potensi memberikan anda  ***[passive income](https://landx.id/blog/tag/investasi-passive-income/)***  melalui bagi hasil.
 
-## **Investasi Bagi Hasil untuk Menambah _Income_**
+## **Investasi Bagi Hasil untuk Menambah *Income***
 
-Investasi bagi hasil bulanan merupakan salah satu pilihan investasi yang akan memberikan investor [**income**](https://landx.id/project/) lewat bagi hasil yang dilakukan setiap periode yang telah disepakati.
+Investasi bagi hasil bulanan merupakan salah satu pilihan investasi yang akan memberikan investor **[income](https://landx.id/project/)** lewat bagi hasil yang dilakukan setiap periode yang telah disepakati.
 
 Sistem investasi bisnis dengan bagi hasil ini merupakan pilihan investasi yang cukup mudah untuk anda mulai apalagi pemula yang masih kebingungan tentang bagaimana memilih investasi yang baik.
 
@@ -86,28 +89,27 @@ Investasi memiliki berbagai jenis instrumen sehingga bisa menyesuaikan dengan tu
 
 Selain itu, dalam investasi kita harus selalu ingat bahwa risiko dan keuntungan merupakan hal yang beriringan sehingga anda harus bisa menyusun strategi untuk mitigasi risiko.
 
-Untuk Pemula, kamu bisa lo punya berbagai bisnis menguntungkan cuma dengan 1 jutaan aja dengan ikut [**patungan bisnis bareng LandX**](https://landx.id/project/)
+Untuk Pemula, kamu bisa lo punya berbagai bisnis menguntungkan cuma dengan 1 jutaan aja dengan ikut **[patungan bisnis bareng LandX](https://landx.id/project/)**
 
 ## **Mulai Investasi Bisnis Menguntungkan dengan Modal 1 Juta**
 
-[**LandX**](https://landx.id/) **** memberikan kesempatan untuk anda mulai investasi yang menguntungkan dengan risiko rendah dan modal kecil. [](https://landx.id/)
+**[LandX](https://landx.id/)** \*\*\*\* memberikan kesempatan untuk anda mulai investasi yang menguntungkan dengan risiko rendah dan modal kecil. [](https://landx.id/)
 
-[**LandX**](https://landx.id/) **** akan menyediakan anda berbagai pilihan bisnis untuk tempat investasi pengembangan modal yang anda miliki. [Yuk mulai sekarang](https://landx.id/)!
+**[LandX](https://landx.id/)** \*\*\*\* akan menyediakan anda berbagai pilihan bisnis untuk tempat investasi pengembangan modal yang anda miliki. [Yuk mulai sekarang](https://landx.id/)!
 
 **[Yuk Mulai Investasi Bisnis Menjanjikan Bareng LandX](https://landx.id/project/index.html)**
 
 [![miliki bisnis modal kecil cuma dengan 1 jutaan dapat 4 cabang ](https://accountgram-production.sfo2.cdn.digitaloceanspaces.com/landx_ghost/2021/11/jadi-owner-bisnis-hanya-1-jutaan-dengan-cuan-yang-sangat-menjanjikan.png)](https://landx.id/project/)
 
-[**Yuk Follow Kami di Instagram @landx.id Untuk Berbagai Update Terbaru Seputar Investasi**](https://www.instagram.com/landx.id/?utm_medium=copy_link)
+**[Yuk Follow Kami di Instagram @landx.id Untuk Berbagai Update Terbaru Seputar Investasi](https://www.instagram.com/landx.id/?utm_medium=copy_link)**
 
----
+- - -
 
 **Baca Juga:**
 
 * [Simak Cara Menabung dengan Benar untuk Mencapai Tujuan Finansial Anda](https://landx.id/blog/cara-menabung-dengan-benar-untuk-masa-depan/)
 * [Masih Bingung Cara Mengelola Uang? Simak Tips Pengelolaan Keuangan yang Baik untuk Pemula Berikut Ini](https://landx.id/blog/pengelolaan-keuangan-yang-baik/)
 
----
+- - -
 
-**#LandX.id    #landx.id    #InvestasiBisnis    #EquityCrowdfunding    #InvestasiMenguntungkan    #Urundana    #BisnisPatungan    #InvestasiUsaha**
-
+**\#LandX.id    #landx.id    #InvestasiBisnis    #EquityCrowdfunding    #InvestasiMenguntungkan    #Urundana    #BisnisPatungan    #InvestasiUsaha**
