@@ -47,7 +47,9 @@ Dana darurat disiapkan untuk menghadapi sesuatu yang tidak bisa diprediksi. Misa
 
 Sebelum lanjut, yuk simak video ini agar kamu lebih paham tentang dana darurat
 
-<iframe width="200" height="113" src="https://www.youtube.com/embed/0gpdHTuSKCg?start=4&feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+{{< youtube id="0gpdHTuSKCg" >}}
+
+{{< button link="https://youtu.be/0gpdHTuSKCg8" text="Watch This Video" >}}
 
 ## Pentingnya Dana Darurat Saat Pandemi
 
@@ -119,7 +121,9 @@ Karena itu, kita tetap harus menambah persediaan dana darurat kita seiring denga
 
 Lebih Lengkapnya, kamu bisa simak video di bawah ini ya....
 
-<iframe width="200" height="113" src="https://www.youtube.com/embed/-qwzBBnxLXU?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+{{< youtube id="-qwzBBnxLXU" >}}
+
+{{< button link="https://youtu.be/-qwzBBnxLXU" text="Watch This Video" >}}
 
 ## Tips Menyiapkan Dana Darurat
 
@@ -131,9 +135,11 @@ Menyiapkan dana darurat memang tidak mudah, namun masih mustahil kamu lakukan ji
 * Sisihkan pengeluaran yang tidak terlalu penting dan alihkan ke dana darurat
 * Simpan dana darurat dalam instrumen investasi dengan risiko rendah agar uang yang kamu simpan bisa berkembang nilainya mengikuti peningkatan inflasi dari tahun ke tahun.
 
-**Kalau kamu mau paham lebih lanjut tentang dana darurat yuk simak video pembahasan lebih detail tentang dana darurat dalam video di bawah ini:**
+**Kalau kamu mau paham lebih lanjut tentang dana darurat dan sebaiknya dana darurat disimpan dimana, yuk tonton dulu video di bawah ini:**
 
-<iframe width="200" height="113" src="https://www.youtube.com/embed/mI6swHlXzoQ?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+{{< youtube id="mI6swHlXzoQ" >}}
+
+{{< button link="https://youtu.be/mI6swHlXzoQ" text="Watch This Video" >}}
 
 Nah, itulah artikel lengkap tentang dana darurat. Mulai dari pengertian, manfaat, cara menghitung, sampai tips menyiapkannya.
 
