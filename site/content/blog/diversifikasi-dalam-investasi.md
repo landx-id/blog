@@ -65,7 +65,9 @@ Pada dasarnya, strategi diversifikasi adalah bagaimana seorang investor mengisi 
 
 Karena itu, diversifikasi portofolio adalah bagaimana kita mengkombinasikan beberapa instrumen investasi berbeda sehingga apabila satu instrumen tidak dalam kondisi baik ktia memiliki cadangan instrumen lain sebagai backup. 
 
-Contohnya dalam investasi saham, diversifikasi saham adalah bagaimana seorang investor memilih saham dari dari sektor yang berbeda untuk memenuhi 
+Contohnya dalam investasi saham, diversifikasi saham adalah bagaimana seorang investor memilih saham dari dari sektor yang berbeda dalam portofolio mereka untuk agar apabila satu sektor tidak dalam kondisi baik kita masih bisa mendapatkan keuntungan dari saham sektor lain yang sedang bertumbuh dengan baik. 
+
+Strategi ini juga berlaku untuk kamu yang berinvestasi lewat **[equity crowdfunding](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)** di mana kamu bisa membeli saham dari bisnis-bisnis dari sektor berbeda agar kamu bisa tetap mendapatkan dividen yang optimal walaupun salah satu bisnis di portofolio kamu sedang berjalan dengan tidak baik.
 
 ## Bagaimana Cara Menyusun Strategi Diversifikasi dalam Investasi?
 
