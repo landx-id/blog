@@ -53,9 +53,6 @@ Idealnya, kita melindungi diri kita dengan asuransi sebagai mitigasi agar kita m
 
 Sebelum lanjut, yuk simak video ini agar kamu lebih paham tentang dana darurat
 
-{{< youtube id="MW4Kt5RUvl8" >}}
- {{< button link="https://www.youtube.com/watch?v=MW4Kt5RUvl8" text="Watch This Video" >}}
-
 {{< youtube id="0gpdHTuSKCg" >}}
 
 {{< button link="https://youtu.be/watch?v=0gpdHTuSKCg8" text="Watch This Video" >}}
@@ -136,7 +133,7 @@ Lebih Lengkapnya, kamu bisa simak video di bawah ini ya....
 
 {{< button link="https://youtu.be/watch?v=-qwzBBnxLXU" text="Watch This Video" >}}
 
-## Di Mana Sebaiknya Menyimpan Dana Darurat? 
+## Di Mana Sebaiknya Menyimpan Dana Darurat?
 
 Apabila kamu sudah paham berapa besar dana darurat ideal, mari kita bahas dana darurat sebaiknya disimpan dimana. 
 
