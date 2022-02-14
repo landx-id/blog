@@ -29,9 +29,7 @@ category:
   - Investasi
   - Bisnis
 ---
-
-
-Return on Investment (ROI) adalah rasio untuk menunjukkan besar pengembalian (_return)_ atau keuntungan dari investasi yang dilakukan investor oleh investor. Melalui ROI, investor jadi tau seberapa besar keuntungan dari setiap penanaman modal mereka .
+Return on Investment (ROI) adalah rasio untuk menunjukkan besar pengembalian (*return)* atau keuntungan dari investasi yang dilakukan investor oleh investor. Melalui ROI, investor jadi tau seberapa besar keuntungan dari setiap penanaman modal mereka .
 
 Oleh sebab itu, ROI menjadi salah satu indikator penilaian utama bagi investor dalam menentukan instrumen investasi terbaik untuk jangka panjang mereka.
 
@@ -67,7 +65,7 @@ Akan tetapi anda harus ingat bahwa **ROI tidak faktor tunggal** yang harus anda 
 
 Oleh sebab itu, selain melakukan analisis terhadap ROI kamu juga perlu melakukan analisis dengan berbagai rasio keuangan lain agar bisa melihat bagaimana prospek jangka panjang dari instrumen tempat kamu berinvestasi.
 
-## **_Risiko dan Return_ dalam Investasi**
+## ***Risiko dan Return* dalam Investasi**
 
 Dalam investasi, kamu harus paham bahwa risk dan return merupakan dua hal yang saling berkaitan satu sama lain sehingga kamu harus paham bahwa di balik return tinggi terdapat juga risiko besar juga.
 
@@ -89,6 +87,14 @@ Dalam menentukan nilai return terbaik anda tidak bisa berpatokan hanya pada besa
 
 Karena itu saat melihat potensi ROI yang tinggi anda tidak langsung tergiur tanpa paham risiko yang mungkin anda hadapi dalam beberapa periode ke depan.
 
+## Apakah ROI Adalah Pertimbangan Utama? 
+
+Dalam memilih investasi, orang memang sering menjadikan Return on Investment (ROI) sebagai acuan utama mereka. Akan tetapi, kamu harus ingat dengan konsep "*high risk high return"* sehingga dalam setiap return tinggi yang ditawarkan ada risiko besar juga yang harus berani untuk anda hadapi. 
+
+Karena itu, ROI seharusnya tidak menjadi satu-satunya faktor yang harus kamu perhatikan saat berinvestasi. Saat mencari instrumen investasi terbaik kamu perlu memikirkan lagi bagaimana profil risiko dan tujuan finansial seperti apa yang ingin kamu capai. 
+
+Selain itu, dalam memilih instrumen investasi jangka panjang kamu harus bisa melihat jauh ke depan agar kamu bisa memproyeksikan bagaimana potensi suatu instrumen investasi di masa mendatang. 
+
 ## **Investasi dengan ROI Tinggi**
 
 Investasi bisnis merupakan investasi dengan potensi yang ROI yang bisa dibilang cukup tinggi. Namun tentu anda harus tetap pintar memilih mana bisnis yang bisa memberikan anda keuntungan besar dalam jangka panjang.
@@ -105,11 +111,10 @@ Akan tetapi anda juga harus berhati-hati menggunakan rasio ini dalam memilih inv
 
 [![Yuk mulai patungan bisnis menguntungkan jangka panja g bersama LandX](https://accountgram-production.sfo2.cdn.digitaloceanspaces.com/landx_ghost/2021/09/Equity-Crowdfunding-di-Indonesia-1--3.png)](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)
 
----
+- - -
 
-[**Supaya Lebih Paham Tentang Investasi, Jangan Lupa Follow @landx.id di Instagram**](https://www.instagram.com/landx.id/?utm_medium=copy_link)
+**[Supaya Lebih Paham Tentang Investasi, Jangan Lupa Follow @landx.id di Instagram](https://www.instagram.com/landx.id/?utm_medium=copy_link)**
 
----
+- - -
 
-**#YukPatunganBisnis**
-
+**\#YukPatunganBisnis**
