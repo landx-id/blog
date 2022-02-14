@@ -34,6 +34,10 @@ Oleh sebab itu, selain menyiapkan tabungan anda perlu menyusun strategi investas
 
 - - -
 
+## **Mengapa Kita Harus Menabung?** 
+
+Dari kecil kita tentu saja diajarkan untuk menabung agar kita memiliki dana yang cukup untuk berbagai hal di masa mendatang. 
+
 ## **Kenapa Harus Berinvestasi?**
 
 Sebelum membahas lebih mendalam, yuk simak video ini dulu:
