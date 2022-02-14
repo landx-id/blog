@@ -65,7 +65,11 @@ Contohnya investasi yang menguntungkan adalah investasi ke dalam bisnis yang aka
 
 ## Menabung Vs Investasi
 
-Setiap orang memiliki alasan menabung atau investasi yang berbeda-beda. Akan tetapi, saat 
+Setiap orang memiliki alasan menabung atau investasi yang berbeda-beda. Akan tetapi, kalau berbicara terkait nilai yang dalam jangka panjang maka kamu perlu mulai berinvestasi agar uang kamu dapat bertumbuh dari waktu ke waktu. 
+
+Apabila kamu hanya menabung, maka uang yang kamu miliki pasti mengalami penurunan karena efek inflasi. Karena itu, kamu butuh investasi yang *return-*nya lebih besar dari laju inflasi agar uang yang kamu miliki dapat tumbuh melebihi nilai inflasi yang terjadi. 
+
+Oleh sebab itu, selain menabung kamu perlu menyiapkan rencana investasi yang matang agar kamu dapat mencapai tujuan finansial yang kamu harapkan di masa mendatang. 
 
 ## **Cara Melakukan Investasi**
 
@@ -93,7 +97,7 @@ Dalam hal ini investor harus jeli melihat bagaimana pergerakan pasar pada saat i
 
 Oleh sebab itu anda harus memiliki pengetahuan yang cukup sebelum memutuskan bisnis mana yang akan anda berikan modal.
 
-## **Kesimpulan**
+## **Berinvestasi untuk Melawan Inflasi**
 
 Dalam mengelola dana untuk menyiapkan masa depan, anda butuh lebih dari sekedar menabung. Oleh sebab itu anda perlu menyiapkan investasi jangka panjang yang bisa membuat uang anda dapat berkembang dengan lebih cepat.
 
