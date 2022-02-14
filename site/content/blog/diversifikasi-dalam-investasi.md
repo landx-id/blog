@@ -29,7 +29,7 @@ tag:
 featuredImage:
   src: https://images.unsplash.com/photo-1560472355-536de3962603?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxMTc3M3wwfDF8c2VhcmNofDQ4fHxpbnZlc3R8ZW58MHx8fHwxNjQwMTUwNTkz&ixlib=rb-1.2.1&q=80&w=1080
   alt: "Cara diversifikasi yang baik dan benar untuk investor "
-  title: Melakukan diversifikasi sebagai strategi mitigasi risiko yang baik
+  title: Strategi diversifikasi untuk mengoptimalkan keuntungan investasi
 image: https://images.unsplash.com/photo-1560472355-536de3962603?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxMTc3M3wwfDF8c2VhcmNofDQ4fHxpbnZlc3R8ZW58MHx8fHwxNjQwMTUwNTkz&ixlib=rb-1.2.1&q=80&w=1080
 category:
   - Keuangan
@@ -58,6 +58,14 @@ Karena itu, diversifikasi merupakan cara untuk menghadapi kondisi yang sulit unt
 Hal ini sangat berguna terutama apabila kamu membutuhkan dana pada saat itu jadi kamu tidak perlu mencairkan investasi yang dalam posisi turun. Oleh sebab itu, salah satu diversifikasi investasi yang paling penting adalah membagi investasi berdasarkan jangka waktu dari investasi tersebut.
 
 Konsep ini hampir sama dengan bagaimana suatu perusahaan membuka berbagai lini bisnis sebagai salah satu cara mereka mengoptimalkan keuntungan mereka dan sebagai *back up* apabila salah satu dari lini bisnis mereka tidak berjalan dengan baik.
+
+## Strategi Diversifikasi
+
+Pada dasarnya, strategi diversifikasi adalah bagaimana seorang investor mengisi portofolio investasi mereka dengan beberapa instrumen investasi yang berbeda agar memperkecil risiko kerugian yang mungkin muncul. 
+
+Karena itu, diversifikasi portofolio adalah bagaimana kita mengkombinasikan beberapa instrumen investasi berbeda sehingga apabila satu instrumen tidak dalam kondisi baik ktia memiliki cadangan instrumen lain sebagai backup. 
+
+Contohnya dalam investasi saham, diversifikasi saham adalah bagaimana seorang investor memilih saham dari dari sektor yang berbeda untuk memenuhi 
 
 ## Bagaimana Cara Menyusun Strategi Diversifikasi dalam Investasi?
 
