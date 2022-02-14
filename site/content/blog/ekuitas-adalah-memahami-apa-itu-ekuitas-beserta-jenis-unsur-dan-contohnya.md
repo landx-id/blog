@@ -48,11 +48,9 @@ Ekuitas adalah kekayaan bersih dari perusahaan yang telah dikurangi dengan liabi
 
 Oleh sebab itu, ekuitas atau equity dalam akuntansi adalah selisih dari aset dan liabilitas. Ekuitas ini bisa berasal dari berbagai sumber seperti dari investor atau merupakan hasil dari kegiatan ekonomi yang dilakukan oleh perusahaan. 
 
-Karena itu, cara menghitung ekuitas adalah dengan mencari selisih antara aset dan liabilitas (beban) yang 
+**Karena itu, cara menghitung ekuitas adalah dengan mencari selisih antara aset dan liabilitas (beban).**
 
-Oleh sebab itu, nilai ekuitas ini mungkin saja negatif apabila liabilitas lebih besar dibandingkan aset yang dimiliki oleh perusahaan sehingga perusahaan mengalami defisit.
-
-Dalam akuntansi, ekuitas dan lialibilitas adalah d
+Oleh sebab itu, nilai ekuitas ini mungkin saja negatif apabila liabilitas lebih besar dibandingkan aset yang dimiliki oleh perusahaan sehingga perusahaan mengalami defisit. Karena itu, ekuitas dan liabilitas adalah dua hal yang saling berkaitan satu sama lain. 
 
 ## Jenis dan Unsur Ekuitas
 
@@ -135,7 +133,7 @@ Karena itu, selain membantu bisnis berkembang dengan lebih cepat, equity crowdfu
 
 **[Yuk Temukan Bisnis Menjanjikan dengan Keuntungan Terbaik di LandX](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)**
 
-[![diversifikasi investasi anda dengan ikut patungan bisnis menguntungkan bareng LandX](https://accountgram-production.sfo2.cdn.digitaloceanspaces.com/landx_ghost/2021/10/patungan-bisnis-menguntungkan-bareng-landx-4.png)](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)
+[![miliki bisnis modal kecil cuma dengan 1 jutaan dapat 4 cabang ](https://accountgram-production.sfo2.cdn.digitaloceanspaces.com/landx_ghost/2021/11/jadi-owner-bisnis-hanya-1-jutaan-dengan-cuan-yang-sangat-menjanjikan.png)](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)
 
 **[Yuk Follow Kami di Instagram @landx.id Untuk Berbagai Update Terbaru Seputar Investasi](https://www.instagram.com/landx.id/?utm_medium=copy_link)**
 
