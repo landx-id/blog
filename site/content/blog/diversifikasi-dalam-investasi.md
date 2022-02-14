@@ -93,11 +93,11 @@ Apabila anda ikut patungan bisnis, maka diversifikasi dapat dilakukan dengan ber
 
 Di LandX, kamu bisa menemukan berbagai bisnis potensial dari berbagai sektor yang bisa menjadi pilihan untuk [diversifikasi portofolio](https://landx.id/project/) investasi kamu. Karena itu..
 
-**[Yuk Temukan Bisnis Terbaik untuk Investasi Jangka Panjang Kamu di LandX](https://landx.id/project/#/cpap)**
+**[Yuk Temukan Bisnis Terbaik untuk Investasi Jangka Panjang Kamu di LandX](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)**
 
-[![Yuk Temukan Bisnis Terbaik untuk Investasi Jangka Panjang Kamu di LandX](https://accountgram-production.sfo2.cdn.digitaloceanspaces.com/landx_ghost/2021/10/patungan-bisnis-menguntungkan-bareng-landx.png)](http://landx.id/project/)
+[![Yuk Temukan Bisnis Terbaik untuk Investasi Jangka Panjang Kamu di LandX](https://accountgram-production.sfo2.cdn.digitaloceanspaces.com/landx_ghost/2021/10/patungan-bisnis-menguntungkan-bareng-landx.png)](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)
 
-**[Mau Tau Berbagai Info Terbaru Seputar Keuangan Lainnya? Yuk Follow @landx.id di Instagram](https://www.instagram.com/landx.id/?utm_medium=copy_link)**
+**Mau Tau Berbagai Info Terbaru Seputar Keuangan Lainnya? Yuk Follow @landx.id di Instagram**
 
 - - -
 
