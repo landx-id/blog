@@ -65,7 +65,7 @@ Contohnya investasi yang menguntungkan adalah investasi ke dalam bisnis yang aka
 
 ## Menabung Vs Investasi
 
-Setiap orang memiliki alasan menabung atau investasi yang berbeda-beda. Akan tetapi, saat kamu berinvestasi 
+Setiap orang memiliki alasan menabung atau investasi yang berbeda-beda. Akan tetapi, saat 
 
 ## **Cara Melakukan Investasi**
 
