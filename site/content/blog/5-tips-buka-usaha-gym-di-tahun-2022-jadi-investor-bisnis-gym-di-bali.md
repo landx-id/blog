@@ -1,16 +1,27 @@
 ---
 author: Vlora Riyandi
-title: 5 Tips Buka Usaha Gym di Tahun 2022, Jadi Investor Bisnis Gym di Bali!
-metaTitle: 5 Tips Buka Usaha Gym di Tahun 2022, Jadi Investor Bisnis Gym di Bali!
+title: "Franchise Gym: 5 Tips Buka Usaha Gym di Tahun 2022"
+metaTitle: "Franchise Gym: 5 Tips Buka Usaha Gym di Tahun 2022"
 metaDescription: Industri kebugaran semakin pulih, memiliki bisnis gym setelah
   krisis pandemi pun menjadi hal menarik. Berikut tips memulai bisnis gym dan
   fitness.
-intro: "-"
+intro: Bisnis gym dan fitness menjadi salah satu bisnis yang semakin banyak
+  peminat selama era pandemi karena orang-orang yang semakin sadar akan
+  pentingnya menjaga kesehatan di tengah pandemi seperti ini. Karena itu, yuk
+  kita cek bagaimana potensi jangka panjang dari bisnis satu ini
 date: 2022-02-15T05:11:19.530Z
+tag:
+  - Investasi Bisnis
+  - Bisnis Modal Kecil
+  - Bisnis Franchise
+  - Instrumen Investasi
+category:
+  - Bisnis
 featuredImage:
-  title: 5 Tips Buka Usaha Gym di Tahun 2022, Jadi Investor Bisnis Gym di Bali!
-  src: https://www.istockphoto.com/photo/cheerful-fit-couple-on-white-background-gm1287910461-384014839?utm_source=unsplash&utm_medium=affiliate&utm_campaign=srp_photos_top&utm_content=https%3A%2F%2Funsplash.com%2Fs%2Fphotos%2Fgym-fitness&utm_term=gym%20fitness%3A%3A%3A
-  alt: tips memulai startup bisnsi gym dan usaha fitness, rekomendasi gym Jakarta,
+  title: 5 Tips Buka Usaha Gym di Tahun 2022 dan Bagaimana Jadi Pemilik Franchise
+    Gym Cuma Modal 1 Jutaan
+  src: https://images.unsplash.com/photo-1540497077202-7c8a3999166f?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1470&q=80
+  alt: tips memulai startup bisnis gym dan usaha fitness, rekomendasi gym Jakarta,
     rekomendasi gym Bali
 ---
 Menjaga kesehatan menjadi sorotan paling depan semenjak pandemi menyerang di tahun 2020 lalu. Banyak orang mulai mengadopsi gaya sehat dan cara berolahrga yang baru. Namun bagi sebagian orang, menjaga kesehatan adalah bagian aktivitas harian yang tidak dapat dipisahkan. Baik dengan berolahraga sendiri ataupun dengan bergabung sebagai anggota fitness dan gym.
@@ -21,11 +32,11 @@ Sebelum membahas keuntungan bisnis gym ataupun keuntungan usaha fitness, [LandX]
 
 ## Apa Itu Gym dan Fitness Center
 
-Gym mengacu pada ruangan besar yang dipenuhi peralatan khusus dan sebagai tempat orang-orang melakukan latihan fisik atau aktivitas kebugaran. Gym diserap dari kata dalam bahasa Yunani kuno yaitu gymnasium. Gym juga dipakai sebagai istilah gaul atau slang untuk fitness center dan health club.
+**Gym adalah ruangan** besar yang dipenuhi peralatan khusus dan sebagai tempat orang-orang melakukan latihan fisik atau aktivitas kebugaran. Gym diserap dari kata dalam bahasa Yunani kuno yaitu gymnasium. Gym juga dipakai sebagai istilah gaul atau slang untuk fitness center dan health club.
 
 Gym yang kita kenal saat ini biasanya tempat orang workout yang fokus weight lifting. Terdapat juga personal trainer untuk dilatih di 1-1 session, sedangkan group class training tidak umum diadakan. Di dalam bangunan gym umumnya terdapat ragam alat angkat beban seperti dumbbell set, barbel set, pull-up bar, treadmill, dan fitness ball.
 
-Dilansir situs Fit Athletic, walaupun gym digunakan sebagai slang bagi fitness center, nyatanya fitness center lebih dari sekedar gym. Fitness center memiliki area outdoor dan indoor dan ragam kegiatan latihan kesehatan.  
+Dilansir situs Fit Athletic, walaupun gym digunakan sebagai slang bagi fitness center, nyatanya fitness center lebih dari sekedar gym. Fitness center adalah area outdoor dan indoor dan ragam kegiatan latihan kesehatan.  
 
 Fitness center biasanya terdapat ragam disiplin kegiatan olahraga seperti berenang, area boxing, yoga, area ganti pakaian, hingga area makanan.
 
