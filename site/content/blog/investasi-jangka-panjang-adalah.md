@@ -1,14 +1,26 @@
-+++
-author = "Abdul Wahhab"
-category = ["investasi jangka panjang", "investasi bagi hasil"]
-date = 2021-08-03T06:38:52Z
-metaDescription = "Investasi jangka panjang, pahami berbagai tips membangun investasi jangka panjang yang menguntungkan | Rekomendasi investasi jangka panjang terbaik"
-draft = false
-slug = "investasi-jangka-panjang-adalah"
-tag = ["investasi jangka panjang", "investasi bagi hasil"]
-title = "Tips Penting dalam Menyusun Rencana Investasi Jangka Panjang Terbaik"
-
-+++
+---
+draft: false
+author: Abdul Wahhab
+slug: investasi-jangka-panjang-adalah
+title: Tips Penting dalam Menyusun Rencana Investasi Jangka Panjang Terbaik
+metaTitle: Tips Penting dalam Menyusun Rencana Investasi Jangka Panjang Terbaik
+metaDescription: Investasi jangka panjang adalah investasi yang dilakukan untuk
+  periode jangka panjang hingga akhirnya bisa memberikan keuntungan|Tujuan
+  Investasi
+intro: Yuk simak bagaimana cara menyusun rencana investasi jangka panjang yang
+  sesuai dengan tujuan finansial anda.
+date: 2021-08-03T06:38:52.000Z
+tag:
+  - investasi jangka panjang
+  - investasi bagi hasil
+  - Investasi Pemula
+category:
+  - investasi
+featuredImage:
+  src: https://images.unsplash.com/photo-1565514020179-026b92b84bb6?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1470&q=80
+  alt: Cara menyusun rencana investasi jangka panjang
+  title: Memilih investasi jangka panjang yang sesuai untuk pemula
+---
 
 
 Berbicara tentang [investasi jangka panjang](https://landx.id/), anda pasti langsung memikirkan bagaimana uang yang anda miliki dapat menghasilkan keuntungan dalam jangka panjang.
