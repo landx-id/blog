@@ -25,7 +25,7 @@ featuredImage:
   alt: Urun dana equity crowdfunding
   title: Memahami bagaimana sistem investasi lewat urun dana atau equity crowdfunding
 ---
-Urun dana merupakan salah satu sistem investasi yang memberikan kesempatan kepada investor untuk melakukan investasi bisnis dengan modal kecil. Sistem ini juga dikenal dengan *Equity Crowdfunding (ECF)* atau Securities Crowdfunding (SCF) yang baru-baru ini dikenalkan pemerintah kepada masyarakat.
+Urun dana adalah salah satu sistem investasi yang memberikan kesempatan kepada investor untuk melakukan investasi bisnis dengan modal kecil. Sistem ini juga dikenal dengan *Equity Crowdfunding (ECF)* atau Securities Crowdfunding (SCF) yang baru-baru ini dikenalkan pemerintah kepada masyarakat.
 
 Otoritas Jasa Keuangan (OJK) mengeluarkan POJK 57/2020 untuk menggantikan peraturan terkait layanan urun dana sebelumnya yaitu POJK 37/2018 yang mengatur tentang penawaran efek lewat urun dana berbasis teknologi informasi.
 
