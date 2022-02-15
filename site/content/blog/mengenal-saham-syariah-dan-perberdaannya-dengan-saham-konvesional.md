@@ -1,15 +1,29 @@
-+++
-author = "Abdul Wahhab"
-category = ["Cara Investasi Saham", "investasi saham", "saham konvensional", "saham syariah"]
-date = 2021-11-17T12:50:49Z
-metaDescription = "Saham syariah adalah bukti kepemilkan modal terhadap suatu perusahaan yang berjalan sesuai dengan prinsip dan aturan syariah islam| Indeks saham syariah"
-draft = false
-image = "https://images.unsplash.com/photo-1559526324-593bc073d938?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxMTc3M3wwfDF8c2VhcmNofDMyfHxzdG9ja3xlbnwwfHx8fDE2NDAxNDc3ODU&ixlib=rb-1.2.1&q=80&w=1080"
-slug = "mengenal-saham-syariah-dan-perberdaannya-dengan-saham-konvesional"
-tag = ["Cara Investasi Saham", "investasi saham", "saham konvensional", "saham syariah"]
-title = "Saham Syariah: Mengenal Apa Itu Saham Syariah dan Perbedaannya dengan Konvensional"
-
-+++
+---
+draft: false
+author: Abdul Wahhab
+slug: mengenal-saham-syariah-dan-perberdaannya-dengan-saham-konvesional
+title: "Saham Syariah: Memahami Perbedaan Saham Syariah dan Konvensional"
+metaTitle: "Saham Syariah: Memahami Perbedaan Saham Syariah dan Konvensional"
+metaDescription: Saham syariah adalah bukti kepemilikan modal yang berjalan
+  sesuai dengan prinsip dan aturan syariah islam|Investasi saham syariah
+intro: Kalau kamu ingin berinvestasi ke saham syariah, yuk simak dulu perbedaan
+  saham syariah dan konvensional serta indeks saham syariah yang bisa jadi acuan
+  investasi anda.
+date: 2021-11-17T12:50:49.000Z
+tag:
+  - Cara Investasi Saham
+  - investasi saham
+  - saham konvensional
+  - saham syariah
+featuredImage:
+  src: https://images.unsplash.com/photo-1559526324-593bc073d938?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxMTc3M3wwfDF8c2VhcmNofDMyfHxzdG9ja3xlbnwwfHx8fDE2NDAxNDc3ODU&ixlib=rb-1.2.1&q=80&w=1080
+  alt: "Memahami perbedaan saham syariah dan konvensional "
+  title: Memilih saham syariah blue chip untuk investasi
+image: https://images.unsplash.com/photo-1559526324-593bc073d938?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxMTc3M3wwfDF8c2VhcmNofDMyfHxzdG9ja3xlbnwwfHx8fDE2NDAxNDc3ODU&ixlib=rb-1.2.1&q=80&w=1080
+category:
+  - Keuangan
+  - Investasi
+---
 
 
 **Saham Syariah 2021 –** Apabila kamu ingin berinvestasi ke dalam pasar modal, maka kamu harus tahu bahwa terdapat produk pasar modal syariah yang bisa jadi pilihan investasi kamu mulai dari saham hingga reksa dana syariah.
