@@ -80,7 +80,9 @@ Hal  lain yang membedakan antara saham syariah dan konvensional adalah  sumber p
 
 ## Saham Syariah Bluechip 2021
 
-Apabila kamu masih bi
+Apabila kamu masih bingung cara berinvestasi saham syariah dan menemukan saham syariah yang sesuai dengan tujuan investasi kamu, maka kamu sebenarnya bisa mulai dengan mengecek indek saham syariah yang kini ada beberapa jenis. 
+
+Dalam indeks ini, terdapat banyak saham-saham blue chip yang bisa jadi pilihan untuk menghiasi portofolio kamu.   
 
 ## Indeks Saham Syariah
 
