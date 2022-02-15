@@ -49,6 +49,14 @@ Apabila anda belum tahu cara menjadi investor dengan modal kecil, mari kita baha
 
 Apabila anda ingin menjadi investor dan mau mulai berinvestasi, sebenarnya anda bisa melakukan hal ini melalui berbagai cara karena tersedia banyak instrumen investasi bisa disesuaikan dengan budget dan tujuan investasi anda. Karena itu, berikut beberapa cara menjadi investor yang bisa anda coba.
 
+Sebelum itu, yuk simak cerita investor LandX berikut ini: 
+
+{{< youtube id="ibrAdDGizzU" >}}
+
+{{< button link="https://www.youtube.com/watch?v=ibrAdDGizzU" text="Watch This Video" >}}
+
+https://www.youtube.com/watch?v=ibrAdDGizzU
+
 ### 1. Mulai dengan Sesuatu yang Sangat Anda Pahami
 
 Salah satu cara terbaik untuk menjadi investor mulai berinvestasi dengan instrumen yang paling anda pahami sehingga investasi yang anda lakukan menjadi semakin mudah. Memahami suatu instrumen dengan baik membuat anda lebih mudah membuat keputusan investasi sehingga potensi keuntungan pun akan ikut meningkat.
