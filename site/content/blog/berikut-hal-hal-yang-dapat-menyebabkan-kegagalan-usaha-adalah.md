@@ -10,7 +10,7 @@ intro: Saat memulai bisnis, kamu perlu memahami hal-hal yang menyebabkan
   gagalnya usaha yang sedang anda bangun. Oleh sebab itu, yuk kita bahas
   berbagai hal faktor penyebab kegagalan usaha agar kamu bisa menyusun strategi
   untuk menghindari hal tersebut.
-date: 2021-07-07T06:59:43.000Z
+date: 2022-02-15T04:11:57.432Z
 tag:
   - bisnis di masa pandemi
   - Memulai usaha
