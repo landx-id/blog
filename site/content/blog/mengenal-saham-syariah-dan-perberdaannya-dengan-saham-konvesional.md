@@ -24,8 +24,6 @@ category:
   - Keuangan
   - Investasi
 ---
-
-
 **Saham Syariah 2021 –** Apabila kamu ingin berinvestasi ke dalam pasar modal, maka kamu harus tahu bahwa terdapat produk pasar modal syariah yang bisa jadi pilihan investasi kamu mulai dari saham hingga reksa dana syariah.
 
 Sebagai salah satu instrumen investasi paling populer, saham syariah merupakan salah satu instrumen yang paling banyak dicari oleh para investor yang mencari instrumen invesasi yang sesuai dengan syariah islam.
@@ -36,23 +34,13 @@ Saat ini terdapat hampir 500 saham yang masuk kategori ini termasuk ke dalam ind
 
 Supaya kamu semakin paham tentang instrumen ini, yuk kita bahas lebih lanjut tentang pengertian saham syariah dan indeks saham syariah yang bisa membantu pemilihan instrumen investasi anda.
 
----
-
-## **Table of Content**
-
-* **Apa Itu Saham Syariah?**
-* **[Perbedaan Saham Syariah dan Konvensional](https://landx.id/blog/mengenal-saham-syariah-dan-perberdaannya-dengan-saham-konvesional/#perbedaan-saham-syariah-dan-konvensional)**
-* **[Kriteria dan Syarat Saham Syariah](https://landx.id/blog/mengenal-saham-syariah-dan-perberdaannya-dengan-saham-konvesional/#lriteria-dan-syarat-saham-syariah)**
-* **[Indeks Saham Syariah](https://landx.id/blog/mengenal-saham-syariah-dan-perberdaannya-dengan-saham-konvesional/#indeks-saham-syariah)**
-* **[Yuk Mulai Investasi](https://landx.id/blog/mengenal-saham-syariah-dan-perberdaannya-dengan-saham-konvesional/#yuk-mulai-investasi)**
-
----
+- - -
 
 ## Apa Itu Saham Syariah?
 
 Saham syariah sebenarnya hampir sama dengan saham biasa/saham  konvensional yang merupakan bukti kepemilikan akan sebuah perusahaan  atau bisnis, namun yang menjadi pembeda saham syariah mengacu pada prinsip-prinsip syariat islam.
 
-Karena itu saham syariah adalah saham yang sudah memenuhi berbagai syarat tertentu yang sudah ada dalam syariah islam.
+> Saham syariah adalah saham yang sudah memenuhi berbagai syarat tertentu yang sudah ada dalam syariah islam.
 
 Emiten yang masuk kategori saham syariah dalam praktiknya  harus mengacu pada syariah islam sehingga perusahaan harus berjalan sesuai  dengan prinsip syariah yang ada.
 
@@ -89,6 +77,10 @@ Hal  ini menjadi pembeda antara saham syariah dan saham konvensional karena  sah
 Perusahaan  yang menawarkan saham syariah harus memenuhi syarat rasio keuangan di  mana total utang berbasis bunga harus lebih kecil dibandingkan total  aset di mana utang berbasis bunga tidak boleh melebihi 45% dari total  aset perusahaan. Hal ini berbeda dengan sistem saham konvensional yang  memperbolehkan utang berbasis bunga lebih besar dari nilai total aset.
 
 Hal  lain yang membedakan antara saham syariah dan konvensional adalah  sumber pendapatan dari perusahaan. Dalam saham syariah, pendapatan non  halal seperti bunga tidak boleh melebihi pendapatan hasil usaha dan  tidak lebih dari 10% pendapatan secara keseluruhan.
+
+## Saham Syariah Bluechip 2021
+
+Apabila kamu masih bi
 
 ## Indeks Saham Syariah
 
@@ -128,16 +120,15 @@ Namun, anda apabila anda masih belum mau  berinvestasi saham, anda mungkin bisa 
 
 [![jadi-owner-bisnis-hanya-1-jutaan-dengan-cuan-yang-sangat-menjanjikan](https://accountgram-production.sfo2.cdn.digitaloceanspaces.com/landx_ghost/2021/11/jadi-owner-bisnis-hanya-1-jutaan-dengan-cuan-yang-sangat-menjanjikan.png)](https://landx.id/project/)
 
-[**Mau Berbagai Info Menarik Seputar Investasi Lainnya? Yuk Follow Instagram @landx.id**](https://instagram.com/landx.id?utm_medium=copy_link)
+**[Mau Berbagai Info Menarik Seputar Investasi Lainnya? Yuk Follow Instagram @landx.id](https://instagram.com/landx.id?utm_medium=copy_link)**
 
----
+- - -
 
 ## Baca Juga:
 
 * [Apa itu Saham Property, Prospek Keuntungan dan Cara Investasi Properti](https://landx.id/blog/apa-itu-saham-property-prospek-keuntungan-dan-cara-investasi-properti/)
 * [Sebelum Memulai Investasi Yuk Pahami Dulu Perbedaan Antara Reksa Dana dan Saham](https://landx.id/blog/sebelum-memulai-investasi-yuk-pahami-dulu-perbedaan-antara-reksa-dana-dan-saham/)
 
----
+- - -
 
-#LandX.id     #landx.id    #InvestasiBisnis    #EquityCrowdfunding     #InvestasiMenguntungkan    #Urundana    #BisnisPatungan     #InvestasiUsaha
-
+\#LandX.id     #landx.id    #InvestasiBisnis    #EquityCrowdfunding     #InvestasiMenguntungkan    #Urundana    #BisnisPatungan     #InvestasiUsaha
