@@ -82,7 +82,7 @@ Hal  lain yang membedakan antara saham syariah dan konvensional adalah  sumber p
 
 Apabila kamu masih bingung cara berinvestasi saham syariah dan menemukan saham syariah yang sesuai dengan tujuan investasi kamu, maka kamu sebenarnya bisa mulai dengan mengecek indek saham syariah yang kini ada beberapa jenis. 
 
-Dalam indeks ini, terdapat banyak saham-saham blue chip yang bisa jadi pilihan untuk menghiasi portofolio kamu.   
+Dalam indeks ini, terdapat banyak saham-saham blue chip yang bisa jadi pilihan untuk menghiasi portofolio kamu. Karena itu, yuk kita cek berbagai indeks saham syariah yang bisa mempermudah kamu menemukan saham blue chip syariah.
 
 ## Indeks Saham Syariah
 
