@@ -25,11 +25,11 @@ featuredImage:
   alt: Urun dana equity crowdfunding
   title: Memahami bagaimana sistem investasi lewat urun dana atau equity crowdfunding
 ---
-Urun dana adalah salah satu sistem investasi yang memberikan kesempatan kepada investor untuk melakukan investasi bisnis dengan modal kecil. Sistem ini juga dikenal dengan *Equity Crowdfunding (ECF)* atau Securities Crowdfunding (SCF) yang baru-baru ini dikenalkan pemerintah kepada masyarakat.
+**Urun dana adalah** salah satu sistem investasi yang memberikan kesempatan kepada investor untuk melakukan investasi bisnis dengan modal kecil. Sistem ini juga dikenal dengan *Equity Crowdfunding (ECF)* atau Securities Crowdfunding (SCF) yang baru-baru ini dikenalkan pemerintah kepada masyarakat.
 
 Otoritas Jasa Keuangan (OJK) mengeluarkan POJK 57/2020 untuk menggantikan peraturan terkait layanan urun dana sebelumnya yaitu POJK 37/2018 yang mengatur tentang penawaran efek lewat urun dana berbasis teknologi informasi.
 
-Perluasan layanan ini memunculkan istilah baru dalam sistem investasi urun dana yaitu [securities crowdfunding](https://landx.id/) atau SCF dengan cakupan layanan investasi yang lebih luas.
+Perluasan layanan ini memunculkan istilah baru dalam sistem investasi urun dana yaitu [securities crowdfunding](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog) atau SCF dengan cakupan layanan investasi yang lebih luas.
 
 Berkembanganya layanan investasi dengan sistem urun dana mempermudah proses investasi bisnis karena perusahaan penerbit dapat mengakses modal dari investor dalam cakupan yang luas melalui platform investasi bisnis berbasis digital.
 
@@ -37,17 +37,25 @@ Selain itu, berinvestasi lewat urun dana merupakan salah satu cara mengembangkan
 
 Hal ini menjadi solusi pendanaan jangka panjang bagi bisnis yang memiliki potensi besar untuk berkembang ke pasar yang lebih luas.
 
-Karena itu, mari kita bahas lebih lanjut peluang investasi dengan sistem ini urun dana atau [securities crowdfunding (SCF)](https://landx.id/) ini.
+Karena itu, mari kita bahas lebih lanjut peluang investasi dengan sistem ini urun dana atau [Securities Crowdfunding (SCF)](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog) ini.
 
-## **Peluang Investasi dengan Sistem Urun Dana**
+## **Peluang Investasi Lewat Layanan Urun Dana**
+
+**Sebelum membahas sistem urun dana lebih lanjut, yuk simak dulu video di bawah ini:** 
+
+{{< youtube id="Y03A0VgY_ug" >}} 
+
+{{< button link="https://www.youtube.com/watch?v=Y03A0VgY_ug" text="Watch This Video" >}}
 
 Dalam sistem urun dana yang baru dikeluarkan yaitu securities crowdfunding investasi bisnis tidak hanya bisa anda lakukan dengan skema equity crowdfunding atau penawaran saham bisnis kepada investor.
 
-Perluasan layanan investasi membuat kepemilikan investor tidak terbatas hanya dalam bentuk saham tapi bisa juga dalam bentuk surat utang dan sukuk.
+> Urun dana adalah sistem yang membantu mempertemukan investor dengan bisnis yang membutuhkan pemodalan untuk pengembangan bisnis mereka. 
 
-Sistem urun dana memberikan kesempatan investor kesempatan untuk berinvestasi ke dalam bisnis privat dengan modal kecil yang sebelumnya sulit untuk dilakukan.
+Dalam urun dana equity crowdfunding sebagai pemegang saham investor bisa mendapatkan return berupa dividen dan capital gain.
 
-Hal ini menjadi peluang besar bagi para investor yang ingin berinvestasi bisnis namun memiliki keterbatasan dana.
+Layanan urun dana ini kini mengalami perluasan layanan investasi menjadi[ **securities crowdfunding**](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)membuat kepemilikan investor tidak terbatas hanya terbatas saham tapi bisa juga dalam bentuk surat utang dan sukuk sehingga return yang diberikan pun akan lebih beragam.
+
+**Sistem urun dana memberikan kesempatan investor kesempatan** untuk berinvestasi ke dalam bisnis privat dengan modal kecil yang sebelumnya sulit untuk dilakukan. Hal ini menjadi peluang besar bagi para investor yang ingin berinvestasi bisnis namun memiliki keterbatasan dana.
 
 Investasi urun dana memberikan keuntungan dalam bentuk yang berbeda-beda tergantung dengan jenis investasi yang anda lakukan.
 
@@ -59,7 +67,7 @@ Semakin bervariasi bentuk investasi bisnis yang bisa dilakukan melalui skema uru
 
 Akan tetapi, perlu diingat bahwa setiap jenis investasi memiliki risiko yang berbeda-beda sehingga selain memilih bisnis yang tepat anda juga perlu menentukan jenis investasi seperti apa yang akan anda mulai.
 
-Walaupun [urun dana](https://landx.id/) memiliki sistem surat utang, sistem ini tidak sama dengan pinjaman daring. Untuk lebih jelasnya mari kita bahas perbedaan dari sistem urun dana dengan pinjaman daring
+Walaupun [urun dana](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog) memiliki sistem surat utang, sistem ini tidak sama dengan pinjaman daring. Untuk lebih jelasnya mari kita bahas perbedaan dari sistem urun dana dengan pinjaman daring
 
 ## **Perbedaan Urun Dana dengan Pinjaman Daring**
 
@@ -85,11 +93,13 @@ Karena itu anda perlu memastikan platform urun dana yang anda pilih memiliki leg
 
 Selanjutnya, anda perlu melihat portofolio rekam jejak dari platform penyelenggara urun dana  dengan melihat berapa banyak bisnis yang sudah berhasil mereka terbitkan sehingga anda bisa melihat bisnis apa saja yang sudah berhasil diterbitkan oleh platform tersebut.
 
-Salah platform urun dana yang bisa anda coba adalah [LandX](https://landx.id/) yang memberikan anda kesempatan untuk berinvestasi ke dalam berbagai jenis bisnis potensial yang bisa memberikan anda keuntungan.
+Salah platform urun dana yang bisa anda coba adalah [LandX](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog) yang memberikan anda kesempatan untuk berinvestasi ke dalam berbagai jenis bisnis potensial yang bisa memberikan anda keuntungan.
 
-[LandX](https://landx.id/) telah berhasil menghimpun dana untuk berbagai bisnis potensial dari berbagai sektor mulai dari properti hingga F&B. Karena itu…...
+LandX telah berhasil menghimpun dana untuk berbagai bisnis potensial dari berbagai sektor mulai dari properti hingga F&B. Karena itu…...
 
-**[Yuk Mulai Investasi Urun Dana Bersama LandX untuk Investasi Bisnis Jangka Panjang Anda](https://landx.id/)**
+**[Yuk Mulai Investasi Urun Dana Bersama LandX untuk Investasi Bisnis Jangka Panjang Anda](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)**
+
+[![miliki bisnis modal kecil cuma dengan 1 jutaan dapat 4 cabang ](https://accountgram-production.sfo2.cdn.digitaloceanspaces.com/landx_ghost/2021/11/jadi-owner-bisnis-hanya-1-jutaan-dengan-cuan-yang-sangat-menjanjikan.png)](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)
 
 **[Mau Info Terbaru Seputar Bisnis dan Investasi ? Yuk Follow Instagram Kami di @landx.id untuk Berbagai Info Investasi Terbaru](https://instagram.com/landx.id?utm_medium=copy_link)**
 
@@ -100,4 +110,4 @@ Salah platform urun dana yang bisa anda coba adalah [LandX](https://landx.id/) y
 
 - - -
 
-\#LandX.id     #landx.id    #landx 	#YukPatunganBisnis	#InvestasiBisnis    #EquityCrowdfunding     #InvestasiMenguntungkan    #Urundana    #BisnisPatungan    #InvestasiUsaha #InvestasiModalKecil
+**\#SekarangBisa**
