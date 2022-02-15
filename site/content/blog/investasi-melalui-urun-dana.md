@@ -1,19 +1,33 @@
-+++
-author = "Abdul Wahhab"
-category = ["urun dana", "Securities Crowdfunding untuk Pengembangan UMKM di Indonesia"]
-date = 2021-08-19T11:51:41Z
-metaDescription = "Urun dana merupakan sistem yang memberikan anda kesempatan untuk melakukan investasi bisnis dengan modal kecil. Apa itu urun dana?"
-draft = false
-slug = "investasi-melalui-urun-dana"
-tag = ["urun dana", "Securities Crowdfunding untuk Pengembangan UMKM di Indonesia"]
-title = "Investasi Urun Dana: Peluang Investasi Bisnis Berbasis Teknologi Informasi"
+---
+draft: false
+author: Abdul Wahhab
+slug: investasi-melalui-urun-dana
+title: Mengenal Sistem Investasi Lewat Layanan Urun Dana
+metaTitle: Mengenal Sistem Investasi Lewat Layanan Urun Dana
+metaDescription: Investasi lewat layanan urun dana adalah sistem investasi yang
+  membantu investor untuk ikut patungan bisnis dengan modal kecil
+intro: "Urun dana adalah sistem investasi yang telah berizin dan diatur
+  Peraturan Otoritas Jasa Keuangan Nomor 57/POJK.04/2020 sehingga sehingga urun
+  dana bisa jadi pilihan instrumen investasi jangka panjang kamu. Karena itu yuk
+  kita bahas lebih lanjut tentang urun dana atau equity crowdfunding yang bisa
+  jadi pilihan investasi kamu. "
+date: 2021-08-19T11:51:41.000Z
+tag:
+  - urun dana
+  - Securities Crowdfunding untuk Pengembangan UMKM di Indonesia
+  - Crowdfunding
+  - Equity Crowdfunding
+category:
+  - Investasi
+  - Cara Investasi di Securities Crowdfunding
+featuredImage:
+  src: https://images.unsplash.com/photo-1582213782179-e0d53f98f2ca?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1470&q=80
+  alt: Urun dana equity crowdfunding
+  title: Memahami bagaimana sistem investasi lewat urun dana atau equity crowdfunding
+---
+Urun dana merupakan salah satu sistem investasi yang memberikan kesempatan kepada investor untuk melakukan investasi bisnis dengan modal kecil. Sistem ini juga dikenal dengan *Equity Crowdfunding (ECF)* atau Securities Crowdfunding (SCF) yang baru-baru ini dikenalkan pemerintah kepada masyarakat.
 
-+++
-
-
-Urun dana merupakan salah satu sistem investasi yang memberikan kesempatan kepada investor untuk melakukan investasi bisnis dengan modal kecil. Sistem ini juga dikenal dengan _Equity Crowdfunding (ECF)_ atau Securities Crowdfunding (SCF) yang baru-baru ini dikenalkan pemerintah kepada masyarakat.
-
-Otoritas Jasa Keuangan (OJK) mengeluarkan POJK 57/2020 untuk menggantikan peraturan terkait urun dana sebelumnya yaitu POJK 37/2018 yang mengatur tentang penawaran efek lewat urun dana berbasis teknologi informasi.
+Otoritas Jasa Keuangan (OJK) mengeluarkan POJK 57/2020 untuk menggantikan peraturan terkait layanan urun dana sebelumnya yaitu POJK 37/2018 yang mengatur tentang penawaran efek lewat urun dana berbasis teknologi informasi.
 
 Perluasan layanan ini memunculkan istilah baru dalam sistem investasi urun dana yaitu [securities crowdfunding](https://landx.id/) atau SCF dengan cakupan layanan investasi yang lebih luas.
 
@@ -24,12 +38,6 @@ Selain itu, berinvestasi lewat urun dana merupakan salah satu cara mengembangkan
 Hal ini menjadi solusi pendanaan jangka panjang bagi bisnis yang memiliki potensi besar untuk berkembang ke pasar yang lebih luas.
 
 Karena itu, mari kita bahas lebih lanjut peluang investasi dengan sistem ini urun dana atau [securities crowdfunding (SCF)](https://landx.id/) ini.
-
-## **Table of Content**
-
-* **[Peluang Investasi dengan Sistem Urun Dana](#peluang-investasi-dengan-sistem-urun-dana)**
-* **[Perbedaan Urun Dana dengan Pinjaman Daring](#perbedaan-urun-dana-dengan-pinjaman-daring)**
-* **[Memilih Platform Urun Dana](#memilih-platform-urun-dana)**
 
 ## **Peluang Investasi dengan Sistem Urun Dana**
 
@@ -55,7 +63,7 @@ Walaupun [urun dana](https://landx.id/) memiliki sistem surat utang, sistem ini 
 
 ## **Perbedaan Urun Dana dengan Pinjaman Daring**
 
-Perbedaan mendasar antara urun dana dengan pinjaman daring atau _Peer-to-Peer Lending_ adalah mekanisme pendanaan yang dilakukan.
+Perbedaan mendasar antara urun dana dengan pinjaman daring atau *Peer-to-Peer Lending* adalah mekanisme pendanaan yang dilakukan.
 
 Pinjaman daring pada dasarnya hampir sama perusahaan pendanaan akan tetapi melibatkan perusahaan finansial teknologi sebagai penyelenggara yang mempertemukan antara debitur dan kreditur.
 
@@ -81,16 +89,15 @@ Salah platform urun dana yang bisa anda coba adalah [LandX](https://landx.id/) y
 
 [LandX](https://landx.id/) telah berhasil menghimpun dana untuk berbagai bisnis potensial dari berbagai sektor mulai dari properti hingga F&B. Karena itu…...
 
-[**Yuk Mulai Investasi Urun Dana Bersama LandX untuk Investasi Bisnis Jangka Panjang Anda**](https://landx.id/)
+**[Yuk Mulai Investasi Urun Dana Bersama LandX untuk Investasi Bisnis Jangka Panjang Anda](https://landx.id/)**
 
-[**Mau Info Terbaru Seputar Bisnis dan Investasi ? Yuk Follow Instagram Kami di @landx.id untuk Berbagai Info Investasi Terbaru**](https://instagram.com/landx.id?utm_medium=copy_link)
+**[Mau Info Terbaru Seputar Bisnis dan Investasi ? Yuk Follow Instagram Kami di @landx.id untuk Berbagai Info Investasi Terbaru](https://instagram.com/landx.id?utm_medium=copy_link)**
 
 **Baca Juga:**
 
 * [Mau Investasi Dengan Modal Kecil? Simak Cara Mengembangkan Investasi Modal 1 Juta](https://landx.id/blog/mau-investasi-dengan-modal-kecil-simak-cara-mengembangkan-investasi-modal-1-juta/)
 * [Kenali Berbagai Istilah dalam Securities Crowdfunding Agar Investasi Anda Menjadi Semakin Mudah](https://landx.id/blog/kenali-berbagai-istilah-dalam-securities-crowdfunding-agar-investasi-anda-menjadi-semakin-mudah/)
 
----
+- - -
 
-#LandX.id     #landx.id    #landx 	#YukPatunganBisnis	#InvestasiBisnis    #EquityCrowdfunding     #InvestasiMenguntungkan    #Urundana    #BisnisPatungan    #InvestasiUsaha #InvestasiModalKecil
-
+\#LandX.id     #landx.id    #landx 	#YukPatunganBisnis	#InvestasiBisnis    #EquityCrowdfunding     #InvestasiMenguntungkan    #Urundana    #BisnisPatungan    #InvestasiUsaha #InvestasiModalKecil
