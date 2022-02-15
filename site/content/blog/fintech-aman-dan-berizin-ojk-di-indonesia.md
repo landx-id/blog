@@ -1,36 +1,42 @@
-+++
-author = "Abdul Wahhab"
-category = ["Fintech", "Equity Crowdfunding", "P2P Lending", "lembaga pembiayaan"]
-date = 2021-11-18T08:46:22Z
-metaDescription = "Fintech adalah singkatan dari financial technology dimana berbagai jasa keuangan memanfaat kemajuan teknologi untuk mempermudah proses keuangan seperti..."
-draft = false
-image = "https://images.unsplash.com/photo-1556742031-c6961e8560b0?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxMTc3M3wwfDF8c2VhcmNofDE0fHxmaW50ZWNofGVufDB8fHx8MTY0MDA2MjI1NA&ixlib=rb-1.2.1&q=80&w=1080"
-slug = "fintech-aman-dan-berizin-ojk-di-indonesia"
-tag = ["Fintech", "Equity Crowdfunding", "P2P Lending", "lembaga pembiayaan"]
-title = "Apa Itu Fintech: Definisi, Perkembangan, Serta Jenis-jenis Fintech di Indonesia"
-
-+++
-
-
+---
+draft: false
+author: Abdul Wahhab
+slug: fintech-aman-dan-berizin-ojk-di-indonesia
+title: "Apa Itu Fintech: Definisi, Sejarah, dan Jenis Fintech di Indonesia"
+metaTitle: "Apa Itu Fintech: Definisi, Sejarah, dan Jenis Fintech di Indonesia"
+metaDescription: Fintech adalah singkatan dari financial technology dimana
+  berbagai jasa keuangan memanfaat kemajuan teknologi untuk mempermudah proses
+  keuangan
+intro: Fintech adalah singkatan dari financial technology yang mendukung
+  berbagai kegiatan keuangan sehari-hari anda. Akan tetapi, sudahkah kamu paham
+  berbagai jenis fintech yang ada di Indonesia? Jika belum yuk kita bahas lebih
+  lanjut tentang apa itu fintech dan berbagai jenisnya.
+date: 2021-11-18T08:46:22.000Z
+tag:
+  - Fintech
+  - Equity Crowdfunding
+  - P2P Lending
+  - lembaga pembiayaan
+featuredImage:
+  src: https://images.unsplash.com/photo-1556742031-c6961e8560b0?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxMTc3M3wwfDF8c2VhcmNofDE0fHxmaW50ZWNofGVufDB8fHx8MTY0MDA2MjI1NA&ixlib=rb-1.2.1&q=80&w=1080
+  alt: "Memahami berbagai jenis fintech dan perkembanganya di Indonesia "
+  title: "Perkembangan fintech yang berizin OJK di Indonesia "
+image: https://images.unsplash.com/photo-1556742031-c6961e8560b0?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxMTc3M3wwfDF8c2VhcmNofDE0fHxmaW50ZWNofGVufDB8fHx8MTY0MDA2MjI1NA&ixlib=rb-1.2.1&q=80&w=1080
+category:
+  - Keuangan
+  - Cara Investasi di Securities Crowdfunding
+---
 Jika kamu adalah orang yang suka melihat berita, mungkin kamu sudah tidak asing lagi dengan fintech. Akhir-akhir ini istilah fintech sering kali dikaitkan dengan pinjaman online yang belakangan sedang hangat diperbincangkan.
 
 **Fintech adalah** singkatan dari financial technology yang merupakan jasa keuangan yang memanfaatkan penggunaan teknologi yang biasanya merupakan pembangunan sistem terintegrasi yang mempermudah transaksi finansial kita.
 
 Oleh sebab itu, fintech bukan hanya pinjol saja karena terdapat berbagai jenis fintech dengan fungsi dan tujuan yang berbeda. Karena itu, mari kita bahas lebih lanjut tentang apa itu fintech dan seluk beluk perkembangan fintech di Indonesia.
 
----
-
-## Table of Content
-
-* [**Fintech Adalah**](https://landx.id/blog/fintech-aman-dan-berizin-ojk-di-indonesia/#fintech-adalah)
-* [**Sejarah dan Perkembangan Fintech di Indonesia**](https://landx.id/blog/fintech-aman-dan-berizin-ojk-di-indonesia/#sejarah-dan-perkembangan-fintech-di-indonesia)
-* **[Jenis-jenis Fintech](https://landx.id/blog/fintech-aman-dan-berizin-ojk-di-indonesia/#jenis-jenis-fintech)[1. Peer to Peer (P2P) Lending](#1-peer-to-peer-p2p-lending)[2. Microfinancing](#2-microfinancing)[3. Digital Payment System](#3.-digital-payment-system)[4. Manajemen Risiko dan Investas](#4-manajemen-risiko-dan-investasi)i[5. Equity Crowdfunding](#5-equity-crowdfunding)**
-
----
+- - -
 
 ## Fintech Adalah...
 
-Dilansir dari [OJK](https://sikapiuangmu.ojk.go.id/FrontEnd/CMS/Article/10468), **_fintech_ atau _financial technology_** __ adalah perusahaan yang melakukan inovasi di bidang jasa keuangan dengan sentuhan teknologi modern.
+Dilansir dari [OJK](https://sikapiuangmu.ojk.go.id/FrontEnd/CMS/Article/10468), ***fintech* atau *financial technology*** __ adalah perusahaan yang melakukan inovasi di bidang jasa keuangan dengan sentuhan teknologi modern.
 
 Sedangkan menurut [investopedia](https://www.investopedia.com/terms/f/fintech.asp), pengertian fintech adalah pemanfaatan teknologi yang berupaya meningkatkan dan automasi pengiriman dan penggunaan dalam layanan keuangan.
 
@@ -90,7 +96,7 @@ Bukan hanya itu, jika kamu telat bayar, mereka tak segan melakukan penagihan den
 
 Jenis yang satu ini memberikan solusi kepada masyarakat kelas bawah yang perlu mendapatkan dana segar namun terkendala oleh sistem bank. Sudah menjadi rahasia umum jika akses ke institusi keuangan seperti perbankan kadang sulit diraih oleh masyarakat kecil di pedesaan.
 
-Nah, tugas _microfinancing_ adalah menjembatani antara masyarakat yang membutuhkan dana dan investor secara digital. Dana tersebut bisa digunakan sebagai modal usaha maupun untuk mencukupi kebutuhan sehari-hari.
+Nah, tugas *microfinancing* adalah menjembatani antara masyarakat yang membutuhkan dana dan investor secara digital. Dana tersebut bisa digunakan sebagai modal usaha maupun untuk mencukupi kebutuhan sehari-hari.
 
 ### 3. Digital Payment System
 
@@ -102,13 +108,13 @@ Jenis yang satu ini semakin berkembang terutama setelah e-commerce banyak digand
 
 Fintech ini memberikan kamu layanan untuk mengelola keuangan dengan benar. Jenis yang satu ini dapat membimbingmu untuk membuat perencanaan keuangan yang baik serta mewujudkan impian finansialmu di masa depan.
 
-Selain tentang perencanaan keuangan, fintech ini juga memberikan kamu akses kepada investasi maupun asuransi. Dengan hanya bermodalkan _smartphone_ saja, kamu sudah mendapatkan paket lengkap dalam pengelolaan keuangan.
+Selain tentang perencanaan keuangan, fintech ini juga memberikan kamu akses kepada investasi maupun asuransi. Dengan hanya bermodalkan *smartphone* saja, kamu sudah mendapatkan paket lengkap dalam pengelolaan keuangan.
 
 ### 5. Equity Crowdfunding
 
 Seperti namanya, crowdfunding adalah layanan fintech dalam penggalangan dana. Nantinya dana tersebut bisa didonasikan kepada sebuah organisasi sosial ataupun diinvestasikan kepada sebuah bisnis.
 
-Fintech yang satu ini cukup mirip dengan P2P Lending. Bedanya, dalam _crowdfunding_ investor diposisikan sebagai pemilik usaha.
+Fintech yang satu ini cukup mirip dengan P2P Lending. Bedanya, dalam *crowdfunding* investor diposisikan sebagai pemilik usaha.
 
 LandX merupakan salah fintech crowdfunding yang sudah punya izin dan diawasi oleh OJK. Dengan modal mulai dari Rp 1 Juta, kamu sudah bisa berinvestasi sekaligus memiliki perusahaan UMKM yang sudah dikurasi dengan ketat.
 
@@ -120,16 +126,15 @@ Nah itulah artikel lengkap tentang Fintech mulai dari definisinya sampai jenis-j
 
 [![jadi pemiliki bisnis dengan modal 1 jutaan melalui investasi bisnis lewat securities crowdfunding di LandX-platform equity crowdfunding terpercaya](https://accountgram-production.sfo2.cdn.digitaloceanspaces.com/landx_ghost/2021/11/jadi-owner-bisnis-hanya-1-jutaan-dengan-cuan-yang-sangat-menjanjikan.png)](https://landx.id/project/)
 
-[**Mau Berbagai info Terbaru Terkait Investasi? Yuk Follow @landx.id di Instagram**](https://www.instagram.com/landx.id/?utm_medium=copy_link)
+**[Mau Berbagai info Terbaru Terkait Investasi? Yuk Follow @landx.id di Instagram](https://www.instagram.com/landx.id/?utm_medium=copy_link)**
 
----
+- - -
 
 **Baca Juga:**
 
 * [Mengenal Berbagai Modus Investasi Bodong dan Cara Terhindar dari Penipuan dengan Kedok Investasi](https://landx.id/blog/berbagai-skema-investasi-bodong-yang-wajib-investor-pemula-waspadai/)
 * [Manajemen Keuangan: Memahami Pengertian, Fungsi, Tujuan, dan Kenapa Manajemen Keuangan Sangat Penting Bagi Milenial](https://landx.id/blog/manajemen-keuangan-memahami-pengertian-fungsi-tujuan-dan-kenapa-manajemen-keuangan-sangat-penting-bagi-milenial/)
 
----
+- - -
 
-**#YukPatunganBisnis    #LandX.id    #landx         #landx.id     #InvestasiBisnis  #SecuritiesCrowdfunding   #EquityCrowdfunding     #InvestasiMenguntungkan     #Urundana    #BisnisPatungan     #InvestasiUsaha**
-
+**\#YukPatunganBisnis    #LandX.id    #landx         #landx.id     #InvestasiBisnis  #SecuritiesCrowdfunding   #EquityCrowdfunding     #InvestasiMenguntungkan     #Urundana    #BisnisPatungan     #InvestasiUsaha**
