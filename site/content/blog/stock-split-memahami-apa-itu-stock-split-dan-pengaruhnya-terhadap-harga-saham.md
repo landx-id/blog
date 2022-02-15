@@ -2,8 +2,8 @@
 draft: false
 author: Abdul Wahhab
 slug: stock-split-memahami-apa-itu-stock-split-dan-pengaruhnya-terhadap-harga-saham
-title: Memahami Apa Itu Stock Split dan Pengaruhnya Terhadap Harga Saham
-metaTitle: Memahami Apa Itu Stock Split dan Pengaruhnya Terhadap Harga Saham
+title: "Stock Split Adalah: Keuntungan Stock Split Bagi Investor"
+metaTitle: "Stock Split Adalah: Keuntungan Stock Split Bagi Investor"
 metaDescription: Stock split adalah kebijakan korporasi yang dilakukan oleh
   emiten/ perusahaan penerbit untuk memecah nilai saham mereka sesuai rasio yang
   ditentukan
@@ -48,6 +48,14 @@ Seperti yang sudah sekilas kita bahas sebelumnya, *stock split* adalah kebijakan
 Adanya stock split juga membuat lembar saham yang beredar menjadi semakin banyak, namun tidak mengubah jumlah modal yang disetorkan.
 
 Contohnya, adalah saham BBCA yang melakukan split dengan rasio 1:5 sehingga harga nominal saham yang awalnya sekitar Rp 70 bisa menjadi Rp 14 sehingga menjadi jauh lebih terjangkau bagi para investor dan jumlah lembar saham yang beredar menjadi 5x lebih banyak dari sebelumnya.
+
+## Tujuan Stock Split
+
+Pada dasarnya, stock split adalah aksi korporasi untuk memecah saham sehingga harga saham menjadi lebih murah dan jumlah saham yang beredar menjadi lebih banyak. 
+
+Tujuan stock split sebenarnya agar saham semakin likuid karena harganya per lembar sahamnya akan turun dan dapat mencakup investor yang lebih luas lagi. Hal ini sangat umum dilakukan oleh emiten yang harga per lembar sahamnnya sudah cukup tinggi sehingga harga per lot saham akan mahal dan sulit diakses kalangan investor tertentu. 
+
+Akan tetapi, saham stock split bukan jaminan bahwa saham itu 100% bagus, karena itu kamu tetap harus melakukan analisa laporan keuangan dengan baik sebelum memutuskan untuk membeli saham stock split.
 
 ## Apakah Stock Split Menguntungkan Investor?
 
