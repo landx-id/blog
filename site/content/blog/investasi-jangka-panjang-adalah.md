@@ -21,8 +21,6 @@ featuredImage:
   alt: Cara menyusun rencana investasi jangka panjang
   title: Memilih investasi jangka panjang yang sesuai untuk pemula
 ---
-
-
 Berbicara tentang [investasi jangka panjang](https://landx.id/), anda pasti langsung memikirkan bagaimana uang yang anda miliki dapat menghasilkan keuntungan dalam jangka panjang.
 
 Oleh sebab itu, setiap orang tentu saja memiliki tujuan yang berbeda-beda sehingga rencana investasi jangka panjangnya pun akan berbeda.
@@ -33,20 +31,11 @@ Akan tetapi, sebelum menyusun rencana investasi jangka panjang, sudahkah anda pa
 
 Karena itu yuk kita bahas tentang investasi jangka panjang dan bagaimana menentukan investasi jangka terbaik untuk anda.
 
----
+- - -
 
-## **Table of Content**
+## **Investasi Jangka Panjang Adalah**
 
-* **[Apa Itu Investasi Jangka Panjang?](#apa-itu-investasi-jangka-panjang)**
-* **[Memilih Investasi Jangka Terbaik](#memilih-investasi-jangka-panjang-terbaik)**
-* **[Tips Penting Investasi Jangka Panjang](#tips-penting-investasi-jangka-panjanga-a)**
-* **[Kesimpulan](#kesimpulan)**
-
----
-
-## **Apa Itu Investasi Jangka Panjang?**
-
-Investasi jangka panjang adalah investasi yang dilakukan dalam periode yang waktu yang panjang dan pencairan-nya akan dilakukan di akhir periode waktu yang sudah ditentukan sebelumnya.
+> Investasi jangka panjang adalah investasi yang dilakukan dalam periode yang waktu yang panjang dan pencairan-nya akan dilakukan di akhir periode waktu yang sudah ditentukan sebelumnya.
 
 Investasi jangka panjang bisa di-ibaratkan seperti menanam bibit pohon yang harus terus anda berikan berikan pupuk supaya dapat tumbuh besar dan memberikan anda buah yang bisa memberikan anda keuntungan.
 
@@ -76,7 +65,7 @@ Setelah menghitung ini maka anda bisa mulai memilih instrumen investasi yang coc
 
 ### **2. Perhitungkan Periode Investasi**
 
-Berikutnya anda harus menghitung periode investasi yang akan anda lakukan. Apabila anda sudah menentukan tujuan investasi seperti apa yang ingin anda harus mulai menghitung berapa lama anda bisa mencapai kondisi tersebut dengan kemampuan investasi dan besar _return_ yang bisa anda dapatkan dari investasi tersebut.
+Berikutnya anda harus menghitung periode investasi yang akan anda lakukan. Apabila anda sudah menentukan tujuan investasi seperti apa yang ingin anda harus mulai menghitung berapa lama anda bisa mencapai kondisi tersebut dengan kemampuan investasi dan besar *return* yang bisa anda dapatkan dari investasi tersebut.
 
 Menghitung periode investasi ini harus anda sesuaikan dengan instrumen investasi yang anda pilih, apabila anda ingin memiliki uang 100 juta dalam 10 tahun melalui investasi reksa dana maka anda harus tahu berapa potensi keuntungan dari instrumen ini dan berapa biaya yang harus anda keluarkan setiap bulan untuk mencapai kondisi yang anda inginkan tersebut.
 
@@ -112,7 +101,7 @@ Apabila anda masih pemula dan bingung memilih investasi, berikut pilihan investa
 
 Saham merupakan salah satu contoh investasi yang bisa digunakan untuk investasi jangka panjang maupun pendek. Saham merupakan instrumen investasi yang cocok untuk jangka panjang karena selain mendapatkan dividen, anda juga bisa mendapatkan capital gain dari saham yang anda miliki apabila anda menemukan saham yang tepat untuk investasi jangka panjang anda.
 
-Oleh sebab itu, apabila anda tertarik dengan instrumen ini, untuk jangka panjang anda bisa mulai dengan berinvestasi ke dalam saham _blue chip_ yang performanya menjanjikan dalam beberapa tahun belakangan. Hal ini dilakukan untuk memperkecil risiko dari investasi yang anda lakukan.
+Oleh sebab itu, apabila anda tertarik dengan instrumen ini, untuk jangka panjang anda bisa mulai dengan berinvestasi ke dalam saham *blue chip* yang performanya menjanjikan dalam beberapa tahun belakangan. Hal ini dilakukan untuk memperkecil risiko dari investasi yang anda lakukan.
 
 ### 2. Reksa Dana
 
@@ -122,15 +111,17 @@ Hal ini menjadikan risiko kerugian menjadi semakin kecil. Untuk jangka waktu sen
 
 ### [3. Equity Crowdfunding](https://landx.id/)
 
-**[Equity crowdfunding](https://landx.id/) ** merupakan salah satu cara investasi bisnis yang bisa anda coba untuk investasi jangka panjang. Konsepnya hampir sama dengan pembelian saham, namun dalam sistem ini anda berkesempatan untuk memiliki saham dari berbagai bisnis privat dengan modal kecil yang sulit dilakukan sebelum adanya sistem ini.
+**[Equity crowdfunding](https://landx.id/)**  merupakan salah satu cara investasi bisnis yang bisa anda coba untuk investasi jangka panjang. Konsepnya hampir sama dengan pembelian saham, namun dalam sistem ini anda berkesempatan untuk memiliki saham dari berbagai bisnis privat dengan modal kecil yang sulit dilakukan sebelum adanya sistem ini.
 
-Sebagai pemilik saham dari suatu bisnis, anda tentu berpotensi mendapatkan berbagai keuntungan berupa deviden yang disesuaikan keuntungan dari bisnis tersebut. Bisnis ini sangat cocok untuk investasi jangka panjang karena bisa menghasilkan _**[passive income](https://landx.id/)**_ **** untuk anda.
+Sebagai pemilik saham dari suatu bisnis, anda tentu berpotensi mendapatkan berbagai keuntungan berupa deviden yang disesuaikan keuntungan dari bisnis tersebut. Bisnis ini sangat cocok untuk investasi jangka panjang karena bisa menghasilkan ***[passive income](https://landx.id/)*** \*\*\*\* untuk anda.
 
 Selain itu, anda bisa melakukan analisis investasi dengan lebih mudah karena bisnis yang akan anda danai merupakan bisnis-bisnis yang dekat keseharian anda seperti properti kostan, klinik kecantikan, bisnis F&B, dan berbagai bisnis potensial lainnya.
 
 ## Tips Penting Investasi Jangka Panjang
 
-### **1. Riset dan Susun Strategi Investasi Anda Sendiri**
+### **1. Menentukan Tujuan Investasi Jangka Panjang**
+
+Dalam investasi jangka panajng, menentukan tujuan investasi menjadi sesuatu yang sangat penting agar kita bisa memperkirakan arah dari investasi yang kita lakukan.
 
 Seperti yang kita sudah bahas, setiap orang memiliki tujuan investasi yang berbeda-beda sehingga anda perlu menyusun strategi investasi yang sesuai dengan tujuan dan kemampuan investasi yang anda miliki.
 
@@ -156,16 +147,15 @@ Dalam melakukan investasi jangka panjang anda harus bisa memperkirakan tujuan da
 
 **[Yuk Mulai Investasi Bisnis di LandX Agar Investasi Jangka Panjang Anda Menguntungkan](https://landx.id/project/index.html)**
 
-[**Mau Info dan Tips Seputar Investasi Lainnya? Yuk Follow Instagram Kami @landx.id**](https://instagram.com/landx.id?utm_medium=copy_link)
+**[Mau Info dan Tips Seputar Investasi Lainnya? Yuk Follow Instagram Kami @landx.id](https://instagram.com/landx.id?utm_medium=copy_link)**
 
 ‌
 
-#LandX.id    #landx.id    #InvestasiBisnis    #EquityCrowdfunding    #InvestasiMenguntungkan    #Urundana    #BisnisPatungan    #InvestasiUsaha
+\#LandX.id    #landx.id    #InvestasiBisnis    #EquityCrowdfunding    #InvestasiMenguntungkan    #Urundana    #BisnisPatungan    #InvestasiUsaha
 
----
+- - -
 
 Baca Juga:
 
 * [Tips Cara Investasi Saham Dengan Modal Kecil Untuk Pemula](https://landx.id/blog/tips-cara-investasi-saham-dengan-modal-kecil-untuk-pemula/)
 * [Kenali Berbagai Istilah dalam Securities Crowdfunding Agar Investasi Anda Menjadi Semakin Mudah](https://landx.id/blog/kenali-berbagai-istilah-dalam-securities-crowdfunding-agar-investasi-anda-menjadi-semakin-mudah/)
-
