@@ -12,7 +12,7 @@ intro: >-
 
 
   Karena itu, yuk kita bahas dan pelajari lebih lanjut tentang apa itu blockchain dan bagaimana cara berinvestasi dengan instrumen investasi satu ini.
-isPinned: true
+isPinned: false
 slug: apa-itu-blockchain-ini-pengertian-kelebihan-dan-cara-kerjanya
 date: 2022-01-31T18:56:11.853Z
 tag:
