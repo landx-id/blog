@@ -14,7 +14,7 @@ intro: >-
 
 
   Karena itu, yuk kita bahas bagaimana cara mengatur uang yang baik selama pandemi.
-isPinned: true
+isPinned: false
 slug: simak-cara-mengatur-keuangan-di-masa-pandemi-untuk-agar-keuangan-anda-tetap-stabil
 date: 2022-02-03T14:04:21.673Z
 tag:
