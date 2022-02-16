@@ -14,7 +14,7 @@ intro: >-
 
 
   Kali ini, yuk kita bahas berbagai bisnis dan investasi yang digeluti oleh dua orang yang masuk jajaran orang terkaya di dunia ini.
-isPinned: true
+isPinned: false
 slug: berinvestasi-gaya-elon-musk-atau-warren-buffet-2-pandangan-buat-kamu-yang-ingin-ikutan-bitcoin
 date: 2022-02-03T12:52:24.976Z
 tag:
