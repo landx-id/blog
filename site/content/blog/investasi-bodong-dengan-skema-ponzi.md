@@ -9,7 +9,7 @@ metaDescription: Skema Ponzi adalah modus investasi palsu memberikan keuntungan
 intro: Apabila kamu merupakan investor pemula yang baru mulai berinvestasi, maka
   kamu harus waspada dengan skema ponzi atau ponzi scheme yang memakan banyak
   korban belakangan ini.
-isPinned: true
+isPinned: false
 slug: investasi-bodong-dengan-skema-ponzi
 date: 2022-01-25T15:02:00.000Z
 tag:
