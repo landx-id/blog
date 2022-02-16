@@ -21,7 +21,7 @@ category:
 featuredImage:
   src: https://images.unsplash.com/photo-1518458028785-8fbcd101ebb9?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1470&q=80
   alt: Memahami cash flow itu apa dan bagaimana menganalisa cash flow dengan baik
-  title: Memahami apa itu cash flow
+  title: Memahami apa itu cash flow dan cara menghitung cash flow dengan baik
 ---
 Berbicara tentang manajemen keuangan yang baik, *cash flow* adalah salah satu kunci membangun manajemen keuangan yang lebih baik. Mendengar kata cash flow, mungkin sebagian orang berpikir mengatur cash flow dengan hanya perlu dilakukan oleh bisnis atau profesional sehingga mereka jarang mengatur cash flow dengan baik.
 
@@ -41,7 +41,7 @@ Dalam konteks individu, mencatat cash flow dengan baik sangat penting untuk memb
 
 Mencatat cash flow dengan baik membuat anda jadi bagaimana cara mengurangi pengeluaran yang tidak penting dan mulai menyusun strategi untuk meningkatkan pendapatan seperti mulai berinvestasi yang bisa meningkatkan pendapatan anda.
 
-## Komponen Penting dalam Cash Flow
+## Komponen Cash Flow
 
 Dalam cash flow atau arus kas, pendapatan dan pengeluaran merupakan dua komponen utama. Apabila berbicara dalam konteks bisnis pendapatan merupakan penjualan dan berbagai pemasukan lain yang didapatkan selama satu periode.
 
@@ -53,9 +53,15 @@ Kalau konsep ini diterapkan sehari-hari artinya anda harus berusaha memaksimalka
 
 Oleh sebab itu, anda harus berusaha menambah sumber pemasukan seperti mencari pekerjaan tambahan dan mengoptimalkan investasi agar penghasilan yang anda terima bisa semakin besar lagi. Untuk anda yang sedang menyusun rencana keuangan, berikut tips agar anda memiliki cash flow yang baik.
 
-## Tips Membangun Cash Flow yang Baik
+## Cara Menghitung Cashflow dengan Baik
 
-Berikut beberapa tips membangun cash flow yang baik:
+Dalam menganalisis arus kas, hal pertama yang harus diperhatikan adalah bagaimana pencatatan keuangan yang kamu lakukan apakah sudah baik atau belum. 
+
+Pencatatan pemasukan dan pengeluaran dengan baik ini akan membantu kamu menghitung keputusan keuangan mana yang perlu dioptimalkan lagi di masa mendatang. Oleh sebab itu, pencatatan ini menjadi sangat penting agar kita bisa melacak dengan baik uang yang kita miliki. 
+
+Menyusun cash flow artinya kita memiliki pencatatan finansial yang lebih baik sehingga kita bisa mencatat keluar masuk uang yang kamu miliki. Dengan perhitungan cash flow yang baik, maka kamu bisa melihat keputusan keuangan seperti apa saja yang perlu kita ambil untuk menjaga kestabilan arus kas kita dalam jangka panjang.
+
+## Tips Membangun Cash Flow yang Baik
 
 ### Menyusun Anggaran Keuangan dengan Baik
 
@@ -79,13 +85,15 @@ Selain itu, investasi bisnis kini semakin mudah dan dapat dimulai dengan modal k
 
 [LandX](https://landx.id/) merupakan platform equity crowdfunding terpercaya yang akan membantu anda menemukan bisnis terbaik yang bisa anda danai untuk [memaksimalkan passive income](https://landx.id/) anda.
 
-**[Yuk Mulai Investasi Bisnis Modal Kecil di LandX untuk Cash Flow Lebih Optimal](https://landx.id/project/index.html)**
+**[Yuk Mulai Investasi Bisnis Modal Kecil di LandX untuk Cash Flow Lebih Optimal](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)**
+
+[![miliki bisnis modal kecil cuma dengan 1 jutaan dapat 4 cabang ](https://accountgram-production.sfo2.cdn.digitaloceanspaces.com/landx_ghost/2021/11/jadi-owner-bisnis-hanya-1-jutaan-dengan-cuan-yang-sangat-menjanjikan.png)](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)
 
 **[Jangan Lupa!! Follow @landx.id di Instagram Supaya Terus Update Berbagai Info Seputar Investas](https://instagram.com/landx.id?utm_medium=copy_link)i.**
-
-**\#LandX.id    #landx         #landx.id    #InvestasiBisnis    #EquityCrowdfunding  #SecuritiesCrowdfunding  #InvestasiMenguntungkan    #Urundana    #BisnisPatungan    #InvestasiUsaha**
 
 **Baca Juga:**
 
 * [Rasio-Rasio Keuangan yang Penting Dipahami Investor Pemula dalam Memulai Investasi](https://landx.id/blog/rasio-rasio-keuangan-yang-penting-dalam-investasi/)
 * [Rasio Likuiditas: Pentingnya Memahami Rasio Likuiditas Sebelum Berinvestasi](https://landx.id/blog/rasio-likuiditas-adalah/)
+
+**\#SekarangBisa**
