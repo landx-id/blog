@@ -9,7 +9,7 @@ metaDescription: Mau investasi ke pasar modal tapi bingung mulai dari mana? Yuk
 intro: Pasar modal memiliki beberapa jenis instrumen investasi yang bisa jadi
   pilihan investasi kamu. Yuk kenali berbagai jenis instrumen pasar modal yang
   siapa tau cocok dengan profil risiko investasi kamu..
-isPinned: true
+isPinned: false
 slug: kenali-4-instrumen-pasar-modal-sebelum-memutuskan-instrumen-pasar-modal-terbaik-anda
 date: 2022-02-02T12:39:58.015Z
 tag:
