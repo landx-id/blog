@@ -45,9 +45,9 @@ Dengan kondisi masa tua yang sudah tidak produktif, ditambah biaya kebutuhan yan
 
 ## Apa Itu Dana Pensiun? 
 
+Sebelum membahas lebih lanjut tentang dana pensiun, pertama-tama mari kita bahas dulu 
 
-
-## Pentingnya Menyiapkan Hari Tua yang Independen
+## Apa Fungsi Dana Pensiun? 
 
 Rata-rata usia pensiun di Indonesia ialah 55 tahun, sementara angka harapan hidup orang Indonesia rata-rata mencapai usia 70 tahun. Artinya, setidaknya kita akan menjalani masa tua pasca pensiun selama kurang lebih 15 tahun.
 
