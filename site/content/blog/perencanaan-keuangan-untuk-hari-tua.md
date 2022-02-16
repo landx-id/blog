@@ -45,7 +45,11 @@ Dengan kondisi masa tua yang sudah tidak produktif, ditambah biaya kebutuhan yan
 
 ## Apa Itu Dana Pensiun? 
 
-Sebelum membahas lebih lanjut tentang dana pensiun, pertama-tama mari kita bahas dulu 
+Sebelum membahas lebih lanjut tentang dana pensiun, pertama-tama mari kita bahas dulu apa itu dana pensiun. 
+
+Dalam Kamus Besar bahasa Indonesia (KBBI) dana pensiun adalah dana yang keuangannya diperoleh dari iuran tetap para peserta ditambah penghasilan perusahaan yang disisihkan. Para peserta ini berhak memperoleh bagian keuntungan itu setelah pensiun.
+
+Apabila kamu seorang pegawai yang bekerja pada suatu perusahaan, dana pensiun adalah dana yang berasal dari iuran yang dibayarkan oleh karyawan melalui potongan gaji mereka setiap bulan dan nantinya akan cair saat mereka 
 
 ## Apa Fungsi Dana Pensiun? 
 
@@ -65,7 +69,7 @@ Karena itu, memiliki rencana pensiun yang optimal menjadi salah satu cara memutu
 
 Ada banyak cara atau rumus yang sering digunakan untuk menentukan berapa dana pensiun yang ideal. Namun, rumus yang paling umum ialah biaya hidup bulanan dikalikan dengan estimasi masa pensiun.
 
-Misalnya, biaya hidup yang Anda keluarkan saat ini adalah 5 juta rupiah dan waktu Anda menjalani masa pensiun kurang lebih 15 tahun. Maka, perhitungannya jadi (5 juta x 12 bulan x 15 tahun). Hasilnya adalah 900 juta. Itulah besaran dana yang Anda butuhkan untuk dapat menjalani masa pensiun yang ideal.
+> Misalnya, biaya hidup yang Anda keluarkan saat ini adalah 5 juta rupiah dan waktu Anda menjalani masa pensiun kurang lebih 15 tahun. Maka, perhitungannya jadi (5 juta x 12 bulan x 15 tahun). Hasilnya adalah 900 juta. Itulah besaran dana yang Anda butuhkan untuk dapat menjalani masa pensiun yang ideal.
 
 Angkanya tentu sangat tergantung pada gaya hidup dan kebiasaan yang sangat bisa disesuaikan kembali.
 
