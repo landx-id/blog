@@ -10,7 +10,7 @@ intro: Walaupun investasi jangka panjang bisa memberikan keuntungan lebih, tapi
   sewaktu-waktu anda membutuhkan dana. Karena itu, kamu juga butuh instrumen
   investasi jangka pendek untuk menghiasi portofolio investasi kamu sehingga
   kamu memiliki investasi yang bisa memberikan keuntungan dalam jangka pendek.
-isPinned: true
+isPinned: false
 slug: investasi-jangka-pendek-terbaik
 date: 2022-02-03T12:32:51.196Z
 tag:
