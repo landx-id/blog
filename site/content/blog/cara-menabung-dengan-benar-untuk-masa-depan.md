@@ -10,7 +10,7 @@ intro: Walaupun menabung merupakan sesuatu yang diajarkan sejak kecil, tapi
   sehingga bisa memberikan kamu manfaat di masa mendatang. Oleh sebab itu, yuk
   simak bagaimana cara menabung yang benar agar kamu memiliki manajemen keuangan
   yang lebih baik lagi.
-isPinned: true
+isPinned: false
 slug: cara-menabung-dengan-benar-untuk-masa-depan
 date: 2021-07-02T06:41:05.000Z
 tag:
