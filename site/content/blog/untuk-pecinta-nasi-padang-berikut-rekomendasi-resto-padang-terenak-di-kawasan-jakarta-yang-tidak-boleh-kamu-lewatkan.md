@@ -7,7 +7,7 @@ metaDescription: "Rekomendasi Nasi Padang Terbaik: 1. Padang Merdeka 2. Pagi
   Sore 3. Sederhana 4. Simpang Raya 5. Nasi Kapau Pak Ciman 6."
 intro: Kamu pecinta nasi padang? Yuk cek rekomendasi padang kawasan Jakarta yang
   wajib kamu coba
-isPinned: true
+isPinned: false
 slug: untuk-pecinta-nasi-padang-berikut-rekomendasi-resto-padang-terenak-di-kawasan-jakarta-yang-tidak-boleh-kamu-lewatkan
 date: 2021-09-27T12:33:05.000Z
 tag:
