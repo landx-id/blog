@@ -10,7 +10,7 @@ intro: Belakangan, robot trading forex  menjadi topik yang banyak
   besar bagi para trader. Namun, belakangan robot trading menjadi salah modus
   penipuan yang memakan banyak korban. Karena itu yuk kita apa itu sebenarnya
   robot trading agar kita terhindar dari modus penipuan satu ini.
-isPinned: true
+isPinned: false
 slug: amankah-robot-trading
 date: 2021-11-19T13:22:37.000Z
 tag:
