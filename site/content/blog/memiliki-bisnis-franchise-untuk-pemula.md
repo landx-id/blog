@@ -10,7 +10,7 @@ intro: >-
   berkembang sangat pesat karena adanya sistem franchise. 
 
   Supaya kamu paham dengan baik tentang bisnis franchise, yuk kita bahas secara mendalam seluk beluk berbisnis dengan sistem franchise.
-isPinned: true
+isPinned: false
 slug: memiliki-bisnis-franchise-untuk-pemula
 date: 2022-02-03T13:07:11.187Z
 tag:
