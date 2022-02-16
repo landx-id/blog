@@ -1,31 +1,39 @@
-+++
-author = "Abdul Wahhab"
-category = ["rasio keuangan", "investasi keuangan", "manajemen keuangan", "menabung dengan benar"]
-date = 2021-07-26T06:21:05Z
-metaDescription = "Cash Flow adalah hal penting yang harus diperhatikan apabila anda menginginkan kondisi keuangan yang lebih baik | Berikut tips mengelola cash flow yang baik"
-draft = false
-slug = "cashflow-adalah"
-tag = ["rasio keuangan", "investasi keuangan", "manajemen keuangan", "menabung dengan benar"]
-title = "Memahami Apa Itu Cash Flow dan Manfaatnya dalam Menyusun Rencana Investasi"
+---
+draft: false
+author: Abdul Wahhab
+slug: cashflow-adalah
+title: Memahami Apa Itu Cash Flow untuk Mempermudah Rencana Finansial Kamu
+metaTitle: Memahami Apa Itu Cash Flow untuk Mempermudah Rencana Finansial Kamu
+metaDescription: Cash flow adalah arus kas yang merupakan cara melacak pemasukan
+  dan pengeluaran untuk mempermudah analisa keuangan
+intro: Dalam mengatur keuangan, menyusun cash flow dengan baik adalah salah satu
+  hal penting yang harus kamu lakukan sedini mungkin. Karena itu, yuk kita bahas
+  apa itu cash flow dan bagaimana cara proyeksi cash flow dengan baik.
+date: 2021-07-26T06:21:05.000Z
+tag:
+  - rasio keuangan
+  - investasi keuangan
+  - manajemen keuangan
+  - menabung dengan benar
+category:
+  - Keuangan
+  - Investasi
+featuredImage:
+  src: https://images.unsplash.com/photo-1518458028785-8fbcd101ebb9?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1470&q=80
+  alt: Memahami cash flow itu apa dan bagaimana menganalisa cash flow dengan baik
+  title: Memahami apa itu cash flow
+---
+Berbicara tentang manajemen keuangan yang baik, *cash flow* adalah salah satu kunci membangun manajemen keuangan yang lebih baik. Mendengar kata cash flow, mungkin sebagian orang berpikir mengatur cash flow dengan hanya perlu dilakukan oleh bisnis atau profesional sehingga mereka jarang mengatur cash flow dengan baik.
 
-+++
+Padahal, cash flow adalah bagian penting yang harus diatur dengan baik apabila seseorang ingin mencapai kondisi finansial yang lebih baik di masa mendatang. Memahami konsep *cash flow* juga akan membantu anda melakukan investasi lebih baik karena anda menjadi paham apa saja yang perlu anda lakukan agar anda bisa membangun *cash flow* yang sesuai dengan kebutuhan anda.
 
+Oleh sebab itu, memahami apa itu cash flow sangat penting apabila anda ingin memiliki manajemen keuangan yang lebih baik. Lebih lanjut, mari kita bahas lebih lanjut apa itu *cash flow.*
 
-Berbicara tentang manajemen keuangan yang baik, _cash flow_ adalah salah satu kunci membangun manajemen keuangan yang lebih baik. Mendengar kata cash flow, mungkin sebagian orang berpikir mengatur cash flow dengan hanya perlu dilakukan oleh bisnis atau profesional sehingga mereka jarang mengatur cash flow dengan baik.
+## Pengertian Cash Flow
 
-Padahal, cash flow adalah bagian penting yang harus diatur dengan baik apabila seseorang ingin mencapai kondisi finansial yang lebih baik di masa mendatang. Memahami konsep _cash flow_ juga akan membantu anda melakukan investasi lebih baik karena anda menjadi paham apa saja yang perlu anda lakukan agar anda bisa membangun _cash flow_ yang sesuai dengan kebutuhan anda.
+Pertama-tama, mari kita bahas dulu pengertian dari cash flow agar kamu paham dengan baik tentang apa itu cash flow. 
 
-Oleh sebab itu, memahami apa itu cash flow sangat penting apabila anda ingin memiliki manajemen keuangan yang lebih baik. Lebih lanjut, mari kita bahas lebih lanjut apa itu _cash flow._
-
-## Table of Content
-
-* **[Cash Flow Adalah](#cash-flow-adalah)**
-* **[Komponen Penting dalam Cash Flow](#componen-penting-dalam-cash-flow)**
-* **[Tips Membangun Cash Flow yang Baik](#tips-membangun-cash-flow-yang-baik)**
-
-## Cash Flow Adalah
-
-**[Cash flow](https://landx.id/) ** adalah arus kas atau upaya untuk melacak pergerakan uang yang anda miliki sehingga mempermudah seseorang melacak pergerakan keuangan mereka.
+**[Cash flow](https://landx.id/)  adalah arus kas atau upaya untuk melacak pergerakan uang yang anda miliki sehingga mempermudah seseorang melacak pergerakan keuangan mereka.**
 
 Dalam bisnis, cash flow merupakan hal penting untuk melacak uang masuk dan uang keluar dari suatu bisnis sehingga membantu anda mengambil keputusan keuangan yang lebih baik pada periode berikutnya.
 
@@ -73,12 +81,11 @@ Selain itu, investasi bisnis kini semakin mudah dan dapat dimulai dengan modal k
 
 **[Yuk Mulai Investasi Bisnis Modal Kecil di LandX untuk Cash Flow Lebih Optimal](https://landx.id/project/index.html)**
 
-[**Jangan Lupa!! Follow @landx.id di Instagram Supaya Terus Update Berbagai Info Seputar Investas**](https://instagram.com/landx.id?utm_medium=copy_link)**i.**
+**[Jangan Lupa!! Follow @landx.id di Instagram Supaya Terus Update Berbagai Info Seputar Investas](https://instagram.com/landx.id?utm_medium=copy_link)i.**
 
-**#LandX.id    #landx         #landx.id    #InvestasiBisnis    #EquityCrowdfunding  #SecuritiesCrowdfunding  #InvestasiMenguntungkan    #Urundana    #BisnisPatungan    #InvestasiUsaha**
+**\#LandX.id    #landx         #landx.id    #InvestasiBisnis    #EquityCrowdfunding  #SecuritiesCrowdfunding  #InvestasiMenguntungkan    #Urundana    #BisnisPatungan    #InvestasiUsaha**
 
 **Baca Juga:**
 
 * [Rasio-Rasio Keuangan yang Penting Dipahami Investor Pemula dalam Memulai Investasi](https://landx.id/blog/rasio-rasio-keuangan-yang-penting-dalam-investasi/)
 * [Rasio Likuiditas: Pentingnya Memahami Rasio Likuiditas Sebelum Berinvestasi](https://landx.id/blog/rasio-likuiditas-adalah/)
-
