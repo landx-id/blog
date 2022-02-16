@@ -9,7 +9,7 @@ metaDescription: Pengertian dana pensiun adalah dana yang kita siapkan untuk
 intro: Dana pensiun adalah dana hari tua yang harus kita siapkan untuk sejak
   saat ini karena di masa mendatang kita tentu tidak akan bisa bekerja
   seproduktif sekarang.
-date: 2021-11-17T05:00:46.000Z
+date: 2022-02-16T10:47:33.507Z
 tag:
   - dana darurat
   - investasi
