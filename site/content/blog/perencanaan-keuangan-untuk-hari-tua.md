@@ -1,17 +1,36 @@
-+++
-author = "Abdul Wahhab"
-category = ["dana darurat", "investasi", "investasi jangka panjang", "investasi keuangan", "keuntungan investasi", "P2P Lending", "pilihan investasi", "sandwich generation", "strategi investasi", "dana pensiun"]
-date = 2021-11-17T05:00:46Z
-metaDescription = "Dana pensiun adalah dana yang harus disiapkan sedini mungkin untuk hari tua  yang independen, berikut cara menghitung dana pensiun ideal untuk masa depan.."
-draft = false
-image = "https://accountgram-production.sfo2.cdn.digitaloceanspaces.com/landx_ghost/2021/12/pexels-andrea-piacquadio-3783577-min.jpg"
-slug = "perencanaan-keuangan-untuk-hari-tua"
-tag = ["dana darurat", "investasi", "investasi jangka panjang", "investasi keuangan", "keuntungan investasi", "P2P Lending", "pilihan investasi", "sandwich generation", "strategi investasi", "dana pensiun"]
-title = "Dana Pensiun: Menyusun Rencana Keuangan dan Investasi untuk Hari Tua yang Tenang"
-
-+++
-
-
+---
+draft: false
+author: Abdul Wahhab
+slug: perencanaan-keuangan-untuk-hari-tua
+title: "Dana Pensiun: Merencanakan Dana Pensiun yang Optimal untuk Hari Tua"
+metaTitle: "Dana Pensiun: Merencanakan Dana Pensiun yang Optimal untuk Hari Tua"
+metaDescription: Pengertian dana pensiun adalah dana yang kita siapkan untuk
+  kebutuhan kita setelah kita tidak di usia produktif lagi
+intro: Dana pensiun adalah dana hari tua yang harus kita siapkan untuk sejak
+  saat ini karena di masa mendatang kita tentu tidak akan bisa bekerja
+  seproduktif sekarang.
+date: 2021-11-17T05:00:46.000Z
+tag:
+  - dana darurat
+  - investasi
+  - investasi jangka panjang
+  - investasi keuangan
+  - keuntungan investasi
+  - P2P Lending
+  - pilihan investasi
+  - sandwich generation
+  - strategi investasi
+  - dana pensiun
+featuredImage:
+  src: https://accountgram-production.sfo2.cdn.digitaloceanspaces.com/landx_ghost/2021/12/pexels-andrea-piacquadio-3783577-min.jpg
+  alt: Memahami apa yang dimaksud dengan dana pensiun yang harus kamu siapkan
+    sedini mungkin
+  title: Pengertian dan fungsi dana pensiun yang harus disiapkan sedini mungkin
+image: https://accountgram-production.sfo2.cdn.digitaloceanspaces.com/landx_ghost/2021/12/pexels-andrea-piacquadio-3783577-min.jpg
+category:
+  - Keuangan
+  - Investasi
+---
 Sebagian besar manusia pasti bermimpi untuk dapat menghabiskan hari-hari tuanya dengan tenang. Namun, untuk mendapatkan ketenangan hari tua tersebut, ada banyak hal yang perlu dipersiapkan sedari muda.
 
 Salah satu yang sangat penting kamu siapkan adalah investasi yang cukup untuk memenuhi dana pensiun kamu di hari tua nanti.
@@ -22,18 +41,11 @@ Ditambah lagi, dengan faktor inflasi yang terus naik dari tahun ke tahun, maka b
 
 Dengan kondisi masa tua yang sudah tidak produktif, ditambah biaya kebutuhan yang tetap ada dan semakin meningkat, maka perencanaan dan investasi untuk hari tua sangat perlu dilakukan.
 
----
+- - -
 
-## Table of Content
+## Apa Itu Dana Pensiun? 
 
-* **[Pentingnya Menyiapkan Hari Tua yang Independen](https://landx.id/blog/perencanaan-keuangan-untuk-hari-tua/#pentingnya-menyiapkan-hari-tua-yang-independen)**
-* **[Menghitung Dana Pensiun yang Ideal](https://landx.id/blog/perencanaan-keuangan-untuk-hari-tua/#menghitung-dana-pensiun-yang-ideal)**
-* **[Pilihan Tabungan untuk Hari Tua](https://landx.id/blog/perencanaan-keuangan-untuk-hari-tua/#pilihan-tabungan-untuk-hari-tua)**
-* **[Dana Pensiun untuk Memutus Rantai Sandwich Generation](https://landx.id/blog/perencanaan-keuangan-untuk-hari-tua/#dana-pensiun-untuk-memutus-rantai-sandwich-generation)**
-* **[Perencanaan Dana Pensiun yang Matang bagi Sandwich Generation](https://landx.id/blog/perencanaan-keuangan-untuk-hari-tua/#perencanaan-dana-pensiun-yang-matang-bagi-sandwich-generation)**
-* **[Investasi untuk Hari Tua](https://landx.id/blog/perencanaan-keuangan-untuk-hari-tua/#investasi-untuk-hari-tua)**
 
----
 
 ## Pentingnya Menyiapkan Hari Tua yang Independen
 
@@ -69,7 +81,7 @@ Selain tidak terlalu membebani pengeluaran atau biaya hidup bulanan, investasi m
 
 ## Dana Pensiun untuk Memutus Rantai Sandwich Generation
 
-stilah _sandwich generation_ belakangan mulai santer dibicarakan, terutama di internet dan media sosial. Istilah ini merujuk pada satu generasi yang terhimpit secara finansial oleh generasi di atas dan di bawahnya.
+stilah *sandwich generation* belakangan mulai santer dibicarakan, terutama di internet dan media sosial. Istilah ini merujuk pada satu generasi yang terhimpit secara finansial oleh generasi di atas dan di bawahnya.
 
 Dalam arti lain, generasi yang dituntut untuk dapat mencukupi kebutuhan generasi di atasnya (orang tua/mertua) dan generasi di bawahnya (anak).
 
@@ -109,13 +121,13 @@ Perencanaan yang baik sejak awal tentu akan mengurangi beban pembiayaan pada saa
 
 ### 3. Gunakan Skema Life Cycle Investment
 
-_Life Cycle Investment_ merupakan sebuah skema atau strategi investasi yang dilakukan berdasarkan fase hidup. Tiap fase hidup memiliki strategi investasi yang berbeda-beda.
+*Life Cycle Investment* merupakan sebuah skema atau strategi investasi yang dilakukan berdasarkan fase hidup. Tiap fase hidup memiliki strategi investasi yang berbeda-beda.
 
-Contohnya, masa muda adalah fase _growth._ Di masa ini, Anda sebaiknya mencoba investasi pada saham yang cenderung memiliki risiko serta keuntungan yang lebih tinggi.
+Contohnya, masa muda adalah fase *growth.* Di masa ini, Anda sebaiknya mencoba investasi pada saham yang cenderung memiliki risiko serta keuntungan yang lebih tinggi.
 
-Kemudian, pada masa menjelang pensiun atau fase _protection_, Anda dianjurkan untuk mengalokasikan investasi pada obligasi yang memiliki risiko lebih rendah.
+Kemudian, pada masa menjelang pensiun atau fase *protection*, Anda dianjurkan untuk mengalokasikan investasi pada obligasi yang memiliki risiko lebih rendah.
 
-Terakhir, pada masa pensiun atau fase _distribution,_ Anda tinggal menikmati hasil dari investasi yang Anda lakukan selama ini. Dengan begitu, di masa tua Anda dapat menjadi pensiunan yang independen, sehingga dapat memberi kesempatan bagi anak-cucu Anda untuk membuat perencanaan finansial yang lebih baik lagi bagi masa tua mereka.
+Terakhir, pada masa pensiun atau fase *distribution,* Anda tinggal menikmati hasil dari investasi yang Anda lakukan selama ini. Dengan begitu, di masa tua Anda dapat menjadi pensiunan yang independen, sehingga dapat memberi kesempatan bagi anak-cucu Anda untuk membuat perencanaan finansial yang lebih baik lagi bagi masa tua mereka.
 
 ## Investasi untuk Hari Tua
 
@@ -135,17 +147,17 @@ Jenis investasi obligasi ini masih tergolong jarang digunakan oleh para pensiuna
 
 ### 3. P2P Lending
 
-_Peer to Peer_ (P2P) Lending merupakan salah satu jenis investasi yang ikut berkembang seiring dengan perkembangan teknologi finansial (_fintech_). Sistem kerjanya hampir mirip dengan surat utang atau obligasi. Namun perbedaannya adalah P2P Lending biasanya tidak memerlukan jaminan, sehingga lebih cair dan fleksibel.
+*Peer to Peer* (P2P) Lending merupakan salah satu jenis investasi yang ikut berkembang seiring dengan perkembangan teknologi finansial (*fintech*). Sistem kerjanya hampir mirip dengan surat utang atau obligasi. Namun perbedaannya adalah P2P Lending biasanya tidak memerlukan jaminan, sehingga lebih cair dan fleksibel.
 
-Perusahaan P2P Lending memanfaatkan teknologi untuk mempertemukan orang atau pengusaha yang sedang membutuhkan dana (_borrower_) dengan orang yang memiliki dana yang ingin diinvestasikan (_lender_ atau investor). Investor akan mendapatkan keuntungan dari pengembalian dana pinjaman serta keuntungan dari investasi.
+Perusahaan P2P Lending memanfaatkan teknologi untuk mempertemukan orang atau pengusaha yang sedang membutuhkan dana (*borrower*) dengan orang yang memiliki dana yang ingin diinvestasikan (*lender* atau investor). Investor akan mendapatkan keuntungan dari pengembalian dana pinjaman serta keuntungan dari investasi.
 
-Salah satu cara untuk memaksimalkan keuntungan P2P Lending ialah cari pinjaman dengan jangka waktu yang pendek (1 bulan atau kurang). Kemudian, investasikan kembali hasil keuntungan yang didapatkan, biasanya dapat menggunakan fitur _auto invest._
+Salah satu cara untuk memaksimalkan keuntungan P2P Lending ialah cari pinjaman dengan jangka waktu yang pendek (1 bulan atau kurang). Kemudian, investasikan kembali hasil keuntungan yang didapatkan, biasanya dapat menggunakan fitur *auto invest.*
 
 ### 4. Saham
 
 Di Indonesia, banyak perusahaan yang memperjual-belikan saham dengan sistem pembagian dividen (keuntungan) setiap tahunnya. Jenis investasi ini terbilang cocok untuk para pensiunan, sebab hanya dengan mengantongi beberapa surat saham saja, Anda akan mendapatkan pembagian dividen setiap tahunnya.
 
-Ada beberapa poin penting yang perlu diperhatikan dalam memilih perusahaan yang sahamnya akan Anda beli, seperti tingkat pertumbuhan _net profit_ dari tahun ke tahun, tingkat _dividen yield,_ serta tingkat _dividen payout ratio._
+Ada beberapa poin penting yang perlu diperhatikan dalam memilih perusahaan yang sahamnya akan Anda beli, seperti tingkat pertumbuhan *net profit* dari tahun ke tahun, tingkat *dividen yield,* serta tingkat *dividen payout ratio.*
 
 Salah satu jenis investasi saham berbasis dividen yang bisa dipilih adalah **Equity Crowdfunding (ECF)**, atau secara lebih sederhana biasa disebut dengan ‘patungan bisnis’.
 
@@ -163,18 +175,15 @@ Di LandX Anda bisa membeli saham dari beragam jenis bidang usaha, dengan harga s
 
 [![jadi-owner-bisnis-hanya-1-jutaan-dengan-cuan-yang-sangat-menjanjikan](https://accountgram-production.sfo2.cdn.digitaloceanspaces.com/landx_ghost/2021/11/jadi-owner-bisnis-hanya-1-jutaan-dengan-cuan-yang-sangat-menjanjikan.png)](https://landx.id/project/)
 
-[**Mau Berbagai info Terbaru Terkait Investasi? Yuk Follow @landx.id di Instagram**](https://www.instagram.com/landx.id/?utm_medium=copy_link)
+**[Mau Berbagai info Terbaru Terkait Investasi? Yuk Follow @landx.id di Instagram](https://www.instagram.com/landx.id/?utm_medium=copy_link)**
 
----
+- - -
 
 **Baca Juga:**
 
 * [Mengenal Berbagai Modus Investasi Bodong dan Cara Terhindar dari Penipuan dengan Kedok Investasi](https://landx.id/blog/berbagai-skema-investasi-bodong-yang-wajib-investor-pemula-waspadai/)
 * [Manajemen Keuangan: Memahami Pengertian, Fungsi, Tujuan, dan Kenapa Manajemen Keuangan Sangat Penting Bagi Milenial](https://landx.id/blog/manajemen-keuangan-memahami-pengertian-fungsi-tujuan-dan-kenapa-manajemen-keuangan-sangat-penting-bagi-milenial/)
 
----
+- - -
 
-**#YukPatunganBisnis    #LandX.id    #landx         #landx.id     #InvestasiBisnis  #SecuritiesCrowdfunding   #EquityCrowdfunding     #InvestasiMenguntungkan     #Urundana    #BisnisPatungan     #InvestasiUsaha**
-
-
-
+**\#YukPatunganBisnis    #LandX.id    #landx         #landx.id     #InvestasiBisnis  #SecuritiesCrowdfunding   #EquityCrowdfunding     #InvestasiMenguntungkan     #Urundana    #BisnisPatungan     #InvestasiUsaha**
