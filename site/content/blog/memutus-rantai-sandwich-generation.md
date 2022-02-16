@@ -15,7 +15,7 @@ intro: >-
 
 
   Yuk kita bahas bagaimana memutus rantai sandwich generation untuk generasi berikutnya.
-isPinned: true
+isPinned: false
 slug: memutus-rantai-sandwich-generation
 date: 2022-02-03T05:27:41.805Z
 tag:
