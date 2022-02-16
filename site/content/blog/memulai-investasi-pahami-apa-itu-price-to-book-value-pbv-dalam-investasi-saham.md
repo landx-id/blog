@@ -8,7 +8,7 @@ metaDescription: Yuk Pahami Bagaimana Cara Menghitung Price to Book Value (PBV)
 intro: Price to Book Value (PBV) merupakan salah satu rasio keuangan yang bisa
   digunakan untuk menilai apakah sebuah saham layak untuk dibeli atau tidak.
   Karena itu, yuk kita pelajari apa itu rasio PBV dan cara menghitungnya.
-isPinned: true
+isPinned: false
 slug: memulai-investasi-pahami-apa-itu-price-to-book-value-pbv-dalam-investasi-saham
 date: 2022-02-02T12:45:26.728Z
 tag:
