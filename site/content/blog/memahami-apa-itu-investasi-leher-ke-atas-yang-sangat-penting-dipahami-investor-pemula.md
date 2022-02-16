@@ -14,7 +14,7 @@ intro: >-
 
 
   Oleh sebab itu, mari kita bahas apa itu investasi leher ke atas dan bagaimana investasi satu ini bisa memberikan kamu keuntungan jangka panjang.
-isPinned: true
+isPinned: false
 slug: memahami-apa-itu-investasi-leher-ke-atas-yang-sangat-penting-dipahami-investor-pemula
 date: 2022-02-06T07:54:26.127Z
 tag:
