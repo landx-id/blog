@@ -8,7 +8,7 @@ metaDescription: Yuk cek  investasi apa yang cocok untuk pemula yang baru mulai
 intro: Kalau kamu bingung investasi seperti apa yang cocok untuk pemula, yuk
   simak bagaimana cara menyusun investasi yang sesuai dengan tujuan keuangan
   yang ingin kamu capai.
-isPinned: true
+isPinned: false
 slug: investasi-yang-cocok-untuk-pemula
 date: 2022-02-04T10:00:08.953Z
 tag:
