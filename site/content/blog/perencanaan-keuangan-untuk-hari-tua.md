@@ -43,21 +43,29 @@ Dengan kondisi masa tua yang sudah tidak produktif, ditambah biaya kebutuhan yan
 
 - - -
 
-## Apa Itu Dana Pensiun? 
+## Apa Itu Dana Pensiun?
 
 Sebelum membahas lebih lanjut tentang dana pensiun, pertama-tama mari kita bahas dulu apa itu dana pensiun. 
 
 Dalam Kamus Besar bahasa Indonesia (KBBI) dana pensiun adalah dana yang keuangannya diperoleh dari iuran tetap para peserta ditambah penghasilan perusahaan yang disisihkan. Para peserta ini berhak memperoleh bagian keuntungan itu setelah pensiun.
 
-Apabila kamu seorang pegawai yang bekerja pada suatu perusahaan, dana pensiun adalah dana yang berasal dari iuran yang dibayarkan oleh karyawan melalui potongan gaji mereka setiap bulan dan nantinya akan cair saat mereka 
+Apabila kamu seorang pegawai yang bekerja pada suatu perusahaan, dana pensiun adalah dana yang berasal dari iuran yang dibayarkan oleh karyawan melalui potongan gaji mereka setiap bulan dan nantinya akan cair pada saat mereka pensiun. 
 
-## Apa Fungsi Dana Pensiun? 
+Akan tetapi, dana pensiun tidak hanya terbatas pada karyawan saja karena pada dasarnya pengertian dana pensiun adalah dana yang kita siapkan untuk masa tua di mana kita tidak dapat bekerja secara produktif lagi sehingga kita menggunakan dana ini memenuhi kebutuhan kita. 
+
+Oleh sebab itu, dana pensiun sebenarnya adalah dana yang harus siapkan semua orang agar memiliki masa tua yang sejahtera dan sesuai dengan kebutuhan anda. 
+
+## Apa Fungsi Dana Pensiun?
+
+Pada dasarnya, fungsi utama dana pensiun yang utama adalah untuk menjaga finansial kita tetap stabil walaupun di usia yang sudah tidak produktif lagi. Selain itu, dana pensiun juga bisa berfungsi sebagai modal usaha bagi yang bisa membantu mendukung kehidupan hari tua anda. 
 
 Rata-rata usia pensiun di Indonesia ialah 55 tahun, sementara angka harapan hidup orang Indonesia rata-rata mencapai usia 70 tahun. Artinya, setidaknya kita akan menjalani masa tua pasca pensiun selama kurang lebih 15 tahun.
 
 Namun, faktanya tidak semua orang bisa menikmati hidup yang cukup sejahtera di masa pensiun. Hasil survei Asosiasi Dana Pensiun Lembaga Keuangan (DPLK) menyatakan bahwa hanya 9% masyarakat Indonesia yang dapat hidup sejahtera pasca pensiun. Banyak yang mengakui bahwa mereka mengalami kesulitan di masa tua karena kurangnya perencanaan dan skema pensiun.
 
 Meski telah memasuki usia pensiun dan sudah tidak cukup produktif, sebagian besar masyarakat terpaksa harus kembali bekerja untuk memenuhi kebutuhannya. Tidak jarang juga yang mengandalkan keluarga seperti anak atau saudara untuk mencukupi kebutuhan di masa tua.
+
+Selain itu, dana pensiun bagi karyawan ini bisa diwariskan apabila terjadi penerimanya meninggal dunia sehingga bisa berfungsi sebagai dana cadangan untuk keluarga yang ditinggalkan apabila terjadi sesuatu yang tidak terduga.
 
 Investasi dan perencanaan keuangan yang baik sangat penting untuk menghadapi masa tua, agar tetap bisa menikmati ketenangan dan kesejahteraan masa pensiun, tanpa perlu mengandalkan atau membebani keluarga.
 
@@ -175,9 +183,9 @@ Salah satu perusahaan ECF di Indonesia yang sudah berjalan sampai saat ini adala
 
 Di LandX Anda bisa membeli saham dari beragam jenis bidang usaha, dengan harga saham mulai dari satu juta rupiah.
 
-## [Yuk Patungan Bisnis dengan Keuntungan Jangka Panjang Bareng LandX](https://landx.id/project/)
+## **[Yuk Siapkan Investasi Terbaik untuk Masa Depan Kamu Bareng LandX](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)**
 
-[![jadi-owner-bisnis-hanya-1-jutaan-dengan-cuan-yang-sangat-menjanjikan](https://accountgram-production.sfo2.cdn.digitaloceanspaces.com/landx_ghost/2021/11/jadi-owner-bisnis-hanya-1-jutaan-dengan-cuan-yang-sangat-menjanjikan.png)](https://landx.id/project/)
+[![miliki bisnis modal kecil cuma dengan 1 jutaan dapat 4 cabang ](https://accountgram-production.sfo2.cdn.digitaloceanspaces.com/landx_ghost/2021/11/jadi-owner-bisnis-hanya-1-jutaan-dengan-cuan-yang-sangat-menjanjikan.png)](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)[](https://landx.id/project/)
 
 **[Mau Berbagai info Terbaru Terkait Investasi? Yuk Follow @landx.id di Instagram](https://www.instagram.com/landx.id/?utm_medium=copy_link)**
 
@@ -190,4 +198,4 @@ Di LandX Anda bisa membeli saham dari beragam jenis bidang usaha, dengan harga s
 
 - - -
 
-**\#YukPatunganBisnis    #LandX.id    #landx         #landx.id     #InvestasiBisnis  #SecuritiesCrowdfunding   #EquityCrowdfunding     #InvestasiMenguntungkan     #Urundana    #BisnisPatungan     #InvestasiUsaha**
+**\#SekarangBisa**
