@@ -9,7 +9,7 @@ intro: Binary option atau opsi biner kini jadi perbincangan para trader saham
   pemula yang mudah di iming-imingi hasil besar yang high risk, high reward.
   Sudahkan Anda memahami apa itu binary option? Yuk, pahami mekanisme dan risiko
   di opsi biner dalam mencapai untung besar.
-isPinned: true
+isPinned: false
 date: 2022-02-04T01:04:19.195Z
 tag:
   - investasi bodong
