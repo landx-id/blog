@@ -1,18 +1,31 @@
-+++
-author = "Vlora Riyandi"
-category = ["laju inflasi", "tips investasi", "inflasi", "keuntungan investasi", "Cara Investasi Saham", "investasi saham"]
-date = 2021-11-25T10:47:37Z
-metaDescription = "Stagflasi adalah karakteristik situasi saat inflasi tinggi, pertumbuhan ekonomi berjalan lambat/ stagnasi yang sering menjadi dilema negara maju "
-draft = false
-image = "https://accountgram-production.sfo2.cdn.digitaloceanspaces.com/landx_ghost/2021/11/memahami-apa-itu-stagflasi-dan-pengaruhnya-terhadap-pertumbuhan-ekonomi.jpg"
-slug = "apa-itu-stagflasi-dan-bagaimana-dampaknya-terhadap-investasi-di-indonesia"
-tag = ["laju inflasi", "tips investasi", "inflasi", "keuntungan investasi", "Cara Investasi Saham", "investasi saham"]
-title = "Memahami Apa Itu Stagflasi dan Pengaruhnya Terhadap Investasi Anda"
-
-+++
-
-
 ---
+draft: false
+author: Vlora Riyandi
+slug: apa-itu-stagflasi-dan-bagaimana-dampaknya-terhadap-investasi-di-indonesia
+title: Memahami Apa Itu Stagflasi dan Pengaruhnya Terhadap Investasi Anda
+metaTitle: Memahami Apa Itu Stagflasi dan Pengaruhnya Terhadap Investasi Anda
+metaDescription: "Stagflasi adalah karakteristik situasi saat inflasi tinggi,
+  pertumbuhan ekonomi berjalan lambat/ stagnasi yang sering menjadi dilema
+  negara maju "
+intro: Yuk pahami apa yang dimaksud dengan stagflasi dan pengaruhnya terhadap
+  investasi jangka panjang anda
+date: 2021-11-25T10:47:37.000Z
+tag:
+  - laju inflasi
+  - tips investasi
+  - inflasi
+  - keuntungan investasi
+  - Cara Investasi Saham
+  - investasi saham
+featuredImage:
+  src: https://accountgram-production.sfo2.cdn.digitaloceanspaces.com/landx_ghost/2021/11/memahami-apa-itu-stagflasi-dan-pengaruhnya-terhadap-pertumbuhan-ekonomi.jpg
+  alt: Memahami apa yang dimaksud dengan stagflasi
+  title: Memahami apa itu stagflasi
+image: https://accountgram-production.sfo2.cdn.digitaloceanspaces.com/landx_ghost/2021/11/memahami-apa-itu-stagflasi-dan-pengaruhnya-terhadap-pertumbuhan-ekonomi.jpg
+category:
+  - Investasi
+---
+- - -
 
 Stagflasi terdiri dari situasi yang stagnan dan inflasi. Stagflasi adalah karakteristik situasi saat inflasi tinggi, pertumbuhan ekonomi berjalan lambat (stagnasi), dan tingkat pengangguran relatif tinggi. Kondisi ini identik menjadi dilema pemerintahan di negara maju.
 
@@ -22,19 +35,9 @@ Negara Amerika Serikat juga pernah mengalami stagflasi pada tahun 1970-an akibat
 
 Dari jurnal penelitian yang terbit dari tahun 80-an hingga 2012 telah banyak mengulas berbagai penyebab dari stagflasi.
 
-Beberapa hasil penelitian mengungkapkan stagflasi disebabkan oleh kenaikan biaya upah (_wage push-cost_), kebijakan moneter, kenaikan harga gas alam, serta lonjakan harga minyak yang paling sering diidentifikasi menjadi pemicu stagflasi di Amerika Serikat juga wilayah Eropa.  Setiap peneliti menawarkan pandangannya tersendiri terhadap asal penyebabnya.
+Beberapa hasil penelitian mengungkapkan stagflasi disebabkan oleh kenaikan biaya upah (*wage push-cost*), kebijakan moneter, kenaikan harga gas alam, serta lonjakan harga minyak yang paling sering diidentifikasi menjadi pemicu stagflasi di Amerika Serikat juga wilayah Eropa.  Setiap peneliti menawarkan pandangannya tersendiri terhadap asal penyebabnya.
 
----
-
-## Table of Content
-
-* [**Stagflasi di Indonesia**](https://landx.id/blog/apa-itu-stagflasi-dan-bagaimana-dampaknya-terhadap-investasi-di-indonesia/#stagflasi-di-indonesia)
-* **[Cina Dihantui Stagflasi](https://landx.id/blog/apa-itu-stagflasi-dan-bagaimana-dampaknya-terhadap-investasi-di-indonesia/#cina-dihantui-stagflasi)**
-* **[Stagflasi dan Dampak Pada Investasi](https://landx.id/blog/apa-itu-stagflasi-dan-bagaimana-dampaknya-terhadap-investasi-di-indonesia/#stagflasi-dan-dampak-pada-investasi)**
-* **[Aset Pelindung dari Stagflasi](https://landx.id/blog/apa-itu-stagflasi-dan-bagaimana-dampaknya-terhadap-investasi-di-indonesia/#aset-pelindung-dari-stagflasi)**
-* **[Strategi Memperkecil Risiko Investasi Saham Saat Stagflasi](https://landx.id/blog/apa-itu-stagflasi-dan-bagaimana-dampaknya-terhadap-investasi-di-indonesia/#strategi-memperkecil-risiko-investasi-saham-saat-stagflasi)**
-
----
+- - -
 
 ## Stagflasi di Indonesia
 
@@ -42,9 +45,9 @@ Indonesia pernah mengalami stagflasi pada krisis tahun 1998. Bersamaan saat nila
 
 Indonesia dikabarkan masih jauh dari tahap stagflasi karena tingkat inflasi yang masih dibawah 2% serta tren pertumbuhan ekonomi yang masih baik. Namun, ada baiknya untuk selalu waspada karena Indonesia memiliki hubungan perekonomian dengan negara lain yang mungkin sedang menunjukkan tanda-tanda risiko stagflasi.
 
-Oktober lalu, Menteri Keuangan Sri Mulayani menyampaikan Indonesia harus waspada dengan isu yang beredar di negara AS, negara-negara Eropa, juga Cina yang dapat menimbulkan efek rambatan (_spill over_) pada perekonomian dunia termasuk Indonesia.
+Oktober lalu, Menteri Keuangan Sri Mulayani menyampaikan Indonesia harus waspada dengan isu yang beredar di negara AS, negara-negara Eropa, juga Cina yang dapat menimbulkan efek rambatan (*spill over*) pada perekonomian dunia termasuk Indonesia.
 
-_Spill over effect_ adalah efek pada perekonomian suatu negara dari peristiwa yang terjadi di negara lain. Risiko stagflasi adalah salah satu faktor yang dapat menyebabkan efek rambatan (_spill over_).
+*Spill over effect* adalah efek pada perekonomian suatu negara dari peristiwa yang terjadi di negara lain. Risiko stagflasi adalah salah satu faktor yang dapat menyebabkan efek rambatan (*spill over*).
 
 ## Cina Dihantui Stagflasi
 
@@ -62,7 +65,7 @@ Hal yang bisa kita harapkan adalah tren perekonomian Cina tidak menurun karena t
 
 ## Aset Pelindung dari Stagflasi
 
-Kemanakan sebaiknya harus [**diinvestasikan**](https://landx.id/project/) ketika akan terjadi risiko stagflasi ini? Apakah batubara, nikel, atau emas? Permintaan akan komoditas seperti batubara dan nikel diperkirakan mengalami penurunan jika situasi stagflasi melanda.
+Kemanakan sebaiknya harus **[diinvestasikan](https://landx.id/project/)** ketika akan terjadi risiko stagflasi ini? Apakah batubara, nikel, atau emas? Permintaan akan komoditas seperti batubara dan nikel diperkirakan mengalami penurunan jika situasi stagflasi melanda.
 
 Dikarenakan stagflasi merupakan kondisi pertumbuhan ekonomi yang sedang menurun. Sehingga komoditas bukan menjadi pilihan.
 
@@ -72,7 +75,7 @@ Aset safe haven yaitu aset yang tidak memiliki hubungan negatif apabila aset por
 
 Jika stagflasi benar-benar terjadi, tentunya semua sektor saham diperkirakan akan terkena dampaknya.
 
-Dapat terjadi pengecualian jika sektor tersebut merupakan sektor _consumer goods_, defensif atau selalu dibutuhkan konsumen apapun situasinya. Sektor yang diperkirakan aman yakni seperti makanan dan sektor berbasis telekomunikasi.
+Dapat terjadi pengecualian jika sektor tersebut merupakan sektor *consumer goods*, defensif atau selalu dibutuhkan konsumen apapun situasinya. Sektor yang diperkirakan aman yakni seperti makanan dan sektor berbasis telekomunikasi.
 
 ## Strategi Memperkecil Risiko Investasi Saham Saat Stagflasi
 
@@ -84,17 +87,17 @@ Menurut paparan CNBC, berikut strategi yang dapat memperkecil risiko investasi s
 
 ### 1. Incar saham valuasi rendah, kas bebas dan dividen tinggi
 
-Head of Business Development dari RHB Sekuritas Indonesia, Berlian Juveny menuturkan pada siaran CNBC Indonesia pada dasarnya tentu sebaiknya kita memfokuskan portfolio kita pada saham-saham yang memiliki _growth besar_ atau saham yang dapat dikembalikan ke negara maju.
+Head of Business Development dari RHB Sekuritas Indonesia, Berlian Juveny menuturkan pada siaran CNBC Indonesia pada dasarnya tentu sebaiknya kita memfokuskan portfolio kita pada saham-saham yang memiliki *growth besar* atau saham yang dapat dikembalikan ke negara maju.
 
 Jika saat ini kamu memiliki minat pada saham properti baiknya digunakan sebagai trading saja. Karena sektor properti akan terdampak jika rupiah melemah.
 
 Fokuskanlah portofolio pada sektor saham yang dikirakan netral terhadap situasi stagflasi ataupun kenaikan suku bunga di Amerika.
 
-### 2. Memperhatikan _growth stocks_
+### 2. Memperhatikan *growth stocks*
 
-_Growth stocks_ adalah situasi saham yang harganya sedang tumbuh naik berdasarkan penjualannya. Harus diketahui bahwa risiko dari saham growth stock adalah jika tiba-tiba hal yang menjadi pemicu kenaikannya berhenti, saham-sahamnya bisa saja tidak bergerak lagi.
+*Growth stocks* adalah situasi saham yang harganya sedang tumbuh naik berdasarkan penjualannya. Harus diketahui bahwa risiko dari saham growth stock adalah jika tiba-tiba hal yang menjadi pemicu kenaikannya berhenti, saham-sahamnya bisa saja tidak bergerak lagi.
 
-Akan tetapi kamu sebenarnya tidak perlu panik karena biasanya investor yang sudah berpengalaman akan menggunakan strategi _wait and see_ yang dapat kamu tiru.
+Akan tetapi kamu sebenarnya tidak perlu panik karena biasanya investor yang sudah berpengalaman akan menggunakan strategi *wait and see* yang dapat kamu tiru.
 
 Hal ini karena kondisi stagflasi ini terjadi hanya sementara dan pasti akan membaik seiring berjalannya waktu. Karena itu, langkah antisipasi yang bisa kamu lakukan adalah dengan memilih [instrumen investasi](https://landx.id/) yang tidak terdampak terlalu besar akan kondisi ini,
 
@@ -108,7 +111,7 @@ Bagi investor, balik lagi kepada pentingnya bagi kita untuk mempelajari terlebih
 
 Berinvestasi ke dalam sektor privat bisa menjadi salah satu pilihan investasi yang bisa kamu jadikan pilihan investasi selama stagflasi terjadi. Sektor privat ini bisa dengan lebih mudah kamu pahami karena biasanya merupakan bisnis-bisnis yang dekat dengan kita.
 
-Pilihlah bisnis yang memiliki _story_ yang kuat dan memiliki pengalaman atau operasionalnya telah berjalan dalam jangka waktu yang lama. Serta saham _new economy_ juga dapat menjadi pilihan baik bagi [**portofolio investasi**](https://landx.id/project/) kamu.
+Pilihlah bisnis yang memiliki *story* yang kuat dan memiliki pengalaman atau operasionalnya telah berjalan dalam jangka waktu yang lama. Serta saham *new economy* juga dapat menjadi pilihan baik bagi **[portofolio investasi](https://landx.id/project/)** kamu.
 
 Seperti strategi untuk memperkecil risiko investasi yang telah dibahas, pilihlah saham yang kamu pahami dengan baik bagaimana potensi industri ini dan apakah bisnis ini dikelola secara profesional oleh orang yang berpengalaman.
 
@@ -118,20 +121,17 @@ Kamu dapat memilih saham dari bisnis yang berpengalaman dengan mengecek situs da
 
 [![miliki bisnis modal kecil cuma dengan 1 jutaan dapat 4 cabang ](https://accountgram-production.sfo2.cdn.digitaloceanspaces.com/landx_ghost/2021/11/jadi-owner-bisnis-hanya-1-jutaan-dengan-cuan-yang-sangat-menjanjikan.png)](https://landx.id/project/)
 
-[**Mau Berbagai Info Menarik Seputar Investasi Lainnya? Yuk Follow Instagram @landx.id**](https://instagram.com/landx.id?utm_medium=copy_link)
+**[Mau Berbagai Info Menarik Seputar Investasi Lainnya? Yuk Follow Instagram @landx.id](https://instagram.com/landx.id?utm_medium=copy_link)**
 
----
+- - -
 
 **Artikel Terkait:**
 
 * **[Mengenal Apa Itu Tapering Off dan Dampaknya Bagi Investasi](https://landx.id/blog/tapering-adalah/)**
 * **[Laju Inflasi: Memahami Apa Itu Inflasi dan Cara Menghitung Laju Inflasi](https://landx.id/blog/laju-inflasi-adalah/)**
 
----
+- - -
 
-**#LandX.id    #landx         #landx.id    #InvestasiBisnis     #EquityCrowdfunding    #InvestasiMenguntungkan    #Urundana     #BisnisPatungan    #InvestasiUsaha**
+**\#LandX.id    #landx         #landx.id    #InvestasiBisnis     #EquityCrowdfunding    #InvestasiMenguntungkan    #Urundana     #BisnisPatungan    #InvestasiUsaha**
 
----
-
-
-
+- - -
