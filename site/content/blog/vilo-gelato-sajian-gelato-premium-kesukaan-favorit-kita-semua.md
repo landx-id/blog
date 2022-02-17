@@ -83,8 +83,6 @@ Karena itu, yuk simak dulu pembukaan Vilo Gelato cabang Alam Sutera yang baru sa
 
 {{< button link="https://www.youtube.com/watch?v=U08e7JRP87Y" text="Watch This Video" >}}
 
-
-
 **Pada Project Vilo Gelato ini,** Anda sudah bisa menjadi investor hanya dengan modal mulai dari satu juta rupiah, serta akan mendapatkan pengembalian berupa dividen dengan estimasi sebesar 15-25% per tahun yang akan dibagikan setiap tiga bulan.
 
 **[Tunggu apalagi, segera verifikasi akun Anda di LandX agar tidak kehabisan project Vilo Gelato atau project-project bisnis menarik lainnya.\*\**](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)**
