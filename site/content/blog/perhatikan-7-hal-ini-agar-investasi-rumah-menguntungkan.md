@@ -69,7 +69,7 @@ Hal terpenting yang harus anda lakukan ketika investasi rumah adalah memperhatik
 
 Untuk mendapatkan kualitas rumah terbaik, anda perlu berhati-hati dalam memilih pengembang. Pilihlah pengembang yang sudah berpengalaman membangun perumahan berkualitas agar anda bisa mendapatkan rumah yang anda inginkan.
 
-Salah satu cara investasi rumah berkualitas adalah dengan membeli rumah di [Cari Properti](https://cariproperti.com/). Situs ini menyediakan ribuan unit pilihan rumah yang dibangun oleh pengembang terpercaya. Selain itu, anda juga bisa berkonsultasi dengan Property Advisor untuk mendapatkan rumah yang anda inginkan.
+Salah satu cara investasi rumah berkualitas adalah dengan membeli rumah di** [Cari Properti](https://cariproperti.com/).** Situs ini menyediakan ribuan unit pilihan rumah yang dibangun oleh pengembang terpercaya. Selain itu, anda juga bisa berkonsultasi dengan Property Advisor untuk mendapatkan rumah yang anda inginkan.
 
 ## Investasi Properti Modal Kecil
 
