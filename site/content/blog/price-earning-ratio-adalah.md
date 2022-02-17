@@ -1,14 +1,25 @@
-+++
-author = "Abdul Wahhab"
-category = ["investasi saham", "Cara Investasi Saham"]
-date = 2021-06-25T10:29:54Z
-metaDescription = "price earning ratio adalah salah satu rasio keuangan yang bisa digunakan untuk menilai saham. price to earning ratio menunjukkan bagaimana saham yang akan.."
-draft = false
-slug = "price-earning-ratio-adalah"
-tag = ["investasi saham", "Cara Investasi Saham"]
-title = "Price Earning Ratio: Memahami Apa Itu Price Earning Ratio (PER) dan Manfaatnya dalam Investasi"
-
-+++
+---
+draft: false
+author: Abdul Wahhab
+slug: price-earning-ratio-adalah
+title: "Price Earning Ratio (PER)  Adalah: Memahami Apa Itu P/E Ratio"
+metaTitle: "Price Earning Ratio (PER)  Adalah: Memahami Apa Itu P/E Ratio"
+metaDescription: Price to earning ratio adalah salah satu rasio keuangan yang
+  bisa digunakan untuk menilai saham. PER adalah rasio valuasi saham
+intro: Kalau kamu sedang berinvestasi saham, yuk pahami apa itu PER saham dan
+  kenapa rasio satu ini sangat penting dalam investasi anda
+date: 2021-06-25T10:29:54.000Z
+tag:
+  - investasi saham
+  - Cara Investasi Saham
+  - Rasio Keuangan
+category:
+  - Bisnis
+featuredImage:
+  src: https://images.unsplash.com/photo-1423666639041-f56000c27a9a?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1474&q=80
+  alt: "Cara memilih saham yang baik dengan melihat nilai PER atau P/E rationya "
+  title: Cara menghitung price earning ratio agar investasi saham menjadi lebih mudah
+---
 
 
 **Price Earning Ratio –** dalam melakukan investasi ke dalam suatu bisnis dan perusahaan, anda tentu memilih perusahaan atau bisnis yang memiliki potensi keuntungan yang besar. Oleh sebab itu menentukan perusahaan terbaik merupakan bagian krusial yang menentukan bagaimana arah dari investasi yang anda lakukan.
