@@ -1,6 +1,6 @@
 ---
 title: Sukuk
-slug: Sukuk
+slug: sukuk
 metaTitle: Instrumen sukuk dalam pasar modal dan securities crowdfunding
 metaDescription: Mengenal berbagai jenis sukuk yang bisa menjadi pilihan
   instrumen investasi jangka panjang anda.
