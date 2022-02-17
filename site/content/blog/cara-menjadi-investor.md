@@ -87,6 +87,12 @@ Investasi bisnis juga sekarang menjadi sangat mudah dan bisa dimulai dengan moda
 
 ### 5. [Menentukan Bisnis/Proyek Terbaik untuk Investasi Jangka Panjang](https://landx.id/project/index.html)
 
+Sebelum membahas ini, yuk simak dulu pengalaman investasi dari para investor LandX berikut ini: 
+
+{{< youtube id="ZBnPoQSW3tk" >}} 
+
+{{< button link="https://www.youtube.com/watch?v=ZBnPoQSW3tk" text="Watch This Video" >}}
+
 Apabila anda ingin menjadi investor bagi berbagai bisnis potensial, anda harus bisa menganalisis bisnis bagaimana potensi keuntungan dari bisnis yang akan anda danai.
 
 Karena itu, anda harus bisa menemukan bisnis dengan potensi perkembangan yang baik dalam jangka panjang. Akan tetapi, dengan memilih platform equity crowdfunding terpercaya, memilih bisnis menjadi terbaik menjadi semakin mudah karena sebagai penyelenggara mereka akan menyeleksi terlebih dahulu bisnis yang akan mereka [listing](https://landx.id/project/index.html) kepada masyarakat.
