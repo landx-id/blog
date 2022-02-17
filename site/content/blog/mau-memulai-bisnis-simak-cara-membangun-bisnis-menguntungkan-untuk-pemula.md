@@ -96,9 +96,7 @@ Bisnis ini bagus untuk pemula karena selain produk yang sudah tersedia kemitraan
 
 Selain itu, cara ini membuat usaha anda memakan biaya yang lebih kecil karena kamu tidak perlu mengeluarkan biaya untuk pemasaran yang biasanya akan memakan biaya besar karena biasanya pemilik franchise akan memberikan anda banyak support dalam hal ini. 
 
-Akan tetapi, sistem ini tidak menjadi jaminan kesuksesan dari bisnis anda karena pasti ada berbagai risiko tidak terduga dalam bisnis yang penting untuk kamu waspadai.
-
-Karena itu, mari kita bahas berbagai risiko yang harus anda perhatikan saat membangun suatu bisnis.
+Akan tetapi, sistem ini tidak menjadi jaminan kesuksesan dari bisnis anda karena pasti ada berbagai risiko tidak terduga dalam bisnis yang penting untuk kamu waspadai. Karena itu, mari kita bahas berbagai risiko yang harus anda perhatikan saat membangun suatu bisnis.
 
 ## **Risiko dalam Membangun Bisnis**
 
