@@ -73,19 +73,19 @@ Senang berolahraga secara rutin tentu bisa membuat Anda memiliki kecenderungan u
 
 Bagi Anda yang ingin membuka bisnis gym di tahun ini, berikut beberapa tips membuka usaha fitness dan gym di tahun 2022.
 
-1. ### Miliki lisensi sebagai profesional trainer
+### 1. Miliki lisensi sebagai profesional trainer
 
 Gym yang baru dirintis tentu ada baiknya jika trainer dan instrukturnya memiliki sertifikasi dan akreditasi. Karena untuk menggaet konsumen, penting munculnya rasa kepercayaan dan kredibilitas untuk meningkatkan minat.
 
 Dengan memiliki lisensi akan sebagai bukti bahwa trainer dan instruktur gym dan fitness center ini memiliki background dan pengalaman yang nyata. Serta, apabila Anda membangun bisnis gym dengan menggandeng investor tentu saja investor akan lebih merasa legit dengan latar belakang yang sesuai.
 
-2. ### Tentukan target lokasi dan market
+### 2. Tentukan target lokasi dan market
 
 Untuk dapat survive di industri kebugaran, sebaiknya menetukan lokasi yang tepat bagi bisnis gym fitness Anda. Menentukan lokasi yang dekat dan accessible bagi target market, serta biaya di kota yang Anda inginkan akan menjadi faktor penentu pilihan. 
 
 Tidak masalah jika Anda ingin memulai dengan memiliki studio gym kecil, yang terpenting Anda dapat mengadakan operasional dengan semua peralatan berkualitas. Sehingga keuntungan bisnis gym dapat diraih dan return of investment atau jangka waktu balik modal Anda lebih cepat tercapai.
 
-3. ### Gunakan akuntansi bagi perhitungan kas
+### 3. Gunakan akuntansi bagi perhitungan kas
 
 Jika Anda menggandeng investor dalam sebuat startup gym, keuangan akan menjadi poin kritikal bagi bisnis Anda. Launching sebuah usaha gym baru membutuhkan biaya besar.
 
@@ -93,7 +93,7 @@ Diperkirakan modal usaha fitness merogoh kocek mulai ratusan juta hingga miliara
 
 Karena itu, sangat penting untuk menggunakan jasa akuntasi profesional dalam mengelola keuangan startup bisnis gym dan fitness Anda.
 
-4. ### Saatnya memuat peralatan gym dan mesin fitness
+### 4. Saatnya memuat peralatan gym dan mesin fitness
 
 Setelah memiliki business plan yang jelas, lokasi yang sesuasi, modal dan investor yang mencukupi, saatnya memuat alat-alat gym dan mesin fitness. Hal penting yang harus Anda ingat adalah jangan sampai menggunakan low quality equipment demi miliki low cost atau menekan biaya.
 
@@ -105,8 +105,8 @@ Menjadi investor sebuah bisnis dikenal harus memiliki modal bagai sultan. Namun,
 
 Yuk, menjadi investor bisnis gym potensial dan banyak cabang di [LandX](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog). Dengan sejutaan, Anda **\#SekarangBisa** miliki usaha fitness dan mega gym paling populer di Bali. 
 
-### Segera kunjungi [LandX](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog) sekarang! Kuota terbatas.
-
-## [Yuk Jadi Owner dari Gym Terbesar di Bali Cuma dengan Modal 1 Juta Hanya di LandX](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)
+### [Segera kunjungi LandX sekarang! Kuota terbatas.](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)
 
 [![Jadi owner gym paling rame di bali fitness plus cuma dengan modal 1 juta](https://media.discordapp.net/attachments/913743599844343808/940505848801792010/Thumbnail_Fitness_Pluss_2-01.png)](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)
+
+**\#SekarangBisa**
