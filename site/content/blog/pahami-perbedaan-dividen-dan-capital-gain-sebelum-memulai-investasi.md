@@ -25,19 +25,17 @@ image: https://images.unsplash.com/photo-1568234928966-359c35dd8327?crop=entropy
 category:
   - Investasi
 ---
+Saat memutuskan berinvestasi, anda tentu mengharapkan *return* atau keuntungan yang setara dengan risiko yang akan anda tanggung. Investasi akan memberikan anda return dalam berbagai bentuk seperti [dividen](https://landx.id/), *[capital gain](https://landx.id/)*, dan bunga.
 
+**Dividen dan *capital gain*** merupakan dua jenis keuntungan yang berpotensi didapatkan oleh seorang investor saat mulai berinvestasi ke dalam beberapa jenis instrumen seperti saham dan [equity crowdfunding](https://landx.id/).
 
-Saat memutuskan berinvestasi, anda tentu mengharapkan _return_ atau keuntungan yang setara dengan risiko yang akan anda tanggung. Investasi akan memberikan anda return dalam berbagai bentuk seperti [dividen](https://landx.id/), [_capital gain_](https://landx.id/), dan bunga.
-
-**Dividen dan _capital gain_** merupakan dua jenis keuntungan yang berpotensi didapatkan oleh seorang investor saat mulai berinvestasi ke dalam beberapa jenis instrumen seperti saham dan [equity crowdfunding](https://landx.id/).
-
-Baik dividen maupun _**capital gain**_ akan memberikan investor keuntungan selama bisnis atau korporasi yang mereka danai memiliki performa yang baik sehingga bisa menghasilkan keuntungan juga berpengaruh terhadap harga saham.
+Baik dividen maupun ***capital gain*** akan memberikan investor keuntungan selama bisnis atau korporasi yang mereka danai memiliki performa yang baik sehingga bisa menghasilkan keuntungan juga berpengaruh terhadap harga saham.
 
 Namun, masih banyak investor yang masih belum paham dengan konsep dari dividen dan capital gain, karena itu mari kita bahas lebih lanjut agar anda paham perbedaan dividen dan capital gain.
 
 ## Perbedaan Dividen dan Capital Gain
 
-agar kamu lebih paham berbagai perbedaan antara dividen dan _capital gain_ mari bahas perbedaan dari dua jenis keuntungan ini dari berbagai sisi.
+agar kamu lebih paham berbagai perbedaan antara dividen dan *capital gain* mari bahas perbedaan dari dua jenis keuntungan ini dari berbagai sisi.
 
 ## Pengertian Dividen dan Capital Gain
 
@@ -57,7 +55,7 @@ Walau sering disebut banyak orang, sebenarnya banyak orang tidak paham dengan ba
 
 Karena itu dalam berinvestasi saham atau equity crowdfunding anda perlu memilih perusahaan dengan prospek menjanjikan yang memiliki potensi kenaikan nilai di pasaran.
 
-## Periode Perolehan Dividen dan _Capital Gain_
+## Periode Perolehan Dividen dan *Capital Gain*
 
 Perbedaan mendasar lain dari dua jenis keuntungan ini adalah waktu perolehan keuntungan.
 
@@ -87,19 +85,17 @@ Karena itu, sebelum berinvestasi kita harus paham dulu return seperti apa yang m
 
 ## Berinvestasi Lewat Crowdfunding Bersama LandX
 
-**[LandX](https://landx.id/) ** sebagai [platform equity crowdfunding](https://landx.id/) memberikan anda kesempatan untuk berinvestasi ke dalam berbagai bisnis potensial yang berpotensi memberikan anda keuntungan lewat **dividen dan capital gain.** 
+**[LandX](https://landx.id/)**  sebagai [platform equity crowdfunding](https://landx.id/) memberikan anda kesempatan untuk berinvestasi ke dalam berbagai bisnis potensial yang berpotensi memberikan anda keuntungan lewat **dividen dan capital gain.** 
 
 Berinvestasi di LandX  sangat cocok untuk kamu yang ingin melakukan investasi jangka panjang ke berbagai bisnis potensial yang telah melewati kurasi ketat oleh tim LandX sebelumnya.
 
 **Karena itu...**
 
-## Yuk m[ulai investasi melalui LandX dengan modal 1 juta](https://landx.id/)
+**[Yuk Temukan Bisnis Menjanjikan dengan Keuntungan Terbaik di LandX](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)**
 
-[![Yuk mulai patungan bisnis menguntungkan jangka panja g bersama LandX](https://accountgram-production.sfo2.cdn.digitaloceanspaces.com/landx_ghost/2021/09/Equity-Crowdfunding-di-Indonesia-1--3.png)](https://landx.id/project/)
+[![miliki bisnis modal kecil cuma dengan 1 jutaan dapat 4 cabang ](https://accountgram-production.sfo2.cdn.digitaloceanspaces.com/landx_ghost/2021/11/jadi-owner-bisnis-hanya-1-jutaan-dengan-cuan-yang-sangat-menjanjikan.png)](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)**[Yuk Patungan Bisnis Menguntungkan Bareng LandX](https://landx.id/project/)**
 
-[**Yuk Patungan Bisnis Menguntungkan Bareng LandX**](https://landx.id/project/)
-
----
+- - -
 
 **Baca Juga:**
 
@@ -107,11 +103,10 @@ Berinvestasi di LandX  sangat cocok untuk kamu yang ingin melakukan investasi ja
 * [Investasi dengan Passive Income untuk Masa Depan](https://landx.id/blog/investasi-dengan-passive-income-untuk-masa-depan/)
 * [Investasi Selalu Rugi? Coba Lakukan Diversifikasi. Ini 4 Cara Melakukannya!](https://landx.id/blog/arti-penting-diversifikasi-dalam-investasi/)
 
----
+- - -
 
 **[Mau Informasi Menarik Lain Seputar Investasi? Yuk Follow Kami di Instagram @landx.id](https://www.instagram.com/landx.id/)**
 
----
+- - -
 
-**#YukPatunganBisnis**
-
+**\#YukPatunganBisnis**
