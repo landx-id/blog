@@ -1,33 +1,35 @@
-+++
-author = "Abdul Wahhab"
-category = ["investasi bisnis", "bisnis investasi terpercaya"]
-date = 2021-06-25T10:42:27Z
-metaDescription = "berikut beberapa rekomendasi usaha yang menjanjikan dengan modal kecil yang bisa anda coba di tahun 2021. Rekomnedasai usaha modal kecil menjanjikan"
-draft = false
-slug = "usaha-yang-menjanjikan-dengan-modal-kecil"
-tag = ["investasi bisnis", "bisnis investasi terpercaya"]
-title = "Mau Mulai Usaha? Berikut Rekomendasi Usaha yang Menjanjikan dengan Modal Kecil yang Bisa Dicoba"
-
-+++
-
-
+---
+draft: false
+author: Abdul Wahhab
+slug: usaha-yang-menjanjikan-dengan-modal-kecil
+title: 7+ Usaha Modal Kecil untuk yang Bisa Kamu Coba di Tahun 2022
+metaTitle: 7+ Usaha Modal Kecil untuk yang Bisa Kamu Coba di Tahun 2022
+metaDescription: 7 rekomendasi usaha modal kecil yang bisa pemula dengan modal kecil coba
+intro: Yuk simak bisnis modal kecil yang menguntungka dalam jangka panjang yang
+  bisa jadi pilihan kamu.
+date: 2021-06-25T10:42:27.000Z
+tag:
+  - investasi bisnis
+  - bisnis investasi terpercaya
+  - Bisnis FnB
+category:
+  - Bisnis
+featuredImage:
+  src: https://images.unsplash.com/photo-1575663620136-5ebbfcc2c597?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1470&q=80
+  alt: 7 Peluang usaha modal kecil yang menguntungkan untuk jangka panjang anda
+  title: Menentukan bisnis yang menguntungkan dalam jangka panjang
+---
 Memilih usaha yang menjanjikan dengan modal kecil memang bukanlah hal yang mudah mengingat persaingan antar bisnis yang semakin ketat dari waktu. Akan tetapi bukan berarti tidak mungkin anda bisa memulai usaha yang menjanjikan dengan modal yang relatif kecil hingga bisa di mulai banyak orang.
 
 Memutuskan memulai bisnis artinya anda sudah siap untuk menghadapi berbagai risiko dan tantangan dalam proses pengembangan bisnis anda. Oleh sebab itu, selain menyiapkan modal anda juga harus menyiapkan mental dan skill dalam mengelola bisnis.
 
-Apabila anda sudah menyiapkan segala hal tapi masih bingung ingin memulai bisnis apa, berikut rekomendasi beberapa usaha yang menjanjikan yang bisa dimulai dengan modal kecil yang bisa anda coba.
+Karena itu, memulai usaha dengan modal kecil sekalipun sebenarnya tidak menghambat potensi perkembangan bisnis asalkan kamu bisa mengelola dengan baik dan jeli dengan berbagai peluang pasar yang ada.
 
-## Table of Content
-
-1. **[Franchise F&B](#franchise-f-b)**
-2. ******[Menjadi Reseller Produk Kecantikan](#menjadi-reseller-produk-kecantikan)******
-3. **[Affiliate Marketing](#affiliate-marketing)**
-4. ****[**Produksi Produk** _**Handmade**_](#produksi-produk-handmade)****
-5. [**Bisnis** _**Frozen Food**_](#bisnis-frozen-food)
-6. ******[Bisnis Laundry](#bisnis-laundry)******
-7. ******[Bisnis Cuci Sepatu](#bisnis-cuci-sepatu)******
+Akan tetapi kalau kamu masih bingung mau mulai dari mana, berikut rekomendasi beberapa usaha yang menjanjikan yang bisa dimulai dengan modal kecil yang bisa anda coba.
 
 ## Franchise F&B
+
+Bisnis F&B bisa dibilang menjadi salah satu usaha yang menjanjikan pada saat ini, hal ini karena demand akan produk satu terus menerus meningkat dari waktu ke waktu sehingga banyak sekali peluang usaha yang bisa kamu ambil apabila terjun ke sektor satu ini. 
 
 Bisnis F&B merupakan salah satu jenis bisnis yang tidak ada matinya dan terus berkembang. Salah satu cara Usaha F&B modal kecil yang bisa anda coba adalah dengan sistem franchise. Saat ini tersedia banyak sekali pilihan franchise F&B yang bisa anda coba mulai dari berbagai jenis makanan hingga minuman kekinian.
 
@@ -51,7 +53,7 @@ Produk otentik berubah kerajinan tangan semakin diminati oleh konsumen belakanga
 
 Berbagai produk hasil rajutan memiliki potensi keuntungan yang cukup besar karena banyak potensi produk yang bisa anda ciptakan melalui rajutan seperti baju, topi, hingga tali gantungan masker belakangan semakin unik karena terbuat dari hasil rajutan. Untuk promosi anda bisa menggunakan media sosial untuk mengumpulkan calon konsumen sebanyak-banyaknya.
 
-## Bisnis Frozen Food 
+## Bisnis Frozen Food
 
 Usaha frozen food dalam waktu belakangan semakin berkembang di Indonesia sehingga varian produknya pun semakin beragam mulai dari berbagai jenis roti hingga mie ayam.
 
@@ -77,5 +79,4 @@ Anda bisa mulai dengan investasi bisnis dengan [equity crowdfunding](https://lan
 
 **[Jangan Lupa!! Follow @landx.id di Instagram Supaya Terus Update Berbagai Info Seputar Investas](https://instagram.com/landx.id?utm_medium=copy_link)i.**
 
-**#LandX.id    #landx         #landx.id    #InvestasiBisnis    #EquityCrowdfunding    #InvestasiMenguntungkan    #Urundana    #BisnisPatungan    #InvestasiUsaha**
-
+**\#LandX.id    #landx         #landx.id    #InvestasiBisnis    #EquityCrowdfunding    #InvestasiMenguntungkan    #Urundana    #BisnisPatungan    #InvestasiUsaha**
