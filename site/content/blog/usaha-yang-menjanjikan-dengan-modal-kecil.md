@@ -27,7 +27,7 @@ Karena itu, memulai usaha dengan modal kecil sekalipun sebenarnya tidak menghamb
 
 Akan tetapi kalau kamu masih bingung mau mulai dari mana, berikut rekomendasi beberapa usaha yang menjanjikan yang bisa dimulai dengan modal kecil yang bisa anda coba.
 
-## Franchise F&B
+## [Franchise F&B](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)
 
 Bisnis F&B bisa dibilang menjadi salah satu usaha yang menjanjikan pada saat ini, hal ini karena demand akan produk satu terus menerus meningkat dari waktu ke waktu sehingga banyak sekali peluang usaha yang bisa kamu ambil apabila terjun ke sektor satu ini. 
 
@@ -35,7 +35,9 @@ Bisnis F&B merupakan salah satu jenis bisnis yang tidak ada matinya dan terus be
 
 Harga yang ditawarkan pun beragam sehingga anda bisa menyesuaikan bisnis yang ingin dibuka dengan budget anda. Memulai usaha dengan sistem ini sangat menjanjikan karena selain menjual produk yang sudah diformulasikan dengan baik, anda juga menjual produk dengan brand yang sudah dikenal masyarakat.
 
-## Menjadi Reseller Produk Kecantikan
+Franchise menjadi solusi usaha modal kecil karena sistem ini mempermudah kamu dalam pemasaran dan pembangunan produk yang memakan waktu dan biaya yang cukup besar. Oleh sebab itu, model bisnis  bisa jadi pilihan usaha modal kecil kamu.
+
+## [Menjadi Reseller Produk Kecantikan](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog\)
 
 Produk kecantikan menjadi salah satu produk yang banyak dicari konsumen belakangan ini. Beberapa e-commerce menunjukkan bahwa produk kecantikan merupakan salah satu produk terlaris dan banyak dicari konsumen belakangan ini. Hal ini bisa menjadi peluang bagi anda yang ingin berbisnis.
 
