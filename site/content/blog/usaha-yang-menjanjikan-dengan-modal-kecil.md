@@ -37,7 +37,7 @@ Harga yang ditawarkan pun beragam sehingga anda bisa menyesuaikan bisnis yang in
 
 Franchise menjadi solusi usaha modal kecil karena sistem ini mempermudah kamu dalam pemasaran dan pembangunan produk yang memakan waktu dan biaya yang cukup besar. Oleh sebab itu, model bisnis  bisa jadi pilihan usaha modal kecil kamu.
 
-## [Menjadi Reseller Produk Kecantikan](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog\)
+## [Menjadi Reseller Produk Kecantikan](<## https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog>)
 
 Produk kecantikan seperti skincare menjadi salah satu jenis usaha yang menjanjikan saat ini sehingga bisa jadi pilihan usaha modal kecil yang bisa kamu coba.
 
