@@ -47,6 +47,8 @@ Pertama, mari kita bahas secara mendasar tentang pengertian capital gain dan div
 
 Perusahaan juga terkadang tidak akan melakukan pembagian dividen atau menahan laba yang telah didapatkan karena akan digunakan untuk keperluan lain seperti ekspansi bisnis yang sebelumnya sudah disepakati dalam RUPS.
 
+Apabila kamu berinvestasi lewat [securities crowdfunding](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog), maka dividen artinya pembagian keuntungan dari bisnis telah kamu danai sebelumnya dan kamu akan mendapatkan dividen sebagai return yang menyesuaikan bagaimana performa bisni.
+
 Walau sering disebut banyak orang, sebenarnya banyak orang tidak paham dengan baik tentang pengertian capital gain sehingga mereka masih kebingungan tentang apa itu capital gain.
 
 ### 2. Capital Gain
