@@ -88,6 +88,16 @@ Penyusunan strategi yang baik dan kemampuan dalam mengelola bisnis tentu saja bi
 
 Namun, anda tidak boleh lupa bahwa dalam bisnis kita mungkin saja menghadapi berbagai kondisi tidak terduga yang bisa merugikan anda.
 
+## Bisnis yang Bagus untuk Pemula
+
+Bagi pemula, bisnis yang bagus sebenarnya adalah berbisnis dengan sistem kemitraan franchise. Hal ini karena sistem ini bisa mempermudah kamu dalam proses persiapan bisnis yang akan sangat sulit untuk disiapkan sendiri apabila kamu tidak memiliki pengalaman sebelumnya. 
+
+Bisnis ini bagus untuk pemula karena selain produk yang sudah tersedia kemitraan ini juga memberikan kamu sistem bisnis yang sudah jelas sehingga mudah untuk kamu jalankan. Pembangunan ini tentu saja membutuhkan trial dan error terutama untuk kamu yang pemula.
+
+Selain itu, cara ini membuat usaha anda memakan biaya yang lebih kecil karena kamu tidak perlu mengeluarkan biaya untuk pemasaran yang biasanya akan memakan biaya besar karena biasanya pemilik franchise akan memberikan anda banyak support dalam hal ini. 
+
+Akan tetapi, sistem ini tidak menjadi jaminan kesuksesan dari bisnis anda karena pasti ada berbagai risiko tidak terduga dalam bisnis yang penting untuk kamu waspadai.
+
 Karena itu, mari kita bahas berbagai risiko yang harus anda perhatikan saat membangun suatu bisnis.
 
 ## **Risiko dalam Membangun Bisnis**
