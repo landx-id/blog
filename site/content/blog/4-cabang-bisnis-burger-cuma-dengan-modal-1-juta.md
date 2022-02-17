@@ -1,15 +1,30 @@
-+++
-author = "Abdul Wahhab"
-category = ["Equity Crowdfunding", "investasi bisnis", "Bisnis F&B", "bisnis di masa pandemi", "Bisnis Franchise Modal Kecil", "Bisnis Modal Kecil", "investasi dengan modal kecil"]
-date = 2021-09-19T17:57:00Z
-metaDescription = "Byurger merupakan salah satu bisnis burger yang berkembang sangat pesat walaupun masa pandemi seperti saat ini | Cara memiliki Byurger modal 1 jutaan"
-draft = false
-image = "https://accountgram-production.sfo2.cdn.digitaloceanspaces.com/landx_ghost/2021/09/franchise-byurger-dengan-modal-cuma-1-jutaan.png"
-slug = "4-cabang-bisnis-burger-cuma-dengan-modal-1-juta"
-tag = ["Equity Crowdfunding", "investasi bisnis", "Bisnis F&B", "bisnis di masa pandemi", "Bisnis Franchise Modal Kecil", "Bisnis Modal Kecil", "investasi dengan modal kecil"]
-title = "Franchise Burger: Melihat Potensi Byurger, Burger Kekinian yang Tetap Berkembang Pesat Selama Pandemi"
-
-+++
+---
+draft: false
+author: Abdul Wahhab
+slug: 4-cabang-bisnis-burger-cuma-dengan-modal-1-juta
+title: "Byurger: Franchise Burger Kekinian yang Berkembang Pesat Saat Pandemi"
+metaTitle: "Byurger: Franchise Burger Kekinian yang Berkembang Pesat Saat Pandemi"
+metaDescription: Byurger adalah salah satu burger kekinian yang berkembang
+  sangat pesat walaupun masa pandemi seperti saat ini | Franchise burger modal 1
+  jutaan
+intro: Yuk simak cara menjadi pemilik franchise burger cuma dengan modal 1 juta saja
+date: 2021-09-19T17:57:00.000Z
+tag:
+  - Equity Crowdfunding
+  - investasi bisnis
+  - Bisnis F&B
+  - bisnis di masa pandemi
+  - Bisnis Franchise Modal Kecil
+  - Bisnis Modal Kecil
+  - investasi dengan modal kecil
+featuredImage:
+  src: https://accountgram-production.sfo2.cdn.digitaloceanspaces.com/landx_ghost/2021/09/franchise-byurger-dengan-modal-cuma-1-jutaan.png
+  alt: Jadi pemilik franchise byurger cuma dengan modal 1 juta
+  title: Franchise Burger Kekininian Byurger Cuma dengan Modal 1 Juta Saja
+image: https://accountgram-production.sfo2.cdn.digitaloceanspaces.com/landx_ghost/2021/09/franchise-byurger-dengan-modal-cuma-1-jutaan.png
+category:
+  - Bisnis
+---
 
 
 Hamburger atau burger merupakan salah satu makanan cepat saji yang disukai banyak orang dari berbagai kalangan sehingga burger menjadi salah satu bisnis franchise yang sangat berkembang dalam beberapa waktu belakangan.
