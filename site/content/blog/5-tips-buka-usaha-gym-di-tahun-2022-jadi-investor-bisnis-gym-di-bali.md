@@ -44,28 +44,28 @@ Fitness center biasanya terdapat ragam disiplin kegiatan olahraga seperti berena
 
 Berolahraga dan mendaftar sebagai member gym membuat kita membangun komitmen agar terdorong berolahraga atau workout dengan rutin. Berikut [LandX](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog) bahas berbagai manfaat berolahraga dengan rutin.
 
-* **Olahraga pelepas rasa stres** \
-  Berolahraga sejatinya tentu membuat kesehatan lebih meningkat. Namun, ternyata terdapat keuntungan dari berolahraga terhadap rasa stres.\
-  \
-  Kegiatan olahraga memicu hormon endorfin muncul. Hormon endorfin adalah kunci dari rasa bahagia Anda, sehingga sekaligus mengurangi rasa stres dalam diri. \
-  Tidak hanya endorfin, berolahraga juga memacu hormon dopamin, serotonin, dan triptofan. Ketiga hormon ini berperan penting dalam memperbaiki suasana hati menjadi lebih baik, sehingga Anda merasa bahagia
-* **Olahraga baik bagi otot dan tulang**\
-  Melakukan kegiatan angkat beban pada saat workout akan sangat membantu melatih kekuatan otot. Biasanya latihan bagi otot difokuskan pada area spesifik seperti lengan atas, panggul, paha depan, betis, perut dan punggung.\
-  \
-  Otot-otot yang kuat akan memberi tekanan pada tulang, sehingga tulang menjadi lebih padat. Hello Sehat merekomendasikan lima olahraga yang baik bagi kekuatan tulang yaitu jogging, yoga, jalan kaki, bersepeda, dan senam aerobik. 
-* **Meningkatkan Level Energi dan Memperbaiki Postur Tubuh**\
-  Apa Anda sering mengeluh mudah merasa lelah dan terkadang bingung kenapa anak kecil memiliki energi yang tidak habis-habisnya? Anda pun bisa mendapatkan energi semula dan kembali merasa semangat saat beraktivitas dengan berolahraga.\
-  \
-  Cobalah lakukan secara rutin berlari, jogging, dan atau skipping. Berlari dan skipping akan meningkatkan kapasitas paru-paru Anda sehingga lebih banyak menampung oksigen untuk disalurkan ke otak. \
-  Oksigen melimpah yang mengalir pada otak dan aliran darah akan membantu Anda lebih terjaga dan merasa siap dengan segala kegiatan berikutnya.
-* **Ragam Alat Gym dan Arahan dari Expert**\
-  Gym yang memiliki berbagai fasilitas akan sangat membantu Anda untuk dapat melakukan ragam kegiatan olahraga. Misalkan melakukan kardio untuk melatih kekuatan jantung dan paru-paru. \
-  \
-  Kardio dapat dilakukan dengan jogging di tempat, bersepeda di sepeda statis, squat, jumping jacks, burpee dan lainnya. Apabila Anda bingung urutan yang baik bagi diri Anda, dengan fasilitas gym seperti personal trainer akan membantu kegiatan olahraga Anda lebih terarah.
-* **Membangun Motivasi dan Networking**\
-  Diluar berbagai manfaat olahraga, berolahraga memiliki tantangan tersendiri, baik dari dalam diri maupun eksternal. Kalimat yang mungkin sering terucap saat akan berolahraga seperti ‘nanti aja’, ‘masih bisa besok’, dan ‘cuaca yang tidak mendukung mood’’ bisa jadi penghalang. Bisa juga lingkungan rumah Anda dengan anak kecil yang akan mengalihkan fokus untuk berolahraga.\
-  \
-  Dengan gabung dalam membership gym akan membantu membangun rutinitas serta motivasi untuk harus berolahraga. Lingkungan gym yang fokus, akan membantu Anda untuk lebih menjaga tujuan jaga kesehatan. Serta berbagai latar belakang profesi para member gym bisa menjadi pintu networking yang lebih profesional.
+**1. Olahraga pelepas rasa stres** \
+Berolahraga sejatinya tentu membuat kesehatan lebih meningkat. Namun, ternyata terdapat keuntungan dari berolahraga terhadap rasa stres.Kegiatan olahraga memicu hormon endorfin muncul. Hormon endorfin adalah kunci dari rasa bahagia Anda, sehingga sekaligus mengurangi rasa stres dalam diri. \
+Tidak hanya endorfin, berolahraga juga memacu hormon dopamin, serotonin, dan triptofan. Ketiga hormon ini berperan penting dalam memperbaiki suasana hati menjadi lebih baik, sehingga Anda merasa bahagia
+
+**2. Olahraga baik bagi otot dan tulang**\
+Melakukan kegiatan angkat beban pada saat workout akan sangat membantu melatih kekuatan otot. Biasanya latihan bagi otot difokuskan pada area spesifik seperti lengan atas, panggul, paha depan, betis, perut dan punggung.\
+Otot-otot yang kuat akan memberi tekanan pada tulang, sehingga tulang menjadi lebih padat. Hello Sehat merekomendasikan lima olahraga yang baik bagi kekuatan tulang yaitu jogging, yoga, jalan kaki, bersepeda, dan senam aerobik. 
+
+**3. Meningkatkan Level Energi dan Memperbaiki Postur Tubuh**\
+Apa Anda sering mengeluh mudah merasa lelah dan terkadang bingung kenapa anak kecil memiliki energi yang tidak habis-habisnya? Anda pun bisa mendapatkan energi semula dan kembali merasa semangat saat beraktivitas dengan berolahraga.
+
+Cobalah lakukan secara rutin berlari, jogging, dan atau skipping. Berlari dan skipping akan meningkatkan kapasitas paru-paru Anda sehingga lebih banyak menampung oksigen untuk disalurkan ke otak. \
+Oksigen melimpah yang mengalir pada otak dan aliran darah akan membantu Anda lebih terjaga dan merasa siap dengan segala kegiatan berikutnya.
+
+**4. Ragam Alat Gym dan Arahan dari Expert**\
+Gym yang memiliki berbagai fasilitas akan sangat membantu Anda untuk dapat melakukan ragam kegiatan olahraga. Misalkan melakukan kardio untuk melatih kekuatan jantung dan paru-paru. \
+Kardio dapat dilakukan dengan jogging di tempat, bersepeda di sepeda statis, squat, jumping jacks, burpee dan lainnya. Apabila Anda bingung urutan yang baik bagi diri Anda, dengan fasilitas gym seperti personal trainer akan membantu kegiatan olahraga Anda lebih terarah.
+
+**5. Membangun Motivasi dan Networking**\
+Diluar berbagai manfaat olahraga, berolahraga memiliki tantangan tersendiri, baik dari dalam diri maupun eksternal. Kalimat yang mungkin sering terucap saat akan berolahraga seperti ‘nanti aja’, ‘masih bisa besok’, dan ‘cuaca yang tidak mendukung mood’’ bisa jadi penghalang. Bisa juga lingkungan rumah Anda dengan anak kecil yang akan mengalihkan fokus untuk berolahraga.
+
+Dengan gabung dalam membership gym akan membantu membangun rutinitas serta motivasi untuk harus berolahraga. Lingkungan gym yang fokus, akan membantu Anda untuk lebih menjaga tujuan jaga kesehatan. Serta berbagai latar belakang profesi para member gym bisa menjadi pintu networking yang lebih profesional.
 
 ## 5 Tips Buka Bisnis Gym di Tahun 2022
 
