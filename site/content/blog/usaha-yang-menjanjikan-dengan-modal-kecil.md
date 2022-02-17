@@ -39,6 +39,8 @@ Franchise menjadi solusi usaha modal kecil karena sistem ini mempermudah kamu da
 
 ## [Menjadi Reseller Produk Kecantikan](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog\)
 
+Produk kecantikan seperti skincare menjadi salah satu jenis usaha yang menjanjikan saat ini sehingga bisa jadi pilihan usaha modal kecil yang bisa kamu coba.
+
 Produk kecantikan menjadi salah satu produk yang banyak dicari konsumen belakangan ini. Beberapa e-commerce menunjukkan bahwa produk kecantikan merupakan salah satu produk terlaris dan banyak dicari konsumen belakangan ini. Hal ini bisa menjadi peluang bagi anda yang ingin berbisnis.
 
 Anda bisa mulai dengan menjadi reseller dari produk berbagai brand produk kecantikan yang kini banyak membuka peluang untuk reseller. Apabila anda ingin dengan modal yang lebih kecil lagi maka anda bisa mulai dengan menjadi dropshipper sehingga tidak perlu menyiapkan stok produk.
