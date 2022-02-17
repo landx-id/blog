@@ -41,7 +41,13 @@ Seperti yang kita tau, banyak sekali bisnis F&B yang mengalami kesulitan dan gul
 
 Hal ini dilakukan Byurger dengan mengoptimalkan penggunaan sistem pemesanan online agar bisnis konsumen mereka tetap bisa merasakan burger enak walaupun di rumah.
 
-Karena itu, mari kita bahas lebih dalam tentang bisnis ini.
+Usaha burger satu ini berkembang sangat pesat di masa pandemi dengan memanfaatkan fitur pesan antar pada online sehingga bisnis mereka tetap bisa menjangkau audien dalam cakupan yang luas walaupun di tengah banyak pembatasan di kala pandemi. 
+
+Sebelum itu, yuk cek video keseruan Mindland di Byurger Menteng:
+
+{{< youtube id="Zv0udgyNOBQ" >}} 
+
+{{< button link="https://www.youtube.com/watch?v=Zv0udgyNOBQ" text="Watch This Video" >}}
 
 ## Mengenal Lebih Dekat Tentang Byurger, Burger Kekinian Favorit Anak Jakarta
 
