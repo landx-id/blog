@@ -2,7 +2,7 @@
 draft: false
 author: Abdul Wahhab
 slug: punya-3-cabang-manggang-cuma-modal-1-jutaan
-title: Korean BBQ MangGang akan Listing di LandX!
+title: Korean BBQ MangGang Listing di LandX!
 metaTitle: Korean BBQ MangGang akan Listing di LandX!
 metaDescription: MangGang Grilled Beef Bowl merupakan rice bowl ala Korean BBQ
   yang mengusung tema Luxury Sensation in a Simple Way|Franchise makanan korea
@@ -25,8 +25,6 @@ image: https://accountgram-production.sfo2.cdn.digitaloceanspaces.com/landx_ghos
 category:
   - Bisnis
 ---
-
-
 ## Korean BBQ MangGang Listing di LandX!
 
 [![jadi pemilik manggang 3 cabang manggang cloud kitchen cuma dengan modal 1 jutaan aja](https://accountgram-production.sfo2.cdn.digitaloceanspaces.com/landx_ghost/2022/01/Cara-punya-franchise-manggang--cloud-kitchen-fnb-modal-1-jutaan-min.png)](https://landx.id/project/mang)
@@ -39,7 +37,15 @@ Selain praktis, pada umumnya rice bowl berisi menu yang cukup lengkap dan seimba
 
 **Di Indonesia,** ada beragam jenis rice bowl dengan berbagai pilihan menu, seperti menu masakan tradisional Indonesia, masakan Jepang, hingga BBQ khas Korea. Salah satu rice bowl dengan sentuhan ala Korea yang paling wajib dicoba adalah MangGang.
 
-**[MangGang Grilled Beef Bowl](https://landx.id/project/mang) ** merupakan rice bowl ala Korean BBQ yang mengusung tema **“Luxury Sensation in a Simple Way”**. Di Indonesia, rata-rata restoran BBQ ala Korea hadir dengan konsep yang mewah serta harga yang relatif tinggi.
+Sebelum itu, yuk cek video grebek gerai MangGang berikut ini: 
+
+{{< youtube id="NQnYUUTy-zs" >}} 
+
+{{< button link="https://www.youtube.com/watch?v=NQnYUUTy-zs" text="Watch This Video" >}}
+
+
+
+**[MangGang Grilled Beef Bowl](https://landx.id/project/mang)**  merupakan rice bowl ala Korean BBQ yang mengusung tema **“Luxury Sensation in a Simple Way”**. Di Indonesia, rata-rata restoran BBQ ala Korea hadir dengan konsep yang mewah serta harga yang relatif tinggi.
 
 Menyadari hal itu, MangGang mencoba untuk menghadirkan kelezatan dan kemewahan BBQ ala Korea, namun dibalut dalam konsep rice bowl yang lebih praktis dan sederhana.
 
@@ -51,24 +57,24 @@ Namun, meski dengan konsep kesederhanaan dan kepraktisan ala rice bowl, makanan 
 
 ## [Menu MangGang **Grilled Beef Bowl**](https://landx.id/project/mang)
 
-[**Menu andalan MangGang**](https://landx.id/project/mang) yang paling banyak digemari pelanggan di antaranya ialah Grilled Beef and Egg Bowl, Grilled Beef and Mozzarella, dan Volcano Bowl untuk penggemar selera pedas.
+**[Menu andalan MangGang](https://landx.id/project/mang)** yang paling banyak digemari pelanggan di antaranya ialah Grilled Beef and Egg Bowl, Grilled Beef and Mozzarella, dan Volcano Bowl untuk penggemar selera pedas.
 
 [![Menu pilihan maanggang yang wajib kamu coba](https://accountgram-production.sfo2.cdn.digitaloceanspaces.com/landx_ghost/2022/01/berbagai-menu-beef-bowl-cloud-kitchen-hanya-di-manggang-min.png)](https://landx.id/project/utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)
 
 Semua menu ini bisa dipesan langsung melalui jasa pesan-antar online, sehingga sangat bisa dinikmati kapanpun dan di mana pun.
 
-Namun, jika Anda lebih suka _dine-in_ di restoran, MangGang juga menyediakan beberapa menu eksklusif _dine-in_ ala Korea seperti Kimchi Jjigae, Bibimbap, Tteokbokki Signature, hingga Hot Miso Ramyun.
+Namun, jika Anda lebih suka *dine-in* di restoran, MangGang juga menyediakan beberapa menu eksklusif *dine-in* ala Korea seperti Kimchi Jjigae, Bibimbap, Tteokbokki Signature, hingga Hot Miso Ramyun.
 
 Interior restorannya juga didesain dengan cukup sederhana, lengkap dengan sentuhan gambar-gambar karikatur yang lucu dan menyenangkan. Suasana restoran yang hangat dan bersahabat membuatnya menjadi tempat yang nyaman dan sangat cocok untuk menghabiskan waktu bersama teman atau keluarga.
 
----
+- - -
 
 **Baca Juga:**
 
 * [Mengenal Apa Itu Tapering Off dan Dampaknya Bagi Investasi](https://landx.id/blog/tapering-adalah/)
 * [Laju Inflasi: Memahami Apa Itu Inflasi dan Cara Menghitung Laju Inflasi](https://landx.id/blog/laju-inflasi-adalah/)
 
----
+- - -
 
 Dari segi bisnis, MangGang telah berjalan dengan manajemen bisnis yang sangat baik. Hal itu dapat dibuktikan melalui angka peningkatan konsumen yang signifikan selama tiga tahun beroperasi.
 
@@ -82,9 +88,9 @@ Selain itu, keberhasilan manajemen bisnisnya juga dapat dilihat dari perkembanga
 
 Jika Anda tertarik untuk berinvestasi dan menjadi bagian dari perkembangan bisnis MangGang, kesempatan itu kini terbuka dengan sangat lebar. Anda bisa berinvestasi pada project patungan bisnis MangGang yang tersedia di platform [**LandX**.](https://landx.id/) 
 
-[**LandX**](https://landx.id/) merupakan [**platform _equity crowdfunding_**](https://landx.id/project/mang), yakni tempat bertemunya para investor dengan para pengusaha yang tengah mengembangkan bisnis.
+**[LandX](https://landx.id/)** merupakan **[platform *equity crowdfunding*](https://landx.id/project/mang)**, yakni tempat bertemunya para investor dengan para pengusaha yang tengah mengembangkan bisnis.
 
-Melalui **[sistem _crowdfunding_](https://landx.id/project/mang)** atau [**patungan bisnis**](https://landx.id/project/mang), Anda bisa menjadi investor dengan modal yang lebih kecil. Pada [**Project MangGang**](https://landx.id/project/mang) ini, Anda sudah bisa menjadi investor sekaligus owner dengan modal investasi mulai dari 1 juta rupiah, dengan pengembalian berupa **[estimasi dividen sebesar 15-25% yang akan dibagikan per 6 bulan.](https://landx.id/project/mang)**
+Melalui **[sistem *crowdfunding*](https://landx.id/project/mang)** atau **[patungan bisnis](https://landx.id/project/mang)**, Anda bisa menjadi investor dengan modal yang lebih kecil. Pada **[Project MangGang](https://landx.id/project/mang)** ini, Anda sudah bisa menjadi investor sekaligus owner dengan modal investasi mulai dari 1 juta rupiah, dengan pengembalian berupa **[estimasi dividen sebesar 15-25% yang akan dibagikan per 6 bulan.](https://landx.id/project/mang)**
 
 ## Tunggu apalagi!
 
@@ -92,14 +98,13 @@ Segera verifikasi akun Anda di platform atau aplikasi LandX agar tidak kehabisan
 
 [![Yuk mulai patungan bisnis menguntungkan jangka panja g bersama LandX](https://accountgram-production.sfo2.cdn.digitaloceanspaces.com/landx_ghost/2021/09/Equity-Crowdfunding-di-Indonesia-1--3.png)](https://landx.id/project/utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)
 
----
+- - -
 
 **Baca Juga:**
 
 * [Menuju Akhir Tahun, Berikut Prospek dan Rekomendasi Investasi Aman untuk Tahun 2022](https://landx.id/blog/rekomendasi-investasi-di-tahun-2022/)
 * [Simak Cara Mengatur Keuangan di Masa Pandemi untuk Agar Keuangan Anda Tetap Stabil](https://landx.id/blog/simak-cara-mengatur-keuangan-di-masa-pandemi-untuk-agar-keuangan-anda-tetap-stabil/)
 
----
+- - -
 
-**#YukPatunganBisnis**
-
+**\#YukPatunganBisnis**
