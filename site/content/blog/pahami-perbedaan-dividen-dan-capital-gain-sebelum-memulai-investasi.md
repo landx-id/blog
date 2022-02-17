@@ -1,15 +1,30 @@
-+++
-author = "Abdul Wahhab"
-category = ["investasi", "Investasi Menguntungkan", "Perbedaan Dividen dan Capital Gain", "return on investment", "ROI"]
-date = 2021-05-11T03:31:49Z
-metaDescription = "Dividen dan capital gain adalah dua jenis return investasi yang paling umum dibagikan terutama untuk investor securitas seperti saham yang dinamis harganya"
-draft = false
-image = "https://images.unsplash.com/photo-1568234928966-359c35dd8327?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxMTc3M3wwfDF8c2VhcmNofDF8fHByb2ZpdHxlbnwwfHx8fDE2NDAwMjE0NDk&ixlib=rb-1.2.1&q=80&w=1080"
-slug = "pahami-perbedaan-dividen-dan-capital-gain-sebelum-memulai-investasi"
-tag = ["investasi", "Investasi Menguntungkan", "Perbedaan Dividen dan Capital Gain", "return on investment", "ROI"]
-title = "Pahami Perbedaan Dividen dan Capital Gain Sebelum Memulai Investasi"
-
-+++
+---
+draft: false
+author: Abdul Wahhab
+slug: pahami-perbedaan-dividen-dan-capital-gain-sebelum-memulai-investasi
+title: Perbedaan Dividen dan Capital Gain dalam Investasi Saham
+metaTitle: Pahami Apa Itu Dividen dan Capital dalam Investasi Saham
+metaDescription: Dividen dan capital gain adalah jenis return yang bisa kamu
+  dapatkan apabila kamu melakukan investasi saham, yuk pahami dua jenis return
+  ini
+intro: Capital gain dan dividen adalah dua jenis return yang bisa kamu dapatkan
+  apabila berinvestasi ke dalam instrumen saham. Karena itu, yuk kita bahas dulu
+  perbedaan antara dua jenis return ini.
+date: 2021-05-11T03:31:49.000Z
+tag:
+  - investasi
+  - Investasi Menguntungkan
+  - Perbedaan Dividen dan Capital Gain
+  - return on investment
+  - ROI
+featuredImage:
+  src: https://images.unsplash.com/photo-1568234928966-359c35dd8327?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxMTc3M3wwfDF8c2VhcmNofDF8fHByb2ZpdHxlbnwwfHx8fDE2NDAwMjE0NDk&ixlib=rb-1.2.1&q=80&w=1080
+  alt: Memahami perbedaan antara dividen dan capital gain
+  title: Dividen dan Capital Gain dalam Berinvestasi
+image: https://images.unsplash.com/photo-1568234928966-359c35dd8327?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxMTc3M3wwfDF8c2VhcmNofDF8fHByb2ZpdHxlbnwwfHx8fDE2NDAwMjE0NDk&ixlib=rb-1.2.1&q=80&w=1080
+category:
+  - Investasi
+---
 
 
 Saat memutuskan berinvestasi, anda tentu mengharapkan _return_ atau keuntungan yang setara dengan risiko yang akan anda tanggung. Investasi akan memberikan anda return dalam berbagai bentuk seperti [dividen](https://landx.id/), [_capital gain_](https://landx.id/), dan bunga.
