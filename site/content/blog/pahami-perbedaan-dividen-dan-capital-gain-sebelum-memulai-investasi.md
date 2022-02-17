@@ -65,7 +65,7 @@ Perbedaan mendasar lain dari dua jenis keuntungan ini adalah waktu perolehan keu
 
 **Capital gain artinya** sesuatu yang didapatkan dari selisih harga beli dan jual dari suatu sekuritas seperti saham. Oleh sebab itu kita tidak bisa tahu kapan pastinya suatu instrumen investasi kita akan menghasilkan gain.
 
-Akan tetapi, kita bisa memprediksi capital gain dengan memproyeksikan bagaimana kondisi di masa mendatang apakah akan menguntungkan bagi instrumen investasi yang kita pegang atau tidak.
+Akan tetapi, kita bisa memprediksi capital gain dengan memproyeksikan bagaimana kondisi di masa mendatang apakah akan menguntungkan bagi instrumen investasi yang kita pegang atau tidak. Karena itu, kita butuh menganalisa saham yang akan kita beli agar kita bisa melihat bagaimana potensi harga saham tersebut di masa mendatang.
 
 Karena itu untuk memperoleh capital gain anda harus rajin menganalisis bisnis dan saham seperti apa yang berpotensi mengalami kenaikan dalam beberapa periode ke depan.
 
