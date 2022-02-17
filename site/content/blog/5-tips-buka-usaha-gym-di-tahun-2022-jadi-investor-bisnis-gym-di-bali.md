@@ -20,7 +20,7 @@ category:
 featuredImage:
   title: 5 Tips Buka Usaha Gym di Tahun 2022 dan Bagaimana Jadi Pemilik Franchise
     Gym Cuma Modal 1 Jutaan
-  src: https://images.unsplash.com/photo-1540497077202-7c8a3999166f?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1470&q=80
+  src: https://media.discordapp.net/attachments/884994154873094244/943816739769172008/Blog_Fitness.png
   alt: tips memulai startup bisnis gym dan usaha fitness, rekomendasi gym Jakarta,
     rekomendasi gym Bali
 ---
