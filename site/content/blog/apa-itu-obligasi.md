@@ -1,14 +1,29 @@
-+++
-author = "Abdul Wahhab"
-category = ["obligasi", "instrumen pasar modal", "investasi jangka panjang", "pilihan investasi", "Securities Crowdfunding untuk Pengembangan UMKM di Indonesia"]
-date = 2021-08-07T19:25:28Z
-metaDescription = "Obligasi adalah surat utang yang merupakan salah satu instrumen pasar modal yang bisa dijadikan pilihan investasi jangka panjang. Berbagai jenis obligasi"
-draft = false
-slug = "apa-itu-obligasi"
-tag = ["obligasi", "instrumen pasar modal", "investasi jangka panjang", "pilihan investasi", "Securities Crowdfunding untuk Pengembangan UMKM di Indonesia"]
-title = "Obligasi:  Mengenal Apa Itu Obligasi dan Jenis-Jenis Obligasi  untuk Investasi Anda"
-
-+++
+---
+draft: false
+author: Abdul Wahhab
+slug: apa-itu-obligasi
+title: Memahami Apa Itu Obligasi dan Jenis Obligasi untuk Investasi Anda
+metaTitle: Memahami Apa Itu Obligasi dan Jenis Obligasi untuk Investasi Anda
+metaDescription: Pahami apa itu obligasi dan jenis obligasi yang memberikan kamu
+  keuntungan jangka panjang|Keuntungan Obligasi
+intro: Obligasi adalah salah satu instrumen investasi pasar modal yang berupa
+  surat utang yang bisa jadi pilihan investasi jangka panjang maupun pendek
+  kamu. Karena itu, yuk kenalan lebih dekat dengan instrumen investasi satu ini.
+date: 2021-08-07T19:25:28.000Z
+tag:
+  - obligasi
+  - instrumen pasar modal
+  - investasi jangka panjang
+  - pilihan investasi
+  - Securities Crowdfunding untuk Pengembangan UMKM di Indonesia
+  - Sukuk
+category:
+  - Investasi
+featuredImage:
+  src: https://images.unsplash.com/photo-1476242906366-d8eb64c2f661?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1769&q=80
+  alt: Keuntungan obligasi untuk investasi jangka panjang menguntungkan anda.
+  title: Memahami Obligasi Itu Apa dan Risiko Obligasi Sebagai Instrumen Investasi
+---
 
 
 Apabila membahas obligasi, istilah ini mungkin mungkin masih awam terutama bagi investor pemula yang masih mempelajari berbagai instrumen dalam pasar modal.
