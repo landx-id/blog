@@ -28,23 +28,21 @@ Obligasi adalah surat utang yang dikeluarkan oleh suatu instansi seperti pemerin
 
 Akan tetapi, obligasi sendiri sebenarnya memiliki terdiri dari beberapa jenis berbeda sehingga kamu harus paham jenis obligasi apa yang akan kamu jadikan instrumen investasi kamu. 
 
-Karena itu, yuk kita bahas lebih lanjut tentang instrumen investasi satu ini.
+Karena itu, yuk kita bahas obligasi secara lebih mendalam, mulai dari defisini, jenis, dan berbagai risiko yang harus kamu waspadai saat berinvestasi ke dalam surat hutang atau obligasi.
 
 ## Apa Itu Obligasi?
 
-Pertama, mari kita bahas terlebih dahulu tentang apa itu obligasi agar anda lebih paham tentang instrumen ini.
+Pertama, mari kita bahas dulu definisi dari obligasi agar kamu paham obligasi itu apa.
 
-Obligasi adalah surat utang yang diterbitkan oleh suatu pihak baik swasta maupun pemerintahan sebagai sarana mereka untuk mendapatkan pendanaan.
+> Obligasi adalah surat utang yang diterbitkan oleh suatu pihak baik swasta maupun pemerintahan sebagai sarana mereka untuk mendapatkan pendanaan.
 
 Dengan kata lain, obligasi bisa dikatakan sebagai surat pengakuan utang yang dikeluarkan oleh penerbit yang menjelaskan bahwa mereka memiliki utang kepada pemilik obligasi dan akan dibayarkan pada di akhir periode yang sudah disepakati.
 
-Oleh sebab itu, obligasi memiliki jangka waktu yang berbeda-beda mulai dari utang jangka pendek, sedang, hingga panjang tergantung dengan kesepakatan dalam surat utang.
-
-Selain itu, Obligasi juga memiliki tingkat suka bunga yang berbeda-beda sehingga anda bisa disesuaikan dengan tujuan investasi anda.
+Oleh sebab itu, obligasi memiliki jangka waktu yang berbeda-beda mulai dari utang jangka pendek, sedang, hingga panjang tergantung dengan kesepakatan dalam surat utang. Selain itu, Obligasi juga memiliki tingkat suka bunga yang berbeda-beda sehingga anda bisa disesuaikan dengan tujuan investasi anda.
 
 Agar mudah anda pahami, penerbit atau pihak yang membutuhkan dana bisa disebut sebagai debitur dan investor yang membeli obligasi bisa dianggap sebagai kreditur yang akan mendapatkan pengembalian berupa pinjaman pokok ditambah bunga atau kupon yang akan diberikan pada akhir periode pinjaman.
 
-Berikutnya, mari kita bahas berbagai jenis dan risiko dan obligasi
+Setelah kamu paham obligasi itu apa, mari kita bahas berbagai jenis obligasi yang memiliki risiko dan potensi yang berbeda-beda.
 
 ## Jenis-Jenis Obligasi
 
