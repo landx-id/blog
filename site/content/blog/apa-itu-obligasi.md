@@ -24,8 +24,6 @@ featuredImage:
   alt: Keuntungan obligasi untuk investasi jangka panjang menguntungkan anda.
   title: Memahami Obligasi Itu Apa dan Risiko Obligasi Sebagai Instrumen Investasi
 ---
-
-
 Apabila membahas obligasi, istilah ini mungkin mungkin masih awam terutama bagi investor pemula yang masih mempelajari berbagai instrumen dalam pasar modal.
 
 Obligasi sendiri pada dasarnya adalah surat utang yang dikeluarkan oleh suatu instansi dalam periode waktu tertentu. Oleh sebab itu, obligasi bisa digunakan sebagai instrumen investasi jangka panjang dan pendek.
@@ -33,13 +31,6 @@ Obligasi sendiri pada dasarnya adalah surat utang yang dikeluarkan oleh suatu in
 Obligasi juga memiliki jenis yang beragam dengan profil risiko yang berbeda-beda sehingga investor bisa disesuaikan dengan tujuan investasi yang ingin dicapai oleh investor.
 
 Supaya anda lebih paham tentang apa itu obligasi, mari kita bahas secara lebih mendalam tentang cara kerja dan jenis-jenis dari obligasi yang bisa jadi pilihan instrumen investasi anda.
-
-## Table of Content
-
-* [**Apa Itu Obligasi?** ](#apa-itu-obligasi)
-* **[Jenis-Jenis Obligasi](#jenis-jenis-obligasi)****-** [Jenis Obligasi Secara Umum](#jenis-obligasi-secara-umum)- [Jenis Obligasi Berdasarkan Pembayaran Kupon/ Bunga](#jenis-obligasi-berdasarkan-pembayaran-kupon-bunga)
-* **[Risiko Obligasi](#risiko-obligasi)**
-* **[Kesimpulan](#Kesimpulan)**
 
 ## Apa Itu Obligasi?
 
@@ -67,7 +58,7 @@ Obligasi secara umum dibagi ke dalam tiga jenis yaitu obligasi pemerintah, korpo
 
 ### 1. Obligasi Pemerintah
 
-Obligasi pemerintah merupakan surat utang yang dikeluarkan oleh pemerintah dalam bentuk surat utang negara yang diterbitkan. Pemerintah akan menerbitkan kupon dalam beberapa bentuk yaitu kupon tetap (_Fixed Rated_), kupon Variabel (_Variable Rated_), dan obligasi dalam bentuk syariah atau juga disebut sukuk negara.
+Obligasi pemerintah merupakan surat utang yang dikeluarkan oleh pemerintah dalam bentuk surat utang negara yang diterbitkan. Pemerintah akan menerbitkan kupon dalam beberapa bentuk yaitu kupon tetap (*Fixed Rated*), kupon Variabel (*Variable Rated*), dan obligasi dalam bentuk syariah atau juga disebut sukuk negara.
 
 ### 2. Obligasi Korporasi
 
@@ -105,9 +96,7 @@ Apabila anda sudah paham berbagai jenis obligasi, selanjutnya mari kita bahas ba
 
 #### 4. Obligasi Abadi
 
-Jenis obligasi yang tidak memiliki masa jatuh adalah obligasi abadi yang diterbitkan oleh pemerintah _Inggris_ atau disebut Undated Treasuries. Jenis ini sendiri tidak tersedia di Indonesia jadi kamu bisa memilih obligasi dari jenis lain.
-
-### 
+Jenis obligasi yang tidak memiliki masa jatuh adalah obligasi abadi yang diterbitkan oleh pemerintah *Inggris* atau disebut Undated Treasuries. Jenis ini sendiri tidak tersedia di Indonesia jadi kamu bisa memilih obligasi dari jenis lain.
 
 ## **Risiko Obligasi**
 
@@ -141,14 +130,13 @@ Dengan adanya sistem ini, anda bisa ikut berinvestasi untuk membangun berbagai b
 
 **[Yuk Mulai Investasi Jangka Panjang yang Menguntungkan Bersama LandX](https://landx.id/project/index.html)**
 
-[**Sebagai Investor Kamu Harus Selalu Update Berbagai Info Seputar Investasi, Karena Itu Yuk Follow Instagram Kami @landx.id**](https://www.instagram.com/landx.id/?utm_medium=copy_link)
+**[Sebagai Investor Kamu Harus Selalu Update Berbagai Info Seputar Investasi, Karena Itu Yuk Follow Instagram Kami @landx.id](https://www.instagram.com/landx.id/?utm_medium=copy_link)**
 
-**#LandX.id  #landx.id  #YukPatunganBisnis  #InvestasiBisnis  #SecuritiesCrowdfunding  #EquityCrowdfunding  #InvestasiMenguntungkan  #Urundana  #BisnisPatungan  #InvestasiUsaha**
+**\#LandX.id  #landx.id  #YukPatunganBisnis  #InvestasiBisnis  #SecuritiesCrowdfunding  #EquityCrowdfunding  #InvestasiMenguntungkan  #Urundana  #BisnisPatungan  #InvestasiUsaha**
 
 **Baca Juga:**
 
-* ****[**Pilihan Aset yang Bisa Dijadikan Investasi Pasif Income Terpercaya**](https://landx.id/blog/pilihan-aset-yang-bisa-dijadikan-investasi-pasif-income-terpercaya/)****
-* ****[**Mengenal Investasi Mutual Fund: Definisi, Cara Kerja, dan Jenis Mutual Fund**](https://landx.id/blog/mengenal-investasi-mutual-fund-definisi-cara-kerja-dan-jenis-mutual-fund/)****
+* \***\*[**Pilihan Aset yang Bisa Dijadikan Investasi Pasif Income Terpercaya**](https://landx.id/blog/pilihan-aset-yang-bisa-dijadikan-investasi-pasif-income-terpercaya/)\*\***
+* \***\*[**Mengenal Investasi Mutual Fund: Definisi, Cara Kerja, dan Jenis Mutual Fund**](https://landx.id/blog/mengenal-investasi-mutual-fund-definisi-cara-kerja-dan-jenis-mutual-fund/)\*\***
 
----
-
+- - -
