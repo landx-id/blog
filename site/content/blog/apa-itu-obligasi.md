@@ -48,15 +48,15 @@ Setelah kamu paham obligasi itu apa, mari kita bahas berbagai jenis obligasi yan
 
 Agar lebih mudah dipahami, mari kita kategorikan obligasi secara umum dan sistem pembayaran yang digunakan.
 
-## Jenis Obligasi Secara Umum
+### Jenis Obligasi Secara Umum
 
 Obligasi secara umum dibagi ke dalam tiga jenis yaitu obligasi pemerintah, korporasi, dan ritel yang memiliki karakteristik dan keunggulan masing-masing. Agar Anda lebih paham mari kita bahas satu persatu jenis obligasi ini.
 
-### 1. Obligasi Pemerintah
+#### 1. Obligasi Pemerintah
 
 Obligasi pemerintah merupakan surat utang yang dikeluarkan oleh pemerintah dalam bentuk surat utang negara yang diterbitkan. Pemerintah akan menerbitkan kupon dalam beberapa bentuk yaitu kupon tetap (*Fixed Rated*), kupon Variabel (*Variable Rated*), dan obligasi dalam bentuk syariah atau juga disebut sukuk negara.
 
-### 2. Obligasi Korporasi
+#### 2. Obligasi Korporasi
 
 Obligasi jenis ini merupakan surat utang yang dikeluarkan oleh korporasi swasta maupun BUMN yang membutuhkan pinjaman dana. Sama seperti obligasi pemerintah, obligasi ini juga dikeluarkan dalam beberapa jenis kupon yaitu kupon tetap, variabel dan obligasi dengan prinsip syariah.
 
@@ -64,25 +64,21 @@ Obligasi jenis ini merupakan surat utang yang dikeluarkan oleh korporasi swasta 
 
 Jenis ini merupakan surat utang yang dikeluarkan oleh pemerintah yang dijual kepada individu melalui agen penjualan yang telah ditetapkan oleh pemerintah. Jenis yang biasanya diperjualbelikan adalah jenis ORI dan Sukuk Ritel.
 
-**Artikel Terkait:**
-
-* [Obligasi Konversi: Mengenal Apa Itu Obligasi Konversi dan Jenis-Jenis dari Instrumen Investasi Ini](https://landx.id/blog/obligasi-konversi/)
-
-## Jenis Obligasi Berdasarkan Pembayaran Kupon/ Bunga
+### Jenis Obligasi Berdasarkan Pembayaran Kupon/ Bunga
 
 Pembayaran kupon atau bunga merupakan bagian penting yang harus anda perhatikan sebelum memutuskan untuk berinvestasi ke dalam obligasi karena obligasi memiliki beberapa jenis kupon. Berikut beberapa jenis kupon dalam obligasi:
 
-### 1. Zero Coupon Bonds
+#### 1. Zero Coupon Bonds
 
 Jenis ini merupakan surat utang yang tidak memberikan kupon atau disebut obligasi tanpa kupon karena investor tidak akan mendapatkan kupon secara berkala saat membeli obligasi jenis ini.
 
 Obligasi ini akan memberikan keuntungan kepada investor melalui nilai selisih antara harga jual dan harga awal saat pembelian surat utang. Jenis ini memiliki jangka waktu yang berbeda-beda dan rata-rata cukup panjang mulai dari 1-10 tahun.
 
-### 2. Fixed Coupon Bonds
+#### 2. Fixed Coupon Bonds
 
 Jenis obligasi ini memberikan investor tingkat bunga yang tetap dari awal hingga periode jatuh tempo. Bunga dari jenis obligasi ini sudah ditentukan sejak awal dan akan dibayarkan sesuai dengan periode yang telah dijanjikan di awal.
 
-### 3. Floating Coupon Bonds
+#### 3. Floating Coupon Bonds
 
 Obligasi dengan kupon mengambangkan ini memiliki risiko yang bisa dibilang cukup besar. Pasalnya nilai kupon akan berubah-ubah mengikuti indeks pasar uang.
 
@@ -132,7 +128,8 @@ Dengan adanya sistem ini, anda bisa ikut berinvestasi untuk membangun berbagai b
 
 **Baca Juga:**
 
-* \***\*[**Pilihan Aset yang Bisa Dijadikan Investasi Pasif Income Terpercaya**](https://landx.id/blog/pilihan-aset-yang-bisa-dijadikan-investasi-pasif-income-terpercaya/)\*\***
-* \***\*[**Mengenal Investasi Mutual Fund: Definisi, Cara Kerja, dan Jenis Mutual Fund**](https://landx.id/blog/mengenal-investasi-mutual-fund-definisi-cara-kerja-dan-jenis-mutual-fund/)\*\***
+* [Pilihan Aset yang Bisa Dijadikan Investasi Pasif Income Terpercaya](<* **https://landx.id/blog/pilihan-aset-yang-bisa-dijadikan-investasi-pasif-income-terpercaya/**>)
+* [](<* **https://landx.id/blog/pilihan-aset-yang-bisa-dijadikan-investasi-pasif-income-terpercaya/**>)[Mengenal Investasi Mutual Fund: Definisi, Cara Kerja, dan Jenis Mutual Fund](<* **https://landx.id/blog/mengenal-investasi-mutual-fund-definisi-cara-kerja-dan-jenis-mutual-fund/**>)
+* [](<* **https://landx.id/blog/mengenal-investasi-mutual-fund-definisi-cara-kerja-dan-jenis-mutual-fund/**>)[Obligasi Konversi: Mengenal Apa Itu Obligasi Konversi dan Jenis-Jenis dari Instrumen Investasi Ini](https://landx.id/blog/obligasi-konversi/)
 
 - - -
