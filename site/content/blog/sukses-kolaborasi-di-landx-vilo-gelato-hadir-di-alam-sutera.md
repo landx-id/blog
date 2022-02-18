@@ -12,7 +12,7 @@ featuredImage:
   alt: vilo gelato alam sutera, landx kolaborasi, crowdfunding
   src: img/vilo-gelato-alam-sutera-landx-1-.png
 ---
-Vilo Gelato berkolaborasi dengan platform equity crowdfunding LandX untuk gaet investor dalam pendanaan outlet premium terbaru yang berlokasi di Alam Sutera. Pendanaan sebanyak 4.4 miliar rupiah ini dapat diraih Vilo Gelato dalam kurun waktu 5 menit setelah diumumkan.
+Vilo Gelato berkolaborasi dengan platform equity crowdfunding [LandX](https://landx.id/) untuk gaet investor dalam pendanaan outlet premium terbaru yang berlokasi di Alam Sutera. Pendanaan sebanyak 4.4 miliar rupiah ini dapat diraih Vilo Gelato dalam kurun waktu 5 menit setelah diumumkan.
 
 Sukses dengan pendanaan, Vilo Gelato mengadakan grand opening outlet Alam Sutera pada Rabu, 2 Februari 2022. Jika Anda tertarik berkunjung, outlet premium nan elegan ini memiliki detail lokasi di jalan Alam Sutera Towncenter 10J no 5, Tangerang.
 
@@ -44,18 +44,18 @@ Bagi yang ingin berkunjung ke outlet Vilo Gelato cabang Alam Sutera, waktu opera
 
 Dengan cabang terbaru di Alam Sutera, kini Vilo Gelato kini memiliki 10 outlet premium gelato. Outlet ini tersebar di Jabodetabek, Puncak Bogor, dan Bandung.
 
-Dalam perkembangan bisnisnya di awal tahun 2022, Vilo Gelato bekerja sama dengan LandX untuk membuka cabang baru. Melalui project pendanaan di LandX, mengajak investor bisa berinvestasi pada bisnis premium dessert project Vilo Gelato x LandX. 
+Dalam perkembangan bisnisnya di awal tahun 2022, Vilo Gelato bekerja sama dengan [LandX](https://landx.id/) untuk membuka cabang baru. Melalui project pendanaan di [LandX](https://landx.id/), mengajak investor bisa berinvestasi pada bisnis premium dessert project Vilo Gelato x [LandX](https://landx.id/). 
 
 ## Tertarik Menjadi Investor?
 
-Project Vilo Gelato di LandX merupakan project patungan bisnis. Melalui platform investasi patungan bisnis atau crowdfunding di LandX, Vilo Gelato dapat menyambut para pemilik modal untuk berinvestasi pada outlet terbaru seperti outlet Alam Sutera ini.
+Project Vilo Gelato di[ LandX](https://landx.id/) merupakan project patungan bisnis. Melalui platform investasi patungan bisnis atau crowdfunding di [LandX](https://landx.id/), Vilo Gelato dapat menyambut para pemilik modal untuk berinvestasi pada outlet terbaru seperti outlet Alam Sutera ini.
 
 Setelah sukses dengan pendanaan project pertama di Alam Sutera, Vilo Gelato akan kembali hadir dengan project bisnis selanjutnya. Menyambut dan menggandeng investor untuk pembukaan outlet instagrammable di lokasi strategis selanjutnya.
 
 Para investor Vilo Gelato juga akan mendapatkan keuntungan bagi hasil yang kemudian disebut dividen dengan nilai hingga 25% modal setiap tahunnya. Investor bisa memiliki outlet premium dengan modal mulai sejutaan dan keuntungan dividen setiap 3 bulan.
 
-Apa Anda tertarik untuk menjadi investor dan memiliki bisnis potensial dengan modal sejutaan? Anda dapat kunjungi situs dan download aplikasi LandX untuk dapat mulai berinvestasi pada bisnis pilihan Anda. 
+Apa Anda tertarik untuk menjadi investor dan memiliki bisnis potensial dengan modal sejutaan? Anda dapat kunjungi situs dan download aplikasi [LandX](https://landx.id/) untuk dapat mulai berinvestasi pada bisnis pilihan Anda. 
 
-## Yuk, segera kunjungi LandX karena #SekarangBisa miliki bisnis dengan modal mulai sejutaan aja.
+## Yuk, segera kunjungi [LandX](https://landx.id/) karena #SekarangBisa miliki bisnis dengan modal mulai sejutaan aja.
 
-Project ini memang sudah terjual habis, namun jangan khawatir, ya. LandX akan hadir kembali dengan berbagai project bisnis menarik lainnya. Tunggu apalagi, segera download dan verifikasi akunmu di aplikasi LandX agar tidak ketinggalan project-project bisnis menarik berikutnya.
+Project ini memang sudah terjual habis, namun jangan khawatir, ya. [LandX](https://landx.id/) akan hadir kembali dengan berbagai project bisnis menarik lainnya. Tunggu apalagi, segera download dan verifikasi akunmu di aplikasi [LandX](https://landx.id/) agar tidak ketinggalan project-project bisnis menarik berikutnya.
