@@ -24,13 +24,11 @@ featuredImage:
   alt: Keuntungan obligasi untuk investasi jangka panjang menguntungkan anda.
   title: Memahami Obligasi Itu Apa dan Risiko Obligasi Sebagai Instrumen Investasi
 ---
-Apabila membahas obligasi, istilah ini mungkin mungkin masih awam terutama bagi investor pemula yang masih mempelajari berbagai instrumen dalam pasar modal.
+Obligasi adalah surat utang yang dikeluarkan oleh suatu instansi seperti pemerintah atau swasta sebagai sarana mereka mendapatkan dana dari para investor yang membeli surat hutang tersebut. Sebagai gantinya, biasanya obligasi akan memberikan investor return berupa bunga yang akan dibayarkan pada akhir periode saat pengembalian modal tersebut. 
 
-Obligasi sendiri pada dasarnya adalah surat utang yang dikeluarkan oleh suatu instansi dalam periode waktu tertentu. Oleh sebab itu, obligasi bisa digunakan sebagai instrumen investasi jangka panjang dan pendek.
+Akan tetapi, obligasi sendiri sebenarnya memiliki terdiri dari beberapa jenis berbeda sehingga kamu harus paham jenis obligasi apa yang akan kamu jadikan instrumen investasi kamu. 
 
-Obligasi juga memiliki jenis yang beragam dengan profil risiko yang berbeda-beda sehingga investor bisa disesuaikan dengan tujuan investasi yang ingin dicapai oleh investor.
-
-Supaya anda lebih paham tentang apa itu obligasi, mari kita bahas secara lebih mendalam tentang cara kerja dan jenis-jenis dari obligasi yang bisa jadi pilihan instrumen investasi anda.
+Karena itu, yuk kita bahas lebih lanjut tentang instrumen investasi satu ini.
 
 ## Apa Itu Obligasi?
 
