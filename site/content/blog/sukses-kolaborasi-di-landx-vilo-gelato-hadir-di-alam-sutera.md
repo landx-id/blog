@@ -7,6 +7,14 @@ metaDescription: Gandeng LandX, premium dessert Vilo Gelato sukses raih
   saja!
 intro: Yuk simak keseruan grand opening Vilo Gelato Alam Sutera
 date: 2022-02-18T05:39:27.036Z
+tag:
+  - Vilo Gelato
+  - Franchise FnB
+  - Cloud Kitchen
+  - Franchise F&B
+  - Bisnis F&B
+category:
+  - Bisnis
 featuredImage:
   title: Pembukaan Vilo Gelato Alam Sutera Kolaborasi Sukses Pendanaan Lewat
     Equity Crowdfunding
@@ -67,4 +75,4 @@ Apa Anda tertarik untuk menjadi investor dan memiliki bisnis potensial dengan mo
 
 {{< button link="https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog" text="Yuk Investasi Sekarang" >}}
 
-Project ini memang sudah terjual habis, namun jangan khawatir, ya. [LandX](https://landx.id/) akan hadir kembali dengan berbagai project bisnis menarik lainnya. Tunggu apalagi, segera download dan verifikasi akunmu di aplikasi [LandX](https://landx.id/) agar tidak ketinggalan project-project bisnis menarik berikutnya.
+**NB:** Project ini memang sudah terjual habis, namun jangan khawatir, ya.[ LandX ](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)akan hadir kembali dengan berbagai project bisnis menarik lainnya. Tunggu apalagi, segera download dan verifikasi akunmu di aplikasi [LandX](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog) agar tidak ketinggalan project-project bisnis menarik berikutnya.
