@@ -7,10 +7,8 @@ metaTitle: Daftar 5 Orang Terkaya di Dunia 2021 dan Strategi Investasinya
 metaDescription: "Daftar orang terkaya di dunia 2021: Elon Musk, Jeff Bezos,
   Bernard Arnault & Family, Bill Gates, Larry Page"
 intro: Baru-baru ini Forbes merilis daftar orang paling kaya di dunia tahun
-  2021. Walaupun di masa pandemi, banyak orang justru mengalami peningkatan
-  kekayaan karena pandemi Covid-19 ini juga membawa kesempatan baru bagi
-  sebagian orang. Karena itu, yuk kita bahas satu persatu bisnis dan investasi
-  dari orang-orang terkaya di dunia ini.
+  2021. Karena itu, mari kita lihat strategi investasi dari orang-orang terkaya
+  di dunia ini yang siapa tau bisa kamu contoh.
 date: 2021-11-16T10:26:29.000Z
 tag:
   - Orang Terkaya di Dunia
