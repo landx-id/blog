@@ -46,7 +46,7 @@ Setelah kamu paham obligasi itu apa, mari kita bahas berbagai jenis obligasi yan
 
 ## Jenis-Jenis Obligasi
 
-Agar lebih mudah dipahami, mari kita kategorikan obligasi secara umum dan sistem pembayaran yang digunakan.
+Jenis obligasi sendiri berbeda-beda dan dikelompokkan berdasarkan beberapa kategori. Karena itu, yuk kita bahas satu persatu. 
 
 ### Jenis Obligasi Secara Umum
 
