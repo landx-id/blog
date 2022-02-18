@@ -44,6 +44,16 @@ Agar mudah anda pahami, penerbit atau pihak yang membutuhkan dana bisa disebut s
 
 Setelah kamu paham obligasi itu apa, mari kita bahas berbagai jenis obligasi yang memiliki risiko dan potensi yang berbeda-beda.
 
+## Jangka Waktu Obligasi
+
+Seperti pembahasan definisi obligasi sebelumnya, obligasi adalah surat hutang yang artinya jangka waktu investasi akan bergantung perjanjian yang dilakukan saat kamu membeli surat hutang tersebut. Hal ini karena bunga dan modal yang kamu tanamkan di awal akan dibayarkan pada akhir periode tersebut. 
+
+Karena itu, jangka waktu obligasi akan berbeda-beda tergantung masa jatuh tempo (*maturity)* dari surat hutang tersebut. Jangka waktu jatuh tempo ini sendiri berbeda-beda, ada yang 1 tahun, atau bahkan bisa 5 tahun tergantung dengan jenis obligasinya. 
+
+Biasanya, semakin panjang periode jatuh tempo semakin besar pula besar return yang dijanjikan. Namun hal ini tentu saja dengan risiko yang lebih besar pula. Karena itu, biasanya investor pemula memilih obligasi dengan jangka waktu lebih singkat karena dianggap memiliki risiko lebih kecil. 
+
+Akan tetapi, kamu tidak perlu khawatir apabila butuh dana sebelum masa jatuh tempo karena kamu tetap bisa menjual surat hutang yang kamu miliki kepada investor lain lewat pasar sekunder sehingga kamu tidak perlu menunggu hingga akhir masa jatuh tempo.
+
 ## Jenis-Jenis Obligasi
 
 Jenis obligasi sendiri berbeda-beda dan dikelompokkan berdasarkan beberapa kategori. Karena itu, yuk kita bahas satu persatu. 
@@ -60,7 +70,7 @@ Obligasi pemerintah merupakan surat utang yang dikeluarkan oleh pemerintah dalam
 
 Obligasi jenis ini merupakan surat utang yang dikeluarkan oleh korporasi swasta maupun BUMN yang membutuhkan pinjaman dana. Sama seperti obligasi pemerintah, obligasi ini juga dikeluarkan dalam beberapa jenis kupon yaitu kupon tetap, variabel dan obligasi dengan prinsip syariah.
 
-### 3. Obligasi Ritel
+#### 3. Obligasi Ritel
 
 Jenis ini merupakan surat utang yang dikeluarkan oleh pemerintah yang dijual kepada individu melalui agen penjualan yang telah ditetapkan oleh pemerintah. Jenis yang biasanya diperjualbelikan adalah jenis ORI dan Sukuk Ritel.
 
