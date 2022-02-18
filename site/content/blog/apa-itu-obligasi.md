@@ -120,7 +120,7 @@ Masalah likuiditas ini akan muncul saat obligasi yang anda miliki tidak dapat di
 
 Risiko pasar ini merupakan kerugian yang muncul karena berbagai faktor yang membuat harga obligasi di pasaran menjadi turun. Hal ini biasanya muncul karena berbagai kondisi seperti kondisi ekonomi yang tidak baik, pengaruh politik, atau perubahan suku bunga yang terjadi.
 
-## Kesimpulan
+## Memilih Investasi yang Cocok
 
 Setelah mengenal berbagai jenis obligasi yang tersedia di pasar modal, kini anda tentu sudah paham mana obligasi yang cocok dengan tujuan investasi dan profil risiko yang anda miliki.
 
@@ -130,9 +130,9 @@ Saat ini anda juga bisa membeli obligasi atau surat utang dari bisnis-bisnis pot
 
 Dengan adanya sistem ini, anda bisa ikut berinvestasi untuk membangun berbagai bisnis potensial yang ada di sekitar anda.
 
-**[Yuk Mulai Investasi Jangka Panjang yang Menguntungkan Bersama LandX](https://landx.id/project/index.html)**
+**[Yuk Temukan Bisnis Menjanjikan dengan Keuntungan Terbaik di LandX](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)**
 
-**[Sebagai Investor Kamu Harus Selalu Update Berbagai Info Seputar Investasi, Karena Itu Yuk Follow Instagram Kami @landx.id](https://www.instagram.com/landx.id/?utm_medium=copy_link)**
+[![miliki bisnis modal kecil cuma dengan 1 jutaan dapat 4 cabang ](https://accountgram-production.sfo2.cdn.digitaloceanspaces.com/landx_ghost/2021/11/jadi-owner-bisnis-hanya-1-jutaan-dengan-cuan-yang-sangat-menjanjikan.png)](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)**[Sebagai Investor Kamu Harus Selalu Update Berbagai Info Seputar Investasi, Karena Itu Yuk Follow Instagram Kami @landx.id](https://www.instagram.com/landx.id/?utm_medium=copy_link)**
 
 **\#LandX.id  #landx.id  #YukPatunganBisnis  #InvestasiBisnis  #SecuritiesCrowdfunding  #EquityCrowdfunding  #InvestasiMenguntungkan  #Urundana  #BisnisPatungan  #InvestasiUsaha**
 
