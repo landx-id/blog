@@ -1,15 +1,33 @@
-+++
-author = "Abdul Wahhab"
-category = ["investasi bisnis", "Equity Crowdfunding", "investasi online", "Investasi Menguntungkan", "Cara Investasi Saham", "investasi saham", "dana darurat", "obligasi", "urun dana", "Investasi modal kecil"]
-date = 2021-03-19T03:01:27Z
-metaDescription = "Kalau punya uang 10 juta, enaknya investasi apa ya? Yuk simak investasi apa saja yang bisa dilakukan dengan modal 10 juta dan memberikan keuntungan optimal"
-draft = false
-image = "https://images.unsplash.com/photo-1579621970795-87facc2f976d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxMTc3M3wwfDF8c2VhcmNofDV8fG1vbmV5fGVufDB8fHx8MTYzODgxMDQ1Mg&ixlib=rb-1.2.1&q=80&w=1080"
-slug = "investasi-bisnis-10-juta"
-tag = ["investasi bisnis", "Equity Crowdfunding", "investasi online", "Investasi Menguntungkan", "Cara Investasi Saham", "investasi saham", "dana darurat", "obligasi", "urun dana", "Investasi modal kecil"]
-title = "Punya Dana 10 Juta? Berikut Rekomendasi Investasi Modal 10 Juta yang Bisa Kamu Coba"
-
-+++
+---
+draft: false
+author: Abdul Wahhab
+slug: investasi-bisnis-10-juta
+title: Punya Uang 10 Juta? Berikut Investasi Modal 10 Juta yang Menguntungkan
+metaTitle: Punya Uang 10 Juta? Berikut Investasi Modal 10 Juta yang Menguntungkan
+metaDescription: Investasi menguntungkan dengan modal 10 juta yang bisa jadi
+  pilihan investasi jangka panjang anda
+intro: Jika kamu punya uang 10 juta dna bingung mau investasi apa, berikut
+  beberapa jenis instrumen investasi yang bisa jadi pilihan anda.
+date: 2021-03-19T03:01:27.000Z
+tag:
+  - investasi bisnis
+  - Equity Crowdfunding
+  - investasi online
+  - Investasi Menguntungkan
+  - Cara Investasi Saham
+  - investasi saham
+  - dana darurat
+  - obligasi
+  - urun dana
+  - Investasi modal kecil
+featuredImage:
+  src: https://images.unsplash.com/photo-1579621970795-87facc2f976d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxMTc3M3wwfDF8c2VhcmNofDV8fG1vbmV5fGVufDB8fHx8MTYzODgxMDQ1Mg&ixlib=rb-1.2.1&q=80&w=1080
+  alt: Investasi 10 juta yang bisa memberikan kamu keuntungan jangka panjang
+  title: Uang 10 Juta yang Bisa untuk Berbagai Jenis Investasi
+image: https://images.unsplash.com/photo-1579621970795-87facc2f976d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxMTc3M3wwfDF8c2VhcmNofDV8fG1vbmV5fGVufDB8fHx8MTYzODgxMDQ1Mg&ixlib=rb-1.2.1&q=80&w=1080
+category:
+  - Investasi
+---
 
 
 **[Investasi menguntungkan dengan modal 10 juta](https://landx.id/) -** tahun 2020 menjadi pembelajaran bagi masyarakat agar mempersiapkan dana darurat untuk menghadapi kondisi yang tidak terduga seperti saat ini. Kondisi seperti ini menggambarkan bahwa kita harus mulai berinvestasi sedini mungkin agar bisa bertahan di berbagai kondisi yang tidak terduga. Karena itu anda perlu menyiapkan rencana investasi yang baik untuk menghadapi permasalahan seperti saat ini.
