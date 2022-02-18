@@ -36,7 +36,7 @@ Pertama, mari kita bahas dulu definisi dari obligasi agar kamu paham obligasi it
 
 > Obligasi adalah surat utang yang diterbitkan oleh suatu pihak baik swasta maupun pemerintahan sebagai sarana mereka untuk mendapatkan pendanaan.
 
-Dengan kata lain, obligasi bisa dikatakan sebagai surat pengakuan utang yang dikeluarkan oleh penerbit yang menjelaskan bahwa mereka memiliki utang kepada pemilik obligasi dan akan dibayarkan pada di akhir periode yang sudah disepakati.
+Dengan kata lain, **pengertian obligasi adalah** surat pengakuan utang yang dikeluarkan oleh penerbit yang menjelaskan bahwa mereka memiliki utang kepada pemilik obligasi dan akan dibayarkan pada di akhir periode yang sudah disepakati.
 
 Oleh sebab itu, obligasi memiliki jangka waktu yang berbeda-beda mulai dari utang jangka pendek, sedang, hingga panjang tergantung dengan kesepakatan dalam surat utang. Selain itu, Obligasi juga memiliki tingkat suka bunga yang berbeda-beda sehingga anda bisa disesuaikan dengan tujuan investasi anda.
 
