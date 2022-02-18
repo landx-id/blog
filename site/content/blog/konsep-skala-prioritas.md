@@ -6,14 +6,8 @@ title: "Skala Prioritas: Pengertian & Tujuan Menyusun Skala Prioritas Keuangan"
 metaTitle: "Skala Prioritas: Pengertian & Tujuan Menyusun Skala Prioritas Keuangan"
 metaDescription: Skala prioritas adalah urutan cara pengurutan kebutuhan dari
   yang paling penting hingga yang tidak/ bisa ditunda. Prioritas adalah
-intro: >-
-  Tujuan seseorang menyusun skala prioritas adalah agar mereka paham bagaimana
-  menyusun kebutuhan dari yang terpenting hingga yang bisa ditunda terlebih
-  dahulu karena tidak begitu penting. Hal ini menjadi bagian penting dan
-  berdampak terhadap keputusan keuangan jangka panjang anda.
-
-
-  Akan tetapi, sudahkah kamu paham bagaimana cara menyusun skala prioritas yang baik? Kalau belum yuk kita bahas bersama-sama.
+intro: "Agar keputusan finansial kamu lebih optimal, yuk simak pahami bagaimana
+  cara menyusun skala prioritas yang baik. "
 date: 2021-11-12T03:36:07.000Z
 tag:
   - tips investasi
