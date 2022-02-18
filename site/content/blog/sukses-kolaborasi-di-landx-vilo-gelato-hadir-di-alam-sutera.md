@@ -17,8 +17,6 @@ Vilo Gelato berkolaborasi dengan platform equity crowdfunding [LandX](https://la
 
 Sukses dengan pendanaan, Vilo Gelato mengadakan grand opening outlet Alam Sutera pada Rabu, 2 Februari 2022. Jika Anda tertarik berkunjung, outlet premium nan elegan ini memiliki detail lokasi di jalan Alam Sutera Town center 10J no 5, Tangerang. Yuk cek dulu video keseruan grand opening Vilo Gelato cabang Alam Sutera berikut ini:
 
-
-
 {{< youtube id="U08e7JRP87Y" >}}
 
 {{< button link="https://www.youtube.com/watch?v=U08e7JRP87Y" text="Watch This Video" >}}
@@ -35,7 +33,7 @@ Selain menu yang ga bakal bosan untuk dipilih, Vilo Gelato mengusung konsep self
 
 Kualitas tidak pernah dikompromikan di Vilo, hanya bahan-bahan terbaik disajikan untuk pelanggan. Seperti pada penyajian Vilo Salted Caramel gelato, proses pembuatan dimulai dari pembuatan karamel sendiri. Memadukan gula merah, mentega, sea salt Australia hingga menjadi karamel kental dengan warna sempurna sebelum dicampur pada adonan gelato.
 
-Menghasilkan rasa coklat yang rich, Vilo Gelato mendatangkan dark coklat yang berasal dari biji kokoa dari kepulauan Caribbean. Rasa coklat yang tidak terlalu manis namun disambut kelembutan kacang almond pada setiap sajian.
+Menghasilkan rasa coklat yang rich, Vilo Gelato mendatangkan dark coklat yang berasal dari biji koko dari kepulauan Caribbean. Rasa coklat yang tidak terlalu manis namun disambut kelembutan kacang almond pada setiap sajian.
 
 Selain menyediakan gelato, Vilo Gelato juga hadirkan varian sorbet. Frozen dairy yang aman bagi setiap penderita lactose-free milk. Menu sorbet Vilo Gelato yang segar semakin lokal dengan varian Jeruk Kunci sorbet.
 
@@ -43,7 +41,7 @@ Selain menyediakan gelato, Vilo Gelato juga hadirkan varian sorbet. Frozen dairy
 
 Grand opening Vilo Gelato cabang Alam Sutera pada 10 Februari lalu diadakan secara meriah namun tetap sesuai dengan protokol kesehatan covid-19. Outlet yang homey dan elegan serta konsep self-service membuat pelanggan seperti menikmati dessert gelato di rumah sendiri.
 
-Outlet kesepuluh Vilo Gelato ini memilik desain estetik dengan dinding kaca. Pemandangan saat menikmati gelato dapat dilayangkan pada taman yang apik dengan 100 tanaman yang ditata. Menyantap gelato di Vilo Gelato Alam Sutera seakan berada di oasis karena memaksimalkan konsep nature yang diusung.
+Outlet kesepuluh Vilo Gelato ini memiliki desain estetik dengan dinding kaca. Pemandangan saat menikmati gelato dapat dilayangkan pada taman yang apik dengan 100 tanaman yang ditata. Menyantap gelato di Vilo Gelato Alam Sutera seakan berada di oasis karena memaksimalkan konsep nature yang diusung.
 
 Selayaknya rumah yang nyaman, outlet Vilo Gelato Alam Sutera juga menyediakan tempat duduk outdoor yang pet-friendly. Bagi para pemilik hewan peliharaan, sangat direkomendasikan untuk mengajak pet friend-nya ke outlet Vilo satu ini untuk jalan-jalan.
 
