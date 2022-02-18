@@ -74,7 +74,7 @@ Istilah ini merupakan sesuatu yang harus selalu anda ingat dalam investasi baik 
 
 Apabila anda berinvestasi dalam saham, maka anda perlu membeli beberapa jenis saham untuk memperkecil resiko kerugian yang akan muncul. Begitu juga dengan crowdfunding, anda harus melakukan investasi ke dalam beberapa jenis bidang bisnis yang bisa anda tanami modal karena trend pasar yang terus berkembang sehingga anda memiliki pilihan untuk menanamkan modal dalam bisnis inovatif yang akan memiliki permintaan tinggi di pasaran.
 
-## [Pilihan Instrumen Investasi dengan Modal Kecil](https://landx.id/project/)
+## Pilihan Investasi Menguntungkan Modal 10 Juta
 
 Investor  pemula kini  dapat berinvestasi  dengan modal kecil  dengan lebih mudah  karena tersedia beberapa jenis investasi yang dapat dimulai dengan  modal kecil seperti: reksa dana, logam mulia, deposito berjangka dan  [*equity crowdfunding.* ](https://landx.id/)
 
