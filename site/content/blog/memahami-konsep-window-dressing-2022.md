@@ -1,15 +1,38 @@
-+++
-author = "Vlora Riyandi"
-category = ["Cara Investasi Saham", "Investasi Tahun 2022", "investasi saham", "investasi pemula", "memulai investasi menguntungkan", "diversifikasi dalam investasi", "investasi keuangan", "Investasi Passive Income", "mengatur keuangan", "Mengelola Keuangan", "Tips Keuangan"]
-date = 2021-12-31T19:12:17Z
-metaDescription = "Window Dressing adalah strategi mempercantik portofolio oleh manajer investasi sebelum disuguhkan kepada pemegang saham atau klien. Window dressing 2022"
-draft = false
-image = "https://images.unsplash.com/photo-1526628953301-3e589a6a8b74?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxMTc3M3wwfDF8c2VhcmNofDU2fHxpbnZlc3RtZW50JTIwMjAyMXxlbnwwfHx8fDE2NDA1OTE5NDE&ixlib=rb-1.2.1&q=80&w=1080"
-slug = "memahami-konsep-window-dressing-2022"
-tag = ["Cara Investasi Saham", "Investasi Tahun 2022", "investasi saham", "investasi pemula", "memulai investasi menguntungkan", "diversifikasi dalam investasi", "investasi keuangan", "Investasi Passive Income", "mengatur keuangan", "Mengelola Keuangan", "Tips Keuangan"]
-title = "Window Dressing dan Prospek Investasi di Tahun 2022"
-
-+++
+---
+draft: false
+author: Vlora Riyandi
+slug: memahami-konsep-window-dressing-2022
+title: Memahami Apa Itu Window Dressing dan Prospek Investasi di Tahun 2022
+metaTitle: Memahami Apa Itu Window Dressing dan Prospek Investasi di Tahun 2022
+metaDescription: Window Dressing adalah strategi mempercantik portofolio oleh
+  manajer investasi sebelum disuguhkan kepada pemegang saham. Apa Itu Window
+  Dressing
+intro: Menyambut awal tahun, kamu tentu akan sering mendengar istilah window
+  dressing terutama apabila kamu merupakan investor yang berinvestasi di pasar
+  modal. Karena itu, yuk kita bahas apa itu window dressing dan bagaimana dampak
+  window dressing terhadap investasi anda.
+date: 2021-12-31T19:12:17.000Z
+tag:
+  - Cara Investasi Saham
+  - Investasi Tahun 2022
+  - investasi saham
+  - investasi pemula
+  - memulai investasi menguntungkan
+  - diversifikasi dalam investasi
+  - investasi keuangan
+  - Investasi Passive Income
+  - mengatur keuangan
+  - Mengelola Keuangan
+  - Tips Keuangan
+featuredImage:
+  src: https://images.unsplash.com/photo-1526628953301-3e589a6a8b74?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxMTc3M3wwfDF8c2VhcmNofDU2fHxpbnZlc3RtZW50JTIwMjAyMXxlbnwwfHx8fDE2NDA1OTE5NDE&ixlib=rb-1.2.1&q=80&w=1080
+  alt: Memahami apa itu window dressing dan langkah investasi saat window dressing
+    terjadi
+  title: Window dressing dalam kalender investasi yang perlu kamu pahami dengan baik
+image: https://images.unsplash.com/photo-1526628953301-3e589a6a8b74?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxMTc3M3wwfDF8c2VhcmNofDU2fHxpbnZlc3RtZW50JTIwMjAyMXxlbnwwfHx8fDE2NDA1OTE5NDE&ixlib=rb-1.2.1&q=80&w=1080
+category:
+  - Investasi
+---
 
 
 Apabila kamu merupakan investor pemula terutama yang baru terjun ke dunia saham, kamu pasti akan sering mendengar istilah **_window dressing_** terutama pada akhir tahun seperti sekarang ini.
