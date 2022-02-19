@@ -33,39 +33,27 @@ image: https://images.unsplash.com/photo-1526628953301-3e589a6a8b74?crop=entropy
 category:
   - Investasi
 ---
+Apabila kamu merupakan investor pemula terutama yang baru terjun ke dunia saham, kamu pasti akan sering mendengar istilah ***window dressing*** terutama pada akhir tahun seperti sekarang ini.
 
+***Window Dressing* adalah** istilah di pasar saham dan biasa terjadi menjelang akhir tahun. *Window dressing* juga adalah salah satu momentum yang ditunggu para investor.
 
-Apabila kamu merupakan investor pemula terutama yang baru terjun ke dunia saham, kamu pasti akan sering mendengar istilah **_window dressing_** terutama pada akhir tahun seperti sekarang ini.
+Supaya lebih paham dan siap menghadapi window dressing, yuk kita bahas apa itu window dressing dan langkah investasi yang harus dihampir saat menghadapi *window dressing.*
 
-**_Window Dressing_ adalah** istilah di pasar saham dan biasa terjadi menjelang akhir tahun. _Window dressing_ juga adalah salah satu momentum yang ditunggu para investor.
-
-Supaya lebih paham dan siap menghadapi window dressing, yuk kita bahas apa itu window dressing dan langkah investasi yang harus dihampir saat menghadapi _window dressing._
-
----
-
-## Table of Content
-
-* [Apa itu Window Dressing?](https://landx.id/blog/memahami-konsep-window-dressing-2022/#apa-itu-window-dressing) 
-* [Kenapa Window Dressing Terjadi?](https://landx.id/blog/memahami-konsep-window-dressing-2022/#kenapa-window-dressing-terjadi)
-* [Window Dressing dan Saham](https://landx.id/blog/memahami-konsep-window-dressing-2022/#window-dressing-dan-saham)
-* [Tips Investasi Menghadapi _Window Dressing_ Saham](https://landx.id/blog/memahami-konsep-window-dressing-2022/#tips-investasi-menghadapi-window-dressing-saham)
-* [_Window Dressing_ dan Omicron di Indonesia](https://landx.id/blog/memahami-konsep-window-dressing-2022/#window-dressing-dan-omicron-di-indonesia)
-* [Prospek Investasi di Tahun 2022](https://landx.id/blog/memahami-konsep-window-dressing-2022/#prospek-investasi-di-tahun-2022)
-* [Berinvestasi di Saham Potensial Tahun 2022](https://landx.id/blog/memahami-konsep-window-dressing-2022/#berinvestasi-di-saham-potensial-tahun-2022)
-
----
+- - -
 
 ## Apa Itu Window Dressing?
 
-**_Window Dressing_ adalah** strategi mempercantik laporan keuangan atau portofolio oleh manajer keuangan untuk meningkatkan performa kinerja sebelum disuguhkan kepada klien mereka.
+***Window Dressing* adalah** strategi mempercantik laporan keuangan atau portofolio oleh manajer keuangan untuk meningkatkan performa kinerja sebelum disuguhkan kepada klien mereka.
+
+**Window dressing adalah** momen tahunan yang terjadi pada awal tahun yang biasanya membuat harga saham cenderung mengalami peningkatan pada awal tahun. Karena itu, momen ini menjadi salah satu hal yang sangat ditunggu oleh para invstor saham. 
 
 ## Kenapa Window Dressing Terjadi?
 
-**Tujuan** _**Window Dressing**_ adalah untuk menarik minat investor agar yakin [berinvestasi](https://landx.id/). Walau tujuannya “mempercantik” portofolio atau laporan keuangan, hal ini tetap dilakukan secara legal. Tindakan yang diambil tetap diawasi oleh regulasi yang sah dan mengikuti aturan keuangan yang berlaku.
+**Tujuan** ***Window Dressing*** adalah untuk menarik minat investor agar yakin [berinvestasi](https://landx.id/). Walau tujuannya “mempercantik” portofolio atau laporan keuangan, hal ini tetap dilakukan secara legal. Tindakan yang diambil tetap diawasi oleh regulasi yang sah dan mengikuti aturan keuangan yang berlaku.
 
-**Cara kerja** _**Window Dressing**_ pada portofolio saham reksadana yaitu para manajer investasi akan menjual saham yang menampakkan kerugian besar dan menggantinya dengan membeli yang sedang naik daun menjelang akhir kuartal atau akhir tahun.
+**Cara kerja** ***Window Dressing*** pada portofolio saham reksadana yaitu para manajer investasi akan menjual saham yang menampakkan kerugian besar dan menggantinya dengan membeli yang sedang naik daun menjelang akhir kuartal atau akhir tahun.
 
-Tidak hanya reksadana, taktik _Window Dressing_ juga umum terjadi di lingkup perbankan, perusahaan finansial dan perusahaan terbuka lainnya. Karena umum terjadi di akhir tahun, fenomena _Window Dressing_ juga dikenal dengan _December Effect_ atau _Santa Claust Rally_.
+Tidak hanya reksadana, taktik *Window Dressing* juga umum terjadi di lingkup perbankan, perusahaan finansial dan perusahaan terbuka lainnya. Karena umum terjadi di akhir tahun, fenomena *Window Dressing* juga dikenal dengan *December Effect* atau *Santa Claust Rally*.
 
 Awalnya istilah window dressing merupakan kata untuk menggambarkan fenomena toko-toko di Inggris menjelang akhir tahun. Mendekati perayaan natal dan tahun baru, setiap toko akan mengganti display produknya dengan barang baru untuk menarik pembeli. Dari sinilah istilah window dressing digunakan dalam dunia investasi.
 
@@ -73,18 +61,18 @@ Awalnya istilah window dressing merupakan kata untuk menggambarkan fenomena toko
 
 Bagaimana pengaruh window dressing terhadap IHSG? Dalam 20 tahun terkahir, IHSG (Indeks Saham Harga Gabungan) selalu hijau di bulan Desember. Sebagai informasi, IHSG hijau berarti terjadi peningkatan harga saham (bullish), berarti harga penutupan lebih tinggi daripada harga pembukaan. Hal ini merupakan pengaruh window dressing terhadap bursa efek.
 
-Jika IHSG hijau maka saham yang berada Top 10 Big Cap biasanya hijau juga. _Big cap_ adalah istilah untuk perusahaan dengan kapitalisasi pasar (market capitalization) di atas Rp 100 triliun. Saham-saham tersebut diantaranya ialah BBCA, BBRI, TLKM, UNLV, ARTO, ASII, HMSP, BMRI hingga EMTK .
+Jika IHSG hijau maka saham yang berada Top 10 Big Cap biasanya hijau juga. *Big cap* adalah istilah untuk perusahaan dengan kapitalisasi pasar (market capitalization) di atas Rp 100 triliun. Saham-saham tersebut diantaranya ialah BBCA, BBRI, TLKM, UNLV, ARTO, ASII, HMSP, BMRI hingga EMTK .
 
 ## Tips Investasi Menghadapi Window Dressing Saham:
 
-Investor sekaligus IPO Consultant, Tonny Hermawan, membeberkan tips [berinvestasi](https://landx.id/) menghadapi _Window Dressing_ yang bisa kamu praktikkan:
+Investor sekaligus IPO Consultant, Tonny Hermawan, membeberkan tips [berinvestasi](https://landx.id/) menghadapi *Window Dressing* yang bisa kamu praktikkan:
 
-1. **Pilih saham _blue chip_.** Karena saham _blue chip_ mempunyai pengaruh terhadap IHSG. _Blue chip_ adalah saham dengan kapitalisasi market di atas 40 triliun, sehingga likuiditasnya bagus atau mudah diperjualbelikan.
+1. **Pilih saham *blue chip*.** Karena saham *blue chip* mempunyai pengaruh terhadap IHSG. *Blue chip* adalah saham dengan kapitalisasi market di atas 40 triliun, sehingga likuiditasnya bagus atau mudah diperjualbelikan.
 2. **Lakukan analisa fundamental dan analisa teknikal**. Teliti sebelum membeli, lakukanlah analisa fundamental melalui laporan keuangan perusahaan dan analisa teknikal.  Analisa teknikal saham dapat dilakukan dengan melihat pergerakan harga dan melihat harga tertinggi dan terendah pada periode tertentu.
 3. **Alokasikan dana untuk [investasi](https://landx.id/)**. Sisihkan penghasilan kamu sebesar 10-30% untuk [berinvestasi](https://landx.id/), pastikan juga keuangan kamu selalu dalam keadaan sehat.
-4. **Akumulasi pembelian bulan Oktober dan November.** Khususnya bagi investor aktif dan _trader_, sebaiknya telah mempersiapkan diri dengan melakukan pembelian saat bulan Oktober dan November. Tujuannya agar dapat melakukan _profit taking_ apabila terjadi** _Window Dressing_** __ di bulan Desember dengan IHSG hijau dan di bulan January saat _**January Effect**_.
+4. **Akumulasi pembelian bulan Oktober dan November.** Khususnya bagi investor aktif dan *trader*, sebaiknya telah mempersiapkan diri dengan melakukan pembelian saat bulan Oktober dan November. Tujuannya agar dapat melakukan *profit taking* apabila terjadi** *Window Dressing*** _ *di bulan Desember dengan IHSG hijau dan di bulan January saat* **January Effect**_.
 
----
+- - -
 
 **Baca Juga:**
 
@@ -92,29 +80,29 @@ Investor sekaligus IPO Consultant, Tonny Hermawan, membeberkan tips [berinvestas
 * [Memulai Investasi: Pahami Apa Itu Price to Book Value (PBV) Dalam Investasi Saham](https://landx.id/blog/memulai-investasi-pahami-apa-itu-price-to-book-value-pbv-dalam-investasi-saham/)
 * [Pahami Bagaimana Efek Compounding Dapat Membantu Pengembangan Investasi Anda](https://landx.id/blog/pahami-bagaimana-efek-compounding-dapat-membantu-pengembangan-investasi-anda/)
 
----
+- - -
 
 ## Window Dressing dan Omicron di Indonesia
 
 Varian baru Covid19 yaitu Omicron yang ditemukan di Afrika Selatan ini sempat menuai kekhawatiran. Sebab, virus ini dikabarkan lebih menular dari varian-varian sebelumnya. Kondisi ini juga membuat investor berlarian di pasar saham.
 
-Merebaknya kasus virus Omicron ke dalam negeri membuat pemerintah menegaskan level PPKM hingga naik menjadi level PPKM Level II. Diharapkan virus ini tidak meningkatkan jumlah kasus secara signifikan sehingga tidak dilakukan rem _lockdown_.
+Merebaknya kasus virus Omicron ke dalam negeri membuat pemerintah menegaskan level PPKM hingga naik menjadi level PPKM Level II. Diharapkan virus ini tidak meningkatkan jumlah kasus secara signifikan sehingga tidak dilakukan rem *lockdown*.
 
-Oleh sebab itu,  _**window dressing** _ mungkin saja tidak terjadi apabila kondisi yang belum stabil karena efek kemecamasan masyarakat akan efek dari covid varian ini. Akan tetapi, kamu tidak perlu begitu khawatir karena masih ada **_January Effect_** yang bisa membawa terbang portofolio kamu.
+Oleh sebab itu,  ***window dressing***  mungkin saja tidak terjadi apabila kondisi yang belum stabil karena efek kemecamasan masyarakat akan efek dari covid varian ini. Akan tetapi, kamu tidak perlu begitu khawatir karena masih ada ***January Effect*** yang bisa membawa terbang portofolio kamu.
 
 ## Prospek Investasi di Tahun 2022
 
-Untuk investor, perlu kenal istilah  _**Janurary Effect** _ atau kecenderungan harga saham yang naik di awal tahun. _**January Effect**_ bisa disebabkan oleh bonus akhir tahun, semangat [investasi](https://landx.id/) tahun baru yang meningkat, dan sikap optimis para investor dengan ekonomi di tahun terkait.
+Untuk investor, perlu kenal istilah  ***Janurary Effect***  atau kecenderungan harga saham yang naik di awal tahun. ***January Effect*** bisa disebabkan oleh bonus akhir tahun, semangat [investasi](https://landx.id/) tahun baru yang meningkat, dan sikap optimis para investor dengan ekonomi di tahun terkait.
 
-**_January Effect_** juga bisa akibat dari _Window Dressing_ pada bulan Desember tahun sebelumnya. Karena para investor besar di bulan Desember yang sempat menjual saham-saham yang rugi untuk mempercantik portofolionya akan membeli kembali saham-saham yang masih rugi tersebut di bulan Januari. Biasanya saham ini adalah saham _mid-small_ bukan _blue chip_.
+***January Effect*** juga bisa akibat dari *Window Dressing* pada bulan Desember tahun sebelumnya. Karena para investor besar di bulan Desember yang sempat menjual saham-saham yang rugi untuk mempercantik portofolionya akan membeli kembali saham-saham yang masih rugi tersebut di bulan Januari. Biasanya saham ini adalah saham *mid-small* bukan *blue chip*.
 
-**Prospek saham** yang bisa diburu di tahun 2022 menurut Budi Hikmat, Marketing Advisor PT NH Korindo Sekuritas Indonesia, diantaranya adalah saham sektor _mining_. **[Prospek sektor _mining_](https://landx.id/project/#/capt)** __ memiliki prospek yang bagus dan diprediksi sebagai _The Next Booming_.
+**Prospek saham** yang bisa diburu di tahun 2022 menurut Budi Hikmat, Marketing Advisor PT NH Korindo Sekuritas Indonesia, diantaranya adalah saham sektor *mining*. **[Prospek sektor *mining*](https://landx.id/project/#/capt)** _ *memiliki prospek yang bagus dan diprediksi sebagai _The Next Booming*.
 
-Salah satu sektor mining berpotensi baik adalah batu bara. Hal ini juga sesuai dengan keputusan terbaru dari Kementerian Energi dan Sumber Daya Mineral untuk [**meningkatkan produksi batubara**](https://industri.kontan.co.id/news/produksi-batubara-meningkat-perusahaan-kapal-tongkang-ketiban-berkah), harga saham batu bara ikut melonjak naik. Sektor yang berkaitan dengan rantai distribusi batu bara seperti [kapal angkut](https://landx.id/project/#/capt) atau [kapal tongkang](https://landx.id/project/#/capt) juga keciptaran untung.
+Salah satu sektor mining berpotensi baik adalah batu bara. Hal ini juga sesuai dengan keputusan terbaru dari Kementerian Energi dan Sumber Daya Mineral untuk **[meningkatkan produksi batubara](https://industri.kontan.co.id/news/produksi-batubara-meningkat-perusahaan-kapal-tongkang-ketiban-berkah)**, harga saham batu bara ikut melonjak naik. Sektor yang berkaitan dengan rantai distribusi batu bara seperti [kapal angkut](https://landx.id/project/#/capt) atau [kapal tongkang](https://landx.id/project/#/capt) juga keciptaran untung.
 
 Fajar R Hidajat dari Syailendra Capital pada CNBC seiring dengan pendapat Anneke Wijaya selaku Presiden Direktur PT Mandiri Manajemen Investasi menuturkan beberapa sektor lainnya yang memiliki prospek terang di tahun yang akan datang.  **[Prospek investasi](https://landx.id/) di tahun 2022** ada pada sektor perusahaan teknologi, Bank, dan beberapa emiten komoditas pilihan.
 
-Sebaliknya saham yang kurang menunjukkan wajah cerianya di tahun 2022 diprediksi saham _poultry_ atau saham emiten unggas. Saham ini dikabarkan anjlok dan diobral murah pada tahun 2021. Hal ini disebabkan kesenjangan pada persediaan dan permintaan akan kebutuhan. Namun, tidak menutup kemungkinan terjadi perubahan yang positif pada sektor ini.
+Sebaliknya saham yang kurang menunjukkan wajah cerianya di tahun 2022 diprediksi saham *poultry* atau saham emiten unggas. Saham ini dikabarkan anjlok dan diobral murah pada tahun 2021. Hal ini disebabkan kesenjangan pada persediaan dan permintaan akan kebutuhan. Namun, tidak menutup kemungkinan terjadi perubahan yang positif pada sektor ini.
 
 ## Berinvestasi di Saham Potensial Tahun 2022
 
@@ -124,19 +112,19 @@ Bisnis batu bara tidak hanya cukup di pertambangan tapi juga butuh didistribusik
 
 [Bisnis kapal angkut](https://landx.id/project/#/capt) hasil bumi seperti batu bara ini merupakan bisnis yang memiliki kebutuhan permintaan yang tinggi, untuk memasuki industri bisnis ini pun tentu memerlukan modal miliaran. Namun kini kamu bisa dapat jadi juragan [kapal](https://landx.id/project/#/capt) dengan modal [investasi satu jutaan](https://landx.id/).
 
-Saat ini di [LandX](https://landx.id/) terdapat [bisnis kapal tongkang](https://landx.id/project/#/capt) atau [kapal _tug_ dan _barge_](https://landx.id/project/#/capt) sedang _listing_. Kesempatan kamu untuk dapat menjadi bagian pemilik kapal dengan modal paling rendah. [Investasi](https://landx.id/) Rp 1 juta langsung dapat [dua kapal](https://landx.id/project/#/capt) yang akan berlayar di tahun 2022. Kapan lagi bisa jadi bos bisnis keren ini!
+Saat ini di [LandX](https://landx.id/) terdapat [bisnis kapal tongkang](https://landx.id/project/#/capt) atau [kapal *tug* dan *barge*](https://landx.id/project/#/capt) sedang *listing*. Kesempatan kamu untuk dapat menjadi bagian pemilik kapal dengan modal paling rendah. [Investasi](https://landx.id/) Rp 1 juta langsung dapat [dua kapal](https://landx.id/project/#/capt) yang akan berlayar di tahun 2022. Kapan lagi bisa jadi bos bisnis keren ini!
 
 Karena itu,
 
-## Segera [cek projectnya](https://landx.id/project/#/capt) dan jadi juragan bisnis kapal sekarang juga sebelum keduluaaan!
+## [Segera cek projectnya dan jadi juragan bisnis kapal sekarang juga sebelum keduluaaan!](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)
 
-[![Cara-jadi-pemilik-bisnis-kapal-tongkang-cuma-dengan-modal-1-juta-rupiah](https://accountgram-production.sfo2.cdn.digitaloceanspaces.com/landx_ghost/2021/12/Cara-jadi-pemilik-bisnis-kapal-tongkang-cuma-dengan-modal-1-juta-rupiah.png)](https://landx.id/project/#/capt)
+[![Cara-jadi-pemilik-bisnis-kapal-tongkang-cuma-dengan-modal-1-juta-rupiah](https://accountgram-production.sfo2.cdn.digitaloceanspaces.com/landx_ghost/2021/12/Cara-jadi-pemilik-bisnis-kapal-tongkang-cuma-dengan-modal-1-juta-rupiah.png)](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)
 
----
+- - -
 
 **[Mau Informasi Menarik Lain Seputar Investasi? Yuk Kunjungi Instagram Kami di @landx.id](https://www.instagram.com/landx.id/?utm_medium=copy_link)**
 
----
+- - -
 
 **Baca Juga:**
 
@@ -144,7 +132,6 @@ Karena itu,
 * [Alasan Kenapa Selain Menabung Anda Perlu Melakukan Investasi](https://landx.id/blog/pentingnya-menabung-dan-investasi/)
 * [Masih Bingung Cara Mengelola Uang? Simak Tips Pengelolaan Keuangan yang Baik untuk Pemula Berikut In](https://landx.id/blog/pengelolaan-keuangan-yang-baik/)i
 
----
+- - -
 
-**#YukPatunganBisnis**
-
+**\#YukPatunganBisnis**
