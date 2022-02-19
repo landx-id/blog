@@ -1,15 +1,28 @@
-+++
-author = "Abdul Wahhab"
-category = ["manajemen keuangan", "mengatur keuangan", "Mengelola Keuangan"]
-date = 2021-11-04T10:12:55Z
-metaDescription = "Manajemen keuangan adalah bagaimana pengelolaan uang dengan baik agar memberikan hasil yang optimal. Hal ini bertujuan untuk mengoptimalkan keuntungan"
-draft = false
-image = "https://images.unsplash.com/photo-1512358958014-b651a7ee1773?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxMTc3M3wwfDF8c2VhcmNofDI4fHxtb25leSUyMG1hbmFnZW1lbnR8ZW58MHx8fHwxNjQwMTQxODEy&ixlib=rb-1.2.1&q=80&w=1080"
-slug = "manajemen-keuangan-memahami-pengertian-fungsi-tujuan-dan-kenapa-manajemen-keuangan-sangat-penting-bagi-milenial"
-tag = ["manajemen keuangan", "mengatur keuangan", "Mengelola Keuangan"]
-title = "Manajemen Keuangan: Memahami Pengertian, Fungsi, Tujuan, dan Kenapa Manajemen Keuangan Sangat Penting Bagi Milenial"
-
-+++
+---
+draft: false
+author: Abdul Wahhab
+slug: manajemen-keuangan-memahami-pengertian-fungsi-tujuan-dan-kenapa-manajemen-keuangan-sangat-penting-bagi-milenial
+title: "Manajemen Keuangan: Pengertian, Tujuan, dan Fungsi Manajemen Keuangan"
+metaTitle: "Manajemen Keuangan: Pengertian, Tujuan, dan Fungsi Manajemen Keuangan"
+metaDescription: Manajemen keuangan adalah bagaimana pengelolaan uang dengan
+  baik agar memberikan hasil yang optimal. Hal ini bertujuan untuk
+  mengoptimalkan keuntungan
+intro: Yuk pahami fungsi manajemen keuangan yang berpengaruh sangat besar
+  terhadap kondisi finansial jangka panjang anda.
+date: 2021-11-04T10:12:55.000Z
+tag:
+  - manajemen keuangan
+  - mengatur keuangan
+  - Mengelola Keuangan
+featuredImage:
+  src: https://images.unsplash.com/photo-1512358958014-b651a7ee1773?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxMTc3M3wwfDF8c2VhcmNofDI4fHxtb25leSUyMG1hbmFnZW1lbnR8ZW58MHx8fHwxNjQwMTQxODEy&ixlib=rb-1.2.1&q=80&w=1080
+  alt: Memahami fungsi manajemen keuangan yang harus kamu pahami dengan baik agar
+    keputusan keuangan anda optimal
+  title: Manajemen keuangan yang baik agar tujuan keuangan anda semakin mudah dicapai
+image: https://images.unsplash.com/photo-1512358958014-b651a7ee1773?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxMTc3M3wwfDF8c2VhcmNofDI4fHxtb25leSUyMG1hbmFnZW1lbnR8ZW58MHx8fHwxNjQwMTQxODEy&ixlib=rb-1.2.1&q=80&w=1080
+category:
+  - Keuangan
+---
 
 
 **Manajemen Keuangan –** manajemen keuangan adalah segala aktivitas perusahaan yang berhubungan dengan bagaimana suatu bisnis atau perusahaan mendapatkan, menggunakan, serta mengelola dana dan aset yang dimiliki oleh suatu perusahaan.
