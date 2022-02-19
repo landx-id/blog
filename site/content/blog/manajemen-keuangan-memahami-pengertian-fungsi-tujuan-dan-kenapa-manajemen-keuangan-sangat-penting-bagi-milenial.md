@@ -35,15 +35,6 @@ Supaya lebih paham, yuk kita bahas lebih lanjut tentang bagaimana menyusun manaj
 
 ---
 
-## Table of Content
-
-* **[Pengertian Manajemen Keuangan](#pengertian-manajemen-keuangan)**
-* **[Fungsi Manajemen Keuangan](#fungsi-manajemen-keuangan)**
-* **[Tujuan Manajemen Keuangan](#tujuan-manajemen-keuangan)**
-* **[Kesimpulan](#kesiimpulan)**
-
----
-
 ## Pengertian Manajemen Keuangan
 
 Manajemen keuangan adalah usaha yang dilakukan untuk mengoptimalkan penggunaan dana yang dimiliki untuk mencapai suatu tujuan.
@@ -126,9 +117,9 @@ Berbicara terkait investasi, equity crowdfunding bisa jadi salah satu pilihan in
 
 **Karena itu..**
 
-[**Yuk Patungan  dengan Keuntungan Menjanjikan Bareng LandX**](https://landx.id/project/)
+[**Yuk Patungan  dengan Keuntungan Menjanjikan Bareng LandX**](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)
 
-[![Bagaimana? Kamu lebih suka bisnis dengan buyback guarantee atau yang bisa disimpan dalam jangka panjang? Apapun pilihan kamu.. Yuk Patungan  dengan Keuntungan Menjanjikan Bareng LandX](https://accountgram-production.sfo2.cdn.digitaloceanspaces.com/landx_ghost/2021/10/Equity-Crowdfunding-di-Indonesia-1--3.png)](https://landx.id/project/#/ximi)
+[![Bagaimana? Kamu lebih suka bisnis dengan buyback guarantee atau yang bisa disimpan dalam jangka panjang? Apapun pilihan kamu.. Yuk Patungan  dengan Keuntungan Menjanjikan Bareng LandX](https://accountgram-production.sfo2.cdn.digitaloceanspaces.com/landx_ghost/2021/10/Equity-Crowdfunding-di-Indonesia-1--3.png)](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)
 
 [**Mau Berbagai info Terbaru Terkait Investasi? Yuk Follow @landx.id di Instagram**](https://www.instagram.com/landx.id/?utm_medium=copy_link)
 
@@ -137,5 +128,5 @@ Berbicara terkait investasi, equity crowdfunding bisa jadi salah satu pilihan in
 * ****[**Mau Jadi Investor? Simak Cara Mudah Menjadi Investor Hanya dengan Modal Kecil**](https://landx.id/blog/cara-menjadi-investor/)****
 * ****[**Tips Penting dalam Menyusun Rencana Investasi Jangka Panjang Terbaik**](https://landx.id/blog/investasi-jangka-panjang-adalah/)****
 
-**#YukPatunganBisnis    #LandX.id    #landx         #landx.id    #InvestasiBisnis  #SecuritiesCrowdfunding   #EquityCrowdfunding    #InvestasiMenguntungkan     #Urundana    #BisnisPatungan    #InvestasiUsaha**
+**#SekarangBisa**
 
