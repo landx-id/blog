@@ -1,15 +1,31 @@
-+++
-author = "Abdul Wahhab"
-category = ["Robot Trading", "Forex", "ETF", "Instrumen Investasi"]
-date = 2021-11-24T14:28:10Z
-metaDescription = "Forex atau foreign exchange merupakan instrumen mata uang asing yang bisa untuk investasi dan objek trading oleh banyak orang karena volatilitasnya tinggi"
-draft = false
-image = "https://images.unsplash.com/photo-1620808353968-92abf48219a9?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxMTc3M3wwfDF8c2VhcmNofDIwfHxmb3JleHxlbnwwfHx8fDE2NDAwNjE0NjU&ixlib=rb-1.2.1&q=80&w=1080"
-slug = "apa-itu-forex-dan-cara-trading-serta-investasi-dalam-forex"
-tag = ["Robot Trading", "Forex", "ETF", "Instrumen Investasi"]
-title = "Trading Forex: Memahami Apa Itu Forex yang Jadi Kedok Investasi Bodong"
-
-+++
+---
+draft: false
+author: Abdul Wahhab
+slug: apa-itu-forex-dan-cara-trading-serta-investasi-dalam-forex
+title: "Trading Forex: Memahami Apa Itu Forex yang Jadi Kedok Investasi Bodong"
+metaTitle: "Trading Forex: Memahami Apa Itu Forex yang Jadi Kedok Investasi Bodong"
+metaDescription: Forex atau foreign exchange merupakan instrumen mata uang asing
+  yang bisa untuk investasi dan objek trading karena volatility yang tinggi
+intro: Yuk pahami dengan baik apa itu Forex atau Foreign Exchange yang sering
+  dijadikan kedok investasi bodong.
+date: 2021-11-24T14:28:10.000Z
+tag:
+  - Robot Trading
+  - Forex
+  - ETF
+  - Instrumen Investasi
+  - Penipuan Telegram
+  - Investasi Bodong
+featuredImage:
+  src: https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1470&q=80
+  alt: Memahami apa forex dan bagaimana cara trading forex yang menguntungkan
+  title: Mengenal Apa Itu Forex yang Sering Menjadi Objek Trading
+image: https://images.unsplash.com/photo-1620808353968-92abf48219a9?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxMTc3M3wwfDF8c2VhcmNofDIwfHxmb3JleHxlbnwwfHx8fDE2NDAwNjE0NjU&ixlib=rb-1.2.1&q=80&w=1080
+category:
+  - Investasi
+  - Keuangan
+  - Bisnis
+---
 
 
 Forex (_Foreign Exchange)_ adalah instrumen mata uang asing yang sering kali dijadikan komoditas untuk transaksi seperti trading.
