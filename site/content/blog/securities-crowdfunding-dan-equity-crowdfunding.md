@@ -1,17 +1,30 @@
-+++
-author = "Abdul Wahhab"
-category = ["Securities Crowdfunding untuk Pengembangan UMKM di Indonesia", "Equity Crowdfunding", "crowdfunding", "Situs Crowdfunding", "bisnis investasi", "investasi bisnis"]
-date = 2021-08-07T18:05:32Z
-metaDescription = "SCF merupakan metode pengumpulan dana dengan skema patungan bisnis yang bisa membantu pendanaan bagi bisnis  dan sekaligus instrumen investasi menguntungkan"
-draft = false
-slug = "securities-crowdfunding-dan-equity-crowdfunding"
-tag = ["Securities Crowdfunding untuk Pengembangan UMKM di Indonesia", "Equity Crowdfunding", "crowdfunding", "Situs Crowdfunding", "bisnis investasi", "investasi bisnis"]
-title = "Mengenal Securities Crowdfunding (SCF) Sebagai Alternatif Pendanaan UMKM dan Pilihan Investasi Bisnis"
-
-+++
-
-
-[Securities crowdfunding](https://landx.id/) adalah sistem yang baru-baru ini diresmikan pemerintah Indonesia berdasarkan POJK Nomor 57/POJK.04/2020 tentang Penawaran Efek Melalui Layanan Urun Dana Berbasis Teknologi Informasi (_Securities Crowdfunding)._
+---
+draft: false
+author: Abdul Wahhab
+slug: securities-crowdfunding-dan-equity-crowdfunding
+title: Securities Crowdfunding (SCF) Sebagai Alternatif Pendanaan UMKM
+metaTitle: Securities Crowdfunding (SCF) Sebagai Alternatif Pendanaan UMKM
+metaDescription: SCF atau securities crowdfunding (urun dana) adalah sistem
+  Investasi bisnis yang dimana masyarakat dapat mendanai bisnis privat
+intro: Yuk kenal lebih dekat dengan sistem investasi securities crowdfunding
+  yang mempermudah kamu untuk berinvestasi ke bisnis privat dengan modal kecil.
+date: 2021-08-07T18:05:32.000Z
+tag:
+  - Securities Crowdfunding untuk Pengembangan UMKM di Indonesia
+  - Equity Crowdfunding
+  - crowdfunding
+  - Situs Crowdfunding
+  - bisnis investasi
+  - investasi bisnis
+category:
+  - Investasi
+  - Cara Investasi di Securities Crowdfunding
+featuredImage:
+  src: https://images.unsplash.com/photo-1598793923805-184b1adc10e7?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1470&q=80
+  alt: Memahami cara kerja investasi lewat securities crowdfunding
+  title: Investasi Bisnis Modal Kecil Lewat Securities Crowdfunding
+---
+[Securities crowdfunding](https://landx.id/) adalah sistem yang baru-baru ini diresmikan pemerintah Indonesia berdasarkan POJK Nomor 57/POJK.04/2020 tentang Penawaran Efek Melalui Layanan Urun Dana Berbasis Teknologi Informasi (*Securities Crowdfunding).*
 
 SCF merupakan penyempurnaan dari equity crowdfunding (ECF) sehingga sistem ini memiliki cakupan yang lebih luas.
 
@@ -23,15 +36,9 @@ Selain sebagai sumber pendanaan kepada bisnis dan UMKM, securities crowdfunding 
 
 SCF memberikan menawarkan jenis efek yang beragam seperti saham, obligasi, dan sukuk sehingga investor bisa menyesuaikan dengan profil risiko mereka.
 
-Supaya lebih jelas mari kita bahas lebih lanjut __ tentang _[securities crowdfunding.](https://landx.id/)_
+Supaya lebih jelas mari kita bahas lebih lanjut *tentang* [securities crowdfunding.](https://landx.id/)_
 
-## Table of Content
-
-* **[Securities Crowdfunding](#securities-crowdfunding)**
-* **[Perbedaan antara Securities dan Equity Crowdfunding](#perbedaan-antara-securities-dan-equity-crowdfunding)**
-* [**Efek yang Ditawarkan dalam Securities Crowdfunding (SCF)**](#efek-yang-ditawarkan-dalam-securities-crowdfunding-scf)[1. Saham](#1-saham) [2. Saham Syariah](#2-saham-syariah)[3. Sukuk](#3-sukuk)[4. Obligasi](#4-obligasi)
-
-## Securities Crowdfunding
+## Perkembangan Securities Crowdfunding di Indonesia 
 
 Securities crowdfunding (SCF) adalah sistem pendanaan usaha yang dilakukan dengan sistem patungan dari beberapa investor melalui platform crowdfunding yang bertugas menghimpun dan menyalurkan modal yang telah dikumpulkan kepada bisnis.
 
@@ -41,13 +48,13 @@ Bisnis atau UMKM yang telah didanai dengan skema ini akan menggunakan dana terse
 
 Oleh sebab itu, investasi bisnis dalam sistem ini akan memiliki risiko yang berbeda-beda tergantung dengan efek yang ditawarkan oleh bisnis tersebut.
 
-Sebelumnya, equity crowdfunding hanya menawarkan efek berupa saham sehingga keuntungan fokus pada dividen dan capital gain, namun, SCF menawarkan efek yang lebih beragam sehingga _return_ yang ditawarkan pun akan berbeda pula.
+Sebelumnya, equity crowdfunding hanya menawarkan efek berupa saham sehingga keuntungan fokus pada dividen dan capital gain, namun, SCF menawarkan efek yang lebih beragam sehingga *return* yang ditawarkan pun akan berbeda pula.
 
 Kehadiran sistem ini tentu membuat investasi dan pendanaan menjadi lebih mudah karena investor dipertemukan dalam satu platform securities crowdfunding berbasis digital. Hal ini membuat cakupan investor menjadi luas dan bisnis pun semakin mudah berkembang.
 
 Anda lebih paham, berikut perbedaan dari SCF dan ECF
 
-## Perbedaan antara Securities dan Equity Crowdfunding
+## Perbedaan antara Equity dan Securities Crowdfunding
 
 Dibandingkan equity crowdfunding, security crowdfunding memiliki penawaran efek yang lebih beragam dalam pendanaan bisnis dan UMKM. Sistem penawaran dan transaksi dari kedua instrumen ini dilakukan sepenuhnya secara online melalui platform yang disediakan oleh penyelenggara crowdfunding.
 
@@ -57,9 +64,9 @@ Selain itu, equity crowdfunding pada dasarnya hanya menerbitkan efek berupa saha
 
 Dalam securities crowdfunding, efek yang ditawarkan lebih beragam karena selain saham SCF juga menawarkan efek dalam bentuk saham syariah, sukuk dan obligasi. Security crowdfunding ini memberikan investor pilihan instrumen investasi yang lebih beragam.
 
-Apabila anda sudah paham perbedaanya, mari kita bahas lebih lanjut tentang berbagai efek yang ditawarkan dalam _securities crowdfunding._
+Apabila anda sudah paham perbedaanya, mari kita bahas lebih lanjut tentang berbagai efek yang ditawarkan dalam *securities crowdfunding.*
 
-## Efek yang Ditawarkan dalam Securities Crowdfunding (SCF)
+## Berbagai Jenis Instrumen dalam Securities Crowdfunding (SCF)
 
 ### 1. Saham
 
@@ -107,16 +114,19 @@ Karena itu, tunggu apalagi….
 
 **[Yuk Temukan Bisnis Terbaik untuk Investasi Anda di LandX](https://landx.id/project/index.html)**
 
-[**Follow Kami Yuk di Instagram @landx.id Untuk Berbagai Update Terbaru Terkait Investasi**](https://www.instagram.com/landx.id/?utm_medium=copy_link)
+**[Yuk Temukan Bisnis Menjanjikan dengan Keuntungan Terbaik di LandX](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)**
 
----
+[![miliki bisnis modal kecil cuma dengan 1 jutaan dapat 4 cabang ](https://accountgram-production.sfo2.cdn.digitaloceanspaces.com/landx_ghost/2021/11/jadi-owner-bisnis-hanya-1-jutaan-dengan-cuan-yang-sangat-menjanjikan.png)](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)
+
+**[Follow Kami Yuk di Instagram @landx.id Untuk Berbagai Update Terbaru Terkait Investasi](https://www.instagram.com/landx.id/?utm_medium=copy_link)**
+
+- - -
 
 **Baca Juga:**
 
 * [Resmi Diluncurkan, Berikut Perbedaan antara Securities Crowdfunding (SCF) dan Equity Crowdfunding (ECF)](https://landx.id/blog/kenali-berbagai-istilah-dalam-securities-crowdfunding-agar-investasi-anda-menjadi-semakin-mudah/)
 * [Kemudahan Investasi Bisnis Jangka Panjang melalui Securities Crowdfunding](https://landx.id/blog/securities-crowdfunding/)
 
----
+- - -
 
 ‌#LandX.id    #landx.id    #InvestasiBisnis    #SecuritiesCrowdfunding #EquityCrowdfunding    #InvestasiMenguntungkan    #Urundana    #BisnisPatungan    #InvestasiUsaha
-
