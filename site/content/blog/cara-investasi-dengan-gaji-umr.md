@@ -1,26 +1,33 @@
-+++
-author = "Khurin N. Imandini"
-category = ["Investasi untuk Pemula", "Investasi modal kecil", "Instrumen Investasi", "Bisnis Modal Kecil", "compounding effect", "dana darurat"]
-date = 2021-12-10T11:56:42Z
-metaDescription = "Gaji UMR gak bisa investasi?? siapa bilang kamu yang bergaji UMR bisa lo berinvestasi asalkan kamu paham dengan baik tentang bagaimana mengelola uang...."
-draft = false
-image = "https://images.unsplash.com/photo-1554768804-50c1e2b50a6e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxMTc3M3wwfDF8c2VhcmNofDF8fHNhbGFyeXxlbnwwfHx8fDE2MzkxNDA0NDM&ixlib=rb-1.2.1&q=80&w=1080"
-slug = "cara-investasi-dengan-gaji-umr"
-tag = ["Investasi untuk Pemula", "Investasi modal kecil", "Instrumen Investasi", "Bisnis Modal Kecil", "compounding effect", "dana darurat"]
-title = "Gaji UMR Mau Investasi? Yuk Simak Tips dan Caranya Investasi dengan Gaji UMR"
-
-+++
-
-
+---
+draft: false
+author: Khurin N. Imandini
+slug: cara-investasi-dengan-gaji-umr
+title: Gaji UMR Mau Investasi? Yuk Cara Investasi dengan Gaji UMR
+metaTitle: Gaji UMR Mau Investasi? Yuk Cara Investasi dengan Gaji UMR
+metaDescription: Investasi menguntungkan walaupun dengan gaji UMR yang bisa kamu
+  coba|Simak strategi investasi gaj UMR
+intro: "Investasi menguntungkan dengan gaji UMR? Siapa bilang tidak bisa, yuk
+  simak tips investasi gaji UMR yang bisa kamu coba sedini mungkin "
+date: 2021-12-10T11:56:42.000Z
+tag:
+  - Investasi untuk Pemula
+  - Investasi modal kecil
+  - Instrumen Investasi
+  - Bisnis Modal Kecil
+  - compounding effect
+  - dana darurat
+featuredImage:
+  src: https://images.unsplash.com/photo-1554768804-50c1e2b50a6e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxMTc3M3wwfDF8c2VhcmNofDF8fHNhbGFyeXxlbnwwfHx8fDE2MzkxNDA0NDM&ixlib=rb-1.2.1&q=80&w=1080
+  alt: Simak tips investasi gaji UMR yang sangat cocok dan menguntungkan bagi pemula
+  title: Investasi dengan Gaji UMR yang  Bisa Memberikan Kamu Keuntungan Jangka
+    Panjang
+image: https://images.unsplash.com/photo-1554768804-50c1e2b50a6e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxMTc3M3wwfDF8c2VhcmNofDF8fHNhbGFyeXxlbnwwfHx8fDE2MzkxNDA0NDM&ixlib=rb-1.2.1&q=80&w=1080
+category:
+  - Investasi
+---
 Apabila kamu beranggapan bahwa **[investasi](https://landx.id/)** merupakan sesuatu yang hanya bisa dilakukan bagi orang yang berpenghasilan besar.  Maka kamu perlu membuang jauh-jauh pikiran ini karena dengan gaji UMR pun kamu bisa berinvestasi asalkan kamu paham bagaimana cara mengatur uang yang baik.
 
 Karena itu, yuk kita bahas bagaimana cara berinvestasi walaupun dengan gaji UMR
-
-## Table of Content
-
-* [**Berani Investasi dengan Gaji UMR**](https://landx.id/blog/cara-investasi-dengan-gaji-umr/#berani-investasi-dengan-gaji-umr)
-* **[Tips Investasi dengan Gaji UMR](https://landx.id/blog/cara-investasi-dengan-gaji-umr/#tips-investasi-dengan-gaji-umr)**[1. Tentukan Tujuan](#1-tentukan-tujuan)[2. Bangun Perencanaan](#2-bangun-perencanaan)[3. Alokasikan Anggaran](#3-alokasikan-anggaran)[4. Biasakan Berhemat](#4-biasakan-berhemat)
-* **Memilih ****[Instrumen Investasi yang Sesuai](https://landx.id/blog/cara-investasi-dengan-gaji-umr/#memilih-instrumen-investasi-yang-sesuai)******
 
 ## Berani Investasi dengan Gaji UMR
 
@@ -46,14 +53,14 @@ Untuk memulai berinvestasi dengan penghasilan kecil, perlu persiapan dan perenca
 
 Berinvestasi adalah tentang tujuan finansial tertentu yang ingin dicapai. Sebelum memulai berinvestasi, kamu harus menentukan tujuan finansialmu agar dapat tetap konsisten dan terukur. Tujuan bisa berupa apa saja, seperti rencana membeli rumah, pendidikan anak, sampai rencana dana pensiun.
 
----
+- - -
 
 **Baca Juga:**
 
 * [Simak Cara Menabung dengan Benar untuk Mencapai Tujuan Finansial Anda](https://landx.id/blog/cara-menabung-dengan-benar-untuk-masa-depan/)
 * [Alasan Kenapa Selain Menabung Anda Perlu Melakukan Investasi](https://landx.id/blog/pentingnya-menabung-dan-investasi/)
 
----
+- - -
 
 ### 2. Bangun Perencanaan
 
@@ -79,26 +86,23 @@ Sementara untuk investasi jangka pendek atau menengah, kamu bisa memilih instrum
 
 Salah satu kendala investasi bagi orang yang memiliki penghasilan UMR adalah merasa tidak memiliki cukup dana untuk berinvestasi. Padahal, kini berinvestasi bisa dimulai dengan modal rendah. Salah satunya adalah investasi melalui platform LandX.
 
-**[LandX](https://landx.id/project/)** merupakan salah satu perusahaan _Equity Crowdfunding_ (ECF) di Indonesia yang mempertemukan para investor dengan perusahaan atau pengusaha yang membutuhkan dana untuk pengembangan usahanya. Di LandX kamu bisa membeli saham dari beragam jenis bidang usaha, dengan harga saham mulai dari satu juta rupiah. Sehingga, sangat cocok bagi kamu yang memiliki penghasilan UMR.
+**[LandX](https://landx.id/project/)** merupakan salah satu perusahaan *Equity Crowdfunding* (ECF) di Indonesia yang mempertemukan para investor dengan perusahaan atau pengusaha yang membutuhkan dana untuk pengembangan usahanya. Di LandX kamu bisa membeli saham dari beragam jenis bidang usaha, dengan harga saham mulai dari satu juta rupiah. Sehingga, sangat cocok bagi kamu yang memiliki penghasilan UMR.
 
 Tidak ada lagi alasan untuk menunda-nunda. Jika sebelumnya kamu merasa tidak memiliki cukup modal untuk melakukan investasi karena berpenghasilan UMR, maka tahun 2022 adalah saat yang tepat untuk memperbaiki resolusi finansial. Ada banyak jenis investasi yang bisa kamu mulai sebagai investor di aplikasi LandX.
 
-## #SekarangBisa investasi sekaligus jadi pemilik bisnis hanya di LandX!
+## \#SekarangBisa investasi sekaligus jadi pemilik bisnis hanya di LandX!
 
 [![Bagaimana? Kamu lebih suka bisnis dengan buyback guarantee atau yang bisa disimpan dalam jangka panjang? Apapun pilihan kamu.. Yuk Patungan  dengan Keuntungan Menjanjikan Bareng LandX](https://accountgram-production.sfo2.cdn.digitaloceanspaces.com/landx_ghost/2021/10/Equity-Crowdfunding-di-Indonesia-1--3.png)](http://landx.id/project/)
 
-[**Jangan Lupa Follow Instagram @landx.id Untuk Berbagai Tips Investasi Menguntungkan Lainnya**](https://www.instagram.com/landx.id/?utm_medium=copy_link)
+**[Jangan Lupa Follow Instagram @landx.id Untuk Berbagai Tips Investasi Menguntungkan Lainnya](https://www.instagram.com/landx.id/?utm_medium=copy_link)**
 
----
+- - -
 
 **Baca Juga:**
 
 * [Investasi dengan Passive Income untuk Masa Depan](https://landx.id/blog/investasi-dengan-passive-income-untuk-masa-depan/)
 * [Investasi Selalu Rugi? Coba Lakukan Diversifikasi. Ini 4 Cara Melakukannya!](https://landx.id/blog/arti-penting-diversifikasi-dalam-investasi/)
 
----
+- - -
 
-**#YukPatunganBisnis    #LandX.id    #landx         #landx.id    #InvestasiBisnis  #SecuritiesCrowdfunding   #EquityCrowdfunding    #InvestasiMenguntungkan     #Urundana    #BisnisPatungan    #InvestasiUsaha**
-
-
-
+**\#YukPatunganBisnis    #LandX.id    #landx         #landx.id    #InvestasiBisnis  #SecuritiesCrowdfunding   #EquityCrowdfunding    #InvestasiMenguntungkan     #Urundana    #BisnisPatungan    #InvestasiUsaha**
