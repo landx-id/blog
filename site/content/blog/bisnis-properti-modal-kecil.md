@@ -1,16 +1,26 @@
-+++
-author = "Abdul Wahhab"
-category = ["investasi properti", "investasi properti online", "Equity Crowdfunding", "Securities Crowdfunding untuk Pengembangan UMKM di Indonesia"]
-date = 2021-06-15T03:24:41Z
-metaDescription = "Berbagai strategi memulai bisnis properti modal kecil yang bisa anda coba terapkan apabila anda ingin memulai bisnis dan investasi properti modal kecil"
-draft = false
-slug = "bisnis-properti-modal-kecil"
-tag = ["investasi properti", "investasi properti online", "Equity Crowdfunding", "Securities Crowdfunding untuk Pengembangan UMKM di Indonesia"]
-title = "Simak Berbagai Strategi Memulai Bisnis Properti Modal Kecil Terbaik yang Bisa Anda Terapkan"
-
-+++
-
-
+---
+draft: false
+author: Abdul Wahhab
+slug: bisnis-properti-modal-kecil
+title: Strategi Memulai Bisnis Properti yang Bisa Diterapkan Pemula
+metaTitle: Strategi Memulai Bisnis Properti yang Bisa Diterapkan Pemula
+metaDescription: Strategi bisnis properti modal kecil yang bisa dilakukan oleh
+  pemula yang sedang agar memulai bisnis properti menjadi lebih mudah
+intro: Yuk pahami berbagai strategi bisnis properti yang bisa memberikan kamu
+  keuntungan jangka panjang.
+date: 2021-06-15T03:24:41.000Z
+tag:
+  - investasi properti
+  - investasi properti online
+  - Equity Crowdfunding
+  - Securities Crowdfunding untuk Pengembangan UMKM di Indonesia
+category:
+  - Bisnis
+featuredImage:
+  src: https://images.unsplash.com/flagged/photo-1558954157-aa76c0d246c6?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1631&q=80
+  alt: "Memulai bisnis properti dengan modal kecil "
+  title: Strategi membangun bisnis properti dengan modal kecil
+---
 [Bisnis properti](https://landx.id/) merupakan  salah satu bisnis  dengan potensi keuntungan besar karena selain digunakan sebagai hunian atau lokasi bisnis, properti juga sering digunakan sebagai instrumen investasi yang menguntungkan dengan risiko yang dinilai kecil. Selain itu, properti memiliki prospek jangka panjang yang menjanjikan melihat pesatnya pertumbuhan masyarakat sehingga permintaan akan properti akan terus meningkat.
 
 Stabilnya investasi dan bisnis dari sektor ini bisa kita lihat dari bagaimana harga properti tetap stabil dan terus berkembang selama masa pandemi yang telah membuat banyak bisnis gulung tikar.
@@ -76,7 +86,7 @@ Untuk itu anda harus memperhitungkan dengan tepat besar biaya yang harus anda ke
 
 ### Menjadi Agen Properti
 
-Apabila anda kesulitan dalam modal, bisnis properti dengan menjadi agen properti atau _real estate_ merupakan jenis bisnis properti modal kecil yang bisa anda coba. Menjadi agen properti bisa anda lakukan dengan bergabung untuk menjual produk properti dari suatu developer atau bisa juga dilakukan dengan menjadi agen properti freelance.
+Apabila anda kesulitan dalam modal, bisnis properti dengan menjadi agen properti atau *real estate* merupakan jenis bisnis properti modal kecil yang bisa anda coba. Menjadi agen properti bisa anda lakukan dengan bergabung untuk menjual produk properti dari suatu developer atau bisa juga dilakukan dengan menjadi agen properti freelance.
 
 Menjadi agen properti freelance sekarang dilakoni oleh banyak orang karena potensi keuntungan yang menjanjikan. Walaupun tidak memiliki gaji yang tetap, tapi agen properti freelance akan mendapatkan keuntungan berupa komisi yang cukup besar dari setiap properti yang berhasil mereka jual.
 
@@ -92,9 +102,10 @@ Selain itu, berinvestasi dengan sistem ini juga memperkecil risiko kerugian bisn
 
 [LandX](https://landx.id/) memberikan anda kesempatan untuk mulai investasi ke dalam berbagai properti potensial di sekitar anda.
 
-**[Yuk Mulai Investasi Properti Modal Kecil Bersama LandX](https://landx.id/)**
+**[Yuk Temukan Bisnis Menjanjikan dengan Keuntungan Terbaik di LandX](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)**
+
+[![miliki bisnis modal kecil cuma dengan 1 jutaan dapat 4 cabang ](https://accountgram-production.sfo2.cdn.digitaloceanspaces.com/landx_ghost/2021/11/jadi-owner-bisnis-hanya-1-jutaan-dengan-cuan-yang-sangat-menjanjikan.png)](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)
 
 **[Jangan Lupa!!!! Follow Instagram Kami @landx.id untuk Berbagai Info Menarik Seputar Bisnis dan Investasi Lainnya](https://instagram.com/landx.id?utm_medium=copy_link)**
 
-**#LandX.id    #landx         #landx.id    #InvestasiBisnis    #EquityCrowdfunding    #InvestasiMenguntungkan    #Urundana    #BisnisPatungan    #InvestasiUsaha**
-
+**\#LandX.id    #landx         #landx.id    #InvestasiBisnis    #EquityCrowdfunding    #InvestasiMenguntungkan    #Urundana    #BisnisPatungan    #InvestasiUsaha**
