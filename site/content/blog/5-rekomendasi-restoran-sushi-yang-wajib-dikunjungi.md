@@ -1,15 +1,31 @@
-+++
-author = "Abdul Wahhab"
-category = ["Okinawa Sushi", "Bisnis F&B", "franchise f&b", "Franchise Makanan", "Bisnis Franchise Modal Kecil", "bisnis menguntungkan", "Bisnis Modal Kecil", "bisnis patungan"]
-date = 2021-11-08T07:23:42Z
-metaDescription = "Kamu pecinta masakan Jepang terutama sushi? Kalau iya kamu harus cek 5 rekomendasi sushi terbaik| Punya Onikawa Sushi Modal 1 juta"
-draft = false
-image = "https://images.unsplash.com/photo-1611143669185-af224c5e3252?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxMTc3M3wwfDF8c2VhcmNofDJ8fG9raW5hd2ElMjBzdXNoaXxlbnwwfHx8fDE2NDAxNDE0NjA&ixlib=rb-1.2.1&q=80&w=1080"
-slug = "5-rekomendasi-restoran-sushi-yang-wajib-dikunjungi"
-tag = ["Okinawa Sushi", "Bisnis F&B", "franchise f&b", "Franchise Makanan", "Bisnis Franchise Modal Kecil", "bisnis menguntungkan", "Bisnis Modal Kecil", "bisnis patungan"]
-title = "5 Rekomendasi Restoran Sushi Kawasan Jakarta yang Wajib Dikunjungi"
-
-+++
+---
+draft: false
+author: Abdul Wahhab
+slug: 5-rekomendasi-restoran-sushi-yang-wajib-dikunjungi
+title: 5 Rekomendasi Restoran Sushi Kawasan Jakarta yang Wajib Dikunjungi
+metaTitle: 5 Rekomendasi Restoran Sushi Kawasan Jakarta yang Wajib Dikunjungi
+metaDescription: Kamu pecinta masakan Jepang terutama sushi? Kalau iya kamu
+  harus cek 5 rekomendasi sushi terbaik| Punya Onikawa Sushi Modal 1 juta
+intro: Rekomendasi Sushi Kawasan Jakarta yang Wajib Kamu Coba
+date: 2021-11-08T07:23:42.000Z
+tag:
+  - Okinawa Sushi
+  - Bisnis F&B
+  - franchise f&b
+  - Franchise Makanan
+  - Bisnis Franchise Modal Kecil
+  - bisnis menguntungkan
+  - Bisnis Modal Kecil
+  - bisnis patungan
+featuredImage:
+  src: https://images.unsplash.com/photo-1611143669185-af224c5e3252?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxMTc3M3wwfDF8c2VhcmNofDJ8fG9raW5hd2ElMjBzdXNoaXxlbnwwfHx8fDE2NDAxNDE0NjA&ixlib=rb-1.2.1&q=80&w=1080
+  alt: Restoran sushi terdekat kawasan Jakarta yang harus kamu coba|Rekomendasi
+    Sushi
+  title: Rekomendasi sushi di Jakarta yang harus kamu coba|Sushi kawasan Jakarta
+image: https://images.unsplash.com/photo-1611143669185-af224c5e3252?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxMTc3M3wwfDF8c2VhcmNofDJ8fG9raW5hd2ElMjBzdXNoaXxlbnwwfHx8fDE2NDAxNDE0NjA&ixlib=rb-1.2.1&q=80&w=1080
+category:
+  - Bisnis
+---
 
 
 Rasa nan gurih dari irisan daging ikan yang terpajang di atas nasi pulen, semakin lezat dengan seonggok wasabi ataupun diganti saus mayo yang _creamy_, membuat orang selalu kembali untuk menikmati sushi.
