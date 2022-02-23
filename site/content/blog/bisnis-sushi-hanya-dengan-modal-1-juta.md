@@ -1,17 +1,28 @@
-+++
-author = "Abdul Wahhab"
-category = ["Okinawa Sushi"]
-date = 2021-11-03T06:44:11Z
-metaDescription = "Suka makanan Jepang? Hmm, makan aja?? Yuk, MinLand ajak JADI PEMILIK restoran sushi, OKINAWA SUSHI hanya dengan 1 JUTA RUPIAH AJA"
-draft = false
-image = "https://accountgram-production.sfo2.cdn.digitaloceanspaces.com/landx_ghost/2021/11/Thumbnail-OKinawa-Abdul-01-min-2.jpg"
-slug = "bisnis-sushi-hanya-dengan-modal-1-juta"
-tag = ["Okinawa Sushi"]
-title = "Hai Sobat LandX, Ada yang Baru, Nih!!"
-
-+++
-
-
+---
+draft: false
+author: Abdul Wahhab
+slug: bisnis-sushi-hanya-dengan-modal-1-juta
+title: Jadi Pemilik Okinawa Sushi Modal 1 Juta
+metaTitle: Jadi Pemilik Okinawa Sushi Modal 1 Juta
+metaDescription: Yuk simak bagaimana cara jadi pemilik franchise sushi, Okinawa
+  Sushi cuma dengan modal 1 juta
+intro: Suka makanan Jepang? Hmm, makan aja?? Yuk, MinLand ajak JADI PEMILIK
+  restoran sushi, OKINAWA SUSHI hanya dengan 1 JUTA RUPIAH AJA
+date: 2021-11-03T06:44:11.000Z
+tag:
+  - Okinawa Sushi
+  - Bisnis Menguntungkan
+  - Franchise FnB
+  - Bisnis F&B
+featuredImage:
+  src: https://accountgram-production.sfo2.cdn.digitaloceanspaces.com/landx_ghost/2021/11/Thumbnail-OKinawa-Abdul-01-min-2.jpg
+  alt: Cara jadi pemilik bisnis Okinawa Sushi cabang Central Park cuma dengan
+    modal 1 juta
+  title: Jadi owner Okinawa Sushi cuma dengan modal 1 juta
+image: https://accountgram-production.sfo2.cdn.digitaloceanspaces.com/landx_ghost/2021/11/Thumbnail-OKinawa-Abdul-01-min-2.jpg
+category:
+  - Bisnis
+---
 ## NEW PROJECT! | OKINAWA SUSHI x LANDX
 
 **Suka makanan Jepang? Hmm, makan aja? Yuk, MinLand ajak JADI PEMILIK restoran sushi, OKINAWA SUSHI hanya dengan INVESTASI 1 JUTA RUPIAH AJA 🔥🔥**
@@ -20,13 +31,19 @@ Okinawa Sushi sudah berjalan sejak tahu 2018 dan punya cabang tersebar di kota-k
 
 Melalui LandX, Okinawa Sushi mau gandeng kamu buat jadi bagian dari pemilik bisnis restoran Jepang yang punya 400 menu ini, loh!
 
-<iframe width="200" height="113" src="https://www.youtube.com/embed/RvUcG0RmjmM?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+{{< youtube id="RvUcG0RmjmM" >}}
+
+{{< button link="https://www.youtube.com/watch?v=RvUcG0RmjmM" text="Watch This Video" >}}
 
 Ingat, sebelum memutuskan investasi, bisa kenalan dulu dengan baca prospektusnya **[di sini ya...](https://landx.id/prospektus/OKIN.pdf)**
 
 Kalo mau invest, caranya gimana MinLand?? Download aplikasi LandX sekarang juga, ya! Sebelum kehabisaaan!
 
----
+**[Yuk Temukan Bisnis Menjanjikan dengan Keuntungan Terbaik di LandX](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)**
+
+[![miliki bisnis modal kecil cuma dengan 1 jutaan dapat 4 cabang ](https://accountgram-production.sfo2.cdn.digitaloceanspaces.com/landx_ghost/2021/11/jadi-owner-bisnis-hanya-1-jutaan-dengan-cuan-yang-sangat-menjanjikan.png)](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)
+
+- - -
 
 Untuk info lebih lanjut, hubungi CS LandX:
 
@@ -36,9 +53,6 @@ Whatsapp: (+62)813 8186 2878 | [https://linktr.ee/landx](https://www.youtube.com
 
 Email: hello@landx.id
 
----
+- - -
 
-[![Bagaimana? Kamu lebih suka bisnis dengan buyback guarantee atau yang bisa disimpan dalam jangka panjang? Apapun pilihan kamu.. Yuk Patungan  dengan Keuntungan Menjanjikan Bareng LandX](https://accountgram-production.sfo2.cdn.digitaloceanspaces.com/landx_ghost/2021/10/Equity-Crowdfunding-di-Indonesia-1--3.png)](https://landx.id/project/#/ximi)
-
-
-
+[](https://landx.id/project/#/ximi)
