@@ -132,11 +132,11 @@ Namun, melalui investasi patungan bisnis akan menjamin kamu sebagai investor tet
 
 Karena itu, jika kamu menginginkan investasi dengan risiko minim bisa mencoba pelajari sistem *equity crowdfunding*. Dengan berinvestasi pada suatu bisnis, tentu kamu bisa mendapatkan *[passive income](https://landx.id/blog/investasi-dengan-passive-income-untuk-masa-depan/)* tanpa harus berhenti dari pekerjaanmu yang sekarang.
 
-## [Yuk, nambah passive income lewat investasi patungan bisnis!](https://landx.id/project/)
+## [Yuk, nambah passive income lewat investasi patungan bisnis!](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)
 
-[![Bagaimana? Kamu lebih suka bisnis dengan buyback guarantee atau yang bisa disimpan dalam jangka panjang? Apapun pilihan kamu.. Yuk Patungan  dengan Keuntungan Menjanjikan Bareng LandX](https://accountgram-production.sfo2.cdn.digitaloceanspaces.com/landx_ghost/2021/10/Equity-Crowdfunding-di-Indonesia-1--3.png)](http://landx.id/project/)
+[![miliki bisnis modal kecil cuma dengan 1 jutaan dapat 4 cabang ](https://accountgram-production.sfo2.cdn.digitaloceanspaces.com/landx_ghost/2021/11/jadi-owner-bisnis-hanya-1-jutaan-dengan-cuan-yang-sangat-menjanjikan.png)](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)
 
-\#YukPatunganBisnis
+**[](http://landx.id/project/)#YukPatunganBisnis**
 
 **[Jangan Lupa Follow Instagram @landx.id Untuk Berbagai Tips Investasi Menguntungkan Lainnya](https://www.instagram.com/landx.id/?utm_medium=copy_link)**
 
