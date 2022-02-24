@@ -1,18 +1,28 @@
 ---
 author: Vlora Riyandi
-title: Cara Jadi Pemilik Bisnis Ritel Indomaret, Harga Franchise Retail
-metaTitle: Cara Jadi Pemilik Bisnis Ritel Indomaret, Harga Franchise Retail
-metaDescription: Estimasi modal investasi untuk membuka gerai terbaru Indomaret
-  di tahun 2022 adalah Rp 394 juta. Syarat dn keuntungan franchise Indomaret
-  adalah ..
-intro: "-"
+title: "Franchise Retail: Cara dan Harga Franchise Indomaret 2022"
+metaTitle: "Franchise Retail: Cara dan Harga Franchise Indomaret 2022"
+metaDescription: Yuk simak bagaimana cara punya franchise Indomaret dan berapa
+  harga franchise Indomaret di tahun 2022
+intro: Indomaret menjadi salah satu bisnis ritel yang memiliki jaringan sangat
+  besar dan membuka kemitraan lewat sistem franchise. Karena itu, mari kita
+  bahas bagaimana cara memiliki franchise Indomaret.
 date: 2022-02-24T03:31:09.561Z
+tag:
+  - Bisnis Ritel
+  - "Sistem Franchise "
+  - Retail
+  - "Bisnis Franchise Modal "
+category:
+  - Investasi
+  - Bisnis
 featuredImage:
-  title: Cara Jadi Pemilik Bisnis Ritel Indomaret, Harga Franchise Retail
-  src: https://unsplash.com/photos/GMGdhtYeROY
-  alt: franchise indomaret, ritel Indonesia, landx, crowdfunding
+  title: Cara Beli Franchise Indomaret dan Keuntungan Franchise Indomaret
+  src: https://images.unsplash.com/photo-1567958451986-2de427a4a0be?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80
+  alt: Cara jadi pemilik franchise Indomaret dengan modal kecil,  beli franchise
+    Indomaret
 ---
-Franchise retail minimarket modern membanjir dimana-mana. Saat pergi ke daerah luar kota, disepanjang jalan umumnya pasti bertemu dengan franchise retail ternama di Indonesia. Hal ini membuktikan bisnis ritel modern dibutuhkan dan menguntungkan dari sisi pemilik atau investornya.
+**Franchise retail minimarket modern membanjir dimana-mana**. Saat pergi ke daerah luar kota, disepanjang jalan umumnya pasti bertemu dengan franchise retail ternama di Indonesia. Hal ini membuktikan bisnis ritel modern dibutuhkan dan menguntungkan dari sisi pemilik atau investornya.
 
 Pada saat pandemi pun prospek cerah terlihat dari [bisnis milik Salim Group](https://landx.id/blog/9-naga-atau-9-orang-terkaya-di-indonesia/) ini. Minimarket yang menawarkan berbagai kebutuhan harian lengkap menjadi incaran masyarakat. Salah satunya ritel minimarket di Indonesia yaitu Indomaret.
 
@@ -44,7 +54,7 @@ Estimasi modal investasi untuk membuka gerai terbaru Indomaret di tahun 2022 ada
 
 Angka ini mencakup franchise fee untuk 5 tahun sebesar Rp 36 juta, promosi dan pembukaan minimarket Rp 9,5 juta, renovasi dan peralatan elektronik dan non-elektronik yang tergantung tipe toko sebesar Rp 170 juta dan Rp 178 juta. 
 
-**Tahapan untuk bergabung waralaba Indomaret**
+### **Tahapan untuk bergabung waralaba Indomaret**
 
 1. Anda diharuskan sudah memiliki calon lokasi di daerah komersil
 2. Presentasi sistem dan proyeksi keuntungan dari pihak Indomaret
@@ -60,7 +70,7 @@ Jika Anda lebih berminat untuk mengakuisisi atau beralih kepemilikan gerai yang 
 
 Dengan merogoh modal investasi yang besar, Anda mungkin berpikir apakah keuntungan dapat didapat dengan mudah. LandX telah merangkum dari berbagai sumber mengenai keuntungan dan kerugian franchise Indomaret.
 
-**Keuntungan Franchise Indomaret** 
+### **Keuntungan Franchise Indomaret** 
 
 * **Strong brand authority** – artinya brand mampu menarik perhatian dan kepercayaan banyak orang. Seperti bagaimana Indomaret yang telah beroperasi semenjak tahun 1988 dan dipercaya oleh masyarakat Indonesia.
 * **Manajemen yang profesional** – bertahun-tahun mengelola ribuan gerai, Indomaret yang dapat bertahan dan menghadapi perubahan era membuktikan bisnis ritel ini dikelola dengan cara yang sangat profesional.\
@@ -71,7 +81,7 @@ Dengan merogoh modal investasi yang besar, Anda mungkin berpikir apakah keuntung
   Diperkirakan keuntungan harian setiap gerai Indomaret berkisar Rp 7 hingga Rp 9 juta. Hal ini menjadikan pendapatan gerai Indomaret setiap bulannya mencapai Rp 200-270 juta. \
   Dengan modal investasi di awal serta biaya sewa lokasi, estimasi balik modal Anda adalah 3-4 tahun. Sehingga pada tahun ke-5, pendapatan yang berkisar Rp 200-270 juta per bulan tadi adalah seluruhnya keuntungan yang dapat Anda miliki. 
 
-Bisnis franchise ternama tentu membuat Anda memiliki pertimbangan besar untuk dapat berkecimpung didalamnya. Beberapa hal yang harus Anda pertimbangkan diantara lain sebagai berikut:
+Bisnis franchise ternama tentu membuat Anda memiliki pertimbangan besar untuk dapat berkecimpung di dalamnya. Beberapa hal yang harus Anda pertimbangkan diantara lain sebagai berikut:
 
 * **Pilihan produk harus sesuai arahan franchisor** – walaupun tidak bebas, namun hal ini dilakukan untuk menjamin kualitas dari barang yang pastinya akan laku terjual. Sehingga setiap gerai mencapai angka pendapatan harian sehat yang berkisar Rp 8 juta.
 * **Modal investasi yang besar** – angka ratusan juta merupakan angka yang besar untuk sebuah investasi awal. Namun dengan perhitungan dari manajemen Indomaret yang profesional, Anda pastinya akan dibantu meminimalisir kerugian sehingga dapat balik modal sesuai estimasi waktu.
@@ -84,6 +94,12 @@ Di [LandX](https://landx.id/), dengan modal sejutaan Anda dapat langsung berinve
 
 Keuntungan bagi hasil yang kemudian disebut dividen ini didapatkan setelah bisnis berjalan dan mendapat profit penjualan yang umumnya berkisar 10-30%. Dengan modal sejutaan tadi, keuntungan dapat Anda terima hanya dalam 3, 6 atau 9 bulan sesuai perjanjian yang ditawarkan kepada Anda.
 
-## Mendapat keuntungan dari bisnis potensial dan brand ternama [\#SekarangBisa](https://landx.id/) dengan sejutaan.
+## [Mendapat keuntungan dari bisnis potensial dan brand ternama #SekarangBisa dengan sejutaan.](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)
 
-Segera download aplikasi [LandX](https://landx.id/) dan jangan lupa verifikasi akun Anda agar dapat memiliki bisnis dengan nyaman.
+[![miliki bisnis modal kecil cuma dengan 1 jutaan dapat 4 cabang ](https://accountgram-production.sfo2.cdn.digitaloceanspaces.com/landx_ghost/2021/11/jadi-owner-bisnis-hanya-1-jutaan-dengan-cuan-yang-sangat-menjanjikan.png)](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)
+
+**Segera download aplikasi [LandX](https://landx.id/) dan jangan lupa verifikasi akun Anda agar dapat memiliki bisnis dengan nyaman.**
+
+**\- - -**
+
+**\#SekarangBisa**
