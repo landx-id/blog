@@ -1,5 +1,6 @@
 ---
 title: Bisnis F&B
+slug: bisnis-fb
 metaTitle: Melihat potensi jangka panjang model bisnis fnb dalam jangka panjang
 metaDescription: Bisnis fnb menjadi salah satu bisnis yang tidak ada matinya
   walaupun di tengah pandemi. Pilihan bisnis fnb untuk investasi
