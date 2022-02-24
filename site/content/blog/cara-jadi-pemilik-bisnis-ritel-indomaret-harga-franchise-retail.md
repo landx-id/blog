@@ -76,9 +76,11 @@ Bisnis franchise ternama tentu membuat Anda memiliki pertimbangan besar untuk da
 * **Pilihan produk harus sesuai arahan franchisor** – walaupun tidak bebas, namun hal ini dilakukan untuk menjamin kualitas dari barang yang pastinya akan laku terjual. Sehingga setiap gerai mencapai angka pendapatan harian sehat yang berkisar Rp 8 juta.
 * **Modal investasi yang besar** – angka ratusan juta merupakan angka yang besar untuk sebuah investasi awal. Namun dengan perhitungan dari manajemen Indomaret yang profesional, Anda pastinya akan dibantu meminimalisir kerugian sehingga dapat balik modal sesuai estimasi waktu.
 
-Itulah keuntungan, faktor yang harus Anda pertimbangkan serta syarat dan tahapan untuk dapat memiliki gerai ritel ternama di Indonesia, Indomaret. Modal investasi tentu menjadi hal terpenting untuk dapat memiliki sebuah bisnis.
+Itulah keuntungan, faktor yang harus Anda pertimbangkan serta syarat dan tahapan untuk dapat memiliki gerai ritel ternama di Indonesia, Indomaret. Apa Anda tertarik beli franchise Indomaret? 
 
-Namun, Anda dapat memiliki bisnis secara mudah dengan menjadi investor di salah satu bisnis di platform [equity crowdfunding LandX](https://landx.id/). Di [LandX](https://landx.id/), dengan modal sejutaan Anda dapat langsung berinvestasi pada bisnis potensial yang sudah melewati tahap evaluasi dengan standar tinggi dan mendapatkan keuntungan bagi hasil.
+Modal investasi tentu menjadi hal terpenting untuk dapat memiliki sebuah bisnis. Namun, Anda dapat memiliki bisnis secara mudah dengan menjadi investor di salah satu bisnis di platform [equity crowdfunding LandX](https://landx.id/). 
+
+Di [LandX](https://landx.id/), dengan modal sejutaan Anda dapat langsung berinvestasi pada bisnis potensial yang sudah melewati tahap evaluasi dengan standar tinggi dan mendapatkan keuntungan bagi hasil.
 
 Keuntungan bagi hasil yang kemudian disebut dividen ini didapatkan setelah bisnis berjalan dan mendapat profit penjualan yang umumnya berkisar 10-30%. Dengan modal sejutaan tadi, keuntungan dapat Anda terima hanya dalam 3, 6 atau 9 bulan sesuai perjanjian yang ditawarkan kepada Anda.
 
