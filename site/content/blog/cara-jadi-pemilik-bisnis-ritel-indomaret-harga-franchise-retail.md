@@ -18,7 +18,7 @@ category:
   - Bisnis
 featuredImage:
   title: Cara Beli Franchise Indomaret dan Keuntungan Franchise Indomaret
-  src: https://images.unsplash.com/photo-1567958451986-2de427a4a0be?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80
+  src: https://images.unsplash.com/photo-1444653614773-995cb1ef9efa?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxMTc3M3wwfDF8c2VhcmNofDI1fHxmaW50ZWNofGVufDB8fHx8MTY0MDI4MTYxNQ&ixlib=rb-1.2.1&q=80&w=1080
   alt: Cara jadi pemilik franchise Indomaret dengan modal kecil,  beli franchise
     Indomaret
 ---
