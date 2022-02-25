@@ -1,20 +1,35 @@
-+++
-author = "Abdul Wahhab"
-category = ["mengatur keuangan", "Investasi untuk Pemula", "Investasi Passive Income"]
-date = 2021-09-27T11:58:15Z
-metaDescription = "Impulsive buying adalah keputusan pembelian emosional sehingga pembeli proses pemberian cenderung tidak memikirkan aspek rasional seperti kegunaan.........."
-draft = false
-image = "https://images.unsplash.com/photo-1483985988355-763728e1935b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxMTc3M3wwfDF8c2VhcmNofDJ8fHNob3BwaW5nfGVufDB8fHx8MTY0MDE1OTI2MA&ixlib=rb-1.2.1&q=80&w=1080"
-slug = "mengenal-apa-itu-impulsive-buying-dan-cara-menghindari-berbagai-pemicu-impulsive-buying-selama-pandemi"
-tag = ["mengatur keuangan", "Investasi untuk Pemula", "Investasi Passive Income"]
-title = "Mengenal Apa Itu Impulsive Buying dan Cara Menghindari Berbagai Pemicu Impulsive Buying Selama Pandemi"
-
-+++
-
-
+---
+draft: false
+author: Abdul Wahhab
+slug: mengenal-apa-itu-impulsive-buying-dan-cara-menghindari-berbagai-pemicu-impulsive-buying-selama-pandemi
+title: Memahami Apa Itu Impulsive Buying dan Cara Menghindarinya
+metaTitle: Memahami Apa Itu Impulsive Buying dan Cara Menghindarinya
+metaDescription: Impulsive buying atau belanja secara impulsif adalah keputusan
+  belanja emosional yang  tidak memikirkan fungsi dari barang tersebut
+intro: Impulsive buying atau belanja secara impulsif tanpa pikir panjang tentu
+  saja sesuatu hal yang sering kita alami terutama semakin mudahnya belanja
+  online di masa sekarang ini. Karena itu, yuk kita bahas bagaimana cara agar
+  terhindar dari impulsive buying.
+date: 2022-02-25T08:21:12.469Z
+tag:
+  - mengatur keuangan
+  - Investasi untuk Pemula
+  - Investasi Passive Income
+featuredImage:
+  src: https://images.unsplash.com/photo-1483985988355-763728e1935b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxMTc3M3wwfDF8c2VhcmNofDJ8fHNob3BwaW5nfGVufDB8fHx8MTY0MDE1OTI2MA&ixlib=rb-1.2.1&q=80&w=1080
+  alt: "Impulsive buying artinya keputusan belanja yang tidak terencana karena
+    keputusan ini diambil secara emosional "
+  title: Pengertian impulsive buying yang merupakan keputusan belanja yang tidak
+    terencana karena hanya mengikuti poin emosional saja
+image: https://images.unsplash.com/photo-1483985988355-763728e1935b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxMTc3M3wwfDF8c2VhcmNofDJ8fHNob3BwaW5nfGVufDB8fHx8MTY0MDE1OTI2MA&ixlib=rb-1.2.1&q=80&w=1080
+category:
+  - Bisnis
+  - Investasi
+  - Keuangan
+---
 Sadar atau tidak, pasti banyak di antara kita yang pernah mengalami impulsive buying yang baik saat belanja online maupun offline.
 
-Impulsive buying adalah keputusan pembelian yang secara tiba-tiba dan tidak terencana yang dilakukan seseorang saat melihat suatu barang atau jasa. Pembelian ini biasanya hanya bertumpu pada keputusan emosional saja sehingga tidak memikirkan manfaat dan kegunaan dari barang yang dibeli tersebut.
+> Impulsive buying adalah keputusan pembelian yang secara tiba-tiba dan tidak terencana yang dilakukan seseorang saat melihat suatu barang atau jasa. Pembelian ini biasanya hanya bertumpu pada keputusan emosional saja sehingga tidak memikirkan manfaat dan kegunaan dari barang yang dibeli tersebut.
 
 Fenomena impulsive buying ini juga meningkat seiring perkembangan sistem belanja online yang membuat orang bisa dengan mudah membeli suatu barang. Kemudahan ini menjadi salah satu pemicu yang menyebabkan orang tidak berpikir panjang sebelum membeli suatu barang.
 
@@ -22,15 +37,7 @@ Oleh sabab itu, banyak bisnis memasukkan sisi emosional dalam berbagai iklan mer
 
 Supaya bisa terhindar dari impulsif buying, yuk kita bahas lebih tentang apa itu impulsive buying dan bagaimana cara terhindar dari hal ini.
 
----
-
-## Table of Content
-
-* **[Apa Itu Impulsive Buying?](#apa-itu-impulsive-buying)**
-* **[Penyebab Terjadinya Impulsive Buying](#penyebab-terjadinya-impulsive-buying)**
-* **[Menghindari Impulsive Buying](#menghindari-impulsive-buying )**
-
----
+- - -
 
 ## Apa Itu Impulsive Buying?
 
@@ -80,15 +87,15 @@ LandX merupakan platform equity crowdfunding yang memberikan anda kesempatan unt
 
 Karena itu..
 
-**[Yuk Patungan Bisnis Bareng LandX untuk Passive Income Jangka Panjang Anda](https://landx.id/project/)**
 
-[![Patungan Bisnis Bareng LandX untuk Passive Income Menjanjikan](https://accountgram-production.sfo2.cdn.digitaloceanspaces.com/landx_ghost/2021/09/Equity-Crowdfunding-di-Indonesia-1--1.png)](https://landx.id/project/)
 
----
+- - -
 
-[**Jangan Lupa Follow Instagram @landx.id Untuk Berbagai Tips Investasi Menguntungkan Lainnya**](https://www.instagram.com/landx.id/?utm_medium=copy_link)
+[![miliki bisnis modal kecil cuma dengan 1 jutaan dapat 4 cabang ](https://accountgram-production.sfo2.cdn.digitaloceanspaces.com/landx_ghost/2021/11/jadi-owner-bisnis-hanya-1-jutaan-dengan-cuan-yang-sangat-menjanjikan.png)](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)
 
----
+**[Jangan Lupa Follow Instagram @landx.id Untuk Berbagai Tips Investasi Menguntungkan Lainnya](https://www.instagram.com/landx.id/?utm_medium=copy_link)**
+
+- - -
 
 **Baca Juga**
 
@@ -96,7 +103,6 @@ Karena itu..
 * [Mau Memulai Bisnis? Simak Cara Membangun Bisnis Menguntungkan untuk Pemula](https://landx.id/blog/mau-memulai-bisnis-simak-cara-membangun-bisnis-menguntungkan-untuk-pemula/)
 * [Keuntungan Jangka Panjang Menjanjikan dari Usaha Perikanan di Indonesia](https://landx.id/blog/bisnis-perikanan-tangkap-di-indonesia/)
 
----
+- - -
 
-#YukPatunganBisnis    #LandX.id    #landx.id    #InvestasiBisnis    #EquityCrowdfunding    #InvestasiMenguntungkan    #Urundana    #BisnisPatungan    #InvestasiUsaha
-
+**\#SekarangBisa**
