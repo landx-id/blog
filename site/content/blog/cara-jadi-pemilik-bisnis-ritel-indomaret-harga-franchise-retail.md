@@ -6,7 +6,7 @@ metaDescription: Yuk simak bagaimana cara punya franchise Indomaret dan berapa
   harga franchise Indomaret di tahun 2022
 intro: Indomaret menjadi salah satu bisnis ritel yang memiliki jaringan sangat
   besar dan membuka kemitraan lewat sistem franchise. Karena itu, mari kita
-  bahas bagaimana cara memiliki franchise Indomaret.
+  bahas bagaimana cara memiliki franchise Indomaret....
 date: 2022-02-24T03:31:09.561Z
 tag:
   - Bisnis Ritel
