@@ -43,7 +43,7 @@ Jika kamu membaca profil dan menelaah aset setiap nama orang yang terpampang seb
 
 Selain membangun dan mengelola bisnis yang dimiliki, **ber[investasi](https://landx.id/)** [](https://landx.id/) merupakan cara yang membuat total kekayaan mereka melambung tinggi.
 
-Kali ini, kita akan membahas gaya **[berinvestasi](https://landx.id/)** dua orang yang pernah menduduki posisi orang terkaya di dunia yang juga tokoh berpengaruh dalam bahasan [investasi](https://landx.id/).
+Kali ini, kita akan membahas gaya **berinvestasi** dua orang yang pernah menduduki posisi orang terkaya di dunia yang juga tokoh berpengaruh dalam bahasan investasi.
 
 - - -
 
@@ -132,7 +132,7 @@ Financial service company yang berdiri tahun 1850. Warren beberapa kali menjadi 
 
 Gabungan dua perusahaan ** [produk F&B](https://landx.id/project/)**  yang merger ini mengambil tempat 4,2% dari portofolionya yang bernilai $9,4 miliar dolar.
 
-> *Tips ber[investasi](landx.id) Warren Buffet -- sebuah bisnis harus menunjukkan business model yang kuat, arus pendapatan yang kuat, dan potensi pertumbuhan yang berkelanjutan.*
+> *Tips berinvestasi Warren Buffet -- sebuah bisnis harus menunjukkan business model yang kuat, arus pendapatan yang kuat, dan potensi pertumbuhan yang berkelanjutan.*
 
 ## Warren Buffet dan Bitcoin
 
