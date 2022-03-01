@@ -25,7 +25,7 @@ featuredImage:
 
 **Yuk Simak Keseruan Grand Opening Byurger Coffee PIK 2 Ini:** 
 
-{{< youtube id="MW4Kt5RUvl8" >}}
+{{< youtube id="Kx8Mx5Pz3pk" >}}
 
 {{< button link="https://www.youtube.com/watch?v=Kx8Mx5Pz3pk" text="Watch This Video" >}}
 
