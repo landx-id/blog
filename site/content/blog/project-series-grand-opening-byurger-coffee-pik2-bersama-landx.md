@@ -5,7 +5,7 @@ metaTitle: "Project Series: Grand Opening Byurger Coffee PIK2 Bersama LandX"
 metaDescription: Project Byurger Coffee PIK 2 sukses adakan grand opening
   bersama investor di platform equity crowdfunding LandX. Memiliki bisnis hanya
   dengan sejutaan
-intro: "-"
+intro: Simak keseruan grand opening Byurger X LandX
 date: 2022-03-01T07:05:34.183Z
 tag:
   - Bisnis F&B
