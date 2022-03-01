@@ -11,6 +11,7 @@ intro: Simak bagaimana cara investor pemula menemukan bisnis terbaik yang bisa
 date: 2019-03-25T09:37:15.000Z
 tag:
   - Bisnis F&B
+  - Instrumen Investasi
 featuredImage:
   src: https://accountgram-production.sfo2.cdn.digitaloceanspaces.com/landx_ghost/2019/05/pilihan-investasi-untuk-pemula.jpg
   alt: Simak cara terbaik untuk investor pemula dalam menemukan investasi
