@@ -1,17 +1,26 @@
-+++
-author = "Gunawan Aldy"
-category = ["investasi", "properti", "news", "landx.id"]
-date = 2019-03-25T09:37:15Z
-metaDescription = "Instrumen investasi lain yang cocok untuk pemula. Yang bisa disesuaikan dengan profil risiko, tenor, atau jumlah dana yang dimiliki."
-draft = false
-image = "https://accountgram-production.sfo2.cdn.digitaloceanspaces.com/landx_ghost/2019/05/pilihan-investasi-untuk-pemula.jpg"
-slug = "pilihan-investasi-untuk-pemula"
-tag = ["investasi", "properti", "news", "landx.id"]
-title = "Pilihan Investasi untuk Investor Pemula"
-
-+++
-
-
+---
+draft: false
+author: Gunawan Aldy
+slug: pilihan-investasi-untuk-pemula
+title: Pilihan Investasi untuk Investor Pemula
+metaTitle: Pilihan Investasi untuk Investor Pemula
+metaDescription: Instrumen investasi lain yang cocok untuk pemula. Yang bisa
+  disesuaikan dengan profil risiko, tenor, atau jumlah dana yang dimiliki.
+intro: Simak bagaimana cara investor pemula menemukan bisnis terbaik yang bisa
+  menjadi sumber passive income jangka panjang anda
+date: 2019-03-25T09:37:15.000Z
+tag:
+  - Bisnis F&B
+featuredImage:
+  src: https://accountgram-production.sfo2.cdn.digitaloceanspaces.com/landx_ghost/2019/05/pilihan-investasi-untuk-pemula.jpg
+  alt: Simak cara terbaik untuk investor pemula dalam menemukan investasi
+    menguntungkan jangka panjang
+  title: Cara Menemukan Investasi terbaik untuk pemula yang menguntungkan dalam
+    jangka panjang
+image: https://accountgram-production.sfo2.cdn.digitaloceanspaces.com/landx_ghost/2019/05/pilihan-investasi-untuk-pemula.jpg
+category:
+  - Investasi
+---
 Kesadaran akan pentingnya investasi semakin meningkat di kalangan masyarakat Indonesia, akan tetapi masih banyak pemula yang ragu dan memiliki banyak pertimbangan sebelum mulai berinvestasi. Mulai dari risiko, potensi keuntungan, hingga kemudahan bertransaksi.
 
 Menurut beberapa penasehat keuangan, idealnya 10-30% dari pendapatan sebaiknya kita investasikan untuk menjamin hari tua yang nyaman.
@@ -20,15 +29,7 @@ Di antara banyaknya pilihan investasi, saham termasuk yang cukup populer. Namun,
 
 Karena itu, mari kita bahas instrumen investasi lain yang cocok untuk pemula. Yang bisa disesuaikan dengan profil risiko, tenor, atau jumlah dana yang dimiliki.
 
----
-
-## Table of Content
-
-* **[Deposito](#1-deposito)**
-* **[Reksa Dana](#2-reksa-dana)**
-* **[Properti](#3-properti)**
-
----
+- - -
 
 ## **1. Deposit**
 
@@ -74,16 +75,15 @@ Mulai investasi sekarang, sebelum properti incaranmu habis terjual!
 
 [![miliki bisnis modal kecil cuma dengan 1 jutaan dapat 4 cabang ](https://accountgram-production.sfo2.cdn.digitaloceanspaces.com/landx_ghost/2021/11/jadi-owner-bisnis-hanya-1-jutaan-dengan-cuan-yang-sangat-menjanjikan.png)](https://landx.id/project/)
 
-[**Mau Berbagai Info Menarik Seputar Investasi Lainnya? Yuk Follow Instagram @landx.id**](https://instagram.com/landx.id?utm_medium=copy_link)
+**[Mau Berbagai Info Menarik Seputar Investasi Lainnya? Yuk Follow Instagram @landx.id](https://instagram.com/landx.id?utm_medium=copy_link)**
 
----
+- - -
 
 **Baca Juga:**
 
 * [Memahami Apa yang Dimaksud dengan Investasi dan Instrumen Investasi yang Cocok untuk Pemula](https://landx.id/blog/apa-yang-dimaskud-dengan-investasi-untuk-investasi/)
 * [Mau Jadi Investor di Pasar Modal? Yuk Simak Beberapa Hal Penting Ini Sebelum Terjun ke Pasar Modal](https://landx.id/blog/pasar-modal-adalah/)
 
----
+- - -
 
-**#YukPatunganBisnis    #LandX.id    #landx         #landx.id      #InvestasiBisnis    #EquityCrowdfunding    #InvestasiMenguntungkan      #Urundana    #BisnisPatungan    #InvestasiUsaha**
-
+**\#YukPatunganBisnis    #LandX.id    #landx         #landx.id      #InvestasiBisnis    #EquityCrowdfunding    #InvestasiMenguntungkan      #Urundana    #BisnisPatungan    #InvestasiUsaha**
