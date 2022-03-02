@@ -103,7 +103,7 @@ Bagi pemilik bisnis yang berkeinginan menggaet investor melalui LandX, bisa berk
 
 ## [Yuk Miliki Bisnis Terbaik Cuma Modal 1 Jutaan](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)
 
-[![Bagaimana? Kamu lebih suka bisnis dengan buyback guarantee atau yang bisa disimpan dalam jangka panjang? Apapun pilihan kamu.. Yuk Patungan  dengan Keuntungan Menjanjikan Bareng LandX](https://accountgram-production.sfo2.cdn.digitaloceanspaces.com/landx_ghost/2021/10/Equity-Crowdfunding-di-Indonesia-1--3.png)](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)
+[![Bagaimana? Kamu lebih suka bisnis dengan buyback guarantee atau yang bisa disimpan dalam jangka panjang? Apapun pilihan kamu.. Yuk Patungan  dengan Keuntungan Menjanjikan Bareng LandX](https://media.discordapp.net/attachments/913743599844343808/948451446548992000/LandX_OPIM_ads_1080-x-565px_02.png?width=1042&height=545)](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)
 
 - - -
 
