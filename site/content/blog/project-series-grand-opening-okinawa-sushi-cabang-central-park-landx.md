@@ -23,7 +23,7 @@ tag:
   - Memulai usaha
   - Franchise Makanan
 featuredImage:
-  src: https://accountgram-production.sfo2.cdn.digitaloceanspaces.com/landx_ghost/2021/12/jadi-pemilik-okinawa-sushi-modal-1-juta-.jpg
+  src: https://media.discordapp.net/attachments/913743599844343808/948467792267575306/Thumbnail_okinawa_Youtube___Mesage-01_1_1.webp?width=969&height=545
   alt: Jadi pemilik okinawa sushi cuma dengan modal 1 juta
   title: Jadi owner bisnis okinawa sushi cuma dengan modal 1 juta
 image: https://accountgram-production.sfo2.cdn.digitaloceanspaces.com/landx_ghost/2021/12/jadi-pemilik-okinawa-sushi-modal-1-juta-.jpg
