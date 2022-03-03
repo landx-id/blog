@@ -1,32 +1,37 @@
-+++
-author = "Abdul Wahhab"
-category = ["rasio keuangan", "tips investasi", "investasi pemula", "strategi investasi"]
-date = 2021-07-29T05:17:00Z
-metaDescription = "ROE atau Return on Equity merupakan salah satu rasio keuangan yang penting untuk dipahami saat memulai investasi | Pahami cara menghitung ROE untuk analisis"
-draft = false
-slug = "memahami-konsep-return-on-equity-roe"
-tag = ["rasio keuangan", "tips investasi", "investasi pemula", "strategi investasi"]
-title = "Memahami Konsep Return on Equity (ROE): Pengertian dan Cara Menghitung ROE"
-
-+++
-
-
-Apabila anda baru mendalami investasi, memahami apa itu _Return on Equity_ (ROE) merupakan hal yang sangat penting untuk pertimbangan sebelum memutuskan akan berinvestasi atau tidak.
+---
+draft: false
+author: Abdul Wahhab
+slug: memahami-konsep-return-on-equity-roe
+title: "Return on Equity (ROE): Pengertian dan Cara Hitung Return on Equity"
+metaTitle: Pengertian ROE dan Cara Menghitung ROE untuk Membantu Investasi Anda
+metaDescription: Return on Equity adalah salah satu rasio yang mengukur
+  kemampuan perusahaan melakukan pengembalian dari aset yang mereka miliki
+intro: Yuk pahami apa itu ROE dan kenapa analisis ROE menjadi analisis penting
+  dalam investasi
+date: 2021-07-29T05:17:00.000Z
+tag:
+  - rasio keuangan
+  - tips investasi
+  - investasi pemula
+  - strategi investasi
+category:
+  - Keuangan
+  - Investasi
+featuredImage:
+  src: https://images.unsplash.com/photo-1450101499163-c8848c66ca85?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1470&q=80
+  alt: Memahami apa itu ROE dan cara menghitung roe untuk mendukung proses
+    investasi anda
+  title: Rumus mencari roe yang penting dipahami oleh para investor
+---
+Apabila anda baru mendalami investasi, memahami apa itu *Return on Equity* (ROE) merupakan hal yang sangat penting untuk pertimbangan sebelum memutuskan akan berinvestasi atau tidak.
 
 Rasio ini sering juga disebut sebagai pengembalian atas ekuitas yang membantu analisis performa suatu perusahaan. Oleh sebab itu, rasio ini sering dijadikan acuan saat menilai bagaimana kinerja keuangan dari suatu perusahaan.
 
 Agar lebih paham mari kita bahas secara lebih mendalam terkait Return on Equity (ROE).
 
-## Table of Content
-
-* [**Pengertian** _**Return on Equity**_ **(ROE)**](#pengertian-return-on-equity-roe)
-* [**Cara Menghitung**](#cara-menghitung-return-on-equity-roe) _**Return on Equity (ROE)**_
-* [**Cara Melakukan Analisis Nilai** _**Return on Equity (ROE)**_](#cara-melakukan-analisis-nilai-return-on-equity-roe)
-* **[Kesimpulan](#kesimpulan)**
-
 ## Pengertian Return on Equity (ROE)
 
-_Return on Equity_ (ROE) adalah rasio keuangan yang digunakan rasio yang digunakan untuk melihat bagaimana kemampuan perusahaan dalam menghasilkan keuntungan atau laba bersih dari modal yang mereka miliki.
+*Return on Equity* (ROE) adalah rasio keuangan yang digunakan rasio yang digunakan untuk melihat bagaimana kemampuan perusahaan dalam menghasilkan keuntungan atau laba bersih dari modal yang mereka miliki.
 
 Hal ini menjadi acuan bagi investor untuk melihat bagaimana kemampuan perusahaan menghasilkan keuntungan dari modal yang akan mereka tanamkan seperti melalui saham.
 
@@ -34,7 +39,7 @@ Oleh sebab itu, rasio ini bisa menunjukkan bagaimana kinerja perusahaan dalam me
 
 Sebagai salah satu rasio yang diperhatikan oleh investor, perusahaan dengan ROE yang tinggi tentu saja lebih menarik bagi investor dibandingkan perusahaan dengan ROE yang rendah.
 
-Akan tetapi perbandingan ini tentu saja akan valid apabila perbandingan antar industri dalam sektor yang sama. Berikutnya, mari kita bahas cara menghitung _return on equity._
+Akan tetapi perbandingan ini tentu saja akan valid apabila perbandingan antar industri dalam sektor yang sama. Berikutnya, mari kita bahas cara menghitung *return on equity.*
 
 ## Cara Menghitung Return on Equity (ROE)
 
@@ -42,7 +47,7 @@ Seperti namanya, ROE dihitung dengan membandingkan laba bersih setelah pajak den
 
 Oleh sebab itu, nilai ROE dari suatu perusahaan sangat bergantung dengan berapa penghasilan perusahaan dan berapa modal yang dibutuhkan untuk menghasilkan keuntungan tersebut. Berikut rumus menghitung ROE:
 
-![Cara-menghitung-ROE--Return-on-Equity----Laba-bersih-setelah-pajak-ekuitas](https://accountgram-production.sfo2.cdn.digitaloceanspaces.com/landx_ghost/2021/09/Cara-menghitung-ROE--Return-on-Equity----Laba-bersih-setelah-pajak-ekuitas.png)
+![Cara-menghitung-ROE--Return-on-Equity----Laba-bersih-setelah-pajak-ekuitas](https://accountgram-production.sfo2.cdn.digitaloceanspaces.com/landx_ghost/2021/09/Cara-menghitung-ROE--Return-on-Equity----Laba-bersih-setelah-pajak-ekuitas.png "Cara menghitung ROE agar analisis investasi menjadi lebih mudah")
 
 **Contoh**:
 
@@ -56,7 +61,7 @@ Artinya perusahaan ini mampu menghasilkan keuntungan sebesar sebanyak 2 dari mod
 
 Lebih lengkapnya, berikut cara membandingkan ROE
 
-## Cara Melakukan Analisis Nilai Return on Equity (ROE)
+## Cara Melakukan Analisis ROE
 
 Apabila anda sedang menganalisis suatu bisnis atau perusahaan untuk berinvestasi, anda bisa menggunakan angka ROE untuk melihat apakah perusahaan sudah menggunakan modal mereka secara efisien atau belum.
 
@@ -68,22 +73,23 @@ ROE tentu saja sangat penting bagi investor agar bisa mendapatkan gambaran bagai
 
 Perusahaan dengan ROE yang tinggi tentu saja lebih menarik dibandingkan dengan perusahaan dengan ROE rendah.
 
-## Kesimpulan
+## Pentingnya Analisis ROE dalam Investasi
 
 Kini anda semakin paham bukan bagaimana memilih perusahaan atau bisnis terbaik untuk investasi berdasarkan berbagai indikator rasio keuangan. Memahami berbagai rasio keuangan akan membantu anda mengambil keputusan investasi yang lebih baik sehingga bisa memberikan anda keuntungan.
 
 Kini tentu anda semakin paham kriteria bisnis dan investasi seperti apa yang cocok dan menguntungkan anda dalam jangka panjang.
 
-Salah satu instrumen investasi yang wajib anda coba adalah investasi bisnis melalui skema[ _**equity crowdfunding**_](https://landx.id/). Sistem ini membuat anda bisa melakukan investasi bisnis yang menguntungkan dalam jangka panjang dengan modal kecil. Karena itu…
+Salah satu instrumen investasi yang wajib anda coba adalah investasi bisnis melalui skema[ ***equity crowdfunding***](https://landx.id/). Sistem ini membuat anda bisa melakukan investasi bisnis yang menguntungkan dalam jangka panjang dengan modal kecil. Karena itu…
 
-## [**Yuk Investasi Bisnis di LandX dengan Berbagai Pilihan Bisnis Potensial untuk Investasi Anda**](https://landx.id/)
+## **[Yuk Investasi Bisnis di LandX dengan Berbagai Pilihan Bisnis Potensial untuk Investasi Anda](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)**
 
-[**Mau Terus Update Info Seputar Investasi? Yuk Follow Kami di Instagram @landx.id untuk Berbagai Info Terupdate Seputar Investasi**](https://instagram.com/landx.id?utm_medium=copy_link)
+[![miliki bisnis modal kecil cuma dengan 1 jutaan dapat 4 cabang ](https://accountgram-production.sfo2.cdn.digitaloceanspaces.com/landx_ghost/2021/11/jadi-owner-bisnis-hanya-1-jutaan-dengan-cuan-yang-sangat-menjanjikan.png)](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)
 
-**#LandX.id    #landx.id    #InvestasiBisnis     #EquityCrowdfunding   #SecuritiesCrowdfunding #InvestasiMenguntungkan    #Urundana     #BisnisPatungan    #InvestasiUsaha**
+**[Mau Terus Update Info Seputar Investasi? Yuk Follow Kami di Instagram @landx.id untuk Berbagai Info Terupdate Seputar Investasi](https://instagram.com/landx.id?utm_medium=copy_link)**
+
+**\#LandX.id    #landx.id    #InvestasiBisnis     #EquityCrowdfunding   #SecuritiesCrowdfunding #InvestasiMenguntungkan    #Urundana     #BisnisPatungan    #InvestasiUsaha**
 
 **Baca Juga:**
 
 * [Rasio-Rasio Keuangan yang Penting Dipahami Investor Pemula dalam Memulai Investasi](https://landx.id/blog/rasio-rasio-keuangan-yang-penting-dalam-investasi/)
 * [Yuk Pahami Cara Menggunakan Price to Sales Ratio (P/S) untuk Menilai Suatu Saham](https://landx.id/blog/price-to-sales-ratio-adalah/)
-
