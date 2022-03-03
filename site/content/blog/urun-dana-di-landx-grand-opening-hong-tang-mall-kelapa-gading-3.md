@@ -1,16 +1,28 @@
 ---
 author: Vlora Riyandi
-title: Urun Dana di LandX, Grand Opening Hong Tang Mall Kelapa Gading 3
-metaTitle: Urun Dana di LandX, Grand Opening Hong Tang Mall Kelapa Gading 3
+title: Opening Hong Tang Mall Kelapa Gading 3 Hasil Kolaborasi Bersama LandX
+metaTitle: Opening Hong Tang Mall Kelapa Gading 3 Hasil Kolaborasi Bersama LandX
 metaDescription: Sukses urun dana dan gaet investor di LandX, Hong Tang buka
-  cabang terbaru di Mall Kelapa Gading 3. Investor miliki 7 outlet dengan modal
-  mulai sejuta
-intro: "-"
+  cabang terbaru di Mall Kelapa Gading 3. Investor miliki|Franchise Hong Tang
+  Modal 1 Juta
+intro: Yuk simak keseruan grand opening Hong Tang cabang Mall Kelapa Gading 3
+  yang merupakan hasil kolaborasi bersama LandX
 date: 2022-03-02T08:42:38.860Z
+tag:
+  - "Hong Tang "
+  - Cloud Kitchen
+  - Bisnis F&B
+  - Bisnis Franchise Modal Kecil
+  - Sistem Franchise
+  - Franchise Makanan
+  - Bisnis FnB
+category:
+  - "Bisnis "
+  - Investasi
 featuredImage:
   title: "PROJECT SERIES: Grand Opening Hong Tang Mall Kelapa Gading 3"
-  alt: landx project, menu hong tang, asian dessert
-  src: https://unsplash.com/photos/SzcP011bR1k
+  alt: Punya bisnis hong tang modal 1 juta
+  src: https://images.unsplash.com/photo-1601061223391-62eaaec5b59e?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1171&q=80
 ---
 Hong Tang adakan grand opening outlet terbaru di Mall Kelapa Gading 3, Jakarta Utara (26/02/2022). Grand opening ini merupakan salah satu dari rangakaian 7 outlet terbaru yang didanai investor di platform crowdfunding [LandX](https://landx.id/).
 
@@ -56,12 +68,14 @@ Buka pukul 10.00 - 21.00
 
 Investor project Hong Tang di [LandX](https://landx.id/) bisa miliki bisnis dengan modal minim mulai sejutaan dan akan menerima keuntungan bagi hasil dividen pada pertengahan tahun 2022 ini. Anda tertarik jadi investor?
 
-\#SekarangBisa miliki project bisnis potensial profit dan dapatkan keuntungan dividen berkala melalui aplikasi [investasi crowdfunding LandX](https://landx.id/). Di [LandX](https://landx.id/), Anda bisa memilih sendiri project bisnis yang ingin Anda danai dan setujui jumlah persentase keuntungannya sesuai perjanjian yang ditawarkan.
+\#SekarangBisa miliki project bisnis potensial profit dan dapatkan keuntungan dividen berkala melalui aplikasi [investasi crowdfunding LandX](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog). Di [LandX](https://landx.id/), Anda bisa memilih sendiri project bisnis yang ingin Anda danai dan setujui jumlah persentase keuntungannya sesuai perjanjian yang ditawarkan.
 
 [Investasi sistem crowdfunding](https://landx.id/) merupakan pilihan diversifikasi portofolio menguntungkan bagi Anda. Dengan [crowdfunding](https://landx.id/), Anda dapat memiliki bisnis secara patungan dengan modal mulai sejutaan.
 
-Yuk, download aplikasi[ LandX](https://landx.id/) dan miliki bisnis dengan modal mulai sejutaan aja
+Yuk, download aplikasi[ LandX](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog) dan miliki bisnis dengan modal mulai sejutaan aja
 
+**[Yuk Temukan Bisnis Menjanjikan dengan Keuntungan Terbaik di LandX](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)**
 
+[![miliki bisnis modal kecil cuma dengan 1 jutaan dapat 4 cabang ](https://accountgram-production.sfo2.cdn.digitaloceanspaces.com/landx_ghost/2021/11/jadi-owner-bisnis-hanya-1-jutaan-dengan-cuan-yang-sangat-menjanjikan.png)](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)
 
 <!--EndFragment-->
