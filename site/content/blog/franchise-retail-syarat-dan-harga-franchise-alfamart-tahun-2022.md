@@ -113,7 +113,7 @@ Dengan berinvestasi pada bisnis yang ada di platform equity crowdfunding [LandX]
 
 Anda akan menerima keuntungan dividen dari bisnis ternama di [LandX](https://landx.id/) berkisar 3 hingga 6 bulan sesuai perjanjian.  Menambah passive income dengan membuat uang yang bekerja untuk Anda. Jadikan uang adalah kendaraan untuk Anda mencapai financial dan life goals yang diharapkan.
 
-# [Karena itu, yuk berinvestasi di LandX dan dapatkan keuntungan dividen rutin setiap 3 bulan!](https://landx.id/)
+# [Karena itu, yuk berinvestasi di LandX dan dapatkan keuntungan dividen rutin setiap 3 bulan!](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)
 
 ## **[Yuk Temukan Bisnis Menjanjikan dengan Keuntungan Terbaik di LandX](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)**
 
