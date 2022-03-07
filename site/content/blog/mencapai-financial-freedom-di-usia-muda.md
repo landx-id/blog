@@ -6,7 +6,7 @@ title: "Memahami Cara Mencapai Financial Freedom di Usia Muda "
 metaTitle: "Memahami Cara Mencapai Financial Freedom di Usia Muda "
 metaDescription: "Kebebasan finansial atau financial freedom adalah kondisi dimana "
 intro: Yuk simak cara mencapai financial freedom di usia muda yang penting untuk
-  kamu siapkan.
+  kamu siapkan dari sekarang.
 date: 2021-10-11T09:23:37.000Z
 tag:
   - tips investasi
