@@ -93,6 +93,10 @@ Besaran investasi ini dapat berubah sesuai kondisi dan diluar investasi properti
 **2. Take Over** – Anda lebih berminat untuk mengambil alih gerai Alfamart yang sudah berjalan? Anda bisa memilih sistem take over gerai Alfamart.\
 Pembelian paket gerai Alfamart yang telah beroperasi adalah seharga mulai dari Rp 800 juta. Besaran ini mencakup franchise fee selama 5 tahun, sewa lokasi untuk 5 tahun, peralatan dan perizinan gerai.
 
+## Investasi Alfamart 5 Juta
+
+Apabila kamu ingin investasi ke bisnis Alfamart, maka salah satu cara yang bisa kamu lakukan adalah dengan ikut patungan bisnis dengan sistem equity crowdfunding yang memu
+
 ## \#SekarangBisa Miliki Bisnis dengan Modal Sejutaan
 
 [LandX ](https://landx.id/)sudah bahas harga fanchise Alfamart dan bagaimana cara punya franchise Alfamart. Bagaimana? Apa ketertarikan Anda untuk memiliki gerai yang identik dengan warna merah ini semakin kuat?
