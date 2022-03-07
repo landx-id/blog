@@ -95,9 +95,13 @@ Pembelian paket gerai Alfamart yang telah beroperasi adalah seharga mulai dari R
 
 ## Investasi Alfamart 5 Juta
 
-Apabila kamu ingin investasi ke bisnis Alfamart, maka salah satu cara yang bisa kamu lakukan adalah dengan ikut patungan bisnis dengan sistem equity crowdfunding yang memu
+Apabila kamu ingin investasi ke bisnis Alfamart, maka salah satu cara yang bisa kamu lakukan adalah dengan ikut patungan bisnis dengan sistem equity crowdfunding yang memberikan kamu kesempatan berinvestasi ke bisnis privat. 
 
-## \#SekarangBisa Miliki Bisnis dengan Modal Sejutaan
+Sistem ini memberikan kamu kesempatan untuk berinvestasi ke berbagai bisnis potensial cuma dengan [modal 1 juta](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog) dan sebagai pemegang saham kamu bisa mendapatkan keuntungan berupa dividen dari bagi hasil keuntungan bisnis tersebut. 
+
+Instrumen ini bisa jadi pilihan untuk kamu yang lagi cari instrumen investasi dengan keuntungan jangka panjang yang menjanjikan. 
+
+## [\#SekarangBisa Miliki Bisnis dengan Modal Sejutaan](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)
 
 [LandX ](https://landx.id/)sudah bahas harga fanchise Alfamart dan bagaimana cara punya franchise Alfamart. Bagaimana? Apa ketertarikan Anda untuk memiliki gerai yang identik dengan warna merah ini semakin kuat?
 
