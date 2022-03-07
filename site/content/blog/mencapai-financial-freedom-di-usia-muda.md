@@ -1,39 +1,46 @@
-+++
-author = "Abdul Wahhab"
-category = ["tips investasi", "Investasi Passive Income", "investasi pemula", "Equity Crowdfunding", "investasi", "investasi terbaik", "investor pemula", "laju inflasi", "patungan bisnis"]
-date = 2021-10-11T09:23:37Z
-metaDescription = "Financial freedom adalah saat seseorang bisa tetap hidup bercukupan tanpa bekerja karena mereka sudah memiliki passive income yang sudah bisa mencukupi"
-draft = false
-image = "https://images.unsplash.com/photo-1550071593-fd1bdaf1f93c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxMTc3M3wwfDF8c2VhcmNofDExfHxoYXBweSUyMHdvcmtlcnxlbnwwfHx8fDE2NDAxNDkwNDg&ixlib=rb-1.2.1&q=80&w=1080"
-slug = "mencapai-financial-freedom-di-usia-muda"
-tag = ["tips investasi", "Investasi Passive Income", "investasi pemula", "Equity Crowdfunding", "investasi", "investasi terbaik", "investor pemula", "laju inflasi", "patungan bisnis"]
-title = "Memahami Arti dari Financial Freedom dan Cara Mencapai Financial Freedom di Usia Muda"
+---
+draft: false
+author: Abdul Wahhab
+slug: mencapai-financial-freedom-di-usia-muda
+title: "Memahami Cara Mencapai Financial Freedom di Usia Muda "
+metaTitle: "Memahami Cara Mencapai Financial Freedom di Usia Muda "
+metaDescription: "Kebebasan finansial atau financial freedom adalah kondisi dimana "
+intro: Yuk simak cara mencapai financial freedom di usia muda yang penting untuk
+  kamu siapkan.
+date: 2021-10-11T09:23:37.000Z
+tag:
+  - tips investasi
+  - Investasi Passive Income
+  - investasi pemula
+  - Equity Crowdfunding
+  - investasi
+  - investasi terbaik
+  - investor pemula
+  - laju inflasi
+  - patungan bisnis
+featuredImage:
+  src: https://images.unsplash.com/photo-1550071593-fd1bdaf1f93c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxMTc3M3wwfDF8c2VhcmNofDExfHxoYXBweSUyMHdvcmtlcnxlbnwwfHx8fDE2NDAxNDkwNDg&ixlib=rb-1.2.1&q=80&w=1080
+  alt: Memahami apa itu financial freedom dan bagaimana cara mencapai finansial di
+    usia muda
+  title: Cara Mencapai Financial Freedom di Usia Muda yang Penting untuk Kamu Pahami
+image: https://images.unsplash.com/photo-1550071593-fd1bdaf1f93c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxMTc3M3wwfDF8c2VhcmNofDExfHxoYXBweSUyMHdvcmtlcnxlbnwwfHx8fDE2NDAxNDkwNDg&ixlib=rb-1.2.1&q=80&w=1080
+category:
+  - Investasi
+  - "Bisnis "
+---
+Salah satu tujuan keuangan yang ingin dicapai hampir semua orang adalah *financial freedom* atau kebebasan finansial. ***[Financial freedom](https://landx.id/)*** sendiri adalah kondisi di mana seseorang bisa tetap hidup bercukupan tanpa bekerja karena mereka sudah memiliki *[passive income](https://landx.id/project/)* yang sudah bisa mencukupi berbagai kebutuhan hidup mereka.
 
-+++
+Dengan kata lain, *financial freedom* dapat diartikan sebagai kondisi di mana aset yang kita miliki sudah bisa memberikan *[passive income](https://landx.id/project/)* yang cukup untuk memenuhi semua kebutuhan hidup mereka.
 
-
-Salah satu tujuan keuangan yang ingin dicapai hampir semua orang adalah _financial freedom_ atau kebebasan finansial. [_**Financial freedom**_](https://landx.id/) sendiri adalah kondisi di mana seseorang bisa tetap hidup bercukupan tanpa bekerja karena mereka sudah memiliki _[passive income](https://landx.id/project/)_ yang sudah bisa mencukupi berbagai kebutuhan hidup mereka.
-
-Dengan kata lain, _financial freedom_ dapat diartikan sebagai kondisi di mana aset yang kita miliki sudah bisa memberikan [_passive income_](https://landx.id/project/) yang cukup untuk memenuhi semua kebutuhan hidup mereka.
-
-Tahap ini sering juga disebut dengan finansial independent di mana seseorang tidak mengalami berbagai kendala finansial walaupun tidak bekerja karena sudah didukung dengan _passive income_ yang lebih besar dari penghasilannya.
+Tahap ini sering juga disebut dengan finansial independent di mana seseorang tidak mengalami berbagai kendala finansial walaupun tidak bekerja karena sudah didukung dengan *passive income* yang lebih besar dari penghasilannya.
 
 Kondisi ini tentu saja menjadi cita-cita banyak orang, akan tetapi untuk masuk ke dalam tahap ini tentu saja bukanlah hal yang mudah dan butuh berbagai tahap yang harus anda lewati terlebih dahulu.
 
-Karena itu, yuk kita bahas lebih lanjut tentang kebebasan finansial dan bagaimana cara mencapai _financial freedom_ di usia muda.
+Karena itu, yuk kita bahas lebih lanjut tentang kebebasan finansial dan bagaimana cara mencapai *financial freedom* di usia muda.
 
----
+- - -
 
-## Table of Content
-
-* **[Financial Freedom di Usia Muda](#financial-freedom-di-usia-muda)**
-* **[Tahapan Mencapai Financial Freedom](#tahapan-mencapai-financial-freedom)**
-* **[Cara Mencapai Financial Freedom](#cara-mencapai-financial-freedom)**
-* **[Investasi Bisnis dengan Passive Income](#investasi-bisnis-dengan-passive-income) **
-
----
-
-## _Financial Freedom_ di Usia Muda
+## *Financial Freedom* di Usia Muda
 
 Seperti yang sudah kita bahas sebelumnya, arti dari financial freedom adalah kondisi di mana seseorang sudah tidak perlu bekerja keras lagi karena investasi atau aset yang dimiliki bisa memberikan penghasilan untuk memenuhi berbagai kebutuhan hidup mereka.
 
@@ -43,7 +50,7 @@ Karena itu, kita perlu paham tentang bagaimana mengelola uang dengan baik sedini
 
 Karena itu, mari kita bahas berbagai tahap-tahap yang harus kita lewati hingga akhirnya masuk ke dalam tahap financial freedom.
 
-## Tahapan Mencapai _Financial Freedom_
+## Tahapan Mencapai *Financial Freedom*
 
 Untuk kamu yang ingin mencapai financial freedom di usia muda, berikut berbagai tahap yang harus anda lewati untuk mencapai financial freedom:
 
@@ -97,28 +104,27 @@ Dalam tahap financial freedom, investasi seseorang biasanya sudah memberikan mer
 
 Karena itu, kamu harus menghitung berapa jumlah investasi yang harus kamu lakukan agar bisa memberikan return yang bisa memenuhi kebutuhan kamu.
 
-## Investasi Bisnis dengan _Passive Income_
+## Investasi Bisnis dengan *Passive Income*
 
-Investasi bisnis melalui **_[equity crowdfunding](https://landx.id/project/)_** merupakan salah satu instrumen investasi yang bisa membantu kamu mencapai financial freedom karena bisa memberikan kamu dividen dari keuntungan bisnis yang kamu danai.
+Investasi bisnis melalui ***[equity crowdfunding](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)*** merupakan salah satu instrumen investasi yang bisa membantu kamu mencapai financial freedom karena bisa memberikan kamu dividen dari keuntungan bisnis yang kamu danai.
 
 Apabila kamu berinvestasi melalui skema ini, maka kamu bisa mendapatkan dividen rutin yang besarnya mengikuti keuntungan dari bisnis yang anda danai. Karena itu, patungan bisnis melalui equity crowdfunding merupakan salah satu instrumen investasi yang sangat cocok untuk mempermudah anda mencapai financial freedom.
 
 **Karena itu..**
 
-## [Yuk Ikut Patungan Bisnis Menguntungkan Bareng LandX](https://landx.id/project/)
+## [Yuk Ikut Patungan Bisnis Menguntungkan Bareng LandX](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)
 
-[![bangun passive income agar kamu bisa segera mencapai finansial freedom dengan berinvestasi melalui skema equity crowdfunding di LandX](https://accountgram-production.sfo2.cdn.digitaloceanspaces.com/landx_ghost/2021/10/patungan-bisnis-menguntungkan-bareng-landx-3.png)](https://landx.id/project/)
+[![miliki bisnis modal kecil cuma dengan 1 jutaan dapat 4 cabang ](https://accountgram-production.sfo2.cdn.digitaloceanspaces.com/landx_ghost/2021/11/jadi-owner-bisnis-hanya-1-jutaan-dengan-cuan-yang-sangat-menjanjikan.png)](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)
 
-[**Jangan Lupa!! Follow @landx.id di Instagram Supaya Terus Update Berbagai Info Seputar Investas**](https://instagram.com/landx.id?utm_medium=copy_link)**i**
+**[Jangan Lupa!! Follow @landx.id di Instagram Supaya Terus Update Berbagai Info Seputar Investas](https://instagram.com/landx.id?utm_medium=copy_link)i**
 
----
+- - -
 
 **Baca Juga:**
 
-* [**Return on Investment (ROI): Cara Menghitung dan Jenis-Jenis ROI**](https://landx.id/blog/return-on-investment-roi-adalah/)
-* [**Crowdfunding di Indonesia: Mengenal Sistem Investasi Melalui crowdfunding yang Semakin Diminati Masyarakat Indonesia**](https://landx.id/blog/crowdfunding-di-indonesia-untuk-investasi/)
+* **[Return on Investment (ROI): Cara Menghitung dan Jenis-Jenis ROI](https://landx.id/blog/return-on-investment-roi-adalah/)**
+* **[Crowdfunding di Indonesia: Mengenal Sistem Investasi Melalui crowdfunding yang Semakin Diminati Masyarakat Indonesia](https://landx.id/blog/crowdfunding-di-indonesia-untuk-investasi/)**
 
----
+- - -
 
-**#YukPatunganBisnis    #LandX.id    #landx         #landx.id    #InvestasiBisnis    #SecuritiesCrowdfunding #EquityCrowdfunding    #InvestasiMenguntungkan    #Urundana    #BisnisPatungan    #InvestasiUsaha**
-
+**\#YukPatunganBisnis    #LandX.id    #landx         #landx.id    #InvestasiBisnis    #SecuritiesCrowdfunding #EquityCrowdfunding    #InvestasiMenguntungkan    #Urundana    #BisnisPatungan    #InvestasiUsaha**
