@@ -4,8 +4,8 @@ author: Abdul Wahhab
 slug: daftar-orang-terkaya-di-dunia-tahun-2021
 title: Daftar 5 Orang Terkaya di Dunia 2021 dan Strategi Investasinya
 metaTitle: Daftar 5 Orang Terkaya di Dunia 2021 dan Strategi Investasinya
-metaDescription: "Daftar orang terkaya di dunia 2021: Elon Musk, Jeff Bezos,
-  Bernard Arnault & Family, Bill Gates, Larry Page"
+metaDescription: "Siapakah orang terkaya di dunia? Yuk cek daftar terbaru 5
+  orang terkaya di dunia berikut ini "
 intro: Baru-baru ini Forbes merilis daftar orang paling kaya di dunia tahun
   2021. Karena itu, mari kita lihat strategi investasi dari orang-orang terkaya
   di dunia ini yang siapa tau bisa kamu contoh.
@@ -19,10 +19,10 @@ tag:
   - tips investasi
 featuredImage:
   src: https://images.unsplash.com/photo-1617671536627-ad3218167479?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxMTc3M3wwfDF8c2VhcmNofDMzfHxlbG9ufGVufDB8fHx8MTY0MDA2ODY1MQ&ixlib=rb-1.2.1&q=80&w=1080
-  alt: Mengenal 5 orang terkaya di dunia dan berbagai jenis investasi yang mereka
-    jalankan
-  title: Mengenal 5 orang terkaya di dunia tahun 2021 dan investasi yang mereka
-    jalankan
+  alt: "Siapakah 5 orang terkaya di dunia dan bagaimana strategi investasi yang
+    mereka lakukan. "
+  title: 5 orang terkaya di dunia yang harus kamu kenali dengan baik strategi
+    investasi yang harus kamu kenali
 image: https://images.unsplash.com/photo-1617671536627-ad3218167479?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxMTc3M3wwfDF8c2VhcmNofDMzfHxlbG9ufGVufDB8fHx8MTY0MDA2ODY1MQ&ixlib=rb-1.2.1&q=80&w=1080
 category:
   - Investasi
@@ -34,13 +34,13 @@ Baru-baru ini [Forbes](https://www.forbes.com/real-time-billionaires/#623005d3d7
 
 Orang-orang terkaya di dunia ini bergerak di berbagai bidang bisnis dan strategi investasi yang berbeda-beda pula untuk mengembangkan kekayaan yang mereka miliki.
 
-**Karena itu, yuk kita bahas 5 orang terkaya di dunia 2021** versi *Real Time Billionaires*  [Forbes](https://www.forbes.com/real-time-billionaires/#623005d3d788) serta pola pikir yang dijalankan.
+**Karena itu, mari kita bahas siapakah 5 orang terkaya di dunia 2021** versi *Real Time Billionaires*  [Forbes](https://www.forbes.com/real-time-billionaires/#623005d3d788) serta pola pikir yang dijalankan.
 
 - - -
 
-## Daftar Orang Terkaya di Dunia 2021
+## Orang Terkaya di Dunia 2021
 
-Supaya kamu tau siapakah orang terkaya di dunia tahun 2021, yuk cek list orang-orang terkaya di dunia di bawah ini untuk inspirasi mengatur keuangan di 2o22
+Supaya kamu tau siapakah orang terkaya di dunia tahun 2021, yuk cek list siapakah orang-orang terkaya di Indonesia versi Forbes tahun 2021.
 
 ### 1. Elon Musk
 
@@ -129,11 +129,11 @@ Selalu berinvestasi sehingga mampu menjadi pengaruh dalam dunia bisnis. Bahkan d
 
 **Karena itu,**
 
-## [Mari mulai berinvestasi dan jadi bagian paling kaya dari dirimu!](https://landx.id/project/)
+## **[Yuk Temukan Bisnis Menjanjikan dengan Keuntungan Terbaik di LandX](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)**
+
+[![miliki bisnis modal kecil cuma dengan 1 jutaan dapat 4 cabang ](https://accountgram-production.sfo2.cdn.digitaloceanspaces.com/landx_ghost/2021/11/jadi-owner-bisnis-hanya-1-jutaan-dengan-cuan-yang-sangat-menjanjikan.png)](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)
 
 Untuk membangun fondasi finansial yang kuat kamu butuh investasi mulai dari sekarang, LandX merupakan platform equity crowdfunding berizin OJK yang akan membantu kamu menemukan bisnis terbaik untuk investasi jangka panjang kamu.
-
-[![jadi-owner-bisnis-hanya-1-jutaan-dengan-cuan-yang-sangat-menjanjikan](https://accountgram-production.sfo2.cdn.digitaloceanspaces.com/landx_ghost/2021/11/jadi-owner-bisnis-hanya-1-jutaan-dengan-cuan-yang-sangat-menjanjikan.png)](https://landx.id/project/)
 
 - - -
 
