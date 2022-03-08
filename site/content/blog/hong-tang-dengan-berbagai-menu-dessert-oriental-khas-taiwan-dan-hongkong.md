@@ -21,6 +21,7 @@ tag:
   - Cloud Kitchen
   - investasi dengan modal kecil
   - sistem franchise
+  - HONG
 featuredImage:
   src: https://accountgram-production.sfo2.cdn.digitaloceanspaces.com/landx_ghost/2021/12/hongtang-landx-taiwan-1.png
   alt: Dessert oriental khas asia dengan konsep cloud kitchen
