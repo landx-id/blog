@@ -5,12 +5,23 @@ metaTitle: "Kenali Sikap Hedonisme: Dampak dan 4 Cara Mengendalikannya"
 metaDescription: 4 Cara terbaik untuk mengendalikan sikap hedonisme adalah
   dengan menata skala prioritas untuk menyembangkan kepuasan jangka pendek dan
   jangka panjang.
-intro: "-"
+intro: Supaya keuangan kamu makin terkendali, mari kita kenali apa itu sikap
+  hedonisme dan bagaimana cara menghindari sikap hedon agar keuangan kamu makin
+  diatur dengan baik.
 date: 2022-03-08T01:44:42.059Z
+tag:
+  - Mengatur Keuangan
+  - Investasi untuk Pemula
+  - Investasi Passive Income
+category:
+  - Investasi
+  - Keuangan
 featuredImage:
-  src: https://unsplash.com/photos/_3Q3tsJ01nc
-  title: "Kenali Sikap Hedonisme: Dampak dan 4 Cara Mengendalikannya"
-  alt: landx cara mengendalikan hedonisme
+  src: https://images.unsplash.com/photo-1483985988355-763728e1935b?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80
+  title: Cara Mengendalikan Sikap Hedonisme yang Agar Manajemen Keuangan Kita
+    Menjadi Lebih Optimal
+  alt: Memahami apa itu sikap hedonisme dan bagaimana cara menghindari sikap
+    hedonisme agar keuangan kita stabil
 ---
 Muda-mudi trendy kekinian dikenal sulit mengendalikan pengeluaran dan lebih memilih belanja apa yang mereka inginkan tanpa perhitungan matang. Sikap ini secara umum terjadi secara menyeluruh dikalangan ini, konsep sikap ini kemudian dikenal sebagai hedon atau sikap hedonisme. 
 
