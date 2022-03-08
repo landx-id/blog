@@ -27,7 +27,9 @@ Muda-mudi trendy kekinian dikenal sulit mengendalikan pengeluaran dan lebih memi
 
 Mereka cenderung memilih bergaya hidup hedonisme demi memuaskan diri.  Semua pengeluaran tanpa perhitungan yang mumpuni tersebut mereka lakukan hanyalah demi kesenangan sesaat. 
 
-Hedonisme berasal dari kata hedonism yang diartikan sebagai konsep bahwa mengejar kepuasan atau “pleasure”. **Hedonisme adalah konsep menjadikan kepuasan atau kesenangan dunia sebagai hal paling penting dalam kesejahteraan hidup manusia.** Orang yang mementingkan konsep mengejar kepuasan ini juga dikenal sebagai pleasure-seeker.
+Hedonisme berasal dari kata hedonism yang diartikan sebagai konsep bahwa mengejar kepuasan atau “pleasure”. 
+
+> **Hedonisme adalah konsep menjadikan kepuasan atau kesenangan dunia sebagai hal paling penting dalam kesejahteraan hidup manusia.** Orang yang mementingkan konsep mengejar kepuasan ini juga dikenal sebagai pleasure-seeker.
 
 Sosok Epicurus, filsuf Yunani, mengajarkan konsep mengejar kepuasan melalui tulisannya bernama Letter of Menoeceus. Letter of Menoeceus menyebarkan pemikiran bahwa kebahagiaan hanya bisa didapatkan melalui kepuasan dunia. 
 
@@ -37,7 +39,7 @@ Mengejar kebahagiaan di dunia terdengar sebagai konsep yang simpel, layaknya kit
 
 Namun, pada konsep hedonisme yang diusung oleh Epicurus ini mengutamakan hanya kebahagiaan diri sendiri. Sehingga dikategorikan sebagai hedonisme egoistic atau hedonisme yang hanya mementingkan diri sendiri sehingga menelantarkan pekerjaan dan kewajibannya.
 
-**Beberapa bentuk hedonisme dikategorikan sebagai berikut:**
+## **Beberapa bentuk hedonisme dikategorikan sebagai berikut:**
 
 * **Normative hedonism** – jenis hedonisme ini adalah pemikiran bahwa suatu keharusan untuk menjadikan kebahagiaan sebagai motivasi utama seseorang.
 * **Motivational hedonism** – hedonisme ini membuat orang hanya melakukan apa yang ingin mereka lakukan. Dalam konsep ini, dengan melakukan hanya sesuatu yang mereka ingin lakukan membuat mereka tidak mengimbangi dengan apa yang seharusnya dikerjakan. 
@@ -55,23 +57,23 @@ Tahun 2012, Wall Street Journal menyimpulkan dari hasil cuitan Twitter orang-ora
 
 Aktor Amerika, Jack Black, menuliskan opininya di tengah kekacauan penggunaan frasa ini dengan me-tweet ‘YOLO adalah carpe diem bagi orang-orang bodoh’. Sebagaimana konsep ini yang tidak berusaha menyeimbangkan antara kebahagiaan jangka pendek dan jangka panjang.
 
-## Kenapa Hedonisme Problematik?
+## Kenapa Hedonisme Buruk untuk Keuangan Jangka Panjang Anda?
 
 Karena hanya mengejar kepuasan sesaat, dampak hedonisme adalah membuat orang tersebut menjadi mengabaikan tanggung jawab yang harus dilakukannya. Beberapa dampak negatif hedonisme adalah sebagai berikut:
 
-* **Konsumtif**
+* ### **Konsumtif**
 
 Sikap hedonisme yang umum dilakukan para milenial untuk memenuhi rasa puasnya umumnya membuat keuangan menjadi kempis. Mereka berusaha membeli semua hal yang diinginkan padahal belum diperlukan. 
 
 Membiayai gaya hidup yang serba mahal demi eksis di media sosial. Serta, berusaha menyembangi lingkup sosial yang merogoh dompet secara dalam. Padahal tidak harus melakukan hal tersebut, seperti posting telah hadir di cafe populer demi merasa tidak ketinggalan. 
 
-* **Pemalas dan menghindari tanggung jawab**
+* ### **Pemalas dan menghindari tanggung jawab**
 
 Mengejar hanya kepuasan dan hanya melakukan apa yang disenangi membuat orang dengan sikap hedonisme selalu berusaha menghindari apa yang seharusnya mereka lakukan. 
 
 Jika disuruh memilih antara menabung rutin atau membeli barang mahal trendy yang sedang promo. Diyakini  kategori orang-orang hedon akan ‘skip’ kegiatan menabung atau investasi rutinnya. 
 
-* **Korupsi** 
+* ### **Korupsi** 
 
 Dampak terburuk hedonisme kategori parah dan terlalu sulit dikendalikan bisa mengarah pada membutuhkan saluran keuangan yang lebih banyak. 
 
@@ -83,13 +85,13 @@ Kata ‘mencegah lebih baik daripada mengobati’ adalah kalimat yang benar ada 
 
 Terus, apa yang harus dilakukan seseorang untuk mengobati sikap hedon dan YOLO? LandX telah merangkum cara terbaik untuk mengendalikan sikap hedon jika kamu sedang terjebak:
 
-1. #### **Buat skala prioritas**
+### **1. Buat skala prioritas**
 
 Cara terbaik dalam menyelesaikan berbagai masalah adalah dengan melakukan time management untuk kembali fokus pada tujuan. Caranya dapat dimulai dengan menyusun skala prioritas. 
 
 Buat skala prioritas kamu dengan cara tuliskan semua to do list yang perlu dikerjakan. Selanjutnya berikan urutan mana yang paling penting dan kerjakan fokus berurutan agar semua final terselesaikan.
 
-2. #### Bijak menggunakan media sosial
+### 2. Bijak menggunakan media sosial
 
 Manusia memang mudah tergoda, namun semua manusia tidak sama. Pembedanya adalah bagaimana seseorang mengendalikan diri agar tidak terjebak godaan duniawi apalagi hanya produk dari dunia daring. 
 
@@ -97,13 +99,11 @@ Media sosial yang tidak punya pagar pembatas dan memberi berbagai tawaran promo 
 
 Menambah list keinginan bukan sebuah kesalahan, namun sebaiknya balik pada skala prioritas bila ingin memutuskan untuk melakukan pembelian. Jangan terjebak dengan sikap hedon yang menyesatkan jalur keuangan kamu.
 
-3. #### Sadar kembali dengan tujuan finansial
+### 3. Sadar kembali dengan tujuan finansial
 
-Perlu untuk memiliki tujuan finansial, misalkan kamu ingin pensiun dini setelah mencapai suatu target nilai keuangan. Tidak mungkin dapat pensiun dini jika menerapkan sikap hedon dengan membeli barang secara berlebihan.
+Perlu untuk memiliki tujuan finansial, misalkan kamu ingin pensiun dini setelah mencapai suatu target nilai keuangan. Tidak mungkin dapat pensiun dini jika menerapkan sikap hedon dengan membeli barang secara berlebihan. Efek membeli barang dengan harga selangit dan tidak diiringi arus kas tambahan akan berdampak pada nilai keuangan yang semakin sempit. Sekarang bukan jamannya lagi untuk kamu bekerja 24/7 sampai akhir hayat, uang sudah diberikan ruang untuk bisa bekerja dan menghasilkan tambahan uang lagi dengan cara berinvestasi.
 
-Efek membeli barang dengan harga selangit dan tidak diiringi arus kas tambahan akan berdampak pada nilai keuangan yang semakin sempit. Sekarang bukan jamannya lagi untuk kamu bekerja 24/7 sampai akhir hayat, uang sudah diberikan ruang untuk bisa bekerja dan menghasilkan tambahan uang lagi dengan cara berinvestasi.
-
-4. #### **Jadikan tabungan dan investasi rutin sebagai suatu kewajiban**
+### **4. Jadikan tabungan dan investasi rutin sebagai suatu kewajiban**
 
 Semua orang kini sudah melek investasi, namun belum semua orang berinvestasi karena takut dengan rumor rasa tidak aman berseliweran. Semua jenis instrumen investasi membawa risiko tersendiri. Kenali diri dan pilih instrumen paling cocok dengan profil kamu.
 
@@ -113,6 +113,8 @@ Tahun 2022 adalah tahun dengan akses digital tak terbatas dengan berbagai piliha
 
 Berinvestasi sistem crowdfunding di LandX memungkinkan kamu untuk memiliki bisnis menguntungkan dengan konsep patungan. Berinvestasi dengan memilih sendiri bisnis dan nilai keuntungan dividen dengan modal mulai sejutaan.
 
-## Di LandX, #SekarangBisa dapat dividen dari bisnis menguntungkan dengan modal sejutaan!
+## [Di LandX, #SekarangBisa dapat dividen dari bisnis menguntungkan dengan modal sejutaan!](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)
 
-Kunjungi LandX sekarang
+**Yuk Temukan Bisnis Menjanjikan dengan Keuntungan Terbaik di LandX**
+
+[![miliki bisnis modal kecil cuma dengan 1 jutaan dapat 4 cabang ](https://accountgram-production.sfo2.cdn.digitaloceanspaces.com/landx_ghost/2021/11/jadi-owner-bisnis-hanya-1-jutaan-dengan-cuan-yang-sangat-menjanjikan.png)](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)[Kunjungi LandX sekarang](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)
