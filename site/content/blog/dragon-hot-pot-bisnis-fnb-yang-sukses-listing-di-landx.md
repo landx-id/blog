@@ -16,6 +16,7 @@ tag:
   - Investasi untuk Pemula
   - franchise f&b
   - sistem franchise
+  - DHP1
 featuredImage:
   src: https://accountgram-production.sfo2.cdn.digitaloceanspaces.com/landx_ghost/2021/12/Screenshot-2021-12-10-at-19-57-19-PROJECT-SERIES-DRAGON-HOT-POT-x-LANDX-Investasi-Cabang-Baru-di-PIK.png
   alt: Dragon hot pot pik 2 buka  melalui pendanaan di landx
