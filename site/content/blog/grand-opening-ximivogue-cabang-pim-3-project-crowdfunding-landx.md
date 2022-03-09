@@ -24,7 +24,7 @@ featuredImage:
 ---
 Bergabung di [LandX](https://landx.id/), Ximivogue buka gerai baru berlokasi di Pondok Indah Mall 3 bersama para investor di [platform investasi crowdfunding LandX](https://landx.id/) (04/03/2022).
 
-{{< youtube id="hr5nwJmc" >}}
+{{< youtube id="25-hr5nwJmc" >}}
 
 {{< button link="https://www.youtube.com/watch?v=25-hr5nwJmc" text="Watch This Video" >}}
 
@@ -64,7 +64,7 @@ Tahukah kamu, investor di [LandX](https://landx.id/) dapat memiliki project Ximi
 
 Project Ximivogue adalah project yang telah menerima pendanaan dari pemilik modal di [LandX](https://landx.id/) dengan total sebesar Rp 10 miliar. Dana ini digunakan untuk membuka 2 cabang baru, salah satunya Ximivogue cabang PIM 3. 
 
-Dengan [berinvestasi pada project bisnis di LandX](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog\), pemilik modal akan mendapatkan keuntungan dividen setelah bisnis resmi berjalan. Investor Ximivogue sendiri akan menerima keuntungan dividen rutin setiap 3 bulan.
+Dengan \[berinvestasi pada project bisnis di LandX](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog), pemilik modal akan mendapatkan keuntungan dividen setelah bisnis resmi berjalan. Investor Ximivogue sendiri akan menerima keuntungan dividen rutin setiap 3 bulan.
 
 Kamu juga dapat memiliki bisnis dan menjadi investor project sekeren Ximivogue ini, loh! Dengan berinvestasi mulai Rp 1 jutaan, kamu dapat menjadi owner bisnis menguntungkan dan menerima keuntungan rutin.
 
