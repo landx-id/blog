@@ -7,7 +7,6 @@ metaDescription: "Hasil kolaborasi bersama LandX, Ximivogue cabang Pondok Indah
 intro: Yuk cek keseruan grand opening Ximivogue PIM 3 yang telah resmi beroperasi.
 date: 2022-03-09T08:36:45.705Z
 tag:
-  - XIMI
   - Investasi Bisnis
   - Bisnis Retail
   - Bisnis Modal Kecil
