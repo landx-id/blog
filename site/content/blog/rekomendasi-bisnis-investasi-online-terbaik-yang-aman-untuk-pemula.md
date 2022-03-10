@@ -1,39 +1,41 @@
-+++
-author = "Abdul Wahhab"
-category = ["investasi online", "bisnis investasi online", "crowdfunding properti", "Equity Crowdfunding", "Investasi untuk Pemula", "investor pemula", "instrumen pasar modal"]
-date = 2021-03-26T03:51:00Z
-metaDescription = "Pemula dapat memulai bisnis investasi online dengan berbagai pilihan instrumen investasi online di sekitar anda. Berikut rekomendasi bisnis investasi online"
-draft = false
-image = "https://accountgram-production.sfo2.cdn.digitaloceanspaces.com/landx_ghost/2021/03/5.-bisnis-investasi-online.jpg"
-slug = "rekomendasi-bisnis-investasi-online-terbaik-yang-aman-untuk-pemula"
-tag = ["investasi online", "bisnis investasi online", "crowdfunding properti", "Equity Crowdfunding", "Investasi untuk Pemula", "investor pemula", "instrumen pasar modal"]
-title = "7 Rekomendasi Bisnis Investasi Online Terbaik yang Aman untuk Pemula"
-
-+++
-
-
+---
+draft: false
+author: Abdul Wahhab
+slug: rekomendasi-bisnis-investasi-online-terbaik-yang-aman-untuk-pemula
+title: 7 Rekomendasi Bisnis Investasi Online Terbaik yang Aman untuk Pemula
+metaTitle: 7 Rekomendasi Bisnis Investasi Online Terbaik yang Aman untuk Pemula
+metaDescription: Pemula dapat memulai bisnis investasi online dengan berbagai
+  pilihan instrumen investasi online di sekitar anda. Rekomendasi investasi
+  online
+intro: Yuk rekomendasi investasi online yang bisa jadi pilihan investasi jangka
+  panjang kamu
+date: 2021-03-26T03:51:00.000Z
+tag:
+  - investasi online
+  - bisnis investasi online
+  - crowdfunding properti
+  - Equity Crowdfunding
+  - Investasi untuk Pemula
+  - investor pemula
+  - instrumen pasar modal
+featuredImage:
+  src: https://images.unsplash.com/photo-1579621970563-ebec7560ff3e?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1171&q=80
+  alt: Pilihan bisnis investasi online yang memberikan anda keuntungan jangka
+    panjang
+  title: Investasi terbaik yang memberikan kamu keuntungan jangka panjang
+image: https://accountgram-production.sfo2.cdn.digitaloceanspaces.com/landx_ghost/2021/03/5.-bisnis-investasi-online.jpg
+category:
+  - Investasi
+---
 Apakah Anda sudah [bisnis investasi online](https://landx.id)? jika belum, maka anda harus mulai sekarang. Karena jika dilakukan dengan benar, investasi ini  bisa memberikan untung yang sangat besar. Apalagi sekarang sudah ada investasi online, membuat investasi semakin mudah. Ada banyak platform online yang bisa menyediakan berbagai jenis layanan investasi.
 
 Anda tidak hanya memilih platform, ya! Saat ini, ada banyak penipuan investasi online. Sebaiknya pilih **[platform investasi online resmi OJK](https://landx.id/)** yang terbukti aman.
 
 Jika Anda tertarik, berikut adalah daftar investasi online dan platform digital yang direkomendasikan.
 
-_[LandX adalah investasi bisnis properti online dengan modal minim dan bebas resiko.](https://landx.id)_
+*[LandX adalah investasi bisnis properti online dengan modal minim dan bebas resiko.](https://landx.id)*
 
----
-
-## Table of Content
-
-* **[1. Reksa Dana](#1-reksa-dana)**
-* **[2. Emas](#2-emas)**
-* **[3. P2P Lending](#3-P2P-lending)**
-* **[4. Obligasi Negara Ritel](#4-obligasi-negara-ritel)**
-* **[5. Forex](#5-Forex)**
-* **[6. Saham](#6-saham)**
-* **[7. Crowdfunding, Beli Properti dengan Cara Patungan](#7-crowdfunding-beli-properti-dengan-cara Patungan)**
-* **[Pentingnya Pengetahuan Investasi](#pentingnya-pengetahuan-investasi)**
-
----
+- - -
 
 ## 1. Reksa Dana
 
@@ -41,14 +43,14 @@ Bagi yang masih pemula, Anda bisa berinvestasi di reksa dana online. Reksa dana 
 
 Reksa dana terbagi menjadi beberapa jenis yaitu reksa dana pasar uang, reksa dana obligasi, reksa dana saham dan reksa dana campuran. Sebagai pemula, Anda bisa memilih reksa dana pasar uang.
 
----
+- - -
 
 **Artikel Terkait:**
 
 * [Cara Kerja Reksa Dana - Memahami Seluk Beluk Instrumen Investasi Reksa Dana](https://landx.id/blog/cara-kerja-reksa-dana/)
 * Obligasi: Mengenal Apa Itu Obligasi dan Jenis-Jenis Obligasi untuk Investasi Anda
 
----
+- - -
 
 Anda dapat menggunakan berbag_a_i platform untuk membeli produk investasi reksa dana.
 
@@ -90,14 +92,14 @@ Transaksi valuta asing adalah investasi yang dilakukan dengan membeli dan menjua
 
 Investasi ini sangat rumit. Para pemula harus bisa mempelajari sistem perdagangan dan berbagai strategi perdagangan valuta asing terlebih dahulu agar investasi mereka bisa menguntungkan.
 
----
+- - -
 
 **Artikel Terkait:**
 
 * [Trading Forex: Memahami Apa Forex dan Seluk Beluknya](https://landx.id/blog/apa-itu-forex-dan-cara-trading-serta-investasi-dalam-forex/)
 * [Mau Mulai Investasi? Yuk Pahami Dulu Perbedaan Investasi dan Trading](https://landx.id/blog/perbedaan-investasi-dan-trading/)
 
----
+- - -
 
 ## [6. Saham](https://landx.id/blog/tag/cara-investasi-saham/)
 
@@ -115,7 +117,7 @@ Ada baiknya anda untuk memahami pasar modal terlebih dahulu, bagaimana cara berd
 
 Apa itu crowdfunding? Secara umum, Crowdfunding adalah sebagai pembiayaan bersama dari masyarakat luas untuk mengumpulkan dana yang dibutuhkan untuk proyek tertentu.
 
-[**LandX**](https://landx.id/) sebuah website crowdfunding asal Indonesia, terbukti mampu menampilkan hasil-hasil pembiayaan di bidang kreatif. Investor kini semakin mudah menanam modal ke [**bisnis UMKM**](https://landx.id/project/) seiring munculnya [crowdfunding di Indonesia](https://landx.id/) karena berdampak positif pada bantuan finansial untuk mencapai tujuan banyak orang (seperti membeli properti).
+**[LandX](https://landx.id/)** sebuah website crowdfunding asal Indonesia, terbukti mampu menampilkan hasil-hasil pembiayaan di bidang kreatif. Investor kini semakin mudah menanam modal ke **[bisnis UMKM](https://landx.id/project/)** seiring munculnya [crowdfunding di Indonesia](https://landx.id/) karena berdampak positif pada bantuan finansial untuk mencapai tujuan banyak orang (seperti membeli properti).
 
 Crowdfunding atau [Urun dana properti](https://landx.id/) yang mudah adalah Anda dapat membeli real estat dengan sistem patungan bersama  investor lain melalui situs web [LandX](https://landx.id/) yang menyediakan layanan ini.
 
@@ -125,7 +127,7 @@ Jika Anda memilih untuk berinvestasi di [properti online](https://landx.id/blog/
 
 Oleh karena itu, umumnya cenderung menyewakannya kepada orang lain, kemudian menggunakan sistem bagi hasil berdasarkan persetujuan pemiliknya. Dari keuntungan ini, Anda bisa menggunakannya untuk keperluan pribadi lainnya.
 
-Apakah menurut Anda prosesnya rumit? Anda hanya perlu sedikit bersantai, mulai dari prosedur perizinan hingga pengelolaan properti akan ditangani oleh perusahaan yang bertindak sebagai [**fasilitator crowdfunding yaitu LandX**](https://landx.id/project/)
+Apakah menurut Anda prosesnya rumit? Anda hanya perlu sedikit bersantai, mulai dari prosedur perizinan hingga pengelolaan properti akan ditangani oleh perusahaan yang bertindak sebagai **[fasilitator crowdfunding yaitu LandX](https://landx.id/project/)**
 
 Investasi properti online memang menjanjikan, namun sebelum memutuskan untuk berinvestasi harap selalu diingat prinsip “high risk and high return, low risk and low return”.
 
@@ -147,24 +149,21 @@ Sebagai investor anda juga perlu paham bagaimana memilih [platform crowdfunding]
 
 Supaya investasi kamu makin cuan, yuk tips investasi untuk pemula dari MindLand
 
-<iframe width="200" height="113" src="https://www.youtube.com/embed/2YqaD_Hx92I?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+{{< youtube id="2YqaD_Hx92I" >}}
 
-> **[Yuk Follow Kami di Instagram @landx.id Untuk Berbagai Info Seputar Investasi Online Terbaru](https://www.instagram.com/landx.id/?utm_medium=copy_link)**
+**[Yuk Temukan Bisnis Menjanjikan dengan Keuntungan Terbaik di LandX](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)**
 
----
+[![miliki bisnis modal kecil cuma dengan 1 jutaan dapat 4 cabang ](https://accountgram-production.sfo2.cdn.digitaloceanspaces.com/landx_ghost/2021/11/jadi-owner-bisnis-hanya-1-jutaan-dengan-cuan-yang-sangat-menjanjikan.png)](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)
 
-## Yuk Patungan Bisnis Bareng LandX
+[](https://landx.id/project/#/ximi)
 
-[![Bagaimana? Kamu lebih suka bisnis dengan buyback guarantee atau yang bisa disimpan dalam jangka panjang? Apapun pilihan kamu.. Yuk Patungan  dengan Keuntungan Menjanjikan Bareng LandX](https://accountgram-production.sfo2.cdn.digitaloceanspaces.com/landx_ghost/2021/10/Equity-Crowdfunding-di-Indonesia-1--3.png)](https://landx.id/project/#/ximi)
-
----
+- - -
 
 **Baca Juga:**
 
 * [Skala Prioritas: Memahami Pengertian dan Tujuan Menyusun Skala Prioritas dalam Mengelola Keuangan](https://landx.id/blog/konsep-skala-prioritas/)
 * [Memahami Apa Itu Cash Flow dan Manfaatnya dalam Menyusun Rencana Investasi](https://landx.id/blog/cashflow-adalah/)
 
----
+- - -
 
-**#YukPatunganBisnis    #LandX.id    #landx         #landx.id    #InvestasiBisnis  #SecuritiesCrowdfunding   #EquityCrowdfunding    #InvestasiMenguntungkan     #Urundana    #BisnisPatungan    #InvestasiUsaha**
-
+**\#YukPatunganBisnis    #LandX.id    #landx         #landx.id    #InvestasiBisnis  #SecuritiesCrowdfunding   #EquityCrowdfunding    #InvestasiMenguntungkan     #Urundana    #BisnisPatungan    #InvestasiUsaha**
