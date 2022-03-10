@@ -1,43 +1,41 @@
-+++
-author = "Abdul Wahhab"
-category = ["Bisnis F&B", "Bisnis Franchise Modal Kecil", "bisnis investasi", "bisnis investasi terpercaya"]
-date = 2021-06-23T04:45:45Z
-metaDescription = "Berikut beberapa tips memulai bisnis F&B yang bisa anda terapkan untuk bisnis anda. Perhatikan beberapa hal ini saat anda memulai bisnis F&B."
-draft = false
-slug = "memulai-bisnis-f-b"
-tag = ["Bisnis F&B", "Bisnis Franchise Modal Kecil", "bisnis investasi", "bisnis investasi terpercaya"]
-title = "Tips Sukses Membangun Bisnis F&B yang Sukses dan Menguntungkan"
-
-+++
-
-
-[**Bisnis Food and Beverages (F&B)**](https://landx.id/project/) merupakan salah satu bisnis yang tidak ada matinya karena makanan dan minuman merupakan salah satu kebutuhan dasar setiap orang.
+---
+draft: false
+author: Abdul Wahhab
+slug: memulai-bisnis-f-b
+title: Tips Sukses Membangun Bisnis F&B yang Sukses dan Menguntungkan
+metaTitle: Tips Sukses Membangun Bisnis F&B yang Sukses dan Menguntungkan
+metaDescription: Berikut beberapa tips memulai bisnis F&B yang bisa anda
+  terapkan untuk bisnis anda. Perhatikan beberapa hal ini saat anda memulai
+  bisnis F&B.
+intro: Yuk simak bagaimana cara membangun bisnis food and beverage (F&B) agar
+  dapat memberikan kamu keuntungan jangka panjang
+date: 2021-06-23T04:45:45.000Z
+tag:
+  - Bisnis F&B
+  - Bisnis Franchise Modal Kecil
+  - bisnis investasi
+  - bisnis investasi terpercaya
+category:
+  - Investasi
+  - Bisnis
+featuredImage:
+  src: https://images.unsplash.com/photo-1493770348161-369560ae357d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80
+  alt: Cara mengembangkan usaha food and beverage agar bisa memberikan keuntungan
+    jangka panjang
+  title: Simak cara manajemen food and beverage agar bisa berjalan dengan sukses
+    dan memberikan keuntungan yang optimal.
+---
+**[Bisnis Food and Beverages (F&B)](https://landx.id/project/)** merupakan salah satu bisnis yang tidak ada matinya karena makanan dan minuman merupakan salah satu kebutuhan dasar setiap orang.
 
 Hal ini membuat bisnis ini memiliki potensi pasar yang luas sehingga bisnis terus berkembang dari waktu ke waktu. Seiring perkembangan teknologi, [model bisnis F&B](https://landx.id/) pun mulai berubah mengikuti perkembangan zaman dengan memanfaatkan berbagai sistem digital yang ada.
 
-Salah satu yang paling populer belakangan ini adalah model [**bisnis _cloud kitchen_**](https://landx.id/blog/tag/cloud-kitchen/) __ yang muncul karena semakin berkembangnya layanan pemesanan makanan online. Kemajuan ini mendorong pemilik bisnis untuk bisa memanfaatkan teknologi secara maksimal agar bisa mencakup pasar yang luas.
+Salah satu yang paling populer belakangan ini adalah model **[bisnis *cloud kitchen*](https://landx.id/blog/tag/cloud-kitchen/)** __ yang muncul karena semakin berkembangnya layanan pemesanan makanan online. Kemajuan ini mendorong pemilik bisnis untuk bisa memanfaatkan teknologi secara maksimal agar bisa mencakup pasar yang luas.
 
 Produk yang ditawarkan pun kini kian beragam mulai dari makanan lokal, aneka ragam kopi, boba, dan berbagai jenis cemilan yang terinspirasi dari dalam dan luar negeri.
 
 Oleh sebab itu, apabila anda ingin memulai bisnis ini anda harus memperhatikan potensi pasar dan persaingan dalam industri F&B yang kini semakin beragam jenisnya. Karena itu, mari simak beberapa tips mengembangkan bisnis F&B yang bisa anda ikuti.
 
----
-
-## Table of Content
-
-* **[Tips Membangun Bisnis F&B](https://landx.id/blog/pengelolaan-keuangan-yang-baik/#tips-membangun-bisnis-f-b)**
-
-1. [Memberikan Pengalaman Terbaik](https://landx.id/blog/pengelolaan-keuangan-yang-baik/#1-memberikan-pengalaman-terbaik)
-2. [Membangun Branding yang Baik di Media Sosial](https://landx.id/blog/pengelolaan-keuangan-yang-baik/#2-membangun-branding-yang-baik-di-media-sosial)
-3. [Mengoptimalkan Berbagai Platform Digital](https://landx.id/blog/pengelolaan-keuangan-yang-baik/#3-mengoptimalkan-berbagai-platform-digital)
-4. [Membangun Hubungan Baik Jangka Panjang](https://landx.id/blog/pengelolaan-keuangan-yang-baik/#4-membangun-hubungan-baik-jangka-panjang)
-5. [Rajin Berinovasi](https://landx.id/blog/pengelolaan-keuangan-yang-baik/#5-rajin-berinovasi)
-6. [Diferensiasi](https://landx.id/blog/pengelolaan-keuangan-yang-baik/#6-diferensiasi)
-7. [Menyiapkan Sistem Manajemen dan Evaluasi](https://landx.id/blog/pengelolaan-keuangan-yang-baik/#7-menyiapkan-sistem-manajemen-dan-evaluasi)
-
-* **[Risiko dalam Bisnis F&B](https://landx.id/blog/pengelolaan-keuangan-yang-baik/#risiko-dalam-bisnis-f-b)**
-
----
+- - -
 
 ## Tips Membangun Bisnis F&B
 
@@ -103,7 +101,7 @@ Hal bisa dilakukan dengan berbagai metode seperti survey rutin agar anda bisa me
 
 Kalau kamu mau mengenal lebih dalam tentang bisnis F&B, yuk simak video ini:
 
-<iframe width="200" height="113" src="https://www.youtube.com/embed/XKV7o0N-ogw?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+{{< youtube id="XKV7o0N-ogw" >}}
 
 ## Risiko dalam Bisnis F&B
 
@@ -119,22 +117,19 @@ Sistem ini memberikan anda kesempatan untuk berinvestasi ke dalam bisnis potensi
 
 [LandX](https://landx.id/) memberikan anda pilihan berbagai potensial yang bisa anda danai dan memberikan anda keuntungan jangka panjang. Karena itu….
 
-## [Yuk Mulai Investasi Bisnis Bersama LandX](https://landx.id/project/index.html)
+## [Yuk Mulai Investasi Bisnis Bersama LandX](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)
 
-[![miliki bisnis modal kecil cuma dengan 1 jutaan dapat 4 cabang ](https://accountgram-production.sfo2.cdn.digitaloceanspaces.com/landx_ghost/2021/11/jadi-owner-bisnis-hanya-1-jutaan-dengan-cuan-yang-sangat-menjanjikan.png)](https://landx.id/project/)
-
-
+[![miliki bisnis modal kecil cuma dengan 1 jutaan dapat 4 cabang ](https://accountgram-production.sfo2.cdn.digitaloceanspaces.com/landx_ghost/2021/11/jadi-owner-bisnis-hanya-1-jutaan-dengan-cuan-yang-sangat-menjanjikan.png)](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)
 
 **[Mau Info Seputar Bisnis dan Investasi Lainnya? Yuk Follow Instagram Kami di @landx.id](https://instagram.com/landx.id?utm_medium=copy_link)**
 
----
+- - -
 
 **Baca Juga:**
 
 * [Simak Berbagai Strategi Memulai Bisnis Properti Modal Kecil Terbaik yang Bisa Anda Terapkan](https://landx.id/blog/bisnis-properti-modal-kecil/)
 * [Bisnis di Masa Pandemi - Melihat Bagaimana Strategi Bisnis F&B Cloud Kitchen Bertahan di Masa Pandemi](https://landx.id/blog/bisnis-cloud-kitchen-di-masa-pandemi/)
 
----
+- - -
 
-**#LandX.id    #landx     #landx.id    #InvestasiBisnis    #EquityCrowdfunding    #InvestasiMenguntungkan    #Urundana    #BisnisPatungan    #InvestasiUsaha**
-
+**\#LandX.id    #landx     #landx.id    #InvestasiBisnis    #EquityCrowdfunding    #InvestasiMenguntungkan    #Urundana    #BisnisPatungan    #InvestasiUsaha**
