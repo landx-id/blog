@@ -184,9 +184,9 @@ Royalty fee ini ditujukan untuk pengembangan bisnis seperti riset dan pengembang
 
 **Selain itu, yuk simak suksesnya McDonalds sebagai salah satu bisnis franchise paling besar di dunia.**
 
-**{{< button link="**https://www.youtube.com/watch?v=cOPuN3jjRsM&t=1s**" text="Watch This Video" >}}**
+**{{< button link="**https://www.youtube.com/watch?v=cOPuN3jjRsM**" text="Watch This Video" >}}**
 
- **{{< youtube id="**cOPuN3jjRsM&t**" >}}**
+ **{{< youtube id="**cOPuN3jjRsM**" >}}**
 
 ## **Apakah Skema Franchise Terbaik untuk Pemula?**
 
