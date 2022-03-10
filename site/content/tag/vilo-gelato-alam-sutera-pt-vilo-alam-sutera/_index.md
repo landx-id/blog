@@ -15,7 +15,7 @@ description: >
   pada setiap gerainya.
 
 
-  Vilo Gelato Cabang Alam Sutera, Jl Alam Sutera Town Center 10J no 5
+  Vilo Gelato Cabang Alam Sutera, Jl Alam Sutera Town Center 10 J no 5
 featuredImage:
   src: https://landx.id/images/VIAS/1.webp
   alt: Vilo Gelato Cabang Alam Sutera Bisa Jadi Milik Kamu Cuma dengan Modal 1
