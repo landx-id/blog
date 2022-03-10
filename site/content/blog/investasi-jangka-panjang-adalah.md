@@ -81,7 +81,10 @@ Karena itu anda butuh analisis yang lebih dalam lagi agar bisa menyusun mitigasi
 
 Apabila kamu masih belum paham dengan baik terkait dengan profil risiko, yuk simak penjelasan dari MindLand berikut ini ya:
 
-<iframe width="200" height="113" src="https://www.youtube.com/embed/IFiYKKofzzs?start=4&feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+{{< youtube id="IFiYKKofzzs&t" >}}
+ {{< button link="https://www.youtube.com/watch?v=IFiYKKofzzs&t" text="Watch This Video" >}}
+
+
 
 ### **4. Mulai Dengan Sesuatu Yang Anda Familiar**
 
