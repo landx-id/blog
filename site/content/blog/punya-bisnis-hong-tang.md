@@ -15,6 +15,7 @@ tag:
   - sistem franchise
   - Franchise Makanan
   - HONG
+  - HONG
 featuredImage:
   src: https://accountgram-production.sfo2.cdn.digitaloceanspaces.com/landx_ghost/2021/11/Miliki-7-cabang-hong-tang-hanya-dengan-modal-1-juta-saja-min.png
   alt: Cara jadi owner Hong Tang Jakarta cuma dengan modal 1 juta aja
@@ -27,7 +28,7 @@ MAU PUNYA BISNIS ASIAN DESSERT YANG SUDAH TERKENAL DI INDONESIA?!
 
 Mau kenal lebih lanjut tentang Hong Tang? Yuk simak video ini dulu
 
-<iframe width="200" height="113" src="https://www.youtube.com/embed/l56SL-hKQ0g?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+{{< youtube id="l56SL-hKQ0g" >}}
 
 Bagi pecinta jajanan manis, nama Hong Tang tentu sudah tidak asing lagi. Dessert segar dengan berbagai varian menu dan topping ini sudah ada di Indonesia sejak tahun 2012. Tidak heran jika saat ini penggemar dan pelanggan setianya semakin banyak.
 
