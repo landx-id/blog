@@ -23,5 +23,5 @@ featuredImage:
   src: https://landx.id/images/OKIN/2.webp
   alt: Okinawa Sushi Cabang Central Park Bisa Jadi Miliki Kamu Cuma dengan Modal 1
     Juta
-  title: Jadi Owner Okinawa Sushi Modal 1 Juta
+  title: Jadi Owner Okinawa Sushi Modal 1 Juta Saja Hanya di LandX
 ---
