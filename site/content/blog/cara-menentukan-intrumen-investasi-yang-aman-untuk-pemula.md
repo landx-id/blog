@@ -1,31 +1,40 @@
-+++
-author = "Abdul Wahhab"
-category = ["investasi", "investasi pemula", "investor pemula", "tips investasi", "investasi bisnis", "investasi keuangan", "strategi investasi", "Investasi untuk Pemula"]
-date = 2021-10-11T10:52:01Z
-metaDescription = "Investasi yang aman merupakan kunci utama yang harus anda perhatikan saat memutuskan untuk berinvestasi, berikut pilihan investasi yang aman untuk pemula"
-draft = false
-image = "https://images.unsplash.com/photo-1524508762098-fd966ffb6ef9?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxMTc3M3wwfDF8c2VhcmNofDExfHxzYWZlJTIwc3RvY2t8ZW58MHx8fHwxNjQwMTQ4NDgy&ixlib=rb-1.2.1&q=80&w=1080"
-slug = "cara-menentukan-intrumen-investasi-yang-aman-untuk-pemula"
-tag = ["investasi", "investasi pemula", "investor pemula", "tips investasi", "investasi bisnis", "investasi keuangan", "strategi investasi", "Investasi untuk Pemula"]
-title = "8+ Pilihan Investasi yang Aman dan Cara Menentukan Instrumen Investasi Aman untuk Jangka Panjang"
+---
+draft: false
+author: Abdul Wahhab
+slug: cara-menentukan-intrumen-investasi-yang-aman-untuk-pemula
+title: 8+ Pilihan Investasi Aman dan Cara Menentukan Instrumen Investasi Anda
+metaTitle: 8+ Pilihan Investasi Aman dan Cara Menentukan Instrumen Investasi Anda
+metaDescription: Cara menentukan instrumen investasi menguntungkan yang aman
+  untuk investasi jangka panjang. Memilih instrumen investasi aman dan
+  terpercaya
+intro: "Yuk simak 8 Investasi yang bisa jadi pilihan investasi jangka panjang anda. "
+date: 2021-10-11T10:52:01.000Z
+tag:
+  - investasi
+  - investasi pemula
+  - investor pemula
+  - tips investasi
+  - investasi bisnis
+  - investasi keuangan
+  - strategi investasi
+  - Investasi untuk Pemula
+featuredImage:
+  src: https://images.unsplash.com/photo-1524508762098-fd966ffb6ef9?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxMTc3M3wwfDF8c2VhcmNofDExfHxzYWZlJTIwc3RvY2t8ZW58MHx8fHwxNjQwMTQ4NDgy&ixlib=rb-1.2.1&q=80&w=1080
+  alt: "Cara memilih investasi aman jangka panjang yang cocok untuk pemula "
+  title: "Memilih investasi menguntungkan yang cocok untuk jangka panjang "
+image: https://images.unsplash.com/photo-1524508762098-fd966ffb6ef9?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxMTc3M3wwfDF8c2VhcmNofDExfHxzYWZlJTIwc3RvY2t8ZW58MHx8fHwxNjQwMTQ4NDgy&ixlib=rb-1.2.1&q=80&w=1080
+category:
+  - Investasi
+---
+**[Investasi Aman](https://landx.id/) –** saat memulai investasi, kamu tentu saja ingin menginginkan investasi yang aman dan terpercaya sehingga bisa memberikan anda keuntungan atau *return* yang sesuai dengan tujuan keuangan jangka panjang kamu. Karena itu, sebagai pemula kamu harus menemukan instrumen investasi yang aman untuk menyimpan uang anda dalam jangka panjang.
 
-+++
-
-
-**[Investasi Aman](https://landx.id/) –** saat memulai investasi, kamu tentu saja ingin menginginkan investasi yang aman dan terpercaya sehingga bisa memberikan anda keuntungan atau _return_ yang sesuai dengan tujuan keuangan jangka panjang kamu. Karena itu, sebagai pemula kamu harus menemukan instrumen investasi yang aman untuk menyimpan uang anda dalam jangka panjang.
-
-Saat ini tersedia banyak sekali instrumen investasi dengan berbagai skema dan [estimasi _return_](https://landx.id/project/) __ yang berbeda-beda pula sehingga kamu bisa melihat instrumen dan skema investasi seperti apa yang aman dan sesuai dengan [**profil risiko**](https://landx.id/mitigasi-risiko.html) anda.
+Saat ini tersedia banyak sekali instrumen investasi dengan berbagai skema dan [estimasi *return*](https://landx.id/project/) __ yang berbeda-beda pula sehingga kamu bisa melihat instrumen dan skema investasi seperti apa yang aman dan sesuai dengan **[profil risiko](https://landx.id/mitigasi-risiko.html)** anda.
 
 Akan tetapi, dari sekian banyak instrumen investasi, banyak juga modus penipuan dengan kedok investasi yang sangat merugikan dan harus anda waspadai sebagai investor pemula.
 
 Supaya kamu berinvestasi dengan aman, yuk kita bahas bagaimana cara memilih investasi yang aman dan rekomendasi investasi aman untuk pemula.
 
----
-
-## Table of Content
-
-* [**Tips Menemukan Instrumen Investasi yang Aman untuk Pemula**](#tips-menemukan-instrumen-investasi-yang-aman-untuk-pemula)
-* [**Pilihan Investasi yang Aman untuk Pemula**](#pilihan-investasi-yang-aman-untuk-pemula)
+- - -
 
 ## Tips Menemukan Instrumen Investasi yang Aman untuk Pemula
 
@@ -61,13 +70,13 @@ Berinvestasi dengan instrumen investasi online terpercaya bukan berarti tidak me
 
 Agar anda tidak mudah terpicu dengan berbagai skema investasi bodong, anda harus mempelajari berbagai modus penipuan yang sering muncul agar anda tidak terjebak dengan skema penipuan yang sama.
 
-Salah satu yang harus anda perhatikan adalah janji-janji investasi dengan _return_ sangat tinggi dengan risiko yang sangat minim. Anda sebaiknya berhati-hati apabila anda menemukan investasi dengan jenis seperti ini karena banyak sekali investasi bodong memberikan penawaran seperti ini untuk menarik korbannya.
+Salah satu yang harus anda perhatikan adalah janji-janji investasi dengan *return* sangat tinggi dengan risiko yang sangat minim. Anda sebaiknya berhati-hati apabila anda menemukan investasi dengan jenis seperti ini karena banyak sekali investasi bodong memberikan penawaran seperti ini untuk menarik korbannya.
 
 Selain itu, yuk simak video ini biar kamu tau tips mencari investasi yang aman untuk pemula:
 
-<iframe width="200" height="113" src="https://www.youtube.com/embed/zKpbXlnuMX0?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+{{< youtube id="zKpbXlnuMX0" >}}
 
-## Pilihan Investasi yang Aman untuk Pemula
+## Instrumen Investasi yang Aman untuk Jangka Panjang
 
 ### 1. Properti
 
@@ -85,7 +94,7 @@ Kini akses investasi emas semakin mudah karena adanya platform yang memberikan a
 
 Saham merupakan instrumen investasi menguntungkan untuk masa depan anda karena saham bisa memberikan anda keuntungan berupa dividen dan capital gain yang akan membantu anda memiliki aset investasi menguntungkan untuk masa depan.
 
-Agar lebih aman, anda bisa mulai dengan saham _blue-chip_ yang harganya cenderung stabil sehingga memperkecil risiko kerugian yang mungkin muncul di masa mendatang. Kini akses bursa saham semakin mudah karena perkembangan teknologi dan informasi. Karena itu tidak ada lagi alasan anda untuk tidak berinvestasi.
+Agar lebih aman, anda bisa mulai dengan saham *blue-chip* yang harganya cenderung stabil sehingga memperkecil risiko kerugian yang mungkin muncul di masa mendatang. Kini akses bursa saham semakin mudah karena perkembangan teknologi dan informasi. Karena itu tidak ada lagi alasan anda untuk tidak berinvestasi.
 
 ### 4. Reksa Dana
 
@@ -117,24 +126,23 @@ Konsep pemberian pinjaman dalam peer-to-peer lending memberikan anda kesempatan 
 
 Investasi bisnis lewat equity crowdfunding merupakan jenis pendanaan kepada bisnis berbasis ekuitas yang akan memberikan anda keuntungan dalam jangka panjang. Investasi bisnis lewat equity crowdfunding memberikan anda bagian kepemilikan dari sebuah bisnis yang telah anda danai.
 
-Lewat sistem ini, anda akan mendapatkan bagian kepemilikan sehingga anda bisa mendapatkan keuntungan berupa dividen dari keuntungan bisnis tersebut sehingga bisa memberikan anda [**_passive income_**](https://landx.id/project/) dari investasi tersebut.
+Lewat sistem ini, anda akan mendapatkan bagian kepemilikan sehingga anda bisa mendapatkan keuntungan berupa dividen dari keuntungan bisnis tersebut sehingga bisa memberikan anda ***[passive income](https://landx.id/project/)*** dari investasi tersebut.
 
-Karena itu, kamu harus menemukan [**_platform equity crowdfunding_**](https://landx.id/) yang aman dan terpercaya agar kamu menemukan bisnis terbaik dengan potensi keuntungan jangka panjang.
+Karena itu, kamu harus menemukan ***[platform equity crowdfunding](https://landx.id/)*** yang aman dan terpercaya agar kamu menemukan bisnis terbaik dengan potensi keuntungan jangka panjang.
 
 Karena itu...
 
-**[Yuk Patungan Bisnis yang Aman dan Menguntungkan Bareng LandX](https://landx.id/project/)**
+**[Yuk Temukan Bisnis Menjanjikan dengan Keuntungan Terbaik di LandX](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)**
 
-![investasi bisnis aman melalui dengan sistem equity crowdfunding di landx](https://accountgram-production.sfo2.cdn.digitaloceanspaces.com/landx_ghost/2021/10/Equity-Crowdfunding-di-Indonesia-1--5.png)
+[![miliki bisnis modal kecil cuma dengan 1 jutaan dapat 4 cabang ](https://accountgram-production.sfo2.cdn.digitaloceanspaces.com/landx_ghost/2021/11/jadi-owner-bisnis-hanya-1-jutaan-dengan-cuan-yang-sangat-menjanjikan.png)](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)
 
-[**Follow Kami di Instagram Yuk, Supaya Selalu Update Info Berita Terbaru Seputar Investasi**](https://www.instagram.com/landx.id/?utm_medium=copy_link)
+**[Follow Kami di Instagram Yuk, Supaya Selalu Update Info Berita Terbaru Seputar Investasi](https://www.instagram.com/landx.id/?utm_medium=copy_link)**
 
 Baca Juga:
 
-* [**Kenali 4 Instrumen Pasar Modal Sebelum Memutuskan Instrumen Pasar Modal Terbaik Anda**](https://landx.id/blog/kenali-4-instrumen-pasar-modal-sebelum-memutuskan-instrumen-pasar-modal-terbaik-anda/)
-* [**4 Pilihan Investasi Jangka Pendek dan Tips Investasi Jangka Pendek yang Menguntungkan**](https://landx.id/blog/4-pilihan-investasi-jangka-pendek-dan-tips-investasi-jangka-pendek-yang-menguntungkan/)
+* **[Kenali 4 Instrumen Pasar Modal Sebelum Memutuskan Instrumen Pasar Modal Terbaik Anda](https://landx.id/blog/kenali-4-instrumen-pasar-modal-sebelum-memutuskan-instrumen-pasar-modal-terbaik-anda/)**
+* **[4 Pilihan Investasi Jangka Pendek dan Tips Investasi Jangka Pendek yang Menguntungkan](https://landx.id/blog/4-pilihan-investasi-jangka-pendek-dan-tips-investasi-jangka-pendek-yang-menguntungkan/)**
 
-**#YukPatunganBisnis  #LandX.id    #landx         #landx.id    #InvestasiBisnis    #EquityCrowdfunding    #InvestasiMenguntungkan    #Urundana    #BisnisPatungan    #InvestasiUsaha**
+**\#YukPatunganBisnis  #LandX.id    #landx         #landx.id    #InvestasiBisnis    #EquityCrowdfunding    #InvestasiMenguntungkan    #Urundana    #BisnisPatungan    #InvestasiUsaha**
 
----
-
+- - -
