@@ -33,7 +33,7 @@ category:
 ---
 Apabila anda ingin berinvestasi di pasar modal atau [equity crowdfunding](https://landx.id/), maka kamu harus arti dari *buyback* dan bagaimana kebijakan ini mempengaruhi investasi yang anda lakukan. Apabila anda berinvestasi di dunia saham, anda pasti sering mendengar *buyback* saham saat berinvestasi.
 
-Buyback saham artinya pembelian kembali saham yang sudah diterbitkan dan beredar di masyarakat oleh penerbit atau perusahaan emiten yang menerbitkan saham tersebut. Hal ini dilakukan bisa dengan berbagai tujuan seperti mengurangi jumlah saham yang beredar di masyarakat.
+Buyback adalah pembelian kembali saham yang sudah diterbitkan dan beredar di masyarakat oleh penerbit atau perusahaan emiten yang menerbitkan saham tersebut. Hal ini dilakukan bisa dengan berbagai tujuan seperti mengurangi jumlah saham yang beredar di masyarakat.
 
 Salah satu contohnya, kamu pasti mendengar rencana *buyback* yang akan dilakukan Adaro Energy (ADRO) senilai 4T yang ditujukan agar perusahaan dapat memberikan *return* yang lebih baik kepada para pemegang saham dan harga saham nantinya dapat mengambarkan kondisi sebenarnya dari perusahaan.
 
@@ -43,7 +43,9 @@ Supaya kamu lebih paham tentang konsep ini, mari kita bahas lanjut tentang konse
 
 ## Konsep Buyback dalam Investasi Saham
 
-Seperti yang sudah kita bahas sebelumnya, [***buyback*** **adalah**](https://landx.id/project) kebijakan pembelian kembali suatu saham yang oleh perusahaan yang menerbitkan saham tersebut. Artinya, perusahaan membeli kembali bagian kepemilikan dari bisnis mereka yang sebelumnya ditawarkan kepada publik.
+Pertama-tama, mari kita bahas dulu apa itu buyback dalam investasi.
+
+> [B***uyback*** **adalah**](https://landx.id/project) kebijakan pembelian kembali suatu saham yang oleh perusahaan yang menerbitkan saham tersebut. Artinya, perusahaan membeli kembali bagian kepemilikan dari bisnis mereka yang sebelumnya ditawarkan kepada publik.
 
 Hal ini biasanya dilakukan dengan berbagai tujuan seperti untuk menjaga likuiditas dari perusahaan yang merupakan salah satu rasio keuangan penting yang diperhatikan dalam perusahaan. Hal ini berkaitan dengan rasio earning per share (EPR) yang akan meningkat saat semakin sedikit jumlah saham yang beredar di pasaran.
 
@@ -72,7 +74,8 @@ Sama seperti investasi saham di pasar modal, ***[buyback guarantee](https://land
 **Bagaimana? Kamu lebih suka bisnis dengan buyback guarantee atau yang bisa disimpan dalam jangka panjang? Kalau belum yuk simak video penjelasan dari Mindland di bawah ini:**
 
 {{< youtube id="p0z6zpJ6N1I&t" >}}
- {{< button link="https://www.youtube.com/watch?v=p0z6zpJ6N1I&t=1s" text="Yuk Simak Video Penjelasan dari Mindland" >}}
+
+{{< button link="https://www.youtube.com/watch?v=p0z6zpJ6N1I&t=1s" text="Yuk Simak Video Penjelasan dari Mindland" >}}
 
 **Apapun pilihan kamu..**
 
