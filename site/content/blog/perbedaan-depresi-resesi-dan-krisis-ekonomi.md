@@ -1,17 +1,27 @@
-+++
-author = "Abdul Wahhab"
-category = ["investasi", "bisnis di masa pandemi", "tips investasi"]
-date = 2021-08-20T06:30:01Z
-metaDescription = "resesi adalah penurunan ekonomi yang terjadi selama dua kuartal berturut-turut dan depresi merupakan kondisi di mana resesi terjadi dalam jangka panjang"
-draft = false
-image = "https://images.unsplash.com/photo-1535320903710-d993d3d77d29?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxMTc3M3wwfDF8c2VhcmNofDN8fGVjb25vbWljfGVufDB8fHx8MTY0MjQ3NTc3Mg&ixlib=rb-1.2.1&q=80&w=1080"
-slug = "perbedaan-depresi-resesi-dan-krisis-ekonomi"
-tag = ["investasi", "bisnis di masa pandemi", "tips investasi"]
-title = "Memahami Apa Itu Resesi, Depresi, dan Krisis Ekonomi serta Dampaknya ke Masyarakat"
-
-+++
-
-
+---
+draft: false
+author: Abdul Wahhab
+slug: perbedaan-depresi-resesi-dan-krisis-ekonomi
+title: "Memahami Apa Itu Resesi, Depresi, dan Krisis Ekonomi "
+metaTitle: "Memahami Apa Itu Resesi, Depresi, dan Krisis Ekonomi "
+metaDescription: Depresi dan Resesi adalah kondisi dimana ekonomi suatu negara
+  mengalami penurunan secara berturut-turut selama dua kuartel atau lebih
+intro: "Yuk pahami apa itu resesi, depresi, dan krisis ekonomi serta dampaknya
+  kepada masyarakat. "
+date: 2021-08-20T06:30:01.000Z
+tag:
+  - investasi
+  - bisnis di masa pandemi
+  - tips investasi
+featuredImage:
+  src: https://images.unsplash.com/photo-1535320903710-d993d3d77d29?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxMTc3M3wwfDF8c2VhcmNofDN8fGVjb25vbWljfGVufDB8fHx8MTY0MjQ3NTc3Mg&ixlib=rb-1.2.1&q=80&w=1080
+  alt: Memahami apa itu resesi dan depresi ekonomi yang berdampak kepada
+    masyarakat dan ekonomi negara
+  title: Penyebab dan dampak resesi ekonomi yang harus kamu waspadai dengan baik
+image: https://images.unsplash.com/photo-1535320903710-d993d3d77d29?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxMTc3M3wwfDF8c2VhcmNofDN8fGVjb25vbWljfGVufDB8fHx8MTY0MjQ3NTc3Mg&ixlib=rb-1.2.1&q=80&w=1080
+category:
+  - Keuangan
+---
 Belakangan, kamu pasti sering mendengar isu inflasi  yang melanda ekonomi banyak negara karena pandemi Covid-19 yang menghambat pergerakan ekonomi global.
 
 **Resesi ekonomi adalah** kondisi saat perekonomian suatu negara mengalami penurunan selama dua kuartal berturut-turut. Kondisi resesi ini tengah melanda banyak negara akibat terhambatnya berbagai aktivitas ekonomi akibat pandemi Covid-19.
@@ -24,7 +34,7 @@ Akan tetapi, apakah kamu tau bahwa selain resesi sebenarnya banyak negara juga s
 
 Hal ini tentu saja mempengaruhi berbagai sektor kehidupan masyarakat sehingga perlu kita waspadai apabila terjadi di masa mendatang. Karena itu, yuk kita bahas lebih dalam tentang resesi, depresi dan krisis ekonomi serta bagaimana strategi untuk menghadapi hal ini di masa mendatang.
 
----
+- - -
 
 ## Apa Itu Resesi Ekonomi?
 
@@ -78,14 +88,14 @@ Saat ini, teknologi menggantikan banyak sekali peran manusia sehingga banyak bid
 
 Hal ini bisa menjadi salah satu pemicu resesi karena semakin tingginya angka pengangguran akibat dari peralihan teknologi tersebut. Oleh sebab itu, kemajuan teknologi ini menjadi hal yang dikhawatirkan banyak orang di masa mendatang.
 
----
+- - -
 
 **Baca Juga:**
 
 * [Laju Inflasi: Memahami Apa Itu Inflasi dan Cara Menghitung Laju Inflasi](https://landx.id/blog/laju-inflasi-adalah/)
 * [Memahami Apa Itu Stagflasi dan Pengaruhnya Terhadap Investasi Anda](https://landx.id/blog/apa-itu-stagflasi-dan-bagaimana-dampaknya-terhadap-investasi-di-indonesia/)
 
----
+- - -
 
 ## Dampak dari Resesi dan Depresi Ekonomi
 
@@ -105,20 +115,19 @@ Salah langkah yang sering diambil pemerintah adalah dengan melakukan belanja bes
 
 Salah satu yang bisa kita lakukan untuk membantu UKM agar mereka dapat berkembang dengan optimal walaupun di tengah terjangan pandemi, adalah dengan menambah perpanjangan nafas mereka lewat permodalan.
 
-**[Yuk Patungan Bisnis di LandX untuk Membangun UKM Berkualitas di Indonesia!](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)**
+## **[Yuk Temukan Bisnis Menjanjikan dengan Keuntungan Terbaik di LandX](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)**
 
-[![Yuk mulai patungan bisnis menguntungkan jangka panja g bersama LandX](https://accountgram-production.sfo2.cdn.digitaloceanspaces.com/landx_ghost/2021/09/Equity-Crowdfunding-di-Indonesia-1--3.png)](https://landx.id/project/utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)
+[![miliki bisnis modal kecil cuma dengan 1 jutaan dapat 4 cabang ](https://accountgram-production.sfo2.cdn.digitaloceanspaces.com/landx_ghost/2021/11/jadi-owner-bisnis-hanya-1-jutaan-dengan-cuan-yang-sangat-menjanjikan.png)](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)
 
-[**Agar Gak Kelewatan Berbagai Info Seputar Bisnis dan Investasi Lainnya Follow Instagram Kami di @landx.id Ya..**](https://instagram.com/landx.id?utm_medium=copy_link)
+**[Agar Gak Kelewatan Berbagai Info Seputar Bisnis dan Investasi Lainnya Follow Instagram Kami di @landx.id Ya..](https://instagram.com/landx.id?utm_medium=copy_link)**
 
----
+- - -
 
 **Baca Juga:**
 
 * [Investasi Urun Dana: Peluang Investasi Bisnis Berbasis Teknologi Informasi](https://landx.id/blog/investasi-melalui-urun-dana/)
 * [Securities Crowdfunding: Investasi Bisnis Sambil Membangun UKM Indonesia](https://landx.id/blog/investasi-umkm-melalui-securities-crowdfunding/)
 
----
+- - -
 
-**#YukPatunganBisnis**
-
+**\#YukPatunganBisnis**
