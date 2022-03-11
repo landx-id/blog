@@ -1,15 +1,31 @@
 ---
 author: Vlora Riyandi
-title: 9 Pengusaha Muda Sukses di Indonesia yang Inspiratif
+title: 9 Pebisnis Muda Sukses di Indonesia yang Inspiratif
 metaTitle: 9 Pengusaha Muda Sukses di Indonesia yang Inspiratif
 metaDescription: Muda dan kaya jadi impian semua orang. Berikut barisan pebisnis
   muda Indonesia yang bakal buat kamu membara dan ingin lebih berkarya.
-intro: "-"
+intro: |
+  Yuk cek siapa saja pengusaha muda Indonesia tahun 2022??
 date: 2022-03-11T09:27:23.757Z
+tag:
+  - Orang Terkaya di Dunia
+  - Bisnis Investasi
+  - Bisnis Jangka Panjang
+  - Bisnis Menguntungkan
+  - Fintech
+  - Instrumen Investasi
+  - Investasi Bagi Hasil
+  - Investasi Keuangan
+  - Memulai Usaha
+category:
+  - Bisnis
+  - Keuangan
+  - Investasi
 featuredImage:
   title: 9 Pengusaha Muda Sukses di Indonesia yang Inspiratif
-  alt: landx pengusa muda indonesia tahun 2022
-  src: https://unsplash.com/photos/g1Kr4Ozfoac
+  alt: Entrepreneur muda Indonesia yang sukses membangun berbagai bisnis dan
+    startup di Indonesia
+  src: https://images.unsplash.com/photo-1522202176988-66273c2fd55f?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1171&q=80
 ---
 Muda dan kaya jadi impian semua orang yang sedang menjalani masa mudanya. Namun, banyak usaha yang perlu diinvestasikan dalam menjalankannya. [LandX](https://landx.id/) membahas beberapa barisan pebisnis muda Indonesia yang bakal buat kamu membara dan ingin lebih berkarya.
 
@@ -103,7 +119,7 @@ Mantappu corp adalah talent management company yang mengurus 14 kreator Indonesi
 
 Sang adik, Jerome rutin memproduksi konten yang bervariatif dan pernah membuat konten yang mencapur berbagai minuman dengan bahan-bahan unik. Merasa hasil minumannya enak, Jerome pun membuka kedai minuman teh buah di Jakarta Barat yang diberi nama Menantea.
 
-### Penutup 
+### Penutup
 
 [LandX](https://landx.id/) sudah bahas para pengusaha muda sukses di Indonesia. Poin yang dapat kamu ambil dari setiap kisah inspiratif para pebisnis muda Indonesia ini adalah cerdas melihat dan memanfaatkan peluang.
 
@@ -111,8 +127,6 @@ Melihat dan memanfaatkan potensi peluang untuk dijadikan solusi bagi masyarakat 
 
 Gimana sobat [LandX](https://landx.id/), apa kamu jadi lebih semangat untuk berkarya?
 
-## Jangan lupa cek juga [LandX](https://landx.id/), situs investasi crowdfunding pada bisnis potensial Indonesia.
+## [Jangan lupa cek juga LandX, situs investasi crowdfunding pada bisnis potensial Indonesia.](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)
 
-
-
-<!--EndFragment-->
+[![miliki bisnis modal kecil cuma dengan 1 jutaan dapat 4 cabang ](https://accountgram-production.sfo2.cdn.digitaloceanspaces.com/landx_ghost/2021/11/jadi-owner-bisnis-hanya-1-jutaan-dengan-cuan-yang-sangat-menjanjikan.png)](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)
