@@ -1,6 +1,6 @@
 ---
 author: Khurin N. Imandini
-title: "KYC Adalah: Pentingnya KYC dalam Industri Bisnis dan Keuangan"
+title: "KYC Adalah: Pentingnya KYC dan Manfaat KYC dalam Industri Keuangan"
 metaTitle: "KYC Adalah: Pentingnya KYC dalam Industri Bisnis dan Keuangan"
 metaDescription: KYC adalah prinsip yang digunakan lembaga pengelola keuangan
   untuk melakukan verifikasi identitas. Hal ini untuk memastikan identitas dari
@@ -36,7 +36,15 @@ KYC pertama kali diterapkan sebagai rekomendasi dari The Financial Action Task F
 
 Di Indonesia sendiri, KYC telah diatur secara khusus di dalam Peraturan Bank Indonesia Nomor 3-10-PBI-2001 tentang Penerapan Prinsip Mengenal Nasabah (Know Your Customer Principles). Sebagaimana yang disebutkan di dalam Pasal 1 angka 2 peraturan ini, KYC merupakan prinsip yang diterapkan oleh bank untuk mengetahui seluruh aktivitas dan kegiatan transaksi nasabah.
 
-Dengan kata lain, bank atau institusi jasa keuangan lainnya di Indonesia berhak dan wajib menerapkan sistem KYC agar mampu memantau semua aktivitas transaksi nasabah, termasuk pelaporan terhadap transaksi yang dinilai mencurigakan. Hal ini dilakukan agar aktivitas perbankan di Indonesia diakui oleh bank dunia dan masuk ke dalam kategori cooperative country, sehingga dapat terus melangsungkan transaksi secara global.
+Dengan kata lain, bank atau institusi jasa keuangan lainnya di Indonesia berhak dan wajib menerapkan sistem KYC agar mampu memantau semua aktivitas transaksi nasabah, termasuk pelaporan terhadap transaksi yang dinilai mencurigakan. Hal ini dilakukan agar aktivitas perbankan di Indonesia diakui oleh bank dunia dan masuk ke dalam kategori cooperative country, sehingga dapat terus melangsungkan transaksi secara global.'
+
+## Dasar Kebijakan KYC
+
+KYC atau know your customer diatur dalam beberapa peraturan perundang-undangan di Indonesia, berikut beberapa dasar hukum yang melandasi kebijak KYC: 
+
+* [Undang-Undang Republik Indonesia No. 8 Tahun 2010 tentang Pencegahan dan Pemberantasan Tindak Pidana Pencucian Uang](https://www.ojk.go.id/apu-ppt/id/peraturan/uu/Pages/Undang-Undang-Nomor-8-Tahun-2010-tentang-Pencegahan-dan-Pemberantasan-Tindak-Pidana-Pencucian-Uang.aspx)
+* [Peraturan Menteri Keuangan Nomor 30/PMK.010/2010 tentang Penerapan Prinsip Mengenal Nasabah bagi Lembaga Keuangan Non-Bank](http://www.ojk.go.id/id/kanal/iknb/regulasi/lembaga-jasa-keuangan-khusus/peraturan-keputusan-menteri/Pages/peraturan-menteri-keuangan-nomor-30-pmk-010-2010-tentang-penerapan-prinsip-mengenal-nasabah-bagi-lembaga-keuangan-non-b-3.aspx#:~:text=dan%20Perusahaan%20Publik-,Peraturan%20Menteri%20Keuangan%20Nomor%2030%2FPMK.010%2F2010%20tentang,bagi%20Lembaga%20Keuangan%20Non%2DBank&text=Peraturan%20Menkeu%20ini%20dibuat%20untuk,pencucian%20uang%20dan%20pendanaan%20teroris.)
+* [POJK Nomor 12-POJK.01-2017 tentang Penerapan Program APU PPT di Sektor Jasa Keuangan](https://www.ojk.go.id/apu-ppt/id/peraturan/pojk/Pages/POJK-Nomor-12-POJK.01-2017-tentang-Penerapan-Program-APU-PPT-di-Sektor-Jasa-Keuangan.aspx)
 
 ## Cara Kerja KYC
 
@@ -51,9 +59,7 @@ Informasi tersebut akan masuk ke dalam database, yang nantinya akan digunakan un
 **Adapun beberapa manfaat yang bisa didapatkan dari penerapan sistem KYC ini di antaranya iala**h:
 
 1. Perusahaan atau instansi jasa keuangan dapat memberikan jaminan perlindungan dan keamanan dari berbagai bentuk kerugian dan penipuan yang disebabkan oleh transaksi ilegal atau tidak wajar.
-
 2. Perusahaan atau instansi jasa keuangan dapat lebih mengenal dan memahami sifat aktivitas nasabah secara lebih mendalam, sehingga dapat mempelajari dan melakukan penilaian jika terdapat aktivitas transaksi yang mencurigakan atau berpotensi sebagai aktivitas pencucian uang.
-
 3. Perusahan atau instansi jasa keuangan dapat lebih cepat dan efektif dalam melakukan verifikasi data dan identitas nasabah, serta lebih menghemat biaya.
 
 Secara umum, KYC merupakan sistem yang bertujuan untuk mencegah serta mengawasi berbagai potensi aktivitas keuangan yang ilegal. KYC juga berada di bawah payung hukum yang resmi. Sehingga, baik instansi jasa keuangan maupun nasabah dapat melakukan aktivitas transaksi keuangan dengan lebih aman.
