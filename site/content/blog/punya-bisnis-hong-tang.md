@@ -15,7 +15,6 @@ tag:
   - sistem franchise
   - Franchise Makanan
   - HONG
-  - HONG
 featuredImage:
   src: https://accountgram-production.sfo2.cdn.digitaloceanspaces.com/landx_ghost/2021/11/Miliki-7-cabang-hong-tang-hanya-dengan-modal-1-juta-saja-min.png
   alt: Cara jadi owner Hong Tang Jakarta cuma dengan modal 1 juta aja
