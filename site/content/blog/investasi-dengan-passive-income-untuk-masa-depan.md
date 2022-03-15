@@ -6,11 +6,8 @@ metaTitle: Investasi dengan Passive Income untuk Masa Depan
 metaDescription: Passive income adalah penghasilan yang anda dapatkan tanpa
   perlu aktif terlibat secara langsung dalam kegiatan menghasilkan uang
   tersebut.
-intro: "Passive income adalah penghasilan yang kita dapatkan dari tanpa perlu
-  melakukan kegiatan ekonomi secara langsung. Apabila kamu ingin mencapai
-  financial freedom maka passive income adalah hal penting yang harus kamu
-  siapkan mulai dari sekarang. Karena itu, mari kita bahas apa itu passive
-  income dan bagaimana cara menyiapkan passive income mulai dari sekarang. "
+intro: Yuk kita bahas apa itu passive income dan bagaimana cara menyiapkan
+  passive income yang bisa membawa kita mencapai financial freedom.
 isPinned: false
 slug: investasi-dengan-passive-income-untuk-masa-depan
 date: 2021-10-25T14:35:15.000Z
