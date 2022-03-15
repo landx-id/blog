@@ -7,6 +7,17 @@ metaDescription: Investor adalah orang atau entitas yang menanamkan modal pada
 intro: Mau jadi investor? Yuk simak dulu berbagai jenis investor agar kamu paham
   investasi seperti apa yang cocok untuk kamu.
 date: 2022-03-15T02:01:30.918Z
+tag:
+  - Investasi Keuangan
+  - Investasi Passive Income
+  - Investasi
+  - Investasi Jangka Panjang
+  - Strategi Investasi
+  - Investasi Modal Kecil
+  - Investor Pemula
+category:
+  - Investasi
+  - Keuangan
 featuredImage:
   alt: Memahami jenis-jenis investor dan cara berinvestasinya
   title: Mengenal berbagai jenis investor yanga ada
