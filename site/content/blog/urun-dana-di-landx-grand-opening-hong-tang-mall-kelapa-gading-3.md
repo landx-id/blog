@@ -27,6 +27,12 @@ featuredImage:
 ---
 Hong Tang adakan grand opening outlet terbaru di Mall Kelapa Gading 3, Jakarta Utara (26/02/2022). Grand opening ini merupakan salah satu dari rangakaian 7 outlet terbaru yang didanai investor di platform crowdfunding [LandX](https://landx.id/).
 
+https://www.youtube.com/watch?v=MuJt8VQYlC0
+
+{{< youtube id="MuJt8VQYlC0" >}}
+
+{{< button link="https://www.youtube.com/watch?v=MuJt8VQYlC0" text="Watch This Video" >}}
+
 ## ABOUT HONG TANG
 
 Hong Tang adalah pioneer Asian dessert terdepan di Indonesia. Memiliki konsep cloud kitchen, membuat Hong Tang dapat menyajikan menu-menunya secara cepat di dapur yang higienis dan lengkap. 
