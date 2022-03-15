@@ -22,6 +22,7 @@ tag:
   - Bisnis Modal Kecil
   - Memulai usaha
   - Franchise Makanan
+  - OKIN
 featuredImage:
   src: https://media.discordapp.net/attachments/913743599844343808/948467792267575306/Thumbnail_okinawa_Youtube___Mesage-01_1_1.webp?width=969&height=545
   alt: Jadi pemilik okinawa sushi cuma dengan modal 1 juta
