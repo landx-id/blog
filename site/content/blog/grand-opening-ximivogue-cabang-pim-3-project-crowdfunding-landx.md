@@ -11,6 +11,7 @@ tag:
   - Bisnis Retail
   - Bisnis Modal Kecil
   - Bisnis Menguntungkan
+  - XIMI
 category:
   - Bisnis
   - Investasi
