@@ -21,6 +21,7 @@ tag:
   - Bisnis Modal Kecil
   - Investasi modal kecil
   - patungan bisnis
+  - HGY1
 featuredImage:
   src: https://accountgram-production.sfo2.cdn.digitaloceanspaces.com/landx_ghost/2021/09/Screenshot-2021-09-20-at-00-24-27-LandX-Investasi-Bisnis-dan-Properti-Semudah-Belanja-Online.png
   alt: Jadi pemilik franchise hangry cuma modal 1 juta
@@ -28,6 +29,7 @@ featuredImage:
 image: https://accountgram-production.sfo2.cdn.digitaloceanspaces.com/landx_ghost/2021/09/Screenshot-2021-09-20-at-00-24-27-LandX-Investasi-Bisnis-dan-Properti-Semudah-Belanja-Online.png
 category:
   - Bisnis
+  - Investasi
 ---
 
 
