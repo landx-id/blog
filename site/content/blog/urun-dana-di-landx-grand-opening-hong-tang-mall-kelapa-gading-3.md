@@ -23,7 +23,7 @@ category:
 featuredImage:
   title: "PROJECT SERIES: Grand Opening Hong Tang Mall Kelapa Gading 3"
   alt: Punya bisnis hong tang modal 1 juta
-  src: https://images.unsplash.com/photo-1601061223391-62eaaec5b59e?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1171&q=80
+  src: https://media.discordapp.net/attachments/913743599844343808/953187514309574676/Hongtang_listing_di_LandX.webp?width=919&height=517
 ---
 Hong Tang adakan grand opening outlet terbaru di Mall Kelapa Gading 3, Jakarta Utara (26/02/2022). Grand opening ini merupakan salah satu dari rangakaian 7 outlet terbaru yang didanai investor di platform crowdfunding [LandX](https://landx.id/).
 
