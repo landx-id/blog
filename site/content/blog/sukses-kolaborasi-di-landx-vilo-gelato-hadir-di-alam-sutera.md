@@ -13,8 +13,10 @@ tag:
   - Cloud Kitchen
   - Franchise F&B
   - Bisnis F&B
+  - VIAS
 category:
   - Bisnis
+  - Investasi
 featuredImage:
   title: Pembukaan Vilo Gelato Alam Sutera Kolaborasi Sukses Pendanaan Lewat
     Equity Crowdfunding
