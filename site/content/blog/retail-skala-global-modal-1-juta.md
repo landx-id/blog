@@ -31,7 +31,8 @@ featuredImage:
 ## XIMIVOGUE INDONESIA LISTING DI LANDX!
 
 {{< youtube id="MW4Kt5RUvl8" >}}
- {{< button link="https://www.youtube.com/watch?v=MW4Kt5RUvl8" text="Watch This Video" >}}
+
+{{< button link="https://www.youtube.com/watch?v=MW4Kt5RUvl8" text="Watch This Video" >}}
 
 10 Tahun Berpengalaman di Dunia Retail Fast Fashion Brand Internasional dengan Ribuan Outlet di 90 NegaraTerdaftar di Berbagai Marketplace Indonesia
 
