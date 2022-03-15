@@ -18,6 +18,7 @@ tag:
   - Bisnis Modal Kecil
   - Franchise Makanan
   - Padang Merdeka
+  - PMBB
 featuredImage:
   src: https://accountgram-production.sfo2.cdn.digitaloceanspaces.com/landx_ghost/2021/12/PADANG-MERDEKA-LISTING-DI-LANDX-SOLD-CUMA-DENGAN-39-MENIT-copy.jpg
   alt: Padang merdeka sold out di landx hanya beberapa menit setelah listing
