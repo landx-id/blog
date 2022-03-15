@@ -4,12 +4,13 @@ title: "Investor: Jenis, Karakteristik dan Cara Menjadi Investor Tahun 2022"
 metaTitle: "Investor: Jenis, Karakteristik dan Cara Menjadi Investor Tahun 2022"
 metaDescription: Investor adalah orang atau entitas yang menanamkan modal pada
   bisnis dengan harapan mendapat keuntungan lebih besar di masa depan.
-intro: "-"
+intro: Mau jadi investor? Yuk simak dulu berbagai jenis investor agar kamu paham
+  investasi seperti apa yang cocok untuk kamu.
 date: 2022-03-15T02:01:30.918Z
 featuredImage:
-  alt: investor adalah, investasi adalah, cara menjadi investor
-  title: "Investor: Jenis, Karakteristik dan Cara Menjadi Investor Tahun 2022"
-  src: https://unsplash.com/photos/4V8uMZx8FYA
+  alt: Memahami jenis-jenis investor dan cara berinvestasinya
+  title: Mengenal berbagai jenis investor yanga ada
+  src: https://images.unsplash.com/photo-1642621668575-93550304b614?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1031&q=80
 ---
 Dengan literasi finansial menyeluruh, kaum muda Indonesia kini sudah melek investasi. Berinvestasi pada berbagai instrumen investasi untuk membangun potofolio terbaik dan menguntungkan. 
 
@@ -19,7 +20,7 @@ Ternyata terdapat beberapa kategori sebutan untuk investor. Berikut LandX rangku
 
 # Jenis-Jenis Investor
 
-1. ## Venture capital
+### 1. Venture capital
 
 Venture capital atau modal ventura adalah lembaga pembiayaan privat pada perusahaan startup, atau perusahaan baru yang menunjukkan pertumbuhan tinggi. Umumnya perusahaan startup dengan bisnis model inovatif dan penggunaan teknologi terdepan.
 
@@ -27,19 +28,19 @@ Karena perusahaan startup rentan dengan ketidakpastian, pembiayaan venture capit
 
 Dikutip dari Wikipedia, ada 6 tahap pendanaan venture capital pada startup yang dikenal dengan seed funding.
 
-2. ## Angel Investor 
+### 2. Angel Investor 
 
 Angel investor adalah para entrepreneur makmur yang ingin memperluas kekayaannya dengan berinvestasi pada project yang mereka suka atau passion terhadap project. Umumnya angel investor berinvestasi pada bisnis startup. Karena bisnis startup masih rendah pengalaman dan belum memenuhi standar untuk didanai oleh bank, para pemilik startup sangat senang dengan kesempatan pendanaan ini.
 
 Dengan adanya pendanaan angel investor, terkadang mereka juga bertindak sebagai penasehat atau mentor dari project bisnis yang didanai. Dikarenakan para angel investor pastinya adalah seorang yang sudah sukses disuatu bidang tertentu. 
 
-3. ## Bank
+### 3. Bank
 
 Para pemilik bisnis kecil biasanya mendatangi bank karena membutuhkan modal untuk pengembangan bisnisnya. Kegiatan pendanaan berupa peminjaman modal kepada bisnis kecil khususnya UMKM oleh perbankan biasa dikenal dengan Kredit Usaha Rakyat. 
 
 Beberapa tahun belakangan, disrupsi berkat kemampuan teknologi mampu mengubah cara masyarakat Indonesia bertindak. Melihat ini, Bank di Indonesia juga merambah pendanaan untuk startup, khususnya yang bergerak di finansial teknologi. 
 
-4. ## Peer-to-peer Lending
+### 4. Peer-to-peer Lending
 
 P2P lending adalah metode baru dalam meminjam uang kepada investor tanpa melalui lembaga keuangan. Pinjaman peer-to-peer ini menjadi topik hangat karena proses yang cepat dan mudah untuk mendapatkan modal secara online.
 
@@ -47,7 +48,7 @@ Persayaratan minimum untuk dapat berinvestasi atau meminjamkan dana di platform 
 
 Jangan lupa, jika kamu berminat investasi di P2P lending maka gunakanlah platform resmi yang telah terdaftar di lembaga pengawas OJK. Karena setiap investasi pasti diiringi risiko tersendiri, pilih platform yang menyediakan layanan proteksi pada modal yang kamu tanam. Ingat, baca selalu semua persyaratan, ketentuan, serta cara berinvestasi yang aman.
 
-5. ## Personal Investor
+### 5. Personal Investor
 
 Dilansir media [Industri Kontan](https://investasi.kontan.co.id/news/jumlah-investor-di-pasar-modal-indonesia-sentuh-786-juta-per-januari-2022), jumlah personal investor atau investor individual Indonesia tembus angka Rp 7,86 juta per Januari 2022. Investor individual adalah orang yang menanamkan modalnya pada saham.
 
@@ -106,4 +107,8 @@ Jika kamu ingin mengetahui cara menjadi investor bisnis bisa menjadi investor si
 
 Berinvestasi dengan modal kecil pada project bisnis terbaik pilihan dan mendapat keuntungan persenan rutin setiap 3-6 bulan sesuai persetujuan kamu. Kamu otomatis akan didaftarkan juga menjadi investor di pasar modal dengan melakukan verifikasi data atau KYC saat membuat akun di aplikasi LandX.
 
-## Yuk, kunjungi LandX dan kenali crowdfunding lebih lanjut untuk menjadi investor menguntungkan
+## [Yuk, kunjungi LandX dan kenali crowdfunding lebih lanjut untuk menjadi investor menguntungka](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)n
+
+**Yuk Temukan Bisnis Menjanjikan dengan Keuntungan Terbaik di LandX**
+
+[![miliki bisnis modal kecil cuma dengan 1 jutaan dapat 4 cabang ](https://accountgram-production.sfo2.cdn.digitaloceanspaces.com/landx_ghost/2021/11/jadi-owner-bisnis-hanya-1-jutaan-dengan-cuan-yang-sangat-menjanjikan.png)](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)
