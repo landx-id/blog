@@ -16,7 +16,7 @@ tag:
   - Investasi untuk Pemula
   - Investasi Passive Income
 featuredImage:
-  src: https://images.unsplash.com/photo-1483985988355-763728e1935b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxMTc3M3wwfDF8c2VhcmNofDJ8fHNob3BwaW5nfGVufDB8fHx8MTY0MDE1OTI2MA&ixlib=rb-1.2.1&q=80&w=1080
+  src: https://images.unsplash.com/photo-1573855619003-97b4799dcd8b?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80
   alt: "Impulsive buying artinya keputusan belanja yang tidak terencana karena
     keputusan ini diambil secara emosional "
   title: Pengertian impulsive buying yang merupakan keputusan belanja yang tidak
