@@ -27,6 +27,7 @@ featuredImage:
 image: https://accountgram-production.sfo2.cdn.digitaloceanspaces.com/landx_ghost/2021/12/PADANG-MERDEKA-LISTING-DI-LANDX-SOLD-CUMA-DENGAN-39-MENIT-copy.jpg
 category:
   - Bisnis
+  - Investasi
 ---
 
 
