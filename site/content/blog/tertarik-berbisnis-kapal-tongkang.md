@@ -1,15 +1,31 @@
-+++
-author = "Khurin N. Imandini"
-category = ["Kapal Tongkang", "investasi bisnis", "Bisnis Modal Kecil", "Investasi Passive Income", "strategi investasi", "bisnis di masa pandemi"]
-date = 2021-12-16T15:06:22Z
-metaDescription = "Bisnis kapal tongkang menjadi salah satu bisnis yang paling menjadi dan tetap berkembang di masa pandemi karena tetap dibutuhkan untuk berbagai industri"
-draft = false
-image = "https://accountgram-production.sfo2.cdn.digitaloceanspaces.com/landx_ghost/2022/01/Cara-jadi-pemilik-bisnis-kapal-tongkang-cuma-dengan-modal-1-juta-rupiah.png"
-slug = "tertarik-berbisnis-kapal-tongkang"
-tag = ["Kapal Tongkang", "investasi bisnis", "Bisnis Modal Kecil", "Investasi Passive Income", "strategi investasi", "bisnis di masa pandemi"]
-title = "Tertarik Berbisnis Kapal Tongkang?"
-
-+++
+---
+draft: false
+author: Khurin N. Imandini
+slug: tertarik-berbisnis-kapal-tongkang
+title: Tertarik Berbisnis Kapal Tongkang?
+metaTitle: Tertarik Berbisnis Kapal Tongkang?
+metaDescription: Bisnis kapal tongkang menjadi salah satu bisnis yang paling
+  menjadi dan tetap berkembang di masa pandemi karena tetap dibutuhkan di
+  berbagai industri
+intro: Yuk simak bagaimana cara berbisnis kapal tongkang cuma dengan modal 1 juta
+date: 2021-12-16T15:06:22.000Z
+tag:
+  - Kapal Tongkang
+  - investasi bisnis
+  - Bisnis Modal Kecil
+  - Investasi Passive Income
+  - strategi investasi
+  - bisnis di masa pandemi
+  - CAPT
+featuredImage:
+  src: https://accountgram-production.sfo2.cdn.digitaloceanspaces.com/landx_ghost/2022/01/Cara-jadi-pemilik-bisnis-kapal-tongkang-cuma-dengan-modal-1-juta-rupiah.png
+  alt: Cara berbisnis kapal tongkang dengan modal 1 juta
+  title: Simak cara memulai bisnis kapal tongkang modal 1 juta
+image: https://accountgram-production.sfo2.cdn.digitaloceanspaces.com/landx_ghost/2022/01/Cara-jadi-pemilik-bisnis-kapal-tongkang-cuma-dengan-modal-1-juta-rupiah.png
+category:
+  - Investasi
+  - Bisnis
+---
 
 
 Sebagai negara maritim yang dikelilingi banyak laut, maka kapal tongkang tentu saja menjadi salah satu kapal yang banyak ditemui dan dibutuhkan.
