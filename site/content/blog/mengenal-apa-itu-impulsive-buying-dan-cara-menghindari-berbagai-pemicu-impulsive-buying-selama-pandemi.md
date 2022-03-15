@@ -2,14 +2,12 @@
 draft: false
 author: Abdul Wahhab
 slug: mengenal-apa-itu-impulsive-buying-dan-cara-menghindari-berbagai-pemicu-impulsive-buying-selama-pandemi
-title: Memahami Apa Itu Impulsive Buying dan Cara Menghindarinya
-metaTitle: Memahami Apa Itu Impulsive Buying dan Cara Menghindarinya
+title: Memahami Apa Itu Impulsif Buying dan Cara Menghindarinya
+metaTitle: Memahami Apa Itu ImpulsifBuying dan Cara Menghindarinya
 metaDescription: Impulsive buying atau belanja secara impulsif adalah keputusan
   belanja emosional yang  tidak memikirkan fungsi dari barang tersebut
-intro: Impulsive buying atau belanja secara impulsif tanpa pikir panjang tentu
-  saja sesuatu hal yang sering kita alami terutama semakin mudahnya belanja
-  online di masa sekarang ini. Karena itu, yuk kita bahas bagaimana cara agar
-  terhindar dari impulsive buying.
+intro: Yuk pahami apa itu impulsif buying dan bagaimana cara menghindari
+  impulsif buying di tengah masa pandemi
 date: 2022-02-25T08:21:12.469Z
 tag:
   - mengatur keuangan
