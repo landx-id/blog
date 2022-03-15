@@ -18,6 +18,7 @@ date: 2021-11-03T07:29:10.000Z
 tag:
   - Bisnis Retail
   - Ximivogue Listing di LandX
+  - XIMI
 category:
   - Bisnis
 featuredImage:
