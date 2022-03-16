@@ -6,11 +6,9 @@ title: "IPO adalah: Memahami Apa Itu IPO Saham dan Berinvestasi ke Saham IPO"
 metaTitle: "IPO adalah: Memahami Apa Itu IPO Saham dan Berinvestasi ke Saham IPO"
 metaDescription: IPO saham adalah penawaran perdana saham ke publik sehingga
   publik dapat memiliki dari perusahaan yang melakukan IPO|Membeli Saham IPO
-intro: "IPO sebuah perusahaan adalah sesuatu yang ditunggu oleh banyak investor
-  karena IPO menjadi penawaran perdana saham suatu perusahaan kepada masyarakat
-  luas. Saham IPO menjadi incaran banyak orang karena IPO menjadi kesempatan
-  untuk membeli saham pada harga buku atau penawaran awal. Karena ity, yuk kita
-  bahas bagaimana potensi saham IPO untuk investasi jangka panjang anda. "
+intro: "Apabila kamu belum paham apa itu IPO dan menganggap beli saham IPO pasti
+  untung, yuk simak kita bahas apa itu IPO saham dan risiko membeli saham pada
+  saat IPO. "
 date: 2021-07-20T10:16:50.000Z
 tag:
   - Cara Investasi Saham
