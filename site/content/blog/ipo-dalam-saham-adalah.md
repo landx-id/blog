@@ -25,16 +25,16 @@ featuredImage:
 image: https://images.unsplash.com/photo-1560221328-12fe60f83ab8?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxMTc3M3wwfDF8c2VhcmNofDJ8fHN0b2NrfGVufDB8fHx8MTY0MDMzMzA0MQ&ixlib=rb-1.2.1&q=80&w=1080
 category:
   - Investasi
+  - Bisnis
+  - Investasi
 ---
-**Belakangan anda tentu saja sering mendengar istilah [IPO atau *initial public offering*](https://landx.id/project/index.html)** setelah beberapa perusahaan rintisan berbasis teknologi seperti **[Bukalapak](https://landx.id/blog/ipo-bukalapak-menelusuri-penyebab-anjloknya-harga-saham-bukalapak-semenjak-ipo/), Gojek dan Tokopedia yang berencana melakukan IPO dalam waktu dekat**.
+**Belakangan, istilah IPO banyak dibahas kembali karena IPO GOTO yang merupakan merger dua startup besar Indonesia yaitu Gojek dan Tokopedia.**
 
-***Initial public offering atau IPO* adalah** hal yang sangat umum dilakukan suatu perusahaan dengan berbagai tujuan seperti keinginan untuk mengembangkan bisnis ke skala yang lebih besar.
+Simpelnya, IPO adalah tahap dimana perusahaan yang sebelumnya bersifat privat memutuskan untuk melepasakan saham mereka kepada publik. Dalam tahap ini, perusahaan yang sebelumnya bersifat privat membuka diri kepada publik lewat penawaran saham perdana yang dilakukan oleh perusahaan. 
 
-IPO adalah langkah besar yang diambil oleh perusahaan karena mereka akan melepaskan saham mereka kepada masyarakat luas. Hal ini menjadikan saham IPO adalah saham yang diburu banyak investor karena biasanya harganya masih murah dan potensi meningkatnya sangat tinggi. 
+Momen IPO perusahaan potensial biasanya menajdi salah satu yang sangat ditunggu oleh banyak investor karena memiliki prospek keuntungan jangka panjang yang menjanjikan. 
 
-Karena itu, saham IPO terbaru selalu menarik perhatian banyak investor terutama apabila IPO saham berasal dari perusahaan-perusahaan bonafit yang telah ditunggu publik untuk IPO. 
-
-Karena itu, yuk kita bahas lebih secara lebih lanjut tentang saham IPO dan bagaiman cara beli saham IPO.
+Karena itu, yuk kita bahas dulu apa itu 
 
 - - -
 
