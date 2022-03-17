@@ -56,7 +56,7 @@ Hal ini karena passive income yang sudah cukup memenuhi kebutuhan dasar merupaka
 
 Oleh sebab itu, kamu butuh menyusun strategi keuangan yang baik mulai dari sekarang agar kamu memiliki aset yang cukup untuk memberikan anda passive income untuk memenuhi kebutuhan anda.
 
-## **Cara Mendapatkan Passive Income** 
+## **Bagaimana Cara Menciptakan Passive Income**
 
 Kalau kamu ingin mulai menyusun strategi agar mendapatkan passive income dari sekarang, kamu bisa mulai dengan investasi atau bisnis yang bisa memberikan kamu passive income. Karena itu mari kita bahas investasi dan bisnis pasif income yang bisa anda coba:
 
@@ -116,7 +116,11 @@ Saat ini, affliate program adalah salah satu cara mudah untuk mendapatkan passiv
 
 Kegiatan ini sekarang sangat populer ditambah lagi banyak *e-commerce* membuka program ini dan memberikan sampel produk gratis kepada afiliator agar mereka dapat dengan lebih mudah mengenalkan produk tersebut.
 
-### **6.** **[Investasi Bisnis](https://landx.id/project/)**
+## Apakah Investasi Termasuk Passive Income?
+
+Investasi bisa menjadi salah satu sumber passive income apabila kamu dapat memilih investasi aman yang bisa memberikan kamu pendapatan passive dari keuntungan investasi yang kamu dapatkan. 
+
+Salah investasi passive income yang bisa kamu lakukan adalah **i[nvestasi bisnis](https://landx.id/project/)** yang bisamemberikan kamu passive income melalui dividen yang dibagikan sesuai keuntungan yang didapatkan bisnis tersebut. 
 
 Apabila anda tidak memiliki waktu dan kemampuan untuk menjalankan sebuah bisnis, anda bisa melakukannya dengan berinvestasi ke dalam bisnis sehingga uang yang anda miliki akan dikelola oleh pebisnis profesional.
 
