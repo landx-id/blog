@@ -1,13 +1,12 @@
 ---
 draft: false
 author: Abdul Wahhab
-title: Investasi dengan Passive Income untuk Masa Depan
-metaTitle: Investasi dengan Passive Income untuk Masa Depan
-metaDescription: Passive income adalah penghasilan yang anda dapatkan tanpa
-  perlu aktif terlibat secara langsung dalam kegiatan menghasilkan uang
-  tersebut.
-intro: Yuk kita bahas apa itu passive income dan bagaimana cara menyiapkan
-  passive income yang bisa membawa kita mencapai financial freedom.
+title: Yuk Pahami Apa Itu Passive Income dan Cara Menyiapkan Passive Income
+metaTitle: Yuk Pahami Apa Itu Passive Income dan Cara Menyiapkan Passive Income
+metaDescription: Yuk pahami apa sih itu passive income dan bagaimana cara
+  mendapatkan passive income lewat investasi yang menguntungkan
+intro: "Yuk pahami apa sih itu passive income dan bagaimana cara mendapatkan
+  passive income lewat investasi anda. "
 isPinned: false
 slug: investasi-dengan-passive-income-untuk-masa-depan
 date: 2021-10-25T14:35:15.000Z
@@ -18,9 +17,10 @@ tag:
   - Investasi
 featuredImage:
   src: https://images.unsplash.com/photo-1633158829585-23ba8f7c8caf?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxMTc3M3wwfDF8c2VhcmNofDd8fGluY29tZXxlbnwwfHx8fDE2MzkwNDI3MDg&ixlib=rb-1.2.1&q=80&w=1080
-  alt: Memahami arti passive income dan bagaimana cara membangun passive income
-    dari usia muda
-  title: "Memahami cara mendapatkan passive income yang bisa kamu coba "
+  alt: Pahami bagaimana cara menyusun rencana investasi dan bisnis passive income
+    yang memberikan kamu keuntungan jangka panjang
+  title: Passive income adalah penghasilan passive yang kita dapatkan tanpa perlu
+    melakukan kegiatan ekonomi apapun
 image: https://images.unsplash.com/photo-1633158829585-23ba8f7c8caf?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxMTc3M3wwfDF8c2VhcmNofDd8fGluY29tZXxlbnwwfHx8fDE2MzkwNDI3MDg&ixlib=rb-1.2.1&q=80&w=1080
 category:
   - Bisnis
