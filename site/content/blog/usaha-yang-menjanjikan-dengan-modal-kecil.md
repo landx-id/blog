@@ -2,11 +2,12 @@
 draft: false
 author: Abdul Wahhab
 slug: usaha-yang-menjanjikan-dengan-modal-kecil
-title: 7+ Usaha Modal Kecil untuk yang Bisa Kamu Coba di Tahun 2022
-metaTitle: 7+ Usaha Modal Kecil untuk yang Bisa Kamu Coba di Tahun 2022
-metaDescription: 7 rekomendasi usaha modal kecil yang bisa pemula dengan modal kecil coba
-intro: Yuk simak bisnis modal kecil yang menguntungka dalam jangka panjang yang
-  bisa jadi pilihan kamu.
+title: 7+ Usaha Modal Kecil Menjanjikan yang Bisa Kamu Coba di Tahun 2022
+metaTitle: 7+ Usaha Modal Kecil Menjanjikan yang Bisa Kamu Coba di Tahun 2022
+metaDescription: Yuk cek usaha yang menjanjikan dengan modal kecil yang bisa
+  memberikan kamu keuntungan jangka panjang|Investasi jangka panjang
+intro: Yuk simak bisnis modal kecil yang menguntungkan dalam jangka panjang yang
+  bisa jadi pilihan kamu. Pilihan bisnis kekinian modal kecil untuk pemula.
 date: 2021-06-25T10:42:27.000Z
 tag:
   - investasi bisnis
@@ -14,10 +15,12 @@ tag:
   - Bisnis FnB
 category:
   - Bisnis
+  - Investasi
 featuredImage:
   src: https://images.unsplash.com/photo-1575663620136-5ebbfcc2c597?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1470&q=80
   alt: 7 Peluang usaha modal kecil yang menguntungkan untuk jangka panjang anda
-  title: Menentukan bisnis yang menguntungkan dalam jangka panjang
+  title: Usaha menjanjikan jangka panjang dengan modal kecil yang bisa jadi
+    pilihan untuk kamu yang ingin memulasi bisnis di tahun 2022
 ---
 Memilih usaha yang menjanjikan dengan modal kecil memang bukanlah hal yang mudah mengingat persaingan antar bisnis yang semakin ketat dari waktu. Akan tetapi bukan berarti tidak mungkin anda bisa memulai usaha yang menjanjikan dengan modal yang relatif kecil hingga bisa di mulai banyak orang.
 
