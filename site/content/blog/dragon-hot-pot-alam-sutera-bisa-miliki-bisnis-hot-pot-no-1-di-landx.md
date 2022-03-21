@@ -4,14 +4,28 @@ title: Dragon Hot Pot Alam Sutera | Bisa Miliki Bisnis Hot Pot No. 1 di LandX
 metaTitle: Dragon Hot Pot Alam Sutera | Bisa Miliki Bisnis Hot Pot No. 1 di LandX
 metaDescription: Dragon Hot Pot dan para investornya di platform crowdfunding
   LandX meriahkan grand opening cabang Alam Sutera di Tangerang.
-intro: "-"
+intro: Yuk simak keseruan grand opening Dragon Hot Pot X LandX cabang Alam Sutera
+isPinned: true
 date: 2022-03-20T23:50:31.244Z
+tag:
+  - Bisnis F&B
+  - Franchise Makanan
+  - Bisnis FnB
+  - DHP2
+  - Bisnis modal kecil
+category:
+  - Bisnis
+  - Investasi
 featuredImage:
   title: "PROJECT SERIES: Grand Opening Dragon Hot Pot Alam Sutera | LandX"
   src: img/yt-thumbnail-1-.jpg
-  alt: dragon hot pot alam sutera, crowdfunding
+  alt: Cara jadi pemilik dragon hot pot cabag alam sutera cuma dengan modal 1 juta
 ---
-Dragon Hot Pot (DHP) perluas jangkauan konsumennya dengan buka outlet baru yang didanai bersama investor di [LandX](https://landx.id/). Melalui dua project bisnis yang dinamai DHP1 dan DHP2, Dragon Hot Pot membuka penawaran saham untuk 4 outlet bernuansa masakan cina pada tahun 2021 lalu. 
+Dragon Hot Pot (DHP) perluas jangkauan konsumennya dengan buka outlet baru yang didanai bersama investor di [LandX](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog). Melalui dua project bisnis yang dinamai DHP1 dan DHP2, Dragon Hot Pot membuka penawaran saham untuk 4 outlet bernuansa masakan cina pada tahun 2021 lalu. 
+
+{{< youtube id="cu8jLfLI1Q8" >}}
+
+{{< button link="https://www.youtube.com/watch?v=cu8jLfLI1Q8" text="Watch This Video" >}}
 
 Sukses pendanaan dana di [LandX](https://landx.id/), Dragon Hot Pot umumkan grand opening outlet terbarunya yang berlokasi di Alam Sutera, Kota Tangerang, pada awal Maret 2022 ini. Bersama para investor, event spesial ini diisi kegiatan gunting pita dan menikmati sajian hot pot yang lezat.
 
@@ -54,7 +68,7 @@ Bagi yang ingin berkunjung ke outlet Dragon Hot Pot Alam Sutera dapat berkunjung
 
 Eksistensi outlet Dragon Hot Pot cabang Alam Sutera ini meramaikan line up cabang brand yang identik dengan sajian kuah berwarna merah keemasan ini. 
 
-Di tahun keduanya di Indonesia, Dragon Hot Pot bekerja sama dengan [LandX](https://landx.id/) untuk membuka cabang baru. Melalui project pendanaan di [LandX](https://landx.id/), para investor bisa berinvestasi pada bisnis hot pot terbaik dari Melbourne melalui project [Dragon Hot Pot x LandX](https://landx.id/).
+Di tahun keduanya di Indonesia, Dragon Hot Pot bekerja sama dengan [LandX](https://landx.id/) untuk membuka cabang baru. Melalui project pendanaan di [LandX](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog), para investor bisa berinvestasi pada bisnis hot pot terbaik dari Melbourne melalui project [Dragon Hot Pot x LandX](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog).
 
 ## Tertarik Menjadi Investor? 
 
@@ -65,5 +79,9 @@ Para pemilik modal pun berinvestasi pada project bisnis potensial ini dengan mod
 Selain memiliki ownership dari brand hot pot No. 1 ini, para investor Dragon Hot Pot juga menerima keuntungan bagi hasil atau disebut dividen senilai 20-30% dari modal yang ditanamkan. Keuntungan ini akan diterima rutin setiap 3 hingga 6 bulan.
 
 Kamu tertarik untuk menjadi investor dan bisa miliki bisnis potensial dengan modal sejutaan? Anda dapat kunjungi situs dan download aplikasi [LandX](https://landx.id/) untuk dapat mulai berinvestasi pada bisnis pilihan Anda. 
+
+## **[Yuk Temukan Bisnis Menjanjikan dengan Keuntungan Terbaik di LandX](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)**
+
+[![miliki bisnis modal kecil cuma dengan 1 jutaan dapat 4 cabang ](https://accountgram-production.sfo2.cdn.digitaloceanspaces.com/landx_ghost/2021/11/jadi-owner-bisnis-hanya-1-jutaan-dengan-cuan-yang-sangat-menjanjikan.png)](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)
 
 [Yuk, segera kunjungi LandX karena #SekarangBisa memiliki bisnis dengan modal mulai Rp 1 juta aja.](https://landx.id/project)
