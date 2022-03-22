@@ -19,4 +19,10 @@ featuredImage:
   alt: Memahami apa itu KSEI dan fungsinya bagi proses investasi anda
   title: Fungsi dan peran KSEI bagi para investor Indonesia
 ---
-sds
+Apabila kamu seorang investor, maka kamu kenal dengan baik lembaga satu ini karena KSEI memiliki peran yang sangat penting dalam proses investasi anda. Karena itu, yuk mari kita bahas secara lebih mendalam apa itu KSEI dan peran pentingnya dalam proses investasi anda. 
+
+## KSEI Adalah
+
+Pertama, mari kita bahas dulu apa itu KSEI. 
+
+KSEI adalah Lembaga Penyimpanan dan Penyelesaian (LPP) Pasar Modal di Indonesia sesuai dengan Undang-Undang No. 8 Tahun 1995 tentang pasar modal dimana tugas dari KSEI adalah memberikan jasa kustodian dan penitipan efek sesuai dengan aturan yang berlaku di pasar modal Indonesia.
