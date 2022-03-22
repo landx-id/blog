@@ -27,4 +27,6 @@ Pertama, mari kita bahas dulu apa itu KSEI.
 
 KSEI adalah Lembaga Penyimpanan dan Penyelesaian (LPP) Pasar Modal di Indonesia sesuai dengan Undang-Undang No. 8 Tahun 1995 tentang pasar modal dimana tugas dari KSEI adalah memberikan jasa kustodian dan penitipan efek sesuai dengan aturan yang berlaku di pasar modal Indonesia. 
 
-KSEI awalnya berdiri sebagai *Self Regulatory Organization* pada 23 Desember 1997 yang memiliki tanggung jawab terhadap penerapan aturan di pasar modal Indonesia. Tugas KSEI sebagai LPP baru muncul setahun setelah PT KSEI berdiri dan mengawasi penerapan aturan di pasar modal Indonesia.
+KSEI awalnya berdiri sebagai *Self Regulatory Organization* pada 23 Desember 1997 yang memiliki tanggung jawab terhadap penerapan aturan di pasar modal Indonesia. Tugas KSEI sebagai LPP baru muncul setahun setelah PT KSEI berdiri dan mengawasi penerapan aturan di pasar modal Indonesia. Karena itu KSEI memiliki peran penting dalam proses berjalanya pasar modal di Indonesia. 
+
+Seiring perkembangan waktu, KSEI membuat aturan khusus yaitu SID *(Single Investor Identification)*
