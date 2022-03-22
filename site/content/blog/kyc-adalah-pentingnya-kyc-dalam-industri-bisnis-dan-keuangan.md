@@ -46,6 +46,12 @@ KYC atau know your customer diatur dalam beberapa peraturan perundang-undangan d
 * [Peraturan Menteri Keuangan Nomor 30/PMK.010/2010 tentang Penerapan Prinsip Mengenal Nasabah bagi Lembaga Keuangan Non-Bank](http://www.ojk.go.id/id/kanal/iknb/regulasi/lembaga-jasa-keuangan-khusus/peraturan-keputusan-menteri/Pages/peraturan-menteri-keuangan-nomor-30-pmk-010-2010-tentang-penerapan-prinsip-mengenal-nasabah-bagi-lembaga-keuangan-non-b-3.aspx#:~:text=dan%20Perusahaan%20Publik-,Peraturan%20Menteri%20Keuangan%20Nomor%2030%2FPMK.010%2F2010%20tentang,bagi%20Lembaga%20Keuangan%20Non%2DBank&text=Peraturan%20Menkeu%20ini%20dibuat%20untuk,pencucian%20uang%20dan%20pendanaan%20teroris.)
 * [POJK Nomor 12-POJK.01-2017 tentang Penerapan Program APU PPT di Sektor Jasa Keuangan](https://www.ojk.go.id/apu-ppt/id/peraturan/pojk/Pages/POJK-Nomor-12-POJK.01-2017-tentang-Penerapan-Program-APU-PPT-di-Sektor-Jasa-Keuangan.aspx)
 
+## Kenapa KYC Sangat Penting Bagi Investor
+
+Salah satu fungsi KYC bagi investor adalah untuk pengamanan transaksi yang dilakukan sehingga dana yang kamu miliki hanya bisa dicairkan ke rekening atas nama sendiri dan setiap transaksi yang dilakukan dapat diketahui dengan baik. 
+
+Jadi, KYC pada dasarnya merupakan salah satu langkah untuk mengamankan transaksi yang dilakukan oleh investor. Karena itu, sangat penting untuk kamu melakukan KYC sebelum mulai melakukan investasi.
+
 ## Cara Kerja KYC
 
 Salah satu bagian dari sistem kerja KYC adalah proses pengisian data diri pada saat registrasi atau pembukaan rekening pada suatu bank. Dalam proses registrasi tersebut, calon nasabah akan diminta untuk mengisi seluruh informasi mengenai data diri, keluarga, pekerjaan, dan sebagainya secara lengkap dan valid.
