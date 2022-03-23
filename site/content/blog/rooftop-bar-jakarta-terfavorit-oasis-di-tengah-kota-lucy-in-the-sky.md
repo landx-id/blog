@@ -60,10 +60,12 @@ Out of ordinary – pionir outdoor bar di Jakarta, Lucy In The Sky tidak hanya m
 
 Bisnis F&B selalu dapat menjadi pilihan terbaik untuk digeluti. Manajemen yang profesional tentu jadi penentu keberlangsungan bisnis bar dan restoran dimana pun berada. Seperti prospek Lucy In The Sky yang selalu eksis disepanjang kehadirannya.
 
-Rencana Lucy In The Sky di tahun 2022 ialah gencar hadirkan bar & restoran dengan konsep yang pastinya extraordinary. Hadirkan konsep yang fun dengan live event music yang social friendly. Selain menantikan kehadiran outlet terbaru dari Lucy In The Sky, kamu juga dapat menjadi bagian dari perkembangan outlet terbaru di tahun ini melalui [platform crowdfunding LandX](https://landx.id/).
+Rencana Lucy In The Sky di tahun 2022 ialah gencar hadirkan bar & restoran dengan konsep yang pastinya extraordinary. Hadirkan konsep yang fun dengan live event music yang social friendly. Selain menantikan kehadiran outlet terbaru dari Lucy In The Sky, kamu juga dapat menjadi bagian dari perkembangan outlet terbaru di tahun ini melalui [platform crowdfunding LandX](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog).
 
 Bersama [LandX](https://landx.id/), kamu dapat menjadi pemilik resto & bar populer di Jakarta dengan modal sejutaan. [LandX](https://landx.id/) bantu progress capai tujuan finansialmu dengan hadirkan project bisnis untuk dapat dimiliki dengan modal minim.
 
-**[Jangan lewatkan kesempatan ini karena cuma lewat LandX bisa punya usaha bar dengan modal minim](https://landx.id/)🎉😎** 
+**[Jangan lewatkan kesempatan ini karena cuma lewat LandX bisa punya usaha bar dengan modal minim](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)🎉😎** 
 
-**Kapan lagi?! Kunjungi [LandX](https://landx.id/) sekarang! \[KUOTA TERBATAS]**
+**[Kapan lagi?! Kunjungi LandX sekarang! \[KUOTA TERBATAS]](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)**
+
+[![miliki bisnis modal kecil cuma dengan 1 jutaan dapat 4 cabang ](https://accountgram-production.sfo2.cdn.digitaloceanspaces.com/landx_ghost/2021/11/jadi-owner-bisnis-hanya-1-jutaan-dengan-cuan-yang-sangat-menjanjikan.png)](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)
