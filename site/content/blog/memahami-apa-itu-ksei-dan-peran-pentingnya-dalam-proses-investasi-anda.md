@@ -38,7 +38,8 @@ SID sebagai nomor identitas tunggal bagi investor yang memberikan kemudahan pada
 Setelah paham apa itu KSEI, yuk kita pahami dulu bagaimana cara kerja KSEI yang membantu investasi anda menjadi lebih terintegrasi.
 
 * **Pembukaan rekening efek.** ketika kamu melakukan registrasi ke suatu platform investasi seperti broker atau pialang saham, maka kamu otomatis akan dibukakan rekening efek untuk mempermudah proses investasi. 
-* **Pembuatan RDN dan SID.** Setelah memiliki rekening efek, maka investor akan memiliki RDN atau Rekening Dana Nasabah yang merupakan sub rekening dan SID di KSEI yang akan dimiliki oleh investor sehingga tidak bisa digunakan oleh orang lain. 
-* **Kepemilikan dana dan saham.** Untuk kepemilikan dana dan transaksi nantinya akan dimutasikan lewat RDN pribadi yang dimiliki oleh setiap investor. Untuk kepemilikan efek seperti saham akan tersimpan ke dalam 
+* **Pembuatan RDN dan SID.** Setelah memiliki rekening efek, maka investor akan memiliki RDN atau Rekening Dana Nasabah dan sub rekening dengan SID di KSEI yang akan dimiliki oleh investor sehingga tidak bisa digunakan oleh orang lain. 
+* **Kepemilikan dana dan saham.** Untuk kepemilikan dana dan transaksi nantinya akan dimutasikan lewat RDN pribadi yang dimiliki oleh setiap investor. Untuk kepemilikan efek seperti saham akan tersimpan ke dalam sub rekening pribadi anda sehingga seluruh efek ini sudah menjadi milik anda dan tidak terikat lagi dengan broker yang menjual saham tersebut. Hal ini membuat aset anda menjadi tetap aman walaupun dimasa mendatang broker/ pialang yang menjual saham tersebut mengalami masalah sehingga harus berhenti beroperasi. 
+*
 
 ## Fungsi KSEI Bagi Investor
