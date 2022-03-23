@@ -30,3 +30,15 @@ KSEI adalah Lembaga Penyimpanan dan Penyelesaian (LPP) Pasar Modal di Indonesia 
 KSEI awalnya berdiri sebagai *Self Regulatory Organization* pada 23 Desember 1997 yang memiliki tanggung jawab terhadap penerapan aturan di pasar modal Indonesia. Tugas KSEI sebagai LPP baru muncul setahun setelah PT KSEI berdiri dan mengawasi penerapan aturan di pasar modal Indonesia. Karena itu KSEI memiliki peran penting dalam proses berjalannya pasar modal di Indonesia. 
 
 Seiring perkembangan waktu, KSEI membuat aturan khusus yaitu SID *(Single Investor Identification)* yang memudahkan proses identifikasi setiap investor yang berinvestasi ke berbagai instrumen investasi di pasar  modal sehingga proses pasar modal dapat berkembang dengan lebih optimal lagi karena setiap investor memiliki identitas tunggal.
+
+SID sebagai nomor identitas tunggal bagi investor yang memberikan kemudahan pada proses identifikasi investor sekaligus landasan berbagai pengembangan pasar modal lainnya, termasuk fasilitas AKSes (Acuan Kepemilikan Sekuritas). Hal ini menjadi sistem investasi di Indonesia menjadi lebih terintegrasi. 
+
+## Cara Kerja KSEI
+
+Setelah paham apa itu KSEI, yuk kita pahami dulu bagaimana cara kerja KSEI yang membantu investasi anda menjadi lebih terintegrasi.
+
+* **Pembukaan rekening efek.** ketika kamu melakukan registrasi ke suatu platform investasi seperti broker atau pialang saham, maka kamu otomatis akan dibukakan rekening efek untuk mempermudah proses investasi. 
+* **Pembuatan RDN dan SID.** Setelah memiliki rekening efek, maka investor akan memiliki RDN atau Rekening Dana Nasabah yang merupakan sub rekening dan SID di KSEI yang akan dimiliki oleh investor sehingga tidak bisa digunakan oleh orang lain. 
+* **Kepemilikan dana dan saham.** Untuk kepemilikan dana dan transaksi nantinya akan dimutasikan lewat RDN pribadi yang dimiliki oleh setiap investor. Untuk kepemilikan efek seperti saham akan tersimpan ke dalam 
+
+## Fungsi KSEI Bagi Investor
