@@ -40,6 +40,17 @@ Setelah paham apa itu KSEI, yuk kita pahami dulu bagaimana cara kerja KSEI yang 
 * **Pembukaan rekening efek.** ketika kamu melakukan registrasi ke suatu platform investasi seperti broker atau pialang saham, maka kamu otomatis akan dibukakan rekening efek untuk mempermudah proses investasi. 
 * **Pembuatan RDN dan SID.** Setelah memiliki rekening efek, maka investor akan memiliki RDN atau Rekening Dana Nasabah dan sub rekening dengan SID di KSEI yang akan dimiliki oleh investor sehingga tidak bisa digunakan oleh orang lain. 
 * **Kepemilikan dana dan saham.** Untuk kepemilikan dana dan transaksi nantinya akan dimutasikan lewat RDN pribadi yang dimiliki oleh setiap investor. Untuk kepemilikan efek seperti saham akan tersimpan ke dalam sub rekening pribadi anda sehingga seluruh efek ini sudah menjadi milik anda dan tidak terikat lagi dengan broker yang menjual saham tersebut. Hal ini membuat aset anda menjadi tetap aman walaupun dimasa mendatang broker/ pialang yang menjual saham tersebut mengalami masalah sehingga harus berhenti beroperasi. 
-*
 
-## Fungsi KSEI Bagi Investor
+Oleh sebab itu, KSEI bisa dibilang merupakan tempat kita menyimpan semua aset yang kita miliki sehingga aset kita tetap aman dan bisa kita jual walaupun broker tempat kita membeli aset tersebut mengalami masalah karena saat proses penjualan aset anda akan diambil dari rekening pribadi anda. 
+
+## Fungsi KSEI untuk Investor
+
+Seperti yang sudah kita bahas sebelumnya, KSEI memiliki peran yang sangat penting dalam proses investasi, selengkapnya mari kita bahas lebih dalam tentang fungsi dari KSEI. 
+
+* Sebagai investor, kamu dapat memeriksa secara langsung (*real-time)* update kepemilikan efek anda yang ada dalam sub rekening KSEI karena kamu bisa melihat mutasi 30 hari terakhir. Hal ini mempermudah investor melakukan monitoring terhadap aset efek yang mereka miliki. 
+* Mempermudah investor melakukan rekap terhadap aset-aset yang mereka miliki walaupun mereka membelinya dari berbagai broker berbeda. KSEI akan membantu kamu melakukan konsolidasi laporan portofolio kamu dari berbagai broker. 
+* Membuat aset investor menjadi lebih aman karena data terkait aset yang kamu miliki di pasar modal dapat dilihat secara lebih transparan. 
+
+Karen itu, sebagai investor investasi kamu akan menjadi lebih mudah untuk diawasi karena adanya satu sistem terpadu yang membantu integrasi aset investasi yang anda miliki. 
+
+Oleh sebab itu, kepemilikan rekening KSEI menjadi salah satu hal yang sangat penting terutama jika kamu berinvestasi ke instrumen pasar modal seperti saham sehingga kamu penting untuk memahami dengan baik apa itu KSEI.
