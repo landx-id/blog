@@ -1,18 +1,34 @@
-+++
-author = "Khurin N. Imandini"
-category = ["investasi", "bisnis patungan", "crowdfunding indonesia", "Equity Crowdfunding", "investasi jangka panjang", "Investasi Tahun 2022"]
-date = 2021-12-03T06:19:35Z
-metaDescription = "Sebelum menyusun rencana investasi untuk tahun 2022, yuk simak dulu berbagai tips penting yang bisa membantu investasi kamu di tahun 2022"
-draft = false
-image = "https://images.unsplash.com/photo-1629839958207-5400ab5e1e7f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxMTc3M3wwfDF8c2VhcmNofDN8fDIwMjJ8ZW58MHx8fHwxNjM4NTI4MDIx&ixlib=rb-1.2.1&q=80&w=1080"
-slug = "hal-penting-yang-harus-dipahami-saat-berinvestasi-di-tahun-2022"
-tag = ["investasi", "bisnis patungan", "crowdfunding indonesia", "Equity Crowdfunding", "investasi jangka panjang", "Investasi Tahun 2022"]
-title = "Tahun Depan Mau Investasi Apa? Yuk Pahami Hal ini Sebelum Mulai Investasi di Tahun 2022"
-
-+++
-
-
-[**Investasi**](https://landx.id/project/) saat ini sudah bukan lagi barang yang asing bagi masyarakat Indonesia, bahkan bagi generasi muda. Pandangan yang menganggap bahwa investasi hanyalah milik generasi tua atau kalangan masyarakat tertantu saja, kini sudah tidak berlaku.
+---
+draft: false
+author: Khurin N. Imandini
+slug: hal-penting-yang-harus-dipahami-saat-berinvestasi-di-tahun-2022
+title: Tips Investasi Menguntungkan di Tahun 2022 yang Cocok untuk Pemula
+metaTitle: Tips Investasi Menguntungkan di Tahun 2022 yang Wajib Kamu Coba
+metaDescription: Menyusun rencana investasi untuk tahun 2022, yuk simak dulu
+  berbagai tips penting yang bisa membantu investasi kamu di tahun 2022
+intro: Yuk simak bagaimana cara investasi di tahun 2022 agar investasi kamu
+  makin cuan maksimal tahun ini.....
+date: 2021-12-03T06:19:35.000Z
+tag:
+  - investasi
+  - bisnis patungan
+  - crowdfunding indonesia
+  - Equity Crowdfunding
+  - investasi jangka panjang
+  - Investasi Tahun 2022
+  - Tips Investasi
+featuredImage:
+  src: https://images.unsplash.com/photo-1629839958207-5400ab5e1e7f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxMTc3M3wwfDF8c2VhcmNofDN8fDIwMjJ8ZW58MHx8fHwxNjM4NTI4MDIx&ixlib=rb-1.2.1&q=80&w=1080
+  alt: Yuk simak investasi apa yang bisa memberikan investasi optimal di tahun
+    2022 sehingga memberikan kamu keuntungan yang optimal.
+  title: Memilih investasi terbaik di tahun 2022 yang bisa memberikan kamu
+    keuntungan optimal dalam jangka panjang
+image: https://images.unsplash.com/photo-1629839958207-5400ab5e1e7f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxMTc3M3wwfDF8c2VhcmNofDN8fDIwMjJ8ZW58MHx8fHwxNjM4NTI4MDIx&ixlib=rb-1.2.1&q=80&w=1080
+category:
+  - Investasi
+  - Keuangan
+---
+**[Investasi](https://landx.id/project/)** saat ini sudah bukan lagi barang yang asing bagi masyarakat Indonesia, bahkan bagi generasi muda. Pandangan yang menganggap bahwa investasi hanyalah milik generasi tua atau kalangan masyarakat tertantu saja, kini sudah tidak berlaku.
 
 Berdasarkan data demografi investor yang diterbitkan oleh KSEI pada Oktober 2021, investor di Indonesia didominasi oleh usia di bawah 30 tahun dengan persentase 59.23%.
 
@@ -22,13 +38,7 @@ Meski begitu, tidak sedikit juga masyarakat atau generasi muda yang tertarik unt
 
 Investasi memang bukan sesuatu yang bisa digeluti begitu saja tanpa persiapan yang matang. Bagi Kamu para calon investor pemula, atau yang memiliki resolusi investasi di tahun 2022, Kamu bisa mempelajari beberapa hal berikut ini agar tidak salah dalam mengambil langkah investasi.
 
----
-
-### [Tips Investasi di Tahun 2022](https://landx.id/blog/hal-penting-yang-harus-dipahami-saat-berinvestasi-di-tahun-2022/#tips-investasi-di-tahun-2022)
-
-#### [1. Menentukan Tujuan Investasi di Tahun 2022](https://landx.id/blog/hal-penting-yang-harus-dipahami-saat-berinvestasi-di-tahun-2022/#1-menentukan-tujuan-investasi-di-tahun-2022)[2. Pelajari Instrumen Investasi, Konsep, serta Risikonya](https://landx.id/blog/hal-penting-yang-harus-dipahami-saat-berinvestasi-di-tahun-2022/#2-pelajari-instrumen-investasi-konsep-serta-risikonya)[3. Kendalikan Diri](https://landx.id/blog/hal-penting-yang-harus-dipahami-saat-berinvestasi-di-tahun-2022/#3-kendalikan-diri)[4. Lakukan Diversifikasi](https://landx.id/blog/hal-penting-yang-harus-dipahami-saat-berinvestasi-di-tahun-2022/#4-lakukan-diversifikasi)
-
----
+- - -
 
 ## Tips Investasi di Tahun 2022
 
@@ -46,14 +56,14 @@ Kemudian untuk jangka panjang mencakup tujuan finansial yang ingin dicapai dalam
 
 Dengan memiliki tujuan investasi tertentu, Kamu bisa membuat rencana investasi dengan perhitungan yang lebih baik.
 
----
+- - -
 
 **Artikel Terkait:**
 
 * [Menuju Akhir Tahun, Berikut Prospek dan Rekomendasi Investasi Aman untuk Tahun 2022](https://landx.id/blog/rekomendasi-investasi-di-tahun-2022/)
 * [Manajemen Keuangan: Memahami Pengertian, Fungsi, Tujuan, dan Kenapa Manajemen Keuangan Sangat Penting Bagi Milenial](https://landx.id/blog/manajemen-keuangan-memahami-pengertian-fungsi-tujuan-dan-kenapa-manajemen-keuangan-sangat-penting-bagi-milenial/)
 
----
+- - -
 
 ### 2. Pelajari Instrumen Investasi, Konsep, serta Risikonya
 
@@ -79,14 +89,14 @@ Karena itu, dalam berinvestasi kamu juga perlu belajar mengendalikan diri dan ha
 
 Selain itu, Kamu juga perlu mengurangi kebiasaan memantau investasimu. Semakin sering kamu memonitor fluktuasi investasimu, Kamu akan semakin stres memikirkannya. Sehingga akan membuatmu sulit mengambil keputusan.
 
----
+- - -
 
 **Baca Juga:**
 
 * [Ingin Terhindar Dari FOMO saat Berinvestasi? 5 Hal Ini Wajib Kamu Lakukan](https://landx.id/blog/fomo-dalam-kehidupan-dan-investasi/)
 * [Mengenal Apa Itu Impulsive Buying dan Cara Menghindari Berbagai Pemicu Impulsive Buying Selama Pandemi](https://landx.id/blog/mengenal-apa-itu-impulsive-buying-dan-cara-menghindari-berbagai-pemicu-impulsive-buying-selama-pandemi/)
 
----
+- - -
 
 ### [4. Lakukan Diversifikasi](https://landx.id/blog/diversifikasi-dalam-investasi/)
 
@@ -98,7 +108,7 @@ Sebagai contoh, Kamu telah berinvestasi pada saham suatu perusahaan. Perusahaan 
 
 Jika kamu melakukan diversifikasi dengan cara membeli saham dari dua perusahaan yang berbeda, risiko kerugian tersebut akan menjadi lebih kecil. Sehingga, nilai portofolio investasimu juga akan tetap aman.
 
-Jika Kamu tertarik untuk mencoba diversifikasi investasi, Kamu bisa mulai dengan berinvestasi di **[LandX](https://landx.id/)** yang merupakan [**platform Equity Crowdfunding (ECF)**](https://landx.id/) yang mempertemukan berbagai jenis bisnis yang tengah berkembang dengan para calon investor.
+Jika Kamu tertarik untuk mencoba diversifikasi investasi, Kamu bisa mulai dengan berinvestasi di **[LandX](https://landx.id/)** yang merupakan **[platform Equity Crowdfunding (ECF)](https://landx.id/)** yang mempertemukan berbagai jenis bisnis yang tengah berkembang dengan para calon investor.
 
 LandX bekerja dengan sistem **[“patungan bisnis”](https://landx.id/project/)**, artinya Kamu bisa menjadi salah satu owner dari bisnis yang sahamnya Kamu beli, dengan keuntungan berupa dividen yang akan Kamu terima setiap tahunnya.
 
@@ -108,24 +118,23 @@ Pada dasarnya, setiap investasi adalah upaya untuk mengejar keuntungan jangka pa
 
 Gejolak perekonomian dunia selama masa pandemi semakin memperkuat alasan untuk mulai menata finansial dengan lebih baik, salah satunya melalui investasi. Jika Kamu merasa selama ini masih belum cukup baik dalam mengatur finansial, maka tahun 2022 adalah saat yang tepat untuk mulai memperbaiki resolusi finansialmu. Ada banyak jenis investasi yang bisa Kamu mulai sebagai investor pemula.
 
-**[LandX](https://landx.id/project/) ** menjadi pilihan investasi dengan prospek yang menjanjikan di tahun 2022. Sebagai platform ECF, LandX terus berkembang dan terus berkolaborasi dengan bisnis-bisnis menarik, dan Kamu sangat bisa menjadi bagian dari **[project-project bisnis LandX.](https://landx.id/project/)** Verifikasi akunmu sekarang juga dan pastikan Kamu tidak kehabisan project bisnis impianmu di **[LandX](https://landx.id/project/)**.
+**[LandX](https://landx.id/project/)**  menjadi pilihan investasi dengan prospek yang menjanjikan di tahun 2022. Sebagai platform ECF, LandX terus berkembang dan terus berkolaborasi dengan bisnis-bisnis menarik, dan Kamu sangat bisa menjadi bagian dari **[project-project bisnis LandX.](https://landx.id/project/)** Verifikasi akunmu sekarang juga dan pastikan Kamu tidak kehabisan project bisnis impianmu di **[LandX](https://landx.id/project/)**.
 
-***
+- - -
 
-## [Yuk Patungan  Bisnis Menguntungkan Bareng LandX](https://landx.id/project/)
+## **[Yuk Temukan Bisnis Menjanjikan dengan Keuntungan Terbaik di LandX](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)**
 
-[![Mau punya bisnis menguntungkan modal 1 juta aja? ya landX solusinya](https://accountgram-production.sfo2.cdn.digitaloceanspaces.com/landx_ghost/2021/10/Equity-Crowdfunding-di-Indonesia-1--3.png)](https://landx.id/project/)
+[![miliki bisnis modal kecil cuma dengan 1 jutaan dapat 4 cabang ](https://accountgram-production.sfo2.cdn.digitaloceanspaces.com/landx_ghost/2021/11/jadi-owner-bisnis-hanya-1-jutaan-dengan-cuan-yang-sangat-menjanjikan.png)](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)
 
-## [**Mau Berbagai info Terbaru Terkait Investasi? Yuk Follow @landx.id di Instagram**](https://www.instagram.com/landx.id/?utm_medium=copy_link)
+## **[Mau Berbagai info Terbaru Terkait Investasi? Yuk Follow @landx.id di Instagram](https://www.instagram.com/landx.id/?utm_medium=copy_link)**
 
----
+- - -
 
 **Baca  Juga:**
 
 * [Daftar 5 Orang Terkaya di Dunia 2021 dan Growth Mindset yang Bisa Kamu Tiru](https://landx.id/blog/daftar-orang-terkaya-di-dunia-tahun-2021/)
 * [Investasi dengan Passive Income untuk Masa Depan](https://landx.id/blog/investasi-dengan-passive-income-untuk-masa-depan/)
 
----
+- - -
 
-**#YukPatunganBisnis    #LandX.id    #landx         #landx.id    #InvestasiBisnis  #SecuritiesCrowdfunding   #EquityCrowdfunding    #InvestasiMenguntungkan     #Urundana    #BisnisPatungan    #InvestasiUsaha**
-
+**\#YukPatunganBisnis    #LandX.id    #landx         #landx.id    #InvestasiBisnis  #SecuritiesCrowdfunding   #EquityCrowdfunding    #InvestasiMenguntungkan     #Urundana    #BisnisPatungan    #InvestasiUsaha**
