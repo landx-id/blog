@@ -51,23 +51,23 @@ Kapal tugboat adalah kapal yang berukuran kecil namun memiliki tenaga mesin yang
 
 ## Jenis Kapal Tongkang
 
-### Dry bulk cargo barge
+### 1. Dry bulk cargo barge
 
 Sepertinya namanya, kapal ini digunakan untuk mengangkut kargo kering. Seperti biji-bijian, pasir, baja, batu bara dan komoditas kering lainnya yang dapat dipindahkan dengan sistem bongkar muat.
 
-### Liquid cargo barge
+### 2. Liquid cargo barge
 
 Kapal tongkang jenis ini berguna untuk membawa minyak, bahan kimia cair, juga pupuk kimia kebutuhan industri lainnya.
 
-### Split hopper barge
+### 3. Split hopper barge
 
 *Split hopper barge* dilengkapi alat bongkar muat karena membawa material kerukan seperti pasir, batu dan tanah. Kapal tongkang jenis ini biasanya digunakan dalam konstruksi kelautan. Split hopper barge akan terbelah untuk membongkar muatannya di lautan untuk proses reklamasi atau membuka daratan baru di kawasan pesisir.
 
-### Car-float barge
+### 4. Car-float barge
 
 Jenis kapal tongkang yang melaju di lautan dan membawa kereta rel untuk dibawa ke lokasi lainnya pada abad 20-an. Dewasa ini, *car-float barge* masih digunakan di beberapa negara bagian di Amerika.
 
-### Other barger: power barge, barrack barge
+### 5. Other barger: power barge, barrack barge
 
 *Power barge* adalah kapal tongkang yang membawa pembangkit listrik. Sedangkan *barrage barge* adalah jenis kapal tongkang yang dijadikan sebagai tempat tinggal penduduk di beberapa negara.
 
