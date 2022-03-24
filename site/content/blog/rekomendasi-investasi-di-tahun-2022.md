@@ -1,17 +1,43 @@
-+++
-author = "Abdul Wahhab"
-category = ["Investasi Tahun 2022", "bisnis investasi", "efek compounding", "inflasi", "investasi bagi hasil", "investasi dengan modal kecil", "investasi keuangan", "Investasi Menguntungkan", "Investasi modal kecil", "investasi online", "Investasi online terbaru", "investasi pemula", "investasi real estate", "investasi terbaik", "Investasi untuk Pemula", "investasi jangka panjang", "keuntungan investasi"]
-date = 2021-11-17T14:53:15Z
-metaDescription = "Memulai tahun 2022 dengan berbagai investasi terbaik yang cocok untuk kamu: 1. Deposito 2. Obligasi 3. Reksa Dana 4. Investasi Saham 5. Investasi Properti."
-draft = false
-image = "https://images.unsplash.com/photo-1600880292203-757bb62b4baf?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxMTc3M3wwfDF8c2VhcmNofDI2fHxidXNpbmVzc3xlbnwwfHx8fDE2NDAwNjI1MDM&ixlib=rb-1.2.1&q=80&w=1080"
-slug = "rekomendasi-investasi-di-tahun-2022"
-tag = ["Investasi Tahun 2022", "bisnis investasi", "efek compounding", "inflasi", "investasi bagi hasil", "investasi dengan modal kecil", "investasi keuangan", "Investasi Menguntungkan", "Investasi modal kecil", "investasi online", "Investasi online terbaru", "investasi pemula", "investasi real estate", "investasi terbaik", "Investasi untuk Pemula", "investasi jangka panjang", "keuntungan investasi"]
-title = "Menuju Akhir Tahun, Berikut Prospek dan Rekomendasi Investasi Aman untuk Tahun 2022"
-
-+++
-
-
+---
+draft: false
+author: Abdul Wahhab
+slug: rekomendasi-investasi-di-tahun-2022
+title: Prospek dan Rekomendasi Investasi Aman untuk Tahun 2022
+metaTitle: Prospek dan Rekomendasi Investasi Aman untuk Tahun 2022
+metaDescription: Prospek dan rekomendasi investasi aman untuk pemula yang bisa
+  memberikan anda keuntungan jangka panjang
+intro: Yuk cek berbagai rekomendasi investasi di tahun 2022 yang cocok untuk anda.
+date: 2021-11-17T14:53:15.000Z
+tag:
+  - Investasi Tahun 2022
+  - bisnis investasi
+  - efek compounding
+  - inflasi
+  - investasi bagi hasil
+  - investasi dengan modal kecil
+  - investasi keuangan
+  - Investasi Menguntungkan
+  - Investasi modal kecil
+  - investasi online
+  - Investasi online terbaru
+  - investasi pemula
+  - investasi real estate
+  - investasi terbaik
+  - Investasi untuk Pemula
+  - investasi jangka panjang
+  - keuntungan investasi
+featuredImage:
+  src: https://images.unsplash.com/photo-1600880292203-757bb62b4baf?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxMTc3M3wwfDF8c2VhcmNofDI2fHxidXNpbmVzc3xlbnwwfHx8fDE2NDAwNjI1MDM&ixlib=rb-1.2.1&q=80&w=1080
+  alt: Prospek investasi di tahun 2022 yang bisa memberikan kamu keuntungan jangka
+    panjang
+  title: Simak rekomendasi investasi di tahun 2022 yang bisa memberikan keuntungan
+    jangka panjang
+image: https://images.unsplash.com/photo-1600880292203-757bb62b4baf?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxMTc3M3wwfDF8c2VhcmNofDI2fHxidXNpbmVzc3xlbnwwfHx8fDE2NDAwNjI1MDM&ixlib=rb-1.2.1&q=80&w=1080
+category:
+  - Investasi
+  - Bisnis
+  - Keuangan
+---
 Pada paruh kedua tahun 2021 ini, perekonomian Indonesia mulai menunjukkan gelagat pemulihannya. Hal tersebut didorong oleh angka vaksinasi yang terus meningkat, sehingga masyarakat mulai memberanikan diri untuk kembali beraktivitas dan menggerakkan roda ekonomi.
 
 Pandemi Covid-19 telah menghantam perekonomian Indonesia selama hampir dua tahun terakhir sejak awal 2020 lalu. Uniknya, kondisi ketidakpastian ekonomi selama pandemi justru memicu akselerasi minat dan perhatian masyarakat terhadap dunia investasi.
@@ -20,13 +46,7 @@ Bursa Efek Indonesia (BEI) mencatat jumlah investor pasar modal per Oktober 2021
 
 Karena itu, yuk kita bahas bagaimana prospek investasi di tahun 2022 dan instrumen investasi apa saja aman untuk dicoba pada tahun 2022.
 
----
-
-## Table of Content
-
-* [**Rekomendasi Investasi Aman untuk Pemula**](https://landx.id/blog/rekomendasi-investasi-di-tahun-2022/#rekomendasi-investasi-aman-untuk-pemula)[1. Deposito](https://landx.id/blog/rekomendasi-investasi-di-tahun-2022/#1-deposito)2. Obligasi[](https://landx.id/blog/rekomendasi-investasi-di-tahun-2022/#3-reksa-dana)3. Reksa Dana[4. Investasi Properti](https://landx.id/blog/rekomendasi-investasi-di-tahun-2022/#4-investasi-properti)5. Investasi Emas[6. Peer to Peer Lending](https://landx.id/blog/rekomendasi-investasi-di-tahun-2022/#6-peer-to-peer-lending)[7. Investasi Saham](https://landx.id/blog/rekomendasi-investasi-di-tahun-2022/#7-investasi-saham)
-
----
+- - -
 
 ## 2022 Saatnya Mulai Berinvestasi, Jangan Ditunda Lagi
 
@@ -42,11 +62,11 @@ Perekonomian Indonesia diprediksi akan semakin membaik pada awal tahun 2022 mend
 
 Kepala Badan Kebijakan Fiskal (BKF) Febrio Kacaribu memproyeksikan pertumbuhan ekonomi Indonesia tahun 2022 akan mencapai 5,2 persen. Hal ini salah satunya juga karena didukung oleh pertumbuhan investasi. Sementara BEI juga menargetkan pertumbuhan investor pasar modal tahun depan bisa mencapai 30 persen dari realisasi tahun ini.
 
-Beberapa pengembangan yang akan dilakukan Bursa Efek Indonesia adalah penambahan indeks acuan baru seperti untuk tema syariah, _sustainability index_ dan juga indeks faktor.
+Beberapa pengembangan yang akan dilakukan Bursa Efek Indonesia adalah penambahan indeks acuan baru seperti untuk tema syariah, *sustainability index* dan juga indeks faktor.
 
-Dari tiga indeks tersebut, BEI sudah dalam pembahasan final dengan Yayasan Kehati untuk meluncurkan dua indeks bertema _sustainability_ atau _environment, social and governance_ (ESG).
+Dari tiga indeks tersebut, BEI sudah dalam pembahasan final dengan Yayasan Kehati untuk meluncurkan dua indeks bertema *sustainability* atau *environment, social and governance* (ESG).
 
-Lalu, BEI akan melakukan pengayaan produk data informasi kebursaan, _enhancement_ pada Sistem Penyelenggara Pasar Alternatif (SPPA) untuk mendukung pengembangan perdagangan efek non-ekuitas, _enhancement taksonomi_ dan sistem XBRL, pengembangan produk derivatif dan waran terstruktur, _enhancement_ sistem e-IPO, pengembangan papan pemantauan khusus dan papan baru untuk _new economy._
+Lalu, BEI akan melakukan pengayaan produk data informasi kebursaan, *enhancement* pada Sistem Penyelenggara Pasar Alternatif (SPPA) untuk mendukung pengembangan perdagangan efek non-ekuitas, *enhancement taksonomi* dan sistem XBRL, pengembangan produk derivatif dan waran terstruktur, *enhancement* sistem e-IPO, pengembangan papan pemantauan khusus dan papan baru untuk *new economy.*
 
 ## Rekomendasi Investasi Aman untuk Pemula
 
@@ -96,36 +116,33 @@ Keunggulan investasi emas ialah selalu mencatatkan peningkatan harga dari tahun 
 
 Peer to Peer (P2P) Lending merupakan salah satu jenis investasi yang ikut berkembang seiring dengan perkembangan teknologi finansial (fintech). Sistem kerjanya hampir mirip dengan surat utang atau obligasi. Namun perbedaannya adalah P2P Lending biasanya tidak memerlukan jaminan, sehingga lebih cair dan fleksibel.
 
-P2P Lending saat ini banyak dimanfaatkan untuk pengembangan UMKM. P2P Lending bekerja dengan memanfaatkan teknologi untuk mempertemukan orang atau pengusaha yang sedang membutuhkan dana (_borrower_) dengan orang yang memiliki dana yang ingin diinvestasikan (_lender_ atau investor). Investor akan mendapatkan keuntungan dari pengembalian dana pinjaman serta keuntungan dari investasi.
+P2P Lending saat ini banyak dimanfaatkan untuk pengembangan UMKM. P2P Lending bekerja dengan memanfaatkan teknologi untuk mempertemukan orang atau pengusaha yang sedang membutuhkan dana (*borrower*) dengan orang yang memiliki dana yang ingin diinvestasikan (*lender* atau investor). Investor akan mendapatkan keuntungan dari pengembalian dana pinjaman serta keuntungan dari investasi.
 
-### 7. Investasi Saham Bisnis lewat Equity Crowdfunding
+### [7. Investasi Saham Bisnis lewat Equity Crowdfunding](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)
 
 Saham merupakan surat berharga yang diterbitkan oleh emiten yang dapat dibeli oleh investor, dengan penawaran keuntungan berupa pembagian dividen saat perusahaan memperoleh keuntungan. Dengan kata lain, investor akan mendapatkan keuntungan ketika perusahaan juga memperoleh keuntungan.
 
 Investasi saham memiliki potensi keuntungan yang cukup tinggi, namun sangat bergantung pada kinerja emiten perusahaan. Semakin tinggi laba yang dihasilkan perusahaan, semakin besar pula dividen yang akan didapatkan oleh investor tiap tahunnya.
 
-Keuntungan lain dari investasi saham ialah dapat menjadi instrumen investasi jangka panjang maupun jangka pendek. Anda dapat terus menyimpan saham dan menikmati dividennya sebagai investasi jangka panjang, atau juga bisa memperjual-belikannya di pasar saham sebagai investasi jangka pendek, atau yang dikenal dengan istilah _trading_ saham.
+Keuntungan lain dari investasi saham ialah dapat menjadi instrumen investasi jangka panjang maupun jangka pendek. Anda dapat terus menyimpan saham dan menikmati dividennya sebagai investasi jangka panjang, atau juga bisa memperjual-belikannya di pasar saham sebagai investasi jangka pendek, atau yang dikenal dengan istilah *trading* saham.
 
-Salah satu jenis investasi saham berbasis dividen yang bisa dipilih adalah **Equity Crowdfunding (ECF)**, atau secara lebih sederhana biasa disebut dengan ‘patungan bisnis’. Melalui sistem ini, dana yang dibutuhkan untuk menjalankan atau mengembangkan suatu bisnis dapat dihimpun melalui lot saham yang dijual kepada para investor.
+Salah satu jenis investasi saham berbasis dividen yang bisa dipilih adalah[ **Equity Crowdfunding (ECF)**](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog), atau secara lebih sederhana biasa disebut dengan ‘patungan bisnis’. Melalui sistem ini, dana yang dibutuhkan untuk menjalankan atau mengembangkan suatu bisnis dapat dihimpun melalui lot saham yang dijual kepada para investor.
 
 Meskipun hampir mirip dengan P2P Lending, ECF memiliki sistem yang cukup berbeda. ECF tidak menggunakan sistem surat utang, melainkan memberikan kepemilikan saham secara permanen kepada para investor yang telah ikut ‘patungan’ dalam suatu project usaha. Nantinya, para investor akan menerima keuntungan berupa pembagian dividen yang rutin diberikan setiap tahun.
 
-Salah satu perusahaan ECF di Indonesia yang sudah berjalan sampai saat ini adalah perusahaan **LandX**.
+Salah satu perusahaan ECF di Indonesia yang sudah berjalan sampai saat ini adalah perusahaan **[LandX](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)**.
 
-LandX mempertemukan para investor dengan perusahaan atau pengusaha yang membutuhkan dana untuk pengembangan usahanya. Di LandX Anda bisa membeli saham dari beragam jenis bidang usaha, dengan harga saham mulai dari satu juta rupiah.
+[LandX](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog) mempertemukan para investor dengan perusahaan atau pengusaha yang membutuhkan dana untuk pengembangan usahanya. Di [LandX](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog) Anda bisa membeli saham dari beragam jenis bidang usaha, dengan harga saham mulai dari satu juta rupiah.
 
-**[Yuk Investasi Bisnis Menguntungkan Bersama LandX.](https://landx.id/project/)**
+## **[Yuk Temukan Bisnis Menjanjikan dengan Keuntungan Terbaik di LandX](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)**
 
-[![jadi-owner-bisnis-hanya-1-jutaan-dengan-cuan-yang-sangat-menjanjikan](https://accountgram-production.sfo2.cdn.digitaloceanspaces.com/landx_ghost/2021/11/jadi-owner-bisnis-hanya-1-jutaan-dengan-cuan-yang-sangat-menjanjikan.png)](https://landx.id/project/)
+[![miliki bisnis modal kecil cuma dengan 1 jutaan dapat 4 cabang ](https://accountgram-production.sfo2.cdn.digitaloceanspaces.com/landx_ghost/2021/11/jadi-owner-bisnis-hanya-1-jutaan-dengan-cuan-yang-sangat-menjanjikan.png)](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)**[Mau Berbagai Info Menarik Seputar Investasi Lainnya? Yuk Follow Instagram @landx.id](https://instagram.com/landx.id?utm_medium=copy_link)**
 
-[**Mau Berbagai Info Menarik Seputar Investasi Lainnya? Yuk Follow Instagram @landx.id**](https://instagram.com/landx.id?utm_medium=copy_link)
-
----
+- - -
 
 * [Stock Split: Memahami Apa Itu Stock Split dan Pengaruhnya Terhadap Harga Saham](https://landx.id/blog/stock-split-memahami-apa-itu-stock-split-dan-pengaruhnya-terhadap-harga-saham/)
 * [Mau Mulai Investasi Saham? Kenali Perbedaan antara Trading dan Investasi dalam Saham](https://landx.id/blog/memahami-perbedaan-trading-dan-investasi/)
 
----
+- - -
 
-**#YukPatunganBisnis    #LandX.id    #landx         #landx.id     #InvestasiBisnis    #EquityCrowdfunding    #InvestasiMenguntungkan     #Urundana    #BisnisPatungan    #InvestasiUsaha**
-
+**\#YukPatunganBisnis    #LandX.id    #landx         #landx.id     #InvestasiBisnis    #EquityCrowdfunding    #InvestasiMenguntungkan     #Urundana    #BisnisPatungan    #InvestasiUsaha**
