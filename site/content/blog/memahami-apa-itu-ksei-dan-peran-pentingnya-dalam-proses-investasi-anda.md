@@ -33,6 +33,36 @@ Seiring perkembangan waktu, KSEI membuat aturan khusus yaitu SID *(Single Invest
 
 SID sebagai nomor identitas tunggal bagi investor yang memberikan kemudahan pada proses identifikasi investor sekaligus landasan berbagai pengembangan pasar modal lainnya, termasuk fasilitas AKSes (Acuan Kepemilikan Sekuritas). Hal ini menjadi sistem investasi di Indonesia menjadi lebih terintegrasi. 
 
+## Jenis Layanan KSEI
+
+Sebagai investor, berikut pelayanan jasa yang disediakan oleh KSEI yang akan terhubung dengan Anda.
+
+* AKSes
+
+AKSes adalah fasilitas yang disediakan KSEI untuk mengakses informasi melalui jaringan internet untuk memonitor posisi dan mutasi Efek miliknya yang tersimpan pada Sub Rekening Efek di KSEI. 
+
+Setiap Investor berhak untuk memperoleh akses atas fasilitas ini melalui Pemegang Rekening KSEI, dimana investor terdaftar sebagai nasabah. Fasilitas ini tidak dikenakan biaya apapun, baik kepada Pemegang Rekening KSEI atau investor.
+
+* C-BEST
+
+OJK bersama KSEI meluncurkan infrastuktur baru yang diberi nama C-BEST (The Central Depository and Book Entry Settlement System). C-BEST adalah plaftorm yang mendukung aktivitas penyelesaian transaksi Efek secara pemindahanbukuan di perdagangan scriptless di pasar modal Indonesia.\
+C-BEST ini dihadirkan untuk menghalau ketersendatan dalam penyelesaian transaksi sehari-hari.
+
+* Pemegang Rekening
+
+Terdapat beberapa pihak yang dapat menjadi pemegang rekening di KSEI, yaitu Perusahaan Efek, Bank Kustodian, dan Pihak lain berdasarkan ketentuan peraturan dan perundang-undangan yang berlaku di Pasar Modal.
+
+Jenis layanan KSEI lainnya yang dapat membantu investor dan perusahaan adalah sebagai berikut:
+
+* Post Trade Processing, instruksi untuk transaksi aset produk Investasi berlaku untuk Reksa Dana, Dana Investasi Real Estate, Pengelolaan Portofolio Efek Nasabah secara Individual, dan produk investasi lain yang ditetapkan oleh OJK.\
+  Post Trade Processing meliputi: Trade Allocation dan Trade Details, Trade Confirmation, Settlement Instruction, OTC Instruction Creation.
+* Pembukaan Rekening Online
+* Pendaftaran Efek
+* Proses Tindakan Korporasi
+* Siapa saja pemakai jasa
+* Efek terdaftar di KSEI, serta
+* Pelayanan Jasa Pengelolaan Aset, Jasa Kustodian Sentral, Jasa Penyelesaian Transaksi, Jasa Aksi Korporasi, dan Jasa Penyedia Infrastruktur Investasi
+
 ## Cara Kerja KSEI
 
 Setelah paham apa itu KSEI, yuk kita pahami dulu bagaimana cara kerja KSEI yang membantu investasi anda menjadi lebih terintegrasi.
@@ -54,6 +84,20 @@ Seperti yang sudah kita bahas sebelumnya, KSEI memiliki peran yang sangat pentin
 Karen itu, sebagai investor investasi kamu akan menjadi lebih mudah untuk diawasi karena adanya satu sistem terpadu yang membantu integrasi aset investasi yang anda miliki. 
 
 Oleh sebab itu, kepemilikan rekening KSEI menjadi salah satu hal yang sangat penting terutama jika kamu berinvestasi ke instrumen pasar modal seperti saham sehingga kamu penting untuk memahami dengan baik apa itu KSEI. 
+
+## Menjadi Investor Terdaftar di KSEI Lewat LandX
+
+Pentingnya terdaftar sebagai investor di pasar modal Indonesia oleh KSEI juga diterapkan di platform crowdfunding LandX. Dengan langkah update data yang mudah, melalui aplikasi LandX pun para investor di LandX dapat terdaftar dengan mudah sebagai investor di pasar modal Indonesia yang diakui KSEI.
+
+Bagi Anda yang belum melakukan update data di aplikasi LandX, berikut langkah mudah yang bisa Anda ikuti.
+
+1. Setelah registrasi akun di LandX, silahkan login dan update data Anda dengan pilih tombol ‘Verifikasi Akun’. Anda juga dapat mengklik tautan berikut <https://app.landx.id/ksei> 
+2. Isi data dengan sebenarnya
+3. Upload foto KTP dan upload foto selfie Anda yang terlihat jelas
+4. Setelah submit, data Anda akan diverifikasi dalam waktu 2x24 jam
+5. Setelah proses verifikasi selesai, Anda akan mendapat ID investor dan resmi terdaftar sebagai investor pasar modal di Indonesia oleh lembaga KSEI (Kustodian Sentral Efek Indonesia)
+
+Dengan cara yang mudah, Anda dapat dengan segera terdaftar sebagai investor yang resmi di pasar modal di Indonesia. 
 
 **Karena itu,** 
 
