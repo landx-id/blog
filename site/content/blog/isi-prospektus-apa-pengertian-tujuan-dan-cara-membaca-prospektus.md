@@ -1,16 +1,29 @@
 ---
 author: Vlora Riyandi
-title: Isi Prospektus Apa? Pengertian, Tujuan dan Cara Membaca Prospektus
-metaTitle: Isi Prospektus Apa? Pengertian, Tujuan dan Cara Membaca Prospektus
+title: Prospektus Isinya Apa? Pengertian, Tujuan dan Cara Membaca Prospektus
+metaTitle: Prospektus Isinya Apa? Pengertian, Tujuan dan Cara Membaca Prospektus
 metaDescription: Prospektus adalah dokumen resmi yang menyediakan detail
   informasi terkait gambaran penawaran saham yang ditawarkan kepada publik.
   Prospektus berisi..
-intro: "-"
+intro: Apabila kamu berinvestasi, prospektus menjadi salah satu dokumen penting
+  yang harus kamu bisa membuat keputusan investasi yang optimal. Karena itu,
+  mari kita bahas apa itu prospektus dan cara membacanya...
 date: 2022-03-30T05:36:10.081Z
+tag:
+  - "Investasi "
+  - Tips Investasi
+  - Strategi Investasi
+  - Keuntungan Investasi
+  - Investasi Aman
+category:
+  - Bisnis
+  - Investasi
+  - Keuangan
 featuredImage:
   title: "Prospektus: Pengertian, Isi Informasi, dan Hal yang Harus Diperhatikan"
-  alt: prospektus, saham, prospektus ipo, prospektus perusahaan, crowdfunding
-  src: https://unsplash.com/photos/HJckKnwCXxQ
+  alt: "Yuk pahami apa itu prospektus dan bagaimana cara membaca prospektus agar
+    keputusan investasi kamu dapat berkembang dengan "
+  src: https://images.unsplash.com/photo-1562564055-71e051d33c19?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80
 ---
 Jika Anda adalah investor di [LandX](https://landx.id/), pasti sudah sering mengakses dan membaca dokumen bernama prospektus. Dokumen prospektus wajib dibaca dan dipertimbangkan investor sebelum memutuskan untuk membeli saham sebuah perusahaan.
 
@@ -83,7 +96,7 @@ Semua informasi yang tertera di dokumen prospektus adalah nyata dan penting. Nam
 * Harga yang ditawarkan
 * Risiko bisnis
 
-Sebuah prospektus perusahaan bisa mejadi berita besar. Seperti rilisnya ringkasan prospektus penawaran umum perdasa saham atau IPO dari dua perusahaan unicorn yang merger yaitu GOTO pada awal tahun 2022 ini. 
+Sebuah prospektus perusahaan bisa menjadi berita besar. Seperti rilisnya ringkasan prospektus penawaran umum perdana saham atau IPO dari dua perusahaan unicorn yang merger yaitu GOTO pada awal tahun 2022 ini. 
 
 Dikabarkan juga, prospektus Uber yang rilis pada tahun 2019 menjadi tuntunan bagi perusahaan ride-hailing dan ecommerce yang beroperasi di Asia Tenggara seperti Grab dan GOTO.
 
@@ -96,15 +109,15 @@ Jika Anda ingin membaca dan pelajari prospektus perusahaan-perusahaan yang IPO d
 3. Pilih sub menu Prospektus yang ada di kanan
 4. Pilih tahun pencatatannya dan Anda dapat langsung mengunduh prospektus yang tersedia
 
-> *Perlu diketahui: Di [LandX](https://landx.id/), kegiatan perusahaan yang menawarkan saham kepada publik disebut sebagai listing, bukan IPO.* 
+> *Perlu diketahui: Di [LandX](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog), kegiatan perusahaan yang menawarkan saham kepada publik disebut sebagai listing, bukan IPO.* 
 
-Di LandX, Anda juga dapat mengakses prospektus dari perusahaan yang listing di situs [crowdfunding LandX](https://landx.id/), berikut cara akses prospektus di [LandX](https://landx.id/):
+Di [LandX](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog), Anda juga dapat mengakses prospektus dari perusahaan yang listing di situs [crowdfunding LandX](https://landx.id/), berikut cara akses prospektus di [LandX](https://landx.id/):
 
 1. Download aplikasi [LandX](https://landx.id/) di app store dan play store Anda
 2. Lakukan registrasi dan verifikasi data
 3. Pilih laman project perusahaan yang listing
 4. Klik tombol Prospektus untuk dapat mengakses dan menganalisanya
-5. Anda dapat berinvestasi pada project bisnis yang listing di [LandX](https://landx.id/) dengan modal minim dan menyetujui estimasi return yang ditawarkan
+5. Anda dapat berinvestasi pada project bisnis yang listing di [LandX](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog) dengan modal minim dan menyetujui estimasi return yang ditawarkan
 
 Prospektus yang ditawarkan perusahaan yang listing di [LandX](https://landx.id/) dengan perusahaan yang melakukan penawaran perdana atau IPO di bursa saham umumnya mencakup poin informasi yang sama.
 
@@ -112,4 +125,6 @@ Sebagai pemilik modal dan pengatur penuh keuangan Anda, sebaiknya baca dengan se
 
 Karena itu, sebagai investor cerdas jangan sampai ‘skip’ membaca dokumen penting ini, ya!
 
-### [Di LandX, kamu bisa akses dan pelajari prospektus sebelum berinvestasi pada project bisnis potensial pilihan!](https://landx.id/)
+### [Di LandX, kamu bisa akses dan pelajari prospektus sebelum berinvestasi pada project bisnis potensial pilihan!](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)
+
+[![miliki bisnis modal kecil cuma dengan 1 jutaan dapat 4 cabang ](https://accountgram-production.sfo2.cdn.digitaloceanspaces.com/landx_ghost/2021/11/jadi-owner-bisnis-hanya-1-jutaan-dengan-cuan-yang-sangat-menjanjikan.png)](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)
