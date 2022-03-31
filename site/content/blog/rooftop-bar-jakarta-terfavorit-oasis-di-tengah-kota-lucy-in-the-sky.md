@@ -19,7 +19,7 @@ featuredImage:
   title: Rooftop Bar Jakarta Selatan Terfavorit, Oasis di Tengah Kota, Lucy In The
     Sky Hadir di LandX
   alt: lucy in the sky, rooftop bar favorit  scbd jakarta selatan
-  src: https://images.unsplash.com/photo-1543007630-9710e4a00a20?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=435&q=80
+  src: https://media.discordapp.net/attachments/913743599844343808/958978088333611038/LandX_Lucy-in-the-Sky-Ads_1080-x-565px_01.webp?width=1048&height=548
 ---
 Lucy In The Sky Jakarta, menjadi nama yang hangat terdengar ditelinga terutama bagi kamu yang tinggal di kota Jakarta. Lucy In The Sky adalah pionir rooftop bar dan restoran terfavorit di Jakarta sejak hadir di tahun 2011.
 
@@ -62,10 +62,10 @@ Bisnis F&B selalu dapat menjadi pilihan terbaik untuk digeluti. Manajemen yang p
 
 Rencana Lucy In The Sky di tahun 2022 ialah gencar hadirkan bar & restoran dengan konsep yang pastinya extraordinary. Hadirkan konsep yang fun dengan live event music yang social friendly. Selain menantikan kehadiran outlet terbaru dari Lucy In The Sky, kamu juga dapat menjadi bagian dari perkembangan outlet terbaru di tahun ini melalui [platform crowdfunding LandX](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog).
 
-Bersama [LandX](https://landx.id/), kamu dapat menjadi pemilik resto & bar populer di Jakarta dengan modal sejutaan. [LandX](https://landx.id/) bantu progress capai tujuan finansialmu dengan hadirkan project bisnis untuk dapat dimiliki dengan modal minim.
+Bersama [LandX](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog), kamu dapat menjadi pemilik resto & bar populer di Jakarta dengan modal sejutaan. [LandX](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog) bantu progress capai tujuan finansialmu dengan hadirkan project bisnis untuk dapat dimiliki dengan modal minim.
 
 **[Jangan lewatkan kesempatan ini karena cuma lewat LandX bisa punya usaha bar dengan modal minim](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)🎉😎** 
 
-**[Kapan lagi?! Kunjungi LandX sekarang! \[KUOTA TERBATAS]](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)**
+**[Kapan lagi?! Kunjungi LandX sekarang! KUOTA TERBATAS](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)**
 
-[![miliki bisnis modal kecil cuma dengan 1 jutaan dapat 4 cabang ](https://accountgram-production.sfo2.cdn.digitaloceanspaces.com/landx_ghost/2021/11/jadi-owner-bisnis-hanya-1-jutaan-dengan-cuan-yang-sangat-menjanjikan.png)](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)
+[![miliki bisnis modal kecil cuma dengan 1 jutaan dapat 4 cabang ](https://media.discordapp.net/attachments/913743599844343808/958978088333611038/LandX_Lucy-in-the-Sky-Ads_1080-x-565px_01.webp?width=1048&height=548)](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)
