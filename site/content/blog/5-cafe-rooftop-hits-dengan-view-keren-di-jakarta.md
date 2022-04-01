@@ -5,7 +5,8 @@ metaTitle: 5 Cafe Rooftop Hits dengan View Keren di Jakarta
 metaDescription: Buat kamu yang butuh oasis setelah hustle-bustle kehidupan ala
   ibu kota, bersantai di cafe rooftop Jakarta pilihan berikut bisa legakan
   pikiran kamu.
-intro: "-"
+intro: Buat kamu yang butuh oasis setelah hustle-bustle kehidupan ala ibu kota,
+  bersantai di cafe rooftop Jakarta pilihan berikut bisa legakan pikiran kamu.
 date: 2022-03-31T15:39:52.162Z
 featuredImage:
   title: 5 Cafe Rooftop Hits dengan View Keren di Jakarta
