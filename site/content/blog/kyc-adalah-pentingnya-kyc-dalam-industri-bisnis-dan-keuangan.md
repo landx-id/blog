@@ -65,7 +65,9 @@ Informasi tersebut akan masuk ke dalam database, yang nantinya akan digunakan un
 **Adapun beberapa manfaat yang bisa didapatkan dari penerapan sistem KYC ini di antaranya iala**h:
 
 1. Perusahaan atau instansi jasa keuangan dapat memberikan jaminan perlindungan dan keamanan dari berbagai bentuk kerugian dan penipuan yang disebabkan oleh transaksi ilegal atau tidak wajar.
+
 2. Perusahaan atau instansi jasa keuangan dapat lebih mengenal dan memahami sifat aktivitas nasabah secara lebih mendalam, sehingga dapat mempelajari dan melakukan penilaian jika terdapat aktivitas transaksi yang mencurigakan atau berpotensi sebagai aktivitas pencucian uang.
+
 3. Perusahan atau instansi jasa keuangan dapat lebih cepat dan efektif dalam melakukan verifikasi data dan identitas nasabah, serta lebih menghemat biaya.
 
 Secara umum, KYC merupakan sistem yang bertujuan untuk mencegah serta mengawasi berbagai potensi aktivitas keuangan yang ilegal. KYC juga berada di bawah payung hukum yang resmi. Sehingga, baik instansi jasa keuangan maupun nasabah dapat melakukan aktivitas transaksi keuangan dengan lebih aman.
