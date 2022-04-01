@@ -68,6 +68,6 @@ Kamu tertarik miliki bisnis dan mendapat keuntungan bagi hasil rutin setiap bula
 
 Kamu akan bisa memiliki project bisnis di aplikasi [LandX](https://landx.id/) setelah melakukan verifikasi akun yang disebut KYC. Dengan melakukan verifikasi data KYC, kamu akan resmi terdaftar dan diakui sebagai investor di pasar modal Indonesia oleh lembaga nasional KSEI.
 
-### [Buat yang pengen punya mobil kinclong bisa ke Yellow Car Wash, buat yang pengen punya bisnis kaya Yellow Car Wash bisa kunjungi LandX, ya](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)
+[Buat yang pengen punya mobil kinclong bisa ke Yellow Car Wash, buat yang pengen punya bisnis kaya Yellow Car Wash bisa kunjungi LandX, ya](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)
 
 [![miliki bisnis modal kecil cuma dengan 1 jutaan dapat 4 cabang ](https://accountgram-production.sfo2.cdn.digitaloceanspaces.com/landx_ghost/2021/11/jadi-owner-bisnis-hanya-1-jutaan-dengan-cuan-yang-sangat-menjanjikan.png)](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)
