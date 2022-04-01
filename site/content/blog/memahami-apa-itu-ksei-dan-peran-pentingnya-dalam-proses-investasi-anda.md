@@ -15,7 +15,7 @@ category:
   - Bisnis
   - Investasi
 featuredImage:
-  src: https://www.ksei.co.id/img/logo.png
+  src: https://media.discordapp.net/attachments/913743599844343808/959346933342797824/KSEI-adalah.png
   alt: Memahami apa itu KSEI dan fungsinya bagi proses investasi anda
   title: Fungsi dan peran KSEI bagi para investor Indonesia
 ---
@@ -37,18 +37,18 @@ SID sebagai nomor identitas tunggal bagi investor yang memberikan kemudahan pada
 
 Sebagai investor, berikut pelayanan jasa yang disediakan oleh KSEI yang akan terhubung dengan Anda.
 
-* AKSes
+* ### AKSes
 
 AKSes adalah fasilitas yang disediakan KSEI untuk mengakses informasi melalui jaringan internet untuk memonitor posisi dan mutasi Efek miliknya yang tersimpan pada Sub Rekening Efek di KSEI. 
 
 Setiap Investor berhak untuk memperoleh akses atas fasilitas ini melalui Pemegang Rekening KSEI, dimana investor terdaftar sebagai nasabah. Fasilitas ini tidak dikenakan biaya apapun, baik kepada Pemegang Rekening KSEI atau investor.
 
-* C-BEST
+* ### C-BEST
 
 OJK bersama KSEI meluncurkan infrastuktur baru yang diberi nama C-BEST (The Central Depository and Book Entry Settlement System). C-BEST adalah plaftorm yang mendukung aktivitas penyelesaian transaksi Efek secara pemindahanbukuan di perdagangan scriptless di pasar modal Indonesia.\
 C-BEST ini dihadirkan untuk menghalau ketersendatan dalam penyelesaian transaksi sehari-hari.
 
-* Pemegang Rekening
+* ### Pemegang Rekening
 
 Terdapat beberapa pihak yang dapat menjadi pemegang rekening di KSEI, yaitu Perusahaan Efek, Bank Kustodian, dan Pihak lain berdasarkan ketentuan peraturan dan perundang-undangan yang berlaku di Pasar Modal.
 
