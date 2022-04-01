@@ -8,10 +8,17 @@ metaDescription: Buat kamu yang butuh oasis setelah hustle-bustle kehidupan ala
 intro: Buat kamu yang butuh oasis setelah hustle-bustle kehidupan ala ibu kota,
   bersantai di cafe rooftop Jakarta pilihan berikut bisa legakan pikiran kamu.
 date: 2022-03-31T15:39:52.162Z
+tag:
+  - Bisnis F&B
+  - Franchise FnB
+  - Bisnis Menguntungkan
+category:
+  - Bisnis
+  - Investasi
 featuredImage:
   title: 5 Cafe Rooftop Hits dengan View Keren di Jakarta
-  alt: rooftop bar jakarta, cafe rooftop jakarta, landx, icx
-  src: https://unsplash.com/photos/Wyfi_zQtJ4M
+  alt: Rooftop bar dan cafe yang cocok untuk tempat nongkrong weekend anda
+  src: https://images.unsplash.com/photo-1622758235004-51977c5863f5?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1331&q=80
 ---
 Apa kamu mulai gerah dengan kehidupan hustle-bustle ala ibu kota? Ingin rasanya duduk diruangan terbuka tanpa atap sambil memandang langit malam yang luas setelah bekerja. 
 Berbaring dikamar memang menyenangkan, namun ada kalanya pikiran butuh suasana baru tapi tetap mengusung rasa nyaman. Buat kamu yang lagi ingin melepas rasa jompo, [LandX](https://landx.id/) sudah rangkum cafe rooftop dengan view super keren di sekitar Jakarta yang bisa kamu kunjungi. 
@@ -67,18 +74,22 @@ Lokasi: De Ritz Building, Lantai 5 Jalan HOS Cokroaminoto Nomor 91, Menteng, Jak
 Jam Operasional: 12.00-24.00 WIB
 Instagram: @porquenojkt
 
-## Lucy In The Sky
+## [Lucy In The Sky](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)
 
 Siapa sih yang ga kenal Lucy In The Sky? Pionir cafe rooftop di Jakarta. Tempat nongkrongnya orang-orang paling hits, young professional, hingga selebriti.
 Rooftop Jakarta Selatan ini makin digrandrungi karena hadir layaknya oasis ditengah gedung-gedung tinggi kawasan SCBD. Konsep tropical bohemian melekat kuat dengan Lucy In The Sky yang dihiasi tanaman hijau dan ornamen rotan. Suasana cozy yang dicari-cari bisa kamu dapat di sini.
 Sebagai rooftop & bar yang super lengkap, kamu bisa menikmati makanan kamu sambil menikmati suasana event seru yang diadakan Lucy In The Sky. Jajaran menu alkohol pun tersedia lengkap di rooftop bar Jakarta terfavorit ini.
 
-Lokasi: Fairgrounds Building, Jl. Jend. sudirman kav 52-53 No.Lot 14, Senayan, Kec. Kby. Baru, Jakarta Selatan, Jakarta 12190
-Jam Operasional: 16.00 - 21.00 WIB
-Instagram: @lucyintheskyjakarta
+> Lokasi: Fairgrounds Building, Jl. Jend. sudirman kav 52-53 No.Lot 14, Senayan, Kec. Kby. Baru, Jakarta Selatan, Jakarta 12190
+> Jam Operasional: 16.00 - 21.00 WIB
+> Instagram: @lucyintheskyjakarta
 
 Kamu ingin berkunjung ke cafe rooftop Jakarta yang mana, nih?
 
-Tahu ga, di [LandX](https://landx.id/) kamu bisa kunjungi cafe rooftop Jakarta sebagai bagian barisan owner dan investor, loh! Gimana caranya?
+Tahu ga, di [LandX](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog) kamu bisa kunjungi cafe rooftop Jakarta sebagai bagian barisan owner dan investor, loh! Gimana caranya?
 
-[Kunjungi LandX karena #SekarangBisa jadi pemilik cafe resto Jakarta terfavorit!](https://landx.id/)
+[Kunjungi LandX karena #SekarangBisa jadi pemilik cafe resto Jakarta terfavorit!](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)
+
+**[Jangan lewatkan kesempatan ini karena cuma lewat LandX bisa punya usaha bar dengan modal minim](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)🎉😎** 
+
+[![miliki bisnis modal kecil cuma dengan 1 jutaan dapat 4 cabang ](https://media.discordapp.net/attachments/913743599844343808/958978088333611038/LandX_Lucy-in-the-Sky-Ads_1080-x-565px_01.webp?width=1048&height=548)](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)
