@@ -6,12 +6,8 @@ title: "Crowdfunding Adalah: Sistem Investasi Crowdfunding di Indonesia"
 metaTitle: "Crowdfunding Adalah: Sistem Investasi Crowdfunding di Indonesia"
 metaDescription: Crowdfunding adalah sistem pendanaan lewat masyarakat luas dan
   kini berkembang jadi sistem investasi kepada saham bisnis
-intro: Crowdfunding artinya merupakan sistem pendanaan dengan melibatkan
-  masyarakat luas melalui platform online. Jenis crowdfunding kini semakin
-  berkembang sehingga kini crowdfunding juga menjadi salah satu instrumen
-  investasi jangka panjang yang menjanjikan. Karena itu, yuk kita bahas lebih
-  lanjut tentang apa itu crowdfunding dan bagaimana cara kerja setiap jenis
-  crowdfunding yang ada di Indonesia.
+intro: Yuk pahami apa itu sistem crowdfunding yang kini bisa jadi pilihan
+  instrumen investasi jangka panjang anda.
 date: 2021-09-13T04:52:08.000Z
 tag:
   - crowdfunding
@@ -26,6 +22,7 @@ featuredImage:
 image: https://images.unsplash.com/photo-1555043722-4523972f07ee?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxMTc3M3wwfDF8c2VhcmNofDV8fGluZG9uZXNpYXxlbnwwfHx8fDE2NDAyNTEwNzM&ixlib=rb-1.2.1&q=80&w=1080
 category:
   - Cara Investasi di Securities Crowdfunding
+  - Investasi
 ---
 - - -
 
