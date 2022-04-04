@@ -19,9 +19,11 @@ Brand olahan bebek favorit, Bebek Kepahiang sukses buka outlet terbaru setelah r
 
 Saham project Bebek Kepahiang berkode BBKB sukses ludes terjual dalam kurun waktu 24 jam saja. Pendanaan crowdfunding yang lancar ini pun hadirkan outlet premium Bebek Kepahiang di Cibinong City Mall pada 23 Maret 2022.
 
-Berikut cuplikan grand opening Bebek Kepahiang di CIbinong City Mall
+Berikut cuplikan grand opening Bebek Kepahiang di Cibinong City Mall
 
-(video)
+{{< youtube id="u1WR9cMfju8" >}}
+
+{{< button link="https://www.youtube.com/watch?v=u1WR9cMfju8" text="Watch This Video" >}}
 
 ## ABOUT BEBEK KEPAHIANG
 
@@ -64,3 +66,7 @@ Para investor Bebek Kepahiang (Bebek BKB) juga akan mendapatkan keuntungan bagi 
 Kamu tertarik untuk menjadi investor dan miliki bisnis potensial dengan modal sejutaan? Kunjungi situs dan download aplikasi LandX untuk dapat mulai berinvestasi pada bisnis pilihan Anda. Penting! Jangan lupa verifikasi akun kamu di aplikasi [LandX](https://landx.id/), ya.
 
 ## [Yuk, segera kunjungi LandX karena #SekarangBisa miliki bisnis dengan modal mulai sejutaan aja.](https://landx.id/)
+
+**[Yuk Temukan Bisnis Menjanjikan dengan Keuntungan Terbaik di LandX](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)**
+
+[![miliki bisnis modal kecil cuma dengan 1 jutaan dapat 4 cabang ](https://accountgram-production.sfo2.cdn.digitaloceanspaces.com/landx_ghost/2021/11/jadi-owner-bisnis-hanya-1-jutaan-dengan-cuan-yang-sangat-menjanjikan.png)](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)
