@@ -1,15 +1,28 @@
-+++
-author = "Abdul Wahhab"
-category = ["tips investasi", "diversifikasi dalam investasi", "efek compounding", "investasi terbaik"]
-date = 2021-10-27T02:58:21Z
-metaDescription = "Memahami apa itu FOMO dan bagaimana terhindar dari FOMO dalam berinvestasi dan berbagai kegiatan sehari-hari. FOMO adalah Fear of Missing Out, rasa takut ke"
-draft = false
-image = "https://images.unsplash.com/photo-1491975474562-1f4e30bc9468?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxMTc3M3wwfDF8c2VhcmNofDN8fHNjYXJlZCUyMG1vbmV5fGVufDB8fHx8MTY0MDE0MjMzMA&ixlib=rb-1.2.1&q=80&w=1080"
-slug = "fomo-dalam-kehidupan-dan-investasi"
-tag = ["tips investasi", "diversifikasi dalam investasi", "efek compounding", "investasi terbaik"]
-title = "Ingin Terhindar Dari FOMO saat Berinvestasi? 5 Hal Ini Wajib Kamu Lakukan"
-
-+++
+---
+draft: false
+author: Abdul Wahhab
+slug: fomo-dalam-kehidupan-dan-investasi
+title: 5 Cara Terhindar dari FOMO saat Berinvestasi yang Harus Anda Pahami
+metaTitle: 5 Cara Terhindar dari FOMO saat Berinvestasi yang Harus Anda Pahami
+metaDescription: Yuk pahami bagaimana cara terhindar dari FOMO dalam investasi
+  agar membuat keputusan investasi yang optimal
+intro: Yuk simak bagaimana cara terhindar dari FOMO saat berinvestasi.....
+date: 2021-10-27T02:58:21.000Z
+tag:
+  - tips investasi
+  - diversifikasi dalam investasi
+  - efek compounding
+  - investasi terbaik
+featuredImage:
+  src: https://images.unsplash.com/photo-1491975474562-1f4e30bc9468?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxMTc3M3wwfDF8c2VhcmNofDN8fHNjYXJlZCUyMG1vbmV5fGVufDB8fHx8MTY0MDE0MjMzMA&ixlib=rb-1.2.1&q=80&w=1080
+  alt: Memahami apa itu fomo dan bagaimana cara menghindari fomo dalam berinvestasi
+  title: Yuk pahami bagaimana cara menghindari fomo dalam berinvestasi
+image: https://images.unsplash.com/photo-1491975474562-1f4e30bc9468?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxMTc3M3wwfDF8c2VhcmNofDN8fHNjYXJlZCUyMG1vbmV5fGVufDB8fHx8MTY0MDE0MjMzMA&ixlib=rb-1.2.1&q=80&w=1080
+category:
+  - Investasi
+  - Bisnis
+  - Keuangan
+---
 
 
 Salah satu yang harus kamu hindari adalah **_FOMO atau Fear of Missing Out_** yang sering membuat keputusan investasi seseorang menjadi tidak rasional.
