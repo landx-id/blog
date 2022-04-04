@@ -1,40 +1,46 @@
-+++
-author = "Abdul Wahhab"
-category = ["Bebek BKB", "Bisnis F&B", "Bisnis Franchise Modal Kecil", "Bisnis Modal Kecil", "franchise f&b"]
-date = 2021-12-30T09:35:20Z
-metaDescription = "Punya bisnis bebek BKB cuma dengan modal 1 jutaan? Yuk simak bagaimana cara jadi pemilik bebek bkb dengan patungan bisnis menguntungkan bareng LandX"
-draft = false
-image = "https://accountgram-production.sfo2.cdn.digitaloceanspaces.com/landx_ghost/2022/01/Punya-bebek-BKB-cuma-dengan-modal-1-juta-rupiah-saja-min-1.png"
-slug = "punya-bebek-bkb-modal-1-juta"
-tag = ["Bebek BKB", "Bisnis F&B", "Bisnis Franchise Modal Kecil", "Bisnis Modal Kecil", "franchise f&b"]
-title = "Bebek BKB: Bebek Hitam Spesial Segera Listing di LandX!"
-
-+++
-
-
-Bisnis FnB menguntungkan cuma dengan modal 1 juta? Yuk simak caranya jadi pemilik bisnis lewat patungan bisnis bareng di [**LandX**](https://landx.id/project/)**.**
-
 ---
+draft: false
+author: Abdul Wahhab
+slug: punya-bebek-bkb-modal-1-juta
+title: "Bebek BKB: Bebek Hitam Spesial Segera Listing di LandX!"
+metaTitle: "Bebek BKB: Bebek Hitam Spesial Segera Listing di LandX!"
+metaDescription: Punya bisnis bebek BKB cuma dengan modal 1 jutaan? Yuk simak
+  bagaimana cara jadi pemilik bebek bkb dengan patungan bisnis menguntungkan
+  bareng LandX
+intro: Yuk simak profil bisnis Bebek BKB yang memiliki potensi jangka panjang
+  menjanjikan.
+date: 2021-12-30T09:35:20.000Z
+tag:
+  - Bebek BKB
+  - Bisnis F&B
+  - Bisnis Franchise Modal Kecil
+  - Bisnis Modal Kecil
+  - franchise f&b
+  - BBKB
+featuredImage:
+  src: https://accountgram-production.sfo2.cdn.digitaloceanspaces.com/landx_ghost/2022/01/Punya-bebek-BKB-cuma-dengan-modal-1-juta-rupiah-saja-min-1.png
+  alt: Yuk simak cara jadi owner bisnis bebek bkb cuma dengan modal 1 juta
+  title: Jadi owner bebek bkb cuma dengan modal 1 juta
+image: https://accountgram-production.sfo2.cdn.digitaloceanspaces.com/landx_ghost/2022/01/Punya-bebek-BKB-cuma-dengan-modal-1-juta-rupiah-saja-min-1.png
+category:
+  - Investasi
+  - Bisnis
+---
+Bisnis FnB menguntungkan cuma dengan modal 1 juta? Yuk simak caranya jadi pemilik bisnis lewat patungan bisnis bareng di **[LandX](https://landx.id/project/).**
 
-## Table of Content
-
-* **[Bebek BKB: Bebek Hitam Spesial Segera Listing di LandX!](https://landx.id/blog/punya-bebek-bkb-modal-1-juta/#bebek-bkb-bebek-hitam-spesial-segera-listing-di-landx)**
-* **[Sajian Menu Bebek BKB](https://landx.id/blog/punya-bebek-bkb-modal-1-juta/#sajian-menu-bebek-bkb)**
-* **[Desain Interior Bebek BKB](https://landx.id/blog/punya-bebek-bkb-modal-1-juta/#desain-interior-bebek-bkb)**
-* **[Outlet Bebek BKB](https://landx.id/blog/punya-bebek-bkb-modal-1-juta/#outlet-bebek-bkb)**
-* **[Restoran Bebek Terbaik Jakarta Segera Listing di LandX](https://landx.id/blog/punya-bebek-bkb-modal-1-juta/#restoran-bebek-terbaik-jakarta-segera-listing-di-landx)**
+- - -
 
 ## Bebek BKB: Bebek Hitam Spesial Segera Listing di LandX!
 
 Salah satu kuliner Indonesia yang memiliki penikmat setia adalah olahan daging bebek. Meskipun sering mendapat citra “lebih alot dan lebih amis” daripada daging ayam, cita rasanya yang lebih gurih membuat bebek BKB menjadi menu favorit banyak orang. **[Bebek BKB](https://landx.id/project/)** merupakan restoran yang menyajikan menu olahan bebek terbaik,
 
-**[Bebek Kepahiang Babase (BKB)](https://landx.id/project/) ** adalah salah satu restoran yang cukup dikenal oleh banyak kalangan terutama oleh penggemar daging unggas satu ini. Sejak didirikan pada tahun 2017, hingga saat ini bebek BKB sudah memiliki 23 outlet di wilayah Jabodetabek. Ke depannya, bisnis ini akan terus berusaha untuk menjangkau seluruh wilayah yang ada di Indonesia.
+**[Bebek Kepahiang Babase (BKB)](https://landx.id/project/)**  adalah salah satu restoran yang cukup dikenal oleh banyak kalangan terutama oleh penggemar daging unggas satu ini. Sejak didirikan pada tahun 2017, hingga saat ini bebek BKB sudah memiliki 23 outlet di wilayah Jabodetabek. Ke depannya, bisnis ini akan terus berusaha untuk menjangkau seluruh wilayah yang ada di Indonesia.
 
 Seperti namanya, di restoran Bebek BKB memiliki ciri khas berwarna hitam dengan cita rasa gurih yang lebih kuat. Warna kehitaman tersebut tidak lain berasal dari olahan buah kepahiang, atau yang lebih umum dikenal dengan sebutan buah keluwak.
 
 Pada proses pembuatannya, daging dimarinasi selama 24 jam menggunakan sari buah kepahiang serta 21 macam bumbu rempah lainnya. Setelah dimarinasi, kemudian direbus dengan api kecil selama 3 jam hingga seluruh bumbunya meresap sampai ke tulang. Inilah yang menghasilkan cita rasa yang khas pada menu hidangan Bebek BKB.
 
----
+- - -
 
 **Baca Juga:**
 
@@ -42,7 +48,7 @@ Pada proses pembuatannya, daging dimarinasi selama 24 jam menggunakan sari buah 
 * [Simak Cara Mengatur Keuangan di Masa Pandemi untuk Agar Keuangan Anda Tetap Stabil](https://landx.id/blog/simak-cara-mengatur-keuangan-di-masa-pandemi-untuk-agar-keuangan-anda-tetap-stabil/)
 * [8+ Pilihan Investasi yang Aman dan Cara Menentukan Instrumen Investasi Aman untuk Jangka Panjang](https://landx.id/blog/cara-menentukan-intrumen-investasi-yang-aman-untuk-pemula/)
 
----
+- - -
 
 ## Sajian Menu Bebek BKB
 
@@ -104,11 +110,11 @@ Oleh karena itu, tunggu apa lagi. Segera **[verifikasi akunmu di LandX](https://
 
 [![Punya-bebek-BKB-cuma-dengan-modal-1-juta-rupiah-saja-min](https://accountgram-production.sfo2.cdn.digitaloceanspaces.com/landx_ghost/2022/01/Punya-bebek-BKB-cuma-dengan-modal-1-juta-rupiah-saja-min.png)](https://landx.id/#ongoing-projects)
 
----
+- - -
 
-[**Mau Berbagai Info Menarik Seputar Investasi Lainnya? Yuk Follow Instagram @landx.id**](https://instagram.com/landx.id?utm_medium=copy_link)
+**[Mau Berbagai Info Menarik Seputar Investasi Lainnya? Yuk Follow Instagram @landx.id](https://instagram.com/landx.id?utm_medium=copy_link)**
 
----
+- - -
 
 **Baca Juga:**
 
@@ -117,7 +123,6 @@ Oleh karena itu, tunggu apa lagi. Segera **[verifikasi akunmu di LandX](https://
 * [Mengenal Apa Itu Tapering Off dan Dampaknya Bagi Investasi](https://landx.id/blog/tapering-adalah/)
 * [Laju Inflasi: Memahami Apa Itu Inflasi dan Cara Menghitung Laju Inflasi](https://landx.id/blog/laju-inflasi-adalah/)
 
----
+- - -
 
-**#YukPatunganBisnis    #LandX.id    #landx         #landx.id    #InvestasiBisnis  #SecuritiesCrowdfunding   #EquityCrowdfunding    #InvestasiMenguntungkan     #Urundana    #BisnisPatungan    #InvestasiUsaha**
-
+**\#YukPatunganBisnis    #LandX.id    #landx         #landx.id    #InvestasiBisnis  #SecuritiesCrowdfunding   #EquityCrowdfunding    #InvestasiMenguntungkan     #Urundana    #BisnisPatungan    #InvestasiUsaha**
