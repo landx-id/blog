@@ -9,10 +9,16 @@ intro: Restoran Bebek Kepahiang sukses buka outlet terbaru setelah raih
   pendanaan hingga Rp 3.5M bersama investor di platform crowdfunding Indonesia,
   LandX.
 date: 2022-04-01T06:30:07.397Z
+tag:
+  - Bisnis FnB
+  - Bisnis Modal Kecil
+  - BBKB
+category:
+  - Bisnis
+  - Investasi
 featuredImage:
   title: Bebek Kepahiang Cibinong City Mall x LandX | Grand Opening
-  alt: bebek kepahiang, bebek bkb, restoran bebek terbaik jakarta, landx,
-    crowdfunding, cibinong city mall
+  alt: Bebek BKB cabang Cibinong City Mall
   src: img/bebek-kepahiang-landx-cibinong-2-.jpg
 ---
 Brand olahan bebek favorit, Bebek Kepahiang sukses buka outlet terbaru setelah raih pendanaan hingga lebih Rp 3.5M bersama investor di [platform crowdfunding Indonesia, LandX](https://landx.id/).
