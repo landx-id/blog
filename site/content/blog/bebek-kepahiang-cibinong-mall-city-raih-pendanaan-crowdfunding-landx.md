@@ -7,7 +7,7 @@ metaDescription: Restoran Bebek Kepahiang sukses buka outlet terbaru setelah
   Indonesia, LandX.
 intro: Restoran Bebek Kepahiang sukses buka outlet terbaru setelah raih
   pendanaan hingga Rp 3.5M bersama investor di platform crowdfunding Indonesia,
-  LandX...
+  LandX....
 date: 2022-04-01T06:30:07.397Z
 tag:
   - Bisnis FnB
