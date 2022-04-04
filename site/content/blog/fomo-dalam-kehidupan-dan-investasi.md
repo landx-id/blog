@@ -6,7 +6,7 @@ title: 5 Cara Terhindar dari FOMO saat Berinvestasi yang Harus Anda Pahami
 metaTitle: 5 Cara Terhindar dari FOMO saat Berinvestasi yang Harus Anda Pahami
 metaDescription: Yuk pahami bagaimana cara terhindar dari FOMO dalam investasi
   agar membuat keputusan investasi yang optimal
-intro: Yuk simak bagaimana cara terhindar dari FOMO saat berinvestasi.....
+intro: Yuk simak bagaimana cara terhindar dari FOMO saat berinvestasi......
 date: 2021-10-27T02:58:21.000Z
 tag:
   - tips investasi
