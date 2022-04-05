@@ -32,7 +32,7 @@ Definisi ringkas sukuk adalah surat berharga atau sertifikat tanda kepemilikan s
 
 Berikut beberapa [tipe akad sukuk](http://aaoifi.com/ss-17-investment-sukuk/?lang=en) atau jenis akad sukuk menurut The Accounting and Auditing Organisation for Islamic Financial Institutions (AAOIFI).
 
-1. **Istishnaá**
+**1. Istishnaá**
 
 OJK menjelaskan istishna adalah akad jual beli dalam bentuk pemesanan pembuatan barang tertentu dengan kriteria dan persyaratan tertentu yang disepakati antara pemesan dan penjual.
 
