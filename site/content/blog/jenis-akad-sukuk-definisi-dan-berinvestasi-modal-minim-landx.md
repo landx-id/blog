@@ -18,6 +18,7 @@ category:
   - Bisnis
   - Investasi
   - Keuangan
+  - Cara Investasi di Securities Crowdfunding
 featuredImage:
   title: Memahami jenis-jenis akad sukuk untuk investasi jangka panjang anda.
   src: https://images.unsplash.com/photo-1622156522422-ab9355add7a1?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1485&q=80
