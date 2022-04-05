@@ -7,10 +7,22 @@ metaDescription: Sukuk adalah sertifikat atas kepemilikan suatu aset dengan
 intro: Sukuk adalah sertifikat atas kepemilikan suatu aset dengan prinsip
   syariah. Berikut jenis akad sukuk yang umum digunakan..
 date: 2022-04-04T07:26:43.990Z
+tag:
+  - Sukuk
+  - Equity Crowdfunding
+  - Securities Crowdfunding
+  - Instrumen Investasi
+  - Crowdfunding
+  - Investasi
+category:
+  - Bisnis
+  - Investasi
+  - Keuangan
 featuredImage:
-  title: " Jenis Akad Sukuk: Definisi dan Berinvestasi Modal Minim | LandX"
-  src: https://unsplash.com/photos/29pFbI_D1Sc
-  alt: sukuk syariha, investasi sukuk, crowdfunding
+  title: Memahami jenis-jenis akad sukuk untuk investasi jangka panjang anda.
+  src: https://images.unsplash.com/photo-1622156522422-ab9355add7a1?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1485&q=80
+  alt: Simak jenis-jenis sukuk syariah yang bisa jadi instrumen investasi jangka
+    panjang anda
 ---
 Definisi ringkas sukuk adalah surat berharga atau sertifikat tanda kepemilikan suatu aset berbasis dengan prinsip syariah. Pengertian sukuk adalah sertifikat atas kepemilikan suatu aset berwujud dengan prinsip syariah.
 
