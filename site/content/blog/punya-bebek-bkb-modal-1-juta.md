@@ -56,7 +56,7 @@ Selain menu bebek, BKB juga menyediakan menu dengan bahan dasar daging unggas la
 
 Merpati pedaging merupakan jenis merpati indukan yang berasal dari Amerika. Daging merpati pedaging terbilang cukup langka karena belum banyak yang membudidayakan. Sehingga, restoran BKB harus mendatangkannya langsung dari Surabaya.
 
-Semua menu di BKB diolah menggunakan bahan-bahan alami. Menu andalannya, Bebek Kepahiang, diolah dengan menggunakan buah kepahiang/kluwak serta 21 bumbu rempah alami yang membuat hidangan menjadi sangat kaya cita rasa. Selain Bebek Kepahiang, beberapa menu andalah BKB yang paling banyak diminati pelanggan.
+Semua menu di BKB diolah menggunakan bahan-bahan alami. Menu andalannya, Bebek Kepahiang, diolah dengan menggunakan buah kepahiang/kluwak serta 21 bumbu rempah alami yang membuat hidangan menjadi sangat kaya cita rasa. Selain Bebek Kepahiang, beberapa menu andalah BKB yang paling banyak diminati pelanggannya.
 
 ## Desain Interior Bebek BKB
 
