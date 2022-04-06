@@ -41,6 +41,8 @@ Selain bisa memberikan keuntungan di masa mendatang, aset adalah sesuatu yang bi
 
 Karena itu, sesuatu yang dikatakan aset harus memiliki nilai ekonomi sehingga bisa dijual untuk memberikan pemiliknya uang tunai.
 
+Setelah memahami apa itu aset, yuk selanjutnya kita bahas lebih lanjut tentang jenis-jenis aset.
+
 ## Jenis-Jenis Aset
 
 Aset dikelompokan ke dalam 3 kategori dengan beberapa kelompok pembagian lagi di dalamnya, supaya kamu paham berbagai jenis aset, mari kita bahas hal ini satu per satu.
