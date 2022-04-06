@@ -7,6 +7,9 @@ metaDescription: Berkolaborasi di platform crowdfunding di Indonesia, LandX,
 intro: Berkolaborasi di platform crowdfunding di Indonesia, LandX, Ximivogue
   Tunjungan Plaza 3, Surabaya resmi dibuka bersama investor dan Rossa.
 date: 2022-04-05T04:31:38.175Z
+tag:
+  - XIMI
+  - Ximivogue
 featuredImage:
   title: "PROJECT SERIES: Grand Opening Ximivogue Tunjungan Plaza 3, Surabaya |
     Crowdfunding"
