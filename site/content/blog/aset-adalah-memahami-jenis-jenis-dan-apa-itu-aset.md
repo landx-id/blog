@@ -33,6 +33,8 @@ Supaya proses mengumpulkan aset anda semakin lancar yuk kita bahas apa itu aset 
 
 ## Apa Itu Aset?
 
+Apa itu aset? Banyak orang tidak dapat membedakan mana aset dan mana yang sebenarnya merupakan liabilitas yang malah membuat memakan biaya. 
+
 Aset adalah sumber daya yang dimiliki oleh suatu pihak baik individu maupun kelompok yang bisa memberikan pemiliknya keuntungan, dengan kata lain aset merupakan kekayaan atau modal yang bisa memberikan kita keuntungan di masa mendatang.
 
 Selain bisa memberikan keuntungan di masa mendatang, aset adalah sesuatu yang bisa dijadikan sebagai sumber arus kas di masa mendatang. Dalam bisnis, perusahaan biasanya membeli suatu aset dengan berbagai tujuan seperti untuk meningkatkan nilai perusahaan atau investasi.
@@ -86,8 +88,6 @@ Karena itu, dalam mengatur keuangan kita perlu paham mana saja aset yang bisa me
 ## Mau Punya Aset dengan Keuntungan Jangka Panjang?
 
 ## **[Yuk Ikut Patungan Bisnis Menguntungkan Bareng LandX](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)**
-
-
 
 [![Yuk Patungan Bisnis Melalui LandX Platform Securities Crowdfunding Terpercaya](https://accountgram-production.sfo2.cdn.digitaloceanspaces.com/landx_ghost/2021/09/patungan-bisnis-menguntungkan-bareng-landx-6.png)](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)
 
