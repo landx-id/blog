@@ -17,7 +17,7 @@ category:
   - Bisnis
   - Investasi
 featuredImage:
-  title: Bebek Kepahiang Cibinong City Mall x LandX | Grand Opening
+  title: Bebek Kepahiang Cibinong City Mall x LandX | Grand Opening.
   alt: Bebek BKB cabang Cibinong City Mall
   src: img/bebek-kepahiang-landx-cibinong-2-.jpg
 ---
