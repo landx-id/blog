@@ -1,15 +1,32 @@
-+++
-author = "Abdul Wahhab"
-category = ["Hong Tang", "Cloud Kitchen", "bisnis makanan", "Bisnis Franchise Modal Kecil", "franchise f&b"]
-date = 2021-11-09T08:20:07Z
-metaDescription = "Dessert khas Korea dan Taiwan menjadi salah satu makanan yang sangat populer dan mengunggah selera bagi orang-orang| 6 Rekomendasi dessert khas korea"
-draft = false
-image = "https://images.unsplash.com/photo-1611052937731-9c120ffc09ec?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxMTc3M3wwfDF8c2VhcmNofDE1fHxib2JhfGVufDB8fHx8MTY0MDA3MDUyNg&ixlib=rb-1.2.1&q=80&w=1080"
-slug = "rekomendasi-6-dessert-segar-khas-korea-di-jakarta-kamu-sudah-cobain"
-tag = ["Hong Tang", "Cloud Kitchen", "bisnis makanan", "Bisnis Franchise Modal Kecil", "franchise f&b"]
-title = "Rekomendasi 6  Dessert Segar di Jakarta: Dessert Khas Korea hingga Taiwan"
-
-+++
+---
+draft: false
+author: Abdul Wahhab
+slug: rekomendasi-6-dessert-segar-khas-korea-di-jakarta-kamu-sudah-cobain
+title: "6  Dessert Segar di Jakarta: Dessert Khas Korea hingga Taiwan"
+metaTitle: "6  Dessert Segar di Jakarta: Dessert Khas Korea hingga Taiwan"
+metaDescription: Dessert khas Korea dan Taiwan menjadi salah satu makanan yang
+  sangat populer dan mengunggah selera bagi orang-orang| 6 Rekomendasi dessert
+  khas korea
+intro: Yuk simak rekomendasi dessert oriental Khas Korea hingga Taiwan yang bisa
+  jadi pilihan anda..
+date: 2021-11-09T08:20:07.000Z
+tag:
+  - Hong Tang
+  - Cloud Kitchen
+  - bisnis makanan
+  - Bisnis Franchise Modal Kecil
+  - franchise f&b
+  - HONG
+featuredImage:
+  src: https://images.unsplash.com/photo-1611052937731-9c120ffc09ec?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxMTc3M3wwfDF8c2VhcmNofDE1fHxib2JhfGVufDB8fHx8MTY0MDA3MDUyNg&ixlib=rb-1.2.1&q=80&w=1080
+  alt: Rekomendasi dessert oriental yang bisa jadi pilihan anda
+  title: Pilihan rekomendasi dessert taiwan yang bisa jadi pilihan dessert manis anda
+image: https://images.unsplash.com/photo-1611052937731-9c120ffc09ec?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxMTc3M3wwfDF8c2VhcmNofDE1fHxib2JhfGVufDB8fHx8MTY0MDA3MDUyNg&ixlib=rb-1.2.1&q=80&w=1080
+category:
+  - Bisnis
+  - Investasi
+  - Keuangan
+---
 
 
 Kurang lengkap abis makan makanan berat tanpa mencicipi rasa yang manis-manis, nih. Sepertinya makanan penutup atau dessert khas daerah bakal muncul di pikiran kamu bukan, sih? Dessert bisa bantu kamu menenangkan perut yang kepanasan karena menyantap makanan berat yang pedas, juga pilihan terbaik saat mulut kering tapi bingung mau makan apa.
