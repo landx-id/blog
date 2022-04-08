@@ -1,17 +1,32 @@
-+++
-author = "Abdul Wahhab"
-category = ["investasi umkm", "investasi bisnis", "bisnis investasi", "Equity Crowdfunding", "crowdfunding", "crowdfunding indonesia"]
-date = 2021-09-20T05:10:19Z
-metaDescription = "Saat ini, investasi ke UMKM sangatlah mudah dan bisa dimulai dengan modal kecil karena kini tersedia sistem investasi online yang membantu investasi UMKM..."
-draft = false
-image = "https://images.unsplash.com/photo-1573612664822-d7d347da7b80?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxMTc3M3wwfDF8c2VhcmNofDE0fHxzbWFsbCUyMGJ1c2luZXNzfGVufDB8fHx8MTY0MDI1MDQxNg&ixlib=rb-1.2.1&q=80&w=1080"
-slug = "cara-mudah-investasi-ke-umkm-dengan-modal"
-tag = ["investasi umkm", "investasi bisnis", "bisnis investasi", "Equity Crowdfunding", "crowdfunding", "crowdfunding indonesia"]
-title = "Investasi UMKM: Berbagai Cara dan Pertimbangan Penting Sebelum Berinvestasi ke UMKM"
-
-+++
-
-
+---
+draft: false
+author: Abdul Wahhab
+slug: cara-mudah-investasi-ke-umkm-dengan-modal
+title: "Investasi UMKM: Pertimbangan Penting Saat Berinvestasi ke UMKM"
+metaTitle: "Investasi UMKM: Pertimbangan Penting Saat Berinvestasi ke UMKM"
+metaDescription: Yuk simak berbagai pertimbangan penting yang harus anda
+  perhatikan saat akan berinvestasi ke dalam UMKM
+intro: Yuk simak bagaimana strategi investasi ke UMKM agar bisa memberikan anda
+  keuntungan jangka panjang
+date: 2021-09-20T05:10:19.000Z
+tag:
+  - investasi umkm
+  - investasi bisnis
+  - bisnis investasi
+  - Equity Crowdfunding
+  - crowdfunding
+  - crowdfunding indonesia
+featuredImage:
+  src: https://images.unsplash.com/photo-1573612664822-d7d347da7b80?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxMTc3M3wwfDF8c2VhcmNofDE0fHxzbWFsbCUyMGJ1c2luZXNzfGVufDB8fHx8MTY0MDI1MDQxNg&ixlib=rb-1.2.1&q=80&w=1080
+  alt: "Yuk simak cara investasi menguntungkan ke berbagai UMKM "
+  title: Pertimbangan penting saat akan berinvestasi ke dalam UMKM
+image: https://images.unsplash.com/photo-1573612664822-d7d347da7b80?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxMTc3M3wwfDF8c2VhcmNofDE0fHxzbWFsbCUyMGJ1c2luZXNzfGVufDB8fHx8MTY0MDI1MDQxNg&ixlib=rb-1.2.1&q=80&w=1080
+category:
+  - Cara Investasi di Securities Crowdfunding
+  - Investasi
+  - Keuangan
+  - Bisnis
+---
 Di tengah kondisi pasar modal yang masih belum stabil karena tapering dan masa pemulihan ekonomi, [investasi UMKM](https://landx.id/project/) adalah alternatif investasi yang bisa anda coba mengingat sektor privat cenderung stabil dan tidak terdampak tapering.
 
 Selain itu, sektor UMKM merupakan sektor rill dengan prospek keuntungan yang sangat menjanjikan dalam jangka panjang apabila dibangun dan dikelola dengan baik. Hal ini menjadikan investasi UMKM menjadi salah satu pilihan investasi yang sangat menjanjikan dalam jangka panjang.
@@ -20,15 +35,7 @@ Dulu, akses investasi ke sektor privat seperti UMKM bukanlah hal yang mudah kare
 
 Supaya investasi ke UMKM yang kamu lakukan bisa menguntungkan, mari kita bahas berbagai sistem dan pertimbangan penting untuk memulai investasi UMKM modal kecil.
 
----
-
-## Table of Content
-
-* **[Pertimbangan Penting Saat Mulai Berinvestasi ke UM](#pertimbangan-penting-saat-mulai-berinvestasi-ke-umkm)KM**[1. Prospek Bisnis dalam Jangka Panjang](#1-prospek-bisnis-dalam-jangka-panjang)[2. Mitigasi Risiko dalam Bisnis](#2-mitigasi-risiko-dalam-bisnis)[3. Tingkat Return](#3-tingkat-return)[4. Kualitas Pengelolaan Bisnis](#4-kualitas-pengelolaan-bisnis)
-* **[Cara Investasi UMKM yang Bisa Anda Coba](#cara-investasi-umkm-yang-bisa-anda-coba)**
-* **[Memperkecil Risiko Investasi Melalui Equity Crowdfunding](#memperkecil-risiko-investasi-melalui-equity-crowdfunding)**
-
----
+- - -
 
 ## Pertimbangan Penting Saat Mulai Berinvestasi ke UMKM
 
@@ -72,7 +79,7 @@ Selanjutnya, mari kita bahas cara investasi ke UMKM modal kecil yang bisa anda c
 
 P2P lending merupakan konsep pendanaan di mana investor berperan sebagai pihak yang akan meminjamkan uang kepada pihak yang membutuhkan dana untuk sebuah bisnis atau proyek.
 
-Akan tetapi investor hanya berpihak sebagai orang yang akan meminjamkan dana dan tidak mendapatkan saham kepemilikan dari bisnis tersebut. Investor akan mendapatkan _return_ berupa bunga dari pinjaman yang akan dibayarkan pada akhir periode yang sudah dijanjikan.
+Akan tetapi investor hanya berpihak sebagai orang yang akan meminjamkan dana dan tidak mendapatkan saham kepemilikan dari bisnis tersebut. Investor akan mendapatkan *return* berupa bunga dari pinjaman yang akan dibayarkan pada akhir periode yang sudah dijanjikan.
 
 Sistem ini bisa dibilang memiliki risiko cukup tinggi karena adanya risiko gagal bayar yang terjadi karena berbagai kondisi tidak terduga yang bisa membuat suatu bisnis mengalami kebangkrutan.
 
@@ -92,19 +99,18 @@ Kunci utama investasi bisnis melalui equity crowdfunding adalah platform yang ba
 
 [Platform equity crowdfunding](https://landx.id/) merupakan pintu awal yang akan menyaring dan menganalisis apakah sebuah bisnis potensial untuk didanai dan menghasilkan keuntungan bagi para investor. Karena itu, tunggu apalagi..
 
-[**Yuk Ikut Patungan Bisnis Menguntungkan Bareng LandX**](https://landx.id/)
+**[Yuk Ikut Patungan Bisnis Menguntungkan Bareng LandX](https://landx.id/)**
 
-[**Jangan Lupa Follow Juga Instagram Kamii di @landx.id Supaya Tetap Update Berbagai Informasi Menarik Seputar Investasi**](https://www.instagram.com/landx.id/?utm_medium=copy_link)
+**[Jangan Lupa Follow Juga Instagram Kamii di @landx.id Supaya Tetap Update Berbagai Informasi Menarik Seputar Investasi](https://www.instagram.com/landx.id/?utm_medium=copy_link)**
 
----
+- - -
 
-#YukPatunganBisnis    #LandX.id    #landx.id    #InvestasiBisnis    #EquityCrowdfunding    #InvestasiMenguntungk
+\#YukPatunganBisnis    #LandX.id    #landx.id    #InvestasiBisnis    #EquityCrowdfunding    #InvestasiMenguntungk
 
----
+- - -
 
 **Baca Juga**
 
 * [Memahami Konsep Cashflow Quadrant Berdasarkan Teori Robert Kiyosaki](https://landx.id/blog/konsep-cashflow-quadrant-robert-kiyosaki/)
 * [Mau Memulai Bisnis? Simak Cara Membangun Bisnis Menguntungkan untuk Pemula](https://landx.id/blog/mau-memulai-bisnis-simak-cara-membangun-bisnis-menguntungkan-untuk-pemula/)
 * [Keuntungan Jangka Panjang Menjanjikan dari Usaha Perikanan di Indonesia](https://landx.id/blog/bisnis-perikanan-tangkap-di-indonesia/)
-
