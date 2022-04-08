@@ -1,17 +1,31 @@
-+++
-author = "Abdul Wahhab"
-category = ["Securities Crowdfunding untuk Pengembangan UMKM di Indonesia", "Equity Crowdfunding", "crowdfunding", "crowdfunding indonesia", "Situs Crowdfunding", "investasi bisnis", "bisnis patungan"]
-date = 2021-09-27T06:30:08Z
-metaDescription = "Securities crowdfunding merupakan sistem investasi yang memudahkan investor ritel untuk ikut patungan membangun suatu bisnis dan dapat return dari bisnis..."
-draft = false
-image = "https://accountgram-production.sfo2.cdn.digitaloceanspaces.com/landx_ghost/2021/09/patungan-bisnis-menguntungkan-bareng-landx-5.png"
-slug = "melihat-potensi-patungan-bisnis-melalui-sistem-securities-crowdfunding-untuk-investasi-jangka-panjang"
-tag = ["Securities Crowdfunding untuk Pengembangan UMKM di Indonesia", "Equity Crowdfunding", "crowdfunding", "crowdfunding indonesia", "Situs Crowdfunding", "investasi bisnis", "bisnis patungan"]
-title = "Melihat Potensi Patungan Bisnis Melalui Sistem Securities Crowdfunding untuk Investasi Jangka Panjang"
-
-+++
-
-
+---
+draft: false
+author: Abdul Wahhab
+slug: melihat-potensi-patungan-bisnis-melalui-sistem-securities-crowdfunding-untuk-investasi-jangka-panjang
+title: "Patungan Bisnis dengan Sistem Investasi Securities Crowdfunding "
+metaTitle: "Patungan Bisnis dengan Sistem Investasi Securities Crowdfunding "
+metaDescription: Securities crowdfunding merupakan sistem investasi yang
+  memudahkan investor ritel untuk ikut patungan membangun bisnis
+intro: Yuk simak seluk-beluk investasi dengan sistem securities crowdfunding
+date: 2021-09-27T06:30:08.000Z
+tag:
+  - Securities Crowdfunding untuk Pengembangan UMKM di Indonesia
+  - Equity Crowdfunding
+  - crowdfunding
+  - crowdfunding indonesia
+  - Situs Crowdfunding
+  - investasi bisnis
+  - bisnis patungan
+featuredImage:
+  src: https://accountgram-production.sfo2.cdn.digitaloceanspaces.com/landx_ghost/2021/09/patungan-bisnis-menguntungkan-bareng-landx-5.png
+  alt: Cara Patungan Bisnis lewat sistem securities crowdfunding
+  title: Simak cara investasi menguntungkan dengan sistem securities crowdfunding
+image: https://accountgram-production.sfo2.cdn.digitaloceanspaces.com/landx_ghost/2021/09/patungan-bisnis-menguntungkan-bareng-landx-5.png
+category:
+  - Cara Investasi di Securities Crowdfunding
+  - Investasi
+  - Keuangan
+---
 Apabila kamu ingin memiliki bisnis namun terhambat karena keterbatasan modal dan kemampuan mengelola bisnis, patungan bisnis melalui securities crowdfunding adalah solusi untuk semua kendala tersebut.
 
 Sistem bisnis patungan ini sangat menguntungkan bisnis dan investor pemula karena mereka bisa menikmati keuntungan dari suatu bisnis dengan modal kecil dan risiko yang lebih minim. [](https://landx.id/)
@@ -20,15 +34,7 @@ Sistem bisnis patungan ini sangat menguntungkan bisnis dan investor pemula karen
 
 Supaya kamu lebih paham, yuk kita bahas lebih lanjut tentang bagaimana cara patungan bisnis menguntungkan melalui securities crowdfunding.
 
----
-
-## Table of Content
-
-* **[Apa yang Dimaksud dengan Bisnis Patungan?](#apa-yang-dimaksud-dengan-bisnis-patungan?)**
-* **[Tips Penting dalam Memulai Patungan Bisnis](#tips-penting-dalam-memulai-patungan-bisnis)**
-* **[Cara Cerdas Memulai Patungan Bisnis](#cara-cerdas-memulai-patungan-bisnis )**
-
----
+- - -
 
 ## Apa yang Dimaksud dengan Bisnis Patungan?
 
@@ -56,7 +62,7 @@ Anda tetap harus bisa memahami berbagai resiko yang akan timbul saat anda terlib
 
 Karena itu, kamu perlu melihat profil penerbit agar tahu rekam jejak pengelola dari bisnis yang akan kamu danai. Karena pengalaman dalam menjalankan bisnis merupakan faktor penting yang menentukan apakah bisnis tersebut dapat berjalan dalam jangka panjang atau tidak.
 
-Selain itu anda perlu melihat dari sisi lain seperti _payback period, net present value, return on investment rate,_ serta strategi mitigasi risiko yang dilakukan bisnis tersebut untuk meghadapi berbagai kondisi tidak terduga di masa mendatang.
+Selain itu anda perlu melihat dari sisi lain seperti *payback period, net present value, return on investment rate,* serta strategi mitigasi risiko yang dilakukan bisnis tersebut untuk meghadapi berbagai kondisi tidak terduga di masa mendatang.
 
 ## **Cara Cerdas Memulai Patungan Bisnis**
 
@@ -75,16 +81,15 @@ Oleh sebab itu…
 [![Yuk Patungan Bisnis Modal Kecil Bareng LandX](https://accountgram-production.sfo2.cdn.digitaloceanspaces.com/landx_ghost/2021/09/patungan-bisnis-menguntungkan-bareng-landx-4.png)
 ](https://landx.id/)
 
-[**Jangan Lupa!! Follow @landx.id di Instagram Supaya Terus Update Berbagai Info Seputar Investas**](https://instagram.com/landx.id?utm_medium=copy_link)**i**
+**[Jangan Lupa!! Follow @landx.id di Instagram Supaya Terus Update Berbagai Info Seputar Investas](https://instagram.com/landx.id?utm_medium=copy_link)i**
 
----
+- - -
 
 **Baca Juga:**
 
-* [**Return on Investment (ROI): Cara Menghitung dan Jenis-Jenis ROI**](https://landx.id/blog/return-on-investment-roi-adalah/)
-* [**Menelusuri Sejarah Mulainya Equity Crowdfunding di Indonesia: Melihat Perkembangan Equity Crowdfunding Resmi OJK**](https://landx.id/blog/equity-crowdfunding-indonesia/)
+* **[Return on Investment (ROI): Cara Menghitung dan Jenis-Jenis ROI](https://landx.id/blog/return-on-investment-roi-adalah/)**
+* **[Menelusuri Sejarah Mulainya Equity Crowdfunding di Indonesia: Melihat Perkembangan Equity Crowdfunding Resmi OJK](https://landx.id/blog/equity-crowdfunding-indonesia/)**
 
----
+- - -
 
-**#YukPatunganBisnis  #LandX.id    #landx         #landx.id    #InvestasiBisnis    #SecuritiesCrowdfunding #EquityCrowdfunding    #InvestasiMenguntungkan    #Urundana    #BisnisPatungan    #InvestasiUsaha**
-
+**\#YukPatunganBisnis  #LandX.id    #landx         #landx.id    #InvestasiBisnis    #SecuritiesCrowdfunding #EquityCrowdfunding    #InvestasiMenguntungkan    #Urundana    #BisnisPatungan    #InvestasiUsaha**
