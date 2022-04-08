@@ -1,15 +1,27 @@
-+++
-author = "Abdul Wahhab"
-category = ["Equity Crowdfunding", "Securities Crowdfunding untuk Pengembangan UMKM di Indonesia", "patungan bisnis", "bisnis investasi online", "crowdfunding"]
-date = 2021-09-19T18:08:26Z
-metaDescription = "ISSCF merupakan bentuk komitmen LandX untuk meningkatkan inklusi literasi keuangan masyarakat agar lebih paham tentang bagaimana pentingnya berinvestasi"
-draft = false
-image = "https://accountgram-production.sfo2.cdn.digitaloceanspaces.com/landx_ghost/2021/12/landx.png"
-slug = "landx-inisiasi-iscff"
-tag = ["Equity Crowdfunding", "Securities Crowdfunding untuk Pengembangan UMKM di Indonesia", "patungan bisnis", "bisnis investasi online", "crowdfunding"]
-title = "LandX Inisiasi Indonesia Securities Crowdfunding Forum (ISCFF) untuk Kenalkan Model Patungan Bisnis Secara Digital"
-
-+++
+---
+draft: false
+author: Abdul Wahhab
+slug: landx-inisiasi-iscff
+title: LandX Inisiasi Indonesia Securities Crowdfunding Forum (ISCFF)
+metaTitle: LandX Inisiasi Indonesia Securities Crowdfunding Forum (ISCFF)
+metaDescription: Securities Crowfunding untuk sistem investasi menguntungkan anda
+intro: Yuk Simak Keseruan ISCFF untuk Pengenalan Sistem Investasi Lewat
+  Securities Crowdfunding
+date: 2021-09-19T18:08:26.000Z
+tag:
+  - Equity Crowdfunding
+  - Securities Crowdfunding untuk Pengembangan UMKM di Indonesia
+  - patungan bisnis
+  - bisnis investasi online
+  - crowdfunding
+featuredImage:
+  src: https://accountgram-production.sfo2.cdn.digitaloceanspaces.com/landx_ghost/2021/12/landx.png
+  alt: Cara Investasi di LandX
+  title: Investasi Menguntungkan di LandX
+image: https://accountgram-production.sfo2.cdn.digitaloceanspaces.com/landx_ghost/2021/12/landx.png
+category:
+  - Cara Investasi di Securities Crowdfunding
+---
 
 
 [LandX](https://landx.id/) baru saja menginisiasi Indonesia Securities Crowdfunding Forum (ISCFF) dalam rangka untuk meningkatkan pemahaman dan kesadaran masyarakat tentang investasi.
