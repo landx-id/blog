@@ -1,18 +1,35 @@
-+++
-author = "Abdul Wahhab"
-category = ["bisnis investasi", "investasi bisnis", "Cara Investasi Saham", "Investasi Menguntungkan", "investasi terbaik", "bisnis investasi terpercaya", "Equity Crowdfunding", "crowdfunding", "Securities Crowdfunding untuk Pengembangan UMKM di Indonesia"]
-date = 2021-09-22T06:01:00Z
-metaDescription = "Deposito merupakan salah satu produk investasi yang dikeluarkan perbankan yang populer di kalangan masyarakat | Deposito atau Investasi Bisnis?"
-draft = false
-image = "https://images.unsplash.com/photo-1551260627-fd1b6daa6224?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxMTc3M3wwfDF8c2VhcmNofDE3fHxiYW5rfGVufDB8fHx8MTY0MDI1MDY2NQ&ixlib=rb-1.2.1&q=80&w=1080"
-slug = "deposito-dan-investasi-bisnis-untuk-pemula"
-tag = ["bisnis investasi", "investasi bisnis", "Cara Investasi Saham", "Investasi Menguntungkan", "investasi terbaik", "bisnis investasi terpercaya", "Equity Crowdfunding", "crowdfunding", "Securities Crowdfunding untuk Pengembangan UMKM di Indonesia"]
-title = "Untuk Pemula, Lebih Baik Deposito atau Investasi Bisnis? Yuk Simak Disini"
-
-+++
-
-
 ---
+draft: false
+author: Abdul Wahhab
+slug: deposito-dan-investasi-bisnis-untuk-pemula
+title: Lebih Baik Deposito atau Investasi ke Bisnis? Yuk Simak Disini
+metaTitle: Lebih Baik Deposito atau Investasi Bisnis? Yuk Simak Disini
+metaDescription: Deposito merupakan salah satu produk investasi yang dikeluarkan
+  perbankan yang populer di kalangan masyarakat | Deposito atau Investasi
+  Bisnis?
+intro: "Untuk investor pemula, yuk simak lebih baik deposito atau investasi ke
+  dalam bisnis yang bisa memberikan anda keuntungan yang optimal. "
+date: 2021-09-22T06:01:00.000Z
+tag:
+  - bisnis investasi
+  - investasi bisnis
+  - Cara Investasi Saham
+  - Investasi Menguntungkan
+  - investasi terbaik
+  - bisnis investasi terpercaya
+  - Equity Crowdfunding
+  - crowdfunding
+  - Securities Crowdfunding untuk Pengembangan UMKM di Indonesia
+featuredImage:
+  src: https://images.unsplash.com/photo-1551260627-fd1b6daa6224?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxMTc3M3wwfDF8c2VhcmNofDE3fHxiYW5rfGVufDB8fHx8MTY0MDI1MDY2NQ&ixlib=rb-1.2.1&q=80&w=1080
+  alt: "Investasi deposito untuk pemula apakah yang paling aman? "
+  title: Kelebihan dan kekurangan deposito untuk investasi jangka panjang anda.
+image: https://images.unsplash.com/photo-1551260627-fd1b6daa6224?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxMTc3M3wwfDF8c2VhcmNofDE3fHxiYW5rfGVufDB8fHx8MTY0MDI1MDY2NQ&ixlib=rb-1.2.1&q=80&w=1080
+category:
+  - Investasi
+  - Keuangan
+---
+- - -
 
 Deposito dan [Investasi bisnis](https://landx.id/) merupakan instrumen investasi yang bisa digunakan oleh para investor pemula. Instrumen investasi yang semakin beragam terkadang membuat investor pemula kebingungan dalam memilih investasi awal mereka.
 
@@ -20,25 +37,13 @@ Sebagai investor pemula anda pasti cukup familiar dengan instrumen deposito kare
 
 Berbeda dengan deposito, investasi bisnis memiliki potensi risiko dan keuntungan yang beragam sehingga bisa menyesuaikan tujuan investasi investor. Walaupun risikonya cenderung lebih besar, instrumen ini memiliki potensi keuntungan yang lebih besar pula.
 
-Karena itu, mari kita bahas lebih lanjut tentang peluang investasi dari kedua instrumen ini.
+Karena itu, mari kita bahas lebih lanjut tentang peluang investasi dari kedua instrumen ini
 
----
+- - -
 
-## **Table of Content**
+## **Investasi Bisnis dan Deposito**
 
-* **Deposito vs Investasi Bisnis**
-* **Deposito**
-* **Jenis Deposito**
-* **Kelebihan dan Kekurangan dari Deposito**
-* **Investasi Bisnis**
-* **Risiko dalam Investasi Bisnis**
-* **Pilih Investasi yang Tepat**
-
----
-
-## **Deposito vs Investasi Bisnis**
-
-Dalam investasi anda harus mengingat prinsip “_high risk high return”_ semakin besar resiko yang berani anda tanggung, maka semakin besar pula potensi keuntungan yang bisa didapatkan.
+Dalam investasi anda harus mengingat prinsip “*high risk high return”* semakin besar resiko yang berani anda tanggung, maka semakin besar pula potensi keuntungan yang bisa didapatkan.
 
 Deposito merupakan produk investasi yang memiliki resiko rendah karena modal yang anda tanamkan melalui bank akan terjamin oleh Lembaga Penjamin Simpanan (LPS) dengan jaminan hingga 2 miliar sehingga memperkecil risiko yang akan anda terima. Nilai deposito yang anda simpan tidak akan terpengaruh oleh pergerakan pasar, hal ini akan memperkecil resiko anda tapi sekaligus memperkecil potensi keuntungan yang akan dapatkan.
 
@@ -54,15 +59,15 @@ Deposito memang investasi yang cenderung aman dan stabil, tapi perkembangan nila
 
 Tapi hal ini belum bersih karena anda masih harus dikenai pajak. Tapi tiap instrumen tentu saja memiliki kekurangan masing-masing. Deposito sendiri banyak dipilih karena kemungkinan kerugian yang sangat kecil. Deposito sendiri memiliki beberapa jenis yang perlu anda ketahui yaitu :
 
-## **Jenis Deposito**
+## **Jenis-jenis Deposito**
 
 Deposito dikategorikan ke dalam tiga jenis yaitu Deposito Berjangka, Sertifikat Deposito, dan Deposito On-Call. Berikut penjelasan lebih detailnya :
 
 * **Deposito Berjangka**, Jenis ini sangat umum dan terkenal di kalangan masyarakat. Jenis ini merupakan tabungan berjangka yang akan anda bisa diambil di akhir periode deposito. Deposito ini bisa diterbitkan atas nama individu dan instansi yang uangnya hanya bisa diambil ketika jatuh tempo.
 * **Sertifikat deposito**, deposito juga bisa diterbitkan dalam bentuk sertifikat deposito yang tidak mengacu pada nama instansi atau individu tertentu sehingga dapat diperjualbelikan.
-* **Deposito On Call**, merupakan tabungan berjangka yang dilakukan dalam waktu singkat dengan minimal 7 hari dan paling lama hanya satu bulan. Deposito jenis ini dikhususkan untuk penyimpanan dana dalam jumlah yang besar.
+* **Deposito On Call**,  deposito on call merupakan deposito yang berjangka waktu minimal 7 hari dan maksimal 1 bulan. Deposito jenis ini dikhususkan untuk penyimpanan dana dalam jumlah yang besar.
 
-## Beda Deposito dan Tabungan
+## Beda Perbedaan Investasi Deposito dan Tabungan
 
 Saat akan berinvestasi, banyak orang sulit membedakan antara deposito dan tabungan. Secara konsep, memang keduanya sama-sama menyimpan uang di bank dan mendapatkan bunga dari tabungan tersebut sesuai dengan ketentuan bank.
 
@@ -72,7 +77,7 @@ Hal ini berbeda dengan deposito di mana uang kamu akan mendapatkan pinalti apabi
 
 Oleh sebab itu, deposito masuk ke dalam instrumen investasi dengan risiko rendah karena return yang didapatkan biasanya sudah ditentukan saat awal menyimpan uang.
 
-## **Kelebihan dan Kekurangan dari Deposito**
+## **Kelebihan dan Kekurangan Deposito**
 
 Tiap investasi memiliki kelebihan dan kekurangan tertentu, berikut kelebihan dan kekurangan dari deposito
 
@@ -82,7 +87,7 @@ Tiap investasi memiliki kelebihan dan kekurangan tertentu, berikut kelebihan dan
 
 ## **Investasi Bisnis**
 
-Berbeda dengan deposito, investasi merupakan instrumen investasi dengan tingkat[ _return_](https://landx.id/) yang lebih besar apabila anda bisa memilih bisnis yang tepat untuk anda tanamkan modal. Investasi ini berpotensi memberikan hasil yang besar karena keuntungan dari investasi bisnis bisa anda dapatkan dari _capital gain_ dan [dividen](https://landx.id/) yang akan dibagikan pada saat akhir periode saat bisnis mendapatkan keuntungan. Konsep ini hampir sama seperti kepemilikan saham, namun dalam investasi bisnis anda berkesempatan memiliki saham di perusahaan privat. Berbagai bisnis privat kini lebih mudah anda akses melalui [investasi equity crowdfunding](https://landx.id/).
+Berbeda dengan deposito, investasi merupakan instrumen investasi dengan tingkat[ *return*](https://landx.id/) yang lebih besar apabila anda bisa memilih bisnis yang tepat untuk anda tanamkan modal. Investasi ini berpotensi memberikan hasil yang besar karena keuntungan dari investasi bisnis bisa anda dapatkan dari *capital gain* dan [dividen](https://landx.id/) yang akan dibagikan pada saat akhir periode saat bisnis mendapatkan keuntungan. Konsep ini hampir sama seperti kepemilikan saham, namun dalam investasi bisnis anda berkesempatan memiliki saham di perusahaan privat. Berbagai bisnis privat kini lebih mudah anda akses melalui [investasi equity crowdfunding](https://landx.id/).
 
 Untuk keuntungan sendiri, anda memiliki potensi keuntungan dari capital gain dan dividen, berikut penjelasannya.
 
@@ -106,22 +111,21 @@ Setelah memahami deposito dan [investasi bisnis](https://landx.id/), anda tentu 
 
 Apabila anda rasa cocok untuk mulai investasi bisnis, maka anda butuh memilih [platform yang kredibel dan tepat](https://landx.id/).
 
-[**LandX merupakan platform equity crowdfunding**](https://landx.id/) **** yang akan membantu anda dalam memulai investasi bisnis dengan modal kecil. LandX akan membantu menyalurkan investasi anda ke dalam berbagai bisnis potensial.
+**[LandX merupakan platform equity crowdfunding](https://landx.id/)** \*\*\*\* yang akan membantu anda dalam memulai investasi bisnis dengan modal kecil. LandX akan membantu menyalurkan investasi anda ke dalam berbagai bisnis potensial.
 
-**[Mau Informasi Menarik Lain Seputar Investasi? Yuk Kunjungi Instagram Kami di @landx.id](https://www.instagram.com/landx.id/?utm_medium=copy_link)**
+### **[Yuk Temukan Bisnis Menjanjikan dengan Keuntungan Terbaik di LandX](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)**
 
-[![Yuk mulai patungan bisnis menguntungkan jangka panja g bersama LandX](https://accountgram-production.sfo2.cdn.digitaloceanspaces.com/landx_ghost/2021/09/Equity-Crowdfunding-di-Indonesia-1--3.png)](https://landx.id/project/)
+[![miliki bisnis modal kecil cuma dengan 1 jutaan dapat 4 cabang ](https://accountgram-production.sfo2.cdn.digitaloceanspaces.com/landx_ghost/2021/11/jadi-owner-bisnis-hanya-1-jutaan-dengan-cuan-yang-sangat-menjanjikan.png)](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)
 
-[**Yuk Patungan Bisnis Menguntungkan Bareng LandX**](https://landx.id/project/)
+**[Yuk Patungan Bisnis Menguntungkan Bareng LandX](https://landx.id/project/)**
 
----
+- - -
 
 **Baca Juga :**
 
-* [**Rekomendasi Bisnis Investasi Online Terbaik yang Aman untuk Pemula**](https://landx.id/blog/rekomendasi-bisnis-investasi-online-terbaik-yang-aman-untuk-pemula/)
+* **[Rekomendasi Bisnis Investasi Online Terbaik yang Aman untuk Pemula](https://landx.id/blog/rekomendasi-bisnis-investasi-online-terbaik-yang-aman-untuk-pemula/)**
 * **[Cara  Investasi Bagi Hasil Terpercaya agar Investasi Usaha Anda bisa Memberikan Passive Income yang Maksimal](https://landx.id/blog/investasi-dengan-passive-income-untuk-masa-depan/)**
 
----
+- - -
 
-**#YukPatunganBisnis	#LandX.id    #landx.id    #InvestasiBisnis    #SecuritiesCrowdfunding    #EquityCrowdfunding    #InvestasiMenguntungkan    #Urundana    #BisnisPatungan    #InvestasiUsaha**
-
+**\#YukPatunganBisnis	#LandX.id    #landx.id    #InvestasiBisnis    #SecuritiesCrowdfunding    #EquityCrowdfunding    #InvestasiMenguntungkan    #Urundana    #BisnisPatungan    #InvestasiUsaha**
