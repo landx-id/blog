@@ -6,13 +6,23 @@ metaDescription: Banyak keuntungan investasi emas, seperti likuid, nilai yang
   stabil dan pilihan investasi jangka panjang yang aman. Cara investasi emas di
   tahun 2022
 intro: Banyak keuntungan investasi emas, seperti likuid, nilai yang stabil dan
-  pilihan investasi jangka panjang yang aman. Cara investasi emas di tahun 2022
+  pilihan investasi jangka panjang yang aman.  Akan tetapi, jangan lupa setiap
+  instrumen investasi memiliki risiko yang harus kamu waspadai
 date: 2022-04-08T06:09:00.410Z
+tag:
+  - Instrumen Investasi
+  - Investasi
+  - Investasi Aman untuk Pemula
+  - Investasi Keuangan
+  - Investor Pemula
+  - Investasi Online
+category:
+  - Investasi
+  - Keuangan
 featuredImage:
-  title: Investasi Emas Tahun 2022, PIlihan Investasi Paling Aman? | LandX
-    Crowdfunding
-  src: https://unsplash.com/photos/bN3KYPiAd8k
-  alt: investasi emas, cara investasi emas 2022, crowdfunding, investasi paling aman
+  title: Benarkan Investasi Emas Tahun 2022, PIlihan Investasi Paling Aman?
+  src: https://images.unsplash.com/photo-1624365169364-0640dd10e180?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80
+  alt: Cara investasi emas yang aman dan menguntungkan di tahun 2022
 ---
 Emas banyak dipilih oleh investor pemula hingga para penguasa ekonomi karena dianggap sebagai instrumen investasi yang menguntungkan. Emas dianggap sebagai pilihan aman karena memiliki nilai yang stabil dan mudah dicairkan dalam keadaan mendesak.
 
@@ -45,13 +55,15 @@ Tahukah Anda emas yang Anda beli di tahun 2000 seharga kisaran Rp 71.875 per gra
 
 Terdapat momentum-momentum saat harga emas naik atau turun, investopedia menyampaikan 4 faktor yang mempengaruhi harga emas.
 
-1. Inflasi – inflasi adalah saat harga-harga barang semakin naik, termasuk harga emas. Apa hubungannya? Disaat inflasi terjadi, orang-orang enggan membelanjakan uangnya dan akan menyimpan uangnya dalam bentuk emas yang akan menjaga nilai uang.
+**1. Inflasi** – inflasi adalah saat harga-harga barang semakin naik, termasuk harga emas. Apa hubungannya? Disaat inflasi terjadi, orang-orang enggan membelanjakan uangnya dan akan menyimpan uangnya dalam bentuk emas yang akan menjaga nilai uang.
 
 Permintaan yang tinggi terhadap emas tentu akan menaikkan sentimen harga emas di pasar.
 
-2. Suku bunga – kebijakan menaik-turunkan suku bunga atau kebijakan moneter dari Bank Sentral Amerika Serikat, The Fed, mempengaruhi harga emas. Pasalnya, ketika suku bunga turun, orang cenderung lari untuk investasi emas dari pada menyimpan dolar.
-3. Kurs dolar AS – nilai tukar terhadap mata uang dolar Amerika Serikat mempengaruhi harga emas dalam negeri. Harga emas dalam negeri merupakan harga emas internasional yang dikonversi dalam rupiah. Karena itu, disaat nilai tukar rupiah terhadap dolar tinggi maka harga emas cenderung turun dan sebaliknya.
-4. Kondisi global – tren pergerakan harga emas cenderung mengikuti keadaan yang sedang terjadi. Di tahun pandemi covid-19, emas sempat mencetak harga tertinggi yang mencapai Rp 1.065.000 per gram pada tanggal 7 Agustus 2020.
+**2. Suku bunga** – kebijakan menaik-turunkan suku bunga atau kebijakan moneter dari Bank Sentral Amerika Serikat, The Fed, mempengaruhi harga emas. Pasalnya, ketika suku bunga turun, orang cenderung lari untuk investasi emas dari pada menyimpan dolar.
+
+**3. Kurs dolar AS** – nilai tukar terhadap mata uang dolar Amerika Serikat mempengaruhi harga emas dalam negeri. Harga emas dalam negeri merupakan harga emas internasional yang dikonversi dalam rupiah. Karena itu, disaat nilai tukar rupiah terhadap dolar tinggi maka harga emas cenderung turun dan sebaliknya.
+
+**4. Kondisi global** – tren pergerakan harga emas cenderung mengikuti keadaan yang sedang terjadi. Di tahun pandemi covid-19, emas sempat mencetak harga tertinggi yang mencapai Rp 1.065.000 per gram pada tanggal 7 Agustus 2020.
 
 ## Keuntungan Investasi Emas
 
@@ -67,8 +79,6 @@ Jika Anda menyusun rencana investasi jangka panjang, emas adalah instrumen inves
 * Tempat penyimpanan - menyimpan sendiri atau menggunakan jasa seperti bank untuk menyimpan logam mulia milik Anda dapat dijadikan alternatif. Namun, keduanya memiliki risiko sendiri. 
 
 Apabila menyimpan sendiri akan menimbulkan kekhawatiran akan kehilangan akibat dicuri. Untuk tempat yang lebih aman, jasa penyimpanan dari lembaga resmi tentu akan membutuhkan sejumlah biaya rutin tertentu.
-
-
 
 Emas adalah instrumen investasi paling aman, benarkah?
 
@@ -96,4 +106,6 @@ Keuntungan berinvestasi [crowdfunding](https://landx.id/) adalah persentase imba
 
 [Investasi crowdfunding](https://landx.id/) dapat dilakukan di[ platform crowdfunding dengan market cap terbesar di Indonesia](https://landx.id/) yaitu [LandX](https://landx.id/). Investasi modal kecil sekarang bisa jadikan Anda bos bisnis. 
 
-## [Yuk, jadi bos bisnis dan terima keuntungan rutin di LandX](https://landx.id/)
+## [Yuk, jadi bos bisnis dan terima keuntungan rutin di LandX](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)
+
+[![miliki bisnis modal kecil cuma dengan 1 jutaan dapat 4 cabang ](https://accountgram-production.sfo2.cdn.digitaloceanspaces.com/landx_ghost/2021/11/jadi-owner-bisnis-hanya-1-jutaan-dengan-cuan-yang-sangat-menjanjikan.png)](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)
