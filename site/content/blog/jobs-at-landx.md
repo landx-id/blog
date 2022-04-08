@@ -1,20 +1,26 @@
-+++
-author = "Eca Ita Sihriwayati"
-category = ["landx", "job vacancy"]
-date = 2021-09-07T02:00:00Z
-metaDescription = "We are looking for energetic & talented people to join us and work from anywhere you like, home or office.\n\nWe are currently looking to fill the following positions:"
-draft = false
-image = "https://images.unsplash.com/photo-1522202176988-66273c2fd55f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxMTc3M3wwfDF8c2VhcmNofDF8fGludGVybnxlbnwwfHx8fDE2NDAyNTEzNzE&ixlib=rb-1.2.1&q=80&w=1080"
-slug = "jobs-at-landx"
-tag = ["landx", "job vacancy"]
-title = "Jobs at LandX"
-
-+++
-
-
+---
+draft: false
+author: Eca Ita Sihriwayati
+slug: jobs-at-landx
+title: Jobs at LandX
+metaTitle: Jobs at LandX
+metaDescription: Lowongan kerja di LandX, Startup Fintech Equity Crowdfunding di Indonesia
+intro: Lowongan kerja terbaru di LandX
+date: 2021-09-07T02:00:00.000Z
+tag:
+  - landx
+  - job vacancy
+featuredImage:
+  src: https://images.unsplash.com/photo-1522202176988-66273c2fd55f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxMTc3M3wwfDF8c2VhcmNofDF8fGludGVybnxlbnwwfHx8fDE2NDAyNTEzNzE&ixlib=rb-1.2.1&q=80&w=1080
+  alt: Lowongan kerja di LandX
+  title: Jobs at LandX
+image: https://images.unsplash.com/photo-1522202176988-66273c2fd55f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxMTc3M3wwfDF8c2VhcmNofDF8fGludGVybnxlbnwwfHx8fDE2NDAyNTEzNzE&ixlib=rb-1.2.1&q=80&w=1080
+category:
+  - Cara Investasi di Securities Crowdfunding
+---
 ### We are looking for energetic & talented people to join us and work from anywhere you like, home or office.
 
-![LandX-is-Hiring---Jobs-Vacancy-at-LandX](https://accountgram-production.sfo2.cdn.digitaloceanspaces.com/landx_ghost/2021/09/LandX-is-Hiring---Jobs-Vacancy-at-LandX.jpg)
+![Hiring LandX](https://accountgram-production.sfo2.cdn.digitaloceanspaces.com/landx_ghost/2021/09/LandX-is-Hiring---Jobs-Vacancy-at-LandX.jpg "Jobs Vacancy di LandX")
 
 We are currently looking to fill the following positions:
 
@@ -74,7 +80,7 @@ At LandX, you will be working on the next generation of Equity Crowd Funding sys
 * Well leadership;
 * Minimal 2 years experience in the similar position, preferably in Startup Company.
 
-## **Creative **Producer****
+## **Creative** Producer\*\*\*\*
 
 **Responsibilities:**
 
@@ -109,7 +115,7 @@ At LandX, you will be working on the next generation of Equity Crowd Funding sys
 * Able to work both independently and team;
 * Include your portfolio link on your curriculum vitae.
 
-If you are the person we are looking for, let's grow your career with us by following our recruitment. Kindly send your application to:Email: **hr@landx.id**Subject: **Application - [Position] - [Your Name]**Only short-listed candidates will be contacted.
+If you are the person we are looking for, let's grow your career with us by following our recruitment. Kindly send your application to:Email: **hr@landx.id**Subject: **Application - \[Position] - \[Your Name]**Only short-listed candidates will be contacted.
 
 {{< figure src="https://accountgram-production.sfo2.cdn.digitaloceanspaces.com/landx_ghost/2021/11/INTERSHIP-PROGRAM.jpg" >}}
 
@@ -125,11 +131,4 @@ We are inviting energetic students to learn and grow with LandX through an our i
 
 If you are the person who is passionate and interested in the position, please send your application to:
 
-Email: **hr@landx.id**Subject: **Internship Program - [Position] - [Your Name]**
-
-
-
-
-
-
-
+Email: **hr@landx.id**Subject: **Internship Program - \[Position] - \[Your Name]**
