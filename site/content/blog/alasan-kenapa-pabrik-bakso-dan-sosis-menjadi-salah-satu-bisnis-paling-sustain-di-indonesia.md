@@ -1,15 +1,37 @@
-+++
-author = "Abdul Wahhab"
-category = ["investasi bisnis", "Investasi modal kecil", "bisnis investasi online", "bisnis di masa pandemi", "Bisnis Franchise Modal Kecil", "bisnis investasi terpercaya", "bisnis jangka panjang", "bisnis menguntungkan", "Equity Crowdfunding", "Memulai usaha", "Volatilitas"]
-date = 2021-10-05T12:13:22Z
-metaDescription = "Pabrik bakso dan sosis merupakan bisnis yang tahan pandemi karena demand/ permintaan akan produk ini tetap meningkat walaupun masa pandemi"
-draft = false
-image = "https://images.unsplash.com/photo-1620238259493-79ab814a426c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxMTc3M3wwfDF8c2VhcmNofDN8fG1lYXRiYWxsfGVufDB8fHx8MTY0MDE0OTk0Mw&ixlib=rb-1.2.1&q=80&w=1080"
-slug = "alasan-kenapa-pabrik-bakso-dan-sosis-menjadi-salah-satu-bisnis-paling-sustain-di-indonesia"
-tag = ["investasi bisnis", "Investasi modal kecil", "bisnis investasi online", "bisnis di masa pandemi", "Bisnis Franchise Modal Kecil", "bisnis investasi terpercaya", "bisnis jangka panjang", "bisnis menguntungkan", "Equity Crowdfunding", "Memulai usaha", "Volatilitas"]
-title = "Alasan Kenapa Pabrik Bakso dan Sosis Menjadi Salah Satu Bisnis Paling Sustain di Indonesia"
-
-+++
+---
+draft: false
+author: Abdul Wahhab
+slug: alasan-kenapa-pabrik-bakso-dan-sosis-menjadi-salah-satu-bisnis-paling-sustain-di-indonesia
+title: Bisnis Pabrik Bakso dan Sosis yang Sangat Menjanjikan Jangka Panjang
+metaTitle: Bisnis Pabrik Bakso dan Sosis yang Sangat Menjanjikan Jangka Panjang
+metaDescription: Pabrik bakso dan sosis merupakan bisnis yang tahan pandemi
+  karena demand/ permintaan akan produk ini tetap meningkat walaupun masa
+  pandemi
+intro: Yuk simak potensi bisnis pabrik bakso dan sosis yang memiliki potensi
+  keuntungan jangka panjang menjanjikan
+date: 2021-10-05T12:13:22.000Z
+tag:
+  - investasi bisnis
+  - Investasi modal kecil
+  - bisnis investasi online
+  - bisnis di masa pandemi
+  - Bisnis Franchise Modal Kecil
+  - bisnis investasi terpercaya
+  - bisnis jangka panjang
+  - bisnis menguntungkan
+  - Equity Crowdfunding
+  - Memulai usaha
+  - Volatilitas
+featuredImage:
+  src: https://images.unsplash.com/photo-1620238259493-79ab814a426c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxMTc3M3wwfDF8c2VhcmNofDN8fG1lYXRiYWxsfGVufDB8fHx8MTY0MDE0OTk0Mw&ixlib=rb-1.2.1&q=80&w=1080
+  alt: Cara membangun bisnis pabrik bakso yang bisa memberikan anda keuntungan
+    jangka panjang
+  title: Potensi jangka panjang bisnis pabrik bakso dan perusahaan sosis
+image: https://images.unsplash.com/photo-1620238259493-79ab814a426c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxMTc3M3wwfDF8c2VhcmNofDN8fG1lYXRiYWxsfGVufDB8fHx8MTY0MDE0OTk0Mw&ixlib=rb-1.2.1&q=80&w=1080
+category:
+  - Bisnis
+  - Investasi
+---
 
 
 Berkembanganya aneka olahan daging seperti bakso dan sosis diikut peningkatan _demand_ akan produk ini  dari waktu ke waktu, hal ini membuat [pabrik bakso](https://landx.id/project/) dan sosis menjadi salah satu bisnis yang tetap sustain dan terus berkembang walaupun di tengah kondisi pandemi.
