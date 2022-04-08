@@ -15,6 +15,7 @@ tag:
   - Bisnis Modal Kecil
   - Bisnis Franchise
   - Instrumen Investasi
+  - FSAT
 category:
   - Bisnis
 featuredImage:
@@ -25,6 +26,8 @@ featuredImage:
     rekomendasi gym Bali
 ---
 Menjaga kesehatan menjadi sorotan paling depan semenjak pandemi menyerang di tahun 2020 lalu. Banyak orang mulai mengadopsi gaya sehat dan cara berolahrga yang baru. Namun bagi sebagian orang, menjaga kesehatan adalah bagian aktivitas harian yang tidak dapat dipisahkan. Baik dengan berolahraga sendiri ataupun dengan bergabung sebagai anggota fitness dan gym.
+
+Gym adalah tempat yang kini semakin banyak dikunjungi orang-orang karena terbentuknya gaya hidup baru yang  membuat semakin banyak orang mulai berolahraga. 
 
 Jika Anda adalah seorang yang aktif berolahraga dengan fasilitas gym, pernahkah terlintas untuk memiliki studio fitness dan gym sendiri? Alangkah menyenangkan jika bisa berolahraga di gym milik sendiri. Mendapatkan keuntungan selagi menjaga kesehatan.
 
