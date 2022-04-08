@@ -9,10 +9,21 @@ intro: "Business plan adalah dokumen tertulis yang menjelaskan secara rinci
   tujuan bisnisnya serta bagaimana cara mencapainya. Cara membuat business plan
   "
 date: 2022-04-08T08:23:14.076Z
+tag:
+  - Bisnis Investasi Online
+  - Bisnis Makanan
+  - Bisnis Patungan
+  - Bisnis Franchise
+  - bisnis jangka panjang
+  - Bisnis Menguntungkan
+category:
+  - Bisnis
+  - Keuangan
 featuredImage:
   title: "Apa Itu Business Plan: Definisi, Tujuan dan Cara Membuatnya"
-  alt: business plan, crowdfunding, cara membuat business plan
-  src: https://unsplash.com/photos/gMsnXqILjp4
+  alt: Cara membuat bisnis plan untuk membangun bisnis menguntungkan dalam jangka
+    panjang
+  src: https://images.unsplash.com/photo-1542744173-8e7e53415bb0?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80
 ---
 Membangun atau mengembangkan sebuah perusahaan dengan skala besar ataupun kecil perlu sebuah business plan. Business plan sangat membantu dalam memberikan pertimbangan strategi terbaik dalam bersaing diindustri yang diarungi. 
 
@@ -100,4 +111,6 @@ Namun, terdapat opsi lain untuk bisa jadi bagian pemilik bisnis menguntungkan ya
 
 Memiliki bisnis menguntungkan dengan modal minim dan mendapat kesempatan terima keuntungan dari bagi hasil keuntungan perusahaan. Ingin menjadi investor bisnis dan mendapat keuntungan?
 
-## [Yuk, download aplikasi LandX dan jadi pemilik bisnis sekarang!](https://landx.id/)
+## [Yuk, download aplikasi LandX dan jadi pemilik bisnis sekarang!](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)
+
+[![miliki bisnis modal kecil cuma dengan 1 jutaan dapat 4 cabang ](https://accountgram-production.sfo2.cdn.digitaloceanspaces.com/landx_ghost/2021/11/jadi-owner-bisnis-hanya-1-jutaan-dengan-cuan-yang-sangat-menjanjikan.png)](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)
