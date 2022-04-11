@@ -31,10 +31,11 @@ Saham blue chip adalah saham yang memiliki kualitas baik berdasarkan beberapa kr
 
 Oleh sebab itu, terdapat beberapa daftar saham blue chip yang jadi incaran investor pemula
 
----
+- - -
+
 ## Saham Blue Chip untuk Investasi
 
-[**Investor pemula**](https://landx.id/blog/tag/investor-pemula/) biasanya masih mengalami kesulitan dalam menentukan ke mana harus berinvestasi. Karena minimnya pengalaman dan kemampuan dalam mengatur keuangan, banyak pakar yang menyarankan agar para investor pemula sebaiknya memilih medan investasi yang lebih rendah risiko.
+**[Investor pemula](https://landx.id/blog/tag/investor-pemula/)** biasanya masih mengalami kesulitan dalam menentukan ke mana harus berinvestasi. Karena minimnya pengalaman dan kemampuan dalam mengatur keuangan, banyak pakar yang menyarankan agar para investor pemula sebaiknya memilih medan investasi yang lebih rendah risiko.
 
 Rekomendasi yang paling sering diberikan salah satunya adalah tabungan deposito, karena sangat mudah diterapkan dan hampir tidak memiliki risiko apapun. Namun, bagi yang bosan dengan deposito dan ingin mencoba saham, investor pemula disarankan agar langsung mencoba saham blue chip. Apa itu saham blue chip?
 
@@ -47,6 +48,14 @@ Istilah ini pertama kali digunakan di Amerika Serikat pada tahun 1923. Kala itu,
 Istilah “blue chip” sendiri mengacu pada referensi chip pada permainan poker, di mana chip yang berwarna biru memiliki nilai tukar yang lebih tinggi dibanding chip berwarna merah dan putih.
 
 Meski begitu, saat ini blue chip dalam saham tidak hanya dimaknai sebagai saham-saham dengan nilai tinggi, namun lebih dimaknai sebagai saham berkualitas baik yang berasal dari perusahaan-perusahaan mapan yang ketahanannya telah teruji selama bertahun-tahun.
+
+## Investasi Saham Blue Chip Pasti Untung?
+
+Walaupun perusahaan blue chip merupakan bisnis yang cenderung stabil dan memiliki market capital yang besar, tapi hal ini tidak jaminan bahwa saham ini akan selalu untung dan harganya selalu naik. 
+
+Hal ini karena pasar saham dipengaruhi oleh berbagai faktor dan kondisi yang perubahannya cukup sulit untuk kita prediksi karena kondisi ini terkadang muncul karena kondisi tak terduga yang sulit dikendalikan. Contohnya adalah kondisi pandemi yang membuat guncangan pada bursa efek sehingga berbagai emiten saham harganya turun. 
+
+Akan tetapi, apabila kamu berinvestasi ke dalam emiten blue chip, maka harganya cenderung lebih stabil sehingga memperkecil risiko kerugian anda dalam investasi. 
 
 ## Kriteria Blue Chip dalam Investasi Saham
 
@@ -74,7 +83,7 @@ Selain dari laba, kinerja perusahaan juga bisa dilihat melalui pertumbuhan aset 
 
 Dari seluruh kriteria, yang paling mudah digunakan sebagai penanda saham tersebut dapat dikatakan blue chip adalah ‘apakah perusahaan tersebut termasuk dalam market leader di bidang atau sektornya?’. Misalnya, pada sektor telekomunikasi, saham TLKM dapat dikatakan sebagai saham blue chip karena telah menjadi market leader di sektornya.
 
----
+- - -
 
 **Baca Juga:**
 
@@ -82,7 +91,7 @@ Dari seluruh kriteria, yang paling mudah digunakan sebagai penanda saham tersebu
 * [Memulai Investasi: Pahami Apa Itu Price to Book Value (PBV) Dalam Investasi Saham](https://landx.id/blog/memulai-investasi-pahami-apa-itu-price-to-book-value-pbv-dalam-investasi-saham/)
 * [Kenali 4 Instrumen Pasar Modal Sebelum Memutuskan Instrumen Pasar Modal Terbaik Anda](https://landx.id/blog/kenali-4-instrumen-pasar-modal-sebelum-memutuskan-instrumen-pasar-modal-terbaik-anda/https://landx.id/blog/memulai-investasi-pahami-apa-itu-price-to-book-value-pbv-dalam-investasi-saham/)
 
----
+- - -
 
 ## Keuntungan Berinvestasi ke Saham Blue Chip
 
@@ -108,34 +117,32 @@ Selain berinvestasi ke saham perusahaan publik, kamu juga bisa membeli saham dar
 
 Sistem ini sebenarnya hampir sama dengan investasi saham, namun dalam skala bisnis yang lebih kecil sehingga memudahkan anda untuk menganalisis bagaimana potensi bisnis ini di pasaran.
 
-[**Platform equity crowdfunding**](https://landx.id/) akan memberikan anda pilihan berbagai jenis bisnis potensial yang bisa anda tanami modal sehingga anda berhak mendapatkan dividen saat bisnis tersebut menghasilkan keuntungan.
+**[Platform equity crowdfunding](https://landx.id/)** akan memberikan anda pilihan berbagai jenis bisnis potensial yang bisa anda tanami modal sehingga anda berhak mendapatkan dividen saat bisnis tersebut menghasilkan keuntungan.
 
-[**LandX**](https://landx.id/) merupakan [platform equity crowdfunding](https://landx.id/) terpercaya yang memberikan anda pilihan berbagai bisnis terpercaya untuk diversifikasi investasi anda agar lebih menguntungkan.
+**[LandX](https://landx.id/)** merupakan [platform equity crowdfunding](https://landx.id/) terpercaya yang memberikan anda pilihan berbagai bisnis terpercaya untuk diversifikasi investasi anda agar lebih menguntungkan.
 
-## [Yuk Mulai Investasi Bisnis di LandX](https://landx.id/project/)
+**[Yuk Temukan Bisnis Menjanjikan dengan Keuntungan Terbaik di LandX](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)**
 
-[![Bagaimana? Kamu lebih suka bisnis dengan buyback guarantee atau yang bisa disimpan dalam jangka panjang? Apapun pilihan kamu.. Yuk Patungan  dengan Keuntungan Menjanjikan Bareng LandX](https://accountgram-production.sfo2.cdn.digitaloceanspaces.com/landx_ghost/2021/10/Equity-Crowdfunding-di-Indonesia-1--3.png)](http://landx.id/project/)
+[![miliki bisnis modal kecil cuma dengan 1 jutaan dapat 4 cabang ](https://accountgram-production.sfo2.cdn.digitaloceanspaces.com/landx_ghost/2021/11/jadi-owner-bisnis-hanya-1-jutaan-dengan-cuan-yang-sangat-menjanjikan.png)](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)
 
-[**Jangan Lupa Follow Instagram @landx.id Untuk Berbagai Tips Investasi Menguntungkan Lainnya**](https://www.instagram.com/landx.id/?utm_medium=copy_link)
+**[Jangan Lupa Follow Instagram @landx.id Untuk Berbagai Tips Investasi Menguntungkan Lainnya](https://www.instagram.com/landx.id/?utm_medium=copy_link)**
 
----
+- - -
 
 * [Investasi Saham: Mengenal Apa Itu Indeks Saham dan Fungsinya dalam Investasi](https://landx.id/blog/apa-itu-indeks-saham-dan-indeks-harga-saham/)
 * [Saham Syariah: Mengenal Apa Itu Saham Syariah dan Perbedaannya dengan Konvensional](https://landx.id/blog/mengenal-saham-syariah-dan-perberdaannya-dengan-saham-konvesional/)
 * [Mau Mulai Investasi Saham? Kenali Perbedaan antara Trading dan Investasi dalam Saham](https://landx.id/blog/memahami-perbedaan-trading-dan-investasi/)
 
----
+- - -
 
-**#YukPatungaBisnis     #LandX.id    #landx         #landx.id    #InvestasiBisnis     #EquityCrowdfunding    #InvestasiMenguntungkan    #Urundana     #BisnisPatungan    #InvestasiUsah**
+**\#YukPatungaBisnis     #LandX.id    #landx         #landx.id    #InvestasiBisnis     #EquityCrowdfunding    #InvestasiMenguntungkan    #Urundana     #BisnisPatungan    #InvestasiUsah**
 
 Beberapa sumber:
-- Mengenal Apa Itu Saham Blue Chip dan Contohnya Halaman 2 - Kompas.com
-Apa Itu Indeks LQ45 dan KOMPAS100 Halaman all - Kompas.com
-- Rekomendasi Saham Blue Chip untuk Investor Pemula, Lirik TLKM Hingga ASII  - Market Bisnis.com
-- Pemula di Dunia Saham? Berikut Rekomendasi Saham Blue Chip 2021 (superyou.co.id)
-- Benarkah Saham Blue Chip Cocok Untuk Investor Pemula?? Yuk Kita Pelajari (finance.my.id)
-- Tertarik Saham Blue Chip? Yuk, Cek Harga 1 Lot Sahamnya! - Ajaib
-- Mengenal Saham Blue Chip dan 3 Keuntungan Bisa Diraup - Bisnis Tempo.co
 
-
-
+* Mengenal Apa Itu Saham Blue Chip dan Contohnya Halaman 2 - Kompas.com
+  Apa Itu Indeks LQ45 dan KOMPAS100 Halaman all - Kompas.com
+* Rekomendasi Saham Blue Chip untuk Investor Pemula, Lirik TLKM Hingga ASII  - Market Bisnis.com
+* Pemula di Dunia Saham? Berikut Rekomendasi Saham Blue Chip 2021 (superyou.co.id)
+* Benarkah Saham Blue Chip Cocok Untuk Investor Pemula?? Yuk Kita Pelajari (finance.my.id)
+* Tertarik Saham Blue Chip? Yuk, Cek Harga 1 Lot Sahamnya! - Ajaib
+* Mengenal Saham Blue Chip dan 3 Keuntungan Bisa Diraup - Bisnis Tempo.co
