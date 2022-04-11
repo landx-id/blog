@@ -1,32 +1,32 @@
-+++
-author = "Abdul Wahhab"
-category = ["bisnis menguntungkan", "keuntungan investasi", "bisnis jangka panjang"]
-date = 2021-08-30T13:56:00Z
-metaDescription = "Mau memulai bisnis menguntungkan? Berikut 10+ rekomendasi bisnis menguntungkan dengan potensi keuntungan jangka panjang yang menjanjikan. "
-draft = false
-slug = "10-bisnis-menguntungkan-jangka-panjang-yang-cocok-untuk-pemula"
-tag = ["bisnis menguntungkan", "keuntungan investasi", "bisnis jangka panjang"]
-title = "10+ Bisnis Menguntungkan Jangka Panjang yang Cocok untuk Pemula"
-
-+++
-
-
+---
+draft: false
+author: Abdul Wahhab
+slug: 10-bisnis-menguntungkan-jangka-panjang-yang-cocok-untuk-pemula
+title: 10+ Bisnis Menguntungkan Jangka Panjang yang Cocok untuk Pemula
+metaTitle: 10+ Bisnis Menguntungkan Jangka Panjang yang Cocok untuk Pemula
+metaDescription: "Mau memulai bisnis menguntungkan? Berikut 10+ rekomendasi
+  bisnis menguntungkan dengan potensi keuntungan jangka panjang yang
+  menjanjikan. "
+intro: Yuk simak ide bisnis jangka panjang yang bisa jadi usaha menguntungkan
+  untuk kamu.
+date: 2021-08-30T13:56:00.000Z
+tag:
+  - bisnis menguntungkan
+  - keuntungan investasi
+  - bisnis jangka panjang
+category:
+  - Bisnis
+  - Investasi
+featuredImage:
+  src: https://images.unsplash.com/photo-1556761175-5973dc0f32e7?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1032&q=80
+  alt: Usaha Modal Kecil yang Bisa Jadi Ide Bisnis Kamu
+  title: Pilihan Usaha Modal Kecil untuk Kamu
+---
 Membangun bisnis yang menguntungkan dalam jangka panjang tentu saja impian semua orang saat ingin membangun suatu bisnis. Akan tetapi, hal ini tentu saja bukanlah hal yang
 
 mudah apalagi melihat persaingan pasar yang semakin ketat. Oleh sebab itu, agar bisnis menguntungkan anda perlu menyusun strategi jitu yang membuat bisnis yang anda miliki dapat bersaing dengan kompetitor.
 
----
-
-## Table of Content
-
-* **Rekomendasi Bisnis Menguntungkan**
-
-[1. Bisnis Tanpa Modal dengan Sistem Dropship](#1-bisnis-tanpa-modal-dengan-sistem-dropship)[2. Usaha Perikanan](#2-usaha-perikanan)[3. Bisnis Makanan Sehat](#3-bisnis-makanan-sehat)[4. Bisnis Custom Gift](#4-bisnis-custom-gift)[5. Memulai Bisnis Fashion](#5-memulai-bisnis-fashion)[6. Laundry Kiloan](#6-laundry-kiloan)[7. Bisnis Kosmetik](#7-bisnis-kosmetik)[8. Bisnis Properti](#8-bisnis-properti)[9. Usaha Burger](#9-usaha-burger)[10. Usaha Cuci Mobil](#10-usaha-cuci-mobil)
-
-* **[Menyusun Strategi agar Bisnis Menguntungkan](#menyusun-strategi-agar-bisnis-menguntungkan)**
-* **[Risiko dalam Bisnis](#risiko-dalam-bisnis)**
-
----
+- - -
 
 Karena itu, yuk simak rekomendasi bisnis menguntungkan modal kecil yang sangat cocok untuk pemula.
 
@@ -50,7 +50,7 @@ Dalam menentukan ikan apa yang akan anda budidayakan, anda harus melihat bagaima
 
 [Bisnis F&B](https://landx.id/) merupakan salah satu bisnis yang berkembang cukup pesat dan bertahan di masa pandemi.
 
-Kondisi pandemi membuat trend bisnis F&B pun berubah sehingga muncul model bisnis F&B dengan konsep _cloud kitchen_ yang semakin populer dalam beberapa waktu belakangan.
+Kondisi pandemi membuat trend bisnis F&B pun berubah sehingga muncul model bisnis F&B dengan konsep *cloud kitchen* yang semakin populer dalam beberapa waktu belakangan.
 
 Selain model bisnis, produk F&B pun kini kian beragam mengikuti perkembangan pasar dan kebutuhan dari masyarakat.
 
@@ -62,7 +62,7 @@ Kesempatan ini bisa anda manfaatkan untuk meraup keuntungan dengan membuka bisni
 
 Saat memberikan hadiah, banyak orang ingin memberikan sesuatu yang unik sehingga penerima dapat terus mengingat hadiah tersebut. Oleh sebab itu, kini banyak bermunculan jasa custom gift yang membantu konsumen menciptakan hadiah unik untuk orang tersayang mereka.
 
-Apabila anda memiliki kemampuan untuk merancang _gift box_ yang unik dan menarik maka anda bisa mulai membangun bisnis ini. Bisnis ini sangat menjanjikan karena saat ini semakin banyak momen yang mendorong orang untuk saling mengirim hadiah seperti ulang tahun, kelulusan, atau momen menyemangati seseorang saat sedang isolasi mandiri.
+Apabila anda memiliki kemampuan untuk merancang *gift box* yang unik dan menarik maka anda bisa mulai membangun bisnis ini. Bisnis ini sangat menjanjikan karena saat ini semakin banyak momen yang mendorong orang untuk saling mengirim hadiah seperti ulang tahun, kelulusan, atau momen menyemangati seseorang saat sedang isolasi mandiri.
 
 ### **5. Memulai Bisnis Fashion**
 
@@ -88,7 +88,7 @@ Kosmetik dan skincare merupakan salah satu bisnis yang berkembang pesat selama m
 
 Oleh sebab itu, bisnis ini memiliki keuntungan yang menjanjikan jika anda mulai saat ini. Anda bisa mulai dengan menjadi dropshipper atau reseller dari berbagai brand kosmetik dan skincare lokal yang saat ini sedang sangat berkembang di Indonesia.
 
-Selain itu, saat ini pemasaran produk menjadi lebih mudah karena adanya _e-commerce_ yang mempermudah anda dalam proses transaksi dan pemasaran bisnis.
+Selain itu, saat ini pemasaran produk menjadi lebih mudah karena adanya *e-commerce* yang mempermudah anda dalam proses transaksi dan pemasaran bisnis.
 
 **[8. Bisnis Properti](https://landx.id/project/index.html)**
 
@@ -118,7 +118,7 @@ Salah satu cara menyusun strategi yang bisa anda terapkan adalah dengan analisis
 
 ### **1. Strength**
 
-Komponen pertama adalah _strength_ atau kekuatan, komponen ini merupakan faktor internal yaitu kekuatan yang dimiliki oleh bisnis yang akan anda bangun. Anda harus membuat daftar kelebihan apa saja yang bisnis anda miliki sehingga bisa anda gunakan untuk memberikan anda keuntungan yang lebih maksimal. Hal ini bisa dari sisi produk, lokasi, atau sumber daya yang anda miliki.
+Komponen pertama adalah *strength* atau kekuatan, komponen ini merupakan faktor internal yaitu kekuatan yang dimiliki oleh bisnis yang akan anda bangun. Anda harus membuat daftar kelebihan apa saja yang bisnis anda miliki sehingga bisa anda gunakan untuk memberikan anda keuntungan yang lebih maksimal. Hal ini bisa dari sisi produk, lokasi, atau sumber daya yang anda miliki.
 
 ### **2. Weakness**
 
@@ -130,7 +130,7 @@ Opportunity merupakan faktor eksternal yang perlu anda analisis untuk menciptaka
 
 ### **4. Threat**
 
-Terakhir, _threat_ merupakan ancaman yang muncul dari luar seperti kompetitor yang harus anda waspadai saat menjalankan suatu bisnis. Untuk itu anda harus menyusun strategi bagaimana agar bisnis anda tidak ketinggalan dan bisa lebih unggul dibandingkan kompetitor.
+Terakhir, *threat* merupakan ancaman yang muncul dari luar seperti kompetitor yang harus anda waspadai saat menjalankan suatu bisnis. Untuk itu anda harus menyusun strategi bagaimana agar bisnis anda tidak ketinggalan dan bisa lebih unggul dibandingkan kompetitor.
 
 ## **Risiko dalam Bisnis**
 
@@ -140,14 +140,17 @@ Apabila anda belum sanggup untuk menanggung risiko ini, ada cara yang lebih muda
 
 Karena itu, tunggu apalagi yuk…
 
-[**Yuk Pilih Bisnis Terbaik untuk Investasi Jangka Panjang Anda Bersama LandX**](https://landx.id/project/index.html)
+**[Yuk Pilih Bisnis Terbaik untuk Investasi Jangka Panjang Anda Bersama LandX](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)**
 
-[**Biar Terus Update Berbagai Info Terbaru Seputar Bisnis, Yuk Follow Instagram Kami di @landx.id**](https://instagram.com/landx.id?utm_medium=copy_link)
+**[Yuk Temukan Bisnis Menjanjikan dengan Keuntungan Terbaik di LandX](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)**
 
-#LandX.id#landx.id#landx  #InvestasiBisnis#EquityCrowdfunding#InvestasiMenguntungkan#Urundana#BisnisPatungan#InvestasiUsaha
+[![miliki bisnis modal kecil cuma dengan 1 jutaan dapat 4 cabang ](https://accountgram-production.sfo2.cdn.digitaloceanspaces.com/landx_ghost/2021/11/jadi-owner-bisnis-hanya-1-jutaan-dengan-cuan-yang-sangat-menjanjikan.png)](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)
+
+**[Biar Terus Update Berbagai Info Terbaru Seputar Bisnis, Yuk Follow Instagram Kami di @landx.id](https://instagram.com/landx.id?utm_medium=copy_link)**
+
+\#LandX.id#landx.id#landx  #InvestasiBisnis#EquityCrowdfunding#InvestasiMenguntungkan#Urundana#BisnisPatungan#InvestasiUsaha
 
 **Baca Juga:**
 
 * [Mau Mulai Usaha? Berikut Rekomendasi Usaha yang Menjanjikan dengan Modal Kecil yang Bisa Dicoba](https://landx.id/blog/usaha-yang-menjanjikan-dengan-modal-kecil/)
 * [Tips Sukses Membangun Bisnis F&B yang Sukses dan Menguntungkan](https://landx.id/blog/memulai-bisnis-f-b/)
-
