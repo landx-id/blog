@@ -28,7 +28,7 @@ image: https://images.unsplash.com/photo-1594979194853-f7dcd77a0a1b?crop=entropy
 category:
   - Investasi
 ---
-
+## **Penipuan Telegram Mengatasnamakan LandX**
 
 > **“LandX saat ini tidak memiliki grup telegram untuk investasi, media sosial resmi LandX bisa anda lihat melalui halaman utama [LandX](https://landx.id/)”**
 
@@ -36,9 +36,10 @@ Dalam beberapa waktu belakangan muncul beberapa grup Telegram yang mengaku pihak
 
 * **Situs Resmi**    : https://landx.id/
 * **Contact**  : 
-    - **Telepon**    : (+62) 21 2245 5061 
-    - **WhatsApp**   : (+62) 813 8186 2878 
-    - **Email**      : hello@landx.id
+
+  * **Telepon**    : (+62) 21 2245 5061 
+  * **WhatsApp**   : (+62) 813 8186 2878 
+  * **Email**      : hello@landx.id
 * **Instagram**      : @landx.id
 * **Twitter**        : @LandX_id
 * **YouTube**        : LandX ID
@@ -57,26 +58,26 @@ Hal lain adalah analisis produk yang ditawarkan karena pada dasarnya investasi m
 
 Demikian informasi ini disampaikan kepada seluruh calon investor agar terhindar dari berbagai jenis penipuan yang mengatasnamakan **[LandX](https://landx.id/).**  
 
-[**Yuk Patungan Bisnis Bareng LandX untuk Passive Income Jangka Panjang Anda**](https://landx.id/project/)
+**[Yuk Temukan Bisnis Menjanjikan dengan Keuntungan Terbaik di LandX](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)**
 
-[![Bagaimana? Kamu lebih suka bisnis dengan buyback guarantee atau yang bisa disimpan dalam jangka panjang? Apapun pilihan kamu.. Yuk Patungan  dengan Keuntungan Menjanjikan Bareng LandX](https://accountgram-production.sfo2.cdn.digitaloceanspaces.com/landx_ghost/2021/10/Equity-Crowdfunding-di-Indonesia-1--3.png)](http://landx.id/project/)
+[![miliki bisnis modal kecil cuma dengan 1 jutaan dapat 4 cabang ](https://accountgram-production.sfo2.cdn.digitaloceanspaces.com/landx_ghost/2021/11/jadi-owner-bisnis-hanya-1-jutaan-dengan-cuan-yang-sangat-menjanjikan.png)](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)
 
-[**Jangan Lupa Follow Instagram @landx.id Untuk Berbagai Tips Investasi Menguntungkan Lainnya**](https://www.instagram.com/landx.id/?utm_medium=copy_link)
+**[Jangan Lupa Follow Instagram @landx.id Untuk Berbagai Tips Investasi Menguntungkan Lainnya](https://www.instagram.com/landx.id/?utm_medium=copy_link)**
 
----
+- - -
 
-* **Situs Resmi** : [https://landx.id/](https://landx.id/)
+* **Situs Resmi** : <https://landx.id/>
 * **Contact** :
 * **Telepon** : (+62) 21 2245 5061
 * **WhatsApp** : (+62) 813 8186 2878
-* **Email** : [hello@landx.id]
+* **Email** : \[hello@landx.id]
 * **Instagram** : @landx.id
 * **Twitter** : @LandX_id
 * **YouTube** : LandX ID
 * **LinkedIn** : LandX
 * **Alamat** : Italian Walk C.15-16, Mall of Indonesia, Jl. Yos Sudarso, RT.18,RT.18/RW.8, Kelapa Gading Barat, Kelapa Gading, Kota Jakarta Utara,  Jakarta 14240
 
----
+- - -
 
 **Baca Juga:**
 
@@ -85,7 +86,6 @@ Demikian informasi ini disampaikan kepada seluruh calon investor agar terhindar 
 * [Mau Memulai Bisnis? Simak Cara Membangun Bisnis Menguntungkan untuk Pemula](https://landx.id/blog/mau-memulai-bisnis-simak-cara-membangun-bisnis-menguntungkan-untuk-pemula/)
 * [Keuntungan Jangka Panjang Menjanjikan dari Usaha Perikanan di Indonesia](https://landx.id/blog/bisnis-perikanan-tangkap-di-indonesia/)
 
----
+- - -
 
-**#YukPatunganBisnis    #LandX.id    #landx.id     #InvestasiBisnis    #EquityCrowdfunding    #InvestasiMenguntungkan     #Urundana    #BisnisPatungan    #InvestasiUsaha**
-
+**\#YukPatunganBisnis    #LandX.id    #landx.id     #InvestasiBisnis    #EquityCrowdfunding    #InvestasiMenguntungkan     #Urundana    #BisnisPatungan    #InvestasiUsaha**
