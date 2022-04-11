@@ -1,14 +1,25 @@
-+++
-author = "Abdul Wahhab"
-category = ["investasi", "tips investasi"]
-date = 2021-08-24T06:00:39Z
-metaDescription = "Hampir Mengalami Depresi, Indonesia Resmi Keluar dari Resesi dengan Pertumbuhan Ekonomi 7,07% pada Q2-2021. Lalu bagaimana dengan kuartal III?\n"
-draft = false
-slug = "indonesia-sukses-lepas-dari-jurang-depresi-yakin"
-tag = ["investasi", "tips investasi"]
-title = "Indonesia Sukses Lepas dari Jurang Depresi, Yakin?"
-
-+++
+---
+draft: false
+author: Abdul Wahhab
+slug: indonesia-sukses-lepas-dari-jurang-depresi-yakin
+title: Resesi dan Depresi Ekonomi Indonesia di Tengah Pandemi
+metaTitle: Resesi dan Depresi Ekonomi Indonesia di Tengah Pandemi
+metaDescription: Memahami resesi dan depresi ekonomi yang dialami oleh Indonesia
+  karena efek pandemi.
+intro: Simak bagaimana resesi dan depresi ekonomi terjadi di Indonesia akibat
+  pandemi covid-19
+date: 2021-08-24T06:00:39.000Z
+tag:
+  - investasi
+  - tips investasi
+category:
+  - Investasi
+  - Keuangan
+featuredImage:
+  src: https://images.unsplash.com/photo-1635840420670-5470266ffa39?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=869&q=80
+  alt: "Yuk simak beda depresi dan resesi dalam kondisi ekonomi "
+  title: Memahami perbedaan depresi dan resesi dalam perkembangan ekonomi
+---
 
 
 Hampir Mengalami Depresi, Indonesia Resmi Keluar dari Resesi dengan Pertumbuhan Ekonomi 7,07% pada Q2-2021
