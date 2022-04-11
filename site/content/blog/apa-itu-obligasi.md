@@ -108,7 +108,7 @@ Obligasi menjadi salah satu instrumen investasi yang banyak diminati oleh pemula
 
 **Kedua,** obligasi merupakan instrumen yang likuid karena investor dapat menjual obligasi mereka di pasar sekunder dan bisa mendapatkan capital gain walaupun obligasi yang kita pegang belum jatuh tempo. 
 
-
+**Ketiga,** return berupa bunga yang ditawarkan cenderung cukup tinggi jika dibandingkan dengan bunga deposito yang ditawarkan di bank sehingga intrumen obligasi menjadi salah satu yang menarik banyak orang.
 
 ## **Risiko Obligasi**
 
