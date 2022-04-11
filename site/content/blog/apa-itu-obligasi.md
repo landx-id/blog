@@ -100,6 +100,16 @@ Apabila anda sudah paham berbagai jenis obligasi, selanjutnya mari kita bahas ba
 
 Jenis obligasi yang tidak memiliki masa jatuh adalah obligasi abadi yang diterbitkan oleh pemerintah *Inggris* atau disebut Undated Treasuries. Jenis ini sendiri tidak tersedia di Indonesia jadi kamu bisa memilih obligasi dari jenis lain.
 
+## Keuntungan Obligasi
+
+Obligasi menjadi salah satu instrumen investasi yang banyak diminati oleh pemula karena dinilai aman dan bisa memberikan keuntungan yang beragam baik dalam jangka panjang maupun pendek. 
+
+**Pertama,** return obligasi berupa kupon sehingga keuntungan yang diberikan berupa bunga cenderung stabil selama periode obligasi. Akan tetapi hal ini tentu saja kembali lagi ke jenis obligasi yang digunakan saat berinvestasi tersebut. 
+
+**Kedua,** obligasi merupakan instrumen yang likuid karena investor dapat menjual obligasi mereka di pasar sekunder dan bisa mendapatkan capital gain walaupun obligasi yang kita pegang belum jatuh tempo. 
+
+
+
 ## **Risiko Obligasi**
 
 Setiap investasi yang anda lakukan pasti akan diikuti oleh risiko baik itu besar maupun kecil. Selain keuntungan, obligasi juga memiliki beberapa risiko yang harus diperhatikan oleh investor saat memutuskan untuk menanamkan modal ke dalam sebuah obligasi, berikut beberapa risiko dari obligasi:
