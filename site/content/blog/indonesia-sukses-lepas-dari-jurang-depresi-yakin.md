@@ -20,11 +20,9 @@ featuredImage:
   alt: "Yuk simak beda depresi dan resesi dalam kondisi ekonomi "
   title: Memahami perbedaan depresi dan resesi dalam perkembangan ekonomi
 ---
-
-
 Hampir Mengalami Depresi, Indonesia Resmi Keluar dari Resesi dengan Pertumbuhan Ekonomi 7,07% pada Q2-2021
 
----
+- - -
 
 Selama ini kita pasti sering mendengar bahwa ekonomi Indonesia mengalami resesi karena efek pandemi. Tapi tahukah anda bahwa selain resesi, ekonomi Indonesia juga sempat terancam mengalami depresi?
 
@@ -44,5 +42,8 @@ Selain itu, kalau kita perhatikan mobilitas masyarakat pada periode April-Juni 2
 
 **Lalu, Bagaimana dengan Ekonomi Kuartal III-2021?**
 
-[Mau Baca Lebih Lanjut? Yuk Daftar dan Registrasi Dulu Akun LandX Anda untuk Berbagai Info Terupdate Lainnya....](https://landxapp.page.link)
+**[Yuk Temukan Bisnis Menjanjikan dengan Keuntungan Terbaik di LandX](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)**
 
+[![miliki bisnis modal kecil cuma dengan 1 jutaan dapat 4 cabang ](https://accountgram-production.sfo2.cdn.digitaloceanspaces.com/landx_ghost/2021/11/jadi-owner-bisnis-hanya-1-jutaan-dengan-cuan-yang-sangat-menjanjikan.png)](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)
+
+[Mau Baca Lebih Lanjut? Yuk Daftar dan Registrasi Dulu Akun LandX Anda untuk Berbagai Info Terupdate Lainnya....](https://landxapp.page.link)
