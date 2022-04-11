@@ -47,7 +47,7 @@ Pasar modal dapat diartikan sebagai pasar yang mempertemukan antara pihak yang m
 
 Pasar modal mengeluarkan berbagai produk investasi seperti obligasi atau surat utang, saham (equity), reksa dana dan beberapa instrumen lainnya. Investasi di pasar modal melibatkan beberapa pihak lain seperti *underwriter,* agen penjualan, dan pialang.
 
-## Mengenal berbagai Pihak yang Terlibat Dalam Pasar Modal
+## Mengenal berbagai Pihak yang Terlibat di Pasar Modal
 
 Agar anda lebih paham terkait pasar modal anda harus paham siapa saja pihak yang terlibat dalam pasar modal, karena itu mari kita bahas lebih lanjut:
 
@@ -61,7 +61,7 @@ Agar anda lebih paham terkait pasar modal anda harus paham siapa saja pihak yang
 
 **5.Pialang**, pialang adalah pihak yang akan menjadi perantara yang mempertemukan antara investor dan emiten yang membutuhkan dana.
 
-## Instrumen Investasi Pasar Modal
+## Produk-produk Pasar Modal untuk Investasi Anda
 
 Setelah anda paham apa yang dimaksud pasar modal sekarang anda perlu paham produk investasi apa saja yang ditawarkan oleh pasar modal.
 
@@ -77,7 +77,7 @@ Obligasi dapat dikategorikan sebagai surat berharga berupa surat utang yang dapa
 **4. Derivatif**
 Investasi ini merupakan jenis yang kurang familiar di kalangan masyarakat. Derivatif adalah surat berharga turunan dari saham atau obligasi. Pada dasarnya derivatif adalah kontrak perjanjian antara dua orang atau lebih terkait dengan penjualan dan pembelian aset atau komoditas tertentu. Kini instrumen ini sudah tersedia di BEI sebagai produk keuangan dalam berbagai varian seperti saham, obligasi, mata uang, indeks saham dan berbagai instrumen lainnya.
 
-## Keunggulan Berinvestasi di Pasar Modal
+## Keunggulan Berinvestasi ke Produk Pasar Modal
 
 * **Kemudahan Pencairan Dana** 
   Dana yang anda masukkan ke dalam pasar modal dapat dengan cepat anda cairkan dengan menjual aset yang anda miliki di pasar modal. Hal ini akan memudahkan anda mencairkan dana anda saat anda membutuhkan. 
@@ -88,7 +88,7 @@ Investasi ini merupakan jenis yang kurang familiar di kalangan masyarakat. Deriv
 * **Nilai Investasi yang Terus berkembang**
   Dengan investasi ke dalam pasar modal, dana yang anda miliki berpotensi untuk mengalami kenaikan nilai beberapa kali lipat seiring berjalanya waktu. Hal ini merupakan keunggulan investasi dibandingkan menabung karena potensi kenaikan modal yang anda dimiliki dalam jangka panjang.
 
-## Mulai Berinvestasi
+## Diversifikasi dalam Berinvestasi
 
 Setelah anda paham pasar modal anda harus mulai mengatur bagaimana konsisten meningkatkan portofolio yang anda miliki. Akan tetapi, kalau anda masih ragu terdapat beberapa pilihan instrumen investasi lain seperti [equity crowdfunding](https://landx.id/) yang konsepnya hampir sama dengan pasar modal dan bisa anda mulai dengan modal kecil.
 
