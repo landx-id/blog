@@ -1,26 +1,29 @@
-+++
-author = "Abdul Wahhab"
-category = ["bisnis di masa pandemi", "memulai investasi menguntungkan", "Memulai usaha", "investasi bisnis"]
-date = 2021-07-08T06:03:41Z
-metaDescription = "Yuk cek berbagai pilihan bisnis yang menguntungkan untuk pemula yang bisa anda coba di tahun 2021|Strategi membangun bisnis yang menguntungkan"
-draft = false
-slug = "7-bisnis-yang-menguntungkan-untuk-pemula"
-tag = ["bisnis di masa pandemi", "memulai investasi menguntungkan", "Memulai usaha", "investasi bisnis"]
-title = "Bisnis Menguntungkan: Berikut 7 Bisnis Paling Menguntungkan untuk Pemula dengan Modal Kecil"
-
-+++
-
-
-**Berikut 7 Bisnis Paling Menguntungkan untuk Pemula dengan Modal Kecil**
+---
+draft: false
+author: Abdul Wahhab
+slug: 7-bisnis-yang-menguntungkan-untuk-pemula
+title: "Bisnis Menguntungkan: 7 Bisnis Menguntungkan Modal Kecil untuk Anda"
+metaTitle: "Bisnis Menguntungkan: 7 Bisnis Menguntungkan Modal Kecil untuk Anda"
+metaDescription: Rekomendasi bisnis menguntungkan cuma dengan modal 1 juta
+intro: Yuk simak rekomendasi ide bisnis modal kecil yang bisa kamu coba
+date: 2021-07-08T06:03:41.000Z
+tag:
+  - bisnis di masa pandemi
+  - memulai investasi menguntungkan
+  - Memulai usaha
+  - investasi bisnis
+category:
+  - Bisnis
+featuredImage:
+  src: https://images.unsplash.com/photo-1486312338219-ce68d2c6f44d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1172&q=80
+  alt: Ide bisnis modal kecil yang bisa memberikan anda keuntungan jangka panjang
+  title: Ide bisnis modal kecil yang bisa memberikan anda keuntungan jangka panjang
+---
+## **Berikut 7 Bisnis Paling Menguntungkan untuk Pemula dengan Modal Kecil**
 
 Membangun bisnis yang menguntungkan dalam jangka panjang tentu saja impian semua orang saat ingin membangun suatu bisnis. Akan tetapi, hal ini tentu saja bukanlah hal yang mudah apalagi melihat persaingan pasar yang semakin ketat. Oleh sebab itu, agar bisnis menguntungkan anda perlu menyusun strategi jitu yang membuat bisnis yang anda miliki dapat bersaing dengan kompetitor.
 
 Namun, sebelum membahas bagaimana menyusun strategi bisnis yang menguntungkan anda harus menentukan dulu jenis bisnis yang ingin anda buka. Apabila anda masih bingung dan belum memiliki ide, berikut 7 rekomendasi bisnis menguntungkan yang bisa anda coba.
-
-## Table of Content
-
-* [**Rekomendasi Bisnis yang Menguntungkan**](#rekomendasi-bisnis-yang-menguntungkan)1. [Bisnis Tanpa Modal dengan Sistem Dropship](#1-bisnis-tanpa-modal-dengan-sistem-dropship)[2. Budidaya Ikan Hias](#2-budidaya-ikan-hias)3. [Bisnis Makanan Sehat](#3-bisnis-makanan-sehat)[4. Bisnis Custom Gift](#4-bisnis-custom-gift)[5. Memulai Bisnis Fashion](#5-memulai-bisnis-fashion)[6. Bisnis Car Wash](#6-bisnis-car-wash)[7. Laundry Kiloan](#7-laundry-kiloan)
-* [**Menyusun Strategi agar Bisnis Menguntungkan**](#menyusun-strategi-agar-bisnis-menguntungkan)[1. Strength](#1-strength)[2. Weakness](#2-weakness)[3. Opportunity](#3-opportunity)[4. Threat](#4-threat)
 
 ## Rekomendasi Bisnis yang Menguntungkan
 
@@ -30,7 +33,7 @@ Salah satu bisnis menguntungkan dengan modal dan risiko yang cenderung kecil ada
 
 Supplier nantinya akan mengemas dan mengirim produk yang telah anda pesan kepada konsumen anda. Oleh sebab itu, apabila ingin memulai bisnis dengan sistem ini anda perlu mencari supplier terpercaya sehingga bisnis yang anda lakukan dapat berjalan lancar.
 
-Menjalankan bisnis ini kini semakin mudah karena banyak bisnis membuka kemitraan dengan sistem ini dan beberapa _e-commerce_ pun kini menyediakan fitur yang mempermudahan dropshipper dalam menjalankan bisnis.
+Menjalankan bisnis ini kini semakin mudah karena banyak bisnis membuka kemitraan dengan sistem ini dan beberapa *e-commerce* pun kini menyediakan fitur yang mempermudahan dropshipper dalam menjalankan bisnis.
 
 Cara ini bisa anda coba apabila anda ingin memulai bisnis tapi masih belum memiliki modal yang cukup. Agar memberikan keuntungan yang maksimal, anda perlu melakukan analisis mendalam untuk menemukan supplier dengan harga dan pelayanan terbaik sehingga anda bisa mendapatkan keuntungan yang maksimal.
 
@@ -42,7 +45,7 @@ Tingginya permintaan ini bisa anda jadikan kesempatan membangun bisnis budidaya 
 
 ### 3. Bisnis Makanan Sehat
 
-[Bisnis F&B](https://landx.id/) merupakan salah satu bisnis yang berkembang cukup pesat dan bertahan di masa pandemi. Kondisi pandemi membuat trend bisnis F&B pun berubah sehingga muncul model bisnis F&B dengan konsep _cloud kitchen_ yang semakin populer dalam beberapa waktu belakangan.
+[Bisnis F&B](https://landx.id/) merupakan salah satu bisnis yang berkembang cukup pesat dan bertahan di masa pandemi. Kondisi pandemi membuat trend bisnis F&B pun berubah sehingga muncul model bisnis F&B dengan konsep *cloud kitchen* yang semakin populer dalam beberapa waktu belakangan.
 
 Selain model bisnis, produk F&B pun kini kian beragam mengikuti perkembangan pasar dan kebutuhan dari masyarakat. Makanan sehat merupakan salah satu jenis produk yang semakin diminati belakangan ini karena pandemi mendorong masyarakat untuk menjalankan hidup yang lebih sehat. Kesempatan ini bisa anda manfaatkan untuk meraup keuntungan dengan membuka bisnis yang menjual makanan sehat seperti salad, paket catering diet, atau berbagai cemilan rendah kalori.
 
@@ -50,7 +53,7 @@ Selain model bisnis, produk F&B pun kini kian beragam mengikuti perkembangan pas
 
 Saat memberikan hadiah, banyak orang ingin memberikan sesuatu yang unik sehingga penerima dapat terus mengingat hadiah tersebut. Oleh sebab itu, kini banyak bermunculan jasa custom gift yang membantu konsumen menciptakan hadiah unik untuk orang tersayang mereka.
 
-Apabila anda memiliki kemampuan untuk merancang _gift box_ yang unik dan menarik maka anda bisa mulai membangun bisnis ini. Bisnis ini sangat menjanjikan karena saat ini semakin banyak momen yang mendorong orang untuk saling mengirim hadiah seperti ulang tahun, kelulusan, atau momen menyemangati seseorang saat sedang isolasi mandiri.
+Apabila anda memiliki kemampuan untuk merancang *gift box* yang unik dan menarik maka anda bisa mulai membangun bisnis ini. Bisnis ini sangat menjanjikan karena saat ini semakin banyak momen yang mendorong orang untuk saling mengirim hadiah seperti ulang tahun, kelulusan, atau momen menyemangati seseorang saat sedang isolasi mandiri.
 
 ### 5. Memulai Bisnis Fashion
 
@@ -76,7 +79,7 @@ Salah satu cara menyusun strategi yang bisa anda terapkan adalah dengan analisis
 
 ### 1. Strength
 
-Komponen pertama adalah _strength_ atau kekuatan, komponen ini merupakan faktor internal yaitu kekuatan yang dimiliki oleh bisnis yang akan anda bangun. Anda harus membuat daftar kelebihan apa saja yang bisnis anda miliki sehingga bisa anda gunakan untuk memberikan anda keuntungan yang lebih maksimal. Hal ini bisa dari sisi produk, lokasi, atau sumber daya yang anda miliki.
+Komponen pertama adalah *strength* atau kekuatan, komponen ini merupakan faktor internal yaitu kekuatan yang dimiliki oleh bisnis yang akan anda bangun. Anda harus membuat daftar kelebihan apa saja yang bisnis anda miliki sehingga bisa anda gunakan untuk memberikan anda keuntungan yang lebih maksimal. Hal ini bisa dari sisi produk, lokasi, atau sumber daya yang anda miliki.
 
 ### 2. Weakness
 
@@ -88,24 +91,23 @@ Opportunity merupakan faktor eksternal yang perlu anda analisis untuk menciptaka
 
 ### 4. Threat
 
-Terakhir, _threat_ merupakan ancaman yang muncul dari luar seperti kompetitor yang harus anda waspadai saat menjalankan suatu bisnis. Untuk itu anda harus menyusun strategi bagaimana agar bisnis anda tidak ketinggalan dan bisa lebih unggul dibandingkan kompetitor.
+Terakhir, *threat* merupakan ancaman yang muncul dari luar seperti kompetitor yang harus anda waspadai saat menjalankan suatu bisnis. Untuk itu anda harus menyusun strategi bagaimana agar bisnis anda tidak ketinggalan dan bisa lebih unggul dibandingkan kompetitor.
 
 ## Risiko dalam Bisnis
 
 Dibalik potensi keuntungan yang besar, membangun bisnis juga memiliki risiko yang besar sehingga anda harus berhati-hati dalam membangun bisnis. Tingginya risiko kerugian ini juga disebabkan oleh masih kurangnya pengalaman anda sebagai pemula dalam mengelola bisnis. Oleh sebab itu, anda harus melakukan analisis dengan baik sebelum memulai suatu bisnis.
 
-Apabila anda belum sanggup untuk menanggung risiko ini, ada cara yang lebih mudah yaitu investasi bisnis dengan skema [**equity crowdfunding**](https://landx.id/). Sistem ini membuat risiko kerugian anda menjadi lebih kecil karena bisnis yang anda danai akan dikelola oleh pihak yang sudah berpengalaman. Selain itu, cara ini sangat cocok untuk pemula karena investasi ini bisa dimulai dengan modal kecil.
+Apabila anda belum sanggup untuk menanggung risiko ini, ada cara yang lebih mudah yaitu investasi bisnis dengan skema **[equity crowdfunding](https://landx.id/)**. Sistem ini membuat risiko kerugian anda menjadi lebih kecil karena bisnis yang anda danai akan dikelola oleh pihak yang sudah berpengalaman. Selain itu, cara ini sangat cocok untuk pemula karena investasi ini bisa dimulai dengan modal kecil.
 
 Karena itu, tunggu apalagi yuk…
 
-**[Yuk Pilih Bisnis Terbaik untuk Investasi Jangka Panjang Anda Bersama LandX](https://landx.id/project/index.html)**
+**[Yuk Pilih Bisnis Terbaik untuk Investasi Jangka Panjang Anda Bersama LandX](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)**
+
+[![miliki bisnis modal kecil cuma dengan 1 jutaan dapat 4 cabang ](https://accountgram-production.sfo2.cdn.digitaloceanspaces.com/landx_ghost/2021/11/jadi-owner-bisnis-hanya-1-jutaan-dengan-cuan-yang-sangat-menjanjikan.png)](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)
 
 **[Biar Terus Update Berbagai Info Terbaru Seputar Bisnis, Yuk Follow Instagram Kami di @landx.id](https://instagram.com/landx.id?utm_medium=copy_link)**
-
-#LandX.id#landx.id#landx  #InvestasiBisnis#EquityCrowdfunding#InvestasiMenguntungkan#Urundana#BisnisPatungan#InvestasiUsaha
 
 **Baca Juga:**
 
 * [Mau Mulai Usaha? Berikut Rekomendasi Usaha yang Menjanjikan dengan Modal Kecil yang Bisa Dicoba](https://landx.id/blog/usaha-yang-menjanjikan-dengan-modal-kecil/)
 * [Tips Sukses Membangun Bisnis F&B yang Sukses dan Menguntungkan](https://landx.id/blog/memulai-bisnis-f-b/)
-
