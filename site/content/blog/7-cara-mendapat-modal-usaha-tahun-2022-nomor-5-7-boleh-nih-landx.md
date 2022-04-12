@@ -2,14 +2,14 @@
 author: Vlora Riyandi
 title: 7 Cara Mendapat Modal Usaha Tahun 2022, Nomor 5&7 Boleh Nih! | LandX
 metaTitle: 7 Cara Mendapat Modal Usaha Tahun 2022, Nomor 5&7 Boleh Nih! | LandX
-metaDescription: Setelah memahami target market, langkah selanjutnya adalah
-  mendapatkan modal usaha. Berikut 7 cara mencari modal usaha di tahun 2022
+metaDescription: "Simak berbagai cara mendapatkan modal usaha dan cara mencari
+  modal usaha untuk pendanaan anda. "
 intro: Setelah memahami target market, langkah selanjutnya adalah mendapatkan
   modal usaha. Berikut 7 cara mencari modal usaha di tahun 2022
 date: 2022-04-11T10:02:11.233Z
 featuredImage:
   title: 7 Cara Mendapat Modal Usaha Tahun 2022 | LandX Crowdfunding
-  src: https://unsplash.com/photos/rxpThOwuVgE
+  src: https://images.unsplash.com/photo-1515606378517-3451a4fa2e12?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=928&q=80
   alt: cara mendapat modal usaha tahun 2022, crowdfunding, pinjaman modal usaha
 ---
 Untuk mulai berbisnis hal paling penting adalah mengerti pasar (market). Dengan mengerti kebutuhan market dan cara mengisi kebutuhan target market, maka Anda dapat menentukan strategi selanjutnya. 
@@ -20,7 +20,7 @@ Nah, [LandX](https://www.landx.id/) akan bantu berikan 7 opsi cara mendapatkan m
 
 ## 7 Cara Mendapat Modal Usaha Tahun 2022
 
-1. ### Dana Pribadi
+## 1. Dana Pribadi
 
 Cara mendapat modal usaha pertama adalah dari dana pribadi. Dan pribadi dapat berasal dari tabungan pribadi Anda, menjual atau menjamin aset berharga pribadi di lembaga Pegadaian.
 
@@ -30,7 +30,7 @@ Namun, Anda juga dapat mendaftar program kredit khusus pinjaman usaha dari Pegad
 
 Proses pengajuan pinjaman usaha Pegadaian dapat diproses dalam 3 hari hingga dicairkan. Anda dapat melakukan pelunasan dengan jangka waktu pilihan mulai 12 hingga 48 bulan sembari membayar sewa modal (bunga pinjaman) dan angsuran tetap setiap bulan.
 
-2. ### Rekan Bisnis
+### 2. Rekan Bisnis
 
 Jika mengandalkan tabungan pribadi terasa berat untuk dijadikan modal usaha, Anda dapat mencari rekan bisnis untuk membangun usaha bersama. Carilah rekan bisnis yang memiliki karakteristik visioner dan minat yang sama.
 
@@ -38,7 +38,7 @@ Penting sebelum resmi berjalan sebagai rekan bisnis bersama, Anda perlu menjelas
 
 Memiliki rekan bisnis banyak keuntungannya, salah satunya ialah memiliki teman diskusi untuk brainstorming memperkuat strategi bisnis yang dijalankan.
 
-3. ### Bank
+### 3. Bank
 
 Sumber pinjaman modal usaha selanjutnya adalah mengajukan pinjaman kepada bank. Bank menyediakan sistem Kredit Tanpa Agunan (KTA) bagi para pemilik bisnis. Setiap bank memiliki produk KTA dengan ketentuan dan syarat masing-masing.
 
@@ -51,7 +51,7 @@ KTA dapat diajukan dengan Anda sebagai nasabah bank tersebut. Kemudian, Anda har
 * Mengajukan pinjaman sesuai kebutuhan – bank memiliki standar sendiri untuk menentukan jumlah pinjaman yang boleh diajukan. Hal ini untuk mencegah risiko kegagalan bayar yang mungkin terjadi.
 * Tentukan tenor pinjaman – setelah dana pinjaman Anda berhasil disetujui, tentukan batas pelunasan pinjaman yang disepakati oleh Anda dan pihak bank.
 
-4. ### Pinjaman Modal Usaha dari Pemerintah (KUR)
+### 4. Pinjaman Modal Usaha dari Pemerintah (KUR)
 
 Terdapat beberapa bantuan pemodalan bisnis dan usaha dari pemerintah, salah satu yang banyak diberikan kepada pelaku usaha adalah melalui Kredit Usaha Rakyat (KUR). Pinjaman KUR tahun 2022 bisa didapatkan melalui Bank Rakyat Indonesia (BRI)
 
@@ -59,7 +59,7 @@ Pemerintah masih memberikan suku bunga yang sama seperti seperti tahu sebelumnya
 
 Manfaatkan KUR untuk pengembangan usaha Anda dengan akses lamar kur.bri.co.id dan buat akun. Cara daftar pinjaman KUR dapat dilakukan secara online dengan mengisi data yang diberikan BRI seperti profil nasabah, prodil usaha, unggah dokumen dan data pengajuan.
 
-5. ### Pinjaman dari E-commerce, Dompet Digital, dan P2P Fintech
+### 5. Pinjaman dari E-commerce, Dompet Digital, dan P2P Fintech
 
 Ternyata Anda juga dapat mengajukan pinjaman dari fitur yang disediakan oleh e-commerce dan dompet digital. 
 
@@ -80,7 +80,7 @@ Berbagai aplikasi finansial teknologi seperti peer-to-peer (P2P) lending berteba
 
 Hati-hati dalam memilih penyelenggaran pinjol, pastikan fintech P2P yang Anda pilih terdaftar di OJK. Anda dapat melakukan pengecekan perusahaan yang pinjaman online yang terdaftar di OJK melalui situs resmi.
 
-6. ### Investor: Investor Keluarga, Venture Capital, Angel Investor
+### 6. Investor: Investor Keluarga, Venture Capital, Angel Investor
 
 Mendapatkan pendanaan dari investor tidaklah mudah. Sebagai investor, mereka akan mementingkan penawaran angka return yang menarik dan menguntungkan. Untuk dapat menawarkan angka return yang realistis bagi bisnis Anda kepada investor maka penting untuk mengenalkan bisnis dalam sebuah proposal business plan.
 
@@ -90,7 +90,7 @@ Jika Anda memiliki ide bisnis yang dapat menciptakan perubahan pada keseharian m
 
 Untuk Anda yang ingin mengembangkan bisnis kecil, Anda dapat menjangkau orang terdekat seperti anggota keluarga atau sodara untuk digaet sebagai investor. 
 
-7. ### Crowdfunding: Equity dan Securities
+### 7. Crowdfunding: Equity dan Securities
 
 Crowdfunding adalah sistem mengumpulkan sejumlah dana untuk bisnis dari masyarakat secara online. Kegiatan penggalangan dana crowdfunding juga dikenal sebagai patungan bisnis dengan bentuk kepemilikan saham. Crowdfunding memiliki sifat layaknya gotong-royong.
 
@@ -101,17 +101,18 @@ Terdapat dua jenis sistem crowdfunding, walaupun dasarnya namun memiliki sedikit
 1. **Equity Crowdfunding** – Equity crowdfunding atau disingkat ECF adalah pendanaan pada bisnis kecil, UKM atau startup pemula. 
 2. **Securities Crowdfunding** – Securities crowdfunding adalah skema pendanaan yang dihimpun secara online dari sejumlah masyarakat untuk pengembangan bisnis. Mirip dengan equity crowdfunding, namun pada securities crowdfunding juga menyediakan produk seperti saham, obligasi, saham syariah, dan sukuk.
 
-**Keuntungan mendaftarkan bisnis pada pendanaan crowdfunding** adalah sebagai berikut:
+### **Keuntungan mendaftarkan bisnis pada pendanaan crowdfunding** adalah sebagai berikut:
 
-* **Pengajuan pendanaan secara online**\
-  Bisnis Anda akan dapat menyebarkan sejumlah bagian saham kepada publik untuk dijual secara online(listing). Mendapat pendanaan dari masyarakat yang melihat dan mereview potensi bisnis Anda.
-* **Proses mudah, cepat, dan aman karena diawasi OJK** \
-  Setiap penyelenggara crowdfunding harus terdaftar dan diawasi oleh OJK. Dikarenakan berkaitan dengan transaksi keuangan secara online.\
-  Pendanaan pun dibuka kepada publik dalam waktu yang cukup singkat yaitu sekitar 45 hari. Sebelum jangka waktu tersebut, bisnis Anda juga dapat meraih pendanaan lebih cepat jika para calon investor tertarik dengan bisnis Anda.\
-  Karena itu penting untuk memberikan penjelasan yang jelas namun strategis terhadap langkah perusahaan Anda saat pendanaan dibuka.
-* **Akses terbaru dalam dunia permodalan** \
-  Crowdfunding muncul layaknya industri baru khususnya di Indonesia. Namun, sistem crowdfunding sudah dikenal dan digunakan secara luas di luar negeri seperti Amerika. \
-  Jika mengajukan modal usaha kepada lembaga keuangan lainnya melalui proses dokumen yang panjang, dengan crowdfunding dapat dijalankan lebih efisien.
+**Pengajuan pendanaan secara online**\
+Bisnis Anda akan dapat menyebarkan sejumlah bagian saham kepada publik untuk dijual secara online(listing). Mendapat pendanaan dari masyarakat yang melihat dan mereview potensi bisnis Anda.
+
+**1. Proses mudah, cepat, dan aman karena diawasi OJK** \
+Setiap penyelenggara crowdfunding harus terdaftar dan diawasi oleh OJK. Dikarenakan berkaitan dengan transaksi keuangan secara online.
+
+Pendanaan pun dibuka kepada publik dalam waktu yang cukup singkat yaitu sekitar 45 hari. Sebelum jangka waktu tersebut, bisnis Anda juga dapat meraih pendanaan lebih cepat jika para calon investor tertarik dengan bisnis Anda.Karena itu penting untuk memberikan penjelasan yang jelas namun strategis terhadap langkah perusahaan Anda saat pendanaan dibuka.
+
+**2. Akses terbaru dalam dunia permodalan** \
+Crowdfunding muncul layaknya industri baru khususnya di Indonesia. Namun, sistem crowdfunding sudah dikenal dan digunakan secara luas di luar negeri seperti Amerika. Jika mengajukan modal usaha kepada lembaga keuangan lainnya melalui proses dokumen yang panjang, dengan crowdfunding dapat dijalankan lebih efisien.
 
 Itulah beberapa opsi bagi Anda pemilik bisnis untuk mendapatkan modal usaha. Membangun dan mengelola bisnis memiliki tantangan dan pencapaian yang luar biasa. Tidak mudah, namun tidak akan menyerah jika passion menguasai Anda.
 
@@ -125,10 +126,10 @@ Memiliki bisnis, berinvestasi dan mendapat keuntungan dividen sekarang bisa deng
 
 Karena itu,
 
-## [Yuk, download aplikasi LandX, verifikasi akun dan pilih bisnisnya sekarang!](https://www.landx.id/) 
+## [Yuk, download aplikasi LandX, verifikasi akun dan pilih bisnisnya sekarang!](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog) 
 
 \*kuota terbatas untuk setiap project bisnis
 
+**[Yuk Temukan Bisnis Menjanjikan dengan Keuntungan Terbaik di LandX](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)**
 
-
-<!--EndFragment-->
+[![miliki bisnis modal kecil cuma dengan 1 jutaan dapat 4 cabang ](https://accountgram-production.sfo2.cdn.digitaloceanspaces.com/landx_ghost/2021/11/jadi-owner-bisnis-hanya-1-jutaan-dengan-cuan-yang-sangat-menjanjikan.png)](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)
