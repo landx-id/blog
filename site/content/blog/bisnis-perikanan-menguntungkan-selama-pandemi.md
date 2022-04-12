@@ -1,28 +1,28 @@
-+++
-author = "Abdul Wahhab"
-category = ["bisnis investasi", "bisnis investasi online", "bisnis di masa pandemi"]
-date = 2021-08-23T09:23:20Z
-metaDescription = "Industri perikanan merupakan salah satu industri yang cenderung stabil bahkan semakin berkembang selama masa pandemi|Investasi ke membangun kapal cumi"
-draft = false
-slug = "bisnis-perikanan-menguntungkan-selama-pandemi"
-tag = ["bisnis investasi", "bisnis investasi online", "bisnis di masa pandemi"]
-title = "Bisnis Perikanan: Bisnis yang Sustain Puluhan Tahun Tanpa Kompetitor!"
-
-+++
-
-
+---
+draft: false
+author: Abdul Wahhab
+slug: bisnis-perikanan-menguntungkan-selama-pandemi
+title: "Bisnis Perikanan: Melihat Potensi Bisnis Perikanan di Indonesia"
+metaTitle: "Bisnis Perikanan: Melihat Potensi Bisnis Perikanan di Indonesia"
+metaDescription: Melihat potensi jangka panjang industri perikanan di Indonesia
+  dan cara jadi owner bisnis maritim modal 1 juta
+intro: Yuk cek bagaimana potensi jangka panjang bisnis perikanan di Indonesia...
+date: 2021-08-23T09:23:20.000Z
+tag:
+  - bisnis investasi
+  - bisnis investasi online
+  - bisnis di masa pandemi
+category:
+  - Bisnis
+  - Investasi
+featuredImage:
+  src: https://images.unsplash.com/photo-1574158712593-bf2649541508?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1034&q=80
+  alt: Yuk simak potensi jangka panjang bisnis perikanan di Indonesia
+  title: Melihat potensi jangka panjang bisnis perikanan di Indonesia
+---
 Industri perikanan merupakan salah satu industri yang cenderung stabil dan berkembang pesat, bahkan selama masa pandemi. Sebagai negara maritim, sektor ini menjadi salah satu penopang ekonomi di Indonesia.
 
----
-
-## Table of Content
-
-* **[Stabilnya Sektor Perikanan Selama Pandemi](#stabilnya-sektor-perikanan-selama-pandemi)**
-* **[Optimalisasi Industri Perikanan](#optimalisasi-industri-perikanan)**
-* **[Mendorong Pertumbuhan Sektor Perikanan](#mendorong-pertumbuhan-sektor-perikanan)**
-* **[Apa yang Bisa Kita Lakukan?](#apa-yang-bisa-kita-lakukan )**
-
----
+- - -
 
 ## Melihat Bagaimana Potensi Industri Perikanan Indonesia Selama Masa Pandemi
 
@@ -70,18 +70,19 @@ Apabila anda ikut patungan bisnis membangun suatu kapal ikan, maka selain mendap
 
 Bersama [**LandX**,](https://landx.id/) hanya dengan 1 jutaan anda sudah bisa lo ikut patungan membangun berbagai bisnis potensial untuk pergerakan ekonomi Indonesia. Karena itu…
 
-**[Yuk Investasi Sambil Membangun Ekonomi Indonesia Bareng LandX](https://landx.id/project/#/asm1)**
+**[Yuk Investasi Sambil Membangun Ekonomi Indonesia Bareng LandX](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)**
 
-[**Mau Berbagai Info Terbaru Seputar Investasi dan Bisnis? Yuk Follow Instagram Kami @landx.id**](https://www.instagram.com/landx.id/?utm_medium=copy_link)
+[![miliki bisnis modal kecil cuma dengan 1 jutaan dapat 4 cabang ](https://accountgram-production.sfo2.cdn.digitaloceanspaces.com/landx_ghost/2021/11/jadi-owner-bisnis-hanya-1-jutaan-dengan-cuan-yang-sangat-menjanjikan.png)](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)
 
----
+**[Mau Berbagai Info Terbaru Seputar Investasi dan Bisnis? Yuk Follow Instagram Kami @landx.id](https://www.instagram.com/landx.id/?utm_medium=copy_link)**
+
+- - -
 
 **Baca Juga:**
 
 * [Mau Jadi Investor? Simak Cara Mudah Menjadi Investor Hanya dengan Modal Kecil](https://landx.id/blog/cara-menjadi-investor/)
 * [Tips Penting dalam Menyusun Rencana Investasi Jangka Panjang Terbaik](https://landx.id/blog/investasi-jangka-panjang-adalah/)
 
----
+- - -
 
-**#LandX.id    #landx         #landx.id    #InvestasiBisnis  #SecuritiesCrowdfundin   #EquityCrowdfunding    #InvestasiMenguntungkan     #Urundana    #BisnisPatungan    #InvestasiUsaha**
-
+**\#LandX.id    #landx         #landx.id    #InvestasiBisnis  #SecuritiesCrowdfundin   #EquityCrowdfunding    #InvestasiMenguntungkan     #Urundana    #BisnisPatungan    #InvestasiUsaha**
