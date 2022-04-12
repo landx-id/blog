@@ -58,7 +58,7 @@ Perbaikan infrastruktur merupakan salah satu hal penting yang diperlukan agar se
 
 Kapal merupakan salah satu komponen utama yang memiliki peran penting dalam pertumbuhan industri ini. Peningkatan armada kapal penangkap ikan di berbagai titik potensial merupakan salah satu poin penting yang harus terus ditingkatkan agar sektor ini berkembang dengan lebih cepat lagi.
 
-Oleh sebab itu, peningkatan kuantitas dan kualitas dari kapal penangkap ikan merupakan bagian penting dari optimalisasi sektor perikanan di Indonesia. Hal ini karena Indonesia memiliki potensi hasil laut yang potensial namun masih belum dimanfaatkan secara optimal.
+Oleh sebab itu, peningkatan kuantitas dan kualitas dari kapal penangkap ikan merupakan bagian penting dari optimasi sektor perikanan di Indonesia. Hal ini karena Indonesia memiliki potensi hasil laut yang potensial namun masih belum dimanfaatkan secara optimal.
 
 ## Apa yang Bisa Kita Lakukan?
 
