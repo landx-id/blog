@@ -30,10 +30,6 @@ Walaupun banyak yang masih awam tentang hal ini dan menganggap investasi merupak
 
 Apabila anda masih ragu, yuk kita bahas berbagai keuntungan investasi.
 
-## Table of Content
-
-* **[Keuntungan Investasi dalam Jangka Panjang](#keuntungan-investasi-dalam-jangka-panjang)**[1. Mencegah Uang Anda Tergerus Inflasi](#1-mencegah-uang-anda-tergerus-inflasi)[2. Mengembangkan Uang yang Anda Miliki](#2-mengembangkan-uang-yang-anda-miliki)[3. Keajaiban Compounding Effect](#3-keajaiban-compounding-effect)[4. Membangun Kondisi Keuangan yang Lebih Baik](#4-membangun-kondisi-keuangan-yang-lebih-baik)[5. Menambah Passive Income](#5-menambah-passive-income)
-
 ## Keuntungan Investasi dalam Jangka Panjang
 
 ### 1. Mencegah Uang Anda Tergerus Inflasi
