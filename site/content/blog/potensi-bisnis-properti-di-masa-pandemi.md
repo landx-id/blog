@@ -1,16 +1,26 @@
-+++
-author = "Abdul Wahhab"
-category = ["bisnis properti", "bisnis di masa pandemi", "investasi jangka panjang", "crowdfunding properti"]
-date = 2021-08-03T08:26:24Z
-metaDescription = "Mau mulai bisnis properti di masa pandemi? Simak bisnis seperti apa yang tetap potensial dan menguntungkan walaupun di tengah pandemi"
-draft = false
-slug = "potensi-bisnis-properti-di-masa-pandemi"
-tag = ["bisnis properti", "bisnis di masa pandemi", "investasi jangka panjang", "crowdfunding properti"]
-title = "Bisnis Properti: Melihat Bagaimana Potensi Bisnis Properti Selama Masa Pandemi"
-
-+++
-
-
+---
+draft: false
+author: Abdul Wahhab
+slug: potensi-bisnis-properti-di-masa-pandemi
+title: "Bisnis Properti: Potensi Jangka Panjang Berbagai Bisnis Properti"
+metaTitle: "Bisnis Properti: Potensi Jangka Panjang Berbagai Bisnis Properti"
+metaDescription: Mau mulai bisnis properti di masa pandemi? Simak bisnis seperti
+  apa yang tetap potensial dan menguntungkan walaupun di tengah pandemi
+intro: Yuk cek berbagai bisnis properti yang bisa memberikan kamu keuntungan
+  jangka panjang
+date: 2021-08-03T08:26:24.000Z
+tag:
+  - bisnis properti
+  - bisnis di masa pandemi
+  - investasi jangka panjang
+  - crowdfunding properti
+category:
+  - Investasi
+featuredImage:
+  src: https://images.unsplash.com/photo-1542687226-54a9a41eeafd?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1074&q=80
+  alt: "Potensi jangka panjang bisnis dan investasi properti di Indonesia "
+  title: "Potensi jangka panjang bisnis dan investasi properti di Indonesia "
+---
 Berbicara terkait bisnis di masa pandemi, tentu kita tahu bahwa banyak sektor industri yang redup di karena kondisi saat ini. Akan tetapi, tidak semua sektor mengalami penurunan karena beberapa sektor industri malah semakin berkembang pada situasi seperti ini.
 
 Properti merupakan salah satu sektor bisnis yang dinilai stabil sehingga banyak investor tertarik untuk berinvestasi ke dalam sektor ini. Sebelum masa pandemi, bisnis properti menjadi salah satu sektor strategis yang banyak dilirik oleh para investor karena risiko yang dinilai rendah dan harga properti yang terus meningkat dari tahun ke tahun.
@@ -68,16 +78,17 @@ Selain itu, berinvestasi dengan sistem ini juga memperkecil risiko kerugian bisn
 
 [LandX](https://landx.id/) merupakan [platform equity crowdfunding](https://landx.id/) yang sudah berpengalaman menghimpun dana untuk membangun berbagai properti dengan keuntungan yang menjanjikan.
 
-[**LandX**](https://landx.id/) memberikan anda kesempatan untuk mulai investasi ke dalam berbagai properti potensial di sekitar anda.
+**[LandX](https://landx.id/)** memberikan anda kesempatan untuk mulai investasi ke dalam berbagai properti potensial di sekitar anda.
 
-[**Yuk Mulai Investasi Properti Modal Kecil Bersama LandX**](https://landx.id/)
+**[Yuk Temukan Bisnis Menjanjikan dengan Keuntungan Terbaik di LandX](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)**
 
-[**Jangan Lupa!!!! Follow Instagram Kami @landx.id untuk Berbagai Info Menarik Seputar Bisnis dan Investasi Lainnya**](https://instagram.com/landx.id?utm_medium=copy_link)
+[![miliki bisnis modal kecil cuma dengan 1 jutaan dapat 4 cabang ](https://accountgram-production.sfo2.cdn.digitaloceanspaces.com/landx_ghost/2021/11/jadi-owner-bisnis-hanya-1-jutaan-dengan-cuan-yang-sangat-menjanjikan.png)](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)
 
-**#LandX.id    #landx         #landx.id    #InvestasiBisnis #SecuritiesCrowdfundin   #EquityCrowdfunding    #InvestasiMenguntungkan    #Urundana    #BisnisPatungan    #InvestasiUsaha**
+**[Jangan Lupa!!!! Follow Instagram Kami @landx.id untuk Berbagai Info Menarik Seputar Bisnis dan Investasi Lainnya](https://instagram.com/landx.id?utm_medium=copy_link)**
+
+**\#LandX.id    #landx         #landx.id    #InvestasiBisnis #SecuritiesCrowdfundin   #EquityCrowdfunding    #InvestasiMenguntungkan    #Urundana    #BisnisPatungan    #InvestasiUsaha**
 
 **Baca Juga:**
 
 * [Cara Investasi ke Dalam Bisnis Properti: Bagaimana Cara Terbaik Memulai Investasi Properti dengan Modal Kecil.](https://landx.id/blog/cara-bisnis-properti-modal-kecil/)
 * [Bisnis di Masa Pandemi - Melihat Bagaimana Strategi Bisnis F&B Cloud Kitchen Bertahan di Masa Pandemi](https://landx.id/blog/bisnis-cloud-kitchen-di-masa-pandemi/)
-
