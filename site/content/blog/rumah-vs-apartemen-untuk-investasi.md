@@ -1,29 +1,34 @@
-+++
-author = "Abdul Wahhab"
-category = ["investasi rumah", "investasi apartemen", "rumah vs apartemen", "Properti investasi"]
-date = 2021-07-08T16:38:31Z
-metaDescription = "Bingung mau investasi beli rumah atau apartemen? Yuk simak berbabagi pertimbangan sebelum menentukan pilihan anda|Rumah Vs Apartemen"
-draft = false
-slug = "rumah-vs-apartemen-untuk-investasi"
-tag = ["investasi rumah", "investasi apartemen", "rumah vs apartemen", "Properti investasi"]
-title = "Rumah Vs Apartemen: Berbagai Pertimbangan Sebelum Memilih Rumah atau Apartemen untuk Investasi"
+---
+draft: false
+author: Abdul Wahhab
+slug: rumah-vs-apartemen-untuk-investasi
+title: "Rumah Vs Apartemen: Memilih Rumah atau Apartemen untuk Investasi"
+metaTitle: "Rumah Vs Apartemen: Memilih Rumah atau Apartemen untuk Investasi"
+metaDescription: "Rumah atau apartemen: memilih landed house atau apartemen
+  untuk hunian dan investasi anda"
+intro: Yuk simak pertimbangan penting saat memilih berinvestasi ke rumah atau
+  apartemen.
+date: 2021-07-08T16:38:31.000Z
+tag:
+  - investasi rumah
+  - investasi apartemen
+  - rumah vs apartemen
+  - Properti investasi
+category:
+  - Investasi
+featuredImage:
+  src: https://images.unsplash.com/photo-1619542402915-dcaf30e4e2a1?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=435&q=80
+  alt: Yuk simak pertimbangan penting apakah akan berinvestasi ke dalam rumah atau
+    apartemen
+  title: Rumah Vs Apartemen untuk Investasi dan Hunian Anda
+---
+Perkembangan zaman membuat hunian jenis properti untuk hunian pun kini semakin beragam. Apabila dahulu kita hanya mengenal rumah tapak atau *landed house,* seiring berjalannya waktu kini muncul jenis hunian baru yaitu apartemen yang menjadi salah satu hunian favorit masyarakat modern saat ini.
 
-+++
-
-
-Perkembangan zaman membuat hunian jenis properti untuk hunian pun kini semakin beragam. Apabila dahulu kita hanya mengenal rumah tapak atau _landed house,_ seiring berjalannya waktu kini muncul jenis hunian baru yaitu apartemen yang menjadi salah satu hunian favorit masyarakat modern saat ini.
-
-Apartemen merupakan salah satu gaya hunian yang muncul sebagai solusi dari semakin terbatasnya ketersediaan lahan untuk hunian. Hal ini karena lahan yang dibangun apartemen bisa dihuni lebih banyak orang dibandingkan apabila dibangun rumah tapak atau _landed house._ Oleh sebab itu apartemen atau hunian vertikal menjadi solusi bagi orang yang berada di kota besar dengan lahan hunian yang semakin terbatas.
+Apartemen merupakan salah satu gaya hunian yang muncul sebagai solusi dari semakin terbatasnya ketersediaan lahan untuk hunian. Hal ini karena lahan yang dibangun apartemen bisa dihuni lebih banyak orang dibandingkan apabila dibangun rumah tapak atau *landed house.* Oleh sebab itu apartemen atau hunian vertikal menjadi solusi bagi orang yang berada di kota besar dengan lahan hunian yang semakin terbatas.
 
 Akan tetapi, tidak semua orang suka tinggal di hunian jenis sehingga rumah tapak masih menjadi hunian favorit sebagian besar masyarakat.
 
 Nah buat kamu yang masih bingung memutuskan mau rumah atau apartemen sebagai properti hunian atau investasi anda, yuk simak kelebihan dan kekurangan dari kedua properti ini.
-
-## Table of Content
-
-* [**Kelebihan dan Kekurangan Rumah (**_**Landed House**_**)**](#kelebihan-dan-kekurangan-rumah-landed-house)- [**Kelebihan Rumah (**_**Landed House)**_](#kelebihan-rumah-landed-house)- [Jenis Kepemilikan Lahan](#jenis-kepemilikan-lahan)- [Ketersediaan Lahan Terbuka](#ketersediaan-lahan-terbuka)- [Kemudahan Renovasi](#kemudahan-renovasi)- [Lingkungan Sosial](#lingkungan-sosial)- [Nilai Properti](#nilai-properti)- **Kekurangan Rumah (**_**Landed House)**_- [Ancaman Banjir](#ancaman-banjir)- [Harga yang Tinggi](#harga-yang-tinggi)- [Isu Keamanan](#isu-keamanan)
-* [**Kelebihan dan Kekurangan Apartemen**- **Kelebihan Apartemen**](#kelebihan-apartemen)- [Sistem Keamanan](#sistem-keamanan)- [Fasilitas yang Lengkap](#fasilitas-yang-lengkap)- [Harga Relatif Lebih Terjangkau](#harga-relatif-lebih-terjangkau)- **[Kekurangan Apartemen](#kekurangan-apartemen)**- [Biaya Perawatan](#biaya-perawatan)- [Keterbatasan Lahan](#keterbatasan-lahan)- [Kepemilikan Unit](#kepemilikan-unit)
-* **[Rumah Vs Apartemen untuk Investasi](#rumah-vs-partemen-untuk-investasi)**
 
 ## Kelebihan dan Kekurangan Rumah (Landed House)
 
@@ -33,11 +38,11 @@ Pertama mari kita bahas kelebihan dari rumah dibandingkan apartemen terlebih dah
 
 ### Jenis Kepemilikan Lahan
 
-Apabila anda membeli rumah tapak atau _landed house,_ maka anda secara otomatis akan memiliki tanah atau lahan tersebut. Hal ini merupakan salah satu alasan kenapa banyak orang memilih untuk membeli rumah dibandingkan apartemen. Oleh sebab itu, banyak orang lebih suka berinvestasi dengan membeli rumah.
+Apabila anda membeli rumah tapak atau *landed house,* maka anda secara otomatis akan memiliki tanah atau lahan tersebut. Hal ini merupakan salah satu alasan kenapa banyak orang memilih untuk membeli rumah dibandingkan apartemen. Oleh sebab itu, banyak orang lebih suka berinvestasi dengan membeli rumah.
 
 ### Ketersediaan Lahan Terbuka
 
-Ketersediaan lahan terbuka merupakan salah satu keunggulan yang anda dapatkan saat membeli rumah. Apabila anda membeli apartemen, maka lahan kepemilikan yang anda miliki akan cenderung lebih minim dibandingkan membeli rumah tapak. Apalagi bagi orang yang hobi berkebun dan bercocok tanam. Biasanya rumah tapak memiliki _space_ terbuka lebih besar sehingga bisa anda gunakan untuk berbagai kegiatan  dan hobi.
+Ketersediaan lahan terbuka merupakan salah satu keunggulan yang anda dapatkan saat membeli rumah. Apabila anda membeli apartemen, maka lahan kepemilikan yang anda miliki akan cenderung lebih minim dibandingkan membeli rumah tapak. Apalagi bagi orang yang hobi berkebun dan bercocok tanam. Biasanya rumah tapak memiliki *space* terbuka lebih besar sehingga bisa anda gunakan untuk berbagai kegiatan  dan hobi.
 
 ### Kemudahan Renovasi
 
@@ -53,7 +58,7 @@ Rumah biasanya lebih mudah dijual dibandingkan apartemen karena saat ini permint
 
 ## Kekurangan Rumah (Landed House)
 
-### ******Ancaman Banjir******
+### **\*\***Ancaman Banjir**\*\***
 
 Salah satu pertimbangan pertimbangan penting sebelum membeli rumah adalah ancaman banjir yang sudah menjadi langganan di beberapa kawasan di Indonesia. Oleh sebab itu, mencari rumah yang berada di kawasan bebas banjir menjadi semakin sulit sehingga banyak orang lebih memilih tinggal di apartemen.
 
@@ -77,7 +82,7 @@ Keamanan menjadi salah satu faktor utama yang mendorong orang untuk lebih memili
 
 ### Fasilitas yang Lengkap
 
-Apartemen biasanya memiliki konsep _one stop living_  sehingga dilengkapi berbagai fasilitas untuk berbagai kegiatan konsumen. Biasanya apartemen dilengkapi dengan berbagai fasilitas bersama seperti kolam renang, gym, hingga pusat perbelanjaan. Hal ini membuat hidup para penghuninya menjadi lebih mudah.
+Apartemen biasanya memiliki konsep *one stop living*  sehingga dilengkapi berbagai fasilitas untuk berbagai kegiatan konsumen. Biasanya apartemen dilengkapi dengan berbagai fasilitas bersama seperti kolam renang, gym, hingga pusat perbelanjaan. Hal ini membuat hidup para penghuninya menjadi lebih mudah.
 
 ### Harga Relatif Lebih Terjangkau
 
@@ -105,16 +110,15 @@ Apabila anda ingin berinvestasi dengan rumah, maka anda bisa membuka properti se
 
 Namun, apabila belum memiliki modal besar, anda bisa kok investasi properti modal kecil dengan [skema equity crowdfunding.](https://landx.id/) Skema ini memiliki potensi keuntungan yang cukup besar dengan modal kecil. Karena itu, tunggu apalagi…
 
-**[Yuk Mulai Investasi Properti Modal Kecil Bersama LandX](https://landx.id/project/index.html)**
+**[Yuk Temukan Bisnis Menjanjikan dengan Keuntungan Terbaik di LandX](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)**
 
-**[LandX](https://landx.id/project/index.html)** merupakan platform _equity crowdfundin_g yang menyediakan berbagai pilihan properti dan bisnis untuk investasi jangka panjang yang menguntungkan.
+[![miliki bisnis modal kecil cuma dengan 1 jutaan dapat 4 cabang ](https://accountgram-production.sfo2.cdn.digitaloceanspaces.com/landx_ghost/2021/11/jadi-owner-bisnis-hanya-1-jutaan-dengan-cuan-yang-sangat-menjanjikan.png)](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)
+
+**[LandX](https://landx.id/project/index.html)** merupakan platform equity crowdfunding yang menyediakan berbagai pilihan properti dan bisnis untuk investasi jangka panjang yang menguntungkan.
 
 **[Jangan Lupa!!! Follow Instagram Kami di @landx.id Supaya Kamu Semakin Update dengan Berbagai Info Terbaru Seputar Investasi dan Bisnis](https://instagram.com/landx.id?utm_medium=copy_link)**
-
-#### #LandX.id    #landx.id    #landx  #InvestasiBisnis    #EquityCrowdfunding    #InvestasiMenguntungkan    #Urundana    #BisnisPatungan    #InvestasiUsaha
 
 **Baca Juga:**
 
 * Si[mak Berbagai Strategi Memulai Bisnis Properti Modal Kecil Terbaik yang Bisa Anda Terapkan](https://landx.id/blog/bisnis-properti-modal-kecil/)
 * [Buat Investor Pemula Yuk Simak Bagaimana Memilih Bisnis Investasi Terpercaya untuk Rencana Keuangan Jangka Panjang Anda](https://landx.id/blog/buat-investor-pemula-yuk-simak-bagaimana-memilih-bisnis-investasi-terpercaya-untuk-rencana-keuangan-jangka-panjang-anda/)
-
