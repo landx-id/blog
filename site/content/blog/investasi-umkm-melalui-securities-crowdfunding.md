@@ -1,14 +1,29 @@
-+++
-author = "Abdul Wahhab"
-category = ["Securities Crowdfunding untuk Pengembangan UMKM di Indonesia", "investasi umkm", "investasi bisnis", "bisnis investasi", "Investasi modal kecil"]
-date = 2021-08-16T06:05:26Z
-metaDescription = "securities crowdfunding merupakan salah satu platform yang membantu UKM dan UMKM berkualitas menemukan investor untuk ekspansi bisnis mereka. "
-draft = false
-slug = "investasi-umkm-melalui-securities-crowdfunding"
-tag = ["Securities Crowdfunding untuk Pengembangan UMKM di Indonesia", "investasi umkm", "investasi bisnis", "bisnis investasi", "Investasi modal kecil"]
-title = "Securities Crowdfunding: Investasi Bisnis Sambil Membangun UKM Indonesia"
-
-+++
+---
+draft: false
+author: Abdul Wahhab
+slug: investasi-umkm-melalui-securities-crowdfunding
+title: Pendanaan UKM Indonesia Lewat Securities Crowdfunding
+metaTitle: Pendanaan UKM Indonesia Lewat Securities Crowdfunding
+metaDescription: "securities crowdfunding merupakan salah satu platform yang
+  membantu UKM dan UMKM berkualitas menemukan investor untuk ekspansi bisnis
+  mereka. "
+intro: Yuk simak cara investasi menguntungkan lewat mendanai bisnis di
+  securities crowdfunding
+date: 2021-08-16T06:05:26.000Z
+tag:
+  - Securities Crowdfunding untuk Pengembangan UMKM di Indonesia
+  - investasi umkm
+  - investasi bisnis
+  - bisnis investasi
+  - Investasi modal kecil
+category:
+  - Bisnis
+  - Cara Investasi di Securities Crowdfunding
+featuredImage:
+  src: https://images.unsplash.com/photo-1606145456629-986a60d19da9?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80
+  alt: "Cara Investasi menguntungkan lewat securities crowdfunding "
+  title: Yuk simak bagaimana cara investasi lewat securities crowdfunding
+---
 
 
 **[Securities Crowdfunding](https://landx.id/) –** Saat ini, investasi tentu saja merupakan hal yang sudah dilakukan oleh masyarakat luas sehingga bisa bilang merupakan bagian dari gaya hidup masyarakat.
