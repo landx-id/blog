@@ -12,6 +12,7 @@ tag:
   - investasi bisnis
   - bisnis cuci mobil
   - yellow car wash
+  - YLW1
 category:
   - Bisnis
   - Investasi
