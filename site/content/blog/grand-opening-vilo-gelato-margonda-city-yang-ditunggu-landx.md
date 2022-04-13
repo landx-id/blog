@@ -9,11 +9,20 @@ intro: Brand gelato hits para foodie Vilo Gelato resmi buka cabang terbaru di
   Margonda City, Depok. Outlet ini merupakan hasil kolaborasi di crowdfunding di
   LandX
 date: 2022-04-13T08:13:15.081Z
+tag:
+  - Vilo Gelato
+  - Franchise FnB
+  - Cloud Kitchen
+  - Franchise F&B
+  - VIGO
+category:
+  - Bisnis
+  - Investasi
 featuredImage:
   title: "PROJECT SERIES: Grand Opening Vilo Gelato Margonda City yang Dinanti! |
     LandX Crowdfunding"
   src: img/yt-thumbnailvilo-1-.jpg
-  alt: vilo gelato, dessert jakarta, rekomendasi ice cream, investasi
+  alt: Vilo gelato margonda city yang bisa didapatkan dengan modal 1 juta
 ---
 Kembali hadir kolaborasi sukses antara brand Vilo gelato dengan crowdfunding LandX. Kolaborasi kali ini hadirkan cabang terbaru Vilo Gelato di kota Depok yang telah adakan grand opening pada 29 Maret 2022.
 
@@ -22,6 +31,10 @@ Kembali hadir kolaborasi sukses antara brand Vilo gelato dengan crowdfunding Lan
 Vilo Gelato adalah brand dessert hits yang populer karena rasa gelatonya yang beragam serta outlet yang instagrammable. Mengukuhkan diri sebagai produsen gelato tanah air yang gunakan bahan 100% alami, Vilo Gelato telah miliki 11 outlet yang beroperasi.
 
 Outlet pertama Vilo Gelato hadir di tahun 2017 dan kini telah tersebar di Jakarta, Bandung, Bogor, dan merambah wiilayah yang terbaru yaitu Depok. Seperti apa sih outlet terbaru Vilo Gelato di Depok yang berlokasi di Margonda City? Yuk, cari tahu lebih lanjut.
+
+{{< youtube id="_-rspsG8vS8" >}}
+
+{{< button link="https://www.youtube.com/watch?v=_-rspsG8vS8" text="Watch This Video" >}}
 
 ## VILO GELATO MARGONDA CITY
 
@@ -58,7 +71,7 @@ Jika kamu sedang belum ada rencana keluar rumah, kamu dapat memesan produk Vilo 
 
 ## TERTARIK JADI INVESTOR BISNIS VILO GELATO?
 
-Vilo Gelato Margonda City adalah project patungan bisnis dengan investor di [LandX](https://landx.id/). [LandX](https://landx.id/) adalah platform investasi crowdfunding dengan market cap terbesar di Indonesia. 
+> **Vilo Gelato Margonda City adalah project patungan bisnis** dengan investor di [LandX](https://landx.id/). [LandX](https://landx.id/) adalah platform investasi crowdfunding dengan market cap terbesar di Indonesia. 
 
 Investasi crowdfunding adalah skema pendanaan bisnis dari sejumlah masyarakat yang dihimpun secara online. Berinvestasi pada bisnis di [crowdfunding LandX](https://landx.id/) bisa mendapatkan keuntungan imbal hasil laba perusahaan yang kamu investasikan.
 
@@ -70,4 +83,6 @@ Cara berinvestasi di [LandX](https://landx.id/) adalah melalui aplikasi [LandX](
 
 Karena itu,
 
-## [Yuk, download aplikasi LandX dan jadi investor bisnis potensial menguntungkan!](https://landx.id/)
+## [Yuk, download aplikasi LandX dan jadi investor bisnis potensial menguntungkan!](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)
+
+[![miliki bisnis modal kecil cuma dengan 1 jutaan dapat 4 cabang ](https://accountgram-production.sfo2.cdn.digitaloceanspaces.com/landx_ghost/2021/11/jadi-owner-bisnis-hanya-1-jutaan-dengan-cuan-yang-sangat-menjanjikan.png)](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)
