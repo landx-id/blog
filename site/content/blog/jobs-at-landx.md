@@ -100,16 +100,16 @@ At LandX, you will be working on the next generation of the Equity Crowd Funding
 **Requirements:**
 
 * Male/ Female;
-* Bachelor's degree from any major;
-* Minimal 2 years experience in the similar position;
-* Creative and having out of the box ideas;
+* Bachelor's degree in any major;
+* Minimal 2 years experience in a similar position;
+* Creative and having the box ideas;
 * Well understanding of production techniques;
 * Have good knowledge of production standards;
 * Good visualizing and shooting skills;
 * Ready to do any requested video;
 * Have effective time management and planning skills;
 * Have good writing and editing skills;
-* Detail oriented and good analytical skills;
+* Detail-oriented and good analytical skills;
 * Strong communication skills;
 * Good leadership;
 * Able to work both independently and team;
@@ -127,26 +127,30 @@ We are inviting energetic students to learn and grow with LandX through an our i
 ## Marketing Campaign
 
 **Job Description:**\
+
 1. Follow up communication with our brand listing regarding visual assets fulfilment;\
 2. Assist with KOL Management (Communication, Follow up progress & setup appointment for production);\
 3. Running survey & input regarding LandX campaign performance.
 
 **Qualification:**\
+
 1. Currently pursuing a Bachelor's Degree in Communications/ Marketing/Business or related field;\
-2. Strong communication and writing skills and also for time management;\
-3. Passionate about investment, finance and campaign marketing;\
+2. Strong communication and writing skills and also time management;\
+3. Passionate about investment, finance, and campaign marketing;\
 4. Only full-time internship applicants will be considered (3-6 months).
 
 ## Marketing Outbound
 
 **Job Description:**\
+
 1. Follow up communication with our potential & current community partner regarding offline event/ webinar;\
-2. Collection information & survey regarding NPS (satisfaction survey) to our partner and our past event;\
-3. Doing media monitoring & report to team leader every day.
+2. Collect information & survey regarding NPS (satisfaction survey) to our partner and our past event;\
+3. Doing media monitoring & report to the team leader every day.
 
 **Qualification:**\
+
 1. Currently pursuing a Bachelor's Degree in Communications/ Marketing/Business or related field;\
-2. Strong communication and writing skills and also for time management;\
+2. Strong communication and writing skills and also time management;\
 3. Only full-time internship applicants will be considered (3-6 months).
 
 If you are a person who is passionate and interested in the position, please send your application to:\
