@@ -7,7 +7,7 @@ metaDescription: Brand gelato hits para foodie Vilo Gelato resmi buka cabang
   crowdfunding
 intro: Brand gelato hits para foodie Vilo Gelato resmi buka cabang terbaru di
   Margonda City, Depok. Outlet ini merupakan hasil kolaborasi di crowdfunding di
-  LandX
+  LandX.
 date: 2022-04-13T08:13:15.081Z
 tag:
   - Vilo Gelato
