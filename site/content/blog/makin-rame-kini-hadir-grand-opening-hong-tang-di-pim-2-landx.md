@@ -6,7 +6,7 @@ metaDescription: Gencar ekspansi, bisnis fnb oriental dessert Hong Tang sukses
   gelar grand opening Hong Tang Pondok Indah Mall 2 bersama investor. Ingin jadi
   investor?
 intro: Gencar ekspansi, bisnis fnb oriental dessert Hong Tang sukses gelar grand
-  opening Hong Tang Pondok Indah Mall 2 bersama investor. Ingin jadi investor?
+  opening Hong Tang Pondok Indah Mall 2 bersama investor. Ingin jadi investor?.
 date: 2022-04-13T07:58:42.767Z
 tag:
   - Hong Tang
