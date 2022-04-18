@@ -10,9 +10,9 @@ jobs:
     runs-on: ubuntu-latest  
     steps:
       - name: Set Config
-        run: git config --global --add safe.directory /github/workspace
+        run: git config --global --add safe.directory /__w/blog/blog
       
-      - uses: actions/checkout@v2
+      - uses: actions/checkout@v3
 
       - uses: landx-id/github-repository-sync-action@master
         with:
