@@ -16,7 +16,7 @@ jobs:
 
       - uses: landx-id/github-repository-sync-action@master
         with:
-          entrypoint: ../../entrypoint.sh
+          entrypoint: entrypoint.sh
           ssh_private_key: ${{ secrets.SSH_PRIVATE_KEY }}
           target_repo_url: git@code.landx.id:landx/blog.git
           source_branch: main
