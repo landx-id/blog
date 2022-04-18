@@ -5,7 +5,7 @@ metaTitle: 7 Cara Mendapat Modal Usaha Tahun 2022, Nomor 5&7 Boleh Nih! | LandX
 metaDescription: "Simak berbagai cara mendapatkan modal usaha dan cara mencari
   modal usaha untuk pendanaan anda. "
 intro: Setelah memahami target market, langkah selanjutnya adalah mendapatkan
-  modal usaha. Berikut 7 cara mencari modal usaha di tahun 2022
+  modal usaha. Berikut 7 cara mencari modal usaha di tahun 2022..
 date: 2022-04-11T10:02:11.233Z
 featuredImage:
   title: 7 Cara Mendapat Modal Usaha Tahun 2022 | LandX Crowdfunding
