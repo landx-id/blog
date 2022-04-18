@@ -9,7 +9,7 @@ jobs:
   build:
     runs-on: ubuntu-latest  
     steps:
-      - name: Fix issue with repository unsafe
+      - name: Set Config
         run: git config --global --add safe.directory /github/workspace
       
       - uses: actions/checkout@v2
