@@ -9,14 +9,13 @@ jobs:
   build:
     runs-on: ubuntu-latest  
     steps:
-      # - name: Set Config
-      #   run: export GIT_CEILING_DIRECTORIES=/__w
+      - name: Set Config
+        run: git config --global --add safe.directory /github/workspace
       
       - uses: actions/checkout@v2
 
       - uses: landx-id/github-repository-sync-action@master
         with:
-          entrypoint: entrypoint.sh
           ssh_private_key: ${{ secrets.SSH_PRIVATE_KEY }}
           target_repo_url: git@code.landx.id:landx/blog.git
           source_branch: main
