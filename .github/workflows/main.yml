@@ -10,7 +10,7 @@ jobs:
     runs-on: ubuntu-latest  
     steps:
       - name: Set Config
-        run: git config --global --add safe.directory /github/workspace
+        run: sudo git config --global --add safe.directory /github/workspace
       
       - uses: actions/checkout@v2
 
