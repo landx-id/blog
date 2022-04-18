@@ -9,7 +9,12 @@ jobs:
   build:
     runs-on: ubuntu-latest  
     steps:
-      - uses: actions/checkout@v3
+      - name: Upgrade git
+        run: git --version && add-apt-repository ppa:git-core/ppa -y && apt update && apt upgrade -y && git --version
+      - name: Add Safe Directory
+        run: git config --global --add safe.directory /github/workspace
+
+      - uses: actions/checkout@v2
 
       - uses: landx-id/github-repository-sync-action@master
         with:
