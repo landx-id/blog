@@ -10,7 +10,7 @@ jobs:
     runs-on: ubuntu-latest  
     steps:
       - name: Set Config
-        run: export GIT_CEILING_DIRECTORIES= /__w/blog/blog
+        run: export GIT_CEILING_DIRECTORIES=/__w
       
       - uses: actions/checkout@v2
 
