@@ -9,7 +9,7 @@ COPY . .
 
 RUN npm install
 RUN npm run build
-
+COPY entrypoint.sh /entrypoint.sh
 COPY ./docker/default.conf /etc/nginx/http.d/default.conf
 
 EXPOSE 80
