@@ -71,7 +71,7 @@ Jika kamu sedang belum ada rencana keluar rumah, kamu dapat memesan produk Vilo 
 
 ## TERTARIK JADI INVESTOR BISNIS VILO GELATO?
 
-> **Vilo Gelato Margonda City adalah project patungan bisnis** dengan investor di [LandX](https://landx.id/). [LandX](https://landx.id/) adalah platform investasi crowdfunding dengan market cap terbesar di Indonesia. 
+> **Vilo Gelato Margonda City adalah project patungan bisnis** dengan investor di [LandX](https://landx.id/). [LandX](https://landx.id/) adalah [platform investasi crowdfunding](https://landx.id/) dengan market cap terbesar di Indonesia. 
 
 Investasi crowdfunding adalah skema pendanaan bisnis dari sejumlah masyarakat yang dihimpun secara online. Berinvestasi pada bisnis di [crowdfunding LandX](https://landx.id/) bisa mendapatkan keuntungan imbal hasil laba perusahaan yang kamu investasikan.
 
