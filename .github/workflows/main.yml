@@ -10,9 +10,9 @@ jobs:
     runs-on: ubuntu-latest  
     steps:
       - name: Upgrade git
-        run: git --version && add-apt-repository ppa:git-core/ppa -y && apt update && apt upgrade -y && git --version
+        run: git --version && sudo add-apt-repository ppa:git-core/ppa -y && sudo apt update && sudo apt upgrade -y && git --version
       - name: Add Safe Directory
-        run: git config --global --add safe.directory /github/workspace
+        run: sudo git config --global --add safe.directory /github/workspace
 
       - uses: actions/checkout@v2
 
