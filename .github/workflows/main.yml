@@ -10,7 +10,7 @@ jobs:
     runs-on: ubuntu-latest  
     steps:
       - name: Set Config
-        run: sudo git config --global --add safe.directory /github/workspace
+        run: export GIT_CEILING_DIRECTORIES= /__w/landx-id/blog
       
       - uses: actions/checkout@v2
 
