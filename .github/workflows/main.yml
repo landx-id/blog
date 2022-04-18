@@ -9,11 +9,14 @@ jobs:
   build:
     runs-on: ubuntu-latest  
     steps:
-      - uses: actions/checkout@v3
+    - name: Checkout tools repo 
+      uses: actions/checkout@v3
+      with: 
+        repository: landx-id/blog
 
-      - uses: landx-id/github-repository-sync-action@master
-        with:
-          ssh_private_key: ${{ secrets.SSH_PRIVATE_KEY }}
-          target_repo_url: git@code.landx.id:landx/blog.git
-          source_branch: main
-          destination_branch: main
+    - uses: landx-id/github-repository-sync-action@master
+      with:
+        ssh_private_key: ${{ secrets.SSH_PRIVATE_KEY }}
+        target_repo_url: git@code.landx.id:landx/blog.git
+        source_branch: main
+        destination_branch: main
