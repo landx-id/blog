@@ -10,7 +10,7 @@ jobs:
     runs-on: ubuntu-latest  
     steps:
       - name: Set Config
-        run: export GIT_CEILING_DIRECTORIES= /__w/landx-id/blog
+        run: export GIT_CEILING_DIRECTORIES= /__w/blog/blog
       
       - uses: actions/checkout@v2
 
