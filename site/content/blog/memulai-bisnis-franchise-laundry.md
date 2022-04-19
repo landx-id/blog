@@ -32,8 +32,6 @@ Bisnis laundry dengan sistem franchise menjadi salah satu cara bisnis laundry ya
 
 
 
-
-
 ## Tips Memilih Franchise Laundry Terbaik
 
 ### 1. Mengenal Bisnis Lebih Dalam: Analisis Bagaimana Posisi Branding di Pasaran
