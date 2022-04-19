@@ -115,7 +115,8 @@ At LandX, you will be working on the next generation of the Equity Crowd Funding
 * Able to work both independently and team;
 * Include your portfolio link on your curriculum vitae.
 
-If you are the person we are looking for, let's grow your career with us by following our recruitment. Kindly send your application to:\
+If you are the person we are looking for, let's grow your career with us by following our recruitment.\
+Kindly send your application to:\
 Email: **hr@landx.id**\
 Subject: **Application - \[Position] - \[Your Name]**
 
