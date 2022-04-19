@@ -117,19 +117,20 @@ At LandX, you will be working on the next generation of the Equity Crowd Funding
 
 If you are the person we are looking for, let's grow your career with us by following our recruitment. Kindly send your application to:\
 Email: **hr@landx.id**\
-Subject: **Application - \[Position] - \[Your Name]**\
+Subject: **Application - \[Position] - \[Your Name]**
+
 Only short-listed candidates will be contacted.
 
 {{< figure src="https://accountgram-production.sfo2.cdn.digitaloceanspaces.com/landx_ghost/2021/11/INTERSHIP-PROGRAM.jpg" >}}
 
-We are inviting energetic students to learn and grow with LandX through an our internship program in the following positions:
+We are inviting energetic students to learn and grow with LandX through our internship program in the following positions:
 
 ## Marketing Campaign
 
 **Job Description:**\
 
 1. Follow up communication with our brand listing regarding visual assets fulfilment;\
-2. Assist with KOL Management (Communication, Follow up progress & setup appointment for production);\
+2. Assist with KOL Management (Communication, Follow up progress & setup appointments for production);\
 3. Running survey & input regarding LandX campaign performance.
 
 **Qualification:**\
