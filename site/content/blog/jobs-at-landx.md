@@ -13,14 +13,13 @@ tag:
   - karir
 featuredImage:
   src: https://images.unsplash.com/photo-1522202176988-66273c2fd55f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxMTc3M3wwfDF8c2VhcmNofDF8fGludGVybnxlbnwwfHx8fDE2NDAyNTEzNzE&ixlib=rb-1.2.1&q=80&w=1080
-  alt: Lowongan kerja di LandX
+  alt: We are looking for energetic & talented people to join us and work from
+    anywhere you like, home or office.
   title: Jobs at LandX
 image: https://images.unsplash.com/photo-1522202176988-66273c2fd55f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxMTc3M3wwfDF8c2VhcmNofDF8fGludGVybnxlbnwwfHx8fDE2NDAyNTEzNzE&ixlib=rb-1.2.1&q=80&w=1080
 category:
   - Cara Investasi di Securities Crowdfunding
 ---
-### We are looking for energetic & talented people to join us and work from anywhere you like, home or office.
-
 ![Hiring LandX](https://accountgram-production.sfo2.cdn.digitaloceanspaces.com/landx_ghost/2021/09/LandX-is-Hiring---Jobs-Vacancy-at-LandX.jpg "Jobs Vacancy di LandX")
 
 We are currently looking to fill the following positions:
