@@ -7,6 +7,13 @@ metaDescription: "Simak berbagai cara mendapatkan modal usaha dan cara mencari
 intro: Setelah memahami target market, langkah selanjutnya adalah mendapatkan
   modal usaha. Berikut 7 cara mencari modal usaha di tahun 2022..
 date: 2022-04-11T10:02:11.233Z
+tag:
+  - Equity Crowdfunding
+  - Crowdfunding
+  - Bisnis Modal Kecil
+category:
+  - Bisnis
+  - Investasi
 featuredImage:
   title: 7 Cara Mendapat Modal Usaha Tahun 2022 | LandX Crowdfunding
   src: https://images.unsplash.com/photo-1515606378517-3451a4fa2e12?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=928&q=80
