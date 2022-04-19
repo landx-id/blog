@@ -127,31 +127,31 @@ We are inviting energetic students to learn and grow with LandX through our inte
 
 ## Marketing Campaign
 
-**Job Description:**\
+**Job Description:**
 
-1. Follow up communication with our brand listing regarding visual assets fulfilment;\
-2. Assist with KOL Management (Communication, Follow up progress & setup appointments for production);\
+1. Follow up communication with our brand listing regarding visual assets fulfilment;
+2. Assist with KOL Management (Communication, Follow up progress & setup appointments for production);
 3. Running survey & input regarding LandX campaign performance.
 
-**Qualification:**\
+**Qualification:**
 
-1. Currently pursuing a Bachelor's Degree in Communications/ Marketing/Business or related field;\
-2. Strong communication and writing skills and also time management;\
-3. Passionate about investment, finance, and campaign marketing;\
+1. Currently pursuing a Bachelor's Degree in Communications/ Marketing/Business or related field;
+2. Strong communication and writing skills and also time management;
+3. Passionate about investment, finance, and campaign marketing;
 4. Only full-time internship applicants will be considered (3-6 months).
 
 ## Marketing Outbound
 
-**Job Description:**\
+**Job Description:**
 
-1. Follow up communication with our potential & current community partner regarding offline event/ webinar;\
-2. Collect information & survey regarding NPS (satisfaction survey) to our partner and our past event;\
+1. Follow up communication with our potential & current community partner regarding offline event webinar;
+2. Collect information & survey regarding NPS (satisfaction survey) to our partner and our past event;
 3. Doing media monitoring & report to the team leader every day.
 
-**Qualification:**\
+**Qualification:**
 
-1. Currently pursuing a Bachelor's Degree in Communications/ Marketing/Business or related field;\
-2. Strong communication and writing skills and also time management;\
+1. Currently pursuing a Bachelor's Degree in Communications/ Marketing/Business or related field;
+2. Strong communication and writing skills and also time management;
 3. Only full-time internship applicants will be considered (3-6 months).
 
 If you are a person who is passionate and interested in the position, please send your application to:\
