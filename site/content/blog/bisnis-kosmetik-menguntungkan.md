@@ -1,14 +1,29 @@
-+++
-author = "Abdul Wahhab"
-category = ["bisnis kosmetik", "franchise klinik kecantikan", "bisnis investasi", "investasi bisnis"]
-date = 2021-06-24T05:00:30Z
-metaDescription = "simak cara bisnis kosmetik menguntungkan yang bisa anda coba. berikut beberapa tips bisnis kosmetik menguntungkan yang bisa anda coba"
-draft = false
-slug = "bisnis-kosmetik-menguntungkan"
-tag = ["bisnis kosmetik", "franchise klinik kecantikan", "bisnis investasi", "investasi bisnis"]
-title = "Mau Jadi Beautypreneur? Simak Cara Meraup Keuntungan dengan Bisnis Kosmetik"
-
-+++
+---
+draft: false
+author: Abdul Wahhab
+slug: bisnis-kosmetik-menguntungkan
+title: Cara Bisnis Kosmetik Menguntungkan untuk yang Mau Jadi Beautypreneur
+metaTitle: Cara Bisnis Kosmetik Menguntungkan untuk yang Mau Jadi Beautypreneur
+metaDescription: Cara memulai bisnis kosmetik modal kecil yang bisa memberikan
+  anda keuntungan jangka panjang
+intro: Yuk simak cara jadi jadi beautyopreneur dengan bisnis kosmetik modal
+  kecil yang menguntungkan
+date: 2021-06-24T05:00:30.000Z
+tag:
+  - bisnis kosmetik
+  - franchise klinik kecantikan
+  - bisnis investasi
+  - investasi bisnis
+category:
+  - bisnis kosmetik
+  - franchise klinik kecantikan
+  - bisnis investasi
+  - investasi bisnis
+featuredImage:
+  src: https://images.unsplash.com/photo-1571875257727-256c39da42af?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=580&q=80
+  alt: Cara jadi pemilik bisnis kosmetik modal kecil
+  title: bisnis kosmetik menguntungkan
+---
 
 
 Zaman sekarang kosmetik sudah menjadi bagian penting yang sangat dekat dengan gaya hidup masyarakat. Kosmetik dan skin care kini menjadi suatu hal yang dibutuhkan oleh semua orang baik wanita maupun pria. Fenomena ini juga dipengaruhi oleh situasi pandemi yang membuat orang-orang ingin _glow up_ atau menjadi lebih baik setelah karantina.
