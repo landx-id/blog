@@ -21,7 +21,7 @@ category:
 featuredImage:
   title: "PROJECT SERIES: Grand Opening Vilo Gelato Margonda City yang Dinanti! |
     LandX Crowdfunding"
-  src: img/yt-thumbnailvilo-1-.jpg
+  src: https://landx.id/blog/img/yt-thumbnailvilo-1-.jpg
   alt: Vilo gelato margonda city yang bisa didapatkan dengan modal 1 juta
 ---
 Kembali hadir kolaborasi sukses antara brand Vilo gelato dengan crowdfunding LandX. Kolaborasi kali ini hadirkan cabang terbaru Vilo Gelato di kota Depok yang telah adakan grand opening pada 29 Maret 2022.
