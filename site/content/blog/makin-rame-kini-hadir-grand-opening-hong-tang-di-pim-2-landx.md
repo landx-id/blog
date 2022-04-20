@@ -23,7 +23,7 @@ category:
 featuredImage:
   title: "PROJECT SERIES: Grand Opening Hong Tang PIM 2 x LandX | Crowdfunding"
   alt: hong tang, dessert, taiwan dessert, jakarta selatan, investasi
-  src: img/hong-tang-pim-2-1-.jpg
+  src: https://landx.id/blog/img/hong-tang-pim-2-1-.jpg
 ---
 Bisnis fnb dessert satu ini gencar banget ekspansi, Hong Tang sukses gelar grand opening gerai terbarunya di Pondok Indah Mall 2. 
 Outlet Hong Tang PIM 2 dapat hadir setelah meraih pendanaan hingga lebih Rp 7M melalui platform crowdfunding [LandX](https://landx.id/). Grand opening Hong Tang PIM 2 sendiri telah digelar pada Sabtu, 9 April 2022 secara meriah.
