@@ -51,7 +51,7 @@ Awalnya ia sempat mengalami kerugian. Ia masih ingat saham pertama yang didekap 
 
 Mengutip berbagai sumber, pria dengan julukan bapak saham Indonesia  lulusan fakultas sastra itu mengaku, ada beberapa saham yang memberi cuan hingga ribuan persen. Membuat dirinya kaya raya. Berikut beberapa saham yang membuat Lo Kheng Hong sukses dalam dunia saham. 
 
-##    1. Saham PT Indika Energy Tbk (INDY)
+###    1. Saham PT Indika Energy Tbk (INDY)
 
 Membeli saat harga batu bara anjlok pada tahun 2016. Kala itu, saham INDY diperdagangkan di harga terendah Rp 106 per lembar. Lo Kheng Hong menjadi pemegang saham terbesar ke-4 di Indika.
 
@@ -65,9 +65,9 @@ Membeli tahun 2017 saat harga saham INKP Rp 1.000 per lembar, kemudian naik menj
 
 ###   3. Saham PT United Tractor Tbk (UNTR)
 
-Tahun 1998, membeli saham UNTR seharga Rp 250 per lembar, disimpan atau dibiarkan ‘tidur’ selama 6 tahun. Lalu menjualnya di harga Rp 15 ribu per lembar. Cuan 5.900%
+Tahun 1998, membeli saham UNTR seharga Rp 250 per lembar, disimpan atau dibiarkan ‘tidur’ selama 6 tahun. Lalu menjualnya di harga Rp 15 ribu per lembar. Cuan 5.900%. Saham ini menjadi salah satu aset kekayaan Lo Kheng Hong yang memberikan keuntungan besar karena pertumbuhan nilai dari saham ini. 
 
-
+Aset kekayaan saham Lo Kheng Hong ini ditaksir mencapai 625 Miliar dan angka ini belum termasuk aset non saham yang dimiliki oleh Lo Kheng Hong. Oleh sebab itu, Lo Kheng Kong bisa jadi salah satu inspirasi para investor saham dengan strategi diversifikasi investasi yang dilakukanya.
 
 ## Warren Buffett Indonesia 
 
