@@ -1,19 +1,25 @@
 ---
 author: "Aulia Putri Andrika "
-title: Tips Jitu Investasi Uang THR dan Cara Mengaturnya  | LandX
-metaTitle: Tips Jitu Investasi Uang THR dan Cara Mengaturnya  | LandX
-metaDescription: THR harus diatur porsinya, mana yang untuk kewajiban, untuk
-  kebutuhan Hari Raya, dan tujuan keuangan smart investor di masa depan
-intro: Tidak banyak orang mengalokasikan Tunjangan Hari Raya alias THR untuk
-  investasi. Kebanyakan orang menghabiskan THR-nya untuk keperluan hari raya dan
-  berlaku konsumtif.
+title: Cara dan Tips Jitu Investasi Uang THR Agar Makin Cuan di 2022
+metaTitle: Cara dan Tips Jitu Investasi Uang THR Agar Makin Cuan di 2022
+metaDescription: Kebanyakan orang menghabiskan THR-nya untuk keperluan hari raya
+  dan berlaku konsumtif dan tidak menginvestasikan THR
+intro: "Yuk simak bagaimana cara mengatur uang THR untuk investasi agar
+  finansial kamu jadi lebih stabil dan teratur. "
 date: 2022-04-21T09:36:00.585Z
+tag:
+  - Mengatur Keuangan
+  - Mengelola Keuangan
+  - Cara Mengembangkan Uang dengan cepat
+  - Investasi Menguntungkan
+category:
+  - Investasi
+  - Keuangan
 featuredImage:
-  alt: Tidak banyak orang mengalokasikan Tunjangan Hari Raya alias THR untuk
-    investasi. Kebanyakan orang menghabiskan THR-nya untuk keperluan hari raya
-    dan berlaku konsumtif.
-  src: img/portrait-surprised-businessman.jpg
-  title: "THR untuk Investasi "
+  alt: Yuk simak tios investasi pakai uang THR agar kamu keuangan kamu tetap
+    stabil jangka panjang
+  src: https://images.unsplash.com/photo-1622186477895-f2af6a0f5a97?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80
+  title: "Thr untuk investasi jangka panjang "
 ---
 <!--StartFragment-->
 
@@ -27,7 +33,7 @@ THR adalah hak wajib yang dipenuhi perusahaan menjelang hari raya. Adapun untuk 
 
 ## Tips Investasi pakai THR
 
-1. Pisahkan Uang Sesuai Pos Keuangan 
+**1. Pisahkan Uang Sesuai Pos Keuangan** 
 
 Keuangan yang sehat tergantung dari seberapa baiknya kamu dalam mengatur pengeluaran. Kunci dalam mengatur alokasi pengeluaran itu adalah kamu harus tahu mana pengeluaran yang prioritas dan mana yang tidak. 
 
@@ -35,17 +41,17 @@ Setelah kamu mendapatkan THR usahakan kamu tidak tergiur dengan barang-barang ya
 
 Dikutip dari salah satu sumber, kamu bisa mencoba kelola uang dengan sekitar 50 persen untuk kebutuhan sehari-hari, 30 persen untuk bayar utang (apabila ada) atau kebutuhan pribadi, dan 20 persen lagi untuk ditabung ataupun investasi.
 
-2. Bayar Tagihan 
+**2. Bayar Tagihan** 
 
 Tagihan jadi hal pertama yang dipikirkan setelah menerima pemasukan tambahan berupa THR. Biar tidak menambah beban pikiran kamu bisa menyisihkan uang THR yang didapat untuk membayar tagihan.  Apalagi jika kamu ingin membeli barang, sebelum kamu kalap kamu harus ingat untuk membayar semua tagihan. 
 
-3. Sedekah 
+**3. Berbagi** 
 
 Sedekah adalah hal yang paling wajib dilakukan, Hal ini tentu menjadi kewajiban yang harus ditunaikan oleh  beragama Islam ketika menjalankan ibadah puasa di bulan suci Ramadhan. Utamanya dalam bentuk zakat fitrah. Standar zakat fitrah biasanya senilai 2,5 kilogram beras, atau setara 3,5 liter. Atau, Sobat Cuan bisa memilih untuk membayar uang tunai senilai standar tersebut, yang berkisar antara Rp40.000 hingga Rp50.000 per orang.
 
 Agar ibadah bulan suci Ramadhan kamu makin afdol, tidak ada salahnya juga kamu membayar zakat harta (mal). Adapun zakat mal terbilang 2,5% dari penghasilan kamu per tahun. Asal, total penghasilan kamu sudah melebihi nisab, yakni setara dengan 85 gram emas.
 
-4. Investasi 
+**4. Investasi** 
 
 Dari rencana pengeluaran yang sudah dibuat, kamu bisa menentukan besarnya THR yang akan kamu alokasikan untuk investasi. Rata-rata orang mengalokasikan 10 persen dari dana THR-nya untuk investasi. Jika kamu tidak mudik seperti di masa pandemi, kamu bisa menambah porsi investasi sebesar 30-40 persen, misalnya. Yang perlu diingat, kamu harus memisahkan antara dana investasi dengan dana darurat. Di masa sulit seperti saat pandemi crown, kamu tetap membutuhkan dana darurat. Jangan sampai kamu berinvestasi tetapi tidak memiliki dana darurat, ya.
 
@@ -75,6 +81,4 @@ Ingin jadi investor bisnis dan dapat keuntungan rutin?
 
 [Yuk, download aplikasi LandX dan pilih bisnisnya sekarang juga!](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)
 
-
-
-<!--EndFragment-->
+[![miliki bisnis modal kecil cuma dengan 1 jutaan dapat 4 cabang ](https://accountgram-production.sfo2.cdn.digitaloceanspaces.com/landx_ghost/2021/11/jadi-owner-bisnis-hanya-1-jutaan-dengan-cuan-yang-sangat-menjanjikan.png)](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)
