@@ -1,16 +1,27 @@
-+++
-author = "Abdul Wahhab"
-category = ["investasi bisnis", "bisnis kosmetik"]
-date = 2021-06-17T04:44:14Z
-metaDescription = "berikut beberapa cara memanfaatkan peluang usaha kosmetik. berikut beberapa cara bisnis kosmetik seperti franchise klinik kecantikan modal kecil bisa dicoba"
-draft = false
-slug = "bisnis-kosmetik-dan-bisnis-skin-care"
-tag = ["investasi bisnis", "bisnis kosmetik"]
-title = "Buat Kamu yang Mau Mulai Bisnis Kosmetik? Simak Berbagai Tips dan Cara Membangun  Bisnis Kosmetik yang Menguntungkan"
-
-+++
-
-
+---
+draft: false
+author: Abdul Wahhab
+slug: bisnis-kosmetik-dan-bisnis-skin-care
+title: Tips Membangun Bisnis Skincare yang Menguntungkan Jangka Panjang
+metaTitle: Simak Tips Membangun Bisnis skincare dan Kosmetik yang Menguntungkan
+metaDescription: Simak cara membangun bisnis skincare dan kosmetik lewat sistem
+  waralaba atau brand sendiri
+intro: Yuk simak tips membangun bisnis kosmetik dan skincare dengan modal kecil
+date: 2021-06-17T04:44:14.000Z
+tag:
+  - Investasi Bisnis
+  - Bisnis Kosmetik
+  - Bisnis Franchise Modal Kecil
+  - Memulai Usaha
+  - Investasi dengan Modal Kecil
+category:
+  - Bisnis
+featuredImage:
+  src: https://images.unsplash.com/photo-1598440947619-2c35fc9aa908?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1035&q=80
+  alt: Cara memulai bisns skincare brand sendiri dengan modal kecil yang
+    menguntungkan jangka panjang
+  title: memulai bisnis skincare dan kosmetik brand sendiri dengan modal kecil
+---
 Bisnis kecantikan seperti kosmetik dan skincare merupakan salah satu industri yang mengalami perkembangan cukup pesat dalam beberapa tahun belakangan dan terus berkembangan pesat selama masa pandemi. Pandemi membuka peluang usaha kosmetik untuk berkembang karena masyarakat banyak menghabiskan waktu di rumah sehingga meningkatkan mereka untuk merawat diri. Selain itu peningkatan permintaan akan produk kosmetik juga terjadi karena motivasi masyarakat untuk tampil lebih baik setelah masa karantina.
 
 Di luar dari efek pandemi, bisnis skincare dan kosmetik memang memiliki peluang yang sangat besar karena tingkat kesadaran masyarakat untuk merawat diri untuk penampilan yang lebih baik. Selain itu, sekarang merawat diri dengan menggunakan skincare sudah menjadi bagian dari gaya hidup masyarakat baik luas baik wanita maupun pria. Hal ini menciptakan peluang yang besar untuk bisnis kosmetik dan skincare karena potensi pertumbuhan pasar yang cukup besar.
@@ -18,12 +29,6 @@ Di luar dari efek pandemi, bisnis skincare dan kosmetik memang memiliki peluang 
 Perkembangan bisnis ini bisa anda lihat dengan munculnya semakin banyak brand kosmetik dan skincare lokal dengan kualitas yang tidak kalah bagus dibandingkan merek-merek internasional. Selain produk kecantikan, anda juga bisa lihat sekarang semakin banyak klinik kecantikan bermunculan untuk melayani berbagai kebutuhan perawatan kecantikan konsumen.
 
 Oleh sebab itu, anda bisnis skincare dan kosmetik bisa menjadi ide bisnis dengan prospek menjanjikan yang bisa anda coba. Apabila anda ingin memulai bisnis skincare dan kosmetik, berikut beberapa hal yang bisa anda coba.
-
-## Table of Content
-
-1. **[Cara Memulai Bisnis Kosmetik dan Skincare](#cara-memulai-bisnis-kosmetik-dan-skincare)**1.1 [Menjadi Reseller atau Dropshipper Produk Kecantikan](#menjadi-reseller-atau-dropshipper-produk-kecantikan)1.2 [Membangun Brand Kosmetik dan Skincare Sendiri](#membangun-brand-kosmetik-dan-skincare-sendiri)1.3 [Memulai Toko Kosmetik dan Skincare](#memulai-toko-kosmetik-dan-skincare)1.4 [Memulai Klinik Kecantikan dengan Sistem Franchise atau Waralaba](#memulai-klinik-kecantikan-dengan-sistem-franchise-atau-waralaba)
-2. **[Tips Memulai Bisnis Kosmetik dan Skincare](#tips-memulai-bisnis-kosmetik-dan-skincare)**2.1 [Pahami Tren dan Kebutuhan Konsumen](#pahami-tren-dan-kebutuhan-konsumen)2.2 [Tentukan Target Pasar Produk Anda](#tentukan-target-pasar-produk-anda)2.3 [Perhatikan Perizinan Produk Kecantikan yang  Dijual](#perhatikan-perizinan-produk-kecantikan-yang-dijual)2.4 [Perhatikan Perizinan Produk Kecantikan yang  Dijual](#perhatikan-perizinan-produk-kecantikan-yang-dijual)2.5 [Perhatikan Perizinan Produk Kecantikan yang  Dijual](#perhatikan-perizinan-produk-kecantikan-yang-dijual)
-3. **[Memulai Bisnis Kosmetik dengan Modal Kecil](#memulai-bisnis-kosmetik-dengan-modal-kecil)**
 
 ## Cara Memulai Bisnis Kosmetik dan Skincare
 
@@ -83,7 +88,7 @@ Saat menjual produk kosmetik dan skincare, anda harus memperhatikan perizinan da
 
 Anda harus memikirkan bagaimana cara terbaik untuk memasarkan produk kecantikan yang akan anda jual. Oleh sebab itu anda harus menyusun formula promosi terbaik anda bisa menjangkau konsumen dalam cakupan yang luas.
 
-Karena itu anda harus _unique value_ atau keunikan dari produk kecantikan yang anda tawarkan sehingga membuat produk anda menjadi lebih istimewa dibandingkan dengan kompetitor. Hal ini bisa dilihat dari segi kandungan produk dan manfaat yang ditawarkan.
+Karena itu anda harus *unique value* atau keunikan dari produk kecantikan yang anda tawarkan sehingga membuat produk anda menjadi lebih istimewa dibandingkan dengan kompetitor. Hal ini bisa dilihat dari segi kandungan produk dan manfaat yang ditawarkan.
 
 ### Hitung Modal yang Harus  Dikeluarkan
 
@@ -101,14 +106,19 @@ Dalam sistem ini anda bisa terlibat patungan untuk membangun suatu bisnis kecant
 
 Apabila anda tertarik, anda bisa mulai dengan berinvestasi melalui [LandX](https://landx.id/) sebagai platform [equity crowdfunding](https://landx.id/) terpercaya yang telah berhasil menghimpun dana dari para investor untuk disalurkan ke dalam berbagai bisnis dengan potensi keuntungan yang menjanjikan.
 
-**[Yuk Mulai Investasi Menguntungkan Bersama LandX](https://landx.id/)**
+## [Yuk, download aplikasi LandX dan pilih bisnisnya sekarang juga!](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)
+
+**Yuk Temukan Bisnis Menjanjikan dengan Keuntungan Terbaik di LandX**
+
+[![miliki bisnis modal kecil cuma dengan 1 jutaan dapat 4 cabang ](https://accountgram-production.sfo2.cdn.digitaloceanspaces.com/landx_ghost/2021/11/jadi-owner-bisnis-hanya-1-jutaan-dengan-cuan-yang-sangat-menjanjikan.png)](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)
+
+<!--EndFragment-->
 
 **[Hey!!!! Jangan Lupa Follow Instagram Kami di @landx.id Supaya Terus Update Info Terbaru Seputar Investasi](https://docs.google.com/document/d/1ORy99qgSZDJ5qZqsKetzIV4ED8e_SUPActk9DwmCwa8/edit?usp=sharing)**
 
-**#LandX.id    #landx         #landx.id    #InvestasiBisnis    #EquityCrowdfunding    #InvestasiMenguntungkan    #Urundana    #BisnisPatungan    #InvestasiUsaha**
+**\#LandX.id    #landx         #landx.id    #InvestasiBisnis    #EquityCrowdfunding    #InvestasiMenguntungkan    #Urundana    #BisnisPatungan    #InvestasiUsaha**
 
 **Baca Juga:**
 
 * [Bisnis Jangka Panjang: Memilih Bisnis yang Menguntungkan untuk Jangka Panjang](https://landx.id/blog/bisnis-menguntungkan-jangka-panjang/)
 * [Simak Berbagai Strategi Memulai Bisnis Properti Modal Kecil Terbaik yang Bisa Anda Terapkan](https://landx.id/blog/berikut-berbagai-cara-menjadi-investor-properti-yang-bisa-dicoba-investor-pemula/)
-
