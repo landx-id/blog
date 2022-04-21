@@ -13,7 +13,13 @@ tag:
   - Investasi Menguntungkan
   - Memulai Investasi Menguntungkan
   - Investasi Pemula
+  - Investasi Keuangan
   - Securities Crowdfunding untuk Pengembangan UMKM di Indonesia
+  - Investasi Aman untuk Pemula
+  - Investasi Jangka Panjang
+  - Investasi bagi hasil
+  - Memulai investasi menguntungkan
+  - Investasi Terbaik
 category:
   - Investasi
   - Keuangan
