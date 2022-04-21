@@ -1,16 +1,32 @@
-+++
-author = "Abdul Wahhab"
-category = ["Investasi untuk Pemula", "Investasi Menguntungkan", "memulai investasi menguntungkan"]
-date = 2021-06-21T04:57:16Z
-metaDescription = "pahami bagaimana memulai investasi untuk pemula agar bisa memberikan anda keuntungan. Tips investasi untuk pemula agar menguntungkan dalam jangka panjang"
-draft = false
-slug = "investasi-untuk-pemula"
-tag = ["Investasi untuk Pemula", "Investasi Menguntungkan", "memulai investasi menguntungkan"]
-title = "10+ Hal yang Harus Dihindari Investasi dan Tips Investasi untuk Pemula"
-
-+++
-
-
+---
+draft: false
+author: Abdul Wahhab
+slug: investasi-untuk-pemula
+title: "Investasi untuk Pemula: 10 Hal yang Harus Dihindari Investor Pemula"
+metaTitle: "Investasi untuk Pemula: 10 Hal yang Harus Dihindari Investor Pemula"
+metaDescription: Yuk pahami berbagai hal harus dihindari oleh investor
+  pemula  saat mulai berinvestasi
+intro: Simak hal yang harus dihindari oleh investor pemula saat akan mulai
+  berinvestasi....
+date: 2021-06-21T04:57:16.000Z
+tag:
+  - Investasi untuk Pemula
+  - Investasi Menguntungkan
+  - memulai investasi menguntungkan
+  - Instrumen Investasi
+  - Investasi Aman untuk Pemula
+  - Investasi Aman
+  - Tips Investasi
+  - Pilihan Investasi
+category:
+  - Investasi
+  - Keuangan
+featuredImage:
+  src: https://images.unsplash.com/photo-1633158829875-e5316a358c6f?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80
+  alt: Simak tips investasi menguntungkan modal kecil yang bisa memberikan anda
+    keuntungan jangka panjang
+  title: Tips investasi untuk investor pemula
+---
 [Investasi untuk pemula](https://landx.id/) merupakan hal yang banyak dicari saat ini terutama untuk generasi milenial yang sudah mulai berpenghasilan dan ingin mulai berinvestasi untuk menyiapkan masa depan yang lebih baik.
 
 Hal ini sangat wajar karena menentukan investasi terbaik bukanlah hal yang mudah apalagi untuk investor pemula yang belum pernah berinvestasi sebelumnya.
@@ -19,15 +35,9 @@ Namun walaupun sulit, menyusun rencana investasi dengan baik akan sangat membant
 
 Apabila anda merupakan pemula yang ingin mulai berinvestasi, berikut beberapa tips dan hal yang harus anda hindari saat memulai investasi.
 
-## Table of Content
-
-* **[Tips Investasi untuk Pemula](#tips-investasi-untuk-pemula)**1. [Menentukan Tujuan Investasi](#menentukan-tujuan-investasi)2. [Menyiapkan Mental dalam Berinvestasi](#menyiapkan-mental-dalam-berinvestasi)3. [Memperhatikan Laju Inflasi](#memperhatikan-laju-inflasi)4. [Berinvestasi ke Diri Sendiri](#berinvestasi-ke-diri-sendiri)5. [Diversifikasi](#diversifikasi)
-* **[Kesalahan yang Sering Dilakukan Pemula dalam Investasi](#kesalahan-yang-sering-dilakukan-pemula-dalam-investasi)**1. [Menunda Investasi](#menunda-investasi)2. [Kesalahan dalam Mengalokasikan Dana](#kesalahan-dalam-mengalokasikan-dana)3. [Salah Memahami Konsep Investasi](#salah-memahami-konsep-investasi)4. [Kesalahan Monitoring dan Evaluasi](#kesalahan-monitoring-dan-evaluasi)5. [Emosional dalam Berinvestasi](#emosional-dalam-berinvestasi)
-* **[Memulai Investasi Bisnis](#memulai-investasi-bisnis)**
-
 ## Tips Investasi untuk Pemula
 
-### Menentukan Tujuan Investasi 
+### Menentukan Tujuan Investasi
 
 Dalam melakukan sesuatu anda tentu saja harus memiliki tujuan yang jelas. Oleh sebab itu pemula yang ingin berinvestasi harus menentukan dulu tujuan yang ingin mereka capai agar investasi yang mereka lakukan memiliki arah yang jelas.
 
@@ -63,7 +73,7 @@ Selain itu, memahami laju inflasi akan membuat anda menjadi lebih paham kenapa b
 
 Satu hal yang sering dilupakan pemula adalah berinvestasi kepada diri sendiri dengan meningkatkan skill dan pengetahuan yang mereka miliki.
 
-Melakukan _self-improvement_ dapat anda lakukan dengan belajar skill baru yang bisa membantu meningkatkan penghasilan yang anda miliki.
+Melakukan *self-improvement* dapat anda lakukan dengan belajar skill baru yang bisa membantu meningkatkan penghasilan yang anda miliki.
 
 Apabila anda pemula dalam berinvestasi, maka anda bisa mulai dengan meningkatkan pemahaman dan skill anda tentang keuangan agar anda bisa mengambil keputusan investasi yang lebih baik lagi kedepannya.
 
@@ -141,9 +151,12 @@ Selain itu, analisis bisnis potensial menjadi sangat terbantu oleh platform equi
 
 **[LandX](https://landx.id/)** merupakan salah satu platform equity crowdfunding terbaik dengan pilihan berbagai pilihan bisnis potensial untuk investasi anda.
 
-**[Yuk Mulai Investasi Bisnis Bersama LandX](https://landx.id/)**
+## [Yuk, download aplikasi LandX dan jadi investor bisnis potensial menguntungkan!](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)
+
+[![miliki bisnis modal kecil cuma dengan 1 jutaan dapat 4 cabang ](https://accountgram-production.sfo2.cdn.digitaloceanspaces.com/landx_ghost/2021/11/jadi-owner-bisnis-hanya-1-jutaan-dengan-cuan-yang-sangat-menjanjikan.png)](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)
+
+<!--EndFragment-->
 
 **[Jangan Lupa Kunjungi Kami di Instagram @landx.id Supaya Terus Update Info Terbaru Seputar Investasi…](https://instagram.com/landx.id?utm_medium=copy_link)**
 
-**#LandX.id    #landx         #landx.id    #InvestasiBisnis    #EquityCrowdfunding    #InvestasiMenguntungkan    #Urundana    #BisnisPatungan    #InvestasiUsaha**
-
+**\#LandX.id    #landx         #landx.id    #InvestasiBisnis    #EquityCrowdfunding    #InvestasiMenguntungkan    #Urundana    #BisnisPatungan    #InvestasiUsaha**
