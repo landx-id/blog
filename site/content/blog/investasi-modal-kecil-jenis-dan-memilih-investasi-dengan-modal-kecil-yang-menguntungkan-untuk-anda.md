@@ -1,16 +1,31 @@
-+++
-author = "Abdul Wahhab"
-category = ["Investasi modal kecil", "crowdfunding", "investasi dengan modal kecil"]
-date = 2021-06-05T16:21:49Z
-metaDescription = "Investasi modal kecil menguntungkan sering kali dianggap tidak mungkin bagi investor pemula, padahal ada berbagai pilihan investasi modal kecil..."
-draft = false
-slug = "investasi-modal-kecil-jenis-dan-memilih-investasi-dengan-modal-kecil-yang-menguntungkan-untuk-anda"
-tag = ["Investasi modal kecil", "crowdfunding", "investasi dengan modal kecil"]
-title = "Investasi Modal Kecil:  Jenis dan Memilih Investasi dengan Modal Kecil yang Menguntungkan untuk Anda"
-
-+++
-
-
+---
+draft: false
+author: Abdul Wahhab
+slug: investasi-modal-kecil-jenis-dan-memilih-investasi-dengan-modal-kecil-yang-menguntungkan-untuk-anda
+title: Cara Memilih Investasi Modal Kecil yang Menguntungkan untuk Anda
+metaTitle: Cara Memilih Investasi Modal Kecil yang Menguntungkan untuk Anda
+metaDescription: Yuk simak bagaimana cara memilih investasi modal kecil yang
+  menguntungkan untuk anda
+intro: Yuk simak cara investasi modal kecil yang bisa memberikan anda keuntungan
+  jangka panjang
+date: 2021-06-05T16:21:49.000Z
+tag:
+  - Investasi modal kecil
+  - crowdfunding
+  - investasi dengan modal kecil
+  - Investasi menguntungkan
+  - Memulai Investasi Menguntungkan
+  - Investasi Pemula
+category:
+  - Investasi
+  - Keuangan
+featuredImage:
+  src: https://images.unsplash.com/photo-1565373679580-fc0cb538f49c?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80
+  alt: Simak cara investasi modal kecil yang bisa memberikan anda keuntungan
+    jangka panjang
+  title: Yuk simak cara investasi modal kecil yang bisa memberikan anda keuntungan
+    jangka panjang
+---
 Investasi modal kecil sering dianggap mustahil terutama bagi investor pemula yang belum pernah mencoba berinvestasi sebelumnya.
 
 Selain itu, masih banyak orang yang tidak tahu bahwa tersedia berbagai instrumen investasi yang bisa dimulai dengan modal kecil dan sangat mudah untuk di-akses semua kalangan.
@@ -24,12 +39,6 @@ Berinvestasi dengan **modal kecil** juga sangat cocok untuk investor pemula yang
 [Investasi dengan modal kecil](https://landx.id/) dan risiko rendah sangat cocok untuk pemula yang masih belajar bagaimana membangun aset investasi yang bisa memberikan mereka keuntungan.
 
 Buat kamu yang baru mau memulai investasi dengan modal kecil, yuk simak beberapa jenis investasi modal kecil yang bisa anda mulai.
-
-## Table of Content
-
-* **[Investasi Modal Kecil](#investasi-modal-kecil)**
-* **[Jenis-Jenis Investasi Modal Kecil](#jenis-jenis-investasi-modal-kecil)**
-* **[Membangun Aset Jangka Panjang Dengan Investasi Modal Kecil](#membangun-aset-jangka-panjang-dengan-investasi-modal-kecil)**
 
 ## [Investasi Modal Kecil](https://landx.id/project/)
 
@@ -47,7 +56,7 @@ Karena itu yuk kita bahas beberapa jenis investasi modal kecil di bawah ini.
 
 Untuk kamu yang ingin memulai investasi, berikut beberapa investasi modal kecil yang bisa kamu mulai:
 
-1. ******Reksa Dana******
+1. **\*\***Reksa Dana**\*\***
 
 Salah satu produk investasi disukai investor pemula adalah reksa dana karena selain memiliki risiko yang rendah, instrumen ini juga bisa dimulai dengan modal yang sangat kecil sehingga bisa diakses oleh masyarakat luas.
 
@@ -55,7 +64,7 @@ Instrumen ini sangat cocok untuk investor yang mau berinvestasi tapi masih memil
 
 Apabila tertarik dengan instrumen ini, anda bisa mengakses melalui berbagai platform investasi online yang menyediakan reksa dana. Karena itu yuk jangan ditunda lagi rencana investasi anda.
 
-**2. ****Investasi Emas Online******
+**2. \*\***Investasi Emas Online**\*\***
 
 Seiring berkembangnya teknologi, kini semakin banyak instrumen investasi yang bisa anda akses secara online. Salah satu instrumen yang bisa anda mulai dengan modal kecil adalah investasi emas online yang tersedia melalui aplikasi investasi. Hal ini membuat investasi emas menjadi semakin mudah dan bisa dimulai dengan modal yang kecil.
 
@@ -63,7 +72,7 @@ Kemudahan ini membuat orang tidak perlu menunggu uangnya cukup untuk membeli 1 g
 
 Selain kemudahan investasi dengan modal kecil, investasi emas online juga mempermudah proses transaksi jual beli emas anda sehingga pencairan dana investasi pun menjadi semakin mudah. Investasi emas online juga memperkecil risiko yang muncul karena anda tidak perlu menyimpan sendiri emas anda sehingga risiko kehilangan dapat dihindari.
 
-**3. ****Investasi Saham******
+**3. \*\***Investasi Saham**\*\***
 
 Mendengar investasi saham, pasti anda langsung berpikir bahwa instrumen ini merupakan investasi dengan modal besar. Anda harus buang jauh-jauh pikiran ini karena saham merupakan salah satu instrumen pasar modal dengan yang bisa anda mulai dengan modal kecil karena tersedia berbagai jenis saham di pasar modal yang bisa anda pilih berdasarkan budget yang anda miliki.
 
@@ -73,7 +82,7 @@ Akan tetapi jangan lupa, anda harus melakukan analisis secara mendalam terlebih 
 
 Langkah awal yang bisa anda terapkan adalah dengan mengenal terlebih dahulu perusahaan yang sahamnya akan anda beli.
 
-**3. ****Peer to Peer Lending (P2PL)******
+**3. \*\***Peer to Peer Lending (P2PL)**\*\***
 
 Apabila anda belum familiar dengan istilah ini, P2P lending merupakan skema investasi yang mempertemukan investor dengan pihak yang membutuhkan dana dalam sebuah platform P2P lending.
 
@@ -85,7 +94,7 @@ Investasi dengan sistem ini bisa dimulai dengan modal yang kecil dan potensi keu
 
 Namun anda harus memperhatikan berbagai risiko dari investasi ini karena investasi ini memiliki risiko yang lumayan besar. Karena itu anda harus berhati-hati dalam menentukan pihak yang akan anda pinjamkan dana.
 
-**[4. ****Equity Crowdfunding (ECF)****](https://landx.id/)**
+**[4. \*\***Equity Crowdfunding (ECF)***\*](https://landx.id/)**
 
 Salah satu investasi modal kecil yang bisa anda coba adalah investasi bisnis dengan sistem [equity crowdfunding.](https://landx.id/)
 
@@ -105,7 +114,7 @@ Karena itu Jangan tunda lagi rencana investasi anda dan mulai investasi sekarang
 
 Selain itu, yuk simak video dari MindLand dulu biar kamu paham bagaimana cara mencari investasi yang cocok untuk kita:
 
-<iframe width="200" height="113" src="https://www.youtube.com/embed/n4h_MuP3eS4?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+ **{{< youtube id="**n4h_MuP3eS4**" >}}**
 
 ## Membangun Aset Jangka Panjang dengan Investasi Modal Kecil
 
@@ -119,20 +128,19 @@ Salah satu cara terbaik adalah dengan investasi bisnis melalui [equity crowdfund
 
 Hal ini membuat anda menjadi paham bagaimana prospek bisnis tersebut dalam beberapa tahun ke depan sehingga bisa memilih mana bisnis terbaik untuk investasi anda.
 
-Memilih investasi terbaik bukanlah hal yang mudah, karena itu anda harus memulai sesegera mungkin agar anda bisa menemukan investasi terbaik yang sesuai dengan tujuan investasi anda. Karena itu yuk….
+Memilih investasi terbaik bukanlah hal yang mudah, karena itu anda harus memulai sesegera mungkin agar anda bisa menemukan investasi terbaik yang sesuai dengan tujuan investasi anda. Karena itu yuk…
 
-## [Investasi Bisnis Modal Kecil Bersama LandX](https://landx.id/)
+## [Yuk, jadi bos bisnis dan terima keuntungan rutin di LandX](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)
 
-[**LandX**](https://landx.id/) memberikan anda kesempatan untuk mulai investasi bisnis dengan modal kecil, karena itu yuk mulai investasi bisnis modal kecil bersama LandX sekarang.
+[![miliki bisnis modal kecil cuma dengan 1 jutaan dapat 4 cabang ](https://accountgram-production.sfo2.cdn.digitaloceanspaces.com/landx_ghost/2021/11/jadi-owner-bisnis-hanya-1-jutaan-dengan-cuan-yang-sangat-menjanjikan.png)](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)
+
+**[LandX](https://landx.id/)** memberikan anda kesempatan untuk mulai investasi bisnis dengan modal kecil, karena itu yuk mulai investasi bisnis modal kecil bersama LandX sekarang.
 
 **[Butuh Informasi Menarik Seputar Investasi dan Bisnis Lainnya? Yuk Follow Juga Instagram Kami di @landx.id agar Terus Update Informasi Terbaru Seputar Bisnis dan Investasi](https://instagram.com/landx.id?utm_medium=copy_link)**
 
-#LandX.id	#landx.id	#InvestasiBisnis	#EquityCrowdfunding	#InvestasiMenguntungkan	#Urundana	#BisnisPatungan	#InvestasiUsaha
+\#LandX.id	#landx.id	#InvestasiBisnis	#EquityCrowdfunding	#InvestasiMenguntungkan	#Urundana	#BisnisPatungan	#InvestasiUsaha
 
 **Baca Juga:**
 
 * [8+ Investasi Menguntungkan Untuk Masa Depan Anda, Yuk Mulai Investasi Dari Sekarang](https://landx.id/blog/8-investasi-menguntungkan-untuk-masa-depan-anda-yuk-mulai-investasi-dari-sekarang/)
 * [4 Pilihan Investasi Jangka Pendek dan Tips Investasi Jangka Pendek yang Menguntungkan](https://landx.id/blog/4-pilihan-investasi-jangka-pendek-dan-tips-investasi-jangka-pendek-yang-menguntungkan/)
-
-
-
