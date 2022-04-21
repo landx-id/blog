@@ -9,11 +9,23 @@ intro: kenapa semua orang investasi? Tujuan investasi adalah mendapatkan
   keuntungan dari modal yang telah ditanamkan agar segera mencapai tujuan
   finansial.
 date: 2022-04-21T09:06:08.792Z
+tag:
+  - Investasi
+  - Investasi Saham
+  - Instrumen Investasi
+  - Investasi Online
+  - Tips Investasi
+  - Pilihan Investasi
+  - Investasi Menguntungkan
+category:
+  - Investasi
+  - Keuangan
+  - Bisnis
 featuredImage:
   title: Kenapa Kamu Harus Investasi? Tujuan Investasi Jangka Pendek dan Jangka
     Panjang| LandX
-  alt: investasi, tujuan investasi, crowdfunding adalah
-  src: https://unsplash.com/photos/ci8Vp6lgiv0
+  alt: Tujuan Investasi dan Kenapa Investasi Sangat Penting untuk Dilakukan
+  src: https://images.unsplash.com/photo-1616261167032-b16d2df8333b?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=871&q=80
 ---
 Jika kamu belum mulai berinvestasi dengan alasan belum memiliki pendapatan yang cukup, kamu sedang menunda kekayaan di masa depan. Kegiatan investasi dilakukan layaknya sebuah maraton, ada jarak yang harus ditempuh, bukan sebuah sprint yang instan. 
 
@@ -88,4 +100,6 @@ Investasi [crowdfunding](https://landx.id/) umumnya adalah investasi jangka panj
 
 Kamu dapat memilih sendiri bisnis yang kamu ingin danai sesuai industri yang kamu yakin potensi di masa depannya menguntungkan. Seperti di [platform crowdfunding](https://landx.id/) [LandX](https://landx.id/), terdapat bisnis dari industri F&B, lifestyle, maritim, jasa, hingga ritel untuk dimiliki dengan modal minim.
 
-Yuk, investasi crowdfunding dan jadi pemilik bisnis di [LandX](https://landx.id/)!
+### [Yuk, investasi crowdfunding dan jadi pemilik bisnis di LandX!](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)
+
+[![miliki bisnis modal kecil cuma dengan 1 jutaan dapat 4 cabang ](https://accountgram-production.sfo2.cdn.digitaloceanspaces.com/landx_ghost/2021/11/jadi-owner-bisnis-hanya-1-jutaan-dengan-cuan-yang-sangat-menjanjikan.png)](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)[](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)
