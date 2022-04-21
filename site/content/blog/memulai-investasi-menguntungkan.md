@@ -1,16 +1,27 @@
-+++
-author = "Abdul Wahhab"
-category = ["Investasi Menguntungkan", "memulai investasi menguntungkan", "investasi pemula", "Securities Crowdfunding untuk Pengembangan UMKM di Indonesia"]
-date = 2021-06-10T04:23:27Z
-metaDescription = "Dalam melakukan investasi, agar menguntungkan anda harus memperhatikan beberapa hal. Berikut hal yang harus diperhatikan agar investasi anda menguntungkan"
-draft = false
-slug = "memulai-investasi-menguntungkan"
-tag = ["Investasi Menguntungkan", "memulai investasi menguntungkan", "investasi pemula", "Securities Crowdfunding untuk Pengembangan UMKM di Indonesia"]
-title = "Mau Mulai Investasi Menguntungkan? Berikut Beberapa Hal Penting dalam Membangun Investasi yang Menguntungkan"
-
-+++
-
-
+---
+draft: false
+author: Abdul Wahhab
+slug: memulai-investasi-menguntungkan
+title: Cara Membangun Aset Investasi yang Menguntungkan jangka Panjang
+metaTitle: Cara Membangun Aset Investasi yang Menguntungkan jangka Panjang
+metaDescription: Yuk simak bagaimana cara membangun aset investasi yang bisa
+  memberikan keuntungan jangka panjang
+intro: Yuk pahami bagaimana cara membangun aset investasi yang menguntungkan
+  jangka panjang
+date: 2021-06-10T04:23:27.000Z
+tag:
+  - Investasi Menguntungkan
+  - Memulai Investasi Menguntungkan
+  - Investasi Pemula
+  - Securities Crowdfunding untuk Pengembangan UMKM di Indonesia
+category:
+  - Investasi
+  - Keuangan
+featuredImage:
+  src: https://images.unsplash.com/photo-1554224155-8d04cb21cd6c?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80
+  alt: Simak cara membangun aset investasi menguntungkan jangka panjang
+  title: Memilih investasi yang memberikan keuntungan jangka panjang
+---
 Membangun aset investasi yang menguntungkan tentu saja tujuan semua orang saat mulai melakukan investasi, akan tetapi tidak semua orang paham bahwa hal ini bukanlah sesuatu yang instan dan bisa diraih hanya dalam waktu semalam.
 
 Hal ini membuat banyak orang langsung terjun ke dunia investasi tanpa mempelajari terlebih dahulu berbagai risiko dari investasi yang mereka lakukan.
@@ -39,7 +50,7 @@ Setelah paham bagaimana memulai investasi yang menguntungkan, mari kita bahas be
 
 ## Pilihan Investasi yang Menguntungkan
 
-1. ******Instrumen Pasar Modal******
+1. **\*\***Instrumen Pasar Modal**\*\***
 
 Investasi ke dalam berbagai instrumen pasar modal bisa menjadi salah satu pilihan investasi menguntungkan untuk anda. Pasar modal memiliki instrumen investasi yang beragam mulai dari yang risikonya kecil hingga besar.
 
@@ -47,15 +58,15 @@ Obligasi merupakan salah satu instrumen pasar modal yang bisa anda coba karena m
 
 Reksa dana merupakan salah satu instrumen investasi pasar modal yang disukai oleh investor karena dana anda akan ditangani oleh manajer investasi sehingga bisa memperkecil risiko kerugian. Reksa dana sendiri memiliki beberapa jenis dengan risiko yang berbeda-beda sehingga bisa disesuaikan dengan profil risiko yang anda miliki.
 
-Saham merupakan salah satu instrumen investasi pasar modal yang populer di kalangan masyarakat. Sebagai pemula anda bisa mulai dengan berinvestasi ke dalam saham _blue-chip_ dengan nilai yang lebih stabil. Selain itu anda juga bisa berinvestasi lewat reksa dana saham untuk mempermudah investasi anda.
+Saham merupakan salah satu instrumen investasi pasar modal yang populer di kalangan masyarakat. Sebagai pemula anda bisa mulai dengan berinvestasi ke dalam saham *blue-chip* dengan nilai yang lebih stabil. Selain itu anda juga bisa berinvestasi lewat reksa dana saham untuk mempermudah investasi anda.
 
-* ******Deposito******
+* **\*\***Deposito**\*\***
 
-Deposito merupakan salah produk perbankan yang bisa anda gunakan untuk investasi. Deposito memiliki risiko yang relatif kecil dibandingkan jenis investasi lain, akan tetapi _return_ yang dihasilkan pun tidak begitu besar dan akan dipotong pajak. Dalam memilih deposito anda harus memperhatikan tingkat suku bunga dan periode investasi yang harus anda jalankan agar anda bisa memilih deposito terbaik.
+Deposito merupakan salah produk perbankan yang bisa anda gunakan untuk investasi. Deposito memiliki risiko yang relatif kecil dibandingkan jenis investasi lain, akan tetapi *return* yang dihasilkan pun tidak begitu besar dan akan dipotong pajak. Dalam memilih deposito anda harus memperhatikan tingkat suku bunga dan periode investasi yang harus anda jalankan agar anda bisa memilih deposito terbaik.
 
-* ******[Investasi Properti](https://landx.id/)******
+* **\*\***[Investasi Properti](https://landx.id/)**\*\***
 
-Properti merupakan jenis investasi yang banyak digemari masyarakat dari dulu karena selain memiliki nilai yang cenderung stabil properti juga merupakan jenis investasi riil yang _tangible_ sehingga memiliki bentuk fisik yang bisa dilihat langsung.
+Properti merupakan jenis investasi yang banyak digemari masyarakat dari dulu karena selain memiliki nilai yang cenderung stabil properti juga merupakan jenis investasi riil yang *tangible* sehingga memiliki bentuk fisik yang bisa dilihat langsung.
 
 Investasi properti memang membutuhkan modal yang relatif cukup besar sehingga banyak yang sulit untuk memulai investasi jenis ini.
 
@@ -65,9 +76,9 @@ Memulai investasi properti dengan sistem [equity crowdfunding](https://landx.id/
 
 Salah satu yang harus anda perhatikan dalam investasi properti adalah menemukan properti terbaik yang memiliki prospek keuntungan dalam jangka panjang.
 
-* ******[Securities Crowdfunding](https://landx.id/)******
+* **\*\***[Securities Crowdfunding](https://landx.id/)**\*\***
 
-Salah satu investasi jenis baru yang bisa anda coba adalah _[securities crowdfunding](https://landx.id/),_ sistem ini memberikan anda kesempatan untuk melakukan investasi ke dalam berbagai bisnis potensial.
+Salah satu investasi jenis baru yang bisa anda coba adalah *[securities crowdfunding](https://landx.id/),* sistem ini memberikan anda kesempatan untuk melakukan investasi ke dalam berbagai bisnis potensial.
 
 Sistem ini memberikan anda kesempatan untuk mendanai bisnis melalui beberapa skema seperti saham, surat utang, dan sukuk.
 
@@ -85,16 +96,13 @@ Selain itu dalam berinvestasi anda tidak boleh melakukan investasi hanya karena 
 
 Apabila anda sudah paham..
 
-## [Yuk Mulai Investasi Menguntungkan Bersama LandX](https://landx.id/)
+## [Yuk, jadi bos bisnis dan terima keuntungan rutin di LandX](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)
 
-
+[![miliki bisnis modal kecil cuma dengan 1 jutaan dapat 4 cabang ](https://accountgram-production.sfo2.cdn.digitaloceanspaces.com/landx_ghost/2021/11/jadi-owner-bisnis-hanya-1-jutaan-dengan-cuan-yang-sangat-menjanjikan.png)](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)
 
 **[Supaya Gak Ketinggalan Berbagai Info Seputar Investasi Menguntungkan Lainnya, Jangan Lupa Follow Instagram Kami di @landx.id](https://instagram.com/landx.id?utm_medium=copy_link)**
-
-#LandX.id    #landx         #landx.id    #InvestasiBisnis    #EquityCrowdfunding    #InvestasiMenguntungkan    #Urundana    #BisnisPatungan    #InvestasiUsaha
 
 **Baca Juga:**
 
 * [Buat Investor Pemula Yuk Simak Bagaimana Memilih Bisnis Investasi Terpercaya untuk Rencana Keuangan Jangka Panjang Anda](https://landx.id/blog/buat-investor-pemula-yuk-simak-bagaimana-memilih-bisnis-investasi-terpercaya-untuk-rencana-keuangan-jangka-panjang-anda/)
 * [Untuk Investor Pemula, Yuk Simak Bagaimana Cara Memulai Investasi yang Cocok untuk Pemula](https://landx.id/blog/investasi-yang-cocok-untuk-pemula/)
-
