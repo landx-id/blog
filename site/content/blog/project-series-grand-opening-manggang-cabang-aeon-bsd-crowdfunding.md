@@ -8,14 +8,24 @@ metaDescription: Korean BBQ rice bowl MangGang hadir di AEON BSD Mall Tangerang
 intro: Korean BBQ rice bowl MangGang hadir di AEON BSD Mall Tangerang setelah
   raih pendanaan hingga Rp 3.4 M di platform investasi crowdfunding LandX.
 date: 2022-04-22T05:18:22.678Z
+tag:
+  - MANG
+  - Cloud Kitchen
+  - Bisnis Makanan
+  - MangGang
+  - Franchise FnB
+  - Franchise Makanan
+category:
+  - Bisnis
+  - Keuangan
 featuredImage:
   title: "PROJECT SERIES: Grand Opening MangGang Cabang AEON BSD | LandX Crowdfunding"
-  src: img/manggang-aeon-bsd-landx-tangerang.jpg
-  alt: manggang aeon bsd tangerang, wisata tangerang, landx, investasi
+  src: https://media.discordapp.net/attachments/913743599844343808/966952312973197382/unknown.png?width=1058&height=595
+  alt: manggang aeon bsd tangerang yang baru grand opening
 ---
 Bersama [platform crowdfunding LandX](https://landx.id/), bisnis fast food korean grilled beef bowl MangGang menyelenggarakan pembukaan outlet terbaru mereka yang berlokasi di AEON BSD Mall Tangerang pada Jumat, 15 April 2022.
 
-Watch this video <https://www.youtube.com/watch?v=pMvMsjCO8vM> 
+ **{{< youtube id="**[pMvMsjCO8vM](https://www.youtube.com/watch?v=pMvMsjCO8vM)**" >}}**
 
 ## ABOUT MANGGANG
 
@@ -25,7 +35,7 @@ MangGang mengusung hidangan premium Korean BBW seenak rasa mewah bagi pelanggann
 
 Jangkauan pasar MangGang mencapai daerah Jakarta, Bekasi, Tangerang, Yogyakarta, Palembang, dan Samarinda. Target market yang tersebar mencakup para pecinta daging panggang BBQ dan kreasi Korean food di Indonesia.
 
-**Menu MangGang**
+## **Menu MangGang**
 
 Memiliki konsep Korean BBQ, tentunya sajian utama dan best seller brand cloud kitchen ini ialah daging sapi panggang (grilled beef). Daging dan bumbu yang telah menyatu ditaruh diatas semangkuk nasi yang akan menghangatkan perut kamu. 
 
@@ -47,9 +57,9 @@ Berada di area food culture AEOn BSD, kamu dapat dengan mudah menemukan outlet M
 
 Semua menu dan paket sajiannya yang enak tersedia di outlet MangGang AEON BSD Mall Tangerang. Kamu dapat berkunjung bersama keluarga atau teman untuk nikmati lezatnya daging panggang Korean style satu ini.
 
-**Lokasi MANGGANG AEON BSD, Lantai GF**
-
-📍Jl. BSD Raya Utama, Pagedangan, Kab. Tangerang, Banten 15345
+> > ### **Lokasi MANGGANG AEON BSD, Lantai GF**
+>
+> 📍Jl. BSD Raya Utama, Pagedangan, Kab. Tangerang, Banten 15345
 
 ## JADI INVESTOR BISNIS
 
@@ -61,4 +71,6 @@ Setiap investor di [LandX](https://landx.id/) memiliki kebebasan untuk memilih p
 
 Memiliki bisnis, menjadi investor dan menerima keuntungan dividen #SekarangBisa dalam satu aplikasi. Karena itu,
 
-## [Yuk, download aplikasi LandX sekarang untuk jadi pemilik bisnis!](https://landx.id/)
+## [Yuk, download aplikasi LandX sekarang untuk jadi pemilik bisnis!](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)
+
+[![miliki bisnis modal kecil cuma dengan 1 jutaan dapat 4 cabang ](https://accountgram-production.sfo2.cdn.digitaloceanspaces.com/landx_ghost/2021/11/jadi-owner-bisnis-hanya-1-jutaan-dengan-cuan-yang-sangat-menjanjikan.png)](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)
