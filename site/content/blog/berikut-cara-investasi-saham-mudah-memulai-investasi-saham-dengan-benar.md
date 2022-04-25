@@ -1,35 +1,36 @@
-+++
-author = "Abdul Wahhab"
-category = ["Saham Online", "Cara Investasi Saham", "investasi bisnis", "Properti online", "reksa dana", "investasi saham", "saham konvensional"]
-date = 2021-05-21T02:42:50Z
-metaDescription = "Apabila kamu investor pemula yang masih bingung bagaimana cara investasi saham yang mudah dan menguntungkan, yuk simak artikel di bawah ini"
-draft = false
-slug = "berikut-cara-investasi-saham-mudah-memulai-investasi-saham-dengan-benar"
-tag = ["Saham Online", "Cara Investasi Saham", "investasi bisnis", "Properti online", "reksa dana", "investasi saham", "saham konvensional"]
-title = "Berikut Cara Investasi Saham Mudah|Memulai Investasi Saham dengan Benar"
-
-+++
-
-
+---
+draft: false
+author: Abdul Wahhab
+slug: berikut-cara-investasi-saham-mudah-memulai-investasi-saham-dengan-benar
+title: Cara Memulai Investor Saham dengan Mudah untuk Investor Pemula
+metaTitle: Cara Memulai Investor Saham dengan Mudah untuk Investor Pemula
+metaDescription: Yuk simak cara investasi saham bagi investor pemula dengan modal kecil
+intro: Yuk simak cara mulai investasi saham yang bisa memberikan kamu keuntungan
+  jangka panjang
+date: 2021-05-21T02:42:50.000Z
+tag:
+  - Saham Online
+  - Cara Investasi Saham
+  - investasi bisnis
+  - Properti online
+  - reksa dana
+  - investasi saham
+  - saham konvensional
+category:
+  - Bisnis
+  - Investasi
+featuredImage:
+  src: https://images.unsplash.com/photo-1590283603385-17ffb3a7f29f?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80
+  alt: "Simak Cara Investasi Saham bagi Investor Pemula "
+  title: Cara Investasi Saham Modal Kecil untuk Investor Pemula
+---
 Mencapai kondisi finansial yang stabil dan independen di masa mendatang tentu saja impian setiap orang. Namun, untuk mencapai tahap ini anda perlu menyusun perencanaan finansial yang baik serta mulai berinvestasi untuk kondisi finansial yang lebih baik di masa mendatang. Salah satu caranya adalah berinvestasi melalui saham.
 
 Investasi saham merupakan salah satu cara investasi terbaik yang akan membantu anda membangun kondisi keuangan yang lebih baik dan stabil di masa mendatang. Akan tetapi, masih banyak orang yang tidak mau memulai investasi melalui saham karena dipandang sebagai instrumen investasi yang sulit dilakukan terutama untuk pemula. Padahal hal ini merupakan sesuatu yang salah besar karena investasi saham kini semakin mudah untuk anda lakukan asalkan anda paham bagaimana cara investasi saham dengan mudah.
 
 Karena itu, mari kita bahas cara investasi saham mudah terutama untuk pemula yang ingin memulai investasi saham.
 
----
-
-## Table of Content
-
-1. **[Pahami Apa Itu Investasi Saham](#pahami-apa-itu-investasi-saham )**
-2. **[Memperhatikan Legalitas Saham](#memperhatikan-legalitas-saham)**
-3. **[Saham Blue-Chip Untuk Investor Pemula](#saham-blue-chip-untuk-investor-pemula)**
-4. **[Menghitung Biaya Yang Akan Dikeluarkan](#menghitung-biaya-yang-akan-dikeluarkan)**
-5. **[Waktu Terbaik Membeli Saham](#waktu-terbaik-membeli-saham )**
-6. **[Diversifikasi](#diversifikasi)**
-7. **[Mulai Sedini Mungkin](#mulai-sedini-mungkin)**
-
----
+- - -
 
 Pertanyaan mendasar sebelum memulai investasi saham adalah apa itu saham, karena anda harus memahami sebuah instrumen secara mendalam sebelum memutuskan menginvestasikan uang anda kesana.
 
@@ -51,13 +52,13 @@ Informasi yang anda dapatkan ini juga dapat membantu anda menentukan saham mana 
 
 ## Saham Blue-Chip Untuk Investor Pemula
 
-Saat memulai investasi saham, anda akan sering mendengar istilah saham _blue-chip_. Saham _blue-chip_ merupakan saham dari perusahaan yang dinilai memiliki kualitas terbaik sehingga aman karena memiliki nilai stabil dan cenderung naik di pasaran.
+Saat memulai investasi saham, anda akan sering mendengar istilah saham *blue-chip*. Saham *blue-chip* merupakan saham dari perusahaan yang dinilai memiliki kualitas terbaik sehingga aman karena memiliki nilai stabil dan cenderung naik di pasaran.
 
 Jenis saham ini sangat direkomendasikan terutama untuk pemula yang masih kesulitan memilih saham mana yang akan dibeli.
 
 Selain itu saham ini dinilai sangat cocok untuk investasi jangka panjang karena bisa membelikan anda keuntungan yang stabil.
 
-Biasanya saham _blue-chip_ berasal dari perusahaan-perusahaan besar yang sangat dekat dengan keseharian anda seperti consumer goods atau produk kebutuhan sehari-hari yang sering pakai.
+Biasanya saham *blue-chip* berasal dari perusahaan-perusahaan besar yang sangat dekat dengan keseharian anda seperti consumer goods atau produk kebutuhan sehari-hari yang sering pakai.
 
 Karena itu anda salah cara investasi saham adalah dengan memilih saham dari perusahaan  yang sangat dekat dan familiar dengan anda seperti perbankan dan kebutuhan sehari-hari.
 
@@ -75,18 +76,18 @@ Pasar saham memiliki kondisi yang fluktuatif sehingga anda harus paham kapan wak
 
 Saat anda sudah yakin dengan sebuah saham, selanjutnya anda harus paham kapan waktu yang tepat untuk membeli saham tersebut.
 
-Anda bisa membeli sebuah saham saat terjadi _market crash_ yang menyebabkan nilai saham di pasaran turun, namun sebelum mengambil langkah ini anda harus memastikan bahwa perusahaan yang anda pilih memiliki kinerja yang baik dan penurunan harga saham ini hanya karena sentimen pasar yang sedang turun saja. Karena itu analisis mendalam sebelum membeli saham sangat penting.
+Anda bisa membeli sebuah saham saat terjadi *market crash* yang menyebabkan nilai saham di pasaran turun, namun sebelum mengambil langkah ini anda harus memastikan bahwa perusahaan yang anda pilih memiliki kinerja yang baik dan penurunan harga saham ini hanya karena sentimen pasar yang sedang turun saja. Karena itu analisis mendalam sebelum membeli saham sangat penting.
 
 Akan tetapi, cara investasi saham terbaik kembali lagi kepada anda sebagai investor karena sebagai investor anda harus rajin menganalisis saham yang akan anda beli agar tahu kapan momentum yang tepat untuk membeli sebuah saham.
 
----
+- - -
 
 ## Baca Juga:
 
 * **[4 Pilihan Investasi Jangka Pendek dan Tips Investasi Jangka Pendek yang Menguntungkan](https://landx.id/blog/4-pilihan-investasi-jangka-pendek-dan-tips-investasi-jangka-pendek-yang-menguntungkan/)**
 * **[Kenali 4 Instrumen Pasar Modal Sebelum Memutuskan Instrumen Pasar Modal Terbaik Anda](https://landx.id/blog/kenali-4-instrumen-pasar-modal-sebelum-memutuskan-instrumen-pasar-modal-terbaik-anda/)**
 
----
+- - -
 
 ## Diversifikasi
 
@@ -114,15 +115,10 @@ Karena kini teknologi semakin canggih anda bisa mulai berinvestasi dengan modal 
 
 Oleh sebab itu tidak ada lagi alasan anda untuk ragu mulai berinvestasi sedini mungkin.
 
-**[Hanya Dengan 1 Juta Kini Anda Bisa Menjadi Investor di Berbagai Bisnis Potensial di Sekitar Anda Bersama LandX.](https://landx.id/)**
+**[Hanya Dengan 1 Juta Kini Anda Bisa Menjadi Investor di Berbagai Bisnis Potensial di Sekitar Anda Bersama LandX](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)**
 
-[LandX](https://landx.id/) sebagai platform [equity crowdfunding](https://landx.id/) memberikan anda pilihan bisnis potensial untuk investasi anda.
+[![miliki bisnis modal kecil cuma dengan 1 jutaan dapat 4 cabang ](https://accountgram-production.sfo2.cdn.digitaloceanspaces.com/landx_ghost/2021/11/jadi-owner-bisnis-hanya-1-jutaan-dengan-cuan-yang-sangat-menjanjikan.png)](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)
 
-**[Yuk mulai investasi sekarang.](https://landx.id/)**
+- - -
 
----
-
-> [**Yuk Follow Instagram Kami @landx.id Untuk Berbagai  Tips Investasi Terupdate Lainnya**](https://www.instagram.com/landx.id/?utm_medium=copy_link)
-
-‌#LandX.id	#landx.id	#InvestasiBisnis	#EquityCrowdfunding	#InvestasiMenguntungkan	#Urundana	#BisnisPatungan	#InvestasiUsaha
-
+> **[Yuk Follow Instagram Kami @landx.id Untuk Berbagai  Tips Investasi Terupdate Lainnya](https://www.instagram.com/landx.id/?utm_medium=copy_link)**
