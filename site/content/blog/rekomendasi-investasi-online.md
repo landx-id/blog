@@ -1,41 +1,43 @@
-+++
-author = "Abdul Wahhab"
-category = ["Equity Crowdfunding", "investasi online", "Investasi online terbaru", "Saham Online", "Properti online", "P2P Lending", "bisnis investasi", "Instrumen Investasi", "bisnis investasi terpercaya", "bisnis makanan", "investasi keuangan", "Investasi Passive Income", "investasi pemula", "investasi saham", "peluang bisnis"]
-date = 2021-05-03T02:58:53Z
-metaDescription = "Investasi online terbaru 2022: \n1. Equity Crowdfunding 2. P2P Lending 3. Saham Online 4. Obligasi 5.ReksaDana 6. Emas Online 7. Properti Online 8. Deposito "
-draft = false
-image = "https://accountgram-production.sfo2.cdn.digitaloceanspaces.com/landx_ghost/2021/05/6.-Bisnis-investasi-online-terpercaya.jpg"
-slug = "rekomendasi-investasi-online"
-tag = ["Equity Crowdfunding", "investasi online", "Investasi online terbaru", "Saham Online", "Properti online", "P2P Lending", "bisnis investasi", "Instrumen Investasi", "bisnis investasi terpercaya", "bisnis makanan", "investasi keuangan", "Investasi Passive Income", "investasi pemula", "investasi saham", "peluang bisnis"]
-title = "8 Rekomendasi Investasi Online Terbaik dan Aman Bagi Pemula: Saham Hingga Equity Crowdfunding"
-
-+++
-
-
+---
+draft: false
+author: Abdul Wahhab
+slug: rekomendasi-investasi-online
+title: " 8 Rekomendasi Investasi Online Terbaik yang Cocok untuk Pemula"
+metaTitle: "8 Rekomendasi Investasi Terbaik yang Bisa Memberikan Anda Keuntungan "
+metaDescription: Pilihan investasi menguntungkan modal kecil yang cocok untuk
+  para investor pemula
+intro: Yuk cek berbagai pilihan investasi modal kecil yang bisa kamu coba....
+date: 2021-05-03T02:58:53.000Z
+tag:
+  - Equity Crowdfunding
+  - investasi online
+  - Investasi online terbaru
+  - Saham Online
+  - Properti online
+  - P2P Lending
+  - bisnis investasi
+  - Instrumen Investasi
+  - bisnis investasi terpercaya
+  - bisnis makanan
+  - investasi keuangan
+  - Investasi Passive Income
+  - investasi pemula
+  - investasi saham
+  - peluang bisnis
+featuredImage:
+  src: https://accountgram-production.sfo2.cdn.digitaloceanspaces.com/landx_ghost/2021/05/6.-Bisnis-investasi-online-terpercaya.jpg
+  alt: Pilihan investasi jangka panjang terbaik yang harus anda coba
+  title: Yuk temukan pilihan investasi terbaik untuk anda.
+image: https://accountgram-production.sfo2.cdn.digitaloceanspaces.com/landx_ghost/2021/05/6.-Bisnis-investasi-online-terpercaya.jpg
+category:
+  - Investasi
+  - Keuangan
+---
 **Menyambut tahun 2022,** tentu saja banyak orang-orang mulai menyusun resolusi tahun baru mereka. Salah satu resolusi yang banyak disusun adalah **resolusi finansial** yang lebih baik yang salah satu caranya adalah dengan mulai berinvestasi dengan lebih baik.
 
 Oleh sebab itu, banyak orang mulai menyusun rencana investasi mereka di awal tahun 2022 ini dan mulai mencari instrumen investasi seperti apa yang bisa memberikan mereka keuntungan yang optimal.
 
-Karena itu, yuk simak berbagai instrumen investasi yang bisa kamu akses secara online untuk pilihan investasi jangka panjang kamu di tahun 2022.
-
----
-
-## Table of Content
-
-* **[Pilihan Investasi Online Terbaik di Tahun 2022](https://landx.id/blog/rekomendasi-investasi-online/#pilihan-investasi-online-terbaik-di-tahun-2022)**
-
-1. **[Equity Crowdfunding](https://landx.id/blog/rekomendasi-investasi-online/#1-equity-crowdfunding)**
-2. **[P2P Lending](https://landx.id/blog/rekomendasi-investasi-online/#2-p2p-lending-p2pl)**
-3. ******[Saham Online](https://landx.id/blog/rekomendasi-investasi-online/#3-saham-online)******
-4. ******[Obligasi](https://landx.id/blog/rekomendasi-investasi-online/#4-obligasi)******
-5. **[Reksa Dana](https://landx.id/blog/rekomendasi-investasi-online/#5-reksa-dana)**
-6. ******[Emas Online](https://landx.id/blog/rekomendasi-investasi-online/#6-emas-online)******
-7. **[Properti Online](https://landx.id/blog/rekomendasi-investasi-online/#7-properti-online) **
-8. **[Deposito](https://landx.id/blog/rekomendasi-investasi-online/#8-deposito) **
-
-* **[Kesimpulan](https://landx.id/blog/rekomendasi-investasi-online/#kesimpulan)**
-
----
+Karena itu, yuk simak berbagai instrumen investasi yang bisa kamu akses secara online untuk pilihan investasi jangka panjang kamu di tahun 2022
 
 ## Pilihan Investasi Online Terbaik di Tahun 2022
 
@@ -58,8 +60,8 @@ Sistem ini sangat cocok untuk investor pemula  karena analisis bisnis jauh lebih
 Hampir sama seperti [equity crowdfunding](https://landx.id/), Peer to Peer Lending (P2PL) merupakan jenis instrumen yang konsepnya sering disangka sama seperti equity crowdfunding yang mempertemukan pihak dengan kebutuhan modal dengan investor dalam satu platform.
 
 **Artikel Terkait:**
-* **[Mau Mulai Investasi? Pahami Dulu Perbedaan Crowdfunding dan Peer to Peer Lending](https://landx.id/blog/mau-mulai-investasi-pahami-dulu-perbedaan-crowdfunding-dan-peer-to-peer-lending/)**
 
+* **[Mau Mulai Investasi? Pahami Dulu Perbedaan Crowdfunding dan Peer to Peer Lending](https://landx.id/blog/mau-mulai-investasi-pahami-dulu-perbedaan-crowdfunding-dan-peer-to-peer-lending/)**
 * **[Pahami 10+ Istilah Penting dalam Investasi agar Investasi Bisnis Anda menjadi Lebih Mudah](https://landx.id/blog/pahami-10-istilah-penting-dalam-investasi-agar-investasi-bisnis-anda-menjadi-lebih-mudah/)**
 
 Dalam P2P pendanaan berbasis utang sehingga investor merupakan pihak yang akan meminjamkan dan mereka kepada pihak yang membutuhkan dan akan mendapatkan keuntungan dari bunga pinjaman yang didapatkan saat pengembalian dana dilakukan.
@@ -90,11 +92,11 @@ Reksa dana sangat cocok untuk pemula karena dana anda akan diatur dan dikelola o
 
 Sistem berinvestasi secara [online](https://landx.id/) ini sangat cocok untuk pemula karena selain dikelola pihak profesional, modal yang dibutuhkan pun sangat kecil dengan minimum Rp 10.000 yang membuat reksa dana bisa dibeli oleh masyarakat luas.
 
-Akses membeli reksa dana kini kian mudah karena sudah banyak agen reksa dana yang bekerjasama dengan berbagai platform online seperti _e-commerce untuk_ memudahkan transaksn.  Reksa dana memiliki beberapa jenis yang bisa anda pilih menyesuaikan profil risiko anda seperti reksa dana pasar uang, saham, atau reksa dana campuran.
+Akses membeli reksa dana kini kian mudah karena sudah banyak agen reksa dana yang bekerjasama dengan berbagai platform online seperti *e-commerce untuk* memudahkan transaksn.  Reksa dana memiliki beberapa jenis yang bisa anda pilih menyesuaikan profil risiko anda seperti reksa dana pasar uang, saham, atau reksa dana campuran.
 
 **Artikel Terkait:**
-* **[Mengenal Investasi Mutual Fund: Definisi, Cara Kerja, dan Jenis Mutual Fund](https://landx.id/blog/mengenal-investasi-mutual-fund-definisi-cara-kerja-dan-jenis-mutual-fund/)**
 
+* **[Mengenal Investasi Mutual Fund: Definisi, Cara Kerja, dan Jenis Mutual Fund](https://landx.id/blog/mengenal-investasi-mutual-fund-definisi-cara-kerja-dan-jenis-mutual-fund/)**
 * **[Hedge Fund: Pengertian, Tujuan, Karakteristik, dan Memulai Hedge Fund](https://landx.id/blog/hedge-fund-pengertian-tujuan-karakteristik-dan-memulai-hedge-fund/)**
 
 ### 6. Emas Online
@@ -131,15 +133,15 @@ Karena itu, kamu butuh diversifikasi sebagai mitigasi risiko apabila sesuatu tid
 
 Karena itu....
 
-## Yuk [Investasi  Online Modal Kecil Bareng LandX](https://landx.id/)
+## [Yuk, jadi bos bisnis dan terima keuntungan rutin di LandX](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)
 
-[![Bagaimana? Kamu lebih suka bisnis dengan buyback guarantee atau yang bisa disimpan dalam jangka panjang? Apapun pilihan kamu.. Yuk Patungan  dengan Keuntungan Menjanjikan Bareng LandX](https://accountgram-production.sfo2.cdn.digitaloceanspaces.com/landx_ghost/2021/10/Equity-Crowdfunding-di-Indonesia-1--3.png)](http://landx.id/project/)
+[![miliki bisnis modal kecil cuma dengan 1 jutaan dapat 4 cabang ](https://accountgram-production.sfo2.cdn.digitaloceanspaces.com/landx_ghost/2021/11/jadi-owner-bisnis-hanya-1-jutaan-dengan-cuan-yang-sangat-menjanjikan.png)](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)
 
----
+- - -
 
 **[Mau Informasi Menarik Lain Seputar Investasi? Yuk Kunjungi Instagram Kami di @landx.id](https://www.instagram.com/landx.id/?utm_medium=copy_link)**
 
----
+- - -
 
 **Baca Juga:**
 
@@ -147,7 +149,6 @@ Karena itu....
 * [Investasi dengan Passive Income untuk Masa Depan](https://landx.id/blog/investasi-dengan-passive-income-untuk-masa-depan/)
 * [Investasi Selalu Rugi? Coba Lakukan Diversifikasi. Ini 4 Cara Melakukannya!](https://landx.id/blog/arti-penting-diversifikasi-dalam-investasi/)
 
----
+- - -
 
-**#YukPatunganBisnis**
-
+**\#YukPatunganBisnis**
