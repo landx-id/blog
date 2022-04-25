@@ -1,15 +1,28 @@
 ---
 author: "Aulia Putri Andrika "
-title: List Usaha Franchise Makanan Dibawah 10 juta | LandX
-metaTitle: List Usaha Franchise Makanan Dibawah 10 juta | LandX
+title: List Franchise di Bawah 10 Juta untuk Bisnis Anda di Tahun 2022
+metaTitle: List Franchise di Bawah 10 Juta untuk Bisnis Anda di Tahun 2022
 metaDescription: Bisnis Franchise Makanan Terlaris Modal di Bawah 10 Juta.
   Berikut ini 10 franchise makanan paling laris dengan modal
-intro: Carilah Franchise terpercaya untuk masa depan bisnis yang luar biasa!
+intro: Yuk cek berbagai franchise makanan modal di bawah 10 juta yang bisa jadi
+  inspirasi bisnis franchise kamu di tahun 2022
 date: 2022-04-25T04:00:56.136Z
+tag:
+  - Bisnis Makanan
+  - Franchise Makanan
+  - Franchise FnB
+  - Bisnis F&B
+  - Franchise Makanan
+  - Peluang Bisnis
+  - Patungan Bisnis
+category:
+  - Bisnis
+  - Keuangan
 featuredImage:
-  title: Carilah Franchise terpercaya untuk masa depan bisnis yang luar biasa!
+  title: Peluang Bisnis Franchise Modal di Bawah 10 Juta untuk Ide Bisnis Anda di
+    Tahun 2022
   src: img/handshake-close-up-executives.jpg
-  alt: "Franchise Makanan "
+  alt: "Franchise Makanan Modal di Bawah 10 Juta yang Bisa Jadi Ide Bisnis Anda "
 ---
 <!--StartFragment-->
 
