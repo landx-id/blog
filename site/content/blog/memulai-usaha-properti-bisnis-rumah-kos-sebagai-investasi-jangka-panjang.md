@@ -1,17 +1,33 @@
-+++
-author = "Abdul Wahhab"
-category = ["crowdfunding properti", "bisnis investasi", "bisnis investasi online", "crowdfunding indonesia", "investasi properti", "Investasi online terbaru", "Saham Online", "Bisnis Franchise Modal Kecil"]
-date = 2021-05-20T10:19:35Z
-metaDescription = "Cara jadi pemilik usaha properti cuma dengan modal 1 jutaan? Yuk simak cara mulai jadi investor properti cuma dengan modal 1 jutaan saja"
-draft = false
-image = "https://images.unsplash.com/photo-1597047084897-51e81819a499?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxMTc3M3wwfDF8c2VhcmNofDV8fGZsYXR8ZW58MHx8fHwxNjQxOTIxODI4&ixlib=rb-1.2.1&q=80&w=1080"
-slug = "memulai-usaha-properti-bisnis-rumah-kos-sebagai-investasi-jangka-panjang"
-tag = ["crowdfunding properti", "bisnis investasi", "bisnis investasi online", "crowdfunding indonesia", "investasi properti", "Investasi online terbaru", "Saham Online", "Bisnis Franchise Modal Kecil"]
-title = "Memulai Usaha Properti: Bisnis Rumah Kos Sebagai Investasi Jangka Panjang"
-
-+++
-
-
+---
+draft: false
+author: Abdul Wahhab
+slug: memulai-usaha-properti-bisnis-rumah-kos-sebagai-investasi-jangka-panjang
+title: "Usaha Properti: Cara Memulai Bisnis Properti dengan Modal Kecil"
+metaTitle: "Usaha Properti: Cara Memulai Bisnis Properti dengan Modal Kecil"
+metaDescription: Cara memulai bisnis properti modal kecil yang sangat cocok
+  untuk anda yang ingin investasi modal kecil
+intro: Yuk simak cara usaha properti yang bisa memberikan anda keuntungan jangka
+  panjang.
+date: 2021-05-20T10:19:35.000Z
+tag:
+  - crowdfunding properti
+  - bisnis investasi
+  - bisnis investasi online
+  - crowdfunding indonesia
+  - investasi properti
+  - Investasi online terbaru
+  - Saham Online
+  - Bisnis Franchise Modal Kecil
+featuredImage:
+  src: https://images.unsplash.com/photo-1516156008625-3a9d6067fab5?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80
+  alt: "Yuk simak cara memulai usaha properti dengan modal kecil yang cocok untuk
+    investor pemula "
+  title: Cara memulai bisnis properti yang cocok untuk pemula
+image: https://images.unsplash.com/photo-1597047084897-51e81819a499?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxMTc3M3wwfDF8c2VhcmNofDV8fGZsYXR8ZW58MHx8fHwxNjQxOTIxODI4&ixlib=rb-1.2.1&q=80&w=1080
+category:
+  - Bisnis
+  - Investasi
+---
 **Model [bisnis properti](https://landx.id/)** dengan penyewaan rumah kos merupakan salah satu bisnis yang menjanjikan terutama bagi para investor yang ingin berinvestasi dalam jangka panjang. Rumah kos dinilai memiliki yang semakin meningkat dari waktu ke waktu, karena rumah kos merupakan salah satu solusi dari harga lahan pemukiman yang semakin meningkat.
 
 Menyewa rumah kos menjadi pilihan terutama bagi pekerja dan mahasiswa yang berada di suatu wilayah dalam waktu yang tidak begitu lama.
@@ -22,14 +38,7 @@ Periode penyewaan rumah kos pun kini semakin beragam mulai dari tahunan, bulanan
 
 Akan tetapi, setiap investasi memiliki kekurangan dan kelebihan masing-masing yang harus anda pahami sebelum memulai investasi. Karena itu mari kita bahas kekurangan dan kelebihan dari rumah kos.
 
----
-
-## Table of Content
-
-* **[Kelebihan Rumah Kos](#kelebihan-rumah-kos)**
-* **[Risiko Rumah Kos](#risiko-rumah-kos)**
-
----
+- - -
 
 ## Kelebihan Rumah Kost
 
@@ -75,7 +84,7 @@ Selain keunggulan, anda juga harus paham bahwa rumah kos memiliki beberapa kekur
 
 Agar dapat bersaing dengan rumah kos lain, anda perlu memberikan fasilitas terbaik agar konsumen memilih properti sewaan milik anda. Penambahan fasilitas ini tidak hanya memakan biaya yang cukup besar di awal tapi juga akan meningkatkan biaya perawatan dari rumah kos yang anda miliki.
 
-Hal ini akan meningkatkan biaya tetap (_fix cost)_ yang harus anda keluarkan walaupun saat kamar tersebut kosong dan tidak menghasilkan uang. Karena itu saat membangun rumah kos anda harus memperhitungkan biaya tetap yang harus anda keluarkan untuk perawatan properti milik anda.
+Hal ini akan meningkatkan biaya tetap (*fix cost)* yang harus anda keluarkan walaupun saat kamar tersebut kosong dan tidak menghasilkan uang. Karena itu saat membangun rumah kos anda harus memperhitungkan biaya tetap yang harus anda keluarkan untuk perawatan properti milik anda.
 
 Karena itu anda perlu menyiapkan sejumlah dana cadangan untuk perawatan fasilitas rumah kos untuk berjaga-jaga apabila rumah kos yang anda bangun tidak langsung terisi.
 
@@ -103,18 +112,17 @@ Akan tetapi, anda tidak perlu khawatir karena kini telah tersedia **[sistem equi
 
 [![Yuk mulai patungan bisnis menguntungkan jangka panja g bersama LandX](https://accountgram-production.sfo2.cdn.digitaloceanspaces.com/landx_ghost/2021/09/Equity-Crowdfunding-di-Indonesia-1--3.png)](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)
 
----
+- - -
 
-[**Supaya Selalu Update Info Seputar Investasi Yuk Follow Instagram Kami @landx.id**](https://www.instagram.com/landx.id/?utm_medium=copy_link)
+**[Supaya Selalu Update Info Seputar Investasi Yuk Follow Instagram Kami @landx.id](https://www.instagram.com/landx.id/?utm_medium=copy_link)**
 
----
+- - -
 
 **Baca Juga:**
 
 * [Mengenal Investasi Mutual Fund: Definisi, Cara Kerja, dan Jenis Mutual Fund](https://landx.id/blog/mengenal-investasi-mutual-fund-definisi-cara-kerja-dan-jenis-mutual-fund/)
 * [Ingin Mulai Menjadi Investor di Pasar Modal? Yuk Pahami Beberapa Hal Ini Sebelum Mulai Investasi Pasar Modal](https://landx.id/blog/ingin-mulai-menjadi-investor-di-pasar-modal-yuk-pahami-beberapa-hal-ini-sebelum-mulai-investasi-pasar-modal/)
 
----
+- - -
 
-**#YukPatunganBisnis**
-
+**\#YukPatunganBisnis**
