@@ -62,10 +62,6 @@ Skema SCF memberikan investor pilihan efek yang lebih beragam dalam bentuk utang
 
 Hal ini menjadi solusi bagi beberapa UKM yang bergerak dalam industri halal sehingga membutuhkan efek halal yang bisa diterbitkan dalam bentuk sukuk. Hal ini diharapkan dapat mencakup investor yang lebih luas sehingga semakin mendorong perkembangan UKM di Indonesia.
 
-**Artikel Terkait:**
-
-* **[Resmi Diluncurkan, Berikut Perbedaan antara Securities Crowdfunding (SCF) dan Equity Crowdfunding (ECF)](https://landx.id/blog/securities-crowdfunding-dan-equity-crowdfunding/)**
-
 ## Memiliki Aturan yang Jelas
 
 Sistem securities crowdfunding memiliki sistem yang jelas dan sudah diatur oleh OJK mulai dari perizinan hingga pelaporan penerbit. Skema ini juga mendorong penyelenggara dan penerbit untuk dapat saling bersinergi dalam melakukan mitigasi risiko dan tata kelola yang baik sehingga dapat memberikan keuntungan bagi semua pihak.
