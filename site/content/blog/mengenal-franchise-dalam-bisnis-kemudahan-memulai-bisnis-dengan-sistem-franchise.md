@@ -1,15 +1,28 @@
-+++
-author = "Abdul Wahhab"
-category = ["Bisnis Franchise Modal Kecil", "Bisnis F&B", "Franchise Makanan", "sistem franchise"]
-date = 2021-05-07T03:35:25Z
-metaDescription = "Sistem franchise bisa menjadi solusi apabila anda ingin membuka bisnis tapi tidak mau kesulitan membangun brand dari awal. Pelajari cara memilih franchise.."
-draft = false
-image = "https://images.unsplash.com/photo-1589286030310-f7061d3bf42e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxMTc3M3wwfDF8c2VhcmNofDN8fGZyYW5jaGlzZXxlbnwwfHx8fDE2NDEzOTcyOTk&ixlib=rb-1.2.1&q=80&w=1080"
-slug = "mengenal-franchise-dalam-bisnis-kemudahan-memulai-bisnis-dengan-sistem-franchise"
-tag = ["Bisnis Franchise Modal Kecil", "Bisnis F&B", "Franchise Makanan", "sistem franchise"]
-title = "Mengenal Franchise dalam Bisnis: Kemudahan Memulai Bisnis dengan Sistem Franchise"
-
-+++
+---
+draft: false
+author: Abdul Wahhab
+slug: mengenal-franchise-dalam-bisnis-kemudahan-memulai-bisnis-dengan-sistem-franchise
+title: "Sistem Franchise Makanan: Memulai Bisnis dengan Sistem Waralaba"
+metaTitle: "Sistem Franchise Makanan: Memulai Bisnis dengan Sistem Waralaba"
+metaDescription: Yuk simak kelebihan dan kekurangan memulai bisnis dengan sistem franchise
+intro: "Yuk simak kelebihan dan kekurangan memulai bisnis dengan sistem
+  franchise yang penting untuk anda pahami. "
+date: 2021-05-07T03:35:25.000Z
+tag:
+  - Bisnis Franchise Modal Kecil
+  - Bisnis F&B
+  - Franchise Makanan
+  - sistem franchise
+featuredImage:
+  src: https://images.unsplash.com/photo-1589286030310-f7061d3bf42e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxMTc3M3wwfDF8c2VhcmNofDN8fGZyYW5jaGlzZXxlbnwwfHx8fDE2NDEzOTcyOTk&ixlib=rb-1.2.1&q=80&w=1080
+  alt: Simak kelemahan dan kelebihan dari memulai bisnis makanan dengan sistem
+    franchise
+  title: kelebihan dan kekurangan sistem franchise
+image: https://images.unsplash.com/photo-1589286030310-f7061d3bf42e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxMTc3M3wwfDF8c2VhcmNofDN8fGZyYW5jaGlzZXxlbnwwfHx8fDE2NDEzOTcyOTk&ixlib=rb-1.2.1&q=80&w=1080
+category:
+  - Bisnis
+  - Keuangan
+---
 
 
 Saat ingin [membangun usaha](https://landx.id/) dan masih kebingungan menentukan bisnis yang akan dibuka, sistem franchise bisa menjadi solusi terutama bagi anda yang masih kesulitan merancang sistem yang efektif untuk dijalankan dalam bisnis anda.
