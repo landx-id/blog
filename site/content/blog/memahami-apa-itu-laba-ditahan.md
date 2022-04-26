@@ -1,29 +1,38 @@
-+++
-author = "Abdul Wahhab"
-category = ["bisnis investasi", "bisnis investasi online", "crowdfunding indonesia", "crowdfunding properti", "Equity Crowdfunding", "investasi", "investasi bagi hasil", "investasi bisnis"]
-date = 2021-04-17T03:04:00Z
-metaDescription = "Laba ditahan merupakan istilah yang sering muncul dalam investasi. Agar anda dapat menjalankan investasi dengan lebih lancar. pahami fungsi laba ditahan"
-draft = false
-slug = "memahami-apa-itu-laba-ditahan"
-tag = ["bisnis investasi", "bisnis investasi online", "crowdfunding indonesia", "crowdfunding properti", "Equity Crowdfunding", "investasi", "investasi bagi hasil", "investasi bisnis"]
-title = "Memahami Istilah Laba Ditahan dalam Investasi"
-
-+++
-
-
+---
+draft: false
+author: Abdul Wahhab
+slug: memahami-apa-itu-laba-ditahan
+title: Yuk Pahami Apa Itu Laba yang Ditahan dan Tujuan Laba Ditahan
+metaTitle: Yuk Pahami Apa Itu Laba yang Ditahan dan Tujuan Laba Ditahan
+metaDescription: Apa tujuan perusahaan menyisihkan sebagian laba ditahan
+  perusahaan? Yuk simak apa itu laba ditahan
+intro: Yuk pahami tujuan laba ditahan dan cara mengenali laba ditahan pada
+  laporan keuangan
+date: 2021-04-17T03:04:00.000Z
+tag:
+  - bisnis investasi
+  - bisnis investasi online
+  - crowdfunding indonesia
+  - crowdfunding properti
+  - Equity Crowdfunding
+  - investasi
+  - investasi bagi hasil
+  - investasi bisnis
+category:
+  - "Investasi "
+  - Keuangan
+featuredImage:
+  src: https://images.unsplash.com/photo-1568234928966-359c35dd8327?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=926&q=80
+  alt: "Yuk simak pahami apa itu laba ditahan dan kenapa laba ditahan dilakukan "
+  title: Pahami apa itu laba ditahan dan kenapa laba disisihkan untuk ditahan
+---
 Sebagai seorang investor yang berinvestasi ke dalam berbagai jenis [saham dan bisnis](https://landx.id/) anda tentu akan sering mendengar istilah laba ditahan. Karena itu mari kita bahas lebih lanjut tentang apa itu laba ditahan.
 
 Dalam memilih instrumen investasi, laba ditahan menjadi salah satu poin penting dalam laporan keuangan yang sering menjadi perhatian banyak orang. Akan tetapi, sudahkah kamu paham apa itu laba ditahan dan apa tujuan perusahaan menyisihkan sebagian laba ditahan perusahaan?
 
 Supaya kamu paham, yuk kita bahas bersama tentang apa itu laba ditahan.
 
----
-
-## Table of Content
-
-* [Apa Itu Laba Ditahan?](https://landx.id/blog/memahami-apa-itu-laba-ditahan/#apa-itu-laba-ditahan)
-* [Kenapa Perusahaan Melakukan Penahan Laba?](https://landx.id/blog/memahami-apa-itu-laba-ditahan/#kenapa-perusahaan-melakukan-penahanan-laba/)
-* [Perbedaan Laba Ditahan dan Laba Tahun Berjalan](https://landx.id/blog/memahami-apa-itu-laba-ditahan/#perbedaan-laba-ditahan-dan-laba-tahun-berjalan)
+- - -
 
 ## Apa Itu Laba Ditahan?
 
@@ -33,7 +42,7 @@ Terkadang perusahaan hanya melakukan penahanan laba sebagian dan tetap melakukan
 
 Biasanya laba yang tertahan akan digunakan untuk berbagai kepentingan perusahaan seperti pembayaran hutang atau modal untuk ekspansi bisnis yang akan dilakukan dalam beberapa waktu ke depan.
 
----
+- - -
 
 **Baca Juga:**
 
@@ -57,20 +66,17 @@ Istilah lain yang sering muncul adalah laba berjalan, Laba berjalan adalah laba 
 
 kalau anda sudah paham berbagai istilah dalam investasi, saatnya anda mulai investasi bisnis online bersama [LandX](https://landx.id/) dengan modal kecil.
 
-[![Bagaimana? Kamu lebih suka bisnis dengan buyback guarantee atau yang bisa disimpan dalam jangka panjang? Apapun pilihan kamu.. Yuk Patungan  dengan Keuntungan Menjanjikan Bareng LandX](https://accountgram-production.sfo2.cdn.digitaloceanspaces.com/landx_ghost/2021/10/Equity-Crowdfunding-di-Indonesia-1--3.png)](http://landx.id/project/)
+## [Yuk, jadi bos bisnis dan terima keuntungan rutin di LandX](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)
 
-#YukPatunganBisnis
+[![miliki bisnis modal kecil cuma dengan 1 jutaan dapat 4 cabang ](https://accountgram-production.sfo2.cdn.digitaloceanspaces.com/landx_ghost/2021/11/jadi-owner-bisnis-hanya-1-jutaan-dengan-cuan-yang-sangat-menjanjikan.png)](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)
 
-[**Jangan Lupa Follow Instagram @landx.id Untuk Berbagai Tips Investasi Menguntungkan Lainnya**](https://www.instagram.com/landx.id/?utm_medium=copy_link)
+\#YukPatunganBisnis
 
----
+**[Jangan Lupa Follow Instagram @landx.id Untuk Berbagai Tips Investasi Menguntungkan Lainnya](https://www.instagram.com/landx.id/?utm_medium=copy_link)**
+
+- - -
 
 **Baca Juga:**
 
 * [Dana Pensiun: Menyusun Rencana Keuangan dan Investasi untuk Hari Tua yang Tenang](https://landx.id/blog/perencanaan-keuangan-untuk-hari-tua/)
 * [Skala Prioritas: Memahami Pengertian dan Tujuan Menyusun Skala Prioritas dalam Mengelola Keuangan](https://landx.id/blog/konsep-skala-prioritas/)
-
----
-
-**#YukPatunganBisnis    #LandX.id    #landx         #landx.id    #InvestasiBisnis  #SecuritiesCrowdfunding   #EquityCrowdfunding    #InvestasiMenguntungkan     #Urundana    #BisnisPatungan    #InvestasiUsaha**
-
