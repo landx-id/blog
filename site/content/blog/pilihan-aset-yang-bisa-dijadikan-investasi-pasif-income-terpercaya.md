@@ -1,33 +1,38 @@
-+++
-author = "Abdul Wahhab"
-category = ["bisnis investasi", "bisnis investasi online", "crowdfunding indonesia", "crowdfunding properti", "Equity Crowdfunding", "investasi bisnis", "investasi properti", "Securities Crowdfunding untuk Pengembangan UMKM di Indonesia"]
-date = 2021-04-23T02:22:04Z
-metaDescription = "Investasi pasif income adalah investasi yang bisa memberikan anda penghasilan tanpa melakukan apapun yang perlu disiapkan sedini mungkin bagi investor"
-draft = false
-image = "https://images.unsplash.com/photo-1626266061368-46a8f578ddd6?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxMTc3M3wwfDF8c2VhcmNofDN8fGluY29tZXxlbnwwfHx8fDE2NDAwMjA0NDk&ixlib=rb-1.2.1&q=80&w=1080"
-slug = "pilihan-aset-yang-bisa-dijadikan-investasi-pasif-income-terpercaya"
-tag = ["bisnis investasi", "bisnis investasi online", "crowdfunding indonesia", "crowdfunding properti", "Equity Crowdfunding", "investasi bisnis", "investasi properti", "Securities Crowdfunding untuk Pengembangan UMKM di Indonesia"]
-title = "Pilihan Aset yang Bisa Dijadikan Investasi Pasif Income Terpercaya"
-
-+++
-
-
-Memiliki aset investasi dengan [**pasif income**](https://landx.id/) adalah impian setiap orang untuk membangun kondisi finansial yang stabil di masa yang akan datang. Pasif income akan memberikan anda keuntungan tanpa perlu melakukan tindakan ekonomi secara langsung.
+---
+draft: false
+author: Abdul Wahhab
+slug: pilihan-aset-yang-bisa-dijadikan-investasi-pasif-income-terpercaya
+title: Cara Membangun Income Pasif dengan Memilih Aset Jangka Panjang
+metaTitle: Cara Membangun Income Pasif dengan Memilih Aset Jangka Panjang
+metaDescription: Cara memilih aset investasi yang menghasilkan income pasif jangka panjang
+intro: Yuk simak berbagai pilihan aset jangka panjang yang bisa memberikan anda
+  income pasif jangka panjang....
+date: 2021-04-23T02:22:04.000Z
+tag:
+  - bisnis investasi
+  - bisnis investasi online
+  - crowdfunding indonesia
+  - crowdfunding properti
+  - Equity Crowdfunding
+  - investasi bisnis
+  - investasi properti
+  - Securities Crowdfunding untuk Pengembangan UMKM di Indonesia
+featuredImage:
+  src: https://images.unsplash.com/photo-1626266061368-46a8f578ddd6?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxMTc3M3wwfDF8c2VhcmNofDN8fGluY29tZXxlbnwwfHx8fDE2NDAwMjA0NDk&ixlib=rb-1.2.1&q=80&w=1080
+  alt: Yuk simak cara menghasilkan income pasif jangka panjang lewat aset
+    investasi menguntungkan
+  title: Yuk simak bagaimana cara membangun aset pasif jangka panjang
+image: https://images.unsplash.com/photo-1626266061368-46a8f578ddd6?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxMTc3M3wwfDF8c2VhcmNofDN8fGluY29tZXxlbnwwfHx8fDE2NDAwMjA0NDk&ixlib=rb-1.2.1&q=80&w=1080
+category:
+  - Bisnis
+  - Investasi
+  - Keuangan
+---
+Memiliki aset investasi dengan **[pasif income](https://landx.id/)** adalah impian setiap orang untuk membangun kondisi finansial yang stabil di masa yang akan datang. Pasif income akan memberikan anda keuntungan tanpa perlu melakukan tindakan ekonomi secara langsung.
 
 Namun menyusun aset agar bisa menghasilkan pasif income bukanlah hal mudah karena butuh perencanaan matang agar aset anda bisa menghasilkan [pasif income](https://landx.id/) dan bukan malah menimbulkan beban pengeluaran baru. Oleh sebab itu, mari kita bahas secara lebih mendalam tentang apa itu **[pasif income](https://landx.id/project/)** dan berbagai aset untuk [investasi](https://landx.id/) dengan pasif income menjanjikan dalam jangka panjang.
 
----
-
-## Table of Content
-
-* **[Apa Itu Pasif Income?](#apa-itu-pasif-income)**
-* **[Penyewaan Properti](#penyewaan-properti )**
-* **[Membangun Bisnis Franchise](#membangun-bisnis-franchise)**
-* **[Investasi Saham](#investasi-saham)**
-* **[Mulai Membangun Konten Digital](#mulai-membangun-konten-digital )**
-* **[Investasi Bisnis](#investasi-bisnis)**
-
----
+- - -
 
 ## Apa Itu Pasif Income?
 
@@ -61,7 +66,7 @@ Selain itu anda juga tidak perlu kesulitan membangun brand yang dikenal masyarak
 
 ## Investasi Saham
 
-Saham merupakan investasi yang bisa memberikan anda [pasif income](https://landx.id/) yang menguntungkan asalkan anda paham bagaimana mengatur investasi ini. Untuk mendapatkan [pasif income yang optimal](https://landx.id/), anda harus pintar memilih saham yang memiliki rekam jejak yang baik atau sering disebut saham _blue chip_ yang memiliki potensi keuntungan yang besar sehingga anda bisa mendapatkan dividen dari saham yang anda miliki.
+Saham merupakan investasi yang bisa memberikan anda [pasif income](https://landx.id/) yang menguntungkan asalkan anda paham bagaimana mengatur investasi ini. Untuk mendapatkan [pasif income yang optimal](https://landx.id/), anda harus pintar memilih saham yang memiliki rekam jejak yang baik atau sering disebut saham *blue chip* yang memiliki potensi keuntungan yang besar sehingga anda bisa mendapatkan dividen dari saham yang anda miliki.
 
 Saham dengan sejarah yang baik biasanya risiko kerugian yang bisa dibilang kecil sehingga anda bisa mendapatkan return yang optimal. Oleh sebab itu investasi ke dalam saham blue chip bisa anda jadikan pilihan investasi yang akan memberikan anda pasif income dalam jangka panjang.
 
@@ -83,15 +88,17 @@ Melalui investasi bisnis, anda tidak perlu terlibat langsung dalam mengatur sebu
 
 Kini anda tidak perlu bingung lagi untuk mencari potensial yang membutuhkan dana, karena di Indonesia sudah ada [platform equity crowdfunding](https://landx.id/) yang membantu menyalurkan modal anda ke bisnis-bisnis potensial di sekitar anda.
 
-**[Yuk Mulai Investasi](https://landx.id/) dengan Pasif Income Menjanjikan Bareng LandX**
+## [Yuk, jadi bos bisnis dan terima keuntungan rutin di LandX](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)
 
-![jadi-owner-bisnis-hanya-1-jutaan-dengan-cuan-yang-sangat-menjanjikan-min](https://accountgram-production.sfo2.cdn.digitaloceanspaces.com/landx_ghost/2021/12/jadi-owner-bisnis-hanya-1-jutaan-dengan-cuan-yang-sangat-menjanjikan-min.png)
+[![miliki bisnis modal kecil cuma dengan 1 jutaan dapat 4 cabang ](https://accountgram-production.sfo2.cdn.digitaloceanspaces.com/landx_ghost/2021/11/jadi-owner-bisnis-hanya-1-jutaan-dengan-cuan-yang-sangat-menjanjikan.png)](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)
 
----
 
-> [**Jangan Lupa Follow Instagram @landx.id Untuk Berbagai Tips Investasi Menguntungkan Lainnya**](https://www.instagram.com/landx.id/?utm_medium=copy_link)
 
----
+- - -
+
+> **[Jangan Lupa Follow Instagram @landx.id Untuk Berbagai Tips Investasi Menguntungkan Lainnya](https://www.instagram.com/landx.id/?utm_medium=copy_link)**
+
+- - -
 
 **Baca Juga:**
 
@@ -99,7 +106,4 @@ Kini anda tidak perlu bingung lagi untuk mencari potensial yang membutuhkan dana
 * [Dana Pensiun: Menyusun Rencana Keuangan dan Investasi untuk Hari Tua yang Tenang](https://landx.id/blog/perencanaan-keuangan-untuk-hari-tua/)
 * [Skala Prioritas: Memahami Pengertian dan Tujuan Menyusun Skala Prioritas dalam Mengelola Keuanga](https://landx.id/blog/konsep-skala-prioritas/)n
 
----
-
-**#YukPatunganBisnis    #LandX.id    #landx         #landx.id     #InvestasiBisnis  #SecuritiesCrowdfunding   #EquityCrowdfunding     #InvestasiMenguntungkan     #Urundana    #BisnisPatungan     #InvestasiUsaha**
-
+- - -
