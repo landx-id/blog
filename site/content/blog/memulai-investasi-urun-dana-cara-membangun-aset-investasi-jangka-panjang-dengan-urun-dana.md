@@ -1,17 +1,30 @@
-+++
-author = "Abdul Wahhab"
-category = ["bisnis investasi", "Investasi Menguntungkan", "Investasi modal kecil", "investasi online", "Equity Crowdfunding", "urun dana"]
-date = 2021-04-21T03:43:10Z
-metaDescription = "Membangun aset dari nol merupakan sesuatu hal yang sulit untuk dilakukan, namun anda bisa mulai berinvestasi dengan urun dana untuk aset jangka panjang anda"
-draft = false
-image = "https://images.unsplash.com/photo-1542323228-002ac256e7b8?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxMTc3M3wwfDF8c2VhcmNofDE1fHxDUk9XRHxlbnwwfHx8fDE2MzkwNDU0MzE&ixlib=rb-1.2.1&q=80&w=1080"
-slug = "memulai-investasi-urun-dana-cara-membangun-aset-investasi-jangka-panjang-dengan-urun-dana"
-tag = ["bisnis investasi", "Investasi Menguntungkan", "Investasi modal kecil", "investasi online", "Equity Crowdfunding", "urun dana"]
-title = "Membangun Aset Investasi: Cara Membangun Aset Investasi Jangka Panjang dengan Urun Dana"
-
-+++
-
-
+---
+draft: false
+author: Abdul Wahhab
+slug: memulai-investasi-urun-dana-cara-membangun-aset-investasi-jangka-panjang-dengan-urun-dana
+title: "Membangun Aset jangka Panjang lewat Investasi Urun Dana "
+metaTitle: "Membangun Aset jangka Panjang lewat Investasi Urun Dana "
+metaDescription: Simak bagaimana cara membangun aset menguntungkan lewat
+  investasi melalui sistem urun dana
+intro: Yuk simak tips membangun aset investasi menguntungkan lewat sistem urun dana
+date: 2021-04-21T03:43:10.000Z
+tag:
+  - bisnis investasi
+  - Investasi Menguntungkan
+  - Investasi modal kecil
+  - investasi online
+  - Equity Crowdfunding
+  - urun dana
+featuredImage:
+  src: https://images.unsplash.com/photo-1542323228-002ac256e7b8?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxMTc3M3wwfDF8c2VhcmNofDE1fHxDUk9XRHxlbnwwfHx8fDE2MzkwNDU0MzE&ixlib=rb-1.2.1&q=80&w=1080
+  alt: "Membangun aset menguntungkan jangka panjang lewat urun dana "
+  title: "Cara membangun aset jangka panjang lewat sistem urun dana "
+image: https://images.unsplash.com/photo-1542323228-002ac256e7b8?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxMTc3M3wwfDF8c2VhcmNofDE1fHxDUk9XRHxlbnwwfHx8fDE2MzkwNDU0MzE&ixlib=rb-1.2.1&q=80&w=1080
+category:
+  - Investasi
+  - Bisnis
+  - Cara Investasi di Securities Crowdfunding
+---
 Investasi [urun dana](https://landx.id/) atau [equity crowdfunding](https://landx.id/) merupakan salah satu cara untuk membangun aset dari nol yang merupakan hal penting untuk disiapkan oleh setiap orang sejak dini. Hal ini bertujuan agar mempermudah pencapaian tujuan finansial anda. Salah satu aset yang penting untuk anda bangun adalah aset investasi, mulai membangun investasi akan membuat uang yang anda miliki dapat terus berkembang seiring berjalannya waktu.
 
 Karena itu anda harus pintar memilih investasi yang bisa memberikan anda keuntungan yang bisa anda gunakan untuk membangun aset anda menjadi lebih besar lagi dari waktu ke waktu. Karena anda harus bijak memilih aset yang bisa menghasilkan uang bukan malah menimbulkan beban pengeluaran baru untuk anda.
@@ -20,16 +33,7 @@ Walaupun bukan hal yang mudah, membangun aset dari nol akan menjadi lebih mudah 
 
 Indonesia sekarang sudah resmi mengizinkan dan mengawasi sistem ini sehingga anda bisa mulai berinvestasi ke dalam bisnis yang lewat urun dana yang akan memberikan anda kepemilikan saham, dividen dan capital gain yang dapat membantu pertumbuhan aset yang anda miliki. Karena itu mari kita bahas berbagai hal yang dapat membantu anda dalam memulai investasi bisnis.
 
----
-
-## Table of Content
-
-* **[Pahami Kondisi Bisnis yang Menjadi Tujuan Investasi Anda](https://landx.id/blog/memulai-investasi-urun-dana-cara-membangun-aset-investasi-jangka-panjang-dengan-urun-dana/#pahami-kondisi-bisnis-yang-menjadi-tujuan-investasi-anda)**
-* **[Mengoptimalkan Return on Investment](https://landx.id/blog/memulai-investasi-urun-dana-cara-membangun-aset-investasi-jangka-panjang-dengan-urun-dana/#mengoptimalkan-return-on-investment)**
-* **[Lakukan Diversifikasi](https://landx.id/blog/memulai-investasi-urun-dana-cara-membangun-aset-investasi-jangka-panjang-dengan-urun-dana/#lakukan-diversifikasi)**
-* **[Mengubah Gaya Hidup](https://landx.id/blog/memulai-investasi-urun-dana-cara-membangun-aset-investasi-jangka-panjang-dengan-urun-dana/#mengubah-gaya-hidup ) **
-
----
+- - -
 
 ## Pahami Kondisi Bisnis yang Menjadi Tujuan Investasi Anda
 
@@ -45,7 +49,7 @@ Selain itu anda juga harus melihat bagaimana bisnis ini akan dikelola dalam jang
 
 ## Mengoptimalkan Return on Investment
 
-Dalam investasi anda akan diberikan berbagai bentuk return on investment seperti _interest_ atau bunga, dividen atau capital gain. Dalam investasi urun dana sendiri, anda akan mendapatkan berpotensi untuk mendapatkan dua jenis return on investment yaitu dividen dan capital gain.
+Dalam investasi anda akan diberikan berbagai bentuk return on investment seperti *interest* atau bunga, dividen atau capital gain. Dalam investasi urun dana sendiri, anda akan mendapatkan berpotensi untuk mendapatkan dua jenis return on investment yaitu dividen dan capital gain.
 
 Dalam membangun aset investasi, anda harus pintar mengoptimalkan return dari investasi yang telah anda dapatkan. Dalam investasi jangka panjang, return yang telah anda dapatkan sebaiknya dikembangkan kembali ke dalam investasi lain sehingga pada periode berikutnya anda bisa mendapatkan return yang lebih besar lagi.
 
@@ -59,14 +63,14 @@ Karena itu jangan hanya berfokus pada satu investasi dan harus membagi-bagi ke d
 
 Hal ini agar anda tidak bergantung hanya pada 1 jenis investasi saja dan memperkecil kerugian yang terjadi. Apabila anda sudah melakukan hal ini, hal penting terakhir yang harus anda lakukan adalah mengubah gaya hidup anda agar investasi dapat anda jadikan kebiasaan.
 
----
+- - -
 
 **Artikel Terkait:**
 
 * Diversifikasi Adalah: Memahami Apa Itu Diversifikasi dan Pentingnya Strategi Diversifikasi dalam Investasi
 * [Ingin Terhindar Dari FOMO saat Berinvestasi? 5 Hal Ini Wajib Kamu Lakukan](https://landx.id/blog/fomo-dalam-kehidupan-dan-investasi/)
 
----
+- - -
 
 ## Mengubah Gaya Hidup
 
@@ -76,22 +80,21 @@ Karena itu anda perlu membangun mindset tentang pentingnya berinvestasi dan mula
 
 Hal ini mungkin tidak akan anda rasakan sekarang, namun dalam beberapa tahun ke depan anda baru akan sadar efek dari investasi secara konsisten yang anda lakukan.
 
-**Oleh sebab itu,** _****_ ayo mulai [investasi urun dana](https://landx.id/) anda bersama LandX dengan [modal hanya 1 juta](https://landx.id/). LandX menyediakan berbagai pilihan bisnis yang tepat untuk membangun aset investasi jangka panjang anda. Yuk bangun aset investasi anda dengan urun dana bersama [LandX](https://landx.id/).
+**Oleh sebab itu,** *\*\*\*\** ayo mulai [investasi urun dana](https://landx.id/) anda bersama LandX dengan [modal hanya 1 juta](https://landx.id/). LandX menyediakan berbagai pilihan bisnis yang tepat untuk membangun aset investasi jangka panjang anda. Yuk bangun aset investasi anda dengan urun dana bersama [LandX](https://landx.id/).
 
-## Yuk Patungan Bisnis Bareng LandX
+## [Yuk, jadi bos bisnis dan terima keuntungan rutin di LandX](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)
 
-[![Patungan Bisnis Bareng LandX untuk Passive Income Menjanjikan](https://accountgram-production.sfo2.cdn.digitaloceanspaces.com/landx_ghost/2021/09/Equity-Crowdfunding-di-Indonesia-1--1.png)](https://landx.id/project/)
+[![miliki bisnis modal kecil cuma dengan 1 jutaan dapat 4 cabang ](https://accountgram-production.sfo2.cdn.digitaloceanspaces.com/landx_ghost/2021/11/jadi-owner-bisnis-hanya-1-jutaan-dengan-cuan-yang-sangat-menjanjikan.png)](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)
 
 > **[Yuk Follow @landx.id di Instagram Supaya Info Seputar Investasi Bisa Terus Update](https://www.instagram.com/landx.id/?utm_medium=copy_link)**
 
----
+- - -
 
 **Baca Juga:**
 
 * [Investasi Selalu Rugi? Coba Lakukan Diversifikasi. Ini 4 Cara Melakukannya!](https://landx.id/blog/arti-penting-diversifikasi-dalam-investasi/)
 * [Alasan Kenapa Dana Darurat Sangat Penting Disiapkan Sedini Mungkin](https://landx.id/blog/menyiapkan-dana-darurat-yang-ideal/)
 
----
+- - -
 
-#YukPatunganBisnis    #LandX.id    #landx.id    #InvestasiBisnis    #EquityCrowdfunding    #InvestasiMenguntungkan    #Urundana    #BisnisPatungan    #InvestasiUsaha
-
+\#YukPatunganBisnis    #LandX.id    #landx.id    #InvestasiBisnis    #EquityCrowdfunding    #InvestasiMenguntungkan    #Urundana    #BisnisPatungan    #InvestasiUsaha
