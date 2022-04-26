@@ -1,52 +1,51 @@
-+++
-author = "Abdul Wahhab"
-category = ["investasi saham", "Cara Investasi Saham", "tips investasi"]
-date = 2021-08-02T05:24:32Z
-metaDescription = "memahami apa itu IPO dan bagaimana prospek membeli saham saat IPO | Analisis saham IPO Bukalapak dan potensi keuntungan dalam jangka panjang"
-draft = false
-image = "https://images.unsplash.com/photo-1621264448270-9ef00e88a935?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxMTc3M3wwfDF8c2VhcmNofDE1fHxzdG9ja3xlbnwwfHx8fDE2NDA2NjM1Njg&ixlib=rb-1.2.1&q=80&w=1080"
-slug = "ipo-saham-bukalapak"
-tag = ["investasi saham", "Cara Investasi Saham", "tips investasi"]
-title = "IPO Saham: Memahami Lebih Dalam Terkait IPO Bukalapak"
-
-+++
-
-
-[IPO atau _initial public offering_](https://landx.id/project/index.html) __ adalah kondisi saat suatu perusahaan atau emiten memutuskan untuk melepaskan saham yang mereka miliki kepada publik, dengan kata lain perusahaan menjual sebagian sahamnya kepada publik atau masyarakat umum.
+---
+draft: false
+author: Abdul Wahhab
+slug: ipo-saham-bukalapak
+title: Memahami E-IPO Bukalapak dan Cara Beli Saham Bukalapak lewat E-IPO
+metaTitle: Memahami E-IPO Bukalapak dan Cara Beli Saham Bukalapak lewat E-IPO
+metaDescription: Yuk pahami cara membeli saham bukalapak yang akan melakukan IPO
+  dengan sistem E-IPO untuk anda
+intro: Yuk pahami cara beli saham IPO Bukalapak yang akan segera melantai di
+  Bursa Saham Indonesia (BEI)....
+date: 2021-08-02T05:24:32.000Z
+tag:
+  - investasi saham
+  - Cara Investasi Saham
+  - tips investasi
+featuredImage:
+  src: https://images.unsplash.com/photo-1621264448270-9ef00e88a935?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxMTc3M3wwfDF8c2VhcmNofDE1fHxzdG9ja3xlbnwwfHx8fDE2NDA2NjM1Njg&ixlib=rb-1.2.1&q=80&w=1080
+  alt: Simak cara beli saham IPO Bukalapak
+  title: Bukalapak IPO lewat sistem E-IPO
+image: https://images.unsplash.com/photo-1621264448270-9ef00e88a935?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxMTc3M3wwfDF8c2VhcmNofDE1fHxzdG9ja3xlbnwwfHx8fDE2NDA2NjM1Njg&ixlib=rb-1.2.1&q=80&w=1080
+category:
+  - Investasi
+---
+[IPO atau *initial public offering*](https://landx.id/project/index.html) __ adalah kondisi saat suatu perusahaan atau emiten memutuskan untuk melepaskan saham yang mereka miliki kepada publik, dengan kata lain perusahaan menjual sebagian sahamnya kepada publik atau masyarakat umum.
 
 IPO juga sering disebut sebagai penawaran saham perdana karena IPO merupakan waktu kali pertama perusahaan melepaskan saham mereka kepada masyarakat umum sehingga publik dapat memiliki saham atau bagian kepemilikan dari suatu bisnis.
 
-Dalam beberapa waktu belakangan, kita sering mendengar bahwa beberapa perusahaan _startup_ berencana untuk IPO pada tahun ini, Bukalapak merupakan salah satu dari perusahaan tersebut dan akan melepaskan sahamnya kepada publik dalam waktu dekat.
+Dalam beberapa waktu belakangan, kita sering mendengar bahwa beberapa perusahaan *startup* berencana untuk IPO pada tahun ini, Bukalapak merupakan salah satu dari perusahaan tersebut dan akan melepaskan sahamnya kepada publik dalam waktu dekat.
 
-Hal ini tentu saja menjadi perhatian bagi banyak orang terutama bagi calon investor yang tertarik untuk membeli saham dari salah satu _e-commerce_ asal Indonesia ini.
+Hal ini tentu saja menjadi perhatian bagi banyak orang terutama bagi calon investor yang tertarik untuk membeli saham dari salah satu *e-commerce* asal Indonesia ini.
 
 Akan tetapi, hal ini menjadi pro dan kontra karena di satu sisi orang-orang berpandangan bahwa perusahaan ini kurang menjanjikan mengingat Bukalapak belum membukukan keuntungan hingga saat ini. Di sisi lain, banyak orang berpandangan Bukalapak memiliki potensi yang cukup besar melihat potensi perkembangan ekonomi digital di masa mendatang.
 
 Oleh sebab itu, mari kita bahas lebih lanjut terkait IPO Bukalapak agar kamu semakin paham seputar investasi.
 
----
-
-## Table of Content
-
-* [**Apa Itu IPO?** ](#apa-itu-ipo)
-* **[Kenapa Bukalapak IPO?](#kenapa-bukalapak-ipo)**
-* [**Mengenal Lebih Dekat Bukalapak**](#mengenal-lebih-dekat-bukalapak)
-* **[Pro dan Kontra IPO Bukalapak](#pro-dan-kontra-ipo-bukalapak)**
-* **[Rasio Keuangan untuk Menilai Suatu Saham](#rasio-keuangan-untuk-menilai-suatu-saham)**
-* **[Cara Beli Saham Bukalapak](#cara-beli-saham-bukalapak)**
-* **[Penutup](#penutup)**
-
----
+- - -
 
 ## Apa Itu IPO?
 
-Seperti yang sudah kita bahas sebelumnya, IPO (_Initial Public Offering)_ merupakan tahapan di mana suatu perusahaan  atau emiten memberikan penawaran saham perdana kepada masyarakat luas. Untuk Bukalapak sendiri, mereka akan mulai masa penawaran hingga 27 Juli 2021 dan akan melakukan pencatatan pada Bursa Efek Indonesia (BEI) pada tanggal 6 Agustus 2021.
+> Arti IPO adalah penawaran pasar perdana dimana perusahaan yang sebelumnya bersifat privat akan menjadi publik sehingga saham perusahaan dapat dimiliki oleh masyarakat luas. 
+
+Seperti yang sudah kita bahas sebelumnya, IPO (*Initial Public Offering)* merupakan tahapan di mana suatu perusahaan  atau emiten memberikan penawaran saham perdana kepada masyarakat luas. Untuk Bukalapak sendiri, mereka akan mulai masa penawaran hingga 27 Juli 2021 dan akan melakukan pencatatan pada Bursa Efek Indonesia (BEI) pada tanggal 6 Agustus 2021.
 
 Sebagai Unicorn pertama yang akan melakukan IPO, Bukalapak akan melepas sebanyak 25,76 miliar saham atau setara 25% dari total saham dengan harga per lembar 750-850. Melalui pelepasan saham kepada publik ini, Bukalapak diperkirakan akan memperoleh dana sebanyak 21,9 triliun.
 
 ## Kenapa Bukalapak IPO?
 
-Pertanyaan berikutnya yang pasti sering menjadi pertanyaan anda adalah, kenapa suatu perusahaan IPO? Untuk menjawab pertanyaan itu, mari kita bahas beberapa alasan suatu perusahan _go public_ atau IPO.
+Pertanyaan berikutnya yang pasti sering menjadi pertanyaan anda adalah, kenapa suatu perusahaan IPO? Untuk menjawab pertanyaan itu, mari kita bahas beberapa alasan suatu perusahan *go public* atau IPO.
 
 ### Membangun Pertumbuhan yang Lebih Pesat
 
@@ -68,7 +67,7 @@ Karena kita sudah membahas cukup banyak seputar IPO, mari kita bahas lebih lanju
 
 ### Tokoh-Tokoh Dibalik Bukalapak
 
-Bukalapak pertama kali diluncurkan pada 10 Januari 2010 yang didirikan oleh Achmad Zaky, Muhammad Fajrin Rasyid, dan Nugroho Herucahyono. Bukalapak merupakan salah satu platform _e-commerce_ yang bertujuan memberikan fasilitas kepada UKM untuk memasarkan produk mereka secara digital.
+Bukalapak pertama kali diluncurkan pada 10 Januari 2010 yang didirikan oleh Achmad Zaky, Muhammad Fajrin Rasyid, dan Nugroho Herucahyono. Bukalapak merupakan salah satu platform *e-commerce* yang bertujuan memberikan fasilitas kepada UKM untuk memasarkan produk mereka secara digital.
 
 Sebelumnya, Achmad Zaky merupakan pendiri sekaligus CEO dari Bukalapak hingga akhirnya digantikan pada akhir tahun 2019 oleh Rachmat Kaimuddin yang sebelumnya merupakan Director of Finance and Planning di Bank Bukopin. Pergantian ini diharapkan bisa membawa Bukalapak berkembang ke arah yang lebih baik dan terus membantu perkembangan ekonomi digital di Indonesia.
 
@@ -101,7 +100,7 @@ Oleh sebab itu, nilai saham ini perlu dilihat melalui valuasi lain seperti price
 
 Rasio PBV merupakan salah satu yang sering digunakan untuk menilai suatu saham tergolong murah atau mahal. Rasio ini dihitung dengan nilai buku suatu terlebih dahulu dengan perbandingan antara total ekuitas dan jumlah saham yang beredar.
 
-Lalu untuk PBV dihitung dengan perbandingan antara harga pasar saham dengan _book value atau nilai buku._
+Lalu untuk PBV dihitung dengan perbandingan antara harga pasar saham dengan *book value atau nilai buku.*
 
 Berdasarkan perhitungan ini, saham Bukalapak memiliki PBV dengan kisaran 3,7 hingga 4,2 kali. Hasil ini mengacu pada nilai penawaran yaitu Rp 750-850 dan total equity pada per kuartal I 2021. Apabila mengacu pada rasio ini maka saham tergolong mahal dengan nilai PBV diatas 1.
 
@@ -113,7 +112,7 @@ Akan tetapi, beberapa pihak berpendapat bahwa rasio ini merupakan metode yang ko
 
 Rasio ini merupakan salah satu rasio yang biasa digunakan untuk menilai suatu saham memiliki harga yang mahal atau tidak. Rasio ini diukur dengan perbandingan harga saham dengan penjualan per saham yang diukur membandingkan penjualan bersih dengan jumlah saham yang beredar.
 
-Bukalapak sendiri mencatat bahwa saat ini mereka memiliki 103,06 saham beredar dan pendapatan kuartal I sebanyak Rp 423,7 miliar sehingga pendapatan pendapatan per tahun diasumsikan mencapai Rp 1,69 triliun. Melalui perhitungan ini maka kita bisa melihat bahwa saham Bukalapak memiliki _price to sales ratio_ 45,6 hingga 51,7 kali.
+Bukalapak sendiri mencatat bahwa saat ini mereka memiliki 103,06 saham beredar dan pendapatan kuartal I sebanyak Rp 423,7 miliar sehingga pendapatan pendapatan per tahun diasumsikan mencapai Rp 1,69 triliun. Melalui perhitungan ini maka kita bisa melihat bahwa saham Bukalapak memiliki *price to sales ratio* 45,6 hingga 51,7 kali.
 
 Angka ratio ini terhitung sangat tinggi karena beberapa analis berpendapat bahwa price to sales ratio di atas 5 itu sudah tergolong mahal. Akan tetapi, sebelum itu anda tidak boleh lupa membandingkan angka ini dengan beberapa industri sejenis agar anda mendapatkan gambaran yang lebih detail lagi terkait saham ini.
 
@@ -125,17 +124,17 @@ Nah, bagaimana anda tertarik tidak membeli saham Bukalapak yang akan IPO dalam b
 
 ## Cara Beli Saham Bukalapak
 
-Bukalapak sudah memasuki  tahap penawaran awal (_bookbuilding)_ sejak 9 hingga 19 Juli mendatang. Walaupun BEI telah memiliki sistem e-IPO, Bukalapak tidak akan menggunakan sistem ini karena pemesanan saham Bukalapak akan menggunakan sistem penjatahan atau _polling allotment_ atau penjatahan terpusat_._ Sistem ini dilakukan dengan mengumpulkan semua pemesanan efek lalu penjatahan dilakukan sesuai dengan aturan.
+Bukalapak sudah memasuki  tahap penawaran awal (*bookbuilding)* sejak 9 hingga 19 Juli mendatang. Walaupun BEI telah memiliki sistem e-IPO, Bukalapak tidak akan menggunakan sistem ini karena pemesanan saham Bukalapak akan menggunakan sistem penjatahan atau *polling allotment* atau penjatahan terpusat*.* Sistem ini dilakukan dengan mengumpulkan semua pemesanan efek lalu penjatahan dilakukan sesuai dengan aturan.
 
 Sistem ini memang agak sedikit rumit apabila dibandingkan dengan sistem e-IPO karena anda perlu mengisi dan menyiapkan beberapa hal sebelum pemesanan.
 
-Apabila anda tertarik untuk membeli ini, maka pertama anda perlu mengunjungi [https://about.bukalapak.com/id/investor-relations/](https://about.bukalapak.com/id/investor-relations/) untuk mendapatkan informasi yang penting untuk anda pahami seperti harga saham, emisi saham, prospektus, dan Formulir Pemesanan Pembelian Saham (FPPS).
+Apabila anda tertarik untuk membeli ini, maka pertama anda perlu mengunjungi <https://about.bukalapak.com/id/investor-relations/> untuk mendapatkan informasi yang penting untuk anda pahami seperti harga saham, emisi saham, prospektus, dan Formulir Pemesanan Pembelian Saham (FPPS).
 
 Sebelum membeli, anda harus menyiapkan beberapa hal seperti single investor identification, sub rekening efek, RDN atau rekening dana nasabah, apabila belum punya maka anda mendaftar di perusahaan efek yang sudah memiliki izin OJK.
 
 Perusahaan sub rekening efek akan membantu anda melakukan pernyataan minat pembelian saham dengan cara anda harus mengirimkan FPPS yang sudah anda download dan isi sebelumnya melalui email dan kemudian akan mereka berikan tanda tangan.
 
-Apabila dana anda sudah berstatus good fund, maka pesanan anda akan diproses dan apabila terjadi kelebihan pesanan makan akan dilakukan penjatahan dan sisa uang anda akan di-_refund._ Nah, untuk kamu yang tertarik dengan saham ini semoga kebagian ya…
+Apabila dana anda sudah berstatus good fund, maka pesanan anda akan diproses dan apabila terjadi kelebihan pesanan makan akan dilakukan penjatahan dan sisa uang anda akan di-*refund.* Nah, untuk kamu yang tertarik dengan saham ini semoga kebagian ya…
 
 ## Penutup
 
@@ -151,12 +150,11 @@ Apabila anda ingin melakukan investasi bisnis ke dalam berbagai bisnis potensial
 
 **[Yuk Mulai Investasi Bisnis dengan Hanya dengan Modal 1 Juta Bersama LandX](https://landx.id/project/index.html)**
 
-[**Biar Gak Ketinggalan Info Seputar Bisnis Terbaru Anda, Jangan Lupa Follow @landx.id di Instagram**](https://instagram.com/landx.id?utm_medium=copy_link)
+**[Biar Gak Ketinggalan Info Seputar Bisnis Terbaru Anda, Jangan Lupa Follow @landx.id di Instagram](https://instagram.com/landx.id?utm_medium=copy_link)**
 
-#LandX.id     #landx         #landx.id    #InvestasiBisnis #SecuritiesCrowdfunding   #EquityCrowdfunding     #InvestasiMenguntungkan    #Urundana    #BisnisPatungan     #InvestasiUsaha
+\#LandX.id     #landx         #landx.id    #InvestasiBisnis #SecuritiesCrowdfunding   #EquityCrowdfunding     #InvestasiMenguntungkan    #Urundana    #BisnisPatungan     #InvestasiUsaha
 
 **Baca Juga:**
 
 * [Compound Interest: Mengoptimalkan Keuntungan dengan Memahami Konsep Compound Interest](https://landx.id/blog/compound-interest-adalah/)
 * [Bisnis Menguntungkan: Berikut 7 Bisnis Paling Menguntungkan untuk Pemula dengan Modal Keci](https://landx.id/blog/7-bisnis-yang-menguntungkan-untuk-pemula/)l
-
