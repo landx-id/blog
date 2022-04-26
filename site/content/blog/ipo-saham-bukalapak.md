@@ -148,11 +148,11 @@ Apabila anda ingin melakukan investasi bisnis ke dalam berbagai bisnis potensial
 
 [LandX](https://landx.id/) merupakan platform equity crowdfunding terbaik yang bisa membantu anda  menemukan bisnis yang bisa anda beli sahamnya untuk investasi jangka  panjang. Sebagai pemegang saham, anda tentu saja berpotensi mendapatkan  keuntungan berupa dividen sesuai dengan performa bisnis yang anda danai.  Karena itu...
 
-**[Yuk Mulai Investasi Bisnis dengan Hanya dengan Modal 1 Juta Bersama LandX](https://landx.id/project/index.html)**
+## [Yuk, jadi bos bisnis dan terima keuntungan rutin di LandX](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)
+
+[![miliki bisnis modal kecil cuma dengan 1 jutaan dapat 4 cabang ](https://accountgram-production.sfo2.cdn.digitaloceanspaces.com/landx_ghost/2021/11/jadi-owner-bisnis-hanya-1-jutaan-dengan-cuan-yang-sangat-menjanjikan.png)](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)
 
 **[Biar Gak Ketinggalan Info Seputar Bisnis Terbaru Anda, Jangan Lupa Follow @landx.id di Instagram](https://instagram.com/landx.id?utm_medium=copy_link)**
-
-\#LandX.id     #landx         #landx.id    #InvestasiBisnis #SecuritiesCrowdfunding   #EquityCrowdfunding     #InvestasiMenguntungkan    #Urundana    #BisnisPatungan     #InvestasiUsaha
 
 **Baca Juga:**
 
