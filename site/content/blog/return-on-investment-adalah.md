@@ -1,28 +1,31 @@
-+++
-author = "Abdul Wahhab"
-category = ["Equity Crowdfunding", "crowdfunding properti", "investasi properti", "Investasi online terbaru"]
-date = 2021-04-22T05:18:25Z
-metaDescription = "Return on Investment (ROI) merupakan hal penting yang harus diperhatikan saat memulai investasi, karena itu pahami lebih lanjut apa itu return on investment"
-draft = false
-slug = "return-on-investment-adalah"
-tag = ["Equity Crowdfunding", "crowdfunding properti", "investasi properti", "Investasi online terbaru"]
-title = "Pahami Berbagai Jenis Return on Investment untuk Investasi Jangka Panjang Anda"
-
-+++
-
-
+---
+draft: false
+author: Abdul Wahhab
+slug: return-on-investment-adalah
+title: Yuk Pahami Berbagai Jenis ROI dalam Investasi yang Penting Anda Pahami
+metaTitle: Yuk Pahami Berbagai Jenis ROI dalam Investasi yang Penting Anda Pahami
+metaDescription: Yuk kenali berbagai jenis ROI dalam Investasi yang penting untuk anda pahami
+intro: Supaya keputusan investasi kamu lebih baik, yuk pahami berbagai jenis ROI
+  dalam investasi
+date: 2021-04-22T05:18:25.000Z
+tag:
+  - Equity Crowdfunding
+  - crowdfunding properti
+  - investasi properti
+  - Investasi online terbaru
+category:
+  - Investasi
+  - Keuangan
+featuredImage:
+  src: https://images.unsplash.com/photo-1633158829585-23ba8f7c8caf?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80
+  alt: Yuk pahami berbagai jenis Return on Investment yang penting anda pahami
+    dengan baik
+  title: Yuk pahami berbagai jenis Return on Investment yang penting anda pahami
+    dengan baik
+---
 **[Return on Investment](https://landx.id/),** saat memulai investasi yang ada dalam pikiran anda tentu saja seperti apa keuntungan yang akan anda dapatkan saat mulai memasukkan uang anda ke dalam investasi tersebut dan mulai berpikir bagaimana investasi tersebut bisa membantu mewujudkan kehidupan anda. Dalam membahas keuntungan investasi tentu saja anda akan sering mendengar istilah [return on investment (ROI)](https://landx.id/) untuk melihat seberapa besar keuntungan yang bisa anda dapatkan setelah mulai berinvestasi ke dalam instrumen tersebut.
 
 Akan tetapi, banyak orang tidak paham secara jelas apa itu return on investment dan beberapa jenis return on investment yang berbeda-beda antara satu investasi dengan yang lain. Oleh sebab itu yuk simak artikel ini agar kamu bisa lebih paham apa itu return on investment agar anda bisa lebih mudah menyusun rencana investasi jangka panjang anda.
-
-## Table of Content
-
-* **[Apa itu Return on Investment?](#apa-itu-return-on-investment)**
-* **[Menghitung Return on Investment](#menghitung-return-on-investment)**
-* **[Risiko dan Return](#risiko-dan-return)**
-* **[Berapa Return on Investment Terbaik](#berapa-return-on-investment-terbaik)?**
-* **[Investasi dengan ROI Tinggi](#investasi-dengan-roi-tinggi)**
-* **[Kesimpulan](#kesimpulan)**
 
 ## Apa itu Return on Investment?
 
@@ -34,7 +37,7 @@ Anda tentu sudah familiar dengan istilah Return on Investment (ROI) saat memasuk
 
 Menghitung ROI akan membuat anda bisa lebih mudah membandingkan efisiensi dari pilihan investasi yang anda lakukan karena setiap instrumen investasi memiliki tingkat return yang berbeda-beda. Salah satu cara menghitung ROI adalah dengan membandingkan  besar keuntungan yang didapatkan dengan besar investasi awal yang anda dapatkan, atau lebih simpelnya dengan rumus seperti di bawah ini:
 
-![cara-menghitung-return-on-investment-untuk-keputusan-investasi-yang-lebih-baik](https://accountgram-production.sfo2.cdn.digitaloceanspaces.com/landx_ghost/2021/09/cara-menghitung-return-on-investment-untuk-keputusan-investasi-yang-lebih-baik.png)
+![cara-menghitung-return-on-investment-untuk-keputusan-investasi-yang-lebih-baik](https://accountgram-production.sfo2.cdn.digitaloceanspaces.com/landx_ghost/2021/09/cara-menghitung-return-on-investment-untuk-keputusan-investasi-yang-lebih-baik.png "Cara menghitung return on investment saat anda memulai investasi")
 
 Akan tetapi anda harus ingat bahwa ROI tidak faktor tunggal yang harus anda pikirkan dalam investasi, dalam investasi anda harus paham mengerti bahwa keuntungan yang besar juga diikuti oleh risiko yang tinggi pula. Oleh sebab itu selain melihat ROI anda juga harus melihat profil risiko dari investasi yang anda lakukan.
 
@@ -54,11 +57,10 @@ Investasi bisnis merupakan investasi dengan potensi yang ROI yang bisa dibilang 
 
 Setelah paham apa itu ROI, ke depan anda harus bisa lebih bijak memilih investasi berdasarkan return on investment yang ditawarkan. Akan tetapi anda juga harus berhati-hati menggunakan rasio ini dalam memilih investasi karena ada berbagai faktor pertimbangan lain yang perlu dianalisis saat membangun aset investasi anda.
 
-**[Karena Itu, Yuk Investasi Bisnis Terbaik dengan Return Tinggi Bersama LandX](https://landx.id/)**
+## [Yuk, jadi bos bisnis dan terima keuntungan rutin di LandX](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)
 
----
+[![miliki bisnis modal kecil cuma dengan 1 jutaan dapat 4 cabang ](https://accountgram-production.sfo2.cdn.digitaloceanspaces.com/landx_ghost/2021/11/jadi-owner-bisnis-hanya-1-jutaan-dengan-cuan-yang-sangat-menjanjikan.png)](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)
+
+- - -
 
 **[Supaya Lebih Paham Tentang Investasi, Jangan Lupa Follow @landx.id di Instagram](https://www.instagram.com/landx.id/?utm_medium=copy_link)**
-
-#LandX.id	#landx.id	#InvestasiBisnis	#EquityCrowdfunding	#InvestasiMenguntungkan	#Urundana	#BisnisPatungan	#InvestasiUsaha
-
