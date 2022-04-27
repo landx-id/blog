@@ -21,7 +21,7 @@ category:
 featuredImage:
   title: Peluang Bisnis Franchise Modal di Bawah 10 Juta untuk Ide Bisnis Anda di
     Tahun 2022
-  src: img/handshake-close-up-executives.jpg
+  src: https://images.unsplash.com/photo-1522202176988-66273c2fd55f?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1171&q=80
   alt: "Franchise Makanan Modal di Bawah 10 Juta yang Bisa Jadi Ide Bisnis Anda "
 ---
 Kini Franchise makan tidak lagi perlu menggunakan modal yang besar. Kamu bisa membuka bisnis franchise makanan dibawah 10 juta . Apalagi di zaman sekarang bisnis franchise sedang marak digemari orang. Walaupun ada banyak pilihan investasi, mulai dari saham, hingga membuka usaha. Beberapa memutuskan memilih untuk membeli franchise karena lebih ringkas dan menjanjikan. 
