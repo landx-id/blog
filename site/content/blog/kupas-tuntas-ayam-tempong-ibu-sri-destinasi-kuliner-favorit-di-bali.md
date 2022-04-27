@@ -8,9 +8,22 @@ metaDescription: Sensasi rasa pedas bikin nagih, buat Ayam Tempong Ibu Sri di
 intro: Sensasi rasa pedas bikin nagih, buat Ayam Tempong Ibu Sri di Bali butuh
   ekspansi penuhi permintaan pelanggan. Kupas bisnis yang hadir di crowdfunding
 date: 2022-04-27T03:30:16.205Z
+tag:
+  - ATBS
+  - Bisnis F&B
+  - Bisnis Makanan
+  - Cloud Kitchen
+  - Franchise Makanan
+  - Franchise FnB
+  - Bisnis Modal Kecil
+  - Bisnis Franchise Modal Kecil
+category:
+  - Bisnis
+  - Keuangan
+  - Investasi
 featuredImage:
   title: Kupas Tuntas Ayam Tempong Ibu Sri, Destinasi Kuliner Favorit di Bali | LandX
-  src: img/landx_ayam-tempong-ibu-sri_ads_1080-x-565px_01.png
+  src: https://media.discordapp.net/attachments/913743599844343808/968729090179874827/unknown.png?width=1058&height=553
   alt: "landx, modal bisnis f&B, bisnis franchise 2022, ayam tempong ibu sri "
 ---
 **Bisnis yang menyediakan kebutuhan pokok seperti makanan memang miliki kesempatan growth yang tinggi.** Apalagi jika hidangkan sajian yang mengena di hati. Ayam Tempong Ibu Sri dari Bali sukses menangkan hati pelanggan selama bertahun-tahun beroperasi.
@@ -66,4 +79,6 @@ Bersama [platform crowdfunding terdepan di Indonesia](https://landx.id/) yaitu [
 
 Dengan modal mulai sejutaan, setiap investor otomatis dapat miliki 2 outlet terbaru dengan konsep yang lebih baik. Selain itu, Ayam Tempong Ibu Sri juga menawarkan keuntungan bagi hasil berupa estimasi dividen hingga 25% per tahun sesuai kepemilikan modal. Karena itu, 
 
-## [Yuk, Jadi Pemilik 2 Outlet Restoran Ayam Tempong Ibu Sri di LandX, Klik di Sini!](https://landx.id/project/ATBS)
+## [Yuk, Jadi Pemilik 2 Outlet Restoran Ayam Tempong Ibu Sri di LandX, Klik di Sini!](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)
+
+![](https://cdn.discordapp.com/attachments/913743599844343808/968729090179874827/unknown.png)
