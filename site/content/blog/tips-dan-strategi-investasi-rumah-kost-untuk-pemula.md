@@ -1,17 +1,28 @@
-+++
-author = "Abdul Wahhab"
-category = ["investasi bisnis", "crowdfunding properti", "bisnis investasi", "bisnis investasi online", "investasi properti"]
-date = 2021-03-28T06:21:00Z
-metaDescription = "Investasi rumah kost memiliki potensi perkembangan yang sangat pesat dalam beberapa waktu kedepan | Investasi ini bisa dimulai dengan modal kecil di LandX"
-draft = false
-image = "https://images.unsplash.com/photo-1531420082871-1c5eb4d20871?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxMTc3M3wwfDF8c2VhcmNofDd8fGZsYXR8ZW58MHx8fHwxNjM4ODkwNTcx&ixlib=rb-1.2.1&q=80&w=1080"
-slug = "tips-dan-strategi-investasi-rumah-kost-untuk-pemula"
-tag = ["investasi bisnis", "crowdfunding properti", "bisnis investasi", "bisnis investasi online", "investasi properti"]
-title = "Tips dan Strategi Investasi Rumah Kost Untuk Pemula"
-
-+++
-
-
+---
+draft: false
+author: Abdul Wahhab
+slug: tips-dan-strategi-investasi-rumah-kost-untuk-pemula
+title: Tips dan Strategi Investasi Rumah Kost untuk Pemula
+metaTitle: Tips dan Strategi Investasi Rumah Kost untuk Pemula
+metaDescription: Investasi rumah kost memiliki potensi perkembangan yang sangat
+  pesat dalam beberapa waktu kedepan|Investasi properti modal kecil
+intro: Yuk simak tips investasi rumah kost modal kecil
+date: 2021-03-28T06:21:00.000Z
+tag:
+  - investasi bisnis
+  - crowdfunding properti
+  - bisnis investasi
+  - bisnis investasi online
+  - investasi properti
+featuredImage:
+  src: https://images.unsplash.com/photo-1531420082871-1c5eb4d20871?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxMTc3M3wwfDF8c2VhcmNofDd8fGZsYXR8ZW58MHx8fHwxNjM4ODkwNTcx&ixlib=rb-1.2.1&q=80&w=1080
+  alt: Investasi rumah kost modal kecil
+  title: cara investasi rumah kost modal kecil
+image: https://images.unsplash.com/photo-1531420082871-1c5eb4d20871?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxMTc3M3wwfDF8c2VhcmNofDd8fGZsYXR8ZW58MHx8fHwxNjM4ODkwNTcx&ixlib=rb-1.2.1&q=80&w=1080
+category:
+  - Bisnis
+  - Investasi
+---
 Apakah anda pernah tinggal di kost?
 
 Bayangkan berapa banyak kamar yang ada di sebuah rumah kost, dan berapa banyak uang yang dapat dihasilkan oleh pemilik rumah kost dalam satu bulan? Prospek investasi di rumah kos memang menjanjikan.
@@ -20,15 +31,7 @@ Karena seiring berjalannya waktu, bisnis ini akan semakin meningkat dari tahun k
 
 Bagi mahasiswa dan pekerja kantoran yang belum menikah, tinggal di kost merupakan solusi ideal untuk menentukan tempat tinggal mereka.
 
----
-
-## Table of Content
-
-* **[Tips Dan Strategi Investasi Rumah Kost](#tips-dan-strategi-investasi-rumah-kost)**
-* **[LandX, Crowdfunding: Pilihan Investasi Properti Minim Moda](#landx-crowdfunding-pilihan-investasi-properti-minim-modal)l**
-* **[Jadi, Apakah Investasi Crowdfunding ini Menguntungkan?](#jadi-apakah-investasi-crowdfunding-ini-menguntungkan)**
-
----
+- - -
 
 ## Tips Dan Strategi Investasi Rumah Kost
 
@@ -82,7 +85,7 @@ Lokasi yang kurang strategis akan memperlambat pencarian penyewa. Jika ini terja
 
 Oleh karena itu, mencari lokasi yang strategis merupakan salah satu syarat penting pendirian rumah kos.
 
----
+- - -
 
 **Baca Juga:**
 
@@ -90,7 +93,7 @@ Oleh karena itu, mencari lokasi yang strategis merupakan salah satu syarat penti
 * [Simak Berbagai Strategi Memulai Bisnis Properti Modal Kecil Terbaik yang Bisa Anda Terapkan](https://landx.id/blog/bisnis-properti-modal-kecil/)
 * [10 Rekomendasi Situs Jual Beli Rumah Terpercaya 2021](https://landx.id/blog/10-rekomendasi-situs-jual-beli-rumah-terpercaya-2021/)
 
----
+- - -
 
 ## [LandX, Crowdfunding: Pilihan Investasi Properti Minim Modal](https://landx.id/)
 
@@ -114,20 +117,19 @@ Tentu menguntungkan. Karena selain resikonya paling kecil, ternyata banyak juga 
 
 [LandX](https://landx.id/) adalah platform yang menghubungkan investor dan manajer aset real estate atau properti. Pada platform ini, investor dapat menginvestasikan dana pada proyek real estate atau properti bermodal rendah, dengan investasi minimal Rp 1 juta.
 
-## [#YukPatunganBisnis menguntungkan di LandX](https://landx.id/)
+## [Yuk, jadi bos bisnis dan terima keuntungan rutin di LandX](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)
 
-[![jadi-owner-bisnis-hanya-1-jutaan-dengan-cuan-yang-sangat-menjanjikan](https://accountgram-production.sfo2.cdn.digitaloceanspaces.com/landx_ghost/2021/11/jadi-owner-bisnis-hanya-1-jutaan-dengan-cuan-yang-sangat-menjanjikan.png)](https://landx.id/project/)
+[![miliki bisnis modal kecil cuma dengan 1 jutaan dapat 4 cabang ](https://accountgram-production.sfo2.cdn.digitaloceanspaces.com/landx_ghost/2021/11/jadi-owner-bisnis-hanya-1-jutaan-dengan-cuan-yang-sangat-menjanjikan.png)](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)
 
 **[Yuk Follow @landx.id di Instagram Untuk Berbagai Tips dan Strategi Investasi Lainnya](https://www.instagram.com/landx.id/?utm_medium=copy_link)**
 
----
+- - -
 
 **Baca Juga:**
 
 * [Apa itu Saham Property, Prospek Keuntungan dan Cara Investasi Properti](https://landx.id/blog/apa-itu-saham-property-prospek-keuntungan-dan-cara-investasi-properti/)
 * [Pahami Bagaimana Efek Compounding Dapat Membantu Pengembangan Investasi Anda](https://landx.id/blog/pahami-bagaimana-efek-compounding-dapat-membantu-pengembangan-investasi-anda/)
 
----
+- - -
 
-#YukPatunganBisnis     #LandX.id    #landx         #landx.id     #InvestasiBisnis   #SecuritiesCrowdfunding   #EquityCrowdfunding      #InvestasiMenguntungkan     #Urundana    #BisnisPatungan      #InvestasiUsaha
-
+\#YukPatunganBisnis     #LandX.id    #landx         #landx.id     #InvestasiBisnis   #SecuritiesCrowdfunding   #EquityCrowdfunding      #InvestasiMenguntungkan     #Urundana    #BisnisPatungan      #InvestasiUsaha
