@@ -91,5 +91,3 @@ Setelah memahami istilah ini, kini saat anda mulai investasi bisnis pertama anda
 * [Mau Mulai Investasi? Begini Cara Investasi Menguntungkan dengan Modal 10 Juta](https://landx.id/blog)
 
 - - -
-
-**\#YukPatunganBisnis    #LandX.id    #landx         #landx.id     #InvestasiBisnis  #SecuritiesCrowdfunding   #EquityCrowdfunding     #InvestasiMenguntungkan     #Urundana    #BisnisPatungan     #InvestasiUsaha**
