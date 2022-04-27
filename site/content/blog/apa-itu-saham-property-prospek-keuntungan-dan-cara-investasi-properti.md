@@ -1,33 +1,40 @@
-+++
-author = "Abdul Wahhab"
-category = ["crowdfunding indonesia", "crowdfunding properti", "investasi online", "properti", "Properti online", "Cara Investasi Saham", "investasi saham", "Equity Crowdfunding", "Securities Crowdfunding untuk Pengembangan UMKM di Indonesia"]
-date = 2021-03-27T05:48:00Z
-metaDescription = "Saham property merupakan salah satu pilihan investasi akan menguntungkan bagi anda dalam jangka panjang | Simak keuntungan dan cara investasi properti"
-draft = false
-image = "https://accountgram-production.sfo2.cdn.digitaloceanspaces.com/landx_ghost/2021/03/8.-saham-property.jpg"
-slug = "apa-itu-saham-property-prospek-keuntungan-dan-cara-investasi-properti"
-tag = ["crowdfunding indonesia", "crowdfunding properti", "investasi online", "properti", "Properti online", "Cara Investasi Saham", "investasi saham", "Equity Crowdfunding", "Securities Crowdfunding untuk Pengembangan UMKM di Indonesia"]
-title = "Apa itu Saham Property, Prospek Keuntungan dan Cara Investasi Properti"
-
-+++
-
-
+---
+draft: false
+author: Abdul Wahhab
+slug: apa-itu-saham-property-prospek-keuntungan-dan-cara-investasi-properti
+title: " Saham Property, Prospek Keuntungan dan Cara Investasi Properti"
+metaTitle: " Saham Property, Prospek Keuntungan dan Cara Investasi Properti"
+metaDescription: Saham property merupakan salah satu pilihan investasi akan
+  menguntungkan bagi anda dalam jangka panjang | Simak keuntungan dan cara
+  investasi properti
+intro: Yuk simak cara investasi saham properti yang menguntungkan
+date: 2021-03-27T05:48:00.000Z
+tag:
+  - crowdfunding indonesia
+  - crowdfunding properti
+  - investasi online
+  - properti
+  - Properti online
+  - Cara Investasi Saham
+  - investasi saham
+  - Equity Crowdfunding
+  - Securities Crowdfunding untuk Pengembangan UMKM di Indonesia
+featuredImage:
+  src: https://accountgram-production.sfo2.cdn.digitaloceanspaces.com/landx_ghost/2021/03/8.-saham-property.jpg
+  alt: Cara investasi saham properti
+  title: beli saham properti
+image: https://accountgram-production.sfo2.cdn.digitaloceanspaces.com/landx_ghost/2021/03/8.-saham-property.jpg
+category:
+  - Investasi
+  - Bisnis
+---
 Investasi di [saham property](https://landx.id/) merupakan salah satu instrumen bisnis yang paling populer, karena property menjadi aset yang nilainya akan terus meningkat dari waktu ke waktu. Mirip dengan logam mulia, properti termasuk properti nyata atau aset berwujud yang dapat dilihat dalam bentuknya.
 
 Meski sifatnya tidak likuid, namun karena pertumbuhan nilainya di masa depan, kepemilikan aset akan terus menumbuhkan aset bersih. Oleh karena itu, dalam jangka panjang, ini adalah pilihan investasi yang menjanjikan untuk anda.
 
 Apa kelebihan serta jenis investasi saham property? Bagaimana cara berinvestasi dengan benar dalam instrumen ini? Kami akan membahas semuanya di artikel ini.
 
----
-
-## Table of Content
-
-* **[Apa itu Saham Property?](#apa-itu-saham-property)**
-* **[Apa Keuntungan Investasi di Saham Property?](#apa-keuntungan-investasi-di-saham-property)**
-* **Jenis Investasi Properti Online**
-* **[Saham Properti di Masa Pandemi](#saham-properti-di-masa-pandemi)**
-* **[Cara Investasi Saham Property](#cara-investasi-saham-property)**
-* **[Investasi Properti Online](#investasi-properti-online)**
+- - -
 
 ## Apa itu Saham Property?
 
@@ -141,14 +148,14 @@ Bisnis ini di Indonesia memang tidak terlalu populer, namun bukan berarti model 
 
 Alasan menjual properti dengan harga lebih rendah mungkin karena penjual perlu menghasilkan uang dengan cepat atau kondisi yang tidak bagus. namun hal ini bisa menjadi kesempatan bagi anda untuk mengambil keuntungan.
 
----
+- - -
 
 **Artikel Terkait:**
 
 * **[Simak Cara Mudah Investasi Properti Online Anda dengan Crowdfunding Properti](https://landx.id/blog/simak-cara-mudah-investasi-properti-online-anda-dengan-crowdfunding-properti/)**
 * **[Pilihan Investasi Online Terpercaya yang Dapat Membuat Anda Menjadi Milyarder!](https://landx.id/blog/pilihan-investasi-online-terpercaya-yang-dapat-membuat-anda-menjadi-milyarder/)**
 
----
+- - -
 
 ## Investasi Properti Online
 
@@ -160,11 +167,11 @@ Karenanya, Anda dapat menginvestasikan dana Anda di platform online seperti [Lan
 
 Di [LandX](https://landx.id/) kami memastikan setiap transaksi dan setiap langkah yang dilakukan aman, dan tentu Anda dapat memperoleh keuntungan yang bisa anda mulai dengan modal sekecil mungkin
 
-[**#YukPatunganBisnis menguntungkan di LandX**](https://landx.id/)
+## [Yuk, jadi bos bisnis dan terima keuntungan rutin di LandX](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)
 
-[![jadi-owner-bisnis-hanya-1-jutaan-dengan-cuan-yang-sangat-menjanjikan](https://accountgram-production.sfo2.cdn.digitaloceanspaces.com/landx_ghost/2021/11/jadi-owner-bisnis-hanya-1-jutaan-dengan-cuan-yang-sangat-menjanjikan.png)](https://landx.id/project/)
+[![miliki bisnis modal kecil cuma dengan 1 jutaan dapat 4 cabang ](https://accountgram-production.sfo2.cdn.digitaloceanspaces.com/landx_ghost/2021/11/jadi-owner-bisnis-hanya-1-jutaan-dengan-cuan-yang-sangat-menjanjikan.png)](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)
 
----
+- - -
 
 **Baca Juga:**
 
@@ -172,7 +179,6 @@ Di [LandX](https://landx.id/) kami memastikan setiap transaksi dan setiap langka
 * [Simak Berbagai Strategi Memulai Bisnis Properti Modal Kecil Terbaik yang Bisa Anda Terapkan](https://landx.id/blog/bisnis-properti-modal-kecil/)
 * [10 Rekomendasi Situs Jual Beli Rumah Terpercaya 2021](https://landx.id/blog/10-rekomendasi-situs-jual-beli-rumah-terpercaya-2021/)
 
----
+- - -
 
-**#LandX.id #YukPatunganBisnis   #landx.id    #InvestasiBisnis     #SecuritiesCrowdfunding    #EquityCrowdfunding     #InvestasiMenguntungkan    #Urundana    #BisnisPatungan     #InvestasiUsaha**
-
+**\#LandX.id #YukPatunganBisnis   #landx.id    #InvestasiBisnis     #SecuritiesCrowdfunding    #EquityCrowdfunding     #InvestasiMenguntungkan    #Urundana    #BisnisPatungan     #InvestasiUsaha**
