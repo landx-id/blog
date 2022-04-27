@@ -1,18 +1,31 @@
-+++
-author = "Abdul Wahhab"
-category = ["bisnis investasi", "investasi bisnis", "investasi bagi hasil", "Investasi modal kecil", "Situs Crowdfunding", "urun dana", "investasi umkm"]
-date = 2021-04-07T06:03:21Z
-metaDescription = "Urun dana atau equity crowdfunding adalah sistem investasi baru yang sangat cocok untuk pemula yang ingin mulai berinvestasi ke dalam bisnis modal kecil"
-draft = false
-image = "https://images.unsplash.com/photo-1559526324-4b87b5e36e44?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxMTc3M3wwfDF8c2VhcmNofDI5fHxlcXVpdHklMjBjcm93ZGZ1bmRpbmd8ZW58MHx8fHwxNjM4OTQ3MTcz&ixlib=rb-1.2.1&q=80&w=1080"
-slug = "equity-crowdfunding-untuk-pemula"
-tag = ["bisnis investasi", "investasi bisnis", "investasi bagi hasil", "Investasi modal kecil", "Situs Crowdfunding", "urun dana", "investasi umkm"]
-title = "Perkembangan Investasi dengan Sistem Urun Dana yang Aman untuk Pemula"
-
-+++
-
-
-Sebagai investor pemula, memilih investasi yang tepat merupakan langkah awal yang perlu dipersiapkan secara matang. Apalagi saat ini kita dihadapkan dengan berbagai pilihan investasi dengan [**berbagai return**](https://landx.id/blog/return-on-investment-roi-adalah/) yang dijanjikan.
+---
+draft: false
+author: Abdul Wahhab
+slug: equity-crowdfunding-untuk-pemula
+title: "Investasi Aman untuk Pemula Lewat Sistem Urun Dana "
+metaTitle: "Investasi Aman untuk Pemula Lewat Sistem Urun Dana "
+metaDescription: Cara investasi lewat urun dana yang aman untuk pemula|Cara
+  investasi lewat urun dana
+intro: Yuk simak cara investasi aman lewat sistem urun dana
+date: 2021-04-07T06:03:21.000Z
+tag:
+  - bisnis investasi
+  - investasi bisnis
+  - investasi bagi hasil
+  - Investasi modal kecil
+  - Situs Crowdfunding
+  - urun dana
+  - investasi umkm
+featuredImage:
+  src: https://images.unsplash.com/photo-1559526324-4b87b5e36e44?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxMTc3M3wwfDF8c2VhcmNofDI5fHxlcXVpdHklMjBjcm93ZGZ1bmRpbmd8ZW58MHx8fHwxNjM4OTQ3MTcz&ixlib=rb-1.2.1&q=80&w=1080
+  alt: "Cara investasi lewat urun dana "
+  title: Kemudahan investasi lewat urun dana
+image: https://images.unsplash.com/photo-1559526324-4b87b5e36e44?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxMTc3M3wwfDF8c2VhcmNofDI5fHxlcXVpdHklMjBjcm93ZGZ1bmRpbmd8ZW58MHx8fHwxNjM4OTQ3MTcz&ixlib=rb-1.2.1&q=80&w=1080
+category:
+  - Investasi
+  - Cara Investasi di Securities Crowdfunding
+---
+Sebagai investor pemula, memilih investasi yang tepat merupakan langkah awal yang perlu dipersiapkan secara matang. Apalagi saat ini kita dihadapkan dengan berbagai pilihan investasi dengan **[berbagai return](https://landx.id/blog/return-on-investment-roi-adalah/)** yang dijanjikan.
 
 Salah satu investasi bisnis yang cocok untuk pemula adalah [equity crowdfunding](https://landx.id/) atau urun dana yang memberikan investor kesempatan investasi bisnis dengan modal kecil.
 
@@ -22,15 +35,7 @@ Investasi bisnis dengan urun dana akan memberikan fleksibilitas kepada investor 
 
 Equity crowdfunding atau urun dana pada dasarnya merupakan sistem investasi berbasis digital sehingga pengumpulan modal dilakukan secara online lewat platform equity crowdfunding.
 
----
-
-## Table of Content
-
-* **[Kenapa Equity Crowdfunding ?](#kenapa-equity-crowdfunding)**
-* **[Potensi Keuntungan Jangka Panjang melalui Equity Crowdfunding](#potensi-keuntungan-jangka-panjang-melalui-equity-crowdfunding)**
-* [**Tips Sebelum Investasi Crowdfunding**](#tips-sebelum-investasi-crowdfunding)
-
----
+- - -
 
 ## Kenapa Equity Crowdfunding ?
 
@@ -78,14 +83,14 @@ Sebelum memutuskan bisnis mana yang akan anda pilih, anda perlu melakukan penila
 
 Selain itu anda juga harus harus mengerti bagaimana kondisi pasar  dari bisnis terkait seperti besar potensi dan persaingan yang dalam pasar. Lebih lanjut anda juga perlu melihat lebih dalam tentang portofolio pihak yang akan menjalankan bisnis agar anda bisa memastikan bisnis tersebut dikelola secara profesional.
 
----
+- - -
 
 **Artikel Terkait:**
 
 * Investasi Selalu Rugi? Coba Lakukan Diversifikasi. Ini 4 Cara Melakukannya!
 * [Ingin Terhindar Dari FOMO saat Berinvestasi? 5 Hal Ini Wajib Kamu Lakukan](https://landx.id/blog/fomo-dalam-kehidupan-dan-investasi/)
 
----
+- - -
 
 ### 4. Diversifikasi
 
@@ -93,15 +98,13 @@ Dalam setiap investasi tentu saja anda akan dihadapkan oleh berbagai risiko. Div
 
 Karena anda tidak bisa mengharapkan satu jenis bisnis selalu untung karena pasar yang terus berubah. Dengan diversifikasi maka anda akan dapat memperkecil risiko kerugian yang akan timbul.
 
-### [Yuk Mulai Investasi ke Dalam Berbagai Bisnis menguntungkan Bersama LandX](https://landx.id/project/)
+## [Yuk, jadi bos bisnis dan terima keuntungan rutin di LandX](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)
 
-[![miliki bisnis modal kecil cuma dengan 1 jutaan dapat 4 cabang ](https://accountgram-production.sfo2.cdn.digitaloceanspaces.com/landx_ghost/2021/11/jadi-owner-bisnis-hanya-1-jutaan-dengan-cuan-yang-sangat-menjanjikan.png)](https://landx.id/project/)
+[![miliki bisnis modal kecil cuma dengan 1 jutaan dapat 4 cabang ](https://accountgram-production.sfo2.cdn.digitaloceanspaces.com/landx_ghost/2021/11/jadi-owner-bisnis-hanya-1-jutaan-dengan-cuan-yang-sangat-menjanjikan.png)](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)
 
+> **[Supaya Tidak Ketinggalan Berbagai Tips Investasi Lainnya Yuk Follow @landx.id di Instagram](https://www.instagram.com/landx.id/?utm_medium=copy_link)**
 
-
-> [**Supaya Tidak Ketinggalan Berbagai Tips Investasi Lainnya Yuk Follow @landx.id di Instagram**](https://www.instagram.com/landx.id/?utm_medium=copy_link)
-
----
+- - -
 
 **Baca Juga:**
 
@@ -110,7 +113,6 @@ Karena anda tidak bisa mengharapkan satu jenis bisnis selalu untung karena pasar
 * [Alasan Kenapa Dana Darurat Sangat Penting Disiapkan Sedini Mungkin](https://landx.id/blog/menyiapkan-dana-darurat-yang-ideal/)
 * [Mau Mulai Investasi Saham? Kenali Perbedaan antara Trading dan Investasi dalam Saham](https://landx.id/blog/memahami-perbedaan-trading-dan-investasi/)
 
----
+- - -
 
-**#LandX.id    #landx.id    #InvestasiBisnis    #EquityCrowdfunding    #InvestasiMenguntungkan    #Urundana    #BisnisPatungan    #InvestasiUsaha**
-
+**\#LandX.id    #landx.id    #InvestasiBisnis    #EquityCrowdfunding    #InvestasiMenguntungkan    #Urundana    #BisnisPatungan    #InvestasiUsaha**
