@@ -1,33 +1,36 @@
-+++
-author = "Abdul Wahhab"
-category = ["bisnis investasi", "bisnis investasi online", "crowdfunding indonesia", "investasi bagi hasil", "investasi bisnis", "Investasi Menguntungkan"]
-date = 2021-04-26T02:32:53Z
-metaDescription = "Keterbatasan lahan membuat apartemen menjadi solusi hunian masyarakat, karena itu pahami risiko dan investasi apartemen untuk properti jangka panjang anda"
-draft = false
-image = "https://images.unsplash.com/photo-1560518883-ce09059eeffa?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxMTc3M3wwfDF8c2VhcmNofDF8fHByb3BlcnR5fGVufDB8fHx8MTY0MDI4MzExMA&ixlib=rb-1.2.1&q=80&w=1080"
-slug = "pahami-kekurangan-dan-keuntungan-investasi-apartemen-untuk-investasi-properti-anda"
-tag = ["bisnis investasi", "bisnis investasi online", "crowdfunding indonesia", "investasi bagi hasil", "investasi bisnis", "Investasi Menguntungkan"]
-title = "Pahami Risiko dan Keuntungan Investasi Apartemen untuk Investasi Properti Anda"
-
-+++
-
-
+---
+draft: false
+author: Abdul Wahhab
+slug: pahami-kekurangan-dan-keuntungan-investasi-apartemen-untuk-investasi-properti-anda
+title: Pahami Risiko dan Keuntungan Investasi Apartemen
+metaTitle: Pahami Risiko dan Keuntungan Investasi Apartemen
+metaDescription: Untung rugi investasi apartemen yang penting untuk anda pahami
+  saat membeli apartemen
+intro: Yuk simak untung rugi investasi apartemen yang penting anda pahami
+date: 2021-04-26T02:32:53.000Z
+tag:
+  - bisnis investasi
+  - bisnis investasi online
+  - crowdfunding indonesia
+  - investasi bagi hasil
+  - investasi bisnis
+  - Investasi Menguntungkan
+featuredImage:
+  src: https://images.unsplash.com/photo-1560518883-ce09059eeffa?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxMTc3M3wwfDF8c2VhcmNofDF8fHByb3BlcnR5fGVufDB8fHx8MTY0MDI4MzExMA&ixlib=rb-1.2.1&q=80&w=1080
+  alt: Yuk pahami risiko dan keuntungan investasi apartemen yang penting anda pahami
+  title: Yuk pahami dengan baik risiko dan keuntungan investasi apartemen
+image: https://images.unsplash.com/photo-1560518883-ce09059eeffa?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxMTc3M3wwfDF8c2VhcmNofDF8fHByb3BlcnR5fGVufDB8fHx8MTY0MDI4MzExMA&ixlib=rb-1.2.1&q=80&w=1080
+category:
+  - Bisnis
+  - Investasi
+---
 Pesatnya pertumbuhan penduduk membuat ketersediaan lahan hunian semakin terbatas. Hal ini menjadikan apartemen sebagai solusi hunian dan sekaligus menjadi aset menguntunkan. Banyak orang memilih untuk berinvestasi dengan membeli apartemen.
 
-Hal ini karena apartemen semakin diminati oleh konsumen karena berbagai kemudahan yang ditawarkan oleh apartemen seperti posisi strategis dan fasilitas _one-stop solution_ untuk kemudahan solusi untuk berbagai kebutuhan penghuninya.
+Hal ini karena apartemen semakin diminati oleh konsumen karena berbagai kemudahan yang ditawarkan oleh apartemen seperti posisi strategis dan fasilitas *one-stop solution* untuk kemudahan solusi untuk berbagai kebutuhan penghuninya.
 
 Akan tetapi sebelum memilih properti untuk berinvestasi, tentu anda harus paham berbagai keuntungan dan risiko yang harus kamu hadapi saat menjadikan properti seperti apartemen untuk berinvestasi. Oleh sebab itu mari kita bahas lebih lanjut keuntungan dan risiko dari investasi melalui apartemen.
 
----
-
-## Table of Content
-
-* **[Keuntungan Investasi Apartemen](https://landx.id/blog/pahami-kekurangan-dan-keuntungan-investasi-apartemen-untuk-investasi-properti-anda/#keuntungan-beli-apartemen-untuk-investasi)**
-* **[Risiko Investasi Apartemen](https://landx.id/blog/pahami-kekurangan-dan-keuntungan-investasi-apartemen-untuk-investasi-properti-anda/#risiko-investasi-apartemen)**
-* **[Cara Memilih Apartemen untuk Investasi](https://landx.id/blog/pahami-kekurangan-dan-keuntungan-investasi-apartemen-untuk-investasi-properti-anda/#cara-memilih-apartemen-untuk-investasi ) **
-* **[Prospek Investasi Apartemen](https://landx.id/blog/pahami-kekurangan-dan-keuntungan-investasi-apartemen-untuk-investasi-properti-anda/https://landx.id/blog/pahami-kekurangan-dan-keuntungan-investasi-apartemen-untuk-investasi-properti-anda/https://landx.id/blog/pahami-kekurangan-dan-keuntungan-investasi-apartemen-untuk-investasi-properti-anda/#prospek-investasi-apartemen)**
-
----
+- - -
 
 ## Keuntungan Beli Apartemen untuk Investasi
 
@@ -39,7 +42,7 @@ karena itu, yuk simak penjelasan di bawah ini.
 Karena keterbatasan lahan yang membuat harga tanah menjadi sangat tinggi sehingga apartemen menjadi solusi untuk hunian masyarakat modern. Seiring berjalannya waktu, hunian ini menjadi gaya hidup baru bagi masyarakat terutama yang berada di kota besar yang ketersediaan lahannya kian terbatas. 
 
 Selain itu, hunian dengan  berbagai fasilitas yang sangat memudahkan penghuninya seperti pusat perbelanjaan yang berada dalam satu lokasi menjadi daya tarik bagi para penghuninya. Hal ini membuat masyarakat semakin tertarik untuk menjalani gaya hidup ini.
- 
+
 **2. Potensi Kenaikan Harga di Masa Mendatang**
 Apartemen merupakan contoh properti yang memiliki potensi kenaikan harga yang lumayan tinggis setiap tahunya. Apartemen yang baik berpotensi kenaikan yang cukup tinggi per tahun sehingga bisa dijadikan investasi karena harga yang semakin tinggi di masa yang akan datang. Akan tetapi, agar keuntungan lebih optimal anda harus memilih [apartemen](https://landx.id/) dengan lokasi strategis yang akan terus berkembang sehingga harga apartemen dapat terus meningkat. 
 
@@ -88,13 +91,13 @@ Bagaimana, investasi properti penuh risiko dan butuh kemampuan manajemen yang ba
 
 **Karena itu...**
 
-## [Yuk Mulai Investasi Properti Jangka Panjang Anda Bersama LandX](https://landx.id/)
+## [Yuk, jadi bos bisnis dan terima keuntungan rutin di LandX](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)
 
-[![Bagaimana? Kamu lebih suka bisnis dengan buyback guarantee atau yang bisa disimpan dalam jangka panjang? Apapun pilihan kamu.. Yuk Patungan  dengan Keuntungan Menjanjikan Bareng LandX](https://accountgram-production.sfo2.cdn.digitaloceanspaces.com/landx_ghost/2021/10/Equity-Crowdfunding-di-Indonesia-1--3.png)](http://landx.id/project/)
+[![miliki bisnis modal kecil cuma dengan 1 jutaan dapat 4 cabang ](https://accountgram-production.sfo2.cdn.digitaloceanspaces.com/landx_ghost/2021/11/jadi-owner-bisnis-hanya-1-jutaan-dengan-cuan-yang-sangat-menjanjikan.png)](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)
 
 > **[Jangan Lupa Follow @landx.id di Instagram Untuk Berbagai Informasi Menarik Seputar Investasi Lainnya.](https://www.instagram.com/landx.id/?utm_medium=copy_link)**
 
----
+- - -
 
 **Baca Juga:**
 
@@ -102,7 +105,6 @@ Bagaimana, investasi properti penuh risiko dan butuh kemampuan manajemen yang ba
 * [Saham Syariah: Mengenal Apa Itu Saham Syariah dan Perbedaannya dengan Konvensional](https://landx.id/blog/mengenal-saham-syariah-dan-perberdaannya-dengan-saham-konvesional/)
 * [Mau Mulai Main Saham? Kenali Perbedaan antara Trading dan Investasi dalam Saham](https://landx.id/blog/memahami-perbedaan-trading-dan-investasi/)
 
----
+- - -
 
-#LandX.id	#landx.id	#InvestasiBisnis	#EquityCrowdfunding	#InvestasiMenguntungkan	#Urundana	#BisnisPatungan	#InvestasiUsaha
-
+\#LandX.id	#landx.id	#InvestasiBisnis	#EquityCrowdfunding	#InvestasiMenguntungkan	#Urundana	#BisnisPatungan	#InvestasiUsaha
