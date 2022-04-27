@@ -25,7 +25,7 @@ featuredImage:
     yang semua kegiatan operasional-nya meliputi penyiapan atau memasak,
     penyajian, dan penjualannya dilakukan di dalam sebuah kendaraan besa
   alt: Cara Kerja Bisnis F&B dengan sistem food truck
-  src: img/close-up-hands-holding-cup-with-food.jpg
+  src: https://images.unsplash.com/photo-1467278941343-c6d371b23a90?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1074&q=80
 ---
 Sebagai negara berkembang, harus aktif, dan selalu mengikuti semua tren dan perubahan di berbagai bidang. Hal ini juga terjadi di Indonesia, dimana saat ini banyak bermunculan berbagai bisnis yang menghadirkan  ide dan berbagai bentuk kreativitas. 
 
