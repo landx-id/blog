@@ -8,11 +8,21 @@ intro: manajemen bisnis adalah kegiatan yang berkaitan dengan perencanaan,
   proses, dan pengawasan aktivitas bisnis dalam mencapai tujuan. Berikut
   komponen manajemen bisnis yang baik
 date: 2022-04-27T09:12:35.639Z
+tag:
+  - Bisnis Jangka Panjang
+  - Bisnis Menguntungkan
+  - Peluang Bisnis
+  - Bisnis Investasi Terpercaya
+  - Bisnis Makanan
+  - Mengatur Keuangan
+category:
+  - Bisnis
+  - Keuangan
 featuredImage:
   title: "Manajemen Bisnis: Rahasia Bisnis Bertahan Jangka Panjang dan Growth
     Tinggi | LandX"
-  src: https://unsplash.com/photos/Oalh2MojUuk
-  alt: manajemen bisnis yang baik, investasi bisnis
+  src: https://images.unsplash.com/photo-1552664730-d307ca884978?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80
+  alt: Cara manajemen bisnis yang baik
 ---
 Seorang pemilik bisnis tentu mendambakan bisnisnya dapat bertahan dalam waktu yang lama. Untuk memiliki bisnis yang bertahan jangka panjang perlu untuk melihat ke sekeliling Anda. Perhatikan kebutuhan orang-orang di sekitar Anda agar dapat tentukan target pasar.
 
@@ -106,4 +116,8 @@ Keputusan untuk ekspansi atau menambah cabang baru, buktikan bisnis telah capai 
 
 Caranya mudah dengan download [aplikasi LandX](https://landx.id/) dan verifikasi akun kamu untuk aktif terdaftar sebagai investor. 
 
-## [Yuk, miliki bisnis potensial yang telah miliki manajemen bisnis yang baik di LandX!](https://landx.id/)
+## [Yuk, miliki bisnis potensial yang telah miliki manajemen bisnis yang baik di LandX!](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)
+
+[![miliki bisnis modal kecil cuma dengan 1 jutaan dapat 4 cabang ](https://accountgram-production.sfo2.cdn.digitaloceanspaces.com/landx_ghost/2021/11/jadi-owner-bisnis-hanya-1-jutaan-dengan-cuan-yang-sangat-menjanjikan.png)](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)
+
+\#SekarangBisa
