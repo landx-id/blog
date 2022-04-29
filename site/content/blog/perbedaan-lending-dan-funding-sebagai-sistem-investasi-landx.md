@@ -1,17 +1,26 @@
 ---
 author: Vlora Riyandi
 title: Perbedaan Lending dan Funding Sebagai Sistem Investasi | LandX
-metaTitle: Perbedaan Lending dan Funding Sebagai Sistem Investasi | LandX
+metaTitle: "Memahami Perbedaan Lending dan Funding Sebagai Sistem Investasi "
 metaDescription: Perbedaan Lending dan Funding Sebagai Sistem Investasi adalah
   sistem lending berarti Anda meminjamkan sejumlah uang sebagai bentuk investasi
 intro: Perbedaan Lending dan Funding Sebagai Sistem Investasi adalah sistem
   lending berarti Anda meminjamkan sejumlah uang sebagai bentuk investasi
 date: 2022-04-28T07:29:26.650Z
+tag:
+  - Equity Crowdfunding
+  - Securities Crowdfunding
+  - Instrumen Investasi
+  - P2P Lending
+  - Venture Capital
+  - Investasi Bisnis
+category:
+  - Cara Investasi di Securities Crowdfuding
+  - Investasi
 featuredImage:
   title: Perbedaan Lending dan Funding Sebagai Sistem Investasi | LandX
-  src: https://unsplash.com/photos/U_ekGjoIm_E
-  alt: investasi funding, investasi lending, diversifikasi portofolio, p2p,
-    crowdfunding, obligasi
+  src: https://images.unsplash.com/photo-1584134239909-eb4800257d6a?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80
+  alt: Perbedaan funding dan lending dalam pendanaan dan investasi
 ---
 Kebanyakan orang banyak mendengar tentang saham sebagai instrumen investasi. Tetapi ada beragam cara lain untuk menginvestasikan uang Anda seperti reksadana, protperti atau real estate, P2P, kripto atau mata uang digital, [crowdfunding](https://landx.id/) dan lainnya. 
 
@@ -96,4 +105,6 @@ Dengan crowdfunding, Anda dapat menjadi bagian pemilik bisnis dan mendapat keunt
 
 Salah satunya ialah [LandX](https://landx.id/) yang merupakan penyelenggara crowdfunding terdepan di Indonesia. Anda dapat dengan mudan memiliki bisnis dan mendapatkan informasi potensi bisnis serta keuntungannya dalam satu aplikasi. Karena itu,
 
-## [Yuk, Download Aplikasi LandX dan Investasi pada Bisnis Potensial!](https://landx.id/)
+## [Yuk, Download Aplikasi LandX dan Investasi pada Bisnis Potensial!](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)
+
+[![miliki bisnis modal kecil cuma dengan 1 jutaan dapat 4 cabang ](https://accountgram-production.sfo2.cdn.digitaloceanspaces.com/landx_ghost/2021/11/jadi-owner-bisnis-hanya-1-jutaan-dengan-cuan-yang-sangat-menjanjikan.png)](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)
