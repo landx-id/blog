@@ -14,6 +14,10 @@ tag:
   - bisnis investasi
   - bisnis investasi online
   - investasi properti
+  - Investasi Aman untuk Pemula
+  - Investasi Aman
+  - Strategi Investasi
+  - Tips Investasi
 featuredImage:
   src: https://images.unsplash.com/photo-1531420082871-1c5eb4d20871?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxMTc3M3wwfDF8c2VhcmNofDd8fGZsYXR8ZW58MHx8fHwxNjM4ODkwNTcx&ixlib=rb-1.2.1&q=80&w=1080
   alt: Investasi rumah kost modal kecil
@@ -129,7 +133,3 @@ Tentu menguntungkan. Karena selain resikonya paling kecil, ternyata banyak juga 
 
 * [Apa itu Saham Property, Prospek Keuntungan dan Cara Investasi Properti](https://landx.id/blog/apa-itu-saham-property-prospek-keuntungan-dan-cara-investasi-properti/)
 * [Pahami Bagaimana Efek Compounding Dapat Membantu Pengembangan Investasi Anda](https://landx.id/blog/pahami-bagaimana-efek-compounding-dapat-membantu-pengembangan-investasi-anda/)
-
-- - -
-
-\#YukPatunganBisnis     #LandX.id    #landx         #landx.id     #InvestasiBisnis   #SecuritiesCrowdfunding   #EquityCrowdfunding      #InvestasiMenguntungkan     #Urundana    #BisnisPatungan      #InvestasiUsaha
