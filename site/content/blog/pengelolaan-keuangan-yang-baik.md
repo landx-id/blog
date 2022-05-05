@@ -2,7 +2,7 @@
 draft: false
 author: Abdul Wahhab
 slug: pengelolaan-keuangan-yang-baik
-title: Big
+title: Yuk Simak Cara Mengatur Keuangan dengan Baik dan Optimal
 metaTitle: Yuk Simak Cara Mengatur Keuangan dengan Baik dan Optimal
 metaDescription: Yuk simak tip keuangan agar kamu paham cara mengelola keuangan
   dengan baik dan memberikan keuntungan yang optimal
