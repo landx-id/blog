@@ -17,7 +17,11 @@ tag:
   - Properti online
   - Cara Investasi Saham
   - investasi saham
+  - Investasi Aman
+  - Investasi Aman untuk Pemula
   - Equity Crowdfunding
+  - Properti Investasi
+  - Strategi Investasi
   - Securities Crowdfunding untuk Pengembangan UMKM di Indonesia
 featuredImage:
   src: https://accountgram-production.sfo2.cdn.digitaloceanspaces.com/landx_ghost/2021/03/8.-saham-property.jpg
@@ -178,7 +182,3 @@ Di [LandX](https://landx.id/) kami memastikan setiap transaksi dan setiap langka
 * [Mau Investasi Rumah? Berikut Hal yang Wajib Kamu Ketahui Tentang Investasi Rumah](https://landx.id/blog/memulai-investasi-rumah/)
 * [Simak Berbagai Strategi Memulai Bisnis Properti Modal Kecil Terbaik yang Bisa Anda Terapkan](https://landx.id/blog/bisnis-properti-modal-kecil/)
 * [10 Rekomendasi Situs Jual Beli Rumah Terpercaya 2021](https://landx.id/blog/10-rekomendasi-situs-jual-beli-rumah-terpercaya-2021/)
-
-- - -
-
-**\#LandX.id #YukPatunganBisnis   #landx.id    #InvestasiBisnis     #SecuritiesCrowdfunding    #EquityCrowdfunding     #InvestasiMenguntungkan    #Urundana    #BisnisPatungan     #InvestasiUsaha**
