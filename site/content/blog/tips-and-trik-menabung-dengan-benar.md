@@ -1,17 +1,33 @@
-+++
-author = "Khurin N. Imandini"
-category = ["menabung dengan benar", "Investasi modal kecil", "financial freedom", "investasi keuangan", "dana darurat", "dana pensiun", "investasi dengan modal kecil", "mengatur keuangan", "Mengelola Keuangan", "Tips Keuangan"]
-date = 2021-12-31T15:43:38Z
-metaDescription = "Tahun 2022 mau mulai menabung? Yuk simak cara menabung dengan benar agar kamu bisa menyiapkan fondasi finansial yang lebih baik di masa mendatang"
-draft = false
-image = "https://images.unsplash.com/photo-1586034679970-cb7b5fc4928a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxMTc3M3wwfDF8c2VhcmNofDJ8fHNhdmluZ3xlbnwwfHx8fDE2NDA5NzY2MzI&ixlib=rb-1.2.1&q=80&w=1080"
-slug = "tips-and-trik-menabung-dengan-benar"
-tag = ["menabung dengan benar", "Investasi modal kecil", "financial freedom", "investasi keuangan", "dana darurat", "dana pensiun", "investasi dengan modal kecil", "mengatur keuangan", "Mengelola Keuangan", "Tips Keuangan"]
-title = "Simak Tips dan Trik Menabung dengan Benar untuk Finansial Lebih Baik di 2022"
-
-+++
-
-
+---
+draft: false
+author: Khurin N. Imandini
+slug: tips-and-trik-menabung-dengan-benar
+title: Yuk Simak Tips dan Cara Menabung yang Baik untuk Masa Depan Anda
+metaTitle: Simak Cara Menabung dengan Baik untuk Mengoptimalkan Finansial Anda
+metaDescription: Yuk simak tips menabung dengan baik yang dapat mempermudah anda
+  mencapai tujuan finansial jangka panjang anda
+intro: Yuk simak tips menabung dengan baik agar mempermudah pencapaian finansial anda.
+date: 2021-12-31T15:43:38.000Z
+tag:
+  - menabung dengan benar
+  - Investasi modal kecil
+  - financial freedom
+  - investasi keuangan
+  - dana darurat
+  - dana pensiun
+  - investasi dengan modal kecil
+  - mengatur keuangan
+  - Mengelola Keuangan
+  - Tips Keuangan
+featuredImage:
+  src: https://images.unsplash.com/photo-1586034679970-cb7b5fc4928a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxMTc3M3wwfDF8c2VhcmNofDJ8fHNhdmluZ3xlbnwwfHx8fDE2NDA5NzY2MzI&ixlib=rb-1.2.1&q=80&w=1080
+  alt: Tips and trik menabung dengan benar untuk keuntungan jangka panjang anda
+  title: Yuk simak bagaimana cara menabung dengan benar untuk mencapai tujan
+    finansial anda
+image: https://images.unsplash.com/photo-1586034679970-cb7b5fc4928a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxMTc3M3wwfDF8c2VhcmNofDJ8fHNhdmluZ3xlbnwwfHx8fDE2NDA5NzY2MzI&ixlib=rb-1.2.1&q=80&w=1080
+category:
+  - Keuangan
+---
 Ternyata masih banyak orang yang belum mengerti bagaimana cara menabung dengan benar sehingga mereka kesulitan untuk mengatur finansial dengan baik. Semua orang tentu pernah belajar menabung, karena menabung menjadi salah satu hal yang diajarkan kepada kita sejak kecil, namun **sudahkan kita menabung dengan cara yang benar?**
 
 Setiap orang tua maupun guru di sekolah sering menanamkan nilai-nilai pentingnya kebiasaan menabung. Mulai dari kesabaran, perjuangan, atau pengorbanan untuk mendapatkan sesuatu di masa depan.
@@ -22,17 +38,9 @@ Meskipun sudah memasuki usia produktif dan memiliki penghasilan, biaya hidup yan
 
 Padahal, selain untuk memenuhi kebutuhan atau keinginan, menabung juga merupakan salah satu cara untuk menjamin kestabilan keuangan agar siap menghadapi hal-hal tidak terduga di masa mendatang.
 
-**Menabung dengan cara yang benar** dapat berperan penting untuk belajar mengatur keuangan, terutama bagi Anda yang baru mulai bekerja dan mulai memiliki penghasilan. _First jobber_ cenderung lebih memiliki kesempatan untuk belajar menabung karena belum banyak terbentur oleh kebutuhan dan tanggungan.
+**Menabung dengan cara yang benar** dapat berperan penting untuk belajar mengatur keuangan, terutama bagi Anda yang baru mulai bekerja dan mulai memiliki penghasilan. *First jobber* cenderung lebih memiliki kesempatan untuk belajar menabung karena belum banyak terbentur oleh kebutuhan dan tanggungan.
 
----
-
-## Table of Content
-
-* **Cara Menabung dengan Benar**
-* **[5 Tips Utama Agar Dapat Menabung dengan Benar](https://landx.id/blog/tips-and-trik-menabung-dengan-benar/#5-tips-utama-agar-dapat-menabung-dengan-benar)**[1. Menetapkan Tujuan Menabung](https://landx.id/blog/tips-and-trik-menabung-dengan-benar/#1-menetapkan-tujuan-menabung)[2. Memisahkan Rekening Khusus untuk Tabungan](https://landx.id/blog/tips-and-trik-menabung-dengan-benar/#2-memisahkan-rekening-khusus-untuk-tabungan)[3.](https://landx.id/blog/tips-and-trik-menabung-dengan-benar/#3-mulai-dari-nominal-yang-kecil) Mulai dari Nominal yang Kecil[4.](https://landx.id/blog/tips-and-trik-menabung-dengan-benar/#4-mengatur-auto-debit-ke-rekening-tabungan) Mengatur Auto Debit ke Rekening Tabungan[5. Menyisihkan Sebagian Tabungan untuk Investasi](https://landx.id/blog/tips-and-trik-menabung-dengan-benar/#5-menyisihkan-sebagian-tabungan-untuk-investasi)
-* [**Mulai Berinvestasi**](https://landx.id/blog/tips-and-trik-menabung-dengan-benar/#mulai-berinvestasi)
-
----
+- - -
 
 ## Cara Menabung dengan Benar
 
@@ -80,14 +88,14 @@ Salah satu solusi untuk mencegah hal tersebut adalah dengan menerapkan sistem pe
 
 Selain memudahkan Anda menabung, sistem ini juga dapat membantu Anda agar lebih bijaksana dalam mengatur keuangan dengan dana yang tersisa.
 
----
+- - -
 
 **Baca Juga:**
 
 * [Alasan Kenapa Selain Menabung Anda Perlu Melakukan Investasi](https://landx.id/blog/pentingnya-menabung-dan-investasi/)
 * [Untuk Pemula, Lebih Baik Deposito atau Investasi Bisnis? Yuk Simak Disini](https://landx.id/blog/deposito-dan-investasi-bisnis-untuk-pemula/)
 
----
+- - -
 
 ## 5. Menyisihkan Sebagian Tabungan untuk [Investasi](https://landx.id/?gclid=Cj0KCQiAwqCOBhCdARIsAEPyW9nwi5NqHHR49GyAePUYL0Od4dF99zKuM6A-0DRLjtKLAAZuyxzPJM4aAuAYEALw_wcB)
 
@@ -97,7 +105,7 @@ Sementara itu, jika Anda menabung dalam bentuk [investasi](https://landx.id/), a
 
 Selain tabungan deposito, ada banyak **[instrumen investasi](https://landx.id/)** [](https://landx.id/?gclid=Cj0KCQiAwqCOBhCdARIsAEPyW9nwi5NqHHR49GyAePUYL0Od4dF99zKuM6A-0DRLjtKLAAZuyxzPJM4aAuAYEALw_wcB) yang bisa dipakai untuk meningkatkan pundi-pundi tabungan. Salah satunya ialah investasi saham perusahaan/emiten yang memberikan pengembalian berupa pembagian keuntungan atau dividen. Melalui [investasi](https://landx.id/?gclid=Cj0KCQiAwqCOBhCdARIsAEPyW9nwi5NqHHR49GyAePUYL0Od4dF99zKuM6A-0DRLjtKLAAZuyxzPJM4aAuAYEALw_wcB) saham emiten, investor dapat menerima pembagian dividen secara rutin yang akan terus menambah pundi-pundi tabungan.
 
-Jika Anda tertarik berinvestasi saham namun tidak memiliki modal yang tinggi, Anda bisa mencoba berinvestasi saham melalui [**platform LandX**](https://landx.id/project/).
+Jika Anda tertarik berinvestasi saham namun tidak memiliki modal yang tinggi, Anda bisa mencoba berinvestasi saham melalui **[platform LandX](https://landx.id/project/)**.
 
 **[LandX](https://landx.id/project/)** merupakan platform equity crowdfunding yang mempertemukan para pebisnis dengan para investor. Sistem crowdfunding yang diterapkan di LandX memungkinkan Anda untuk ikut berinvestasi dengan modal yang kecil.
 
@@ -111,14 +119,13 @@ LandX menyediakan berbagai project bisnis menarik dan menjanjikan. Di LandX kamu
 
 **[Mau Informasi Menarik Lain Seputar Investasi? Yuk Kunjungi Instagram Kami di @landx.id](https://www.instagram.com/landx.id/?utm_medium=copy_link)**
 
----
+- - -
 
 **Baca Juga:**
 
 * [Investasi dengan Passive Income untuk Masa Depan](https://landx.id/blog/investasi-dengan-passive-income-untuk-masa-depan/)
 * [Investasi Selalu Rugi? Coba Lakukan Diversifikasi. Ini 4 Cara Melakukannya!](https://landx.id/blog/arti-penting-diversifikasi-dalam-investasi/)
 
----
+- - -
 
-**#YukPatunganBisnis**
-
+**\#YukPatunganBisnis**
