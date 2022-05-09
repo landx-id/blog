@@ -182,3 +182,5 @@ Di [LandX](https://landx.id/) kami memastikan setiap transaksi dan setiap langka
 * [Mau Investasi Rumah? Berikut Hal yang Wajib Kamu Ketahui Tentang Investasi Rumah](https://landx.id/blog/memulai-investasi-rumah/)
 * [Simak Berbagai Strategi Memulai Bisnis Properti Modal Kecil Terbaik yang Bisa Anda Terapkan](https://landx.id/blog/bisnis-properti-modal-kecil/)
 * [10 Rekomendasi Situs Jual Beli Rumah Terpercaya 2021](https://landx.id/blog/10-rekomendasi-situs-jual-beli-rumah-terpercaya-2021/)
+
+- - -
