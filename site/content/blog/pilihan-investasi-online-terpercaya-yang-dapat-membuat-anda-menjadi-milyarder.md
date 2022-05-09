@@ -43,11 +43,9 @@ Kunci investasi adalah kesesuaian antara tujuan keuangan dan alat investasi yang
 
 ## Apa saja Bisnis Investasi Online Terpercaya yang Dapat Dipilih?
 
-### 1. P2P – Peer To Peer Lending
+### 1. Peer To Peer (P2P) Lending
 
-* **Apa itu P2P ?**
-
-P2P /Peer To Peer adalah investasi online yang mempertemukan investor yang secara langsung memiliki dana dan peminjam yang membutuhkan dana pinjaman.
+P2P/Peer To Peer adalah investasi online yang mempertemukan investor yang secara langsung memiliki dana dan peminjam yang membutuhkan dana pinjaman.
 
 Konferensi ini diadakan secara online melalui teknologi informasi yang dimiliki oleh platform P2P.
 
@@ -152,5 +150,3 @@ Kami percaya bahwa Anda juga dapat menggunakan informasi di atas untuk menyelesa
 * [Memahami Apa Itu Cash Flow dan Manfaatnya dalam Menyusun Rencana](https://landx.id/blog/cashflow-adalah/)
 
 - - -
-
-**\#YukPatunganBisnis    #LandX.id    #landx         #landx.id    #InvestasiBisnis  #SecuritiesCrowdfunding   #EquityCrowdfunding    #InvestasiMenguntungkan     #Urundana    #BisnisPatungan    #InvestasiUsaha**
