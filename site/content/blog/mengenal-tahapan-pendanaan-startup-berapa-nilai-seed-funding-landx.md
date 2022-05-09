@@ -8,9 +8,17 @@ metaDescription: Merintis usaha memerlukan dana dan sumber modal, dapat berasal
 intro: Merintis usaha memerlukan dana dan sumber modal, dapat berasal dari
   bootstrap dan investor. Tahapan pendanaan startup dari memiliki nilai sebesar
 date: 2022-05-09T05:09:04.601Z
+tag:
+  - Equity Crowdfunding
+  - Securities Crowdfunding
+  - Bisnis Modal Kecil
+  - Situs Crowdfunding
+  - Venture Capital
+category:
+  - Bisnis
 featuredImage:
   title: "  Mengenal Tahapan Pendanaan Startup: Berapa Seed Funding yang Dibutuhkan?"
-  src: https://unsplash.com/photos/KdeqA3aTnBY
+  src: https://images.unsplash.com/photo-1517048676732-d65bc937f952?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80
   alt: sumber modal bisnis, pendanaan startup, venture capital, investor, angel
     investor
 ---
@@ -20,11 +28,13 @@ Proses pencarian modal bagi perusahaan rintisan (startup) mencakup serangkaian l
 
 Singkatnya, funding adalah penggalangan dana. Pemilik startup memulai proses funding dengan cara mempromosikan ide bisnis inovatif mereka kepada para calon investor yang akan mendanai.
 
+## Jenis-jenis Pendanaan Startup
+
 Langkah awal memulai funding startup ialah para pendiri startup mencari orang-orang yang memiliki uang untuk diinvestasikan dalam startup. Investor ini dapat merupakan seorang teman, anggota keluarga, angel investor, atau perusahaan modal ventura. 
 
 Jika investor tertarik untuk mempelajari lebih lanjut, presentasi formal dilakukan. Investor kemudian akan memutuskan apakah akan menginvestasikan modalnya. Langkah-langkah pendanaan startup antara lain raising seed capital, meningkatkan Seri A, Seri B, Seri C, dan melakukan exit startegy. Yuk, kita bahas lebih lanjut.
 
-1. ## Seed Funding
+## 1. Seed Funding
 
 Putaran seed funding adalah sejumlah minimun uang yang dibutuhkan untuk memulai startup. Tujuan seed funding adalah untuk membuktikan bahwa startup dapat mengeksekusi idenya dan membuktikan bahwa pasar akan mendukungnya. 
 
@@ -36,13 +46,13 @@ Angel investor sering kali merupakan pemilik bisnis berpengalaman yang memiliki 
 
 Berapa banyak seed funding yang dibutuhkan startup?
 
-![](https://lh5.googleusercontent.com/8cgDu-rFhT6lvRMiS_mSLMByWEgq4_dIqUStE_KadtNvhXczAMf1I4WcoPWbb2fwHvvDsAZtG5OvMNGg0Zb5TWXD1Zu_i8Fr1p-cr4iYaR37zz87uL2L2ss-uTm6CeXmlZ6AV6r9iHwKo_X-3g)
+![Yuk pahami apa itu seed funding](https://lh5.googleusercontent.com/8cgDu-rFhT6lvRMiS_mSLMByWEgq4_dIqUStE_KadtNvhXczAMf1I4WcoPWbb2fwHvvDsAZtG5OvMNGg0Zb5TWXD1Zu_i8Fr1p-cr4iYaR37zz87uL2L2ss-uTm6CeXmlZ6AV6r9iHwKo_X-3g "Memahami apa itu pendanaan startup untuk bisnis")
 
 Berdasar laporan Google, Temasek, dan Bain & Company, rata-rata nilai kesepakatan dalam pendanaan tahap awal telah berlipat ganda selama beberapa tahun terakhir. Hal ini membuktikan indikator kepercayaan investor terhadap ekosistem Asia Tenggara yang semakin matang. 
 
 Pada 2016, rata-rata nilai kesepakatan seed funding mencapai sekitar $500.000. Hingga tahun 2009 telah melonjak menjadi rata-rata $800.000. Demikian pula, nilai pendanaan untuk seri A dan B ikut mengalami pertumbuhan nilai seiring waktu.
 
-2. ## Seri A
+## 2. Seri A
 
 Setahun dari pendanaan seed funding telah berlalu dan perusahaan Anda telah memiliki basis konsumen potensial yang membeli produk. Untuk melayani para konsumen dengan maksimal, saatnya Anda mempekerjakan lebih banyak karyawan dan tentunya ruang kantor yang mencukupi.
 
@@ -50,13 +60,13 @@ Untuk dapat melakukannya, Anda dapat menggalang lebih banyak dana pada putaran i
 
 Founder startup seri A selanjutnya memiliki tanggung jawab untuk memasarkan produknya dalam skala yang lebih besar. Sembari melakukan pengembangan produk lebih lanjut dan eksekusi strategi untuk menghasilkan profit jangka panjang.
 
-3. ## Seri B
+## 3. Seri B
 
 Pendanaan pada putaran seri B dapat diberikan pada perusahaan yang telah memiliki market share dan scaling bisnis. Investor akan fokus pada kemampuan perusahaan dalam menjangkau pasar (market reach) dalam jumlah besar.
 
 Menjangkau lebih banyak konsumen dan menghadirkan fitur layanan yang mumpuni membuat startup akan berusaha melakukan promosi dan menghadirkan tim berkualitas
 
-4. ## Seri C
+## 4. Seri C
 
 Seri C adalah babak terakhir penggalangan dana startup. Bisnis yang memasuki tahapan Seri C dapat dikategorikan sukses. 
 
@@ -66,7 +76,7 @@ Biasanya pada kategori ini perusahaan akan berusaha mengembangkan produk baru, m
 
 Pada tahun 2021, valuasi rata-rata untuk perusahaan Seri C adalah sekitar US$ 68 juta. Penilaian terhadap pendanaan ini didasarkan pada berbagai data saat ini sebagai ekspektasi untuk kesuksesan di masa depan. 
 
-5. ## Startup Exit Strategy
+## 5. Startup Exit Strategy
 
 Umumnya, sebuah perusahaan akan mengakhiri pendanaan ekuitas eksternalnya dengan Seri C. Namun, beberapa perusahaan dapat melanjutkan ke putaran pendanaan Seri D dan bahkan Seri E. 
 
@@ -94,4 +104,6 @@ Pada [crowdfunding](https://landx.id/) biasanya pemilik bisnis akan menargetkan 
 
 [LandX](https://landx.id/) sebagai platform crowdfunding terdepan di Indonesia berusaha menghadirkan bisnis potensial bagi setiap investor lokal agar saling menguntungkan. 
 
-## [Yuk, kembangkan bisnismu dan jadi investor crowdfunding di LandX!](https://landx.id/)
+## [Yuk, kembangkan bisnismu dan jadi investor crowdfunding di LandX!](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)
+
+[![miliki bisnis modal kecil cuma dengan 1 jutaan dapat 4 cabang ](https://accountgram-production.sfo2.cdn.digitaloceanspaces.com/landx_ghost/2021/11/jadi-owner-bisnis-hanya-1-jutaan-dengan-cuan-yang-sangat-menjanjikan.png)](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)
