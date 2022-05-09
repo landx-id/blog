@@ -1,35 +1,40 @@
-+++
-author = "Abdul Wahhab"
-category = ["Investasi online terbaru", "investasi online", "Equity Crowdfunding", "investasi bisnis", "Securities Crowdfunding untuk Pengembangan UMKM di Indonesia", "crowdfunding", "Situs Crowdfunding"]
-date = 2021-03-25T03:46:44Z
-metaDescription = "Crowdfunding merupakan cara terbaru investasi online. Kenali cara terbaru investasi online dengan memahami berbagai berbagai keuntungan crowdfunding"
-draft = false
-image = "https://accountgram-production.sfo2.cdn.digitaloceanspaces.com/landx_ghost/2021/03/4.-investai-online-terbaru.jpg"
-slug = "crowdfunding-apa-itu-tujuan-cara-baru-investasi-online-masa-kini"
-tag = ["Investasi online terbaru", "investasi online", "Equity Crowdfunding", "investasi bisnis", "Securities Crowdfunding untuk Pengembangan UMKM di Indonesia", "crowdfunding", "Situs Crowdfunding"]
-title = "Crowdfunding, Apa itu, Tujuan, Cara Baru Investasi Online Masa Kini"
-
-+++
-
-
+---
+draft: false
+author: Abdul Wahhab
+slug: crowdfunding-apa-itu-tujuan-cara-baru-investasi-online-masa-kini
+title: Crowdfunding Cara Baru Investasi Online Masa Kini
+metaTitle: Crowdfunding Cara Baru Investasi Online Masa Kini
+metaDescription: Crowdfunding merupakan cara terbaru investasi online. Kenali
+  cara terbaru investasi online dengan memahami berbagai berbagai keuntungan
+  crowdfunding
+intro: Crowdfunding sebenarnya bukanlah sesuatu yang baru dalam bidang investasi
+  bisnis
+date: 2021-03-25T03:46:44.000Z
+tag:
+  - Investasi online terbaru
+  - investasi online
+  - Equity Crowdfunding
+  - investasi bisnis
+  - Securities Crowdfunding untuk Pengembangan UMKM di Indonesia
+  - crowdfunding
+  - Situs Crowdfunding
+featuredImage:
+  src: https://www.google.com/url?sa=i&url=https%3A%2F%2Fborn2invest.com%2Farticles%2Finvest-money-good-return%2F&psig=AOvVaw0p-yg3A1ciIUaPcGaU0JV4&ust=1652177192771000&source=images&cd=vfe&ved=0CAwQjRxqFwoTCOioie2V0vcCFQAAAAAdAAAAABAD
+  alt: Crowdfunding Cara Baru Investasi Online Masa Kini
+  title: Crowdfunding Cara Baru Investasi Online Masa Kini
+image: https://accountgram-production.sfo2.cdn.digitaloceanspaces.com/landx_ghost/2021/03/4.-investai-online-terbaru.jpg
+category:
+  - Investasi
+  - Keuangan
+  - Cara Investasi di Securities Crowdfunding
+---
 Crowdfunding adalah [investasi online terbaru](https://landx.id/) dan metode yang digunakan untuk mengumpulkan dana secara kolektif dari anggota keluarga, teman, dan investor.
 
 Pendekatan ini akan memanfaatkan upaya kolektif dari beberapa individu melalui platform internet sebagai media pengumpulan dana. Jadi, mengapa crowdfunding menguntungkan? Apa manfaat crowdfunding untuk bisnis saya?
 
 Berikut ini akan kami bahas semua pengetahuan yang anda ketahui tentang crowdfunding, mulai dari pengertian, jenis dan juga manfaat dari crowdfunding itu sendiri.
 
----
-
-## Table of Content
-
-* **[Jadi, Mengapa Menggunakan Crowdfunding?](#jadi-mengapa-menggunakan-crowdfunding)**
-* **[Manfaat Crowdfunding, Investasi Online Terbaru](#manfaat-crowdfunding-investasi-online-terbaru)**
-* **[Jenis-Jenis Crowdfunding](#jenis-Jenis-crowdfunding)**
-* **[Keunggulan dan Kekurangan Crowdfunding](#keunggulan-dan-kekurangan-crowdfunding)**
-* **[Tips Melakukan Crowdfunding](#tips-melakukan-crowdfunding)**
-* **[Kesimpulan](#kesimpulan)**
-
----
+- - -
 
 ## Jadi, Mengapa Menggunakan Crowdfunding?
 
@@ -41,14 +46,14 @@ Dana dari investor akan disalurkan ke dalam berbagai bisnis yang memiliki potens
 
 Secara umum, platform crowdfunding seperti LandX dapat membantu Anda menarik menemukan  banyak bisnis  yang bisa jadi tempat anda berinvestasi dan mengembangkan modal anda. Untuk mendapatkan peluang yang lebih baik, LandX akan membantu menyeleksi bisnis terbaik sebelum dirilis ke dalam website.
 
----
+- - -
 
 **Artikel Terkait:**
 
 * [Alasan Kenapa Selain Menabung Anda Perlu Melakukan Investasi](https://landx.id/blog/pentingnya-menabung-dan-investasi/)
 * [Simak Cara Investasi Terbaik ke Berbagai Bisnis Potensial Hanya dengan Modal Kecil](https://landx.id/blog/cara-investasi-bisnis-terbaik/)
 
----
+- - -
 
 ## Manfaat Crowdfunding, Investasi Online Terbaru
 
@@ -115,13 +120,13 @@ Strategi meningkatkan modal bisnis secara kolektif yang disebut ["crowdfunding"]
 
 Jika dana sudah terkumpul dan bisnis yang tepat sudah anda temukan  maka Anda harus segera mulai menanamkan modal ke dalam perusahaan potensial pilihan anda. Lacak dana yang anda kumpulkan  dengan benar dan rapi agar anda bisa mengevaluasi pilihan investasi yang tepat untuk anda lakukan.
 
-[**Yuk, gabung patungan bisnis bersama LandX**](https://landx.id/project/)
+<!--StartFragment-->
 
-[![Bagaimana? Kamu lebih suka bisnis dengan buyback guarantee atau yang bisa disimpan dalam jangka panjang? Apapun pilihan kamu.. Yuk Patungan  dengan Keuntungan Menjanjikan Bareng LandX](https://accountgram-production.sfo2.cdn.digitaloceanspaces.com/landx_ghost/2021/10/Equity-Crowdfunding-di-Indonesia-1--3.png)](https://landx.id/project/#/ximi)
+\## \[Yuk, jadi bos bisnis dan terima keuntungan rutin di LandX]([https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog "https\://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog")) \[![miliki bisnis modal kecil cuma dengan 1 jutaan dapat 4 cabang ]([https://accountgram-production.sfo2.cdn.digitaloceanspaces.com/landx_ghost/2021/11/jadi-owner-bisnis-hanya-1-jutaan-dengan-cuan-yang-sangat-menjanjikan.png)](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)](<https://accountgram-production.sfo2.cdn.digitaloceanspaces.com/landx_ghost/2021/11/jadi-owner-bisnis-hanya-1-jutaan-dengan-cuan-yang-sangat-menjanjikan.png)](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)> "https\://accountgram-production.sfo2.cdn.digitaloceanspaces.com/landx_ghost/2021/11/jadi-owner-bisnis-hanya-1-jutaan-dengan-cuan-yang-sangat-menjanjikan.png)](https\://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)")
 
-**[Mau Tau Berbagai Informasi Terbaru Terkait Crowdfunding? Yuk Follow Instagram Kami @landx.id](https://www.instagram.com/landx.id/?utm_medium=copy_link)**
+<!--EndFragment-->
 
----
+- - -
 
 **Baca Juga:**
 
@@ -129,7 +134,4 @@ Jika dana sudah terkumpul dan bisnis yang tepat sudah anda temukan  maka Anda ha
 * [Berinvestasi Gaya Elon Musk atau Warren Buffet? 2 Pandangan Buat Kamu yang Ingin Ikutan Bitcoin](https://landx.id/blog/berinvestasi-gaya-elon-musk-atau-warren-buffet-2-pandangan-buat-kamu-yang-ingin-ikutan-bitcoin/)
 * [Pinjol Legal Berguguran, Penyebab, dan Tips Agar Tergoda Pinjol Ilegal](https://landx.id/blog/pinjol-legal-ojk-berguguran/)
 
----
-
-**#YukPatunganBisnis     #LandX.id    #landx         #landx.id     #InvestasiBisnis   #SecuritiesCrowdfunding   #EquityCrowdfunding      #InvestasiMenguntungkan     #Urundana    #BisnisPatungan      #InvestasiUsaha**
-
+- - -
