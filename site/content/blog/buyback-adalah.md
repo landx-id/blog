@@ -2,12 +2,11 @@
 draft: false
 author: Abdul Wahhab
 slug: buyback-adalah
-title: "Buyback adalah: Memahami Apa Itu Buyback dan Dampaknya bagi Investor"
-metaTitle: "Buyback adalah: Memahami Apa Itu Buyback dan Dampaknya bagi Investor"
-metaDescription: Buyback adalah kebijakan emiten atau penerbit untuk membeli
-  kembali saham mereka yang telah dijual kepada publik atau investor
-intro: "Pahami apa itu buyback dan bagaimana pengaruh buyback terhadap investasi
-  yang kamu lakukan. "
+title: Yuk Pahami Arti Buyback Saham dan Dampak Buyback untuk Investor
+metaTitle: Yuk Pahami Arti Buyback Saham dan Dampak Buyback untuk Investor
+metaDescription: Buyback adalah kebijakan perusahaan untuk membeli kembali saham
+  mereka yang beredar di publik sehingga mereka dapat kembali privat
+intro: Yuk pahami apa itu buyback dalam investasi yang penting untuk anda pahami.....
 date: 2021-10-05T12:52:42.000Z
 tag:
   - tips investasi
@@ -20,12 +19,9 @@ tag:
   - investasi bisnis
 featuredImage:
   src: https://images.unsplash.com/photo-1565665681743-6ff01c5181e3?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxMTc3M3wwfDF8c2VhcmNofDI5fHxoYW5kc2hha2V8ZW58MHx8fHwxNjQxNTMyNDMy&ixlib=rb-1.2.1&q=80&w=1080
-  alt: Buyback dalam equity crowdfunding merupakan kebijakan pembelian kembali
-    saham yang oleh penerbit setelah beberapa periode waktu. Konsep ini hampir
-    sama dengan buyback di pasar modal namun periode waktunya akan dijelaskan di
-    proses awal penawaran.
-  title: Buyback adalah kebijakan membeli kembali saham yang telah dilepas kepada
-    publik sehingga perusahaan memiliki sepenuhnya saham yang telah mereka jual
+  alt: Buyback saham adalah kebijakan perusahaan untuk membeli kembali saham
+    mereka yang beredar di publik
+  title: Memahami arti buyback dan kenapa buyback penting bagi investor
 image: https://images.unsplash.com/photo-1565665681743-6ff01c5181e3?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxMTc3M3wwfDF8c2VhcmNofDI5fHxoYW5kc2hha2V8ZW58MHx8fHwxNjQxNTMyNDMy&ixlib=rb-1.2.1&q=80&w=1080
 category:
   - Investasi
