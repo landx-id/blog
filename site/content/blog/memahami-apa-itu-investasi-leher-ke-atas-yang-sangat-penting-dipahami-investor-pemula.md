@@ -1,19 +1,15 @@
 ---
 draft: false
 author: Abdul Wahhab
-title: Memahami Apa Itu Investasi Leher ke Atas yang Harus Dilakukan Pemula
+title: Yuk Pahami Maksud Investasi Leher ke Atas untuk Investor Pemula
 metaTitle: Memahami Apa Itu Investasi Leher ke Atas yang Harus Dilakukan Pemula
-metaDescription: Investasi leher ke atas adalah investasi yang harus anda
-  lakukan kepada bagian atas tubuh yaitu otak atau pikiran|Simak cara investasi
-  lahir ke atas
-intro: >-
-  Dalam berinvestasi, banyak orang lupa bahwa selain berinvestasi ke dalam
-  berbagai instrumen yang memberikan mereka keuntungan mereka juga perlu
-  melakukan investasi leher ke atas yang profitnya tidak akan ada habisnya dan
-  minim risiko. 
-
-
-  Oleh sebab itu, mari kita bahas apa itu investasi leher ke atas dan bagaimana investasi satu ini bisa memberikan kamu keuntungan jangka panjang.
+metaDescription: Investasi leher ke atas adalah investasi ke diri sendiri
+  seperti peningkatan skill yang berguna untuk kita dalam  kehidupan jangka
+  panjang
+intro: Investasi leher keatas maksudnya adalah berinvestasin ke diri sendiri
+  dengan memperbanyak pengetahuan dan skill untuk masa mendatang. Karena itu,
+  investasi leher ke atas menjadi salah satu investasi yang sangat penting bagi
+  pemula.
 isPinned: false
 slug: memahami-apa-itu-investasi-leher-ke-atas-yang-sangat-penting-dipahami-investor-pemula
 date: 2022-02-06T07:54:26.127Z
@@ -82,9 +78,9 @@ Nantinya kamu akan mendapatkan dividen yang jumlahnya akan mengikuti bagaimana k
 
 Karena itu..
 
-**[Yuk Patungan Bisnis Menguntungkan Bareng LandX](https://landx.id/)**
+## [Yuk, jadi bos bisnis dan terima keuntungan rutin di LandX](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)
 
-[![Yuk Patungan Bisnis Bareng LandX - Platform Securities Crowdfunding Terpercaya](https://accountgram-production.sfo2.cdn.digitaloceanspaces.com/landx_ghost/2021/09/Equity-Crowdfunding-di-Indonesia-1-.png)](https://landx.id/)
+[![miliki bisnis modal kecil cuma dengan 1 jutaan dapat 4 cabang ](https://accountgram-production.sfo2.cdn.digitaloceanspaces.com/landx_ghost/2021/11/jadi-owner-bisnis-hanya-1-jutaan-dengan-cuan-yang-sangat-menjanjikan.png)](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)
 
 **[Mau Informasi Menarik Lain Seputar Investasi? Yuk Kunjungi Instagram Kami di @landx.id](https://www.instagram.com/landx.id/?hl=en)**
 
