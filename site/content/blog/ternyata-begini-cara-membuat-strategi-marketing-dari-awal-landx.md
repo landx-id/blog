@@ -1,16 +1,24 @@
 ---
 author: Vlora Riyandi
-title: Ternyata Begini Cara Membuat Strategi Marketing Dari Awal | LandX
-metaTitle: Ternyata Begini Cara Membuat Strategi Marketing Dari Awal | LandX
-metaDescription: Apa itu strategi pemasaran atau strategi promosi? Konsep
-  pemasaran memiliki tujuan agar bisnis dapat bertahan jangka panjang.
-intro: Apa itu strategi pemasaran atau strategi promosi? Konsep pemasaran
-  memiliki tujuan agar bisnis dapat bertahan jangka panjang.
+title: Yuk Pahami Pengertian dan Cara Menyusun Strategi Pemasaran
+metaTitle: Pahami Apa Itu Strategi Marketing dan Cara Menyusunnya untuk Bisnis
+metaDescription: Yuk pahami apa itu strategi pemasaran dan kenapa strategi
+  pemasaran atau marketing sangat penting untuk bisnis
+intro: "Yuk pahami apa itu strategi pemasaran dan strategi promosi yang
+  meruipakan bagian penting yang anda pikirkan saat membangun bisnis. "
 date: 2022-05-10T10:42:50.084Z
+tag:
+  - Manajemen Bisnis
+  - Bisnis Jangka Panjang
+  - Peluang Usaha
+category:
+  - Bisnis
+  - Investasi
 featuredImage:
-  title: Cara Membuat Strategi Marketing Bagi Perusahaan Baru | LandX Crowdfunding
-  src: https://unsplash.com/photos/yktK2qaiVHI
-  alt: strategi marketing, strategi pemasaran, tujuan strategi pemasaran
+  title: Yuk pahami dengan baik apa itu marketing strategi untuk bisnis jangka panjang
+  src: https://images.unsplash.com/photo-1533750349088-cd871a92f312?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80
+  alt: Yuk pahami apa itu strategi pemasaran dan tujuan strategi pemasaran untuk
+    bisnis jangka panjang anda
 ---
 Setiap perusahaan perlu memasarkan produk dan layanannya untuk dapat menjualnya, kegiatan inilah disebut sebagai pemasaran. 
 
@@ -103,4 +111,6 @@ Setiap outlet baru yang akan dibuka pemilik bisnis di [LandX](https://landx.id/)
 
 Karena itu,
 
-## [Yuk, terima keuntungan rutin dengan jadi investor bisnis melalui aplikasi LandX!](https://landx.id/)
+## [Yuk, terima keuntungan rutin dengan jadi investor bisnis melalui aplikasi LandX!](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)
+
+[[![miliki bisnis modal kecil cuma dengan 1 jutaan dapat 4 cabang ](https://accountgram-production.sfo2.cdn.digitaloceanspaces.com/landx_ghost/2021/11/jadi-owner-bisnis-hanya-1-jutaan-dengan-cuan-yang-sangat-menjanjikan.png)](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)[](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)
