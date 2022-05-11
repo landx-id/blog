@@ -28,8 +28,6 @@ image: https://images.unsplash.com/photo-1526628953301-3e589a6a8b74?crop=entropy
 category:
   - Investasi
 ---
-
-
 Berbicara terkait investasi, **mitigasi risiko adalah** hal penting yang tidak boleh dilupakan investor agar investasi menjadi lebih aman dan menguntungkan.
 
 Pemahaman terkait **mitigasi risiko** ini sangat penting terutama untuk investor pemula yang baru memasuki dunia investasi. Hal ini karena setiap investasi pasti memiliki risiko sehingga investor membutuhkan strategi untuk menangani risiko tersebut.
@@ -46,11 +44,11 @@ Dalam investasi, setiap instrumen memiliki risiko yang berbeda-beda. Artinya seb
 
 Tapi sebelum itu, sudahkah anda paham apa itu mitigasi risiko dalam investasi? Kalau belum mari kita bahas secara mendalam melalui artikel di bawah ini.
 
----
+- - -
 
 ## **Apa Itu Mitigasi Risiko?**
 
-Saat mulai berinvestasi kita akan sering menemukan istilah **[mitigasi risiko](https://landx.id/) ** dalam setiap instrumen investasi. Karena itu mari kita bahas terlebih dahulu apa itu mitigasi risiko.
+Saat mulai berinvestasi kita akan sering menemukan istilah **[mitigasi risiko](https://landx.id/)**  dalam setiap instrumen investasi. Karena itu mari kita bahas terlebih dahulu apa itu mitigasi risiko.
 
 **Mitigasi risiko adalah** usaha dan tindakan yang diambil oleh seorang investor untuk memperkecil dampak dari risiko yang muncul saat investasi.
 
@@ -64,7 +62,7 @@ Karena kita sulit memprediksi masa depan, maka yang bisa kita lakukan adalah men
 
 Strategi mitigasi risiko adalah strategi yang kita susun untuk menghadapi berbagai potensi kerugian di masa mendatang yang mungkin saja muncul.
 
-Untuk memperkecil risiko kerugian dan memaksimalkan keuntungan dari [**investasi**](https://landx.id/), kamu perlu melakukan diversifikasi terhadap instrumen investasi kamu.
+Untuk memperkecil risiko kerugian dan memaksimalkan keuntungan dari **[investasi](https://landx.id/)**, kamu perlu melakukan diversifikasi terhadap instrumen investasi kamu.
 
 Oleh sebab itu, kamu bisa mengalokasikan dan ke beberapa instrumen investasi agar risiko investasi menjadi lebih kecil atau bisa kita sebut sebagai diversifikasi.
 
@@ -80,14 +78,14 @@ Apabila anda menerapkan hal ini dengan baik maka investasi yang anda lakukan aka
 
 <iframe width="200" height="113" src="https://www.youtube.com/embed/n4h_MuP3eS4?start=7&feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
----
+- - -
 
 **Baca Juga:**
 
 * [Diversifikasi Adalah: Memahami Apa Itu Diversifikasi dan Pentingnya Strategi Diversifikasi dalam Investasi](https://landx.id/blog/diversifikasi-dalam-investasi/)
 * [Ingin Terhindar Dari FOMO saat Berinvestasi? 5 Hal Ini Wajib Kamu Lakukan](https://landx.id/blog/fomo-dalam-kehidupan-dan-investasi/)
 
----
+- - -
 
 ## **Berbagai Jenis Risiko dalam Investasi**
 
@@ -98,6 +96,8 @@ Berikut beberapa jenis risiko yang harus pahami dalam investasi:
 ### 1. Risiko Inflasi
 
 **Risiko inflasi adalah** risiko investasi yang harus kamu hadapi karena inflasi terus meningkat dari waktu ke waktu sehingga nilai aset dan investasi kamu mungkin saja akan mengalami penurunan.
+
+Risiko inflasi adalah salah satu yang paling penting untuk diwaspadai karena nilai inflasi yang terus meningkat seiring berjalannya waktu. Karena itu, dalam investasi risiko inflasi menjadi salah satu poin penting yang perlu untuk diperhatikan dalam jangka panjang.
 
 peningkatan nilai inflasi akan mempengaruhi nilai tukar uang yang anda miliki terutama dana yang hanya anda simpan dalam tabungan.Peningkatan inflasi ini akan menjadi salah satu risiko yang muncul dalam investasi karena bisa menyebabkan penurunan nilai dari investasi yang anda lakukan.
 
@@ -135,24 +135,23 @@ Hal ini bisa saja terjadi karena kondisi pasar yang tidak terduga atau bisnis ti
 
 Akan tetapi risiko ini bisa anda kurangi dengan berinvestasi bisnis melalui platform equity crowdfunding sudah memiliki rekam jejak baik dalam menyalurkan dana ke berbagai bisnis potensial.
 
-Memilih [**platform crowdfunding**](https://landx.id/) yang baik merupakan salah satu cara anda mengelola risiko dari investasi bisnis yang akan dilakukan. Platform yang baik akan membantu menyeleksi bisnis potensial yang didanai sehingga anda akan mendapatkan bisnis terbaik untuk anda danai.
+Memilih **[platform crowdfunding](https://landx.id/)** yang baik merupakan salah satu cara anda mengelola risiko dari investasi bisnis yang akan dilakukan. Platform yang baik akan membantu menyeleksi bisnis potensial yang didanai sehingga anda akan mendapatkan bisnis terbaik untuk anda danai.
 
-[**LandX**](https://landx.id/) merupakan [platform equity crowdfunding](https://landx.id/) yang sudah berpengalaman menyalurkan dana investor ke dalam berbagai bisnis potensial di sekitar anda.
+**[LandX](https://landx.id/)** merupakan [platform equity crowdfunding](https://landx.id/) yang sudah berpengalaman menyalurkan dana investor ke dalam berbagai bisnis potensial di sekitar anda.
 
 ## [Yuk Patungan Bisnis Menguntungkan Bareng LandX](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)
 
 [![miliki bisnis modal kecil cuma dengan 1 jutaan dapat 4 cabang ](https://accountgram-production.sfo2.cdn.digitaloceanspaces.com/landx_ghost/2021/11/jadi-owner-bisnis-hanya-1-jutaan-dengan-cuan-yang-sangat-menjanjikan.png)](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)
 
-[**Yuk Tetap Update Info Seputar Investasi Terbaru Dengan Follow Instagram Kami @landx.id**](https://www.instagram.com/landx.id/?utm_medium=copy_link)
+**[Yuk Tetap Update Info Seputar Investasi Terbaru Dengan Follow Instagram Kami @landx.id](https://www.instagram.com/landx.id/?utm_medium=copy_link)**
 
----
+- - -
 
 **Baca Juga:**
 
 * **[Rahasia Bisnis Kapal Cumi yang Tak Diketahui Orang](https://landx.id/project/#/asm1)**
-* [**Investor Pemula Wajib Tau, Berbagai Jenis dan Risiko Obligasi**](https://landx.id/blog/apa-itu-obligasi/)
+* **[Investor Pemula Wajib Tau, Berbagai Jenis dan Risiko Obligasi](https://landx.id/blog/apa-itu-obligasi/)**
 
----
+- - -
 
-#LandX.id    #landx.id    #YukPatunganBisnis    #InvestasiBisnis    #SecuritiesCrowdfunding    #EquityCrowdfunding    #InvestasiMenguntungkan    #Urundana    #BisnisPatungan    #InvestasiUsaha
-
+\#LandX.id    #landx.id    #YukPatunganBisnis    #InvestasiBisnis    #SecuritiesCrowdfunding    #EquityCrowdfunding    #InvestasiMenguntungkan    #Urundana    #BisnisPatungan    #InvestasiUsaha
