@@ -7,7 +7,7 @@
     - main
 
 .build:
-  image: docker:stable
+  image: ${CI_REGISTRY}/pub/docker-images:docker19-stable
   services:
     - docker:19-dind
   script:
@@ -28,7 +28,7 @@
 
 .deploy:
   stage: deploy
-  image: google/cloud-sdk
+  image: ${CI_REGISTRY}/pub/docker-images:cloudsdk-stable
   script:
     # Authenticate using the service account
     - echo $GCLOUD_SERVICE_KEY | base64 --decode -i > ~/gcloud-service-key.json

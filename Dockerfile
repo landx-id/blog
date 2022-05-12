@@ -1,4 +1,4 @@
-FROM --platform=linux/x86_64 node:14.18.2-alpine
+FROM --platform=linux/x86_64 lcr.landx.id/pub/docker-images:node14-alpine-stable
 
 RUN apk add git python3 make g++ krb5-dev libressl-dev hugo nginx && \
 	ln -s $(which python3) /usr/local/bin/python
