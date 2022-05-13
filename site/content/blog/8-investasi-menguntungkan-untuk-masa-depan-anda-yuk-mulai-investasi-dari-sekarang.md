@@ -42,6 +42,12 @@ Kini, menyusun instrumen investasi terbaik untuk masa depan bukanlah sesuatu yan
 
 Pilihan instrumen pun kini kian beragam sehingga kita dapat dengan lebih mudah menyesuaikan jenis instrumen dengan tujuan finansial kamu di masa mendatang.
 
+## Investasi Modal Kecil Untung Besar
+
+Dalam memilih instrumen investasi, setiap investor tentu saja menginginkan investasi modal kecil dengan untung besar. Namun kamu harus ingat bahwa setiap investasi memiliki risiko yang sejalan dengan potensi keuntungan yang mereka berikan.  
+
+Oleh sebab itu, sebelum berinvestasi kamu perlu memperhatikan risiko yang sejajar dengan keuntungan yang akan kamu dapatkan. 
+
 Karena itu, yuk cek 8 pilihan investasi menguntungkan untuk masa depan kamu.
 
 ## Jenis-jenis Investasi Modal Kecil untuk Keuntungan Jangka Panjang Anda
