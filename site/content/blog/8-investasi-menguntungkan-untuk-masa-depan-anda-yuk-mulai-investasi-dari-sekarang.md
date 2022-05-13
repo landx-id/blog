@@ -34,6 +34,8 @@ category:
 ---
 Apabila kamu sedang menyiapkan investasi masa depan, maka kamu perlu menyiapkan jenis investasi yang menguntungkan dalam jangka panjang agar keuangan kamu di masa mendatang berada dalam kondisi lebih baik dan optimal.
 
+Setiap orang tentu saja mengingingkan investasi modal kecil untung besar yang bisa memberikan anda keuntungan jangka panjang. 
+
 Akan tetapi, menyiapkan investasi yang menguntungkan buat masa depan adalah sesuatu yang harus disiapkan sejak dini sehingga sebaiknya kita mulai se dini mungkin. Hal ini menjadi sangat penting karena inflasi terus meningkat dari waktu ke waktu sehingga kamu ada baiknya kamu mulai secepat mungkin.
 
 Kini, menyusun instrumen investasi terbaik untuk masa depan bukanlah sesuatu yang sulit karena akses investasi semakin mudah dan bisa dimulai dengan modal yang relatif kecil sehingga kita bisa mulai berinvestasi se-dini mungkin.
@@ -41,6 +43,8 @@ Kini, menyusun instrumen investasi terbaik untuk masa depan bukanlah sesuatu yan
 Pilihan instrumen pun kini kian beragam sehingga kita dapat dengan lebih mudah menyesuaikan jenis instrumen dengan tujuan finansial kamu di masa mendatang.
 
 Karena itu, yuk cek 8 pilihan investasi menguntungkan untuk masa depan kamu.
+
+## Jenis-jenis Investasi Modal Kecil untuk Keuntungan Jangka Panjang Anda
 
 ## 1. Investasi Properti
 
