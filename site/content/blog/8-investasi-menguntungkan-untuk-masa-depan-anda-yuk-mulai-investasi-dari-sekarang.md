@@ -2,13 +2,13 @@
 draft: false
 author: Abdul Wahhab
 slug: 8-investasi-menguntungkan-untuk-masa-depan-anda-yuk-mulai-investasi-dari-sekarang
-title: 8+ Investasi Menguntungkan untuk Masa Depan Anda, Yuk Mulai Investasi
-metaTitle: 8+ Investasi Menguntungkan untuk Masa Depan Anda, Yuk Mulai Investasi
+title: Macam-macam Investasi Menguntungkan untuk Masa Depan Anda, Yuk Cek...
+metaTitle: Macam-macam Investasi Menguntungkan untuk Masa Depan Anda, Yuk Cek...
 metaDescription: Yuk simak berbagai investasi menguntungkan bagi kamu yang
   sedang menyusun rencana keuangan jangka panjang. Yuk simak berbagai
   instrumennya di sini
-intro: Yuk simak berbagai jenis investasi untuk masa depan yang harus kamu mulai
-  siapkan dari sekarang.
+intro: Yuk cek macam-macam investasi menguntungkan untuk perencanaan investasi
+  keuangan jangka panjang anda.
 date: 2022-01-11T09:03:00.000Z
 tag:
   - bisnis investasi
