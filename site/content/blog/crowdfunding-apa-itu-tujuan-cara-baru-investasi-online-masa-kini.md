@@ -19,7 +19,7 @@ tag:
   - crowdfunding
   - Situs Crowdfunding
 featuredImage:
-  src: https://www.google.com/url?sa=i&url=https%3A%2F%2Fborn2invest.com%2Farticles%2Finvest-money-good-return%2F&psig=AOvVaw0p-yg3A1ciIUaPcGaU0JV4&ust=1652177192771000&source=images&cd=vfe&ved=0CAwQjRxqFwoTCOioie2V0vcCFQAAAAAdAAAAABAD
+  src: https://images.unsplash.com/photo-1584713503693-bb386ec95cf2?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1074&q=80
   alt: Crowdfunding Cara Baru Investasi Online Masa Kini
   title: Crowdfunding Cara Baru Investasi Online Masa Kini
 image: https://accountgram-production.sfo2.cdn.digitaloceanspaces.com/landx_ghost/2021/03/4.-investai-online-terbaru.jpg
