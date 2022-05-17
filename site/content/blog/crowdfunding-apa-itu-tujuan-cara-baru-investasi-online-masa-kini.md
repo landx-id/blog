@@ -19,7 +19,7 @@ tag:
   - crowdfunding
   - Situs Crowdfunding
 featuredImage:
-  src: https://images.unsplash.com/photo-1618044733300-9472054094ee?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1171&q=80
+  src: https://media.discordapp.net/attachments/913743599844343808/976041320294518794/unknown.png
   alt: Crowdfunding Cara Baru Investasi Online Masa Kini
   title: Crowdfunding Cara Baru Investasi Online Masa Kini
 image: https://accountgram-production.sfo2.cdn.digitaloceanspaces.com/landx_ghost/2021/03/4.-investai-online-terbaru.jpg
