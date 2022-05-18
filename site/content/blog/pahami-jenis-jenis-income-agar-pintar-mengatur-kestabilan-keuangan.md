@@ -6,12 +6,23 @@ metaDescription: Bagaimana cara terbaik untuk menjamin kestabilan keuangan? Baca
   artikel ini untuk paham jenis-jenis income untuk mencapai hal ini.
 intro: Mari pelajari jenis-jenis income untuk segera meraih kestabilan finansial
 date: 2022-05-18T08:25:28.940Z
+tag:
+  - Cara mengembangkan uang dengan cepat
+  - investasi keuangan
+  - Investasi Passive Income
+  - Dana Darurat
+  - Menabung dengan Benar
+  - compounding effect
+  - Manajemen Keuangan
+category:
+  - Keuangan
+  - Investasi
 featuredImage:
   src: https://images.unsplash.com/photo-1633158829585-23ba8f7c8caf?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80
-  alt: Jenis-jenis Income yang Perlu Diketahui
-  title: 4 Contoh Jenis-jenis Income
+  alt: Jenis-jenis income yang penting kamu pahami
+  title: "Income adalah: Memahami Jenis-jenis income dan perbedaannya dengan revenue"
 ---
-<!--StartFragment-->
+
 
 Jika ditanya tentang income, umumnya banyak orang langsung berpikir bahwa income hanyalah nominal gaji yang diterima dari tempat ia bekerja. Jelasnya, income adalah penghasilan bersih atau laba bersih dari hasil usaha setelah dikurangi beban biaya. 
 
@@ -21,23 +32,23 @@ Untuk sepenuhnya memahami literasi keuangan, mengenali perbedaan income dan reve
 
 Umumnya, seseorang hanya fokus pada active income. Namun, untuk menyiapkan  rencana untuk mencapai kestabilan keuangan,  terdapat beberapa jenis penghasilan yang perlu kamu tahu, berikut di antaranya.
 
-1. ### Active Income
+### 1. Active Income
 
 Active income adalah upah yang dihasilkan lewat aktivitas pekerjaan yang ditekuni dan dilakukan. Contohnya seperti gaji bulanan, honor, upah kerja freelance atau part-time setelah melakukan jasa tertentu. 
 
-2. ### Passive Income
+### 2. Passive Income
 
 Berbeda dengan pendapatan aktif yang didapatkan dengan selalu melakukan pekerjaan sampai akhirnya dibayar upah atas pekerjaan tersebut, passive income adalah pendapatan yang diperoleh tanpa harus melakukan aktivitas tersebut. 
 
 Pendapatan pasif ini bisa diperoleh dari dengan melakukan investasi berjangka. Mulai dari pendapatan dari sewa properti, franchise, affiliate marketing, hingga portfolio income atau  pendapatan dari investasi paper asset (saham, reksa dana, deposito, atau obligasi).
 
-3. ### Disposable Income
+### 3. Disposable Income
 
 Kondisi keuangan yang sehat ditandai dengan dana yang bisa mencukupi pemenuhan kebutuhan sehari-hari, pengeluaran tak terduga, dan tabungan di masa depan. Nah, mengenai kondisi keuangan sehari-hari, perbedaan antara personal income dengan disposable income dapat terlihat.
 
 Disposable income yaitu pendapatan pribadi yang dapat digunakan untuk kebutuhan sehari-hari setelah dikurangi pajak langsung, seperti PKB (Pajak Kendaraan Bermotor), PPh (Pajak Penghasilan), dan PBB (Pajak Bumi Bangunan).
 
-4. ### Personal Income
+### 4. Personal Income
 
 Sementara itu, personal income adalah jumlah seluruh sumber pendapatan yang diterima oleh setiap orang setelah dikurangi laba yang ditahan, iuran asuransi, iuran jaminan sosial, dan ditambah dengan biaya pembayaran pindahan atau transfer. Seluruh sumber pendapatan yang dimaksud dapat berasal dari upah pekerjaan, dividen atau distribusi yang didapat dari investasi, sewa kepemilikan properti, dan bagi hasil dari bisnis.
 
@@ -83,10 +94,8 @@ Selain memudahkan perusahaan kecil dalam memperoleh dana, jika kamu berinvestasi
 
 Jadi, tunggu apa lagi? Jika kamu tertarik untuk memulai investasi sejak dini melalui skema ini, pastikan untuk memilih platform online terpercaya, transparan, dan telah mengantongi izin dari OJK.
 
-
-
 [Yuk mulai investasi melalui LandX dengan modal 1 Juta!](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)
 
+## [Yuk, jadi bos bisnis dan terima keuntungan rutin di LandX](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)
 
-
-<!--EndFragment-->
+[![miliki bisnis modal kecil cuma dengan 1 jutaan dapat 4 cabang ](https://accountgram-production.sfo2.cdn.digitaloceanspaces.com/landx_ghost/2021/11/jadi-owner-bisnis-hanya-1-jutaan-dengan-cuan-yang-sangat-menjanjikan.png)](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)
