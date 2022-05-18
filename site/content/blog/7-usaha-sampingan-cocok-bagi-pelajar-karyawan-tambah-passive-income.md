@@ -8,11 +8,21 @@ metaDescription: Mau cari uang tambahan dan passive income? Yuk, cobain 7
 intro: Mau cari uang tambahan dan passive income? Yuk, cobain 7 peluang bisnis
   sampingan modal kecil berikut!
 date: 2022-05-18T10:02:58.115Z
+tag:
+  - Usaha Sampingan
+  - Memulai Usaha
+  - Peluang Usaha
+  - Peluang Bisnis
+  - Mengatur Keuangan
+  - Bisnis F&B
+  - Bisnis Investasi Online
+category:
+  - Bisnis
 featuredImage:
   title: "  7 Usaha Sampingan Cocok Bagi Pelajar dan Karyawan Tambah Passive
     Income 2022"
-  alt: bisnis modal kecil, peluang bisnis cocok bagi pelajar, passive income
-  src: https://unsplash.com/photos/Wsv5HXmAuCw
+  alt: Peluang Usaha untuk Mahasiswa yang penting untuk kamu ketahui
+  src: https://images.unsplash.com/photo-1599488108362-7a93f83744a4?crop=entropy&cs=tinysrgb&fm=jpg&ixlib=rb-1.2.1&q=80&raw_url=true&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870
 ---
 Setiap tahun tren selalu berubah, sehingga cara untuk mencari cuan pun ikut bervariasi. Mungkin 10 tahun yang lalu di usia sekolah, cara cari uang tambahan yang umum dilakukan adalah dengan jualan snack ke teman-teman.
 
@@ -22,7 +32,7 @@ Pada artikel ini, [LandX](https://www.landx.id/) akan beri rekomendasi peluang b
 
 ## 7 Usaha Sampingan Cocok Bagi Pelajar & Karyawan Tambah Passive Income
 
-1. ### Gabung Program Affiliate
+### 1. Gabung Program Affiliate
 
 Saat kamu lagi scrolling konten di platform sosial media, pastinya ga jarang kamu menemukan produk yang membuat kamu tertarik coba bahkan ingin punya juga. Saat kamu coba bertanya dimana beli produknya, si pemilik konten biasanya akan menjawab dengan memberikan link.
 
@@ -32,7 +42,7 @@ Affiliate marketing adalah sistem bisnis yang membayar jasa seseorang (komisi) s
 
 Seorang affiliates mungkip mirip layaknya reseller, namun pada affiliates tidak harus membeli barang dahulu alias tanpa modal. Kamu dapat menjajal berbagai program affiliate yang ditawarkan berbagai ecommerce ataupun menerima tawaran menaruh iklan di blog milikmu.
 
-2. ### Membuat konten di YouTube
+### 2. Membuat konten di YouTube
 
 Penghasilan YouTuber dengan ratusan ribu hingga miliaran subscriber mampu mengalahkan semua pendapatan tetap kamu yang lagi baca artikel ini. Gimana ga menarik platform yang dapat berikan akses monetisasi atau pencairan uang ini.
 
@@ -42,7 +52,7 @@ Tak ada halangan bagi seseorang untuk menjadi seorang content creator di YouTube
 
 Kunci kesuksesan sebuah akun YouTube adalah konsisten upload konten yang berjenis sama. Sehingga orang yang menonton akrab dengan jenis video kamu dan secara suka rela klik tombol subscribe tanpa diminta.
 
-3. ## Freelance Tutor
+## 3. Freelance Tutor
 
 Seneng ngajarin orang dan punya skill khusus? Atau sering ditanyain orang sewaktu sekolah/kuliah dan berharap bisa dapet uang dari jawab pertanyaan orang? Bisa, loh!
 
@@ -50,7 +60,7 @@ Perkecil bidang minat dan scope yang ingin kamu ajarkan. Apakah lebih tertarik m
 
 Dengan pilih suatu bidang, kamu selanjutnya tentukan ingin mengajar di channel mana saja. Melalui pertemuan langsung dan/atau secara online, serta penting untuk research dan tentukan tarif tutor kamu, ya.
 
-4. ### Freelance Marketing Skill
+### 4. Freelance Marketing Skill
 
 Cakupan skill marketing memang luas, mulai dari perencanaan dan kelola konten berbagai channel, admin sosial media yang interaktif, skill menulis yang komunikatif, skill kelola komunitas. 
 
@@ -62,7 +72,7 @@ Gimana cara untuk mulai jadi freelance marketing skill namun belum punya pengala
 
 Setelah merasa yakin dengan pilihan skill yang kamu ingin fokuskan, bisa juga coba kursus berbayar karena pastinya terdapat konten dan pengajar yang lebih eksklusif. Membuat kamu lebih terarah sebagai marketer dengan kemampuan specialist.
 
-5. ### Membangun Konten Blog
+### 5. Membangun Konten Blog
 
 Buat kamu yang punya passion menulis dan suka sharing bisa manfaatkan dengan bagikan konten tulisan kamu di website blog milikmu sendiri. Karena berdasar passion atau hal yang kamu suka, memproduksi konten akan terasa menyenangkan.
 
@@ -72,7 +82,7 @@ Saat pembaca blog kamu semakin meningkat, layaknya akun YouTube, blog kamu juga 
 
 Kamu juga bisa mendapat kesempatan afiliasi marketing dengan bekerja sama dengan pihak bisnis yang meminta mempromosikan barang di blog kamu. Sehingga setiap klik yang masuk, akan buat kamu menerima sejumlah komisi.
 
-6. ### Jualan Sebagai Dropshipper
+### 6. Jualan Sebagai Dropshipper
 
 Apa beda reseller dan dropshipper? Reseller adalah menjual kembali, jadi kamu perlu modal terlebih dahulu untuk membeli produk sebagai stok untuk dijual. Dropshipper adalah sebutan bagi orang yang melakukan skema bisnis dropship.
 
@@ -82,7 +92,7 @@ Saat kamu mempromosikan barang dan orderan masuk, kamu akan menghubungi pihak su
 
 Lalu apa bedanya dropshipper dengan affiliate marketing? Seperti yang telah dibahas sebelumnya, affiliate hanya mempromosikan. Sehingga ketika ada orang yang tertarik membeli barang yang dipromosikan affiliates, orang tersebut langsung terhubung ke penjual atau supplier.
 
-7. ### Investasi
+### 7. Investasi
 
 Berinvestasi berarti membuka jalur passive income. Bagaimana tidak, disaat kamu menaruh uang pada sebuah instrumen investasi jangka panjang maka umummnya nilai uang akan bertambah.
 
@@ -98,4 +108,6 @@ Kamu dapat berinvestasi pada project bisnis melalui [platform equity crowdfundin
 
 Umumnya project bisnis di LandX membagikan dividen secara rutin 3 hingga 6 bulan selama setahun. Dengan memiliki akun aplikasi LandX sebagai investor, kamu dapat memantau project bisnis yang didanai secara real-time dan memberikan masukan layaknya owner.
 
-## [Karena Itu, Yuk Investasi Bisnis Di Crowdfunding Landx Dan Pantau Bisnisnya Secara Real-Time](https://www.landx.id/)
+## [Karena Itu, Yuk Investasi Bisnis Di Crowdfunding Landx Dan Pantau Bisnisnya Secara Real-Time](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)
+
+[![miliki bisnis modal kecil cuma dengan 1 jutaan dapat 4 cabang ](https://accountgram-production.sfo2.cdn.digitaloceanspaces.com/landx_ghost/2021/11/jadi-owner-bisnis-hanya-1-jutaan-dengan-cuan-yang-sangat-menjanjikan.png)](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)
