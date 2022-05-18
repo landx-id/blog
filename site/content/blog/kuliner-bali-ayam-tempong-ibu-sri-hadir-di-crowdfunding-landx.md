@@ -8,6 +8,14 @@ metaDescription: Ini dia kuliner hits Bali, bisnis olahan ayam sensasi pedas
 intro: Ini dia kuliner hits Bali, bisnis olahan ayam sensasi pedas nampar dengan
   6 cabang yaitu Ayam Tempong Ibu Sri. Kamu bisa jadi investor bisnis ini, loh
 date: 2022-05-01T17:18:22.884Z
+tag:
+  - Bisnis Modal Kecil
+  - Bisnis F&B
+  - Franchise F&B
+  - Peluang Bisnis
+category:
+  - Bisnis
+  - Investasi
 featuredImage:
   title: "Kuliner Bali: Ayam Tempong Ibu Sri Bisa Kamu Miliki dengan Modal
     Sejutaan | LandX"
@@ -106,4 +114,6 @@ Jumat 06/04/2022 pukul 19.30  WIB 
 
 Kupas Tuntas Project Ayam Tempong Ibu Sri
 
-## [Rasakan Sensasi Miliki 2 Outlet Kuliner Hits di Bali dengan Modal Sejutaan Aja di LandX!](https://landx.id/project/ATBS)
+## [Rasakan Sensasi Miliki 2 Outlet Kuliner Hits di Bali dengan Modal Sejutaan Aja di LandX!](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)
+
+![ayam tempong bu sri Bali, investasi, kuliner hits bali](https://landx.id/blog/img/landx_ayam-tempong-ibu-sri_ads_1080-x-565px_02.png)
