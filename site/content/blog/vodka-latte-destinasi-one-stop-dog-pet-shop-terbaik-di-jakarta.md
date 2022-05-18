@@ -87,7 +87,7 @@ Berbagai kegiatan yang pernah digelar Vodka n Latte bersama tamunya yaitu meling
 
 Selain itu, program olahraga zumba dan yoga bersama teman berbulu juga dapat buat waktu olahraga menyenangkan. Pug club, field trip bagi anak sekolah tingkat taman kanak-kanak dan brunch time bersama sebagai ajang bangun networking.
 
-## OPENING SOON! Vodka & Latte Town x LandX
+## [OPENING SOON! Vodka & Latte Town x LandX](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)
 
 Jumlah pemilik anjing di Jakarta setiap tahunnya selalu meningkat. Namun, ruang publik untuk mereka saling bepergian bersama semakin terbatas. Memperhatikan dan memahami kebutuhan ini, Vodka & Latte akan menghadirkan gebrakan baru.
 
