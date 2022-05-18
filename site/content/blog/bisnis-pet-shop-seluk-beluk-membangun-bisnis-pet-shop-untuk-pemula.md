@@ -66,6 +66,16 @@ Tidak hanya dari sisi operasional saja, melainkan diperlukannya adaptasi terhada
 
 ## Memulai Bisnis Pet Shop dengan Sistem Franchise
 
+Salah satu cara memulai bisnis untuk pemula adalah dengan sistem franchise dimana sistem hingga produk biasanya sudah disediakan sehingga proses membangun bisnis dapat menjadi lebih mudah. 
+
+Selain itu, membangun bisnis dengan sistem franchise juga menjadi lebih mudah karena bisnis yang membuka kemitraan dengan sistem ini biasanya sudah memiliki branding yang kuat sehingga pemasaran bisnis ke calon konsumen dapat menjadi lebih mudah. 
+
+Untuk bisnis pet shop pun hampir sama karena terdapat beberapa brand pet shop yang sudah terkenal membuka kemitraan franchise pet shop yang dapat dibeli oleh calon pebisnis. Cara ini bisa jadi pilihan untuk pebisnis pemula agar proses pembangunan bisnis dapat menjadi lebih cepat. 
+
+Akan tetapi, membuka frachise pet shop bukanlah jaminan bahwa suatu bisnis akan sukses karena kamu tetap butuh skill manajemen bisnis yang baik agar bisa bersaing dengan kondisi pasar yang dinamis. 
+
+Karena itu, kamu tetap harus memiliki skill manajemen bisnis dan pengetahuan yang baik tentang industri pet shop.
+
 ## Modal Bisnis Pet Shop
 
 Modal untuk membuka bisnis pet shop sangat bergantung pada kelengkapan fasilitas serta treatment yang ditawarkan. Semakin besar modal yang dikeluarkan, maka fasilitas, jenis perawatan, serta barang-barang kebutuhan hewan peliharaan juga akan semakin lengkap dan beragam.
