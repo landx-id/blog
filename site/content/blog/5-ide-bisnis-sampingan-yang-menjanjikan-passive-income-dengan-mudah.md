@@ -1,10 +1,9 @@
 ---
 author: Nadya A. Faatihah
-title: 5 Ide Bisnis Sampingan yang Menjanjikan Passive Income Dengan Mudah
-metaTitle: Ide Usaha Sampingan di Rumah yang Menjanjikan
-metaDescription: Ingin mencari uang tambahan tapi bingung cari bisnis sampingan
-  yang menjanjikan? Baca artikel ini untuk inspirasi pekerjaan sampingan dari
-  rumah.
+title: 5 Ide Bisnis Sampingan yang Menjanjikan Passive Income dengan Mudah
+metaTitle: Ide Bsaha Sampingan di Rumah yang Menjanjikan untuk Mahasiswa
+metaDescription: Yuk simak bisnis-bisnis sampingan yang bisa jadi sumber
+  penghasilan tambahan untuk mahasiswa dan kamu yang
 intro: Kalau kamu sedang mencari uang tambahan, 5 ide bisnis sampingan modal
   kecil ini bisa membantu kamu menghasilkan passive income.
 date: 2022-05-18T14:06:03.215Z
