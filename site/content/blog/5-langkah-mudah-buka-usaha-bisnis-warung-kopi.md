@@ -32,13 +32,13 @@ Tidak dapat dipungkiri, kebutuhan akan warung kopi modern atau coffee shop semak
 
 Untuk membangun bisnis apa pun itu, kamu harus memikirkan target konsumen yang ingin dituju. Begitu pula dengan bisnis coffee shop. Saat ini, Generasi Millennials dan Gen-Z dapat dijadikan target konsumen yang menjanjikan. Hal ini karena, kedua generasi ini telah menjadikan coffee shop bagian dari gaya hidup. Utamanya, mereka memiliki kecenderungan untuk menggunakan coffee shop sebagai ruang untuk hangout, work from cafe, community gathering, atau bahkan business networking.
 
-### 2. Supplier Kopi
+### 2. Supplier untuk Warung Kopi
 
 Untuk mencari dan memilih supplier atau pemasok kopi yang tepat, kamu setidaknya harus tahu juga tentang karakteristik biji kopi dan profil rasa yang ingin dijual oleh kedai kopi kamu. Memilih pemasok kopi yang tepat dengan biji kopi yang sesuai juga tentunya harus cocok dengan target pasar yang ingin dituju.
 
 Misalnya, jika kamu ingin menarget mahasiswa dan karyawan entry-level, tentunya diperlukan biji kopi dengan cita rasa dan kualitas bagus namun dengan harga yang masih tergolong terjangkau.
 
-### 3. Konsep dan Identitas Brand
+### 3. Konsep Warung Kopi
 
 Untuk menarik konsumen yang sesuai dengan target yang diinginkan, sebuah warkop perlu memiliki konsep dan identitas brand yang kuat dan relatable dengan kebutuhan target konsumen yang ingin digaet. Kedua hal ini akan sangat berpengaruh terhadap perkembangan bisnis karena akan menjadi pembeda dengan kompetitor lainnya dalam proses pemasaran.
 
