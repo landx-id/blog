@@ -1,7 +1,7 @@
 ---
 author: Nadya A. Faatihah
 title: 5 Ide Bisnis Sampingan yang Menjanjikan Passive Income dengan Mudah
-metaTitle: Ide Bsaha Sampingan di Rumah yang Menjanjikan untuk Mahasiswa
+metaTitle: Ide Usaha Sampingan di Rumah yang Menjanjikan untuk Mahasiswa
 metaDescription: Yuk simak bisnis-bisnis sampingan yang bisa jadi sumber
   penghasilan tambahan untuk mahasiswa dan kamu yang
 intro: Kalau kamu sedang mencari uang tambahan, 5 ide bisnis sampingan modal
