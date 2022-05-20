@@ -22,8 +22,6 @@ featuredImage:
   title: Cara membeli saham IPO bagi investor pemula
   src: https://images.unsplash.com/photo-1568234928966-359c35dd8327?crop=entropy&cs=tinysrgb&fm=jpg&ixlib=rb-1.2.1&q=80&raw_url=true&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=926
 ---
-<
-
 Sebelum memulai investasi saham  yang akan IPO, harga saham terkadang menjadi salah satu pertimbangan utama investor untuk menanamkan modal di suatu perusahaan. Namun, investor yang baik pastinya akan menganalisis proyeksi penilaian harga saham atau valuasi saham dari sebuah perusahaan. 
 
 Singkatnya, harga saham adalah nominal yang kamu keluarkan saat beli saham. Sementara valuasi saham IPO adalah nilai nominal yang dapat diperoleh kamu sebagai investor ketika seluruh saham perusahaan tersebut terjual.
