@@ -1,10 +1,10 @@
 ---
 author: Nadya A. Faatihah
-title: Pahami Jenis-jenis Income Agar Pintar Mengatur Kestabilan Keuangan
+title: Pahami Jenis-jenis Income Agar  Mudah Mengatur Kestabilan Keuangan
 metaTitle: Memahami Jenis-jenis Income Agar Pintar Mengatur Kestabilan Keuangan
 metaDescription: Bagaimana cara terbaik untuk menjamin kestabilan keuangan? Baca
   artikel ini untuk paham jenis-jenis income untuk mencapai hal ini.
-intro: Mari pelajari jenis-jenis income untuk segera meraih kestabilan finansial
+intro: Mari pelajari jenis- jenis income untuk segera meraih kestabilan finansial
 date: 2022-05-18T08:25:28.940Z
 tag:
   - Cara mengembangkan uang dengan cepat
@@ -22,8 +22,6 @@ featuredImage:
   alt: Jenis-jenis income yang penting kamu pahami
   title: "Income adalah: Memahami Jenis-jenis income dan perbedaannya dengan revenue"
 ---
-
-
 Jika ditanya tentang income, umumnya banyak orang langsung berpikir bahwa income hanyalah nominal gaji yang diterima dari tempat ia bekerja. Jelasnya, income adalah penghasilan bersih atau laba bersih dari hasil usaha setelah dikurangi beban biaya. 
 
 Untuk sepenuhnya memahami literasi keuangan, mengenali perbedaan income dan revenue, serta jenis-jenis income adalah salah satu hal yang paling dasar. Memahami jenis-jenis pendapatan adalah hal yang penting untuk menavigasi diri menuju kestabilan keuangan agar dapat menjamin kesehatan finansial jangka panjang. Jadi, apa yang dimaksud dengan pendapatan dan jenis-jenisnya? Baca terus untuk memahami pengetahuan dasar mengenai hal ini.
@@ -64,11 +62,11 @@ Sebelumnya, sempat disebutkan bahwa portfolio income termasuk ke dalam variabel 
 
 Adapun aset yang tersimpan di dalamnya dapat berupa kepemilikan properti, karya seni, perhiasan maupun bentuk penanaman modal pada kegiatan usaha lain yang bisa mendatangkan keuntungan di masa yang akan datang. Memiliki pendapatan portfolio menjadi penting karena beberapa alasan ini.
 
-### 1. Mendapatkan penghasilan tambahan
+### 1. Mendapatkan Penghasilan Tambahan
 
 Penghasilan tetap memang didapatkan dari gaji setiap bulannya jika kamu bekerja. Namun, perlu diingat bahwa tidak akan selamanya kamu dapat bekerja. Terlebih jika nantinya kamu sudah memasuki usia pensiun. Dengan menginvestasikan sejumlah uang di aset yang tepat, kamu bisa memperoleh nominal yang terus meningkat dibanding dana awal yang dialokasikan.
 
-### 2. Meraih kebebasan finansial
+### 2. Meraih Kebebasan Finansial
 
 Kebebasan finansial adalah kondisi dimana kamu tidak perlu lagi bekerja keras untuk mendapatkan uang karena kamu sudah memiliki harta yang cukup untuk menghidupi kehidupanmu. Jika kamu berinvestasi dengan tepat, kamu hanya perlu menunggu uang menghampirimu, bukan kamu yang mengejar uang tersebut. Pendapatan ini dapat berfungsi sebagai tabungan dana darurat atau simpanan di masa tua nanti.
 
@@ -76,13 +74,13 @@ Kebebasan finansial adalah kondisi dimana kamu tidak perlu lagi bekerja keras un
 
 Jika active income bisa kamu gunakan untuk memenuhi kebutuhan sehari-hari, hasil dana dari portfolio income dapat kamu alokasikan untuk kemungkinan masa depan yang kamu impikan. Mulai dari keinginan pensiun dini, membeli rumah atau kendaraan, atau bahkan keinginan untuk travelling ke seluruh dunia. Dengan rajin melakukan investasi, opsi semacam ini bukanlah hal yang tidak mungkin untuk kamu miliki dan realisasikan.
 
-### 4. Berlatih Disiplin Mengelola Kesehatan
+### 4. Berlatih Disiplin Mengelola Keuangan
 
 Dengan merencanakan investasi yang tepat sejak dini, kamu tentunya akan belajar lebih baik lagi dalam mengelola keuangan kamu. Jika ingin konsisten, kamu perlu benar-benar mengontrol pengeluaranmu agar dapat menyisihkan sebagiannya untuk berinvestasi demi mendapatkan manfaat yang menguntungkan.
 
 Kamu akan belajar bagaimana cara mengelola uang yang efektif dan efisien. Selain itu, kamu pun tanpa sadar akan belajar untuk lebih hati-hati dalam menentukan pengeluaran mana yang lebih penting, dan mana yang tidak terlalu diperlukan.
 
-## Harus mulai investasi dari mana?
+## Harus Mulai Investasi dari Mana?
 
 Sekarang kamu telah lebih memahami pentingnya memiliki pendapatan portfolio. Namun, jika kamu merasa terlalu awam untuk menanamkan investasi, sebaiknya harus mulai dari mana? Tenang, kamu tidak perlu terlalu khawatir. 
 
