@@ -70,6 +70,6 @@ Dari seluruh penjelasan di atas mengenai cara menilai saham IPO, penting untuk d
 
 Jika kamu tertarik untuk berinvestasi ke perusahaan UMKM, [LandX](https://landx.id/) hadir sebagai platform equity crowdfunding terpercaya, transparan dan mengantongi izin OJK. Melalui LandX, kamu bisa menemukan berbagai bisnis potensial yang sahamnya bisa dibeli untuk investasi jangka panjang. Sebagai pemegang saham, kamu tentu saja berpotensi mendapatkan keuntungan berupa dividen sesuai dengan performa bisnis yang kamu danai. 
 
-## [Temukan Investasi Saham Bisnis Terbaik Hanya Dengan Modal 1 Juta di LandX](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)
+## [Temukan Investasi Saham Bisnis Terbaik Hanya dengan Modal 1 Juta di LandX](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)
 
 [![miliki bisnis modal kecil cuma dengan 1 jutaan dapat 4 cabang ](https://accountgram-production.sfo2.cdn.digitaloceanspaces.com/landx_ghost/2021/11/jadi-owner-bisnis-hanya-1-jutaan-dengan-cuan-yang-sangat-menjanjikan.png)](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)
