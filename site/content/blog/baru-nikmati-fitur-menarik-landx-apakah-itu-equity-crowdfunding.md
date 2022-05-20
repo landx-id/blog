@@ -1,6 +1,6 @@
 ---
 author: Vlora Riyandi
-title: "[BARU] Nikmati Fitur Menarik LandX! Apakah Itu? | Equity Crowdfunding"
+title: "[BARU] Nikmati Fitur Menarik Kinerja Aset  di LandX!"
 metaTitle: "[BARU] Nikmati Fitur Menarik LandX! Apakah Itu? | Equity Crowdfunding"
 metaDescription: Aplikasi crowdfunding LandX rilis fitur baru yang semakin
   memudahkan para investor project bisnis di LandX. Pantau kinerja perusahaan di
@@ -9,6 +9,11 @@ intro: Aplikasi crowdfunding LandX rilis fitur baru yang semakin memudahkan para
   investor project bisnis di LandX. Pantau kinerja setiap bisnis di portofolio
   kamu!
 date: 2022-05-20T02:32:42.557Z
+tag:
+  - Equity Crowdfunding
+  - LandX
+category:
+  - Investasi
 featuredImage:
   title: BARU! Fitur Kinerja Aset Bantu Pantau Project Bisnis Kamu | Aplikasi LandX
   src: img/landx_ig-1080x565_ads_fitur-terbaru_may-2022.png
@@ -64,8 +69,6 @@ Dengan mengklik tombol business weighted scorecard, kamu bisa melihat parameter 
 
 Kunjungi aplikasi [LandX](https://landx.id/) di smartphone kamu untuk melihat detail skor bisnis yang kamu danai, ya.
 
-
-
 ![](https://lh5.googleusercontent.com/o5_u3oNb2m1fntxzQYmnWpvY9jQP0i-OatvM82ViL7fERZCgFqdP0FPhynmp2qH3fhRuagrlVzOp1gNO1YaorNmDG_ymiPA3RP7VAEOYznjDuBQKq-8_5tJY9E5KGTRzcUefdQQyEWugdlCcCA)
 
 * ### Kinerja Keuangan
@@ -75,8 +78,6 @@ Pada informasi kinerja keuangan, kamu dapat melihat laporan keuangan bisnis seca
 Melalui tingkat penjualan per bulan, sebagai pemegang saham kamu dapat memberi masukan apabila bisnis berjalan belum sesuai ekspektasi.
 
 \*untuk melihat data angka penjualan pada gambar silahkan akses fitur Kinerja Aset pada aplikasi [LandX](https://landx.id/).
-
-
 
 ![](https://lh3.googleusercontent.com/-qhspqWp691TX-g48KolKA1iWD9eJ7fWiPhGxo-bt3dGN74P247QBRyX7-YJ7LkTXlUZPfemeliuQnzMs4-qfQVpwTNDxWqGMeVcR5HZF4RgnokY0dO-4H8ydcXwLre-_0aRzAjdOhzq2JHpXw)
 
@@ -92,8 +93,6 @@ Pengumuman Dividen memuat total estimasi dividen yang akan dibagikan dan estimas
 
 Kabar dan media memuat artikel yang berisi info detail terkait bisnis yang listing di [LandX](https://landx.id/).
 
-
-
 ![](https://lh4.googleusercontent.com/XXBe_D6FaMoCFVUFrQaEiCtVa1Hy930RGsLFgeNWSoosSUU0oBgGazW7rA5iykZj3hzsfOub4Movpw7vAcSoOm0agNdsvjKTz-YXYqZ8w4LdsXXYStvVrWot7L5N3_DzHNxJ3q4CYdav101j6A)
 
 * ### Progress Persiapan Pasar Sekunder
@@ -101,8 +100,6 @@ Kabar dan media memuat artikel yang berisi info detail terkait bisnis yang listi
 Kamu dapat menjual saham kepemilikan kamu melalui sistem pasar sekunder. Pasar sekunder akan dibuka setelah 1 tahun sejak suatu project bisnis berhasil raih pendanaan dan didaftarkan ke lembaga KSEI.
 
 Kamu juga dapat memantau proses tahapan pasar sekunder untuk didaftar ke lembaga KSEI. Lalu bagaimana mekanisme pasar sekunder nantinya? Yuk, baca detail lebih lanjut dimenu “Tentang Pasar Sekunder”.
-
-
 
 ![](https://lh3.googleusercontent.com/BBf0QhfGloBBJvDPEkK3vPD_y-k6nyQwpHnh009TO02QrTFyMYnvCYzSjvVBsNcBF-AMmnYN4x0-XFooj59_LG6o91gsS58nqJPuFBapWxUt5xYc8lSKeV8DYFTmfE6xIG_WGEheA0IBdI2Jng)
 
@@ -132,4 +129,6 @@ Masukan dan laporan dari semua investor dipastikan akan sampai ke telinga penerb
 
 Informasi terakhir pada laman fitur Kinerja Aset adalah informasi saham project bisnis yang sedang berlangsung pendanaannya. Kamu dapat terkoneksi dengan project bisnis pilihan yang dapat ramaikan portofolio investasi dan ramaikan jadwal pembagian dividen rutin. 
 
-## [Mau terima dividen setiap bulan? Yuk, jadi pemegang saham banyak project bisnis di LandX](https://landx.id/)
+## [Mau terima dividen setiap bulan? Yuk, jadi pemegang saham banyak project bisnis di LandX](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)
+
+[![miliki bisnis modal kecil cuma dengan 1 jutaan dapat 4 cabang ](https://accountgram-production.sfo2.cdn.digitaloceanspaces.com/landx_ghost/2021/11/jadi-owner-bisnis-hanya-1-jutaan-dengan-cuan-yang-sangat-menjanjikan.png)](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)
