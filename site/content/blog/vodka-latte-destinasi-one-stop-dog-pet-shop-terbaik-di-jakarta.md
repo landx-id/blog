@@ -101,6 +101,6 @@ Keuntungan investasi di [equity crowdfunding](https://landx.id/) adalah setiap i
 
 Karena itu, kamu dapat melihat perkembangan bisnis hingga berita grand opening proyek bisnis berupa pembukaan cabang baru layaknya pemilik bisnis. Proyek Vodka & Latte Town akan hadir di[ aplikasi equity crowdfunding](https://landx.id/) [LandX](https://landx.id/) bulan Mei 2022.
 
-## [Yuk, Jadi Pawrents Yang Bangun Fasilitas Pet-Center Terbesar Di Jakarta](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)
+## [Yuk, Jadi Pawrents yang Bangun Fasilitas Pet-Center Terbesar Di Jakarta](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)
 
 [![miliki bisnis modal kecil cuma dengan 1 jutaan dapat 4 cabang ](https://accountgram-production.sfo2.cdn.digitaloceanspaces.com/landx_ghost/2021/11/jadi-owner-bisnis-hanya-1-jutaan-dengan-cuan-yang-sangat-menjanjikan.png)](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)
