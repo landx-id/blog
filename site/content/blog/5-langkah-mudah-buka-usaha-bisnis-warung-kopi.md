@@ -70,7 +70,7 @@ Sekarang, kamu bisa buka usaha modal kecil dengan investasi melalui skema equity
 
 Keuntungan yang didapat dari [equity crowdfunding](https://www.landx.id/) adalah kamu menerima return dividen dari project bisnis yang didanai. Dividen ini adalah pembagian laba perusahaan pada pemegang saham sesuai porsi saham yang dimiliki.
 
-Segera realisasikan keinginanmu jadi pemilik bisnis kopi dengan investasi melalui [platform equity crowdfunding](https://landx.id/) terpercaya, transparan, dan telah mengantongi izin dari OJK. Dengan berinvestasi pada project bisnis di LandX, umumnya kamu bisa mendapatkan pembagian dividen rutin sesuai kinerja bisnis. 
+Segera realisasikan keinginanmu jadi pemilik bisnis kopi dengan investasi melalui [platform equity crowdfunding](https://landx.id/) terpercaya, transparan, dan telah mengantongi izin dari OJK. Investasi pada project bisnis di LandX, umumnya kamu bisa mendapatkan pembagian dividen rutin sesuai kinerja bisnis. 
 
 Tunggu apa lagi? Segera miliki akun aplikasi LandX untuk menjadi investor sekarang juga. Dengan akun ini kamu dapat memantau project bisnis yang didanai secara real-time dan memberikan masukan layaknya owner. 
 
