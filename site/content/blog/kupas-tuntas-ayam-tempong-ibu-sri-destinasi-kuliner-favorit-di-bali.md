@@ -23,7 +23,7 @@ category:
   - Investasi
 featuredImage:
   title: Kupas Tuntas Ayam Tempong Ibu Sri, Destinasi Kuliner Favorit di Bali | LandX
-  src: https://media.discordapp.net/attachments/913743599844343808/968729090179874827/unknown.png?width=1058&height=553
+  src: https://landx.id/blog/img/landx_ayam-tempong-ibu-sri_ads_1080-x-565px_02.png
   alt: "landx, modal bisnis f&B, bisnis franchise 2022, ayam tempong ibu sri "
 ---
 **Bisnis yang menyediakan kebutuhan pokok seperti makanan memang miliki kesempatan growth yang tinggi.** Apalagi jika hidangkan sajian yang mengena di hati. Ayam Tempong Ibu Sri dari Bali sukses menangkan hati pelanggan selama bertahun-tahun beroperasi.
@@ -79,6 +79,6 @@ Bersama [platform crowdfunding terdepan di Indonesia](https://landx.id/) yaitu [
 
 Dengan modal mulai sejutaan, setiap investor otomatis dapat miliki 2 outlet terbaru dengan konsep yang lebih baik. Selain itu, Ayam Tempong Ibu Sri juga menawarkan keuntungan bagi hasil berupa estimasi dividen hingga 25% per tahun sesuai kepemilikan modal. Karena itu, 
 
-## [Yuk, Jadi Pemilik 2 Outlet Restoran Ayam Tempong Ibu Sri di LandX, Klik di Sini!](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)
+## [Yuk, Jadi Pemilik Outlet Restoran Ayam Tempong Ibu Sri di LandX, Klik di Sini!](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)
 
-![](https://cdn.discordapp.com/attachments/913743599844343808/968729090179874827/unknown.png)
+[![miliki bisnis modal kecil cuma dengan 1 jutaan dapat 4 cabang ](https://accountgram-production.sfo2.cdn.digitaloceanspaces.com/landx_ghost/2021/11/jadi-owner-bisnis-hanya-1-jutaan-dengan-cuan-yang-sangat-menjanjikan.png)](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)
