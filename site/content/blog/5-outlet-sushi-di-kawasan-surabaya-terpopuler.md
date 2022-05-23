@@ -3,7 +3,7 @@ author: Nadya A. Faatihah
 title: 5 Outlet Sushi di Kawasan Surabaya Terpopuler
 metaTitle: 5 Destinasi Kuliner Sushi di Kawasan Surabaya Lengkap Dengan Menu
 metaDescription: Bingung cari destinasi kuliner sushi di kawasan Surabaya? Cek
-  artikel ini agar gak bingung cari destinasi kuliner dan pilihan menu sushinya
+  artikel ini agar gak bingung pilih outlet sushi terfavorit dan pilihan menunya
   ya!
 intro: Bingung cari destinasi kuliner sushi di kawasan Surabaya? Baca artikel
   ini untuk info lengkap berbagai resto sushi Surabaya lengkap dengan menu
