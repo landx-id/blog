@@ -60,7 +60,7 @@ Yuk, datang ke cabang terbaru Bebek Kepahiang bersama keluarga dan rekan di alam
 
 **Alamat Bebek Kepahiang Tebet**
 
-📍 Jl. Tebet Utara Dalam No.19, RT 7/RW 2, Tebet Timur, Kec. Tebet, Jakarta Selatan, DKI Jakarta 12820
+> 📍 Jl. Tebet Utara Dalam No.19, RT 7/RW 2, Tebet Timur, Kec. Tebet, Jakarta Selatan, DKI Jakarta 12820
 
 Bebek Kepahiang Tebet merupakan salah satu dari 2 outlet yang dimiliki investor Bebek Kepahiang melalui [platform crowdfunding ](https://landx.id/)[LandX](https://landx.id/). Setiap investor menjadi pemegang saham 2 outlet dengan modal sejutaan aja!
 
@@ -78,6 +78,6 @@ Investasi sistem [crowdfunding](https://landx.id/) merupakan pilihan diversifika
 
 Selain itu, kamu juga bisa pantau perkembangan setiap project bisnis yang kamu punya melalui aplikasi [LandX](https://landx.id/). Melihat proses pembangunan serta memberi masukan langsung kepada manajemen sebagai pemegang saham. 
 
-## [Yuk, Download Aplikasi Landx Dan Miliki Bisnis Dengan Modal Mulai Sejutaan Aj](https://landx.id/)
+## [Yuk, Download Aplikasi Landx dan Miliki Bisnis dengan Modal Mulai Sejutaan](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)
 
 [![miliki bisnis modal kecil cuma dengan 1 jutaan dapat 4 cabang ](https://accountgram-production.sfo2.cdn.digitaloceanspaces.com/landx_ghost/2021/11/jadi-owner-bisnis-hanya-1-jutaan-dengan-cuan-yang-sangat-menjanjikan.png)](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)
