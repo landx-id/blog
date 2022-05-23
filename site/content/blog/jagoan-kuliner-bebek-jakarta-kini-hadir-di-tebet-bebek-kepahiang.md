@@ -1,12 +1,20 @@
 ---
 author: Vlora Riyandi
-title: Jagoan Kuliner Bebek Jakarta Kini Hadir di Tebet | Bebek Kepahiang
-metaTitle: Jagoan Kuliner Bebek Jakarta Kini Hadir di Tebet | Bebek Kepahiang
+title: Jagoan Kuliner Bebek Jakarta Kini Hadir di Tebet | Bebek BKB Tebet
+metaTitle: Jagoan Kuliner Bebek Jakarta Kini Hadir di Tebet | Bebek BKB Tebet
 metaDescription: Bebek Kepahiang kini tersedia di daerah Tebet, Jakarta. Rasa
   yang empuk dan penyajian yang bebek yang unik, wajib kamu coba!
 intro: Bebek Kepahiang kini tersedia di daerah Tebet, Jakarta. Rasa yang empuk
   dan penyajian yang bebek yang unik, wajib kamu coba!
 date: 2022-05-23T04:02:53.973Z
+tag:
+  - BBKB
+  - Franchise Makanan
+  - Bisnis  FnB
+  - Bisnis F&B
+category:
+  - Bisnis
+  - Investasi
 featuredImage:
   title: "PROJECT SERIES: Grand Opening Bebek Kepahiang Tebet | LandX"
   alt: bebek kepahiang tebet, bebek jakarta, investasi bisnis, franchise bebek
@@ -16,6 +24,8 @@ featuredImage:
 Awal tahun 2022, restoran Bebek Kepahiang bermitra dengan para investor melalui [platform equity crowdfunding ](https://landx.id/)yaitu [LandX](https://landx.id/) untuk membuka outlet 2 baru. Yuk, simak keseruan grand opening Bebek Kepahiang cabang Tebet terbaru ini.
 
 Watch this video
+
+**{{< youtube id="**Mf69S0qDcVc**" >}}**
 
 ## ABOUT BEBEK KEPAHIANG
 
@@ -68,4 +78,6 @@ Investasi sistem [crowdfunding](https://landx.id/) merupakan pilihan diversifika
 
 Selain itu, kamu juga bisa pantau perkembangan setiap project bisnis yang kamu punya melalui aplikasi [LandX](https://landx.id/). Melihat proses pembangunan serta memberi masukan langsung kepada manajemen sebagai pemegang saham. 
 
-## [Yuk, Download Aplikasi Landx Dan Miliki Bisnis Dengan Modal Mulai Sejutaan Aja](https://landx.id/)
+## [Yuk, Download Aplikasi Landx Dan Miliki Bisnis Dengan Modal Mulai Sejutaan Aj](https://landx.id/)
+
+[![miliki bisnis modal kecil cuma dengan 1 jutaan dapat 4 cabang ](https://accountgram-production.sfo2.cdn.digitaloceanspaces.com/landx_ghost/2021/11/jadi-owner-bisnis-hanya-1-jutaan-dengan-cuan-yang-sangat-menjanjikan.png)](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)
