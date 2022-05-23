@@ -105,7 +105,7 @@ Equity crowdfunding pada dasarnya hanya menerbitkan efek berupa saham yang ditaw
 
 **[LandX](https://landx.id/)** merupakan salah satu platform equity crowdfunding yang sedang berproses menjadi securities crowdfunding. Tentunya, platform ini telah berpengalaman melakukan crowdfunding bagi berbagai bisnis potensial di berbagai sektor industri.
 
-Jadi, jika kamu ingin tahu lebih banyak lagi tentang keuntungan obligasi dengan skema ini, pastikan untuk berinvestasi melalui platform yang terpercaya, aman, dan pastinya mengantongi izin OJK seperti LandX ya!
+Jadi, jika kamu ingin tahu lebih banyak lagi tentang keuntungan obligasi dengan skema ini, pastikan untuk berinvestasi melalui platform yang terpercaya, aman, dan pastinya mengantongi **izin OJK seperti LandX ya!**
 
 ## [Temukan Investasi Menjanjikan Hanya Dengan Modal 1 Juta di LandX](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)
 
