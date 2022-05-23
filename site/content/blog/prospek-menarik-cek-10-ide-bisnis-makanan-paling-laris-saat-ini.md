@@ -10,7 +10,7 @@ intro: Sedang cari ide bisnis makanan untuk memulai bisnismu? Cek 10 usaha
 date: 2022-05-23T08:06:08.018Z
 featuredImage:
   src: https://images.unsplash.com/photo-1504674900247-0877df9cc836?crop=entropy&cs=tinysrgb&fm=jpg&ixlib=rb-1.2.1&q=80&raw_url=true&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870
-  alt: 10 Jenis Bisnis Kuliner Menjanjikan
+  alt: 10 Ide Bisnis Makanan Menjanjikan
   title: 10 Jenis Usaha Kuliner yang Paling Laku
 ---
 <!--StartFragment-->
