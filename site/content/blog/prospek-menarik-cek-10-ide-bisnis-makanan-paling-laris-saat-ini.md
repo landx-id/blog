@@ -1,6 +1,6 @@
 ---
 author: Nadya A. Faatihah
-title: Prospek Menarik, Cek 10 Ide Bisnis Makanan Paling Laris Saat Ini
+title: Cek 10 Ide Bisnis Makanan Paling Laris Saat Ini
 metaTitle: 10 Jenis Usaha Kuliner yang Paling Laku
 metaDescription: Tertarik terjun di bisnis kuliner? Cari tahu dulu ide bisnis
   makanan paling laris saat ini dan tips suksesnya melalui artikel ini
