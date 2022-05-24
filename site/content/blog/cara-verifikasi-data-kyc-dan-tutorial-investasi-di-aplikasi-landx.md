@@ -8,6 +8,11 @@ metaDescription: Hai Sobat LandX, berikut langkah-langkah untuk menjawab
 intro: Hai Sobat LandX, berikut langkah-langkah untuk menjawab bagaimana cara
   verifikasi data (KYC) LandX dan cara menggunakan aplikasi untuk investasi.
 date: 2022-05-24T01:33:56.728Z
+tag:
+  - LandX
+  - Equity Crowdfunding
+category:
+  - Cara Investasi di Securities Crowdfunding
 featuredImage:
   title: Tutorial Cara Verifikasi Data (KYC) dan Investasi di Aplikasi LandX
   alt: cara verifikasi data KYC aplikasi LandX
@@ -56,3 +61,5 @@ Kinerja Aset membantu kamu terhubung dengan bisnis dengan memantau perkembangan 
 > [Baca Apa Itu Prospektus dan Tujuannya](https://landx.id/blog/isi-prospektus-apa-pengertian-tujuan-dan-cara-membaca-prospektus/)
 
 Demikian cara melakukan verifikasi data KYC dan panduan berinvestasi di aplikasi LandX. Untuk dapat memiliki saham project bisnis, yuk verifikasi akun sekarang.
+
+[![miliki bisnis modal kecil cuma dengan 1 jutaan dapat 4 cabang ](https://accountgram-production.sfo2.cdn.digitaloceanspaces.com/landx_ghost/2021/11/jadi-owner-bisnis-hanya-1-jutaan-dengan-cuan-yang-sangat-menjanjikan.png)](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)
