@@ -5,7 +5,7 @@ metaTitle: 4 Cara Sukses Investasi Untuk Anak Muda
 metaDescription: Ingin seperti banyak investor muda yang berhasil meraih
   kestabilan finansial sejak dini? Baca artikel ini untuk cari tahu caranya!
 intro: Meraih kestabilan finansial bukan hanya mimpi belaka. Cari tahu cara
-  investasi untuk anak muda dan jadi investor muda sukses dengan 4 langkah ini.
+  investasi untuk anak muda dan sukses jadi investor muda dengan 4 langkah ini.
 date: 2022-05-24T10:02:08.512Z
 featuredImage:
   src: https://images.unsplash.com/photo-1484981138541-3d074aa97716?crop=entropy&cs=tinysrgb&fm=jpg&ixlib=rb-1.2.1&q=80&raw_url=true&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870
