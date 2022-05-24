@@ -12,6 +12,11 @@ date: 2022-05-23T16:01:45.393Z
 tag:
   - Okinawa Sushi
   - Bisnis Makanan
+  - Bisnis F&B
+  - franchise f&b
+  - Franchise Makanan
+  - Bisnis Francise Modal Kecil
+  - Franchise Makanan
 category:
   - Bisnis
 featuredImage:
