@@ -1,16 +1,16 @@
 ---
 author: Nadya A. Faatihah
-title: 4 Langkah Sukses Jadi Investor Muda
-metaTitle: 4 Cara Sukses Investasi Untuk Anak Muda
-metaDescription: Ingin seperti banyak investor muda yang berhasil meraih
-  kestabilan finansial sejak dini? Baca artikel ini untuk cari tahu caranya!
+title: "Investor Muda: Simak 4 Langkah Sukses Jadi Investor di Usia Muda"
+metaTitle: "Investor Muda: Simak 4 Langkah Sukses Jadi Investor di Usia Muda"
+metaDescription: Yuk simak cara jadi investor di usia muda dan simak profil
+  berbagai investor muda untuk inspirasi investasi anda
 intro: Meraih kestabilan finansial bukan hanya mimpi belaka. Cari tahu cara
   investasi untuk anak muda dan sukses jadi investor muda dengan 4 langkah ini.
 date: 2022-05-24T10:02:08.512Z
 featuredImage:
   src: https://images.unsplash.com/photo-1484981138541-3d074aa97716?crop=entropy&cs=tinysrgb&fm=jpg&ixlib=rb-1.2.1&q=80&raw_url=true&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870
-  alt: 4 Langkah Suskes Jadi Investor Muda Indonesia
-  title: Cara Jadi Investor Muda Sukses dengan 4 Langkah Ini
+  alt: Cara mudah jadi investor di usia muda yang penting untuk kamu pahami
+  title: "Tips jadi investor di usia muda yang penting untuk kamu pahami "
 ---
 <!--StartFragment-->
 
