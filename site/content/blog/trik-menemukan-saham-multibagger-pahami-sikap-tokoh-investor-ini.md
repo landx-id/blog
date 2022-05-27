@@ -64,7 +64,7 @@ Mari kenalan dulu dengan tokoh investor saham berikut.
 
 ## TRIK MENEMUKAN SAHAM MULTIBAGGER
 
-Sedikit cara mendeteksi saham multibagger yang dilansir oleh CNBC Indonesia:
+Berikut kriteria saham multibagger, dilansir CNBC Indonesia:
 
 1. Perusahaan Memiliki Potensi Berkembang
 
@@ -91,6 +91,14 @@ Membeli saham setelah menganalisis dan menilai bahwa perusahaan memiliki potensi
 Seperti kisah Lo Kheng Hong yang membeli saham emiten MBAI, perusahaan pembibitan ayam di kala kasus wabah flu burung. Di saat para investor takut untuk melirik bahkan membeli, Lo Kheng Hong malah mengoleksinya.
 
 Pada kala itu, tahun 2005 saham MBAI memiliki nilai Rp 250/unit. Beberapa tahun pun berlalu dan industri unggas telah pulih sehingga 6 tahun kemudian Lo Kheng Hong menjualnya di harga Rp 31.500/unit. Keuntungan capital gain yang didapat dari saham MBAI ini mencapai 12.600% dan berhasil mengantongi cuan hingga Rp 193 miliar.
+
+## BEDA SAHAM MULTIBAGGER DAN SAHAM GORENGAN
+
+Jangan terjebak saham gorengan, saham multibagger memang memiliki nilai undervalue alias murah. Arti saham gorengan yaitu saham yang memiliki fluktuasi atau pergerakan harga saham yang tinggi namun tidak diiringi fundamental yang baik, sehingga berisiko.
+
+Sedangkan kriteria saham multibagger adalah memiliki fundamental yang baik yang ditunjukkan oleh laporan keuangan. Pergerakan harga saham multibagger juga memakan waktu hingga lebih dari satu tahun. Tidak seperti saham gorengan yang naik kencang dalam waktu singkat dan dapat terhempas jatuh dengan parah karena tidak diiringi fundamental yang kuat.
+
+<!--EndFragment-->
 
 ## PENUTUP
 
