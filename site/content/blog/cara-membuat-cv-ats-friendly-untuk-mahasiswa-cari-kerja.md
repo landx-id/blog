@@ -18,17 +18,11 @@ featuredImage:
 
 Bicara tentang mencari kerja, pasti pembahasannya tidak jauh dari CV atau resume, surat lamaran, atau diskusi tentang peluang karier. Sebagai mahasiswa, apa kamu pernah dengar soal CV ATS friendly? Sebenarnya secara sekilas CV ATS sama saja dengan CV kreatif pada umumnya. Pembeda dari CV ATS friendly adalah kamu harus membuatnya dengan strategi tertentu. Bagaimana cara membuat CV ATS friendly untuk mahasiswa? Berikut penjelasannya.
 
-
-
 ## Apa Itu CV ATS Friendly?
 
 Saat ini, banyak perusahaan memilih untuk menggunakan software Application Tracking System (ATS) untuk menyeleksi CV yang dikirim oleh pelamar kerja dengan jumlah yang sangat banyak. CV ATS friendly ini adalah salah satu format CV yang nantinya bisa secara otomatis terintegrasi dengan sistem tersebut.
 
-
-
 Software ATS ini bisa menyeleksi banyaknya CV yang masuk sehingga CV ATS friendly yang paling cocok dengan preferensi perusahaan saja yang bisa lolos ke tahap selanjutnya. Dalam  software ATS, pihak HRD akan meng-input personalisasi keywords sesuai dengan kualifikasi yang diinginkan perusahaan.
-
-
 
 Keywords yang dimaksud misalnya adalah minimal tahun pengalaman kerja yang dimiliki, angka minimum IPK, hingga soft skills atau hard skills yang dibutuhkan.
 
@@ -36,15 +30,9 @@ Keywords yang dimaksud misalnya adalah minimal tahun pengalaman kerja yang dimil
 
 Apakah CV ATS friendly untuk fresh graduate wajib digunakan dalam melamar pekerjaan apa pun dan di mana pun? Jawabannya bisa iya dan tidak. Umumnya, CV ATS friendly wajib digunakan untuk kamu yang ingin melamar ke korporat besar yang sudah pasti memiliki jumlah pelamar yang banyak hingga ratusan atau ribuan kandidat. 
 
-
-
 Perusahaan besar seperti korporat dan start-up unicorn, hectocorn, atau decacorn sudah pasti akan menggunakan software ATS dalam proses menyeleksi kandidat yang masuk. Hal ini dilakukan untuk mempermudah dan mempercepat proses perekrutan.
 
-
-
 Selain itu, untuk mengetahui apakah perusahaan yang kamu lamar menggunakan sistem ATS, kamu juga bisa melihat di mana perekrutan tersebut dilakukan. Umumnya, perusahaan yang menggunakan software ATS memiliki website karier tersendiri.
-
-
 
 Namun, terdapat beberapa profesi yang lebih membutuhkan CV kreatif dibanding dengan CV ATS friendly. Profesi ini biasanya berhubungan erat dengan pekerja di bidang kreatif seperti design graphic, videographer, atau illustrator.
 
@@ -56,23 +44,15 @@ Sebenarnya dalam CV ATS friendly, informasi wajib yang tercantum sama saja denga
 
 Perbedaan paling mencolok antara CV ATS friendly dengan CV kreatif dapat terlihat dari desainnya. CV biasa atau CV kreatif memungkinkan kamu untuk berkreasi dalam pemilihan color palette, memasukkan unsur gambar atau grafik, pemilihan font beragam, serta kreasi layouting.
 
-
-
 Sementara itu, template CV ATS friendly memiliki format yang sederhana dengan warna kontras hitam dan putih saja. Font yang digunakan tidak boleh berbeda-beda, cukup memilih satu font saja. Misalnya seperti Arial, Helvetica, atau Times New Roman.
 
 * ### Strategi Pemilihan Keywords
 
 Sistem ATS menyeleksi CV pelamar dengan menggunakan keywords tertentu yang ditentukan oleh perusahaan. Meskipun informasi yang kamu cantumkan ke dalam CV ATS sebenarnya relevan untuk posisi yang kamu lamar, jika kamu tidak mencantumkan keywords yang ditentukan, maka CV-mu sudah pasti tidak akan lolos ke tahap rekrutmen selanjutnya.
 
-
-
 Keywords ini umumnya bisa kamu temukan di dalam job description yang dicantumkan perusahaan di iklan lowongan pekerjaan. Semakin tinggi kecocokan informasi yang kamu tuliskan di CV dengan berbagai keywords yang ada di dalam iklan lowongan pekerjaan, maka semakin besar juga peluang kamu lolos screening ATS.
 
-
-
 Setelah memahami perbedaannya, maka yang selanjutnya harus kamu lakukan adalah memastikan untuk mencantumkan informasi-informasi wajib ke dalam CV sesuai dengan struktur CV ATS friendly. Berikut adalah aspek terstruktur yang bisa kamu jadikan sebagai referensi.
-
-
 
 ### 1. Detail informasi diri di bagian tengah atas
 
@@ -94,11 +74,9 @@ Cukup cantumkan riwayat pendidikan yang paling baru saja dilengkapi dengan perio
 
 Tidak perlu menuliskan kalimat panjang dan bertele-tele tentang skill yang dimiliki. Kamu hanya perlu mencantumkan ke dalam list bullet points seluruh skill yang kamu punya.
 
-
-
 ## Cara Mengenali Keywords Untuk CV ATS Friendly
 
-Kamu mungkin bingung bagaimana sih caranya menentukan keywords yang sekiranya cocok dengan preferensi perusahaan agar untuk lolos screening software ATS. Perhatikan contoh kualifikasi lowongan pekerjaan dan keywords yang kemungkinan besar menjadi poin dalam screening CV ATS friendly di bawah ini.
+Kamu mungkin bingung bagaimana sih caranya menentukan keywords yang sekiranya cocok dengan preferensi perusahaan agar untuk lolos screening software ATS. Selain mencari contoh template CV ATS friendly di internet, kamu bisa memperhatikan contoh kualifikasi lowongan pekerjaan dan keywords yang kemungkinan besar menjadi poin dalam screening CV ATS friendly di bawah ini.
 
 ![Keywords CV ATS friendly](img/ats.png "Cara Cari Keyword CV ATS friendly")
 
@@ -108,11 +86,7 @@ Kamu mungkin bingung bagaimana sih caranya menentukan keywords yang sekiranya co
 
 Dari contoh di atas, kamu bisa melihat beberapa hal penting yang diinginkan perekrut dari kandidat. Kemungkinan besar, keywords yang akan di-input ke dalam software ATS akan sangat berkaitan erat dengan skills yang dibutuhkan untuk posisi tersebut. Karena itu, pastikan kamu memahami informasi yang ada di iklan lowongan kerja untuk menyusun CV ATS friendly yang tepat ya!
 
-
-
-Itu dia informasi mengenai cara membuat CV ATS friendly untuk fresh graduate. Jika kamu masih bingung, banyak template CV ATS friendly yang bisa kamu askes di laman job portal secara gratis.
-
-
+Itu dia informasi mengenai cara membuat CV ATS friendly untuk fresh graduate.
 
 ## [Tertarik Berbisnis Sejak Muda? Mulailah Investasi Hanya Dengan 1 Juta Melalui LandX Sekarang Juga!](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)
 
