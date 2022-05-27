@@ -98,8 +98,6 @@ Jangan terjebak saham gorengan, saham multibagger memang memiliki nilai underval
 
 Sedangkan kriteria saham multibagger adalah memiliki fundamental yang baik yang ditunjukkan oleh laporan keuangan. Pergerakan harga saham multibagger juga memakan waktu hingga lebih dari satu tahun. Tidak seperti saham gorengan yang naik kencang dalam waktu singkat dan dapat terhempas jatuh dengan parah karena tidak diiringi fundamental yang kuat.
 
-<!--EndFragment-->
-
 ## PENUTUP
 
 Mencari saham multibagger lebih mudah diucapkan dibanding prakteknya. Karena untuk menjadi saham multibagger umumnya melalui perjalanan waktu yang panjang. Perusahaan harus melalui berbagai kondisi dan mengelola kondisi tersebut menjadi potensi menguntungkan.
