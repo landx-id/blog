@@ -32,9 +32,9 @@ Zaman sekarang, investasi gak cuma untuk kalangan usia matang yang sudah stabil 
 
 Mulai dari Timothy Ronald, Andrian Wijaya, Ellen May, Dea Surjadi, dan Belvin Tannadi. Mereka bisa meraih kesuksesan finansial dimulai dari jadi investor muda. Sebenarnya, mengapa penting bagi anak muda untuk melek berinvestasi sejak dini? Baca terus artikel ini jika kamu ingin menjadi investor muda yang bisa segera mencapai kestabilan finansial, ya!
 
-## Pentingnya Investasi di Usia Muda
+## Jadi Investor di Investasi di Usia Muda
 
-Investasi di usia muda adalah hal penting di zaman sekarang. Mengapa demikian? Berikut beberapa alasannya.
+Investasi di usia muda adalah hal penting di zaman sekarang. Mengapa demikian? Berikut beberapa alasan kenapa kita harus menjadi investor sejak usia muda.
 
 ### 1. Peluang mendapatkan penghasilan tambahan
 
@@ -60,9 +60,9 @@ Untuk menjadi investor muda yang sukses, tentunya kamu perlu belajar mengelola k
 
 Kedisiplinan dalam mengelola keuangan ini akan melatih kamu untuk membangun mindset yang baik dalam menyikapi kondisi finansial yang baik atau pun buruk. Tentunya, dengan memiliki kesadaran akan pentingnya investasi, kamu pun secara alamiah akan terjerat dari hutang yang diciptakan dari pengeluaran yang kurang bijak.
 
-## 4 Langkah Strategis Cara Berinvestasi Untuk Pemula
+## 4 Langkah Strategis Cara Berinvestasi untuk Anak Muda
 
-### 1. Mempersiapkan Kondisi Keuangan
+### 1. Mempersiapkan Kondisi Keuangan Sedini Mungkin
 
 Merencanakan keuangan untuk masa depan memang sangat penting. Namun jangan sampai kamu menyepelekan kebutuhan masa kini yang tetap harus menjadi prioritas. Memiliki dana yang cukup untuk menjalani keseharian saja tidak cukup.
 
@@ -72,7 +72,7 @@ Sebelum menyusun rencana investasi, pastikan kamu telah memperhitungkan alokasi 
 
 Memiliki target tujuan keuangan idealmu adalah pondasi awal untuk memulai perjalanan sebagai investor muda. Tujuan keuangan maksudnya adalah sebuah kondisi dana finansial yang ingin dicapai melalui investasi untuk periode waktu tertentu. Hal ini berhubungan dengan jenis investasi yang ingin kamu jalani. Apakah kamu ingin berinvestasi untuk jangka pendek (1-3 tahun), jangka menengah (3-10 tahun), atau jangka panjang (lebih dari 10 tahun). 
 
-### 3. Memilih Instrumen Investasi
+### 3. Memilih Instrumen Investasi yang Sesuai
 
 Setelah menentukan tujuan yang keuangan yang ingin dicapai dengan mulai menjadi investor muda, kamu bisa memilih instrumen investasi yang sesuai dengan tujuan tersebut. Memilih instrumen investasi ini bisa dikatakan juga proses memilih profil risiko sebagai investor.
 
@@ -82,13 +82,13 @@ Umumnya, terdapat tiga jenis profil risiko yaitu investor konservatif, moderat, 
 * Investor Moderat: Cenderung tidak mencairkan dana investasi saat terjadi penurunan nilai yang berdampak kerugian, namun akan lebih memonitor investasi tersebut. Biasanya jangka waktu investasinya hanya 3-4 tahun. Biasanya tipe ini akan berinvestasi instrumen campuran di equity crowdfunding dan reksa dana.
 * Investor Agresif: Seorang investor yang terbiasa terhadap fluktuasi harga pasar modal, bahkan terhadap fluktuasi yang tergolong ekstrim. Umumnya, jenis investor ini hanya mengalokasikan modalnya pada instrumen investasi dengan risiko tinggi, seperti saham, cryptocurrency, dan obligasi. 
 
-### 4. Investasi Dengan Konsisten
+### 4. Investasi dengan Konsisten Sejak Usia Muda
 
 Setelah membangun rencana di langkah-langkah sebelumnya, kamu tinggal membuka rekening investasi yang dipilih. Biasanya yang dibutuhkan adalah kartu identitas pribadi, Nomor Pokok Wajib Pajak (NPWP), nomor rekening bank, pengisian formulir initial investment, dan syarat-syarat lain yang bisa Anda cek di lembaga atau platform terkait. 
 
 Hal yang terpenting dilakukan jika kamu ingin menjadi investor muda yang sukses adalah konsistensi dalam berinvestasi sesuai dengan perencanaan untuk meraih target keuangan yang diinginkan. Jangan lupa untuk mengelola keuntungan yang didapat dari investasimu juga ya! Jangan sampai hanya fokus untuk digunakan foya-foya saja.
 
-## Kesempatan Investasi Saham Modal Minim
+## Kesempatan Investasi Saham Modal Minim Sejak Usia Muda
 
 Investasi saham masih memang menjadi favorit penanaman modal para investor muda. Meskipun identik dengan high risk high return, sekarang terdapat skema investasi yang bisa jadi pilihan bagi anak muda yang belum memiliki modal yang besar.
 
@@ -101,5 +101,9 @@ Hal ini menjadikan investasi beli saham dengan skema equity crowdfunding menawar
 Jika kamu merasa tertarik untuk berinvestasi saham UMKM, pastikan untuk memilih platform urun dana yang sudah berpengalaman dan di bawah pengawasan OJK seperti **[LandX](https://landx.id/)** ya!
 
 ## [Sukses Jadi Investor Muda Hanya Dengan 1 Juta Dengan Investasi di LandX Sekarang!](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)
+
+<!--StartFragment-->
+
+[![miliki bisnis modal kecil cuma dengan 1 jutaan dapat 4 cabang ](https://accountgram-production.sfo2.cdn.digitaloceanspaces.com/landx_ghost/2021/11/jadi-owner-bisnis-hanya-1-jutaan-dengan-cuan-yang-sangat-menjanjikan.png)](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)
 
 <!--EndFragment-->
