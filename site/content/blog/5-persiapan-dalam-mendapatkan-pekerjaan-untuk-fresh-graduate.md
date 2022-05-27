@@ -1,6 +1,6 @@
 ---
 author: Nadya A. Faatihah
-title: 5 Persiapan Dalam Mendapatkan Pekerjaan Untuk Fresh Graduate
+title: 5 Cara Mendapatkan Pekerjaan Untuk Fresh Graduate
 metaTitle: 5 Tips Persiapan Mencari Kerja Untuk Mahasiswa
 metaDescription: Apa saja yang dibutuhkan untuk melamar pekerjaan sebagai fresh
   graduate? Baca artikel ini untuk tips mencari kerja untuk mahasiswa!
