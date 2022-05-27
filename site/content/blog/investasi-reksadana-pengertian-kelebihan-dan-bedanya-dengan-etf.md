@@ -8,6 +8,16 @@ metaDescription: Reksadana adalah skema mengumpulkan uang dari pemilik modal
 intro: Reksadana adalah skema mengumpulkan uang dari pemilik modal yang dikelola
   oleh seorang profesional (manajer investasi) untuk diinvestasikan pada saham
 date: 2022-05-25T03:41:53.983Z
+tag:
+  - Investasi Aman
+  - Instrumen Investasi
+  - Investasi Jangka Panjang
+  - Investor Pemula
+  - ETF
+  - Cara Kerja Reksa Dana
+  - reksa dana
+category:
+  - Investasi
 featuredImage:
   title: "Investasi Reksadana: Pengertian, Kelebihan dan Bedanya dengan ETF"
   src: img/11205.jpg
@@ -79,9 +89,9 @@ Sering dianggap sama, namun ETF dan reksadana adalah dua hal yang memiliki perbe
 
 Berikut merupakan perbedaan ETF dengan reksadana (stock mutual fund) yang telah dikategorikan oleh Bursa Efek Indonesia.
 
-![](https://lh4.googleusercontent.com/VnAyC3RND6CZ3S2NdceSRqj0vohfdOPD6zCj9wuPK2yvlYLSvbh01uygyq8bT3ynTzSLECiYqD9eikQxhOLQOTeyEf79tMbxFDDYxEzhX0A2phKTsIkMmEM1feXPn5vZL5BmXAa76x_IRaHnxQ)
+![Memahami apa itu reksa dana dan cara kerja instrumen investasi ](https://lh4.googleusercontent.com/VnAyC3RND6CZ3S2NdceSRqj0vohfdOPD6zCj9wuPK2yvlYLSvbh01uygyq8bT3ynTzSLECiYqD9eikQxhOLQOTeyEf79tMbxFDDYxEzhX0A2phKTsIkMmEM1feXPn5vZL5BmXAa76x_IRaHnxQ "Yuk simak perbedaan antara reksa dan dan ETF")
 
-> [Baca juga perbedaan ETF dan reksadana di sini](https://landx.id/blog/etf-adalah/)
+> **[Baca juga perbedaan ETF dan reksadana di sini](https://landx.id/blog/etf-adalah/)**
 
 ## Diversifikasi Portofolio Investasi
 
@@ -98,3 +108,5 @@ Kamu juga dapat berinvestasi [crowdfunding](https://landx.id/) melalui [platform
 Dengan demikian, kamu bisa meraih keuntungan investasi dengan investasi bisnis di [crowdfunding](https://landx.id/).
 
 ## [Yuk, Download Aplikasi Landx Sekarang Untuk Akses Proyek Bisnis Potensial Menguntungkan](https://landx.id/)
+
+## [![miliki bisnis modal kecil cuma dengan 1 jutaan dapat 4 cabang ](https://accountgram-production.sfo2.cdn.digitaloceanspaces.com/landx_ghost/2021/11/jadi-owner-bisnis-hanya-1-jutaan-dengan-cuan-yang-sangat-menjanjikan.png)](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)
