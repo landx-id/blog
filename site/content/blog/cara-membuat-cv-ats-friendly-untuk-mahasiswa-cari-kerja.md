@@ -86,8 +86,6 @@ Kamu mungkin bingung bagaimana sih caranya menentukan keywords yang sekiranya co
 
 Dari contoh di atas, kamu bisa melihat beberapa hal penting yang diinginkan perekrut dari kandidat. Kemungkinan besar, keywords yang akan di-input ke dalam software ATS akan sangat berkaitan erat dengan skills yang dibutuhkan untuk posisi tersebut. Karena itu, pastikan kamu memahami informasi yang ada di iklan lowongan kerja untuk menyusun CV ATS friendly yang tepat ya!
 
-Itu dia informasi mengenai cara membuat CV ATS friendly untuk fresh graduate.
-
 ## [Tertarik Berbisnis Sejak Muda? Mulailah Investasi Hanya Dengan 1 Juta Melalui LandX Sekarang Juga!](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)
 
 <!--EndFragment-->
