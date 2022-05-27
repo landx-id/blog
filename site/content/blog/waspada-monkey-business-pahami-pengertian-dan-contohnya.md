@@ -1,33 +1,33 @@
 ---
 author: Nadya A. Faatihah
-title: Waspada Monkey Business! Pahami Pengertian dan Contohnya
-metaTitle: Apa itu Monkey Business? Ini Pengertian dan Contohnya
-metaDescription: Apa itu monkey business? Strategi bisnis merugikan ini perlu
-  kamu waspadai. Baca artikel ini untuk tahu lebih banyak!
+title: "Monkey Business Adalah: Memahami Apa Itu Monkey Business dan Cirinya"
+metaTitle: "Monkey Business Adalah: Memahami Apa Itu Monkey Business dan Cirinya"
+metaDescription: Yuk pahami apa itu monkey business dan perbedaannya dengan
+  sustainable bisnis yang harus anda pahami dengan baik
 intro: Waspada dengan monkey business atau metode bisnis yang menawarkan untung
   besar dari komoditas yang tidak begitu signifikan. Berikut adalah penjelasan
   lengkap dan contohnya.
 date: 2022-05-25T03:23:06.386Z
+tag:
+  - Bisnis Jangka Panjang
+  - Manajemen Bisnis
+  - Investasi Bodong
+category:
+  - Bisnis
+  - Keuangan
 featuredImage:
-  src: https://images.unsplash.com/photo-1540573133985-87b6da6d54a9?crop=entropy&cs=tinysrgb&fm=jpg&ixlib=rb-1.2.1&q=80&raw_url=true&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=876
-  alt: Pengertian dan Contoh Monkey Business
-  title: Contoh Monkey Business yang Harus Diwaspadai
+  src: https://images.unsplash.com/photo-1614064744993-dc3650ff1d25?crop=entropy&cs=tinysrgb&fm=jpg&ixlib=rb-1.2.1&q=80&raw_url=true&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870
+  alt: Memahami apa itu monkey business dan kenapa monkek business harus anda
+    hindari
+  title: Yuk simak apa itu Mongkey business yang harus anda hindari
 ---
-<!--StartFragment-->
-
 Apa itu monkey business? Mungkin kamu pernah mendengar istilah ini sebelumnya. Secara garis besar, monkey business adalah strategi yang digunakan dalam bisnis atau investasi yang bertujuan untuk meraup keuntungan sebesar-besarnya dengan cara merugikan orang lain. Agar bisa mendapatkan profit besar ini, melakukan kebohongan dan penipuan pun tidak dipermasalahkan. 
-
-
 
 Baca terus artikel ini untuk lebih paham tentang modus bisnis merugikan ini, beserta contoh monkey business yang perlu diwaspadai.
 
 ## Apa yang dimaksud dengan monkey business?
 
-
-
 Untuk memahami lebih dalam tentang konsep monkey business, ilustrasi singkat ini adalah penggambaran relevan mengenai monkey business:
-
-<!--StartFragment-->
 
 > Suatu hari, Pengusaha X dari kota A mengunjungi daerah B yang memiliki hutan lebat yang menjadi habitat utama kucing hutan. Setelah itu, Pengusaha A mengumumkan kepada warga daerah B bahwa ia akan membeli kucing hutan yang ditangkap oleh warga seharga Rp50,000 per ekor dengan alasan akan menjualnya di kota A.
 >
@@ -49,11 +49,7 @@ Untuk memahami lebih dalam tentang konsep monkey business, ilustrasi singkat ini
 
 Dari ilustrasi di atas, dapat dikatakan bahwa monkey business adalah metode yang digunakan oleh pengusaha licik dengan memanfaatkan kelengahan pembeli atau investor yang terfokus pada iming-iming untung besar. 
 
-
-
 Selain itu, ciri dari monkey business ini umumnya menjual barang atau makhluk hidup yang tidak memiliki nilai jual sama sekali dengan harga fantastis. Hal ini lah yang membuat banyak orang secara tiba-tiba memburu komoditas tersebut. 
-
-
 
 Singkatnya, komoditas yang diperjualbelikan dengan skema seperti ini cenderung meningkat dengan cepat, namun meredup dengan cepat juga. Berikut adalah beberapa contohnya.
 
@@ -61,15 +57,11 @@ Singkatnya, komoditas yang diperjualbelikan dengan skema seperti ini cenderung m
 
 Sempat booming, harga dari batu akik ini sempat melambung hingga puluhan juta rupiah. Karena itu, tak sedikit orang yang berbondong-bondong memborong aneka batu akik dengan harapan bisa menjualnya kembali dengan harga lebih tinggi ke investor.
 
-
-
 Selayaknya ilustrasi monkey business sebelumnya, tren dari batu akik ini hanya bertahan untuk jangka waktu yang tidak begitu lama. Hingga sekarang harganya sudah jauh lebih rendah dibanding saat trending dulu.
 
 ### 2. Arisan Berbasis Aplikasi
 
 Diiringi dengan perkembangan teknologi, monkey business merambah ke dunia virtual. Umumnya, arisan bodong ini ditawarkan kepada calon korbannya dengan iming-iming keuntungan bunga sekian persen yang bisa didapatkan dari nominal dana yang ditanamkan di aplikasi tertentu. Keuntungan ini hanya bisa diambil jika pemodal menyimpan uangnya selama waktu yang ditentukan oleh “aplikasi” tersebut.
-
-
 
 Dengan penyebaran dari mulut ke mulut dan penyebaran “bukti aplikasi” dengan data menggiurkan, arisan ini umumnya hilang kabar setelah nominal besar dari beberapa “investor” terkumpul.
 
@@ -77,29 +69,17 @@ Dengan penyebaran dari mulut ke mulut dan penyebaran “bukti aplikasi” dengan
 
 Fenomena kepopuleran tanaman Gelombang Cinta beberapa tahun yang lalu membuktikan bahwa ini adalah bentuk monkey business. Harganya saat itu bisa sampai puluhan bahkan ratusan juta. Banyak info disebarkan bahwa tanaman ini bisa menjadi investasi jangka panjang.
 
-
-
 Namun, bisa dilihat bahwa saat ini, harga Gelombang Cinta telah melandai ke nominal maksimal ratusan ribu saja.
-
-
 
 ## Apa perbedaan sustainable business dengan monkey business?
 
 Skema monkey business mengalami peningkatan supply-demand cepat karena iming-iming keuntungan yang besar. Namun, seiring berjalannya waktu kesadaran bahwa komoditas tersebut tidak memiliki nilai pasar yang signifikan semakin muncul.
 
-
-
 Hal ini membuat supply-demand komoditas menurun secara drastis yang memengaruhi harga komoditas menjadi turun bebas. Bisnis dengan metode ini tentu unsustainable business (bisnis tidak berkelanjutan).  
-
-
 
 Berbanding terbalik, sustainable business adalah strategi bisnis untuk memastikan bahwa komoditas yang diperjualbelikan bisa tetap relevan untuk generasi mendatang. Singkatnya, sustainable business adalah strategi untuk meminimalkan dampak negatif terhadap lingkungan dan masyarakat dalam aktivitas bisnisnya.
 
-
-
 Tentunya, untuk memastikan sebuah bisnis bisa berjalan secara berkelanjutan, sebuah perusahaan perlu mengelola dampak keuangan, sosial, dan lingkungan. Tanpa menerapkan sustainable business, perusahaan memang bisa tetap berjalan dan mencetak keuntungan. Akan tetapi, hal tersebut tidak akan bertahan lama. Saat tidak ada nilai tambah yang diberikan pada lingkungan, warga sekitar dan karyawan, fondasi fundamental yang menopang bisnis ini akan hancur dengan sendirinya.
-
-
 
 Itu dia penjelasan mengenai monkey business yang bisa kamu jadikan bahan pertimbangan sebelum terjun ke dalam tren bisnis tertentu. Perlu diingat bahwa produk atau skema bisnis apapun pada dasarnya memiliki prinsip keuntungan yang sebanding dengan risiko kerugian. Nyaris mustahil terdapat skema bisnis yang menawarkan keuntungan tinggi tanpa ada risiko kerugian sama sekali.
 
