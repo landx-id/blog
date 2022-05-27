@@ -19,7 +19,8 @@ featuredImage:
   src: https://images.unsplash.com/photo-1614064744993-dc3650ff1d25?crop=entropy&cs=tinysrgb&fm=jpg&ixlib=rb-1.2.1&q=80&raw_url=true&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870
   alt: Memahami apa itu monkey business dan kenapa monkek business harus anda
     hindari
-  title: Yuk simak apa itu Mongkey business yang harus anda hindari
+  title: Yuk simak apa itu Monkey business yang harus anda hindari saat terutama
+    saat akan berinvestasi
 ---
 Apa itu monkey business? Mungkin kamu pernah mendengar istilah ini sebelumnya. Secara garis besar, monkey business adalah strategi yang digunakan dalam bisnis atau investasi yang bertujuan untuk meraup keuntungan sebesar-besarnya dengan cara merugikan orang lain. Agar bisa mendapatkan profit besar ini, melakukan kebohongan dan penipuan pun tidak dipermasalahkan. 
 
@@ -45,7 +46,7 @@ Untuk memahami lebih dalam tentang konsep monkey business, ilustrasi singkat ini
 >
 > Selain warga yang dirugikan secara finansial, dampak lingkungan yang ditimbulkan karena ekosistem hutan yang rusak pun menjadi tanggungan warga. Karena kucing hutan yang merupakan karnivora utama di rantai makanan hutan ditangkap, populasi hama yang meningkat drastis akhirnya menyerang dan merusak perkebunan warga
 
-## Contoh Monkey Business
+## Contoh Monkey Business yang Pernah Muncul di Indonesia
 
 Dari ilustrasi di atas, dapat dikatakan bahwa monkey business adalah metode yang digunakan oleh pengusaha licik dengan memanfaatkan kelengahan pembeli atau investor yang terfokus pada iming-iming untung besar. 
 
@@ -71,7 +72,7 @@ Fenomena kepopuleran tanaman Gelombang Cinta beberapa tahun yang lalu membuktika
 
 Namun, bisa dilihat bahwa saat ini, harga Gelombang Cinta telah melandai ke nominal maksimal ratusan ribu saja.
 
-## Apa perbedaan sustainable business dengan monkey business?
+## Perbedaan *Sustainable Business* dengan Monkey Business
 
 Skema monkey business mengalami peningkatan supply-demand cepat karena iming-iming keuntungan yang besar. Namun, seiring berjalannya waktu kesadaran bahwa komoditas tersebut tidak memiliki nilai pasar yang signifikan semakin muncul.
 
@@ -85,4 +86,4 @@ Itu dia penjelasan mengenai monkey business yang bisa kamu jadikan bahan pertimb
 
 ## [Temukan Peluang Investasi Terpercaya Dengan Modal 1 Juta di Platform Resmi LandX](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)
 
-<!--EndFragment-->
+![Bagaimana? Kamu lebih suka bisnis dengan buyback guarantee atau yang bisa disimpan dalam jangka panjang? Apapun pilihan kamu.. Yuk Patungan  dengan Keuntungan Menjanjikan Bareng LandX](https://accountgram-production.sfo2.cdn.digitaloceanspaces.com/landx_ghost/2021/10/Equity-Crowdfunding-di-Indonesia-1--3.png)
