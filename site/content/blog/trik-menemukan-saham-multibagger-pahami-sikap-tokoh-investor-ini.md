@@ -9,12 +9,21 @@ intro: Saham multibagger adalah saham yang memiliki kemampuan memberikan
   pengembalian lebih dari 100%. Cara menemukan saham multibagger adalah dengan
   melihat..
 date: 2022-05-27T08:39:19.542Z
+tag:
+  - Cara Investasi Saham
+  - Investasi Saham
+  - saham konvensional
+  - Saham Online
+  - Investasi
+  - Tips Investasi
+category:
+  - Investasi
 featuredImage:
   title: Trik Menemukan Saham Multibagger dengan Memahami Sikap Tokoh Investor
     Inspiratif
-  src: https://unsplash.com/photos/fG_6H0URdos
-  alt: saham multibagger, potensi saham 2022, warren buffet, lo kheng hong,
-    strategi investasi, cara menemukan saham multibagger
+  src: https://images.unsplash.com/photo-1444653614773-995cb1ef9efa?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=876&q=80
+  alt: "Mengenal apa itu saham multibagger dan bagger dalam saham yang penting
+    untuk dipahami "
 ---
 Berinvestasi pada saham memang memiliki risiko yang tinggi. Mungkin terdapat momen portofolio Anda menunjukkan warna merah yang buat resah. Namun, bisa saja pada suatu fenomena saham yang sedang turun, dapat muncul saham-saham yang dapat memberikan pengembalian berkali-kali lipat di masa depan.
 
@@ -22,7 +31,7 @@ Saham yang memiliki potensi pengembalian berkali-kali tersebut dikenal sebagai s
 
 Dalam artikel ini, [LandX](https://landx.id/) akan bahas lebih lanjut mengenai saham multibagger yang dapat memberikan potensi keuntungan.
 
-## DEFINISI SAHAM MULTIBAGGER
+## Saham Multibagger Adalah
 
 Investasi saham adalah hal yang dinamis, akan banyak momentum di mana saham agar bergerak naik dan turun. Apalagi ketika terjadi sebuah kondisi yang mempengaruhi secara nasional hingga global.
 
@@ -34,39 +43,41 @@ Untuk menemukan jenis saham multibagger ternyata memiliki range-time atau jangka
 
 Mari kenalan dulu dengan tokoh investor saham berikut.
 
-## TOKOH INVESTOR SAHAM
+## Tokoh Investor Saham yang Bisa Jadi Inspirasi Anda
 
-1. ### Peter Lynch
+### 1. Peter Lynch
 
-   Peter lynch adalah seorang manajer investasi di perusahaan wilayah Boston yang dapat mengenal saham-saham yang dapat memberikan keuntungan berkali-kali lipat. Sehingga dana nasabah yang ia kelola dapat mengucur keuntungan tertinggi pada saat itu.
+Peter lynch adalah seorang manajer investasi di perusahaan wilayah Boston yang dapat mengenal saham-saham yang dapat memberikan keuntungan berkali-kali lipat. Sehingga dana nasabah yang ia kelola dapat mengucur keuntungan tertinggi pada saat itu.
 
-   Melalui buku yang ia rilis tahun 1988 berjudul One Up on Wall Street, Peter mengenalkan strategi saham multibagger. Multibagger berasal dari istilah dalam permainan baseball.
-2. ### Warren Buffet
+Melalui buku yang ia rilis tahun 1988 berjudul One Up on Wall Street, Peter mengenalkan strategi saham multibagger. Multibagger berasal dari istilah dalam permainan baseball.
 
-   Merupakan sosok pengusaha dan investor terkenal di dunia, Warren Buffet memiliki strategi yang mungkin bagi sebagian orang terasa unik. Diketahui saat ini Amerika sedang mengalami inflasi yang tinggi, sehingga instrumen investasi yang memiliki risiko tinggi terkena dampaknya.
+### 2. Warren Buffet
 
-   Apa yang dilakukan Warren Buffet dikala portofolionya menunjukkan angka merah? Warren melakukan pembelian saham yang lebih banyak. Seperti ucapan yang pernah ia sampaikan, yaitu “Be fearful when others are greedy. Be greedy when others are fearful.”
+Merupakan sosok pengusaha dan investor terkenal di dunia, Warren Buffet memiliki strategi yang mungkin bagi sebagian orang terasa unik. Diketahui saat ini Amerika sedang mengalami inflasi yang tinggi, sehingga instrumen investasi yang memiliki risiko tinggi terkena dampaknya.
 
-   Melihat historis pergerakan saham big caps Amerika, sangat jarang terjadi penurunan. Sehingga apabila terjadi penurunan, Warren menyikapinya dengan melakukan penambahan kepemilikan jumlah saham. 
+Apa yang dilakukan Warren Buffet dikala portofolionya menunjukkan angka merah? Warren melakukan pembelian saham yang lebih banyak. Seperti ucapan yang pernah ia sampaikan, yaitu “Be fearful when others are greedy. Be greedy when others are fearful.”
 
-   Karena setelah suatu indeks saham turun, di masa depannya perusahaan tersebut diyakini akan meningkat. Tapi ingat, perusahaan tersebut harus menunjukkan potensi yang kuat. Seperti portofolio Warren Buffet yaitu Chevron, Occidental Petroleum, Hewlett Packard serta fintech Nuback.
+Melihat historis pergerakan saham big caps Amerika, sangat jarang terjadi penurunan. Sehingga apabila terjadi penurunan, Warren menyikapinya dengan melakukan penambahan kepemilikan jumlah saham. 
 
-   > [Baca juga Gaya Berinvestasi Warren Buffet dan Elon Musk](https://landx.id/blog/berinvestasi-gaya-elon-musk-atau-warren-buffet-2-pandangan-buat-kamu-yang-ingin-ikutan-bitcoin/?utm_source=artikelmultibagger&utm_medium=blog&utm_campaign=klikblog)
-3. ### Lo Kheng Hong
+Karena setelah suatu indeks saham turun, di masa depannya perusahaan tersebut diyakini akan meningkat. Tapi ingat, perusahaan tersebut harus menunjukkan potensi yang kuat. Seperti portofolio Warren Buffet yaitu Chevron, Occidental Petroleum, Hewlett Packard serta fintech Nuback.
 
-   Warren Buffetnya Indonesia, Lo Kheng Hong merupakan investor Indonesia yang inspiratif. Lo Kheng Hong senang membeli saham yang sektornya belum terlalu terkenal, undervalue dan harganya masih tergolong murah. 
+> [Baca juga Gaya Berinvestasi Warren Buffet dan Elon Musk](https://landx.id/blog/berinvestasi-gaya-elon-musk-atau-warren-buffet-2-pandangan-buat-kamu-yang-ingin-ikutan-bitcoin/?utm_source=artikelmultibagger&utm_medium=blog&utm_campaign=klikblog)
 
-   Lo Kheng Hong kala itu mulai mengoleksi saham Petrosea yang bergerak dibidang konstruksi dan pertambangan. Selain itu ia juga memiliki saham berkode MBAI yang bergerak pada usaha pembibitan ayam dan kini telah menjadi perusahaan multinasional.
+### 3. Lo Kheng Hong
 
-   Melihat tindakan investasi ketiga tokoh investor ini, bagaimana cara mereka mendeteksi sebuah saham memiliki potensi return berkali-kali lipat? Tentunya mereka jauh dari tindakan investor yang ikut-ikutan dan menganalisis sebuah emiten dan perusahaan sebelum mengambil keputusan.
+Warren Buffetnya Indonesia, Lo Kheng Hong merupakan investor Indonesia yang inspiratif. Lo Kheng Hong senang membeli saham yang sektornya belum terlalu terkenal, undervalue dan harganya masih tergolong murah. 
+
+Lo Kheng Hong kala itu mulai mengoleksi saham Petrosea yang bergerak dibidang konstruksi dan pertambangan. Selain itu ia juga memiliki saham berkode MBAI yang bergerak pada usaha pembibitan ayam dan kini telah menjadi perusahaan multinasional.
+
+Melihat tindakan investasi ketiga tokoh investor ini, bagaimana cara mereka mendeteksi sebuah saham memiliki potensi return berkali-kali lipat? Tentunya mereka jauh dari tindakan investor yang ikut-ikutan dan menganalisis sebuah emiten dan perusahaan sebelum mengambil keputusan.
 
 > [Baca juga profil Lo Kheng Hong](https://landx.id/blog/intip-profil-lo-kheng-hong-investor-saham-warren-buffett-landx/?utm_source=artikelmultibagger&utm_medium=blog&utm_campaign=klikblog)
 
-## TRIK MENEMUKAN SAHAM MULTIBAGGER
+## Trik Menemukan Saham Multibagger
 
 Berikut kriteria saham multibagger, dilansir CNBC Indonesia:
 
-1. Perusahaan Memiliki Potensi Berkembang
+**1. Perusahaan Memiliki Potensi Berkembang**
 
 Kenali industrinya, cek perusahaannya apakah ditopang oleh manajemen yang kuat, laporan keuangan, dan teknik produksi yang baik. Ketika perusahaan memiliki hal-hal tersebut, akan tampak bahwa sebuah perusahaan memiliki potensi berkembang di masa depan.
 
