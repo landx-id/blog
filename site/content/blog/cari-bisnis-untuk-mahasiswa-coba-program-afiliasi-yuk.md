@@ -17,21 +17,13 @@ featuredImage:
 
 Pada era serba digital program afiliasi semakin marak menjadi bisnis untuk mahasiswa. Dengan mengikuti program affiliator, seorang afiliator bisa mendapatkan passive income hanya bermodal gadget saja. Karena tugas afiliator adalah memasarkan produk dari pemilik program afiliasi kepada calon konsumen, maka passive income yang didapatkan seorang afiliator adalah melalui komisi dari penjualan barang tersebut.
 
-
-
 Tertarik untuk dapat passive income dengan ikut program? Baca artikel ini untuk lebih paham apa itu program afiliasi dan cara berbisnis dengan menjadi afiliator!
-
-
 
 ## Apa yang Dimaksud Dengan Program Afiliasi?
 
 Program afiliasi adalah suatu cara memperoleh penghasilan tambahan dengan mendaftarkan diri sebagai afiliator pada suatu perusahaan yang sedang menawarkan peluang untuk penjualan produknya. Setelah itu, seorang afiliator akan melakukan promosi penjualan produk kepada konsumen agar pihak perusahaan dan afiliator mendapatkan keuntungan sesuai kesepakatan bersama.
 
-
-
 Pada era digital saat ini, program afiliasi adalah bentuk kerjasama antara individu dan suatu perusahaan yang bertujuan untuk mendapatkan keuntungan besar. Umumnya, cara seorang afiliator memasarkan produk dari perusahaan adalah dengan menautkan link atau nomor referral untuk marketplace, sosial media, atau web sebuah brand ke dalam konten-konten yang di-post dalam platform yang dimiliki afiliator tersebut.
-
-
 
 Banyak program afiliasi yang ramai digunakan oleh mahasiswa untuk mencari uang tambahan. Umumnya, program afiliasi ini ditawarkan oleh platform marketplace seperti berikut
 
@@ -40,8 +32,6 @@ Banyak program afiliasi yang ramai digunakan oleh mahasiswa untuk mencari uang t
 * Shopee Affiliate Program
 * Affiliate by Me Tokopedia
 * Amazon Affiliate Program
-
-
 
 ## Cara Strategis Menjadi Afiliator Untuk Mahasiswa
 
@@ -59,8 +49,6 @@ Berikut adalah tiga pihak yang terlibat langsung dalam model bisnis ini:
 
 Untuk menjadi seorang afiliator, kamu harus mendaftar program afiliasi dari pihak pemilik produk. Biasanya, pihak pemilik produk ini membuka pendaftaran untuk program afiliasi di laman website perusahaan. 
 
-
-
 Setelah mendaftar, kamu akan mendapatkan kode referral unik untuk disebarkan ke target konsumen. Jika konsumen tertarik untuk membeli produk tersebut, mereka akan diminta input kode referral milik afiliator. Kode referral ini berfungsi sebagai tanda konfirmasi bahwa konsumen melakukan transaksi dari seorang afiliator. Semakin banyak konsumen yang menggunakan kode referral, maka semakin banyak juga komisi yang didapatkan oleh afiliator.
 
 ### 3. Jenis Promosi Produk
@@ -71,8 +59,6 @@ Agar komisi yang didapatkan semakin banyak, maka promosi kode referral perlu dil
 
 Dalam program afiliasi, terdapat beberapa skema perhitungan pendapatan yang diperoleh afiliator. Umumnya, komisi akan didapat jika transaksi pembelian menggunakan kode referral milik afiliator. Namun, terdapat skema lain dimana komisi bisa didapatkan jika konsumen klik link kode referral untuk mengunjungi website atau marketplace produk, mengisi form, download aplikasi, atau subscribe newsletter.
 
-
-
 ## Keuntungan Program Afiliasi Untuk Mahasiswa
 
 Seperti sudah disebutkan sebelumnya, program afiliasi ini dapat dikatakan hanya membutuhkan modal gadget saja untuk bisa mendapatkan passive income. Selain dengan kemudahan modal tersebut, ini dia beberapa keuntungan dari mengikuti program afiliasi.
@@ -80,8 +66,6 @@ Seperti sudah disebutkan sebelumnya, program afiliasi ini dapat dikatakan hanya 
 ### 1. Peluang mendapatkan penghasilan tambahan
 
 Program afiliasi untuk mahasiswa adalah peluang yang sayang untuk dilewatkan. Hanya dengan modal gadget saja, kamu sudah bisa mendapatkan peluang untuk penghasilan tambahan. Terlebih kalau kamu mahasiswa yang ingin belajar mencari uang sendiri, mendaftar program afiliasi bisa menjadi jawabannya.
-
-
 
 Kamu hanya perlu menciptakan konten menarik dan interaktif untuk produk yang dimiliki sebuah brand, setelah upload konten tersebut kamu hanya perlu duduk menunggu calon konsumen melakukan transaksi produk hingga akhirnya mendapatkan komisi dari penjualan produk tersebut.
 
@@ -91,9 +75,7 @@ Modal menjadi afiliator masa kini hanyalah gadget dan sosial media. Kebanyakan p
 
 ### 3. Peluang untuk Investasi Sejak Dini
 
-Zaman sekarang, instrumen investasi bisa kamu pilih sesuai dengan kemampuan modal dan preferensi profil risiko yang ingin dimiliki. Banyak instrumen investasi untuk mahasiswa yang hanya punya modal kecil seperti reksa dana atau [equity crowdfunding](https://landx.id/).
-
-
+Zaman sekarang, instrumen investasi bisa kamu pilih sesuai dengan kemampuan modal dan preferensi profil risiko yang ingin dimiliki. Banyak instrumen investasi untuk mahasiswa yang hanya punya modal kecil seperti reksa dana atau **[equity crowdfunding](https://landx.id/)**.
 
 Dengan mendapatkan pemasukan melalui program afiliasi, kamu bisa mendapatkan dana yang bisa dialokasikan untuk meraih target finansial idealmu. Semakin besar pendapatan dari program afiliasi, semakin besar juga peluang kamu untuk meningkatkan alokasi dana untuk berinvestasi. Tentunya, investasi ini bisa memberikan nominal keuntungan yang jauh lebih besar di masa depan.
 
@@ -101,11 +83,7 @@ Dengan mendapatkan pemasukan melalui program afiliasi, kamu bisa mendapatkan dan
 
 Sebagai mahasiswa yang mencari penghasilan sampingan, kamu perlu melakukan manajemen waktu yang baik agar pekerjaan dan perkuliahan dapat berjalan seimbang. Umumnya jika mengambil part-time job, pekerjaan itu akan menyita waktu karena terikat sistem shift. Berbeda dengan part-time job pada umumnya, menjadi afiliator menawarkan kelebihan dalam fleksibilitas waktu.
 
-
-
 Program afiliasi umumnya tidak terikat kontrak yang mengikat kamu untuk clock-in atau clock-out harian. Kamu bisa memilih program afiliasi mana pun yang diinginkan dan melakukan pendaftaran kapan pun. Selain itu, kamu bisa melakukan kegiatan promosinya dari kos, rumah, atau pun cafe. Dengan ini, kamu memiliki fleksibilitas kapan akan memulai promosi tersebut sesuai dengan ketersediaan waktu dan tempat kamu. Ini menjadi keuntungan karena kamu bisa tetap bekerja tanpa harus mengenyampingkan prioritas kamu sebagai mahasiswa.
-
-
 
 ## [Ingin Menjadi Investor Muda? Mulai Investasi Hanya Dengan 1 Juta Melalui LandX Sekarang Juga!](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)
 
