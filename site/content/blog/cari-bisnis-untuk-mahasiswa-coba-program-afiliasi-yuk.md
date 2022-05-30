@@ -1,13 +1,19 @@
 ---
 author: Nadya A. Faatihah
-title: Cari Bisnis Untuk Mahasiswa? Coba Program Afiliasi Yuk!
-metaTitle: Cara Mulai Program Afiliasi Bisnis Untuk Mahasiswa
-metaDescription: Tahu gak sih kalau program afiliasi itu cocok untuk kamu yang
-  cari uang tambahan lewat bisnis untuk mahasiswa? Baca lengkapnya sekarang
-  juga!
+title: Cari Bisnis untuk Mahasiswa? Yuk Coba Program Afiliasi untuk Mahasiswa
+metaTitle: Cari Bisnis untuk Mahasiswa? Yuk Coba Program Afiliasi untuk Mahasiswa
+metaDescription: Yuk simak apa itu program afiliasi yang bisa jadi bisnis untuk
+  mahasiswa|Bisnis untuk Mahasiswa
 intro: Gak usah bingung cari ide bisnis untuk mahasiswa. Sekarang kamu bisa
   dapat uang tambahan dengan ikutan program afiliasi.
 date: 2022-05-30T07:28:14.161Z
+tag:
+  - Bisnis Sampingan
+  - Bisnis untuk Pemula
+  - Bisnis Menguntungkan
+  - Bisnsi Modal Kecil
+category:
+  - Bisnis
 featuredImage:
   src: https://images.unsplash.com/photo-1588702547919-26089e690ecc?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80
   alt: Cara Mudah Mulai Program Afiliasi Bisnis Untuk Mahasiswa
@@ -83,8 +89,14 @@ Dengan mendapatkan pemasukan melalui program afiliasi, kamu bisa mendapatkan dan
 
 Sebagai mahasiswa yang mencari penghasilan sampingan, kamu perlu melakukan manajemen waktu yang baik agar pekerjaan dan perkuliahan dapat berjalan seimbang. Umumnya jika mengambil part-time job, pekerjaan itu akan menyita waktu karena terikat sistem shift. Berbeda dengan part-time job pada umumnya, menjadi afiliator menawarkan kelebihan dalam fleksibilitas waktu.
 
-Program afiliasi umumnya tidak terikat kontrak yang mengikat kamu untuk clock-in atau clock-out harian. Kamu bisa memilih program afiliasi mana pun yang diinginkan dan melakukan pendaftaran kapan pun. Selain itu, kamu bisa melakukan kegiatan promosinya dari kos, rumah, atau pun cafe. Dengan ini, kamu memiliki fleksibilitas kapan akan memulai promosi tersebut sesuai dengan ketersediaan waktu dan tempat kamu. Ini menjadi keuntungan karena kamu bisa tetap bekerja tanpa harus mengenyampingkan prioritas kamu sebagai mahasiswa.
+Program afiliasi umumnya tidak terikat kontrak yang mengikat kamu untuk clock-in atau clock-out harian. Kamu bisa memilih program afiliasi mana pun yang diinginkan dan melakukan pendaftaran kapan pun. Selain itu, kamu bisa melakukan kegiatan promosinya dari kos, rumah, atau pun cafe. 
+
+Dengan ini, kamu memiliki fleksibilitas kapan akan memulai promosi tersebut sesuai dengan ketersediaan waktu dan tempat kamu. Ini menjadi keuntungan karena kamu bisa tetap bekerja tanpa harus mengenyampingkan prioritas kamu sebagai mahasiswa.
 
 ## [Ingin Menjadi Investor Muda? Mulai Investasi Hanya Dengan 1 Juta Melalui LandX Sekarang Juga!](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)
 
-<!--EndFragment-->
+[![miliki bisnis modal kecil cuma dengan 1 jutaan dapat 4 cabang ](https://accountgram-production.sfo2.cdn.digitaloceanspaces.com/landx_ghost/2021/11/jadi-owner-bisnis-hanya-1-jutaan-dengan-cuan-yang-sangat-menjanjikan.png)](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)
+
+> Yuk Download Aplikasi LandX Sekarang!!!
+> {{< button link="https://play.google.com/store/apps/details?id=store.numoney.landxapp&hl=in&gl=US" text="Android" >}}
+> {{< button link="https://apps.apple.com/id/app/landx/id1453823676" text="IOS" >}}
