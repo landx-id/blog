@@ -125,3 +125,6 @@ Namun, apakah Anda tahu bahwa ada sistem investasi [equity crowdfunding](https:/
 ## [Yuk, Temukan Bisnis Terbaik untuk Investasi Jangka Panjang di LandX](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)
 
 [![miliki bisnis modal kecil cuma dengan 1 jutaan dapat 4 cabang ](https://accountgram-production.sfo2.cdn.digitaloceanspaces.com/landx_ghost/2021/11/jadi-owner-bisnis-hanya-1-jutaan-dengan-cuan-yang-sangat-menjanjikan.png)](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)
+
+> [](https://landx.id/blog/tag/karir)Yuk Download Aplikasi LandX Sekarang!!!
+> {{< button link="https://play.google.com/store/apps/details?id=store.numoney.landxapp&hl=in&gl=US" text="Android" >}} {{< button link="https://apps.apple.com/id/app/landx/id1453823676" text="IOS" >}}
