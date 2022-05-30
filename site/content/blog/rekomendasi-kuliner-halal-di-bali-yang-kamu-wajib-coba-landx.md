@@ -15,7 +15,7 @@ featuredImage:
   title: Rekomendasi Kuliner Halal di Bali yang Kamu Wajib Coba
   alt: kuliner halal di Bali, rekomendasi makanan bali, masakan indonesia, kuliner
     nusantara
-  src: https://unsplash.com/photos/Be_ZFl-VoqI
+  src: https://images.unsplash.com/photo-1520690594286-1aadf7e7af36?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80
 ---
 Wah seru banget kamu udah liburan aja atau lagi ingin healing sesaat? Bali emang ampuh jadi tempat redamin stres yang menggunung dari tugas kuliah atau pun workload kerja. 
 
@@ -138,3 +138,5 @@ Kamu tertarik miliki saham bisnis?[](https://landx.id/)
 ## [Yuk, kunjungi Ayam Tempong Ibu Sri di LandX](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)
 
 ![ayam tempong bu sri Bali, investasi, kuliner hits bali](https://landx.id/blog/img/landx_ayam-tempong-ibu-sri_ads_1080-x-565px_02.png)
+
+<!--EndFragment-->
