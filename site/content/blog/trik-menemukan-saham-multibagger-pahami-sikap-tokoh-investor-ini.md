@@ -1,7 +1,7 @@
 ---
 author: Vlora Riyandi
-title: Trik Menemukan Saham Multibagger! Pahami Sikap Tokoh Investor Ini
-metaTitle: Trik Menemukan Saham Multibagger! Pahami Sikap Tokoh Investor Ini
+title: "Saham MultiBagger: Kriteria dan Bedanya dengan Saham Gorengan"
+metaTitle: "Saham MultiBagger: Kriteria dan Bedanya dengan Saham Gorengan"
 metaDescription: Saham multibagger adalah saham yang memiliki kemampuan
   memberikan pengembalian lebih dari 100%. Cara menemukan saham multibagger
   adalah dengan melihat
