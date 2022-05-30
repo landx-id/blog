@@ -1,14 +1,16 @@
 ---
 author: Nadya A. Faatihah
-title: Cara Membuat CV ATS Friendly Untuk Mahasiswa Cari Kerja
-metaTitle: Langkah Membuat CV ATS friendly Untuk Mahasiswa
+title: Cara Membuat CV ATS Friendly untuk Mempermudah Mahasiswa Cari Kerja
+metaTitle: Simak Cara Membuat CV ATS Freindly untuk Mempermudah Kamu Cari Kerja
 metaDescription: Apa itu CV ATS friendly? Jika kamu fresh graduate yang sedang
   cari kerja, pelajari cara membuat CV ATS dengan baca artikel ini!
-intro: CV ATS friendly adalah salah satu format CV yang paling banyak digunakan
-  perusahaan dalam seleksi kandidat yang cocok untuk pekerjaan yang dibutuhkan.
-  Karena itu, agar bisa segera dapat kerja, kamu harus mempelajari cara membuat
-  CV ATS friendly yang tepat.
+intro: Yuk simak bagaimana cara menyusun CV yang ATS freindly yang penting untuk
+  kamu pahami dengan baik.
 date: 2022-05-27T16:28:53.314Z
+tag:
+  - Karir
+category:
+  - Karir
 featuredImage:
   src: https://images.unsplash.com/photo-1486312338219-ce68d2c6f44d?crop=entropy&cs=tinysrgb&fm=jpg&ixlib=rb-1.2.1&q=80&raw_url=true&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=872
   alt: Cara Membuat CV ATS Friendly Untuk Mahasiswa Mencari Kerja
@@ -78,14 +80,14 @@ Tidak perlu menuliskan kalimat panjang dan bertele-tele tentang skill yang dimil
 
 Kamu mungkin bingung bagaimana sih caranya menentukan keywords yang sekiranya cocok dengan preferensi perusahaan agar untuk lolos screening software ATS. Selain mencari contoh template CV ATS friendly di internet, kamu bisa memperhatikan contoh kualifikasi lowongan pekerjaan dan keywords yang kemungkinan besar menjadi poin dalam screening CV ATS friendly di bawah ini.
 
-![Keywords CV ATS friendly](img/ats.png "Cara Cari Keyword CV ATS friendly")
-
-<!--EndFragment-->
-
-<!--StartFragment-->
+![Cara mudah membuat CV ATS freindly](img/ats.png "Cara mudah buat CV ATS freindly")
 
 Dari contoh di atas, kamu bisa melihat beberapa hal penting yang diinginkan perekrut dari kandidat. Kemungkinan besar, keywords yang akan di-input ke dalam software ATS akan sangat berkaitan erat dengan skills yang dibutuhkan untuk posisi tersebut. Karena itu, pastikan kamu memahami informasi yang ada di iklan lowongan kerja untuk menyusun CV ATS friendly yang tepat ya!
 
 ## [Tertarik Berbisnis Sejak Muda? Mulailah Investasi Hanya Dengan 1 Juta Melalui LandX Sekarang Juga!](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)
 
-<!--EndFragment-->
+[![miliki bisnis modal kecil cuma dengan 1 jutaan dapat 4 cabang ](https://accountgram-production.sfo2.cdn.digitaloceanspaces.com/landx_ghost/2021/11/jadi-owner-bisnis-hanya-1-jutaan-dengan-cuan-yang-sangat-menjanjikan.png)](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)
+
+> **Yuk Download Aplikasi LandX Sekarang!!!**
+>
+> **[Android](https://play.google.com/store/apps/details?id=store.numoney.landxapp&hl=in&gl=US)[I|OS](https://apps.apple.com/id/app/landx/id1453823676)**
