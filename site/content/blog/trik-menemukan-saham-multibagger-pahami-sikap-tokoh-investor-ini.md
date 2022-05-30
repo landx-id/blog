@@ -77,25 +77,25 @@ Melihat tindakan investasi ketiga tokoh investor ini, bagaimana cara mereka mend
 
 Berikut kriteria saham multibagger, dilansir CNBC Indonesia:
 
-**1. Perusahaan Memiliki Potensi Berkembang**
+### **1. Perusahaan Memiliki Potensi Berkembang**
 
 Kenali industrinya, cek perusahaannya apakah ditopang oleh manajemen yang kuat, laporan keuangan, dan teknik produksi yang baik. Ketika perusahaan memiliki hal-hal tersebut, akan tampak bahwa sebuah perusahaan memiliki potensi berkembang di masa depan.
 
 Karena itu lah, investasi saham lebih cocok dijadikan investasi jangka panjang 5 hingga 10 tahun ke depan. 
 
-2. Periksa DER Perusahaan
+### 2. Periksa DER Perusahaan
 
 Debt to Equity Ratio (DER) merupakan rasio untuk melihat seberapa besar utang dibandingkan dengan total ekuitas perusahaan. Lihat kemampuan perusahaan dalam membayar utangnnya, seberapa besar beban utang yang dimiliki. 
 
 DER yang tinggi memiliki pengaruh pada kinerja perusahaan. DER yang tinggi berarti perusahaan memiliki tingkat utang yang tinggi sehingga berpengaruh pada tingkat keuntungan yang rendah.
 
-3. Pilih Saham dengan Fundamental yang Bagus
+### 3. Pilih Saham dengan Fundamental yang Bagus
 
 Fundamental perusahaan dapat tercermin dari laporan  keuangan perusahaan. Bacalah laporan keuangan emiten yang akan Anda investasikan. Bandingkan dengan laporan keuangan per kuartal atau laporan keuangan per tahun mereka. 
 
 Apakah perusahaan menunjukkan pertumbuhan atau growth setiap tahunnya atau ada momen-momen tertentu yang buat perusahaan memiliki growth tajam. Lihat juga apakah pendapatan utamanya selalu meningkat.
 
-4. Investasi Jangka Menengah
+### 4. Investasi Jangka Menengah
 
 Membeli saham setelah menganalisis dan menilai bahwa perusahaan memiliki potensi baik di masa depan, berarti melakukan investasi jangka menengah hingga panjang. Karena untuk melewati berbagai momen untuk mencapai posisi yang diharapkan tentu tidak bisa secara instan.
 
@@ -117,4 +117,11 @@ Karena investasi saham cenderung memberikan keuntungan yang relatif tinggi di ja
 
 Namun, apakah Anda tahu bahwa ada sistem investasi [equity crowdfunding](https://landx.id/) yang memiliki sistem yang serupa dengan investasi saham. Namun, dapat memberikan Anda kesempatan untuk berinvestasi ke dalam bisnis privat. Kalau belum… [](https://landx.id/)
 
-## [Yuk, Temukan Bisnis Terbaik untuk Investasi Jangka Panjang di LandX](https://landx.id/)
+## [Yuk, Temukan Bisnis Terbaik untuk Investasi Jangka Panjang di Land](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)X
+
+## \
+![miliki bisnis modal kecil cuma dengan 1 jutaan dapat 4 cabang ](https://accountgram-production.sfo2.cdn.digitaloceanspaces.com/landx_ghost/2021/11/jadi-owner-bisnis-hanya-1-jutaan-dengan-cuan-yang-sangat-menjanjikan.png)
+
+Yuk Download Aplikasi LandX Sekarang!!!
+{{< button link="https://play.google.com/store/apps/details?id=store.numoney.landxapp&hl=in&gl=US" text="Android" >}}
+{{< button link="https://apps.apple.com/id/app/landx/id1453823676" text="IOS" >}}
