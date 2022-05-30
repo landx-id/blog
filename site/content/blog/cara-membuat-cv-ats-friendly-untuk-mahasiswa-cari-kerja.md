@@ -78,11 +78,7 @@ Tidak perlu menuliskan kalimat panjang dan bertele-tele tentang skill yang dimil
 
 Kamu mungkin bingung bagaimana sih caranya menentukan keywords yang sekiranya cocok dengan preferensi perusahaan agar untuk lolos screening software ATS. Selain mencari contoh template CV ATS friendly di internet, kamu bisa memperhatikan contoh kualifikasi lowongan pekerjaan dan keywords yang kemungkinan besar menjadi poin dalam screening CV ATS friendly di bawah ini.
 
-
-
 ![Cara membuat CV ATS Freindly](https://media.discordapp.net/attachments/976381310857773066/979791426156105768/ATS.PNG "Membuat CV ATS freindly untuk fresh graduate")
-
-
 
 Dari contoh di atas, kamu bisa melihat beberapa hal penting yang diinginkan perekrut dari kandidat. Kemungkinan besar, keywords yang akan di-input ke dalam software ATS akan sangat berkaitan erat dengan skills yang dibutuhkan untuk posisi tersebut. 
 
@@ -92,6 +88,6 @@ Karena itu, pastikan kamu memahami informasi yang ada di iklan lowongan kerja un
 
 [![miliki bisnis modal kecil cuma dengan 1 jutaan dapat 4 cabang ](https://accountgram-production.sfo2.cdn.digitaloceanspaces.com/landx_ghost/2021/11/jadi-owner-bisnis-hanya-1-jutaan-dengan-cuan-yang-sangat-menjanjikan.png)](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)
 
-> **Yuk Download Aplikasi LandX Sekarang!!!**
->
-> **[Android](https://play.google.com/store/apps/details?id=store.numoney.landxapp&hl=in&gl=US)\*\***[I|OS](https://apps.apple.com/id/app/landx/id1453823676)\*\*
+> Yuk Download Aplikasi LandX Sekarang!!!
+> {{< button link="https://play.google.com/store/apps/details?id=store.numoney.landxapp&hl=in&gl=US" text="Android" >}}
+> {{< button link="https://apps.apple.com/id/app/landx/id1453823676" text="IOS" >}}
