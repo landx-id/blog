@@ -39,9 +39,11 @@ Di saat suatu kondisi tak terduga terjadi, banyak saham perusahaan mengalami ker
 
 Saham multibagger adalah saham yang memiliki kemampuan memberikan pengembalian lebih dari 100%. Saham ini berbeda, saham-saham multibagger memiliki nilai yang berpotensi memberikan keuntungan besar dari tahun ke tahun.
 
+Bagger saham adalah saham yang memberikan return hingga 10x sehingga saham bagger merupakan saham dari perusahaan-perusahaan yang memiliki pertumbuhan secara pesat. Oleh sebab itu, saham bagger/ multibagger menjadi salah satu saham yang banyak dicari oleh investor dan trader.
+
 Untuk menemukan jenis saham multibagger ternyata memiliki range-time atau jangka waktu yang panjang sehingga dapat memberi keuntungan. Seperti cara tokoh-tokoh investasi inspiratif yang menyikapi pergerakan saham dengan strategi yang smart.
 
-Mari kenalan dulu dengan tokoh investor saham berikut.
+Mari kenalan dulu dengan tokoh investor saham berikut yang ini:
 
 ## Tokoh Investor Saham yang Bisa Jadi Inspirasi Anda
 
@@ -73,7 +75,7 @@ Melihat tindakan investasi ketiga tokoh investor ini, bagaimana cara mereka mend
 
 > [Baca juga profil Lo Kheng Hong](https://landx.id/blog/intip-profil-lo-kheng-hong-investor-saham-warren-buffett-landx/?utm_source=artikelmultibagger&utm_medium=blog&utm_campaign=klikblog)
 
-## Trik Menemukan Saham Multibagger
+## Trik Menemukan Saham Multibagger untuk Investasi Jangka Panjang
 
 Berikut kriteria saham multibagger, dilansir CNBC Indonesia:
 
