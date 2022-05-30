@@ -80,7 +80,7 @@ Kamu mungkin bingung bagaimana sih caranya menentukan keywords yang sekiranya co
 
 
 
-![](https://cdn.discordapp.com/attachments/976381310857773066/979791426156105768/ATS.PNG)
+![Cara membuat CV ATS Freindly](https://media.discordapp.net/attachments/976381310857773066/979791426156105768/ATS.PNG "Membuat CV ATS freindly untuk fresh graduate")
 
 
 
