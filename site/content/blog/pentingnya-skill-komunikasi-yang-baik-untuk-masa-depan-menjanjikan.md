@@ -11,6 +11,7 @@ intro: Skill komunikasi tidak terbatas pada kemampuan bicara saja. Jika ingin
 date: 2022-05-26T13:51:40.822Z
 tag:
   - Instrumen Investasi
+  - Karir
 category:
   - Keuangan
 featuredImage:
