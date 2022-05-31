@@ -1,7 +1,7 @@
 ---
 author: Nadya A. Faatihah
 title: Bentuk-bentuk Badan Usaha di Indonesia yang Perlu Dipelajari
-metaTitle: Jenis-jenis Badan Usaha di Indonesia
+metaTitle: Mengenal Jenis-jenis Badan Usaha di Indonesia
 metaDescription: Memahami bentuk-bentuk badan usaha adalah yang paling penting
   untuk memastikan legalitas bisnis. Ketahui lebih lengkap lewat artikel ini!
 intro: Badan Usaha adalah seluruh kegiatan yang dijalankan oleh badan usaha
