@@ -1,6 +1,6 @@
 ---
 author: Vlora Riyandi
-title: Memahami Konsep Strategi Scalping Dalam Trading | Investasi LandX
+title: "Scalping Adalah: Apa Itu Scalping & Strategi Scaling dalam Trading"
 metaTitle: Memahami Konsep Strategi Scalping Dalam Trading | Investasi LandX
 metaDescription: Scalping adalah kegiatan seorang trader yang sering membeli dan
   menjual saham dalam waktu singkat bahkan hitungan menit saja. Tips scalper
@@ -9,10 +9,18 @@ intro: Scalping adalah kegiatan seorang trader yang sering membeli dan menjual
   saham dalam waktu singkat bahkan hitungan menit saja. Tips menjadi scalper
   ada..
 date: 2022-06-02T08:06:58.816Z
+tag:
+  - Robot Trading
+  - Investasi Saham
+  - Tips Investasi Saham
+  - Tips Investasi
+category:
+  - Investasi
+  - Keuangan
 featuredImage:
   title: "Scalping Dalam Trading: Definisi, Indikator, Risiko dan Tips Menjadi
     Scalper"
-  src: https://unsplash.com/photos/qwtCeJ5cLYs
+  src: https://images.unsplash.com/photo-1526628953301-3e589a6a8b74?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=806&q=80
   alt: apa itu scalping, apa itu trading, startegi scalping, scalping dalam trading
 ---
 Kita tahu ada dua garis besar dalam strategi investasi yaitu strategi investasi jangka panjang dan jangka pendek. Pelaku setiap strategi sama-sama memiliki motif mendapatkan keuntungan, tidak ada strategi yang salah. Kali ini [LandX](https://landx.id/) akan bahas salah satu teknik strategi investasi jangka pendek.
@@ -21,7 +29,7 @@ Investasi jangka pendek biasa dilakukan oleh investor yang memiliki profil risik
 
 Pelaku investasi trading disebut sebagai trader. Salah satu teknik yang sering dilakukan oleh para trader adalah scalping. Apa itu scalping? Yuk, scroll bawah dikit.
 
-## Definisi Scalping Dalam Trading
+## Definisi Scalping dalam Trading
 
 Scalping adalah kegiatan seorang trader yang sering membeli dan menjual saham dalam waktu singkat bahkan hitungan menit saja. Scalper adalah seorang trader yang melakukan strategi scalping.
 
@@ -31,7 +39,7 @@ Namun, scalping tentu juga bisa menjadi strategi investasi yang menguntungkan ji
 
 Karena scalping dilakukan dalam waktu yang sangat singkat, scalping tidak direkomendasikan untuk individu dengan pekerjaan harian dan aktivitas rutin. Scalping belum tentu merupakan strategi yang ideal. Sebaliknya, investasi jangka panjang dengan target keuntungan yang lebih besar lebih cocok. 
 
-**Apakah Scalping Saham Ilegal?** Scalping saham adalah strategi trading yang legal. Scalping banyak digunakan oleh investor perorangan dan institusional. 
+> **Apakah Scalping Saham Ilegal?** Scalping saham adalah strategi trading yang legal. Scalping banyak digunakan oleh investor perorangan dan institusional. 
 
 Namun, sayangnya teknik scalping memiliki celah untuk digunakan secara curang. Seperti yang telah dicatat oleh SEC, seperti ketika seorang pelaku pasar merekomendasikan sebuah saham sehingga menyebabkan harga melonjak. Kemudian menjualnya dengan harga yang meningkat untuk menghasilkan keuntungan bagi diri sendiri.
 
@@ -39,7 +47,7 @@ Namun, sayangnya teknik scalping memiliki celah untuk digunakan secara curang. S
 
 Seorang scalper profesional biasanya memiliki kemampuan analisis teknikal saham yang mumpuni. Berikut tiga indikator analisis teknikal yang ideal untuk peluang jangka pendek:
 
-1. ### Moving Average Ribbon Entry Strategy
+### 1. Moving Average Ribbon Entry Strategy
 
 Strategi moving average memiliki tujuan untuk melihat trend sebuah saham. Apakah saham bergerak dalam trend bullish, bearis atau sideways.
 
@@ -47,13 +55,13 @@ Strategi moving average memiliki tujuan untuk melihat trend sebuah saham. Apakah
 * Trend bearish adalah sebuah kondisi pasar saham sedang mengalami tren turun atau melemah. 
 * Trend sideways mengacu pada kondisi pasar ketika harga saham tidak menunjukkan trend tertentu (cenderung mendatar).
 
-2. ### Relative Strength/Weakness Exit Strategy
+### 2. Relative Strength/Weakness Exit Strategy
 
 Scalping memiliki risiko karena saham yang diamati memiliki volatilitas tinggi. Lantas bagaimana seorang scalper tahu kapan harus mengambil keuntungan (profit taking) atau memotong kerugian (cut loss)?
 
 Salah satu cara cepat dan menghemat waktu scanning melihat opportunity di market adalah dengan menerapkan strategi teknikal relative strength/weakness exit strategy ini.
 
-3. ### Multiple Chart Scalping
+### 3. Multiple Chart Scalping
 
 Multiple chart scalping adalah teknik penggunaan beberapa grafik chart dan time frame untuk menghitung arah pasar saat ini. Scalper akan menggunakan teknik ini ketika ingin mengidentifikasi arah tren, sebelum memasuki pasar (entry).
 
@@ -75,7 +83,7 @@ Perlu diingat, banyak terselubung saham gorengan dengan sifatnya memiliki volati
 
 Istilah nyangkut dalam saham artinya investor terlanjur membeli saham di suatu harga namun ternyata harga saham tersebut jatuh turun dan lama untuk pulih kembali.
 
-**Cara Mencegah Saham Nyangkut**
+## **Cara Mencegah Saham Nyangkut**
 
 Lantas gimana caranya agar mencegah uang saham nyangkut dan jauh dari saham jenis gorengan? Seorang stock analyst, Joseph Gabetua, membagikan satu tips penting bagi para trading teknik scalper. Terutama bagi pemula yang mau merasakan dampak ombak saham volatilitas tinggi.
 
@@ -121,4 +129,10 @@ Buat kamu yang belum sempat mencoba investasi scalping saham, maksimalkan dana k
 
 Berinvestasi jangka panjang juga bisa merasa santai dan menunggu kehadiran hasil cuan dengan [investasi bisnis](https://landx.id/) di [crowdfunding](https://landx.id/). [Tertarik investasi jangka panjang crowdfunding](https://landx.id/)?
 
-## [Yuk, Investasi Bisnis dan Tunggu Keuntungannya Sambil Santai](https://landx.id/)
+## [Yuk, Investasi Bisnis dan Tunggu Keuntungannya Sambil Santai](https://landx.id/(https://landx.id/project/utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog))
+
+[![Yuk mulai patungan bisnis menguntungkan jangka panja g bersama LandX](https://accountgram-production.sfo2.cdn.digitaloceanspaces.com/landx_ghost/2021/09/Equity-Crowdfunding-di-Indonesia-1--3.png)](https://landx.id/project/utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)
+
+> Yuk Download Aplikasi LandX Sekarang!!!
+> {{< button link="https://play.google.com/store/apps/details?id=store.numoney.landxapp&hl=in&gl=US" text="Android" >}}
+> {{< button link="https://apps.apple.com/id/app/landx/id1453823676" text="IOS" >}}
