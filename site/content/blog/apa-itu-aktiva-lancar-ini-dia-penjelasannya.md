@@ -1,20 +1,29 @@
 ---
 author: Nadya A. Faatihah
-title: Apa Itu Aktiva Lancar? Ini Dia Penjelasannya
-metaTitle: Pengertian Aktiva Lancar dan Cara Menghitung Aktiva
+title: Yuk Pahami Apa Itu Aktiva Lancarr, Jenis dan Cara Menghitungnya
+metaTitle: "Aktiva Lancar: Yuk Pahami Apa Itu Aktiva Lancar Beserta Jenisnya"
 metaDescription: Aktiva lancar adalah faktor yang menentukan kelancaran bisnis
-  perusahaan. Cari tahu apa itu aktiva lancar dan cara menghitung aktiva
-  sekarang juga!
+  perusahaan. Cari tahu apa itu aktiva lancar dan cara menghitung aktiva lancar
+  di laporan
 intro: Aktiva atau lebih dikenal dengan aset adalah komponen paling utama dalam
   sebuah laporan keuangan perusahaan. Terdapat dua macam aktiva, yaitu aktiva
   tidak lancar dan aktiva lancar. Dalam laporan keuangan perusahaan, aktiva
   lancar dan tidak lancar ini dapat menunjukkan kekayaan dan kestabilan sebuah
   perusahaan.
 date: 2022-06-02T06:32:17.049Z
+tag:
+  - Rasio Keuangan
+  - Investasi
+  - Tips Investasi
+  - Rasio Solvabilitas
+category:
+  - Keuangan
 featuredImage:
   src: https://images.unsplash.com/photo-1617329636938-90cf1b12c279?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80
-  alt: Pengertian Aktiva Lancar dan Aktiva Tidak Lancar
-  title: "Jenis Aktiva Lancar "
+  alt: Aktiva lancar adalah salah satu komponen penting dalam laporan keuangan
+    yang penting untuk kamu pahami dengan baik
+  title: Yuk pahami apa itu rasio keuangan dan cara menghitungnya agar investasi
+    kamu menjadi lebih mudah
 ---
 <!--StartFragment-->
 
