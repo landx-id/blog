@@ -1,6 +1,6 @@
 ---
 author: Nadya A. Faatihah
-title: Yuk Pahami Apa Itu Aktiva Lancarr, Jenis dan Cara Menghitungnya
+title: Yuk Pahami Apa Itu Aktiva Lancar, Jenis dan Cara Menghitungnya
 metaTitle: "Aktiva Lancar: Yuk Pahami Apa Itu Aktiva Lancar Beserta Jenisnya"
 metaDescription: Aktiva lancar adalah faktor yang menentukan kelancaran bisnis
   perusahaan. Cari tahu apa itu aktiva lancar dan cara menghitung aktiva lancar
