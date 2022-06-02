@@ -25,25 +25,15 @@ featuredImage:
   title: Yuk pahami apa itu rasio keuangan dan cara menghitungnya agar investasi
     kamu menjadi lebih mudah
 ---
-<!--StartFragment-->
-
 Aktiva lancar adalah komponen paling penting dalam kelancaran bisnis perusahaan. Definisi yang dimaksud dari apa itu aktiva lancar adalah kepemilikan aset dari perusahaan yang berupa kas dan sumber lain yang dapat dicairkan, dijual, atau dinilai dengan uang. Aset tersebut juga bisa dipakai habis dalam satu siklus kegiatan akuntansi perusahaan.
-
-
 
 Pahami pengertian aktiva lancar dan aktiva tetap, jenis dan komponen aktiva tidak lancar dan lancar, serta cara menghitung aktiva secara lengkap melalui artikel berikut ini.
 
-
-
-## Pengertian Aktiva Tidak Lancar dan Aktiva Lancar
+## Pengertian Aktiva Lancar dan Aktiva Tidak Lancar
 
 Aktiva atau lebih dikenal dengan aset adalah komponen paling utama dalam sebuah laporan keuangan perusahaan. Terdapat dua macam aktiva, yaitu aktiva tidak lancar dan aktiva lancar. Dalam laporan keuangan perusahaan, aktiva lancar dan tidak lancar ini dapat menunjukkan kekayaan dan kestabilan sebuah perusahaan. 
 
-
-
 Aktiva lancar adalah aset sebuah perusahaan yang mudah untuk diubah menjadi uang tunai sehingga aktiva lancar ini dapat dimanfaatkan untuk diuangkan dalam kurun waktu kurang dari satu siklus akuntansi. Umumnya aset lancar atau aktiva lancar ini digunakan untuk perusahaan melaksanakan kegiatan operasional sehari-hari.
-
-
 
 Aktiva tidak lancar atau tidak lancar adalah aset yang tidak dapat langsung dicairkan menjadi uang tunai. Umumnya, aset dalam aktiva tidak lancar membutuhkan waktu yang cukup lama untuk dicairkan. Berbeda dengan aktiva lancar, aset dalam aktiva tidak lancar tidak dapat diukur dalam satuan nilai mata uang.
 
@@ -73,8 +63,6 @@ Contoh beban dibayar di muka ini adalah biaya sewa, premi asuransi karyawan, per
 
 Persediaan dagang bisa dikategorikan ke dalam aktiva lancar karena merupakan jumlah barang yang belum terjual dan bernilai ekonomi. Jika nantinya barang tersebut terjual, maka uang hasil penjualan tersebut dapat langsung mengisi kas perusahaan. 
 
-
-
 ## Jenis Aktiva Tidak Lancar
 
 Aset atau aktiva tidak lancar dipisahkan ke dalam tiga macam kategori, yaitu aset tetap, aset tidak berwujud, dan investasi jangka panjang. Berikut adalah penjelasannya.
@@ -88,8 +76,6 @@ Aset ini adalah aset yang berwujud dan jika dihitung dalam satuan nilai uang mak
 Seperti namanya, aset ini tidak memiliki wujud yang dapat dilihat secara fisik tetapi dapat dirasakan manfaat ekonominya. Karena itu, aset ini sering kali disebut sebagai hak istimewa. Contohnya adalah sebagai berikut.
 
 * **Hak Cipta** adalah hak yang diberikan oleh pemerintah akan sebuah karya intelektual yang diciptakan atas nama individu atau pun perusahaan.
-
-
 * **Hak Paten** atau hak tunggal yang diberikan pemerintah kepada individu atau kelompok atas penemuan yang bermanfaat bagi masyarakat luas.
 * **Hak Merek Dagang** atau hak yang diberikan pemerintah atas penggunaan nama dan lambang usaha.
 * **Hak Kontrak** atau hak yang diberikan oleh pihak tertentu kepada pihak lain untuk penggunaan aset selama jangka waktu yang disepakati.
@@ -122,19 +108,16 @@ Tidak hanya bagi pemilik perusahaan, memahami cara menghitung aktiva atau aset t
 
 Bagi investor data ini sangat penting sebagai acuan untuk pengambilan keputusan dalam penanaman modal investasi. Untuk itu, berikut adalah simulasi cara menghitung aktiva dalam laporan keuangan perusahaan.
 
-![]()
+![Cara menghitung aktiva lancar dan tidak lancar](https://media.discordapp.net/attachments/976381310857773066/981812374606610442/total_aktiva_lancar_PT_XYZ.PNG "Cara menghitung aktiva lancar")
 
-![]()
-
-\
-<!--StartFragment-->
-
-
+![Rumus mengitung Aktiva Lancar dan tidak lancar ](https://media.discordapp.net/attachments/976381310857773066/981812374954725416/rumus_aktiva_lancar.PNG "rumus menghitung aktiva dan passiva")
 
 Dari sebuah laporan keuangan, aset atau aktiva lancar dapat berguna sebagai salah satu data dasar untuk menentukan performa perusahaan dalam mengelola asetnya. Karena itu, perhitungan aset atau aktiva lancar sebuah perusahaan perlu dilakukan secara periodik untuk memastikan keberlangsungan dan kestabilan jalannya bisnis.
 
 ## [Temukan Opsi Investasi Menjanjikan Hanya Dengan Modal 1 Juta di LandX!](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)
 
-<!--EndFragment-->
+[![miliki bisnis modal kecil cuma dengan 1 jutaan dapat 4 cabang ](https://accountgram-production.sfo2.cdn.digitaloceanspaces.com/landx_ghost/2021/11/jadi-owner-bisnis-hanya-1-jutaan-dengan-cuan-yang-sangat-menjanjikan.png)](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)
 
-<!--EndFragment-->
+> Yuk Download Aplikasi LandX Sekarang!!!
+> {{< button link="https://play.google.com/store/apps/details?id=store.numoney.landxapp&hl=in&gl=US" text="Android" >}}
+> {{< button link="https://apps.apple.com/id/app/landx/id1453823676" text="IOS" >}}
