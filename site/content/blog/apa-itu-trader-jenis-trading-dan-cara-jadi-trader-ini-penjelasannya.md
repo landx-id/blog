@@ -1,39 +1,39 @@
 ---
 author: Nadya A. Faatihah
-title: Apa Itu Trader, Jenis Trading, dan Cara Jadi Trader? Ini Penjelasannya
-metaTitle: Penjelasan Apa Itu Trader, Jenis Trading, dan Cara Jadi Trader
+title: Yuk Pahami Apa Itu Trader, Jenis, dan Cara Jadi Trader untuk Pemula
+metaTitle: Yuk Simak Penjelasan Apa Itu Trader dan Jenis-jenisnya
 metaDescription: Trader adalah profesi yang menjanjikan keuntungan besar dalam
   waktu singkat namun, pahami dulu jenis trading dan cara jadi trader strategis
   ya!
 intro: >
   Trader adalah sebutan orang yang melakukan kegiatan trading. Seorang trader
   akan melakukan jual beli dalam waktu singkat agar mendapatkan keuntungan
-  sebesar-besarnya dengan berfokus pada sentimen dan kondisi pasar.
+  sebesar-besarnya dengan berfokus pada sentimen dan kondisi pasar. 
 date: 2022-06-02T12:02:26.743Z
+tag:
+  - Cara Investasi Saham
+  - investasi saham
+  - investasi keuangan
+  - pilihan investasi
+  - tips investasi
+category:
+  - Investasi
 featuredImage:
   src: https://images.unsplash.com/photo-1518186233392-c232efbf2373?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=774&q=80
-  alt: Penjelasan Apa Itu Trader
-  title: Cara Jadi Trader
+  alt: Yuk pahami apa itu trader dan cara jadi trader untuk pemula
+  title: Memahami jenis-jenis trader dengan baik
 ---
 <!--StartFragment-->
 
 Apa itu trader? Trader adalah sebutan orang yang melakukan kegiatan trading. Ada beberapa jenis trader berdasarkan instrumen investasinya, seperti trader saham, forex, dan crypto. Baca terus artikel ini untuk tahu banyak tentang tipe atau jenis trading, serta manfaat trader atau keuntungan menjadi trader.
 
-
-
 ## Apa yang Dilakukan Seorang Trader?
 
 Trader adalah orang yang menjualbelikan instrumen investasi dalam waktu singkat. Sekilas memang trader terkesan mirip dengan investor. Namun, perbedaannya terletak pada strategi dan pola pikir yang dipilih ketika membeli dan menjual instrumen investasi. 
 
-
-
 Investor cenderung melihat aspek fundamental instrumen investasi sebelum membeli. Aspek ini meliputi kinerja perusahaan, seperti laporan keuangan yang sehat dan konsistensi pembagian dividen. Semantara itu, tujuan seorang trader adalah melakukan jual beli dalam waktu singkat agar mendapatkan keuntungan sebesar-besarnya. Untuk itu, fokus seorang trader adalah sentimen dan kondisi pasar.
 
-
-
 Umumnya, seorang investor membeli instrumen investasi seminiminalnya untuk jangka waktu selama 1-3 tahun. Sementara itu, apa yang dilakukan seorang trader adalah berfokus pada membeli instrumen investasi saat harga turun, lalu menjual dengan cepat jika terdapat momentum yang memicu harganya naik. Momentum tersebut biasanya berhubungan dengan kondisi politik, ekonomi, dan tren pasar usaha yang berlaku.
-
- 
 
 ## Beragam Jenis Trading
 
@@ -43,11 +43,7 @@ Apa yang dimaksud dengan trading atau pengertian trading adalah proses transaksi
 
 Trading kripto adalah kegiatan jual beli aset crypto melalui platform online trading. Crypto adalah mata uang digital yang bisa diperjualbelikan nilainya ke dalam mata uang dollar atau pun rupiah. Seorang trader crypto mendapatkan keuntungan dari harga jual yang lebih tinggi daripada ketika saat membeli. 
 
-
-
 Perlu diketahui kalau tingkat perubahan harga perdagangan atau volatilitas pada trading crypto ini cenderung sangat tinggi. Karena itu, seorang trader crypto harus mengalokasikan banyak waktu dan perhatian untuk bisa terus mengikuti pergerakan pasar dan menemukan momentum terbaik untuk membeli dan menjual asetnya.
-
-
 
 ### 2. Trading Saham
 
@@ -71,7 +67,7 @@ Bentuk komoditas yang populer untuk diperdagangkan dengan sistem trading adalah 
 
 Karena itu, dalam trading komoditas seperti emas, ketelitian dan fokus seorang trader adalah hal yang harus dimiliki dalam memahami fenomena yang memengaruhi grafik harga emas, khususnya kondisi yang terjadi di Amerika Serikat.
 
-## Cara Jadi Trader
+## Cara Jadi Trader untuk Pemula
 
 Skill yang dibutuhkan seorang trader adalah keterampilan analisis data, ketelitian, dan cara berpikir kritis untuk mengambil keputusan dalam membeli sebuah instrumen investasi untuk kegiatan trading. Selain membaca data, seorang trader adalah orang yang bisa memahami signifikansi antara isu sosio-politik dan kultural sebuah negara dan pengaruhnya terhadap fluktuasi sebuah instrumen investasi.
 
@@ -101,6 +97,6 @@ Namun, kerugian dari menjadi seorang trader utamanya dipengaruhi karena tingkat 
 
 Itu dia berbagai penjelasan dasar tentang kegiatan trading. Memang menjadi seorang trader adalah profesi yang menawarkan keuntungan besar dengan waktu singkat sehingga terdengar sangat menjanjikan. Namun, tidak dapat dipungkiri prospek menggiurkan ini dibarengi dengan risiko kerugian yang tinggi juga. 
 
-## [Yuk Coba Berinvestasi Untuk Dapat Dividen Rutin Menjanjikan Hanya Dengan Modal 1 Juta Melalui LandX!](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)
+## [Yuk Coba Berinvestasi untuk Dapat Dividen Rutin Menjanjikan Hanya dengan Modal 1 Juta Melalui LandX!](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)
 
-<!--EndFragment-->
+[![miliki bisnis modal kecil cuma dengan 1 jutaan dapat 4 cabang ](https://accountgram-production.sfo2.cdn.digitaloceanspaces.com/landx_ghost/2021/11/jadi-owner-bisnis-hanya-1-jutaan-dengan-cuan-yang-sangat-menjanjikan.png)](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)
