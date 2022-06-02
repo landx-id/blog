@@ -1,6 +1,6 @@
 ---
 author: Nadya A. Faatihah
-title: Apa yang Dimaksud Inflasi? Ini Konsep dan Penyebab Inflasi
+title: Apa Itu Inflasi? Simak Pengertian dan Penyebab Terjadinya Inflasi
 metaTitle: Apa yang dimaksud inflasi? Pelajari Konsep dan Penyebab Inflasi
 metaDescription: " Apa itu inflasi dan dampaknya bagi perekonomian? Pelajari
   konsep dan penyebab inflasi untuk menghindari dampaknya dengan baca artikel
@@ -10,59 +10,51 @@ intro: Inflasi adalah keadaan perekonomian negara di mana ada kecenderungan
   berdampak bagi masyakat. Untuk itu, Anda perlu memahami pengertian dan
   konsepnya agar Anda bisa melakukan persiapan menghadapi inflasi.
 date: 2022-05-30T16:23:06.058Z
+tag:
+  - Laju Inflasi
+  - Inflasi
+  - diversifikasi dalam investasi
+  - Strategi Investasi
+category:
+  - Investasi
+  - Keuangan
 featuredImage:
   src: https://images.unsplash.com/photo-1627155596311-c90f02e25402?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80
   alt: Pengertian Inflasi dan Konsep Inflasi
   title: Memahami Pengertian Inflasi dan Penyebab Inflasi
 ---
-<!--StartFragment-->
+
 
 Apa itu inflasi? Dilansir dari Bank Indonesia (BI), pengertian inflasi adalah kenaikan harga barang dan jasa secara umum dan terus menerus dalam jangka waktu tertentu. Penyebab inflasi ini pun disebabkan karena banyak faktor. Karena itu, agar lebih memahami lebih lanjut, Anda perlu membaca keseluruhan penjelasan apa yang dimaksud inflasi melalui artikel ini.
 
-
-
 ## Pengertian Inflasi
 
-Menurut Kamus Besar Bahasa Indonesia (KBBI), penyebab inflasi diartikan sebagai kemerosotan nilai uang (kertas) karena banyaknya dan cepatnya uang (kertas) beredar sehingga menyebabkan naiknya harga barang-barang.
-
-
+> Menurut Kamus Besar Bahasa Indonesia (KBBI), penyebab inflasi artinya kemerosotan nilai uang (kertas) karena banyaknya dan cepatnya uang (kertas) beredar sehingga menyebabkan naiknya harga barang-barang.
 
 Namun, arti inflasi lain yang dilansir dari Badan Pusat Statistik (BPS) menyebut bahwa inflasi adalah keadaan perekonomian negara di mana ada kecenderungan kenaikan harga-harga dan jasa dalam waktu panjang. Penyebab inflasi ini karena tidak seimbangnya arus uang dan barang.
 
-
-
 Kenaikan harga sendiri di Indonesia sebenarnya kondisi yang wajar terjadi apalagi jika mendekati hari raya. Namun, kenaikan harga secara musiman tidak dapat dikategorikan sebagai inflasi. Ketika kebutuhan hari raya meningkat, harga produk dan jasa pun secara beringingan turut meningkat.
-
-
 
 Terdapat kondisi spesifik yang harus terjadi agar kenaikan harga dapat dikatakan sebagai inflasi. Secara umum, konsep inflasi adalah kondisi kenaikan harga karena terlalu banyaknya uang yang beredar di masyarakat lebih banyak daripada yang dibutuhkan ini adalah fenomena penyebab inflasi yang utama. Namun, kenaikan angka inflasi dapat dibedakan menjadi beberapa kategori sebagai berikut.
 
-
-
-* Inflasi ringan, yaitu tingkat laju inflasi kurang dari 10% per tahun.
-* Inflasi sedang, tingkat laju inflasi di antara 10% - 30% per tahun.
-* Inflasi berat, yaitu tingkat laju inflasi berkisar antara 30% – 100% per tahun.
-* Hiperinflasi, yaitu ketika tingkat laju inflasi mencapai lebih dari 100% per tahun.
+> * Inflasi ringan, yaitu tingkat laju inflasi kurang dari 10% per tahun.
+> * Inflasi sedang, tingkat laju inflasi di antara 10% - 30% per tahun.
+> * Inflasi berat, yaitu tingkat laju inflasi berkisar antara 30% – 100% per tahun.
+> * Hiperinflasi, yaitu ketika tingkat laju inflasi mencapai lebih dari 100% per tahun.
 
 ## Cara Menghitung Inflasi
+
+Agar kita memahami konsep inflasi dengan lebih baik, maka kita harus paham bagaimana perhitungan inflasi. Dalam konsep perhitungan inflasi faktor penyebab inflasi menjadi komponen yang diperhatikan dengan baik.
 
 Untuk mengetahui penyebab inflasi, perlu ada perhitungan inflasi sesuai dengan tingkatannya. Inflasi terjadi jika tingkatan inflasi ini dapat dihitung dengan indikator Indeks Harga Konsumen (IHK), lalu pengukuran ini dikelompokkan ke dalam 7 kelompok pengeluaran berikut.
 
 1. Bahan Makanan
-
 2. Makanan Jadi, Minuman, dan Tembakau
-
 3. Perumahan
-
 4. Sandang
-
 5. Kesehatan
-
 6. Pendidikan dan Olahraga
-
 7. Transportasi dan Komunikasi
-
-
 
 Dalam proses cara mengukur inflasi, sebuah negara memiliki formula perhitungan atau rumus inflasi yang digunakan. Jika terdapat tren kenaikan harga terus menerus dari produk atau jasa yang termasuk ke dalam 7 kelompok di atas, maka pemerintah akan mengacu pada indikator berikut.
 
@@ -72,11 +64,7 @@ Dalam proses cara mengukur inflasi, sebuah negara memiliki formula perhitungan a
 * Indeks biaya hidup yang merupakan perhitungan dari rata-rata biaya hidup di masyarakat.
 * Perubahan harga PDB atau Produksi Domestik Bruto.
 
-
-
 Untuk di Indonesia sendiri, jika salah satu dari indikator di atas sudah diketahui, maka perhitungan laju inflasi akan dilakukan oleh Badan Pusat Statistik (BPS). Dari hasil hitungan, angka yang muncul akan menunjukkan klasifikasi tentang laju inflasi seperti berikut. Sebagai gambaran, berikut salah satu rumus menghitungnya.
-
-
 
 Misalnya, Anda ingin mencari tahu tingkat kenaikan inflasi pada harga beras di tahun 2010 dan 2019. Harga beras  pada tahun 2011 adalah Rp8000 per kg, sedangkan harga beras pada tahun 2021 sebesar Rp15000 per kg. Maka perhitungan kenaikan tingkat inflasinya adalah sebagai berikut.
 
@@ -112,7 +100,7 @@ Namun, sebagai masyarakat Anda bisa melakukan tindakan untuk menghindari dan men
 
 Singkatnya, dengan Anda mengalokasikan dana untuk berinvestasi, dana tersebut akan meningkat nominalnya sehingga ketika nanti inflasi terjadi, dana yang Anda miliki pasti akan ikut meningkat jauh dari modal awal investasi. Seiring dengan peningkatan pendapatan dari investasi, semakin leluasa juga Anda dalam memiliki opsi untuk menabung, menyiapkan dana hari tua, atau kebutuhan lainnya.
 
-## Peluang Investasi Dengan Modal Minim
+## Peluang Investasi dengan Modal Minim
 
 Tidak seperti dulu, sekarang instrumen investasi dapat diakses oleh siapa pun dan dimana pun. Dulu investasi identik dengan membutuhkan nominal alokasi dana besar untuk logam mulia, obligasi, properti, saham, atau deposito. Pada era sekarang, terdapat opsi untuk investasi menjanjikan dengan modal minim misalnya reksa dana atau [equity crowdfunding](https://landx.id/). 
 
@@ -122,10 +110,12 @@ Equity crowdfunding pada dasarnya hanya menerbitkan efek berupa saham yang ditaw
 
 **[LandX](https://landx.id/)** merupakan salah satu platform equity crowdfunding yang sedang berproses menjadi securities crowdfunding. Tentunya, platform ini telah berpengalaman melakukan crowdfunding bagi berbagai **[bisnis potensial di berbagai sektor industri](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog).**
 
-
-
 Jadi, jika Anda ingin tahu lebih banyak lagi tentang investasi dengan skema ini, pastikan untuk berinvestasi melalui platform yang terpercaya, aman, dan pastinya mengantongi izin OJK seperti LandX ya!
 
-## [Mulai Persiapan Menghadapi Inflasi Dengan Investasi Modal 1 Juta di LandX Sekarang Juga!](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)
+## [Mulai Persiapan Menghadapi Inflasi dengan Investasi Modal 1 Juta di LandX Sekarang Juga!](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)
+
+<!--StartFragment-->
+
+[![miliki bisnis modal kecil cuma dengan 1 jutaan dapat 4 cabang ](https://accountgram-production.sfo2.cdn.digitaloceanspaces.com/landx_ghost/2021/11/jadi-owner-bisnis-hanya-1-jutaan-dengan-cuan-yang-sangat-menjanjikan.png)](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)
 
 <!--EndFragment-->
