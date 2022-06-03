@@ -7,6 +7,11 @@ metaDescription: LandX SIGAP–Siap Galakin Penerbit adalah bentuk tanggapan kam
 intro: LandX SIGAP–Siap Galakin Penerbit adalah bentuk tanggapan kami terhadap
   masukan dari setiap investor project bisnis di platform LandX.
 date: 2022-06-03T03:20:34.411Z
+tag:
+  - LandX
+  - Securities Crowdfunding
+category:
+  - Cara Investasi di Securities Crowdfunding
 featuredImage:
   title: "LandX SIGAP untuk Investor: Siap Galakin Penerbit!"
   src: img/2667824.jpg
@@ -18,7 +23,7 @@ Oleh sebab itu, kami menghadirkan **fitur Kinerja Aset** agar setiap suara inves
 
 **Kami mengajak setiap investor project bisnis di LandX untuk memberikan review berupa masukan ataupun laporan kepada pihak Penerbit melalui fitur Kinerja Aset.** Berikut kami berikan panduan memberikan review atau ulasan langsung kepada pihak Penerbit:
 
-![](https://lh3.googleusercontent.com/dDQ-i-LNd5QsVMlOuOZV16368fNBDnU6loLTijrGhnH9ajGZZ6bE8bGoWrijUjWYtYfAlmXgdd8vrFeTN6O0rZfqqYZ6aeFN92cc1kxsYT_41Ezc22BFQKK0-DnRpzIBy1J4laoHiAUiZtx6nw)
+![Kinerja Aset LandX](https://lh3.googleusercontent.com/dDQ-i-LNd5QsVMlOuOZV16368fNBDnU6loLTijrGhnH9ajGZZ6bE8bGoWrijUjWYtYfAlmXgdd8vrFeTN6O0rZfqqYZ6aeFN92cc1kxsYT_41Ezc22BFQKK0-DnRpzIBy1J4laoHiAUiZtx6nw "Fitur Kinerja Aset di LandX")
 
 * Akses **<https://kinerja.landx.id/>** 
 * Klik kolom pencarian kode saham atau nama project bisnis
