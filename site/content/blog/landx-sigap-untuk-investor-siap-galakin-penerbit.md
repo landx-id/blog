@@ -53,4 +53,4 @@ Fitur ‘Ulasan’ bertujuan memberikan Anda ruang sebagai investor untuk menila
 
 Masukan dan laporan dari semua investor dipastikan akan sampai ke telinga penerbit untuk dapat menjadi pertimbangan atau pun ditindaklanjuti. Kami berkomitmen agar Anda sebagai investor dapat terhubung dan mengetahui progres bisnis yang Anda danai secara nyata.
 
-## Mari Berikan Ulasan Langsung Kepada Penerbit Melalui Fitur Kinerja Aset
+## [Mari Berikan Ulasan Langsung Kepada Penerbit Melalui Fitur Kinerja Aset](https://kinerja.landx.id/?utm_source=blog&utm_medium=artikel&utm_campaign=landxsigap)
