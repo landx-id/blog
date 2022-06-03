@@ -1,7 +1,7 @@
 ---
 author: Nadya A. Faatihah
-title: Pasiva Adalah Utang? Ini Penjelasan Lengkapnya!
-metaTitle: Pasiva Adalah Utang yang Harus Dimiliki Perusahaan
+title: Pasiva Adalah Utang? Yuk Simak Penjelasan Apa Itu Pasiva
+metaTitle: "Pasiva Adalah: Memahami Apa Itu Pasiva dan Jenis-jenisnya"
 metaDescription: Apakah pasiva adalah utang? Total pasiva perusahaan bukan
   berarti penanda performa buruk sebuah perusahaan. Baca artikel ini untuk
   memahaminya!
@@ -10,28 +10,29 @@ intro: Pasiva adalah utang yang harus diselesaikan oleh perusahaan dalam satu
   sebagai modal usaha yang di masa depan yang diharapkan akan menghasilkan
   keuntungan yang lebih besar.
 date: 2022-06-03T06:19:24.130Z
+tag:
+  - Rasio Keuangan
+  - Rasio Solvabilitas
+  - Valuasi Saham
+  - Mengatur Keuangan
+category:
+  - Keuangan
 featuredImage:
   src: https://images.unsplash.com/photo-1554224154-26032ffc0d07?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=826&q=80
-  alt: Apakah Pasiva Adalah Utang?
+  alt: Yuk simak apa itu pasiva dan cara menghitung pasiva dalam laporan keuangan
   title: Penjelasan Pasiva Adalah Utang Penting Bagi Perusahaan
 ---
-<!--StartFragment-->
+
 
 Pasiva adalah sejumlah dana pinjaman dari kreditur yang harus dibayar oleh perusahaan sesuai kesepakatan. Komponen yang termasuk ke dalam liabilitas atau jenis pasiva adalah seluruh utang yang sengaja dibuat dalam akuntansi perusahaan untuk meningkatkan aktivitas bisnis perusahaan.
 
-
-
 Dalam neraca akuntansi perusahaan, hadirnya total pasiva lancar adalah penunjang dalam sebuah periode akuntansi. Hasil perhitungan aktiva dan pasiva adalah kewajiban yang harus dilakukan untuk memahami kondisi keuangan perusahaan. Data ini nantinya akan menunjukkan kestabilan dan prospek jangka panjang perusahaan. Selain itu, perhitungan ini dibutuhkan sebagai data transparansi bagi para pemegang saham. 
-
-
 
 Baca terus artikel ini untuk lebih mendalami pemahaman tentang pasiva!
 
 ## Apa Itu Pasiva Lancar?
 
 Pasiva lancar adalah utang yang harus diselesaikan oleh perusahaan dalam satu periode akuntansi atau satu tahun. Keputusan perusahaan berutang dalam bentuk pasiva adalah untuk digunakan sebagai modal usaha yang di masa depan cenderung akan menghasilkan keuntungan yang lebih besar.
-
-
 
 Komponen yang termasuk kelompok pasiva adalah utang atau liabilitas. Berdasarkan jangka waktunya, kelompok pasiva ini terbagi menjadi utang jangka panjang (long term liabilities) dan utang jangka pendek (current liabilities). Berikut adalah informasi tentang jenis pasiva.
 
@@ -58,8 +59,6 @@ Komponen pasiva ini adalah penghasilan perusahaan atas jasanya kepada pihak keti
 ### 5. Penghasilan yang Ditangguhkan (Deferred Liability atau Deferred Credit)
 
 Deferred Revenue adalah pendapatan yang diterima di muka atas barang atau jasa yang yang belum dikirimkan atau dikerjakan.
-
-
 
 Dalam neraca akuntansi, deferred liability adalah suatu kewajiban dan bukan sebagai aset. Jika jasa atau barang tersebut telah dikirimkan kepada konsumen, maka pasiva ini baru bisa disebut sebagai pendapatan dalam laporan laba-rugi.
 
@@ -119,10 +118,12 @@ Dari sebuah laporan keuangan perusahaan, utang (pasiva) tidak melulu memiliki ar
 
 Karena itu, pasiva adalah salah satu komponen paling penting yang harus dimiliki oleh sebuah perusahaan dalam neraca akuntasi. Jika dibarengi dengan pengelolaan aset (aktiva) dan utang (pasiva) yang baik, sebuah perusahaan mampu mendapatkan keuntungan maksimal bagi badan usaha itu sendiri dan juga investornya.
 
-
-
 ## [Temukan Opsi Investasi Menjanjikan Hanya Dengan Modal 1 Juta di LandX!](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)
 
+<!--StartFragment-->
 
+[![miliki bisnis modal kecil cuma dengan 1 jutaan dapat 4 cabang ](https://accountgram-production.sfo2.cdn.digitaloceanspaces.com/landx_ghost/2021/11/jadi-owner-bisnis-hanya-1-jutaan-dengan-cuan-yang-sangat-menjanjikan.png)](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)
 
-<!--EndFragment-->
+> Yuk Download Aplikasi LandX Sekarang!!!
+> {{< button link="https://play.google.com/store/apps/details?id=store.numoney.landxapp&hl=in&gl=US" text="Android" >}}
+> {{< button link="https://apps.apple.com/id/app/landx/id1453823676" text="IOS" >}}
