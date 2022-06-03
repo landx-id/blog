@@ -19,7 +19,7 @@ featuredImage:
 ---
 **LandX SIGAP**–Siap Galakin Penerbit adalah bentuk tanggapan kami terhadap masukan dari setiap investor project bisnis di platform LandX. Kami memahami kebutuhan setiap investor atas penjelasan penggunaan modal yang diberikan kepada manajemen project bisnis.
 
-Oleh sebab itu, kami menghadirkan **fitur Kinerja Aset** agar setiap suara investor langsung terhubung, dibaca dan wajib ditindaklanjuti oleh pihak Penerbit.
+Oleh sebab itu, kami menghadirkan **kolom ulasan** di dalam fitur **Kinerja Aset** agar setiap suara investor langsung terhubung, dibaca dan wajib ditindaklanjuti oleh pihak Penerbit.
 
 **Kami mengajak setiap investor project bisnis di LandX untuk memberikan review berupa masukan ataupun laporan kepada pihak Penerbit melalui fitur Kinerja Aset.** Berikut kami berikan panduan memberikan review atau ulasan langsung kepada pihak Penerbit:
 
