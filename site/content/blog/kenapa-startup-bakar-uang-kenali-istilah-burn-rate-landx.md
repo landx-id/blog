@@ -44,13 +44,13 @@ Putaran pendanaan startup (funding) dari investor berkali-kali hingga ratusan do
 
 Dirangkum dari berbagai sumber, berikut tujuan startup melakukan kegiatan bakar uang yang telah [LandX](https://www.landx.id/) rangkum. Beberapa alasan startup bakar uang ialah meningkatkan brand awareness, loyalitas pelanggan, dan tentunya berusaha menguasai pangsa pasar (market share).
 
-1. ### Meningkatkan Band Awareness
+### 1. Meningkatkan Band Awareness
 
 Memberikan promosi potongan harga hingga 50%, gratis biaya pengiriman, serta hadiah berbagai event berupa elektronik canggih merupakan cara perusahaan startup agar dilirik calon konsumen.
 
 Brand awareness adalah seberapa familiar konsumen terhadap produk Anda. tingkat familiar ini bisa berdasarkan logo, tagline yang dipakai, atau pun packaging yang ditampilkan.
 
-2. ### Menguasai Market Share 
+### 2. Menguasai Market Share 
 
 Kegiatan bakar uang yang dilakukan pelaku startup memiliki tujuan untuk meraih dan menguasai pangsa pasar (market share). 
 
@@ -58,7 +58,7 @@ Sebagai pelaku baru yang menawarkan produk yang telah ada atau mengusik keberada
 
 Memberikan berbagai promosi untuk menggoda para konsumen agar mau mencoba dan menggunakan produk dari startup. Membuat para konsumen beralih dari kompetitor sebanyak-banyaknya hingga menguasai pasar. 
 
-3. ## Meraih Customer Loyalty
+## 3. Meraih Customer Loyalty
 
 Studi dari Manilall (2014) mengungkapkan bahwa kemasan, harga, dan brand awareness berpengaruh langsung terhadap loyalitas pelanggan (brand loyalty). 
 
@@ -74,7 +74,7 @@ Banyak orang beranggapan bahwa strategi bakar uang (burn rate) yang dilakukan pe
 
 Bahkan strategi bakar duit startup ini dapat membuat valuasi miliaran dolar tersebut tersungkur mendekati angka 0. Mengutip dari cuitan twitter akun @taktekbum yang populer dikalangan “budak korporat”, yuk kita telusuri beberapa hal yang mendasari anggapan ini:
 
-1. **DUMPING**
+**1. DUMPING**
 
 Pastinya Anda familiar lah ya dengan kegiatan startup yang berikan promosi potongan harga hingga 100% di awal kemunculannya. Tidak berhenti disitu, promosi tersebut juga diiringi benefit lain berupa produk gratis hingga gratis ongkos pengiriman.
 
@@ -82,17 +82,17 @@ Serangan promosi bertubi-tubi yang pasti buat Anda sebagai target konsumennya ik
 
 Singkatnya, dumping adalah kebijakan memberikan harga rendah dan murah dibawah harga pasar guna menguasai pangsa pasar tersebut. Bahkan memberikan harga dibawah batas margin alias perusahaan jual rugi.
 
-2. **KOMPETITOR IKUT DUMPING**
+**2. KOMPETITOR IKUT DUMPING**
 
 Jika konsumen mulai melirik dan beralih menggunakan produk dari sebuah perusahaan? Bayangkan jika Anda adalah perusahaan dengan jenis produk yang sama alias kompetitor, kira-kira kebijakan apa yang akan Anda lakukan?
 
 Bisa diyakinkan salah satu opsi paling kuat adalah menawarkan promosi yang sejenis. Memberikan potongan harga agar konsumen loyal dan berbagai benefit lainnya. ‘Politik dumping’ pun akan terjadi berketerusan.
 
-3. **ENDLESS DUMPING DAN NO PROFIT**
+**3. ENDLESS DUMPING DAN NO PROFIT**
 
 Sebuah perusahaan melakukan dumping diikuti para kompetitor akan menyebabkan endless dumping. Dumping yang memberikan harga dibawah margin dan tidak menampakkan garis finish pun tentu berakibat perusahaan tidak juga mendapat profit.
 
-4. **RENTETAN DUMPING PENUTUP ENDLESS DUMPING**
+**4. RENTETAN DUMPING PENUTUP ENDLESS DUMPING**
 
 Agar kegiatan dumping dapat berjalan terus, pendanaan startup tentu harus dijaga. Karena itu, putaran pendanaan investasi beronde-ronde akan terus berjalan. 
 
@@ -100,7 +100,7 @@ Namun, besaran investasi dari eksternal yang diterima tentu akan membuat kepemil
 
 Pergantian orang-orang dibarisan manajemen mulai dari low hingga high akan membuat operasional terasa less-mature. Karena kestabilan dan arahan penanggung jawab yang sering berubah.
 
-5. **VALUASI PALSU**
+**5. VALUASI PALSU**
 
 Banyak startup telah mengumumkan dirinya miliki valuasi miliaran dolar. Nyatanya, angka tersebut berasal dari target pendanaan yang dipresentasikan (pitching) kepada investor. 
 
@@ -108,13 +108,13 @@ Ini dapat terjadi karena startup menggunakan metrik GMV (Gross Merchandise Value
 
 GMV menjadi tak berarti jika tidak dicerminkan pada cashflow para shareholder. Padahal pendanaan dari sharerholder belum kunjung menunjukkan penerimaan dividen.
 
-6. **PELAYANAN YANG MERAGUKAN KEPUASAN PELANGGAN**
+**6. PELAYANAN YANG MERAGUKAN KEPUASAN PELANGGAN**
 
 Kepuasan pelanggan (customer experience) menjadi poin penting yang diperhatikan setiap perusahaan startup. Setiap konsumen sangat berharga bagi perusahaan, sehingga elemen customer service menjadi pion-pion terdepan untuk menjaga churn rate.
 
 Namun, tak jarang terjadi customer experience pada layanan dari perusahaan startup sering tercoreng oleh aplikasi yang belum matang dan penuh bug. Selain itu, kendala uang customer yang hilang hingga pembagian komisi bersama mitra yang meragukan rasa keadilan.
 
-7. **WAHAM KARENA MERASA BESAR**
+**7. WAHAM KARENA MERASA BESAR**
 
 Merasa besar, kuat, tak tertandingi karena miliki titel sang startup unicorn juga dapat membahayakan perusahaan-perusahaan besar ini. Rasa yang terlalu berlebihan dapat membuat seseorang akan melewatkan kerikil-kerikil yang ternyata memberi guncangan.
 
