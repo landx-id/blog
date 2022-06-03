@@ -30,22 +30,24 @@ Baca terus artikel ini untuk lebih paham tentang modus bisnis merugikan ini, bes
 
 Untuk memahami lebih dalam tentang konsep monkey business, ilustrasi singkat ini adalah penggambaran relevan mengenai monkey business:
 
-> Suatu hari, Pengusaha X dari kota A mengunjungi daerah B yang memiliki hutan lebat yang menjadi habitat utama kucing hutan. Setelah itu, Pengusaha A mengumumkan kepada warga daerah B bahwa ia akan membeli kucing hutan yang ditangkap oleh warga seharga Rp50,000 per ekor dengan alasan akan menjualnya di kota A.
->
-> Warga yang sebelumnya tidak merasa kucing hutan ini bisa menjadi sumber penghasilan, tentu saja berbondong-bondong untuk menangkap kucing tersebut dan menjualnya ke Pengusaha X. Hingga ribuan ekor hewan ini pun berada dalam kurungan milik Pengusaha X.
->
-> Setelah beberapa waktu berjalan, kucing hutan ini semakin langka ditemukan di hutan tersebut. Namun, Pengusaha X ini mengumumkan bahwa harga kucing hutan ini naik menjadi Rp500,000 per ekornya. Selain itu, Pengusaha X ini perlu kembali ke kota A dan menunjuk Asisten Y untuk mengurus kucing hutan miliknya sampai ia kembali. 
->
-> Sekarang perhatian warga hanya tertuju pada keuntungan besar yang ditawarkan oleh si Pengusaha X. Mereka hanya terfokus untuk mencari kucing hutan tersebut meskipun kesulitan karena memang sudah semakin langka. 
->
-> Di tengah keinginan warga untuk mendapat keuntungan besar, Asisten Y ini menawarkan bahwa ia akan menjual kucing hutan yang dikurung oleh Pengusaha A secara sembunyi-sembunyi kepada warga seharga Rp300,000 per ekor.
->
-> Warga pun berbondong-bondong membeli kucing hutan dari Asisten Y dengan anggapan bahwa tidak apa mengeluarkan Rp300,000 karena ketika dijual, mereka tetap dapat keuntungan Rp200,000. Warga yang memiliki tabungan, menghabiskan uangnya untuk membeli puluhan ekor sekaligus. Asisten Y pun menerima uang dari warga dan ribuan ekor kucing hutan yang berada di kurungan semakin sedikit. 
->
-> Beberapa waktu berlalu, Asisten Y kembali ke kota A dengan alasan akan menjemput pengusaha X. Banyak warga yang sekarang mengandangi puluhan ekor kucing hutan menunggu kembalinya Pengusaha A dengan penuh pengharapan akan keuntungan. Namun, Pengusaha X dan Asisten Y yang telah mengantongi keuntungan dari uang warga tentunya tidak pernah kembali lagi.
->
-> Selain warga yang dirugikan secara finansial, dampak lingkungan yang ditimbulkan karena ekosistem hutan yang rusak pun menjadi tanggungan warga. Karena kucing hutan yang merupakan karnivora utama di rantai makanan hutan ditangkap, populasi hama yang meningkat drastis akhirnya menyerang dan merusak perkebunan warga
+- - -
 
+Suatu hari, Pengusaha X dari kota A mengunjungi daerah B yang memiliki hutan lebat yang menjadi habitat utama kucing hutan. Setelah itu, Pengusaha A mengumumkan kepada warga daerah B bahwa ia akan membeli kucing hutan yang ditangkap oleh warga seharga Rp50,000 per ekor dengan alasan akan menjualnya di kota A.
+
+Warga yang sebelumnya tidak merasa kucing hutan ini bisa menjadi sumber penghasilan, tentu saja berbondong-bondong untuk menangkap kucing tersebut dan menjualnya ke Pengusaha X. Hingga ribuan ekor hewan ini pun berada dalam kurungan milik Pengusaha X.
+
+Setelah beberapa waktu berjalan, kucing hutan ini semakin langka ditemukan di hutan tersebut. Namun, Pengusaha X ini mengumumkan bahwa harga kucing hutan ini naik menjadi Rp500,000 per ekornya. Selain itu, Pengusaha X ini perlu kembali ke kota A dan menunjuk Asisten Y untuk mengurus kucing hutan miliknya sampai ia kembali. 
+
+Sekarang perhatian warga hanya tertuju pada keuntungan besar yang ditawarkan oleh si Pengusaha X. Mereka hanya terfokus untuk mencari kucing hutan tersebut meskipun kesulitan karena memang sudah semakin langka. 
+
+Di tengah keinginan warga untuk mendapat keuntungan besar, Asisten Y ini menawarkan bahwa ia akan menjual kucing hutan yang dikurung oleh Pengusaha A secara sembunyi-sembunyi kepada warga seharga Rp300,000 per ekor.
+
+Warga pun berbondong-bondong membeli kucing hutan dari Asisten Y dengan anggapan bahwa tidak apa mengeluarkan Rp300,000 karena ketika dijual, mereka tetap dapat keuntungan Rp200,000. Warga yang memiliki tabungan, menghabiskan uangnya untuk membeli puluhan ekor sekaligus. Asisten Y pun menerima uang dari warga dan ribuan ekor kucing hutan yang berada di kurungan semakin sedikit. 
+
+Beberapa waktu berlalu, Asisten Y kembali ke kota A dengan alasan akan menjemput pengusaha X. Banyak warga yang sekarang mengandangi puluhan ekor kucing hutan menunggu kembalinya Pengusaha A dengan penuh pengharapan akan keuntungan. Namun, Pengusaha X dan Asisten Y yang telah mengantongi keuntungan dari uang warga tentunya tidak pernah kembali lagi.
+
+Selain warga yang dirugikan secara finansial, dampak lingkungan yang ditimbulkan karena ekosistem hutan yang rusak pun menjadi tanggungan warga. Karena kucing hutan yang merupakan karnivora utama di rantai makanan hutan ditangkap, populasi hama yang meningkat drastis akhirnya menyerang dan merusak perkebunan warga. 
+- - -
 ## Contoh Monkey Business yang Pernah Muncul di Indonesia
 
 Dari ilustrasi di atas, dapat dikatakan bahwa monkey business adalah metode yang digunakan oleh pengusaha licik dengan memanfaatkan kelengahan pembeli atau investor yang terfokus pada iming-iming untung besar. 
