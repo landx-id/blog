@@ -14,7 +14,7 @@ category:
   - Cara Investasi di Securities Crowdfunding
 featuredImage:
   title: "LandX SIGAP untuk Investor: Siap Galakin Penerbit!"
-  src: img/fitur-ulasan-kinerja-aset-2-.jpg
+  src: img/fitur-ulasan-kinerja-aset.jpg
   alt: landx review
 ---
 **LandX SIGAP**–Siap Galakin Penerbit adalah bentuk tanggapan kami terhadap masukan dari setiap investor project bisnis di platform LandX. Kami memahami kebutuhan setiap investor atas penjelasan penggunaan modal yang diberikan kepada manajemen project bisnis.
