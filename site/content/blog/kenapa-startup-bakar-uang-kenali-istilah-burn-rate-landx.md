@@ -30,7 +30,7 @@ Mungkin Anda sering bertanya kenapa startup-startup yang terlihat megah tersebut
 
 Nah, menjawab pertanyaan tersebut, [LandX](https://www.landx.id/) akan bahas terkait tujuan strategi bakar uang startup dan perkiraan dampak yang akan guncang startup level unicorn.
 
-## Startup dan Burn Rate
+## Burn Rate Dalam Startup
 
 Kenapa startup suka bakar duit? Umumnya pendiri startup berangkat hanya dengan ide atau model bisnis. Untuk mengetes apakah ide model bisnis, produk/layanan, tersebut dapat diterima masyarakat (product-market fit), para pendiri startup membutuhkan usaha untuk menarik konsumen dengan gencarkan promosi besar-besaran.
 
@@ -58,7 +58,7 @@ Sebagai pelaku baru yang menawarkan produk yang telah ada atau mengusik keberada
 
 Memberikan berbagai promosi untuk menggoda para konsumen agar mau mencoba dan menggunakan produk dari startup. Membuat para konsumen beralih dari kompetitor sebanyak-banyaknya hingga menguasai pasar. 
 
-## 3. Meraih Customer Loyalty
+### 3. Meraih Customer Loyalty
 
 Studi dari Manilall (2014) mengungkapkan bahwa kemasan, harga, dan brand awareness berpengaruh langsung terhadap loyalitas pelanggan (brand loyalty). 
 
