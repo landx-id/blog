@@ -1,6 +1,6 @@
 ---
 author: Vlora Riyandi
-title: "Scalping Adalah: Apa Itu Scalping & Strategi Scaling dalam Trading"
+title: "Scalping Adalah: Apa Itu Scalping & Strategi Scalping dalam Trading"
 metaTitle: Memahami Konsep Strategi Scalping Dalam Trading | Investasi LandX
 metaDescription: Scalping adalah kegiatan seorang trader yang sering membeli dan
   menjual saham dalam waktu singkat bahkan hitungan menit saja. Tips scalper
