@@ -70,7 +70,7 @@ Dengan kamu sudah mengetahui seputar disposable income, kamu sudah dapat mengatu
 
 Salah satu investasi dengan modal kecil yang dapat kamu sisihkan dari hasil disposable income kamu yaitu melalui investasi dengan patungan bisnis. Dari investasi ini, kamu akan mendapatkan keuntungan berupa deviden dari keuntungan bisnis yang kamu beli sahamnya.
 
-[LandX](https://www.youtube.com/watch?v=ahttps%3A%2F%2Flandx.id%2FOIxbsv9aprU&utm_source=blog&utm_medium=organic+keyword&utm_campaign=blog) merupakan platform [equity crowdfunding](https://www.youtube.com/watch?v=ahttps%3A%2F%2Flandx.id%2FOIxbsv9aprU&utm_source=blog&utm_medium=organic+keyword&utm_campaign=blog) memberikan kamu kesempatan untuk melakukan investasi dengan patungan ke berbagai bisnis menguntungkan dari berbagai sektor di sekitar kamu.
+[LandX](https://landx.id/?utm_source=blog&utm_medium=organic+keyword&utm_campaign=blog) merupakan platform [equity crowdfunding](https://landx.id/?utm_source=blog&utm_medium=organic+keyword&utm_campaign=blog) memberikan kamu kesempatan untuk melakukan investasi dengan patungan ke berbagai bisnis menguntungkan dari berbagai sektor di sekitar kamu.
 
 Jadi, besarkan jumlah disposable income kamu dengan…
 
