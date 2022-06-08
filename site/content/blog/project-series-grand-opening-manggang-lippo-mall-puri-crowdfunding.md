@@ -16,7 +16,11 @@ featuredImage:
 ---
 MangGang telah sukses buka 2 cabang baru bersama investor LandX di AEON BSD dan PIM 3. Terbaru, MangGang resmikan cabang terbarunya yang berlokasi di lantai 1 Lippo Mall Puri, Kembangan Selatan, Jakarta Barat pada 27 Mei lalu.
 
-([Watch this video](https://www.youtube.com/watch?v=OIxbsv9aprU&utm_source=artikel&utm_medium=blog&utm_campaign=mangganglippomall))
+(Watch this video)
+
+{{< youtube id="_-OIxbsv9aprU" >}}
+
+{{< button link="https://www.youtube.com/watch?v=_-v=OIxbsv9aprU&utm_source=artikel&utm_medium=blog&utm_campaign=mangganglippomall" text="Watch This Video" >}}
 
 ## ABOUT MANGGANG
 
