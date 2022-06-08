@@ -18,10 +18,6 @@ MangGang telah sukses buka 2 cabang baru bersama investor LandX di AEON BSD dan 
 
 (Watch this video)
 
-{{< youtube id="_-OIxbsv9aprU" >}}
-
-{{< button link="https://www.youtube.com/watch?v=_-v=OIxbsv9aprU&utm_source=artikel&utm_medium=blog&utm_campaign=mangganglippomall" text="Watch This Video" >}}
-
 ## ABOUT MANGGANG
 
 Popularitas tren asal Negeri Ginseng yang masih terus membara buat makanan ala Korea kian digemari. Bisnis kuliner pun semakin inovatif hadirkan sajian lezat namun tetap praktis seperti MangGang.
