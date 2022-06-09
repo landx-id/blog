@@ -9,10 +9,18 @@ intro: Financial distress adalah kondisi perusahaan yang tidak mampu
   menghasilkan pendapatan yang cukup, sehingga tidak dapat membayar kewajiban
   keuangannya.
 date: 2022-06-07T02:27:48.506Z
+tag:
+  - Laju Inflasi
+  - Inflasi
+  - diversifikasi dalam investasi
+  - Strategi Investasi
+category:
+  - Investasi
+  - Keuangan
 featuredImage:
   title: "Mengenal Financial Distress: Definisi, Penyebab, Jenis dan Cara Mencegah"
-  src: https://unsplash.com/photos/-TRcaFMV5vk
-  alt: apa itu financial distress
+  src: https://images.unsplash.com/photo-1585829364536-ce348dd72ebc?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80
+  alt: Yuk pahami apa itu financial distress beserta penyebab dan cara mengatasinya
 ---
 Setiap tahun berbagai jenis perusahaan lahir dan banyak diantaranya yang berkembang secara cepat dan pesat. Dunia usaha pun semakin kompetitif, setiap perusahaan berusaha memperkuat strategi dan meningkatkan kualitas produk agar tak kalah saing.
 
@@ -24,9 +32,9 @@ Apa itu financial distress? Dalam artikel ini, [LandX](https://landx.id/) akan b
 
 ## Pengertian Financial Distress
 
-Financial distress merupakan istilah yang biasa digunakan dalam keuangan perusahaan. FInancial distress adalah kondisi perusahaan yang tidak mampu menghasilkan pendapatan yang cukup, sehingga tidak dapat memenuhi atau membayar kewajiban keuangannya.
+Financial distress adalah istilah yang biasa digunakan dalam keuangan perusahaan. Financial distress adalah kondisi perusahaan yang tidak mampu menghasilkan pendapatan yang cukup, sehingga tidak dapat memenuhi atau membayar kewajiban keuangannya.
 
-Kesulitan keuangan yang parah dan berkepanjangan dapat mengarah dan menyebabkan likuidasi atau  kebangkrutan. Tahapan awal dari kondisi financial distress yaitu perusahaan cenderung mengalami kesulitan membayar kewajibannya.
+Kondisi financial adalah kesulitan keuangan yang parah dan berkepanjangan dapat mengarah dan menyebabkan likuidasi atau  kebangkrutan. Tahapan awal dari kondisi financial distress yaitu perusahaan cenderung mengalami kesulitan membayar kewajibannya.
 
 Karakteristik dari kondisi financial distress menunjukkan perusahaan sulit membayar utang atau liabilitasnya. Selanjutnya, terdapat kesenjangan aktivitas perusahaan jika dilihat dari komposisi neraca di mana aset cenderung lebih kecil daripada liabilitasnya.
 
