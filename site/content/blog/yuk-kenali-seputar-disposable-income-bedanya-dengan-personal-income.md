@@ -1,12 +1,19 @@
 ---
 author: Della Octavilia
 title: Yuk Kenali Seputar Disposable Income & Bedanya Dengan Personal Income
-metaTitle: Yuk Kenali Seputar Disposable Income & Bedanya Dengan Personal Income
+metaTitle: Yuk Kenali Apa Itu Disposable Income & Bedanya Dengan Personal Income
 metaDescription: Disposable income merupakan sisa bersih dari gaji yang kamu
   terima. Simak seputar disposable income dan cara menghitung serta manfaatnya
 intro: Disposable income merupakan sisa bersih dari gaji yang kamu terima.
   Ketahui seputar disposable income untuk mengatur budgetmu.
 date: 2022-06-08T05:01:55.061Z
+tag:
+  - Mengatur Keuangan
+  - Rasio Keuangan
+  - Manajemen Keuangan
+  - Cashflow
+category:
+  - Keuangan
 featuredImage:
   alt: disposable income, perbedaan personal income
   title: Yuk Kenali Seputar Disposable Income dan Bedanya Dengan Personal Income
@@ -50,13 +57,13 @@ Perbedaan disposable income dengan personal income ialah, jika disposable income
 
 Disposable income memiliki banyak manfaat baik bagi individu atau perusahaan. Berikut merupakan manfaat disposable income yang dapat kamu pelajari:
 
-1. **Mengatur Budgeting**
+**1. Mengatur Budgeting**
 
 Memahami disposable income merupakan kunci kamu dalam mengatur budget (anggaran) yang akan kamu keluarkan setiap bulan atau setiap tahunnya. Alhasil, akan terciptanya finansial yang sehat, dimana gaji yang kamu miliki cukup untuk memenuhi kebutuhan sehari-hari, biaya tak terduga, hingga dapat digunakan sebagai tabungan dan investasi.
 
 Selain itu, mengatur budget juga penting dalam suatu perusahaan. Karena disposable income merupakan alat indikator penentu daya beli dalam masyarakat. Bila disposable income dalam masyarakat menurun, maka daya beli akan menurun. Oleh karena itu, perusahaan akan mengatur budget (anggaran) yang akan dikeluarkan, dan mengurangi jumlah produksi barang. Tetapi, jika disposable income dalam masyarakat naik, dan permintaan bertambah, perusahaan juga akan menambah budget dan melakukan penambahan dalam produksi.
 
-2. **Tolak Ukur Kebijakan Perusahaan**
+**2. Tolak Ukur Kebijakan Perusahaan**
 
 Sama dengan individu, perusahaan juga wajib membayar pajak secara rutin. 
 
@@ -64,7 +71,7 @@ Jadi, apabila disposable income  suatu perusahaan meningkat dan perusahaan bert
 
 Tetapi, bila disposable income yang diperoleh suatu perusahaan menurun, ditambah dengan daya beli masyarakat juga menurun, maka perusahaan akan melakukan pengurangan dalam produksi, dan tenaga kerjanya.
 
-3. **Investasi** 
+**3. Investasi** 
 
 Dengan kamu sudah mengetahui seputar disposable income, kamu sudah dapat mengatur budget kamu untuk setiap bulan, dan sudah terciptanya finansial yang sehat. Kamu ternyata bisa juga loh menambah disposable income kamu, yaitu dengan cara investasi.
 
@@ -75,3 +82,9 @@ Salah satu investasi dengan modal kecil yang dapat kamu sisihkan dari hasil disp
 Jadi, besarkan jumlah disposable income kamu dengan…
 
 ## [Sisakan Disposable Incomemu, dan Mulai Investasi di LandX Sekarang!](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)
+
+<!--StartFragment-->
+
+![miliki bisnis modal kecil cuma dengan 1 jutaan dapat 4 cabang ](https://accountgram-production.sfo2.cdn.digitaloceanspaces.com/landx_ghost/2021/11/jadi-owner-bisnis-hanya-1-jutaan-dengan-cuan-yang-sangat-menjanjikan.png)
+
+<!--EndFragment-->
