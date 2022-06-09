@@ -26,8 +26,6 @@ featuredImage:
 
 Tujuan laporan keuangan perusahaan adalah sebagai informasi menyeluruh tentang proses kinerja keuangan perusahaan dalam periode akuntansi tertentu. Hasil laporan keuangan ini akan digunakan oleh orang yang terlibat di manajemen perusahaan termasuk stakeholder, calon investor, atau partner bisnis.
 
-
-
 Karena itu, terdapat unsur-unsur laporan keuangan yang wajib tertera di dalamnya sesuai dengan jenis laporan keuangan yang disusun oleh perusahaan. Kalau kamu belum punya gambaran soal apa saja unsur laporan hasil usaha, baca terus artikel ini ya!
 
 ## Manfaat Laporan Keuangan Perusahaan
@@ -76,8 +74,6 @@ Unsur-unsur laporan keuangan jenis ini berisi penjelasan lebih rinci soal lapora
 
 Aktiva atau lebih dikenal dengan aset adalah komponen paling utama dalam sebuah laporan keuangan perusahaan. Terdapat dua macam aktiva, yaitu aktiva tidak lancar dan aktiva lancar yang berfungsi untuk menunjukkan kekayaan yang dimiliki sebuah perusahaan. Berikut adalah beberapa unsur yang masuk ke dalam kategori aset.
 
-
-
 * **Kas**
 
 Uang tunai atau kas adalah seluruh aset yang ada di dalam kas perusahaan, atau aset setara dengan kas yang disimpan di bank namun bisa diambil kapan pun. 
@@ -122,8 +118,6 @@ Pelunasan liabilitas jenis ini bisa dibayarkan dalam tenggang waktu yang relatif
 
 Dalam unsur-unsur laporan keuangan, ekuitas dimaknai sebagai selisih nilai antara nilai aset dengan liabilitas atau kewajiban perusahaan. Karena merupakan harta yang jumlahnya diketahui dari hasil perhitungan aset yang dikurangi kewajiban atau liabilitas, ekuitas sering disebut modal.
 
-
-
 Misalnya jika aset perusahaan terus bertambah sementara liabilitasnya tetapi, maka ekuitas perusahaan akan meningkat. Sebaliknya, jika aset perusahaan stagnan tetapi liabilitas bertambah, maka ekuitas akan menurun.
 
 ### 4. Pendapatan
@@ -134,10 +128,12 @@ Pendapatan dalam unsur-unsur laporan keuangan adalah total penerimaan yang dihas
 
 Pengeluaran bisnis termasuk dalam unsur-unsur laporan keuangan yang misalnya adalah upah atau gaji, biaya administrasi, biaya penjualan, biaya depresiasi aset, dan biaya bunga yang dibayarkan atas pinjaman. Singkatnya, pengeluaran adalah biaya yang dikeluarkan perusahaan untuk memproduksi barang, memberikan layanan, atau melakukan aktivitas lain terkait operasional bisnis adalah pengeluaran perusahaan.
 
-
-
 Memahami unsur-unsur laporan keuangan dan fungsinya ini sangat penting, apalagi kalau kamu tertarik untuk mulai investasi atau menjadi pemilik bisnis. Karena itu, agar kamu bisa menyusun strategi bisnis atau berinvestasi dengan prospek menjanjikan, pastikan untuk mempelajari penjelasan soal unsur-unsur laporan keuangan, jenis, hingga fungsinya di atas ya!
 
 ## [Jadi Bos Bisnis Cuan Menjanjikan Cuma Butuh Modal 1 Juta, Mulai Investasi di LandX Sekarang!](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)
+
+<!--StartFragment-->
+
+![miliki bisnis modal kecil cuma dengan 1 jutaan dapat 4 cabang ](https://accountgram-production.sfo2.cdn.digitaloceanspaces.com/landx_ghost/2021/11/jadi-owner-bisnis-hanya-1-jutaan-dengan-cuan-yang-sangat-menjanjikan.png)
 
 <!--EndFragment-->
