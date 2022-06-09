@@ -1,7 +1,7 @@
 ---
 author: Nadya A. Faatihah
 title: Unsur-unsur Laporan Keuangan yang Wajib Dimiliki Perusahaan
-metaTitle: Unsur-unsur Laporan Keuangan dan Penjelasannya
+metaTitle: Unsur-unsur dan Jenis Laporan Keuangan yang Penting Dipahami
 metaDescription: Unsur-unsur laporan keuangan menyajikan informasi
   pertanggungjawaban manajemen perusahaan atas aktivitas perusahaannya. Simak
   penjelasannya!
@@ -9,6 +9,14 @@ intro: Memahami unsur-unsur laporan keuangan dan fungsinya sangat penting,
   apalagi untuk kamu yang tertarik untuk mulai berinvestasi atau menjadi pemilik
   bisnis.
 date: 2022-06-07T08:55:19.351Z
+tag:
+  - Rasio Keuangan
+  - Valuasi Saham
+  - Patungan Bisnis
+  - Investor Pemula
+category:
+  - Investasi
+  - Keuangan
 featuredImage:
   src: https://images.unsplash.com/photo-1628348068343-c6a848d2b6dd?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80
   alt: Unsur Laporan Hasil Usaha dan Penjelasannya
