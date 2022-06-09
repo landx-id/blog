@@ -10,6 +10,13 @@ intro: Manfaat adanya analisis balik modal bagi investor dan pebisnis adalah
   pengambilan kebijakan, hingga prospek kestabilan dan profitabilitas
   perusahaan.
 date: 2022-06-08T07:18:54.347Z
+tag:
+  - Bisnis untuk Pemula
+  - Bisnis Jangka Panjang
+  - Investasi Aman
+category:
+  - Bisnis
+  - Investasi
 featuredImage:
   src: https://images.unsplash.com/photo-1423666523292-b458da343f6a?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=874&q=80
   alt: Manfaat Analisis Balik Modal
