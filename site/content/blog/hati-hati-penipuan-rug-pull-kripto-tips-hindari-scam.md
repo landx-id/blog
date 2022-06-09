@@ -8,10 +8,17 @@ metaDescription: Rug pull dalam crypto adalah sebuah proyek token kripto yang
 intro: Rug pull dalam crypto adalah sebuah proyek token kripto yang dikembangkan
   tiba-tiba ditutup oleh pengembang sehingga seluruh uang investor lenyap.
 date: 2022-06-08T07:30:01.966Z
+tag:
+  - Cryptocurrency
+  - Investasi Kripto
+  - Investasi Pemula
+category:
+  - Investasi
+  - Keuangan
 featuredImage:
   title: Hati-hati Penipuan Rug Pull yang Incar Investor Kripto dan Tips Hindari Scam
   alt: rug pull dalam crypto, rug pull adalah
-  src: https://unsplash.com/photos/Grk4L0ZJeAU
+  src: https://images.unsplash.com/photo-1637597383775-cf7b69e0a9c2?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=869&q=80
 ---
 Cryptocurrency atau kripto semakin digandrungi sebagai instrumen investasi. Investor kripto percaya bahwa kripto memiliki potensi menjadi alat pembayaran yang praktis di masa depan, terutama dengan kehadiran metaverse. 
 
@@ -47,7 +54,7 @@ Decentralized exchange (DEX) memungkinkan siapa pun dapat mendaftarkan token kri
 
 Hati-hati berinvestasi pada kripto, waspadai tanda-tanda berikut agar terhindar dari koin penipuan rug pull kripto.
 
-1. **Hindari Low Liquidity Pool**
+**1. Hindari Low Liquidity Pool**
 
 Liquidity pool adalah sekumpulan token kripto yang terikat dalam sebuah smart contract suatu DeFi sehingga dapat saling bertransaksi jual beli. Waspadai low liquidity pool yang artinya volume transaksi kripto yang terjadi rendah, sehingga mendukung terjadi volatilitas yang tinggi.
 
@@ -57,21 +64,21 @@ Namun, liquidity pool atau kapasitas likuiditas yang berlebihan juga dapat menye
 
 Berbagai sumber menyatakan liquidity pool yang baik dari sebuah decentralized exchange adalah sekiranya ada $1 juta dolar nilai uang yang berinvestasi di sana. Jadi sebaiknya teliti dalam memilih exchange kripto.
 
-2. **Unknown Founders**
+**2. Unknown Founders**
 
 Pendiri token yang tak menunjukkan identitasnya dapat diwaspadai karena menurunkan rasa percaya pada manajemen yang meluncurkan kripto (low credibility).
 
-3. **Extreme Rewards**
+**3. Extreme Rewards**
 
 Promosi besar-besar sebuah token kripto yang melakukan ICO dengan tawaran hadiah luar biasa. Hal ini dilakukan demi menarik perhatian sehingga terlihat token kripto menjanjikan.
 
-4. **Short Lock in Periods**
+**4. Short Lock in Periods**
 
 Lock in period adalah periode penguncian dana investor. Fungsi lock in pada investasi adalah untuk melindungi dana investor agar tidak ditebus dahulu sehingga investor dapat meraup keuntungan investasi.
 
 Minimum sebuah lock in investasi adalah kira-kira 3 tahun pada pasar saham ekuitas. Maka dari itu, periode lock in yang pendek perlu kamu curigai karena uang yang diinvestasikan nantinya bisa ditarik tiba-tiba oleh scammer.
 
-5. **Few Wallet Holders**
+**5. Few Wallet Holders**
 
 Jika hanya ada sedikit jenis pemegang wallet kripto. Artinya besar kemungkinan wallet kripto kamu dihack dan dikuasai dananya. Kenapa bisa?
 
@@ -79,7 +86,7 @@ Situs [Investopedia](https://www.investopedia.com/news/why-storing-bitcoin-singl
 
 Sedangkan ketika hanya memiliki suatu wallet dan semua dana atau token kripto ditaruh di satu tempat, besar kemungkinan wallet kamu akan di hack. Untuk menghindari rug pull gunakanlah hardware wallet, mobile wallet, desktop waller, paper wallet dan web wallet.
 
-6. **Unclear Whitepaper**
+**6. Unclear Whitepaper**
 
 Setiap token koin kripto yang dirilis memiliki dokumen whitepaper yang dapat dibaca oleh siapa pun. Apa yang dimaksud dengan whitepaper dalam kripto?
 
@@ -100,3 +107,9 @@ Selain berinvestasi pada kripto, explore instrumen investasi lainnya sebagai div
 Memiliki saham bisnis potensial dan mendapatkan keuntungan persentase dividen yang dapat dibaca kejelasannya di dokumen prospektus yang ditawarkan. 
 
 ## [Baca Dokumen Prospektus Proyek Bisnis Crowdfunding di Sini](https://landx.id/?utm_source=blog&utm_medium=organic+keyword&utm_campaign=blog)
+
+<!--StartFragment-->
+
+[![miliki bisnis modal kecil cuma dengan 1 jutaan dapat 4 cabang ](https://accountgram-production.sfo2.cdn.digitaloceanspaces.com/landx_ghost/2021/11/jadi-owner-bisnis-hanya-1-jutaan-dengan-cuan-yang-sangat-menjanjikan.png)](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)
+
+<!--EndFragment-->
