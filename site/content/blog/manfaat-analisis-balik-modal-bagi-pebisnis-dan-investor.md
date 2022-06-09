@@ -38,7 +38,7 @@ Dari laporan keuangan, tingkat profitabilitas atau kemampuan perusahaan dalam me
 
 Nilai profit perusahaan bisa ditinjau dari kepemilikan aset dikurangi dengan liabilitas (kewajiban) yang harus dipenuhi perusahaan. Nilai selisih ini adalah modal, yang dari perhitungan tersebut bisa dilihat keuntungan yang diperoleh perusahaan. Singkatnya, manfaat analisis balik modal bagi pebisnis dan investor adalah untuk membandingkan prospek profit dari laporan keuangan investasi di perusahaan satu dengan lainnya,
 
-### 2. *Key Performance Indicator* Untuk Perusahaan
+### 2. *Key Performance Indicator* untuk Perusahaan
 
 Manfaat analisis balik modal bagi pebisnis dan investor juga dapat digunakan untuk mencari key performance indicator bagi seluruh divisi yang ada di dalam perusahaan. Hasil perhitungan ROI yang baik bisa menggambarkan penggunaan aset, manajemen liabilitas, target dan strategi perusahaan, hingga kebijakan yang bisa diambil agar profit dapat ditingkatkan.
 
@@ -76,6 +76,10 @@ Karena itu, agar Anda bisa menyusun strategi bisnis atau berinvestasi dengan pro
 
 ## [Jadi Bos Bisnis Menjanjikan Cuma Butuh Modal 1 Juta, Mulai Investasi di LandX Sekarang!](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)
 
-<!--EndFragment-->
+[![miliki bisnis modal kecil cuma dengan 1 jutaan dapat 4 cabang ](https://accountgram-production.sfo2.cdn.digitaloceanspaces.com/landx_ghost/2021/11/jadi-owner-bisnis-hanya-1-jutaan-dengan-cuan-yang-sangat-menjanjikan.png)](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)
 
-<!--EndFragment-->
+> Yuk Download Aplikasi LandX Sekarang!!!
+>
+> [Android](https://play.google.com/store/apps/details?id=store.numoney.landxapp&hl=in&gl=US)
+>
+> [IOS](https://apps.apple.com/id/app/landx/id1453823676)
