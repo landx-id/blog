@@ -50,7 +50,7 @@ Jika dilihat dari histori perusahaan, karakteristik yang terlihat adalah pendapa
 
 Berbagai faktor penyebab memunculkan peringatan pada beberapa kategori pada jenis-jenis financial distress, yaitu sebagai berikut:
 
-1. ### **Financial Stress Tampak dari Laporan Keuangan**
+### **1. Financial Stress Tampak dari Laporan Keuangan**
 
 Kesehatan perusahaan dapat terlihat dari laporan keuangannya. Cara mendeteksi tanda-tanda masalah termudah adalah melihat bagian laporan arus kas. Ketika pembayaran melebihi pendapatan, artinya arus kas perusahaan negatif. 
 
@@ -58,7 +58,7 @@ Jika arus kas tetap negatif selama periode yang berkelanjutan, itu adalah sinyal
 
 Jadi perhatikan perubahan posisi kas perusahaan di neraca. Tanpa modal baru dari investor atau pemberi pinjaman, perusahaan dalam situasi ini dapat dengan cepat menemukan dirinya dalam masalah keuangan yang serius.
 
-2. ### **Financial Stress Tampak dari Laporan Audit**
+### **2. Financial Stress Tampak dari Laporan Audit**
 
 Utamakan perhatian Anda pada hasil laporan auditor pihak ketiga. Jika laporan menyebutkan ketidaksesuaian dalam praktik akuntansi perusahaan, seperti cara membukukan pendapatan atau memperhitungkan biaya, anggap itu sebagai tanda bahaya.
 
@@ -66,7 +66,7 @@ Laporan audit juga dapat menampakkan kondisi yang mempertanyakan kemampuan perus
 
 Tidak dapat dianggap enteng, auditor yang diganti merupakan tanda pertama bahwa terjadi ketidakwajaran pada data perusahaan yang diolah. Studi akademis juga menemukan bahwa ada banyak auditor mengundurkan diri ketika risiko litigasi meningkat dan kesehatan keuangan perusahaan memburuk—jadi waspadalah terhadap sikap mereka.
 
-3. ### Financial Stress Tampak dari Aktivitas Bisnis
+### 3. Financial Stress Tampak dari Aktivitas Bisnis
 
 Sisi operasional dan manajerial perusahaan juga dapat menunjukkan pertanda peringatan akan kondisi financial distress. Jika perusahaan tidak mengungkapkan laporan keuangan kepada publik, perhatikan sikap atau strategi perusahaan pada perubahan di lingkup ekonomi. 
 
@@ -108,4 +108,8 @@ Bangun dana darurat sejumlah minimal tiga kali pengeluaran Anda dalam satu bulan
 
 Lakukan pengelolaan keuangan yang baik untuk menjaga arus keuangan yang lancar. Membuat anggaran, melunasi utang, hingga rutin menginvestasikan pendapatan yang dapat mencegah kondisi financial distress.
 
-## [Yuk, Cegah Kondisi Financial Distress Melanda dengan Kelola Keuangan yang Baik](https://landx.id/)
+## [Yuk, Cegah Kondisi Financial Distress Melanda dengan Kelola Keuangan yang Baik](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)
+
+[![miliki bisnis modal kecil cuma dengan 1 jutaan dapat 4 cabang ](https://accountgram-production.sfo2.cdn.digitaloceanspaces.com/landx_ghost/2021/11/jadi-owner-bisnis-hanya-1-jutaan-dengan-cuan-yang-sangat-menjanjikan.png)](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)
+
+<!--EndFragment-->
