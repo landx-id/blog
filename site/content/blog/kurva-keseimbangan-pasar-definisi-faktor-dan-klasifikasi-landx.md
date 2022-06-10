@@ -1,18 +1,23 @@
 ---
 author: Vlora Riyandi
-title: "Kurva Keseimbangan Pasar: Definisi, Faktor, dan Klasifikasi | LandX"
-metaTitle: "Kurva Keseimbangan Pasar: Definisi, Faktor, dan Klasifikasi | LandX"
-metaDescription: Keseimbangan pasar adalah keadaan dimana permintaan akan suatu
-  produk dan penawaran suatu produk adalah sama. Yuk, simak faktor yang
-  mempengaruhinya.
+title: "Keseimbangan Pasar (Equibilibrium): Definisi, Faktor, dan Klasifikasi"
+metaTitle: "Equilibrium/ Keseimbangan Pasar: Definisi, Faktor, dan Klasifikasi"
+metaDescription: Keseimbangan pasar/ Equilibrium adalah keadaan dimana
+  permintaan akan suatu produk dan penawaran suatu produk adalah sama.
 intro: Keseimbangan pasar adalah keadaan dimana permintaan akan suatu produk dan
   penawaran suatu produk adalah sama. Yuk, simak faktor yang mempengaruhinya.
 date: 2022-06-10T02:46:26.963Z
+tag:
+  - Inflasi
+  - Laju Inflasi
+category:
+  - Keuangan
+  - Investasi
 featuredImage:
   title: "Kurva Keseimbangan Pasar (Ekuilibrium Pasar): Definisi, Faktor, dan
     Klasifikasi"
   alt: kurva keseimbangan pasar, ekuilibrium pasar
-  src: https://unsplash.com/photos/HYQvV8wWX18
+  src: https://images.unsplash.com/photo-1501523460185-2aa5d2a0f981?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=931&q=80
 ---
 Pada dasarnya penjual atau pengusaha menginginkan menjual barangnya dengan harga setinggi-tingginya. Di sisi lain, pembeli ingin menawar barang/jasa dengan harga serendah-rendahnya. 
 
@@ -38,7 +43,7 @@ Kurva keseimbangan pasar terjadi ketika:
 
 Berikut **kurva keseimbangan pasar (market equilibrium)**:
 
-![](https://lh6.googleusercontent.com/06lPYQw36xtOl5gVvnkVJFPL8eI78C4IVpza_GYjx10uedfOSxCtJOx-CEgi-QkBXzRyGUAMwVsntUhY3_13bnNChhSURP6Lm3nB6kZ1svBlSXgTn-fi2kGvHp9VgfdPybUmGEl5F9taELWZ8w)
+![Cara menghitung titik keseimbangan pasar](https://lh6.googleusercontent.com/06lPYQw36xtOl5gVvnkVJFPL8eI78C4IVpza_GYjx10uedfOSxCtJOx-CEgi-QkBXzRyGUAMwVsntUhY3_13bnNChhSURP6Lm3nB6kZ1svBlSXgTn-fi2kGvHp9VgfdPybUmGEl5F9taELWZ8w "Menghitung titik keseimbangan pasar dengan melihat permintaan dan penawaran")
 
 P = Harga
 
@@ -54,15 +59,15 @@ Pada gambar kurva di atas, titik keseimbangan pasar terjadi pada titik (4,30). A
 
 Equilibrium pasar berbentuk kurva, yang menunjukkan hubungan antara harga suatu barang dan jumlah yang bersedia dibeli konsumen pada harga tersebut. Pergeseran kurva keseimbangan pasar ke kanan terjadi bila penawaran meningkat atau permintaan barang berkurang. Pergeseran kurva terjadi ke kiri ketika penawaran berkurang atau permintaan barang meningkat.
 
-![](https://lh5.googleusercontent.com/mE-Cu6_JT04jzr1aT4lQbsDwzQh9bWcZ47QdnKM3V9IB8RLwwIlrrlZ5JCDpRbOa2LE2kIRpcgL_mqeUpG5N4NNPN-MDIbnA8liSdmA5eKcLACA5n96YQ1Qq8eom4vy7JRxO5umnphLvDOm0jA)
+![Cara menghitung titik keseimbangan pasar](https://lh5.googleusercontent.com/mE-Cu6_JT04jzr1aT4lQbsDwzQh9bWcZ47QdnKM3V9IB8RLwwIlrrlZ5JCDpRbOa2LE2kIRpcgL_mqeUpG5N4NNPN-MDIbnA8liSdmA5eKcLACA5n96YQ1Qq8eom4vy7JRxO5umnphLvDOm0jA "Memahami cara menghitung titik keseimbangan pasar")
 
 Dua keadaan dalam yang terjadi dalam mekanisme pasar di antara titik equilibrium:
 
-1. **Surplus pasokan**
+**1. Surplus pasokan**
 
 Surplus pasokan adalah jumlah barang yang ditawarkan lebih banyak daripada yang diminta. Sehingga terdapat barang yang tidak terjual maksimal.
 
-2. **Shortage pasokan**
+**2. Shortage pasokan**
 
 Shortage pasokan adalah kekurangan jumlah barang yang dijual dan tidak dapat memenuhi permintaan. Shortage terjadi ketika jumlah barang yang diminta lebih banyak daripada jumlah yang disediakan.
 
@@ -80,7 +85,7 @@ Mari kita ingat lagi bahwa keseimbangan pasar terjadi ketika terdapat interaksi 
 
 Dengan berbagai faktor yang mempengaruhi harga keseimbangan pasar, pembeli dan penjual dapat dikelompokkan sebagai berikut:
 
-![](https://lh5.googleusercontent.com/cktjvv98WAS4raa3d1dFxfBGyB8GPgvg3eOJyPh1jMz6y0rqXVT22cLluBd8eWwGN8HtIQa6wel4h7dFIW2Te3ReYGtYwpIMLbZNRbLhBdLtIkdEJK8JEXz2RWySl97F66oF-QM5tcUD9XO93g)
+![Mencari titik keseimbangan pasar yang penting untuk dipahami](https://lh5.googleusercontent.com/cktjvv98WAS4raa3d1dFxfBGyB8GPgvg3eOJyPh1jMz6y0rqXVT22cLluBd8eWwGN8HtIQa6wel4h7dFIW2Te3ReYGtYwpIMLbZNRbLhBdLtIkdEJK8JEXz2RWySl97F66oF-QM5tcUD9XO93g "perhitungan titik keseimbangan pasar ")
 
 1. Pembeli marjinal, adalah pembeli yang memiliki daya beli sama dengan harga keseimbangan.
 2. Penjual marjinal, adalah penjual yang memiliki harga jual sama dengan harga keseimbangan.
@@ -99,15 +104,15 @@ Premi produsen adalah keuntungan bagi penjual karena menjual barang dengan harga
 
 **Klasifikasi konsumen berdasarkan daya beli:**
 
-1. Pembeli Potensial
+1. **Pembeli Potensial**
 
 Pembeli absolut adalah pembeli yang ingin membeli serta memiliki daya beli, namun belum melakukan pembelian.
 
-2. Pembeli Efektif
+2. **Pembeli Efektif**
 
 Pembeli efektif adalah pembeli yang ingin membeli serta memiliki daya beli dan melakukan pembelian.
 
-3. Pembeli Absolut
+3. **Pembeli Absolut**
 
 Pembeli absolut adalah pembeli yang ingin membeli namun tidak disertai daya beli.
 
@@ -117,4 +122,12 @@ Agar pendapatan kita tidak selalu habis untuk dikonsumsi, jaga dan tingkatkan pe
 
 [Berinvestasi](https://landx.id/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog) pada berbagai [instrumen investasi](https://landx.id/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog) demi memaksimalkan keuntungan dari berbagai sisi. Serta sebagai bentuk [diversifikasi portofolio investasi](https://landx.id/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog). 
 
-## Yuk, Jalankan Strategi Diversifikasi dengan Investasi Mulai Hari Ini!
+## [Yuk, Jalankan Strategi Diversifikasi dengan Investasi Mulai Hari Ini!](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog\)
+
+[![miliki bisnis modal kecil cuma dengan 1 jutaan dapat 4 cabang ](https://accountgram-production.sfo2.cdn.digitaloceanspaces.com/landx_ghost/2021/11/jadi-owner-bisnis-hanya-1-jutaan-dengan-cuan-yang-sangat-menjanjikan.png)](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)
+
+<!--EndFragment-->
+
+> Yuk Download Aplikasi LandX Sekarang!!!
+> {{< button link="https://play.google.com/store/apps/details?id=store.numoney.landxapp&hl=in&gl=US" text="Android" >}}
+> {{< button link="https://apps.apple.com/id/app/landx/id1453823676" text="IOS" >}}
