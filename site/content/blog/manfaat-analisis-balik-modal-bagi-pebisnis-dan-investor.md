@@ -68,7 +68,7 @@ Setelah Anda memahami manfaat analisis balik modal bagi pebisnis dan investor, s
 
 Untuk lebih memahami cara perhitungannya, berikut adalah ilustrasi cara mendapatkan nilai ROI dari beberapa investasi.
 
-![Cara Menghitung Analisis Balik Modal](img/cara-menghitung-analisis-balik-modal.png "Cara Menghitung Nilai ROI")
+![Cara melakukan analisis balik modal bagi investor dan pebisnis](img/cara-menghitung-analisis-balik-modal.png "Rumus melakukan analisis balik modal bagi investor dan pebisnis")
 
 Manfaat adanya analisis balik modal bagi investor adalah untuk menemukan prospek profit dari investasi. Sementara bagi pemilik bisnis, analisis balik modal berfungsi sebagai penentu kinerja perusahaan, pengambilan kebijakan, hingga prospek kestabilan dan keuntungan perusahaan.
 
