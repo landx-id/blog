@@ -71,7 +71,7 @@ Menjadi owner suatu bisnis ternama dengan modal Rp 1 jutaan pada [project bisnis
 
 Investasi juga secara mudah hanya melalui aplikasi [LandX](https://landx.id/?utm_source=artikel&utm_medium=blog&utm_campaign=mangganglippomall) pada smartphone kamu. Berinvestasi layaknya belanja online! Jika kamu memiliki pertanyaan yang belum tersedia di website dan aplikasi, [LandX](https://landx.id/?utm_source=artikel&utm_medium=blog&utm_campaign=mangganglippomall) menyediakan fasilitas untuk kamu bisa mendiskusikannya di sini.
 
-## [Mau Investasi Miliki Saham Bisnis? Download Aplikasi LandX Sekarang!](https://landx.id/?utm_source=artikel&utm_medium=blog&utm_campaign=mangganglippomall)
+## [Mau Investasi Miliki Saham Bisnis? Download Aplikasi LandX Sekarang!](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)
 
 <!--StartFragment-->
 
