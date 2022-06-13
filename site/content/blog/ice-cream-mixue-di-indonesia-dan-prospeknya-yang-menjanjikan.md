@@ -1,9 +1,8 @@
 ---
 author: Nadya A. Faatihah
-title: Ice Cream Mixue di Indonesia dan Prospeknya yang Menjanjikan
-metaTitle: Harga Franchise Mixue dan Prospek Bisnisnya
-metaDescription: Brand dan franchise Ice Cream Mixue tengah populer di
-  masyarakat. Tertarik berbisnis atau investasi di brand ini? Simak caranya!
+title: "Franchise Mixue Indonesia: Potensi Bisnis Ice Cream Mixue di Indonesia"
+metaTitle: "Franchise Mixue: Harga dan Cara Membuka Franchise Mixue di Indonesia"
+metaDescription: "Ice cream Mixue "
 intro: Brand Ice Cream Mixue menawarkan rasa mewah dengan harga murah. Semakin
   populer, brand ini memiliki prospek bisnis berkelanjutan yang menjanjikan.
 date: 2022-06-13T02:49:16.568Z
