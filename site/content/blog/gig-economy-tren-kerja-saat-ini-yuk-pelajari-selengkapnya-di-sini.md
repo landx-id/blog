@@ -1,12 +1,17 @@
 ---
 author: Della Oktavilia
-title: Gig Economy Tren Kerja Saat Ini? Yuk, Pelajari Selengkapnya Di sini
+title: "Gig Ekonomi: Kenali Gig Ekonomi dan Jenis Pekerjaan Gig Worker"
 metaTitle: Gig Economy Tren Kerja Saat Ini? Yuk, Pelajari Selengkapnya Di sini
 metaDescription: Gig economi bisa kita kenal dengan sebutan pekerja lepas. Ini
   merupakan tren kerja baru yang sedang berkembang saat ini.
 intro: Gig economy adalah tren kerja yang sedang berkembang di Indonesia. Kenali
   berbagai manfaat jika kamu menjadi bagian dari gig worker
 date: 2022-06-10T09:14:10.074Z
+tag:
+  - Peluang Usaha
+  - Karir
+category:
+  - Bisnis
 featuredImage:
   title: Gig Economy Tren Kerja Saat Ini? Yuk, Pelajari Selengkapnya Di sini
   src: img/gig-economy.jpg
@@ -18,7 +23,7 @@ Banyak dari masyarakat Indonesia saat ini menjadi bagian dari gig economy. Jadi,
 
 Yuk, simak selengkapnya melalui artikel ini!
 
-# Apa itu Gig Economy?
+# Apa Itu Gig Economy?
 
 Mungkin salah satu dari kamu merupakan bagian dari gig economy, namun masih bingung dengan istilah dari gig economy. 
 
@@ -105,4 +110,10 @@ Berdasarkan artikel yang telah kita baca, menjadi seorang pekerja lepas tentunya
 
 LandX merupakan platform equity crowdfunding memberikan kamu kesempatan untuk melakukan investasi modal kecil dengan patungan ke berbagai bisnis yang menguntungan. Kamu bisa melihat berbagai bisnis yang memiliki prospek bagus di LandX, dan tentukan pilihanmu!
 
-## [Demi Masa Depan Cerah dan Sejahterah, Investasi sekarang juga di LandX!](<https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog>)
+## [Demi Masa Depan Cerah dan Sejahterah, Investai Yuk Mulai Investasi Sekarang](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)
+
+<!--StartFragment-->
+
+[![miliki bisnis modal kecil cuma dengan 1 jutaan dapat 4 cabang ](https://accountgram-production.sfo2.cdn.digitaloceanspaces.com/landx_ghost/2021/11/jadi-owner-bisnis-hanya-1-jutaan-dengan-cuan-yang-sangat-menjanjikan.png)](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)
+
+<!--EndFragment-->
