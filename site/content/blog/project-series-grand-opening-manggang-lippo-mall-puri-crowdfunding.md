@@ -8,6 +8,11 @@ metaDescription: Bidik warga Jakarta Barat, MangGang hadirkan sajian daging
 intro: Bidik warga Jakarta Barat, MangGang hadirkan sajian daging panggang ala
   Korea dengan rasa mewah yang praktis bersama para investor di LandX.
 date: 2022-06-08T01:33:59.499Z
+tag:
+  - MANG
+category:
+  - Business
+  - Investasi
 featuredImage:
   title: "  Project Series: Grand Opening MangGang Lippo Mall Puri | LandX
     Crowdfunding"
@@ -17,6 +22,8 @@ featuredImage:
 MangGang telah sukses buka 2 cabang baru bersama investor LandX di AEON BSD dan PIM 3. Terbaru, MangGang resmikan cabang terbarunya yang berlokasi di lantai 1 Lippo Mall Puri, Kembangan Selatan, Jakarta Barat pada 27 Mei lalu.
 
 ([Watch this video](https://www.youtube.com/watch?v=OIxbsv9aprU&utm_source=artikel&utm_medium=blog&utm_campaign=mangganglippomall))
+
+ **{{< youtube id="**OIxbsv9aprU**" >}}**
 
 ## ABOUT MANGGANG
 
