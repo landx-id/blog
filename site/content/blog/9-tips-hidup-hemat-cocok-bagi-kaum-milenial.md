@@ -1,20 +1,26 @@
 ---
 author: Della Octavilia
-title: "9 Tips Hidup Hemat Cocok Bagi Kaum Milenial "
-metaTitle: 9 Tips Hidup Hemat Cocok Bagi Kaum Milenial | LandX
+title: 9 Tips Cara Hidup Hemat yang Cocok untuk Kaum Milenial
+metaTitle: Yuk Simak 9 Tips dan Cara Membangun Gaya Hidup Hemat untuk Milenial
 metaDescription: Generasi millenial harus mulai menerapkan hidup hemat. Berikut
   tips hidup hemat yang cocok bagi generasi milenial
 intro: Apa itu hidup hemat? Hidup hemat adalah gaya hidup yang tidak berlebihan
   dalam segala hal. Saat ini penting bagi generasi milenial untuk menerapkan
   hidup hemat.
 date: 2022-06-13T06:17:24.546Z
+tag:
+  - Mengelola Keuangan
+  - Cara Menabung dengan Benar
+  - Hedonisme
+  - Mengatur Keuangan
+category:
+  - Keuangan
+  - Investasi
 featuredImage:
   title: 9 Tips Hidup Hemat Cocok Bagi Kaum Milenial | LandX
   src: img/cara-hidup-hemat-1-.jpg
-  alt: cara hidup hemat, tips hidup hemat
+  alt: Tips dan cara hidup hemat dalam mengatur keuangan
 ---
-
-
 Kamu termasuk kelahiran tahun 1980-2000an,atau biasa disebut dengan generasi milenial? Tahukah kamu, kalau milenial dianggap sebagai generasi yang kurang bisa menghemat uang dan memiliki gaya hidup boros?
 
 Hal ini disebabkan dengan majunya teknologi yang memudahkan para milenial mendapatkan keinginannya dengan cepat. Semakin majunya teknologi, memberikan generasi milenial ini berbagai kemudahan, termasuk kemudahan dalam menghabiskan uang. Mungkin, kalian para generasi milenial sambil rebahan pun dapat menghabiskan uang dengan mudah.
@@ -119,8 +125,14 @@ Kesadaran ini datang dari generasi milenial yang ingin belajar dan melakukan inv
 
 Walaupun mengalami kenaikan, tetapi masih banyak pula millenial yang rentan dalam finansial. Secara umum masih banyak para milenial yang lebih senang menghabiskan uang demi keinginan mereka.
 
-Jadi, bila kamu ingin belajar hidup hemat, dan dapat menghasilkan uang di masa yang akan datang, kamu dapat memulainya dengan melakukan investasi dari menggunakan modal kecil bersama [LandX](<https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog>) .
+Jadi, bila kamu ingin belajar hidup hemat, dan dapat menghasilkan uang di masa yang akan datang, kamu dapat memulainya dengan melakukan investasi dari menggunakan modal kecil bersama [LandX](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog) .
 
-[LandX](<https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog>) merupakan [platform equity crowdfunding](<https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog>) memberikan kamu kesempatan untuk melakukan investasi modal kecil dengan patungan ke berbagai bisnis yang menguntungan. Kamu bisa melihat berbagai bisnis yang memiliki prospek bagus di [LandX](<https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog>), dan tentukan pilihanmu!
+[LandX](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog) merupakan [platform equity crowdfunding](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog) memberikan kamu kesempatan untuk melakukan investasi modal kecil dengan patungan ke berbagai bisnis yang menguntungan. Kamu bisa melihat berbagai bisnis yang memiliki prospek bagus di [LandX](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog), dan tentukan pilihanmu!
 
-## [Tunjang Gaya Hidup Hemat Untuk Masa Depan Cerah dengan Investasi di LandX Sekarang Juga!](<https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog>)
+## [Tunjang Gaya Hidup Hemat untuk Masa Depan Cerah dengan Investasi di LandX Sekarang Juga!](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)
+
+<!--StartFragment-->
+
+[![miliki bisnis modal kecil cuma dengan 1 jutaan dapat 4 cabang ](https://accountgram-production.sfo2.cdn.digitaloceanspaces.com/landx_ghost/2021/11/jadi-owner-bisnis-hanya-1-jutaan-dengan-cuan-yang-sangat-menjanjikan.png)](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)
+
+<!--EndFragment-->
