@@ -21,7 +21,7 @@ featuredImage:
 ---
 MangGang telah sukses buka 2 cabang baru bersama investor LandX di AEON BSD dan PIM 3. Terbaru, MangGang resmikan cabang terbarunya yang berlokasi di lantai 1 Lippo Mall Puri, Kembangan Selatan, Jakarta Barat pada 27 Mei lalu.
 
-([Watch this video](https://www.youtube.com/watch?v=OIxbsv9aprU&utm_source=artikel&utm_medium=blog&utm_campaign=mangganglippomall))
+(Watch this video)
 
  **{{< youtube id="**OIxbsv9aprU**" >}}**
 
@@ -72,3 +72,9 @@ Menjadi owner suatu bisnis ternama dengan modal Rp 1 jutaan pada [project bisnis
 Investasi juga secara mudah hanya melalui aplikasi [LandX](https://landx.id/?utm_source=artikel&utm_medium=blog&utm_campaign=mangganglippomall) pada smartphone kamu. Berinvestasi layaknya belanja online! Jika kamu memiliki pertanyaan yang belum tersedia di website dan aplikasi, [LandX](https://landx.id/?utm_source=artikel&utm_medium=blog&utm_campaign=mangganglippomall) menyediakan fasilitas untuk kamu bisa mendiskusikannya di sini.
 
 ## [Mau Investasi Miliki Saham Bisnis? Download Aplikasi LandX Sekarang!](https://landx.id/?utm_source=artikel&utm_medium=blog&utm_campaign=mangganglippomall)
+
+<!--StartFragment-->
+
+[![](blob:https://keen-mestorf-9781e3.netlify.app/8a6d4e4e-b6d0-477a-93dc-c47dcd3f4fe8)](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)
+
+<!--EndFragment-->
