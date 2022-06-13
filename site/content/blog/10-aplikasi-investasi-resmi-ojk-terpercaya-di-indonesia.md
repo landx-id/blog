@@ -17,29 +17,17 @@ featuredImage:
 
 Digitalisasi menghadirkan banyak aplikasi investasi aman dan terpercaya secara online. Jika tidak ingin terperosok ke jurang kerugian, penting untuk memilih aplikasi investasi terpercaya, yaitu aplikasi investasi yang terdaftar OJK. Gak usah bingung lagi! Baca artikel ini untuk tahu rekomendasi aplikasi investasi resmi OJK!
 
-
-
 ## Rekomendasi Aplikasi Investasi Online Terpercaya
 
-Perkembangan teknologi dan informasi menghadirkan berbagai platform atau aplikasi investasi yang menawarkan instrumen investasi yang beragam juga. Mulai dari saham di Bursa Efek, saham di equity crowdfunding, emas digital, reksadana, P2P Lending (peer-to-peer landing), SBN (Surat Berharga Negara), hingga obligasi. 
-
-
+Perkembangan teknologi dan informasi menghadirkan berbagai platform atau aplikasi investasi yang menawarkan instrumen investasi yang beragam juga. Mulai dari saham di Bursa Efek, saham di equity crowdfunding, emas digital, reksadana, P2P Lending (p*eer-to-peer lending*), SBN (Surat Berharga Negara), hingga obligasi. 
 
 Sebelum memilih instrumen investasi, pastikan aplikasi investasi yang akan digunakan telah mengantongi izin Otoritas Jasa Keuangan (OJK) sebagai lembaga independen yang mempunyai fungsi, tugas, dan wewenang pengaturan, pengawasan, pemeriksaan, dan penyidikan di sektor Jasa Keuangan. Ini dia beberapa rekomendasi investasi resmi OJK.
-
-
 
 ### 1. LandX
 
 LandX adalah platform aplikasi investasi resmi OJK dengan izin POJK nomor 37/POJK.04/2018. Sebagai aplikasi investasi terbaik dan berpengalaman di bidang **[equity crowdfunding](https://landx.id/)**, LandX menawarkan skema investasi penerbitan efek berupa saham yang ditawarkan kepada investor guna pendanaan pengembangan bisnis UMKM. 
 
-
-
-Dengan LandX, kamu bisa menjadi pemilik bisnis menjanjikan yang listing di LandX. Dengan ini, kamu tidak perlu repot mengurus perizinan, marketing, dan operasional bisnis lainnya. Singkatnya setelah investasi, kamu hanya perlu menunggu keuntungan dari dividen rutin. Aplikasi investasi ini juga memiliki Fitur Kinerja Aset yang berisi progress pembangunan bisnis, parameter kelayakan bisnis untuk listing, kinerja dan laporan keuangan bisnis, pengumuman dividen, bahkan memberikan kritik serta saran
-
- 
-
-
+Dengan LandX, kamu bisa menjadi pemilik bisnis menjanjikan yang listing di LandX. Dengan ini, kamu tidak perlu repot mengurus perizinan, marketing, dan operasional bisnis lainnya. Singkatnya setelah investasi, kamu hanya perlu menunggu keuntungan dari dividen rutin. Aplikasi investasi ini juga memiliki Fitur Kinerja Aset yang berisi progress pembangunan bisnis, parameter kelayakan bisnis untuk listing, kinerja dan laporan keuangan bisnis, pengumuman dividen, bahkan akses untuk memberikan kritik serta saran.
 
 ### 2. Bibit.id
 
@@ -63,11 +51,11 @@ Aplikasi ini dikembangkan oleh salah satu bank swasta di Indonesia, BCA Sekurita
 
 ### 7. Tanamduit
 
-Diterbitkan oleh PT Star Mercato Capitale, Tanamduit adalah aplikasi investasi resmi OJK dengan nomor KEP-13/PM.21/2017. Aplikasi ini menawarkan instrumen investasi Surat Berharga Negara (SBN), reksadana, emas, dan asuransi. Tanamduit memiliki fasilitas self-learning untuk investasi reksadana dan membantu menampilkan profil risikonya.
+Diterbitkan oleh PT Star Mercato Capitale, Tanamduit adalah aplikasi investasi resmi OJK dengan nomor KEP-13/PM.21/2017. Aplikasi ini menawarkan instrumen investasi Surat Berharga Negara (SBN), reksadana, emas, dan asuransi. Tanamduit memiliki fasilitas *self-learning* untuk investasi reksadana yang membantu investor untuk melihat profil risikonya.
 
 ## 8. Koinworks
 
-Didirikan sejak 2016, aplikasi investasi resmi OJK ini mengantongi izin dengan nomor KEP-125/D.05/2019. Aplikasi investasi ini awalnya memberikan tawaran investasi berupa peer-2-peer lending, yaitu layanan pinjam meminjam uang dalam mata uang rupiah secara langsung antara kreditur/lender (pemberi pinjaman) dan debitur/borrower (penerima pinjaman). Selain itu, aplikasi ini juga menawarkan investasi emas digital dan obligasi negara.
+Didirikan sejak 2016, aplikasi investasi resmi OJK ini mengantongi izin dengan nomor KEP-125/D.05/2019. Aplikasi investasi ini awalnya memberikan tawaran investasi berupa *peer-to-peer lending*, yaitu layanan pinjam meminjam uang dalam mata uang rupiah secara langsung antara kreditur/*lender* (pemberi pinjaman) dan debitur/*borrower* (penerima pinjaman). Selain itu, aplikasi ini juga menawarkan investasi emas digital dan obligasi negara.
 
 ### 9. Indo Premier Online Technology (IPOT)
 
@@ -77,18 +65,10 @@ Mengantongi surat izin dengan nomor KEP-11/PM/PEE/1996, IPOT adalah aplikasi inv
 
 Merupakan aplikasi investasi resmi OJK yang mengantongi nomor lisensi KEP-20/PM.21/2020, aplikasi ini diterbitkan oleh PT PG Berjangka. Instrumen investasi yang ditawarkan oleh platform ini adalah emas, crypto, reksadana, dan juga akses ke Pasar Saham Amerika. 
 
-
-
 Itu dia beberapa rekomendasi aplikasi investasi resmi OJK yang bisa kamu jadikan opsi investasi untuk mendapatkan passive income. Karena instrumen investasi mana pun pasti memiliki risiko kerugian, selain memilih aplikasi investasi online terpercaya, kamu juga harus mempelajari profil risiko dahulu ya!
-
-
 
 Dengan memahami hal tersebut, kamu bisa menyusun strategi alokasi dana investasi dengan optimal dan efisien. Dengan ini, pasti kamu bisa semakin cepat meraih kondisi finansial impianmu.
 
-
-
 ## **[Jadi Bos Bisnis UMKM Menjanjikan Dengan Modal 1 Juta? Investasi di LandX Sekarang Juga!](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)**
-
-
 
 <!--EndFragment-->
