@@ -11,7 +11,7 @@ date: 2022-05-23T08:06:08.018Z
 tag:
   - Bisnis Menguntungkan
   - Peluang Bisnis
-  - Bisnis F&Bq
+  - Bisnis F&B
   - Bisnis Franchise Modal Kecil
   - Bisnis Makanan
   - Bisnis FnB
