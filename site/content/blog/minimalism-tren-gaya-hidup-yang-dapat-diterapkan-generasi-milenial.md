@@ -1,13 +1,20 @@
 ---
 author: Della Octavilia
-title: "Minimalism: Tren Gaya Hidup yang Dapat Diterapkan Generasi Milenial"
-metaTitle: "Minimalism: Tren Gaya Hidup yang Dapat Diterapkan Generasi Milenial"
+title: "Financial Minimalism: Gaya Hidup yang Hidup Baru Generasi Milenial"
+metaTitle: "Financial Minimalism: Gaya Hidup yang Hidup Baru Generasi Milenial"
 metaDescription: Gaya hidup minimalism adalah dimana kita menjaga hal yang
   penting dan sesuai dengan value yang kita butuhkan.
 intro: Minimalism menjadi gaya hidup yang harus mulai diterapkan. Dengan
   menerapkan gaya hidup minimalism, kamu tahu mana hal yang penting dan  value,
   dan kamu tidak akan ragu menyingkirkan hal yang tidak penting.
 date: 2022-06-14T04:15:30.888Z
+tag:
+  - Hedonisme
+  - Mengatur Keuangan
+  - Mengelola Keuangan
+category:
+  - Bisnis
+  - Keuangan
 featuredImage:
   title: "Minimalism: Tren Gaya Hidup yang Dapat Diterapkan Generasi Milenial"
   alt: Minimalism adalah, Tren Gaya Hidup Milenial
@@ -137,4 +144,12 @@ Salah satu cara berinvestasi dengan mudah dan memiliki modal kecil dapat kamu la
 
 [LandX](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog) merupakan platform [equity crowdfunding](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog) memberikan kamu kesempatan untuk melakukan investasi modal kecil dengan patungan ke berbagai bisnis yang menguntungan. Kamu bisa melihat berbagai bisnis yang memiliki prospek bagus di [LandX](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog), dan tentukan pilihanmu!
 
-## [Persiapkan Masa Depan Mu Dengan Investasi di LandX Sekarang Juga!](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)
+## [Persiapkan Masa Depan Mu dengan Investasi di LandX Sekarang Juga!](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)
+
+<!--StartFragment-->
+
+[![Bagaimana? Kamu lebih suka bisnis dengan buyback guarantee atau yang bisa disimpan dalam jangka panjang? Apapun pilihan kamu.. Yuk Patungan  dengan Keuntungan Menjanjikan Bareng LandX](https://accountgram-production.sfo2.cdn.digitaloceanspaces.com/landx_ghost/2021/10/Equity-Crowdfunding-di-Indonesia-1--3.png)](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)
+
+> Yuk Download Aplikasi LandX Sekarang!!!
+> {{< button link="https://play.google.com/store/apps/details?id=store.numoney.landxapp&hl=in&gl=US" text="Android" >}}
+> {{< button link="https://apps.apple.com/id/app/landx/id1453823676" text="IOS" >}}
