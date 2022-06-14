@@ -54,15 +54,15 @@ Sebenarnya, rumus cara menghitung sinking fund tidak pasti. Setiap individu bisa
 
 Perbedaan sinking fund dan dana darurat ada di penentuan target. Kalau dana darurat wajib untuk disisihkan, menyiapkan sinking fund harus disertai dengan target yang ingin dicapai. Pertama, buatlah daftar apa saja kebutuhan dan keinginan yang ingin dicapai beserta jangka waktunya. Jika terdapat beberapa target, maka tentukan skala prioritasnya.
 
-### 2. Membuka rekening khusus
+### 2. Membuka Rekening Khusus
 
 Agar tidak ikut tercampur dengan dana lain dan progress dana yang dikumpulkan dapat terpantau, buatlah rekening terpisah atau rekening khusus untuk sinking fund. Hal ini penting untuk meminimalisir kemungkinan penggunaan dana tersebut untuk keperluan yang lain. 
 
-### 3. Meningkatkan penghasilan
+### 3. Meningkatkan Penghasilan
 
 Setelah mengetahui jadwal dan total biaya yang diperlukan, maka selanjutnya yaitu konsisten dalam menabung untuk sinking fund. Tetapi, jika ingin meningkatkan alokasi nominal sinking fund, maka kamu bisa mencari penghasilan tambahan lewat investasi. Saat ini banyak opsi investasi yang dapat disesuaikan dengan modal dan profil risiko yang diinginkan. Mulai dari saham, reksadana, obligasi, hingga [equity crowdfunding](https://landx.id/).
 
-### 4. Menentukan nominal sinking fund bulanan
+### 4. Menentukan Nominal Sinking Fund Bulanan
 
 Setelah menentukan target, maka langkah selanjutnya adalah menentukan nominal sinking fund yang disisihkan setiap bulan. Dengan konsisten menyisihkan dana ini, maka terpenuhinya target yang diinginkan dapat diestimasikan juga.
 
