@@ -1,7 +1,7 @@
 ---
 author: Nadya A. Faatihah
-title: P2P Lending Adalah Alternatif Investasi, Ini Penjelasannya!
-metaTitle: Penjelasan Mengapa P2P Lending Adalah Opsi Investasi
+title: Mengenal Investasi P2P Lending di Indonesia dan Perkembanganya
+metaTitle: Mengenal Sistem Investasi P2P Lending di Indonesia dan Perkembanganya
 metaDescription: Apakah P2P lending adalah alternatif pilihan berinvestasi?
   Pahami skema ini lewat artikel berikut!
 intro: Fintech P2P lending adalah salah satu industri di bidang keuangan yang
@@ -9,6 +9,12 @@ intro: Fintech P2P lending adalah salah satu industri di bidang keuangan yang
   Berbasis Teknologi Informasi (LPMUBTI), masyarakat luas  memiliki akses untuk
   menjadi lender atau pun borrower dengan mudah.
 date: 2022-06-14T11:35:35.286Z
+tag:
+  - Securities Crowdfunding
+  - Crowdfunding
+  - Equity Crowdfunding
+  - Investasi Online
+  - Investasi Modal Kecil
 featuredImage:
   src: https://images.unsplash.com/photo-1565373679580-fc0cb538f49c?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80
   title: Cara Kerja Investasi P2P Lending
