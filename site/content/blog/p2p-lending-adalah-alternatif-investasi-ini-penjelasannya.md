@@ -15,6 +15,9 @@ tag:
   - Equity Crowdfunding
   - Investasi Online
   - Investasi Modal Kecil
+category:
+  - Investasi
+  - Keuangan
 featuredImage:
   src: https://images.unsplash.com/photo-1565373679580-fc0cb538f49c?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80
   title: Cara Kerja Investasi P2P Lending
@@ -73,7 +76,7 @@ P2P lending adalah aplikasi kredit dengan sistem yang terintegrasi dengan multi-
 
 Pengawas dan pelindung dari seluruh kegiatan P2P lending adalah OJK. Meski begitu, jika Anda ingin berinvestasi dengan P2P lending, tentu pengecekan profil risiko, persentase return, dan pemilihan platform aplikasi P2P lending tetap wajib untuk dilakukan.
 
-## Opsi Investasi Dengan Skema Crowdfunding
+## Investasi dengan Skema  Equity Crowdfunding
 
 Sama halnya dengan P2P lending yang memiliki tujuan untuk merealisasikan inklusivitas finansial masyarakat di Indonesia, skema equity crowdfunding juga memiliki tujuan yang sama. Skema equity crowdfunding menawarkan aksesibilitas untuk masyarakat luas berinvestasi dengan modal yang minim dan juga turut membantu bisnis UMKM untuk mengembangkan perusahaannya. 
 
@@ -82,5 +85,9 @@ Platform aplikasi **[equity crowdfunding](https://landx.id/)** menawarkan skema 
 Jika kamu tertarik untuk berinvestasi dengan skema ini, pastikan untuk memilih platform equity crowdfunding terpercaya, berpengalaman, dan telah mengantongi izin dari OJK seperti **[LandX](https://landx.id/)** ya!
 
 ## **[Jadi Bos Bisnis UMKM Menjanjikan Dengan Modal 1 Juta? Yuk, Investasi di LandX Sekarang Juga!](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)**
+
+<!--StartFragment-->
+
+[![Bagaimana? Kamu lebih suka bisnis dengan buyback guarantee atau yang bisa disimpan dalam jangka panjang? Apapun pilihan kamu.. Yuk Patungan  dengan Keuntungan Menjanjikan Bareng LandX](https://accountgram-production.sfo2.cdn.digitaloceanspaces.com/landx_ghost/2021/10/Equity-Crowdfunding-di-Indonesia-1--3.png)](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)
 
 <!--EndFragment-->
