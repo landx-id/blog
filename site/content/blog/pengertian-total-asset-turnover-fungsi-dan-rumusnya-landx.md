@@ -1,16 +1,23 @@
 ---
 author: Vlora Riyandi
-title: Pengertian Total Asset Turnover, Fungsi, dan Rumusnya | LandX
-metaTitle: Pengertian Total Asset Turnover, Fungsi, dan Rumusnya | LandX
+title: "Total Asset Turnover: Pengertian, Fungsi, dan Rumus Perhitunganya"
+metaTitle: "Total Asset Turnover: Pengertian, Fungsi, dan Rumus Perhitunganya"
 metaDescription: Total asset turnover ratio adalah rasio yang mengindikasikan
-  efektivitas suatu perusahaan dalam mengelola asetnya. Fungsinya adalah untuk..
+  efektivitas suatu perusahaan dalam mengelola asetnya. Fungsi total asset
+  turnover
 intro: Total asset turnover ratio adalah rasio yang mengindikasikan efektivitas
   suatu perusahaan dalam mengelola asetnya untuk menghasilkan pendapatan.
 date: 2022-06-14T03:58:20.717Z
+tag:
+  - Rasio Keuangan
+  - Rasio Solvabilitas
+  - Rasio Likuiditas
+category:
+  - Keuangan
 featuredImage:
   title: Pengertian Total Asset Turnover, Fungsi dan Rumusnya
-  alt: fungsi total asset turnover ration
-  src: https://unsplash.com/photos/JhevWHCbVyw
+  alt: "Fungsi dan cara menghitung rumus total asset turnover. "
+  src: https://images.unsplash.com/photo-1626266061368-46a8f578ddd6?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80
 ---
 Kinerja keuangan menggambarkan kemampuan perusahaan dalam membangun ekonomi dan kesejahteraannya. Kinerja keuangan perusahaan dapat diperiksa dan dievaluasi berkala dalam periode tertentu melalui laporan keuangan.
 
@@ -18,13 +25,13 @@ Laporan keuangan mencerminkan data-data keuangan dari aktivitas perusahaan. Meng
 
 Analisa ini dapat dilakukan dengan melakukan perhitungan rasio antara aktivitas penjualan yang dilakukan perusahaan terhadap total aset yang dimiliki. Rasio ini disebut total asset turnover ratio. Yuk, cari tahu lebih lanjut.
 
-## Definisi Total Asset Turnover Ratio
+## Pengertian *Total Asset Turnover Ratio*
 
 Total asset turnover ratio adalah rasio yang mengindikasikan efektivitas suatu perusahaan dalam mengelola asetnya untuk menghasilkan pendapatan. Total asset turnover ratio (TATO) atau rasio total perputaran aset adalah parameter penting dalam investasi untuk menganalisis aspek keuangan. 
 
 Analisis keuangan ini merupakan representasi dari angka yang ada di laporan keuangan perusahaan (financial statement). 
 
-## Fungsi Asset Turnover Ratio
+## *Fungsi Asset Turnover Ratio*
 
 Fungsi asset turnover ratio adalah membantu menilai aktivitas dan kemampuan perusahaan untuk menghasilkan penjualan dengan menggunakan total asetnya. Perusahaan yang memiliki nilai rasio yang baik memiliki arti telah optimal menggunakan asetnya untuk menghasilkan pendapatan.
 
@@ -34,7 +41,7 @@ Return of Investment (ROI) atau tingkat pengembalian investasi menjadi tolak uku
 
 Total asset turnover merupakan bagian dari rasio aktivitas yang mengukur keseimbangan yang layak antar perusahaan dengan beragam aktiva. Aktiva yang dimaksud adalah aktiva persediaan, aktiva tetap, dan aktiva lainnya.
 
-## Faktor yang Mempengaruhi Total Asset Turnover
+## Faktor yang Mempengaruhi *Total Asset Turnover*
 
 Nilai total asset turnover dipengaruhi oleh beberapa faktor sebagai berikut:
 
@@ -47,7 +54,7 @@ Nilai total asset turnover dipengaruhi oleh beberapa faktor sebagai berikut:
 
 Rumus total asset turnover (TATO) adalah sebagai berikut:
 
-![](https://lh5.googleusercontent.com/Pigm5oAzMZsaF6exyXg_dTzpdOrrs2fTJ_eWb4Y6ezi832tXcAkfUWps1JAwu_9TL8O0RZanLiX0jNfGy5I7-pQtOgNIuNlAlMiHy5YW6M1yKY_BZ5_l9styP0CpxR1Jx_QERXZAwetegEEO1Q)
+![Rumus menghitung total asset turnover ration](https://lh5.googleusercontent.com/Pigm5oAzMZsaF6exyXg_dTzpdOrrs2fTJ_eWb4Y6ezi832tXcAkfUWps1JAwu_9TL8O0RZanLiX0jNfGy5I7-pQtOgNIuNlAlMiHy5YW6M1yKY_BZ5_l9styP0CpxR1Jx_QERXZAwetegEEO1Q "Rumus perhitungan rasio total asset turnover")
 
 Contoh perhitungan total asset turnover ratio:
 
@@ -58,7 +65,7 @@ Jika kita lihat laporan keuangan tahunan perusahaan pakan ternak PT Charoen Pokp
 
 Maka perhitungannya yaitu 51.698.249 : 35.446.051 = 1,46 setelah dibulatkan dua angka dibelakang koma.
 
-## Interpretasi Nilai Rasio Total Asset Turnover 
+## Nilai Rasio Total Asset Turnover 
 
 Perlu diketahui jika tipe industri suatu bisnis memiliki standar nilai TATO yang berbeda bagi perusahaan. Oleh karena itu, nilai TATO perusahaan diharapkan mendekati nilai TATO industrinya.
 
@@ -82,4 +89,10 @@ Pengembalian investasi ini diindikasi oleh seberapa baik perusahaan memiliki pen
 
 Jika kamu sebagai pribadi ingin pengembalian investasi dari berinvestasi pada bisnis, kamu dapat melakukan strategi diversifikasi portofolio dengan investasi bisnis di [crowdfunding](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog). Melalui [crowdfunding](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog), kau dapat berinvestasi pada bisnis dan melihat estimasi pengembalian investasinya.[](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)
 
-## [Kamu Dapat Melihat Pengembalian Investasi Bisnis Crowdfunding Di Sini](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)
+## [Kamu Dapat Melihat Pengembalian Investasi Bisnis Crowdfunding di Sini](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)
+
+<!--StartFragment-->
+
+[![Bagaimana? Kamu lebih suka bisnis dengan buyback guarantee atau yang bisa disimpan dalam jangka panjang? Apapun pilihan kamu.. Yuk Patungan  dengan Keuntungan Menjanjikan Bareng LandX](https://accountgram-production.sfo2.cdn.digitaloceanspaces.com/landx_ghost/2021/10/Equity-Crowdfunding-di-Indonesia-1--3.png)](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)
+
+<!--EndFragment-->
