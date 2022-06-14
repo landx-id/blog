@@ -1,17 +1,29 @@
 ---
 author: Nadya A. Faatihah
-title: 10 Aplikasi Investasi Resmi OJK Terpercaya di Indonesia
-metaTitle: Rekomendasi Aplikasi Investasi Resmi OJK Terpercaya
+title: 10 Aplikasi Investasi Resmi OJK Terpercaya di Indonesia Tahun 2022
+metaTitle: 10 Rekomendasi Aplikasi Investasi Resmi OJK Terpercaya Tahun 2022
 metaDescription: Gak perlu bingung lagi, ini dia rekomendasi aplikasi investasi
   resmi OJK yang bisa kamu jadikan opsi untuk meraih passive income.
 intro: Perkembangan teknologi dan informasi menghadirkan berbagai platform atau
   aplikasi investasi yang menawarkan instrumen investasi yang beragam. Agar
   tidak merugi, pilihlah aplikasi investasi resmi OJK yang terpercaya dan aman.
 date: 2022-06-13T12:29:11.232Z
+tag:
+  - Investasi Tahun 2022
+  - Investasi Aman
+  - Investasi Pemula
+  - Investasi Saham
+  - Pilihan Investasi
+  - Securities Crowdfunding
+  - Instrumen Investasi
+category:
+  - Investasi
+  - Keuangan
 featuredImage:
   src: https://images.unsplash.com/photo-1606189934390-2b10bb7f8094?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80
-  alt: Rekomendasi Aplikasi Investasi Online Terpercaya
-  title: Rekomendasi Aplikasi Investasi Resmi OJK
+  alt: Rekomendasi Aplikasi Investasi Online Terpercaya Tahun 2022
+  title: Rekomendasi Aplikasi Investasi Resmi OJK  Tahun 2022 untuk Pilihan
+    Investasi Anda
 ---
 <!--StartFragment-->
 
@@ -71,4 +83,10 @@ Dengan memahami hal tersebut, kamu bisa menyusun strategi alokasi dana investasi
 
 ## **[Jadi Bos Bisnis UMKM Menjanjikan Dengan Modal 1 Juta? Investasi di LandX Sekarang Juga!](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)**
 
-<!--EndFragment-->
+<!--StartFragment-->
+
+![Bagaimana? Kamu lebih suka bisnis dengan buyback guarantee atau yang bisa disimpan dalam jangka panjang? Apapun pilihan kamu.. Yuk Patungan  dengan Keuntungan Menjanjikan Bareng LandX](https://accountgram-production.sfo2.cdn.digitaloceanspaces.com/landx_ghost/2021/10/Equity-Crowdfunding-di-Indonesia-1--3.png)
+
+> Yuk Download Aplikasi LandX Sekarang!!!
+> {{< button link="https://play.google.com/store/apps/details?id=store.numoney.landxapp&hl=in&gl=US" text="Android" >}}
+> {{< button link="https://apps.apple.com/id/app/landx/id1453823676" text="IOS" >}}
