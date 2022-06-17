@@ -7,6 +7,12 @@ metaDescription: Okinawa Sushi kedatangan Ken n Grat di outlet bernuansa Jepang
 intro: Okinawa Sushi kedatangan Ken n Grat di outlet bernuansa Jepang mewah
   terbaru bersama para investor di platform crowdfunding LandX di PIM 1.
 date: 2022-06-15T05:14:04.856Z
+tag:
+  - OKIN
+  - OPIM
+  - Franchise Makanan
+category:
+  - Bisnis
 featuredImage:
   title: "PROJECT SERIES: Grand Opening Okinawa Sushi PIM 1 Bersama Food Influencer"
   alt: okinawa sushi pim 1 jakarta selatan
@@ -16,9 +22,7 @@ Okinawa Sushi cabang Pondok Indah Mall 1 resmi dibuka pada 6 Juni 2022 lalu. Per
 
 Lihat keseruan grand opening Okinawa Sushi di PIM 1 bersama pada food influencer.
 
-(Watch this video)
-
-
+{{< youtube id="K7Nlxiuv2t0" >}}
 
 ## ABOUT OKINAWA SUSHI
 
