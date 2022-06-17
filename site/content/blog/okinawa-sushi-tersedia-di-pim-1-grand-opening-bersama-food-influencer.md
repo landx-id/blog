@@ -1,7 +1,7 @@
 ---
 author: Vlora Riyandi
-title: Okinawa Sushi Tersedia di PIM 1, Grand Opening Bersama Food Influencer
-metaTitle: Okinawa Sushi Tersedia di PIM 1, Grand Opening Bersama Food Influencer
+title: Simak Keseruan Grand Opening Okinawa Sushi PIM 1 Bersama LandX
+metaTitle: Simak Keseruan Grand Opening Okinawa Sushi PIM 1 Bersama LandX
 metaDescription: Okinawa Sushi kedatangan Ken n Grat di outlet bernuansa Jepang
   mewah terbaru bersama para investor di platform crowdfunding LandX di PIM 1.
 intro: Okinawa Sushi kedatangan Ken n Grat di outlet bernuansa Jepang mewah
@@ -75,3 +75,9 @@ Menjadi investor bisnis ternama dengan modal Rp 1 jutaan pada [project bisnis](h
 Investasi juga dapat dilakukan dengan mudah melalui aplikasi [LandX](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog) pada smartphone kamu. Berinvestasi layaknya belanja online! Jika kamu memiliki pertanyaan yang belum tersedia di website dan aplikasi, [LandX](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog) menyediakan fasilitas untuk kamu bisa mendiskusikannya di sini.
 
 ## **[Yuk, Lihat Project Bisnis yang Bisa Kamu Miliki Sahamnya di Sini](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)**
+
+<!--StartFragment-->
+
+[![miliki bisnis modal kecil cuma dengan 1 jutaan dapat 4 cabang ](https://accountgram-production.sfo2.cdn.digitaloceanspaces.com/landx_ghost/2021/11/jadi-owner-bisnis-hanya-1-jutaan-dengan-cuan-yang-sangat-menjanjikan.png)](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)
+
+>
