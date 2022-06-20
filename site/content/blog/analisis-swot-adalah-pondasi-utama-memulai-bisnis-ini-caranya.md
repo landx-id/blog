@@ -10,6 +10,12 @@ intro: Strength (kekuatan), Weakness (kelemahan), Opportunity
   diidentifikasi perusahaan agar bisa menentukan strategi jangka panjang atau
   pun pendek bagi perkembangan bisnis perusahaan tersebut.
 date: 2022-06-19T12:45:52.893Z
+tag:
+  - Memulai Usaha
+  - Bisnis Jangka Panjang
+  - Bisnis Menguntungkan
+category:
+  - Bisnis
 featuredImage:
   alt: Contoh Analisis SWOT
   title: Contoh Analisis SWOT
@@ -19,17 +25,11 @@ featuredImage:
 
 Analisis SWOT adalah sebuah metode perencanaan strategi bisnis yang diambil dari empat sisi yaitu, Strength (kekuatan), Weakness (kelemahan), Opportunity (kesempatan/peluang) dan Threat (ancaman). Memahami cara membuat analisis SWOT adalah hal yang penting dilakukan untuk mengidentifikasi berbagai faktor secara sistematis agar strategi pengembangan perusahaan dapat dirumuskan dengan baik. 
 
-
-
 Yuk, baca terus artikel ini untuk memahami fungsi analisis SWOT, contohnya, serta cara membuat analisis SWOT!
-
-
 
 ## Apa Itu Analisis SWOT?
 
 Analisis SWOT adalah metode mengidentifikasi situasi dan kondisi sebuah perusahaan agar dapat membantu proses pengambilan keputusan dalam membuat strategi bisnis. Singkatnya, sebuah perusahaan perlu mengidentifikasi Strength (kekuatan), Weakness (kelemahan), Opportunity (kesempatan/peluang) dan Threat (ancaman) yang dimiliki oleh bisnisnya agar dapat menentukan tujuan dan rencana jangka panjang atau pun jangka pendek bagi bisnis tersebut.
-
-
 
 ## Berbagai Faktor Dalam Analisis SWOT
 
@@ -61,48 +61,38 @@ Faktor eksternal dalam analisis SWOT adalah faktor yang memengaruhi terbentuknya
 
 Faktor ini dalam analisis SWOT adalah faktor yang memengaruhi terbentuknya Strength (kekuatan) dan Weaknesses (kelemahan). Faktor ini didasari oleh kondisi yang terjadi dalam perusahaan. Misalnya seperti kondisi manajemen pemasaran, keuangan, operasional, sumber daya manusia, penelitian dan pengembangan, sistem informasi manajemen, dan budaya perusahaan (corporate culture).
 
-
-
 Setelah memahami unsur-unsur dalam analisis SWOT, maka langkah pertama dalam membuat analisis SWOT adalah mengidentifikasi apa saja komponen SWOT (strength, weakness, opportunities, dan threats) yang dimiliki perusahaan. Lalu, setelah itu adalah membuat strategi berdasarkan matrik SWOT
 
-## Analisis Dengan Matrik SWOT
+## Cara Analisis dengan Matrik SWOT
 
 Dalam cara membuat analisis SWOT, terdapat matrik SWOT atau tabel SWOT yang berguna untuk menyusun strategi bisnis perusahaan. Matrik ini dapat menggambarkan bagaimana peluang dan ancaman dari lingkungan eksternal perusahaan dapat diantisipasi dengan kekuatan dan kelemahan yang dimilikinya.
-
-
 
 Selain itu, matrik ini akan mempermudah pembuatan keputusan, strategi, dan rencana strategi alternatif untuk mempertahankan keberlangsungan bisnis perusahaan. Melalui matrik contoh analisis SWOT, akan dihasilkan kemungkinan strategi dan rencana strategi alternatif yang disebut strategi SO, strategi ST, strategi WO, dan strategi WT. Gambaran matrik SWOT adalah sebagai berikut
 
 ![Matrik SWOT](img/contoh-analisis-swot.png "Contoh Analisis SWOT dan Stateginya")
 
-<!--EndFragment-->
 
-<!--StartFragment-->
 
 ## Tujuan Analisis SWOT
 
 Salah satu tujuan dari analisis SWOT adalah sebagai panduan perusahaan untuk menentukan skala prioritas dalam mempertahankan kestabilan manajemen dan bisnisnya. Seperti yang dijelaskan dalam matrik SWOT, tujuan analisis SWOT adalah untuk membuat strategi dan alternatif strategi dari berbagai sudut pandang agar bisnis dapat berjalan secara berkelanjutan. Selain itu, berikut adalah fungsi analisis SWOT lainnya.
 
+1. Bermanfaat untuk menyusun strategi untuk mengatasi masalah internal perusahaan.
 
+2. Dasar pembuatan strategi untuk networking dan memperluas relasi bisnis dengan investor atau perusahaan lain.
 
-**1. Bermanfaat untuk menyusun strategi untuk mengatasi masalah internal perusahaan.**
+3. Analisis SWOT membantu perusahaan mencermati kelemahan dan ancaman agar dapat merumuskan strategi yang relevan dengan keadaan perusahaan.
 
-**2. Dasar pembuatan strategi untuk networking dan memperluas relasi bisnis dengan investor atau perusahaan lain.**
+4. Analisis SWOT adalah pondasi dalam membuat key performance indicator bagi seluruh sumber daya manusia yang terlibat dalam perusahaan.
 
-**3. Analisis SWOT membantu perusahaan mencermati kelemahan dan ancaman agar dapat merumuskan strategi yang relevan dengan keadaan perusahaan.**
+5. Membantu proses analisis kompetitor bisnis agar perusahaan dapat membuat inovasi dalam mengembangkan bisnis.
 
-**4. Analisis SWOT adalah pondasi dalam membuat key performance indicator bagi seluruh sumber daya manusia yang terlibat dalam perusahaan.**
-
-**5. Membantu proses analisis kompetitor bisnis agar perusahaan dapat membuat inovasi dalam mengembangkan bisnis.**
-
-**6. Sebagai penentu penilaian performa perusahaan secara berkala di masa yang akan datang.**
-
-
+6. Sebagai penentu penilaian performa perusahaan secara berkala di masa yang akan datang.
 
 Itu dia informasi lengkap tentang pentingnya analisis SWOT bagi sebuah perusahaan. Tanpa adanya analisa SWOT, sebuah perusahaan akan berdiri tanpa visi dan misi yang jelas. Jika hal ini terjadi, maka perusahaan tersebut tidak dapat mempertahankan bisnisnya agar berjalan dengan efektif, optimal, profitable, dan tetap relevan untuk jangka waktu yang lama. 
 
+## [Temukan Peluang Jadi Bos Bisnis yang Menjanjikan Hanya dengan Modal 1 Juta di LandX Sekarang Juga!](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)
 
-
-## [Temukan Peluang Jadi Bos Bisnis yang Menjanjikan Hanya Dengan Modal 1 Juta di LandX Sekarang Juga!](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)
+[![miliki bisnis modal kecil cuma dengan 1 jutaan dapat 4 cabang ](https://accountgram-production.sfo2.cdn.digitaloceanspaces.com/landx_ghost/2021/11/jadi-owner-bisnis-hanya-1-jutaan-dengan-cuan-yang-sangat-menjanjikan.png)](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)
 
 <!--EndFragment-->
