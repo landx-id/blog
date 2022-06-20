@@ -67,26 +67,23 @@ Setelah memahami unsur-unsur dalam analisis SWOT, maka langkah pertama dalam mem
 
 Dalam cara membuat analisis SWOT, terdapat matrik SWOT atau tabel SWOT yang berguna untuk menyusun strategi bisnis perusahaan. Matrik ini dapat menggambarkan bagaimana peluang dan ancaman dari lingkungan eksternal perusahaan dapat diantisipasi dengan kekuatan dan kelemahan yang dimilikinya.
 
-Selain itu, matrik ini akan mempermudah pembuatan keputusan, strategi, dan rencana strategi alternatif untuk mempertahankan keberlangsungan bisnis perusahaan. Melalui matrik contoh analisis SWOT, akan dihasilkan kemungkinan strategi dan rencana strategi alternatif yang disebut strategi SO, strategi ST, strategi WO, dan strategi WT. Gambaran matrik SWOT adalah sebagai berikut
+Selain itu, matrik ini akan mempermudah pembuatan keputusan, strategi, dan rencana strategi alternatif untuk mempertahankan keberlangsungan bisnis perusahaan. Melalui matrik contoh analisis SWOT, akan dihasilkan kemungkinan strategi dan rencana strategi alternatif yang disebut strategi SO, strategi ST, strategi WO, dan strategi WT. Gambaran matrik SWOT adalah sebagai berikut.
 
-![Matrik SWOT](img/contoh-analisis-swot.png "Contoh Analisis SWOT dan Stateginya")
+<!--StartFragment-->
 
+![](https://cdn.discordapp.com/attachments/976381310857773066/988068353866367006/Contoh_Analisis_SWOT.PNG)
 
+<!--EndFragment-->
 
 ## Tujuan Analisis SWOT
 
 Salah satu tujuan dari analisis SWOT adalah sebagai panduan perusahaan untuk menentukan skala prioritas dalam mempertahankan kestabilan manajemen dan bisnisnya. Seperti yang dijelaskan dalam matrik SWOT, tujuan analisis SWOT adalah untuk membuat strategi dan alternatif strategi dari berbagai sudut pandang agar bisnis dapat berjalan secara berkelanjutan. Selain itu, berikut adalah fungsi analisis SWOT lainnya.
 
 1. Bermanfaat untuk menyusun strategi untuk mengatasi masalah internal perusahaan.
-
 2. Dasar pembuatan strategi untuk networking dan memperluas relasi bisnis dengan investor atau perusahaan lain.
-
 3. Analisis SWOT membantu perusahaan mencermati kelemahan dan ancaman agar dapat merumuskan strategi yang relevan dengan keadaan perusahaan.
-
 4. Analisis SWOT adalah pondasi dalam membuat key performance indicator bagi seluruh sumber daya manusia yang terlibat dalam perusahaan.
-
 5. Membantu proses analisis kompetitor bisnis agar perusahaan dapat membuat inovasi dalam mengembangkan bisnis.
-
 6. Sebagai penentu penilaian performa perusahaan secara berkala di masa yang akan datang.
 
 Itu dia informasi lengkap tentang pentingnya analisis SWOT bagi sebuah perusahaan. Tanpa adanya analisa SWOT, sebuah perusahaan akan berdiri tanpa visi dan misi yang jelas. Jika hal ini terjadi, maka perusahaan tersebut tidak dapat mempertahankan bisnisnya agar berjalan dengan efektif, optimal, profitable, dan tetap relevan untuk jangka waktu yang lama. 
