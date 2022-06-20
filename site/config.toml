@@ -24,6 +24,7 @@ rssLimit = 4
 [taxonomies]
   tag = "tag"
   category = "category"
+  author =  "author"
 
 [related]
   includeNewer = false
