@@ -66,9 +66,11 @@ Manfaat analisis balik modal bagi pebisnis dan investor sederhananya dapat memba
 
 Setelah Anda memahami manfaat analisis balik modal bagi pebisnis dan investor, sekarang saatnya pembahasan mengenai cara menghitung ROI tersebut. Secara sederhana, cara mencari nilai ROI adalah nilai instrumen investasi saat ini dikurangi modal investasi yang dikeluarkan. Lalu, jika nilainya sudah ditemukan, nilai ini dibagi dengan modal investasi yang dikeluarkan di awal.
 
-Untuk lebih memahami cara perhitungannya, berikut adalah ilustrasi cara mendapatkan nilai ROI dari beberapa investasi.
+Untuk lebih memahami cara perhitungannya, berikut adalah ilustrasi cara mendapatkan nilai ROI dari beberapa investasi.<!--StartFragment-->
 
-![Cara melakukan analisis balik modal bagi investor dan pebisnis](img/cara-menghitung-analisis-balik-modal.png "Rumus melakukan analisis balik modal bagi investor dan pebisnis")
+![](https://cdn.discordapp.com/attachments/976381310857773066/984004262147276800/cara_menghitung_analisis_balik_modal.PNG)
+
+<!--EndFragment-->
 
 Manfaat adanya analisis balik modal bagi investor adalah untuk menemukan prospek profit dari investasi. Sementara bagi pemilik bisnis, analisis balik modal berfungsi sebagai penentu kinerja perusahaan, pengambilan kebijakan, hingga prospek kestabilan dan keuntungan perusahaan.
 
