@@ -46,7 +46,11 @@ Dari segi jumlah, perbedaan dana darurat dan sinking fund umumnya berbeda. Aloka
 
 Sebenarnya, rumus cara menghitung sinking fund tidak pasti. Setiap individu bisa  membuat rumus sendiri berdasarkan dengan tujuan yang diinginkan dan kondisi keuangan masing-masing. Namun, berikut adalah ilustrasi cara menghitung sinking fund:
 
-![Cara menghitung sinking fund dan bedanya dengan dana darurat](img/ilustrasi-sinking-fund.png "Menghitung sinking fund")
+<!--StartFragment-->
+
+![](https://cdn.discordapp.com/attachments/976381310857773066/986096089939726366/Ilustrasi_sinking_fund.PNG)
+
+<!--EndFragment-->
 
 ## Cara Menyiapkan Sinking Fund  
 
