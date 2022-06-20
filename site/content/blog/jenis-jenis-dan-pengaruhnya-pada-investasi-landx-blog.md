@@ -1,13 +1,18 @@
 ---
 author: Della Octavilia
-title: Jenis-jenis dan Pengaruhnya Pada Investasi | LandX Blog
-metaTitle: Jenis-jenis dan Pengaruhnya Pada Investasi | LandX Blog
+title: "Suku Bunga Adalah: Memahami Tingkat Suku Bunga dan Jenisnya"
+metaTitle: "Suku Bunga Adalah: Memahami Tingkat Suku Bunga dan Jenisnya"
 metaDescription: Suku bunga merupakan istilah yang dipakai dalam dunia
   perbankan. Kenali seputar suku bunga dan pengaruhnya bagi investasi saat ini.
 intro: Jika kamu seorang nasabah dari sebuah bank, apa kamu tahu istilah dari
   suku bunga? Suku bunga adalah balas jasa yang diberikan oleh bank kepada
   nasabah yang membeli dan menjual produknya.
 date: 2022-06-15T03:12:48.998Z
+tag:
+  - Tips Investasi
+  - Investasi Terbaik
+  - Investasi Jangka Panjang
+  - Deposito
 featuredImage:
   title: Jenis-jenis dan Pengaruhnya Pada Investasi
   src: img/suku-bunga-adalah.jpg
