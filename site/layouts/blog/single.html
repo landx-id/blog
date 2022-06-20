@@ -8,7 +8,7 @@
     <p>Read in {{ .ReadingTime }} minutes</p>
   </div>
 
-  <div class="grey-4 mb-3" style="font-size: 0.8rem; cursor: pointer; margin-bottom: 24px;" onclick="window.location.href = '/author/{{.Params.author | urlize}}'">Author: {{.Params.author}}</div>
+  <div class="grey-4 mb-3" style="font-size: 0.8rem; cursor: pointer; margin-bottom: 24px;" onclick="window.location.href = '/blog/author/{{.Params.author | urlize}}'">Author: {{.Params.author}}</div>
   
   <div class="cms mw6">
     {{if .Params.image}}
