@@ -1,17 +1,20 @@
 ---
 author: Della Octavilia
-title: Apa Itu Pencucian Uang? Serta Dampak Buruknya Bagi Negara
-metaTitle: Apa Itu Pencucian Uang? Serta Dampak Buruknya Bagi Negara | LandX
+title: Memahami Apa Itu Pencucian Uang (Money Laundering) dan Modus-modusnya
+metaTitle: Simak Berbagai Modus dan Kasus Pencucian Uang yang Harus Anda Pahami
 metaDescription: Pencucian uang atau money laundering adalah tindak kejahatan
   dengan menyamarkan asal usul uang yang seolah dari kegiatan legal.
 intro: Pencucian uang atau money laundering adalah kejahatan yang kerap
   dilakukan tokoh dan pejabat Indonesia untuk memperkaya diri sendiri dengan
   menyamarkan asal usul uang yang seolah dari kegiatan legal.
 date: 2022-06-15T10:17:12.944Z
+tag:
+  - Investasi Bodong
+  - Penipuan Telegram
 featuredImage:
   title: Apa Itu Pencucian Uang? Serta Dampak Buruknya Bagi Negara
   src: img/money-laundering-adalah.jpg
-  alt: money-laundering
+  alt: Memahami berbagai modus dan kasus pencucian uang
 ---
 Kamu pasti pernah kan melihat berita di televisi mengenai kasus pencucian uang? Pencucian uang atau mMoney laundering merupakan kasus yang marak dilakukan oleh tokoh masyarakat hingga pejabat di Indonesia. 
 
@@ -31,7 +34,7 @@ Sumber dana yang berusaha disamarkan biasanya didapatkan dari korupsi, perampoka
 
 Biasanya para pelaku money laundering ini menyamarkan sumber dana tersebut melalui kegiatan bisnis, seperti melakukan investasi dan menyerahkannya ke lembaga keuangan yang sah. Jadi seolah-olah sumber dananya tersebut diperoleh secara sah.
 
-## UU Pencucian Uang
+## Aturan Tentang Pencucian Uang
 
 Di Indonesia tindak pidana pencucian uang diatur dalam UU No. 8 tahun 2010 tentang Pencegahan dan Pemberantasan Tindak Pidana Pencucian Uang. Aadapun perbuatan-perbuatan yang menjadi tindak pidana pencucian uang menurut UU No.8 tahun 2010 adalah:
 
@@ -67,7 +70,7 @@ Pada tahapan terakhir ini, para pelaku money laundering melakukan upaya untuk me
 
 Cara lainnya juga dengan melakukan investasi pada suatu kegiatan usaha, penjualan dan pembelian aset.
 
-## Penyebab Terjadinya Money Laundering
+## Penyebab Terjadinya Pencucian Uang (Money Laundering)
 
 Pencucian uang merupakan tindak kejahatan yang serius. Karena dengan adanya kasus ini memberikan kerugian besar bagi negara.
 
@@ -77,7 +80,7 @@ Penyebab seseorang melakukan kegiatan money laundering adalah ingin memperkaya 
 
 Kasus pencucian uang di Indonesia mengalami perkembangan yang sangat mengkhawatirkan, sehingga ini masih menjadi pekerjaan rumah bagi negara.
 
-## Kasus Pencucian Uang 
+## Kasus Pencucian Uang (Money Laundering)
 
 Menteri Koordinator Bidang Politik, Hukum, dan Keamanan (Menko Polhukam), Mahfud Md mengatakan bahwa pencucian uang menjadi salah satu isu yang mendunia. Kasus pencucian uang menjadi salah satu kejahatan ekonomi yang berdampak pada ekonomi global.
 
@@ -124,7 +127,7 @@ Nah, kalian sudah mengerti seputar kejahatan pencucian uang kan? Bagaimana money
 
 Kamu bisa kok memperkaya diri kamu serta menggandakan harta yang kamu miliki dengan cara yang sah, yang baik. Salah satu caranya dengan kamu berinvestasi bersama [LandX](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog). Hanya dengan modal kecil, kamu pun sudah dapat meraih untung.
 
-## **[Ingin Memperkaya Diri Dengan Sah dan Legal? LandX Jawabannya. Yuk, Investasikan Danamu Sekarang Juga!](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)**
+## **[Ingin Memperkaya Diri dengan Sah dan Legal? LandX Jawabannya. Yuk, Investasikan Danamu Sekarang Juga!](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)**
 
 <!--StartFragment-->
 
