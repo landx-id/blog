@@ -13,10 +13,13 @@ tag:
   - Investasi Terbaik
   - Investasi Jangka Panjang
   - Deposito
+category:
+  - Investasi
+  - Keuangan
 featuredImage:
-  title: Jenis-jenis dan Pengaruhnya Pada Investasi
+  title: pengaruh suku bunga terhadap investasi
   src: img/suku-bunga-adalah.jpg
-  alt: suku bunga adalah
+  alt: Memehami tingkat suku bunga dan pengaruhnya terhadap investasi
 ---
 Kamu pernah menyimpan uangmu di bank? Pasti kamu tidak asing kan dengan istilah suku bunga bank?
 
