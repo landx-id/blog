@@ -9,6 +9,11 @@ intro: Side hustle dan side job sama-sama pekerjaan sampingan? Benar, namun
   kedua istilah ini memiliki makna dan tujuan yang berbeda. Jadi, kamu mau pilih
   yang mana dari kedua tipe pekerjaan samping ini?
 date: 2022-06-17T02:18:53.384Z
+tag:
+  - Bisnis Sampingan
+  - Bisnis Modal Kecil
+category:
+  - Bisnis
 featuredImage:
   title: Mengenal Apa Itu Side Hustle Tren Pekerjaan Sampingan Generasi Milenial
   alt: side hustle dan side job, pekerjaan sampingan milenial
@@ -54,7 +59,7 @@ Sedangkan, side job adalah pekerjaan yang dilakukan seseorang demi mendapatkan p
 
 Tetapi keduanya sama-sama dikerjakan setelah pekerjaan utama, ya. Juga, bila kalian memutuskan untuk mengambil baik side hustle atau side job, kalian harus memiliki management waktu yang baik, ya.
 
-## 5 Ide Pekerjaan Side Hustle 
+## 5 Ide Pekerjaan Side Hustle
 
 Nah, setelah kalian mengetahui pengertian side hustle dan perbedaannya dengan side job. Sekarang, kita akan melihat 5 ide pekerjaan dari side hustle
 
@@ -157,3 +162,9 @@ Kalian bisa lho mulai berinvestasi bersama LandX hanya dengan menggunakan modal 
 LandX merupakan platform equity crowdfunding memberikan kamu kesempatan untuk melakukan investasi modal kecil dengan patungan ke berbagai bisnis yang menguntungan. Kamu bisa melihat berbagai bisnis yang memiliki prospek bagus di LandX, dan tentukan pilihanmu sekarang!
 
 ## **[Dapatkan Pendapatan Tambahan dengan Investasi di LandX Sekarang Juga!](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)**
+
+<!--StartFragment-->
+
+[![miliki bisnis modal kecil cuma dengan 1 jutaan dapat 4 cabang ](https://accountgram-production.sfo2.cdn.digitaloceanspaces.com/landx_ghost/2021/11/jadi-owner-bisnis-hanya-1-jutaan-dengan-cuan-yang-sangat-menjanjikan.png)](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)
+
+<!--EndFragment-->
