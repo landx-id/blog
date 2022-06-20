@@ -23,8 +23,6 @@ featuredImage:
   alt: Pengertian Inflasi dan Konsep Inflasi
   title: Memahami Pengertian Inflasi dan Penyebab Inflasi
 ---
-
-
 Apa itu inflasi? Dilansir dari Bank Indonesia (BI), pengertian inflasi adalah kenaikan harga barang dan jasa secara umum dan terus menerus dalam jangka waktu tertentu. Penyebab inflasi ini pun disebabkan karena banyak faktor. Karena itu, agar lebih memahami lebih lanjut, Anda perlu membaca keseluruhan penjelasan apa yang dimaksud inflasi melalui artikel ini.
 
 ## Pengertian Inflasi
@@ -67,6 +65,16 @@ Dalam proses cara mengukur inflasi, sebuah negara memiliki formula perhitungan a
 Untuk di Indonesia sendiri, jika salah satu dari indikator di atas sudah diketahui, maka perhitungan laju inflasi akan dilakukan oleh Badan Pusat Statistik (BPS). Dari hasil hitungan, angka yang muncul akan menunjukkan klasifikasi tentang laju inflasi seperti berikut. Sebagai gambaran, berikut salah satu rumus menghitungnya.
 
 Misalnya, Anda ingin mencari tahu tingkat kenaikan inflasi pada harga beras di tahun 2010 dan 2019. Harga beras  pada tahun 2011 adalah Rp8000 per kg, sedangkan harga beras pada tahun 2021 sebesar Rp15000 per kg. Maka perhitungan kenaikan tingkat inflasinya adalah sebagai berikut.
+
+<!--StartFragment-->
+
+![](https://cdn.discordapp.com/attachments/976381310857773066/981812374954725416/rumus_aktiva_lancar.PNG)
+
+<!--StartFragment-->
+
+![](https://cdn.discordapp.com/attachments/976381310857773066/980886986011316264/Contoh_Cara_Menghitung_Inflasi.PNG)
+
+<!--EndFragment-->
 
 Dari hasil tersebut, Anda dapat menyimpulkan bahwa harga beras mengalami inflasi sebesar 87,5% dari tahun 2011 hingga 2021, atau 8,75% per tahun. Angka tersebut menunjukkan bahwa harga beras mengalami inflasi ringan, karena dalam jangka waktu 10 tahun mengalami inflasi kurang dari 10% per tahunnya.
 
