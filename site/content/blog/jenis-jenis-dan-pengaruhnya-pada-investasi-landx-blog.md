@@ -62,11 +62,11 @@ Pada suku bunga flat, perhitungannya berdasarkan jumlah pokok pinjaman di awal u
 Untuk dapat melihat besaran suku bunga flat, dapat mengikuti rumus berikut ini
 
 > Bunga per bulan= (P x  i x  t) : Jb
-
-P = Pokok pinjaman awal\
-i =  Suku bunga pertahun\
-t = Jumlah tahun jangka waktu kredit\
-Jb = Jumlah bulan dalam jangka waktu kredit
+>
+> P = Pokok pinjaman awal\
+> i =  Suku bunga pertahun\
+> t = Jumlah tahun jangka waktu kredit\
+> Jb = Jumlah bulan dalam jangka waktu kredit
 
 * Suku Bunga Efektif (Effective Interest Rate)
 
@@ -120,3 +120,9 @@ Bila suku bunga tinggi dan kamu memutuskan untuk mencari alternatif lain untuk k
 [LandX](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog) merupakan platform [equity crowdfunding](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog) memberikan kamu kesempatan untuk melakukan investasi modal kecil dengan patungan ke berbagai bisnis yang menguntungan. Kamu bisa melihat berbagai bisnis yang memiliki prospek bagus di [LandX](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog), dan tentukan pilihanmu!
 
 ## [Jadi, Tunggu Apalagi? Investasikan Tabunganm Mu Sekarang Juga di LandX!](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)
+
+<!--StartFragment-->
+
+[![miliki bisnis modal kecil cuma dengan 1 jutaan dapat 4 cabang ](https://accountgram-production.sfo2.cdn.digitaloceanspaces.com/landx_ghost/2021/11/jadi-owner-bisnis-hanya-1-jutaan-dengan-cuan-yang-sangat-menjanjikan.png)](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)
+
+<!--EndFragment-->
