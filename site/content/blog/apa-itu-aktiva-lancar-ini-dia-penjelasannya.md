@@ -112,6 +112,10 @@ Bagi investor data ini sangat penting sebagai acuan untuk pengambilan keputusan 
 
 ![](https://cdn.discordapp.com/attachments/976381310857773066/981812374606610442/total_aktiva_lancar_PT_XYZ.PNG)
 
+<!--StartFragment-->
+
+![](https://cdn.discordapp.com/attachments/976381310857773066/981812374954725416/rumus_aktiva_lancar.PNG)
+
 <!--EndFragment-->
 
 Dari sebuah laporan keuangan, aset atau aktiva lancar dapat berguna sebagai salah satu data dasar untuk menentukan performa perusahaan dalam mengelola asetnya. Karena itu, perhitungan aset atau aktiva lancar sebuah perusahaan perlu dilakukan secara periodik untuk memastikan keberlangsungan dan kestabilan jalannya bisnis.
