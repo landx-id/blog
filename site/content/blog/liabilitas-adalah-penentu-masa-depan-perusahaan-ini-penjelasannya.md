@@ -1,7 +1,7 @@
 ---
 author: Nadya A. Faatihah
 title: Liabilitas Adalah Penentu Masa Depan Perusahaan, Ini Penjelasannya!
-metaTitle: "Liabilitas Adalah: Pengertian dan Manfaatnya Untuk Perusahaan"
+metaTitle: "Liabilitas Adalah: Pengertian dan Manfaatnya untuk Perusahaan"
 metaDescription: Apakah liabilitas adalah faktor penting untuk perkembangan
   perusahaan? Baca artikel ini untuk memahaminya!
 intro: "Liabilitas adalah salah satu komponen paling penting yang harus dimiliki
@@ -9,6 +9,11 @@ intro: "Liabilitas adalah salah satu komponen paling penting yang harus dimiliki
   sebagai strategi sebuah perusahaan untuk mengembangkan bisnisnya dengan
   konsisten. "
 date: 2022-06-16T09:55:53.401Z
+tag:
+  - Rasio Keuangan
+  - Rasio Solvabilitas
+category:
+  - Keuangan
 featuredImage:
   src: https://images.unsplash.com/photo-1544377193-33dcf4d68fb5?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1032&q=80
   alt: Fungsi Aset dan Liabilitas Dalam Laporan Keuangan
@@ -19,8 +24,6 @@ featuredImage:
 Liabilitas adalah kewajiban pembayaran sejumlah dana pinjaman dari kreditur yang harus oleh perusahaan. Kewajiban ini terbagi menjadi dua, yaitu liabilitas jangka panjang dan liabilitas jangka pendek. 
 
 Liabilitas jangka pendek adalah kewajiban yang harus dilunaskan perusahaan selambat-lambatnya satu tahun periode pembukuan akuntansi. Sementara liabilitas jangka panjang adalah kewajiban yang pelunasannya punya tenggang waktu yang relatif lama
-
-
 
 Yuk, baca terus artikel ini untuk lebih mendalami pemahaman tentang liabilitas!
 
@@ -108,6 +111,10 @@ Jika sebuah perusahaan memiliki perusahaan afiliasi maka utang pemegang saham ad
 
 Itu dia penjelasan lengkap tentang liabilitas. Jika dibarengi dengan pengelolaan aset yang baik, adanya liabilitas justru bisa mengoptimalkan keuntungan perusahaan. Tentunya, keuntungan ini juga bisa dirasakan manfaatnya oleh para investor perusahaan tersebut.
 
-## [Cari Opsi Investasi Menjanjikan Hanya Dengan Modal 1 Juta? Yuk, ](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)[Investasi](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)[ di LandX Sekarang!](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)
+## [Cari Opsi Investasi Menjanjikan Hanya dengan Modal 1 Juta? Yuk, ](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)[Investasi](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)[ di LandX Sekarang!](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)
+
+<!--StartFragment-->
+
+[![miliki bisnis modal kecil cuma dengan 1 jutaan dapat 4 cabang ](https://accountgram-production.sfo2.cdn.digitaloceanspaces.com/landx_ghost/2021/11/jadi-owner-bisnis-hanya-1-jutaan-dengan-cuan-yang-sangat-menjanjikan.png)](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)
 
 <!--EndFragment-->
