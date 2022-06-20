@@ -99,7 +99,7 @@ Kapan Vodka & Latte Town dibuka? Kamu bisa loh ikut saksikan grand opening pet-c
 
 Keuntungan investasi di [equity crowdfunding](https://landx.id/) adalah setiap investor berhak menerima imbal hasil berupa persentase dividen sesuai kepemilikan sahamnya secara rutin. Dividen ini berasal dari profit operasional bisnis setelah berjalan.
 
-Karena itu, kamu dapat melihat perkembangan bisnis hingga berita grand opening proyek bisnis berupa pembukaan cabang baru layaknya pemilik bisnis. Proyek Vodka & Latte Town akan hadir di[ aplikasi equity crowdfunding](https://landx.id/) [LandX](https://landx.id/) bulan Mei 2022.
+Karena itu, kamu dapat melihat perkembangan bisnis hingga berita grand opening proyek bisnis berupa pembukaan cabang baru layaknya pemilik bisnis. Proyek Vodka & Latte Town akan segera hadir di[ aplikasi equity crowdfunding](https://landx.id/) [LandX](https://landx.id/). 
 
 ## [Yuk, Jadi Pawrents yang Bangun Fasilitas Pet-Center Terbesar Di Jakarta](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)
 
