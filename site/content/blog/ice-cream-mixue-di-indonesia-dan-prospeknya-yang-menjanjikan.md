@@ -68,4 +68,4 @@ Tentunya, pastikan untuk memilih platform **[equity crowdfunding](https://landx.
 
 ## [Jadi Bos Bisnis dengan Modal 1 Juta, Nantikan Peluangnya di LandX!](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)
 
-## [![miliki bisnis modal kecil cuma dengan 1 jutaan dapat 4 cabang ](https://accountgram-production.sfo2.cdn.digitaloceanspaces.com/landx_ghost/2021/11/jadi-owner-bisnis-hanya-1-jutaan-dengan-cuan-yang-sangat-menjanjikan.png)](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)
+![Cara Punya Bisnis Mixue modal 1 juta](https://media.discordapp.net/attachments/913743599844343808/988457806069919764/AnyConv.com__LandX_Mixue_1080-x-565px_B.webp?width=1057&height=553 "modal 1 juta punya mixue")
