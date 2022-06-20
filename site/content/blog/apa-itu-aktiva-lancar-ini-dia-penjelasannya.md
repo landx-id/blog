@@ -108,9 +108,11 @@ Tidak hanya bagi pemilik perusahaan, memahami cara menghitung aktiva atau aset t
 
 Bagi investor data ini sangat penting sebagai acuan untuk pengambilan keputusan dalam penanaman modal investasi. Untuk itu, berikut adalah simulasi cara menghitung aktiva dalam laporan keuangan perusahaan.
 
-![Cara menghitung aktiva lancar dan tidak lancar](https://media.discordapp.net/attachments/976381310857773066/981812374606610442/total_aktiva_lancar_PT_XYZ.PNG "Cara menghitung aktiva lancar")
+<!--StartFragment-->
 
-![Rumus mengitung Aktiva Lancar dan tidak lancar ](https://media.discordapp.net/attachments/976381310857773066/981812374954725416/rumus_aktiva_lancar.PNG "rumus menghitung aktiva dan passiva")
+![](https://cdn.discordapp.com/attachments/976381310857773066/981812374606610442/total_aktiva_lancar_PT_XYZ.PNG)
+
+<!--EndFragment-->
 
 Dari sebuah laporan keuangan, aset atau aktiva lancar dapat berguna sebagai salah satu data dasar untuk menentukan performa perusahaan dalam mengelola asetnya. Karena itu, perhitungan aset atau aktiva lancar sebuah perusahaan perlu dilakukan secara periodik untuk memastikan keberlangsungan dan kestabilan jalannya bisnis.
 
