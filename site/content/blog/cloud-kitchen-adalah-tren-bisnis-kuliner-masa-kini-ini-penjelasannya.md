@@ -1,7 +1,7 @@
 ---
 author: Nadya A. Faatihah
-title: Cloud Kitchen Adalah Tren Bisnis Kuliner Masa Kini, Ini Penjelasannya!
-metaTitle: Cloud Kitchen Adalah Konsep Bisnis Dengan Prospek Menjanjikan
+title: "Cloud Kitchen: Mengenal Apa Itu Bisnis Cloud Kitchen dan Cara Kerjanya"
+metaTitle: Cara Kerja dan Memulai Bisnis Cloud Kitchen di Indonesia
 metaDescription: Cloud kitchen adalah tren bisnis kuliner yang memiliki prospek
   jangka panjang menjanjikan. Simak penjelasannya!
 intro: Cloud kitchen adalah solusi untuk pemilik bisnis kuliner yang memiliki
@@ -9,9 +9,16 @@ intro: Cloud kitchen adalah solusi untuk pemilik bisnis kuliner yang memiliki
   meningkatkan kualitas, cita rasa, varian produk, dan strategi branding lewat
   digital marketing.
 date: 2022-06-15T05:30:01.994Z
+tag:
+  - Cloud Kitchen
+  - Franchise Makananan
+  - Franchise Modal Kecil
+category:
+  - Bisnis
+  - Investasi
 featuredImage:
   src: https://images.unsplash.com/photo-1600565193348-f74bd3c7ccdf?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80
-  alt: Harga Sewa Cloud Kitchen
+  alt: "Mengenal sistem bisnis cloud kitchen "
   title: Prospek Bisnis Cloud Kitchen Indonesia
 ---
 <!--StartFragment-->
