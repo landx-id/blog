@@ -7,10 +7,17 @@ metaDescription: Restoran AYCE Kaizen akan segera melakukan pengembangan bisnis.
 intro: Restoran AYCE Kaizen akan segera melakukan pengembangan bisnis. Tertarik
   berbisnis atau investasi di restoran ini? Simak caranya!
 date: 2022-06-21T04:43:19.646Z
+tag:
+  - Bisnis F&B
+  - Bisnis Makanan
+  - Bisnis FnB
+  - Usaha Makanan
+category:
+  - Bisnis
 featuredImage:
   title: "Kaizen: Restoran All You Can Eat BBQ ala Jepang yang Wajib Kamu Coba"
   alt: Restoran All You Can Eat BBQ Jepang, Kaizen
-  src: https://unsplash.com/photos/hwLAI5lRhdM
+  src: https://images.unsplash.com/photo-1480796927426-f609979314bd?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80
 ---
 Kaizen All You Can Eat BBQ Grill & Shabu–shabu akan segera membuka restoran keduanya di Pulau Dewata, setelah sebelumnya telah berhasil menjadi restoran AYCE (All You Can Eat) yang hits di Surabaya, Malang, dan juga Bali. Sejak beberapa tahun terakhir, restoran AYCE telah menjadi salah satu tempat makan terfavorit dan menerima antusiasme yang tinggi dari para penikmat kuliner di Indonesia.
 
@@ -45,3 +52,9 @@ Dalam waktu dekat ini Kaizen akan membuka cabang restoran ke limanya di Bali, me
 Keistimewaan [LandX](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog) salah satunya adalah sistem pembelian saham dengan minimum harga yang sangat terjangkau, yakni mulai dari 1jutaan. Jika Anda tertarik untuk ikut berbisnis dan urun modal untuk project pembangunan restoran baru Kaizen, langsung unduh aplikasi [LandX](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog) dan segera lakukan aktivasi akun. Setelah itu, Anda dapat langsung ikut menjadi pemilik bisnis Project Kaizen dengan modal mulai dari 1jutaan.
 
 ## **[Yuk, Download Aplikasi LandX dan Verifikasi Data Kamu untuk Miliki Saham Bisnis](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)**
+
+<!--StartFragment-->
+
+[![miliki bisnis modal kecil cuma dengan 1 jutaan dapat 4 cabang ](https://accountgram-production.sfo2.cdn.digitaloceanspaces.com/landx_ghost/2021/11/jadi-owner-bisnis-hanya-1-jutaan-dengan-cuan-yang-sangat-menjanjikan.png)](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)
+
+<!--EndFragment-->
