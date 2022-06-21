@@ -105,9 +105,7 @@ Selain itu, FOMO juga sering menjadi mengganggu proses investasi dan trading kar
 
 ## Cara Menghindari FOMO (*Fear of Missing Out)* dalam Investasi
 
-FOMO menjadi salah satu hal yang sering dihadapi oleh investor terutama investor yang berinvestasi ke dalam instrumen-instrumen dengan fluktuasi yang tinggi. FOMO saham adalah salah satu yang sering terjadi di kalangan investor dimana mereka membeli saham hanya berdasarkan opini dan 
-
-Berikut ini 5 hal yang WAJIB kamu lakukan agar terhindar dari FOMO saat berinvestasi.
+FOMO menjadi salah satu hal yang sering dihadapi oleh investor terutama investor yang berinvestasi ke dalam instrumen-instrumen dengan fluktuasi yang tinggi. FOMO saham adalah salah satu yang sering terjadi di kalangan investor dimana mereka membeli saham karena saham ini sedang banyak dibahas orang-orang tanpa melakukan riset lanjutan terlebih dahulu. Karena itu, FOMO menjadi hal harus kita hindari saat akan mulai berinvestasi. Karena itu, berikut ini 5 hal yang **WAJIB** kamu lakukan agar terhindar dari FOMO saat berinvestasi.
 
 ### 1. Lakukan Risetmu Sendiri
 
@@ -143,15 +141,15 @@ Kenapa harus investasi di LandX? Karena LandX sudah memiliki izin dan diawasi ol
 
 Tunggu apa lagi?
 
-**[Yuk Patungan Bisnis Menguntungkan Bareng LandX](https://landx.id/project/)**
+**[Yuk Patungan Bisnis Menguntungkan Bareng LandX](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)**
 
-[![Bagaimana? Kamu lebih suka bisnis dengan buyback guarantee atau yang bisa disimpan dalam jangka panjang? Apapun pilihan kamu.. Yuk Patungan  dengan Keuntungan Menjanjikan Bareng LandX](https://accountgram-production.sfo2.cdn.digitaloceanspaces.com/landx_ghost/2021/10/Equity-Crowdfunding-di-Indonesia-1--3.png)](http://landx.id/)
+<!--StartFragment-->
+
+![miliki bisnis modal kecil cuma dengan 1 jutaan dapat 4 cabang ](https://accountgram-production.sfo2.cdn.digitaloceanspaces.com/landx_ghost/2021/11/jadi-owner-bisnis-hanya-1-jutaan-dengan-cuan-yang-sangat-menjanjikan.png)
+
+<!--EndFragment-->
 
 **Baca Juga:**
 
 * [Mau Jadi Investor? Simak Cara Mudah Menjadi Investor Hanya dengan Modal Kecil](https://landx.id/blog/cara-menjadi-investor/)
-* [Tips Penting dalam Menyusun Rencana Investasi Jangka Panjang Terbaik](https://landx.id/blog/investasi-jangka-panjang-adalah/)
-
-**\#YukPatunganBisnis    #LandX.id    #landx         #landx.id    #InvestasiBisnis  #SecuritiesCrowdfunding   #EquityCrowdfunding    #InvestasiMenguntungkan     #Urundana    #BisnisPatungan    #InvestasiUsaha**
-
-*Writer: Galih*
+* [Tips Penting dalam Menyusun Rencana Investasi Jangka Panjang Terbai](https://landx.id/blog/investasi-jangka-panjang-adalah/)
