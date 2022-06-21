@@ -1,5 +1,5 @@
 ---
-author: Della Oktavilia
+author: Della Octavilia
 title: "Gig Ekonomi: Kenali Gig Ekonomi dan Jenis Pekerjaan Gig Worker"
 metaTitle: Gig Economy Tren Kerja Saat Ini? Yuk, Pelajari Selengkapnya Di sini
 metaDescription: Gig economi bisa kita kenal dengan sebutan pekerja lepas. Ini
