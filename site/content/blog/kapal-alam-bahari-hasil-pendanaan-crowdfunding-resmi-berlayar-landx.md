@@ -1,7 +1,7 @@
 ---
 author: Vlora Riyandi
-title: Kapal Alam Bahari Hasil Pendanaan Crowdfunding Resmi Berlayar | LandX
-metaTitle: Kapal Alam Bahari Hasil Pendanaan Crowdfunding Resmi Berlayar | LandX
+title: "Kapal Alam Bahari Hasil Pendanaan Crowdfunding Resmi Berlayar "
+metaTitle: Kapal Alam Bahari Hasil Pendanaan Crowdfunding Resmi Berlayar
 metaDescription: Penantian para investor equity crowdfunding di LandX dibayar
   secara menawan dengan resminya Kapal Alam Bahari 6 meluncur di perairan
   nusantara.
@@ -16,7 +16,7 @@ featuredImage:
 ---
 Penantian para investor [equity crowdfunding](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog) di [LandX](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog) dibayar secara menawan dengan resminya Kapal Alam Bahari 6 meluncur di perairan nusantara. Melalui project bisnis dengan kode saham ASM1, pemilik modal di Indonesia dapat miliki saham bisnis maritim.
 
-Watch this video
+{{< youtube id="erY7SI_ESOA" >}}
 
 Indonesia dikelilingi oleh lautan dan perairan yang luas dengan tingkat kedalaman yang beragam. Hal ini membuat Indonesia memiliki berbagai tipe ekosistem yang kaya sumber daya alam lautan.
 
@@ -81,3 +81,9 @@ Menjadi investor bisnis ternama dengan modal Rp 1 jutaan pada [project bisnis](h
 Investasi juga dapat dilakukan dengan mudah melalui aplikasi LandX pada smartphone kamu. Berinvestasi layaknya belanja online! Jika kamu memiliki pertanyaan yang belum tersedia di website dan aplikasi, LandX menyediakan fasilitas untuk kamu bisa mendiskusikannya di sini.
 
 ## **[Yuk, Lihat Project Bisnis yang Bisa Kamu Danai di Sini](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)**
+
+<!--StartFragment-->
+
+[![miliki bisnis modal kecil cuma dengan 1 jutaan dapat 4 cabang ](https://accountgram-production.sfo2.cdn.digitaloceanspaces.com/landx_ghost/2021/11/jadi-owner-bisnis-hanya-1-jutaan-dengan-cuan-yang-sangat-menjanjikan.png)](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)
+
+<!--EndFragment-->
