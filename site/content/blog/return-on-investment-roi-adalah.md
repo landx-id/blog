@@ -2,16 +2,12 @@
 draft: false
 author: Abdul Wahhab
 slug: return-on-investment-roi-adalah
-title: "Return on Investment (ROI): Cara Menghitung dan Jenis-Jenis ROI"
-metaTitle: "Return on Investment (ROI): Cara Menghitung dan Jenis-Jenis ROI"
-metaDescription: Return on Investment (ROI) adalah salah satu faktor penting
-  yang harus sangat diperhatikan dalam memilih instrumen investasi|Menghitung
-  ROI
-intro: >-
-  ROI atau Return on Investment adalah salah satu komponen penting yang sangat
-  dipertimbangkan investor saat melakukan investasi. 
-
-  Akan tetapi, sudahkah kamu paham bagaimana cara menghitung ROI dan berapa ROI yang baik untuk setiap investasi? Kalau belum yuk simak penjelasan Minland terkait ROI di bawah ini.......
+title: Jenis dan Cara Menghitung Return on Investment (ROI) untuk Investor
+metaTitle: "ROI Adalah: Simak Cara Menghitung ROI untuk Investasi Anda"
+metaDescription: ROI adalah singkatan dari return on investment atau
+  pengembalian dari investasi yang dilakukan
+intro: "Yuk simak jenis-jenis ROI dan cara menghitung return dalam investasi
+  yang bisa memberikan anda keuntungan jangka panjang. "
 date: 2022-01-17T07:49:00.000Z
 tag:
   - investasi
@@ -39,7 +35,7 @@ Akan tetapi, banyak orang tidak paham secara jelas apa itu return on investment 
 
 Karena itu, yuk kita bahasa **apa itu Return on Investment (ROI)** dan kenapa analisis ROI sangat penting sebelum mulai berinvestasi.
 
-## **Apa itu Return on Investment (ROI)?**
+## **Apa Itu ROI (Return on Investment)**
 
 Apabila kamu masuk ke dalam dunia investasi, kamu pasti akan sering mendengar istilah ROI atau return on investment yang menjadi salah satu rasio penting yang harus diperhitungkan dengan baik saat memulai investasi.
 
@@ -55,17 +51,19 @@ Apabila kamu berinvestasi ke dalam bisnis, analisis terhadap ROI menjadi hal yan
 
 Saat investasi bisnis anda biasanya bisa melihat besar perkiraan return on investment melalui prospektus sehingga anda bisa menghitung sendiri potensi keuntungan dari investasi yang akan anda dapatkan. Untuk lebih lanjut mari kita bahas bagaimana menghitung  ROI karena hal ini akan membantu keputusan investasi yang anda lakukan.
 
-## **Menghitung Return on Investment (ROI)**
+## **Cara Menghitung ROI (Return On Investment)**
 
 **Menghitung ROI** akan membuat anda bisa lebih mudah membandingkan efisiensi dari pilihan investasi yang anda lakukan karena setiap instrumen investasi memiliki tingkat return yang berbeda-beda. Salah satu cara menghitung ROI adalah dengan membandingkan  besar keuntungan yang didapatkan dengan besar investasi awal yang anda dapatkan, atau lebih simpelnya dengan rumus seperti di bawah ini:
 
-![rumus menghitung roi agar investasi jangka panjang anda menguntungkan](https://accountgram-production.sfo2.cdn.digitaloceanspaces.com/landx_ghost/2021/09/Cara-menghitung-return-on-investment--ROI---rumus-menghitung-ROI-dalam-investasi.png)
+**Rumus Menghitung ROI:**
+
+![Rumus menghitung ROI yang penting untuk kamu pahami dengan baik baik](https://accountgram-production.sfo2.cdn.digitaloceanspaces.com/landx_ghost/2021/09/Cara-menghitung-return-on-investment--ROI---rumus-menghitung-ROI-dalam-investasi.png "cara dan rumus menghitung ROI dengan optimal. ")
 
 Akan tetapi anda harus ingat bahwa **ROI tidak faktor tunggal** yang harus anda pikirkan dalam investasi karena kamu juga harus paham bahwa potensi keuntungan besar juga diikuti dengan risiko besar pula.
 
 Oleh sebab itu, selain melakukan analisis terhadap ROI kamu juga perlu melakukan analisis dengan berbagai rasio keuangan lain agar bisa melihat bagaimana prospek jangka panjang dari instrumen tempat kamu berinvestasi.
 
-## ***Risiko dan Return* dalam Investasi**
+## **Pentingnya Analisis ROI**
 
 Dalam investasi, kamu harus paham bahwa risk dan return merupakan dua hal yang saling berkaitan satu sama lain sehingga kamu harus paham bahwa di balik return tinggi terdapat juga risiko besar juga.
 
@@ -87,7 +85,7 @@ Dalam menentukan nilai return terbaik anda tidak bisa berpatokan hanya pada besa
 
 Karena itu saat melihat potensi ROI yang tinggi anda tidak langsung tergiur tanpa paham risiko yang mungkin anda hadapi dalam beberapa periode ke depan.
 
-## Apakah ROI Adalah Pertimbangan Utama? 
+## Apakah ROI Adalah Pertimbangan Utama?
 
 Dalam memilih investasi, orang memang sering menjadikan Return on Investment (ROI) sebagai acuan utama mereka. Akan tetapi, kamu harus ingat dengan konsep "*high risk high return"* sehingga dalam setiap return tinggi yang ditawarkan ada risiko besar juga yang harus berani untuk anda hadapi. 
 
