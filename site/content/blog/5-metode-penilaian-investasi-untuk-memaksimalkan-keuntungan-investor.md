@@ -1,7 +1,7 @@
 ---
 author: Nadya A. Faatihah
-title: 5 Metode Penilaian Investasi Untuk Memaksimalkan Keuntungan Investor
-metaTitle: Panduan Metode Penilaian Investasi yang Wajib Dipahami Investor
+title: 5 Metode Penilaian Investasi untuk Analisis Investasi Anda
+metaTitle: Yuk Simak Analisis Kelayakan Investasi yang Penting Kamu Lakukan
 metaDescription: Metode penilaian investasi wajib dilakukan agar investor dapat
   memilih investasi pada bisnis perusahaan yang paling menjanjikan. Simak
   penjelasannya!
@@ -10,10 +10,19 @@ intro: Agar investor bisa mengoptimalkan alokasi dana investasi untuk bisnis
   dengan didasari modal, arus kas, profitabilitas jangka panjang, dan periode
   investasi.
 date: 2022-06-20T06:22:13.225Z
+tag:
+  - Valuasi Saham
+  - Investasi Saham
+  - Instrumen Investasi
+  - Tips Investasi
+category:
+  - Investasi
+  - Bisnis
+  - Keuangan
 featuredImage:
   src: https://images.unsplash.com/photo-1594980596870-8aa52a78d8cd?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=725&q=80
-  alt: Analisis Kelayakan Investasi
-  title: Metode Penilaian Investasi dan Contohnya
+  alt: "5 metode analisis kelayakan investasi yang harus kamu pahami "
+  title: Metode penilaian investasi yang harus kamu pahami dengan baik
 ---
 <!--StartFragment-->
 
@@ -23,31 +32,31 @@ Baca artikel ini untuk berbagai metode penilaian investasi dan contohnya, serta 
 
 Dalam penilaian investasi, terdapat 4 aspek yang diperhatikan yaitu modal, arus kas, profitabilitas jangka panjang, dan periode investasi. Seluruh aspek ini digunakan untuk memperkirakan tingkat keuntungan serta risiko yang diperoleh dari sebuah investasi. Dari aspek tersebut, maka metode penilaian investasi yang bisa digunakan adalah berikut ini.
 
-## 1. Payback Period (PP)
+## *1. Payback Period (PP)*
 
 *Payback Period* adalah metode penilaian investasi yang menghitung rentang waktu yang dibutuhkan untuk mengembalikan modal awal investasi. Hasil perhitungannya dinyatakan satuan waktu (tahun atau bulan) yang dinilai dari kas perusahaan. Melalui metode ini, contoh keputusan investasi yang tepat adalah semakin pendek periode waktu pengembalian (payback), maka semakin baik hasil metode penilaian investasinya.  
 
 Berikut adalah rumus untuk metode penilaian investasi *payback period*.
 
-**nilai investasi : kas masuk bersih**
+> **nilai investasi : kas masuk bersih**
 
 Metode penilaian investasi ini mudah dipahami oleh siapa pun, termasuk calon investor yang masih awam tentang dunia investasi. Namun, kekurangan dari metode penilaian investasi ini adalah perhitungannya akan berhenti jika pengembalian nilai investasi sudah tercapai. 
 
-## 2. Net Present Value (NPV)
+## *2. Net Present Value (NPV)*
 
 *Net Present Value* adalah metode penilaian investasi yang mengukur selisih nilai investasi saat ini dari arus kas yang masuk, serta nilai arus kas yang keluar masa mendatang selama periode tertentu. Singkatnya, metode penilaian investasi ini menghitung prospek keuntungan yang bisa didapat di masa depan jika berinvestasi dengan nilai uang saat ini. Berikut adalah rumus *Net Present Value*.
 
-**NPV = (C1:(1+r)) + (C2:(1+r)2) + (C3:(1+r)3) + … + (Ct:(1+r)t) – C0**
+> **NPV = (C1:(1+r)) + (C2:(1+r)2) + (C3:(1+r)3) + … + (Ct:(1+r)t) – C0**
 
 **Ct adalah arus kas per tahun dalam periode t, sedangkan C0 adalah nilai investasi awal pada tahun ke-0. Sementara r adalah suku bunga dalam persen.**
 
 Umumnya, metode penilaian investasi NPV digunakan saat menghitung modal untuk menganalisis potensi keuntungan sebuah proyek atau investasi yang akan dilaksanakan. Sederhananya, *Net Present Value* adalah perkiraan laba yang akan didapatkan dari usaha, proyek, atau penanaman modal. 
 
-## 3. Average Rate of Return (ARR)
+## *3. Average Rate of Return (ARR)*
 
 Disebut juga dengan metode penilaian investasi *financial statement* atau *accounting rate return*, metode ini mengukur besarnya keuntungan bersih rata-rata tahunan dari sebuah investasi. Perhitungan ini akan menggambarkan potensi pendapatan yang akan diterima investor selama masa investasi. Berikut rumusnya.
 
-**Nilai ARR = (rata-rata laba setelah pajak : rata-rata investasi) x 100%**
+> **Nilai ARR = (rata-rata laba setelah pajak : rata-rata investasi) x 100%**
 
 Contoh keputusan investasi yang tepat melalui metode ARR ini adalah, jika nilai ARR menyatakan persentase laba bersih terhadap jumlah modal investasi awal. Semakin tinggi nilai ARR, maka investasi dinilai semakin menguntungkan. Kelebihan dari metode penilaian investasi ini adalah cenderung memberikan hasil yang akurat karena didasari pada informasi akuntansi yang tersedia, yaitu laba bersih perusahaan.
 
@@ -55,7 +64,7 @@ Contoh keputusan investasi yang tepat melalui metode ARR ini adalah, jika nilai 
 
 *Profitability Index* adalah metode penilaian investasi yang dihitung dengan membandingkan nilai arus kas masa mendatang dengan nilai pengeluaran investasi masa sekarang. Metode ini membandingkan *present value* (PV) kas masuk dengan PV kas keluar. Berikut adalah rumus profitability index.
 
-**Nilai PI = nilai sekarang dari arus kas di masa depan : investasi awal**
+> **Nilai PI = nilai sekarang dari arus kas di masa depan : investasi awal**
 
 Walaupun kriteria investasi NPV memberikan suatu nilai absolut jumlah yang diinginkan dari suatu investasi proyek bisnis, *profitability index* (PI) akan menjadi ukuran relatif yang dibutuhkan dalam proposal investasi, yang merupakan rasio nilai sekarang dari manfaat masa depan terhadap modal awal investasi.
 
@@ -63,7 +72,7 @@ Walaupun kriteria investasi NPV memberikan suatu nilai absolut jumlah yang diing
 
 IRR adalah metode penilaian investasi yang menghitung tingkat bunga suatu investasi dengan menyamakan NPV arus kas saat ini dengan NPV arus kas masa mendatang. Semakin tinggi nilai IRR yang dihasilkan, maka semakin layak investasi tersebut diambil, begitu pun sebaliknya. Jika nilai IRR tinggi hal ini menandakan nilai tersebut lebih besar daripada modal awal investasi. Berikut adalah rumus metode penilaian investasi IRR.
 
-**Nilai IRR = rk + (NPV rk/(TPV rk – TPV rb)) x (rb – rk)**
+> **Nilai IRR = rk + (NPV rk/(TPV rk – TPV rb)) x (rb – rk)**
 
 **rk = tingkat bunga yang lebih kecil**
 
@@ -94,5 +103,9 @@ Sementara bagi investor, manfaat adanya analisis ini adalah untuk menemukan pros
 Itu dia penjelasan mengenai berbagai metode penilaian investasi yang bisa kamu jadikan referensi untuk menyusun strategi alokasi modal investasi untuk bisnis dengan prospek menjanjikan. Karena pada dasarnya, perkembangan dan kemajuan berkelanjutan sebuah bisnis tidak hanya ditentukan oleh tingkat nilai penjualan, namun ditentukan juga oleh dukungan suntikan dana dari para investor.
 
 ## [Ingin Jadi Bos Bisnis Menjanjikan Dengan Modal 1 Juta? Mulai Pelajari Peluang Investasi di LandX Sekarang!](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)
+
+<!--StartFragment-->
+
+[![miliki bisnis modal kecil cuma dengan 1 jutaan dapat 4 cabang ](https://accountgram-production.sfo2.cdn.digitaloceanspaces.com/landx_ghost/2021/11/jadi-owner-bisnis-hanya-1-jutaan-dengan-cuan-yang-sangat-menjanjikan.png)](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)
 
 <!--EndFragment-->
