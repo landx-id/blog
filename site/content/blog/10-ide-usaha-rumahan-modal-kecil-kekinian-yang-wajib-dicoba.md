@@ -7,6 +7,12 @@ metaDescription: Apa saja ide usaha rumahan modal kecil yang dapat kamu lakukan
 intro: Kamu ingin mempunyai penghasilan tambahan dan dihasilkan dirumah? Ini dia
   10 ide usaha rumahan modal kecil kekinian yang bisa kamu coba sekarang juga.
 date: 2022-06-21T07:34:22.188Z
+tag:
+  - Usaha Sampingan
+  - Bisnis Sampingan
+  - Bisnis Modal Kecil
+category:
+  - Bisnis
 featuredImage:
   title: 10 Ide Usaha Rumahan Modal Kecil Kekinian yang Wajib Dicoba!
   alt: Ide Usaha Rumahan Modal Kecil
@@ -40,108 +46,117 @@ Sebelum memulai suatu usaha rumahan modal kecil, kamu harus memiliki kreativitas
 
 Berikut ini 10 ide usaha rumahan modal kecil yang dapat kamu coba:
 
-1. **Bisnis Kue**
-   Kamu memiliki passion di bidang pastry? Mungkin kamu bisa mencoba bisnis kue sebagai bisnis rumahan modal kecil kamu. 
+**1. Bisnis Kue**
+Kamu memiliki passion di bidang pastry? Mungkin kamu bisa mencoba bisnis kue sebagai bisnis rumahan modal kecil kamu. 
 
-   Kamu percaya gak, kalau bisnis kue selalu menjadi tren dan selalu mengalami perkembangan setiap waktunya.
+Kamu percaya gak, kalau bisnis kue selalu menjadi tren dan selalu mengalami perkembangan setiap waktunya.
 
-   Mungkin kamu pernah lihat di media sosial seputar jenis-jenis kue yang sedang banyak diminati. Seperti dessert box, bento cake, burnt cheesecake, egg tart, korean garlic cheese bread, cinnamon rolls, dan masih banyak lagi.
+Mungkin kamu pernah lihat di media sosial seputar jenis-jenis kue yang sedang banyak diminati. Seperti dessert box, bento cake, burnt cheesecake, egg tart, korean garlic cheese bread, cinnamon rolls, dan masih banyak lagi.
 
-   Nah, kamu bisa mulai dengan melihat tren kue yang ada, lalu kamu membuat inovasi baru lagi. Bisa dari desainnya, rasanya, dan packaging-nya bisa kamu buat lebih sekreatif mungkin agar menjadi daya tarik baru bagi calon customer.
+Nah, kamu bisa mulai dengan melihat tren kue yang ada, lalu kamu membuat inovasi baru lagi. Bisa dari desainnya, rasanya, dan packaging-nya bisa kamu buat lebih sekreatif mungkin agar menjadi daya tarik baru bagi calon customer.
 
-   Jika kamu serius menjalankan bisnis kue ini, suatu saat nanti bisnis kue kamu bisa berkembang besar dan kamu juga bisa melakukan ekspansi terhadap bisnis kamu.
-2. **Jasa Buket bunga** 
-   Ide usaha rumahan modal kecil dan kreatif yang bisa kamu coba selanjutnya adalah membuka jasa buket bunga.
+Jika kamu serius menjalankan bisnis kue ini, suatu saat nanti bisnis kue kamu bisa berkembang besar dan kamu juga bisa melakukan ekspansi terhadap bisnis kamu.
 
-   Jika kamu sangat senang dengan bunga dan kamu gemar menghias dan merangkai bunga, ide usaha rumahan ini cocok untuk kamu.
+**2. Jasa Buket bunga** 
+Ide usaha rumahan modal kecil dan kreatif yang bisa kamu coba selanjutnya adalah membuka jasa buket bunga.
 
-   Jangan salah, bisnis buket bunga ini banyak peminatnya lho!
+Jika kamu sangat senang dengan bunga dan kamu gemar menghias dan merangkai bunga, ide usaha rumahan ini cocok untuk kamu.
 
-   Bisnis ini banyak dibutuhkan untuk berbagai acara, mulai dari acara kecil hingga acara besar. Banyak orang yang membutuhkan jasa buket bunga sebagai hadiah untuk wisuda, pernikahan, untuk orang kesayangan di hari yang spesial, dan masih banyak lagi.
+Jangan salah, bisnis buket bunga ini banyak peminatnya lho!
 
-   Kamu bisa memulai bisnis ini dengan mempromosikan hasil karya merangkai bunga kamu di sosial media. 
+Bisnis ini banyak dibutuhkan untuk berbagai acara, mulai dari acara kecil hingga acara besar. Banyak orang yang membutuhkan jasa buket bunga sebagai hadiah untuk wisuda, pernikahan, untuk orang kesayangan di hari yang spesial, dan masih banyak lagi.
 
-   Selain buket bunga, kamu juga dapat memberikan inovasi lain untuk calon customer seperti snack buket, buket uang yang sedang tren belakangan ini.
-3. **Katering Makanan Sehat**
-   Kamu orang yang menjalani hidup? kamu juga senang memberikan tips hidup sehat dan tips makanan sehat bagi banyak orang? Bisnis ini cocok untuk kamu coba.
+Kamu bisa memulai bisnis ini dengan mempromosikan hasil karya merangkai bunga kamu di sosial media. 
 
-   Bisnis katering makanan sehat dapat kamu mulai sebagai ide usaha rumahan modal kecil.
+Selain buket bunga, kamu juga dapat memberikan inovasi lain untuk calon customer seperti snack buket, buket uang yang sedang tren belakangan ini.
 
-   Saat ini, bisnis katering makanan sehat sedang diminati oleh banyak orang. Hal ini juga karena dampak dari pandemi, sehingga banyak orang mulai menjalani hidup sehat.
+**3. Katering Makanan Sehat**
+Kamu orang yang menjalani hidup? kamu juga senang memberikan tips hidup sehat dan tips makanan sehat bagi banyak orang? Bisnis ini cocok untuk kamu coba.
 
-   Saat kamu memulai bisnis ini, kamu bisa mengedukasi calon customer kamu bahwa makanan sehat pasti enak. Karena masih banyak yang beranggapan bahwa makanan sehat pasti sayur-sayuran dan rasanya tidak enak.
+Bisnis katering makanan sehat dapat kamu mulai sebagai ide usaha rumahan modal kecil.
 
-   Kamu juga bisa memanfaatkan sosial media saat menjalankan bisnis ini. Dengan kamu selalu update untuk menu makanan sehat disertai besar kalori di dalamnya.
+Saat ini, bisnis katering makanan sehat sedang diminati oleh banyak orang. Hal ini juga karena dampak dari pandemi, sehingga banyak orang mulai menjalani hidup sehat.
 
-   Bisnis katering makanan sehat bila kamu jalani dengan serius akan menghasilkan keuntungan yang tidak main-main, lho. Ini merupakan ide usaha rumahan modal kecil untung besar yang bisa kamu dapatkan.
-4. **Laundry Kiloan**
-   Jika kamu bertempat tinggal di sebuah perumahan atau di dekat kampus dengan gaya hidup yang sibuk setiap harinya. Bisnis laundry kiloan menjadi usaha rumahan modal kecil  yang bisa kamu coba.
+Saat kamu memulai bisnis ini, kamu bisa mengedukasi calon customer kamu bahwa makanan sehat pasti enak. Karena masih banyak yang beranggapan bahwa makanan sehat pasti sayur-sayuran dan rasanya tidak enak.
 
-   Setiap harinya  generasi milenial dan generasi z memiliki kesibukan dengan intensitas tinggi. Sehingga banyak dari mereka lebih memilih untuk melakukan hal yang mudah dan praktis dengan menggunakan layanan jasa untuk membantu kehidupan sehari-harinya.
+Kamu juga bisa memanfaatkan sosial media saat menjalankan bisnis ini. Dengan kamu selalu update untuk menu makanan sehat disertai besar kalori di dalamnya.
 
-   Salah satunya banyak dari mereka memanfaatkan layanan jasa laundry kiloan untuk mencuci pakaian yang sudah tidak ada waktu lagi untuk mereka kerjakan.
+Bisnis katering makanan sehat bila kamu jalani dengan serius akan menghasilkan keuntungan yang tidak main-main, lho. Ini merupakan ide usaha rumahan modal kecil untung besar yang bisa kamu dapatkan.
 
-   Bisnis laundry kiloan ini dapat kamu manfaatkan sebagai usaha rumahan sampingan dengan keuntungan besar.
-5. **Dropshipper** 
-   Satu lagi ide usaha rumahan modal kecil untuk kamu yang suka berbelanja online, tapi secara bersamaan ingin memperoleh keuntungan. Ya, bisnis dropshipper jawabannya.
+**4. Laundry Kiloan**
+Jika kamu bertempat tinggal di sebuah perumahan atau di dekat kampus dengan gaya hidup yang sibuk setiap harinya. Bisnis laundry kiloan menjadi usaha rumahan modal kecil  yang bisa kamu coba.
 
-   Sebagai dropshipper, kamu hanya menjual barang milik produsen atau supplier langsung kepada pembeli. Disini kamu juga tidak harus repot mengirim produk ke pembeli, karena sudah dilakukan langsung oleh produsen.
+Setiap harinya  generasi milenial dan generasi z memiliki kesibukan dengan intensitas tinggi. Sehingga banyak dari mereka lebih memilih untuk melakukan hal yang mudah dan praktis dengan menggunakan layanan jasa untuk membantu kehidupan sehari-harinya.
 
-   Kamu hanya perlu menemukan produsen yang bagus dan terpercaya. Lalu kamu memasarkan produk produsen tersebut ke orang lain melalui media sosial kamu sendiri.
+Salah satunya banyak dari mereka memanfaatkan layanan jasa laundry kiloan untuk mencuci pakaian yang sudah tidak ada waktu lagi untuk mereka kerjakan.
 
-   Dalam menjual produknya, kamu dapat menambahkan harga tiap produk dari harga asli yang diberikan oleh pihak produsen.
+Bisnis laundry kiloan ini dapat kamu manfaatkan sebagai usaha rumahan sampingan dengan keuntungan besar.
 
-   Memulai bisnis dropship ini banyak dipilih oleh kamu milenial yang tidak mau ribet dan dapat menghasilkan keuntungan yang menjanjikan.
-6. **Clothing Line**
-   Kamu punya passion di bidang fashion? Kamu juga ingin memiliki bisnis fashion yang sesuai dengan selera kamu? Bisnis clothing line bisa kamu coba sebagai ide usaha rumahan sampingan.
+**5. Dropshipper** 
+Satu lagi ide usaha rumahan modal kecil untuk kamu yang suka berbelanja online, tapi secara bersamaan ingin memperoleh keuntungan. Ya, bisnis dropshipper jawabannya.
 
-   Percaya atau tidak, fashion akan terus berkembang mengikuti perkembangan zaman. Saat ini banyak muncul berbagai tren fashion dan terus akan berlanjut. Saat ini tren fashion yang sedang berjalan adalah back to 90’s.
+Sebagai dropshipper, kamu hanya menjual barang milik produsen atau supplier langsung kepada pembeli. Disini kamu juga tidak harus repot mengirim produk ke pembeli, karena sudah dilakukan langsung oleh produsen.
 
-   Tapi ingat, lakukan riset terlebih dahulu ya agar desain kamu dapat menarik perhatian calon customer. 
+Kamu hanya perlu menemukan produsen yang bagus dan terpercaya. Lalu kamu memasarkan produk produsen tersebut ke orang lain melalui media sosial kamu sendiri.
 
-   Kamu bisa menciptakan clothing line sesuai dengan keunikan tersendiri dan dipadupadankan dengan tren yang sedang berkembang saat ini. Kamu bisa kerahkan ide sekreatif mungkin untuk menciptakan produk yang engaging. 
-7. **Usaha Snack (Cemilan)**
-   Siapa sih disini yang nggak suka ngemil? 
+Dalam menjual produknya, kamu dapat menambahkan harga tiap produk dari harga asli yang diberikan oleh pihak produsen.
 
-   Lagi kerja aja kita bisa sambil ngemil, nonton tv sambil ngemil, bahkan belajar bisa sambil ngemil. Dengan makan cemilan sendiri diketahui bisa membangkitkan rasa semangat dalam diri kita.
+Memulai bisnis dropship ini banyak dipilih oleh kamu milenial yang tidak mau ribet dan dapat menghasilkan keuntungan yang menjanjikan.
 
-   Usaha cemilan pun saat ini sedang banyak diminati sebagai ide usaha rumahan.
+**6. Clothing Line**
+Kamu punya passion di bidang fashion? Kamu juga ingin memiliki bisnis fashion yang sesuai dengan selera kamu? Bisnis clothing line bisa kamu coba sebagai ide usaha rumahan sampingan.
 
-   Kamu bisa memulainya dengan cemilan-cemilan yang menjadi favorit orang banyak, seperti keripik kentang, keripik singkong, keripik jagung, dan lainnya. Lalu untuk rasanya kamu bisa membuat berbagai varian rasa yang unik agar membedakan produk kamu dengan kompetitor.
+Percaya atau tidak, fashion akan terus berkembang mengikuti perkembangan zaman. Saat ini banyak muncul berbagai tren fashion dan terus akan berlanjut. Saat ini tren fashion yang sedang berjalan adalah back to 90’s.
 
-   Lalu, kamu juga dapat membuat packaging yang menarik, ramah lingkungan, dan memiliki fungsi lebih sebagai ciri khas bisnis kamu. Atau kamu juga dapat membuat variasi cemilan sehat sebagai pembeda dengan kompetitor lain.
+Tapi ingat, lakukan riset terlebih dahulu ya agar desain kamu dapat menarik perhatian calon customer. 
 
-   Keuntungan yang bisa diperoleh pada bisnis cemilan ini pun tidak bisa dianggap sepele.
-8. **Usaha Menjahit** 
-   Kamu memiliki minat yang besar dalam menjahit dan kamu mahir menjahit?
+Kamu bisa menciptakan clothing line sesuai dengan keunikan tersendiri dan dipadupadankan dengan tren yang sedang berkembang saat ini. Kamu bisa kerahkan ide sekreatif mungkin untuk menciptakan produk yang engaging. 
 
-   Usaha menjahit dapat kamu pilih sebagai ide usaha rumahan modal kecil yang dapat kamu pilih.
+**7. Usaha Snack (Cemilan)**
+Siapa sih disini yang nggak suka ngemil? 
 
-   Bisnis ini pun banyak peminatnya, lho. Mulai dari jahit baju pernikahan, baju untuk bridesmaid, baju wisuda, baju lamaran, baju lebaran, dan banyak lagi.
+Lagi kerja aja kita bisa sambil ngemil, nonton tv sambil ngemil, bahkan belajar bisa sambil ngemil. Dengan makan cemilan sendiri diketahui bisa membangkitkan rasa semangat dalam diri kita.
 
-   Banyak orang lebih memilih untuk memakai jasa menjahit, karena mereka dapat membuat baju sesuai selera yang diinginkan, dan dengan harga yang terjangkau.
+Usaha cemilan pun saat ini sedang banyak diminati sebagai ide usaha rumahan.
 
-   Bila kamu serius dan konsisten dalam usaha menjahit ini nantinya bisnis kamu dapat berkembang menjadi konveksi, hingga butik. Tentunya dengan keuntungan yang besar pula yang bisa kamu dapatkan.
-9. **Usaha Makanan Siap Masak**
-   Ide usaha rumahan selanjutnya yang bisa kamu coba adalah usaha makanan siap masak.
+Kamu bisa memulainya dengan cemilan-cemilan yang menjadi favorit orang banyak, seperti keripik kentang, keripik singkong, keripik jagung, dan lainnya. Lalu untuk rasanya kamu bisa membuat berbagai varian rasa yang unik agar membedakan produk kamu dengan kompetitor.
 
-   Seseorang yang memiliki kegiatan dengan intensitas tinggi sehari-harinya, akan memilih hal yang mudah dan praktis untuk membantu kegiatan sehari-harinya. Mereka juga sering tidak memiliki waktu untuk memasak.
+Lalu, kamu juga dapat membuat packaging yang menarik, ramah lingkungan, dan memiliki fungsi lebih sebagai ciri khas bisnis kamu. Atau kamu juga dapat membuat variasi cemilan sehat sebagai pembeda dengan kompetitor lain.
 
-   Oleh karena itu mereka lebih memilih untuk membeli masakan yang siap masak dengan praktis dan tidak memakan waktu lama.
+Keuntungan yang bisa diperoleh pada bisnis cemilan ini pun tidak bisa dianggap sepele.
 
-   Bila kamu tertarik untuk menjalankan usaha ini, kamu bisa membuat masakan sehari-hari dengan konsep frozen food. Sehingga masakan kamu bisa tahan lama, dan proses menggunakannya tidak memakan waktu lama.
+**8. Usaha Menjahit** 
+Kamu memiliki minat yang besar dalam menjahit dan kamu mahir menjahit?
 
-   Ide usaha rumahan ini dinilai dapat mendatangkan keuntungan yang besar dan menjanjikan.
-10. **Usaha Kedai Kopi**
-    Ide usaha rumahan modal kecil selanjutnya yang sedang tren dan dapat kamu lakukan ialah usaha kedai kopi.
+Usaha menjahit dapat kamu pilih sebagai ide usaha rumahan modal kecil yang dapat kamu pilih.
 
-    Sekarang, nongkrong di kedai kopi sudah menjadi kebiasaan bahkan kebutuhan bagi generasi milenial.
+Bisnis ini pun banyak peminatnya, lho. Mulai dari jahit baju pernikahan, baju untuk bridesmaid, baju wisuda, baju lamaran, baju lebaran, dan banyak lagi.
 
-    Jika kamu memiliki space besar di depan rumah, kamu bisa memanfaatkan space tersebut untuk dijadikan kedai kopi kekinian atau kamu juga bisa membuka franchise kopi.
+Banyak orang lebih memilih untuk memakai jasa menjahit, karena mereka dapat membuat baju sesuai selera yang diinginkan, dan dengan harga yang terjangkau.
 
-    Kamu bisa menciptakan konsep yang memiliki ciri khas tersendiri yang nyaman, lalu diberikan fasilitas wifi, dan menu makanan yang bervariasi dengan harga yang terjangkau.
+Bila kamu serius dan konsisten dalam usaha menjahit ini nantinya bisnis kamu dapat berkembang menjadi konveksi, hingga butik. Tentunya dengan keuntungan yang besar pula yang bisa kamu dapatkan.
 
-    Jika kamu serius menjalankan usaha kedai kopi ini, dan kamu tidak bosan untuk selalu membuat inovasi baru. Maka, kedai kopi kamu nantinya akan berkembang besar dan dapat melakukan ekspansi usaha.
+**9. Usaha Makanan Siap Masak**
+Ide usaha rumahan selanjutnya yang bisa kamu coba adalah usaha makanan siap masak.
+
+Seseorang yang memiliki kegiatan dengan intensitas tinggi sehari-harinya, akan memilih hal yang mudah dan praktis untuk membantu kegiatan sehari-harinya. Mereka juga sering tidak memiliki waktu untuk memasak.
+
+Oleh karena itu mereka lebih memilih untuk membeli masakan yang siap masak dengan praktis dan tidak memakan waktu lama.
+
+Bila kamu tertarik untuk menjalankan usaha ini, kamu bisa membuat masakan sehari-hari dengan konsep frozen food. Sehingga masakan kamu bisa tahan lama, dan proses menggunakannya tidak memakan waktu lama.
+
+Ide usaha rumahan ini dinilai dapat mendatangkan keuntungan yang besar dan menjanjikan.
+
+**10. Usaha Kedai Kopi**
+Ide usaha rumahan modal kecil selanjutnya yang sedang tren dan dapat kamu lakukan ialah usaha kedai kopi.
+
+Sekarang, nongkrong di kedai kopi sudah menjadi kebiasaan bahkan kebutuhan bagi generasi milenial.
+
+Jika kamu memiliki space besar di depan rumah, kamu bisa memanfaatkan space tersebut untuk dijadikan kedai kopi kekinian atau kamu juga bisa membuka franchise kopi.
+
+Kamu bisa menciptakan konsep yang memiliki ciri khas tersendiri yang nyaman, lalu diberikan fasilitas wifi, dan menu makanan yang bervariasi dengan harga yang terjangkau.
+
+Jika kamu serius menjalankan usaha kedai kopi ini, dan kamu tidak bosan untuk selalu membuat inovasi baru. Maka, kedai kopi kamu nantinya akan berkembang besar dan dapat melakukan ekspansi usaha.
 
 ## Ide Usaha Rumahan Menjadi Side Hustle bagi Investor
 
@@ -156,3 +171,9 @@ Wujudkan side hustle kamu dengan berinvestasi bersama [LandX](https://landx.id/p
 [LandX](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog), platform [equity crowdfunding](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog) terpercaya, transparan, dan telah memiliki izin dari Otoritas Jasa Keuangan (OJK). Kamu bisa mendapatkan keuntungan besar dan modal kecil.
 
 ## **[Yuk, Wujudkan Side Hustle Dengan Investasi di LandX Sekarang juga!](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)**
+
+<!--StartFragment-->
+
+[![miliki bisnis modal kecil cuma dengan 1 jutaan dapat 4 cabang ](https://accountgram-production.sfo2.cdn.digitaloceanspaces.com/landx_ghost/2021/11/jadi-owner-bisnis-hanya-1-jutaan-dengan-cuan-yang-sangat-menjanjikan.png)](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)
+
+<!--EndFragment-->
