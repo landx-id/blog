@@ -1,17 +1,24 @@
 ---
 author: Della Octavilia
-title: Apa Itu Deposito? Rekomendasi Investasi yang Wajib Dicoba
-metaTitle: Apa Itu Deposito? Rekomendasi Investasi yang Wajib Dicoba | LandX Blog
+title: Apa Itu Deposito? Yuk Pahami Return dan Jenis Deposito Berjangka
+metaTitle: Apa Itu Deposito? Yuk Pahami Return dan Jenis Deposito Berjangka
 metaDescription: Deposito adalah layanan bank untuk menyimpan uang dengan
   keuntungan suku bunga yang lebih tinggi dari tabungan lainnya.
 intro: Apa itu deposito? Deposito adalah layanan bank yang dapat dimanfaatkan
   nasabah untuk menyimpan uang dengan keuntungan suku bunga yang lebih tinggi
   dari tabungan lain.
 date: 2022-06-21T01:44:31.614Z
+tag:
+  - Deposito
+  - Investasi Aman untuk Pemula
+  - Investasi Modal Kecil
+  - Investor Pemula
+category:
+  - Invesatasi
 featuredImage:
   title: Apa Itu Deposito? Rekomendasi Investasi yang Wajib Dicoba
   src: img/bunga-deposito.jpg
-  alt: apa itu deposito dan keuntungannya
+  alt: Memahami jenis dan bunga deposito untuk investasi jangka panjang anda
 ---
 Apa itu deposito? Mungkin masih banyak dari kalian yang masih belum mengetahui tentang deposito. Padahal kalian dapat memanfaatkan deposito sebagai tempat untuk menyimpan uang kalian.
 
@@ -37,9 +44,9 @@ Saat kamu memutuskan untuk menggunakan deposito, kamu harus mengetahui jika depo
 
 Sebelum kamu memutuskan berinvestasi menggunakan deposito, sebaiknya kamu harus mengetahui terlebih dahulu jenis-jenis deposito.
 
-## Jenis-Jenis Deposito 
+## Jenis-jenis Deposito
 
-* #### Deposito Berjangka 
+* #### Deposito Berjangka
 
 Deposito berjangka adalah jenis penyimpanan yang pencairannya dilakukan berdasarkan jangka waktu tertentu yang telah ditentukan antara pihak bank dan nasabah maupun calon nasabah. 
 
@@ -129,7 +136,7 @@ Nah, penting untuk kamu mengetahui cara menghitung bunga deposito, jika kamu ber
 
 ## Keuntungan Bunga Deposito
 
-![hitung-keuntungan-bunga-deposito](img/bunga-deposito.png "Bunga Deposito")
+![](blob:https://keen-mestorf-9781e3.netlify.app/47a90ca1-8181-49df-bf1d-d3837ae66a45)
 
 ## Risiko Deposito
 
@@ -150,3 +157,9 @@ Kamu bisa lho mulai berinvestasi bersama LandX hanya dengan menggunakan modal ke
 LandX merupakan platform equity crowdfunding memberikan kamu kesempatan untuk melakukan investasi modal kecil dengan patungan ke berbagai bisnis yang menguntungan. Kamu bisa melihat berbagai bisnis yang memiliki prospek bagus di LandX, dan tentukan pilihanmu sekarang!
 
 ## [Investasikan Dana Kamu di LandX Sekarang Juga!](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)
+
+<!--StartFragment-->
+
+[![miliki bisnis modal kecil cuma dengan 1 jutaan dapat 4 cabang ](https://accountgram-production.sfo2.cdn.digitaloceanspaces.com/landx_ghost/2021/11/jadi-owner-bisnis-hanya-1-jutaan-dengan-cuan-yang-sangat-menjanjikan.png)](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)
+
+<!--EndFragment-->
