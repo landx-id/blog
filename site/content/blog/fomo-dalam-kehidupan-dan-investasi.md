@@ -2,12 +2,12 @@
 draft: false
 author: Abdul Wahhab
 slug: fomo-dalam-kehidupan-dan-investasi
-title: 5 Cara Terhindar dari FOMO saat Berinvestasi yang Harus Anda Pahami
-metaTitle: 5 Cara Terhindar dari FOMO saat Berinvestasi yang Harus Anda Pahami
-metaDescription: Yuk pahami bagaimana cara terhindar dari FOMO dalam investasi
-  agar membuat keputusan investasi yang optimal
+title: "FOMO: Memahami FOMO Itu Apa dan Cara Menghindarinya dalam Investasi "
+metaTitle: "FOMO: Memahami FOMO Itu Apa dan Cara Menghindarinya dalam Investasi "
+metaDescription: FOMO adalah rasa takut ketinggalan akan segala hal, yuk pahami
+  FOMO itu apa dan cara menghindari FOMO saham
 intro: Yuk simak bagaimana cara terhindar dari FOMO saat berinvestasi......
-date: 2021-10-27T02:58:21.000Z
+date: 2022-06-21T10:27:34.021Z
 tag:
   - tips investasi
   - diversifikasi dalam investasi
@@ -23,9 +23,7 @@ category:
   - Bisnis
   - Keuangan
 ---
-
-
-Salah satu yang harus kamu hindari adalah **_FOMO atau Fear of Missing Out_** yang sering membuat keputusan investasi seseorang menjadi tidak rasional.
+Salah satu yang harus kamu hindari adalah ***FOMO atau Fear of Missing Out*** yang sering membuat keputusan investasi seseorang menjadi tidak rasional.
 
 **FOMO adalah** salah satu fenomena yang sering terjadi belakangan ini terutama di kalangan anak muda yang tidak mau ketinggalan berbagai tren sehingga mereka mengambil berbagai keputusan yang tidak rasional dalam proses mereka
 
@@ -37,19 +35,19 @@ Belakangan, istilah FOMO dalam saham juga menjadi sesuatu yang sering terjadi te
 
 Hal ini tentu saja berdampak buruk terhadap keputusan keuangan kita sehingga FOMO adalah sesuatu yang harus kita hindari berinvestasi saham ataupun instrumen investasi lainnya.
 
-Supaya kamu tidak mengalami hal seperti ini, mari kita bahas lebih lanjut apa itu _fear of missing out_ dan bagaimana cara mengatasi FOMO dalam kehidupan sehari-hari.
+Supaya kamu tidak mengalami hal seperti ini, mari kita bahas lebih lanjut apa itu *fear of missing out* dan bagaimana cara mengatasi FOMO dalam kehidupan sehari-hari.
 
 Simak artikelnya di bawah ini sampai tuntas, ya!
 
----
+- - -
 
 ## Apa Itu FOMO atau Fear of Missing Out?
 
 Pengertian FOMO simpelnya adalah rasa takut ketinggalan yang berlebihan yang membuat seseorang membuat keputusan yang tidak rasional.
 
-Rasa _missing out_ sebenarnya cukup umum dirasakan seseorang, namun hal ini tentu saja akan berdampak buruk apabila kita perasaan mulai mempengaruhi berbagai keputusan kita dalam kehidupan sehari-hari.
+Rasa *missing out* sebenarnya cukup umum dirasakan seseorang, namun hal ini tentu saja akan berdampak buruk apabila kita perasaan mulai mempengaruhi berbagai keputusan kita dalam kehidupan sehari-hari.
 
-FOMO atau _Fear of Missing Out_ adalah keadaan dimana seseorang merasa takut akan ketinggalan sesuatu. Di zaman modern ini, biasanya 'sesuatu' tersebut mengacu kepada rasa missing out atau ketinggalan dengan berbagai tren yang mereka temui di kehidupan sehari-hari mereka.
+FOMO atau *Fear of Missing Out* adalah keadaan dimana seseorang merasa takut akan ketinggalan sesuatu. Di zaman modern ini, biasanya 'sesuatu' tersebut mengacu kepada rasa missing out atau ketinggalan dengan berbagai tren yang mereka temui di kehidupan sehari-hari mereka.
 
 Tren ini bisa dalam berbagai bentuk mulai dari hal-hal simpel seperti merasa ketinggalan saat tidak membeli handphone terbaru atau malah FOMO saham dimana merasa ketinggalan apabila tidak membeli saham yang sedang banyak dibicarakan orang.
 
@@ -57,7 +55,7 @@ Simpelnya, FOMO artinya adalah rasa takut ketinggalan dari orang lain dalam berb
 
 Sadar atau tidak, sebenarnya fenomena ini sudah sering kamu temui sejak zaman dahulu. Contohnya saat toko langganan kamu sedang mengadakan diskon. Kamu tentu tidak ingin ketinggalan diskon tersebut bukan? Nah, fenomena seperti itu kini populer dengan **istilah FOMO.**
 
-**Fear of missing out** menjadi salah satu faktor yang mendorong  _**[impulsive buying](https://landx.id/blog/mengenal-apa-itu-impulsive-buying-dan-cara-menghindari-berbagai-pemicu-impulsive-buying-selama-pandemi/)** _ karena keputusan pembelian yang tidak rasional dan sering kali menjadi penyebab tidak stabilnya kondisi keuangan seseorang.
+**Fear of missing out** menjadi salah satu faktor yang mendorong  ***[impulsive buying](https://landx.id/blog/mengenal-apa-itu-impulsive-buying-dan-cara-menghindari-berbagai-pemicu-impulsive-buying-selama-pandemi/)***  karena keputusan pembelian yang tidak rasional dan sering kali menjadi penyebab tidak stabilnya kondisi keuangan seseorang.
 
 Meski terkesan sepele, keadaan ini ternyata punya efek yang buruk bagi kesehatan mental dan berbagai aspek kehidupan kita terutama kondisi finansial anda.
 
@@ -81,7 +79,7 @@ Karena itu, kita harus bisa mengendalikan perasaan FOMO ini agar tidak memberika
 
 Salah satu yang marak kita temukan belakangan ini adalah FOMO dalam berinvestasi. Supaya tidak terjadi kepada kita, mari kita bahas lebih lanjut.
 
-## FOMO (_Fear of Missing Out)_ dalam Investasi
+## FOMO (*Fear of Missing Out)* dalam Investasi
 
 Dalam dunia investasi, FOMO terjadi saat investor atau pun trader dihadapi oleh beberapa situasi. Apa saja?
 
@@ -97,17 +95,17 @@ Karena takut akan harga yang semakin menjulang, dengan terpaksa mereka akhirnya 
 
 Kenapa? Karena FOMO dapat menyebabkan kamu bias dan terburu-buru dalam mengambil keputusan investasi. Pengambilan keputusan yang terburu-buru ini dapat dengan mudah membuyarkan strategi dan rencana investasi.
 
-## Dampak Buruk FOMO (_Fear of Missing Out)_
+## Dampak Buruk FOMO (*Fear of Missing Out)*
 
 Dalam kehidupan sehari-hari, perasaan FOMO menjadi salah satu hal yang menganggu banyak aspek dalam kehidupan kita.
 
-Dari kehidupan sosial, FOMO memunculkan perasaan yang tidak tenang apabila kita tidak bisa mengikuti sesuatu yang sedang "_hype"_ sehingga mengganggu berbagai aktivitas sehari-hari kita.
+Dari kehidupan sosial, FOMO memunculkan perasaan yang tidak tenang apabila kita tidak bisa mengikuti sesuatu yang sedang "*hype"* sehingga mengganggu berbagai aktivitas sehari-hari kita.
 
 Selain itu, FOMO juga sering menjadi mengganggu proses investasi dan trading karena hal ini menyebabkan seseorang mengambil keputusan investasi dan trading yang tidak optimal karena terbawa FOMO dengan lingkungan sekitar.
 
-## Cara Menghindari FOMO (_Fear of Missing Out)_ dalam Investasi
+## Cara Menghindari FOMO (*Fear of Missing Out)* dalam Investasi
 
-Setelah tahu akan bahaya FOMO, bisakah kamu menghindari hal tersebut? Tenang, bisa kok!
+FOMO menjadi salah satu hal yang sering dihadapi oleh investor terutama investor yang berinvestasi ke dalam instrumen-instrumen dengan fluktuasi yang tinggi. FOMO saham adalah salah satu yang sering terjadi di kalangan investor dimana mereka membeli saham hanya berdasarkan opini dan 
 
 Berikut ini 5 hal yang WAJIB kamu lakukan agar terhindar dari FOMO saat berinvestasi.
 
@@ -137,7 +135,7 @@ Sangat jarang sekali orang yang mendadak kaya dalam investasi. Oleh karena itu, 
 
 Untuk menghindari FOMO, kamu perlu melakukan riset perusahaan secara mandiri, tanpa dipengaruhi oleh tren di luar sana.
 
-Nah, di LandX, perusahaan yang terdaftar adalah UMKM dan _startup_ yang tidak banyak diperbincangkan sahamnya di sosial media, sehingga kamu bisa melakukan _research_ secara tenang dan terhindar dari FOMO.
+Nah, di LandX, perusahaan yang terdaftar adalah UMKM dan *startup* yang tidak banyak diperbincangkan sahamnya di sosial media, sehingga kamu bisa melakukan *research* secara tenang dan terhindar dari FOMO.
 
 Selain itu, perusahaan yang terdaftar juga sudah diseleksi secara ketat. Sebagai imbalan investasi, kamu bakal mendapatkan saham dan juga dividen dari perusahaan yang sudah kamu pilih.
 
@@ -154,7 +152,6 @@ Tunggu apa lagi?
 * [Mau Jadi Investor? Simak Cara Mudah Menjadi Investor Hanya dengan Modal Kecil](https://landx.id/blog/cara-menjadi-investor/)
 * [Tips Penting dalam Menyusun Rencana Investasi Jangka Panjang Terbaik](https://landx.id/blog/investasi-jangka-panjang-adalah/)
 
-**#YukPatunganBisnis    #LandX.id    #landx         #landx.id    #InvestasiBisnis  #SecuritiesCrowdfunding   #EquityCrowdfunding    #InvestasiMenguntungkan     #Urundana    #BisnisPatungan    #InvestasiUsaha**
+**\#YukPatunganBisnis    #LandX.id    #landx         #landx.id    #InvestasiBisnis  #SecuritiesCrowdfunding   #EquityCrowdfunding    #InvestasiMenguntungkan     #Urundana    #BisnisPatungan    #InvestasiUsaha**
 
-_Writer: Galih_
-
+*Writer: Galih*
