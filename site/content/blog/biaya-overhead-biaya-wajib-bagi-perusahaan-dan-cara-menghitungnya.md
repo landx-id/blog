@@ -9,6 +9,11 @@ intro: Kamu memiliki rencana untuk membuat perusahaan? Sebaiknya kamu mengetahui
   terlebih dahulu mengenai biaya overhead yang merupakan biaya wajib dikeluarkan
   tiap perusahaan.
 date: 2022-06-22T05:37:41.187Z
+tag:
+  - Rasio Keuangan
+  - Investasi Bisnis
+category:
+  - Keuangan
 featuredImage:
   title: "Biaya Overhead: Biaya Wajib Bagi Perusahaan dan Cara Menghitungnya"
   alt: Biaya Overhead, Cara Menghitung Biaya Overhead
@@ -55,24 +60,26 @@ Setiap perusahaan membuat beberapa klasifikasi biaya overhead, agar mereka dapat
 
 Klasifikasi biaya overhead terdiri dari 3 jenis, yaitu:
 
-1. **Biaya Overhead Tetap (Fixed Overheads)**
-   Sesuai namanya “tetap”, biaya overhead tetap adalah biaya yang tetap konstan setiap bulannya dan tidak berubah atau biaya yang dikeluarkan secara rutin. 
+**1. Biaya Overhead Tetap (Fixed Overheads)**
+Sesuai namanya “tetap”, biaya overhead tetap adalah biaya yang tetap konstan setiap bulannya dan tidak berubah atau biaya yang dikeluarkan secara rutin. 
 
-   Nominal biaya overhead suatu perusahaan akan selalu sama, terlepas dari naik-turunnya keuntungan yang diperoleh perusahaan. 
+Nominal biaya overhead suatu perusahaan akan selalu sama, terlepas dari naik-turunnya keuntungan yang diperoleh perusahaan. 
 
-   Contoh dari biaya overhead tetap seperti, biaya gaji karyawan, sewa gedung, pajak gedung, dan asuransi kesehatan karyawan
-2. **Biaya Overhead Variabel (Variable Overheads)**
-   Berbeda dengan biaya overhead tetap yang nominalnya selalu konstan dan tidak mengalami perubahan. Biaya overhead variabel dikeluarkan berdasarkan kondisi dan situasi perusahaan dan biaya ini dapat meningkat atau menurun.
+Contoh dari biaya overhead tetap seperti, biaya gaji karyawan, sewa gedung, pajak gedung, dan asuransi kesehatan karyawan
 
-   Jika aktivitas perusahaan tinggi, maka biaya overhead variabel akan meningkat. Tetapi jika aktivitas perusahaan berkurang, maka biaya overhead variabel juga berkurang atau bahkan dapat dihilangkan.
+**2. Biaya Overhead Variabel (Variable Overheads)**
+Berbeda dengan biaya overhead tetap yang nominalnya selalu konstan dan tidak mengalami perubahan. Biaya overhead variabel dikeluarkan berdasarkan kondisi dan situasi perusahaan dan biaya ini dapat meningkat atau menurun.
 
-   Contoh dari biaya overhead variabel seperti, biaya pengiriman, biaya lembur, anggaran ATK, biaya iklan untuk pemasaran, serta biaya pemeliharaan dan perbaikan peralatan.
-3. **Biaya Overhead Semi-variabel**
-   Biaya overhead semi-variabel merupakan jenis  biaya overhead yang memiliki karakteristik gabungan dengan dua jenis biaya overhead sebelumnya.
+Jika aktivitas perusahaan tinggi, maka biaya overhead variabel akan meningkat. Tetapi jika aktivitas perusahaan berkurang, maka biaya overhead variabel juga berkurang atau bahkan dapat dihilangkan.
 
-   Biaya overhead semi-variabel dapat dikeluarkan secara rutin atau tidak terjadwal dengan nominal yang cenderung berubah juga.
+Contoh dari biaya overhead variabel seperti, biaya pengiriman, biaya lembur, anggaran ATK, biaya iklan untuk pemasaran, serta biaya pemeliharaan dan perbaikan peralatan.
 
-   Contoh dari biaya overhead semi-variabel seperti, biaya air dan listrik, biaya telepon, biaya pengisian tinta printer, serta biaya komisi penjualan.
+**3. Biaya Overhead Semi-variabel**
+Biaya overhead semi-variabel merupakan jenis  biaya overhead yang memiliki karakteristik gabungan dengan dua jenis biaya overhead sebelumnya.
+
+Biaya overhead semi-variabel dapat dikeluarkan secara rutin atau tidak terjadwal dengan nominal yang cenderung berubah juga.
+
+Contoh dari biaya overhead semi-variabel seperti, biaya air dan listrik, biaya telepon, biaya pengisian tinta printer, serta biaya komisi penjualan.
 
 ## Contoh Biaya Overhead
 
@@ -149,3 +156,9 @@ Kamu juga akan mendapatkan keuntungan dari [equity crowdfunding](https://landx.i
 [LandX](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog), [platform equity crowdfunding terpercaya](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog), transparan, dan telah memiliki izin dari Otoritas Jasa Keuangan (OJK). Kamu bisa mendapatkan potensi keuntungan dengan modal kecil.
 
 ## **[Wujudkan Impian Menjadi Pemilik Bisnis Dengan Investasi di LandX Sekarang Juga!](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)**
+
+<!--StartFragment-->
+
+[![miliki bisnis modal kecil cuma dengan 1 jutaan dapat 4 cabang ](https://accountgram-production.sfo2.cdn.digitaloceanspaces.com/landx_ghost/2021/11/jadi-owner-bisnis-hanya-1-jutaan-dengan-cuan-yang-sangat-menjanjikan.png)](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)
+
+<!--EndFragment-->
