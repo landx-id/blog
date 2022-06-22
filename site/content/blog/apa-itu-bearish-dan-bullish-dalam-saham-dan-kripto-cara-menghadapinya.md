@@ -1,6 +1,6 @@
 ---
 author: Vlora Riyandi
-title: Apa itu Bearish dan Bullish dalam Saham dan Kripto? Cara Menghadapinya
+title: Apa itu Bearish dan Bullish dalam Saham dan Kripto? Yuk Simak di Sini
 metaTitle: Apa itu Bearish dan Bullish dalam Saham dan Kripto? Cara Menghadapinya
 metaDescription: Bearish adalah sebuah kondisi tren pergerakan saham yang diam
   dan cenderung turun. Bullish adalah tren pergerakan harga saham yang sedang
@@ -8,10 +8,19 @@ metaDescription: Bearish adalah sebuah kondisi tren pergerakan saham yang diam
 intro: Bearish adalah sebuah kondisi tren pergerakan saham yang diam dan
   cenderung turun. Bullish adalah tren pergerakan harga saham yang sedang naik.
 date: 2022-06-21T10:40:56.195Z
+tag:
+  - Cara Investasi Saham
+  - Tips Investasi
+  - Cara Investasi Saham
+  - Kripto
+  - Investasi Kripto
+category:
+  - Bisnis
+  - Investasi
 featuredImage:
   title: Apa itu Bearish dan Bullish dalam Saham dan Kripto? Cara Menghadapinya
   alt: Apa itu Bearish dan Bullish dalam Saham dan Kripto
-  src: https://unsplash.com/photos/9opiHRPIvR0
+  src: https://images.unsplash.com/photo-1624996379697-f01d168b1a52?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80
 ---
 Dalam investasi saham terdapat istilah serta tren yang perlu kita pahami agar dapat membaca peluang dan potensi profit suatu emiten. Ada istilah bearish dan bullish pada pasar saham.
 
@@ -30,7 +39,7 @@ Jadi apa itu bearish dan bullish dalam investasi saham dan investasi kripto? Yuk
 
 **Gambaran Kondisi Bearish dan Bullish Saham**
 
-![](https://lh3.googleusercontent.com/mHbk9BIIzEah3VuudIWNPklM5qKu1wshcqy43WicTdQSUdK9Mbd30sa8GZT0H3j6pv4PrFDavGzSp1VrfGYmZqGCGaC6rFvYyWuNohnPbBymK358mglDVImnVXSWP6oboDLL3iC0bIvV6fQULQ)
+![Pola bearish dan bullish dalam saham](https://lh3.googleusercontent.com/mHbk9BIIzEah3VuudIWNPklM5qKu1wshcqy43WicTdQSUdK9Mbd30sa8GZT0H3j6pv4PrFDavGzSp1VrfGYmZqGCGaC6rFvYyWuNohnPbBymK358mglDVImnVXSWP6oboDLL3iC0bIvV6fQULQ "Grafik bearish dan bullish dalam saham")
 
 Dari gambar di atas dapat dilihat perbedaan bentuk grafik dari kondisi bearish dan bullish. Jika bearish berarti kondisi turun setelah terjadi kenaikan harga pada punyaknya, maka warna hijau menunjukkan kondisi bearish.
 
@@ -40,14 +49,14 @@ Warna hijau menunjukkan tren kondisi bullish yang terus naik secara berkala. Kon
 
 Jadi apabila terjadi kondisi bearish dan bullish apa yang harus dilakukan? Ada dua tipe investor dengan sikap berbeda dalam menghadapi kondisi ini, berikut kategorinya:
 
-1. **Investor Fundamental**
+**1. Investor Fundamental**
 
 Investor fundamental melakukan pembelian saham dengan analisis fundamental. Analisis fundamental adalah metode menilai suatu perusahaan dari laporan keuangan yang menggambarkan kinerja perusahaan tersebut.
 
 * Ketika terjadi kondisi bullish saham atau tren naik, investor fundamental cenderung akan menjual saham. Karena memiliki anggapan pasar sedang dalam kondisi bagus.
 * Ketika terjadi kondisi bearish atau tren turun, umumnya para investor fundamental akan menambah jumlah kepemilikan sahamnya. Dikarenakan dapat membeli dengan harga yang lebih murah, serta percaya harga akan naik kembali di masa depan.
 
-2. **Investor Analisa Teknikal**
+**2. Investor Analisa Teknikal**
 
 Investor kategori lebih dikenal sebagai trader yang melakukan analisa melalui pengamatan pola-pola seperti data pasar, harga saham, dan volume transaksi saham. Analisis ini menggunakan perangkat statistik serta grafik saham.
 
@@ -127,4 +136,10 @@ Selain berinvestasi pada instrumen dengan risiko tinggi, kamu juga dapat berinve
 
 [Equity crowdfunding](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog) memungkinkan kamu memiliki saham bisnis dengan harga tetap tanpa perubahan. Serta mendapat kesempatan pembagian dividen secara rutin dari operasional laba perusahaan.
 
-## **[Yuk, Investasi Saham Bisnis Tanpa Perubahan Harga di Sini](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)**
+## **[Yuk, Investasi Saham Bisnis Jangka Panjang di LandX](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)**
+
+<!--StartFragment-->
+
+[![miliki bisnis modal kecil cuma dengan 1 jutaan dapat 4 cabang ](https://accountgram-production.sfo2.cdn.digitaloceanspaces.com/landx_ghost/2021/11/jadi-owner-bisnis-hanya-1-jutaan-dengan-cuan-yang-sangat-menjanjikan.png)](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)
+
+<!--EndFragment-->
