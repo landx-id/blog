@@ -93,7 +93,7 @@ Contoh pengertian kebijakan moneter ini adalah penerbitan surat utang negara yan
 
 Program intervensi rupiah adalah contoh dari pengertian kebijakan moneter. Kebijakan ini menerapkan proses pinjam meminjam dana secara langsung di Pasar Uang Antar Bank dalam periode 7 hari. Hal ini dilakukan sebagai upaya mendukung instrumen kegiatan operasi pasar terbuka.
 
-## Hubungan Antara Inflasi dan Investasi
+## Hubungan Antara Inflasi dengan Investasi
 
 Sebenarnya, sebagai masyarakat Anda bisa melakukan tindakan untuk menghindari dan menghadapi dampak inflasi, salah satunya adalah melakukan investasi. Karena melalui investasi, untuk melindungi nilai uang dari penurunan daya beli, uang tersebut perlu diinvestasikan dalam aset yang bisa menghasilkan imbal hasil yang lebih tinggi dibandingkan dengan laju inflasi. 
 
