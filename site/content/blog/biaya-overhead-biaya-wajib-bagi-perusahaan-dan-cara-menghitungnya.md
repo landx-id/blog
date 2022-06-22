@@ -155,7 +155,7 @@ Kamu juga akan mendapatkan keuntungan dari [equity crowdfunding](https://landx.i
 
 [LandX](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog), [platform equity crowdfunding terpercaya](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog), transparan, dan telah memiliki izin dari Otoritas Jasa Keuangan (OJK). Kamu bisa mendapatkan potensi keuntungan dengan modal kecil.
 
-## **[Wujudkan Impian Menjadi Pemilik Bisnis Dengan Investasi di LandX Sekarang Juga!](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)**
+## **[Wujudkan Impian Menjadi Pemilik Bisnis dengan Investasi di LandX Sekarang Juga!](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)**
 
 <!--StartFragment-->
 
