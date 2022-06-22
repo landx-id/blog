@@ -9,6 +9,11 @@ intro: Tidak hanya bagi investor atau pebisnis saja, memahami apa itu
   dalam menjalani kehidupan sehari-hari yang memiliki nilai ekonomi yang paling
   bermanfaat.
 date: 2022-06-22T06:47:53.037Z
+tag:
+  - Rasio Keuangan
+  - Bisnis Menguntungkan
+category:
+  - Keuangan
 featuredImage:
   src: https://images.unsplash.com/photo-1533073526757-2c8ca1df9f1c?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80
   alt: Apa Itu Opportunity Cost
@@ -32,17 +37,9 @@ Namun, Dea kehilangan kesempatan yang hanya bisa dirasakan dari segelas es kopi 
 
 Dari penjelasan tentang pengertian biaya peluang, maka rumus inilah yang menggambarkan perhitungan apa itu *opportunity cost* jika kondisi pilihan-pilihan yang tersedia dapat dihitung dengan angka, misalnya nominal uang seperti contoh sebelumnya.
 
-<!--EndFragment-->
-
-![Rumus Cara Menghitung Opportunity Cost]( "Rumus Cara Menghitung Opportunity Cost")
-
-<!--StartFragment-->
+![](https://cdn.discordapp.com/attachments/976381310857773066/989072137404964884/Rumus_Cara_Menghitung_Opportunity_Cost.PNG)
 
 Meski begitu, secara sederhana menghitung apa itu *opportunity cost* dapat didefinisikan dengan konsep **“Jika untuk jangka panjang atau pun pendek Foregone Option (FO) lebih bernilai daripada Chosen Option (CO), maka opsi ini kurang menguntungkan. Sementara, jika FO lebih kecil nilainya dari CO, maka itu adalah opsi terbaik yang harus diambil.”**
-
-<!--EndFragment-->
-
-<!--StartFragment-->
 
 ## Tujuan Menghitung Biaya Peluang
 
@@ -88,13 +85,7 @@ Dalam kehidupan sehari-hari manusia dihadapkan dengan berbagai pilihan. Mulai da
 
 Misalnya Anda memiliki budget Rp200.000 untuk membeli bahan memasak. Menu yang dimasak harus memiliki protein dari daging, sayur-sayuran, dan buah-buahan. Anda dihadapkan dengan 2 pilihan berikut.
 
-<!--EndFragment-->
-
-![Contoh Apa Itu Opportunity Cost 1]( "Contoh Apa Itu Opportunity Cost 1")
-
-<!--EndFragment-->
-
-<!--StartFragment-->
+![](https://cdn.discordapp.com/attachments/976381310857773066/989072137107148830/Contoh_Apa_Itu_Opportunity_Cost_1.PNG)
 
 Jika Anda memilih List A, maka Anda memiliki sisa lebih Rp60.000 yang bisa digunakan untuk keperluan lain. Namun, Anda kehilangan biaya peluang mendapatkan 750gr buah semangka yang 2x lipat lebih banyak dari buah anggur meski dengan harga yang sama. Contoh ini mengilustrasikan apa itu *opportunity cost* dari pembelian kebutuhan sehari-hari. 
 
@@ -109,5 +100,9 @@ Maka, hilangnya kesempatan Anda mendapat Rp500.000 dari berinvestasi di equity c
 Itu dia penjelasan mengenai apa itu *opportunity cost*, fungsi, cara menghitung, dan contoh ilustrasinya Tidak hanya bagi investor atau pebisnis saja, memahami konsep ini tentu akan membantu siapa pun untuk menentukan pilihan terbaik dengan nilai ekonomi yang paling bermanfaat dalam menjalani kehidupan sehari-hari.
 
 ## [Jadi Bos Bisnis Hanya Butuh Modal 1 Juta? Yuk, Temukan Peluang Bisnis Menjanjikan di LandX Sekarang!](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)
+
+<!--StartFragment-->
+
+[![miliki bisnis modal kecil cuma dengan 1 jutaan dapat 4 cabang ](https://accountgram-production.sfo2.cdn.digitaloceanspaces.com/landx_ghost/2021/11/jadi-owner-bisnis-hanya-1-jutaan-dengan-cuan-yang-sangat-menjanjikan.png)](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)
 
 <!--EndFragment-->
