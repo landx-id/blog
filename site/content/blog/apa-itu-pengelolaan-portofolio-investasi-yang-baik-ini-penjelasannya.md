@@ -19,23 +19,13 @@ featuredImage:
 
 Pengelolaan portofolio investasi penting dilakukan investor untuk mengontrol alokasi modal dan diversifikasi aset. Artinya, yang dimaksud apa itu portofolio investasi adalah proses mengelola kumpulan aset agar bisa mencapai tujuan investasi. Contoh portofolio investasi bisa berisi saham, obligasi, reksa dana dan berbagai instrumen lainnya.
 
-
-
 Lalu, sebenarnya apa itu portofolio dalam investasi? Berikut penjelasan lengkapnya.
-
-
 
 ## Pengertian Manajemen Investasi dan Portofolio 
 
-
-
 Kumpulan aset investasi milik individu, lembaga keuangan, perusahaan maupun manajer investasi adalah yang dimaksud dengan pengertian dan pengelolaan portofolio investasi. Kumpulan aset yang dimaksud portofolio investasi adalah saham, obligasi, reksa dana, uang tunai, atau pun komoditas lain milik investor. Komoditas yang termasuk ke portofolio dalam investasi adalah real estate, karya seni, perhiasan maupun bentuk penanaman modal lain yang bisa mendatangkan keuntungan di masa depan. 
 
-
-
 Seluruh kumpulan aset ini dapat dikelola secara perorangan. Atau, dikelola oleh layanan keuangan yang memberikan konsultasi berupa strategi investasi pada seseorang, seperti cara membeli dan menjual investasi serta mengelolanya dengan baik dan benar seperti manajer portofolio atau konsultan finansial.
-
-
 
 ## Cara Membuat Portofolio Investasi
 
@@ -45,15 +35,11 @@ Setiap investor tentu menginginkan return yang semaksimal mungkin. Inilah salah 
 
 Diversifikasi merupakan salah satu strategi investor pengelolaan portofolio investasi. Hal ini dilakukan untuk meminimalisir risiko dan mengoptimalkan return. Dengan menempatkan investasi pada lebih dari satu instrumen, baik saham maupun non saham, maka pengelolaan portofolio investasi akan semakin optimal untuk mencapai tujuan investasi.
 
-
-
 Dalam pengelolaan portofolio investasi yang diversifikasi, ada baiknya Anda menempatkan dana investasi di beberapa instrumen investasi yang berbeda karakteristiknya. Misalnya, Anda memiliki aset saham di [equity crowdfunding](https://landx.id/), obligasi, dan sukuk.
 
 ### 2. Menentukan Target dan Jangka Investasi
 
 Sebelum merancang portofolio dan melakukan pengelolaan portofolio investasi, pastikan Anda memahami target atau tujuan investasi. Misalnya, Anda memiliki nominal modal Rp5 juta yang dalam jangka waktu 2 tahun harus memberikan return minimal 150% karena akan dipergunakan untuk DP mobil baru.
-
-
 
 Dengan menentukan target, maka Anda bisa melakukan pengelolaan portofolio investasi sedemikian rupa agar dalam jangka waktu yang telah ditentukan targetnya bisa tercapai. Dalam jangka waktu tersebut juga Anda pastinya dapat menyusun strategi untuk berinvestasi di instrumen yang paling relevan untuk teraihnya target.
 
@@ -65,13 +51,9 @@ Dalam teori portofolio dan analisis investasi, seorang investor tentu akan ada p
 
 Cenderung memilih instrumen investasi yang sangat aman dengan hasil yang sudah diketahui sebelumnya. Waktu investasinya biasanya di atas empat tahun dan instrumen investasi yang dipilih adalah emas, reksa dana, dan deposito berjangka. Sedangkan untuk jenis instrumen berisiko seperti obligasi atau saham, biasanya investor tipe ini hanya akan mengalokasikan sebagian kecil dari dana investasinya.
 
-
-
 * Moderat
 
 Cenderung berani mengambil risiko yang lebih besar, namun tetap berhati-hati dalam memilih jenis instrumen investasi. Biasanya jangka waktu investasinya hanya 3-4 tahun dengan membatasi jumlah investasi pada instrumen berisiko. Biasanya tipe ini akan berinvestasi instrumen campuran seperti saham (risiko tinggi) dan reksa dana (risiko rendah).
-
-
 
 * Agresif
 
@@ -81,15 +63,11 @@ Seorang investor yang terbiasa terhadap fluktuasi harga pasar modal, bahkan terh
 
 Modal adalah faktor terpenting dalam pengelolaan portofolio investasi. Anda perlu mengalokasikan modal ke instrumen investasi secara hati-hati. Apalagi jika masih awam dalam dunia investasi. Sebaiknya, Anda mencari tahu semua sumber informasi terkait dengan instrumen investasi yang akan dibeli. 
 
-
-
 Dengan memahami modal yang dikeluarkan dengan peluang return yang disertai dengan risiko kerugian, maka pengelolaan portofolio akan semakin optimal. Hal ini juga dilakukan untuk memastikan bahwa kebutuhan sehari-hari sudah terpenuhi dan dana darurat sudah disisihkan. Sehingga jika investasi Anda mengalami kerugian, Anda tidak akan kehilangan segalanya.
 
 ### 5. Tentukan Komposisi Portofolio 
 
 Setelah mengetahui profil risiko, tentukan komposisi portofolio yang tepat untuk mempermudah pengelolaan portofolio investasi. Jika Anda seorang investor dengan profil risiko konservatif, sebaiknya rasionya 50:50, yaitu 50% untuk income portofolio dan 50% growth portofolio.
-
-
 
 Namun, jika Anda memiliki profil risiko moderat, sebaiknya menggunakan komposisi 50% value portfolio dan 50% growth portfolio. Sementara investor dengan profil risiko agresif lebih cocok menggunakan komposisi 80:20, yaitu 80% value portfolio dan 20% growth portofolio.
 
@@ -105,7 +83,7 @@ Untuk lebih memahami pengelolaan portfolio investasi, Anda perlu melihat contoh 
 
 <!--EndFragment-->
 
-![]()
+![Contoh Pengelolaan Portofolio Investasi Saham]( "Contoh Pengelolaan Portofolio Investasi Saham")
 
 <!--StartFragment-->
 
@@ -113,7 +91,7 @@ Untuk lebih memahami pengelolaan portfolio investasi, Anda perlu melihat contoh 
 
 <!--EndFragment-->
 
-![]()
+![Contoh Pengelolaan Portofolio Investasi Diversifikasi]( "Contoh Pengelolaan Portofolio Investasi Diversifikasi")
 
 <!--StartFragment-->
 
@@ -121,26 +99,14 @@ Untuk lebih memahami pengelolaan portfolio investasi, Anda perlu melihat contoh 
 
 Tidak seperti dulu, sekarang instrumen investasi dapat diakses oleh siapa pun dan dimana pun, termasuk Anda. Dulu investasi identik dengan membutuhkan nominal alokasi dana besar untuk logam mulia, obligasi, properti, saham, atau deposito. Pada era sekarang, Anda memiliki opsi untuk investasi menjanjikan dengan modal minim melalui skema **[equity crowdfunding](https://landx.id/)**. 
 
-
-
 Tidak hanya saham, badan usaha seperti CV, NV, Firma, dan lainnya juga dapat listing penawaran instrumen investasi lain. Caranya adalah dengan skema securities crowdfunding (SCF) yang merupakan pengembangan skema Equity Crowdfunding (ECF).
-
-
 
 Equity crowdfunding pada dasarnya hanya menerbitkan efek berupa saham yang ditawarkan kepada investor guna pendanaan pengembangan bisnis UMKM. Sementara dalam securities crowdfunding, instrumen keuangan yang ditawarkan lebih beragam. Mulai dari saham, obligasi, hingga sukuk sehingga investor bisa diversifikasi profil risiko Anda.
 
-
-
 **[LandX](https://landx.id/)** merupakan salah satu platform equity crowdfunding yang sedang berproses menjadi securities crowdfunding. Tentunya, platform ini telah berpengalaman melakukan crowdfunding bagi berbagai bisnis potensial di berbagai sektor industri.
-
-
 
 Jadi, jika Anda ingin tahu lebih banyak lagi tentang investasi dengan skema ini, pastikan untuk berinvestasi melalui platform yang terpercaya, aman, dan pastinya mengantongi izin OJK seperti** [LandX](https://landx.id/)** ya!
 
-
-
 ## [Ingin Mulai Pengelolaan Portofolio Investasi? Yuk, Temukan Peluang Investasi Menjanjikan di LandX Sekarang!](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)
-
-
 
 <!--EndFragment-->
