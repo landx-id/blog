@@ -62,8 +62,10 @@ Tentunya, digital nomad adalah seorang yang bisa saja dihadapkan dengan situasi 
 Mempersiapkan diri dengan optimal tentunya butuh perencanaan yang mendetail juga, khususnya tentang hal-hal yang harus dipersiapkan agar bisa *travelling* dengan tenang dan lancar. Karena itu, hal berikut adalah detail penting yang tidak boleh dilewatkan dalam perencanaan menjadi digital nomad.
 
 * Memilih akomodasi tempat tinggal yang fasilitasnya sesuai dengan budget dan kebutuhan.
+
+
 * Menyiapkan dokumen izin tinggal yang dibutuhkan seperti paspor, visa, asuransi kesehatan, asuransi perjalanan, dan/atau surat keterangan fiskal.
-* Membuat limit maksimum harian untuk biaya makan, minum, dan nongkrong.
+* Membuat limit maksimum harian untuk biaya makan, minum, dan *nongkrong*.
 * Memilih opsi transportasi yang paling mudah diakses dan sesuai budget.
 * Membeli wifi portable atau paket internet yang jaringannya stabil.
 * Menyisihkan pendapatan untuk dimasukkan ke rekening tabungan dan rekening dana darurat.
