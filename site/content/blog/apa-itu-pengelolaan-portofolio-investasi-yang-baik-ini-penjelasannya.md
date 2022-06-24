@@ -1,7 +1,7 @@
 ---
 author: Nadya A. Faatihah
-title: Apa Itu Pengelolaan Portofolio Investasi yang Baik? Ini Penjelasannya!
-metaTitle: "Pengelolaan Portofolio Investasi: Pengertian, Tujuan, dan Contohnya"
+title: Memahami Apa Itu Portofolio Investasi dan Cara Pengelolaannya
+metaTitle: Simak Jenis dan Cara Pengelolaan Portofolio Investasi untuk Pemula
 metaDescription: Pengelolaan portofolio investasi penting untuk menyusun
   strategi agar investor dapat meraih target yang diinginkan. Simak
   penjelasannya!
@@ -10,6 +10,14 @@ intro: Kumpulan aset yang termasuk ke dalam pengelolaan portofolio investasi
   investor. Pengelolaan dilakukan agar modal investasi dapat mencapai target
   return yang diinginkan oleh investor.
 date: 2022-06-23T07:56:09.301Z
+tag:
+  - Investasi untuk Pemula
+  - Tips Investasi
+  - Investasi Aman untuk Pemula
+  - Instrumen Investasi
+category:
+  - Bisnis
+  - Investasi
 featuredImage:
   src: https://images.unsplash.com/photo-1499750310107-5fef28a66643?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80
   alt: Pengelolaan Portfolio Investasi
@@ -79,21 +87,19 @@ Tujuan pengelolaan portofolio investasi adalah untuk memastikan penyeimbangan da
 
 Untuk lebih memahami pengelolaan portfolio investasi, Anda perlu melihat contoh portofolio dengan instrumen investasi yang sama dengan portofolio yang memiliki instrumen investasi yang berbeda-beda. Berikut ini penjelasan lengkapnya.
 
-### 1. Portofolio Satu Instrumen yang Berbeda Jenis
+### 1. Portofolio Satu Instrumen yang Berbeda Jenis]
+
+![Pengelolaan portofolio investasi](https://cdn.discordapp.com/attachments/976381310857773066/989441814547288074/Contoh_Pengelolaan_Portofolio_Investasi_Saham.PNG "Pengelolaan portofolio investasi")
 
 <!--EndFragment-->
-
-![Contoh Pengelolaan Portofolio Investasi Saham]( "Contoh Pengelolaan Portofolio Investasi Saham")
-
-<!--StartFragment-->
 
 ### **2. Portofolio Investasi dengan Diversifikasi Instrumen**
 
-<!--EndFragment-->
-
-![Contoh Pengelolaan Portofolio Investasi Diversifikasi]( "Contoh Pengelolaan Portofolio Investasi Diversifikasi")
-
 <!--StartFragment-->
+
+![](https://cdn.discordapp.com/attachments/976381310857773066/989441814786359306/Contoh_Pengelolaan_Portofolio_Investasi_DIversifikasi.PNG)
+
+<!--EndFragment-->
 
 ## Diversifikasi Portfolio di Equity Crowdfunding
 
@@ -108,5 +114,9 @@ Equity crowdfunding pada dasarnya hanya menerbitkan efek berupa saham yang ditaw
 Jadi, jika Anda ingin tahu lebih banyak lagi tentang investasi dengan skema ini, pastikan untuk berinvestasi melalui platform yang terpercaya, aman, dan pastinya mengantongi izin OJK seperti** [LandX](https://landx.id/)** ya!
 
 ## [Ingin Mulai Pengelolaan Portofolio Investasi? Yuk, Temukan Peluang Investasi Menjanjikan di LandX Sekarang!](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)
+
+<!--StartFragment-->
+
+![miliki bisnis modal kecil cuma dengan 1 jutaan dapat 4 cabang ](https://accountgram-production.sfo2.cdn.digitaloceanspaces.com/landx_ghost/2021/11/jadi-owner-bisnis-hanya-1-jutaan-dengan-cuan-yang-sangat-menjanjikan.png)
 
 <!--EndFragment-->
