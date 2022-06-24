@@ -42,7 +42,7 @@ Dari nilai ini, potensi ekonomi maritim yang baru dimanfaatkan sekitar 25%. Begi
 
 Lalu apa saja contoh ekonomi kelautan Indonesia? Yuk, kita bahas lebih lanjut.
 
-## 11 Sektor Ekonomi Maritim Dan Kelautan Indonesia
+## 11 Sektor yang Termasuk Ekonomi Maritim dan Kelautan Indonesia
 
 Seperti yang telah diungkapkan bahwa sektor maritim dan kelautan Indonesia yang baru dimaksimalkan adalah 25%. Sehingga terdampar luas peluang bagi setiap pelaku bisnis untuk mengeksplorasi lebih lanjut setiap sektor ekonomi maritim dan kelautan.
 
