@@ -122,7 +122,7 @@ Kapal Alam Bahari 6 ikut berkontribusi pada rantai pasokan kebutuhan tangkap ika
 
 {{< youtube id="erY7SI_ESOA" >}}
 
-## **[Sekarang Bisa Berkontribusi Pada Bisnis Sektor Unggulan di Indonesia](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)**
+## **[Sekarang Bisa Berkontribusi Pada Bisnis Sektor Unggulan di Indonesia Modal 1 Jutaan](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)**
 
 <!--StartFragment-->
 
