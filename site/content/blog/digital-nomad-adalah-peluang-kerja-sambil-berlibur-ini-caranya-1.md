@@ -17,7 +17,7 @@ featuredImage:
 
 Sistem kerja jarak jauh ternyata menghadirkan kemunculan tren kerja baru, yaitu jadi digital nomad. Pekerjaan digital nomad adalah bekerja tanpa terikat oleh waktu atau tempat. Cara jadi digital nomad dasarnya memiliki jaringan internet, laptop, dan smartphone. Bahkan, apa itu digital nomad seringkali disebut sebagai workation (*work and vacation*).
 
-Terdengar menyenangkan bukan? Jika kamu tertarik, mari cari tahu tentang skill untuk jadi digital nomad, opsi karier, dan tips menjadi digital nomad dari artikel berikut ini!
+Terdengar menyenangkan bukan? Jika kamu tertarik, mari cari tahu tentang *skill* untuk jadi digital nomad, opsi karier, dan tips menjadi digital nomad dari artikel berikut ini!
 
 ## Keuntungan Bekerja Sebagai Digital Nomad
 
@@ -62,8 +62,6 @@ Tentunya, digital nomad adalah seorang yang bisa saja dihadapkan dengan situasi 
 Mempersiapkan diri dengan optimal tentunya butuh perencanaan yang mendetail juga, khususnya tentang hal-hal yang harus dipersiapkan agar bisa *travelling* dengan tenang dan lancar. Karena itu, hal berikut adalah detail penting yang tidak boleh dilewatkan dalam perencanaan menjadi digital nomad.
 
 * Memilih akomodasi tempat tinggal yang fasilitasnya sesuai dengan budget dan kebutuhan.
-
-
 * Menyiapkan dokumen izin tinggal yang dibutuhkan seperti paspor, visa, asuransi kesehatan, asuransi perjalanan, dan/atau surat keterangan fiskal.
 * Membuat limit maksimum harian untuk biaya makan, minum, dan *nongkrong*.
 * Memilih opsi transportasi yang paling mudah diakses dan sesuai budget.
