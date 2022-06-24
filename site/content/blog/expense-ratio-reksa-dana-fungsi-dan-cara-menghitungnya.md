@@ -1,16 +1,23 @@
 ---
 author: Vlora Riyandi
-title: "Expense Ratio Reksa Dana: Fungsi dan Cara Menghitungnya"
-metaTitle: Berapa Expense Ratio yang Bagus? Biaya Pengelolaan Reksa Dana | LandX
+title: Mengenal Expense Ratio Reksadana dan  Cara Menghitungnya
+metaTitle: "Memahami Cara Menghitung Expense Ratio dalam Reksadana "
 metaDescription: Expense ratio adalah beban biaya pengelolaan investasi reksa
   dana kepada investor. Berapa expense ratio yang bagus? Berikut cara hitungnya
 intro: Expense ratio adalah beban biaya pengelolaan investasi reksa dana kepada
   investor. Berapa expense ratio yang bagus? Berikut cara hitungnya
 date: 2022-06-23T06:59:28.626Z
+tag:
+  - Reksadana
+  - Instrumen Investasi
+  - Tips Investasi
+category:
+  - Bisnis
+  - Investasi
 featuredImage:
-  title: "Expense Ratio Reksa Dana: Fungsi dan Cara Menghitungnya"
+  title: Expense ratio yang bagus dalam investasi yang bagus
   src: img/pexels-monstera-5849576.jpg
-  alt: expense ratio reksa dana
+  alt: expense ratio reksa dana dan cara menghitungnya
 ---
 Ada banyak jenis instrumen investasi, salah satunya reksa dana. Apakah Anda berinvestasi di reksa dana? Banyak investor memilih reksa dana karena dipandang sebagai instrumen yang lebih aman karena memiliki beberapa aset terdiversifikasi di dalamnya. 
 
@@ -24,7 +31,7 @@ Jadi, apa itu expense ratio pada reksa dana?
 
 Singkatnya, expense ratio adalah total beban operasional reksa dana dalam satu tahun. Expense ratio merupakan perbandingan total beban operasional reksa dana dalam satu tahun terhadap rata-rata nilai aset bersih (NAB) di tahun tersebut. 
 
-![](https://lh5.googleusercontent.com/gVSVbmattlwKF8f_9mJ4jdDG6CsTWhFsXWaT11rDt5vu7_p0boaOLxVSPJZoHca2mSBFfYN1ryeGtw3W4Ob6EEjXGA9-GcPtxm-bCVdJ5d6NNGIIRLEVwQl3FL4XOC9DvP_at_h3-8oYfcDzow)
+![Cara menghitung expense ratio yang bagus dalam investasi di reksadana ](https://lh5.googleusercontent.com/gVSVbmattlwKF8f_9mJ4jdDG6CsTWhFsXWaT11rDt5vu7_p0boaOLxVSPJZoHca2mSBFfYN1ryeGtw3W4Ob6EEjXGA9-GcPtxm-bCVdJ5d6NNGIIRLEVwQl3FL4XOC9DvP_at_h3-8oYfcDzow "Kegunaan expense ratio saat berinvestasi ke dalam reksadana")
 
 Beban biaya expense ratio tidak hanya biaya manajemen dari manajer invetasi. Beban biaya dalam expense ratio merupakan hasil penjumlahan dana dari biaya-biaya berikut ini:
 
@@ -67,7 +74,7 @@ Telah diungkapkan bahwa expense ratio yang bagus adalah nilai expense ratio yang
 
 Perhitungan dana investasi reksa dana berikut akan menggunakan kalkulator online dari situs begintoinvest. 
 
-![](https://lh5.googleusercontent.com/8ZXOx6QKRQLPEfkLUZb7J6BN6k4i4_e2xcWbB7z2xvIkLOrYxbVr0HLsZUbuS1cHjs1xRbre4G7m0gu0quA-JO4ahtzqd3qnjxXhDGtX4wBFanKHJsfvqPlnYIyqkB9mzjVLpUOiu7UoM9qLKQ)
+![Menghitung expense ratio reksa dana](https://lh5.googleusercontent.com/8ZXOx6QKRQLPEfkLUZb7J6BN6k4i4_e2xcWbB7z2xvIkLOrYxbVr0HLsZUbuS1cHjs1xRbre4G7m0gu0quA-JO4ahtzqd3qnjxXhDGtX4wBFanKHJsfvqPlnYIyqkB9mzjVLpUOiu7UoM9qLKQ "cara menghitung ekspensi ratio")
 
 Simulasi ini mengambil 2 contoh investasi. Investasi 1 dengan expense ratio sebesar 1,5% dan investasi 2 dengan nilai expense ratio 3%.
 
@@ -76,7 +83,7 @@ Simulasi ini mengambil 2 contoh investasi. Investasi 1 dengan expense ratio sebe
 * Investasi reksa dana dilakukan jangka panjang selama 20 tahun
 * Investasi memiliki return sebesar 15%.
 
-![](https://lh5.googleusercontent.com/6hPKv5rymgIXCOdkoOyB_Q4hrQY54DVcjYBiwPG4yDtiFjR3VLHnD0Wm_-_8oeM3-NFBqEWmh2cBBBZ9ibpDRwI8lA_cZWYpvIBGf8HNroR-84VPS8ax1VaCPSkR17t8UqqW0Zd9_wg9sHgh2Q)
+![menghitung expense ratio dalam reksadana](https://lh5.googleusercontent.com/6hPKv5rymgIXCOdkoOyB_Q4hrQY54DVcjYBiwPG4yDtiFjR3VLHnD0Wm_-_8oeM3-NFBqEWmh2cBBBZ9ibpDRwI8lA_cZWYpvIBGf8HNroR-84VPS8ax1VaCPSkR17t8UqqW0Zd9_wg9sHgh2Q "memahami konsep expense ratio dalam reksadana")
 
 Gambar perbandingan dua grafik di atas adalah perbandingan biaya investasi yang akan dibebankan kepada Anda sebagai investor dengan kondisi perhitungan sebelumnya.
 
@@ -89,7 +96,7 @@ Jika hal yang dihitung di atas adalah biaya beban operasional atau expense ratio
 
 Mengambil contoh simulasi investasi 1, berikut perhitungan nilai return investasi yang bisa didapatkan:
 
-![](https://lh4.googleusercontent.com/Vk0lbdfkEGz3mpsV_Ut5tuWUo6DFypLKknILvho4bt_pE3cbGSf4qI8cDwG6xJG3VWlPuY9QwAEyWclgwwz3L-T8uwq5YKIfYqiI566vv9NT1Zic7ZQY76xyYMe-vkEkhp4hkAf44c2MlIFs7g)
+![memahami expense ratio dalam reksadana](https://lh4.googleusercontent.com/Vk0lbdfkEGz3mpsV_Ut5tuWUo6DFypLKknILvho4bt_pE3cbGSf4qI8cDwG6xJG3VWlPuY9QwAEyWclgwwz3L-T8uwq5YKIfYqiI566vv9NT1Zic7ZQY76xyYMe-vkEkhp4hkAf44c2MlIFs7g "memahami konsep expense ratio dalam reksadana")
 
 Dengan modal awal 1.000 dolar dan rutin menambah investasi setiap tahun 1.000 dolar selama 20 tahun. Maka dengan tingkat pengembalian atau return rate 15%, nilai hasil investasi yang bisa didapatkan adalah 118.810 dolar atau Rp 1,7 miliar.
 
@@ -113,4 +120,10 @@ Berinvestasi pada reksa dana memang praktis, karena terdapat beberapa produk div
 
 Berinvestasi di [equity crowdfunding](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog) juga dapat menjadi strategi jangka panjang untuk memaksimalkan keuntungan diversifikasi investasi Anda.
 
-## **[Apa Anda tertarik investasi di Equity Crowdfunding? Yuk, Lihat Caranya di Sini](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)**
+## **[Apa Anda tertarik Investasi di Equity Crowdfunding? Yuk, Lihat Caranya di Sini](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)**
+
+<!--StartFragment-->
+
+![miliki bisnis modal kecil cuma dengan 1 jutaan dapat 4 cabang ](https://accountgram-production.sfo2.cdn.digitaloceanspaces.com/landx_ghost/2021/11/jadi-owner-bisnis-hanya-1-jutaan-dengan-cuan-yang-sangat-menjanjikan.png)
+
+<!--EndFragment-->
