@@ -1,7 +1,7 @@
 ---
 author: Nadya A. Faatihah
-title: Pengertian Kebijakan Moneter, Jenis, Tujuan, Contoh dan Dampaknya
-metaTitle: "Kebijakan Moneter Adalah: Pengertian, Tujuan, Contoh, dan Dampaknya"
+title: Pengertian Kebijakan Moneter Beserta Jenis, Tujuan, dan Dampaknya
+metaTitle: Pengertian Kebijakan Moneter Beserta Jenis, Tujuan, dan Dampaknya
 metaDescription: " Pengertian kebijakan moneter adalah keputusan yang diambil
   oleh pemerintah untuk menunjang aktivitas ekonomi lewat bank sentral. Ini
   penjelasannya!"
@@ -11,10 +11,17 @@ intro: Pengertian kebijakan moneter adalah keputusan yang diambil oleh
   mendukung kegiatan produksi perusahaan melalui kondisi perekonomian dan
   peredaran uang yang stabil.
 date: 2022-06-22T16:07:07.033Z
+tag:
+  - Inflasi
+  - Tips Investasi
+  - Laju Inflasi
+category:
+  - Investasi
+  - Keuangan
 featuredImage:
   src: https://images.unsplash.com/photo-1604156425963-9be03f86a428?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80
-  alt: Pengertian Kebijakan Moneter
-  title: Pengertian Kebijakan Moneter
+  alt: Pengertian kebijaka moneter dan fiskal beserta jenisnya
+  title: Jenis dan dampak dari kebijakan moneter
 ---
 <!--StartFragment-->
 
@@ -110,5 +117,10 @@ Jadi, jika kamu ingin tahu lebih banyak lagi tentang investasi dengan skema ini,
 Itu dia penjelasan mengenai pengertian kebijakan moneter lengkap dengan jenis dan contoh yang pernah diterapkan di Indonesia. Pada dasarnya, tolak ukur berhasilnya sebuah kebijakan moneter adalah apakah keputusan tersebut dapat memberi dampak positif bagi perekonomian dan masyarakat atau tidak. Mulai dari meningkatkan pertumbuhan ekonomi, kesejahteraan masyarakat, inklusivitas finansial, atau pun meningkatkan kesempatan kerja.
 
 ## [Ingin  Berpartisipasi Mengontrol Laju Inflasi? Yuk, Investasi di LandX Sekarang!](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)
+
+<!--StartFragment-->
+
+\
+![miliki bisnis modal kecil cuma dengan 1 jutaan dapat 4 cabang ](https://accountgram-production.sfo2.cdn.digitaloceanspaces.com/landx_ghost/2021/11/jadi-owner-bisnis-hanya-1-jutaan-dengan-cuan-yang-sangat-menjanjikan.png)
 
 <!--EndFragment-->
