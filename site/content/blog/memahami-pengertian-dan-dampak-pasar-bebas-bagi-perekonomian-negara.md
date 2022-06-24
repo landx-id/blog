@@ -1,6 +1,6 @@
 ---
 author: Nadya A. Faatihah
-title: Memahami Pengertian dan Dampak Pasar Bebas Bagi Perekonomian Negara
+title: "Pasar Bebas Adalah: Memahami Arti dan Dampaknya Bagi Ekonomi Negara"
 metaTitle: "Memahami Pasar Bebas: Pengertian, Dampak, dan Ciri-Ciri"
 metaDescription: Pasar bebas adalah sistem yang memungkinan terbentuknya harga
   pasar sepenuhnya di tangan masyarakat. Pelajari sekarang dengan membaca
