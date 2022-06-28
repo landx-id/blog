@@ -1,16 +1,19 @@
 ---
 author: Vlora Riyandi
-title: "Mengenal KPR: Cara Menghitung Suku Bunga KPR"
-metaTitle: "Mengenal KPR: Cara Menghitung Suku Bunga KPR | LandX"
+title: Memahami Apa Itu KPR dan Cara Hitung Bunga KPR
+metaTitle: "Seluk-beluk Apa Itu KPR dan Cara Menghitung Bunga KPR "
 metaDescription: KPR adalah fasilitas kredit rumah yang diberikan perbankan.
   Hitung perkiraan cicilan Anda jika mengajukan KPR dengan cara ini.
 intro: KPR adalah fasilitas kredit rumah yang diberikan perbankan. Hitung
   perkiraan cicilan Anda jika mengajukan KPR dengan cara ini.
 date: 2022-06-28T07:23:51.259Z
+tag:
+  - Investasi Properti
+  - Investasi Rumah
 featuredImage:
-  title: "Mengenal KPR: Cara Menghitung Suku Bunga KPR"
-  alt: Cara Menghitung Suku Bunga KPR
-  src: https://unsplash.com/photos/05XcCfTOzN4
+  title: Cara punya rumah dengan sistem KPR dan bunga KPR
+  alt: Cara Menghitung Suku Bunga KPR dan simulasi bunga floating KPR
+  src: https://images.unsplash.com/photo-1626178793926-22b28830aa30?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80
 ---
 Beranjak dewasa, setiap orang setidaknya terlintas untuk memiliki hunian idaman yang nyaman. Karena rumah sebagai tempat tinggal merupakan kebutuhan primer. Namun, sebuah hunian rumah impian tidak langsung dapat digapai dengan mudah. Perlu menyiapkan sejumlah dana untuk sebuah rumah impian.
 
@@ -38,19 +41,19 @@ Oleh karena itu, manfaat KPR adalah membuat masyarakat dapat memiliki rumah deng
 
 Secara umum, di Indonesia saat ini dikenal ada dua jenis KPR yaitu KPR subsidi dan non subsidi, namun kini juga terdapat pilihan KPR syariah.
 
-1. **KPR Subsidi**
+**1. KPR Subsidi**
 
 KPR subsidi merupakan jenis kredit yang diperuntukan kepada masyarakat berpenghasilan menengah ke bawah. Bentuk subsidi yang diberikan adalah berupa subsidi untuk meringankan kredit dan subsidi menambah dana pembangunan atau perbaikan rumah. 
 
 Kredit subsidi ini diatur tersendiri oleh pemerintah, sehingga tidak setiap masyarakat yang mengajukan kredit dapat diberikan fasilitas ini. Secara umum batasan yang ditetapkan oleh oemerintah dalam memberikan subsidi adalah penghasilan pemohon dan maksimum kredit yang diberikan.
 
-2. **KPR Non Subsidi**
+**2. KPR Non Subsidi**
 
 Kebalikan dari KPR subsidi, KPR non subsidi tidak mendapatkan bantuan dari pemerintah. KPR non subsidi adalah suatu KPR yang diperuntukan bagi seluruh masyarakat. 
 
 Ketentuan KPR ditetapkan oleh bank, sehingga penentuan besarnya kredit maupun suku bunga dilakukan sesuai kebijakan bank yang bersangkutan. Walaupun berbeda setiap bank, kebijakan KPR nonsubsidi yang diatur oleh bank tidak menyimpang dari undang-undang yang berlaku.
 
-3. **KPR Syariah**
+**3. KPR Syariah**
 
 Tidak jauh berbeda, hanya saja KPR syariah lebih menganut prinsip ajaran Islam pada sistem pelaksanaannya. KPR syariah merupakan produk lembaga perbankan syariah.
 
@@ -62,13 +65,13 @@ Tenor dalam KPR adalah jangka waktu atau lamanya angsuran cicilan kredit dibayar
 
 Mengajukan KPR berarti mengajukan pinjaman danDalam perhitungan bunga KPR, bank biasanya menetapkan dua jenis suku bunga KPR, yaitu:
 
-1. **Bunga Tetap (Fixed Rate)**
+**1. Bunga Tetap (Fixed Rate)**
 
 Bunga tetap adalah tingkat bunga yang sama selama periode tertentu atau dalam kondisi ini cicilan KPR akan flat atau sama. Bunga tetap akan berlaku selama periode bunga tetap. 
 
 Meskipun bunga kredit di pasaran mengalami perubahan, jika KPR masih dalam periode bunga tetap, maka tingkat suku bunga yang dibebankan ke nasabah akan sama. Bagi nasabah, fixed rate  ini menguntungkan karena umumnya tingkat bunga terasa seperti terkena diskon. Hal ini berlaku hanya selama periode bunga tetap sehingga cicilan KPR menjadi relatif rendah.
 
-2. **Bunga Mengambang (Floating Rate)**
+**2. Bunga Mengambang (Floating Rate)**
 
 Bunga mengambang atau bunga floating KPR adalah tingkat bunga yang berubah sesuai dengan kondisi tingkat bunga kredit pasar. 
 
@@ -88,7 +91,11 @@ Simulasi berikut ini mengambil contoh pengajuan kredit rumah seharga Rp 350.000.
 
 Contohnya jumlah pinjaman untuk KPR rumah senilai Rp 350 juta dengan suku bunga rata-rata 9%. Pinjaman diperkirakan memiliki jangka waktu selama 20 tahun. Maka akan muncul dibagian sebelah kanan jumlah cicilan rumah yang harus dibayarkan, yaitu senilai Rp 3.149.041 setiap bulannya.
 
+<!--StartFragment-->
+
 ![](https://lh4.googleusercontent.com/3JEQekojPXnJagWhyDrAZDfRp9ojddtBCe2_Oz1jvIL1mnPBJxBmMQriWiVu9lvl3jQ43nhvlTi23_FW6yvj_qkRQ72okSi1uJKPe_ONdHEDEhVvbgXdA_Jb49fy0mAooSydUbJC2OCmnflEbQ)
+
+<!--EndFragment-->
 
 Dalam simulasi KPR ini, Anda yang berencana mengajukan KPR rumah dapat memperkirakan terlebih dahulu besaran angsuran nantinya. Hanya mengisi besaran jumlah pinjaman, serta perkiraan bunga, dan tenor kesanggupan Anda untuk melunasinya.
 
@@ -101,3 +108,9 @@ Banyak cara untuk mendapatkan passive income, salah satunya adalah dengan berinv
 Melakukan diversifikasi portofolio dengan investasi bisnis pada [equity crowdfunding](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog) dapat menjadi pilihan yang cocok bagi Anda. Berinvestasi dengan kepemilikan saham bisnis mulai dengan modal sejutaan dan mendapatkan imbal hasil dividen rutin hingga 4 kali dalam setahun.
 
 ## **[Yuk, Tambah Modal untuk Siapkan Modal KPR Rumah 2022 dengan Investasi Bisnis](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)**
+
+<!--StartFragment-->
+
+![miliki bisnis modal kecil cuma dengan 1 jutaan dapat 4 cabang ](https://accountgram-production.sfo2.cdn.digitaloceanspaces.com/landx_ghost/2021/11/jadi-owner-bisnis-hanya-1-jutaan-dengan-cuan-yang-sangat-menjanjikan.png)
+
+<!--EndFragment-->
