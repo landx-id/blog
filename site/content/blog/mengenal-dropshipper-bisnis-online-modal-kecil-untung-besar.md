@@ -1,18 +1,25 @@
 ---
 author: Della Octavilia
-title: "Mengenal Dropshipper: Bisnis Online Modal Kecil, Untung Besar!"
-metaTitle: "Mengenal Dropshipper: Bisnis Online Modal Kecil, Untung Besar! | LandX"
-metaDescription: Dropship adalah bisnis penjualan produk milik pihak lain,
-  dimana penjual tidak perlu menyimpan dan melakukan proses pengiriman produk
-  pada pembeli.
-intro: Bisnis dropshipper sedang berkembang di Indonesia. Jadi apa itu bisnis
-  dropshipper? Apa saja keuntungan seorang dropshipper? Simak lengkapnya seputar
-  dropshipper di artikel ini!
+title: Mengenal Sistem Bisnis Dropshipping dan Perbedaannya dengan Reseller
+metaTitle: Mengenal Sistem Bisnis Dropshipping dan Perbedaannya dengan Reseller
+metaDescription: Yuk pahami apa itu bisnis dropshipping yang bisa dimulai tanpa
+  modal|cara jadi dropshipper
+intro: Bisnis dropshipping atau menjadi dropshipper sedang berkembang di
+  Indonesia. Jadi apa itu bisnis dropshipper? Apa saja keuntungan seorang
+  dropshipper? Simak lengkapnya seputar dropshipper di artikel ini!
 date: 2022-06-27T14:42:17.986Z
+tag:
+  - Bisnis Modal Kecil
+  - Memulai Bisnis
+  - Memulai Usaha
+  - Bisnis Sampingan
+  - Usaha Sampingan
+category:
+  - Bisnis
 featuredImage:
-  title: "Mengenal Dropshipper: Bisnis Online Modal Kecil, Untung Besar!"
+  title: Memahami konsep bisnsi dropship yang bisa dimulai tanpa modal
   src: img/cara-dropship.jpg
-  alt: bisnis-dropshipper
+  alt: Usaha dropshipping modal kecil untung besar yang cocok untuk pemula
 ---
 \-Profesi sebagai dropshipper saat ini banyak digemari oleh berbagai kalangan masyarakat Indonesia. Mulai dari remaja hingga ibu rumah tangga memutuskan menjalani bisnis dropship karena memiliki risiko kecil dan modal yang diperlukan juga sedikit.
 
@@ -191,4 +198,10 @@ Kamu juga akan mendapatkan keuntungan dari [equity crowdfunding](https://landx.i
 
 [LandX](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog), platform [equity crowdfunding](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog) terpercaya, transparan, dan telah memiliki izin dari Otoritas Jasa Keuangan (OJK). Kamu bisa mendapatkan keuntungan besar dan modal kecil.
 
-## **[Ingin Punya Bisnis Dengan Untung Banyak dan Nggak Ribet? Investasikan Saja di LandX!](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)**
+## **[Ingin Punya Bisnis dengan Untung Banyak dan Nggak Ribet? Investasikan Saja di LandX!](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)**
+
+<!--StartFragment-->
+
+![miliki bisnis modal kecil cuma dengan 1 jutaan dapat 4 cabang ](https://accountgram-production.sfo2.cdn.digitaloceanspaces.com/landx_ghost/2021/11/jadi-owner-bisnis-hanya-1-jutaan-dengan-cuan-yang-sangat-menjanjikan.png)
+
+<!--EndFragment-->
