@@ -43,7 +43,7 @@ Bekerja di berbagai tempat yang menyenangkan dan menenangkan dapat memberi kamu 
 
 Pada akhirnya, memilih menjadi seorang digital nomad adalah salah satu upaya untuk mengoptimalkan proses bekerja secara kreatif, produktif, bahkan hingga dapat menciptakan inovasi dan ide baru. Dengan ini, maka pekerjaan dapat diselesaikan dengan lebih efisien karena kreativitas otak sedang bekerja dengan maksimal.
 
-### 3. Peluang Untuk Mendapatkan *Work-life Balance*
+### 3. Peluang untuk Mendapatkan *Work-life Balance*
 
 Beberapa orang yang bekerja sebagai pegawai yang *stand by* di kantor dari pagi hingga sore kemungkinan besar kehilangan peluangnya untuk menjaga keseimbangan antara pekerjaan dan menikmati kehidupan pribadinya. Mulai dari bangun pagi, bersiap ke kantor, menghabiskan waktu di perjalanan, bekerja di meja kecil dalam qubicle, hingga harus menghabiskan waktu di perjalanan lagi untuk akhirnya bisa beristirahat.
 
