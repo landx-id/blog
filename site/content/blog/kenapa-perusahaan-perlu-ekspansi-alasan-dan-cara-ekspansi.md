@@ -1,16 +1,20 @@
 ---
 author: Vlora Riyandi
-title: "Kenapa Perusahaan Perlu Ekspansi? Alasan dan Cara Ekspansi "
+title: "Ekspansi Bisnis: Memahami Apa Itu Ekspansi Bisnis dan Caranya"
 metaTitle: Kenapa Perusahaan Perlu Ekspansi? Alasan dan Cara Ekspansi | LandX
 metaDescription: Ekspansi bisnis adalah aktivitas memperbesar atau memperluas
   jaringan usaha sebuah perusahaan. Beragam cara untuk dapatkan modal ekspansi.
 intro: Ekspansi bisnis adalah aktivitas memperbesar atau memperluas jaringan
   usaha sebuah perusahaan. Beragam cara untuk dapatkan modal ekspansi.
 date: 2022-06-27T01:42:56.281Z
+tag:
+  - Investasi Bisnis
+category:
+  - Bisnis
 featuredImage:
   title: Ini Dia Alasan Perusahaan Perlu Ekspansi Bisnis dan Cara Dapatkan Modal
     Ekspansi
-  alt: Ekspansi Bisnis
+  alt: Ekspansi Bisnis dan cara ekspansi bisnis lewat crowdfunding
   src: img/pexels-fauxels-3184292.jpg
 ---
 Strategi bisnis adalah serangkaian rencana, tindakan, dan tujuan yang jelas yang menguraikan bagaimana bisnis akan bersaing di pasar tertentu, atau pasar, dengan produk atau sejumlah produk atau layanan.
@@ -96,7 +100,7 @@ Setelah mengetahui kenapa perusahaan perlu melakukan ekspansi, tentu yang dibutu
 
 Perusahaan Anda dapat mendapatkan pendanaan bisnis dengan beberapa cara mulai dari modal sendiri hingga cari investor.
 
-1. **Bootstrapping** 
+**1. Bootstrapping** 
 
 Bootstrapping adalah situasi di mana seorang pengusaha memulai sebuah perusahaan dengan modal kecil, mengandalkan uang selain dari investasi luar. Bootstrapping juga mengacu pada proses pengusaha dalam menumbuhkan perusahaannya tanpa bantuan eksternal.
 
@@ -104,7 +108,7 @@ Hal ini berarti seluruh modal perusahaan berasal dari pemilik bisnis. Hal ini be
 
 Contoh perusahaan yang melakukan bootstrapping cukup banyak seperti perusahaan manufaktur kamera dan software yaitu GoPro. GoPro juga melanjutkan menawarkan sahamnya secara publik di NASDAQ (bursa saham Amerika) untuk dapat lancarkan ekspansi lebih luas lagi.
 
-2. **Pendanaan Usaha Bank**
+**2. Pendanaan Usaha Bank**
 
 Berbagai lembaga keuangan bank banyak yang memiliki program pendanaan usaha dengan tujuan ekspansi bisnis. Pendanaan yang akan didapat berbentuk program pinjaman modal atau kredit. Oleh karena itu, perusahaan yang boleh mengajukan telah berjalan, bukan akan memulai.
 
@@ -112,13 +116,13 @@ Bentuk program pendanaan bisnis yang disediakan bank yaitu Kredit Tanpa Agunan (
 
 Baca juga: [Cara mendapatkan modal usaha 2022](https://landx.id/blog/7-cara-mendapat-modal-usaha-tahun-2022-nomor-5-7-boleh-nih-landx/?utm_source=Blog&utm_medium=Blog&utm_campaign=artikelekspansibisnis)
 
-3. **Mencari Investor**
+**3. Mencari Investor**
 
 Anda dapat membuat presentasi terkait perusahaan Anda dan menawarkan porsi saham kepada pemilik modal. Anda dapat menjalin koneksi dengan sebuah komunitas atau mengirimkan email proposal kepada venture capital.
 
 Dengan menawarkan value perusahaan Anda didampingi kinerja perusahaan selama ini akan dapat meningkatkan kesempatan perusahaan Anda dilirik untuk didanai. Cara ini tentu tidak mudah, karena Anda akan bersaing dengan pemilik bisnis lain dengan ide  inovatif lainnya.
 
-4. **Equity Crowdfunding**
+**4. Equity Crowdfunding**
 
 Cara mendapatkan modal usaha selanjutnya adalah dengan menawarkan saham perusahaan Anda kepada masyarakat melalui sistem [equity crowdfunding](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog). [Equity crowdfunding](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog) adalah skema pendanaan usaha dari masyarakat luas dengan bentuk kepemilikan saham.
 
@@ -132,4 +136,10 @@ Banyak cara untuk dapatkan modal untuk ekspansi bisnis Anda, mulai dari dana sen
 
 Bagaimana? Apakah Anda tertarik menjalin kerja sama dengan para pemilik modal?
 
-## **[Dapatkan Modal Ekspansi Bisnis Mudah dan Efisien di Sini](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)**
+## **[Dapatkan Modal Ekspansi Bisnis Mudah dan Efisien Lewat LandX](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)**
+
+<!--StartFragment-->
+
+![miliki bisnis modal kecil cuma dengan 1 jutaan dapat 4 cabang ](https://accountgram-production.sfo2.cdn.digitaloceanspaces.com/landx_ghost/2021/11/jadi-owner-bisnis-hanya-1-jutaan-dengan-cuan-yang-sangat-menjanjikan.png)
+
+<!--EndFragment-->
