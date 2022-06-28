@@ -1,16 +1,21 @@
 ---
 author: Della Octavilia
-title: Apa Itu Bank Digital? Bank yang sedang Tren di Masyarakat
-metaTitle: Apa Itu Bank Digital? Bank yang sedang Tren di Masyarakat | LandX
+title: Melihat Perkembangan Sistem Bank Digital di Indonesia
+metaTitle: Memahami Apa Itu Bank Digital yang Berkembang di Indonesia
 metaDescription: Bank digital adalah mendigitalisasikan semua aktivitas
   perbankan dari awal membuka rekening hingga menutup rekening
 intro: Apa itu bank digital? Bank digital adalah mendigitalisasikan semua
   aktivitas perbankan dari awal membuka rekening hingga menutup rekening.
   Berikut ini penjelasan lengkapnya seputar bank digital
 date: 2022-06-26T10:06:11.553Z
+tag:
+  - Lembaga Keuangan
+  - Lembaga Pembiayaan
+category:
+  - Keuangan
 featuredImage:
   title: Apa Itu Bank Digital? Bank yang sedang Tren di Masyarakat
-  alt: Bank Digital adalah
+  alt: Mengenal Bank digital di Indonesia dan perkembangannya
   src: img/bank-digital-adalah.jpg
 ---
 Kamu pasti pernah kan, lagi jalan di mall tiba-tiba ditarik untuk membuat akun bank digital? 
@@ -160,3 +165,9 @@ Anda juga akan mendapatkan keuntungan dari [equity crowdfunding](https://landx.i
 [LandX](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog), platform [equity crowdfunding](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog) terpercaya, transparan, dan telah memiliki izin dari Otoritas Jasa Keuangan (OJK). Kamu bisa mendapatkan keuntungan besar dan modal kecil.
 
 ## **[Kelola Keuanganmu dengan Investasi di LandX Saat Ini Juga!](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)**
+
+<!--StartFragment-->
+
+![miliki bisnis modal kecil cuma dengan 1 jutaan dapat 4 cabang ](https://accountgram-production.sfo2.cdn.digitaloceanspaces.com/landx_ghost/2021/11/jadi-owner-bisnis-hanya-1-jutaan-dengan-cuan-yang-sangat-menjanjikan.png)
+
+<!--EndFragment-->
