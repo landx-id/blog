@@ -1,6 +1,6 @@
 ---
 author: Nadya A. Faatihah
-title: Digital Nomad Adalah Peluang Kerja Sambil Berlibur, Ini Caranya!
+title: "Yuk Simak Apa Itu Digital Nomad dan "
 metaTitle: Apa Itu Digital Nomad dan Tps Persiapannya
 metaDescription: Digital nomad adalah bekerja sambil liburan yang ternyata
   sangat mungkin untuk dilakukan. Yuk cari tahu tentang tren karier baru ini!
