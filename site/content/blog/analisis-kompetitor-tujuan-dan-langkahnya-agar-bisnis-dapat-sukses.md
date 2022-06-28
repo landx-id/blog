@@ -1,7 +1,7 @@
 ---
 author: Della Octavilia
-title: "Analisis Kompetitor: Tujuan dan Langkahnya Agar Bisnis Dapat Sukses"
-metaTitle: "Analisis Kompetitor: Tujuan dan Langkahnya Agar Bisnis Dapat Sukses"
+title: Memahami Apa Itu Analisis Kompetitor Sebelum Memulai Bisnis
+metaTitle: Memahami Tujuan dan Langkah Analisis Kompetitor dalam Bisnis
 metaDescription: Analisis kompetitor adalah strategi untuk mengetahui kelemahan
   dan kelebihan pesaing dan mengambilnya sebagai peluang untuk mengembangkan
   usaha.
@@ -9,9 +9,15 @@ intro: Setiap menjalankan suatu usaha, pasti kita akan menghadapi banyak
   kompetitor. Oleh karena itu agar usaha berkembang, penting untuk melakukan
   analisis kompetitor!
 date: 2022-06-28T09:05:20.880Z
+tag:
+  - Memulai Usaha
+  - Memulai Bisnis
+  - Bisnis Jangka Panjang
+category:
+  - Bisnis
 featuredImage:
-  title: "Analisis Kompetitor: Tujuan dan Langkahnya Agar Bisnis Dapat Sukses"
-  alt: Analisis Kompetitor
+  title: Jenis analisis kompetitor untuk bisnis jangka panjang anda
+  alt: Analisis kompetitor dan cara langkah awal analisis kompetitor dalam bisnis
   src: img/kompetitor-bisnis.jpg
 ---
 Bagi Anda yang memulai sebuah usaha, tantangan yang selalu ada dan akan selalu dihadapi adalah kompetitor. Anda akan menghadapi banyak kompetitor yang memiliki jasa dan produk yang sama dengan usaha Anda. 
@@ -24,7 +30,7 @@ Oleh sebab itu, penting untuk Anda dapat melakukan analisis kompetitor sebelum m
 
 Di artikel kali ini akan membahas lengkap seputar analisis kompetitor. Jadi, mari kita bahas bersama.
 
-## Apa Itu Kompetitor 
+## Apa Itu Kompetitor
 
 Dalam menjalankan usaha, menemukan pesaing atau kompetitor merupakan hal yang lumrah terjadi.
 
@@ -132,13 +138,19 @@ Berikut ini beberapa rekomendasi tools dapat Anda gunakan sebagai analisis kompe
 
 1. SEMrush
 
+<!--StartFragment-->
+
 ![](https://lh5.googleusercontent.com/4a4LDlicn7JdYRzn_JHmLkSYs2xrKHas7qJtrgzaWpLWoNa5wZXWhqQ8qbbYMu8B_bcGH1iceZbwy-kOiakIc9rTjdTYS7_RZO_KXARzAMNkNenIBKkHRFy45Jhr-ptLaOyLk9xpuOvhGGev8y8)
 
 Kamu dapat menggunakan SEMrush sebagai tools untuk mengetahui posisi ranking website para kompetitor di Google. Selain itu,  pada tools ini kamu dapat mengetahui data analisis kompetitor, link building, keyword research, maupun SEO On-page.
 
 2. Ahrefs
 
+<!--StartFragment-->
+
 ![](https://lh5.googleusercontent.com/nTo8I20Q9txlvFk-dsm5dPNFuv0YcTel-Zssj3wk4RYBXfEkwkYnfXix7K7-lfPXtbWQamsV1upElcL-AD2vosms8rkxnVULAPDLqnM6mIWbtSzJAqArDmJJN8cGePk2Mj5QAy9qLvDmvS36hBw)
+
+<!--EndFragment-->
 
 Di Ahrefs kamu dapat mengetahui ranking, traffic, dan performa setiap keyword yang digunakan kompetitor setiap waktu.
 
@@ -150,13 +162,23 @@ Pada tolls ketiga ini kamu dapat mengetahui dan membandingkan konten, traffic, k
 
 4. WebCEO
 
+<!--StartFragment-->
+
 ![](https://lh5.googleusercontent.com/Ezg_RmSlZUg1jvdew5XpHaTi2mNVj05SNnNMFJoC0ZSdTjz-0YZck0g9-_8YhjBnA70MBRFBaTQ959kJh3qWpvHctrSv4zXA1dvb3rMmzwDLjlL0G-hs4TAcgK1RK_61m9pRf0peVeaJmllFRsM)
+
+<!--EndFragment-->
+
+
 
 Dari WebCEO Anda akan mengetahui ranking website kompetitor di Google secara lokal atau global. Di tools ini juga kamu dapat mengetahui keyword research, kecepatan website, internal link, dan analisis media sosial milik kompetitor.
 
 5. Moz Pro
 
+<!--StartFragment-->
+
 ![](https://lh4.googleusercontent.com/-n7a9DkFC-S_2j6RczBqEkt71bf78CQTlz1QUO5bkhZIk8eVBYQp33h1uz0TAYaHgm-ZexcMBejdw5nzgfiWnJIZcGcwfTaouC_bEmkHjeMk-8LRiGK565BKN6XNZKPX5_fJYHc6UwlKjajxok0)
+
+<!--EndFragment-->
 
 Untuk Anda yang masih pemula, tools satu ini cukup untuk dipakai. Melalui Moz Pro Anda dapat mengecek ranking website, kata kunci, audit situs, dan backlink dari kompetitor.
 
@@ -213,3 +235,9 @@ Anda juga akan mendapatkan keuntungan dari [equity crowdfunding](https://landx.i
 [LandX](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog), platform [equity crowdfunding ](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)terpercaya, transparan, dan telah memiliki izin dari Otoritas Jasa Keuangan (OJK). Anda bisa mendapatkan keuntungan besar dan modal kecil.
 
 ## [Jadilah salah satu pemilik bisnis dan banyak cuan dengan investasi saja di LandX Sekarang Juga!](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)
+
+<!--StartFragment-->
+
+![miliki bisnis modal kecil cuma dengan 1 jutaan dapat 4 cabang ](https://accountgram-production.sfo2.cdn.digitaloceanspaces.com/landx_ghost/2021/11/jadi-owner-bisnis-hanya-1-jutaan-dengan-cuan-yang-sangat-menjanjikan.png)
+
+<!--EndFragment-->
