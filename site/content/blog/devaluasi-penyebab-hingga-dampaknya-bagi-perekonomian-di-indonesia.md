@@ -1,16 +1,20 @@
 ---
 author: Della Octavilia
-title: "Devaluasi: Penyebab hingga Dampaknya Bagi Perekonomian di Indonesia"
-metaTitle: "Devaluasi: Penyebab hingga Dampaknya Bagi Perekonomian di Indonesia"
+title: "Devaluasi Adalah: Memahami Apa Itu Devaluasi dan Dampaknya"
+metaTitle: Mehamami Apa Itu Kebijakan Devaluasi dan Pengaruhnya ke Investasi
 metaDescription: " Devaluasi adalah kebijakan yang diterapkan pemerintah dengan
   menurunkan nilai mata uang negara terhadap nilai mata uang asing."
 intro: Bagi pemilik usaha, kebijakan devaluasi dapat meningkatkan demand
   terhadap barang di pasaran dalam hingga luar negeri. Simak, penjelasan seputar
   devaluasi dan dampaknya bagi perekonomian negara.
 date: 2022-06-23T05:35:31.780Z
+tag:
+  - Inflasi
+  - Investasi Keuangan
+  - Investasi Jangka Panjang
 featuredImage:
-  title: "Devaluasi: Penyebab hingga Dampaknya Bagi Perekonomian di Indonesia"
-  alt: Devaluasi adalah
+  title: Memahami apa itu devaluasi dan  tujuan devaluasi untuk investasi
+  alt: pengaruh  devaluasi mata uang terhadap investasi jangka panjang
   src: img/devaluasi-adalah.jpg
 ---
 Anda tahu tidak kalau di Indonesia pernah terjadi devaluasi? Sebelumnya, Anda tahu apa itu devaluasi?
@@ -171,3 +175,9 @@ Disini Anda akan menjadi salah satu pemilik sebuah usaha dengan melakukan pendan
 [LandX](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog), platform [equity crowdfunding terpercaya](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog), transparan, dan telah memiliki izin dari Otoritas Jasa Keuangan (OJK). Kamu bisa mendapatkan keuntungan besar dan modal kecil.
 
 ## [Jadi Owner Bisnis Secara Cepat dan Mudah Dengan Investasi di LandX Sekarang Juga!](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)
+
+<!--StartFragment-->
+
+![miliki bisnis modal kecil cuma dengan 1 jutaan dapat 4 cabang ](https://accountgram-production.sfo2.cdn.digitaloceanspaces.com/landx_ghost/2021/11/jadi-owner-bisnis-hanya-1-jutaan-dengan-cuan-yang-sangat-menjanjikan.png)
+
+<!--EndFragment-->
