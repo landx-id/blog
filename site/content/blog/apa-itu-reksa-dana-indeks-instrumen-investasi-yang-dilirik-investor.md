@@ -1,16 +1,23 @@
 ---
 author: Della Octavilia
-title: Apa Itu Reksa Dana Indeks? Instrumen Investasi yang Dilirik Investor
-metaTitle: Apa Itu Reksa Dana Indeks? Instrumen Investasi yang Dilirik Investor
+title: Mengenal Reksadana Indeks dan Jenis-jenis Indeks Reksadana
+metaTitle: Mengenal Jenis-jenis Reksadana Indeks dan Bedanya dengan ETF
 metaDescription: Reksa dana indeks adalah reksa dana yang dikelola untuk
   mendapatkan hasil investasi yang mirip dengan suatu indeks yang menjadi acuan.
 intro: Apa itu reksa dana indeks? Reksa dana indeks adalah reksa dana yang
   dikelola untuk mendapatkan hasil investasi yang mirip dengan suatu indeks yang
   menjadi acuan.
 date: 2022-06-24T03:51:58.942Z
+tag:
+  - ETF
+  - Reksadana
+  - Instrumen Investasi
+  - Cara Kerja Reksadana
+category:
+  - Investasi
 featuredImage:
-  title: Apa Itu Reksa Dana Indeks? Instrumen Investasi yang Dilirik Investor
-  alt: Reksa Dana Indeks
+  title: Perbedaan reksadana indeks dan reksadana saham
+  alt: Mengenal lebih dalam tentang reksadana indeks dan cara investasinya
   src: img/reksadana-indeks.jpg
 ---
 Apa itu reksa dana indeks? Mungkin masih banyak orang yang masih belum familiar dengan salah satu jenis reksa dana ini. Bisa dibilang reksa dana indeks masih kurang pamornya dari jenis reksa dana lainnya seperti reksa dana saham, pasar uang, pendapatan tetap, dan dana campuran.
@@ -79,7 +86,11 @@ Dana yang dikelola oleh Syailendra MSCI Indonesia Value Fund Kelas A sebesar Rp8
 
 Principal Index IDX30 II dari Principal Asset Management bertahan di posisi ke-5 dengan kelolaan terbesar hingga Rp735,43 milliar. Dana kelolaan Principal Asset Management ini tumbuh 12% secara tahunan/YTD dan naik 5% secara bulanan/ MoM.
 
-![index fund adalah](img/index-fund-adalah.png "index fund adalah")
+<!--StartFragment-->
+
+![](blob:https://keen-mestorf-9781e3.netlify.app/cd91f9fa-7d2e-4a46-8d7e-2443a5842b63)
+
+<!--EndFragment-->
 
 (Sumber: Bareksa Mutual Fund Industry, Data Market-Monthly Report April 2022)
 
@@ -162,3 +173,9 @@ Anda juga akan mendapatkan keuntungan dari [equity crowdfunding](https://landx.i
 [LandX](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog), platform [equity crowdfunding](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog) terpercaya, transparan, dan telah memiliki izin dari Otoritas Jasa Keuangan (OJK). Kamu bisa mendapatkan keuntungan besar dan modal kecil.
 
 ## **[Ingin Memiliki Return Konsisten? Investasikan Saja Danamu di LandX, Sekarang Juga!](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)**
+
+<!--StartFragment-->
+
+![miliki bisnis modal kecil cuma dengan 1 jutaan dapat 4 cabang ](https://accountgram-production.sfo2.cdn.digitaloceanspaces.com/landx_ghost/2021/11/jadi-owner-bisnis-hanya-1-jutaan-dengan-cuan-yang-sangat-menjanjikan.png)
+
+<!--EndFragment-->
