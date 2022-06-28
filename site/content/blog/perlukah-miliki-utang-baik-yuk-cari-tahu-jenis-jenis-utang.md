@@ -1,16 +1,22 @@
 ---
 author: Vlora Riyandi
-title: Perlukah Miliki Utang Baik? Yuk, Cari Tahu Jenis-jenis Utang
-metaTitle: Perlukah Miliki Utang Baik? Yuk, Cari Tahu Jenis-jenis Utang | LandX
+title: "Yuk Pahami Beda Utang Konsumtif dan Utang Produktif "
+metaTitle: Yuk Pahami Perbedaan Utang Baik dan Utang Buruk
 metaDescription: Cari tahu perbedaan utang baik dan utang buruk. Pahami
   pengelolaan jenis utang pribadi dan utang untuk modal usaha di sini.
 intro: Cari tahu perbedaan utang baik dan utang buruk. Pahami pengelolaan jenis
   utang pribadi dan utang untuk modal usaha di sini.
 date: 2022-06-28T06:39:45.557Z
+tag:
+  - Pengelolaan Keuangan
+  - Investasi Jangka Panjang
+category:
+  - Investasi
+  - Keuangan
 featuredImage:
   title: Utang Baik dan Utang Buruk, Apa Perbedaannya?
-  src: https://unsplash.com/photos/WmsFE6YhYIM
-  alt: utang baik utang buruk
+  src: https://images.unsplash.com/photo-1603039078583-13468e835b01?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80
+  alt: Perbedaan utang baik (utang produktif) dan utang buruk (utang konsumtif)
 ---
 Sesuai dengan perencanaan keuangan yang menuturkan terdapat 4 faktor yang saling mempengaruhi kondisi keuangan seseorang. Faktor-faktor yang saling mempengaruhi kondisi keuangan seseorang tersebut adalah pendapatan, pengeluaran, aset, dan utang. 
 
@@ -18,7 +24,7 @@ Apabila aset berkurang dalam artian dijual, maka pendapatan akan meningkat. Jika
 
 Jadi, apa itu utang dan perbedaannya? Mari kita bahas lebih lanjut dalam tulisan ini.
 
-## Utang
+## Utang Adalah..
 
 Secara sederhana, definisi utang adalah meminjam sejumlah uang atau barang dari pihak lain. Kehadiran utang pada kehidupan seseorang bak pisau bermata dua, karena dapat menjadi hal baik namun dapat mengundang hal buruk. Hal ini bergantung pada tujuan dan cara pengelolaan utang seseorang.
 
@@ -26,7 +32,7 @@ Utang dapat menjadi hal baik jika digunakan sebagai permodalan kegiatan yang men
 
 Konsep utang baik dan utang buruk pernah dijabarkan dalam buku Rich Dad, Poor Dad karya Robert Kiyosaki. Utang baik dan utang buruk ini juga dikenal sebagai utang produktif dan utang konsumtif. Apa perbedaan jenis-jenis utang ini?
 
-## Utang Baik
+## Utang Baik (Utang Produktif)
 
 Utang baik diartikan sebagai utang produktif. Utang produktif adalah utang yang dapat menambah kekayaan kita di masa depan. Aset yang dikelola dengan utang produktif dapat membuat nilainya naik dan menjadi penghasilan di masa depan.
 
@@ -54,7 +60,7 @@ Rumah dan tanah adalah aset properti atau bangunan yang akan bertambah nilainya 
 
 Sehingga memiliki rumah jalur kredit pun dapat menjadi aset produktif di masa depan nantinya. 
 
-## Utang Buruk
+## Utang Buruk (Utang Konsumtif)
 
 Utang buruk atau bad debt adalah utang yang harus dihindari. Utang buruk merupakan bentuk pinjaman konsumtif yang semata hanya untuk memenuhi keinginan tanpa perhitungan dampak panjang.
 
@@ -104,4 +110,10 @@ Sehingga apabila Anda sudah di umur lebih lanjut, Anda dapat memiliki experience
 
 Oleh karena itu, cobalah melakukan kelola strategi keuangan yang baik dengan menabung berinvestasi. Salah satunya investasi saham bisnis melalui equity crowdfunding di LandX. Memiliki saham bisnis yang dikelola oleh manajemen profesional dengan modal minim dan bisa mendapat keuntungan bagi hasil.
 
-## Yuk, Kelola Keuanganmu Agar Menjadi Aset Produktif Sekarang
+## [Yuk, Kelola Keuanganmu dan Bangun Aset Produktif Mulai dari Sekarang](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)
+
+[<!--StartFragment-->](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)
+
+![miliki bisnis modal kecil cuma dengan 1 jutaan dapat 4 cabang ](https://accountgram-production.sfo2.cdn.digitaloceanspaces.com/landx_ghost/2021/11/jadi-owner-bisnis-hanya-1-jutaan-dengan-cuan-yang-sangat-menjanjikan.png)
+
+<!--EndFragment-->
