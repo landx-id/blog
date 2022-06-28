@@ -1,18 +1,23 @@
 ---
 author: Nadya A. Faatihah
-title: Risiko Investasi Instrumen Utang dan Opsi Investasi Profitabel Lainnya
-metaTitle: Memahami Risiko Investasi Instrumen Utang dan Opsi Investasi Lainnya
-metaDescription: Meski menjanjikan return yang cukup pasti, terdapat risiko
-  investasi instrumen utang yang harus diketahui. Mari cari tahu lewat artikel
-  ini!
+title: Memahami Risiko Investasi Instrumen Utang dan Jenis-jenisnya
+metaTitle: Memahami Risiko Investasi Instrumen Utang dan Jenis-jenisnya
+metaDescription: Memahami risiko investasi instrumen utang dan jenis instrumen
+  investasi jangka panjang untuk anda
 intro: "Instrumen investasi utang jenisnya beragam, mulai dari SPN, Obligasi,
   Mortgage, hingga P2P Lending di mana masing-masingnya memiliki risiko
   investasi instrumen utang. "
 date: 2022-06-28T09:46:53.322Z
+tag:
+  - Instrumen Investasi
+  - Obligasi
+  - P2P Lending
+category:
+  - Investasi
 featuredImage:
   src: https://images.unsplash.com/photo-1560520031-3a4dc4e9de0c?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=773&q=80
   alt: Risiko Investasi Instrumen Utang
-  title: Risiko Investasi Instrumen Utang
+  title: Instrumen Investasi Berbasis Utang, Bisnis sebagai instrumen investasi
 ---
 <!--StartFragment-->
 
@@ -97,5 +102,9 @@ Melalui platform equity crowdfunding berpengalaman dan mengantongi izin OJK sepe
 Dengan menggunakan bisnis sebagai instrumen investasi, Anda dapat melakukan diversifikasi profil risiko untuk mengoptimalkan return investasi. Dengan ini, Anda bisa memaksimalkan aspek tabungan dan investasi untuk mencapai target finansial yang diinginkan.
 
 ## **[Ingin Jadi Bos Beragam Bisnis dengan Prospek Menjanjikan? Mari Mulai Investasi di LandX Sekarang!](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)**
+
+<!--StartFragment-->
+
+![miliki bisnis modal kecil cuma dengan 1 jutaan dapat 4 cabang ](https://accountgram-production.sfo2.cdn.digitaloceanspaces.com/landx_ghost/2021/11/jadi-owner-bisnis-hanya-1-jutaan-dengan-cuan-yang-sangat-menjanjikan.png)
 
 <!--EndFragment-->
