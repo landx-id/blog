@@ -1,16 +1,22 @@
 ---
 author: Vlora Riyandi
-title: Penting untuk Pahami Biaya-biaya Investasi dan Contoh Perhitungannya
-metaTitle: Penting untuk Pahami Biaya-biaya Investasi dan Contohnya | LandX
-metaDescription: Biaya investasi adalah biaya pengelolaan dana investasi. Biaya
-  investasi yang dibahas mencakup biaya investasi saham, reksa dana, emas, dan
-  properti.
+title: Cara Menghitung Biaya Investasi (Investment Cost) untuk Investor
+metaTitle: Yuk Simak Apa Itu Biaya Investasi atau Investment Cost dalam Investasi
+metaDescription: "Yuk simak biaya-biaya apa saja yang termasuk ke dalam biaya
+  investasi dan cara menghitungnya "
 intro: Biaya investasi adalah biaya pengelolaan dana investasi. Biaya investasi
   yang dibahas mencakup biaya investasi saham, reksa dana, emas, dan properti.
 date: 2022-06-24T07:37:29.776Z
+tag:
+  - Investasi
+  - Rasio Keuangan
+  - Tips Investasi
+  - Investasi untuk Pemula
+category:
+  - Investasi
 featuredImage:
-  title: Penting untuk Pahami Biaya-biaya Investasi dan Contoh Perhitungannya
-  alt: biaya investasi
+  title: Yuk simak berbagai jenis biaya investasi dan cara menghitungnya
+  alt: Memahami apa itu biaya investasi dan jenis-jenisnya
   src: img/pexels-karolina-grabowska-4386431.jpg
 ---
 Setiap orang yang melakukan kegiatan investasi memiliki harapan untuk mencapai pengembalian atau return tertentu di masa depan. Banyak investor yang menaruh fokus pada tingkat suku bunga yang ditawarkan sebuah produk investasi. 
@@ -62,13 +68,13 @@ Cara menghitung fee investasi saham berikut kami simulasikan dengan perhitungann
 
 Contoh biaya investasi transaksi beli ketika Bapak A membeli 1 lot saham sebuah emiten senilai Rp 5.000/lembar di IndoPremier sekuritas. Maka berikut perhitungan biaya transaksi belinya:
 
-![](https://lh6.googleusercontent.com/ZTSqrqJxdJWo2TBk7VLAZcVoEleA-9DK2f7HUAA5O76w1AGS-00nvR9XJVGOAK00feJic3viqy2qDv4eI0md_3ehUWgCRhT2fn1a_eNolg_o1ZBuo6pgYpR-1E3kI7uxXoSOB2IfapdBoBz9iA)
+![Memahami apa itu biaya investasi dan jenis-jenisnya ](https://lh6.googleusercontent.com/ZTSqrqJxdJWo2TBk7VLAZcVoEleA-9DK2f7HUAA5O76w1AGS-00nvR9XJVGOAK00feJic3viqy2qDv4eI0md_3ehUWgCRhT2fn1a_eNolg_o1ZBuo6pgYpR-1E3kI7uxXoSOB2IfapdBoBz9iA "Cara menghitung biaya investasi ")
 
 Maka total biaya yang akan dibayarkan oleh investor Bapak A saat membeli saham bank tersebut adalah Rp 500.950,-
 
 Mari kita hitung juga berapa besaran biaya investasi saham saat transaksi jual. Jika Bapak A telah memegang saham tersebut dalam suatu waktu dan melihat peluang untuk menjualnya di nilai Rp 5.500/ per lembar, maka perhitungannya sebagai berikut:
 
-![](https://lh5.googleusercontent.com/Vxa9cWxSDiLYmN9uBzAemP6o6Ifm3_leyT-yVpxpT1G8t20tTzgMM38Gk_97M8AwRjPwfi3SE_Br-bhnCGVLg_20pN3MJxogLVDNrjTglZsk_jxkTShvE8i4xoCN8bOt9RP9MGo7LskOuOY9FA)
+![Cara menghitung biaya investasi yang penting untuk kamu pahami dengan baik](https://lh5.googleusercontent.com/Vxa9cWxSDiLYmN9uBzAemP6o6Ifm3_leyT-yVpxpT1G8t20tTzgMM38Gk_97M8AwRjPwfi3SE_Br-bhnCGVLg_20pN3MJxogLVDNrjTglZsk_jxkTShvE8i4xoCN8bOt9RP9MGo7LskOuOY9FA "simak apa itu biaya investasi dan cara menghitungnya")
 
 Maka total keuntungan yang akan didapatkan oleh investor Bapak A saat menjual saham tersebut adalah Rp 550.000 dikurangi Rp 1.595 yaitu Rp 548.405,-
 
@@ -137,4 +143,10 @@ Selain investasi di atas, jika Anda tertarik berinvestasi di properti namun deng
 
 [Equity crowdfunding](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog) adalah jenis investasi yang membuat Anda bisa memiliki saham bisnis tanpa harus repot mengelola izin dan mempromosikannya. Anda juga bisa mendapat keuntungan dari laba operasional bisnis dari nilai dana yang Anda investasikan.
 
-## **[Yuk, Investasi Bisnis Tanpa Repot Kelola Bisnis Dengan Modal Minim](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)**
+## **[Yuk, Investasi Bisnis Tanpa Repot Kelola Bisnis dengan Modal Minim](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)**
+
+<!--StartFragment-->
+
+![miliki bisnis modal kecil cuma dengan 1 jutaan dapat 4 cabang ](https://accountgram-production.sfo2.cdn.digitaloceanspaces.com/landx_ghost/2021/11/jadi-owner-bisnis-hanya-1-jutaan-dengan-cuan-yang-sangat-menjanjikan.png)
+
+<!--EndFragment-->
