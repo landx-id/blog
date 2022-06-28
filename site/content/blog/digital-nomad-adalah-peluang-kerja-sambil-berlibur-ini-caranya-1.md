@@ -1,17 +1,21 @@
 ---
 author: Nadya A. Faatihah
-title: "Yuk Simak Apa Itu Digital Nomad dan "
-metaTitle: Apa Itu Digital Nomad dan Tps Persiapannya
+title: Yuk Simak Apa Itu Digital Nomad dan Peluang Karir Digital Nomad
+metaTitle: Simak Cara dan Tips Jadi Digital Nomad untuk Peluang Karir Anda
 metaDescription: Digital nomad adalah bekerja sambil liburan yang ternyata
   sangat mungkin untuk dilakukan. Yuk cari tahu tentang tren karier baru ini!
 intro: Digital nomad adalah seseorang yang tidak akan terikat dengan pekerjaan
   yang mewajibkan pekerja berada stand by di kantor dari pagi hingga sore. Lewat
   pekerjaan ini, seseorang punya peluang untuk meraih work-life balance.
 date: 2022-06-23T18:19:48.502Z
+tag:
+  - Karir
+category:
+  - Bisnis
 featuredImage:
   src: https://images.unsplash.com/photo-1648737966636-2fc3a5fffc8a?ixlib=rb-1.2.1&ixid=MnwxMjA3fDF8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80
-  alt: Cara Menjadi Digital Nomad di Indonesia
-  title: Cara Menjadi Digital Nomad di Indonesia
+  alt: "simak cara jadi digital nomad dan peluang digital nomad di Indonesia "
+  title: Tips menjadi digital nomad yang penting untuk kamu pahami
 ---
 <!--StartFragment-->
 
@@ -107,6 +111,10 @@ Jika sepenuhnya bergantung pada gaji bulanan, tentu terdapat risiko tidak terdug
 
 Itu dia penjelasan lengkap tentang karier sebagai digital nomad lengkap dengan tips memulai karier tersebut. Jika kamu tertarik, pastikan untuk mempersiapkan *skill* yang wajib dimiliki ya! Jangan lupa juga untuk mulai mempersiapkan kondisi keuangan dengan matang agar kariermu sebagai digital nomad optimal meskipun dihadapkan dengan tantangan apapun karena sudah mengantongi *passive income*. 
 
-## [Ingin Mulai Investasi Untuk Persiapan Jadi Digital Nomad? Yuk, Temukan Peluang Bisnis Menjanjikan di LandX Sekarang!](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)
+## [Ingin Mulai Investasi untuk Persiapan Jadi Digital Nomad? Yuk, Temukan Peluang Bisnis Menjanjikan di LandX Sekarang!](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)
+
+<!--StartFragment-->
+
+![miliki bisnis modal kecil cuma dengan 1 jutaan dapat 4 cabang ](https://accountgram-production.sfo2.cdn.digitaloceanspaces.com/landx_ghost/2021/11/jadi-owner-bisnis-hanya-1-jutaan-dengan-cuan-yang-sangat-menjanjikan.png)
 
 <!--EndFragment-->
