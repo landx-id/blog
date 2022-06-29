@@ -14,6 +14,7 @@ collections: # A list of collections the CMS should be able to edit
     folder: "site/content/blog" # The path to the folder where the documents are stored
     create: true # Allow users to create new documents in this collection
     fields: # The fields each document in this collection have
+      - { label: "Draft", name: "draft", widget: "boolean", required: false, default: true}
       - { label: "Author", name: "author", widget: "string" }
       - { label: "Title", name: "title", widget: "string", hint: "Can't be more than 70 Characters", pattern: ['^.{0,70}$', "Can't be more than 70 Characters"]}
       - { label: "Meta Title", name: "metaTitle", widget: "string", hint: "Can't be more than 70 Characters", pattern: ['^.{0,70}$', "Can't be more than 70 Characters"]}
