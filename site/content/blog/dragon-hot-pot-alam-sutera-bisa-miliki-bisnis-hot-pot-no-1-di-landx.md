@@ -5,7 +5,7 @@ metaTitle: Dragon Hot Pot Alam Sutera | Bisa Miliki Bisnis Hot Pot No. 1 di Land
 metaDescription: Dragon Hot Pot dan para investornya di platform crowdfunding
   LandX meriahkan grand opening cabang Alam Sutera di Tangerang.
 intro: Yuk simak keseruan grand opening Dragon Hot Pot X LandX cabang Alam Sutera
-isPinned: true
+isPinned: false
 date: 2022-03-20T23:50:31.244Z
 tag:
   - Bisnis F&B
