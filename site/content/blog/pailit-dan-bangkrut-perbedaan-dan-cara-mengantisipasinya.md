@@ -1,5 +1,5 @@
 ---
-draft: true
+draft: false
 author: Della Octavilia
 title: "Pailit dan Bangkrut: Perbedaan dan Cara Mengantisipasinya"
 metaTitle: "Pailit dan Bangkrut: Perbedaan dan Cara Mengantisipasinya | LandX Blog"
