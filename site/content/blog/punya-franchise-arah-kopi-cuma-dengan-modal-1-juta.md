@@ -8,7 +8,7 @@ metaDescription: Arah Kopi adalah bisnis coffee shop yang berdiri pada tahun
 intro: Arah Kopi merupakan salah satu franchise coffee shop yang menawarkan
   berbagai menu kopi dari biji kopi khas nusantara. Yuk simak bagaimana
   perkembangan bisnis Arah Kopi dan Cara jadi pemilik Arah Kopi modal 1 juta
-isPinned: true
+isPinned: false
 slug: punya-franchise-arah-kopi-cuma-dengan-modal-1-juta
 date: 2022-01-26T17:50:10.000Z
 tag:
