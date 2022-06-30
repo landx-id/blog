@@ -1,8 +1,8 @@
 ---
 draft: false
 author: Della Octavilia
-title: "Pailit dan Bangkrut: Perbedaan dan Cara Mengantisipasinya"
-metaTitle: "Pailit dan Bangkrut: Perbedaan dan Cara Mengantisipasinya | LandX Blog"
+title: Memahami Perbedaan Pailit dan Bangkrut di Perusahaan
+metaTitle: Memahami Perbedaan Pailit dan Bangkrut pada Perusahaan
 metaDescription: Pailit adalah keadaan perusahaan (debitur) yang tidak mampu
   membayar kembali utang kepada kreditor, lalu dinyatakan pailit oleh pengadilan
   niaga.
@@ -10,10 +10,16 @@ intro: Apa itu pailit? Pailit adalah keadaan perusahaan (debitur) yang tidak
   mampu membayar kembali utang kepada kreditor, lalu dinyatakan pailit oleh
   pengadilan niaga.
 date: 2022-06-29T08:23:06.443Z
+tag:
+  - Bisnis Jangka Panjang
+  - Memulai Usaha
+  - Memulai Bisnis
+category:
+  - Bisnis
 featuredImage:
   title: "Pailit dan Bangkrut: Perbedaan dan Cara Mengantisipasinya"
   alt: Pailit dan Bangkrut
-  src: img/pailit-dan-bangkrut.jpg
+  src: https://images.unsplash.com/photo-1528747354767-89476f71d2a3?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80
 ---
 Bangkrut dan pailit merupakan keadaan yang jadi mimpi buruk bagi semua perusahaan. 
 
@@ -211,4 +217,10 @@ Anda juga akan mendapatkan keuntungan dari [equity crowdfunding](https://landx.i
 
 [LandX](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog), platform [equity crowdfunding](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog) terpercaya, transparan, dan telah memiliki izin dari Otoritas Jasa Keuangan (OJK). Anda bisa mendapatkan keuntungan besar dan modal kecil.
 
-## **[Jadilah Salah Satu Pemilik Bisnis Keuntungan Besar dengan Investasi Sekarang Juga di LandX](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)**
+## **[Yuk Jadi Salah Satu Pemilik Bisnis Keuntungan Menjanjikan di LandX](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)**
+
+<!--StartFragment-->
+
+[![miliki bisnis modal kecil cuma dengan 1 jutaan dapat 4 cabang ](https://accountgram-production.sfo2.cdn.digitaloceanspaces.com/landx_ghost/2021/11/jadi-owner-bisnis-hanya-1-jutaan-dengan-cuan-yang-sangat-menjanjikan.png)](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)
+
+<!--EndFragment-->
