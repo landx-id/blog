@@ -1,5 +1,5 @@
 ---
-draft: true
+draft: false
 author: Della Octavilia
 title: 10 Rekomendasi Franchise Usaha Minuman Kekinian Modal Kecil | LandX
 metaTitle: 10 Rekomendasi Franchise Usaha Minuman Kekinian Modal Kecil | LandX
@@ -9,10 +9,19 @@ intro: Saat ini usaha minuman kekinian sedang banyak diminati oleh masyarakat
   Indonesia sebagai peluang usahanya. Hanya pakai modal kecil sudah dapat
   membangun usaha minuman kekinian dengan sistem franchise.
 date: 2022-06-30T07:32:55.432Z
+tag:
+  - Bisnis Makanan
+  - Franchise Makanan
+  - Bisnis F&B
+  - Bisnis FnB
+  - Franchise Modal Kecil
+  - Bisnis Modal Kecil
+category:
+  - Bisnis
 featuredImage:
   src: img/franchise-minuman.jpg
-  title: 10 Rekomendasi Franchise Usaha Minuman Kekinian Modal Kecil | LandX
-  alt: Franchise Usaha Minuman Modal Kecil
+  title: 10 Rekomendasi Franchise Usaha Minuman Kekinian Modal Kecil
+  alt: Franchise Usaha Minuman Modal Kecil|Franchise kekinian modal kecil untuk anda
 ---
 Salah satu bisnis F&B yang saat ini sedang tren dengan potensi keuntungan menjanjikan adalah usaha minuman kekinian modal kecil.
 
@@ -150,4 +159,12 @@ Tapi platform [equity crowdfunding](https://landx.id/project/?utm_source=Blog&ut
 
 [LandX](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog), platform [equity crowdfunding](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog) terpercaya, transparan, dan telah memiliki izin dari Otoritas Jasa Keuangan (OJK). Anda bisa mendapatkan keuntungan besar dengan modal kecil.
 
-## [Jangan Ketinggalan Kehadiran Saham Mixue di Aplikasi LandX, Download Sekarang Juga!](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)
+## [Supaya Tidak Ketinggalan Kehadiran Saham Mixue di Aplikasi Land](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)
+
+## [ Yuk Download Aplikasinya Sekarang Juga!](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)
+
+<!--StartFragment-->
+
+[![miliki bisnis modal kecil cuma dengan 1 jutaan dapat 4 cabang ](https://accountgram-production.sfo2.cdn.digitaloceanspaces.com/landx_ghost/2021/11/jadi-owner-bisnis-hanya-1-jutaan-dengan-cuan-yang-sangat-menjanjikan.png)](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)
+
+<!--EndFragment-->
