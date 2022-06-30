@@ -1,17 +1,24 @@
 ---
 draft: false
 author: Vlora Riyandi
-title: "PROJECT SERIES: Grand Opening Arah Kopi Condet | Equity Crowdfunding"
-metaTitle: "Franchise Coffee Shop: Grand Opening Arah Kopi Condet | Crowdfunding"
+title: "PROJECT SERIES: Grand Opening Franchise Arah Kopi Cabang Condet"
+metaTitle: "Franchise Coffee Shop: Grand Opening Arah Kopi Condet | LandX"
 metaDescription: Ini dia tongkrongan coffee shop kekinian di kawasan Condet,
   Jakarta Timur. Tersedia menu Arah Kopi dari ekstrak biji kopi Arabika dan menu
   pastry.
 intro: Ini dia tongkrongan coffee shop kekinian di kawasan Condet, Jakarta
   Timur. Tersedia menu Arah Kopi dari ekstrak biji kopi Arabika dan menu pastry.
 date: 2022-06-30T07:23:08.495Z
+tag:
+  - Franchise Kopi
+  - Bisnis FnB
+  - Franchise Minuman
+category:
+  - Bisnis
+  - Investasi
 featuredImage:
-  title: "PROJECT SERIES: Grand Opening Arah Kopi Condet | Equity Crowdfunding"
-  alt: franchise arah kopi
+  title: Arah kopi modal kecil
+  alt: franchise arah kopi modal kecil yang bisa anda coba
   src: img/franchise-coffee-shop.jpg
 ---
 Kedai kopi atau coffee shop telah menjadi lifestyle bagi berbagai kalangan sosial di tanah air. Hal ini membuat para penggiat dengan growth mindset melihat peluang untuk membuka bisnis coffee shop modal kecil. Salah satu pemain gesitnya adalah Arah Kopi.
@@ -22,9 +29,7 @@ Selain itu, Arah Kopi menggandeng investor di [LandX](https://landx.id/project/?
 
 Yuk, kita lihat gimana ramenya outlet cabang terbaru Arah Kopi Condet ini!
 
-(Watch this video)
-
-
+{{< youtube id="RD1crD9r6_Q" >}}
 
 ## Tentang Arah Kopi
 
