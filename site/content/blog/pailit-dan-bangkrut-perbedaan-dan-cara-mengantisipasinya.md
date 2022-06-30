@@ -19,7 +19,7 @@ category:
 featuredImage:
   title: "Pailit dan Bangkrut: Perbedaan dan Cara Mengantisipasinya"
   alt: Pailit dan Bangkrut
-  src: https://images.unsplash.com/photo-1528747354767-89476f71d2a3?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80
+  src: https://landx.id/blog/img/pailit-dan-bangkrut.jpg
 ---
 Bangkrut dan pailit merupakan keadaan yang jadi mimpi buruk bagi semua perusahaan. 
 
