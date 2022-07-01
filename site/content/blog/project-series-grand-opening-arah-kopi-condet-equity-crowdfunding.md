@@ -98,3 +98,9 @@ Apa keuntungan investasi [equity crowdfunding](https://landx.id/project/?utm_sou
 Berinvestasi secara mudah dalam satu aplikasi dan pantau bisnis yang didanai secara mandiri melalui fitur yang tersedia maupun berkunjung langsung ke lokasi bisnis. Jangan lupa juga ikuti berita terbaru seputar bisnis melalui sosial media [Instagram](https://www.instagram.com/landx.id/?utm_source=Blog&utm_medium=Blog&utm_campaign=artikel) dan [TikTok](https://www.tiktok.com/@landx.id?lang=en&utm_source=Blog&utm_medium=Blog&utm_campaign=artikel) [LandX](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog). ([LandX](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog) tidak punya Telegram, hati-hati penipuan mengatasnamakan [LandX](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog))
 
 ## [Mau Punya Saham Bisnis Sekeren Franchise Coffee Shop? Yuk, Download Aplikasi LandX Sekarang!](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)
+
+<!--StartFragment-->
+
+[![miliki bisnis modal kecil cuma dengan 1 jutaan dapat 4 cabang ](https://accountgram-production.sfo2.cdn.digitaloceanspaces.com/landx_ghost/2021/11/jadi-owner-bisnis-hanya-1-jutaan-dengan-cuan-yang-sangat-menjanjikan.png)](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)
+
+<!--EndFragment-->
