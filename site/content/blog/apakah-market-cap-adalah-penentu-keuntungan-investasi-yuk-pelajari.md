@@ -1,5 +1,5 @@
 ---
-draft: true
+draft: false
 author: Nadya A. Faatihah
 title: Apakah Market Cap Adalah Penentu Keuntungan Investasi? Yuk Pelajari!
 metaTitle: Market Cap Adalah Tolak Ukur Skala Perusahaan, Ini Penjelasannya!
