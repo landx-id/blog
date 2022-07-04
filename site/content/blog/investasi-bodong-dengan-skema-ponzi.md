@@ -141,6 +141,10 @@ Dengan skema ponzi, First Travel menawarkan iming-iming biaya umroh murah. Denga
 
 Pola tersebut terus berlangsung hingga akhirnya jemaah lain mendapat ketidakpastian akan kejelasan keberangkatan mereka. Karena ini, jemaah baru yang mendaftar pun semakin berkurang.
 
+
+
+- - -
+
 ## Apa Bedanya MLM dan Skema Ponzi?
 
 Kegiatan operasional bisnis skema ponzi hanya berfokus pada penambahan anggota baru yang diharuskan untuk membayar biaya awal membership dan biaya iuran secara rutin. Biasanya anggota dalam bisnis ini diharuskan untuk menjual produk-produk tertentu sebagai kamuflase bisnisnya. 
@@ -153,7 +157,7 @@ Skema ponzi ini hanyalah cara “memutar uang” dari member baru untuk diberika
 
 Pada bisnis MLM, pebisnis memiliki produk yang jelas untuk dijual. Bonus bagi anggota juga bisa diperoleh dari penjualan produk, bahkan bisa ada bonus dari persentase tertentu produk yang terjual. Bisnis MLM juga biasanya memberikan pelatihan dan pendampingan bagi membernya. Inilah perbedaan MLM dan skema ponzi yang terlihat jelas. 
 
-<!--EndFragment-->
+- - -
 
 ## Cara Terhindar dari skema Ponzi
 
