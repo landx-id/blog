@@ -29,9 +29,11 @@ category:
 ---
 The Fed adalah singkatan dari The Federal Reserve System yang merupakan Bank Sentral Amerika Serikat. Sebagai Bank Sentral AS, The Fed menerapkan berbagai kebijakan moneter untuk menjaga stabilitas ekonomi di AS.
 
-Akan tetapi, sebagai Bank Sentral Amerika yang mata uangnya digunakan masyarakat luas di seluruh dunia, kebijakan The Fed memiliki pengaruh besar terhadap perekonomian global.
+Akan tetapi, sebagai Bank Sentral Amerika yang mata uangnya digunakan masyarakat luas di seluruh dunia; Kebijakan The Fed memiliki pengaruh besar terhadap perekonomian global.
 
 Oleh sebab itu, bank sentral ini memiliki pengaruh signifikan terhadap kondisi perekonomian negara-negara lain.
+
+Jadi, The Fed adalah bank sentral dari Amerika Serikat yang bisa dibilang lembaga keuangan yang paling kuat di dunia. Didirikan untuk melaksanakan sistem moneter dan keuangan yang aman, fleksibel, dan stabil.
 
 Lebih jelasnya, mari kita bahas lebih lanjut tentang apa itu The Fed dan berbagai kebijakan The Fed yang mempengaruhi perekonomian global.
 
@@ -75,6 +77,36 @@ Pada diskusi kebijakan moneter, pemimpin Bank Federal Reserve diharapkan bisa me
 
 Entitas ini merupakan bagian paling bawah dari struktur The Fed yang bertugas untuk membuat berbagai kebijakan dan keputusan moneter seperti penetapan suku bunga. Anggota dari entitas ini merupakan gabungan dari dua entitas sebelumnya yang akan berpartisipasi dalam pembuatan berbagai kebijakan  moneter.
 
+## Apa itu Sistem Federal Reserve?
+
+The Federal Reserve adalah gabungan 12 bank regional/daerah yang bertindak sebagai bank sentral Amerika Serikat dan dipimpin 7 dewan gubernur yang ditunjuk presiden. Daerah-daerah federal reserve bank tersebut adalah Boston, New York, Philadelphia, Cleveland, Richmond, Atlanta, Chicago, St. Louis, Minneapolis, Kansas City, Dallas, dan San Francisco
+
+Para dewan gubernur serta presiden dari setiap bank yang tergabung dalam sistem ini secara berkala bertemu dan berdiskusi terkait pelaksanaan fungsi tugas. **5 fungsi umum The Federal Reserve System** adalah:
+
+1. Melaksanakan kebijakan moneter negara untuk mempromosikan lapangan kerja agar tenaga kerja terserap maksimal, menstabilkan harga, dan tingkat bunga jangka panjang yang moderat dalam ekonomi AS
+2. Menjaga stabilitas sistem keuangan, serta melakukan upaya meminimalisir risiko melalui pemantauan dan keterlibatan aktif di dalam dan luar negeri
+3. Menjaga keamanan dan kesehatan lembaga keuangan individu dan memantau dampaknya terhadap sistem keuangan secara keseluruhan
+4. Mendorong keamanan dan efisiensi sistem pembayaran dan penyelesaian melalui layanan kepada industri perbankan dan pemerintah AS yang memfasilitasi transaksi dan pembayaran dolar AS; dan
+5. Menjamin perlindungan konsumen melalui pengawasan yang berfokus pada konsumen dan masyarakat. Meneliti dan menganalisis masalah dan tren konsumen yang muncul, melaksanakan kegiatan pengembangan ekonomi masyarakat, serta administrasi peraturan dan undang-undang terkait konsumen.
+
+**Contoh Kebijakan The Fed**
+
+Sebagai bank sentral Amerika Serikat, The Fed adalah lembaga keuangan yang bertanggung jawab untuk mengawasi sistem moneter dan kebijakan suatu negara. Kebijakan the fed sebagai bank sentral adalah berusaha menjaga perekonomian negara agar tetap stabil. 
+
+Tujuan kebijakan The Fed adalah menjaga dua metrik penting yaitu pengangguran dan inflasi. Berikut contoh kebijakan the fed sebagai bank sentral:
+
+* **Menaikkan Suku Bunga**
+
+**Kenapa The Fed menaikkan suku bunga?**
+
+The Fed menaikkan suku bunga 2022 untuk menjaga inflasi di negaranya, Amerika Serikat. Menaikkan tingkat suku bunga merupakan bentuk kebijakan moneter The Fed. Tingkat suku bunga mempengaruhi tingkat pengeluaran dan investasi masyarakat.
+
+* **Open Market Operations**
+
+Strategi paling efektif dan paling sering digunakan The Fed adalah pembelian dan penjualan sekuritas pemerintah dalam operasi pasar terbuka. Surat berharga pemerintah ini termasuk obligasi negara, wesel, dan tagihan. 
+
+The Fed membeli sekuritas ketika ingin meningkatkan peredaran uang dan kredit, dan menjual sekuritas ketika ingin mengurangi aliran peredaran uang.
+
 ## Pengaruh The Fed Terhadap Perekonomian Dunia
 
 Seperti yang kita tahu, dolar Amerika merupakan mata uang yang digunakan secara global sehingga setiap tindakan yang ambil oleh The Fed mempengaruhi negara-negara lain di seluruh dunia.
@@ -90,6 +122,10 @@ Salah satu contohnya adalah kebijakan tapering yang sempat menyebabkan pergolaka
 #### Artikel Terkait:
 
 * [Mengenal Apa Itu Tapering Off dan Dampaknya Bagi Investasi](https://landx.id/blog/tapering-adalah/)
+
+Kebijakan Federal Reserve atau The Fed memiliki dampak signifikan pada kehidupan semua orang, termasuk Anda saat ini sebagai pembaca artikel ini. Kebijakan The Fed secara langsung mempengaruhi reksa dana saham dan obligasi Anda, serta tingkat bunga pinjaman Anda.
+
+Karena itu, bagi Anda investor saham mungkin kini sedang dilanda warna merah pada portofolio investasi Anda. 
 
 ## Kesimpulan
 
