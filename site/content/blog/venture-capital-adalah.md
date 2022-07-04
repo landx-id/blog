@@ -5,7 +5,7 @@ slug: venture-capital-adalah
 title: "Venture Capital: Memahami Arti dan Manfaat Venture Capital"
 metaTitle: "Venture Capital: Memahami Arti dan Manfaat Venture Capital"
 metaDescription: Venture capital adalah lembaga pendanaan yang melakukan
-  investasi bagi bisnis. Venture capital artinya memberikan bantuan dana kepada
+  investasi bagi bisnis. Modal ventura artinya memberikan bantuan dana kepada
   startup/ bisnis
 intro: Yuk pahami apa itu venture capital dan perannya terhadap pertumbuhan
   bisnis dan ekonomi suatu negara.
@@ -24,11 +24,11 @@ category:
 ---
 Pada era ini, bisnis jenis startup semakin banyak bermunculan dengan berbagai inovasi baru untuk mempermudah kehidupan masyarakat. Akan tetapi tahukah kamu bahwa ada **venture capital dan venture capitalist** yang memberikan pendanaan bagi bisnis agar dapat berkembang dengan pesat?
 
-Agar mereka dapat berkembang secara lebih pesat, salah satu sumber pendanaan yang biasa digunakan *startup* adalah *venture capital.* Karena itu, venture capital adalah pihak yang memiliki peran penting dalam perkembangan bisnis-binsis di suatu negara.
+Agar mereka dapat berkembang secara lebih pesat, salah satu sumber pendanaan yang biasa digunakan *startup* adalah *venture capital* atau modal ventura*.* Karena itu, venture capital adalah pihak yang memiliki peran penting dalam perkembangan bisnis-binsis di suatu negara.
 
-Karena itu, baru-baru ini pemerintah baru saja merilis venture capital Indonesia yang diberi nama  **[Merah Putih Fund](https://landx.id/blog/memahami-seluk-beluk-merah-putih-fund/)**  yang ditujukan untuk mempercepat pertumbuhan berbagaimi inovasi bisnis di Indonesia.
+Baru-baru ini pemerintah baru saja merilis modal ventura Indonesia yang diberi nama  **[Merah Putih Fund](https://landx.id/blog/memahami-seluk-beluk-merah-putih-fund/)**  yang ditujukan untuk mempercepat pertumbuhan berbagaimi inovasi bisnis di Indonesia.
 
-Karena itu, yuk kita bahas lebih lanjut apa yang dimaksud dengan venture capital dan manfaat venture capital bagi perekonomian suatu negara.
+Karena itu, yuk kita bahas lebih lanjut apa yang dimaksud dengan modal ventura dan manfaat modal ventura bagi perekonomian suatu negara.
 
 - - -
 
@@ -36,15 +36,15 @@ Karena itu, yuk kita bahas lebih lanjut apa yang dimaksud dengan venture capital
 
 Singkatnya, *venture capital* adalah lembaga keuangan yang akan memberikan pendanaan kepada suatu perusahaan seperti *startup* agar suatu perusahaan dapat berkembang dengan lebih cepat.
 
-*Venture capital* biasanya terdiri dari beberapa investor dengan modal yang besar dan mencari perusahaan dengan potensi [*return* investasi](https://landx.id/) terbaik.
+*Venture capital* atau modal ventura biasanya terdiri dari beberapa investor dengan modal yang besar dan mencari perusahaan dengan potensi [*return* investasi](https://landx.id/) terbaik.
 
-Artinya, venture capital menjadi pihak yang akan menyeleksi bisnis/ perusahaan mana yang potensial dan bisa memberikan return terbaik sesuai dengan investasi yang mereka keluarkan.
+Artinya, modal ventura menjadi pihak yang akan menyeleksi bisnis/ perusahaan mana yang potensial dan bisa memberikan return terbaik sesuai dengan investasi yang mereka keluarkan.
 
-Perusahaan startup merupakan salah satu jenis perusahaan yang sering mendapatkan pendanaan dari venture capital karena dinilai memiliki potensi besar untuk perkembangan jangka panjang.
+Perusahaan startup merupakan salah satu jenis perusahaan yang sering mendapatkan pendanaan dari modal ventura karena dinilai memiliki potensi besar untuk perkembangan jangka panjang.
 
-Sebagai investor, *venture capital* tentu saja nantinya akan mendapatkan bagian keuntungan sesuai dengan besar dana yang telah mereka berikan pada suatu perusahaan.
+Sebagai investor, modal ventura tentu saja nantinya akan mendapatkan bagian keuntungan sesuai dengan besar dana yang telah mereka berikan pada suatu perusahaan.
 
-Akan tetapi, venture capital tentu saja tidak mau memberikan pendanaan kepada sembarang *startup* sehingga mereka akan melakukan analisis terlebih dahulu bagaimana potensi perkembangan dari bisnis yang akan mereka danai.
+Akan tetapi, modal ventura tentu saja tidak mau memberikan pendanaan kepada sembarang *startup* sehingga mereka akan melakukan analisis terlebih dahulu bagaimana potensi perkembangan dari bisnis yang akan mereka danai.
 
 ## Apa Itu Venture Capitalist?
 
@@ -62,13 +62,43 @@ Setelah menghimpun dana dari para investor, *venture capitalist* akan menyalurka
 
 Investor akan mendapatkan keuntungan pada saat mereka *exit* dari suatu perusahaan yang sedang mereka danai, hal ini terjadi saat perusahaan melakukan penawaran publik, dijual, atau diakuisisi. Dalam sistem ini biasanya investor akan mendapatkan keuntungan sebanyak 80% dari total return dan ditambah *management fee*.
 
+## Contoh Modal Ventura di Indonesia
+
+Jadi, modal ventura adalah lembaga keuangan non bank (LKNP) yang berani berinvestasi atau menanamkan modal pada perusahaan yang memiliki risiko tinggi. Karena tingginya risiko, biasanya pendanaan usaha yang dilakukan modal ventura diiringi oleh persyaratan untuk keterlibatan ikut serta dalam perusahaan. 
+
+Beberapa contoh modal ventura yang aktif adalah sebagai berikut:
+
+1. **East Ventures**
+
+Didirikan pada tahun 2009, East Ventures adalah perusahaan modal ventura sektor agnostik atau semua sektor. Perusahaan telah mendukung lebih dari 170 perusahaan di Asia Tenggara. 
+
+Beberapa perusahaan yang pernah didanai East Ventures yaitu Berrybenka, GoTo , D2C Cohive, edtech katadata, hingga F&B seperti Ismaya Group dan Fore Coffee.
+
+2. **Sinar Mas Digital Ventures**
+
+Sinar Mas Digital Ventures adalah perusahaan modal ventura yang berafiliasi dengan Sinar Mas Group, grup industri terkemuka di Indonesia. Sinar Mas Digital Ventures berfokus pada perusahaan teknologi luar.
+
+Portofolio Sinar Mas Digital Ventures mencakup HappyFresh, IDNTimes, dan Paxel.
+
+3. **EMTEK**
+
+Modal ventura Emtek atau Elang Mahkota Teknologi, induk dari beberapa stasiun TV nasional seperti SCTV, Indosiar, dan O Channel. Di samping media, Emtek juga sering memberikan pendanaan ke beberapa startup mulai dari Bukalapak, DANA, Vidio, hingga memegang saham Grab.
+
+4. **Merah Putih Fund**
+
+Merah Putih Fund didirikan atas inisiatif pemerintah sebagai bentuk meningkatkan partisipasi BUMN pada pendanaan startup calon unicorn. Merah Putih Fund dibentuk dari gabung lima modal ventura dari kalangan BUMN yaitu, Mandiri Capital Indonesia, MDI Ventures, Telkomsel Mitra Inovasi, BRI Ventures, dan BNI Ventures.
+
+Hingga kini pendanaan Merah Putih belum berlangsung karena sedang melengkapi persyaratan dokumen dari Otoritas Jasa Keuangan (OJK).
+
+**Baca juga: [Tentang Merah Putih Fund](https://landx.id/blog/memahami-seluk-beluk-merah-putih-fund/)**
+
 ## Manfaat Venture Capital Indonesia
 
-Pada dasarnya, venture capital bermanfaat untuk memberi membantu pengembangan bisnis-bisnis potensial yang pengembangannya seringkali terhambat karena kekurangan dana.
+Pada dasarnya, modal ventura bermanfaat untuk memberi membantu pengembangan bisnis-bisnis potensial yang pengembangannya seringkali terhambat karena kekurangan dana.
 
-Karena itu, adanya venture capital mendorong munculnya banyak bisnis-bisnis potensial baru dengan berbagai inovasi yang mereka hadirkan ke tengah masyarakat. Hal ini tentu saja secara tidak mendorong pergerakan ekonomi suatu negara.
+Karena itu, adanya modal ventura mendorong munculnya banyak bisnis-bisnis potensial baru dengan berbagai inovasi yang mereka hadirkan ke tengah masyarakat. Hal ini tentu saja secara tidak mendorong pergerakan ekonomi suatu negara.
 
-Di sisi lain, adanya bantuan pendanaan dari venture capital ini membuat perusahaan menjadi lebih likuid karena peningkatan jumlah modal yang diberikan tanpa adanya angsuran bunga selama periode peminjaman tersebut.
+Di sisi lain, adanya bantuan pendanaan dari modal ventura ini membuat perusahaan menjadi lebih likuid karena peningkatan jumlah modal yang diberikan tanpa adanya angsuran bunga selama periode peminjaman tersebut.
 
 Hal ini tentu saja membuat bisnis berjalan dengan lebih optimal dan tumbuh menjadi sesuatu yang memiliki cakupan lebih luas lagi.
 
