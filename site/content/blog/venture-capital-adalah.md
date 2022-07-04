@@ -52,21 +52,15 @@ Venture capitalist atau sering disebut sebagai pemodal ventura adalah pihak bisa
 
 Dengan kata lain, venture capitalist adalah pihak yang melakukan pengelolaan dana untuk disalurkan kepada berbagai bisnis agar mereka bisa berkembang lebih jauh dan menghasilkan keuntungan yang lebih besar lagi.
 
+Untuk mendanai sebuah perusahaan, sebuah venture capitalist tentu telah memiliki investment capital. Investment capital adalah modal investasi atau sejumlah uang untuk mendanai pertumbuhan jangka panjang perusahaan. Dana untuk investasi modal dapat berasal dari sejumlah sumber, termasuk uang tunai, memperoleh pinjaman atau menerbitkan saham.
+
 Di Indonesia sendiri terdapat beberapa venture capitalist dari beberapa venture capital lokal yang terus aktif melakukan penyaringan dan investasi ke berbagai bisnis potensial.
-
-## Bagaimana Cara Kerja Venture Capital?
-
-Venture capital bekerja dengan melibatkan investor dan venture capitalist yang bertugas mengawasi dana yang telah dikeluarkan investor. Sistem ini hampir sama dengan menggunakan manajer investasi dalam reksa dana akan tetapi dengan sistem dan skala yang lebih besar dan rumit.
-
-Setelah menghimpun dana dari para investor, *venture capitalist* akan menyalurkan dana investor ke dalam berbagai perusahaan dan startup yang telah dinilai memiliki potensi keuntungan dalam jangka panjang.
-
-Investor akan mendapatkan keuntungan pada saat mereka *exit* dari suatu perusahaan yang sedang mereka danai, hal ini terjadi saat perusahaan melakukan penawaran publik, dijual, atau diakuisisi. Dalam sistem ini biasanya investor akan mendapatkan keuntungan sebanyak 80% dari total return dan ditambah *management fee*.
 
 ## Contoh Modal Ventura di Indonesia
 
 Jadi, modal ventura adalah lembaga keuangan non bank (LKNP) yang berani berinvestasi atau menanamkan modal pada perusahaan yang memiliki risiko tinggi. Karena tingginya risiko, biasanya pendanaan usaha yang dilakukan modal ventura diiringi oleh persyaratan untuk keterlibatan ikut serta dalam perusahaan. 
 
-Beberapa contoh modal ventura yang aktif adalah sebagai berikut:
+Tidak hanya global, terdapat juga venture capitalist indonesia. Beberapa contoh perusahaan venture capital di Indonesia adalah sebagai berikut:
 
 1. **East Ventures**
 
@@ -91,6 +85,14 @@ Merah Putih Fund didirikan atas inisiatif pemerintah sebagai bentuk meningkatkan
 Hingga kini pendanaan Merah Putih belum berlangsung karena sedang melengkapi persyaratan dokumen dari Otoritas Jasa Keuangan (OJK).
 
 **Baca juga: [Tentang Merah Putih Fund](https://landx.id/blog/memahami-seluk-beluk-merah-putih-fund/)**
+
+## Bagaimana Cara Kerja Venture Capital?
+
+Venture capital bekerja dengan melibatkan investor dan venture capitalist yang bertugas mengawasi dana yang telah dikeluarkan investor. Sistem ini hampir sama dengan menggunakan manajer investasi dalam reksa dana akan tetapi dengan sistem dan skala yang lebih besar dan rumit.
+
+Setelah menghimpun dana dari para investor, *venture capitalist* akan menyalurkan dana investor ke dalam berbagai perusahaan dan startup yang telah dinilai memiliki potensi keuntungan dalam jangka panjang.
+
+Investor akan mendapatkan keuntungan pada saat mereka *exit* dari suatu perusahaan yang sedang mereka danai, hal ini terjadi saat perusahaan melakukan penawaran publik, dijual, atau diakuisisi. Dalam sistem ini biasanya investor akan mendapatkan keuntungan sebanyak 80% dari total return dan ditambah *management fee*.
 
 ## Manfaat Venture Capital Indonesia
 
