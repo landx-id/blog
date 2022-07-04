@@ -26,13 +26,9 @@ image: https://images.unsplash.com/photo-1594979194853-f7dcd77a0a1b?crop=entropy
 category:
   - Investasi
 ---
+Salah satu aspek penting sebelum mulai berinvestasi adalah memperkaya **literasi tentang investasi itu sendiri**, agar tidak mudah terjerat penipuan investasi bodong, misalnya skema ponzi.
 
-
-Salah satu aspek penting sebelum mulai berinvestasi adalah memperkaya **literasi tentang investasi itu sendiri**, agar tidak mudah terjerat penipuan berkedok investasi atau yang biasa disebut investasi bodong.
-
-Apabila kamu merupakan investor pemula yang baru mulai berinvestasi, maka kamu harus waspada dengan **skema ponzi atau ponzi scheme** yang memakan banyak korban belakangan ini.
-
-Banyak sekali orang terjebak dalam scam ponzi ini karena tergiur dengan return besar yang ditawarkan sehingga banyak investor lupa memperhatikan kepada siapa mereka menanamkan modal agar tidak terjebak berbagai skema investasi bodong seperti **skema ponzi.**
+**Skema ponzi adalah** investasi bodong yang memakan banyak korban belakangan ini. Banyak sekali orang terjebak dalam scam ponzi ini karena tergiur dengan return besar yang ditawarkan. Skema ponzi atau ponzi scheme memanfaatkan banyak investor yang lupa memerhatikan kepada siapa mereka menanamkan modal.
 
 Dalam berinvestasi setiap orang tentu memiliki keinginan untuk mendapatkan keuntungan sebesar-besarnya. Namun, investasi bukan hanya soal menanamkan sejumlah uang kepada pihak yang menjanjikan keuntungan tapi juga tentang bagaimana kita bisa menemukan instrumen investasi yang aman dan sesuai dengan profil risiko kita.
 
@@ -42,7 +38,7 @@ Minimnya literasi keuangan menjadi salah satu faktor yang membuat banyak masyara
 
 Karena itu, yuk pelajari lebih lanjut tentang apa itu skema ponzi atau ponzi scheme agar kita tidak terjebak apabila menemukan hal seperti ini di masa mendatang.
 
----
+- - -
 
 ## Apa Itu Skema Ponzi
 
@@ -64,7 +60,7 @@ Ponzi artinya sangat membahayakan karena jika tidak ada lagi investor baru yang 
 
 Meski sepintas nampak gamblang dan mudah dihindari, nyatanya praktik skema Ponzi ini masih terus terjadi karena ia mampu berkamuflase ke dalam berbagai media atau instrumen investasi.
 
-Salah satunya melalui instrumen _trading foreign exchange_ (forex), seperti kasus yang menimpa Sunton Capital (SuntonFX) pada Oktober 2021 lalu. Kasus ini adalah contoh bisnis ponzi di Indonesia yang memakan banyak korban.
+Salah satunya melalui instrumen *trading foreign exchange* (forex), seperti kasus yang menimpa Sunton Capital (SuntonFX) pada Oktober 2021 lalu. Kasus ini adalah contoh bisnis ponzi di Indonesia yang memakan banyak korban.
 
 Sunton Capital atau adalah sebuah broker forex asing yang berasal dari Inggris. Cara kerja SuntonFX pada mulanya mirip seperti broker forex pada umumnya. Nasabah akan diminta untuk menyetorkan deposit minimal 50 USD. Kemudian, manajer investasi akan mengarahkan nasabah untuk melakukan transaksi jual atau beli berdasarkan waktu yang telah ditentukan.
 
@@ -86,9 +82,9 @@ Pada investasi skema Ponzi, investor biasanya akan dijanjikan keuntungan yang le
 
 Masyarakat perlu mewaspadai jika menemukan model investasi seperti ini. Karena pada dasarnya, setiap investasi tentu membutuhkan waktu yang tidak sedikit agar dapat memperoleh keuntungan dari bisnis yang dijalankan.
 
-Artinya kamu perlu mencurigai sebuah investasi adalah scam apabila menawarkan _return_ yang sangat besar hanya dalam waktu singkat. Hal ini karena _return_ yang tinggi sering kali digunakan oleh bisnis ponzi untuk menarik minat para investor mereka.
+Artinya kamu perlu mencurigai sebuah investasi adalah scam apabila menawarkan *return* yang sangat besar hanya dalam waktu singkat. Hal ini karena *return* yang tinggi sering kali digunakan oleh bisnis ponzi untuk menarik minat para investor mereka.
 
-Apabila instrumen investasi ini benar-benar ada, tentu saja semua orang akan berbondong berinvestasi ke dalam project jenis ini. Akan tetapi, hal ini tentu saja _"to good to be true" karena_ dalam investasi kita harus paham konsep "_high risk high return"._
+Apabila instrumen investasi ini benar-benar ada, tentu saja semua orang akan berbondong berinvestasi ke dalam project jenis ini. Akan tetapi, hal ini tentu saja *"to good to be true" karena* dalam investasi kita harus paham konsep "*high risk high return".*
 
 ### 2. Tidak memiliki bentuk bisnis yang jelas
 
@@ -120,14 +116,44 @@ Karena itu, kamu perlu curiga bahwa investasi kamu ilegal apabila proses pencair
 
 Karena cenderung lebih sulit mendapatkan investor, perusahaan pelaku investasi bodong ini biasanya akan mengundang tokoh-tokoh penting, seperti tokoh masyarakat, tokoh agama, politikus, dan sebagainya, agar terlihat lebih meyakinkan dan dapat menarik perhatian investor baru.
 
----
+- - -
 
 **Baca Juga:**
 
 * [Amankah Robot Trading? Memahami Apa Itu Robot Trading yang Sering Jadi Modus Penipuan](https://landx.id/blog/amankah-robot-trading/)
 * [Mengenal Berbagai Modus Investasi Bodong dan Cara Terhindar dari Penipuan dengan Kedok Investasi](https://landx.id/blog/berbagai-skema-investasi-bodong-yang-wajib-investor-pemula-waspadai/)
 
----
+- - -
+
+## Skema Ponzi di Indonesia
+
+Terdapat beberapa kasus besar yang melibatkan skema ponzi di Indonesia. Berikut adalah sebagian kecil contohnya.
+
+### 1. Binomo
+
+Kasus Binomo sempat geger pada akhir 2021. Modusnya adalah menawarkan kepada masyarakat luas untuk investasi dengan tawaran keuntungan jangka pendek yang menggiurkan. 
+
+Kemudian, jika investor tersebut menginginkan uang deposit mereka kembali, maka akan dibayar dengan dana masuk yang diberikan oleh investor baru. Pola skema ponzi dalam investasi bodong ini berlangsung terus menerus hingga akhirnya banyak korbannya buka suara.
+
+### 2. First Travel 
+
+Dengan skema ponzi, First Travel menawarkan iming-iming biaya umroh murah. Dengan modus memberangkatkan jemaah pertamanya menggunakan uang dari jemaah yang mendaftar setelahnya, semakin banyak orang berbondong-bondong mengajak kenalannya untuk mendaftar umroh melalui First Travel.
+
+Pola tersebut terus berlangsung hingga akhirnya jemaah lain mendapat ketidakpastian akan kejelasan keberangkatan mereka. Karena ini, jemaah baru yang mendaftar pun semakin berkurang.
+
+## Apa Bedanya MLM dan Skema Ponzi?
+
+Kegiatan operasional bisnis skema ponzi hanya berfokus pada penambahan anggota baru yang diharuskan untuk membayar biaya awal membership dan biaya iuran secara rutin. Biasanya anggota dalam bisnis ini diharuskan untuk menjual produk-produk tertentu sebagai kamuflase bisnisnya. 
+
+Berbagai produk mulai dari suplemen kesehatan, alat rumah tangga, hingga lot untuk trading. Namun sebenarnya, keuntungan yang didapatkan anggota utamanya berasal dari biaya membership dan iuran rutin anggota baru yang direkrut. Produk-produk yang “dijual” ini tidak memberi signifikansi pada jalannya usaha. 
+
+Skema ponzi ini hanyalah cara “memutar uang” dari member baru untuk diberikan ke member lama. Bila member baru ingin menikmati keuntungan, maka mereka tentu harus mencari member baru yang banyak juga.
+
+
+
+Pada bisnis MLM, pebisnis memiliki produk yang jelas untuk dijual. Bonus bagi anggota juga bisa diperoleh dari penjualan produk, bahkan bisa ada bonus dari persentase tertentu produk yang terjual. Bisnis MLM juga biasanya memberikan pelatihan dan pendampingan bagi membernya. Inilah perbedaan MLM dan skema ponzi yang terlihat jelas. 
+
+<!--EndFragment-->
 
 ## Cara Terhindar dari skema Ponzi
 
@@ -138,26 +164,25 @@ Karena cenderung lebih sulit mendapatkan investor, perusahaan pelaku investasi b
 3. Cari tahu lebih dalam produk dan bentuk investasi serta resikonya.
 4. Pilih instrumen investasi yang aman, terpercaya, dan sudah berizin OJK
 
-Salah satu[ **platform investasi yang aman dan terpercaya**](https://landx.id/project/) adalah [**LandX**](https://landx.id/). LandX merupakan sebuah platform _equity crowdfunding,_ yakni tempat bertemunya para investor dengan para pebisnis yang tengah mengembangkan bisnisnya.
+Salah satu[ **platform investasi yang aman dan terpercaya**](https://landx.id/project/) adalah **[LandX](https://landx.id/)**. LandX merupakan sebuah platform *equity crowdfunding,* yakni tempat bertemunya para investor dengan para pebisnis yang tengah mengembangkan bisnisnya.
 
-Dengan**[sistem patungan bisnis atau _crowdfunding_](https://landx.id/project/)**, Anda bisa ikut menjadi investor atau owner dari berbagai project bisnis di LandX dengan modal yang lebih ringan, yakni mulai dari **1 juta rupiah.**
+Dengan**[sistem patungan bisnis atau *crowdfunding*](https://landx.id/project/)**, Anda bisa ikut menjadi investor atau owner dari berbagai project bisnis di LandX dengan modal yang lebih ringan, yakni mulai dari **1 juta rupiah.**
 
 **LandX telah berizin resmi dan diawasi oleh OJK, sehingga Anda dapat berinvestasi dengan aman dan mudah.**
 
-### [Tunggu apalagi, segera verifikasi akun Anda di LandX agar dapat bergabung dengan berbagai project bisnis menarik di LandX.***](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)
+### [Tunggu apalagi, segera verifikasi akun Anda di LandX agar dapat bergabung dengan berbagai project bisnis menarik di LandX.\*\**](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)
 
 [![Yuk mulai patungan bisnis menguntungkan jangka panja g bersama LandX](https://accountgram-production.sfo2.cdn.digitaloceanspaces.com/landx_ghost/2021/09/Equity-Crowdfunding-di-Indonesia-1--3.png)](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)
 
 **[Jangan Lupa!!! Follow Instagram @landx.id dengan Berbagai Informasi Terbaru Seputar Investasi dan Bisnis](https://docs.google.com/spreadsheets/d/1D6tUyLGN8I9Cea83cPmrYOW1-y4JNH3a3Yb0yjHW6m4/edit?usp=sharing)**
 
----
+- - -
 
 **Baca Juga:**
 
 * [Investasi Terpercaya: Mulai Mengelola Uang dengan Baik Melalui Investasi yang Aman dan Terpercaya](https://landx.id/blog/investasi-terpercaya/)
 * [Menuju Akhir Tahun, Berikut Prospek dan Rekomendasi Investasi Aman untuk Tahun 2022](https://landx.id/blog/rekomendasi-investasi-di-tahun-2022/)
 
----
+- - -
 
-****#YukPatunganBisnis****
-
+\***\*#YukPatunganBisnis\****
