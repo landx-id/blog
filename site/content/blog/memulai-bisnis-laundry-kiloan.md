@@ -3,7 +3,7 @@ draft: false
 author: Abdul Wahhab
 slug: memulai-bisnis-laundry-kiloan
 title: "Usaha Laundry Kiloan Terbaik yang Bisa Kamu Buka dengan Modal Kecil "
-metaTitle: "Usaha Laundry Kiloan Terbaik Modal Kecil "
+metaTitle: Usaha Laundry Kiloan Modal Kecil Terbaik dan Tipsnya
 metaDescription: Jenis-jenis laundry yang bisa kamu buka cuma dengan modal 1 jutaan
 intro: Yuk simak potensi jangka panjang bisnis laundry yang bisa kamu buka
   dengan modal 1 juta
