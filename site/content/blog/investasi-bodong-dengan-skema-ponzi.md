@@ -28,7 +28,7 @@ category:
 ---
 **Skema ponzi adalah** investasi bodong yang memakan banyak korban belakangan ini. Banyak sekali orang terjebak dalam scam ponzi ini karena tergiur dengan return besar yang ditawarkan. Skema ponzi atau ponzi scheme memanfaatkan banyak investor yang lupa memerhatikan kepada siapa mereka menanamkan modal.
 
-Salah satu aspek penting sebelum mulai berinvestasi adalah memperkaya **literasi tentang investasi itu sendiri**, agar tidak mudah terjerat penipuan investasi bodong, termasuk skema ponzi.
+Salah satu aspek penting sebelum mulai berinvestasi adalah memperkaya **literasi tentang investasi**, agar tidak mudah terjerat penipuan investasi bodong, termasuk skema ponzi.
 
 Dalam berinvestasi setiap orang tentu memiliki keinginan untuk mendapatkan keuntungan sebesar-besarnya. Namun, investasi bukan hanya soal menanamkan sejumlah uang kepada pihak yang menjanjikan keuntungan tapi juga tentang bagaimana kita bisa menemukan instrumen investasi yang aman dan sesuai dengan profil risiko kita.
 
