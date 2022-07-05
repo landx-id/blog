@@ -34,27 +34,29 @@ Beberapa waktu belakangan Anda mungkin bingung tentang apa itu tapering yang ban
 
 > **Kebijakan tapering adalah kebijakan moneter yang diambil oleh The Federal Reverse yang merupakan Bank Sentral Amerika.** Kebijakan tapering dilakukan sebagai kebijakan mengurangi inflasi yang terus meningkat selama pemulihan ekonomi.
 
-Kapan tapering dilakukan? The Fed umumnya mengambil kebijakan tapering saat ekonomi sudah mulai berjalan dengan baik. Dari kebijakan tapering ini, berbagai stimulus ekonomi bisa dikurangi agar inflasi dapat diredam.
+Kapan tapering dilakukan? The Fed umumnya mengambil kebijakan tapering saat ekonomi sudah mulai berjalan dengan baik. Sehingga, tapering merupakan kebijakan untuk mengurangi inflasi dengan cara mengurangi berbagai stimulus ekonomi. Dengan kebijakan tapering ini, inflasi dapat diredam.
 
-Walaupun kebijakan ini diambil Bank Sentral Amerika, tapi kebijakan ini memiliki pengaruh yang signifikan terutama untuk negara-negara berkembang seperti Indonesia.
+Walaupun kebijakan tapering diambil Bank Sentral Amerika, tapi kebijakan ini memiliki pengaruh yang signifikan terutama untuk negara-negara berkembang seperti Indonesia.
 
-Biar semakin paham, yuk kita bahas lebih lanjut tentang tapering off dan dampaknya terhadap investasi anda.
+Biar semakin paham, yuk kita bahas lebih lanjut tentang tapering off dan dampaknya terhadap investasi Anda.
 
 - - -
 
-## Mengenal Apa Itu Tapering Off
+## Mengenal Apa Itu Tapering Off dan Dampaknya di Indonesia
 
 Seperti yang sudah kita bahas di atas, *tapering off* adalah kebijakan pengetatan moneter yang dilakukan oleh The Fed untuk menahan pergerakan inflasi yang terjadi saat perekonomian sudah mulai membaik.
 
-Pengetatan moneter ini disebut Quantitative Easing (QE) di mana The Fed mengurangi pembelian aset seperti obligasi yang sebelum dibeli dalam jumlah banyak sebagai stimulus ekonomi.
+Pengetatan moneter ini disebut Quantitative Easing (QE) di mana The Fed mengurangi pembelian aset seperti obligasi yang sebelumnya dibeli dalam jumlah banyak sebagai stimulus ekonomi.
 
-Tindakan ini biasanya dilakukan saat ekonomi sudah membaik sehingga stimulus ekonomi besar-besaran tidak dibutuhkan lagi.
+Tindakan ini biasanya dilakukan saat ekonomi sudah membaik sehingga stimulus ekonomi besar-besaran tidak dibutuhkan lagi. Oleh karena itu, isu tapering adalah sinyal kalau ekonomi sudah masuk dalam tahap pemulihan setelah sebelumnya mengalami krisis atau resesi.
 
-Oleh sebab tapering menjadi sinyal bahwa ekonomi sudah masuk dalam tahap pemulihan setelah sebelumnya mengalami krisis atau resesi.
+Dari awal 2019, stimulus ekonomi besar-besaran ini menyebabkan peningkatan inflasi, khususnya di negara berkembang. Hingga saat ini, disinyalir  sehingga The Fed perlu mengambil kebijakan agar jumlah uang beredar menjadi berkurang.
 
-Selama proses stimulus ekonomi, The Fed rutin membeli obligasi hingga US$ 120 miliar per bulan. Hal ini dilakukan The Fed selama pemulihan ekonomi AS pada tahun 2008 dan dilakukan kembali selama masa pandemi Covid-19.
+Pada akhir tahun 2021, The Fed mengurangi suntikan likuiditas ke pasar keuangan dari semula mencapai US$120 miliar menjadi US$15 miliar saja. Kebijakan tapering ini memberi dapat memberi dampak buruk bagi Indonesia.
 
-Stimulus ekonomi besar-besaran ini tentu saja menyebabkan peningkatan inflasi sehingga The Fed perlu mengambil kebijakan agar jumlah uang beredar menjadi berkurang.
+Misalnya, melemahnya nilai tukar rupiah. Alasannya, tapering off menyebabkan para investor akan mulai kembali ke AS, sehingga meninggalkan Indonesia. Saat suplai dolar AS berkurang di dalam negeri, maka nilainya terhadap rupiah terangkat. Sebaliknya, rupiah tertekan.
+
+- - -
 
 ## Dampak Tapering yang Terhadap Perekonomian Global
 
@@ -76,29 +78,27 @@ Hal ini tentu saja menyebabkan kepanikan massal baik dari sisi investor maupun b
 
 ## Kapan Tapering Off Terjadi?
 
-Sejauh ini, The Fed masih berhati-hati dalam penyampaian informasi terkait kebijakan tapering yang akan dilakukan.
+Sejauh ini, The Fed masih berhati-hati dalam penyampaian informasi terkait kebijakan tapering yang akan dilakukan. Tapering diperkirakan akan dilaksanakan pada akhir tahun ini mengingat saat ini ekonomi Amerika sudah sangat membaik dan angka pengangguran yang mulai turun.
 
-Tapering diperkirakan akan dilaksanakan pada akhir tahun ini mengingat saat ini ekonomi Amerika sudah sangat membaik dan angka pengangguran yang mulai turun.
-
-Isu ini semakin menguat melihat ekonomi Amerika tumbuh dengan baik selama masa pemulihan ekonomi dan peningkatan inflasi di Amerika. Isu tapering ini menjadi semakin kuat belakangan karena The fed telah melakukan pertemuan sebelumnya. 
+Isu ini semakin menguat melihat ekonomi Amerika tumbuh dengan baik selama masa pemulihan ekonomi dan peningkatan inflasi di Amerika. Isu tapering ini menjadi semakin kuat belakangan karena The Fed telah melakukan pertemuan sebelumnya. 
 
 Akan tetapi, tapering ini diperkirakan tidak akan separah tapering 2013 karena proses tapering kali ini akan dilakukan secara perlahan dan disosialisikan dengan baik kepada masyarakat luas. Oleh sebab itu, tapering ini diperkirakan tidak akan seburuk tapering yang terjadi pada tahun 2013 lalu. 
 
 ## Indonesia Menghadapi Tapering Off
 
-Tapering diperkirakan akan terjadi pada akhir tahun, tepatnya di bulan November ini. Akan tetapi, seperti yang kita tau Indonesia sudah jauh lebih siap menghadapi ini sehingga kita bisa lihat hal ini tidak memiliki dampak yang begitu besar.
+Dampak dari kebijakan tapering off telah ditandai oleh melemahnya nilai tukar rupiah bahkan, hampir menyentuh Rp15.000 per dollar. Akan tetapi, seperti yang kita tahu Indonesia sudah jauh lebih siap menghadapi ini sehingga kita bisa lihat hal ini tidak memiliki dampak yang begitu besar. 
 
-Bahkan pada beberapa waktu belakangan kita bisa melihat IHSG tetap hijau setelah isu tapering ini muncul. Selain kesiapan cadangan dana, hal ini juga terjadi karena terus meningkatnya jumlah investor domestik sehingga kita tidak sepenuhnya bergantung pada investasi asing.
+Meski tren IHSG belakangan ini merah, Gubernur Bank BI menekankan bahwa The Fed telah memberi sinyal perubahan kebijakan secara berkala, sehingga sudah bisa diantisipasi oleh pelaku pasar keuangan. Selain kesiapan cadangan dana, hal ini juga terjadi karena terus meningkatnya jumlah investor domestik sehingga kita tidak sepenuhnya bergantung pada investasi asing.
 
 Karena itu, diperkirakan efek tapering off kali ini tidak akan seburuk tapering 2013 lalu. Selain itu, tapering tantrum pun diperkirakan tidak akan terjadi karena masyarakat yang jauh lebih siap menghadapi kebijakan ini. 
 
 ## Investasi di Tengah Tapering
 
-Adanya tapering membuat pasar keuangan menjadi cukup bergejolak sehingga anda harus memperhatikan poin ini dalam memilih investasi.
+Adanya tapering membuat pasar keuangan menjadi cukup bergejolak sehingga Anda harus memperhatikan poin ini dalam memilih investasi.
 
-Karena berbagai kondisi yang cenderung tidak stabil, maka anda perlu memilih investasi dengan risiko yang rendah dan dalam jangka pendek hingga sedang.
+Karena berbagai kondisi yang cenderung tidak stabil, maka Anda perlu memilih investasi dengan risiko yang rendah dan dalam jangka pendek hingga sedang.
 
-Hal ini sebagai mitigasi anda terhadap berbagai kondisi tidak terduga yang mungkin terjadi dalam beberapa waktu ke depan.
+Hal ini sebagai mitigasi Anda terhadap berbagai kondisi tidak terduga yang mungkin terjadi dalam beberapa waktu ke depan.
 
 Karena itu jangan lupa lakukan diversifikasi dalam investasi agar risiko kerugian dalam investasi dapat diperkecil dan investasi bisa tetap menguntungkan di berbagai kondisi tidak terduga.
 
@@ -106,7 +106,7 @@ Salah satu caranya adalah dengan berinvestasi ke dalam sektor privat yang tidak 
 
 Anda bisa mulai berinvestasi ke dalam sektor privat dengan ikut patungan bisnis bareng LandX cuma dengan modal 1 jutaan.
 
-Di [LandX](https://landx.id/) kamu bisa investasi ke berbagai bisnis privat dengan ikut patungan membangun berbagai bisnis potensial di sekitar anda.
+Di [LandX](https://landx.id/) Aamu bisa investasi ke berbagai bisnis privat dengan ikut patungan membangun berbagai bisnis potensial di sekitar Anda.
 
 **Karena itu…**
 
