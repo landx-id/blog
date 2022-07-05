@@ -34,7 +34,7 @@ Beberapa waktu belakangan Anda mungkin bingung tentang apa itu tapering yang ban
 
 > **Kebijakan tapering adalah kebijakan moneter yang diambil oleh The Federal Reverse yang merupakan Bank Sentral Amerika.** Kebijakan tapering dilakukan sebagai kebijakan mengurangi inflasi yang terus meningkat selama pemulihan ekonomi.
 
-Hal ini sangat penting untuk dilakukan The Fed saat ekonomi sudah mulai berjalan dengan baik sehingga mereka bisa mulai mengurangi berbagai stimulus ekonomi agar inflasi dapat diredam.
+Kapan tapering dilakukan? The Fed umumnya mengambil kebijakan tapering saat ekonomi sudah mulai berjalan dengan baik. Dari kebijakan tapering ini, berbagai stimulus ekonomi bisa dikurangi agar inflasi dapat diredam.
 
 Walaupun kebijakan ini diambil Bank Sentral Amerika, tapi kebijakan ini memiliki pengaruh yang signifikan terutama untuk negara-negara berkembang seperti Indonesia.
 
