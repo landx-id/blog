@@ -30,9 +30,9 @@ category:
   - Keuangan
   - Investasi
 ---
-Dalam beberapa waktu belakangan anda pasti sering mendengar istilah tapering yang banyak dibahas belakangan ini.
+Beberapa waktu belakangan Anda mungkin bingung tentang apa itu tapering yang banyak dibahas belakangan ini.
 
-> **Tapering adalah kebijakan moneter** yang diambil oleh The Federal Reverse yang merupakan Bank Sentral Amerika untuk mengurangi stimulus ekonomi yang mereka lakukan untuk menahan laju inflasi yang terus meningkat selama pemulihan ekonomi.
+> **Kebijakan tapering adalah kebijakan moneter** yang diambil oleh The Federal Reverse yang merupakan Bank Sentral Amerika untuk mengurangi stimulus ekonomi. Kebijakan tapering dilakukan sebagai kebijakan mengurangi inflasi yang terus meningkat selama pemulihan ekonomi.
 
 Hal ini sangat penting untuk dilakukan The Fed saat ekonomi sudah mulai berjalan dengan baik sehingga mereka bisa mulai mengurangi berbagai stimulus ekonomi agar inflasi dapat diredam.
 
@@ -74,7 +74,7 @@ Hal ini tentu saja menyebabkan kepanikan massal baik dari sisi investor maupun b
 
 **Oleh sebab itu, kebijakan tapering The Fed ini menjadi perhatian banyak negara terutama negara-negara yang masih banyak aliran dana asing di dalamnya.**
 
-## Kapan Tapering Off Terjadi? 
+## Kapan Tapering Off Terjadi?
 
 Sejauh ini, The Fed masih berhati-hati dalam penyampaian informasi terkait kebijakan tapering yang akan dilakukan.
 
