@@ -128,6 +128,6 @@ Apabila kamu sedang mencari instrumen investasi terpercaya untuk
 
 ## **[Yuk Investasi ke Berbagai Bisnis Potensial Melalui Aplikasi LandX](https://landx.id/)**
 
-## [![Yuk mulai patungan bisnis menguntungkan jangka panja g bersama LandX](https://accountgram-production.sfo2.cdn.digitaloceanspaces.com/landx_ghost/2021/09/Equity-Crowdfunding-di-Indonesia-1--3.png)](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)
+[![Yuk mulai patungan bisnis menguntungkan jangka panja g bersama LandX](https://accountgram-production.sfo2.cdn.digitaloceanspaces.com/landx_ghost/2021/09/Equity-Crowdfunding-di-Indonesia-1--3.png)](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)
 
 **[Mau Tips Terupdate Seputar Investasi Lainnya? Yuk Follow Instagram Kami @landx.id](https://www.instagram.com/landx.id/?utm_medium=copy_link)**
