@@ -26,9 +26,9 @@ image: https://images.unsplash.com/photo-1594979194853-f7dcd77a0a1b?crop=entropy
 category:
   - Investasi
 ---
-Salah satu aspek penting sebelum mulai berinvestasi adalah memperkaya **literasi tentang investasi itu sendiri**, agar tidak mudah terjerat penipuan investasi bodong, misalnya skema ponzi.
-
 **Skema ponzi adalah** investasi bodong yang memakan banyak korban belakangan ini. Banyak sekali orang terjebak dalam scam ponzi ini karena tergiur dengan return besar yang ditawarkan. Skema ponzi atau ponzi scheme memanfaatkan banyak investor yang lupa memerhatikan kepada siapa mereka menanamkan modal.
+
+Salah satu aspek penting sebelum mulai berinvestasi adalah memperkaya **literasi tentang investasi itu sendiri**, agar tidak mudah terjerat penipuan investasi bodong, termasuk skema ponzi.
 
 Dalam berinvestasi setiap orang tentu memiliki keinginan untuk mendapatkan keuntungan sebesar-besarnya. Namun, investasi bukan hanya soal menanamkan sejumlah uang kepada pihak yang menjanjikan keuntungan tapi juga tentang bagaimana kita bisa menemukan instrumen investasi yang aman dan sesuai dengan profil risiko kita.
 
@@ -135,13 +135,11 @@ Kasus Binomo sempat geger pada akhir 2021. Modusnya adalah menawarkan kepada mas
 
 Kemudian, jika investor tersebut menginginkan uang deposit mereka kembali, maka akan dibayar dengan dana masuk yang diberikan oleh investor baru. Pola skema ponzi dalam investasi bodong ini berlangsung terus menerus hingga akhirnya banyak korbannya buka suara.
 
-### 2. First Travel 
+### 2. First Travel
 
 Dengan skema ponzi, First Travel menawarkan iming-iming biaya umroh murah. Dengan modus memberangkatkan jemaah pertamanya menggunakan uang dari jemaah yang mendaftar setelahnya, semakin banyak orang berbondong-bondong mengajak kenalannya untuk mendaftar umroh melalui First Travel.
 
 Pola tersebut terus berlangsung hingga akhirnya jemaah lain mendapat ketidakpastian akan kejelasan keberangkatan mereka. Karena ini, jemaah baru yang mendaftar pun semakin berkurang.
-
-
 
 - - -
 
@@ -152,8 +150,6 @@ Kegiatan operasional bisnis skema ponzi hanya berfokus pada penambahan anggota b
 Berbagai produk mulai dari suplemen kesehatan, alat rumah tangga, hingga lot untuk trading. Namun sebenarnya, keuntungan yang didapatkan anggota utamanya berasal dari biaya membership dan iuran rutin anggota baru yang direkrut. Produk-produk yang “dijual” ini tidak memberi signifikansi pada jalannya usaha. 
 
 Skema ponzi ini hanyalah cara “memutar uang” dari member baru untuk diberikan ke member lama. Bila member baru ingin menikmati keuntungan, maka mereka tentu harus mencari member baru yang banyak juga.
-
-
 
 Pada bisnis MLM, pebisnis memiliki produk yang jelas untuk dijual. Bonus bagi anggota juga bisa diperoleh dari penjualan produk, bahkan bisa ada bonus dari persentase tertentu produk yang terjual. Bisnis MLM juga biasanya memberikan pelatihan dan pendampingan bagi membernya. Inilah perbedaan MLM dan skema ponzi yang terlihat jelas. 
 
