@@ -1,19 +1,25 @@
 ---
 draft: false
 author: Vlora Riyandi
-title: "COGS Adalah: Pengertian dan Cara Hitung Mudah"
-metaTitle: "COGS Adalah: Pengertian dan Cara Hitung Mudah | LandX Blog"
+title: "COGS Adalah: Cara Menghitung COGS (Cost of Good Sold) dalam Bisnis"
+metaTitle: "COGS Adalah: Cara Menghitung COGS (Cost of Good Sold) dalam Bisnis"
 metaDescription: COGS atau cost of goods sold adalah semua biaya-biaya langsung
-  untuk memproduksi suatu barang. Contoh biaya COGS adalah biaya bahan baku
-  serta..
+  untuk memproduksi suatu barang|Cara Menghitung COGS/ HPP
 intro: COGS atau cost of goods sold adalah semua biaya-biaya langsung untuk
   memproduksi suatu barang. Cari tahu contoh biaya COGS dan cara menghitung COGS
   dalam artikel ini.
 date: 2022-07-02T17:12:23.182Z
+tag:
+  - Memulai Bisnis
+  - Bisnis Jangka Panjang
+  - Memulai Usaha
+category:
+  - Bisnis
+  - Keuangan
 featuredImage:
   title: Konsep COGS Adalah, Langkah Mudah Menghitung COGS
-  src: https://unsplash.com/photos/xoU52jUVUXA
-  alt: cogs adalah
+  src: https://images.unsplash.com/photo-1554224155-6726b3ff858f?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1011&q=80
+  alt: Memahami apa itu COGS dan HPP dalam proses bisnis
 ---
 Rutinitas pengelolaan dan pembukuan akuntansi bagi setiap bisnis sangat penting, terutama bisnis kecil. Salah satu manfaat akuntansi adalah mengetahui informasi yang berguna untuk perencanaan bisnis.
 
@@ -23,13 +29,13 @@ HPP atau COGS adalah seluruh biaya langsung yang harus dikeluarkan perusahaan un
 
 Lalu, bagaimana cara menghitung besarnya HPP? Dalam artikel ini kita akan bahas lebih lanjut tentang COGS atau HPP serta langkah menghitung HPP.
 
-## Apa itu COGS
+## Apa itu COGS (*Cost of Good Sold)*
 
 Berbicara terkait COGS yang merupakan salah satu pengantar mata kuliah jurusan akuntansi, berarti berbicara tentang perusahaan dagang atau merchandising. Perusahaan dagang adalah perusahaan yang menjual suatu barang tanpa mengubah bentuk barang tersebut. Contoh perusahaan dagang yaitu minimarket seperti Indomaret, Alfamart, Carrefour, hingga usaha jasa titip.
 
-`Baca juga: `[`Harga Franchise Indomaret 2022`](https://landx.id/blog/cara-jadi-pemilik-bisnis-ritel-indomaret-harga-franchise-retail/?utm_source=Artikel&utm_medium=Blog&utm_campaign=Artikel&utm_id=artikelcogs)``
+`Baca juga:`[`Harga Franchise Indomaret 2022`](https://landx.id/blog/cara-jadi-pemilik-bisnis-ritel-indomaret-harga-franchise-retail/?utm_source=Artikel&utm_medium=Blog&utm_campaign=Artikel&utm_id=artikelcogs)``
 
-`Baca juga: `[`10 Ide Usaha Sampingan (Side Hustle & Side Job)`](https://landx.id/blog/mengenal-apa-itu-side-hustle-tren-pekerjaan-sampingan-milenial/?utm_source=Artikel&utm_medium=Blog&utm_campaign=Artikel&utm_id=artikelcogs)``
+`Baca juga:`[`10 Ide Usaha Sampingan (Side Hustle & Side Job)`](https://landx.id/blog/mengenal-apa-itu-side-hustle-tren-pekerjaan-sampingan-milenial/?utm_source=Artikel&utm_medium=Blog&utm_campaign=Artikel&utm_id=artikelcogs)``
 
 COGS dikenal juga sebagai harga pokok penjualan atau HPP. Untuk mempermudah Anda memahami, bahasa mudahnya HPP dan COGS adalah harga modal suatu barang. “Berapa sih modal beli barang X?”, untuk mengetahuinya kita perlu mencari harga pokok penjualan.. 
 
@@ -37,17 +43,23 @@ Menurut Investopedia, harga pokok penjualan (COGS) mengacu pada biaya langsung u
 
 Banyak metode untuk melihat COGS atau HPP, sebagian perusahaan tidak menuliskan langsung hasil perhitungan HPP. Untuk melihat HPP pada laporan keuangan suatu perusahaan, Anda dapat melihat bagian jumlah persediaan (inventory) yang ada. 
 
-## Cara Menghitung HPP
+## Cara Menghitung HPP (Harga Pokok Penjualan)
 
 Perlu diingat kembali bahwa definisi HPP adalah perhitungan biaya langsung yang mempengaruhi produksi suatu barang di perusahaan. Oleh karena itu, saat menghitung COGS atau HPP tidak termasuk biaya tidak langsung seperti overhead dan penjualan & pemasaran.
 
-`Baca juga: `[`Contoh Biaya Overhead Adalah`](https://landx.id/blog/biaya-overhead-biaya-wajib-bagi-perusahaan-dan-cara-menghitungnya/?utm_source=Artikel&utm_medium=Blog&utm_campaign=Artikel&utm_id=artikelcogs)``
+`Baca juga:`[`Contoh Biaya Overhead Adalah`](https://landx.id/blog/biaya-overhead-biaya-wajib-bagi-perusahaan-dan-cara-menghitungnya/?utm_source=Artikel&utm_medium=Blog&utm_campaign=Artikel&utm_id=artikelcogs)``
 
 HPP dipotong dari hasil pendapatan (penjualan) untuk menghitung laba kotor dan margin kotor. Nilai HPP atau COGS dapat berubah tergantung pada standar akuntansi yang digunakan dalam perhitungan.
 
 Rumus COGS adalah sebagai berikut:
 
+<!--StartFragment-->
+
 ![](https://lh6.googleusercontent.com/ZjtVGw143wZnPVNpOSvnbfaqQnfkUGv0DJlc0emMXlIrJo7lxUoiNBtYcdZGwzZP8dTz8B5sHpr8Cpe7li6T4uxQMEyAKUUFJ7_jJEW-4hH2ObgBZvomPaZqTXJP95zLp38C4cVU4qgyg6-gzQ)
+
+<!--EndFragment-->
+
+
 
 Komponen biaya COGS:
 
@@ -71,7 +83,11 @@ Berdasarkan simulasi ini diketahui:
 
 Maka besarnya hpp adalah sebagai berikut:
 
+<!--StartFragment-->
+
 ![](https://lh6.googleusercontent.com/yYIUeLHoEDmOy3PdMMowGD7woJnvV6Zz3ReeV7dThZqKdxDEYModdwXyw6etEnmxfONeOQmMwUT3TwjX7KHPG-osxWT8XYslfNoB22j4to4nzRgzDIHHFgcsSNZjyDdVFjsZEW__UsiObmutow)
+
+<!--EndFragment-->
 
 Jadi, besarnya nilai COGS dari simulasi di atas adalah Rp 594.000. Perhitungan COGS akan memiliki turunan lebih banyak lagi, hingga dapat mengetahui apakah perusahaan atau bisnis Anda mendapatkan laba atau malah merugi.
 
@@ -120,3 +136,9 @@ Berinvestasi pada bisnis di [equity crowdfunding](https://landx.id/project/?utm_
 Anda dapat memilih sendiri bisnis yang ingin didanai sekaligus mewujudkan impian memiliki beragam bisnis tanpa repot kelola sendiri. Lihat laporan keuangannya langsung untuk mengetahui proyeksi laba rugi perusahaan di platform [equity crowdfunding LandX](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog).
 
 ## **[Miliki Bisnis dan Lihat Laporan Keuangannya di LandX](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)**
+
+<!--StartFragment-->
+
+![miliki bisnis modal kecil cuma dengan 1 jutaan dapat 4 cabang ](https://accountgram-production.sfo2.cdn.digitaloceanspaces.com/landx_ghost/2021/11/jadi-owner-bisnis-hanya-1-jutaan-dengan-cuan-yang-sangat-menjanjikan.png)
+
+<!--EndFragment-->
