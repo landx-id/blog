@@ -1,14 +1,19 @@
 ---
-draft: true
+draft: false
 author: Della Octavilia
-title: Yuk, Pahami Bunga Anuitas Serta Jenis dan Cara Menghitungnya!
-metaTitle: Yuk, Pahami Bunga Anuitas Serta Jenis dan Cara Menghitungnya | LandX
+title: Yuk Pahami Apa Itu Bunga Anuitas dan Perhitungan Bungan Anuitas
+metaTitle: Memahami Perhitungan Bunga Anuitas dan Fungis Bunga Anuitas
 metaDescription: Bunga anuitas adalah metode yang mengatur jumlah angsuran pokok
   ditambah angsuran bunga yang dibayar agar sama setiap bulannya.
 intro: Apa itu bunga anuitas? Bunga anuitas adalah metode yang mengatur jumlah
   angsuran pokok ditambah angsuran bunga yang dibayar agar sama setiap bulannya
   dan memudahkan nasabah.
 date: 2022-07-01T05:32:43.368Z
+tag:
+  - Bunga Majemuk
+  - Compound Interest
+category:
+  - Keuangan
 featuredImage:
   title: Yuk, Pahami Bunga Anuitas Serta Jenis dan Cara Menghitungnya!
   alt: Bunga Anuitas, Cara Menghitung bunga anuitas
@@ -148,7 +153,11 @@ Nah, kita disini telah mengetahui P,i, dan t. Sekarang kita dapat memasukan rumu
 
 Jadi, Pak Danu setiap bulannya harus membayar total angsuran sebesar Rp8.884.878,87. Lalu jadilah tabel seperti berikut ini.
 
-![tabel menghitung bunga anuitas](img/tabel-menghitung-bunga-anuitas.jpg "Tabel menghitung bunga anuitas")
+<!--StartFragment-->
+
+![](blob:https://keen-mestorf-9781e3.netlify.app/9c0dfad3-0603-4172-a91d-8244261f5dc2)
+
+<!--EndFragment-->
 
 Berdasarkan tabel diatas, kita dapat ketahui pinjaman awal Pak Danu yang sebesar Rp100.000.000, saat dicicil selama 1 tahun dengan bunga 12% per tahun menghasilkan total Rp106.618.546,41.
 
@@ -173,3 +182,9 @@ Anda juga akan mendapatkan keuntungan dari [equity crowdfunding](https://landx.i
 [LandX](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog), platform [equity crowdfunding](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog) terpercaya, transparan, dan telah memiliki izin dari Otoritas Jasa Keuangan (OJK). Anda bisa mendapatkan keuntungan besar dan modal kecil.
 
 ## [Raih Keuntungan Besar dengan Investasi di LandX Sekarang Juga!](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)
+
+<!--StartFragment-->
+
+![miliki bisnis modal kecil cuma dengan 1 jutaan dapat 4 cabang ](https://accountgram-production.sfo2.cdn.digitaloceanspaces.com/landx_ghost/2021/11/jadi-owner-bisnis-hanya-1-jutaan-dengan-cuan-yang-sangat-menjanjikan.png)
+
+<!--EndFragment-->
