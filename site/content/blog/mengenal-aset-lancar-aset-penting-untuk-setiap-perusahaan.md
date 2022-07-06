@@ -1,5 +1,5 @@
 ---
-draft: true
+draft: false
 author: Della Octavilia
 title: "Aset Lancar: Memahami Apa Itu Aset Lancar dan Cara Menghitungnya"
 metaTitle: Memahami Jenis-jenis Aset Lancar dan Cara Menghitungnya
