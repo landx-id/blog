@@ -18,29 +18,17 @@ featuredImage:
 
 Apa itu regresi dalam investasi merujuk pada metode statistika untuk menentukan hubungan antara variabel dependen dan independen. Utamanya, analisis regresi dalam pengambilan keputusan investasi itu penting. 
 
-
-
 Karena itu, mari cari tahu manfaat regresi dalam pengambilan keputusan melalui artikel ini!
-
-
 
 ## Apa Itu Analisis Regresi Dalam Investasi?
 
 Analisis regresi dalam investasi digunakan untuk menentukan hubungan antara variabel dependen dan independen serta pengaruh yang disebabkan oleh variabel tersebut. Manfaat analisis regresi dalam pengambilan keputusan investasi sering digunakan karena rumusnya bisa digunakan untuk data yang sederhana, hingga data yang jumlah variabelnya kompleks.
 
-
-
 Analisis regresi dalam investasi atau pasar aset biasanya dipergunakan oleh Manajer Investasi untuk memahami hubungan antara dua atau lebih variabel dalam sebuah aset. Misalnya, hubungan antara harga komoditas dengan saham perusahaan yang memproduksi komoditas tersebut. 
-
-
 
 Atau, dalam analisis keuangan misalnya hubungan antara laporan laba-rugi dan catatan mengenai prediksi keuntungan atau kerugian di periode akuntansi selanjutnya. 
 
-
-
 Dengan melakukan analisis regresi, manfaat utama yang bisa diperoleh investor adalah bantuan untuk mengindenfikasi faktor yang penting dan mungkin berpengaruh terhadap variabel yang mereka amati, serta apakah faktor tersebut berpengaruh pada variabel yang tengah diamati.
-
-
 
 ## Istilah dalam Analisis Regresi
 
@@ -54,8 +42,6 @@ Variabel Dependen adalah variabel yang besaran, sifat, dan karakteristiknya dipe
 
 Variabel Independen adalah variabel yang besaran, sifat, dan karakteristiknya tidak dipengaruhi oleh variabel lainnya. Variabel ini biasanya digunakan untuk menggambarkan jenis variabel yang mempengaruhi variabel lainnya dengan lambang huruf X.
 
-
-
 ## Jenis-jenis Regresi
 
 Berikut ini adalah macam-macam regresi dalam investasi yang umumnya digunakan sebagai dasar perhitungan prediksi dan evaluasi. 
@@ -63,8 +49,6 @@ Berikut ini adalah macam-macam regresi dalam investasi yang umumnya digunakan se
 ### 1. Regresi Linear
 
 Regresi linear atauegresi sederhana yang umumnya digunakan untuk melakukan analisis prediktif. Regresi linear menggambarkan hubungan antara kriteria atau respon skalar dengan beberapa prediktor atau variabel penjelas.
-
-
 
 Secara sederhana, regresi linear digunakan untuk menganalisis keterkaitan dan pengaruh variabel X terhadap Y. Regresi linear juga dapat memiliki lebih dari satu variabel X. Rumus regresi linear adalah seperti di bawah ini:
 
@@ -76,15 +60,11 @@ Regresi polinomial adalah metode regresi untuk menyesuaikan persamaan non linier
 
 Biasanya juga, regresi polinomial digambarkan dengan grafik curvilinear atau melengkung. Berikut adalah rumus regresi polimonial:
 
-
-
 ![Rumus Regresi Polinomial]( "Rumus Regresi Polinomial")
 
 ## Manfaat Analisis Regresi dalam Investasi
 
 Analisis regresi umumnya digunakan hampir pada semua bidang, seperti bidang industri, pemerintahan, keilmuwan, ekonomi, dan lain sebagainya. Secara umum dapat ditarik kesimpulan bahwa manfaat analisis regresi adalah sebagai berikut.
-
-
 
 **1. Membuat estimasi rata-rata dan nilai variabel tergantung dengan didasarkan pada nilai variabel bebas.**
 
@@ -92,21 +72,15 @@ Analisis regresi umumnya digunakan hampir pada semua bidang, seperti bidang indu
 
 **3. Meramalkan nilai rata-rata variabel bebas yang didasari nilai variabel bebas di luar jangkauan sample.**
 
-
-
 Namun, bagi investor manfaat analisis regresi dalam investasi adalah sebagai berikut.
 
 ### 1. Mengevaluasi Kesalahan
 
 Dalam melakukan analisis regresi dalam aset investasi, kesalahan dalam pengambilan keputusan dapat diidentifikasi. Misalnya, berhubungan dengan kegiatan bisnis atau investasi. 
 
-
-
 Bahkan, dengan analisis ini Anda bisa menganalisis dulu untuk pengambilan keputusan agar mengetahui hasilnya. Jadi, jika ada kekeliruan dalam perhitungan mengambil keputusan, maka masih bisa diperbaiki dahulu. Misalnya, Anda merupakan pemilik bisnis 
 
-
-
-### 2. Memperkirakan masa depan
+### 2. Memperkirakan Masa Depan
 
 Manfaat analisis regresi dalam investasi selanjutnya yaitu dapat memperkirakan masa depan yang berhubungan dengan peluang. Rumus ini juga sering digunakan untuk mencoba apakah dari seluruh variabel yang menghasikan beberapa peluang, manakah peluang yang paling tepat diambil. 
 
@@ -129,10 +103,6 @@ Varians eror perlu konstan karena jika konstan maka variabel error dapat membent
 ### 4. Autokorelasi untuk data *time series*
 
 Apabila kita memakai analisis regresi sederhana untuk data time series atau data yang disusun berdasarkan urutan waktu, maka terdapat asumsi yang harus dipenuhi, yakni asumsi autokorelasi. Asumsi ini melihat pengaruh variabel lag waktu sebelumnya terhadap variabel Y.
-
-
-
-
 
 ## Contoh Analisis Regresi dalam Investasi
 
