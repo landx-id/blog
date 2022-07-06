@@ -152,6 +152,6 @@ Itu dia penjelasan lengkap mengenai market cap dalam aset investasi, khususnya s
 
 Namun, karena terdapat beberapa faktor lain juga yang bisa berimbas pada perubahan nilai market cap tersebut, maka Anda sebagai investor harus selalu up to date dalam menilai situasi dan kondisi pasar investasi yang ada agar bisa mendapat keuntungan optimal.
 
-![miliki bisnis modal kecil cuma dengan 1 jutaan dapat 4 cabang ](https://accountgram-production.sfo2.cdn.digitaloceanspaces.com/landx_ghost/2021/11/jadi-owner-bisnis-hanya-1-jutaan-dengan-cuan-yang-sangat-menjanjikan.png)
+![miliki bisnis modal kecil cuma dengan 1 jutaan dapat 4 cabang ](https://accountgram-production.sfo2.cdn.digitaloceanspaces.com/landx_ghost/2021/11/jadi-owner-bisnis-hanya-1-jutaan-dengan-cuan-yang-sangat-menjanjikan.png "Cara jadi pemilik bisnis dengan modal 1 jutaan ")
 
 <!--EndFragment-->
