@@ -1,7 +1,7 @@
 ---
 draft: true
 author: Nadya A. Faatihah
-title: Cara Menghitung Bunga Pinjaman Bank Sesuai Jenisnya
+title: Cara Menghitung Bunga Pinjaman Bank dan Jenis Pinjaman Bank
 metaTitle: Cara Menghitung Bunga Pinjaman Bank untuk Modal Usaha
 metaDescription: Memahami cara menghitung bunga pinjaman bank penting sebelum
   mengajukan kredit. Yuk, cari tahu sekarang!
