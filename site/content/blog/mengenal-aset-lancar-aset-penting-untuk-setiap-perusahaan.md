@@ -1,18 +1,26 @@
 ---
 draft: true
 author: Della Octavilia
-title: "Mengenal Aset Lancar: Aset Penting Untuk Setiap Perusahaan"
-metaTitle: "Mengenal Aset Lancar: Aset Penting Untuk Setiap Perusahaan | LandX"
+title: "Aset Lancar: Memahami Apa Itu Aset Lancar dan Cara Menghitungnya"
+metaTitle: Memahami Jenis-jenis Aset Lancar dan Cara Menghitungnya
 metaDescription: Aset lancar adalah aset kekayaan suatu perusahaan yang dapat
   dicairkan dalam bentuk uang tunai di waktu yang cepat
 intro: Kamu menjalankan suatu usaha dan sudah mengerti aset lancar? Aset lancar
   adalah aset kekayaan suatu perusahaan yang dapat dicairkan dalam bentuk uang
   tunai di waktu yang cepat
 date: 2022-07-05T05:43:15.672Z
+tag:
+  - Aset
+  - "Aktiva Lancar "
+  - Rasio Keuangan
+  - Laporan Keuangan
+category:
+  - Keuangan
+  - Investasi
 featuredImage:
   title: "Mengenal Aset Lancar: Aset Penting Untuk Setiap Perusahaan"
   src: img/aset-lancar-adalah.jpg
-  alt: aset lancar perusahaan
+  alt: "Memahami aset lancar dalam perusahaan dan cara menghitungnya "
 ---
 Aset lancar atau aktiva lancar merupakan salah satu jenis aset dalam perusahaan.
 
@@ -141,3 +149,9 @@ Kalian juga akan mendapatkan keuntungan dari [equity crowdfunding](https://landx
 [LandX](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog), platform [equity crowdfunding](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog) terpercaya, transparan, dan telah memiliki izin dari Otoritas Jasa Keuangan (OJK). Kalian bisa mendapatkan keuntungan besar dan modal kecil.
 
 ## [Jangan Sampai Ketinggalan untuk Mendanai Bisnis Impianmu dengan Download Aplikasi LandX Sekarang Juga!](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)
+
+<!--StartFragment-->
+
+![miliki bisnis modal kecil cuma dengan 1 jutaan dapat 4 cabang ](https://accountgram-production.sfo2.cdn.digitaloceanspaces.com/landx_ghost/2021/11/jadi-owner-bisnis-hanya-1-jutaan-dengan-cuan-yang-sangat-menjanjikan.png)
+
+<!--EndFragment-->
