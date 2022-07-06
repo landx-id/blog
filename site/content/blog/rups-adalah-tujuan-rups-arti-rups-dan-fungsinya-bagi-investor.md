@@ -1,8 +1,8 @@
 ---
-draft: true
+draft: false
 author: Nadya A. Faatihah
-title: "RUPS Adalah: Tujuan RUPS, Arti RUPS, dan Fungsinya Bagi Investor"
-metaTitle: "Arti RUPS Adalah, Tujuan RUPS, dan Signifikansinya "
+title: "RUPS Adalah: Arti,Tujuan, dan Fungsi Rapat Umum Pemegang Saham"
+metaTitle: "RUPS Adalah: Arti,Tujuan, dan Fungsi Rapat Umum Pemegang Saham"
 metaDescription: RUPS adalah kewenangan investor dalam proses pengembangan
   bisnis sebuah perusahaan. Simak penjelasannya!
 intro: RUPS adalah agenda yang rutin dilaksanakan oleh sebuah perusahaan yang
@@ -10,10 +10,15 @@ intro: RUPS adalah agenda yang rutin dilaksanakan oleh sebuah perusahaan yang
   adalah pembahasan berbagai laporan yang bertujuan untuk perencanaan, eksekusi,
   dan evaluasi kinerja.
 date: 2022-07-05T07:19:13.307Z
+tag:
+  - "Cara Menjadi Investor "
+  - Dividen
+category:
+  - Investasi
 featuredImage:
   src: https://images.unsplash.com/photo-1573166364839-1bfe9196c23e?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=869&q=80
-  alt: Apa Itu RUPS
-  title: Apa Itu RUPS
+  alt: Memahami arti RUPS (Rapat Umum Pemegang Saham) dan fungsi RUPS dilakukan
+  title: Memahami tujuan RUPS bagi para investor
 ---
 <!--StartFragment-->
 
@@ -71,15 +76,9 @@ Diharapkan di masa depan, dengan mengidentifikasi dan mengevaluasi masalah yang 
 
 Laporan Keuangan yang dilaporkan bukan laporan keuangan untuk kepentingan pajak, tetapi laporan keuangan dari internal perusahaan itu sendiri. Laporan keuangan setidaknya terdiri dari neraca akhir tahun buku periode baru dan periode sebelumnya, laporan laba rugi dari tahun buku yang bersangkutan, laporan arus kas, dan laporan perubahan ekuitas.
 
-
-
 Selain itu, biasanya disertakan juga catatan atas laporan keuangan seperti prediksi keuntungan atau kerugian bagi para pemegang saham yang biasanya disebut unrealized and realized gain. Artinya dalam laporan ini, investor bisa mengetahui kemungkinan keuntungan dividen atau risiko kerugian yang akan dihadapi.
 
-
-
 Sehingga, dari RUPS ini investor bisa membuat keputusan untuk merealisasikan prediksi kerugian tersebut atau tidak.
-
-
 
 ### 7. Gaji dan Tunjangan
 
@@ -109,7 +108,7 @@ Setiap diadakannya Rapat Umum Pemegang Saham, alasan tentang pentingnya pelaksan
 
 Ketika Rapat dilakukan maka pokok pembahasan tidak diperbolehkan untuk keluar dari topik bahasan yang diajukan saat meminta penyelenggaraan rapat. Sehingga dalam agenda RUPS, pembahasannya harus terfokus untuk secara tuntas membicarakan masalah atau solusi yang harus diselesaikan secara bersama-sama.
 
-### 4. Mekanisme Permintaan RUPS harus Benar
+### 4. Mekanisme Permintaan RUPS Harus Benar
 
 Ketika ingin mengajukan rapat pertama yang harus tahu adalah Dewan direksi maka sampaikan kepada yang berwenang tersebut. Kecuali jika permintaan datang dari pemegang saham maka terlebih dulu harus menembus Dewan Komisaris baru ke Dewan Direksi.
 
@@ -128,5 +127,9 @@ Rapat Umum Pemegang Saham merupakan salah satu bentuk pengambilan keputusan bers
 Itu dia penjelasan lengkap mengenai apa itu RUPS. Penting untuk diingat bahwa peran RUPS adalah sebagai mekanisme utama untuk melindungi dan melaksanakan hak-hak pemegang saham, termasuk dalam pemantauan kegiatan dan kebijakan perusahaan.
 
 ## [Sejutaan Bisa Bikin Anda Jadi Bos Bisnis untuk Cuan di Masa Depan, Yuk Investasi di LandX!](https://landx.id/)
+
+<!--StartFragment-->
+
+![miliki bisnis modal kecil cuma dengan 1 jutaan dapat 4 cabang ](https://accountgram-production.sfo2.cdn.digitaloceanspaces.com/landx_ghost/2021/11/jadi-owner-bisnis-hanya-1-jutaan-dengan-cuan-yang-sangat-menjanjikan.png)
 
 <!--EndFragment-->
