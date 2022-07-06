@@ -1,8 +1,8 @@
 ---
 draft: false
 author: Vlora Riyandi
-title: "Saham Warrant: Cara Menebus Warrant dan Hubungannya dengan Right Issue"
-metaTitle: "Saham Warrant: Cara Menebus Warrant dan Hubungannya dengan Right Issue"
+title: "Saham Warrant: Memahami Apa Itu Saham Warrant dan Cara Menebusnya"
+metaTitle: Memahami Apa Itu Saham Warrant dan Cara Menebus Warrant
 metaDescription: Warrant adalah hak untuk membeli saham di harga yang telah
   ditetapkan dan berkaitan dengan IPO perusahaan dan right issue. Keuntungan
   warrant yaitu
@@ -10,9 +10,15 @@ intro: Warrant adalah hak untuk membeli saham di harga yang telah ditetapkan dan
   berkaitan dengan IPO perusahaan dan right issue. Cari tahu keuntungan warrant
   bagi investor dan perusahaan dalam artikel ini.
 date: 2022-07-05T05:37:28.122Z
+tag:
+  - Right Issue
+  - Tips Investasi
+  - Investasi Saham
+category:
+  - Investasi
 featuredImage:
-  title: "Saham Warrant: Cara Menebus Warrant dan Hubungannya dengan Right Issue"
-  alt: saham waran adalahs
+  title: Perbedaan warrant dan warrant seri
+  alt: Hubungan right issue dan saham warrant
   src: img/saham-waran.jpg
 ---
 Sebagai seorang yang melek keuangan, Anda tentu sudah sering mendengar tentang saham. Bagaimana dengan waran saham? Apakah Anda sudah mengenal tentang apa itu warrant?
@@ -39,7 +45,7 @@ Ketika telah jatuh tempo untuk dapat ditebus, waran saham ABCD-W secara bebas da
 
 Namun, setelah melalui jatuh tempo dan dikarenakan saham bersifat fluktuatif maka perhitungkan apakah dengan menebus waran, Anda lebih untung atau tidak. Jika untung setelah perkiraan ditambah  harga tebus waran maka tentu sebaiknya dilanjutkan. Namun jika rugi, tentu tidak ada alasan untuk mengkonversinya sehingga lebih baik dijual kembali.
 
-## Istilah Waran Saham
+## Istilah Warrant dalam Saham
 
 Ketika waran ditawarkan terdapat tanggal-tanggal penting serta istilah waran yang perlu Anda ketahui. 
 
@@ -66,7 +72,7 @@ Tetapi Anda dapat juga menunggu hingga waktu subscription end agar melihat terle
 
 Dari karakteristik waran  dapat terlihat perbedaannya dengan saham. Perbedaan utama waran dan saham adalah jangka waktu. Waran memiliki jangka waktu jatuh tempo, jika waran tidak ditebus atau dijual maka akan kadaluarsa. Sedangkan saham tidak memiliki jangka waktu tertentu
 
-## Hubungan Right Issue Dan Saham Warrant
+## Hubungan Right Issue dan Saham Warrant
 
 Tujuan warrant diberikan adalah untuk meningkatkan minat pemilik modal kepada emiten suatu perusahaan yang akan IPO atau melakukan right issue. IPO adalah penawaran saham perdana suatu perusahaan terbuka. 
 
@@ -76,7 +82,7 @@ Lalu apa itu right issue? Apa right issue dan waran hubungannya?
 
 Mari kita telaah definisinya, right issue adalah hak yang diberikan kepada investor lama untuk membeli saham baru sebelum resmi ditawarkan kepada publik. Keuntungan right issue bagi investor adalah jumlah kepemilikan sahamnya akan meningkat. Tentunya potensi persentase keuntungan yang akan diterima pun akan ikut naik.
 
-## Cara Menebus Waran Menjadi Saham
+## Cara Menebus Warrant Menjadi Saham
 
 Bagi Anda yang mendapat bonus saham berupa waran, penting untuk melihat tiga hal ini: harga waran, harga tebus, dan harga saham tersebut. Tiga langkah mudah tebus warrant yaitu:
 
@@ -98,4 +104,10 @@ Anda juga bisa melakukan strategis diversifikasi investasi denag investasi saham
 
 Memiliki [saham bisnis ternama](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog) dan mendapatkan persentase keuntungan kompetitif. Mewujudkan keinginan memiliki berbagai industri bisnis dalam satu aplikasi.
 
-## Yuk, Investasi Saham Bisnis di LandX Sekarang, Klik di Sini
+## [Yuk, Investasi Saham Bisnis di LandX Sekarang, Klik di Sini](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)
+
+<!--StartFragment-->
+
+![miliki bisnis modal kecil cuma dengan 1 jutaan dapat 4 cabang ](https://accountgram-production.sfo2.cdn.digitaloceanspaces.com/landx_ghost/2021/11/jadi-owner-bisnis-hanya-1-jutaan-dengan-cuan-yang-sangat-menjanjikan.png)
+
+<!--EndFragment-->
