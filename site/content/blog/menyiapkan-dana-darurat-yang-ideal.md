@@ -2,10 +2,10 @@
 draft: false
 author: Abdul Wahhab
 slug: menyiapkan-dana-darurat-yang-ideal
-title: "Dana Darurat: Menyiapkan Dana Darurat Ideal Sedini Mungkin"
-metaTitle: "Dana Darurat: Menyiapkan Dana Darurat Ideal Sedini Mungkin"
-metaDescription: Menghitung berapa dana darurat ideal untuk menghadapi  berbagai
-  kondisi tidak terduga|Menyiapkan dana darurat
+title: "Dana Darurat Adalah: Cara Mudah Hitung Besar Dana Darurat Ideal "
+metaTitle: "Dana Darurat Adalah: Cara Mudah Hitung Besar Dana Darurat Ideal "
+metaDescription: Berapa besar dana darurat ideal untuk menghadapi berbagai
+  kondisi tidak terduga? Cara mudah hitung dana darurat ideal
 intro: "Dana darurat adalah dana yang disiapkan untuk kondisi berbagai kondisi
   tidak terduga sehingga dana darurat atau emergency fund ini tidak ditujukan
   untuk tujuan keuangan tertentu karena bersifat dana cadangan yang standby
@@ -24,16 +24,16 @@ tag:
 featuredImage:
   src: https://images.unsplash.com/photo-1494797710133-75ad43b1cd95?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1470&q=80
   alt: Menghitung dana darurat ideal untuk masa depan anda
-  title: "Dana Darurat Adalah: Menentukan Dana Darurat Sebaiknya Disimpan Dimana "
+  title: "Dana Darurat Adalah: Cara Mudah Hitung Besar Dana Darurat Ideal"
 image: https://accountgram-production.sfo2.cdn.digitaloceanspaces.com/landx_ghost/2021/11/Menyiapkan-dana-darurat-agar-investasi-anda-menjadi-lebih-aman-dan-nyaman.jpeg
 category:
   - Investasi
 ---
 Masa depan merupakan sebuah misteri yang tidak bisa kita prediksi. Meskipun begitu, setidaknya kita harus mempersiapkan diri lebih baik. Nah, dalam keuangan, salah satu hal yang bisa kita persiapkan untuk masa depan adalah dana darurat.
 
-Dana darurat adalah sesuatu yang harus disiapkan sedini mungkin dan menjadi pondasi awal apabila kamu ingin memiliki pondasi keuangan yang baik. Namun banyak lupa menyiapkan dana darurat karena kurangnya pemahaman tentang [apa itu dana darurat.](https://landx.id/blog/tag/dana-darurat/)
+Dana darurat adalah sesuatu yang harus disiapkan sedini mungkin dan menjadi pondasi awal apabila kamu ingin memiliki pondasi keuangan yang baik. [Apa itu dana darurat?](https://landx.id/blog/tag/dana-darurat/) Manfaat dana darurat adalah kamu menjadi memiliki penyangga keuangan jika nanti terjadi hal sulit dan tak terduga.
 
-Karena itu, mari kita bahas apa sebenarnya itu dana darurat dan kenapa kamu wajib untuk mempersiapkannya melalui artikel di bawah ini yang bakal membahasnya secara lengkap. Simak terus sampai akhir, ya!
+Karena itu, mari kita bahas sebenarnya apa itu dana darurat dan kenapa kamu wajib untuk mempersiapkannya. Melalui artikel ini juga akan membahas manfaat dana darurat secara lengkap. Simak terus sampai akhir, ya!
 
 - - -
 
@@ -65,11 +65,11 @@ Siapa yang bertahan? Salah satunya mereka yang sudah menyiapkan dana darurat sej
 
 ## 5 Manfaat Dana Darurat
 
-Untuk menjamin keuangan di masa depan, salah satu yang bisa kamu lakukan adalah dengan menyiapkan dana darurat. Dana ini bermanfaat bukan hanya untuk menghindari masalah, tapi juga menangkap peluang.
+Untuk menjamin keuangan di masa depan, salah satu yang bisa kamu lakukan adalah dengan menyiapkan dana darurat. Manfaat dana darurat adalah kamu menjadi memiliki penyangga keuangan jika nanti terjadi hal sulit dan tak terduga. Bukan hanya untuk menghindari masalah, manfaat dana darurat juga membantu kamu menangkap peluang usaha.
 
 Karena itu, kamu harus selalu punya uang darurat yang kamu siapkan untuk berbagai hal tidak terduga di masa mendatang.
 
-Berikut ini beberapa manfaat dari dana darurat:
+Berikut ini beberapa manfaat dana darurat yang perlu kamu ketahui:
 
 ### 1. Tidak Khawatir Saat Sakit
 
@@ -109,9 +109,13 @@ Bukan hanya menghindari nasib buruk di masa depan, tapi dana darurat juga akan b
 
 Persiapan dana darurat ini juga akan sangat berpengaruh terhadap investasi jangka panjang yang akan kamu lakukan. Apabila kamu tidak memiliki darurat, maka kamu terpaksa harus mencairkan instrumen investasi yang kamu miliki yang terkadang dalam posisi yang tidak baik sehingga kamu harus mengalami kerugian. karena itu, kamu butuh menyiapkan dana darurat sebelum memulai program investasi jangka panjang yang akan kamu lakukan.
 
-## Dana Darurat Ideal
+## Cara menghitung Dana Darurat Ideal
 
 Banyak orang menyamakan dana darurat dengan tabungan. Faktanya, kedua hal tersebut sangatlah berbeda. Dana darurat disiapkan untuk menghadapi keadaan genting di masa depan. Cara menghitung dana darurat tergantung oleh penghasilan serta beban yang harus dihadapi seseorang.
+
+lalu, dana darurat berapa kali gaji? Mari ktia simulasikan berapa besar dana darurat.
+
+Salah satu cara menghitung menghitung besar dana darurat berapa kali gaji yaitu umumnya 4 hingga 12 kali gaji.
 
 Sebagai contoh, jika kamu belum menikah, secara ideal kamu harus menyiapkan dana darurat untuk bisa menutup pengeluaran selama 4 sampai 12 bulan kedepan.
 
@@ -133,13 +137,17 @@ Lebih Lengkapnya, kamu bisa simak video di bawah ini ya....
 
 {{< button link="https://youtu.be/watch?v=-qwzBBnxLXU" text="Watch This Video" >}}
 
-## Di Mana Sebaiknya Menyimpan Dana Darurat?
+## Instrumen Investasi Untuk Dana Darurat
 
 Apabila kamu sudah paham berapa besar dana darurat ideal, mari kita bahas dana darurat sebaiknya disimpan dimana. 
 
 Dana darurat atau *emergency fund* adalah dana yang kita siapkan untuk berbagai kondisi tidak terduga. Oleh sebab itu, kamu harus menyimpan dana darurat di tempat yang mudah di akses agar dapat dicairkan dengan cepat. 
 
+Lalu, tempat mudah diakses untuk dana darurat sebaiknya disimpan dimana?
+
 Sebenarnya, idealnya kamu menyimpan dana darurat di dalam satu rekening bank terpisah agar dapat mudah dicairkan kapan saja ketika kamu butuh. Akan tetapi, apabila kamu memang akan memasukkan dana darurat kamu ke dalam instrumen investasi maka kamu harus memastikan bahwa instrumen investasi tersebut likuid dan tidak fluktuatif sehingga uang yang kamu miliki tidak mengalami penurunan. 
+
+Jadi, jawaban untuk dana darurat sebaiknya disimpan dimana adalah pada instrumen keuangan yang likuid atau mudah dicairkan.
 
 Karena itu, sebaiknya dana darurat disimpan di instrumen Reksa Dana Pasar Uang (RDPU) yang memiliki risiko penurunan rendah dan dapat mudah dicairkan apabila kamu sewaktu-waktu butuh dana tersebut. 
 
