@@ -1,7 +1,7 @@
 ---
 draft: true
 author: Nadya A. Faatihah
-title: "Sistem Bagi Hasil: Penjelasan Profit Sharing Dalam Investasi"
+title: "Sistem Bagi Hasil: Penjelasan Profit Sharing Dalam Bisnis Investasi"
 metaTitle: Penjelasan Lengkap Sistem Bagi Hasil
 metaDescription: Sistem bagi hasil adalah kesepakatan dalam pembagian profit
   bisnis usaha. Berikut adalah penjelasan lengkapnya!
