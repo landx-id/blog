@@ -37,25 +37,25 @@ Karena itu, memahami bagaimana cara mengelola uang dengan baik merupakan hal pen
 
 ## Mengelola Keuangan dengan Baik
 
-Mengelola keuangan adalah bagaimana anda mengatur uang yang anda miliki saat ini agar bisa mencapai tujuan finansial anda di masa mendatang. Oleh sebab itu, langkah awal dari mengelola uang dengan baik adalah menentukan **[tujuan finansial](https://landx.id/project/)** yang ingin anda capai dalam beberapa tahun ke depan. Jika tujuan sudah ditentukan dengan jelas di awal, maka proses menyusun strategi dapat dilakukan dengan lebih mudah.
+Mengelola keuangan adalah bagaimana anda mengatur keuangan yang dimiliki saat ini agar bisa mencapai tujuan finansial anda di masa mendatang. Oleh sebab itu, langkah awal dari mengelola uang dengan baik adalah menentukan **[tujuan finansial](https://landx.id/project/)** yang ingin anda capai dalam beberapa tahun ke depan. Jika tujuan sudah ditentukan dengan jelas di awal, maka proses menyusun strategi cara mengatur keuangan dapat dilakukan dengan lebih mudah.
 
 Memiliki keuangan yang teratur akan sangat membantu anda menyusun rencana masa depan dengan lebih baik, terutama bagi anda yang memiliki rencana keuangan jangka panjang yang ingin dicapai. Karena, pengelolaan yang baik akan membantu proyeksi masa depan anda menjadi lebih jelas. Oleh sebab itu, mari kita bahas lebih lanjut tentang langkah-langkah pengelolaan keuangan yang baik.
 
 ## Kenapa Pengelolaan Keuangan itu Perlu
 
-Dalam kehidupan sehari-hari, banyak orang yang tidak mengelola uang dengan baik karena mereka tidak paham bagaimana cara memulainya.
+Dalam kehidupan sehari-hari, banyak orang yang tidak mengelola uang dengan baik karena mereka tidak paham bagaimana memulai cara mengatur keuangan.
 
 Padahal pengelolaan uang yang baik menjadi kunci dari kesehatan finansial jangka panjang yang harus mulai kita siapkan sedini mungkin. Apabila kamu tidak menerapkan pengelolaan uang yang baik dari sekarang maka hal ini akan memberikan pengaruh buruk terhadap keuangan jangka panjang.
 
 ## Langkah Penting dalam Pengelolaan Keuangan
 
-Apabila anda belum mengelola uang dengan baik tidak masalah, karena tidak ada kata terlambat untuk perubahan ke arah yang lebih baik. Berikut beberapa langkah penting yang harus anda lakukan dalam mengelola uang anda.
+Apabila anda belum mengelola uang dengan baik tidak masalah, karena tidak ada kata terlambat untuk perubahan ke arah yang lebih baik. Berikut beberapa langkah penting cara mengatur keuangan yang harus anda lakukan untuk miliki manajemen keuangan yang baik.
 
 ### 1. Menyusun Tujuan Finansial
 
 Agar uang anda dikelola secara lebih optimal dan terarah, anda harus menentukan tujuan finansial yang ingin anda capai di awal. Jika diibaratkan dalam kehidupan sehari-hari, apabila sudah tau tujuan wisata yang ingin anda capai di awal anda tentu lebih mudah menentukan moda transportasi dan jalur mana yang akan dilewati tanpa harus tersesat terlebih dahulu.
 
-Karena itu, anda harus menyusun rencana keuangan jangka panjang dan pendek agar bisa menyusun strategi pengelolaan yang optimal.
+Karena itu, anda harus menyusun rencana keuangan jangka panjang dan pendek agar bisa menyusun strategi cara mengelola keuangan yang optimal.
 
 Hal paling mudah adalah dengan memproyeksikan kondisi seperti apa yang anda inginkan di 10 tahun mendatang sehingga anda tahu apa saja yang harus anda lakukan untuk mencapai hal tersebut.
 
@@ -84,7 +84,7 @@ Hal ini ditujukan untuk melihat arus kas atau cash flow sehingga kita bisa menga
 
 ### 3. Menganalisis Sumber Pengeluaran
 
-Menganalisa pengeluaran sangat penting agar kita bisa tahu hal apa saja yang bisa kita tekan sehingga kondisi keuangan kita menjadi lebih optimal. Langkah ini sangat penting terutama untuk anda yang sebelumnya sulit mengendalikan perilaku konsumtif saat berbelanja. Setelah paham apa saja hal tidak penting yang menjadi pengeluaran anda, anda bisa menjadi lebih bijak dalam mengambil keputusan di masa mendatang.
+Cara mengelola keuangan selanjutnya adalah menganalisa pengeluaran, sangat penting agar kita bisa tahu hal apa saja yang bisa kita tekan sehingga kondisi keuangan kita menjadi lebih optimal. Langkah ini sangat penting terutama untuk anda yang sebelumnya sulit mengendalikan perilaku konsumtif saat berbelanja. Setelah paham apa saja hal tidak penting yang menjadi pengeluaran anda, anda bisa menjadi lebih bijak dalam mengambil keputusan di masa mendatang.
 
 Selain itu, mencatat pengeluaran juga membantu kita menghitung berapa biaya pokok sebenarnya yang kita butuhkan dalam satu bulan agar kita tahu berapa dana darurat yang harus disiapkan.
 
@@ -96,9 +96,83 @@ Strategi budgeting pun beragam, salah satu yang populer adalah 50-30-20 di mana 
 
 ### 5. Membuat Beberapa Rekening Tabungan
 
-Membuka beberapa rekening tabungan merupakan hal sangat penting yang bisa membuat pengelolaan keuangan anda menjadi lebih baik. Memisahkan uang ke dalam beberapa jenis tabungan sesuai tujuan akan mempermudah anda dalam mengelola keuangan karena pengelompokan uang menjadi lebih jelas.
+Membuka beberapa rekening tabungan merupakan hal yang dapat membantu cara mengelola keuangan anda menjadi lebih baik. Memisahkan uang ke dalam beberapa jenis tabungan sesuai tujuan akan mempermudah anda dalam mengelola keuangan karena pengelompokan uang menjadi lebih jelas.
 
-Selain itu, strategi ini juga menghindari uang anda terpakai untuk hal yang tidak seharusnya. Karena, membuat tabungan terpisah akan sangat mempermudah anda mengatur uang yang anda miliki.
+Selain itu, strategi cara mengatur keuangan ini juga menghindari uang anda terpakai untuk hal yang tidak seharusnya. Karena, membuat tabungan terpisah akan sangat mempermudah anda mengatur uang yang anda miliki.
+
+## Tips Mengatur Keuangan dengan Baik
+
+Setelah mengetahui langkah penting pengelolaan uang, ada baiknya anda mengetahui tips-tips dalam cara mengatur uang agar lebih optimal dalam pelaksanaannya. Simak berikut tips cara mengatur uang:
+
+* Catat Pengeluaran Anda Untuk Meningkatkan Keuangan Anda
+
+Ini adalah langkah krusial dan awal dalam mengatur keuangan pribadi. Tidak hanya berlaku bagi yang telah memiliki pendapatan tetap, tetapi juga setiap milenial dan gen x yang memiliki uang jajan bulanan dari orang tua.
+
+Buatlah jurnal pencatatan keuangan harian anda pada program penghitung data seperti excel maupun hitung manual melalui buku jurnal. Catat setiap detail pembelian dan total saldo yang dimiliki agar membantu kamu membuat anggaran atau budgeting.
+
+* Buat Anggaran Bulanan Yang Realistis
+
+Setelah membuat jurnal detail pengeluaran dan pemasukan, maka kamu dapat menganalisis dan mengelompokkan setiap data belanjaan pada kategori tertentu. Misal meletakkan kategori dengan sistem 50 30 20 rule.
+
+Dipopulerkan oleh Elizabeth Warren, masih dikatakan normal apabila pengeluaran anda berada di 50% dari total pendapatan. Dilanjutkan dengan 30% untuk keinginan atau pengeluaran hiburan seperti nonton dan 20% untuk ditabung.
+
+Anda tentu saja dapat memakai strategi keuangan lainnya, jika pendapatan atau uang jajan meningkat maka dibalikkan 50% akan ditabung dan sisanya dianggarkan sesuai kebutuhan dan daftar keinginan.
+
+* Tingkatkan Tabungan Anda
+
+Mendapatkan secercah tentang literasi keuangan mengartikan anda adalah seorang yang optimis dengan masa depan sesuai usaha anda yang semakin mapan. Berkat berbagai tips seputar keuangan cara mengatur uang semakin meningkat seiring pendapatan.
+
+Karena itu, pengetahuan keuangan yang meningkat dan pendapatan yang meningkat tentu membuat anda meningkatkan tabungan. Hati-hati terjebak gaya hidup yang sebenarnya tidak harus ikut ngelunjak.
+
+* Bayar Tagihan Anda Tepat Waktu Setiap Bulan
+
+Tagihan berarti memiliki utang, namun utang tidak selalu berhubungan dengan hal yang buruk jika tujuannya tepat. Utang menjadi buruk jika anda menggunakannya untuk membayar hal yang sebenarnya bukan berasal dari daftar kebutuhan. 
+
+Baca juga: [Utang Baik dan Utang Buruk](https://landx.id/blog/perlukah-miliki-utang-baik-yuk-cari-tahu-jenis-jenis-utang/)
+
+* Dana Darurat
+
+Dana darurat adalah dana yang disimpan untuk kondisi tidak terduga. Dana darurat disebut juga dana cadangan atau emergency fund. Fungsi dana darurat adalah menutupi kekurangan dana apabila terjadi hal yang tidak diinginkan seperti jatuh sakit atau usaha menjadi sulit karena situasi pandemi.
+
+Berapa besar dana darurat? Minimal dana darurat yang harus dipersiapkan adalah minimal 3 kali jumlah pengeluaran anda dan tanggungan jika ada dalam satu bulan. Jadi untuk menghitung dana darurat perlu menghitung berapa jumlah pengeluaran dalam satu bulan
+
+* Mulai Strategi Investasi
+
+Situasi pandemi yang berdampak pada ekonomi membuat kita tersadar bahwa ternyata tidak bisa bergantung hanya pada pekerjaan yang dilakukan saat ini. Kita perlu memiliki pendapatan lainnya walaupun nanti kita tidak sedang bekerja alias butuh passive income.
+
+Salah satu cara mendapatkan passive income adalah dengan berinvestasi. Pelajari berbagai instrumen investasi dan lakukan strategi diversifkasi investasi serta dollar cost averaging atau rutin berinvestasi.
+
+## Cara Manajemen Keuangan Terbaik Bagi Milenial dan Gen Z
+
+Cara manajemen keuangan yang baik untuk milenial dan gen Z yang masih berstatus pelajar harus dimulai dengan mempraktikkan pencatatan keuangan yang jelas. Catat pengeluaran kamu dibeli untuk apa dan hitung besar pengeluaran di akhir bulan.
+
+Untuk lebih jelasnya, berikut cara manajemen keuangan yang baik bagi pelajar dan young adults:
+
+1. **Mengendalikan Diri: Bayar Tunai, Bukan Paylater**
+
+Berbagai tawaran kemudahan paylater alias bisa bayar nanti membuat seseorang dengan keuangan yang belum dewasa penuh dapat hanyut ikut dan akhirnya terjebak. Paylater itu artinya kamu akan ditagih kembali uangnya, alias sedang berutang. 
+
+Tidak seharusnya pelajar yang umumnya belum memiliki pendapatan sendiri membuka akun paylater. Ukur kemampuan keuangan dalam membayar utang, kendalikan diri dari membeli hal yang tak wajib segera dimiliki.
+
+2. **Waspada Nasihat yang Berlebihan: Edukasi Diri**
+
+Sedang viral kalimat “uang bisa dicari lagi, tetapi pengalaman di usia muda tak bisa diulang lagi” begitu kira-kira artinya. Sadarlah, bahwa kata itu bagi mereka yang telah memiliki budget liburan yang telah diperhitungkan. 
+
+Coba searching lagi apa yang harus dilakukan seseorang di usia kamu saat in dalam mengelola keuangan dan rencana liburan. 
+
+3. **Buat Anggaran Keuangan: Budgeting itu Penting**
+
+Lacak dan catat semua pengeluaran keuangan kamu, udah beli apa aja hari ini? Walaupun cuma jajanan seharga Rp 10 ribu pun harus dicatat dan diketahui kemana alur uang kamu. Jangan di akhir bulan merasa tidak jajan banyak dan uang habis begitu saja tapi tidak punya bukti catatan pengeluaran.
+
+Budgeting itu penting, anggarkan berapa untuk jajan, keperluan, dan kalo bisa sisakan untuk ditabung. Ini poin krusial dalam cara manajemen keuangan yang baik.
+
+4. **Perhatikan Pengeluaran Berlebihan**
+
+Eits, jajan-jajan mulu tahunya jeblos kekurangan sebelum uang jajan dikirim lagi sama orang tua atau sebelum tanggal gajian mengulang. Dengan mencatat setiap pengeluaran kamu setiap bulan maka akan terlihat kemana uang jajan kamu paling banyak disalurkan. Apakah untuk makanan yang tentu saja wajib atau malah hiburan yang harusnya diberi batasan. Yuk, lihat lagi catatan keuangannya.
+
+5. **Rancang Menabung Rutin**
+
+Sisihkan sebagian uang kamu untuk menabung agar bisa miliki keuangan yang sehat. Kini banyak aplikasi tabungan yang menyediakan akun yang bisa dirancang untuk diatur khusus tabungan. Jika ingin memaksimalkan tabungan kamu, mengalihkannya untuk investasi tentu lebih baik. Jangan lupa pelajari banyak hal tentang investasi dan platform investasi yang dipilih ya.
 
 ## [Memulai Investasi](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)
 
