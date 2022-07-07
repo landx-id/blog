@@ -1,5 +1,5 @@
 ---
-draft: false
+draft: true
 author: Vlora Riyandi
 title: Bilyet Giro Adalah | Pengertian, Manfaat dan Perbedaan dengan Cek
 metaTitle: Bilyet Giro Adalah | Pengertian, Manfaat dan Perbedaan dengan Cek
