@@ -138,7 +138,7 @@ Jenis juga sangat digemari oleh investasi pemula karena modal yang dibutuhkan da
 
 Salah satu investasi yang cocok untuk pemula adalah investasi bisnis dengan sistem [equity crowdfunding](https://landx.id/). Sistem ini memberikan anda kesempatan untuk melakukan [patungan membangun suatu bisnis](https://landx.id/) bersama para investor lain yang akan diberikan bukti kepemilikan berupa saham sesuai dengan modal yang anda berikan.
 
-Hal ini menjadi solusi bagi investasi pemula yang memiliki dana terbatas tapi ingin melakukan investasi bisnis. Sistem ini akan memberikan investor keuntungan berupa potensi dividen rutin yang dapat menjadi salah satu pilihan investasi pemula yang memberikan anda keuntungan dalam jangka panjang.
+Hal ini menjadi solusi investasi bagi pemula yang memiliki dana terbatas tapi ingin melakukan investasi bisnis. Sistem ini akan memberikan investor keuntungan berupa potensi dividen rutin yang dapat menjadi salah satu pilihan investasi pemula yang memberikan anda keuntungan dalam jangka panjang.
 
 Sebagai investor pemula anda akan sangat terbantu dengan sistem ini karena anda bisa berinvestasi ke dalam berbagai bisnis potensial yang menguntungkan asalkan anda bisa memilih [platform equity crowdfunding](https://landx.id/) yang tepat.
 
@@ -150,7 +150,7 @@ Lalu jika seseorang ingin memulai berinvestasi di tahun 2022, apa langkah invest
 
 Untuk menjaga dana anda tidak tergerus inflasi, rekomendasi investasi terbaik untuk pemula seperti dijabarkan di topik sebelumnya yaitu obligasi, reksa dana, dan equity crowdfunding.
 
-Pada obligasi, tingkat gagal bayar obligasi cenderung rendah sehingga besar potensi anda mendapat keuntungan di tahun 2022 yang pelik ini. Jika memutuskan memilih reksa dana, pilihlah rekomendasi jenis reksa dana terbaik saat ini adalah reksa dana pasar uang (RDPU) dan reksa dana obligasi. Jangan lupa tingkatkan pemahaman anda tentang memilih reksa dana terbaik.
+Pada obligasi, tingkat gagal bayar obligasi cenderung rendah sehingga besar potensi anda mendapat keuntungan di tahun 2022 yang pelik ini. Jika memutuskan memilih reksa dana, pilih rekomendasi jenis reksa dana terbaik saat ini yaitu reksa dana pasar uang (RDPU) dan reksa dana obligasi. Jangan lupa tingkatkan pemahaman anda tentang memilih reksa dana terbaik.
 
 Selanjutnya investasi bisnis di equity crowdfunding dapat menjadi pilihan investasi terbaik untuk pemula. Menaruh dana pada bisnis potensial menguntungkan dengan strategi jangka panjang untuk mendapatkan keuntungan dividen rutin sesuai kinerja perusahaan yang didanai.
 
