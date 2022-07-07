@@ -1,15 +1,13 @@
 ---
 draft: false
 author: Abdul Wahhab
-title: Pilihan Investasi Jangka Pendek dan Tips Berinvestasi Jangka Pendek
-metaTitle: Pilihan Investasi Jangka Pendek dan Tips Berinvestasi Jangka Pendek
-metaDescription: Investasi jangka pendek adalah jenis investasi yang dilakukan
-  dalam periode waktu singkat mulai dari 1-3 tahun
-intro: Walaupun investasi jangka panjang bisa memberikan keuntungan lebih, tapi
-  sebagian instrumen jangka panjang tidak dapat dicairkan dengan cepat apabila
-  sewaktu-waktu anda membutuhkan dana. Karena itu, kamu juga butuh instrumen
-  investasi jangka pendek untuk menghiasi portofolio investasi kamu sehingga
-  kamu memiliki investasi yang bisa memberikan keuntungan dalam jangka pendek.
+title: "Investasi Jangka Pendek Adalah: Tips dan 4 Pilihan Investasi Terbaik"
+metaTitle: "Investasi Jangka Pendek Adalah: Tips dan 4 Pilihan Investasi Terbaik"
+metaDescription: Investasi jangka pendek adalah dilakukan dalam periode singkat.
+  Contoh investasi jangka pendek terbaik yaitu pada deposito, RDPU, dan saham.
+intro: Keuntungan investasi jangka panjang terbaik adalah likuid. Contoh
+  investasi jangka pendek terbaik yaitu pada deposito, RDPU, dan saham. Yuk,
+  pahami lebih lanjut di sini.
 isPinned: false
 slug: investasi-jangka-pendek-terbaik
 date: 2022-02-03T12:32:51.196Z
@@ -21,8 +19,8 @@ category:
   - Investasi
 featuredImage:
   src: https://images.unsplash.com/photo-1501139083538-0139583c060f?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTR8fHNhdmluZ3xlbnwwfHwwfHw%3D&auto=format&fit=crop&w=500&q=60
-  alt: Pilihan investasi jangka pendek yang menguntungkan
-  title: Tips memilih investasi jangka panjang yang menguntungkan
+  alt: Investasi jangka pendek terbaik
+  title: "Investasi Jangka Pendek Adalah: Tips dan 4 Pilihan Investasi Terbaik"
 ---
 Dalam menentukan [investasi jangka pendek](https://landx.id/) anda harus mengacu lagi kepada tujuan dari investasi yang anda lakukan.
 
@@ -44,17 +42,19 @@ Jenis investasi ini biasanya memiliki risiko rendah dengan kenaikan nilai yang k
 
 Investasi jangka pendek pun kini semakin beragam dan mudah untuk diakses karena adanya sistem investasi online. Untuk itu berikut beberapa pilihan investasi jangka pendek yang bisa memberikan anda keuntungan
 
-## **Pilihan Investasi Jangka Pendek Terbaik**
+## **Jenis Investasi Jangka Pendek Terbaik**
 
 Dalam berinvestasi anda akan dihadapkan berbagai jenis instrumen investasi mulai dari yang berisiko rendah hingga tinggi. Karena jenis instrumen yang beragam, anda harus bisa memilih investasi yang tepat dengan menyesuaikan dengan profil risiko dan periode investasi yang ingin anda jalankan.
 
-**Investasi jangka pendek terbaik** sebernarnya akan memiliki versi berbeda untuk setiap orang karena hal ini kembali lagi kepada profil risiko dan tujuan finansial anda. Apabila kamu memang berani menanggung risiko besar untuk mendapatkan potensi return besar maka kamu bisa memilih saham dengan volatilitas tinggi. 
+**Jenis investasi jangka pendek terbaik** sebenarnya akan memiliki versi berbeda untuk setiap orang karena hal ini kembali lagi kepada profil risiko dan tujuan finansial anda. Apabila anda memang berani menanggung risiko besar untuk mendapatkan potensi return besar maka anda bisa memilih saham dengan volatilitas tinggi. 
 
-Akan tetapi, kalau kamu memang belum berani menanggung risiko sebesar itu, maka kamu bisa memilih instrumen dengan harga yang cenderung stabil maka kamu sebaiknya memilih instrumen dengan harga yang lebih stabil seperti deposito dan reksa dana pasar uang.
+Akan tetapi, kalau anda memang belum berani menanggung risiko sebesar itu, maka anda bisa memilih instrumen dengan harga yang cenderung stabil maka anda sebaiknya memilih instrumen dengan harga yang lebih stabil seperti deposito dan reksa dana pasar uang.
 
-Yuk cek beberapa pilihan investasi jangka pendek terbaik yang bisa jadi pilihan kamu :
+Yuk cek beberapa pilihan jenis investasi jangka pendek terbaik yang bisa jadi pilihan anda:
 
 ### **Deposito**
+
+Deposito merupakan rekomendasi pertama jenis investasi jangka pendek terbaik.
 
 Seperti yang kita tahu deposito merupakan salah satu produk investasi yang ditawarkan perbankan dengan jangka waktu yang beragam mulai dari periode jangka panjang hingga pendek.
 
@@ -92,9 +92,19 @@ Apabila anda berinvestasi dalam instrumen ini, anda tetap harus waspada dengan b
 
 Setelah paham beberapa jenis investasi jangka pendek, berikut beberapa tips yang bisa anda ikuti saat mulai memulai investasi jangka pendek.
 
+## Cara Menentukan Investasi Jangka Pendek
+
+Berdasarkan pilihan rekomendasi jenis investasi jangka pendek pada topik yang telah dibahas sebelumnya, maka mari kita bahas cara menentukan tujuan investasi jangka pendek.
+
+Biasanya, tujuan investasi jangka pendek adalah untuk menyiapkan dana darurat, mengumpulkan budget liburan, atau biaya menikah. Oleh karena itu, lihat parameter berikut untuk menentukan investasi jangka yang sesuai tujuan investasi jangka panjang anda.
+
+* **Stabilitas** - Investasi jangka pendek yang baik biasanya tidak berfluktuasi nilainya, seperti banyak deposito dan obligasi jangka pendek. Uang akan sering kali dilindungi oleh lembaga penjamin simpanan (LPS) atau jaminan pemerintah.
+* **Likuiditas** - Investasi jangka pendek yang baik biasanya menawarkan likuiditas tinggi, artinya anda dapat mengakses dan mencairkannya menjadi uang tunai dengan cepat. 
+* **Biaya transaksi rendah** - Investasi jangka pendek yang baik tidak membutuhkan banyak uang untuk masuk atau keluar. Hal ini sangat penting karena akan berpengaruh memotong hasil dari investasi anda nantinya.
+
 ## **Tips Investasi Jangka Pendek**
 
-Apabila kamu ingin berinvestasi ke dalam instrumen jangka pendek, maka kamu harus memperhatikan beberapa hal berikut agar investasi yang lakukan bisa memberikan hasil yang optimal. 
+Apabila anda ingin berinvestasi ke dalam instrumen jangka pendek, maka anda harus memperhatikan beberapa hal berikut agar investasi yang lakukan bisa memberikan hasil yang optimal. 
 
 ### **Pilih Instrumen Terpercaya**
 
@@ -124,7 +134,7 @@ Selain itu, jangan lupa bahwa setiap investasi selalu memiliki risiko kerugian y
 
 Dalam investasi anda perlu melakukan diversifikasi untuk memaksimalkan keuntungan yang bisa anda dapatkan. Sebaiknya anda melakukan kombinasi investasi jangka pendek dengan beberapa instrumen investasi jangka panjang sehingga bisa memberikan anda keuntungan yang lebih optimal lagi.
 
-Apabila kamu sedang mencari instrumen investasi terpercaya untuk 
+Apabila anda sedang mencari instrumen investasi terpercaya untuk 
 
 ## **[Yuk Investasi ke Berbagai Bisnis Potensial Melalui Aplikasi LandX](https://landx.id/)**
 
