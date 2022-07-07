@@ -26,9 +26,9 @@ category:
   - Bisnis
   - Investasi
 ---
-**[Memiliki passive income](https://landx.id/project/)** \*\*\*\* merupakan hal yang diinginkan setiap orang, namun banyak orang yang tidak paham bagaimana menyiapkan investasi yang bisa memberikan mereka passive income dalam jangka panjang.
+**[Memiliki passive income](https://landx.id/project/)** adalah hal yang diinginkan setiap orang, namun banyak orang yang tidak paham bagaimana menyiapkan investasi yang bisa memberikan mereka passive income dalam jangka panjang.
 
-Passive income sendiri sebernarnya bisa berasal dari berbagai sumber, karena pada dasarnya passive income adalah penghasilan yang kita dapatkan tanpa perlu melakukan suatu kegiatan ekonomi.
+Sumber passive income adalah aset yang dimiliki tetapi dapat menghasilkan nilai. Karena pada dasarnya passive income adalah penghasilan yang kita dapatkan tanpa perlu melakukan suatu kegiatan ekonomi.
 
 Passive income akan memberikan anda keuntungan tanpa perlu melakukan tindakan ekonomi secara langsung. Namun menyusun aset agar bisa menghasilkan passive income bukanlah hal mudah karena butuh perencanaan yang matang agar aset anda bisa menghasilkan [passive income](https://landx.id/) dan bukan malah menimbulkan beban pengeluaran baru.
 
@@ -38,27 +38,29 @@ Oleh sebab itu, mari kita bahas secara lebih mendalam tentang apa itu passive in
 
 Income adalah sumber penghasilan atau uang yang anda terima baik dari kegiatan ekonomi maupun tidak, income sendiri terbagi dua yaitu active dan passive income yang pasti sering menjadi pembahasan dalam kehidupan sehari-hari kita.
 
-Passive income adalah penghasilan yang anda dapatkan tanpa perlu aktif terlibat secara langsung dalam kegiatan menghasilkan uang tersebut. Simpelnya, anda tetap bisa menghasilkan uang walau tidak melakukan apapun karena aset investasi yang anda miliki bisa memberikan anda penghasilan.
+Passive income adalah penghasilan yang Anda dapatkan tanpa perlu aktif terlibat secara langsung dalam kegiatan menghasilkan uang tersebut. Simpelnya, passive income adalah uang yang bisa dihasilkan walau tidak melakukan apapun karena aset investasi yang Anda miliki bisa memberikan Anda penghasilan.
 
-Contoh paling umum adalah investasi ke dalam properti sewaan yang akan bisa memberikan anda [passive income](https://landx.id/) dari biaya sewa yang dihasilkan dari properti tersebut. Dengan memperbanyak investasi yang menghasilkan passive income, anda menjadi lebih mudah mencapai kondisi finansial yang anda inginkan.
+Contoh paling umum adalah investasi ke dalam properti sewaan yang akan bisa memberikan Anda [passive income](https://landx.id/) dari biaya sewa yang dihasilkan dari properti tersebut. Dengan memperbanyak investasi yang menghasilkan passive income, Anda menjadi lebih mudah mencapai kondisi finansial yang anda inginkan.
 
-Akan tetapi, di kalangan masyarakat masih tertanam bahwa investasi yang bisa menghasilkan passive income hanya bisa dilakukan oleh orang yang memiliki modal yang besar. Padahal pada masa sekarang sudah tersedia berbagai jenis investasi yang bisa memberikan anda passive income walaupun dengan modal kecil.
+Akan tetapi, di kalangan masyarakat masih tertanam bahwa investasi yang bisa menghasilkan passive income adalah orang yang memiliki modal yang besar. Padahal pada masa sekarang sudah tersedia berbagai jenis investasi yang bisa memberikan passive income walaupun dengan modal kecil.
 
-Karena itu anda harus tahu berbagai investasi [passive income terpercaya](https://landx.id/) yang bisa memberikan anda passive income dalam jangka panjang.
+Karena itu Anda harus tahu berbagai investasi [passive income terpercaya](https://landx.id/) yang bisa memberikan anda passive income dalam jangka panjang.
 
 Yuk perhatikan berbagai pilihan investasi menguntungkan untuk membangun investasi yang bisa menghasilkan pasif income dalam jangka panjang.
 
 ## **Kenapa Passive Income Sangat Penting?**
 
-Apabila anda memiliki cita-cita mencapai financial freedom, maka passive income merupakan hal yang harus anda pikirkan mulai dari sekarang.
+Apabila Anda memiliki cita-cita mencapai *financial freedom,* maka passive income adalah hal yang harus anda pikirkan mulai dari sekarang.
 
-Hal ini karena passive income yang sudah cukup memenuhi kebutuhan dasar merupakan salah satu indikator seseorang bisa mencapai financial freedom.
+Hal ini karena passive income yang sudah cukup memenuhi kebutuhan dasar merupakan salah satu indikator seseorang bisa mencapai *financial freedom*.
 
-Oleh sebab itu, kamu butuh menyusun strategi keuangan yang baik mulai dari sekarang agar kamu memiliki aset yang cukup untuk memberikan anda passive income untuk memenuhi kebutuhan anda.
+Oleh sebab itu, Anda butuh menyusun strategi keuangan yang baik mulai dari sekarang agar kamu memiliki aset yang cukup untuk memberikan Anda passive income untuk memenuhi kebutuhan di masa yang akan datang. 
 
-## **Bagaimana Cara Menciptakan Passive Income**
+Contoh penggunaan passive income adalah untuk tabungan hari tua, biaya membangun rumah impian, atau bahkan biaya untuk keliling dunia.
 
-Kalau kamu ingin mulai menyusun strategi agar mendapatkan passive income dari sekarang, kamu bisa mulai dengan investasi atau bisnis yang bisa memberikan kamu passive income. Karena itu mari kita bahas investasi dan bisnis pasif income yang bisa anda coba:
+## **Macam-macam Passive Income**
+
+Kalau Anda ingin mulai menyusun strategi agar mendapatkan passive income dari sekarang, Anda bisa mulai dengan investasi atau bisnis yang bisa memberikan kamu passive income. Karena itu, contoh beberapa sumber passive income adalah sebagai berikut. 
 
 ### **1. Penyewaan Properti**
 
@@ -70,49 +72,51 @@ Properti yang disewakan pun bisa dalam berbagai bentuk seperti rumah kontrakan, 
 
 [Properti sewaan](https://landx.id/) ini sangat potensial memberikan anda keuntungan jangka panjang karena seperti yang kita tahu permintaan akan hunian yang semakin meningkat sedangkan lahan yang tersedia kian mahal dan terbatas sehingga penyewaan properti adalah solusi.
 
-Kalau anda masih berpikir investasi properti yang menghasilkan [passive income](https://landx.id/) membutuhkan dana yang besar di awal, anda harus membuang pikiran anda jauh-jauh karena kini anda bisa mulai melakukan investasi properti yang bisa menghasilkan passive income dengan[ **equity crowdfunding.**](https://landx.id/project/)
+Kalau Anda masih berpikir investasi properti yang menghasilkan [passive income](https://landx.id/) membutuhkan dana yang besar di awal, Anda harus membuang pikiran anda jauh-jauh. Saat ini, modal yang dibutuhkan untuk investasi properti yang bisa menghasilkan passive income adalah mulai dari Rp1 jutaan saja. Caranya adalah dengan[ **equity crowdfunding.**](https://landx.id/project/)
 
-Kalau anda belum tahu, equity crowdfunding merupakan sistem investasi urun dana yang memberikan kesempatan untuk investor terlibat patungan dalam berbagai proyek dan bisnis termasuk salah satunya adalah properti.
+Kalau Anda belum tahu, equity crowdfunding merupakan sistem investasi urun dana yang memberikan kesempatan untuk investor terlibat patungan dalam berbagai proyek dan bisnis termasuk salah satunya adalah properti.
 
-Dengan begitu anda bisa patungan membeli sebuah properti sewaan dan mendapatkan passive income sesuai dengan porsi kepemilikan modal anda dalam properti tersebut. Cukup mudah dan simpel bukan.
+Dengan begitu Anda bisa patungan membeli sebuah properti sewaan dan mendapatkan passive income sesuai dengan porsi kepemilikan modal anda dalam properti tersebut. Cukup mudah dan simpel bukan.
 
 ### **2. Membangun Bisnis Franchise**
 
-Investasi lewat  bisnis franchise merupakan salah satu opsi yang bisa anda lakukan untuk membangun aset yang memberikan anda passive income apalagi saat ini tersedia berbagai jenis franchise dengan sistem yang berbeda.
+Investasi lewat bisnis franchise merupakan salah satu opsi yang bisa anda lakukan untuk membangun aset yang memberikan Anda passive income. Apalagi saat ini tersedia berbagai jenis franchise dengan sistem, presentase keuntungan, dan industri yang berbeda-beda. 
 
-Dengan franchise anda tidak perlu repot-repot melakukan riset untuk membangun produk bahkan sebagian franchise sudah langsung menyediakan karyawan yang akan mengoperasikan bisnis anda.
+Dengan franchise Anda tidak perlu repot-repot melakukan riset untuk membangun produk bahkan sebagian franchise sudah langsung menyediakan karyawan yang akan mengoperasikan bisnis Anda.
 
 Hal ini akan sangat membantu anda dalam membangun [bisnis seperti F&B](https://landx.id/) yang membutuhkan *trial and error* dalam menyusun produk yang sesuai dengan lidah konsumen.
 
 Selain itu anda juga tidak perlu kesulitan membangun *brand* yang dikenal masyarakat. Investor perlu menyediakan modal untuk pembayaran lisensi dan tempat bisnis yang akan dilakukan.
 
-Franchise atau waralaba yang sukses akan memberikan anda passive income karena bisnis akan diurus oleh pihak yang sudah terlatih mengatur bisnis tersebut. Namun yang namanya bisnis tentu saja ada risiko kegagalan, oleh sebab itu anda butuh memilih franchise dan lokasi terbaik untuk investasi anda.
+Karena itu, salah satu cara mendapat passive income adalah franchise atau waralaba. Karena jalannya akan diurus oleh pihak yang sudah terlatih mengatur bisnis tersebut, maka bentuk pendapatan passive income adalah laba dari franchise tersebut. 
+
+Namun yang namanya bisnis tentu saja ada risiko kegagalan, oleh sebab itu Anda butuh memilih franchise dan lokasi terbaik untuk investasi anda.
 
 ### **3. Investasi Saham**
 
-Saham merupakan investasi yang bisa memberikan anda [passive income](https://landx.id/) yang menguntungkan asalkan anda paham bagaimana mengatur investasi ini.
+Sumber selanjutnya passive income adalah kepemilikan aset investasi saham. [Passive income](https://landx.id/) dari aset ini bisa menguntungkan asalkan Anda paham bagaimana mengatur investasi ini.
 
-Untuk mendapatkan [passive income yang optimal](https://landx.id/project/), anda harus pintar memilih saham yang memiliki rekam jejak yang baik atau sering disebut saham *blue-chip* yang memiliki potensi keuntungan yang besar sehingga anda bisa mendapatkan dividen dari saham yang anda miliki.
+Untuk mendapatkan [passive income yang optimal](https://landx.id/project/), Anda harus pintar memilih saham yang memiliki rekam jejak yang baik atau sering disebut saham *blue-chip* yang memiliki potensi keuntungan yang besar sehingga Anda bisa mendapatkan dividen dari saham yang Anda miliki.
 
 Saham dengan sejarah yang baik biasanya risiko kerugian yang bisa dibilang kecil sehingga anda bisa mendapatkan return yang optimal.
 
-Oleh sebab itu investasi ke dalam saham *blue-chip* bisa anda jadikan pilihan investasi yang akan memberikan anda passive income dalam jangka panjang.
+Oleh sebab itu investasi ke dalam saham *blue-chip* bisa Anda jadikan pilihan investasi yang akan memberikan anda passive income dalam jangka panjang.
 
 Namun dalam investasi apapun anda perlu melakukan diversifikasi untuk memperkecil risiko kerugian sehingga perlu membagi investasi anda ke dalam beberapa saham *blue-chip* dari berbagai sektor.
 
 ### **4. Mulai Membangun Konten Digital**
 
-Di era digital saat ini, konten yang anda miliki bisa anda jadikan sumber passive income karena konten tersebut dapat dimonetisasi sehingga bisa menjadi sumber penghasilan bagi anda.
+Di era digital saat ini, peluang untuk mendapatkan passive income adalah membuat konten yang dimonetisasi sehingga bisa menjadi sumber penghasilan bagi Anda.
 
-Oleh sebab itu tidak ada salahnya anda berinvestasi ke berbagai kebutuhan yang bisa mendukung proses pembuatan konten yang akan anda tampilkan di media sosial.
+Oleh sebab itu tidak ada salahnya Anda berinvestasi ke berbagai kebutuhan yang bisa mendukung proses pembuatan konten yang akan anda tampilkan di media sosial.
 
 Anda bisa mulai dengan membangun blog yang baik sehingga bisa dimonetisasi dengan dipasangi iklan dari google. Selain itu anda juga bisa mulai dengan membuat video untuk diupload ke YouTube sehingga bisa dipasangi Google Adsense.
 
-Hal ini akan memberikan anda passive income dalam jangka panjang asalkan konten yang anda bangun bisa menjawab kebutuhan informasi target audien anda.
+Hal ini akan memberikan Anda passive income dalam jangka panjang asalkan konten yang anda bangun bisa menjawab kebutuhan informasi target audien anda.
 
 ### **5. Mengikuti Program** ***Affliate Marketing***
 
-Saat ini, affliate program adalah salah satu cara mudah untuk mendapatkan passive income tanpa modal yang besar. Kamu hanya butuh membagikan link produk afiliasi kamu kepada orang-orang dan mendapatkan bagian keuntungan dari setiap transaksi tersebut.
+Saat ini,  salah satu cara mudah dan tanpa modal besar untuk mendapatkan passive income adalah menjadi Afiliator. Affliate program adalah cara mendapat passive income dengan membagikan link produk afiliasi kamu kepada orang-orang dan mendapatkan bagian keuntungan dari setiap transaksi tersebut.
 
 Kegiatan ini sekarang sangat populer ditambah lagi banyak *e-commerce* membuka program ini dan memberikan sampel produk gratis kepada afiliator agar mereka dapat dengan lebih mudah mengenalkan produk tersebut.
 
@@ -128,13 +132,13 @@ Melalui investasi bisnis, anda tidak perlu terlibat langsung dalam mengatur sebu
 
 Investasi bisnis merupakan pilihan yang tepat untuk investasi jangka panjang apalagi kalau anda pintar memilih bisnis yang tepat dengan prospek pasar yang luas di masa yang akan datang.
 
-Kini anda tidak perlu bingung lagi untuk mencari potensial yang membutuhkan dana, karena di Indonesia sudah ada [platform equity crowdfunding](https://landx.id/) yang membantu menyalurkan modal anda ke bisnis-bisnis potensial di sekitar anda.
+Kini anda tidak perlu bingung lagi untuk mencari potensial yang membutuhkan dana, karena di Indonesia sudah ada [platform equity crowdfunding](https://landx.id/) yang membantu menyalurkan modal anda ke bisnis-bisnis potensial di sekitar Anda.
 
-## Investasi dengan Passive Income Jangka Panjang
+## Opsi Passive Income Terbaik dengan LandX
 
-Arti passive income sendiri sebenanrya adalah segala income yang akan kita terima tanpa perlu terlibat langsung. Income pasif ini menjadi hal yang sangat penting untuk kita siapkan agar di masa depan kebutuhan kita bisa terpenenuhi dari penghasilan pasif. Oleh sebab itu, perlu menyiapkan aset yang bisa memberikan kita passive income mulai dari sekarang. 
+Arti passive income adalah segala income yang akan kita terima tanpa perlu terlibat langsung. Income pasif ini menjadi hal yang sangat penting Anda siapkan agar di masa depan kebutuhan ideal yang Anda inginkan bisa segera terpenenuhi dari penghasilan pasif. Oleh sebab itu, perlu menyiapkan aset yang bisa memberikan kita passive income mulai dari sekarang. 
 
-Investasi bisnis di LandX bisa jadi salah satu pilihan investasi yang bisa memberikan kamu passive income jangka panjang lewat dividen yang berasal dari keuntungan bisnis tempat kamu berinvestasi sebelumnya.
+Investasi bisnis di LandX bisa jadi salah satu pilihan investasi yang bisa memberikan kamu passive income jangka panjang lewat dividen yang berasal dari keuntungan bisnis tempat Anda berinvestasi sebelumnya.
 
 **[Yuk Patungan Bisnis Bareng LandX untuk Passive Income Jangka Panjang Anda](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)**
 
