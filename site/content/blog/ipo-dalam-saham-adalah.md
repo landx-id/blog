@@ -84,7 +84,7 @@ Selain itu, kamu juga perlu melihat bagaimana program kerja perusahaan dalam men
 
 Karena itu, beli saham IPO tidak menjamin keuntungan yang kamu dapatkan.  
 
-## Risiko Kerugian Beli Saham IPO
+## Resiko Kerugian Beli Saham IPO
 
 Membeli saham pada saat penawaran perdana memiliki kelebihan dan kekurangan, oleh sebab itu mari kita bahas dulu keunggulan dari membeli saham IPO. Pembelian saham saat penawaran perdana biasanya memiliki harga yang lebih rendah dibandingkan membeli saham di pasar sekunder.
 
@@ -98,15 +98,15 @@ Karena itu, saat beli saham IPO kamu perlu berhati-hati dan memahami dengan baik
 
 ## Beli Saham Bisnis Saat Penawaran Perdana
 
-IPO saham merupakan kesempatan untuk anda mendapatkan saham dari perusahaan potensial dengan harga yang cenderung lebih murah dibandingkan membeli di pasar sekunder.
+IPO saham merupakan kesempatan untuk kamu mendapatkan saham dari perusahaan potensial dengan harga yang cenderung lebih murah dibandingkan membeli di pasar sekunder.
 
-Oleh sebab itu, hal ini bisa anda manfaatkan untuk meraup keuntungan yang lebih besar. Hal lain yang harus anda pahami adalah IPO biasanya dilakukan oleh perusahaan dengan skala besar.
+Oleh sebab itu, hal ini bisa kamu manfaatkan untuk meraup keuntungan yang lebih besar. Hal lain yang harus kamu pahami adalah cara ikut IPO yang biasanya dilakukan oleh perusahaan dengan skala besar.
 
-Untuk bisnis skala menengah dan kecil pelepasan saham kepada publik biasanya dilakukan dengan [**sistem equity crowdfunding.** ](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)
+Untuk bisnis skala menengah dan kecil atau UMKM pelepasan saham kepada publik biasanya dilakukan dengan **[sistem equity crowdfunding.](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)**
 
-Apabila anda ingin melakukan investasi bisnis ke dalam berbagai bisnis potensial di sekitar anda, maka anda harus menemukan [platform equity crowdfunding](https://landx.id/) terbaik untuk menemukan bisnis terbaik untuk investasi anda.
+Apabila kamu ingin melakukan investasi bisnis ke dalam berbagai bisnis potensial di sekitar kamu, maka kamu harus menemukan [platform equity crowdfunding](https://landx.id/) terbaik untuk menemukan bisnis terbaik untuk investasi kamu.
 
-[LandX](https://landx.id/) merupakan platform equity crowdfunding terbaik yang bisa membantu anda menemukan bisnis yang bisa anda beli sahamnya untuk investasi jangka panjang. Sebagai pemegang saham, anda tentu saja berpotensi mendapatkan keuntungan berupa dividen sesuai dengan performa bisnis yang anda danai. Karena itu...
+[LandX](https://landx.id/) merupakan platform equity crowdfunding terbaik yang bisa membantu kamu menemukan bisnis yang bisa kamu beli sahamnya untuk investasi jangka panjang. Sebagai pemegang saham, kamu tentu saja berpotensi mendapatkan keuntungan berupa dividen sesuai dengan performa bisnis yang didanai. Karena itu...
 
 ## **[Yuk Temukan Saham Bisnis Terbaik Kamu di LandX](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)**
 
