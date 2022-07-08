@@ -102,7 +102,7 @@ IPO saham merupakan kesempatan untuk kamu mendapatkan saham dari perusahaan pote
 
 Oleh sebab itu, hal ini bisa kamu manfaatkan untuk meraup keuntungan yang lebih besar. Hal lain yang harus kamu pahami adalah cara ikut IPO yang biasanya dilakukan oleh perusahaan dengan skala besar.
 
-Untuk bisnis skala menengah dan kecil atau UMKM pelepasan saham kepada publik biasanya dilakukan dengan **[sistem equity crowdfunding.](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)**
+Ada skema untuk bisnis skala menengah dan kecil atau UMKM melakukan rilis saham kepada publik, yaitu **[sistem equity crowdfunding.](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)**
 
 Apabila kamu ingin melakukan investasi bisnis ke dalam berbagai bisnis potensial di sekitar kamu, maka kamu harus menemukan [platform equity crowdfunding](https://landx.id/) terbaik untuk menemukan bisnis terbaik untuk investasi kamu.
 
