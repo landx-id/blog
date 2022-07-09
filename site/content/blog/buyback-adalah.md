@@ -47,9 +47,15 @@ Apa yang dimaksud dengan buyback saham?
 
 > [B***uyback*** **adalah**](https://landx.id/project) kebijakan pembelian kembali suatu saham yang oleh perusahaan yang menerbitkan saham tersebut. Artinya, perusahaan membeli kembali bagian kepemilikan dari bisnis mereka yang sebelumnya ditawarkan kepada publik.
 
-Stock repurchase biasanya dilakukan dengan berbagai tujuan. Tujuan buyback adalah untuk menjaga likuiditas dari perusahaan yang merupakan salah satu rasio keuangan penting yang diperhatikan dalam perusahaan. Hal ini berkaitan dengan rasio earning per share (EPR) yang akan meningkat saat semakin sedikit jumlah saham yang beredar di pasaran.
+Stock repurchase biasanya dilakukan dengan berbagai tujuan. Tujuan buyback adalah untuk menjaga likuiditas dari perusahaan yang merupakan salah satu rasio keuangan penting yang diperhatikan. Hal ini berkaitan dengan rasio earning per share (EPR) yang akan meningkat saat semakin sedikit jumlah saham yang beredar di pasaran.
 
-Selain itu, hasil stock repurchase juga bisa dijadikan saham *treasury* yang disimpan dan dapat dijual kembali saat harga saham mengalami tren kenaikan. Stock repurchase atau buy back juga menjadi salah satu cara untuk menjaga psikologis investor saat harga saham sedang turun sehingga apabila ada yang membeli saham saham dalam jumlah besar dapat menaikan ketertarikan investor untuk memiliki saham tersebut.
+Rasio earning per share (EPR) adalah laba perusahaan yang dibagikan sesuai kepemilikan lembar saham. Meningkatnya EPR menandakan arah perusahaan tumbuh dengan baik karena jumlah laba meningkat.
+
+Selain itu, hasil stock repurchase juga bisa dijadikan saham *treasury* yang disimpan dan dapat dijual kembali saat harga saham mengalami tren kenaikan. Saham treasury muncul karena kebijakan stock repurchase. Saham treasury adalah saham hasil pembelian kembali (stock repurchase).
+
+Stock repurchase atau buy back juga menjadi salah satu cara untuk menjaga psikologis investor saat harga saham sedang turun sehingga apabila ada yang membeli saham saham dalam jumlah besar dapat menaikan ketertarikan investor untuk memiliki saham tersebut.
+
+Dengan dilakukannya stock repurchase tentu akan berdampak pada jumlah kepemilikan saham investor yang semakin berkurang atau dilusi harga saham. 
 
 Akan tetapi, semua ini kembali lagi dengan masing-masing perusahaan yang melakukan kebijakan ini. Oleh sebab itu, anda harus mencari tahu lebih lanjut saat suatu perusahaan mengumumkan akan melakukan stock repurchase*.*
 
