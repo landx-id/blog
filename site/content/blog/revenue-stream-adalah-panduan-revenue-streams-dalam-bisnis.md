@@ -2,7 +2,7 @@
 draft: true
 author: Nadya A. Faatihah
 title: "Revenue Stream Adalah: Panduan Revenue Streams dalam Bisnis"
-metaTitle: Apa Itu Revenue Stream dalam Bisnis
+metaTitle: Apa Itu Revenue Stream dalam Bisnis?
 metaDescription: Revenue stream adalah komponen yang menjamin profit bagi
   jalannya bisnis perusahaan. Simak fungsi revenue stream dan penjelasan
   lengkapnya!
