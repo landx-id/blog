@@ -7,10 +7,10 @@ metaDescription: Revenue stream adalah komponen yang menjamin profit bagi
   jalannya bisnis perusahaan. Simak fungsi revenue stream dan penjelasan
   lengkapnya!
 intro: "Revenue stream adalah seluruh transaksi perusahaan yang menghasilkan
-  dana secara berkelanjutan. Misalnya seperti transaksi pembelian produk, dana
-  hibah yang didapat perusahaan, suntikan dana rutin dari investor, pemasukan
-  dari franchise, hak cipta, atau paten, atau pun pemasukan rutin dari cabang
-  bisnis. "
+  dana secara berkelanjutan. Jenis revenue stream adalah transaksi pembelian
+  produk, dana hibah yang didapat perusahaan, suntikan dana rutin dari investor,
+  pemasukan dari franchise, hak cipta, atau paten, atau pun pemasukan rutin dari
+  cabang bisnis. "
 date: 2022-07-09T14:23:09.945Z
 featuredImage:
   src: https://images.unsplash.com/photo-1613186187355-04873a327675?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80
