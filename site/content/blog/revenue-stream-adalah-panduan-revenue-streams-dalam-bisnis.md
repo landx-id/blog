@@ -21,11 +21,7 @@ featuredImage:
 
 Revenue stream adalah komponen sumber yang berkontribusi mengisi kas perusahaan. Revenue stream dalam bisnis menjadi elemen penting dalam operasional perusahaan. Karena revenue streams berkaitan dengan kemampuan perusahaan mengelola dana yang dimiliki untuk pengembangan bisnisnya.
 
-
-
 Jika Anda tertarik untuk menjadi pebisnis atau berinvestasi pada bisnis yang potensial, maka memahami revenue stream adalah salah satu hal yang penting dilakukan. 
-
-
 
 Penjelasan lengkap mengenai jenis revenue streamdalam bisnis dan pengertian *revenue stream* adalah sebagai berikut.
 
@@ -33,15 +29,9 @@ Penjelasan lengkap mengenai jenis revenue streamdalam bisnis dan pengertian *rev
 
 Revenue stream adalah seluruh dana yang dimiliki perusahaan untuk bisa dikelola dan dikembangkan. Revenue stream adalah seluruh transaksi perusahaan yang menghasilkan dana secara berkelanjutan. 
 
-
-
 Secara sederhana, arti revenue stream adalah seluruh sumber yang berkontribusi mengisi kas perusahaan. Misalnya, transaksi jual-beli produk atau jasa dan sumber lain seperti hibah, investasi perusahaan, atau dana dari investor. 
 
-
-
 Fungsi aliran dana atau revenue stream adalah penentu kegiatan produksi, distribusi, dan investasi perusahaan dapat berjalan terus-menerus. Karena itu, revenue stream adalah salah satu penentu apakah sebuah perusahaan menjalankan bisnisnya dengan baik dalam artian memperoleh profit.
-
-
 
 ## Pentingnya Revenue Stream dalam BMC
 
@@ -50,8 +40,6 @@ Fungsi aliran dana atau revenue stream adalah penentu kegiatan produksi, distrib
 ![Revenue Stream dalam BMC]( "Revenue Stream dalam BMC")
 
 Agar dapat memahami keterkaitan antara revenue stream dan komponen lain dalam skema BMC di atas, maka sebaiknya Anda memahami komponen dalam BMC dahulu. Berikut adalah penjelasan lengkapnya.
-
-
 
 ### 1. Customer Segments
 
@@ -89,8 +77,6 @@ Komponen ini merujuk pada jenis biaya yang terjadi agar jalannya usaha dapat ter
 
 Lalu, *revenue streams* adalah jenis pendapatan dihasilkan dari value proposition yang ditawarkan dan dibeli oleh customer. Singkatnya, kategori revenue stream terdiri dari *business to business, business to customer,* dan *business customer to customer.*
 
-
-
 *Business to business* adalah transaksi konsumen berskala besar antara sebuah perusahaan dengan perusahaan. Lalu, *business to customer* adalah transaksi pembelian secara eceran. Sementara *customer to customer* adalah transaksi usaha seperti sistem reseller perseorangan yang menjual produk eceran kepada konsumen perseorangan lain.
 
 ## Contoh Revenue Stream dalam BMC
@@ -101,15 +87,11 @@ Umumnya, dalam jalannya bisnis perusahaan revenue stream diklasifikasikan menjad
 
 *Transaction revenue stream* adalah seluruh sumber aliran pendapatan yang berasal darii transaksi jual-beli sekali bayar. Jenis revenue stream satu ini hanya bisa dicatat sekali, yaitu setiap saat terjadinya transaksi antara konsumen dengan perusahaan. 
 
-
-
 Contoh dari *transaction revenue stream* adalah pembelian produk, penggunaan jasa, atau dana hibah yang didapat perusahaan, dan lainnya.
 
 ### 2. Recurring Revenue
 
 *Recurring revenue stream* adalah aliran pendapatan perusahaan yang diterima lebih dari sekali atau secara rutin dan berkelanjutan. Jenis revenue stream ini dapat dicatat secara terus-menerus dalam setiap periode tertentu.
-
-
 
 Contoh *recurring revenue stream* adalah dividen investasi yang ditanamkan perusahaan, langganan produk, suntikan dana rutin dari investor, pemasukan dari franchise, hak cipta, atau paten, atau pun pemasukan rutin dari cabang bisnis. 
 
@@ -121,15 +103,11 @@ Revenue stream adalah pondasi krusial bagi jalannya bisnis sebuah perusahaan. Ji
 
 Utamanya, fungsi revenue stream adalah skema struktural peluang sebuah bisnis dalam mendapatkan aliran dana atau profit agar kegiatan bisnisnya dapat terus berjalan secara berkelanjutan. 
 
-
-
 Dalam profil atau proposal sebuah perusahaan, revenue stream adalah daftar komoditas yang dihasilkan oleh bisnis. Revenue stream dalam BMC menandai informasi yang dapat dibaca oleh investor atau stakeholder. Utamanya, revenue stream menjadi patokan nominal pemasukan yang bisa dihasilkan oleh perusahaan. 
 
 ### 2. Dasar Strategi Berbisnis
 
 Revenue stream adalah berbagai peluang yang bisa menjadi sumber-sumber penghasil profit bagi bisnis perusahaan. Dengan mengetahui revenue stream terbaik, sebuah perusahaan dapat memaksimalkan strategi terbaik agar sumber tersebut dapat dioptimalkan profitnya.
-
-
 
 Selain itu, jika ternyata ada komponen revenue stream yang performanya kurang baik, perusahaan bisa berstrategi untuk mengevaluasi dan memperbaiki performanya, atau bahkan menghapus upaya tersebut.
 
@@ -137,23 +115,17 @@ Selain itu, jika ternyata ada komponen revenue stream yang performanya kurang ba
 
 Fungsi selanjutnya revenue stream adalah membantu pebisnis atau investor melakukan prediksi omset dan profit bisnis perusahaan. Misalnya, Perusahaan A menjalankan bisnis produksi tepung jagung. Lalu agar proses produksi lebih efisien, perusahaan investasi pada pembelian mesin baru.
 
-
-
 Maka, investasi pada mesin ini dapat menjadi dasar perhitungan berapa banyak produk yang bisa dihasilkan dan didistribusikan. Maka dari perkiraan ini, sebuah perusahaan dapat memprediksi kemampuannya menghasilkan profit dari penjualan tepung jagung tersebut.
 
 ### 4. Komponen Utama Laporan Keuangan Perusahaan
 
 Meski dalam laporan akuntansi perusahaan revenue stream tertulis dalam komponen aktiva seperti “kas”, “hibah”, “amnesti pajak”, dan lainnya, memiliki struktur revenue stream dalam BMC sangatlah penting. 
 
-
-
 Sebagai contoh, jika struktur utama revenue stream didasari dari kas penjualan produk, maka divisi keuangan perusahaan bisa mengambil kesempatan untuk mendapatkan jalur revenue stream yang baru. Misalnya, mengalokasikan sebagian kas ke investasi atau merilis saham publik untuk mendapatkan investor.
 
 ### 5. Menarik Minat Investor
 
-Fungsi terakhir dan paling penting dari revenue stream adalah untuk menarik perhatian calon investor. Struktur revenue stream mencerminkan kemampuan perusahaan dalam mengisi berstrategi dan mencari peluang untuk mengembangkan perusahaannya agar semakin profitable. 
-
-
+Fungsi terakhir dan paling penting dari revenue stream adalah untuk menarik perhatian calon investor. Struktur revenue stream mencerminkan kemampuan perusahaan dalam berstrategi dan mencari peluang untuk mengembangkan perusahaannya agar semakin profitable. 
 
 Karena itu, semakin banyak revenue stream artinya semakin menarik sebuah perusahaan di mata investor. Dari sudut pandang investor, revenue stream menjadi salah satu tolak ukur apakah sebuah bisnis memiliki potensi untuk berkembang secara berkelanjutan agar memberikan keuntungan jangka panjang bagi investor.
 
@@ -161,23 +133,13 @@ Karena itu, semakin banyak revenue stream artinya semakin menarik sebuah perusah
 
 Itu dia penjelasan lengkap mengenai apa itu revenue streams, jenis-jenis revenue streams, fungsinya bagi jalannya bisnis, dan mengapa revenue stream penting bagi investor.
 
-
-
 Tertarik untuk menjadi bos bisnis yang memiliki revenue streams potensial dengan modal minim? Lewat [LandX](https://landx.id/), Anda bisa memilih untuk investasi di berbagai bidang bidang industri yang bisa disesuaikan dengan profil risiko yang Anda inginkan! 
-
-
 
 Mulai dari bidang industri F&B seperti cloud kitchen, dessert bowl kekinian, ice cream and beverages, resto sushi premium, pertambangan batubara, pet economy, hingga properti seperti kos-kosan. 
 
-
-
 Dengan diiringi perkembangan bisnis dari suntikan dana yang didapatkan bisnis UMKM dari investor, peluang Anda untuk terus mendapatkan profit jangka panjang melalui dividen dan capital gain juga akan semakin besar.
 
-
-
 Jadi, tunggu apa lagi? Segera cari peluang bisnis potensial ideal Anda untuk *passive income* di masa depan bersama platform equity crowdfunding yang telah mengantongi izin OJK seperti [LandX](https://landx.id/)!
-
-
 
 ## [Jadi Bos Bisnis UMKM dengan Revenue Stream Menjanjikan? Yuk, Investasi Lewat LandX Sekarang!](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)
 
