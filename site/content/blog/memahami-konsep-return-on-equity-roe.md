@@ -2,12 +2,13 @@
 draft: false
 author: Abdul Wahhab
 slug: memahami-konsep-return-on-equity-roe
-title: "Return on Equity (ROE): Pengertian dan Cara Hitung Return on Equity"
-metaTitle: Pengertian ROE dan Cara Menghitung ROE untuk Membantu Investasi Anda
-metaDescription: Return on Equity adalah salah satu rasio yang mengukur
+title: "ROE (Return on Equity) Adalah: Fungsi dan Cara Hitung Return on Equity"
+metaTitle: Cara Menghitung ROE (Return on Equity) untuk Membantu Investasi Anda
+metaDescription: Return on Equity atau ROE adalah rasio yang menghitung
   kemampuan perusahaan melakukan pengembalian dari aset yang mereka miliki
-intro: Yuk pahami apa itu ROE dan kenapa analisis ROE menjadi analisis penting
-  dalam investasi
+intro: ROE (Return on Equity) adalah salah satu rasio yang digunakan untuk
+  menganalisis kinerja perusahaan. Apa itu ROE adalah analisis ROE yang didasari
+  dengan membandingkan laba bersih dan total modal.
 date: 2021-07-29T05:17:00.000Z
 tag:
   - rasio keuangan
