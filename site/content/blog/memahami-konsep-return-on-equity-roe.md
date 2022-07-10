@@ -7,8 +7,9 @@ metaTitle: Cara Menghitung ROE (Return on Equity) untuk Membantu Investasi Anda
 metaDescription: Return on Equity atau ROE adalah rasio yang menghitung
   kemampuan perusahaan melakukan pengembalian dari aset yang mereka miliki
 intro: ROE (Return on Equity) adalah salah satu rasio yang digunakan untuk
-  menganalisis kinerja perusahaan. Apa itu ROE adalah analisis ROE yang didasari
-  dengan membandingkan laba bersih dan total modal.
+  menganalisis kinerja perusahaan. Apa itu ROE adalah analisis fungsi ROE untuk
+  mengukur prospek investasi dan bisnis. Cara analisis ROE adalah membandingkan
+  laba bersih dan total modal.
 date: 2021-07-29T05:17:00.000Z
 tag:
   - rasio keuangan
@@ -20,31 +21,34 @@ category:
   - Investasi
 featuredImage:
   src: https://images.unsplash.com/photo-1450101499163-c8848c66ca85?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1470&q=80
-  alt: Memahami apa itu ROE dan cara menghitung roe untuk mendukung proses
-    investasi anda
-  title: Rumus mencari roe yang penting dipahami oleh para investor
+  alt: Apa itu ROE adalah cara menghitung roe untuk mendukung proses investasi Anda
+  title: Return on equity rumus yang wajib dipahami oleh para investor
 ---
-Apabila anda baru mendalami investasi, memahami apa itu *Return on Equity* (ROE) merupakan hal yang sangat penting untuk pertimbangan sebelum memutuskan akan berinvestasi atau tidak.
+Memahami apa itu ROE (*Return on Equity*) adalah hal yang sangat penting dilakukan. Hal ini karena ROE adalah rasio yang menghitung analisis untuk prospek investasi dan bisnis. 
 
-Rasio ini sering juga disebut sebagai pengembalian atas ekuitas yang membantu analisis performa suatu perusahaan. Oleh sebab itu, rasio ini sering dijadikan acuan saat menilai bagaimana kinerja keuangan dari suatu perusahaan.
+Pengertian ROE (*Return on Equity*) adalah rasio atas ekuitas yang membantu analisis performa suatu perusahaan. Karena itu, fungsi ROE sering dijadikan acuan dalam menilai kondisi keuangan dari suatu perusahaan.
 
-Agar lebih paham mari kita bahas secara lebih mendalam terkait Return on Equity (ROE).
+Agar lebih paham, berikut pengertian *Return on Equity,* cara mencari ROE yang baik, serta cara hitung ROE dalam laporan keuangan untuk pertimbangan dalam berinvestasi.
 
-## Pengertian Return on Equity (ROE)
+## Pengertian ROE (*Return on Equity*) Adalah?
 
-*Return on Equity* (ROE) adalah rasio keuangan yang digunakan rasio yang digunakan untuk melihat bagaimana kemampuan perusahaan dalam menghasilkan keuntungan atau laba bersih dari modal yang mereka miliki.
 
-Hal ini menjadi acuan bagi investor untuk melihat bagaimana kemampuan perusahaan menghasilkan keuntungan dari modal yang akan mereka tanamkan seperti melalui saham.
+
+ROE (*Return on Equity*) adalah rasio keuangan yang digunakan melihat bagaimana kemampuan perusahaan dalam menghasilkan keuntungan atau laba bersih dari modal yang mereka miliki. 
+
+Umumnya, arti ROE dalam saham adalah tolak ukur bagi investor untuk melihat bagaimana kemampuan perusahaan menghasilkan keuntungan dari modal yang akan mereka tanamkan. 
+
+
 
 Oleh sebab itu, rasio ini bisa menunjukkan bagaimana kinerja perusahaan dalam mengelola modal yang mereka miliki sehingga menghasilkan keuntungan.
 
-Sebagai salah satu rasio yang diperhatikan oleh investor, perusahaan dengan ROE yang tinggi tentu saja lebih menarik bagi investor dibandingkan perusahaan dengan ROE yang rendah.
+Sebagai salah satu rasio yang diperhatikan oleh investor, perusahaan dengan ROE yang bagus tentu saja lebih menarik bagi investor dibandingkan perusahaan dengan ROE yang rendah.
 
-Akan tetapi perbandingan ini tentu saja akan valid apabila perbandingan antar industri dalam sektor yang sama. Berikutnya, mari kita bahas cara menghitung *return on equity.*
+Akan tetapi perbandingan ini tentu saja akan valid apabila perbandingan antar industri dalam sektor yang sama. Berikutnya, mari kita bahas cara menghitung *return on equity* rumus*.*
 
 ## Cara Menghitung Return on Equity (ROE)
 
-Seperti namanya, ROE dihitung dengan membandingkan laba bersih setelah pajak dengan ekuitas yang dimiliki oleh suatu perusahaan.
+Seperti namanya, ROE (*Return on Equity*) adalah perhitungan dengan membandingkan laba bersih setelah pajak dengan ekuitas yang dimiliki oleh suatu perusahaan.
 
 Oleh sebab itu, nilai ROE dari suatu perusahaan sangat bergantung dengan berapa penghasilan perusahaan dan berapa modal yang dibutuhkan untuk menghasilkan keuntungan tersebut. Berikut rumus menghitung ROE:
 
