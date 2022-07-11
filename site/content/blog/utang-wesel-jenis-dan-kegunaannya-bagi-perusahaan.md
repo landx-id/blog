@@ -1,7 +1,7 @@
 ---
 draft: false
 author: Della Octavilia
-title: "Wesel Adalah: Memahami Fungis dan Jenis Wesel dalam Bisnis"
+title: "Wesel Adalah: Memahami Fungi dan Jenis Wesel dalam Bisnis"
 metaTitle: "Wesel Adalah: Memahami Fungis dan Jenis Wesel dalam Bisnis"
 metaDescription: surat wesel adalah surat tagihan antara pihak kreditur dengan
   pihak debitur untuk memenuhi kewajiban membayar utangnya.
