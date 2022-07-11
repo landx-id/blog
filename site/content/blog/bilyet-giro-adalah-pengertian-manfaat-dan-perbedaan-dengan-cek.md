@@ -1,18 +1,23 @@
 ---
-draft: true
+draft: false
 author: Vlora Riyandi
-title: Bilyet Giro Adalah | Pengertian, Manfaat dan Perbedaan dengan Cek
-metaTitle: Bilyet Giro Adalah | Pengertian, Manfaat dan Perbedaan dengan Cek
+title: "Bilyet Giro: Pengertian, Manfaat, Syarat, dan Bedanya dengan Cek"
+metaTitle: "Bilyet Giro: Pengertian, Manfaat, Syarat, dan Bedanya dengan Cek"
 metaDescription: Pengertian bilyet giro adalah surat perintah nasabah kepada
   bank untuk memindahkan sejumlah dana dari rekeningnya kepada rekening
   penerima.
 intro: Ketahui pengertian bilyet giro, manfaat, penggunaan bilyet giro serta
   perbedaannya dengan cek yang diterbitkan perbankan di sini.
 date: 2022-07-06T15:42:15.337Z
+tag:
+  - Surat Berharga
+category:
+  - Bisnis
+  - Keuangan
 featuredImage:
   title: Bilyet Giro Adalah | Pengertian, Manfaat dan Perbedaan dengan Cek
-  alt: Bilyet Giro Adalah
-  src: https://www.pexels.com/@matthiaszomer/
+  alt: memahami apa itu bilyet giro dan jenis-jenisnya
+  src: https://images.unsplash.com/photo-1544377193-33dcf4d68fb5?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1032&q=80
 ---
 Peran bank sangat membantu dalam menata kehidupan finansial masyarakat dan negara. Kehadiran bank dengan jasa perbankan dalam menghimpun dana serta menyalurkan dana demi jalankan fungsinya untuk menyejahterakan masyarakat.
 
@@ -55,7 +60,11 @@ Pihak yang membuat bilyet giro adalah Bank Tertarik, sehingga terdapat beberapa 
 
 ## Syarat Bilyet Giro
 
+<!--StartFragment-->
+
 ![](https://lh5.googleusercontent.com/Hcn_ofV8mCWDwkcTkeqWO9r-qnWEMitSIRZ-RIE8xOntF9YKGSywMsB-hE0MYquDtbUsm9ZRBtnBzW0rEzMeHhgpGlVGP-sA6aXD6BvYoPDzGDnoA-wLlyZ269So1etcCGib6joc2xUMYJDrs5w)
+
+<!--EndFragment-->
 
 Menghindari kekeliruan maka bersumber dari situs Bank Indonesia, bilyet giro dianggap sah apabila memiliki 10 syarat formal sebagai berikut:
 
@@ -127,3 +136,9 @@ Bagaimana?
 Keuntungan dari kepemilikan saham bisnis di [LandX](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog) adalah Anda dapat memiliki saham bisnis ternama potensial menguntungkan dan sistem bagi hasil. Dapatkan bagi hasil laba perusahaan/bisnis yang didanai sesuai kepemilikan saham Anda.
 
 ## [Yuk, Kunjungi Platform Equity Crowdfunding untuk Miliki Saham Bisnis di Sini](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)
+
+<!--StartFragment-->
+
+[![Yuk mulai patungan bisnis menguntungkan jangka panja g bersama LandX](https://accountgram-production.sfo2.cdn.digitaloceanspaces.com/landx_ghost/2021/09/Equity-Crowdfunding-di-Indonesia-1--3.png)](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)
+
+<!--EndFragment-->
