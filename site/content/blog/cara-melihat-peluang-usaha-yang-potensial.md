@@ -1,17 +1,23 @@
 ---
 draft: false
 author: Vlora Riyandi
-title: Cara Melihat Peluang Usaha yang Potensial
-metaTitle: Cara Melihat Peluang Usaha yang Potensial | LandX
+title: Simak Strategi dam Cara  Analisis Peluang Usaha untuk Ide Bisnis Anda
+metaTitle: Simak Strategi dam Cara  Analisis Peluang Usaha untuk Ide Bisnis Anda
 metaDescription: Peluang usaha adalah sebuah kesempatan untuk memulai suatu ide
   bisnis, memasuki sektor pekerjaan baru, atau meluncurkan produk baru di pasar.
 intro: Dapatkan informasi yang diperlukan dalam menciptakan peluang usaha dan
   sumber peluang usaha yang potensial, serta tips bisnis bertahan jangka
   panjang.
-date: 2022-07-10T16:05:10.775Z
+date: 2022-07-11T05:16:30.034Z
+tag:
+  - Peluang Bisnis
+  - Peluang Usaha
+  - Bisnis Jangka Panjang
+category:
+  - Bisnis
 featuredImage:
   title: Cara Melihat Peluang Usaha yang Potensial dan Bertahan Jangka Panjang
-  src: https://unsplash.com/photos/7KkDiSs5UdQ
+  src: https://images.unsplash.com/photo-1573612664822-d7d347da7b80?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80
   alt: Cara Melihat Peluang Usaha yang Potensial, Tips Bisnis Jangka Panjang
 ---
 Berbagai jenis usaha selalu tumbuh setiap waktunya mengikuti tren dan kebutuhan yang ada. Banyak bisnis rumahan kecil dulunya, kini telah berhasil menjadi bisnis yang diminati sejumlah besar basis pelanggan, bisa jadi Anda adalah salah satu pelanggannya.
@@ -22,7 +28,7 @@ Peluang usaha adalah sebuah kesempatan yang bisa dimanfaatkan untuk mendapat keu
 
 Untuk membantu Anda menemukan jawaban terkait peluang usaha yang potensial serta cara analisis peluang usaha, mari jelajahi artikel ini.
 
-## Peluang Usaha
+## Peluang Usaha Adalah
 
 Melihat peluang usaha menjadi hal yang cukup sulit bagi pemula dunia bisnis. Kemampuan melihat peluang usaha yang potensial nyatanya adalah modal awal dari sebuah bisnis yang sukses. 
 
@@ -98,7 +104,7 @@ Anda dapat menganalisis peluang usaha dari sumber informasi data primer atau lan
 * Menganalisis kompetitor dalam bertindak pasa pasar
 * Membantu melihat celah inovasi agar lebih hadir berdampak (big impact)
 
-**Cara melakukan market research** yaitu:
+**Cara melakukan market research yaitu:**
 
 1. Analisis Tren Industri
 
@@ -115,3 +121,9 @@ Kondisi pandemi dulu telah dapat menjadi gambaran bagi Anda pemula bisnis tentan
 Market research tidak hanya berlaku bagi perseorangan yang baru ingin buka usaha. Tetapi juga akan memiliki manfaat pada pelaku bisnis yang ada dalam skala kecil maupun perusahaan besar. Terutama jika perusahaan ingin melakukan ekspansi, tentu akan membutuhkan informasi mengenai target lokasi dan pasar agar diminati target konsumen.
 
 ## [Bagi Pengusaha Bisnis yang Ingin Ekspansi, Yuk Ekspansi Bersama LandX](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)
+
+<!--StartFragment-->
+
+[![Yuk mulai patungan bisnis menguntungkan jangka panja g bersama LandX](https://accountgram-production.sfo2.cdn.digitaloceanspaces.com/landx_ghost/2021/09/Equity-Crowdfunding-di-Indonesia-1--3.png)](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)
+
+<!--EndFragment-->
