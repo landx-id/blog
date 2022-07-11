@@ -1,5 +1,5 @@
 ---
-draft: true
+draft: false
 author: Nadya A. Faatihah
 title: "Revenue Stream Adalah: Memahami Jenis dan Kategori Revenue Stream"
 metaTitle: Memahami Apa Itu Revenue Streams Dalam Bisnis yang Perlu anda Pahami
@@ -14,10 +14,13 @@ intro: "Revenue stream adalah seluruh transaksi perusahaan yang menghasilkan
 date: 2022-07-09T14:23:09.945Z
 tag:
   - Bisnis Jangka Panjang
+  - Memulai Bisnis
+category:
+  - Bisnis
 featuredImage:
   src: https://images.unsplash.com/photo-1613186187355-04873a327675?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80
-  alt: Arti Revenue Stream dalam Bisnis
-  title: Revenue Stream dalam Bisnis
+  alt: Arti Revenue Stream dalam Bisnis dan BMC
+  title: Revenue Stream dalam BMC yang penting untuk dipahami dengan baik
 ---
 <!--StartFragment-->
 
@@ -39,7 +42,7 @@ Fungsi aliran dana atau revenue stream adalah penentu kegiatan produksi, distrib
 
 *Business Model Canvas* atau BMC adalah secarik dokumen yang digunakan untuk mendefinisikan serta mengomunikasikan ide atau konsep bisnis. Sebagai ilustrasi, skema revenue stream dalam BMC adalah sebagai berikut.
 
-![Revenue Stream dalam BMC]( "Revenue Stream dalam BMC")
+![Revenue Stream dalam BMC](https://media.discordapp.net/attachments/977943413909487668/995387415000776766/Revenue_Stream_dalam_BMC.PNG "Revenue Stream dalam BMC")
 
 Agar dapat memahami keterkaitan antara revenue stream dan komponen lain dalam skema BMC di atas, maka sebaiknya Anda memahami komponen dalam BMC dahulu. Berikut adalah penjelasan lengkapnya.
 
@@ -144,5 +147,9 @@ Dengan diiringi perkembangan bisnis dari suntikan dana yang didapatkan bisnis UM
 Jadi, tunggu apa lagi? Segera cari peluang bisnis potensial ideal Anda untuk *passive income* di masa depan bersama platform equity crowdfunding yang telah mengantongi izin OJK seperti [LandX](https://landx.id/)!
 
 ## [Jadi Bos Bisnis UMKM dengan Revenue Stream Menjanjikan? Yuk, Investasi Lewat LandX Sekarang!](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)
+
+<!--StartFragment-->
+
+[![Yuk mulai patungan bisnis menguntungkan jangka panja g bersama LandX](https://accountgram-production.sfo2.cdn.digitaloceanspaces.com/landx_ghost/2021/09/Equity-Crowdfunding-di-Indonesia-1--3.png)](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)
 
 <!--EndFragment-->
