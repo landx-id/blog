@@ -1,8 +1,8 @@
 ---
 draft: true
 author: Nadya A. Faatihah
-title: "Revenue Stream Adalah: Panduan Revenue Streams dalam Bisnis"
-metaTitle: Apa Itu Revenue Stream dalam Bisnis?
+title: "Revenue Stream Adalah: Memahami Jenis dan Kategori Revenue Stream"
+metaTitle: Memahami Apa Itu Revenue Streams Dalam Bisnis yang Perlu anda Pahami
 metaDescription: Revenue stream adalah komponen yang menjamin profit bagi
   jalannya bisnis perusahaan. Simak fungsi revenue stream dan penjelasan
   lengkapnya!
@@ -12,6 +12,8 @@ intro: "Revenue stream adalah seluruh transaksi perusahaan yang menghasilkan
   pemasukan dari franchise, hak cipta, atau paten, atau pun pemasukan rutin dari
   cabang bisnis. "
 date: 2022-07-09T14:23:09.945Z
+tag:
+  - Bisnis Jangka Panjang
 featuredImage:
   src: https://images.unsplash.com/photo-1613186187355-04873a327675?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80
   alt: Arti Revenue Stream dalam Bisnis
