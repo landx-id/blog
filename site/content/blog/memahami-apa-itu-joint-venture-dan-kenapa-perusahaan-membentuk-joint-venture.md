@@ -29,7 +29,7 @@ category:
 ---
 Dalam dunia bisnis, kamu pasti pernah mendengar istilah joint venture atau [perusahaan patungan](https://landx.id/project/) yang merupakan strategi yang diambil beberapa perusahaan.
 
-Apa itu joint venture?
+Apa itu joint venture dan contohnya?
 
 Joint venture adalah kesepakatan antara dua perusahaan atau lebih untuk melakukan kegiatan bisnis dengan membentuk perusahaan baru. Contoh joint venture di Indonesia adalah IBC atau Indonesia Battery Corporation. Perusahaan IBC terdiri dari Mining Industry Indonesia (MIND ID), Aneka Tambang (ANTAM), Pertamina, dan Perusahaan Listrik Negara (PLN).
 
@@ -47,7 +47,7 @@ Pertama, mari kita bahas pengertian joint venture.
 
 Joint venture adalah perusahaan patungan yang terbentuk dari kerja sama antara dua atau lebih entitas bisnis dengan menyatukan sumber daya dan modal yang dimiliki dalam rangka mencapai suatu tujuan yang berbentuk proyek atau bisnis baru.
 
-Karena joint venture merupakan perusahaan yang terbentuk dari patungan dua bisnis atau lebih, maka strategi ini dilakukan berbagai risiko dan kerugian akan ditanggung bersama-sama oleh pihak yang terlibat.
+Karena joint venture contoh perusahaan yang terbentuk dari patungan dua bisnis atau lebih, maka strategi ini dilakukan berbagai risiko dan kerugian akan ditanggung bersama-sama oleh pihak yang terlibat.
 
 Perusahaan yang tergabung dalam usaha patungan joint venture berasal dari dalam negeri dan perusahaan asal luar negeri.  Hasil bentuk perusahaan joint venture akan menjadi cikal bakal perusahaan multinasional.
 
@@ -57,7 +57,7 @@ Perjanjian kerja sama ini biasanya memilki jangka waktu tertentu dan akan selesa
 
 ## Contoh Joint Venture di Indonesia
 
-Setelah paham konsep usaha patungan joint venture atau perusahaan patungan, mari kita lihat contoh joint venture di Indonesia.
+Setelah paham konsep usaha patungan joint venture atau perusahaan patungan, mari kita lihat contoh perusahaan joint venture di Indonesia.
 
 1. ### IBC - Indonesia Battery Corporation
 
@@ -69,7 +69,7 @@ Salah satunya perusahaan bisnis patungan IBC dengan LG (Korea) dan CATL, (perusa
 
 2. ### Platform Metaverse Indonesia - PT Metaverse Indonesia Makmur (MIM
 
-PT Metaverse Indonesia Makmur (MIM) adalah perusahaan joint venture antara perusahaan teknologi yang baru melantai di Bursa Efek Indonesia (BEI) yaitu PT Wir Asia Tbk (WIRG) dengan anak perusahaan konglomerat Salim Group
+PT Metaverse Indonesia Makmur (MIM) adalah perusahaan joint venture contoh antara perusahaan teknologi yang baru melantai di Bursa Efek Indonesia (BEI) yaitu PT Wir Asia Tbk (WIRG) dengan anak perusahaan konglomerat Salim Group
 
 Baca juga: [Mengenal Bisnis 9 Orang Terkaya di Indonesia](https://landx.id/blog/9-naga-atau-9-orang-terkaya-di-indonesia/)
 
@@ -97,6 +97,19 @@ Walaupun sekilias terlihat sama, joint venture dan partnership merupakan dua kon
 
 Joint venture memiliki sistem yang lebih komplek karena kerja sama ini merupakan penggabungan dua atau lebih entitas bisnis yang akhirnya membentuk suatu entitas bisnis baru. Jadi bisa dipastikan bahwa joint venture pasti menghasilkan suatu entitas bisnis baru yang merupakan hasil dari kolaborasi beberapa perusahaan.
 
+## Perbedaan Joint Venture dan Strategic Alliances dan Akuisisi
+
+Sama-sama bentuk kolaborasi sumber daya dan kerja sama dua perusahaan atau lebih, nyatanya terdapat perbedaan antara joint venture dengan strategic alliance serta dengan bentuk akuisisi perusahaan.
+
+Untuk memahami perbedaannya, mari kita bahas pengertian masing-masing:
+
+* Joint venture adalah kesepakatan antara dua perusahaan atau lebih untuk melakukan kegiatan bisnis dengan membentuk perusahaan baru
+* Strategic alliance adalah kerja sama dua perusahaan untuk melakukan proyek bisnis yang saling menguntungkan dengan mempertahankan independensi bisnis. Aliansi strategis adalah proyek kerja sama tanpa menciptakan entitas bisnis baru.\
+  Strategic alliance contoh perusahaannya yaitu aliansi Gojek dengan Blue Bird dalam menjalankan strategi integrasi pemesanan dan pembayaran mulai tahun 2020. Contoh aliansi bisnis lainnya yaitu Indomie rasa Chitato dan Chitato varian rasa Indomie yang viral pada tahun 2016.
+* Akuisisi adalah pengambilalihan saham perusahaan sebagian (besar dari 50%) atau sepenuhnya oleh suatu perusahaan lainnya. Dampak akuisisi adalah peralihan pengendalian perusahaan.Contoh akuisisi adalah pembelian asisten virtual Siri oleh Apple pada tahun 2010.
+
+Jadi, perbedaan joint venture dengan strategic alliance dan akuisisi adalah pada joint venture tercipta entitas bisnis baru, sedangkan pada strategic alliance dan akuisisi tidak.
+
 ## Alasan Kenapa Joint Venture Dilakukan
 
 ### 1. Pengoptimalan Sumber Daya
@@ -113,7 +126,7 @@ Perusahaan patungan biasanya juga dibentuk dengan tujuan menghemat biaya yang ha
 
 ### 4. Menciptakan Inovasi Produk Baru
 
-Join venture biasanya menghasilkan produk dengan inovasi terbaru yang dihasilkan dari kolaborasi berbagai pihak. Karena itu JV menjadi salah satu cara perusahaan untuk menghasilkan produk dengan inovasi baru yang dibutuhkan oleh pasar.
+Joint venture biasanya menghasilkan produk dengan inovasi terbaru yang dihasilkan dari kolaborasi berbagai pihak. Karena itu JV menjadi salah satu cara perusahaan untuk menghasilkan produk dengan inovasi baru yang dibutuhkan oleh pasar.
 
 ### 5. Memasuki Pasar yang Lebih Luas
 
