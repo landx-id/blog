@@ -58,8 +58,6 @@ Merujuk pada rumus cara hitung ROE, hasilnya adalah sebagai berikut:
 
 **ROE = Rp2.000.000 / Rp10.000.000 = 20 %**
 
-
-
 Artinya perusahaan A mampu menghasilkan nilai ROE sebanyak 20%. Untuk menentukan apakah nilai ini cukup baik atau tidak, Anda sebaiknya membandingkan dengan perusahaan lain dari sektor bisnis sejenis sehingga Anda bisa melihat apakah perusahaan ini lebih unggul dibandingkan pesaing mereka.
 
 Lebih lengkapnya, berikut cara membandingkan ROE yang bagus
@@ -80,7 +78,7 @@ Perusahaan dengan ROE yang tinggi tentu saja lebih menarik dibandingkan dengan p
 
 Sebagai gambaran, berikut adalah contoh cara hitung ROE (Return of Equity) yang membandingkan dua perusahaan dan prospek investasinya di masa depan.
 
-![Perbandingan Cara Menghitung ROE (return on equity) ]( "Perbandingan Cara Menghitung ROE (return on equity) ")
+![Perbandingan Cara Menghitung ROE (return on equity) ](https://media.discordapp.net/attachments/977943413909487668/995387415000776766/Revenue_Stream_dalam_BMC.PNG "Perbandingan Cara Menghitung ROE (return on equity) ")
 
 ## Pentingnya Analisis ROE dalam Investasi
 
