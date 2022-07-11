@@ -60,12 +60,16 @@ Saat sebuah brand sudah memiliki brand identity yang kuat, selain menjadi pembed
 
 Dengan logo snowman unik dan berwarna merah terang, disertai dengan harga produk murah namun bercita rasa mewah, tak heran brand Ice Cream Mixue hingga saat ini masih sering viral. Hal tersebutlah yang menjadikan brand Ice Cream Mixue memiliki daya tarik tersendiri. Alhasil, brand ini populer untuk konsumen baru dan dengan cepat mendatangkan konsumen loyal dengan prospek bisnis berkelanjutan yang menjanjikan.
 
-## Investasi Mixue Indonesia Lewat Crowdfunding 
+## Investasi Bisnis Lewat Crowdfunding 
 
-Jika mendirikan franchise Ice Cream Mixue membutuhkan biaya ratusan juta, sekarang terdapat peluang menjadi bos bisnis Ice Cream Mixue dengan modal yang terjangkau. Dengan skema equity crowdfunding, Anda bisa mulai mencari peluang bisnis hanya dengan modal Rp1 jutaan, termasuk berinvestasi di bisnis potensial seperti Mixue Ice Cream. 
+Jika mendirikan franchice membutuhkan biaya ratusan juta, sekarang terdapat peluang menjadi bos bisnis dengan modal yang terjangkau. Dengan skema equity crowdfunding, Anda bisa mulai mencari peluang bisnis hanya dengan modal Rp1 jutaan. 
 
 Tentunya, pastikan untuk memilih platform **[equity crowdfunding](https://landx.id/)** berpengalaman, terpercaya, dan telah mengantongi izin dari OJK seperti** [LandX](https://landx.id/)** ya!
 
 ## [Jadi Bos Bisnis dengan Modal 1 Juta, Nantikan Peluangnya di LandX!](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)
 
-![Cara Punya Bisnis Mixue modal 1 juta](https://media.discordapp.net/attachments/913743599844343808/988457806069919764/AnyConv.com__LandX_Mixue_1080-x-565px_B.webp?width=1057&height=553 "modal 1 juta punya mixue")
+<!--StartFragment-->
+
+[![Yuk mulai patungan bisnis menguntungkan jangka panja g bersama LandX](https://accountgram-production.sfo2.cdn.digitaloceanspaces.com/landx_ghost/2021/09/Equity-Crowdfunding-di-Indonesia-1--3.png)](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)
+
+<!--EndFragment-->
