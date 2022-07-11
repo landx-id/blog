@@ -1,13 +1,17 @@
 ---
-draft: true
+draft: false
 author: Della Octavilia
-title: "Utang Wesel: Jenis dan Kegunaannya Bagi Perusahaan"
-metaTitle: "Utang Wesel: Jenis dan Kegunaannya Bagi Perusahaan"
+title: "Wesel Adalah: Memahami Fungis dan Jenis Wesel dalam Bisnis"
+metaTitle: "Wesel Adalah: Memahami Fungis dan Jenis Wesel dalam Bisnis"
 metaDescription: surat wesel adalah surat tagihan antara pihak kreditur dengan
   pihak debitur untuk memenuhi kewajiban membayar utangnya.
 intro: Apa itu surat wesel? surat wesel adalah surat tagihan antara pihak
   kreditur dengan pihak debitur untuk memenuhi kewajiban membayar utangnya.
 date: 2022-07-08T04:21:00.163Z
+tag:
+  - Surat Berharga
+category:
+  - Bisnis
 featuredImage:
   title: "Utang Wesel: Jenis dan Kegunaannya Bagi Perusahaan"
   alt: pengertian wesel
@@ -147,9 +151,19 @@ Semua syarat ini harus ada dalam surat wesel, jika salah satu syarat tidak ada, 
 
 Berikut ini contoh surat wesel yang dikeluarkan oleh PT. Pos Indonesia.
 
+<!--StartFragment-->
+
 ![](https://lh4.googleusercontent.com/Q4pDQsgXTxYrToLsTgOHRmFLvsvkPn_Nv7qDqbWvOrftCMzJmXoaYc022b2VH5VGuuyoP3g5d192qc3q9P2MbkIs_Idu7GrXvDaQtqoqqieYhNa5VrJuuQPSjtiFxCH9AUeyiOlPT2LpHOiseFI)
 
+<!--EndFragment-->
+
+<!--StartFragment-->
+
 ![](https://lh3.googleusercontent.com/mGrwpccNcoCQ19W3ujo1jC12MvmurMrvfzkCXK7-RzqoK0YoQ84vJnbxwOhEijLKZxs9hUwX6KHECVLYQZMyYXl4_v_dZcRYVBhrx2ke-g0A7kGMJBddZn4UhYKpJFvtqbBrWMNxQt7WYN1fJ6A)
+
+<!--EndFragment-->
+
+
 
 Dua gambar ini merupakan contoh surat wesel, baik yang masih kosong dan yang sudah terisi. Jadi, kalian sudah mengetahui kan apa itu wesel?
 
@@ -172,3 +186,9 @@ Kalian juga akan mendapatkan keuntungan dari [equity crowdfunding](https://landx
 [LandX](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog), platform [equity crowdfunding](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog) terpercaya, transparan, dan telah memiliki izin dari Otoritas Jasa Keuangan (OJK). Kalian bisa mendapatkan keuntungan besar dan modal kecil.
 
 ## [Jadi Tunggu Apalagi, Danai Bisnis Impianmu di LandX Sekarang Juga, Ya!](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)
+
+<!--StartFragment-->
+
+[![Yuk mulai patungan bisnis menguntungkan jangka panja g bersama LandX](https://accountgram-production.sfo2.cdn.digitaloceanspaces.com/landx_ghost/2021/09/Equity-Crowdfunding-di-Indonesia-1--3.png)](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)
+
+<!--EndFragment-->
