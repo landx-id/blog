@@ -4,37 +4,40 @@ author: Abdul Wahhab
 slug: memahami-apa-itu-joint-venture-dan-kenapa-perusahaan-membentuk-joint-venture
 title: Memahami Apa Itu Joint Venture dan Kenapa Perusahaan Joint Venture
 metaTitle: Memahami Apa Itu Joint Venture dan Kenapa Perusahaan Joint Venture
-metaDescription: Joint venture atau perusahaan patungan adalah perusahaan yang
-  terbentuk  dari kolaborasi dua perusahaan hingga menghasilkan satu perusahaan
-  baru
+metaDescription: "Apa itu joint venture dan contoh joint venture di Indonesia?
+  Joint venture adalah gabungan 2 perusahaan untuk melakukan kegiatan bisnis
+  bersama. "
 intro: >-
   Joint venture adalah strategi yang dilakukan untuk berbagai tujuan seperti
   ekspansi pasar baru atau pengembangan produk baru yang dilakukan dengan
   kolaborasi sumber daya yang dimiliki oleh kedua belah pihak.
 
 
-  Supaya lebih paham lagi tentang apa yang dimaksud dengan joint venture dan bagaimana contoh joint venture, yuk simak penjelasan di bawah ini.
+  Pahami lebih lanjut apa itu joint venture dan contoh joint venture di Indonesia dengan simak penjelasan di bawah ini.
 date: 2021-10-17T07:45:00.000Z
 tag:
   - tips investasi
   - bisnis patungan
 featuredImage:
   src: https://images.unsplash.com/photo-1549923746-c502d488b3ea?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxMTc3M3wwfDF8c2VhcmNofDJ8fGpvaW50JTIwdmVudHVyZXxlbnwwfHx8fDE2NDAxNDc4NTA&ixlib=rb-1.2.1&q=80&w=1080
-  alt: Memahami apa itu joint venture atau perusahaan patungan
+  alt: apa itu joint venture atau perusahaan patungan, contoh joint venture di
+    indonesia
   title: Pembentukan perusahaan patungan atau joint venture
 image: https://images.unsplash.com/photo-1549923746-c502d488b3ea?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxMTc3M3wwfDF8c2VhcmNofDJ8fGpvaW50JTIwdmVudHVyZXxlbnwwfHx8fDE2NDAxNDc4NTA&ixlib=rb-1.2.1&q=80&w=1080
 category:
   - Bisnis
 ---
-Dalam dunia bisnis, kamu pasti pernah mendengar istilah joint venture atau [perusahaan patungan](https://landx.id/project/) yang dilakukan merupakan kebijakan yang diambil beberapa perusahaan belakangan ini.
+Dalam dunia bisnis, kamu pasti pernah mendengar istilah joint venture atau [perusahaan patungan](https://landx.id/project/) yang merupakan strategi yang diambil beberapa perusahaan.
 
-Joint venture adalah kerja sama yang dilakukan oleh dua atau lebih perusahaan untuk mencapai suatu tujuan yang telah disepakati oleh semua pihak yang terlibat dalam kerja sama ini.
+Apa itu joint venture?
 
-Joint venture adalah strategi yang dilakukan untuk berbagai tujuan seperti ekspansi pasar baru atau pengembangan produk baru yang dilakukan dengan kolaborasi sumber daya yang dimiliki oleh kedua belah pihak.
+Joint venture adalah kesepakatan antara dua perusahaan atau lebih untuk melakukan kegiatan bisnis dengan membentuk perusahaan baru. Contoh joint venture di Indonesia adalah IBC atau Indonesia Battery Corporation. Perusahaan IBC terdiri dari Mining Industry Indonesia (MIND ID), Aneka Tambang (ANTAM), Pertamina, dan Perusahaan Listrik Negara (PLN).
 
-Istilah joint venture juga sering disebut perusahaan patungan karena suatu perusahaan atau proyek yang dijalankan merupakan hasil kolabolasi dari dua perusahaan.
+Joint venture adalah strategi yang dilakukan untuk berbagai tujuan seperti ekspansi pasar baru atau pengembangan produk baru. Perusahaan joint venture melakukan kolaborasi sumber daya yang dimiliki oleh setiap pihak terkait.
 
-Supaya lebih paham lagi tentang apa yang dimaksud dengan joint venture dan bagaimana  contoh joint venture, yuk simak penjelasan di bawah ini.
+Perusahaan joint venture juga sering disebut perusahaan patungan karena suatu perusahaan atau proyek yang dijalankan merupakan hasil gabungan kolaborasi dari dua perusahaan.
+
+Supaya lebih paham lagi tentang apa itu joint venture dan contoh perusahaan joint venture, yuk simak penjelasan di bawah ini.
 
 - - -
 
@@ -42,7 +45,7 @@ Supaya lebih paham lagi tentang apa yang dimaksud dengan joint venture dan bagai
 
 Pertama, mari kita bahas pengertian joint venture.
 
-Joint venture adalah suatu perusahaan patungan yang terbentuk dari kerja sama antara dua atau lebih entitas bisnis untuk menyatukan sumber daya yang mereka miliki dalam rangka mencapai suatu tujuan yang bisa berbentuk suatu proyek atau bisnis baru.
+Joint venture adalah perusahaan patungan yang terbentuk dari kerja sama antara dua atau lebih entitas bisnis dengan menyatukan sumber daya dan modal yang dimiliki dalam rangka mencapai suatu tujuan yang berbentuk proyek atau bisnis baru.
 
 Karena joint venture merupakan perusahaan yang terbentuk dari patungan dua bisnis, maka strategi ini dilakukan berbagai risiko dan kerugian akan ditanggung bersama-sama oleh pihak yang terlibat.
 
