@@ -1,7 +1,7 @@
 ---
-draft: true
+draft: false
 author: Della Octavilia
-title: "Cara Membuat Proposal Usaha yang Dilirik Para Investor "
+title: Simak Cara Membuat Proposal Pengajuan Dana untuk Investor
 metaTitle: Cara Membuat Proposal Usaha yang Dilirik Para Investor Bisnis
 metaDescription: Proposal usaha adalah dokumen yang dibuat oleh pengusaha
   mengenai bisnis yang dimiliki dengan tujuan  untuk menarik investor agar
@@ -10,9 +10,14 @@ intro: Apa itu proposal usaha? Proposal usaha adalah sebuah dokumen yang dibuat
   oleh pengusaha mengenai bisnis yang dimiliki dan memiliki tujuan  untuk
   menarik investor agar menanamkan modalnya.
 date: 2022-07-06T15:55:16.458Z
+tag:
+  - Investor Pemula
+  - Bisnis Menguntungkan
+category:
+  - Bisnis
 featuredImage:
-  title: "Cara Membuat Proposal Usaha yang Dilirik Para Investor "
-  alt: proposal investor bisnis
+  title: Cara membuat proposal investor yang penting untuk anda pahami dengan baik
+  alt: cara membuat proposal investor untuk pengajuan pendanaan bisnis
   src: img/proposal-investasi.jpg
 ---
 Membuat proposal usaha atau bisnis sangat penting dilakukan agar investor tertarik menanamkan modalnya di perusahaan, apalagi bagi perusahaan baru.
@@ -180,3 +185,9 @@ Kalian juga akan mendapatkan keuntungan dari [equity crowdfunding](https://landx
 [LandX](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog), platform [equity crowdfunding](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog) terpercaya, transparan, dan telah memiliki izin dari Otoritas Jasa Keuangan (OJK). Kalian bisa mendapatkan keuntungan besar dan modal kecil.
 
 ## [Raih Berbagai Keuntungan Besar Dengan Investasi di LandX Sekarang Juga!](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)
+
+<!--StartFragment-->
+
+[![Yuk mulai patungan bisnis menguntungkan jangka panja g bersama LandX](https://accountgram-production.sfo2.cdn.digitaloceanspaces.com/landx_ghost/2021/09/Equity-Crowdfunding-di-Indonesia-1--3.png)](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)
+
+<!--EndFragment-->
