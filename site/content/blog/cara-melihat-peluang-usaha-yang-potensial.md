@@ -1,7 +1,7 @@
 ---
 draft: false
 author: Vlora Riyandi
-title: Simak Strategi dam Cara  Analisis Peluang Usaha untuk Ide Bisnis Anda
+title: Simak Strategi dan Cara  Analisis Peluang Usaha untuk Ide Bisnis Anda
 metaTitle: Simak Strategi dam Cara  Analisis Peluang Usaha untuk Ide Bisnis Anda
 metaDescription: Peluang usaha adalah sebuah kesempatan untuk memulai suatu ide
   bisnis, memasuki sektor pekerjaan baru, atau meluncurkan produk baru di pasar.
