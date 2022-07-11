@@ -1,14 +1,19 @@
 ---
-draft: true
+draft: false
 author: Nadya A. Faatihah
 title: Apa Fungsi Analisis Regresi dalam Investasi? Ini Penjelasannya!
-metaTitle: " Apa Fungsi Analisis Regresi Dalam Pengambilan Keputusan Investasi?"
+metaTitle: Yuk Pahami Apa Fungsi Analisis Regresi Dalam Investasi
 metaDescription: Mengapa belajar fungsi analisis regresi dalam investasi
   penting? Simak penjelasan lengkapnya lewat artikel ini!
 intro: "Analisis regresi dalam investasi digunakan untuk menentukan hubungan
   antara variabel dependen dan independen serta pengaruh yang disebabkan oleh
   variabel tersebut. "
 date: 2022-07-06T17:38:54.228Z
+tag:
+  - Tips Investasi
+  - Investasi untuk Pemula
+category:
+  - Investasi
 featuredImage:
   src: https://images.unsplash.com/photo-1432888498266-38ffec3eaf0a?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=874&q=80
   alt: Analisis Regresi dalam Pengambilan Keputusan Investasi
@@ -52,7 +57,7 @@ Regresi linear atauegresi sederhana yang umumnya digunakan untuk melakukan anali
 
 Secara sederhana, regresi linear digunakan untuk menganalisis keterkaitan dan pengaruh variabel X terhadap Y. Regresi linear juga dapat memiliki lebih dari satu variabel X. Rumus regresi linear adalah seperti di bawah ini:
 
-![Rumus Regresi Linear]( "Rumus Regresi Linear")
+![Rumus Regresi Linear dalam investasi](https://media.discordapp.net/attachments/976381310857773066/994299864399757382/Rumus_Regresi_Linear.PNG "cara perhitungan Rumus Regresi Linear")
 
 ### 2. Regresi Polinomial
 
@@ -60,7 +65,7 @@ Regresi polinomial adalah metode regresi untuk menyesuaikan persamaan non linier
 
 Biasanya juga, regresi polinomial digambarkan dengan grafik curvilinear atau melengkung. Berikut adalah rumus regresi polimonial:
 
-![Rumus Regresi Polinomial]( "Rumus Regresi Polinomial")
+![Rumus Regresi Polinomial yang penting untuk kamu hitung](https://media.discordapp.net/attachments/976381310857773066/994299864605274132/Rumus_Regresi_Polinomial.PNG "Analisis regresi yang penting dipahami oleh pemula")
 
 ## Manfaat Analisis Regresi dalam Investasi
 
@@ -117,5 +122,9 @@ Nah, itu dia penjelasan mengenai apa itu regresi, macam-macam analisis regresi, 
 Tentunya, bagi investor analisis regresi linear sederhana terhadap faktor-faktor tertentu di pasar aset investasi dapat membantu penyusunan strategi yang paling tepat dan efisien untuk menghasilkan keuntungan yang optimal.
 
 ## [Ingin Jadi Bos Bisnis Potensial Dengan Modal 1 Jutaan? Yuk, Investasi di LandX Sekarang](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)[!](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)
+
+<!--StartFragment-->
+
+[![Yuk mulai patungan bisnis menguntungkan jangka panja g bersama LandX](https://accountgram-production.sfo2.cdn.digitaloceanspaces.com/landx_ghost/2021/09/Equity-Crowdfunding-di-Indonesia-1--3.png)](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)
 
 <!--EndFragment-->
