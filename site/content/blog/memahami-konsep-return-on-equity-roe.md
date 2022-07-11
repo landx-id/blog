@@ -32,13 +32,9 @@ Agar lebih paham, berikut pengertian *Return on Equity,* cara mencari ROE yang b
 
 ## Pengertian ROE (*Return on Equity*) Adalah?
 
-
-
 ROE (*Return on Equity*) adalah rasio keuangan yang digunakan melihat bagaimana kemampuan perusahaan dalam menghasilkan keuntungan atau laba bersih dari modal yang mereka miliki. 
 
 Umumnya, arti ROE dalam saham adalah tolak ukur bagi investor untuk melihat bagaimana kemampuan perusahaan menghasilkan keuntungan dari modal yang akan mereka tanamkan. 
-
-
 
 Oleh sebab itu, rasio ini bisa menunjukkan bagaimana kinerja perusahaan dalam mengelola modal yang mereka miliki sehingga menghasilkan keuntungan.
 
@@ -50,33 +46,41 @@ Akan tetapi perbandingan ini tentu saja akan valid apabila perbandingan antar in
 
 Seperti namanya, ROE (*Return on Equity*) adalah perhitungan dengan membandingkan laba bersih setelah pajak dengan ekuitas yang dimiliki oleh suatu perusahaan.
 
-Oleh sebab itu, nilai ROE dari suatu perusahaan sangat bergantung dengan berapa penghasilan perusahaan dan berapa modal yang dibutuhkan untuk menghasilkan keuntungan tersebut. Berikut rumus menghitung ROE:
+Oleh sebab itu, cara mencari ROE dari suatu perusahaan sangat bergantung dengan berapa penghasilan perusahaan dan berapa modal yang dibutuhkan untuk menghasilkan keuntungan tersebut. Rumus ROE adalah sebagai berikut.
 
-![Cara-menghitung-ROE--Return-on-Equity----Laba-bersih-setelah-pajak-ekuitas](https://accountgram-production.sfo2.cdn.digitaloceanspaces.com/landx_ghost/2021/09/Cara-menghitung-ROE--Return-on-Equity----Laba-bersih-setelah-pajak-ekuitas.png "Cara menghitung ROE agar analisis investasi menjadi lebih mudah")
+![Cara-menghitung-ROE--Return-on-Equity----Laba-bersih-setelah-pajak-ekuitas](https://accountgram-production.sfo2.cdn.digitaloceanspaces.com/landx_ghost/2021/09/Cara-menghitung-ROE--Return-on-Equity----Laba-bersih-setelah-pajak-ekuitas.png "Cara menghitung ROE (return on equity) agar analisis investasi menjadi lebih mudah")
 
-**Contoh**:
+Contoh ilustrasi cara menghitung return of investment (ROE) adalah sebagai berikut:
 
-Perusahaan X menghasilkan laba bersih setelah pajak sebesar 1.000.000.000 dengan total ekuitas 500.000.000. Maka nilai ROE dari perusahaan ini adalah:
+**Perusahaan A membutuhkan modal awal sebanyak Rp10.000.000. Dalam satu tahun usahanya berjalan, Perusahaan A mendapatkan keuntungan bersih (keuntungan yang sudah dikurangi oleh biaya-biaya dan pajak) sebesar Rp 2.000.000,00.**
 
-ROE = 1.000.000.000 / 500.000.000
+Merujuk pada rumus cara hitung ROE, hasilnya adalah sebagai berikut:
 
-ROE = 2 atau 200%
+**ROE = Rp2.000.000 / Rp10.000.000 = 20 %**
 
-Artinya perusahaan ini mampu menghasilkan keuntungan sebesar sebanyak 2 dari modal yang mereka miliki. Untuk menentukan apakah nilai ini cukup baik atau tidak, anda sebaiknya membandingkan dengan perusahaan lain dari sektor bisnis sejenis sehingga anda bisa melihat apakah perusahaan ini lebih unggul dibandingkan pesaing mereka.
 
-Lebih lengkapnya, berikut cara membandingkan ROE
 
-## Cara Melakukan Analisis ROE
+Artinya perusahaan A mampu menghasilkan nilai ROE sebanyak 20%. Untuk menentukan apakah nilai ini cukup baik atau tidak, Anda sebaiknya membandingkan dengan perusahaan lain dari sektor bisnis sejenis sehingga Anda bisa melihat apakah perusahaan ini lebih unggul dibandingkan pesaing mereka.
 
-Apabila anda sedang menganalisis suatu bisnis atau perusahaan untuk berinvestasi, anda bisa menggunakan angka ROE untuk melihat apakah perusahaan sudah menggunakan modal mereka secara efisien atau belum.
+Lebih lengkapnya, berikut cara membandingkan ROE yang bagus
+
+## Cara Mencari ROE
+
+Apabila Anda sedang menganalisis suatu bisnis atau perusahaan untuk berinvestasi, Anda bisa menggunakan angka ROE untuk melihat apakah perusahaan sudah menggunakan modal mereka secara efisien atau belum.
 
 Karena itu, salah satu cara yang bisa anda lakukan adalah dengan membandingkan nilai ROE perusahaan dalam 5 tahun belakangan sebagai proyeksi untuk melihat bagaimana potensi perusahaan di masa mendatang berdasarkan kinerja mereka 5 tahun terakhir. Cara ini akan membantu anda melihat bagaimana pertumbuhan ROE perusahaan dari beberapa waktu belakangan.
 
-Apabila anda telah membandingkan dengan kinerja beberapa tahun terakhir, maka berikutnya anda perlu membandingkan nilai ROE antar perusahaan sejenis sehingga anda mendapatkan gambaran kinerja perusahaan dalam cakupan yang lebih luas.
+Meski nilai standar ROE yang baik yaitu harus **di atas nilai 8,32%**, namun nilai ini tentu termasuk ke dalam perhitungan proyeksi bagi sebuah perusahaan, apalagi jika bisnis perusahaan tersebut baru akan berjalan.
+
+Apabila Anda telah membandingkan dengan kinerja beberapa tahun terakhir, maka berikutnya anda perlu membandingkan nilai ROE antar perusahaan sejenis sehingga anda mendapatkan gambaran kinerja perusahaan dalam cakupan yang lebih luas.
 
 ROE tentu saja sangat penting bagi investor agar bisa mendapatkan gambaran bagaimana kemampuan perusahaan dalam mengelola dana yang diinvestasikan kepada mereka.
 
 Perusahaan dengan ROE yang tinggi tentu saja lebih menarik dibandingkan dengan perusahaan dengan ROE rendah.
+
+Sebagai gambaran, berikut adalah contoh cara hitung ROE (Return of Equity) yang membandingkan dua perusahaan dan prospek investasinya di masa depan.
+
+![Perbandingan Cara Menghitung ROE (return on equity) ]( "Perbandingan Cara Menghitung ROE (return on equity) ")
 
 ## Pentingnya Analisis ROE dalam Investasi
 
