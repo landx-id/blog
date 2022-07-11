@@ -47,11 +47,49 @@ Pertama, mari kita bahas pengertian joint venture.
 
 Joint venture adalah perusahaan patungan yang terbentuk dari kerja sama antara dua atau lebih entitas bisnis dengan menyatukan sumber daya dan modal yang dimiliki dalam rangka mencapai suatu tujuan yang berbentuk proyek atau bisnis baru.
 
-Karena joint venture merupakan perusahaan yang terbentuk dari patungan dua bisnis, maka strategi ini dilakukan berbagai risiko dan kerugian akan ditanggung bersama-sama oleh pihak yang terlibat.
+Karena joint venture merupakan perusahaan yang terbentuk dari patungan dua bisnis atau lebih, maka strategi ini dilakukan berbagai risiko dan kerugian akan ditanggung bersama-sama oleh pihak yang terlibat.
+
+Perusahaan yang tergabung dalam usaha patungan joint venture berasal dari dalam negeri dan perusahaan asal luar negeri.  Hasil bentuk perusahaan joint venture akan menjadi cikal bakal perusahaan multinasional.
 
 Perusahaan yang terlibat dalam joint venture akan memberikan kontribusi terbaik mereka untuk agar tujuan bersama dapat tercapai dan menghasilkan keuntungan untuk semua pihak.
 
 Perjanjian kerja sama ini biasanya memilki jangka waktu tertentu dan akan selesai apabila tujuan spesifik yang diinginkan sudah tercapai.
+
+## Contoh Joint Venture di Indonesia
+
+Setelah paham konsep usaha patungan joint venture atau perusahaan patungan, mari kita lihat contoh joint venture di Indonesia.
+
+1. ### IBC - Indonesia Battery Corporation
+
+IBC adalah gabungan perusahaan-perusahaan dengan tujuan mengembangkan industri otomotif listrik di Indonesia. Perusahaan IBC terdiri dari MIND ID, ANTAM, Pertamina, dan PLN.
+
+Industri otomotif listrik di Indonesia semakin berkembang terlihat dari peningkatan permintaan mobil listrik yang mencapai 4 kali lipat. Saat ini, IBC membuka kesempatan joint venture untuk membuka pabrik baterai kendaraan listrik di Indonesia atau electric vehicle (EV). 
+
+Salah satunya perusahaan bisnis patungan IBC dengan LG (Korea) dan CATL, (perusahaan manufaktur baterai Cina) untuk membuka pabrik baterai kendaraan listrik di tahun 2022 ini.
+
+2. ### Platform Metaverse Indonesia - PT Metaverse Indonesia Makmur (MIM
+
+PT Metaverse Indonesia Makmur (MIM) adalah perusahaan joint venture antara perusahaan teknologi yang baru melantai di Bursa Efek Indonesia (BEI) yaitu PT Wir Asia Tbk (WIRG) dengan anak perusahaan konglomerat Salim Group
+
+Baca juga: [Mengenal Bisnis 9 Orang Terkaya di Indonesia](https://landx.id/blog/9-naga-atau-9-orang-terkaya-di-indonesia/)
+
+WIRG menggunakan dana yang diperoleh dari IPO untuk dialokasikan sebagai modal usaha, serta pengembangan usaha, dan mendukung kemitraan strategis. 
+
+3. ### Era Blue - PT Era Blue Elektronic
+
+Masih hangat, baru diresmikan Maret 2022 lalu perusahaan Erafone menjalin kerja sama joint venture dengan perusahaan ritel terbesar asal VIetnam, The Gioi Di Dong. Era Blue diharapkan akan menjadi revolusi industri ritel elektronik konsumen, menawarkan koleksi produk berbeda, dan memberi pengalaman konsumen lebih baik. Erafone terkenal sebagai perusahaan ritel elektronik seperti hp, laptop, table dan ekosistemnya. 
+
+4. ### Perusahaan dan Bisnis Data Center - Hyperscale
+
+Baru saja diumumkan Indosat Ooredoo Hutchison bahwa telah diselesaikan kesepakatan patungan bisnis atau joint venture untuk mendirikan perusahaan data dan bisnis data center bernama Hyperscale.
+
+Indosat Ooredoo Hutchison melakukan joint venture dengan PT Aplikanusa Lintasarta, dan BDX Asia Data Center Holdings Pte. Ltd. Kerja sama joint venture ini dilakukan untuk menjadikan Hyperscale sebagai data center kelas dunia.
+
+5. ### Kalbe Ecossential Internasional Inc
+
+Kalbe Ecossential Internasional Inc adalah perusahaan patungan hasil kerja sama joint venture dari anak perusahaan Kalbe Farma dengan perusahaan distributor di Filipina. 
+
+Perusahaan joint venture Kalbe ini akan melakukan usaha patungan berupa distribusi obat-obat non resep milik Kalbe di Filipina oleh perusahaan distributor consumer goods, Ecossential Food Corp (EFC)
 
 ## Perbedaan Joint Venture dengan Partnership
 
@@ -101,7 +139,7 @@ Berbicara tentang patungan, LandX merupakan **[platform equity crowdfunding](htt
 
 Karena itu,,,,
 
-**[Yuk Temukan Bisnis Terbaik untuk Investasi Jangka Panjang Kamu di LandX](https://landx.id/project/)**
+### **Yuk Temukan Bisnis Terbaik untuk Investasi Jangka Panjang Kamu di LandX**
 
 [![patungan bisnis melalui skema equity crowdfunding bareng landx](https://accountgram-production.sfo2.cdn.digitaloceanspaces.com/landx_ghost/2021/10/patungan-bisnis-menguntungkan-bareng-landx-6.png)](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)
 
