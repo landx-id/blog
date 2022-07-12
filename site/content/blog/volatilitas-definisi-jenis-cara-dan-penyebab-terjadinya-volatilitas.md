@@ -2,10 +2,10 @@
 draft: false
 author: Abdul Wahhab
 slug: volatilitas-definisi-jenis-cara-dan-penyebab-terjadinya-volatilitas
-title: "Volatilitas: Definisi, Jenis, dan Penyebab Terjadinya Volatilitas"
-metaTitle: "Volatilitas: Definisi, Jenis, dan Penyebab Terjadinya Volatilitas"
-metaDescription: Memahami apa itu volatilitas dan pengaruh volatilitas harga
-  saham terhadap keputusan investasi
+title: "Volatilitas Adalah: Definisi, Jenis, dan Penyebab Volatilitas Saham"
+metaTitle: "Volatilitas Adalah: Definisi, Jenis, dan Penyebab Volatilitas Saham"
+metaDescription: "Apa itu volatilitas dan pengaruh volatilitas saham terhadap
+  keputusan investasi jangka panjang. "
 intro: >-
   Dalam beberapa instrumen investasi, volatilitas atau volatility adalah hal
   yang harus kamu perhatikan dalam memilih instrumen investasi. Hal ini karena
@@ -26,9 +26,11 @@ category:
 featuredImage:
   src: https://images.unsplash.com/photo-1625812346416-ae997372d98e?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1171&q=80
   alt: memilih instrumen investasi yang volatile dan arti volatility dalam investasi
-  title: Pengaruh volatilitas terhadap keputusan investasi yang kamu lakukan.
+  title: "Volatilitas Adalah: Definisi, Jenis, dan Penyebab Volatilitas Saham"
 ---
-Salah satu istilah penting yang sering muncul dalam investasi adalah **volatilitas atau volatility**. Volatilitas merupakan salah satu istilah yang akan sering dalam investasi terutama apabila anda berinvestasi melalui instrumen saham.
+Salah satu istilah penting yang sering muncul dalam investasi adalah **volatilitas atau volatility**. Apa itu volatilitas? atau apa itu volatile?
+
+Volatilitas merupakan salah satu istilah yang akan sering dalam investasi terutama apabila anda berinvestasi melalui instrumen saham.
 
 Sebagai investor penting bagi kamu untuk paham apa itu volatilitas karena volatility dari suatu instrumen menjadi hal penting yang harus kamu perhatikan saat mengambil keputusan investasi terutama apabila kamu berinvestasi ke dalam instrumen dengan volatilitas tinggi. 
 
@@ -36,11 +38,23 @@ Karena itu, yuk kita bahas lebih lanjut arti volatilitas dan bagaimana mengambil
 
 ## Apa Itu Volatilitas
 
-Volatilitas adalah tingkat fluktuasi harga dari sebuah saham atau sekuritas dalam waktu ke waktu sehingga sering juga disebut sebagai “*market mood”* karena berkaitan dengan naik turunnya harga sekuritas dalam kurun waktu tertentu.
+Volatilitas adalah tingkat fluktuasi harga dari sebuah saham atau sekuritas dalam waktu ke waktu. Volatilitas sering juga disebut sebagai “*market mood”* karena berkaitan dengan naik turunnya harga sekuritas dalam kurun waktu tertentu.
 
 Volatilitas bisa dijadikan sebagai acuan untuk menghitung peluang dan risiko dari suatu sekuritas.
 
-Volatilitas juga bisa jadi acuan untuk melihat pergerakan suatu sekuritas, volatilitas yang tinggi menunjukkan bahwa pergerakan harga di pasar bergerak dengan cepat jika dibandingkan dengan pasar dengan volatilitas rendah.
+Volatilitas juga bisa jadi acuan untuk melihat pergerakan suatu sekuritas. Volatilitas yang tinggi menunjukkan bahwa pergerakan harga di pasar bergerak dengan cepat jika dibandingkan dengan pasar dengan volatilitas rendah.
+
+Dalam kebanyakan kasus, semakin tinggi volatilitas, semakin berisiko suatu emiten. Volatilitas sering diukur sebagai standar deviasi untuk mengukur risiko suatu portofolio. Semakin tinggi tingkat deviasi maka semakin besar risiko, namun semakin besar pula kemungkinan profit, dan variasi kinerjanya.
+
+## Apa itu Volatilitas Saham
+
+Volatilitas merupakan bentangan depresi harga dan volume pembelian yang terjadi di pasar. Volatilitas terbentuk dari selisih yang dijual dengan yang dibeli, semakin besar selisihnya maka semakin dinamis bentuk grafiknya. 
+
+Sederhananya bentuk dinamis atau naik turun pada suatu grafik saham itulah grafik volatilitas. Namun pada kalangan investor pada umumnya, hal ini dikenal sebagai fluktuasi yang kontras. Jika bentangan depresinya pendek maka artinya volatilitasnya rendah, sedangkan jika bentangan depresinya tinggi artinya volatilitas tinggi.
+
+![](https://lh3.googleusercontent.com/0FlmTvvzdVflsOPEFQWFCauWNCnUT3TrbSU4qNoDLwHpx4QYhn2cmH-xcz6jtVnzrE4pnHeRuOz029YqUqwoMlLRwvVhwKOFMHAP52DY7SglgfPvhjGZC1VMcN6-B8RZ9JUDpsnC53o1yDsDPzg)
+
+Bagi trader yang melakukan trading saham, memahami konsep volatilitas adalah hal wajib untuk dikuasai. Memahami konsep volatility akan membantu dalam Anda memahami market lebih baik sehingga membantu dalam proses perumusan teknik trading yang tepat.
 
 Dalam trading forex volatilitas merupakan hal penting yang sangat diperhatikan karena keuntungan yang didapatkan investor berasal dari pergerakan pasar.
 
