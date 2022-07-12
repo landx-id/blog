@@ -92,6 +92,20 @@ Apabila kamu memang investor dengan profil risiko yang rendah, maka porsi portof
 
 Karena itu, kamu juga harus tahu tujuan keuangan seperti apa yang ingin kamu capai dan investasi seperti apa yang cocok untuk tujuan tersebut. Hal ini sangat penting karena akan memengaruhi instrumen seperti apa saja yang cocok untuk anda lakukan.
 
+## Contoh Diversifikasi Portofolio Investasi  
+
+Seperti yang telah diulas, konsep strategi diversifikasi adalah memadukan berbagai macam instrumen investasi untuk menaruh dana. Cara diversifikasi portofolio dapat memadukan jenis instrumen investasi jangka panjang dengan jangka pendek.
+
+Contoh diversifikasi portofolio misal memadukan investasi pada saham, reksa dana, obligasi, dan deposito. Atau jika melakukan diversifikasi saham saja. 
+
+Contoh diversifikasi saham dapat kamu lakukan dengan memilih misalkan 3 jenis emiten (jumlah emiten dibebaskan pada pilihan kamu). Misal memilih emiten perbankan, ritel consumer goods, dan perusahaan teknologi, atau kamu tentu juga dapat membaginya menjadi persentase pada saham bagger. 
+
+Misalkan contoh diversifikasi saham dengan dana investasi Rp 10 juta. Kamu menginvestasikan pada saham perbankan BBCA sebesar 50%, kemudian saham Unilever (UNVR) 30%, dan saham perusahaan teknologi yang baru saja IPO tahun ini yaitu GOTO 20%.
+
+Persentase pembagian dana investasi ini dapat kamu terapkan juga pada instrumen investasi berbeda. Poin pentingnya adalah untuk ingat sesuaikan dengan profil investasi kamu. Misalkan kamu seorang yang cenderung profil risiko rendah sehingga lebih tertarik investasi jangka panjang. Namun tetap ingin melakukan diversifikasi portofolio pada jenis investasi jangka pendek.
+
+Maka, kamu dapat memakai persentase sebelumnya atau menentukan sendiri dengan investasi pada reksa dana pasar uang, saham bisnis equity crowdfunding, dan saham yang fluktuatif. Dengan melakukan diversifikasi portofolio kamu dapat meminimalisir risiko sekaligus meningkatkan potensi menerima keuntungan dari berbagai instrumen investasi.
+
 ## Diversifikasi dalam Investasi Bisnis
 
 Investasi bisnis melalui [skema equity crowdfunding](https://landx.id/) juga membutuhkan strategi diversifikasi agar investasi bisnis yang anda lakukan jadi jauh lebih menguntungkan.
