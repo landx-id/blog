@@ -16,7 +16,7 @@ tag:
   - instrumen pasar modal
   - Instrumen Investasi
 featuredImage:
-  src: https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80
+  src: https://images.unsplash.com/photo-1612010167108-3e6b327405f0?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80
   alt: Pengaruh January Effect Saham 2022
   title: Pengaruh January Effect Saham 2022
 image: https://images.unsplash.com/photo-1609921141835-710b7fa6e438?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxMTc3M3wwfDF8c2VhcmNofDZ8fGphbnVhcnklMjBlZmZlY3R8ZW58MHx8fHwxNjQxNTM5NjY4&ixlib=rb-1.2.1&q=80&w=1080
