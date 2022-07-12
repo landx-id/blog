@@ -8,7 +8,7 @@ metaDescription: January Effect 2022 cenderung tidak terlihat signifikan.
   January effect adalah peluang bagi investor untuk mendapat keuntungan saham
   potensial 2022.
 intro: Pengaruh January Effect 2022 pada saham tidak begitu signifikan. Meski
-  begitu, january effect adalah fenomena pola naiknya saham setiap awal tahun.
+  begitu, January Effect adalah fenomena pola naiknya saham setiap awal tahun.
   Simak penjelasan lengkap dari apa itu January Effect berikut ini.
 date: 2022-01-07T07:31:21.000Z
 tag:
