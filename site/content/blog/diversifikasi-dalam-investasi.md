@@ -9,11 +9,10 @@ metaDescription: Apa itu diversifikasi? Diversifikasi adalah strategi investasi
   optimal
 intro: >-
   Konsep diversifikasi ini sangat penting untuk dipahami oleh para investor
-  pemula karena hal ini salah satu pemahaman dasar yang harus dipahami oleh
-  seseorang saat memulai investasi.
+  pemula karena hal ini salah satu pemahaman dasar saat memulai investasi.
 
 
-  Diversifikasi adalah salah satu strategi mitigasi risiko dalam investasi yang membantu kamu mendapatkan keuntungan yang lebih optimal dan risiko yang lebih kecil. Karena itu, mari kita bahas lebih lanjut tentang apa itu diversifikasi dan bagaimana strategi diversifikasi yang baik agar investasi menjadi jauh lebih menguntungkan.
+  Diversifikasi adalah salah satu strategi mitigasi risiko dalam investasi yang membantu kamu mendapatkan keuntungan yang lebih optimal dan risiko yang lebih kecil. Karena itu, mari kita bahas lebih lanjut tentang apa itu diversifikasi dan bagaimana strategi diversifikasi portofolio agar investasi menjadi jauh lebih menguntungkan.
 date: 2021-10-05T13:35:02.000Z
 tag:
   - diversifikasi dalam investasi
@@ -35,25 +34,33 @@ category:
   - Keuangan
   - Investasi
 ---
-Apabila kamu mendalami dunia [bisnis dan investasi](https://landx.id/blog/tag/bisnis-modal-kecil/), kamu pasti sering sekali mendengar istilah diversifikasi.
+Apabila kamu mendalami dunia [bisnis dan investasi](https://landx.id/blog/tag/bisnis-modal-kecil/), pasti sering sekali mendengar istilah diversifikasi.
 
-Dalam dunia bisnis, diversifikasi adalah usaha suatu bisnis untuk membangun beragam produk dan bidang usaha untuk memaksimalkan keuntungan serta sebagai strategi untuk menghadapi berbagai kondisi tidak terduga di masa mendatang.
+Dalam dunia bisnis, diversifikasi mengacu pada pengembangan produk dan layanan baru yang serupa dengan yang sudah Anda jual. Diversifikasi adalah strategi pengembangan bisnis di mana perusahaan mengembangkan produk dan layanan baru, atau memasuki pasar baru di luar pasar yang sudah ada.
 
-Selain dalam bidang bisnis, [diversifikasi](https://landx.id/) juga merupakan istilah yang sering digunakan di dunia investasi dan keuangan. Dalam investasi, diversifikasi adalah strategi yang dilakukan investor untuk memasukkan uang mereka ke dalam berbagai jenis instrumen investasi sehingga mendapatkan keuntungan yang lebih optimal dengan risiko yang lebih minimal.
+Selain dalam bidang bisnis, [diversifikasi](https://landx.id/) juga merupakan istilah yang sering digunakan di dunia keuangan dan investasi. dalam dunia investasi, strategi [diversifikasi](https://landx.id/) itu apa? 
 
-[Konsep diversifikasi](https://landx.id/) ini sangat penting untuk dipahami oleh para investor pemula karena hal ini salah satu pemahaman dasar yang harus dipahami oleh seseorang saat memulai investasi.
+Diversifikasi adalah strategi manajemen risiko yang memadukan berbagai macam instrumen investasi dalam portofolio. Portofolio yang terdiversifikasi berisi campuran jenis aset dan instrumen investasi yang berbeda dalam upaya membatasi eksposur terhadap risiko tunggal.
 
-Karena itu, mari kita bahas lebih lanjut tentang apa itu diversifikasi dan bagaimana strategi diversifikasi yang baik agar investasi menjadi jauh lebih menguntungkan.
+[Konsep diversifikasi](https://landx.id/) ini sangat penting untuk dipahami oleh para investor pemula karena hal ini salah satu pemahaman dasar saat memulai investasi.
+
+Karena itu, mari kita bahas lebih lanjut tentang apa itu diversifikasi dan bagaimana strategi diversifikasi yang baik, serta contoh strategi diversifikasi agar investasi menjadi jauh lebih menguntungkan.
 
 - - -
 
 ## Apa Itu Diversifikasi dalam Investasi?
 
-Anda pasti sering mendengar istilah jangan taruh semua telur dalam satu keranjang, tapi taruhlah dalam beberapa keranjang agar kalau satu jatuh masih ada yang lain.
+Kamu pasti sering mendengar istilah jangan taruh semua telur dalam satu keranjang, tapi taruhlah dalam beberapa keranjang agar kalau satu jatuh masih ada yang lain.
 
 Hal ini merupakan gambaran bagaimana diversifikasi dalam investasi dilakukan sebagai cara untuk minimalisir berbagai risiko tidak terduga di masa mendatang. Seperti yang kita tau, setiap investasi memiliki risiko yang muncul sejalan dengan potensi keuntungan yang akan didapatkan.
 
-Karena itu, diversifikasi merupakan cara untuk menghadapi kondisi yang sulit untuk diduga di masa mendatang. Dengan kata lain, saat satu instrumen sedang mengalami penurunan maka kamu punya pegangan instrumen lain yang bisa memberikan kamu keuntungan pada waktu tersebut.
+Jadi, apa itu diversifikasi investasi dan bagaimana diversifikasi investasi dapat meminimalisir risiko dan mengoptimalkan keuntungan?
+
+Diversifikasi investasi adalah strategi cara diversifikasi portofolio dengan menaruh dana di berbagai macam jenis instrumen investasi. Hal ini dilakukan apabila terjadi penurunan nilai pada suatu jenis instrumen investasi yang kamu miliki, maka uang tidak hilang sepenuhnya karena memiliki dana di instrumen lainnya. Sehingga meminimalisir risiko atau diversifikasi risiko. 
+
+Seperti yang kita tahu bahwa setiap jenis investasi memiliki risiko yang melekat. Karena itu, diversifikasi portofolio investasi dilakukan agar uang yang kamu taruh untuk satu jenis instrumen investasi tidak terancam risiko sepenuhnya.
+
+Karena itu, diversifikasi merupakan cara untuk menghadapi kondisi yang sulit dan tak terduag di masa mendatang. Dengan kata lain, saat satu instrumen sedang mengalami penurunan maka kamu punya pegangan instrumen lain yang bisa memberikan kamu keuntungan pada waktu tersebut.
 
 Hal ini sangat berguna terutama apabila kamu membutuhkan dana pada saat itu jadi kamu tidak perlu mencairkan investasi yang dalam posisi turun. Oleh sebab itu, salah satu diversifikasi investasi yang paling penting adalah membagi investasi berdasarkan jangka waktu dari investasi tersebut.
 
