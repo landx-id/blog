@@ -2,10 +2,10 @@
 draft: false
 author: Abdul Wahhab
 slug: diversifikasi-dalam-investasi
-title: "Diversifikasi Adalah: Membangun Strategi Diversifikasi dalam Investasi"
-metaTitle: "Diversifikasi Adalah: Membangun Strategi Diversifikasi dalam Investasi"
-metaDescription: diversifikasi adalah strategi yang dilakukan investor untuk
-  memasukkan uang mereka ke dalam berbagai instrumen investasi agar keuntungan
+title: "Apa itu Diversifikasi: Membangun Strategi Diversifikasi Investasi"
+metaTitle: "Apa itu Diversifikasi: Membangun Strategi Diversifikasi Investasi"
+metaDescription: Apa itu diversifikasi? Diversifikasi adalah strategi investasi
+  dengan cara menaruh dana ke dalam berbagai instrumen investasi agar keuntungan
   optimal
 intro: >-
   Konsep diversifikasi ini sangat penting untuk dipahami oleh para investor
