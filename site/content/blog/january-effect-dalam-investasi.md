@@ -29,11 +29,9 @@ category:
   - instrumen pasar modal
   - Instrumen Investasi
 ---
-Dalam kalendar saham ada beberapa bulan yang penting Anda tandai. Jika akhir tahun yang telah berlalu ada *window dressing*, atau dikenal juga sebagai *santa claust rally* dan juga Desember hijau. Di awal tahun baru ada istilah January effect yang berpengaruh terhadap iklim dunia saham Indonesia.
+January effect 2022 tidak terlalu signifikan dampaknya terhadap saham. Setiap tahun January Effect adalah kondisi naiknya harga saham pada bulan Januari setiap tahun.  Pengaruh January Effect terhadap pasar saham menjadi fenomena yang berulang.
 
-## **January effect** menurut investopedia adalah harga-harga saham yang cenderung meningkat pada awal tahun. January effect membuka peluang bagi para investor untuk membeli saham murah lalu menjualnya setelah harga naik.
-
-## Apa itu January Effect?
+Jika kamu belum familiar dengan apa itu January Effect dan dampak January Effect 2022, yuk pahami lebih dalam lewat artikel ini.
 
 ## Bagaimana January Effect Bisa Terjadi?
 
@@ -51,7 +49,7 @@ Pada Desember 2021, CEO Ara Hunter, Hendra Martono pada siaran IDX Channel menga
 
 **January effect merupakan** sesuatu yang terjadi berulang setiap tahunnya, oleh sebab itu, yuk kita cek bagaimana pengaruhnya terhadap harga saham dalam 2 tahun terakhir.
 
-* **January Effect 2020**
+## **January Effect 2020**
 
 **January effect tidak** terjadi di pada tahun 2020 dikarenakan gonjang-ganjing kasus asuransi Jiwasraya. Penanganan kasus asuransi Jiwasraya menjadi faktor kuat penyebab turunya nilai transaksi di Bursa Efek Indonesia (BEI) dan sekaligus IHSG.
 
@@ -59,7 +57,7 @@ Dikabarkan awala tahun 2020 nilai ekonomis Rupiah menguat dan inflasi rendah. Na
 
 Ada kemungkinan para investor emiten investasi ini mengurangi jumlah saham yang dipegang, bahkan hingga menjual saham yang dimiliki. Dikarenakan timbul kekhawatiran takut disalahkan, termasuk investor asing pun ikut menepis kepercayaannya. Berbagai saran penanganan kasus ini juga masih diproses sepanjang tahun 2020.
 
-* **January Effect 2021**
+## **January Effect 2021**
 
 Kembali lagi **January ‘tidak’ effect** terjadi di tahun 2021. Kinerja Indeks Harga Saham Gabungan (IHSG) tercatat negatif pada penutupan Januari tahun 2021.
 
@@ -67,15 +65,23 @@ Walaupun berbagai negara di dunia termasuk Indonesia yakin tahun 2021 menjadi mo
 
 Sektor perbankan menjadi salah satu pemicu pada pergerakan IHSG. Jika laporan keuangan perbankan baik maka indeks untuk bertumbuh akan terbuka. Selain itu saham emiten mineral juga menopang pergerakan IHSG di Januari tahun 2021.
 
-* **January Effect 2022**
+- - -
 
-**Akankah terjadi January effect** di tahun ini? Sempat terjadi kekhawatiran goyahnya pasar saham karena varian baru virus covid19 yaitu Omicron. Karena kebijakan pemerintah yang bisa saja menurunkan kembali PPKM atau yang paling mengkhawatirkan adalah lockdown yang sempat membuat IHSG kebakaran pada tahun 2020.
+## Apa Itu January Effect 2022 dan Dampaknya?
 
-Selain itu, tapering yang dipercepat oleh **The Fed akan** mempengaruhi kenaikan suku bunga bank.  Namun, tapering ini diprediksi The Fed baru akan terjadi pada kuartal III tahun 2022 atau paling cepat pada bulan Juni nanti. Sehingga di bulan Januari ini Indeks Harga Saham Gabungan belum terdampak oleh hal ini.
+Pada tahun ini, dampak January Effect 2022 ternyata naiknya tidak terlalu signifikan. Pasar saham pada awal tahun sempat dikhawatirkan goyah karena varian baru Virus COVID-19 yaitu Omicron. 
 
-**Tapering adalah** kebijakan moneter yang mengacu pada penghentian atau pengurangan program tertentu seperti pembelian likuiditas oleh bank sentral AS, The Fed. Tapering oleh The Fed akan memengaruhi kebijakan moneter bank sentral lain di dunia. Hal ini juga berpengaruh kepada kebijakan kenaiakan suku bunga di negara tersebut.
+Apalagi, ditambah kekhawatiran atas kebijakan pemerintah yang bisa saja menurunkan kembali PPKM atau bahkan *lockdown* yang sempat membuat IHSG kebakaran pada tahun 2020.
 
-**Saran untuk emiten saham yang sebaiknya dihindari** jika tapering terjadi adalah saham yang memiliki utang besar di bank. Seperti perusahaan-perusahaan konstruksi yang perlu meminjam modal bank dahulu sebelum kegiatan operasionalnya berjalan.
+Selain itu, tapering off yang dipercepat oleh **The Fed akan** mempengaruhi kenaikan suku bunga bank.  Ditambah lagi, situasi perang Russia dengan Ukraina kemudian memicu The Fed untuk menaikkan suku bunga karena tingkat inflasi di Amerika Serikat yang semakin tidak terkendali. 
+
+**Tapering off adalah** kebijakan moneter yang mengacu pada penghentian atau pengurangan program tertentu seperti pembelian likuiditas oleh bank sentral AS, The Fed. Tapering oleh The Fed akan memengaruhi kebijakan moneter bank sentral lain di dunia. Hal ini juga berpengaruh kepada kebijakan kenaiakan suku bunga di negara tersebut.
+
+Sebaliknya, saham yang diuntungkan saat tapering terjadi ialah saham-saham perbankan. Tidak hanya bank-bank besar seperti BCA ataupun BRI, namun bank- bank kecil juga kena tuah untung jika terjadi tapering. Apalagi jika kenaikan suku bunga benar-benar terjadi, saham perbankan akan menampung limpahan cuan.
+
+Meski begitu, January Effect 2022 yang tercatat oleh BEI (Bursa Efek Indonesia) menunjukkan bahwa IHSG (Indeks Harga Saham Gabungan) berhasil menguat 0,97% ke posisi 6.645,51 jika dibandingkan kondisi awal pandemi di tahun 2019-2021. 
+
+Karena itu, pada January Effect 2022 banyak emiten saham memilih untuk menghindari perusahaan yang memiliki utang besar di bank. Seperti misalnya perusahaan-perusahaan konstruksi yang perlu meminjam modal bank dahulu sebelum kegiatan operasionalnya berjalan.
 
 - - -
 
@@ -85,8 +91,6 @@ Selain itu, tapering yang dipercepat oleh **The Fed akan** mempengaruhi kenaikan
 * [Tahun Depan Mau Investasi Apa? Yuk Pahami Hal ini Sebelum Mulai Investasi di Tahun 2022](https://landx.id/blog/hal-penting-yang-harus-dipahami-saat-berinvestasi-di-tahun-2022/)
 
 - - -
-
-Sebaliknya, saham yang diuntungkan saat tapering terjadi ialah saham-saham perbankan. Tidak hanya bank-bank besar seperti BCA ataupun BRI, namun bank- bank kecil juga kena tuah untung jika terjadi tapering. Apalagi jika kenaikan suku bunga benar-benar terjadi, saham perbankan akan menampung limpahan cuan.
 
 ## Analisis Saham Rekomendasi Investor
 
