@@ -1,20 +1,37 @@
-+++
-author = "Vlora Riyandi"
-category = ["Cara Investasi Saham", "investasi saham", "saham konvensional", "instrumen pasar modal", "Instrumen Investasi"]
-date = 2022-01-07T07:31:21Z
-metaDescription = "January effect adalah harga-harga saham yang cenderung meningkat pada awal tahun. Hal ini menjadi peluang bagi para investor untuk membeli saham potensial dengan murah."
-draft = false
-image = "https://images.unsplash.com/photo-1609921141835-710b7fa6e438?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxMTc3M3wwfDF8c2VhcmNofDZ8fGphbnVhcnklMjBlZmZlY3R8ZW58MHx8fHwxNjQxNTM5NjY4&ixlib=rb-1.2.1&q=80&w=1080"
-slug = "january-effect-dalam-investasi"
-tag = ["Cara Investasi Saham", "investasi saham", "saham konvensional", "instrumen pasar modal", "Instrumen Investasi"]
-title = "Mengenal Prospek January Effect Saham di Tahun 2022, Hindari Saham Non-Potensial"
+---
+draft: false
+author: Vlora Riyandi
+slug: january-effect-dalam-investasi
+title: Pengaruh January Effect Tahun 2022 Terhadap Pasar Saham
+metaTitle: "January Effect 2022 Adalah: Pengaruh Terhadap Pasar Saham"
+metaDescription: January Effect 2022 cenderung tidak terlihat signifikan.
+  January effect adalah peluang bagi investor untuk mendapat keuntungan saham
+  potensial 2022.
+intro: Pengaruh January Effect Saham 2022
+date: 2022-01-07T07:31:21.000Z
+tag:
+  - Cara Investasi Saham
+  - investasi saham
+  - saham konvensional
+  - instrumen pasar modal
+  - Instrumen Investasi
+featuredImage:
+  src: https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80
+  alt: Pengaruh January Effect Saham 2022
+  title: Pengaruh January Effect Saham 2022
+image: https://images.unsplash.com/photo-1609921141835-710b7fa6e438?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxMTc3M3wwfDF8c2VhcmNofDZ8fGphbnVhcnklMjBlZmZlY3R8ZW58MHx8fHwxNjQxNTM5NjY4&ixlib=rb-1.2.1&q=80&w=1080
+category:
+  - Cara Investasi Saham
+  - investasi saham
+  - saham konvensional
+  - instrumen pasar modal
+  - Instrumen Investasi
+---
+Dalam kalendar saham ada beberapa bulan yang penting Anda tandai. Jika akhir tahun yang telah berlalu ada *window dressing*, atau dikenal juga sebagai *santa claust rally* dan juga Desember hijau. Di awal tahun baru ada istilah January effect yang berpengaruh terhadap iklim dunia saham Indonesia.
 
-+++
+## **January effect** menurut investopedia adalah harga-harga saham yang cenderung meningkat pada awal tahun. January effect membuka peluang bagi para investor untuk membeli saham murah lalu menjualnya setelah harga naik.
 
-
-Dalam kalendar saham ada beberapa bulan yang penting Anda tandai. Jika akhir tahun yang telah berlalu ada _window dressing_, atau dikenal juga sebagai _santa claust rally_ dan juga Desember hijau. Di awal tahun baru ada istilah January effect yang berpengaruh terhadap iklim dunia saham Indonesia.
-
-**January effect** menurut investopedia adalah harga-harga saham yang cenderung meningkat pada awal tahun. January effect membuka peluang bagi para investor untuk membeli saham murah lalu menjualnya setelah harga naik.
+## Apa itu January Effect?
 
 ## Bagaimana January Effect Bisa Terjadi?
 
@@ -58,14 +75,14 @@ Selain itu, tapering yang dipercepat oleh **The Fed akan** mempengaruhi kenaikan
 
 **Saran untuk emiten saham yang sebaiknya dihindari** jika tapering terjadi adalah saham yang memiliki utang besar di bank. Seperti perusahaan-perusahaan konstruksi yang perlu meminjam modal bank dahulu sebelum kegiatan operasionalnya berjalan.
 
----
+- - -
 
 **Baca Juga:**
 
 * [Mengenal Apa Itu Tapering Off dan Dampaknya Bagi Investasi](https://landx.id/blog/tapering-adalah/)
 * [Tahun Depan Mau Investasi Apa? Yuk Pahami Hal ini Sebelum Mulai Investasi di Tahun 2022](https://landx.id/blog/hal-penting-yang-harus-dipahami-saat-berinvestasi-di-tahun-2022/)
 
----
+- - -
 
 Sebaliknya, saham yang diuntungkan saat tapering terjadi ialah saham-saham perbankan. Tidak hanya bank-bank besar seperti BCA ataupun BRI, namun bank- bank kecil juga kena tuah untung jika terjadi tapering. Apalagi jika kenaikan suku bunga benar-benar terjadi, saham perbankan akan menampung limpahan cuan.
 
@@ -85,24 +102,23 @@ Di Indonesia fasilitator crowdfunding semakin berkembang, salah satunya **LandX.
 
 **Wimboh Santoso, Ketua Dewan Komisioner OJK,** pada Pembukaan Perdagangaan Bursa Efek Indonesia tahun 2022 mengatakan sektor finansial stabil dengan beberapa indikator. Indikator tersebut seperti permodalan yang kuat, dana masyarakat empel, suku bunga yang naik serta beberapa faktor positif lainnya.
 
-**[Platform crowdfunding LandX](https://landx.id/project/) ** juga muncul pada presentasi Pembukaan Perdagangan BEI Tahun 2022 sebagai penyelenggara securities crowdfunding yang potensial. Diharapkan jumlah investor terus tumbuh dan setiap bisnis semakin berkembang.
+**[Platform crowdfunding LandX](https://landx.id/project/)**  juga muncul pada presentasi Pembukaan Perdagangan BEI Tahun 2022 sebagai penyelenggara securities crowdfunding yang potensial. Diharapkan jumlah investor terus tumbuh dan setiap bisnis semakin berkembang.
 
 ## [Yuk, Diversifikasi Portofolio untuk Akselerasi Capai Tujuan Finansialmu Bersama LandX](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)
 
 [![Yuk mulai patungan bisnis menguntungkan jangka panja g bersama LandX](https://accountgram-production.sfo2.cdn.digitaloceanspaces.com/landx_ghost/2021/09/Equity-Crowdfunding-di-Indonesia-1--3.png)](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)
 
-[**Yuk Patungan Bisnis Menguntungkan Bareng LandX**](https://landx.id/project/)
+**[Yuk Patungan Bisnis Menguntungkan Bareng LandX](https://landx.id/project/)**
 
 **[Mau Informasi Menarik Lain Seputar Investasi? Yuk Kunjungi Instagram Kami di @landx.id](https://www.instagram.com/landx.id/?utm_medium=copy_link)**
 
----
+- - -
 
 **Baca Juga:**
 
 * [Investasi dengan Passive Income untuk Masa Depan](https://landx.id/blog/investasi-dengan-passive-income-untuk-masa-depan/)
 * [Investasi Selalu Rugi? Coba Lakukan Diversifikasi. Ini 4 Cara Melakukannya!](https://landx.id/blog/arti-penting-diversifikasi-dalam-investasi/)
 
----
+- - -
 
-**#YukPatunganBisnis**
-
+**\#YukPatunganBisnis**
