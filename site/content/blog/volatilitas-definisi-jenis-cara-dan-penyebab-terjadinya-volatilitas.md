@@ -46,6 +46,8 @@ Volatilitas juga bisa jadi acuan untuk melihat pergerakan suatu sekuritas. Volat
 
 Dalam kebanyakan kasus, semakin tinggi volatilitas, semakin berisiko suatu emiten. Volatilitas sering diukur sebagai standar deviasi untuk mengukur risiko suatu portofolio. Semakin tinggi tingkat deviasi maka semakin besar risiko, namun semakin besar pula kemungkinan profit, dan variasi kinerjanya.
 
+Tingkat volatilitas memang dapat mengukur risiko suatu emiten investasi. Saat volatilitas tinggi maka risiko suatu portofolio investasi adalah tinggi. Namun, tidak berarti sebuah volatilitas tinggi akan membuat emiten tidak menarik. Pergerakan harga saham atau volitile ini adalah menunjukkan kondisi pasar yang terjadi mungkin tidak stabil.
+
 ## Apa itu Volatilitas Saham
 
 Volatilitas merupakan bentangan depresi harga dan volume pembelian yang terjadi di pasar. Volatilitas terbentuk dari selisih yang dijual dengan yang dibeli, semakin besar selisihnya maka semakin dinamis bentuk grafiknya. 
