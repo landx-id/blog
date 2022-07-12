@@ -91,6 +91,24 @@ Saat negara memiliki kondisi ekonomi dan politik yang stabil, maka nilai sekurit
 
 Volatilitas juga berkaitan dengan bagaimana performa perusahaan sehingga perubahan harga saham sangat berkaitan dengan kinerja perusahaan. Saat produk-produk yang ditawarkan inovatif dan laku di pasar  maka harga akan naik karena banyak investor tertarik untuk membeli saham tersebut. Akan tetapi saat produk yang ditawarkan tidak sukses di pasar maka harga akan turun karena investor mulai ragu dengan kinerja perusahaan.
 
+## Market Volatility 2022
+
+Situasi pandemi yang hangat pada tahun 2020 dulu membuktikan saham yang dikenal resistance atau tahan terhadap kondisi pasar ternyata juga bisa ikut goyang oleh situasi tidak terduga. Kini, di tahun 2022 dengan kondisi pandemi terbilang cukup redam, dihadirkan dengan kondisi baru yaitu tingkat suku bunga naik dari bank sentral Amerika, The Fed.
+
+Baca juga: [Apa itu The Fed, Bank Sentral Amerika Serikat](https://landx.id/blog/the-fed-adalah-bank-sentral-amerika/)
+
+Lalu **apa yang harus dilakukan investor di tengah volatilitas pasar 2022?**
+
+Executive Director JP Morgan Sekuritas, Henry Wibowo, mengungkapkan sektor sekuritas pilihannya di Pasar Modal Indonesia untuk tahun 2022 ditengah hantaman sentimen makro pada media CNBC Indonesia.
+
+Pertama sektor komoditas seperti pertambanga batu bara dan kelapa sawit. Karena tren pergerakan harga komoditi ini diperkirakan masih sangat tinggi dalam 6 sampai 9 bulan ke depan. 
+
+Selanjutnya sektor perbankan, terlihat dari kabar tingkat penyaluran kredit yang membaik hingga kisaran 6%. Hal ini didorong oleh situasi pandemi yang menurun dan kegiatan ekonomi yang menggeliat naik. Serta sektor perbankan adalah sektor yang akan diuntungkan oleh kenaikan suku bunga yang sedang terjadi sebagai dampak kebijakan The Fed.
+
+Sektor new economy juga terlihat memiliki prospek yang baik seperti perusahaan internet, green economy atau renewable energy, serta sektor downstream yang berhubungan dengan nikel, baterai, dan electric vehicle (EV).
+
+Walaupun volitilitas membuat kesan risiko tinggi pada sebuah sektor emiten, namun potensi profit yang diberikan juga tinggi. Karena volatilitas terjadi karena mencerminkan kondisi pasar yang terjadi saat itu juga.
+
 ## Kesimpulan
 
 Setelah paham apa itu volatilitas, maka sekarang tentu saja anda jadi semakin mengerti tentang bagaimana memilih saham terbaik untuk investasi anda.
