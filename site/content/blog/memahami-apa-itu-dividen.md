@@ -2,15 +2,15 @@
 draft: false
 author: Abdul Wahhab
 slug: memahami-apa-itu-dividen
-title: "Dividen Adalah: Memahami Apa Itu Dividen dan Sistem Pembagian Dividen"
-metaTitle: "Dividen Adalah: Memahami Apa Itu Dividen dan Sistem Pembagian Dividen"
-metaDescription: Dividen adalah keuntungan yang dibagikan kepada pemegang saham
-  yang telah menanamkan dana mereka sebelumnya|Pembagian Dividen
-intro: "Dividen adalah salah satu jenis return dari investasi yang tentu saja
-  sangat dinanti-nanti oleh investor yang sebelumnya telah menanamkan modal
-  mereka ke dalam suatu proyek atau bisnis. Karena itu, mari kita bahas lebih
-  tentang apa itu dividen dan bagaimana sistem pembagian dividen kepada para
-  investor dilakukan. "
+title: "Arti Dividen Adalah: Apa Itu Dividen dan Sistem Pembagian Dividen"
+metaTitle: "Dividen Adalah: Panduan Apa Itu Dividen dan Sistem Pembagian Dividen"
+metaDescription: Apa itu dividen adalah profit rutin yang diterima oleh investor
+  yang menanamkan modal ke aset investasi dengan sistem pembagian dividen yang
+  rutin.
+intro: "Apa itu dividen adalah profit rutin yang diterima oleh investor yang
+  menanamkan modal ke aset investasi. Dengan sistem pembagian dividen yang
+  rutin, investor akan bisa mendapatkan return dari menanamkan modal mereka ke
+  dalam suatu proyek atau bisnis. "
 date: 2022-02-11T03:37:01.503Z
 tag:
   - Perbedaan Dividen dan Capital Gain
@@ -18,18 +18,19 @@ tag:
   - ROI
 featuredImage:
   src: https://images.unsplash.com/photo-1518458028785-8fbcd101ebb9?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxMTc3M3wwfDF8c2VhcmNofDF8fG1vbmV5JTIwcGVvcGxlfGVufDB8fHx8MTY0MDE0MTU2Ng&ixlib=rb-1.2.1&q=80&w=1080
-  alt: "Memahami apa itu dividen dan cara menghitung dividen saat berinvestasi "
-  title: Konsep Dividen dalam investasi dan cara pembagiannya
+  alt: "Memahami apa itu dividen saham dan cara menghitung dividen saat
+    berinvestasi "
+  title: Konsep apa itu dividen dalam investasi dan cara pembagiannya
 image: https://images.unsplash.com/photo-1518458028785-8fbcd101ebb9?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxMTc3M3wwfDF8c2VhcmNofDF8fG1vbmV5JTIwcGVvcGxlfGVufDB8fHx8MTY0MDE0MTU2Ng&ixlib=rb-1.2.1&q=80&w=1080
 category:
   - Keuangan
   - Investasi
 ---
-[Dalam investasi, dividen](https://landx.id/) adalah salah satu topik yang sering dibahas dan ditunggu oleh para investor terutama bagi investor yang berinvestasi melalui instrumen saham di pasar modal maupun lewat equity crowdfunding.
+Dalam investasi, apa itu dividen adalah salah satu topik yang sering dibahas dan ditunggu oleh para investor terutama bagi investor yang berinvestasi melalui instrumen saham di pasar modal maupun lewat equity crowdfunding.
 
-Hal ini karena dividen merupakan salah satu bentuk *return*/ keuntungan yang akan mereka terima dari investasi yang mereka lakukan tersebut. Oleh sebab itu, besar dividen menjadi salah satu pertimbangan penting yang mempengaruhi keputusan investasi para investor. 
+Ini karena apa yang dimaksud dengan dividen saham adalah salah satu bentuk *return*/keuntungan yang akan diterima investor dari penanaman modal. Oleh sebab itu, besaran dan kapan pembagian dividen menjadi aspek pertimbangan penting yang memengaruhi keputusan sebelum berinvestasi. 
 
-karena itu, mari kita bahas lebih lanjut tentang apa itu dividen dan bagaimana sistem pembagian dividend dalam investasi saham.
+Mari kita bahas lebih lanjut tentang apa itu dividen, sistem pembayaran dividen, dan cara menghitung dividen agar bisa menentukan investasi yang menjanjikan.
 
 - - -
 
