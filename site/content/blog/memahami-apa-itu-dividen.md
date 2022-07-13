@@ -98,9 +98,9 @@ Dalam cara menghitung dividen, perhitungan rasio yang digunakan sangat tergantun
 
 ### 1. Rumus D*ividend Payout Ratio* (DPR)
 
-DPR atau *dividend payout ratio* adalah penghitungan untuk mengukur seberapa banyak laba bersih perusahaan yang akan dibagikan kepada para investor melalui dividen. Hal ini karena tidak semua laba bersih tidak semuanya akan dibagikan kepada investor karena bisa saja diputarkan kembali untuk pengembangan bisnis ke depan.
+DPR atau rumus *dividend payout ratio* adalah penghitungan untuk mengukur seberapa banyak laba bersih perusahaan yang akan dibagikan kepada para investor melalui dividen. Hal ini karena tidak semua laba bersih tidak semuanya akan dibagikan kepada investor karena bisa saja diputarkan kembali untuk pengembangan bisnis ke depan.
 
-Contoh simpelnya seperti ini, apabila perusahaan A mendapatkan laba bersih Rp 1.000.000.000 dan memutuskan untuk membagikan dividen sebesar Rp 250.000.000 maka dividend payout ratioya adalah 25% dengan rumus dividend payout ratio sebagai berikut:
+Contoh simpelnya seperti ini, apabila perusahaan A mendapatkan laba bersih Rp1.000.000.000 dan memutuskan untuk membagikan dividen sebesar Rp250.000.000 maka dividend payout ratioya adalah 25% dengan rumus dividend payout ratio sebagai berikut:
 
 > 250.000.000/1.000.000.000 *100%
 >
@@ -108,7 +108,7 @@ Contoh simpelnya seperti ini, apabila perusahaan A mendapatkan laba bersih Rp 1.
 
 ### 2. Rumus *Dividend Per Share* (DPS)
 
-*Dividend Per Share* (DPS) adalah dividen per lembar saham. Angka ini didapat dari pembagian dividen perusahaan dengan jumlah total lembar saham. DPS menjelaskan berapa besar dividen yang dihasilkan oleh satu lembar yang dimiliki oleh investor.
+Rumus *Dividend Per Share* (DPS) adalah cara menghitung dividen per lembar saham. Angka ini didapat dari pembagian dividen perusahaan dengan jumlah total lembar saham. DPS menjelaskan berapa besar dividen yang dihasilkan oleh satu lembar yang dimiliki oleh investor.
 
 Misalnya seperti ini, perusahaan C memiliki memiliki 100.000 lembar saham dan membagikan dividen sebesar Rp 100.000.000, maka rumus dividend per share dihitung sebagai berikut:
 
@@ -118,7 +118,7 @@ Misalnya seperti ini, perusahaan C memiliki memiliki 100.000 lembar saham dan me
 
 ### 3. Rumus *Dividend Yield*
 
-*Dividend yield* adalah perbandingan seberapa besar dividen yang dibagi perusahaan terhadap harga saham yang sedang beredar. Karean itu cara menghitung dividend yield saham adalah sebagai berikut:
+Rumus *Dividend yield* adalah perbandingan seberapa besar dividen yang dibagi perusahaan terhadap harga saham yang sedang beredar. Karena itu cara menghitung dividen dengan rumus dividend yield saham adalah sebagai berikut:
 
 **Rumus dividend yield:**
 
