@@ -94,7 +94,7 @@ Dividen likuadasi adalah dividen yang dibagikan kepada investor saat perusahaan 
 
 ## Rumus dan Perhitungan Dividen
 
-Dalam menghitung dividen, terdapat beberapa perhitungan rasio keuangan yang digunakan, berikut beberapa rumus dan perhitungan penting dalam dividen:
+Dalam cara menghitung dividen, perhitungan rasio yang digunakan sangat tergantung pada instrumen investasi yang dimiliki. Namun, berikut ini beberapa rumus menghitung apa itu dividen yang penting untuk diperhatikan.
 
 ### 1. Rumus D*ividend Payout Ratio* (DPR)
 
