@@ -58,7 +58,7 @@ Karena itu, kamu jangan kaget kalau ada saham-saham tertentu yang pembagiannya 2
 
 Cara pembagian dividen biasanya ditentukan setelah RUPS. Dalam menentukan sistem apa itu dividen, RUPS biasanya akan diadakan pada kuartal I/ II setiap tahunnya sehingga tanggal tepatnya kapan pembagian dividen biasanya akan jatuh setelah rapat ini.
 
-Pembagian dividen ini akan dilakukan berdasarkan hasil keputusan RUPS, karena itu mungkin saja ada kebijakan untuk tidak membangikan dividen karena berbagai pertimbangan seperti penggunaan keuntungan tersebut sebagai cadangan modal atau sebagai dana yang digunakan untuk ekspansi bisnis yang dilakukan. 
+Pembagian dividen ini akan dilakukan berdasarkan hasil keputusan RUPS, karena itu mungkin saja ada kebijakan untuk tidak membangikan dividen karena berbagai pertimbangan seperti penggunaan keuntungan tersebut sebagai cadangan modal atau sebagai dana yang digunakan untuk ekspansi bisnis perusahaan. 
 
 ## Jenis-jenis Dividen
 
@@ -74,7 +74,9 @@ Jenis dividen ini pasti sangat sering anda kita temukan karena biasanya kita bis
 
 Dividen saham adalah dividen yang diberikan dalam bentuk penambahan porsi saham kepada para investor sehingga mereka akan memiliki saham yang lebih banyak pada periode berikutnya.
 
-Selain dividen tunai, saham juga merupakan  bentuk dividen yang cukup umum dibagikan kepada para investor. Dividen saham merupakan dividen yang diberikan dalam bentuk penambahan porsi saham yang dimiliki oleh investor. Hal menjadikan para investor memiliki jumlah saham yang lebih banyak dari sebelumnya.
+Selain dividen dalam bentuk tunai, dividen saham adalah bentuk dividen yang cukup umum dibagikan kepada para investor. Dividen saham adalah dividen yang diberikan dalam bentuk penambahan porsi saham yang dimiliki oleh investor. 
+
+Keuntungannya bagi investor adalah penambahan jumlah saham yang lebih banyak dari sebelumnya akan memengaruhi persentase dividen dan capital gain di masa yang akan datang.
 
 ### 3. Dividen Properti
 
@@ -94,7 +96,7 @@ Dividen likuadasi adalah dividen yang dibagikan kepada investor saat perusahaan 
 
 Dalam menghitung dividen, terdapat beberapa perhitungan rasio keuangan yang digunakan, berikut beberapa rumus dan perhitungan penting dalam dividen:
 
-### 1. D*ividend Payout Ratio* (DPR)
+### 1. Rumus D*ividend Payout Ratio* (DPR)
 
 DPR atau *dividend payout ratio* adalah penghitungan untuk mengukur seberapa banyak laba bersih perusahaan yang akan dibagikan kepada para investor melalui dividen. Hal ini karena tidak semua laba bersih tidak semuanya akan dibagikan kepada investor karena bisa saja diputarkan kembali untuk pengembangan bisnis ke depan.
 
@@ -104,17 +106,17 @@ Contoh simpelnya seperti ini, apabila perusahaan A mendapatkan laba bersih Rp 1.
 >
 > \= 25%
 
-### 2. *Dividend Per Share* (DPS)
+### 2. Rumus *Dividend Per Share* (DPS)
 
 *Dividend Per Share* (DPS) adalah dividen per lembar saham. Angka ini didapat dari pembagian dividen perusahaan dengan jumlah total lembar saham. DPS menjelaskan berapa besar dividen yang dihasilkan oleh satu lembar yang dimiliki oleh investor.
 
 Misalnya seperti ini, perusahaan C memiliki memiliki 100.000 lembar saham dan membagikan dividen sebesar Rp 100.000.000, maka rumus dividend per share dihitung sebagai berikut:
 
-DPS = 100.000.000/100.000 = 1000
+> DPS = 100.000.000/100.000 = 1000
+>
+> maka DPS dari saham C adalah Rp 1.000
 
-maka DPS dari saham C adalah Rp 1.000
-
-### 3. *Dividend Yield*
+### 3. Rumus *Dividend Yield*
 
 *Dividend yield* adalah perbandingan seberapa besar dividen yang dibagi perusahaan terhadap harga saham yang sedang beredar. Karean itu cara menghitung dividend yield saham adalah sebagai berikut:
 
@@ -126,7 +128,7 @@ maka DPS dari saham C adalah Rp 1.000
 >
 > Jadi, *dividend yield* dari PT. ABC adalah 5%.
 
-## *Passive Income* dari Dividen
+## *Rumus Passive Income* dari Dividen
 
 Dividen merupakan salah satu return investasi sehingga tentu saja bisa menjadi salah satu sumber passive income untuk membantu anda **mencapai financial freedom**.
 
