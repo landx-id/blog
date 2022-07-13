@@ -36,7 +36,7 @@ Dengan kata lain, apa itu *financial freedom* dapat diartikan sebagai kondisi di
 
 Tahap ini sering juga disebut dengan finansial independent di mana seseorang tidak mengalami berbagai kendala finansial walaupun tidak bekerja karena sudah didukung dengan *passive income* yang lebih besar dari penghasilannya.
 
-Kondisi ini tentu saja menjadi cita-cita banyak orang, akan tetapi untuk masuk ke dalam tahap ini tentu saja bukanlah hal yang mudah dan butuh berbagai tahap yang harus anda lewati terlebih dahulu.
+Kondisi ini tentu saja menjadi cita-cita banyak orang, akan tetapi untuk masuk ke dalam tahap ini tentu saja bukanlah hal yang mudah dan butuh berbagai tahap yang harus kamu lewati terlebih dahulu.
 
 Karena itu, yuk kita bahas lebih lanjut tentang kebebasan finansial dan bagaimana cara mencapai *financial freedom* di usia muda.
 
@@ -50,15 +50,31 @@ Kita semua tentu saja ingin mencapai financial freedom di usia muda, namun untuk
 
 Karena itu, kita perlu paham tentang bagaimana mengelola uang dengan baik sedini mungkin karena semakin cepat kita mulai, maka semakin cepat juga kita paham jalur seperti apa yang harus kita hadapi untuk mencapai kondisi finansial yang kita harapkan tersebut.
 
-Karena itu, mari kita bahas berbagai tahap-tahap yang harus kita lewati hingga akhirnya masuk ke dalam tahap financial freedom.
+Karena itu, mari kita bahas berbagai tahap-tahap yang harus kita lewati hingga akhirnya masuk ke dalam tahap apa itu financial freedom.
 
-## Tahapan Mencapai *Financial Freedom*
+- - -
 
-Untuk kamu yang ingin mencapai financial freedom di usia muda, berikut berbagai tahap yang harus anda lewati untuk mencapai financial freedom:
+## Kriteria Bebas Financial
+
+Bagi yang belum familiar dengan kondisi ini, financial freedom adalah kondisi yang memiliki beberapa penanda khas ciri bebas finansial. Berikut ini adalah beberapa kriteria penanda dari apa itu financial freedoom.
+
+* Tidak memiliki utang konsumtif
+* Memiliki cadangan dana darurat
+* Tersedia dana dari instrumen investasi
+* Punya dana tabungan
+* Memiliki pembukuan yang rapi dan terkontrol
+
+Seseorang yang telah memahami konsep apa itu financial freedom akan mengerti pentingnya mencari cara mencapai kebebasan finansial agar kehidupan di masa depan terjamin.
+
+## Tahapan Cara Mencapai Kebebasan Finansial
+
+Untuk kamu yang ingin tahu cara mencapai kebebasan finansial di usia muda, berbagai tahap untuk meraih apa itu financial freedom adalah sebagai berikut.
 
 ### 1. Kestabilan Finansial
 
-Kestabilan finansial adalah tahap di mana seseorang dalam kondisi finansial yang cenderung stabil dengan penghasilan yang bisa memenuhi berbagai kebutuhan. Selain itu, dalam tahap ini seseorang sudah memiliki dana darurat dan asuransi yang cukup untuk menghadapi berbagai kondisi tidak terduga dan bisa mulai menyisihkan uang mereka untuk menyusun rencana invesasi jangka panjang.
+Kestabilan finansial adalah tahap di mana seseorang dalam kondisi finansial yang cenderung stabil dengan penghasilan yang bisa memenuhi berbagai kebutuhan. Selain itu, tahap ini adalah saat seseorang sudah memiliki dana darurat dan asuransi yang cukup untuk menghadapi berbagai kondisi tidak terduga. 
+
+Tips financial freedom yang pertamna adalah melalui tahap kestabilan finansial, yaitu saat seseorang bisa mulai menyisihkan uang mereka untuk menyusun rencana invesasi jangka panjang. Singkatknya, kestabilan finansial adalah kriteria bebas financial yang paling pertama.
 
 ### 2. Financial Independent
 
@@ -66,41 +82,41 @@ Setelah memasuki kondisi finansial yang stabil, maka seseorang bisa mulai melang
 
 ### 3. Financial Freedom
 
-Setelah melewati dua tahap sebelumnya, barulah seseorang bisa masuk ke tahap financial freedom di mana seseorang tidak perlu memikirkan lagi bagaimana cara mencari uang karena berbagai kebutuhan sudah terpenuhi walaupun tanpa bekerja. Hal ini tentu saja menjadi tujuan akhir dari rencana keuangan seseorang.
+Setelah melewati dua tahap sebelumnya, barulah seseorang bisa masuk ke tahap financial freedom. Apa itu financial freedom adalah kondisi di mana seseorang tidak perlu memikirkan lagi bagaimana cara mencari uang karena berbagai kebutuhan sudah terpenuhi walaupun tanpa bekerja. Hal ini tentu saja menjadi tujuan akhir dari rencana keuangan seseorang.
 
 Untuk kamu yang ingin mencapai financial freedom di usia muda, berikut beberapa hal yang bisa kamu lakukan mulai dari sekarang.
 
-## Cara Mencapai Financial Freedom
+## Cara Meraih dan Tips Financial Freedom
 
-Berikut beberaap cara yang bisa kamu lakukan untuk mencapai financial freedom.
+Lalu, bagaimana cara bebas financial? Berikut beberapa tips financial freedom yang bisa kamu lakukan untuk mencapai apa itu financial freedom.
 
 ### 1. Memahami Kondisi Keuangan dengan Baik
 
-Sebelum membahas berbagai hal lain, kamu harus paham dulu bagaimana kondisi keuangan kamu saat ini seperti berapa besar pemasukan dan pengeluaran dasar bulanan agar kamu memiliki proyeksi berapa besar yang harus kamu miliki hingga mencapai financial freedom.
+Sebelum membahas berbagai hal lain, tips financial freedom pertama adalah memahami dulu bagaimana kondisi keuangan kamu saat ini seperti berapa besar pemasukan dan pengeluaran dasar bulanan agar kamu memiliki proyeksi berapa besar yang harus kamu miliki hingga mencapai financial freedom.
 
-Hal ini sangat penting untuk dipahami karena setiap orang memiliki ukuran yang berbeda-beda terkait financial freedom sehingga pendekatan setiap orang mencapai tahap ini pun akan berbeda-beda pula. Karena itu, kita harus memahami dengan baik bagaimana cashflow yang kita miliki pada saat ini.
+Hal ini sangat penting untuk dipahami karena setiap orang memiliki ukuran yang berbeda-beda terkait apa itu financial freedom. Sehingga, pendekatan setiap orang mencapai tahap ini pun akan berbeda-beda pula. Karena itu, kita harus memahami dengan baik bagaimana cashflow yang kita miliki pada saat ini.
 
 ### 2. Mengatur Cashflow dengan Baik
 
-Apabila anda ingin mencapai financial freedom, maka kamu perlu paham bagaimana cara mengatur uang yang anda miliki dengan bijak. Karena itu, kamu perlu mencatat berbagai pengeluaran dan pemasukan untuk melihat pengeluaran apa saja yang kurang penting sehingga bisa anda kurangi di bulan mendatang.
+Apabila kamu ingin menyusun strategi terbaik cara bebas finansial, maka kamu perlu paham bagaimana cara mengatur uang yang kamu miliki dengan bijak. Karena itu, kamu perlu mencatat berbagai pengeluaran dan pemasukan untuk melihat pengeluaran apa saja yang kurang penting sehingga bisa kamu kurangi di bulan mendatang.
 
-Hal ini sangat penting pada bulan berikutnya ktia tidak melakukan kesalahan yang sama dan uang tersebut dialokasikan ke berbagai hal lain yang bisa berdampak baik terhadap kondisi keuangan anda di masa depan.
+Hal ini sangat penting pada bulan berikutnya ktia tidak melakukan kesalahan yang sama dan uang tersebut dialokasikan ke berbagai hal lain yang bisa berdampak baik terhadap kondisi keuangan kamu di masa depan.
 
 ### 3. Menyiapkan Dana Darurat
 
-Seperti yang sudah kita bahas sebelumnya, agar finansial anda stabil maka anda butuh menyiapkan dana darurat yang jumlahnya tergantung dengan besar kebutuhan pokok anda setiap bulan.
+Seperti yang sudah kita bahas sebelumnya, agar finansial kamu stabil maka kamu butuh menyiapkan dana darurat yang jumlahnya tergantung dengan besar kebutuhan pokok kamu setiap bulan.
 
-Dana darurat bisa dibilang merupakan langkah awal yang harus anda siapkan untuk kondisi keuangan yang jauh lebih stabil untuk menghadapi berbagai kondisi tidak terduga. Karena itu kamu butuh menyiapkan dana darurat yang jumlahnya 3-6 bulan kebutuhan pokok anda.
+Dana darurat bisa dibilang merupakan langkah awal yang harus kamu siapkan untuk kondisi keuangan yang jauh lebih stabil untuk menghadapi berbagai kondisi tidak terduga. Karena itu kamu butuh menyiapkan dana darurat yang jumlahnya 3-6 bulan kebutuhan pokok kamu.
 
 ### 4. Menambah Sumber Penghasilan
 
-Selain menabung, kamu juga perlu mengoptimalkan penghasilan selagi muda agar anda bisa semakin cepat mencapai kondisi financial freedom. Hal ini bisa anda lakukan dengan memiliki bisnis sampingan atau bekerja sebagai freelance di waktu luang sehingga bisa mendukung penghasilan utama anda.
+Selain menabung, kamu juga perlu mengoptimalkan penghasilan selagi muda agar kamu bisa semakin cepat mencapai kondisi financial freedom. Hal ini bisa kamu lakukan dengan memiliki bisnis sampingan atau bekerja sebagai *freelance* di waktu luang sehingga bisa mendukung penghasilan utama kamu.
 
-Oleh sebab itu, anda harus bisa memanfaatkan berbagai peluang agar anda bisa mendapatkan penghasilan yang jauh lebih optimal.
+Oleh sebab itu, kamu harus bisa memanfaatkan berbagai peluang agar kamu bisa mendapatkan penghasilan yang jauh lebih optimal.
 
 ### 5. Mulai Investasi
 
-Investasi merupakan bagian penting yang harus anda lakukan untuk mencapai financial freedom. Kalau kamu sudah menyiapkan berbagai kebutuhan keuangan dasar, maka kamu bisa mulai memilih instrumen investasi terbaik yang bisa memberikan anda keuntungan.
+Investasi merupakan bagian penting yang harus kamu lakukan untuk mencapai apa itu financial freedom. Kalau kamu sudah menyiapkan berbagai kebutuhan keuangan dasar, maka kamu bisa mulai memilih instrumen investasi terbaik yang bisa memberikan kamu keuntungan.
 
 Dalam tahap financial freedom, investasi seseorang biasanya sudah memberikan mereka keuntungan dalam jumlah yang melebihi kebutuhan dasar mereka. Dengan kata lain, investasi yang mereka lakukan bisa memberika mereka passive income yang jumlahnya bisa menutupi berbagai kebutuhan dasar mereka.
 
@@ -110,7 +126,7 @@ Karena itu, kamu harus menghitung berapa jumlah investasi yang harus kamu lakuka
 
 Investasi bisnis melalui ***[equity crowdfunding](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)*** merupakan salah satu instrumen investasi yang bisa membantu kamu mencapai financial freedom karena bisa memberikan kamu dividen dari keuntungan bisnis yang kamu danai.
 
-Apabila kamu berinvestasi melalui skema ini, maka kamu bisa mendapatkan dividen rutin yang besarnya mengikuti keuntungan dari bisnis yang anda danai. Karena itu, patungan bisnis melalui equity crowdfunding merupakan salah satu instrumen investasi yang sangat cocok untuk mempermudah anda mencapai financial freedom.
+Apabila kamu berinvestasi melalui skema ini, maka kamu bisa mendapatkan dividen rutin yang besarnya mengikuti keuntungan dari bisnis yang kamu danai. Karena itu, patungan bisnis melalui equity crowdfunding merupakan salah satu instrumen investasi yang sangat cocok untuk mempermudah kamu mencapai financial freedom.
 
 **Karena itu..**
 
