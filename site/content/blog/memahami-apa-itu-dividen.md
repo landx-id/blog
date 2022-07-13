@@ -142,7 +142,7 @@ Namun saat ini, terdapat kesempatan bagi investor dengan modal minim untuk menda
 
 Sebagai investor, kamu bisa membandingkan bisnis UMKM mana yang paling potensial profitnya agar keuntungan dari modal yang diinvestasikan dapat optimal. Selain dividen saham, kamu juga punya peluang untuk mendapatkan *capital gain* karena peningkatan harga saham dari waktu ke waktu.
 
-Karena itu, jika kamu tLandX merupakan platform equity crowdfunding yang akan membantu kamu menemukan bisnis terbaik yang telah melewati kurasi ketat sehingga potensi kamu bisa menemukan bisnis terbaik dengan lebih mudah.
+Karena itu, jika kamu tertarik mendapatkan dividen untuk *passive income* di masa depan, pastikan untuk memilih platform securities crowdfunding yang berpengalaman dan mengantongi izin OJK (Otoritas Jasa Keuangan) seperti [LandX](landx.id) ya!
 
 karena itu...
 
