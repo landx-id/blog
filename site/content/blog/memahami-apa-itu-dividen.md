@@ -38,17 +38,21 @@ Mari kita bahas lebih lanjut tentang apa itu dividen, sistem pembayaran dividen,
 
 **Dividen adalah** pembagian keuntungan yang dihasilkan oleh perusahaan atau bisnis kepada para investor atau pemegang saham yang menanamkan modal mereka kepada proyek tersebut.
 
-Apabila kamu berinvestasi ke dalam saham, dividen adalah salah satu sumber *return* utama dari saham yang kamu beli selain potensi *capital gain* yang bisa didapatkan. Dividen berasal dari laba bersih yang didapatkan dari kegiatan usaha yang dilakukan oleh suatu bisnis.
+Dari segi **Undang-Undang PPh Pasal 4 ayat (1) huruf g,** pengertian kebijakan dividen adalah bagian laba yang diperoleh pemegang saham atau pemegang polis asuransi atau pembagian sisa hasil usaha koperasi yang diperoleh anggota koperasi.
 
-**Simpelnya, dividen adalah pembagian** keuntungan bersih yang didapatkan perusahaan kepada para investor yang telah mempercayakan modal mereka kepada perusahaan tersebut. Oleh sebab itu, dividen merupakan salah satu bentuk pengembalian dari investasi yang telah dilakukan.
+Apabila kamu berinvestasi ke dalam saham, yang dimaksud apa itu dividen adalah salah satu sumber *return* utama dari saham yang kamu beli selain potensi *capital gain* yang bisa didapatkan. Dividen berasal dari laba bersih yang didapatkan dari kegiatan usaha yang dilakukan oleh suatu bisnis.
+
+**Simpelnya, apa itu dividen adalah pembagian** keuntungan bersih yang didapatkan perusahaan kepada para investor yang telah mempercayakan modal mereka kepada perusahaan tersebut. Oleh sebab itu, dividen merupakan salah satu bentuk pengembalian dari investasi yang telah dilakukan.
 
 **Kebijakan pembagian dividen** sebelumnya dibahas dalam Rapat Umum Pemegang Saham (RUPS) yang akan membahas berbagai kebijakan korporasi yang akan diambil kedepannya termasuk di dalamnya tentang pembagian dividen.
 
-Karena itu, kebijakan terkait dividen seperti apakah akan dibagikan atau dijadikan laba ditahan untuk cadangan modal dan besar dividen dibagikan akan dibahas bersama-sama dalam RUPS. Karena itu, kebijakan dividen merupakan hal yang sangat penting untuk dipahami oleh para investor karena setiap perusahaan bisa saja berbeda-beda.
+Karena itu, kebijakan dividen mengatur kapan pembagian dividen, cara menghitung dividen, dan apakah pembayaran dividen ini akan dibagikan atau dijadikan cadangan modal (laba ditahan) untuk perusahaan. 
 
-## Pembagian Dividen
+Karena itu, kebijakan dividen merupakan hal yang sangat penting untuk dipahami oleh para investor karena setiap perusahaan bisa saja berbeda-beda.
 
-Seperti yang sudah kita bahas sebelumnya, dividen dibagikan setelah persetujuan dalam Rapat Umum Pemegang Saham (RUPS)  yang dilakukan sekali setahun. Namun, ada juga dividen interim yang mungkin saja dibagikan lebih dari satu kali dalam setahun.
+## Apa Itu Dividen dan Cara Pembagian Dividen?
+
+Seperti yang sudah kita bahas sebelumnya, dividen dibagikan setelah persetujuan dalam Rapat Umum Pemegang Saham (RUPS) yang dilakukan sekali setahun. Namun, ada juga dividen interim yang mungkin saja dibagikan lebih dari satu kali dalam setahun.
 
 Karena itu, kamu jangan kaget kalau ada saham-saham tertentu yang pembagiannya 2 kali dalam setahun. Selain itu, apabila kamu berinvestasi lewat[ equity crowdfunding](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog) kamu bisa saja dapat dividen sampai 4 kali setahun tergantung dengan jenis project tempat kamu berinvestasi.
 
