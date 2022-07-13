@@ -134,21 +134,19 @@ Rumus *Dividend yield* adalah perbandingan seberapa besar dividen yang dibagi pe
 >
 > Jadi, *dividend yield* dari PT. ABC adalah 5%.
 
-## *Rumus Passive Income* dari Dividen
+## Pembagian Dividen Saham SCF untuk Passive Income
 
-Dividen merupakan salah satu return investasi sehingga tentu saja bisa menjadi salah satu sumber passive income untuk membantu kamu **mencapai financial freedom**.
+Dulu, mendapatkan dividen saham identik dengan investasi yang membutuhkan modal besar. Hal ini karena kebanyakan perusahaan yang *listing* saham adalah perusahaan berskala besar yang harga lembaran sahamnya terhitung cukup tinggi.
 
-Tapi tentu kamu harus bisa menghitung berapa banyak investasi yang harus kamu lakukan agar bisa menghasilkan dividen yang bisa memenuhi kebutuhan kamu.
+Namun saat ini, terdapat kesempatan bagi investor dengan modal minim untuk mendapatkan pembagian dividen saham lewat skema [securities crowdfunding](landx.id). Skema ini adalah investasi ke berbagai bisnis UMKM potensial yang akan menawarkan dividen rutin.
 
-Selain itu, kamu harus paham bahwa dalam saham, dividen bukanlah sumber return utama karena return bisa saja berupa *capital gain* karena peningkatan harga saham dari waktu ke waktu.
+Sebagai investor, kamu bisa membandingkan bisnis UMKM mana yang paling potensial profitnya agar keuntungan dari modal yang diinvestasikan dapat optimal. Selain dividen saham, kamu juga punya peluang untuk mendapatkan *capital gain* karena peningkatan harga saham dari waktu ke waktu.
 
-Kalau kamu mau investasi dengan dividen rutin jangka panjang yang menjanjikan, maka kamu bisa coba investasi dengan skema equity crowdfunding untuk mempermudah kamu ikut patungan ke berbagai bisnis dan UKM terbaik dan bisa menikmati dividen dari keuntungan bisnis tersebut.
-
-LandX merupakan platform equity crowdfunding yang akan membantu kamu menemukan bisnis terbaik yang telah melewati kurasi ketat sehingga potensi kamu bisa menemukan bisnis terbaik dengan lebih mudah.
+Karena itu, jika kamu tLandX merupakan platform equity crowdfunding yang akan membantu kamu menemukan bisnis terbaik yang telah melewati kurasi ketat sehingga potensi kamu bisa menemukan bisnis terbaik dengan lebih mudah.
 
 karena itu...
 
-## [Yuk Patungan Bisnis Menguntungkan Bareng LandX](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)
+## [Yuk Patungan Bisnis Menguntungkan Lewat LandX](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)
 
 [![Bagaimana? Kamu lebih suka bisnis dengan buyback guarantee atau yang bisa disimpan dalam jangka panjang? Apapun pilihan kamu.. Yuk Patungan  dengan Keuntungan Menjanjikan Bareng LandX](https://accountgram-production.sfo2.cdn.digitaloceanspaces.com/landx_ghost/2021/10/Equity-Crowdfunding-di-Indonesia-1--3.png)](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)
 
