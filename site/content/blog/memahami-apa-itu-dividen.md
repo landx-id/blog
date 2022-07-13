@@ -50,7 +50,9 @@ Karena itu, kebijakan dividen mengatur kapan pembagian dividen, cara menghitung 
 
 Karena itu, kebijakan dividen merupakan hal yang sangat penting untuk dipahami oleh para investor karena setiap perusahaan bisa saja berbeda-beda.
 
-## Apa Itu Dividen dan Cara Pembagian Dividen?
+- - -
+
+## Kapan dan Bagaimana Cara Pembagian Dividen?
 
 Seperti yang sudah kita bahas sebelumnya, dividen dibagikan setelah persetujuan dalam Rapat Umum Pemegang Saham (RUPS) yang dilakukan sekali setahun. Namun, ada juga dividen interim yang mungkin saja dibagikan lebih dari satu kali dalam setahun.
 
@@ -60,6 +62,8 @@ Cara pembagian dividen biasanya ditentukan setelah RUPS. Dalam menentukan sistem
 
 Pembagian dividen ini akan dilakukan berdasarkan hasil keputusan RUPS, karena itu mungkin saja ada kebijakan untuk tidak membangikan dividen karena berbagai pertimbangan seperti penggunaan keuntungan tersebut sebagai cadangan modal atau sebagai dana yang digunakan untuk ekspansi bisnis perusahaan. 
 
+- - -
+
 ## Jenis-jenis Dividen
 
 Setelah paham apa itu dividen, berikutnya mari kita bahas berbagai jenis dividen:
@@ -68,7 +72,7 @@ Setelah paham apa itu dividen, berikutnya mari kita bahas berbagai jenis dividen
 
 Dividen tunai bisa dibilang merupakan bentuk paling umum dari dividen yang sering dibagikan kepada para investor. Dividen tunai adalah dividen yang dibayarkan dalam bentuk dan akan dikenakan pajak sesuai dengan aturan.
 
-Jenis dividen ini pasti sangat sering anda kita temukan karena biasanya kita bisa menemukan info ini diberbagai media dan portal keuangan.
+Jenis dividen ini pasti sangat sering kamu kita temukan karena biasanya kita bisa menemukan info ini diberbagai media dan portal keuangan.
 
 ### 2. Dividen Saham
 
@@ -91,6 +95,8 @@ Kebijakan pembagian dividen skrip ini biasanya dilakukan perusahaan karena keter
 ### 5. Dividen Likuidasi
 
 Dividen likuadasi adalah dividen yang dibagikan kepada investor saat perusahaan mengalami kebangkrutan sehingga mereka mengembalikan modal investor dengan sisa aset yang mereka miliki. Oleh sebab itu, dividen ini bersifat optional dengan bagaimana kondisi perusahaan yang mengalami kebangkrutan.
+
+- - -
 
 ## Rumus dan Perhitungan Dividen
 
@@ -130,15 +136,15 @@ Rumus *Dividend yield* adalah perbandingan seberapa besar dividen yang dibagi pe
 
 ## *Rumus Passive Income* dari Dividen
 
-Dividen merupakan salah satu return investasi sehingga tentu saja bisa menjadi salah satu sumber passive income untuk membantu anda **mencapai financial freedom**.
+Dividen merupakan salah satu return investasi sehingga tentu saja bisa menjadi salah satu sumber passive income untuk membantu kamu **mencapai financial freedom**.
 
-Tapi tentu anda harus bisa menghitung berapa banyak investasi yang harus anda lakukan agar bisa menghasilkan dividen yang bisa memenuhi kebutuhan anda.
+Tapi tentu kamu harus bisa menghitung berapa banyak investasi yang harus kamu lakukan agar bisa menghasilkan dividen yang bisa memenuhi kebutuhan kamu.
 
 Selain itu, kamu harus paham bahwa dalam saham, dividen bukanlah sumber return utama karena return bisa saja berupa *capital gain* karena peningkatan harga saham dari waktu ke waktu.
 
-Kalau kamu mau investasi dengan dividen rutin jangka panjang yang menjanjikan, maka kamu bisa coba investasi dengan skema equity crowdfunding untuk mempermudah anda ikut patungan ke berbagai bisnis dan UKM terbaik dan bisa menikmati dividen dari keuntungan bisnis tersebut.
+Kalau kamu mau investasi dengan dividen rutin jangka panjang yang menjanjikan, maka kamu bisa coba investasi dengan skema equity crowdfunding untuk mempermudah kamu ikut patungan ke berbagai bisnis dan UKM terbaik dan bisa menikmati dividen dari keuntungan bisnis tersebut.
 
-LandX merupakan platform equity crowdfunding yang akan membantu kamu menemukan bisnis terbaik yang telah melewati kurasi ketat sehingga potensi anda bisa menemukan bisnis terbaik dengan lebih mudah.
+LandX merupakan platform equity crowdfunding yang akan membantu kamu menemukan bisnis terbaik yang telah melewati kurasi ketat sehingga potensi kamu bisa menemukan bisnis terbaik dengan lebih mudah.
 
 karena itu...
 
