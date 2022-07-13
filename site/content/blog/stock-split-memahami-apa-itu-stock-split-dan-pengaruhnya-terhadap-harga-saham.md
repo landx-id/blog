@@ -4,18 +4,17 @@ author: Abdul Wahhab
 slug: stock-split-memahami-apa-itu-stock-split-dan-pengaruhnya-terhadap-harga-saham
 title: "Stock Split Adalah: Keuntungan Stock Split Bagi Investor"
 metaTitle: "Stock Split Adalah: Keuntungan Stock Split Bagi Investor"
-metaDescription: Stock split adalah kebijakan korporasi yang dilakukan oleh
-  emiten/ perusahaan penerbit untuk memecah nilai saham mereka sesuai rasio yang
-  ditentukan
+metaDescription: Stock split adalah kebijakan emiten (perusahaan penerbit efek)
+  yang melakukan pemecahan nilai saham mereka dengan rasio yang telah
+  ditentukan..
 intro: >-
-  Dalam beberapa waktu belakangan, kamu pasti sering mendengar istilah ini
-  karena salah satu emiten besar yaitu bank BCA atau emiten BBCA melakukan stock
-  split baru-baru ini. Sebelum BBCA, ada beberapa emiten lain yang sebelumnya
-  pernah melakukan stock split seperti emiten UNVR atau Unilever yang melakukan
-  stock split pada awal 2020 lalu.
+  Emiten market cap besar seperti BBCA dan UNVR pernah melakukan stock split.
+  Apa itu stock split?
+
+  Stock split adalah kebijakan yang dilakukan oleh emiten (perusahaan penerbit efek) yang melakukan split saham atau pemecahan nilai saham mereka dengan rasio yang telah ditentukan sebelumnya.
 
 
-  Akan tetapi, sudahkah kamu paham apa itu stock split dan bagaimana pengaruh stock split terhadap saham anda? Kalau belum yuk sama-sama kita bahas lebih lanjut...
+  Yuk, cari tahu dampak stock split pada investasi kamu
 date: 2021-10-17T08:36:50.000Z
 tag:
   - Cara Investasi Saham
@@ -23,21 +22,23 @@ tag:
   - investasi
 featuredImage:
   src: https://images.unsplash.com/photo-1454165804606-c3d57bc86b40?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxMTc3M3wwfDF8c2VhcmNofDl8fHN0b2NrfGVufDB8fHx8MTY0MDE0Nzc2Mw&ixlib=rb-1.2.1&q=80&w=1080
-  alt: Memamami dengan baik tentang kebijakan stock split dan pengaruhnya terhadap
-    harga saham anda
+  alt: Memamami dengan baik tentang kebijakan stock split dan dampak stock plit
+    pada investasi
   title: Membahas apa itu stock split dan bagaimana pengaruh stock split terhadap
     investasi
 image: https://images.unsplash.com/photo-1454165804606-c3d57bc86b40?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxMTc3M3wwfDF8c2VhcmNofDl8fHN0b2NrfGVufDB8fHx8MTY0MDE0Nzc2Mw&ixlib=rb-1.2.1&q=80&w=1080
 category:
   - Investasi
 ---
-Stock split adalah kebijakan yang dilakukan oleh emiten/ perusahaan penerbit di mana mereka melakukan *split* atau pemecahan nilai saham mereka dengan rasio yang telah ditentukan sebelumnya.
+Beberapa waktu lalu, terdengar istilah stock plit karena kebijakan yang dilakukan oleh emiten besar yakni BCA dengan kode BBCA. Selain BBCA, emiten UNVR dari Unilever juga pernah melakukan kebijakan stock plit pada awal tahun 2020 lalu.
 
-Dalam beberapa waktu belakangan, kamu pasti sering mendengar istilah ini karena salah satu emiten besar yaitu bank BCA atau emiten BBCA melakukan stock split baru-baru ini. Sebelum BBCA, ada beberapa emiten lain yang sebelumnya pernah melakukan *stock split* seperti emiten UNVR atau Unilever yang melakukan *stock split* pada awal 2020 lalu.
+Lalu, apa itu stock split? berikut pengertian stock plit agar kamu dapat memahami dengan baik.
 
-Kebijakan stock split sendiri dilakukan dengan alasan yang berbeda-beda tergantung dengan korporasi yang mengambil kebijakan ini.
+Stock split adalah kebijakan yang dilakukan oleh emiten (perusahaan penerbit efek) yang melakukan split saham atau pemecahan nilai saham mereka dengan rasio yang telah ditentukan sebelumnya.
 
-Biar kamu lebih paham lagi tentang stock split, yuk kita bahas apa itu stock split dan apakah stock split menguntungkan atau tidak bagi para investor.
+Kebijakan stock split sendiri dilakukan perusahaan dengan alasan yang berbeda, tergantung dengan korporasi yang mengambil kebijakan ini.
+
+Biar kamu lebih paham lagi tentang stock split, yuk kita bahas apa itu stock split dan apakah dengan stock split untung atau rugi dampaknya bagi para investor.
 
 - - -
 
@@ -51,9 +52,9 @@ Contohnya, adalah saham BBCA yang melakukan split dengan rasio 1:5 sehingga harg
 
 ## Tujuan Stock Split
 
-Pada dasarnya, stock split adalah aksi korporasi untuk memecah saham sehingga harga saham menjadi lebih murah dan jumlah saham yang beredar menjadi lebih banyak. 
+Pada dasarnya, stock split adalah aksi korporasi untuk memecah saham sehingga harga saham menjadi lebih murah dan jumlah saham yang beredar menjadi lebih banyak. Apa tujuan pemecahan saham ini?
 
-Tujuan stock split sebenarnya agar saham semakin likuid karena harganya per lembar sahamnya akan turun dan dapat mencakup investor yang lebih luas lagi. Hal ini sangat umum dilakukan oleh emiten yang harga per lembar sahamnnya sudah cukup tinggi sehingga harga per lot saham akan mahal dan sulit diakses kalangan investor tertentu. 
+Tujuan stock split adalah untuk meningkatkan likuiditas saham di bursa. Dengan memecah harga per lembar sahamnya maka akan membuat saham akan lebih terjangkau oleh investor ritel. Hal ini juga membuat jumlah saham yang disebar ke publik meningkat.
 
 Akan tetapi, saham stock split bukan jaminan bahwa saham itu 100% bagus, karena itu kamu tetap harus melakukan analisa laporan keuangan dengan baik sebelum memutuskan untuk membeli saham stock split.
 
@@ -61,7 +62,7 @@ Akan tetapi, saham stock split bukan jaminan bahwa saham itu 100% bagus, karena 
 
 Sebagai investor kamu pasti bertanya-tanya bukan, apakah stock split ini memberikan keuntungan atau malah menyebabkan kerugian.
 
-Stock split merupakan kebijakan yang menguntungkan baik dari sisi investor maupun investor. Bagi investor, saham menjadi lebih terjangkau sehingga likuiditas dari saham tersebut menjadi meningkat.
+Stock split merupakan kebijakan yang menguntungkan baik dari sisi investor maupun penerbit. Bagi investor, saham menjadi lebih terjangkau sehingga likuiditas dari saham tersebut menjadi meningkat.
 
 Harga yang semakin terjangkau ini tentu saja membuat frekuensi transaksi menjadi lebih meningkat lagi dibanding sebelumnya. Bagi para investor, likuiditas tentu saja menjadi salah satu pertimbangan penting yang diperhatikan selama investasi.
 
