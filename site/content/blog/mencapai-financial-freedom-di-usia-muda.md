@@ -2,11 +2,13 @@
 draft: false
 author: Abdul Wahhab
 slug: mencapai-financial-freedom-di-usia-muda
-title: "Memahami Cara Mencapai Financial Freedom di Usia Muda "
-metaTitle: "Memahami Cara Mencapai Financial Freedom di Usia Muda "
-metaDescription: "Kebebasan finansial atau financial freedom adalah kondisi dimana "
-intro: Yuk simak cara mencapai financial freedom di usia muda yang penting untuk
-  kamu siapkan dari sekarang.
+title: Apa Itu Financial Freedom dan Cara Mencapai Kebebasan Finansial
+metaTitle: "Memahami Cara Mencapai Kebebasan Finansial di Usia Muda "
+metaDescription: Apa itu financial freedom adalah kondisi seseorang tidak perlu
+  kerja lagi karena sudah punya aset yang cukup untuk memenuhi kebutuhannya.
+intro: Apa itu financial freedom adalah kondisi seseorang tidak perlu kerja lagi
+  karena sudah punya aset yang cukup untuk memenuhi kebutuhannya. Ingin cara
+  mencapai kebebasan finansial? Simak lewat artikel ini!
 date: 2021-10-11T09:23:37.000Z
 tag:
   - tips investasi
@@ -28,9 +30,9 @@ category:
   - Investasi
   - "Bisnis "
 ---
-Salah satu tujuan keuangan yang ingin dicapai hampir semua orang adalah *financial freedom* atau kebebasan finansial. ***[Financial freedom](https://landx.id/)*** sendiri adalah kondisi di mana seseorang bisa tetap hidup bercukupan tanpa bekerja karena mereka sudah memiliki *[passive income](https://landx.id/project/)* yang sudah bisa mencukupi berbagai kebutuhan hidup mereka.
+Salah satu tujuan keuangan yang ingin dicapai hampir semua orang adalah *financial freedom* atau kebebasan finansial. Apa itu ***[financial freedom](https://landx.id/)*** adalah kondisi di mana seseorang bisa tetap hidup bercukupan tanpa bekerja karena mereka sudah memiliki *[passive income](https://landx.id/project/)* yang sudah bisa mencukupi berbagai kebutuhan hidup mereka.
 
-Dengan kata lain, *financial freedom* dapat diartikan sebagai kondisi di mana aset yang kita miliki sudah bisa memberikan *[passive income](https://landx.id/project/)* yang cukup untuk memenuhi semua kebutuhan hidup mereka.
+Dengan kata lain, apa itu *financial freedom* dapat diartikan sebagai kondisi di mana aset yang kita miliki sudah bisa memberikan *[passive income](https://landx.id/project/)* yang cukup untuk memenuhi semua kebutuhan hidup mereka.
 
 Tahap ini sering juga disebut dengan finansial independent di mana seseorang tidak mengalami berbagai kendala finansial walaupun tidak bekerja karena sudah didukung dengan *passive income* yang lebih besar dari penghasilannya.
 
