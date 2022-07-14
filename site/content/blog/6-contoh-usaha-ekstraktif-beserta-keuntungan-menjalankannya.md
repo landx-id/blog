@@ -1,17 +1,23 @@
 ---
 draft: false
 author: Della Octavilia
-title: 6 Contoh Usaha Ekstraktif Beserta Keuntungan Menjalankannya
-metaTitle: 6 Contoh Usaha Ekstraktif Beserta Keuntungan Menjalankannya
+title: 6 Bidang Usaha Ekonomi Ekstraktif yang Sangat Potensial di Indonesia
+metaTitle: "Usaha Ekstraktif Adalah: Memahami Jenis Bidang Usaha Ekstraktif"
 metaDescription: Usaha ekstraktif adalah usaha yang terus berkembang di
   Indonesia karena seluruh pengelolaannya bersumber dari alam.
 intro: Bidang usaha ekstraktif akan terus berkembang dan dapat dijalankan oleh
   siapa saja. Jenis usaha masyarakat yang termasuk bidang usaha ekstraktif
   adalah perikanan, pertanian, peternakan, dan lain sebagainya.
 date: 2022-07-12T16:24:45.307Z
+tag:
+  - Peluang Usaha
+  - Peluang Bisnis
+  - Bisnis Maritim
+category:
+  - Bisnis
 featuredImage:
   title: 6 Contoh Usaha Ekstraktif Beserta Keuntungan Menjalankannya
-  alt: Contoh Usaha Ekstraktif Adalah
+  alt: Contoh Usaha Ekstraktif di Indonesia
   src: img/usaha-ekstraktif.jpg
 ---
 Dengan berbagai kelimpahan sumber daya alam di Indonesia, badan usaha ekstraktif terus mengalami perkembangan setiap waktu. Badan usaha ekstraktif adalah usaha yang bahan bakunya diperoleh langsung dari alam untuk memenuhi kebutuhan manusia.
@@ -24,7 +30,7 @@ Di artikel ini, kita akan membahas lebih lanjut mengenai usaha ekstraktif dan co
 
 Jadi, yuk kita bahas bersama!
 
-## Definisi Usaha Ekstraktif
+## Bidang Usaha Ekstraktif Adalah
 
 Indonesia menjadi salah satu negara yang menggantungkan pemasukannya dari sumber daya alam.
 
@@ -58,7 +64,7 @@ Berikut ini ciri-ciri badan usaha ekstraktif.
   Dengan kekayaan alam Indonesia yang melimpah, banyak pihak yang memanfaatkan sumber daya alam untuk memperoleh keuntungan.\
   Tentunya dalam mencari keuntungan dari memanfaatkan alam, perusahaan harus mengambil dengan cara yang wajar dan tanggung jawab.
 
-## Contoh bidang Usaha Ekstraktif
+## Contoh Bidang Usaha Ekstraktif
 
 Berikut ini beberapa contoh usaha ekstraktif yang dapat kalian ketahui.
 
@@ -154,4 +160,10 @@ Di [LandX](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&
 
 [LandX](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog), platform [equity crowdfunding](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog) terpercaya, transparan, dan telah memiliki izin dari Otoritas Jasa Keuangan (OJK). Kalian bisa mendapatkan keuntungan besar dan modal kecil.
 
-### [Ingin Menjadi Salah satu Pemilik Usaha Ekstraktif? Download Aplikasi LandX Sekarang Juga!](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)
+### [Ingin Menjadi Salah Satu Pemilik Usaha Ekstraktif? Download Aplikasi LandX Sekarang Juga!](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)
+
+<!--StartFragment-->
+
+[![Bagaimana? Kamu lebih suka bisnis dengan buyback guarantee atau yang bisa disimpan dalam jangka panjang? Apapun pilihan kamu.. Yuk Patungan  dengan Keuntungan Menjanjikan Bareng LandX](https://accountgram-production.sfo2.cdn.digitaloceanspaces.com/landx_ghost/2021/10/Equity-Crowdfunding-di-Indonesia-1--3.png)](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)
+
+<!--EndFragment-->
