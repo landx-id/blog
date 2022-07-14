@@ -1,17 +1,16 @@
 ---
 draft: true
 author: Sylvana Oktia Susaningtyas
-title: Apa Itu Frugal Living? Kenali Konsep yang Tunjang Kebebasan Finansial
-metaTitle: Apa Itu Frugal Living? Kenali Konsep yang Tunjang Kebebasan Finansial
+title: Mengenal Apa Itu Frugal Living dan Cara Penerapannya
+metaTitle: Mengenal Apa Itu Frugal Living dan Cara Penerapannya | LandX
 metaDescription: Gaya hidup frugal living adalah gaya hidup hemat dengan menekan
-  pengeluaran dengan tujuan mencapai tujuan keuangan. Perbedaan frugal living
-  dan minima
+  pengeluaran dengan tujuan mencapai tujuan keuangan.
 intro: Gaya hidup frugal living adalah gaya hidup hemat dengan menekan
   pengeluaran dengan tujuan mencapai tujuan keuangan. Cari tahu perbedaan frugal
   living dan minimalis melalui artikel ini.
 date: 2022-07-14T08:14:57.498Z
 featuredImage:
-  title: Apa Itu Frugal Living? Yuk Kenali Konsepnya Untuk Tunjang Kebebasan Finansial
+  title: Mengenal Apa Itu Frugal Living dan Cara Penerapannya
   alt: Apa Itu Frugal Living, Kebebasan Finansial
   src: https://unsplash.com/photos/KE0nC8-58MQ
 ---
