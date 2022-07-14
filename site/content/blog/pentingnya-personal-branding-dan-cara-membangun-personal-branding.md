@@ -1,8 +1,8 @@
 ---
-draft: true
+draft: false
 author: Della Octavilia
-title: Pentingnya Personal Branding dan Cara Membangun Personal Branding
-metaTitle: Pentingnya Personal Branding dan Cara Membangun Personal Branding
+title: Alasan Pentingnya Personal Branding & Cara Membangun Personal Branding
+metaTitle: Alasan Pentingnya Personal Branding & Cara Membangun Personal Branding
 metaDescription: Apa itu personal branding? Personal branding adalah bagaimana
   cara merepresentasikan diri sendiri pada orang lain
 intro: Dengan membangun personal branding yang kuat, Anda akan mendapatkan
@@ -10,6 +10,11 @@ intro: Dengan membangun personal branding yang kuat, Anda akan mendapatkan
   lanjut apa itu personal branding dan tips bangun personal branding di sosial
   media.
 date: 2022-07-11T10:16:40.649Z
+tag:
+  - Investasi Leher ke Atas
+  - Investasi
+category:
+  - Investasi
 featuredImage:
   src: img/personal-branding.jpg
   title: Pentingnya Personal Branding dan Cara Membangun Personal Branding
@@ -183,4 +188,10 @@ Kalian juga akan mendapatkan keuntungan dari [equity crowdfunding](https://landx
 
 [LandX](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog), platform [equity crowdfunding](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog) terpercaya, transparan, dan telah memiliki izin dari Otoritas Jasa Keuangan (OJK). Kalian bisa mendapatkan keuntungan besar dan modal kecil.
 
-### [Ciptakan Keuntungan Besar Untuk Masa Depan dengan Download Aplikasi LandX Sekarang Juga!](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)
+### [Ciptakan Keuntungan Besar untuk Masa Depan dengan Download Aplikasi LandX Sekarang Juga!](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)
+
+<!--StartFragment-->
+
+[![Bagaimana? Kamu lebih suka bisnis dengan buyback guarantee atau yang bisa disimpan dalam jangka panjang? Apapun pilihan kamu.. Yuk Patungan  dengan Keuntungan Menjanjikan Bareng LandX](https://accountgram-production.sfo2.cdn.digitaloceanspaces.com/landx_ghost/2021/10/Equity-Crowdfunding-di-Indonesia-1--3.png)](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)
+
+<!--EndFragment-->
