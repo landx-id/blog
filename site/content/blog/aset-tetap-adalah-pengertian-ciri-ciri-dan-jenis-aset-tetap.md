@@ -1,5 +1,5 @@
 ---
-draft: true
+draft: false
 author: Della Octavilia
 title: "Aset Tetap Adalah: Pengertian, Ciri-ciri, dan Jenis Aset Tetap"
 metaTitle: "Aset Tetap Adalah: Pengertian, Ciri-ciri, dan Jenis Aset Tetap | LandX"
