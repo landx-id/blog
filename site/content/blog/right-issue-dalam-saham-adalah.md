@@ -55,6 +55,8 @@ Investor lama akan mendapatkan right issue berdasarkan rasio yang telah ditetapk
 
 Right issue sendiri memiliki beberapa bentuk lain seperti pemberian saham secara cuma-cuma kepada investor lama atau bisa disebut saham bonus, pemberian dividen berupa saham, stock split atau pemecahan saham, dan waran atau hak untuk membeli saham pada waktu dan harga tertentu.
 
+* Baca juga: [Cara Menebus Waran Menjadi Saham](https://landx.id/blog/saham-warrant-cara-menebus-warrant-dan-hubungannya-dengan-right-issue/)
+
 ## Tujuan dan Fungsi Right Issue
 
 Seperti yang telah kita tahu, right issue adalah kegiatan perusahaan yang menerbitkan saham baru. Apa tujuan saham baru diterbitkan?
