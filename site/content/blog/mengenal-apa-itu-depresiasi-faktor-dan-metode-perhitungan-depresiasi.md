@@ -19,25 +19,15 @@ featuredImage:
 
 Kalau kamu ingin masuk ke dalam dunia bisnis, kamu harus tahu apa itu depresiasi. Aktivitas operasional perusahaan memiliki berbagai jenis biaya, depresiasi adalah salah satu komponen biaya operasional tersebut. 
 
-
-
 Biaya depresiasi adalah biaya yang muncul karena adanya penggunaan aset tetap yang dipakai terus menerus sehingga menyusut manfaat dan kualitasnya. 
 
-
-
 Yuk, kita telusuri lebih dalam tentang apa itu depresiasi, faktor-faktor depresiasi dan metode perhitungan depresiasi.
-
-
 
 ## Apa itu Depresiasi?
 
 Dalam ilmu akuntansi, berdasarkan pernyataan dalam Akuntansi Keuangan Nomor 16 (revisi 2007), Ikatan Akuntansi Indonesia, per 1 Juli 2009, Jakarta: Salemba Empat, hal. 16.2, apa itu depresiasi atau penyusutan alokasi sistematis adalah jumlah yang dapat disusutkan dari suatu aset selama umur manfaatnya. 
 
-
-
 Secara sederhana, apa itu depresiasi adalah biaya sistematis yang muncul karena aset tetap yang digunakan mengalami penurunan manfaat atau penyusutan kualitas. Biaya depresiasi ini sering dikaitkan dengan perhitungan suatu aset tetap, contoh aset tetap adalah bangunan, peralatan perusahaan, mesin, dan lain-lain. 
-
-
 
 Biaya depresiasi adalah alokasi cadangan yang digunakan perusahaan untuk membeli aset baru dan menggantikan aset yang nilainya mengalami penurunan dan tidak bisa digunakan lagi. Besar kecilnya biaya depresiasi nanti akan berpengaruh dalam nilai buku aset dan laporan keuangan.
 
@@ -79,27 +69,19 @@ Depresiasi = (Rp24.000 - Rp2.000) : 5 tahun
 
 \= Rp4.400
 
-
-
 #### b. Tanpa Nilai Residu
 
 > **Depresiasi = Harga Peroleha : Usia Ekonomis**
 
 Jika kita gunakan soal yang sama sebelumnya, maka nilai penyusutan per tahun adalah:
 
-
-
 Depresiasi = Rp24.000 / 5 tahun
 
 \= Rp4.800
 
-
-
 ### 2. Metode Beban Menurun
 
 Metode kedua memakai metode beban menurun. Metode ini dikenal dengan depresiasi beban karena untuk menghitung biaya penyusutannya lebih besar di tahun pertama, kemudian akan semakin mengecil di tahun-tahun berikutnya. Metode penyusutan aktiva tetap ini sangat tepat digunakan untuk aktiva tetap yang relatif cepat kehilangan manfaatnya.
-
-
 
 Adapun rumus metode beban menurun:
 
@@ -109,37 +91,25 @@ Adapun rumus metode beban menurun:
 
 Contoh, suatu perusahaan memiliki mesin cetak dengan nilai Rp330.000.000 dan diperkirakan dapat digunakan selama 5 tahun. Perkiraan nilai residu akhir pemakaian yakni Rp30.000.00. Hitung nilai Depresiasi dengan metode saldo menurun!
 
-
-
 Jawab: 
 
 Pertama hitung jumlah angka tahun.
 
 Jumlah angka tahun = 1+2+3+4+5 = 15
 
-
-
 Kemudian hitung Harga Perolehan - Nilai Residu
 
 Rp330.000.00 - Rp30.000.000 = 300.000.000
-
-
 
 Untuk perhitungan ini perhitungan tahun pertama aset tetap tidak mengalami penyusutan sehingga untuk menghitungnya adalah:
 
 5/15 X Rp300.000.000 = 1.00.000.000
 
-
-
 Begitupun selanjutnya, misalkan pada tahun kedua dalam pembukuan masa manfaat akan berkurang sehingga untuk menghitungnya adalah: 
 
 4/15 X Rp300.000.000 = 80.000.000
 
-
-
 Biasanya beberapa akuntan atau penulis keuangan akan mengaplikasikan perhitungan penyusutan aktiva menggunakan metode saldo menurun ke dalam excel.
-
-
 
 #### b. Metode Saldo Menurun Ganda
 
@@ -149,11 +119,7 @@ Metode perhitungan depresiasi ini tidak jauh beda dengan sebelumnya, kita hanya 
 
 Adapun keterangan tambahan, nilai buku awal atau current book value adalah nilai aset bersih pada awal periode akuntansi.
 
-
-
 Contoh, suatu perusahaan memiliki truk dengan nilai Rp820.000.000 dan diperkirakan dapat digunakan 5 tahun. Hitung nilai depresiasi dengan metode saldo menurun ganda!
-
-
 
 Jawab:
 
@@ -161,37 +127,23 @@ Pertama hitung tarif penyusutan dahulu. Diketahui dalam soal umur ekonomisnya ad
 
 2 X (⅕ X 100) = 40%
 
-
-
 Setelah kita mendapatkan persentase lalu dikalikan dengan nilai buku yang diketahui dalam soal senilai Rp. 820.000.000
-
-
 
 Maka dari itu, 40% X Rp. 820.000.000 = Rp. 328.000.000 pada tahun pertama.
 
-
-
 Setiap tahunnya, beban penyusutan metode saldo dikalikan 2 sehingga menghasilkan depresiasi 2 kali lebih besar. Hal ini juga akan menghasilkan nilai residu yang lebih sedikit untuk setiap tahun dan pada akhir manfaat ekonomis.
-
-
 
 ### 3. Metode Aktivitas
 
 Metode menghitung depresiasi yang sering digunakan badan usaha adalah metode aktivitas. Metode ini sejatinya menganggap depresiasi sebagai bagian dari produktivitas atau penggunaan aset. Metode aktivitas tidak mengacu pada sisi waktu pemakaian, sehingga depresiasi pun tidak dianggap masalah karena penggunaan aset dalam metode ini cenderung mudah diukur.
 
-
-
 Rumusnya adalah 
 
 > **Depresiasi = \[(Harga Perolehan - Nilai Residu) X Estimasi Usia Penggunaan] / Usia Produktif**
 
-
-
 Contoh, suatu perusahaan memiliki mesin dengan nilai Rp260.000.000 dan diperkirakan dapat digunakan selama 6 tahun. Perkiraan nilai residu akhir pemakaiannya yakni Rp5.000.000, selama umur ekonomis mesin dapat digunakan selama 85.000 jam. Berikut data penggunaan per tahun:
 
 ![Contoh Biaya Depresiasi Adalah]( "Contoh Akumulasi Depresiasi Aset Adalah")
-
-
 
 Hitunglah nilai depresiasi menggunakan metode aktivitas!
 
@@ -205,62 +157,42 @@ Penyusutan / Jam Mesin
 
 Rp3000/jam mesin
 
-
-
 Maka pada tahun pertama, jumlah jam dikalikan dengan beban penyusutan sebelumnya.
 
 Jika dalam berupa tabel,
 
 ![Contoh akumulasi depresiasi adalah]( "Contoh akumulasi depresiasi adalah")
 
-
-
 ## Manfaat Metode Perhitungan Depresiasi
 
 Perhitungan biaya depresiasi adalah salah satu hal wajib yang tidak boleh dilewatkan seorang akuntan ketika membuat laporan keuangan. Jika laporan tidak sesuai akan merugikan pihak dan pekerja teknis di sebuah perusahaan.
-
-
 
 ### 1. Mendata Perolehan Keuntungan
 
 Biaya depresiasi adalah hal penting dalam perhitungan laba perusahaan. Manfaat pertama depresiasi adalah mendapat perolehan keuntungan karena dalam laporan terdapat pengeluaran aktiva dari pertama penggunaan sampai masa penggunaan selesai yang wajib dihitung dan dicatat dalam laporan keuangan.
 
-
-
 ### 2. Mengetahui Harga Awal Aset
 
 Manfaat utama perhitungan depresiasi adalah perusahaan mengetahui harga awal aset. Dalam akuntansi, aset yang dibeli tidak serta merta hanya ditinjau manfaatnya saja. Tetapi harga awal aset dan penggunaannya patut diperhitungkan dalam depresiasi. 
-
-
 
 ### 3. Mengetahui Total Beban Tiap Periode
 
 Perusahaan dapat mengetahui biaya depresiasi tiap periode sehingga perhitungan dan pencatatan, perusahaan akan mampu memperhitungkan biaya depresiasi dalam jangka waktu tertentu. Hal ini juga akan membantu perusahaan dalam mempertimbangkan pengambilan suatu keputusan berkaitan aset, pertimbangan pola pemakaian aset, dan kuantitas produksi maksimal aset.
 
-
-
 ### 4. Meminimalkan Kerugian
 
 Pembelian aset dapat menjadi sumber kerugian perusahaan apabila aset tersebut tidak mampu menghasilkan produktivitas. Inilah pentingnya perhitungan biaya depresiasi untuk menghindari kerugian. Adanya aset, perusahaan akan berpikir untuk memaksimalkan aset dalam menghasilkan keuntungan dan menyiapkan alokasi dana sebagai cadangan membeli aset baru.
 
-
+## Kembangkan Bisnis dengan Securities Crowdfunding
 
 Tanpa perhitungan yang tepat, kita tidak akan tahu sebagai pelaku bisnis jika aset-aset tersebut tidak dapat memaksimalkan masa pakainya. Jika hal tersebut terjadi tentunya akan mengganggu produksi dan buruknya lagi, kalau perusahaan tidak menyiapkan dana darurat untuk pembelian aset bisa saja terlilit hutang.
 
 Sebagai pemilik perusahaan tentunya kita tidak bisa menghindari depresiasi, hal tersebut bisa fatal jika perhitungan biaya depresiasi tidak tepat. Untuk menghindari kerugian tersebut, perusahaan kamu bisa loh untuk mendapatkan suntikan modal untuk mengembangkan bisnis kamu secara maksimal. Caranya dengan mendaftarkan perusahaan kamu lewat aplikasi securities crowdfunding. 
 
-
-
 Melalui skema securities crowdfunding, perusahaan kamu yang terdaftar akan didanai oleh investor yang tertarik untuk mengembangkan bisnis yang kamu miliki. Bisnis kamu pun terus bisa berkembang dan bisa menjadi bisnis potensial secara jangka panjang loh. 
-
-
 
 LandX adalah platform [securities crowdfunding](landx.id) yang berpengalaman untuk membantu bisnis potensial saat ini. Mulai dari industri F&B, seperti cloud kitchen, resto sushi dan gelato hits, hingga bisnis di industri properti seperti kos-kosan.
 
-
-
 ## [Yuk, Listing Perusahaanmu lewat LandX Untuk Mengembangkan Bisnis Kamu!](https://landx.id/)
-
-
 
 <!--EndFragment-->
