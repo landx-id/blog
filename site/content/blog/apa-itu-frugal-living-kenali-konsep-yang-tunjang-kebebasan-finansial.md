@@ -12,6 +12,8 @@ date: 2022-07-14T08:14:57.498Z
 tag:
   - Financial Freedom
   - Menabung dengan Benar
+  - Pengelolaan Keuangan
+  - Mengatur Keuangan
 category:
   - Keuangan
 featuredImage:
