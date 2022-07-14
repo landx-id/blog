@@ -1,5 +1,5 @@
 ---
-draft: true
+draft: false
 author: Della Octavilia
 title: "Capital Investment Adalah: Kelebihan & Kekurangan Capital Investment"
 metaTitle: "Capital Investment Adalah: Kelebihan & Kekurangan Capital Investment"
