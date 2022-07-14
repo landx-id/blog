@@ -41,7 +41,7 @@ Untuk lebih lengkapnya, mari kita bahas lebih lanjut tentang apa itu right issue
 
 - - -
 
-## Apa Itu Right Issue dalam Saham?
+## Apa Itu Right Issue Saham?
 
 Berdasarkan Keputusan Badan Pengawasan Pasar Modal Nomor 26 Tahun 2003, right issue adalah hak yang merekat pada saham yang memungkinkan pemegang saham yang sudah ada untuk membeli efek baru.
 
