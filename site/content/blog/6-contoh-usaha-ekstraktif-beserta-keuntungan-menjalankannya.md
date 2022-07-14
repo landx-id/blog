@@ -1,5 +1,5 @@
 ---
-draft: true
+draft: false
 author: Della Octavilia
 title: 6 Contoh Usaha Ekstraktif Beserta Keuntungan Menjalankannya
 metaTitle: 6 Contoh Usaha Ekstraktif Beserta Keuntungan Menjalankannya
