@@ -51,17 +51,17 @@ Saham yang baru diterbitkan ini akan ditawarkan terlebih dahulu kepada pemegang 
 
 Investor lama akan mendapatkan right issue berdasarkan rasio yang telah ditetapkan. Misalnya, menggunakan rasion 1:3 maka pemegang saham lama dapat membeli saham sebanyak 3 kali jumlah saham pegang saat ini.
 
-## Berbagai Bentuk Lain dari Right Issue
+#### Berbagai Bentuk Lain dari Right Issue
 
 Right issue sendiri memiliki beberapa bentuk lain seperti pemberian saham secara cuma-cuma kepada investor lama atau bisa disebut saham bonus, pemberian dividen berupa saham, stock split atau pemecahan saham, dan waran atau hak untuk membeli saham pada waktu dan harga tertentu.
 
-## Kenapa Right Issue Terjadi?
+## Kenapa Right Issue Diterbitkan?
 
 Pada umumnya, perusahaan melakukan right issue dengan berbagai tujuan seperti pengembangan dan ekspansi bisnis, melunasi kebijakan hutang, atau untuk penambahan modal dari perusahaan.
 
 Saat suatu bisnis membutuhkan dana untuk berbagai tujuan, maka mereka bisa menerbitkan saham baru sebagai alternatif mendapatkan dana tersebut. Hal ini salah satu langkah yang sering diambil untuk mengurangi jumlah pinjaman perusahan ke bank.
 
-## Apakah Right Issue Menguntungkan Investor?
+## Adakah Keuntungan Right Issue Bagi Investor?
 
 Right issue memiliki sisi positif dan negatif terutama bagi pemegang saham lama. Di satu sisi, pemegang saham lama akan diuntungkan karena dapat membeli saham yang baru terbit duluan dibandingkan investor baru. Selain itu, biasanya harga yang ditawarkan kepada investor lama pun biasanya lebih murah.
 
