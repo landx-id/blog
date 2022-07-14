@@ -2,7 +2,7 @@
 draft: true
 author: Rafa Syawalia R
 title: Mengenal Apa Itu Depresiasi, Faktor dan Metode Perhitungan Depresiasi
-metaTitle: Apa Itu Depresiasi, Faktor, dan Metode Perhitungan Depresiasi Aset
+metaTitle: Apa Itu Depresiasi, Faktor dan Metode Perhitungan Depresiasi Aset
 metaDescription: "Apa itu depresiasi adalah biaya yang muncul karena adanya
   penggunaan aset tetap yang dimiliki oleh sebuah perusahaan atau pelaku bisnis.
   "
