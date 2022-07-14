@@ -10,6 +10,14 @@ intro: Resmikan grand opening Lucy in The Sky Cikini, favorit outdoor bar di
   Jakarta ini usung konsep berbeda dari cabang sebelumnya, Lucy in The Sky SCBD.
   Buat yang ingin lihat suasana barnya, yuk merapat!
 date: 2022-07-12T01:38:26.921Z
+tag:
+  - Franchise Makanan
+  - Bisnis Makanan
+  - Bisnis Makanan
+  - Bisnis FnB
+category:
+  - Bisnis
+  - Investasi
 featuredImage:
   title: "PROJECT SERIES: Grand Opening Lucy in The Sky Cikini"
   alt: Bar di Jakarta, Lucy in The Sky Cikini
@@ -21,9 +29,7 @@ Berlokasi di Kawasan Menteng, kunjungi bar favorit Jakarta ini di alamat Lucy in
 
 📍 Jl. Cikini Raya No.22, Cikini, Kecamatan Menteng, Jakarta Pusat
 
-Video
-
-
+{{< youtube id="PDQcHbLatwU" >}}
 
 About Lucy in The Sky
 
@@ -43,8 +49,6 @@ Lucy in The Sky dikenal memiliki lokasi indoor dengan suasana homey dan cozy boh
 
 Redamnya jumlah pasien positif dan pandemi, buat kegiatan ekonomi Indonesia mulai menggeliat. Salah satunya terlihat dari terealisasinya cabang baru Lucy in The Sky Cikini di Jakarta Pusat. Ada yang baru di Cikini!
 
-
-
 Lucy in The Sky Cikini
 
 Ini dia yang ditunggu-tunggu, peresmian dari kehadiran cabang terbaru Lucy in The Sky Cikini. Mengusung konsep resto dan bar nuansa eclectic bohemian jungalow setting, bar di Jakarta ini tawarkan suasana yang berbeda dari cabang terdahulunya.
@@ -62,8 +66,6 @@ Out of ordinary – pionir outdoor bar di Jakarta, Lucy In The Sky tidak hanya m
 Sustainable business concept – tidak berhenti karena pujian dan panutan sebagai Jakarta rooftop bar, Lucy In The Sky selalu gencar memperbarui kinerjanya untuk meningkatkan daya saing.
 
 Lucy in The Sky Cikini dapat laksanakan peresmiannya pada akhir Juni 2022 lalu berkat pendanaan investor di LandX. Investor bisa miliki saham bisnis sekeren Lucy in The Sky dengan modal minim. Kamu tertarik jadi investor saham bisnis juga?
-
-
 
 Jadi Investor Saham Bisnis
 
@@ -86,7 +88,5 @@ Menjadi investor sekaligus bagian owner dari perusahaan tersebut. Menjadi owner 
 Investasi juga secara mudah hanya melalui aplikasi LandX pada smartphone kamu. Berinvestasi layaknya belanja online! Jika kamu memiliki pertanyaan yang belum tersedia di website dan aplikasi, LandX menyediakan fasilitas untuk kamu bisa mendiskusikannya di sini. 
 
 Mau Investasi Miliki Saham Bisnis? Download Aplikasi LandX Sekarang!
-
-
 
 <!--EndFragment-->
