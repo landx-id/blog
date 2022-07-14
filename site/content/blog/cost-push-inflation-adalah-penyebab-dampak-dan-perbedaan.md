@@ -1,8 +1,8 @@
 ---
 draft: false
 author: Vlora Riyandi
-title: "Cost Push Inflation Adalah: Penyebab, Dampak, dan Perbedaan"
-metaTitle: "Cost Push Inflation Adalah: Penyebab, Dampak, dan Perbedaan"
+title: "Cost Push Inflation Adalah: Penyebab dan Dampak Cost Push Inflation"
+metaTitle: Memahami Apa Itu Cost Push Inflation dan Penyebabnya
 metaDescription: Cost push inflation adalah inflasi yang disebabkan oleh biaya
   produksi. Penyebab terjadinya cost push inflation adalah karena aktivitas
   produsen yang
@@ -10,11 +10,17 @@ intro: Pada artikel ini kita akan membahas lebih lanjut terkait penyebab cost
   push inflation dan perbedaan demand pull inflation dengan cost inflation. Yuk,
   scroll lebih lanjut.
 date: 2022-07-13T17:22:58.410Z
+tag:
+  - Inflasi
+  - Kebijakan Ekonomi
+  - Laju Inflasi
+category:
+  - Bisnis
 featuredImage:
   title: "Cost Push Inflation Adalah: Penyebab, Dampak, dan Perbedaan dengan
     Demand Push Inflation"
   alt: Cost Push Inflation Adalah
-  src: https://unsplash.com/photos/K_3UV1ZFcJ0
+  src: https://images.unsplash.com/photo-1635840420799-f75477b0b977?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=869&q=80
 ---
 **Cost Push Inflation** – Sebelum membahas langsung definisi cost push inflation, mari kita ulas singkat terkait inflasi. Inflasi adalah suatu peristiwa naiknya harga-harga barang dan jasa yang terjadi secara terus-menerus sehingga mengakibatkan nilai uang turun.
 
@@ -36,9 +42,7 @@ Jika biaya produksi naik, maka tentu produsen akan membatasi jumlah output atau 
 
 Agar lebih paham dengan baik, berikut kurva cost push inflation dan penjelasannya.
 
-
-
-![](https://lh5.googleusercontent.com/gReO-jobMxrr6wvormzLkdyHQgNSByiv9cZmxPNNHWPnKe8guNDYEZn1uYhH3X8lK4wVh3tlDclOw06pZDndarRhiI2dQhq0Mo95bYp8Ik1p28RBlkK007Dv-V-gF71rUE-d0DA4HQQrxkL_oO0)
+![Bentuk kurva cost push inflation](https://lh5.googleusercontent.com/gReO-jobMxrr6wvormzLkdyHQgNSByiv9cZmxPNNHWPnKe8guNDYEZn1uYhH3X8lK4wVh3tlDclOw06pZDndarRhiI2dQhq0Mo95bYp8Ik1p28RBlkK007Dv-V-gF71rUE-d0DA4HQQrxkL_oO0 "memahami jenis-jenis cost push inflation")
 
 Dari gambar kurva cost push inflation di atas dapat terlihat garis supply S yang bergeser ke kiri menjadi S1, hal ini berarti terjadi inflasi karena barang yang diproduksi terbatas disebabkan kenaikan biaya produksi. Sehingga titik keseimbangan pasar dengan lambang E bergeser ke E1.
 
@@ -78,13 +82,14 @@ Aset yang paling menguntungkan saat inflasi adalah aset yang dijamin menghasilka
 
 Inflasi dapat berdampak signifikan pada portofolio Anda dari waktu ke waktu. Selain pekerjaan profesional, pertimbangkan dua langkah yang dapat membantu melindungi investasi Anda dari inflasi:
 
-1. **Memiliki Dana Darurat**
+**1. Memiliki Dana Darurat**
 
-   Inflasi berarti harga barang dan jasa mengalami kenaikan. Agar pengeluaran tidak boncos maka diperlukan penghematan dan apabila terjadi hal tak terduga maka uang darurat dapat dimanfaatkan.\
-   Wajib untuk memiliki dana darurat bagi setiap individu dengan tanggungannya. Minimal besar dana darurat adalah perhitungan pengeluaran bulanan Anda dikalikan tiga bulan. Dapat juga dengan menyimpan dana darurat sebesar 6 kali gaji bulanan Anda.
-2. **Melakukan Diversifikasi Portofolio Investasi**
+Inflasi berarti harga barang dan jasa mengalami kenaikan. Agar pengeluaran tidak boncos maka diperlukan penghematan dan apabila terjadi hal tak terduga maka uang darurat dapat dimanfaatkan.\
+Wajib untuk memiliki dana darurat bagi setiap individu dengan tanggungannya. Minimal besar dana darurat adalah perhitungan pengeluaran bulanan Anda dikalikan tiga bulan. Dapat juga dengan menyimpan dana darurat sebesar 6 kali gaji bulanan Anda.
 
-   Strategi [diversifikasi portofolio](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog) dapat Anda lakukan dengan memiliki saham komoditas, emas, uang tunai dana darurat, dan lainnya. Namun, tidak ada jaminan keuangan Anda terhindar dari gerusan inflasi karena pertumbuhan ekonomi yang dapat tumbuh secara unik. 
+**2. Melakukan Diversifikasi Portofolio Investasi**
+
+Strategi [diversifikasi portofolio](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog) dapat Anda lakukan dengan memiliki saham komoditas, emas, uang tunai dana darurat, dan lainnya. Namun, tidak ada jaminan keuangan Anda terhindar dari gerusan inflasi karena pertumbuhan ekonomi yang dapat tumbuh secara unik. 
 
 Karena itu, penting melakukan investasi sedari dini atau mulai hari ini agar Anda dapat memersiapkan diri lebih baik sebelum inflasi terjadi. Salah satunya dengan berinvestasi pada saham bisnis privat di equity crowdfunding.
 
@@ -93,3 +98,9 @@ Equity crowdfunding adalah cara Anda dapat berinvestasi pada berbagai sektor bis
 Sehingga sembari Anda berinvestasi, berarti Anda ikut mendorong pertumbuhan ekonomi agar dapat memperlambat laju inflasi. Oleh karena itu.. 
 
 ## [Yuk, Berinvestasi Agar Keuangan Ready Menghadapi Inflasi](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)
+
+<!--StartFragment-->
+
+[![Bagaimana? Kamu lebih suka bisnis dengan buyback guarantee atau yang bisa disimpan dalam jangka panjang? Apapun pilihan kamu.. Yuk Patungan  dengan Keuntungan Menjanjikan Bareng LandX](https://accountgram-production.sfo2.cdn.digitaloceanspaces.com/landx_ghost/2021/10/Equity-Crowdfunding-di-Indonesia-1--3.png)](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)
+
+<!--EndFragment-->
