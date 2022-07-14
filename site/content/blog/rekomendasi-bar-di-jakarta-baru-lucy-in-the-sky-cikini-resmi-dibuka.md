@@ -31,7 +31,7 @@ Berlokasi di Kawasan Menteng, kunjungi bar favorit Jakarta ini di alamat Lucy in
 
 {{< youtube id="PDQcHbLatwU" >}}
 
-About Lucy in The Sky
+## About Lucy in The Sky
 
 Dikenal sebagai rooftop bar di Jakarta favorit sejak tahun 2011. Pertama kali menetap di rooftop Fairgrounds SCBD dan dikenal sebagai Lucy in The Sky SCBD. Lucy in The Sky merupakan restoran pertama yang mengusung konsep baru dengan lokasi restoran di rooftop Jakarta.
 
@@ -67,7 +67,7 @@ Sustainable business concept – tidak berhenti karena pujian dan panutan sebaga
 
 Lucy in The Sky Cikini dapat laksanakan peresmiannya pada akhir Juni 2022 lalu berkat pendanaan investor di LandX. Investor bisa miliki saham bisnis sekeren Lucy in The Sky dengan modal minim. Kamu tertarik jadi investor saham bisnis juga?
 
-Jadi Investor Saham Bisnis
+## Jadi Investor Saham Bisnis
 
 Tidak hanya Lucy in The Sky Cikini, banyak perusahaan hadir sebagai project bisnis di LandX untuk lancarkan strategi ekspansi mereka.
 
