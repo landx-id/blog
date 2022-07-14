@@ -51,7 +51,7 @@ Saham yang baru diterbitkan ini akan ditawarkan terlebih dahulu kepada pemegang 
 
 Investor lama akan mendapatkan right issue berdasarkan rasio yang telah ditetapkan. Misalnya, menggunakan rasion 1:3 maka pemegang saham lama dapat membeli saham sebanyak 3 kali jumlah saham pegang saat ini.
 
-#### Berbagai Bentuk Lain dari Right Issue
+#### Bentuk Lain dari Right Issue
 
 Right issue sendiri memiliki beberapa bentuk lain seperti pemberian saham secara cuma-cuma kepada investor lama atau bisa disebut saham bonus, pemberian dividen berupa saham, stock split atau pemecahan saham, dan waran atau hak untuk membeli saham pada waktu dan harga tertentu.
 
@@ -64,6 +64,14 @@ Pada umumnya, perusahaan melakukan right issue dengan berbagai tujuan seperti pe
 Saat suatu bisnis membutuhkan dana untuk berbagai tujuan, maka mereka bisa menerbitkan saham baru sebagai alternatif mendapatkan dana tersebut. Hal ini salah satu langkah yang sering diambil untuk mengurangi jumlah pinjaman perusahan ke bank.
 
 Jadi, tujuan dan fungsi right issue adalah perusahaan mendapatkan dana segar. Dana segar dari right issue akan digunakan perusahaan sesuai keperluan, misal untuk ekspansi dan pengembangan usaha atau membayar utang.
+
+## Pengaruh Right Issue Terhadap Harga Saham 
+
+Right issue adalah salah satu cara bagi perusahaan yang kekurangan uang untuk meningkatkan modal atau untuk membayar utang. Pemegang saham dapat membeli saham baru dengan harga diskon untuk jangka waktu tertentu. 
+
+Diterbitkannya saham baru karena aksi korporasi right issue, membuat semakin banyak saham yang beredar di pasar, hal ini menyebabkan harga saham akan terdilusi dan kemungkinan akan turun.
+
+Dilusi saham adalah penurunan persentase kepemilikan saham karena bertambahnya jumlah total saham beredar. Turunnya persentase kepemilikan maka persentase dividen yang diterima juga menjadi turun.
 
 ## Dampak Positif dan Negatif Right Issue
 
@@ -80,7 +88,7 @@ Terdapat dampak positif dan negatif dari kebijakan right issue yang dikeluarkan 
 
   Sehingga untuk menghadapi dilusi saham akibat right issue, investor perlu membeli saham baru yang diterbitkan di right issue ini. Namun perlu dilihat dicari tahu terlebih dahulu tujuan penggunaan dana dari right saham ini sebelum membeli.
 
-## Adakah Keuntungan Right Issue Bagi Investor?
+## Apakah Right Issue Menguntungkan Investor?
 
 Right issue memiliki sisi positif dan negatif terutama bagi pemegang saham lama. Di satu sisi, pemegang saham lama akan diuntungkan karena dapat membeli saham yang baru terbit duluan dibandingkan investor baru. Selain itu, biasanya harga yang ditawarkan kepada investor lama pun biasanya lebih murah.
 
