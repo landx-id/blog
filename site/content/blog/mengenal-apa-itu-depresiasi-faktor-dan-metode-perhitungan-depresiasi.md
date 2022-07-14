@@ -193,6 +193,6 @@ Melalui skema securities crowdfunding, perusahaan kamu yang terdaftar akan didan
 
 LandX adalah platform [securities crowdfunding](landx.id) yang berpengalaman untuk membantu bisnis potensial saat ini. Mulai dari industri F&B, seperti cloud kitchen, resto sushi dan gelato hits, hingga bisnis di industri properti seperti kos-kosan.
 
-## [Yuk, Listing Perusahaanmu lewat LandX Untuk Mengembangkan Bisnis Kamu!](https://landx.id/)
+## [Yuk, Listing Perusahaanmu lewat LandX untuk Mengembangkan Bisnis Kamu!](https://landx.id/)
 
 <!--EndFragment-->
