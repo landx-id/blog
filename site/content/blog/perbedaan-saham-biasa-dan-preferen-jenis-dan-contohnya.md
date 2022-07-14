@@ -1,14 +1,20 @@
 ---
 draft: false
 author: Vlora Riyandi
-title: Perbedaan Saham Biasa dan Preferen, Jenis dan Contohnya
-metaTitle: Perbedaan Saham Biasa dan Preferen, Jenis dan Contohnya | LandX
+title: Memahami Perbedaan Saham Biasa dan Saham Preferen Beserta Jenisnya
+metaTitle: Memahami Perbedaan Common Stock dan Preferred Stock Beserta Jenisnya
 metaDescription: Perbedaan common dan preferred stock adalah terlihat dari hak
   klaim atas aset perusahaan. Pemegang saham preferen lebih didahulukan daripada
 intro: Perbedaan common dan preferred stock yaitu hak klaim atas aset
   perusahaan. Ketahui kenapa pemegang saham preferen lebih didahulukan, serta
   jenis saham biasa dan preferen dalam artikel ini.
 date: 2022-07-14T07:05:49.753Z
+tag:
+  - Investasi Saham
+  - Investasi untuk Pemula
+  - Tips Investasi Saham
+category:
+  - Investasi
 featuredImage:
   title: Perbedaan Saham Biasa dan Preferen, Jenis dan Contohnya
   alt: Perbedaan Saham Biasa dan Preferen, Jenis dan Contohnya
@@ -26,7 +32,7 @@ Di Indonesia sendiri jumlah saham preferen atau preferred stock belum banyak. Da
 
 Dalam artikel ini akan kita bahas lebih lanjut.
 
-## Saham Biasa (Common Stock)
+## Saham Biasa/Common Stock Adalah
 
 Apa itu common stock?
 
@@ -34,39 +40,39 @@ Saham biasa adalah surat berharga atau sertifikat sebagai bukti atas hak-hak dan
 
 Selain itu, suara voting pemegang saham common stock berpengaruh pada kebijakan strategis seperti stock split atau pemecahan nilai saham, hingga memilih dewan direksi perusahaan. 
 
-## Jenis Saham Biasa
+## Jenis Saham Biasa/Common Stock
 
 Apa saja jenis saham biasa (common stock)? Berikut ada 7 kategori dasar saham biasa.
 
-1. ### Income Stocks
+### 1. Income Stocks
 
 Saham yang memberikan keuntungan dividen besar namun tidak teratur distribusinya. Income stock dapat membuat pemegang sahamnya dapat menghasilkan keuntungan tanpa perlu menjual saham.
 
-2. ### Blue Chip Stocks
+### 2. Blue Chip Stocks
 
 Apa Anda pernah mendengar apa itu blue chip stocks? Hal ini penting bagi investor pemula pada umumnya. Blue chip stocks adalah saham dari perusahaan yang memiliki reputasi baik dalam historinya, seperti baik pertumbuhan serta stabilitas distribusi dividennya. Perusahaan saham blue chip yaitu perusahaan yang memiliki kapitalisasi besar hingga Rp 10 triliun. Contoh saham blue chip di Indonesia yaitu BBCA, BBRI, ANTM, dan beberapa perusahaan emiten di indeks LQ45.
 
-3. ### Growth Stocks
+### 3. Growth Stocks
 
 Growth stocks adalah saham yang diterbitkan oleh perusahaan yang mengalami pertumbuhan yang lebih cepat daripada industrinya. Contoh growth stocks di bursa efek Indonesia adalah Jasa Marga, Waskita Beton, dan Sido Muncul. Contoh growth stock di bursa AS ada Amazon dan Facebook. Growth stock memiliki pertumbuhan saham dengan apresiasi harga saham yang potensial. Apresiasi harga saham adalah nilai aset yang meningkat karena faktor pasar yang tumbuh cepat.
 
-4. ### Cyclical Stocks
+### 4. Cyclical Stocks
 
 Cyclical stocks adalah saham yang sangat dipengaruhi oleh kondisi makroekonomi. Saham cyclical akan menanjak naik nilainya saat ledakan ekonomi, namun cenderung turun selama resesi. Contoh cyclical stocks adalah saham maskapai penerbangan dan perhotelan.
 
-5. ### Defensive Stocks
+### 5. Defensive Stocks
 
 Defensive stocks merupakan kebalikan kondisi saham cyclical. Defensive stocks adalah saham yang mampu mempertahankan nilainya selama resesi terjadi. Contoh defensive stocks adalah saham dari emiten yang memproduksi produk kebutuhan harian atau primer, seperti makanan dan minuman, serta obat-obatan.
 
-6. ### Emerging Growth Stocks
+### 6. Emerging Growth Stocks
 
 Emerging growth stocks adalah saham yang memiliki nilai lebih stabil dan berasal dari perusahaan kecil. Saham ini stabil karena tidak banyak terpengaruh kondisi ekonomi yang turun maupun naik.
 
-7. ### Speculative Stocks
+### 7. Speculative Stocks
 
 Speculative stocks adalah saham yang memiliki risiko tinggi namun menawarkan pengembalian (return) yang signifikan. Saham spekulatif memiliki tingkat fluktuasi tinggi sehingga biasanya dimanfaatkan para trader saat trading untuk mencari capital gain.
 
-## Saham Preferen (Preferred Stock)
+## Saham Preferen/Preferred Stock Adalah
 
 Saham preferen adalah jenis saham istimewa yang memberikan prioritas kepada pemegangnya atas aset dan laba perusahaan. Sifat saham preferen adalah kombinasi antara utang dan saham biasa. 
 
@@ -84,11 +90,11 @@ Keuntungan maksimum saham preferen = 100 lembar x ( Rp 5.000 x 10%) adalah Rp 50
 
 Setelah mengetahui definisi saham preferen, mari ketahui jenis saham preferen yang ada.
 
-1. ### Saham Preferen Kumulatif
+### 1. Saham Preferen Kumulatif
 
 Saham preferen kumulatif adalah preferred stock yang apabila dalam satu tahun perusahaan tidak memberikannya dividen, maka dividen akan diakumulasikan ke tahun berikutnya. 
 
-2. ### Saham Preferen Partisipatif
+### 2. Saham Preferen Partisipatif
 
 Saham preferen partisipatif adalah pemegang preferred stock yang memeroleh dividen yang tetap jumlahnya, namun juga ikut ambil bagian dalam mengambil keuntungan perusahaan apabila melebihi persentase tertentu. 
 
@@ -123,3 +129,9 @@ Melalui platform [equity crowdfunding](https://landx.id/project/?utm_source=Blog
 Menjadi pemilik perusahaan bisnis privat melalui kepemilikan [saham bisnis privat](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog) dapat dilakukan melalui [equity crowdfunding](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog). Oleh karena itu..[](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)
 
 ## [Yuk, Miliki Saham Sektor Privat Melalui Equity Crowdfunding](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)
+
+<!--StartFragment-->
+
+[![Bagaimana? Kamu lebih suka bisnis dengan buyback guarantee atau yang bisa disimpan dalam jangka panjang? Apapun pilihan kamu.. Yuk Patungan  dengan Keuntungan Menjanjikan Bareng LandX](https://accountgram-production.sfo2.cdn.digitaloceanspaces.com/landx_ghost/2021/10/Equity-Crowdfunding-di-Indonesia-1--3.png)](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)
+
+<!--EndFragment-->
