@@ -1,17 +1,25 @@
 ---
 draft: true
 author: Della Octavilia
-title: "Capital Investment Adalah: Kelebihan dan Kekurangannya"
-metaTitle: "Capital Investment Adalah: Kelebihan dan Kekurangannya | LandX"
+title: "Capital Investment Adalah: Kelebihan & Kekurangan Capital Investment"
+metaTitle: "Capital Investment Adalah: Kelebihan & Kekurangan Capital Investment"
 metaDescription: Capital investment adalah modal (uang tunai, aset, pinjaman)
   yang diperlukan perusahaan untuk pertumbuhan jangka panjang bisnisnya.
 intro: Apa yang dimaksud dengan capital investment? Capital investment memegang
   peranan vital sebagai modal yang diperlukan perusahaan untuk pertumbuhan
   jangka panjang bisnisnya.
 date: 2022-07-14T06:25:00.933Z
+tag:
+  - Investasi
+  - Instrumen Investasi
+  - Venture Capital
+  - Equity Crowdfunding
+  - Securities Crowdfunding
+category:
+  - Investasi
 featuredImage:
   title: "Capital Investment Adalah: Kelebihan dan Kekurangannya"
-  alt: capital investment adalah
+  alt: Memahami apa itu capital investment atau investment capital
   src: img/investment-capital.jpg
 ---
 Capital investment adalah modal yang diperlukan suatu perusahaan untuk pertumbuhan bisnis di masa depan. Perusahaan dapat memperoleh capital investment dari berbagai sumber, mulai dari lembaga keuangan, hingga modal ventura.
@@ -22,7 +30,7 @@ Artikel kali ini akan membahas seputar capital investment, mulai dari pengertian
 
 Jadi, simak terus artikel ini!
 
-## Capital Investment
+## Capital Investment Adalah
 
 Dalam menjalankan sebuah bisnis, banyak perusahaan yang terus mencari modal untuk pertumbuhan dan perkembangan bisnisnya di masa yang akan datang. Modal menjadi vital bagi suatu perusahaan, karena tanpa modal perusahaan akan sulit bergerak.
 
@@ -125,4 +133,10 @@ Platform [equity crowdfunding](https://landx.id/project/?utm_source=Blog&utm_med
 
 [LandX](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog), platform equity crowdfunding terpercaya, transparan, dan telah mengantongi izin dari Otoritas Jasa Keuangan (OJK). Kalian bisa memperoleh keuntungan besar dengan modal kecil.[](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)
 
-## [Temukan Bisnis Impianmu dengan Download Aplikasi LandX ](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)Sekarang Juga!
+## [Temukan Bisnis Impianmu dengan Download Aplikasi LandX Sekarang Juga!](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)
+
+<!--StartFragment-->
+
+[![Bagaimana? Kamu lebih suka bisnis dengan buyback guarantee atau yang bisa disimpan dalam jangka panjang? Apapun pilihan kamu.. Yuk Patungan  dengan Keuntungan Menjanjikan Bareng LandX](https://accountgram-production.sfo2.cdn.digitaloceanspaces.com/landx_ghost/2021/10/Equity-Crowdfunding-di-Indonesia-1--3.png)](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)
+
+<!--EndFragment-->
