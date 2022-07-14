@@ -2,12 +2,13 @@
 draft: false
 author: Abdul Wahhab
 slug: right-issue-dalam-saham-adalah
-title: Memahami Apa Itu Right Issue dalam Saham dan Pengaruhnya Harga Saham
-metaTitle: Memahami Apa Itu Right Issue dalam Saham dan Pengaruhnya Harga Saham
-metaDescription: Right issue adalah hak investor lama untuk membeli duluan efek
-  yang baru diterbitkan sebelum ditawarkan kepada publik/ stanby buyer
+title: "Apa Itu Right Issue Saham: Tujuan dan Keuntungan Bagi Investor"
+metaTitle: "Apa Itu Right Issue Saham: Tujuan dan Keuntungan Bagi Investor"
+metaDescription: Pengertian right issue saham adalah hak dari seorang investor
+  lama untuk membeli lebih dulu kuota saham baru sebelum ditawarkan kepada
+  publik.
 intro: >
-  Istilah right semakin sering dibahas belakangan ini  karena Bank Rakyat
+  Istilah right semakin sering dibahas belakangan ini karena Bank Rakyat
   Indonesia (BRI) berencana untuk menerapkan right issue dalam beberapa waktu ke
   depan.
 
@@ -23,18 +24,18 @@ tag:
 featuredImage:
   src: https://images.unsplash.com/photo-1517940001917-1c03b8b1b85b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxMTc3M3wwfDF8c2VhcmNofDR8fHNtYXJ0JTIwcGVvcGxlfGVufDB8fHx8MTY0MDI1MTE2Mw&ixlib=rb-1.2.1&q=80&w=1080
   alt: memahami dampak positif dan negatif right issue terhadap investasi saham anda
-  title: Memahami right issue saham terhadap investasi jangka panjang anda
+  title: "Apa Itu Right Issue Saham: Tujuan dan Keuntungan Bagi Investor"
 image: https://images.unsplash.com/photo-1517940001917-1c03b8b1b85b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxMTc3M3wwfDF8c2VhcmNofDR8fHNtYXJ0JTIwcGVvcGxlfGVufDB8fHx8MTY0MDI1MTE2Mw&ixlib=rb-1.2.1&q=80&w=1080
 category:
   - Investasi
 ---
 - - -
 
-Apabila anda berinvestasi menggunakan instrumen pasar modal seperti saham, anda pasti sering mendengar istilah **right issue saham.**
+Apabila anda berinvestasi menggunakan instrumen pasar modal seperti saham, anda pasti pernah mendengar istilah **right issue saham.**
 
-Right issue dalam saham adalah hak yang diberikan kepada pemegang saham lama untuk membeli efek baru sebelum ditawarkan kepada pihak lain, oleh sebab itu right issue sering juga disebut sebagai Hak Memesan Efek Terlebih Dahulu (HMETD).
+Right issue adalah hak yang diberikan kepada pemegang saham lama untuk membeli saham baru sebelum ditawarkan kepada pihak lain. Oleh sebab itu, right issue adalah Hak Memesan Efek Terlebih Dahulu (HMETD).
 
-Istilah ini semakin sering dibahas belakangan ini  karena Bank Rakyat Indonesia (BRI) berencana untuk menerapkan right issue dalam beberapa waktu ke depan.
+Istilah ini semakin sering dibahas belakangan ini karena Bank Rakyat Indonesia (BRI) berencana untuk menerapkan right issue dalam beberapa waktu ke depan.
 
 Untuk lebih lengkapnya, mari kita bahas lebih lanjut tentang apa itu right issue dan bagaimana pengaruh kebijakan ini terhadap investasi.
 
