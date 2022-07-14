@@ -81,8 +81,6 @@ Sama seperti investasi saham di pasar modal, ***[buyback guarantee](https://land
 
 **Bagaimana? Anda lebih suka bisnis dengan buyback guarantee atau yang bisa disimpan dalam jangka panjang? Kalau belum yuk simak video penjelasan dari Mindland di bawah ini:**
 
-
-
 {{< button link="https://www.youtube.com/watch?v=p0z6zpJ6N1I&t=1s" text="Yuk Simak Video Penjelasan dari Mindland" >}}
 
 {{< youtube id="p0z6zpJ6N1I&t" >}}
