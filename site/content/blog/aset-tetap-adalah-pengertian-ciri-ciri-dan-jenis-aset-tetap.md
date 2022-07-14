@@ -10,6 +10,12 @@ intro: Aktiva tetap atau aset tetap penting untuk keberlangsungan perusahaan.
   Apa saja yang termasuk aktiva tetap? Ciri-ciri aset tetap ada yang berwujud
   dan tidak berwujud. Simak lengkapnya di artikel ini.
 date: 2022-07-14T07:26:20.144Z
+tag:
+  - "Aset "
+  - Aktiva Lancar
+category:
+  - Keuangan
+  - Bisnis
 featuredImage:
   alt: "Aset Tetap Adalah: Pengertian, Ciri-ciri, dan Jenis Aset Tetap"
   title: "Aset Tetap Adalah: Pengertian, Ciri-ciri, dan Jenis Aset Tetap"
@@ -180,3 +186,9 @@ Kalian juga akan mendapatkan keuntungan dari [equity crowdfunding](https://landx
 [LandX](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog), platform [equity crowdfunding](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog) terpercaya, transparan, dan telah memiliki izin dari Otoritas Jasa Keuangan (OJK). Kalian bisa mendapatkan keuntungan besar dan modal kecil.
 
 ## [Ciptakan Aset untuk Masa Depan dengan Investasi di LandX Sekarang Juga!](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)
+
+<!--StartFragment-->
+
+[![Bagaimana? Kamu lebih suka bisnis dengan buyback guarantee atau yang bisa disimpan dalam jangka panjang? Apapun pilihan kamu.. Yuk Patungan  dengan Keuntungan Menjanjikan Bareng LandX](https://accountgram-production.sfo2.cdn.digitaloceanspaces.com/landx_ghost/2021/10/Equity-Crowdfunding-di-Indonesia-1--3.png)](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)
+
+<!--EndFragment-->
