@@ -55,11 +55,30 @@ Investor lama akan mendapatkan right issue berdasarkan rasio yang telah ditetapk
 
 Right issue sendiri memiliki beberapa bentuk lain seperti pemberian saham secara cuma-cuma kepada investor lama atau bisa disebut saham bonus, pemberian dividen berupa saham, stock split atau pemecahan saham, dan waran atau hak untuk membeli saham pada waktu dan harga tertentu.
 
-## Kenapa Right Issue Diterbitkan?
+## Tujuan dan Fungsi Right Issue
+
+Seperti yang telah kita tahu, right issue adalah kegiatan perusahaan yang menerbitkan saham baru. Apa tujuan saham baru diterbitkan?
 
 Pada umumnya, perusahaan melakukan right issue dengan berbagai tujuan seperti pengembangan dan ekspansi bisnis, melunasi kebijakan hutang, atau untuk penambahan modal dari perusahaan.
 
 Saat suatu bisnis membutuhkan dana untuk berbagai tujuan, maka mereka bisa menerbitkan saham baru sebagai alternatif mendapatkan dana tersebut. Hal ini salah satu langkah yang sering diambil untuk mengurangi jumlah pinjaman perusahan ke bank.
+
+Jadi, tujuan dan fungsi right issue adalah perusahaan mendapatkan dana segar. Dana segar dari right issue akan digunakan perusahaan sesuai keperluan, misal untuk ekspansi dan pengembangan usaha atau membayar utang.
+
+## Dampak Positif dan Negatif Right Issue
+
+Terdapat dampak positif dan negatif dari kebijakan right issue yang dikeluarkan perusahaan. Berikut ulasannya,
+
+### Dampak positif right issue
+
+* **Memberi modal untuk bisnis ekspansi** – dana dari right issue yang digunakan perusahaan untuk melakukan ekspansi ke lokasi strategis baru dapat menguntungkan. Dengan menancapkan bendera baru, maka meningkat keunggulan kompetitif dan menguasai pasar lebih dulu daripada pesaing.
+* **Membantu perkembangan bisnis** – dana yang didapatkan perusahaan melalui penerbitan saham baru dapat digunakan untuk pengembangan bisnis, entah untuk merilis produk baru atau cara promosi baru. Sehingga dengan membantu memberi modal usaha melalui right issue akan membantu perusahaan meningkatkan pertumbuhan yang diharapkan dapat meningkatkan pendapatan perusahaan.
+
+### Dampak negatif right issue
+
+* **Kemungkinan dilusi saham** – bertambahnya jumlah saham baru beredar akan membuat persentase kepemilikan saham yang kita miliki jadi berkurang. Semakin kecilnya persentase kepemilikan saham akan berpengaruh pada yield pembagian dividen yang ikut mengecil. 
+
+  Sehingga untuk menghadapi dilusi saham akibat right issue, investor perlu membeli saham baru yang diterbitkan di right issue ini. Namun perlu dilihat dicari tahu terlebih dahulu tujuan penggunaan dana dari right saham ini sebelum membeli.
 
 ## Adakah Keuntungan Right Issue Bagi Investor?
 
