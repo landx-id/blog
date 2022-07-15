@@ -90,11 +90,13 @@ Varian baru COVID-19 yaitu Omicron yang ditemukan di Afrika Selatan ini sempat m
 
 Merebaknya kasus virus Omicron ke dalam negeri membuat pemerintah menegaskan level PPKM hingga naik menjadi level PPKM Level II. Diharapkan virus ini tidak meningkatkan jumlah kasus secara signifikan sehingga tidak dilakukan rem *lockdown*.
 
-Oleh sebab itu,  ***window dressing***  mungkin saja tidak terjadi apabila kondisi yang belum stabil karena efek kemecamasan masyarakat akan efek dari covid varian ini. Akan tetapi, kamu tidak perlu begitu khawatir karena masih ada ***January Effect*** yang bisa membawa terbang portofolio kamu.
+Oleh sebab itu,  ***window dressing*** mungkin saja tidak terjadi apabila kondisi yang belum stabil karena efek kemecamasan masyarakat akan efek dari covid varian ini. Akan tetapi, kamu tidak perlu begitu khawatir karena masih ada ***January Effect*** yang bisa membawa terbang portofolio kamu.
 
 ## Prospek Window Dressing Saham 2022
 
-Untuk investor, perlu kenal istilah  ***Janurary Effect***  atau kecenderungan harga saham yang naik di awal tahun. ***January Effect*** bisa disebabkan oleh bonus akhir tahun, semangat [investasi](https://landx.id/) tahun baru yang meningkat, dan sikap optimis para investor dengan ekonomi di tahun terkait.
+Meski diprediksi mungkin tidak terjadi, memasuki pertengahan tahun ini, window dressing saham 2022 mengalami penguatan pada saham *Big Cap*. Meski baru memasuki bulan Juli, saham-saham index movers seperti BBCA BBRI BMRI ASII GOTO TLKM mengalami penguatan. Sehingga diprediksi, peluang keuntungan investor dari window dressing saham adalah dengan berinvestasi pada saham *Big Cap*.
+
+Untuk investor, perlu kenal istilah ***Janurary Effect***  atau kecenderungan harga saham yang naik di awal tahun. ***January Effect*** bisa disebabkan oleh bonus akhir tahun, semangat [investasi](https://landx.id/) tahun baru yang meningkat, dan sikap optimis para investor dengan ekonomi di tahun terkait.
 
 ***January Effect*** juga bisa akibat dari *Window Dressing* pada bulan Desember tahun sebelumnya. Karena para investor besar di bulan Desember yang sempat menjual saham-saham yang rugi untuk mempercantik portofolionya akan membeli kembali saham-saham yang masih rugi tersebut di bulan Januari. Biasanya saham ini adalah saham *mid-small* bukan *blue chip*.
 
