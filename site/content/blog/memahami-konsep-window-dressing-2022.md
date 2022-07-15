@@ -2,8 +2,8 @@
 draft: false
 author: Vlora Riyandi
 slug: memahami-konsep-window-dressing-2022
-title: Memahami Apa Itu Window Dressing dan Prospek Investasi di Tahun 2022
-metaTitle: "Window Dressing Adalah: Apa Itu Windows Dressing dan Prospek di 2022"
+title: "Window Dressing Adalah: Apa Itu Windows Dressing dan Prospek di 2022"
+metaTitle: Memahami Apa Itu Window Dressing dan Prospek Investasi di Tahun 2022
 metaDescription: Window Dressing adalah strategi mempercantik portofolio oleh
   manajer investasi sebelum disuguhkan kepada pemegang saham. Apa Itu Window
   Dressing
