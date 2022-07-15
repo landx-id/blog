@@ -68,8 +68,8 @@ Jika IHSG hijau maka saham yang berada Top 10 Big Cap biasanya hijau juga. *Big 
 
 Investor sekaligus IPO Consultant, Tonny Hermawan, membeberkan tips [berinvestasi](https://landx.id/) menghadapi *Window Dressing* saham yang bisa kamu praktikkan. 
 
-1. **Pilih saham *blue chip*** *k*arena saham *blue chip* dalam window dressing adalah saham paling berpengaruh terhadap IHSG. *Blue chip* adalah saham dengan kapitalisasi market di atas 40 triliun, sehingga likuiditasnya bagus atau mudah diperjualbelikan.
-2. **Lakukan analisa fundamental dan analisa teknikal**. Teliti sebelum membeli, lakukanlah analisa fundamental melalui laporan keuangan perusahaan dan analisa teknikal.  Analisa teknikal saham dapat dilakukan dengan melihat pergerakan harga dan melihat harga tertinggi dan terendah pada periode tertentu.
+1. **Pilih saham *blue chip*** *k*arena saham *blue chip* saat window dressing adalah saham paling berpengaruh terhadap IHSG. *Blue chip* adalah saham dengan kapitalisasi market di atas 40 triliun, sehingga likuiditasnya bagus atau mudah diperjualbelikan.
+2. **Lakukan analisa fundamental dan analisa teknikal**. Teliti sebelum membeli saat windows dressing adalah hal yang sangat penting. Lakukanlah analisa fundamental melalui laporan keuangan perusahaan dan analisa teknikal.  Analisa teknikal saham dapat dilakukan dengan melihat pergerakan harga dan melihat harga tertinggi dan terendah pada periode tertentu.
 3. **Alokasikan dana untuk [investasi](https://landx.id/)**. Sisihkan penghasilan kamu sebesar 10-30% untuk [berinvestasi](https://landx.id/), pastikan juga keuangan kamu selalu dalam keadaan sehat.
 4. **Akumulasi pembelian bulan Oktober dan November.** Khususnya bagi investor aktif dan *trader*, sebaiknya telah mempersiapkan diri dengan melakukan pembelian saat bulan Oktober dan November. Tujuannya agar langkah yang dapat diambil saat window dressing adalah melakukan *profit taking* *di bulan Desember dengan IHSG hijau dan di bulan January saat **January Effect***.
 
