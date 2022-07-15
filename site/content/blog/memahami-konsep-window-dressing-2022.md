@@ -7,10 +7,10 @@ metaTitle: Memahami Apa Itu Window Dressing dan Prospek Investasi di Tahun 2022
 metaDescription: Window Dressing adalah strategi mempercantik portofolio oleh
   manajer investasi sebelum disuguhkan kepada pemegang saham. Apa Itu Window
   Dressing
-intro: Menyambut awal tahun, kamu tentu akan sering mendengar istilah window
-  dressing terutama apabila kamu merupakan investor yang berinvestasi di pasar
-  modal. Karena itu, yuk kita bahas apa itu window dressing dan bagaimana dampak
-  window dressing terhadap investasi anda.
+intro: Istilah window dressing adalah kata yang sering terdengar pada akhir
+  tahun, terutama jika kamu merupakan investor yang berinvestasi di pasar modal.
+  Karena itu, yuk kita bahas apa itu window dressing dan bagaimana dampak window
+  dressing terhadap investasi anda.
 date: 2021-12-31T19:12:17.000Z
 tag:
   - Cara Investasi Saham
@@ -33,7 +33,7 @@ image: https://images.unsplash.com/photo-1526628953301-3e589a6a8b74?crop=entropy
 category:
   - Investasi
 ---
-Apabila kamu merupakan investor pemula terutama yang baru terjun ke dunia saham, kamu pasti akan sering mendengar istilah ***window dressing*** terutama pada akhir tahun seperti sekarang ini.
+Apabila kamu merupakan investor pemula terutama yang baru terjun ke dunia saham, istilah ***window dressing*** adalah term yang akan sering didengar, terutama pada akhir tahun seperti sekarang ini.
 
 ***Window Dressing* adalah** istilah di pasar saham dan biasa terjadi menjelang akhir tahun. *Window dressing* juga adalah salah satu momentum yang ditunggu para investor.
 
@@ -51,26 +51,28 @@ Supaya lebih paham dan siap menghadapi window dressing, yuk kita bahas apa itu w
 
 **Tujuan** ***Window Dressing*** adalah untuk menarik minat investor agar yakin [berinvestasi](https://landx.id/). Walau tujuannya “mempercantik” portofolio atau laporan keuangan, hal ini tetap dilakukan secara legal. Tindakan yang diambil tetap diawasi oleh regulasi yang sah dan mengikuti aturan keuangan yang berlaku.
 
-**Cara kerja** ***Window Dressing*** pada portofolio saham reksadana yaitu para manajer investasi akan menjual saham yang menampakkan kerugian besar dan menggantinya dengan membeli yang sedang naik daun menjelang akhir kuartal atau akhir tahun.
+**Cara kerja** ***Window Dressing*** adalah pada portofolio saham reksadana. Yaitu ketika para manajer investasi akan menjual saham yang menampakkan kerugian besar dan menggantinya dengan membeli yang sedang naik daun menjelang akhir kuartal atau akhir tahun.
 
-Tidak hanya reksadana, taktik *Window Dressing* juga umum terjadi di lingkup perbankan, perusahaan finansial dan perusahaan terbuka lainnya. Karena umum terjadi di akhir tahun, fenomena *Window Dressing* juga dikenal dengan *December Effect* atau *Santa Claust Rally*.
+Tidak hanya reksadana, *Window Dressing* adalah tatktik yang juga umum terjadi di lingkup perbankan, perusahaan finansial, dan perusahaan terbuka lainnya. Karena umum terjadi di akhir tahun, fenomena *Window Dressing* juga dikenal dengan *December Effect* atau *Santa Claust Rally*.
 
-Awalnya istilah window dressing merupakan kata untuk menggambarkan fenomena toko-toko di Inggris menjelang akhir tahun. Mendekati perayaan natal dan tahun baru, setiap toko akan mengganti display produknya dengan barang baru untuk menarik pembeli. Dari sinilah istilah window dressing digunakan dalam dunia investasi.
+Awalnya istilah window dressing adalah kata untuk menggambarkan fenomena toko-toko di Inggris menjelang akhir tahun. Mendekati perayaan natal dan tahun baru, setiap toko akan mengganti display produknya dengan barang baru untuk menarik pembeli. Dari sinilah istilah window dressing digunakan dalam dunia investasi.
 
-## Window Dressing dan Saham
+## Window Dressing Saham 2022
 
-Bagaimana pengaruh window dressing terhadap IHSG? Dalam 20 tahun terkahir, IHSG (Indeks Saham Harga Gabungan) selalu hijau di bulan Desember. Sebagai informasi, IHSG hijau berarti terjadi peningkatan harga saham (bullish), berarti harga penutupan lebih tinggi daripada harga pembukaan. Hal ini merupakan pengaruh window dressing terhadap bursa efek.
+Bagaimana pengaruh window dressing terhadap IHSG? Dalam 20 tahun terkahir, IHSG (Indeks Saham Harga Gabungan) selalu hijau di bulan Desember. Sebagai informasi, IHSG hijau berarti terjadi peningkatan harga saham (bullish), berarti harga penutupan lebih tinggi daripada harga pembukaan. Artinya, window dressing saham adalah pengaruh yang cukup signifikan terhadap bursa efek.
 
 Jika IHSG hijau maka saham yang berada Top 10 Big Cap biasanya hijau juga. *Big cap* adalah istilah untuk perusahaan dengan kapitalisasi pasar (market capitalization) di atas Rp 100 triliun. Saham-saham tersebut diantaranya ialah BBCA, BBRI, TLKM, UNLV, ARTO, ASII, HMSP, BMRI hingga EMTK .
 
+Pada tahun ini, window dressing saham 2022 diprediksi mengalami penguatan. Meski baru memasuki bulan Juli, saham-saham index movers seperti BBCA BBRI BMRI ASII GOTO TLKM mengalami penguatan. Sehingga diprediksi, potensi window dressing saham adalah 
+
 ## Tips Investasi Menghadapi Window Dressing Saham:
 
-Investor sekaligus IPO Consultant, Tonny Hermawan, membeberkan tips [berinvestasi](https://landx.id/) menghadapi *Window Dressing* yang bisa kamu praktikkan:
+Investor sekaligus IPO Consultant, Tonny Hermawan, membeberkan tips [berinvestasi](https://landx.id/) menghadapi *Window Dressing* saham yang bisa kamu praktikkan. 
 
-1. **Pilih saham *blue chip*.** Karena saham *blue chip* mempunyai pengaruh terhadap IHSG. *Blue chip* adalah saham dengan kapitalisasi market di atas 40 triliun, sehingga likuiditasnya bagus atau mudah diperjualbelikan.
+1. **Pilih saham *blue chip*** *k*arena saham *blue chip* dalam window dressing adalah saham paling berpengaruh terhadap IHSG. *Blue chip* adalah saham dengan kapitalisasi market di atas 40 triliun, sehingga likuiditasnya bagus atau mudah diperjualbelikan.
 2. **Lakukan analisa fundamental dan analisa teknikal**. Teliti sebelum membeli, lakukanlah analisa fundamental melalui laporan keuangan perusahaan dan analisa teknikal.  Analisa teknikal saham dapat dilakukan dengan melihat pergerakan harga dan melihat harga tertinggi dan terendah pada periode tertentu.
 3. **Alokasikan dana untuk [investasi](https://landx.id/)**. Sisihkan penghasilan kamu sebesar 10-30% untuk [berinvestasi](https://landx.id/), pastikan juga keuangan kamu selalu dalam keadaan sehat.
-4. **Akumulasi pembelian bulan Oktober dan November.** Khususnya bagi investor aktif dan *trader*, sebaiknya telah mempersiapkan diri dengan melakukan pembelian saat bulan Oktober dan November. Tujuannya agar dapat melakukan *profit taking* apabila terjadi** *Window Dressing*** _ *di bulan Desember dengan IHSG hijau dan di bulan January saat* **January Effect**_.
+4. **Akumulasi pembelian bulan Oktober dan November.** Khususnya bagi investor aktif dan *trader*, sebaiknya telah mempersiapkan diri dengan melakukan pembelian saat bulan Oktober dan November. Tujuannya agar langkah yang dapat diambil saat window dressing adalah melakukan *profit taking* *di bulan Desember dengan IHSG hijau dan di bulan January saat **January Effect***.
 
 - - -
 
