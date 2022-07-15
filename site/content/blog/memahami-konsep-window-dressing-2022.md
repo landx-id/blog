@@ -57,13 +57,13 @@ Tidak hanya reksadana, *Window Dressing* adalah tatktik yang juga umum terjadi d
 
 Awalnya istilah window dressing adalah kata untuk menggambarkan fenomena toko-toko di Inggris menjelang akhir tahun. Mendekati perayaan natal dan tahun baru, setiap toko akan mengganti display produknya dengan barang baru untuk menarik pembeli. Dari sinilah istilah window dressing digunakan dalam dunia investasi.
 
-## Window Dressing Saham 2022
+## Window Dressing Saham 
 
-Bagaimana pengaruh window dressing terhadap IHSG? Dalam 20 tahun terkahir, IHSG (Indeks Saham Harga Gabungan) selalu hijau di bulan Desember. Sebagai informasi, IHSG hijau berarti terjadi peningkatan harga saham (bullish), berarti harga penutupan lebih tinggi daripada harga pembukaan. Artinya, window dressing saham adalah pengaruh yang cukup signifikan terhadap bursa efek.
+Dampak pada IHSG pada saat window dressing adalah hal yang tidak bisa dihindari. Dalam 20 tahun terkahir, IHSG (Indeks Saham Harga Gabungan) selalu hijau di bulan Desember. Sebagai informasi, IHSG hijau berarti terjadi peningkatan harga saham (bullish), berarti harga penutupan lebih tinggi daripada harga pembukaan. Artinya, window dressing saham adalah pengaruh yang cukup signifikan terhadap bursa efek.
 
-Jika IHSG hijau maka saham yang berada Top 10 Big Cap biasanya hijau juga. *Big cap* adalah istilah untuk perusahaan dengan kapitalisasi pasar (market capitalization) di atas Rp 100 triliun. Saham-saham tersebut diantaranya ialah BBCA, BBRI, TLKM, UNLV, ARTO, ASII, HMSP, BMRI hingga EMTK .
+Jika IHSG hijau maka saham yang berada Top 10 Big Cap biasanya hijau juga. *Big cap* adalah istilah untuk perusahaan dengan kapitalisasi pasar (market capitalization) di atas Rp 100 triliun. Saham-saham *big cap* pada saat window dressing adalah BBCA, BBRI, TLKM, UNLV, ARTO, ASII, HMSP, BMRI hingga EMTK .
 
-Pada tahun ini, window dressing saham 2022 diprediksi mengalami penguatan. Meski baru memasuki bulan Juli, saham-saham index movers seperti BBCA BBRI BMRI ASII GOTO TLKM mengalami penguatan. Sehingga diprediksi, potensi window dressing saham adalah 
+
 
 ## Tips Investasi Menghadapi Window Dressing Saham:
 
@@ -86,19 +86,19 @@ Investor sekaligus IPO Consultant, Tonny Hermawan, membeberkan tips [berinvestas
 
 ## Window Dressing dan Omicron di Indonesia
 
-Varian baru Covid19 yaitu Omicron yang ditemukan di Afrika Selatan ini sempat menuai kekhawatiran. Sebab, virus ini dikabarkan lebih menular dari varian-varian sebelumnya. Kondisi ini juga membuat investor berlarian di pasar saham.
+Varian baru COVID-19 yaitu Omicron yang ditemukan di Afrika Selatan ini sempat menuai kekhawatiran. Sebab, virus ini dikabarkan lebih menular dari varian-varian sebelumnya. Kondisi ini juga membuat investor berlarian di pasar saham.
 
 Merebaknya kasus virus Omicron ke dalam negeri membuat pemerintah menegaskan level PPKM hingga naik menjadi level PPKM Level II. Diharapkan virus ini tidak meningkatkan jumlah kasus secara signifikan sehingga tidak dilakukan rem *lockdown*.
 
 Oleh sebab itu,  ***window dressing***  mungkin saja tidak terjadi apabila kondisi yang belum stabil karena efek kemecamasan masyarakat akan efek dari covid varian ini. Akan tetapi, kamu tidak perlu begitu khawatir karena masih ada ***January Effect*** yang bisa membawa terbang portofolio kamu.
 
-## Prospek Investasi di Tahun 2022
+## Prospek Window Dressing Saham 2022
 
 Untuk investor, perlu kenal istilah  ***Janurary Effect***  atau kecenderungan harga saham yang naik di awal tahun. ***January Effect*** bisa disebabkan oleh bonus akhir tahun, semangat [investasi](https://landx.id/) tahun baru yang meningkat, dan sikap optimis para investor dengan ekonomi di tahun terkait.
 
 ***January Effect*** juga bisa akibat dari *Window Dressing* pada bulan Desember tahun sebelumnya. Karena para investor besar di bulan Desember yang sempat menjual saham-saham yang rugi untuk mempercantik portofolionya akan membeli kembali saham-saham yang masih rugi tersebut di bulan Januari. Biasanya saham ini adalah saham *mid-small* bukan *blue chip*.
 
-**Prospek saham** yang bisa diburu di tahun 2022 menurut Budi Hikmat, Marketing Advisor PT NH Korindo Sekuritas Indonesia, diantaranya adalah saham sektor *mining*. **[Prospek sektor *mining*](https://landx.id/project/#/capt)** _ *memiliki prospek yang bagus dan diprediksi sebagai _The Next Booming*.
+**Prospek saham** yang bisa diburu di tahun 2022 menurut Budi Hikmat, Marketing Advisor PT NH Korindo Sekuritas Indonesia, diantaranya adalah saham sektor *mining*. **[Prospek sektor *mining*](https://landx.id/project/#/capt)** _ *memiliki prospek yang bagus dan diprediksi sebagai The Next Booming*.
 
 Salah satu sektor mining berpotensi baik adalah batu bara. Hal ini juga sesuai dengan keputusan terbaru dari Kementerian Energi dan Sumber Daya Mineral untuk **[meningkatkan produksi batubara](https://industri.kontan.co.id/news/produksi-batubara-meningkat-perusahaan-kapal-tongkang-ketiban-berkah)**, harga saham batu bara ikut melonjak naik. Sektor yang berkaitan dengan rantai distribusi batu bara seperti [kapal angkut](https://landx.id/project/#/capt) atau [kapal tongkang](https://landx.id/project/#/capt) juga keciptaran untung.
 
