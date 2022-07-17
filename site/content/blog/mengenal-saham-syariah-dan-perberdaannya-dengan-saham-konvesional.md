@@ -47,7 +47,7 @@ Emiten yang masuk kategori saham syariah dalam praktiknya  harus mengacu pada sy
 
 Karena salah satu indikator penting untuk menentukan sebuah saham  syariah atau tidak adalah dengan melihat apakah perusahaan berjalan sesuai syariah atau tidak.
 
-Selain itu, terdapat beberapa kriteria lain yang digunakan untuk menilai apakah saham bisa masuk ke dalam kategori syariah atau tidak. Perbedaan Saham Syariah dan Saham Konvensional
+Selain itu, terdapat beberapa kriteria lain yang digunakan untuk menilai apakah saham bisa masuk ke dalam kategori syariah atau tidak. Perbedaan saham syariah dan saham konvensional
 
 ## Perbedaan Saham Syariah dan Konvensional
 
@@ -110,6 +110,42 @@ Saham syariah memiliki beberapa jenis  indeks yang tersedia di pasar modal indon
 Indeks saham syariah berikut adalah **IDX-MES BUMN17** yang berisikan 17 emiten syariah yang merupakan Badan Usaha Milik Negara (BUMN) yang dipilih berdasarkan kapilitalisasi dan likuidas dari saham eminten tersebut.
 
 Indeks ini merupakan kolabolasi antara Bursa Efek Indonesia (BEI) dan Masyarakat Ekonomi Syariah (MES) yang menyeleksi saham-saham BUMN terbaik yang masuk ke dalam kategori ini.
+
+## Bagaimana Cara Investasi di Saham Syariah
+
+Saham syariah adalah saham yang diterbitkan oleh perusahaan yang berbasis syariah atau perusahaan yang memenuhi prinsip syariah. Dengan memiliki saham artinya Anda memiliki sebagian aset perusahaan sesuai persentase kepemilikan saham. 
+
+Saat ini di Bursa Efek Indonesia, terdapat lebih dari 400 saham syariah yang dapat Anda pilih. Lalu bagaimana cara investasi di saham syariah? Berikut cara membeli saham syariah.
+
+1. ### **Tentukan Perusahaan Sekuritas** 
+
+Perusahaan sekuritas adalah perusahaan yang telah mendapat izin dari Otoritas Jasa Keuangan (OJK) sebagai perantara perdagangan efek. Di Indonesia telah banyak platform atau perusahaan sekuritas yang memiliki aplikasi yang menjual saham syariah untuk Anda pilih.
+
+Anda tinggal membandingkannya dan mendownload aplikasi tersebut di smartphone. 
+
+2. ### **Mendaftarkan Diri (Registrasi)**
+
+Untuk membeli saham syariah di aplikasi manapun, wajib membuka rekening efek dengan melakukan registrasi foto KTP, NPWP, dan syarat lain yang diminta. 
+
+3. ### Menganalisa Saham Syariah
+
+Setelah berhasil terdaftar dan dikonfirmasi oleh perusahaan sekuritas, Anda dapat langsung menganalisa saham syariah yang tersedia. Cara menemukan saham syariah adalah mudah, dengan menuju pada kolom pencarian dan mengetik syariah.
+
+4. ### Melakukan Transaksi Beli Saham Syariah
+
+Setelah menemukan saham syariah terbaik pilihan Anda, silakan untuk melakukan transfer modal awal ke aplikasi untuk membeli saham syariah pilihan.
+
+## Perbedaan Pasar Modal Syariah dan Konvensional
+
+Setelah mengetahui cara investasi saham syariah serta perbedaan saham syariah dan saham konvensional, perlu Anda ketahui juga tentang apakah ada perbedaan pasar modal syariah dengan konvensional?
+
+Pertama harus dipahami bahwa pasar modal syariah dan konvensional (non syariah) di Indonesia tidak berdiri secara terpisah. Pasar modal syariah dan konvensional merupakan satu kesatuan yang transaksinya berada di Bursa Efek Indonesia.
+
+IDX Islamic menuturkan, perbedaan pasar modal syariah dan konvensional adalah pemenuhan prinsip hukum Islam. Berikut perbedaan pasar modal syariah dan konvensional:
+
+* **Produk (Efek) yang Dijual** – instrumen pasar modal konvensional yaitu saham, obligasi, reksa dana, saham waran. Sedangkan instrumen pasar modal syariah yaitu saham, obligasi, dan reksa dana yang sudah sesuai prinsip hukum Islam.
+* **Emiten** – emiten atau perusahaan penerbit efek di pasar modal syariah harus sesuai kriteria, mekanisme, dan syarat saham syariah. Sedangkan pada pasar modal konvensional, emiten tidak perlu memerhatikan prinsip Islam saat melakukan penawaran efek.
+* **Mekanisme Pasar Modal** – mekanisme pasar modal konvensional tidak memiliki batasan khusus atau bebas melakukan transaksi sehingga memiliki konsep imbalan bunga. Sedangkan mekanisme transaksi pasar modal syariah dilarang mengandung unsur maysir (perjudian), gharar (spekulasi), dan riba (penetapan bunga).
 
 ## [Yuk Mulai Investas](https://landx.id/project/)i
 
