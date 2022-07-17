@@ -25,15 +25,15 @@ category:
   - Keuangan
   - Investasi
 ---
-**Saham Syariah 2021 –** Apabila kamu ingin berinvestasi ke dalam pasar modal, maka kamu harus tahu bahwa terdapat produk pasar modal syariah yang bisa jadi pilihan investasi kamu mulai dari saham hingga reksa dana syariah.
+**Saham syariah 2022 –** Selain berinvestasi ke pasar modal konvensional, Anda juga dapat kenalan dengan produk pasar modal syariah yang bisa jadi pilihan investasi yang terdiri dari saham hingga reksa dana syariah.
 
-Sebagai salah satu instrumen investasi paling populer, saham syariah merupakan salah satu instrumen yang paling banyak dicari oleh para investor yang mencari instrumen invesasi yang sesuai dengan syariah islam.
+Sebagai salah satu instrumen investasi, saham syariah merupakan salah satu instrumen yang paling banyak dicari oleh para investor yang mencari instrumen invesasi yang sesuai dengan syariah islam.
 
-**Saham syariah adalah** bukti penyertaan modal individu atau badan usaha terhadap suatu perusahaan atau bisnis dengan prinsip syariah, dengan kata lain saham-saham yang sudah memenuhi syarat dan kriteria syariah.
+**Saham syariah adalah** bukti penyertaan modal individu atau badan usaha terhadap suatu perusahaan atau bisnis dengan prinsip syariah. Saham-saham syariah adalah saham yang telah memenuhi syarat dan kriteria syariah.
 
 Saat ini terdapat hampir 500 saham yang masuk kategori ini termasuk ke dalam indeks saham syariah.
 
-Supaya kamu semakin paham tentang instrumen ini, yuk kita bahas lebih lanjut tentang pengertian saham syariah dan indeks saham syariah yang bisa membantu pemilihan instrumen investasi anda.
+Supaya Anda semakin paham tentang instrumen ini, yuk kita bahas lebih lanjut tentang pengertian saham syariah dan indeks saham syariah yang bisa membantu pemilihan instrumen investasi terbaik Anda.
 
 - - -
 
@@ -57,15 +57,15 @@ Secara mekanisme perdagangan dalam pasar modal sebenarnya tidak ada perbedaan, n
 
 lebih detailnya, mari kita bahas tentang kriteria dan syarat suatu saham yang masuk kategori syariah.
 
-## Kriteria dan Syarat Saham Syariah
+## Mekanisme dan Syarat Saham Syariah
 
-**Terdapat bebeberapa kriteria** yang membedakan antara saham syariah dan konvesional. Berikut beberapa syarat yang harus dipenuhi suatu emiten untuk masuk ke dalam kategori indeks syariah.
+**Terdapat bebeberapa kriteria** yang membedakan antara saham syariah dan konvesional. Berikut beberapa mekanisme dan syarat yang harus dipenuhi suatu emiten untuk masuk ke dalam kategori indeks saham syariah.
 
 ### 1. Jenis Bisnis
 
 Dalam saham syariah, [perusahaan yang membutuhkan dana](https://landx.id/) atau emiten harus berjalan sesuai dengan prinsip syariah islam. Aturan  ini membuat perusahaan yang produknya tidak halal, mengandung riba,  memiliki risiko yang tidak pasti karena dinilai bisa menimbulkan  spekulasi dan dinilai sebagai judi, dan ada unsur suap dalam prosesnya  tidak bisa dikategorikan sebagai saham syariah.
 
-Karena itu anda  bisa dengan mudah membedakan sebuah saham syariah atau konvensional  dengan melihat di sektor mana perusahaan terkait bergerak. Karena saham  syariah pasti berasal dari bisnis yang sudah memenuhi berbagai kategori  yang mengacu pada syariah islam.
+Karena itu, Anda  bisa dengan mudah membedakan sebuah saham syariah atau konvensional  dengan melihat di sektor mana perusahaan terkait bergerak. Karena saham  syariah pasti berasal dari bisnis yang sudah memenuhi berbagai kategori  yang mengacu pada syariah islam.
 
 ### 2. Proses Transaksi
 
@@ -81,21 +81,21 @@ Hal  lain yang membedakan antara saham syariah dan konvensional adalah  sumber p
 
 ## Saham Syariah Bluechip 2021
 
-Apabila kamu masih bingung cara berinvestasi saham syariah dan menemukan saham syariah yang sesuai dengan tujuan investasi kamu, maka kamu sebenarnya bisa mulai dengan mengecek indek saham syariah yang kini ada beberapa jenis. 
+Apabila Anda masih bingung cara berinvestasi saham syariah dan menemukan saham syariah yang sesuai dengan tujuan investasi Anda, maka Anda sebenarnya bisa mulai dengan mengecek indek saham syariah yang kini ada beberapa jenis. 
 
-Dalam indeks ini, terdapat banyak saham-saham blue chip yang bisa jadi pilihan untuk menghiasi portofolio kamu. Karena itu, yuk kita cek berbagai indeks saham syariah yang bisa mempermudah kamu menemukan saham blue chip syariah.
+Dalam indeks ini, terdapat banyak saham-saham blue chip yang bisa jadi pilihan untuk menghiasi portofolio Anda. Karena itu, yuk kita cek berbagai indeks saham syariah yang bisa mempermudah Anda menemukan saham blue chip syariah.
 
 ## Indeks Saham Syariah
 
 Saham  syariah jenis ini secara resmi terdaftar di DES (Daftar Efek Syariah)  yang merupakan daftar perusahaan yang menawarkan jenis saham syariah. Daftar ini diterbitkan oleh Otoritas Jasa Keuangan (OJK) dan MUI  (Majelis Ulama Indonesia).
 
-Saham syariah ini sebenarnya sangat mudah kamu temui karena beberapa saham bluechip masuk dalam kategori ini. Karena itu, kamu sebenarnya bisa menemukan saham bluechip syariah yang cocok untuk investasi jangka panjang dengan melihat berbagai indeks saham syariah yang ada di Indonesia.
+Saham syariah ini sebenarnya sangat mudah Anda temui karena beberapa saham bluechip masuk dalam kategori ini. Karena itu, Anda sebenarnya bisa menemukan saham bluechip syariah yang cocok untuk investasi jangka panjang dengan melihat berbagai indeks saham syariah yang ada di Indonesia.
 
-Saham syariah memiliki beberapa jenis  indeks yang tersedia di pasar modal indonesia, berikut beberapa indeks  saham syariah yang harus anda ketahui:
+Saham syariah memiliki beberapa jenis  indeks yang tersedia di pasar modal indonesia, berikut beberapa indeks  saham syariah yang harus Anda ketahui:
 
 ### 1. Indeks ISSI (Indeks Saham Syariah Indonesia)
 
-**Indeks  Saham Syariah Indonesia** diluncurkan pada 12 Mei 2011 yang kini telah  mencatat 467 saham syariah yang bisa dijadikan instrumen investasi anda.  Indeks ini berisikan saham syariah yang sudah tercatat di BEI (Bursa  Efek Indonesia). ISSI bisa dijadikan acuan kinerja pasar syariah di  Indonesia karena mencakup seluruh saham yang masuk ke dalam DES dan  tercatat di BEI (Bursa Efek Indonesia).
+**Indeks  Saham Syariah Indonesia** diluncurkan pada 12 Mei 2011 yang kini telah  mencatat 467 saham syariah yang bisa dijadikan instrumen investasi Anda.  Indeks ini berisikan saham syariah yang sudah tercatat di BEI (Bursa  Efek Indonesia). ISSI bisa dijadikan acuan kinerja pasar syariah di  Indonesia karena mencakup seluruh saham yang masuk ke dalam DES dan  tercatat di BEI (Bursa Efek Indonesia).
 
 ### 2.Indeks JII (Jakarta Islamic Index)
 
@@ -113,11 +113,11 @@ Indeks ini merupakan kolabolasi antara Bursa Efek Indonesia (BEI) dan Masyarakat
 
 ## [Yuk Mulai Investas](https://landx.id/project/)i
 
-Setelah  paham perbedaan antara saham syariah dan konvensional kini tentu anda  semakin paham dan mengerti tentang berbagai pilihan saham yang bisa anda  jadikan instrumen investasi.
+Setelah  paham perbedaan antara saham syariah dan konvensional kini tentu Anda  semakin paham dan mengerti tentang berbagai pilihan saham yang bisa Anda jadikan instrumen investasi.
 
-Namun, anda apabila anda masih belum mau  berinvestasi saham, anda mungkin bisa mulai investasi dengan  berinvestasi sistem [equity crowdfunding](https://landx.id/) yang membuat anda bisa berinvestasi ke dalam bisnis dan UMKM yang berada di sekitar anda.
+Namun, Anda apabila Anda masih belum mau  berinvestasi saham, Anda mungkin bisa mulai investasi dengan  berinvestasi sistem equity crowdfunding yang membuat Anda bisa berinvestasi ke dalam bisnis dan UMKM yang berada di sekitar Anda.
 
-[LandX](https://landx.id/) memberikan anda kesempatan untuk anda memulai investasi bagi hasil  menguntungkan dengan mulai investasi bisnis ke dalam berbagai bisnis  dengan potensi keuntungan jangka panjang.
+[LandX](https://landx.id/) memberikan Anda kesempatan untuk Anda memulai investasi bagi hasil  menguntungkan dengan mulai investasi bisnis ke dalam berbagai bisnis  dengan potensi keuntungan jangka panjang.
 
 **[Yuk Investasi Bisnis Menguntungkan Bersama LandX.](https://landx.id/project/)**
 
