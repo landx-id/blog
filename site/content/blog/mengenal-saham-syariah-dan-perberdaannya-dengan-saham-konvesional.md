@@ -79,7 +79,7 @@ Perusahaan  yang menawarkan saham syariah harus memenuhi syarat rasio keuangan d
 
 Hal  lain yang membedakan antara saham syariah dan konvensional adalah  sumber pendapatan dari perusahaan. Dalam saham syariah, pendapatan non  halal seperti bunga tidak boleh melebihi pendapatan hasil usaha dan  tidak lebih dari 10% pendapatan secara keseluruhan.
 
-## Saham Syariah Bluechip 2021
+## Saham Syariah Bluechip 
 
 Apabila Anda masih bingung cara berinvestasi saham syariah dan menemukan saham syariah yang sesuai dengan tujuan investasi Anda, maka Anda sebenarnya bisa mulai dengan mengecek indek saham syariah yang kini ada beberapa jenis. 
 
