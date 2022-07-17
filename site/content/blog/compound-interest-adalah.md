@@ -2,15 +2,13 @@
 draft: false
 author: Abdul Wahhab
 slug: compound-interest-adalah
-title: "Compound Interest: Konsep Compound Interest atau Bunga Majemuk "
-metaTitle: "Compound Interest: Konsep Compound Interest atau Bunga Majemuk "
-metaDescription: "Yuk pahami apa itu compound interest atau bunga berbunga yang
-  penting untuk kamu pahami agar investasi kamu dapat menjadi lebih mudah. "
-intro: "Compound interest atau bunga majemuk adalah sistem perhitungan bunga
-  yang berdasarkan jumlah pinjaman pokok ditambah total bunga yang sudah
-  didapatkan sebelumnya. Artinya besar bunga dihitung dari total uang yang sudah
-  ditambahkan perolehan bunga periode sebelumnya. Karena itu, yuk kita bahas apa
-  compound interest dan cara menghitungnya. "
+title: "Compound Interest Adalah: Cara Menghitung Bunga Majemuk"
+metaTitle: "Compound Interest Adalah: Cara Menghitung Bunga Majemuk"
+metaDescription: Bunga majemuk adalah sistem perhitungan bunga berbunga yang
+  dapat memberikan keuntungan pada penerapan investasi.
+intro: Compound interest adalah bunga majemuk. Bunga majemuk adalah sistem
+  perhitungan imbalan bunga berdasarkan modal pokok ditambah total bunga yang
+  sudah didapatkan sebelumnya. Yuk kita bahas cara menghitung bunga majemuk.
 date: 2021-07-13T11:41:43.000Z
 tag:
   - compounding effect
@@ -21,8 +19,8 @@ category:
   - Bisnis
 featuredImage:
   src: https://images.unsplash.com/photo-1563986768711-b3bde3dc821e?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1168&q=80
-  alt: Cara menghitung compound interest
-  title: rumus bunga majemuk dan bunga tunggal
+  alt: Cara menghitung bunga majemuk
+  title: "Compound Interest Adalah: Cara Menghitung Bunga Majemuk"
 ---
 ## **Memahami Konsep Compound Interest**
 
@@ -50,37 +48,49 @@ Walaupun awalnya bergerak agak lambat, sistem ini akan memberikan keuntungan yan
 
 Oleh sebab itu, semakin panjang periode investasi, maka semakin jumlah bunga yang akan diterima pun ikut berkembang.
 
-## Cara Menghitung Compound Interest
+## Perbedaan Bunga Majemuk Dan Bunga Tunggal
 
-Bunga majemuk adalah penjumlah dari modal pokok dan total bunga yang akan anda dapatkan di akhir periode investasi (*future value)* dikurangi dengan *present value* atau nilai uang pada saat ini. Untuk lebih jelasnya, anda bisa menggunakan rumus di bawah ini.
+Istilah bunga dalam keuangan adalah imbalan atas modal dalam jangka waktu tertentu. Jenis bunga yang diberikan ada dua, yaitu bunga majemuk dan bunga tunggal
 
-![rumus-yang-digunakan-untuk-menghitung-compound-interest-dalam-proses-keuangan](https://accountgram-production.sfo2.cdn.digitaloceanspaces.com/landx_ghost/2021/09/rumus-yang-digunakan-untuk-menghitung-compound-interest-dalam-proses-keuangan.png "cara menghitung compound interest")
+Mari kita ulas singkat kembali apa itu compound interest atau bunga majemuk. Compound interest adalah bunga yang dihitung berdasarkan modal pokok yang disetorkan dan bunga yang didapatkan sebelumnya.
 
-rumus compound interest
+Bunga tunggal adalah imbalan bunga yang didapat dari modal pokok saja. Sehingga tingkat pengembalian yang didapat setiap tahunnya adalah sama, tidak meningkat ataupun menurun.
 
-Untuk mempermudah anda memahami mari simak pembahasan di bawah ini:
+## Cara Menghitung Bunga Majemuk
 
-Apabila anda menabung menyimpan uang 10 juta selama 5 tahun dengan tingkat bunga 5%, mari kita hitung besar bunga majemuknya.
+Seperti yang telah kita bahas sebelumnya bahwa bunga majemuk adalah situasi imbalan bunga berbunga, sehingga keuntungan lebih besar. Bagaimana cara menghitung bunga majemuk? LandX akan bahas berikut rumus dan contoh perhitungan bunga majemuk.
 
-> \= 10.000.000\[(1,005)5-1]
->
-> \= 10.000.000\[1,27628156-1]
->
-> \= 2.762.815,6
+![](https://lh6.googleusercontent.com/4JALMGktGh7M0D4j8FSgu51n9j-Yce7Cd6v6sLpKrFqW1rk8kplEP2_Gx_Vf7w4M9vGN3KuAIC8CdBny18CML3YQIB-eKkjExqbCDkwU94DcsdZgLU4FfKfZ7TLWCaXMPIW6sO-_qMMmMxHJ43I)
 
-Apabila anda menggunakan sistem bunga manajemuka maka besar bunga yang akan anda dapatkan adalah senilai Rp 2.762.815,6.
+Contoh bunga majemuk, misalkan kamu berinvestasi pada produk investasi negara yaitu sukuk dengan menyetorkan modal pokok sebesar Rp 10 juta. Imbalan atau kupon yang berlaku adalah 6% per tahun bunga majemuk dengan jatuh tempo dalam 3 tahun. Berikut cara menghitung bunga majemuk:
 
-Jumlah bunga ini memberikan keuntungan yang lebih dibandingkan menggunakan sistem bunga tunggal atau simple interest, untuk membuktikan itu mari kita coba perhitungan bunga dengan sistem simple interest
+![](https://lh6.googleusercontent.com/FpS0OLCklt0_wx9Tb-KOh7ibQ0PicmNQM0sh7guVdKHzRF_W7szTkEqjDYf2uInaq_YhHo8qQwGKUGp6WFOw3E0KZibJebAN8SRpcPgXliHpqS5DVwBsfW8wtR87n5kqqrBQyJdceenDxK2m05s)
 
-> \= P x i x n
->
-> \= 10.000.000 x 0,05 x 5
->
-> \= 2.500.000
+Jadi, pengembalian modal dari investasi sukuk yang akan didapatkan dengan bunga majemuk adalah Rp 11.900.000.
 
-Dari perhitungan ini terlihat bukan bahwa sistem bunga majemuk memberikan bunga yang  lebih besar dan jumlahnya akan terus meningkat apabila dilakukan dengan periode yang lebih panjang.
+Dari perhitungan ini terlihat bukan bahwa sistem bunga majemuk memberikan bunga yang lebih besar dan jumlahnya akan terus meningkat apabila dilakukan dengan periode yang lebih panjang.
 
 Hal ini karena besar bunga yang akan anda terima akan meningkat setiap periodenya mengikuti perkembangan bunga periode sebelumnya.
+
+## Bunga Majemuk Digunakan Untuk Apa?
+
+Bunga majemuk adalah compound interest. Perhitungan bunga majemuk dapat digunakan dalam berbagai hal. Seperti hal yang menguntungkan seperti produk investasi dan hal yang dapat memberatkan yaitu pembayaran utang.
+
+* ### Perhitungan Anuitas dan Amortisasi 
+
+Anuitas merupakan suatu rangkaian pembayaran atau penerimaan sejumlah uang sama besar dengan periode waktu yang sama di setiap pembayaran. Contoh anuitas apa sih Misalnya pembayaran bunga pinjaman. bunga deposito, bunga obligasi, cicilan kredit rumah atau cicilan kredit motor maupun mobil.
+
+* ### Sinking Fund
+
+Sinking fund adalah dana khusus yang dikeluarkan secara rutin untuk kebutuhan masa depan.  Contoh sinking fund adalah dana yang dipersiapkan perusahaan untuk melunasi utang, atau menyediakan dana untuk barang yang terdepresiasi.
+
+* ### Perhitungan Perencanaan Keuangan 
+
+Pengaruh bunga majemuk pada investasi dapat menguntungkan sisi investor karena nilai kembalian akan meningkat. Oleh karena itu, seorang perencana keuangan akan memberi saran bagi investor untuk menaruh dana atau investasi jangka panjang untuk pengembalian yang maksimal.
+
+* ### Obligasi 
+
+Selanjutnya bunga majemuk bisa digunakan untuk menghitung obligasi. Obligasi adalah surat utang jangka menengah maupun jangka panjang yang dapat diperjualbelikan.  Obligasi bisa dikeluarkan oleh pemerintah maupun oleh korporasi untuk membiayai suatu proyek
 
 - - -
 
