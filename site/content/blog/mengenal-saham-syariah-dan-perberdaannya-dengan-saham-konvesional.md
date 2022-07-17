@@ -2,13 +2,14 @@
 draft: false
 author: Abdul Wahhab
 slug: mengenal-saham-syariah-dan-perberdaannya-dengan-saham-konvesional
-title: "Saham Syariah: Memahami Perbedaan Saham Syariah dan Konvensional"
-metaTitle: "Saham Syariah: Memahami Perbedaan Saham Syariah dan Konvensional"
+title: Perbedaan Saham Syariah dan Konvensional dan Saham Syariah Terbaik
+metaTitle: Perbedaan Saham Syariah dan Konvensional dan Saham Syariah Terbaik
 metaDescription: Saham syariah adalah bukti kepemilikan modal yang berjalan
-  sesuai dengan prinsip dan aturan syariah islam|Investasi saham syariah
-intro: Kalau kamu ingin berinvestasi ke saham syariah, yuk simak dulu perbedaan
-  saham syariah dan konvensional serta indeks saham syariah yang bisa jadi acuan
-  investasi anda.
+  sesuai dengan prinsip dan aturan syariah islam. Kriteria saham syariah adalah
+  perusahaan
+intro: Kriteria saham syariah adalah perusahaan yang berjalan sesuai prinsip
+  Islam. Ketahui perbedaan saham syariah dan konvensional, serta indeks saham
+  syariah blue chip terbaik dalam artikel ini.
 date: 2021-11-17T12:50:49.000Z
 tag:
   - Cara Investasi Saham
@@ -17,8 +18,8 @@ tag:
   - saham syariah
 featuredImage:
   src: https://images.unsplash.com/photo-1559526324-593bc073d938?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxMTc3M3wwfDF8c2VhcmNofDMyfHxzdG9ja3xlbnwwfHx8fDE2NDAxNDc3ODU&ixlib=rb-1.2.1&q=80&w=1080
-  alt: "Memahami perbedaan saham syariah dan konvensional "
-  title: Memilih saham syariah blue chip untuk investasi
+  alt: Perbedaan Saham Syariah dan Konvensional dan Indeks Saham Syariah
+  title: Perbedaan Saham Syariah dan Konvensional dan Indeks Saham Syariah
 image: https://images.unsplash.com/photo-1559526324-593bc073d938?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxMTc3M3wwfDF8c2VhcmNofDMyfHxzdG9ja3xlbnwwfHx8fDE2NDAxNDc3ODU&ixlib=rb-1.2.1&q=80&w=1080
 category:
   - Keuangan
