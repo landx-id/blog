@@ -46,7 +46,17 @@ Resesi biasanya ditandai dengan melemahnya produk domestik bruto (PDB), semakin 
 
 Selama pandemi, Indonesia merupakan salah satu negara yang mengalami resesi karena ekonomi yang mengalami minus selama dua kuartal berturut-turut pada kuartal II dan III-2020.
 
-Hal ini terjadi karena pembatasan kegiatan masyarakat sehingga berbagai kegiatan ekonomi tidak bisa berjalan dengan optimal. Jadi, sekarang kamu sedikit banyaknya sudah paham bukan apa yang dimaksud dengan resesi? Kalau sudah, yuk berikutnya kita bahas tentang depresi ekonomi.
+Hal ini terjadi karena pembatasan kegiatan masyarakat sehingga berbagai kegiatan ekonomi tidak bisa berjalan dengan optimal. 
+
+### Indonesia Terjerat Resesi 2022?
+
+Sri Mulyani menyebut sejumlah indikator ekonomi Indonesia masih terkendali seperti neraca pembayaran APBN, ketahanan PDB, hingga kinerja korporasi dan konsumsi rumah tangga. Sri Mulyani pun menegaskan potensi Indonesia mengalami resesi relatif lebih rendah dibandingkan negara-negara lain. 
+
+Survei terbaru belum menyebutkan Indonesia masuk ke dalam negara Asia yang berpotensi mengalami resesi ekonomi. Dari daftar 15 negara Asia yang berpotensi mengalami resesi ekonomi, Indonesia berada di peringkat 14 dengan persentase 3%. Inflasi di Indonesia cenderung rendah dibandingkan negara-negara lain. 
+
+Bukan berarti persentase lebih rendah daripada negara lain membuat pemerintah akan lengah. Pemerintah akan mengerahkan berbagai instrumen kebijakan untuk mengendalikan kondisi ekonomi. Seperti berkomitmen terus memberikan subsidi untuk menahan kenaikan harga energi dengan anggaran 520 Triliun Rupiah.
+
+Jadi, sekarang kamu sedikit banyaknya sudah paham bukan apa yang dimaksud dengan resesi? Kalau sudah, yuk berikutnya kita bahas tentang depresi ekonomi.
 
 ## Apa Itu Depresi Ekonomi?
 
