@@ -39,9 +39,9 @@ Menurut Epicurus juga, mengerjakan sesuatu di luar mengejar kepuasan dunia nanti
 
 Mengejar kebahagiaan di dunia terdengar sebagai konsep yang simpel, layaknya kita semua sebagai manusia yang ingin kemudahan. Sebenarnya, tidak ada salahnya kita berjuang untuk mengejar kebahagiaan di dunia karena hal tersebut adalah suatu yang membuat kita merasa enjoy. 
 
-Namun dari konsep yang diusung oleh Epicurus, arti hedonisme adalah hanya mengutamakan kebahagiaan diri sendiri. Sehingga dikategorikan sebagai hedonisme egoistic atau hedonisme yang hanya mementingkan diri sendiri sehingga menelantarkan pekerjaan dan kewajibannya.
+Namun dari konsep yang  diusung oleh Epicurus, arti hedonisme adalah hanya mengutamakan kebahagiaan diri sendiri. Sehingga dikategorikan sebagai hedonisme egoistic atau hedonisme yang hanya mementingkan diri sendiri sehingga menelantarkan pekerjaan dan kewajibannya.
 
-## **Beberapa bentuk hedonisme dikategorikan sebagai berikut:**
+## **Ciri-ciri Hedonisme Sesuai kategori Adalah Sebagai Berikut:**
 
 * **Normative hedonism** atau hedonisme pemikiran adalah konsep bahwa suatu keharusan untuk menjadikan kebahagiaan sebagai motivasi utama seseorang.
 * **Motivational hedonism** – hedonisme ini membuat orang hanya melakukan apa yang ingin mereka lakukan. Dalam konsep ini, dengan melakukan hanya sesuatu yang mereka ingin lakukan membuat mereka tidak mengimbangi dengan apa yang seharusnya dikerjakan. 
