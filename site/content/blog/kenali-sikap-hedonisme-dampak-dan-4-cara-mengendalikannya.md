@@ -83,9 +83,9 @@ Dampak terburuk hedonisme kategori parah dan terlalu sulit dikendalikan bisa men
 
 Skill terbatas karena malas dan waktu yang di habis-habiskan demi menghamburkan uang yang digunakan eksis di lingkup sosial membuat mereka menjadi liar dan lupa moral sehingga meloloskan berbagai cara untuk mendapatkan dana tambahan.
 
-## Cara Mengendalikan Sikap Hedonisme dan YOLO
+## Cara Mengatasi Hedonisme dan YOLO
 
-Kata ‘mencegah lebih baik daripada mengobati’ adalah kalimat yang benar ada faktanya. Kendati dalam pelaksanaannya terdapat banyak faktor yang mempengaruhi seseorang yang menyebabkan mereka butuh ‘pengobatan’.
+Setelah memahami arti hedon, ucapan tentang ‘mencegah lebih baik daripada mengobati’ adalah kalimat yang benar ada faktanya. Kendati dalam pelaksanaannya terdapat banyak faktor yang mempengaruhi seseorang yang menyebabkan mereka butuh ‘pengobatan’.
 
 Terus, apa yang harus dilakukan seseorang untuk mengobati sikap hedon dan YOLO? LandX telah merangkum cara terbaik untuk mengendalikan sikap hedon jika kamu sedang terjebak:
 
