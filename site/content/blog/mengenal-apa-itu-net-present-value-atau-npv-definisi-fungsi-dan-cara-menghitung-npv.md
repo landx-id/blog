@@ -29,9 +29,9 @@ category:
 
 Istilah NPV adalah istilah yang sangat umum digunakan di dunia akuntan tapi juga sangat penting anda pahami apabila anda ingin mulai berinvestasi.
 
-**Memahami apa itu NPV** dan cara menghitung NPV bagi investor pemula sangatlah penting karena akan membantu menganalisis keputusan keuangan terbaik untuk mendapatkan keuntungan investasi yang lebih optimal.
+**Memahami apa itu NPV** dan cara menghitung NPV adalah hal yang sangat penting bagi investor pemula. Ini karena perhitungan NPV adalah metode yang akan membantu analisis keputusan keuangan terbaik untuk mendapatkan keuntungan investasi yang lebih optimal.
 
-**Menghitung NPV** terbilang cukup mudah karena ada **rumus net present value (NPV)** yang akan membantu anda melakukan pengelolaan keuangan dengan lebih baik sehingga bisa memberikan anda keuntungan yang optimal di masa mendatang.
+**Cara menghitung NPV** terbilang cukup mudah karena ada **rumus net present value (NPV)** yang akan membantu anda melakukan pengelolaan keuangan dengan lebih baik sehingga bisa memberikan anda keuntungan yang optimal di masa mendatang.
 
 Karena itu mari kita bahas lebih lanjut apa itu *net present value* (NPV) __ agar anda bisa membuat keputusan investasi lebih baik di masa mendatang.
 
