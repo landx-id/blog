@@ -33,7 +33,7 @@ Istilah NPV adalah istilah yang sangat umum digunakan di dunia akuntan tapi juga
 
 **Cara menghitung NPV** terbilang cukup mudah karena ada **rumus net present value (NPV)** yang akan membantu anda melakukan pengelolaan keuangan dengan lebih baik sehingga bisa memberikan anda keuntungan yang optimal di masa mendatang.
 
-Karena itu mari kita bahas lebih lanjut apa itu *net present value* (NPV) __ agar anda bisa membuat keputusan investasi lebih baik di masa mendatang.
+Karena itu mari kita bahas lebih lanjut apa itu *net present value* (NPV) agar anda bisa membuat keputusan investasi lebih baik di masa mendatang.
 
 - - -
 
