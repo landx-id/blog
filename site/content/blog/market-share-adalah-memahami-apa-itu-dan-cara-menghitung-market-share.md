@@ -1,5 +1,5 @@
 ---
-draft: true
+draft: false
 author: Nadya A. Faatihah
 title: "Market Share Adalah: Memahami Apa Itu dan Cara Menghitung Market Share"
 metaTitle: Apa Itu Pangsa Pasar dan Cara Menghitung Market Share
