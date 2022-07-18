@@ -8,7 +8,7 @@ metaDescription: Arti hedon adalah sikap mengedepankan kepuasaan dunia tanpa
 intro: Arti hedon adalah sikap mengedepankan kepuasaan dunia tanpa bisa menata
   skala prioritas. Cara menghindari sikap hedonisme adalah menata tujuan jangka
   panjang dan pendek lengkap dengan skala prioritasnya. Mari kita kenali apa itu
-  sikap hedonisme dan bagaimana cara mmengatasi sikap hedon agar keuangan kamu
+  sikap hedonisme dan bagaimana cara mengatasi sikap hedon agar keuangan kamu
   makin teratur.
 date: 2022-03-08T01:44:42.059Z
 tag:
@@ -25,13 +25,11 @@ featuredImage:
   alt: Memahami apa itu arti hedon dan bagaimana cara menghindari sikap hedonisme
     agar keuangan kita stabil
 ---
-Arti hedon adalah sikap yang bisa terlihat dari muda-mudi trendy kekinian yang cenderung sulit mengendalikan pengeluaran dan lebih memilih belanja apa yang mereka inginkan tanpa perhitungan matang. Konsep sikap ini kemudian dikenal sebagai hedon atau sikap hedonisme. 
-
-
+Gambaran dari arti hedon adalah sikap yang bisa terlihat dari muda-mudi kekinian yang cenderung sulit mengendalikan pengeluaran dan lebih memilih belanja apa yang mereka inginkan tanpa perhitungan matang. Konsep sikap ini kemudian dikenal sebagai hedon atau sikap hedonisme. 
 
 Arti hedonisme adalah kecenderungan memilih bergaya hidup hedonisme demi memuaskan diri.  Semua pengeluaran tanpa perhitungan yang mumpuni tersebut mereka lakukan hanyalah demi kesenangan sesaat. 
 
-Berasal dari kata "*hedonism*", hedonisme adalah konsep bahwa mengejar kepuasan atau “*pleasure*” adalah yang utama. 
+Berasal dari kata "*hedonism,*" hedonisme adalah konsep bahwa mengejar kepuasan atau “*pleasure*” adalah yang utama. 
 
 > **Hedonisme adalah konsep menjadikan kepuasan atau kesenangan dunia sebagai hal paling penting dalam kesejahteraan hidup manusia.** Orang yang mementingkan konsep mengejar kepuasan ini juga dikenal sebagai *pleasure-seeker.*
 
@@ -61,9 +59,9 @@ Tahun 2012, Wall Street Journal menyimpulkan dari hasil cuitan Twitter orang-ora
 
 Aktor Amerika, Jack Black, menuliskan opininya di tengah kekacauan penggunaan frasa ini dengan me-tweet ‘YOLO adalah carpe diem bagi orang-orang bodoh’. Sebagaimana konsep ini yang tidak berusaha menyeimbangkan antara kebahagiaan jangka pendek dan jangka panjang.
 
-## Dampak Buruk dan Contoh Hedonisme
+## Dampak Buruk Hedonisme
 
-Karena hanya mengejar kepuasan sesaat, dampak hedonisme adalah membuat orang tersebut menjadi mengabaikan tanggung jawab yang harus dilakukannya. Beberapa dampak negatif hedonisme adalah sebagai berikut:
+Karena hanya mengejar kepuasan sesaat, buruknya dampak hedonisme adalah membuat orang tersebut menjadi mengabaikan tanggung jawab yang harus dilakukan. Selain itu, beberapa dampak negatif hedonisme adalah sebagai berikut:
 
 * ### **Konsumtif**
 
