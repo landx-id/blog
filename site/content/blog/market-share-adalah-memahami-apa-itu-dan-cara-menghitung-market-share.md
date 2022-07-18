@@ -10,7 +10,7 @@ intro: >
   Apa yang dimaksud dengan market share adalah perbandingan pendapatan antara
   perusahaan dengan kompetitornya. Cara menghitung market share digunakan untuk
   mencari market leader di tengah kompetitor yang ada.
-date: 2022-07-14T12:48:14.368Z
+date: 2022-07-18T10:20:44.805Z
 tag:
   - Valuasi Saham
   - Tips Investasi
