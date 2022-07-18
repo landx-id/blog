@@ -47,9 +47,11 @@ Namun dari konsep yang  diusung oleh Epicurus, arti hedonisme adalah sikap yang 
 * **Motivational hedonism** – arti hedonisme ini membuat orang hanya melakukan apa yang ingin mereka lakukan. Dalam konsep ini, dengan melakukan hanya sesuatu yang mereka ingin lakukan membuat mereka tidak mengimbangi dengan apa yang seharusnya dikerjakan. 
 * **Egoistic hedonism** – arti hedonism egotistic adalah ketika seseorang hanya memutuskan sesuatu berdasarkan kebahagiaan mereka. Terkadang membuat orang lain yang berkaitan dengannya terkena dampak hedonisme yang tidak menyenangkan.
 
-Apa pun jenis hedonismenya, semua aksi ini membuat orang yang menganut konsep ini menjadi mengabaikan nilai lainnya. Hedonisme membuat orang mengabaikan nilai keadilan dalam memutuskan benar atau salah.
+## Ciri-ciri Hedonisme dalam Kehidupan Sehari-hari
 
-Sama seperti yang dilakukan kaum yang disebut milenial secara umum bahwa mereka lebih memilih mengejar kebahagiaan yang tidak diimbangi perhitungan jangka panjang. Memilih membiayai life style dengan belanja barang mahal padahal dana darurat belum ada persiapan. Memilih staycation dan menanggung keuangan seret di akhir bulan.
+Apa pun jenis hedonismenya, semua aksi ini membuat orang yang menganut konsep ini menjadi mengabaikan nilai lainnya yang penting dalam keberlangsungan hidup. Arti Hedonisme ini membuat orang mengabaikan nilai keadilan dalam memutuskan benar atau salah.
+
+Sama seperti yang dilakukan kaum yang disebut milenial secara umum bahwa mereka lebih memilih mengejar kebahagiaan yang tidak diimbangi perhitungan jangka panjang. Ciri-ciri hedonismen ini ditandai dengan lebih memilih membiayai *lifestyle* dengan belanja barang mahal padahal dana darurat belum ada persiapan. Atau, memilih *staycation* dan menanggung konsekuensi keuangan seret di akhir bulan.
 
 Konsep memilih kebahagiaan sesaat tanpa perhitungan panjang ini juga kemudian dikenal sebagai konsep YOLO. YOLO atau You Only Live Once memiliki pengucapan yang sama dari kata carpe diem dalam buku karya penyair Romawi yaitu Horace, berjudul Odes. 
 
