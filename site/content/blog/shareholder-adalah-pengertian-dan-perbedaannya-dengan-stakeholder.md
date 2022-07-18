@@ -1,14 +1,20 @@
 ---
 draft: false
 author: Rafa Syawalia R
-title: "Shareholder Adalah: Pengertian dan Perbedaannya dengan Stakeholder"
-metaTitle: "Arti Shareholder Adalah: Perbedaan Stockholder dan Stakeholder"
+title: Memahami Perbedaan Shareholder dan Stockholder Beserta Contoh
+metaTitle: "Shareholder Adalah: Memahami Perbedaan Stockholder dan Stakeholder"
 metaDescription: Pemegang saham disebut sebagai shareholder adalah orang,
   perusahaan, organisasi yang memiliki satu saham perusahaan yang disebut
   ekuitas.
 intro: Shareholder adalah nama lain dari stockholder yaitu pemegang saham.
   Mereka memiliki hak khusus tergantung jenis saham yang mereka pegang.
 date: 2022-07-15T08:14:12.239Z
+tag:
+  - Investasi Saham
+  - Equity Crowdfunding
+  - Crowdfunding
+category:
+  - Investasi
 featuredImage:
   src: https://images.unsplash.com/photo-1559526324-593bc073d938?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2070&q=80
   alt: Pengertian shareholder perbedaan stockholder dan stakeholder
@@ -22,31 +28,17 @@ Dalam perkembangan dunia bisnis, tentunya istilah shareholder adalah hal yang ti
 
 Shareholder adalah orang, perusahaan, atau organisasi sebagai pemilik saham perusahaan dengan bentuk kepemilikannya yang disebut ekuitas. Pemegang saham pada dasarnya adalah pemilik perusahaan karena mereka menerima keuntungan bisnis.
 
-
-
 Keuntungan ini berupa peningkatan penilaian saham atau keuntungan finansial yang terdistribusi sebagai dividen. Jika perusahaan mengalami kerugian, harga saham pun akan menurun dan mengakibatkan kerugian nilai bagi pemegang saham dan nilai portofolio mereka.
-
-
 
 Sedangkan stockholder adalah orang, badan hukum, atau organisasi pemegang saham di suatu perusahaan. Dengan kata lain, stockholder merupakan salah satu pemangku utama di dalam perusahaan tersebut.
 
-
-
 Menurut Prof. DR. Sukmawati Sukamulja, shareholder dan stockholder dalam situasi tertentu dianggap dapat saling menggantikan. Jadi dapat disimpulkan shareholder adalah pemegang saham pada perusahaan sama seperti stockholder.
-
-
 
 Lebih jelasnya, menurut penjelasan Prof. DR. Sukmawati Sukamulja perbedaaan antara stockholder dan shareholder sebagai berikut:
 
-
-
 “Di dalam suatu perusahaan corporate terdapat dua partisi. Orang yang mengelola perusahaan disebut sebagai management, sering disebut sebagai agent. Para pembeli saham perusahaan yang secara fisik tidak terlibat di dalam operasional perusahaan disebut stockholders, atau sering disebut owners atau principals. 
 
-
-
 Individu maupun kelompok yang terlibat dalam memaksimalkan kekayaan perusahaan (*maximize company’s wealth*), baik itu management maupun para pemegang saham disebut shareholder. Semua elemen di dalam (*management and stockholders*) dan di luar perusahaan (pemerintah, pemasok, konsumen, masyarakat sekitar, dan lingkungan alam) yang memiliki kepentingan dengan perusahaan disebut stakeholders.”
-
-
 
 ## Perbedaan Stockholder dan Stakeholder
 
@@ -64,25 +56,17 @@ Istilah shareholder, stockholder dan stakeholder saling berkaitan, tentunya keti
 * Stakeholder bertanggung jawab dan memengaruhi apa yang terjadi pada perusahaan, tetapi stockholder hanya terpengaruh olehnya.
 * Stockholder memiliki bagian dari perusahaan, tetapi tidak semua stakeholder memiliki bagian dari perusahaan.
 
- 
-
 ## Perbedaan Investor dan Pemegang Saham
 
 Nah, sekarang adalah perbedaan investor dan pemegang saham. Keduanya saling terkait dalam dunia bisnis serta terlibat dengan dana. Investor maupun pemegang saham memposisikan diri masing-masing dalam perputaran keuntungan yang diperoleh.
 
-![Contoh stakeholder dan shareholder]( "Contoh perbedaan stakeholder dan shareholder")
+![Contoh stakeholder dan shareholder](https://media.discordapp.net/attachments/995954280559284304/997353808583721071/Stakeholders.png?width=620&height=620 "Contoh perbedaan stakeholder dan shareholder")
 
 Pemegang saham adalah orang yang mempunyai bagian saham perusahaan yang terdaftar di bursa efek, yang berarti saham perusahaan tersebut diperdagangkan secara publik. Seorang pemegang saham melakukan pembelian dan penjualan saham untuk strategi terencana untuk memaksimalkan keuntungan perusahaan. Pemegang saham adalah jenis investor yang merupakan pemangku kepentingan di satu atau lebih dari satu perusahaan.
 
-
-
 Selain itu, investor memiliki cakupan yang sangat luas, sebagai contoh seseorang yang berinvestasi di deposito atau rekening bank bisa disebut investor. Baik investor dan pemegang saham, kedua memasukkan uangnya ke dalam instrumen investasi. Investor adalah seseorang yang menanam modal pada suatu badan atau perusahaan.
 
-
-
 Perbedaan investor dan pemegang saham adalah seorang investor bisa memiliki instrumen investasi lain contohnya properti, emas dan asuransi. Sedangkan pemegang saham adalah investor yang punya aset investasi saham, serta bergantung pada pertumbuhan perusahaan untuk memperoleh keuntungan dari dividen.
-
-
 
 ## Jenis-jenis Shareholder
 
@@ -91,8 +75,6 @@ Setelah mengetahui peran-peran shareholder dalam perusahaan, ada dua macam-macam
 ### 1. Common Shareholder
 
 Jenis pertama shareholder adalah common shareholder yaitu pemilik saham biasa di perusahaan. Untuk jenis pemegang saham biasa ini artinya pemegang saham menikmati suara atas hak terkait perusahaan.
-
-
 
 Karena memiliki hak atas pengelolaan perusahaan maka pemegang saham ini juga memiliki hak dalam class action jika ada kesalahan yang nantinya akan membahayakan perusahaan. Pemegang saham ini menerima penghasilan dari bisnis melalui dividen perusahaan terkait. 
 
@@ -116,24 +98,14 @@ Dilansir dari Investopedia, sebagai shareholder atau pemodal perusahaan tentunya
 
 Terlepas dari hak tersebut, pada dasarnya hak yang dimiliki oleh para pemegang saham berbeda-beda. Hal tersebut dikarenakan adanya hukum yang berbeda-beda pada tiap negara terkait bisnis dan saham.
 
- 
-
 Untuk itu, para investor wajib memeriksa secara seksama terkait hukum yang berlaku di negara tersebut. Selain itu, hak yang dimiliki oleh shareholder adalah suatu standar yang harus ditetapkan secara segera sebelum menanamkan investasi saham. Hal tersebut sangat penting guna melindungi para pemilik saham dari buruknya pengelolaan perusahaan.
-
-
 
 Kalau kamu yang ingin menjadi shareholder, ada yang harus kamu perhatikan dahulu. Sebagai contoh dengan belajar ilmu investasi dahulu. Karena selain meraih keuntungan, investasi memiliki risiko kerugian juga, jadi pastikan kamu benar-benar mempelajari profil risiko dahulu. Untuk menjadi investor pemula, kamu bisa memulai investasi bisnis potensial lewat skema securities crowdfunding. 
 
-
-
 Securities crowdfunding ini merupakan skema pendanaan untuk bisnis kecil dengan cara urun dana masyarakat secara luas mendanai bisnis potensial. Melalui skema securities crowdfunding ini kamu bisa menjadi investor dengan modal kecil, serta mendapatkan keuntungan dividen secara rutin. 
-
-
 
 **[LandX](https://landx.id/)** merupakan platform securities crowdfunding yang sudah berizin OJK dan berpengalaman. Dengan pilihan bisnis yang beragam, dari FnB seperti *coffee shop*, sushi resto, dan cloud kitchen, hingga bisnis industri properti seperti kos-kosan. Tentunya, kamu berpeluang berinvestasi pada bisnis dengan prospek yang menjanjikan. 
 
-
-
 ## [Mau Jadi Investor Bisnis Potensial? Gabung Sekarang Lewat LandX!](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)
 
-<!--EndFragment-->
+![Investasi Bisnis dengan securities crowdfunding di Landx](img/investasi-di-landx-modal-1-jutaan-bisa-jadi-pemilik-saham-bisnis-menjanjikan-1-.webp "LandX platform equity crowdfunding berlisensi OJK")
