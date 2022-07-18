@@ -65,9 +65,11 @@ Karena hanya mengejar kepuasan sesaat, buruknya dampak hedonisme adalah membuat 
 
 * ### **Konsumtif**
 
-Sikap hedonisme yang umum dilakukan para milenial untuk memenuhi rasa puasnya umumnya membuat keuangan menjadi kempis. Mereka berusaha membeli semua hal yang diinginkan padahal belum diperlukan. 
+Fenomena pada kaum milenial dari sikap hedonisme adalah terus-menerus memenuhi rasa puasnya sehingga membuat keuangan menjadi kempis. Inilah salah satu dari apa itu sifat hedonisme dan contohnya. 
 
-Membiayai gaya hidup yang serba mahal demi eksis di media sosial. Serta, berusaha menyembangi lingkup sosial yang merogoh dompet secara dalam. Padahal tidak harus melakukan hal tersebut, seperti posting telah hadir di cafe populer demi merasa tidak ketinggalan. 
+
+
+Selain itu, contoh sikap hedonisme adalah membeli semua hal yang diinginkan padahal belum diperlukan, membiayai gaya hidup yang serba mahal demi eksis di media sosial, serta berusaha jadi bagian lingkup sosial yang perlu merogoh dompet secara dalam. Padahal tidak harus melakukan hal tersebut, seperti posting *nongkrong* di cafe populer demi merasa tidak ketinggalan. 
 
 * ### **Pemalas dan menghindari tanggung jawab**
 
