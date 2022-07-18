@@ -25,27 +25,27 @@ featuredImage:
   alt: Memahami apa itu arti hedon dan bagaimana cara menghindari sikap hedonisme
     agar keuangan kita stabil
 ---
-Muda-mudi trendy kekinian dikenal sulit mengendalikan pengeluaran dan lebih memilih belanja apa yang mereka inginkan tanpa perhitungan matang. Konsep sikap ini kemudian dikenal sebagai hedon atau sikap hedonisme. 
+Arti hedon adalah sikap yang bisa terlihat dari muda-mudi trendy kekinian yang cenderung sulit mengendalikan pengeluaran dan lebih memilih belanja apa yang mereka inginkan tanpa perhitungan matang. Konsep sikap ini kemudian dikenal sebagai hedon atau sikap hedonisme. 
 
 
 
 Arti hedonisme adalah kecenderungan memilih bergaya hidup hedonisme demi memuaskan diri.  Semua pengeluaran tanpa perhitungan yang mumpuni tersebut mereka lakukan hanyalah demi kesenangan sesaat. 
 
-Berasal dari kata hedonism, hedonisme adalah konsep bahwa mengejar kepuasan atau “pleasure”. 
+Berasal dari kata "*hedonism*", hedonisme adalah konsep bahwa mengejar kepuasan atau “*pleasure*” adalah yang utama. 
 
-> **Hedonisme adalah konsep menjadikan kepuasan atau kesenangan dunia sebagai hal paling penting dalam kesejahteraan hidup manusia.** Orang yang mementingkan konsep mengejar kepuasan ini juga dikenal sebagai pleasure-seeker.
+> **Hedonisme adalah konsep menjadikan kepuasan atau kesenangan dunia sebagai hal paling penting dalam kesejahteraan hidup manusia.** Orang yang mementingkan konsep mengejar kepuasan ini juga dikenal sebagai *pleasure-seeker.*
 
 Sosok Epicurus, filsuf Yunani, mengajarkan konsep mengejar kepuasan melalui tulisannya bernama Letter of Menoeceus. Letter of Menoeceus menyebarkan pemikiran bahwa kebahagiaan hanya bisa didapatkan melalui kepuasan dunia. 
 
-Menurut Epicurus juga, mengerjakan sesuatu diluar mengejar kepuasan dunia nantinya hanya akan menyebabkan rasa sakit dan berakhir pada hal yang ditakutkan yaitu kematian. 
+Menurut Epicurus juga, mengerjakan sesuatu di luar mengejar kepuasan dunia nantinya hanya akan menyebabkan rasa sakit dan berakhir pada hal yang ditakutkan yaitu kematian. 
 
 Mengejar kebahagiaan di dunia terdengar sebagai konsep yang simpel, layaknya kita semua sebagai manusia yang ingin kemudahan. Sebenarnya, tidak ada salahnya kita berjuang untuk mengejar kebahagiaan di dunia karena hal tersebut adalah suatu yang membuat kita merasa enjoy. 
 
-Namun, pada konsep hedonisme yang diusung oleh Epicurus ini mengutamakan hanya kebahagiaan diri sendiri. Sehingga dikategorikan sebagai hedonisme egoistic atau hedonisme yang hanya mementingkan diri sendiri sehingga menelantarkan pekerjaan dan kewajibannya.
+Namun dari konsep yang diusung oleh Epicurus, arti hedonisme adalah hanya mengutamakan kebahagiaan diri sendiri. Sehingga dikategorikan sebagai hedonisme egoistic atau hedonisme yang hanya mementingkan diri sendiri sehingga menelantarkan pekerjaan dan kewajibannya.
 
 ## **Beberapa bentuk hedonisme dikategorikan sebagai berikut:**
 
-* **Normative hedonism** – jenis hedonisme ini adalah pemikiran bahwa suatu keharusan untuk menjadikan kebahagiaan sebagai motivasi utama seseorang.
+* **Normative hedonism** atau hedonisme pemikiran adalah konsep bahwa suatu keharusan untuk menjadikan kebahagiaan sebagai motivasi utama seseorang.
 * **Motivational hedonism** – hedonisme ini membuat orang hanya melakukan apa yang ingin mereka lakukan. Dalam konsep ini, dengan melakukan hanya sesuatu yang mereka ingin lakukan membuat mereka tidak mengimbangi dengan apa yang seharusnya dikerjakan. 
 * **Egoistic hedonism** – konsep egoistic hedonism membuat seseorang hanya memutuskan sesuatu berdasarkan kebahagiaan mereka. Terkadang membuat orang lain yang berkaitan dengannya terkena dampak yang tidak menyenangkan.
 
@@ -61,7 +61,7 @@ Tahun 2012, Wall Street Journal menyimpulkan dari hasil cuitan Twitter orang-ora
 
 Aktor Amerika, Jack Black, menuliskan opininya di tengah kekacauan penggunaan frasa ini dengan me-tweet ‘YOLO adalah carpe diem bagi orang-orang bodoh’. Sebagaimana konsep ini yang tidak berusaha menyeimbangkan antara kebahagiaan jangka pendek dan jangka panjang.
 
-## Kenapa Hedonisme Buruk untuk Keuangan Jangka Panjang Anda?
+## Dampak Buruk dan Contoh Hedonisme
 
 Karena hanya mengejar kepuasan sesaat, dampak hedonisme adalah membuat orang tersebut menjadi mengabaikan tanggung jawab yang harus dilakukannya. Beberapa dampak negatif hedonisme adalah sebagai berikut:
 
