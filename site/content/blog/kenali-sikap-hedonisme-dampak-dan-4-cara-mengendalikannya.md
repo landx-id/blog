@@ -45,7 +45,7 @@ Namun dari konsep yang  diusung oleh Epicurus, arti hedonisme adalah sikap yang 
 
 * **Normative hedonism** – atau hedonisme pemikiran adalah konsep bahwa suatu keharusan untuk menjadikan kebahagiaan sebagai motivasi utama seseorang.
 * **Motivational hedonism** – arti hedonisme ini membuat orang hanya melakukan apa yang ingin mereka lakukan. Dalam konsep ini, dengan melakukan hanya sesuatu yang mereka ingin lakukan membuat mereka tidak mengimbangi dengan apa yang seharusnya dikerjakan. 
-* **Egoistic hedonism** – arti hedonism egotistic adalah ketika seseorang hanya memutuskan sesuatu berdasarkan kebahagiaan mereka. Terkadang membuat orang lain yang berkaitan dengannya terkena dampak yang tidak menyenangkan.
+* **Egoistic hedonism** – arti hedonism egotistic adalah ketika seseorang hanya memutuskan sesuatu berdasarkan kebahagiaan mereka. Terkadang membuat orang lain yang berkaitan dengannya terkena dampak hedonisme yang tidak menyenangkan.
 
 Apa pun jenis hedonismenya, semua aksi ini membuat orang yang menganut konsep ini menjadi mengabaikan nilai lainnya. Hedonisme membuat orang mengabaikan nilai keadilan dalam memutuskan benar atau salah.
 
