@@ -111,7 +111,7 @@ Perlu untuk memiliki tujuan finansial, misalkan kamu ingin pensiun dini setelah 
 
 Semua orang kini sudah melek investasi, namun belum semua orang berinvestasi karena takut dengan rumor rasa tidak aman berseliweran. Semua jenis instrumen investasi membawa risiko tersendiri. Kenali diri dan pilih instrumen paling cocok dengan profil kamu.
 
-Terdapat instrumen saham dengan risiko tinggi dan return tinggi, atau deposito dengan bunga menguntungkan yang bisa kamu setujui. Ingat! Investasi berkaitan dengan to good to be true maka it’s not true. Artinya jangan sampai terbuai godaan return keuntungan tinggi yang berlebihan dan terjebak menjadi korban penipuan. 
+Terdapat instrumen saham dengan risiko tinggi dan return tinggi, atau deposito dengan bunga menguntungkan yang bisa kamu setujui. Ingat! Investasi berkaitan dengan *too good to be true* maka it’s not true. Artinya jangan sampai terbuai godaan return keuntungan tinggi yang berlebihan dan terjebak menjadi korban penipuan. 
 
 Tahun 2022 adalah tahun dengan akses digital tak terbatas dengan berbagai pilihan platform investasi yang dapat kamu percayakan. LandX adalah satu platform investasi jenis equity crowdfunding yang diawasi standar Otoritas Jasa Keuangan (OJK).
 
