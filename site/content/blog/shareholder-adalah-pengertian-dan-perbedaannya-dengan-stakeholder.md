@@ -108,4 +108,8 @@ Securities crowdfunding ini merupakan skema pendanaan untuk bisnis kecil dengan 
 
 ## [Mau Jadi Investor Bisnis Potensial? Gabung Sekarang Lewat LandX!](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)
 
-![Investasi Bisnis dengan securities crowdfunding di Landx](img/investasi-di-landx-modal-1-jutaan-bisa-jadi-pemilik-saham-bisnis-menjanjikan-1-.webp "LandX platform equity crowdfunding berlisensi OJK")
+<!--StartFragment-->
+
+[![](blob:https://keen-mestorf-9781e3.netlify.app/197488ac-74b8-425a-97d5-3674772854be)](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)
+
+<!--EndFragment-->
