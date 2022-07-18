@@ -121,11 +121,15 @@ Tahun ketiga: 9.000.000 / (1+0,05)^3 = 7.774.538
 
 **NPV** = 2.994.605
 
-Berdasarkan hasil perhitungan di atas maka dapat disimpulkan bahwa membangun set dapur baru untuk produksi dapat dipertimbangkan karena bisa memberikan anda keuntungan di masa mendatang dengan nilai NPV > 0. Sebagai pebisnis atau investor anda bisa menggunakan NPV sebagai salah satu acuan dalam mengambil keputusan.
+Berdasarkan hasil perhitungan di atas maka dapat disimpulkan bahwa membangun set dapur baru untuk produksi dapat dipertimbangkan karena bisa memberikan anda keuntungan di masa mendatang dengan nilai NPV lebih dari 0 yang artinya proyek ini baik.
 
-## Penutup
+Mengapa NPV lebih dari nol menjadi acuan dalam bagus tidaknya sebuah proyek atau investasi? Ini karena angka NPV nol menunjukkan investasi atau proyek tidak punya keuntungan atau kerugian. Sementara angka NPV lebih dari nol menunjukkan prospek keuntungan. 
 
-Setelah paham bagaimana menghitung NPV diharapkan anda bisa mengambil keputusan lebih baik dalam investasi dan bisnis yang sedang anda jalankan.
+Namun, jika angka NPV negatif artinya proyek atau investasi akan mengalami kerugian. Karena itu, sebagai pebisnis atau investor anda bisa menggunakan NPV sebagai salah satu acuan dalam mengambil keputusan.
+
+## Apa Itu NPV Dalam Investasi?
+
+Setelah paham bagaimana menghitung NPV diharapkan anda bisa mengambil keputusan lebih baik dalam investasi dan bisnis yang sedang anda jalankan. Karena teknik mengitung NPV adalah metode dalam perencanaan investasi, hasil perhitungannya akan membantu penganggaran modal untuk mengukur profitabilitas proyek atau investasi tersebut.
 
 NPV akan sangat bermanfaat untuk memastikan bahwa tindakan yang anda ambil saat ini sudah sesuai dengan tujuan yang ingin anda capai di masa mendatang. Kini tentu anda semakin paham kriteria bisnis dan investasi seperti apa yang cocok dan menguntungkan anda dalam jangka panjang.
 
