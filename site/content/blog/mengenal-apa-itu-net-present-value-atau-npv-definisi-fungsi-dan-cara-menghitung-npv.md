@@ -2,9 +2,9 @@
 draft: false
 author: Abdul Wahhab
 slug: mengenal-apa-itu-net-present-value-atau-npv-definisi-fungsi-dan-cara-menghitung-npv
-title: "NPV atau Net Present Value Adalah: Definisi dan Fungsi NPV"
+title: "Apa Itu Net Present Value (NPV) Adalah: Definisi dan Fungsi NPV"
 metaTitle: "NPV | Net Present Value Adalah: Definisi, Fungsi, dan Menghitung NPV"
-metaDescription: Net present value adalah hal penting untuk kamu yang
+metaDescription: Apa itu net present value adalah hal penting untuk kamu yang
   berinvestasi. NPV adalah cara cari tahu nilai keuntungan di masa mendatang.
 intro: Perhitungan Net present value adalah hal penting untuk kamu yang
   berinvestasi. NPV adalah cara cari tahu nilai keuntungan di masa mendatang.
@@ -126,6 +126,8 @@ Berdasarkan hasil perhitungan di atas maka dapat disimpulkan bahwa membangun set
 Mengapa NPV lebih dari nol menjadi acuan dalam bagus tidaknya sebuah proyek atau investasi? Ini karena angka NPV nol menunjukkan investasi atau proyek tidak punya keuntungan atau kerugian. Sementara angka NPV lebih dari nol menunjukkan prospek keuntungan. 
 
 Namun, jika angka NPV negatif artinya proyek atau investasi akan mengalami kerugian. Karena itu, sebagai pebisnis atau investor anda bisa menggunakan NPV sebagai salah satu acuan dalam mengambil keputusan.
+
+- - -
 
 ## Apa Itu NPV Dalam Investasi?
 
