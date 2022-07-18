@@ -8,8 +8,8 @@ metaDescription: Net present value adalah hal penting untuk kamu yang
   berinvestasi. NPV adalah cara cari tahu nilai keuntungan di masa mendatang.
 intro: Perhitungan Net present value adalah hal penting untuk kamu yang
   berinvestasi. NPV adalah cara cari tahu nilai keuntungan di masa mendatang.
-  Oleh sebab itu, yuk kita pelajari cara menghitung NPV agar keputusan investasi
-  kamu menjadi lebih optimal.
+  Oleh sebab itu, yuk kita pelajari cara menghitung NPV dan apa itu NPV dalam
+  investasi agar keputusan kamu menjadi lebih optimal.
 date: 2021-06-11T02:22:58.000Z
 tag:
   - net present value
@@ -18,14 +18,14 @@ tag:
   - rasio keuangan
 featuredImage:
   src: https://images.unsplash.com/photo-1635840420799-f75477b0b977?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxMTc3M3wwfDF8c2VhcmNofDEwfHxpbmZsYXRpb258ZW58MHx8fHwxNjQxMTg0MzE3&ixlib=rb-1.2.1&q=80&w=1080
-  alt: Cara  menghitung NPV yang wajib kamu pahami
+  alt: Cara menghitung NPV yang wajib kamu pahami
   title: Memahami apa itu NPV dan Rumus Perhitungan NPV
 image: https://images.unsplash.com/photo-1635840420799-f75477b0b977?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxMTc3M3wwfDF8c2VhcmNofDEwfHxpbmZsYXRpb258ZW58MHx8fHwxNjQxMTg0MzE3&ixlib=rb-1.2.1&q=80&w=1080
 category:
   - Keuangan
   - Investasi
 ---
-**Net present value atau NPV** adalah salah satu hal  penting untuk dipahami apabila kamu ingin melakukan investasi. **NPV adalah** perkiraan arus kas di masa mendatang yang menggunakan ***social opportunity cost of capital** sehingga* dikurangi berbagai diskon.
+**Net present value** adalah salah satu hal penting untuk dipahami apabila kamu ingin melakukan investasi. **NPV adalah** perkiraan arus kas di masa mendatang yang menggunakan **\*social opportunity cost of capital** sehingga* dikurangi berbagai diskon.
 
 Istilah NPV adalah istilah yang sangat umum digunakan di dunia akuntan tapi juga sangat penting anda pahami apabila anda ingin mulai berinvestasi.
 
