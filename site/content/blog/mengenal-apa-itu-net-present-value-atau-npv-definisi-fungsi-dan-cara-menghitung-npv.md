@@ -129,9 +129,9 @@ Namun, jika angka NPV negatif artinya proyek atau investasi akan mengalami kerug
 
 ## Apa Itu NPV Dalam Investasi?
 
-Setelah paham bagaimana menghitung NPV diharapkan anda bisa mengambil keputusan lebih baik dalam investasi dan bisnis yang sedang anda jalankan. Karena teknik mengitung NPV adalah metode dalam perencanaan investasi, hasil perhitungannya akan membantu penganggaran modal untuk mengukur profitabilitas proyek atau investasi tersebut.
+Setelah paham bagaimana menghitung NPV diharapkan anda bisa mengambil keputusan lebih baik dalam investasi dan bisnis yang sedang anda jalankan. Karena teknik mengitung NPV adalah metode dalam melihat prospek keuntungan dan juga risiko kerugian, maka hasil perhitungannya akan membantu penganggaran modal untuk mengukur profitabilitas proyek atau investasi tersebut.
 
-NPV akan sangat bermanfaat untuk memastikan bahwa tindakan yang anda ambil saat ini sudah sesuai dengan tujuan yang ingin anda capai di masa mendatang. Kini tentu anda semakin paham kriteria bisnis dan investasi seperti apa yang cocok dan menguntungkan anda dalam jangka panjang.
+NPV adalah metode analisis yang akan sangat bermanfaat untuk memastikan bahwa tindakan yang anda ambil saat ini sudah sesuai dengan tujuan yang ingin anda capai di masa mendatang. Kini tentu anda semakin paham kriteria bisnis dan investasi seperti apa yang cocok dan menguntungkan anda dalam jangka panjang.
 
 Salah satu instrumen investasi yang wajib anda coba adalah investasi bisnis melalui skema ***[equity crowdfunding](https://landx.id/)***. Sistem ini membuat anda bisa melakukan investasi bisnis yang menguntungkan dalam jangka panjang dengan modal kecil. Karena itu…
 
