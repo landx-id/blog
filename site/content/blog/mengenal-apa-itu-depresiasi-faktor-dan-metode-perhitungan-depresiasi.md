@@ -1,15 +1,22 @@
 ---
 draft: false
 author: Rafa Syawalia R
-title: Mengenal Apa Itu Depresiasi, Faktor dan Metode Perhitungan Depresiasi
+title: Apa Itu Depresiasi? Memahami Faktor dan Metode Perhitungan Depresiasi
 metaTitle: Apa Itu Depresiasi, Faktor dan Metode Perhitungan Depresiasi Aset
-metaDescription: "Apa itu depresiasi adalah biaya yang muncul karena adanya
-  penggunaan aset tetap yang dimiliki oleh sebuah perusahaan atau pelaku bisnis.
-  "
+metaDescription: "depresiasi adalah biaya yang muncul karena adanya penggunaan
+  aset tetap yang dimiliki oleh sebuah perusahaan atau pelaku bisnis. "
 intro: Untuk kamu yang ingin masuk ke dalam dunia keuangan, perlu tahu apa itu
   depresiasi serta metode perhitungan untuk catatan metode penyusutan aktiva
   tetap perusahaan kamu!
 date: 2022-07-14T11:50:51.375Z
+tag:
+  - Rasio Keuangan
+  - Laporan Keuangan
+  - Analisis Bisnis
+  - NPV
+category:
+  - Bisnis
+  - Keuangan
 featuredImage:
   src: https://images.unsplash.com/photo-1597334948330-38795f25d05d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2071&q=80
   alt: Faktor-faktor yang mempengaruhi depresiasi
@@ -143,7 +150,7 @@ Rumusnya adalah 
 
 Contoh, suatu perusahaan memiliki mesin dengan nilai Rp260.000.000 dan diperkirakan dapat digunakan selama 6 tahun. Perkiraan nilai residu akhir pemakaiannya yakni Rp5.000.000, selama umur ekonomis mesin dapat digunakan selama 85.000 jam. Berikut data penggunaan per tahun:
 
-![Contoh Biaya Depresiasi Adalah]( "Contoh Akumulasi Depresiasi Aset Adalah")
+![Contoh Biaya Depresiasi Adalah](https://media.discordapp.net/attachments/995954280559284304/997111071703842886/Screenshot_2022-07-14_190239.png "Contoh Akumulasi Depresiasi Aset Adalah")
 
 Hitunglah nilai depresiasi menggunakan metode aktivitas!
 
@@ -161,7 +168,7 @@ Maka pada tahun pertama, jumlah jam dikalikan dengan beban penyusutan sebelumnya
 
 Jika dalam berupa tabel,
 
-![Contoh akumulasi depresiasi adalah]( "Contoh akumulasi depresiasi adalah")
+![Contoh akumulasi depresiasi adalah](https://media.discordapp.net/attachments/995954280559284304/997111072043573249/Screenshot_2022-07-14_190300.png?width=1057&height=318 "Contoh akumulasi depresiasi adalah")
 
 ## Manfaat Metode Perhitungan Depresiasi
 
@@ -194,5 +201,9 @@ Melalui skema securities crowdfunding, perusahaan kamu yang terdaftar akan didan
 LandX adalah platform [securities crowdfunding](landx.id) yang berpengalaman untuk membantu bisnis potensial saat ini. Mulai dari industri F&B, seperti cloud kitchen, resto sushi dan gelato hits, hingga bisnis di industri properti seperti kos-kosan.
 
 ## [Yuk, Listing Perusahaanmu lewat LandX untuk Mengembangkan Bisnis Kamu!](https://landx.id/)
+
+<!--StartFragment-->
+
+[![Bagaimana? Kamu lebih suka bisnis dengan buyback guarantee atau yang bisa disimpan dalam jangka panjang? Apapun pilihan kamu.. Yuk Patungan  dengan Keuntungan Menjanjikan Bareng LandX](https://accountgram-production.sfo2.cdn.digitaloceanspaces.com/landx_ghost/2021/10/Equity-Crowdfunding-di-Indonesia-1--3.png)](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)
 
 <!--EndFragment-->
