@@ -2,12 +2,14 @@
 author: Vlora Riyandi
 title: "Kenali Arti Hedon: Apa Itu Sifat Hedonisme dan Contohnya"
 metaTitle: "Arti Hedon Adalah: Dampak Hedonisme dan 4 Cara Mengendalikannya"
-metaDescription: 4 Cara terbaik untuk mengendalikan sikap hedonisme adalah
-  dengan menata skala prioritas untuk menyembangkan kepuasan jangka pendek dan
-  jangka panjang.
-intro: Supaya keuangan kamu makin terkendali, mari kita kenali apa itu sikap
-  hedonisme dan bagaimana cara menghindari sikap hedon agar keuangan kamu makin
-  diatur dengan baik.
+metaDescription: Arti hedon adalah sikap mengedepankan kepuasaan dunia tanpa
+  bisa menata skala prioritas. Cara menghindari sikap hedonisme adalah sebagai
+  berikut!
+intro: Arti hedon adalah sikap mengedepankan kepuasaan dunia tanpa bisa menata
+  skala prioritas. Cara menghindari sikap hedonisme adalah menata tujuan jangka
+  panjang dan pendek lengkap dengan skala prioritasnya. Mari kita kenali apa itu
+  sikap hedonisme dan bagaimana cara mmengatasi sikap hedon agar keuangan kamu
+  makin teratur.
 date: 2022-03-08T01:44:42.059Z
 tag:
   - Mengatur Keuangan
