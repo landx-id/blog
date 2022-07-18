@@ -1,7 +1,7 @@
 ---
 author: Vlora Riyandi
-title: "Kenali Sikap Hedonisme: Dampak dan 4 Cara Mengendalikannya"
-metaTitle: "Kenali Sikap Hedonisme: Dampak dan 4 Cara Mengendalikannya"
+title: "Kenali Arti Hedon: Apa Itu Sifat Hedonisme dan Contohnya"
+metaTitle: "Arti Hedon Adalah: Dampak Hedonisme dan 4 Cara Mengendalikannya"
 metaDescription: 4 Cara terbaik untuk mengendalikan sikap hedonisme adalah
   dengan menata skala prioritas untuk menyembangkan kepuasan jangka pendek dan
   jangka panjang.
