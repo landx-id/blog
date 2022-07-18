@@ -2,15 +2,14 @@
 draft: false
 author: Abdul Wahhab
 slug: mengenal-apa-itu-net-present-value-atau-npv-definisi-fungsi-dan-cara-menghitung-npv
-title: "NPV/ Net Present Value Adalah: Definisi, Fungsi, dan Menghitung NPV"
-metaTitle: "NPV/ Net Present Value Adalah: Definisi, Fungsi, dan Menghitung NPV"
-metaDescription: Net present value adalah hal yang sangat penting untuk kamu
-  perhatikan apabila kamu berinvestasi agar kamu tau bagaimana nilai uang di
-  masa mendatang
-intro: Perhitungan Net Present Value (NPV) adalah salah satu bagian penting yang
-  harus kamu lakukan saat akan mulai berinvestasi. Oleh sebab itu, yuk kita
-  pelajari cara menghitung NPV agar keputusan investasi kamu menjadi lebih
-  optimal.
+title: "NPV atau Net Present Value Adalah: Definisi dan Fungsi NPV"
+metaTitle: "NPV | Net Present Value Adalah: Definisi, Fungsi, dan Menghitung NPV"
+metaDescription: Net present value adalah hal penting untuk kamu yang
+  berinvestasi. NPV adalah cara cari tahu nilai keuntungan di masa mendatang.
+intro: Perhitungan Net present value adalah hal penting untuk kamu yang
+  berinvestasi. NPV adalah cara cari tahu nilai keuntungan di masa mendatang.
+  Oleh sebab itu, yuk kita pelajari cara menghitung NPV agar keputusan investasi
+  kamu menjadi lebih optimal.
 date: 2021-06-11T02:22:58.000Z
 tag:
   - net present value
