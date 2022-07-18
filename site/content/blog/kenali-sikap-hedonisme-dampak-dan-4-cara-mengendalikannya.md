@@ -22,14 +22,16 @@ featuredImage:
   src: https://images.unsplash.com/photo-1483985988355-763728e1935b?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80
   title: Cara Mengendalikan Sikap Hedonisme yang Agar Manajemen Keuangan Kita
     Menjadi Lebih Optimal
-  alt: Memahami apa itu sikap hedonisme dan bagaimana cara menghindari sikap
-    hedonisme agar keuangan kita stabil
+  alt: Memahami apa itu arti hedon dan bagaimana cara menghindari sikap hedonisme
+    agar keuangan kita stabil
 ---
-Muda-mudi trendy kekinian dikenal sulit mengendalikan pengeluaran dan lebih memilih belanja apa yang mereka inginkan tanpa perhitungan matang. Sikap ini secara umum terjadi secara menyeluruh dikalangan ini, konsep sikap ini kemudian dikenal sebagai hedon atau sikap hedonisme. 
+Muda-mudi trendy kekinian dikenal sulit mengendalikan pengeluaran dan lebih memilih belanja apa yang mereka inginkan tanpa perhitungan matang. Konsep sikap ini kemudian dikenal sebagai hedon atau sikap hedonisme. 
 
-Mereka cenderung memilih bergaya hidup hedonisme demi memuaskan diri.  Semua pengeluaran tanpa perhitungan yang mumpuni tersebut mereka lakukan hanyalah demi kesenangan sesaat. 
 
-Hedonisme berasal dari kata hedonism yang diartikan sebagai konsep bahwa mengejar kepuasan atau “pleasure”. 
+
+Arti hedonisme adalah kecenderungan memilih bergaya hidup hedonisme demi memuaskan diri.  Semua pengeluaran tanpa perhitungan yang mumpuni tersebut mereka lakukan hanyalah demi kesenangan sesaat. 
+
+Berasal dari kata hedonism, hedonisme adalah konsep bahwa mengejar kepuasan atau “pleasure”. 
 
 > **Hedonisme adalah konsep menjadikan kepuasan atau kesenangan dunia sebagai hal paling penting dalam kesejahteraan hidup manusia.** Orang yang mementingkan konsep mengejar kepuasan ini juga dikenal sebagai pleasure-seeker.
 
