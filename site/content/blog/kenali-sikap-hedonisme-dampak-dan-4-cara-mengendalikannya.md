@@ -1,6 +1,6 @@
 ---
 author: Vlora Riyandi
-title: "Kenali Arti Hedon: Apa Itu Sifat Hedonisme dan Contohnya"
+title: "Arti Hedon Adalah: Apa Itu Sifat Hedonisme dan Contohnya"
 metaTitle: "Arti Hedon Adalah: Dampak Hedonisme dan 4 Cara Mengendalikannya"
 metaDescription: Arti hedon adalah sikap mengedepankan kepuasaan dunia tanpa
   bisa menata skala prioritas. Cara menghindari sikap hedonisme adalah sebagai
