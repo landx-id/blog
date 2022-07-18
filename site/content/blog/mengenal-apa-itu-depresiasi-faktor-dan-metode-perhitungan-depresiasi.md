@@ -1,5 +1,5 @@
 ---
-draft: false
+draft: true
 author: Rafa Syawalia R
 title: Mengenal Apa Itu Depresiasi, Faktor dan Metode Perhitungan Depresiasi
 metaTitle: Apa Itu Depresiasi, Faktor dan Metode Perhitungan Depresiasi Aset
