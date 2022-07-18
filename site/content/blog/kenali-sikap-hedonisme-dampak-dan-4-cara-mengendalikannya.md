@@ -39,7 +39,7 @@ Menurut Epicurus juga, mengerjakan sesuatu di luar mengejar kepuasan dunia nanti
 
 Mengejar kebahagiaan di dunia terdengar sebagai konsep yang simpel, layaknya kita semua sebagai manusia yang ingin kemudahan. Sebenarnya, tidak ada salahnya kita berjuang untuk mengejar kebahagiaan di dunia karena hal tersebut adalah suatu yang membuat kita merasa enjoy. 
 
-Namun dari konsep yang  diusung oleh Epicurus, arti hedonisme adalah hanya mengutamakan kebahagiaan diri sendiri. Sehingga dikategorikan sebagai hedonisme egoistic atau hedonisme yang hanya mementingkan diri sendiri sehingga menelantarkan pekerjaan dan kewajibannya.
+Namun dari konsep yang  diusung oleh Epicurus, arti hedonisme adalah sikap yang hanya mengutamakan kebahagiaan diri sendiri yang dikategorikan sebagai hedonisme egoistic. Apa itu hedonisme egotistic adalah sikap seseorang yang hanya mementingkan diri sendiri sehingga menelantarkan pekerjaan dan kewajibannya.
 
 ## **Ciri-ciri Hedonisme Sesuai kategori Adalah Sebagai Berikut:**
 
@@ -66,8 +66,6 @@ Karena hanya mengejar kepuasan sesaat, buruknya dampak hedonisme adalah membuat 
 * ### **Konsumtif**
 
 Fenomena pada kaum milenial dari sikap hedonisme adalah terus-menerus memenuhi rasa puasnya sehingga membuat keuangan menjadi kempis. Inilah salah satu dari apa itu sifat hedonisme dan contohnya. 
-
-
 
 Selain itu, contoh sikap hedonisme adalah membeli semua hal yang diinginkan padahal belum diperlukan, membiayai gaya hidup yang serba mahal demi eksis di media sosial, serta berusaha jadi bagian lingkup sosial yang perlu merogoh dompet secara dalam. Padahal tidak harus melakukan hal tersebut, seperti posting *nongkrong* di cafe populer demi merasa tidak ketinggalan. 
 
