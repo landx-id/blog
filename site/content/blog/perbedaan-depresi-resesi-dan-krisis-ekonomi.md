@@ -62,6 +62,14 @@ Selanjutnya, **krisis** adalah posisi di mana sistem perekonomian suatu negara m
 
 Berbeda dengan resesi dan depresi, krisis ekonomi tidak hanya mengacu pada pertumbuhan ekonomi saja namun juga mengacu pada laju inflasi, nilai tukar uang, dan berbagai indikator ekonomi lainnya.
 
+**Apakah resesi sama dengan krisis keuangan?**
+
+Terdapat perbedaan resesi dan krisis keuangan yang dilihat dari dampaknya, dampak resesi lebih besar.
+
+Seperti yang telah kita bahas sebelumnya bahwa resesi adalah kondisi kemunduran ekonomi (PDB) selama 2 kuartal berturut-turut. Sedangkan krisis keuangan adalah penurunan ekonomi secara drastis. Penurunan ekonomi 1 kuartal saja sudah bisa disebut sebagai krisis keuangan. 
+
+Penyebab penurunan ekonomi dari resesi dan krisis keuangan adalah laju inflasi yang tinggi dan pertumbuhan ekonomi yang lambat.
+
 ## Penyebab Resesi Ekonomi
 
 Resesi ekonomi bisa saja karena berbagai faktor yang menjadi penyebab pertumbuhan ekonomi suatu negara mengalami perlambatan. Berikut beberapa faktor penyebab resesi:
@@ -88,6 +96,14 @@ Saat ini, teknologi menggantikan banyak sekali peran manusia sehingga banyak bid
 
 Hal ini bisa menjadi salah satu pemicu resesi karena semakin tingginya angka pengangguran akibat dari peralihan teknologi tersebut. Oleh sebab itu, kemajuan teknologi ini menjadi hal yang dikhawatirkan banyak orang di masa mendatang.
 
+### 5. Deflasi
+
+Kondisi resesi deflasi ditandai dengan turunnya harga barang dan jasa. Deflasi adalah disinflasi yang berarti penurunan tingkat inflasi dalam jangka waktu tertentu. Turunnya harga barang dan jasa tentu terlihat menjadi hal yang menguntungkan bagi masyarakat, namun tidak bagi pemilik usaha.
+
+Harga yang turun membuat keuntungan perusahaan ikut menurun sehingga untuk meminimalisir pengeluaran, pemilik usaha akan melakukan pemutusan hubungan kerja (PHK). 
+
+Terjadinya PHK membuat jumlah pengangguran meningkat, pengangguran meningkat membuat jumlah tingkat kemiskinan menanjak, dan daya beli menurun. Untuk memperbaiki semua kondisi keuangan ini tentu akan sulit dan membutuhkan usaha besar dari pemerintah.
+
 - - -
 
 **Baca Juga:**
@@ -107,9 +123,29 @@ Bagi bisnis, **resesi dan depresi** tentu saja memiliki dampak yang sangat buruk
 
 Bangkrutnya banyak bisnis tentu saja akan diikuti meningkatnya pengangguran dikarenakan banyak usaha harus tutup karena tidak bisa bertahan selama masa resesi.
 
+### Dampak Resesi Ekonomi
+
+Resesi ekonomi adalah situasi yang memiliki dampak pada berbagai pihak seperti pemerintah, pemilik usaha, dan masyarakat.
+
+**Pemilik Usaha**
+
+Seperti ulasan beberapa penyebab resesi ekonomi yaitu deflasi yang menyebabkan penurunan pendapatan usaha, membuat pemilik usaha terancam gulung tikar. Untuk menjaga tingkat pengeluaran tidak melebihi pendapatan yang rendah, perusahaan akan melakukan pemutusan hubungan kerja.
+
+**Masyarakat**
+
+Sisi masyarakat yang terdampak resesi ekonomi adalah pekerja. Lesunya perekonomian membuat perusahaan berhemat dan akan memicu pemutusan kontrak kerja, dan pekerja kehilangan pekerjaan.
+
+**Pemerintah**
+
+Terjadinya penurunan pendapatan dari berbagai sektor usaha yang berujung pada pemecatan karyawan dan menimbulkan gelombang pengangguran baru. Meningkatnya jumlah pengangguran akan berdampak pada penurunan daya beli masyarakat karena pemasukan yang terbatas.
+
+Daya beli masyarakat yang turun akan berdampak pada lesunya perekonomian dan perusahaan menurunkan aktivitas produksi. Sehingga untuk memperbaiki semua kondisi ini akan membutuhkan biaya dan usaha yang besar.
+
 ## Lalu, Bagaimana Menangani Resesi dan Depresi?
 
 Salah langkah yang sering diambil pemerintah adalah dengan melakukan belanja besar-besaran sehingga membantu ekonomi dapat bergerak dengan optimal kembali. Oleh sebab itu, dalam menghadapi resesi pemerintah akan sering melakukan stimulasi untuk mendorong pemulihan ekonomi.
+
+Saran ekonom terhadap investor di kondisi resesi yaitu strategi wait and see. Serta sektor komoditas memiliki nilai yang baik dan akan diuntungkan jika resesi terjadi. 
 
 ## Lantas, apa yang bisa kita lakukan?
 
