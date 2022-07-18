@@ -8,7 +8,7 @@ metaDescription: "depresiasi adalah biaya yang muncul karena adanya penggunaan
 intro: Untuk kamu yang ingin masuk ke dalam dunia keuangan, perlu tahu apa itu
   depresiasi serta metode perhitungan untuk catatan metode penyusutan aktiva
   tetap perusahaan kamu!
-date: 2022-07-14T11:50:51.375Z
+date: 2022-07-18T10:24:46.493Z
 tag:
   - Rasio Keuangan
   - Laporan Keuangan
