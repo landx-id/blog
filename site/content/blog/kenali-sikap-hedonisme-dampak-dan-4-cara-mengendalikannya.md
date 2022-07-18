@@ -29,9 +29,9 @@ Gambaran dari arti hedon adalah sikap yang bisa terlihat dari muda-mudi kekinian
 
 Arti hedonisme adalah kecenderungan memilih bergaya hidup hedonisme demi memuaskan diri.  Semua pengeluaran tanpa perhitungan yang mumpuni tersebut mereka lakukan hanyalah demi kesenangan sesaat. 
 
-Berasal dari kata "*hedonism,*" hedonisme adalah konsep bahwa mengejar kepuasan atau “*pleasure*” adalah yang utama. 
+Berasal dari kata "*hedonism,*" arti hedonisme adalah konsep bahwa mengejar kepuasan atau “*pleasure*” adalah yang utama. 
 
-> **Hedonisme adalah konsep menjadikan kepuasan atau kesenangan dunia sebagai hal paling penting dalam kesejahteraan hidup manusia.** Orang yang mementingkan konsep mengejar kepuasan ini juga dikenal sebagai *pleasure-seeker.*
+> **Arti hedonisme adalah konsep menjadikan kepuasan atau kesenangan dunia sebagai hal paling penting dalam kesejahteraan hidup manusia.** Orang yang mementingkan konsep mengejar kepuasan ini juga dikenal sebagai *pleasure-seeker.*
 
 Sosok Epicurus, filsuf Yunani, mengajarkan konsep mengejar kepuasan melalui tulisannya bernama Letter of Menoeceus. Letter of Menoeceus menyebarkan pemikiran bahwa kebahagiaan hanya bisa didapatkan melalui kepuasan dunia. 
 
@@ -43,9 +43,9 @@ Namun dari konsep yang  diusung oleh Epicurus, arti hedonisme adalah hanya mengu
 
 ## **Ciri-ciri Hedonisme Sesuai kategori Adalah Sebagai Berikut:**
 
-* **Normative hedonism** atau hedonisme pemikiran adalah konsep bahwa suatu keharusan untuk menjadikan kebahagiaan sebagai motivasi utama seseorang.
-* **Motivational hedonism** – hedonisme ini membuat orang hanya melakukan apa yang ingin mereka lakukan. Dalam konsep ini, dengan melakukan hanya sesuatu yang mereka ingin lakukan membuat mereka tidak mengimbangi dengan apa yang seharusnya dikerjakan. 
-* **Egoistic hedonism** – konsep egoistic hedonism membuat seseorang hanya memutuskan sesuatu berdasarkan kebahagiaan mereka. Terkadang membuat orang lain yang berkaitan dengannya terkena dampak yang tidak menyenangkan.
+* **Normative hedonism** – atau hedonisme pemikiran adalah konsep bahwa suatu keharusan untuk menjadikan kebahagiaan sebagai motivasi utama seseorang.
+* **Motivational hedonism** – arti hedonisme ini membuat orang hanya melakukan apa yang ingin mereka lakukan. Dalam konsep ini, dengan melakukan hanya sesuatu yang mereka ingin lakukan membuat mereka tidak mengimbangi dengan apa yang seharusnya dikerjakan. 
+* **Egoistic hedonism** – arti hedonism egotistic adalah ketika seseorang hanya memutuskan sesuatu berdasarkan kebahagiaan mereka. Terkadang membuat orang lain yang berkaitan dengannya terkena dampak yang tidak menyenangkan.
 
 Apa pun jenis hedonismenya, semua aksi ini membuat orang yang menganut konsep ini menjadi mengabaikan nilai lainnya. Hedonisme membuat orang mengabaikan nilai keadilan dalam memutuskan benar atau salah.
 
