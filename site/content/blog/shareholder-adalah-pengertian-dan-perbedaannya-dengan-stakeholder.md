@@ -1,5 +1,5 @@
 ---
-draft: true
+draft: false
 author: Rafa Syawalia R
 title: "Shareholder Adalah: Pengertian dan Perbedaannya dengan Stakeholder"
 metaTitle: "Arti Shareholder Adalah: Perbedaan Stockholder dan Stakeholder"
