@@ -28,9 +28,9 @@ featuredImage:
   alt: "Yuk simak pahami apa itu laba ditahan dan kenapa laba ditahan dilakukan "
   title: Pahami apa itu laba ditahan dan kenapa laba disisihkan untuk ditahan
 ---
-Sebagai seorang investor yang berinvestasi ke dalam berbagai jenis [saham dan bisnis](https://landx.id/) anda tentu akan sering mendengar istilah laba ditahan. Karena itu mari kita bahas lebih lanjut tentang apa itu laba ditahan.
+Sebagai seorang investor yang berinvestasi ke dalam berbagai jenis [saham dan bisnis](https://landx.id/) anda tentu akan sering mendengar istilah laba ditahan atau retained earning. Karena itu mari kita bahas lebih lanjut tentang apa itu laba ditahan.
 
-Dalam memilih instrumen investasi, laba ditahan menjadi salah satu poin penting dalam laporan keuangan yang sering menjadi perhatian banyak orang. Akan tetapi, sudahkah kamu paham apa itu laba ditahan dan apa tujuan perusahaan menyisihkan sebagian laba ditahan perusahaan?
+Dalam memilih instrumen investasi, retained earning atau laba ditahan adalah salah satu poin penting dalam laporan keuangan yang sering menjadi perhatian banyak orang. Akan tetapi, sudahkah kamu paham apa itu laba ditahan dan apa tujuan perusahaan menyisihkan sebagian laba ditahan perusahaan?
 
 Supaya kamu paham, yuk kita bahas bersama tentang apa itu laba ditahan.
 
@@ -68,11 +68,15 @@ Dalam jurnal penyesuaian laba ditahan adalah nominal hasil dari laba komersial s
 
 ## Laba Ditahan Dalam Laporan Keuangan
 
-Laba ditahan dapat ditemukan di neraca perusahaan dan terletak di bagian bawah ekuitas pemegang saham pada akhir setiap periode akuntansi. Lebih tepatnya, apa itu laba ditahan adalah pasiva
+Laba ditahan dapat ditemukan di neraca perusahaan dan terletak di bagian bawah ekuitas pemegang saham pada akhir setiap periode akuntansi. Lebih tepatnya, apa itu laba ditahan adalah ekuitas yang biasanya dituliskan dalam "saldo laba yang belum dicadangkan" atau "saldo laba yang dicadangkan."
+
+Dalam dituliskannya laporan keuangan, alasan utama penahanan laba ditahan adalah sebagai transparansi kepada pemegang saham bahwa "saldo laba yang belum dicadangkan" atau "saldo laba yang dicadangkan" benar adanya.
+
+Dalam laporan keuangan, "saldo laba yang dicadangkan" artinya saldo laba ditahan yang sudah pasti akan digunakan untuk tujuan-tujuan tertentu seperti yang dijelaskan pada pembahasan sebelumnya. Sementara "saldo laba yang belum dicadangkan" adalah nominal laba ditahan yang tidak dibagikan kepada investor melalui dividen.
 
 ## Perbedaan Laba Ditahan dan Laba Tahun Berjalan
 
-Istilah lain yang sering muncul adalah laba berjalan, Laba berjalan adalah laba yang dalam laporan tahunan setelah dipotong pajak. Jadi laba berjalan merupakan besaran laba yang telah dipotong beberapa jenis pajak. Oleh sebab itu sekarang anda tentu sudah bisa membedakan antara laba ditahan dan laba berjalan
+Istilah lain yang sering muncul adalah laba berjalan, Laba berjalan adalah laba yang dalam laporan tahunan setelah dipotong pajak. Jadi laba berjalan merupakan besaran laba yang telah dipotong beberapa jenis pajak. Oleh sebab itu sekarang anda tentu sudah bisa membedakan antara laba ditahan dan laba berjalan.
 
 ## Mulai Investasi Bisnis Anda Sekarang Bersama LandX
 
