@@ -2,7 +2,7 @@
 draft: false
 author: Abdul Wahhab
 slug: memahami-apa-itu-laba-ditahan
-title: Yuk Pahami Apa Itu Laba yang Ditahan dan Tujuan Laba Ditahan
+title: Yuk Pahami Apa Itu Laba Ditahan dan Tujuan Laba Ditahan
 metaTitle: Apa Itu Laba Ditahan Adalah Strategi untuk Mempertahankan Bisnis
 metaDescription: Apa itu laba ditahan dan alasan utama penahanan laba oleh
   perusahaan? Yuk simak apa itu laba ditahan!
