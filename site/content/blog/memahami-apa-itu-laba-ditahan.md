@@ -62,7 +62,7 @@ Keputusan penahanan laba biasanya dilakukan karena berbagai tujuan untuk kepenti
 
 ## Dari Mana Laba Ditahan Itu Berasal?
 
-
+Dalam jurnal penyesuaian laba ditahan adalah nominal hasil dari laba komersial setelah dikurangi pajak penghasilan. Sederhananya, apa itu laba ditahan adalah laba yang akan dikenakan pajak penghasilan apabila laba tersebut tidak dibagikan kepada pemegang saham sebagai dividen. 
 
 ## Perbedaan Laba Ditahan dan Laba Tahun Berjalan
 
