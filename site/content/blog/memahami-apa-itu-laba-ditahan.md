@@ -25,8 +25,9 @@ category:
   - Keuangan
 featuredImage:
   src: https://images.unsplash.com/photo-1568234928966-359c35dd8327?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=926&q=80
-  alt: "Yuk simak pahami apa itu laba ditahan dan kenapa laba ditahan dilakukan "
-  title: Pahami apa itu laba ditahan dan kenapa laba disisihkan untuk ditahan
+  alt: "Memahami apa itu laba ditahan dan kenapa laba ditahan dilakukan "
+  title: Pahami apa itu laba ditahan dan alasan utama penahanan laba dalam laporan
+    keuangan
 ---
 Sebagai seorang investor yang berinvestasi ke dalam berbagai jenis [saham dan bisnis](https://landx.id/) anda tentu akan sering mendengar istilah laba ditahan atau retained earning. Karena itu mari kita bahas lebih lanjut tentang apa itu laba ditahan.
 
@@ -62,9 +63,7 @@ Keputusan penahanan laba biasanya dilakukan karena berbagai tujuan untuk kepenti
 * **Sebagai modal cadangan**, untuk menghadapi kondisi pasar yang tidak terduga perusahan membutuhkan dana cadangan untuk berbagai kondisi ini. Oleh sebab itu hasil laba yang didapatkan dimanfaatkan untuk jadi modal cadangan agar perusahaan bisa menghadapi berbagai masalah di masa mendatang.
 * **Pengembangan usaha**, apabila perusahaan memiliki rencana ekspansi yang berpotensi memberikan keuntungan lebih, maka biasanya perusahaan akan menawarkan kepada para investor untuk menggunakan laba mereka untuk program ini dengan tujuan keuntungan yang mereka miliki dapat lebih besar lagi. Akan tetapi hal ini sangat tergantung dengan bagaimana keputusan para investor dalam RUPS.
 
-## Dari Mana Laba Ditahan Itu Berasal?
-
-Dalam jurnal penyesuaian laba ditahan adalah nominal hasil dari laba komersial setelah dikurangi pajak penghasilan. Sederhananya, apa itu laba ditahan adalah laba yang akan dikenakan pajak penghasilan apabila laba tersebut tidak dibagikan kepada pemegang saham sebagai dividen. 
+- - -
 
 ## Laba Ditahan Dalam Laporan Keuangan
 
@@ -73,6 +72,10 @@ Laba ditahan dapat ditemukan di neraca perusahaan dan terletak di bagian bawah 
 Dalam dituliskannya laporan keuangan, alasan utama penahanan laba ditahan adalah sebagai transparansi kepada pemegang saham bahwa "saldo laba yang belum dicadangkan" atau "saldo laba yang dicadangkan" benar adanya.
 
 Dalam laporan keuangan, "saldo laba yang dicadangkan" artinya saldo laba ditahan yang sudah pasti akan digunakan untuk tujuan-tujuan tertentu seperti yang dijelaskan pada pembahasan sebelumnya. Sementara "saldo laba yang belum dicadangkan" adalah nominal laba ditahan yang tidak dibagikan kepada investor melalui dividen.
+
+## Dari Mana Laba Ditahan Itu Berasal?
+
+Dalam jurnal penyesuaian laba ditahan adalah nominal hasil dari laba komersial setelah dikurangi pajak penghasilan. Sederhananya, apa itu laba ditahan adalah laba yang akan dikenakan pajak penghasilan apabila laba tersebut tidak dibagikan kepada pemegang saham sebagai dividen. 
 
 ## Perbedaan Laba Ditahan dan Laba Tahun Berjalan
 
