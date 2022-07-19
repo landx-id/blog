@@ -53,7 +53,7 @@ Biasanya laba yang tertahan akan digunakan untuk berbagai kepentingan perusahaan
 
 ## Laba Ditahan Karena Apa?
 
-Setelah membahas apa itu laba ditahan, tentunya setiap perusahaan punya alasan dan strategi masing-masing mengenai alasan untuk memutuskan adanya laba ditahan dalam laporan keuangan.
+Setelah membahas apa itu laba ditahan, tentunya setiap perusahaan punya alasan utama penyertaan penahanan laba ditahan dalam laporan keuangan.
 
 Keputusan penahanan laba biasanya dilakukan karena berbagai tujuan untuk kepentingan perusahaan dalam beberapa waktu kedepan seperti pembayaran hutang, pembiayaan operasional, penyiapan modal cadangan, dan pengembangan usaha dalam waktu kedepan. Berikut adalah beberapa tujuan laba ditahan:
 
@@ -65,6 +65,10 @@ Keputusan penahanan laba biasanya dilakukan karena berbagai tujuan untuk kepenti
 ## Dari Mana Laba Ditahan Itu Berasal?
 
 Dalam jurnal penyesuaian laba ditahan adalah nominal hasil dari laba komersial setelah dikurangi pajak penghasilan. Sederhananya, apa itu laba ditahan adalah laba yang akan dikenakan pajak penghasilan apabila laba tersebut tidak dibagikan kepada pemegang saham sebagai dividen. 
+
+## Laba Ditahan Dalam Laporan Keuangan
+
+Laba ditahan dapat ditemukan di neraca perusahaan dan terletak di bagian bawah ekuitas pemegang saham pada akhir setiap periode akuntansi. Lebih tepatnya, apa itu laba ditahan adalah pasiva
 
 ## Perbedaan Laba Ditahan dan Laba Tahun Berjalan
 
