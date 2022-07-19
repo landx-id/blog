@@ -36,7 +36,7 @@ Supaya kamu paham, yuk kita bahas bersama tentang apa itu laba ditahan.
 
 - - -
 
-## Apa Itu Laba Ditahan?
+## Apa Itu Laba Ditahan atau *Retained Earning*?
 
 Laba ditahan merupakan keuntungan yang tidak dibagikan kepada para investor sesuai dengan kesepakatan yang dibentuk dalam Rapat Umum Pemegang Saham (RUPS). [Dividen](https://landx.id/) dan laba ditahan merupakan dua hal yang sangat berkaitan, simpelnya laba ditahan dapat diartikan sebagai dividen yang tidak dibagikan oleh kepada para pemegang saham dikarenakan berbagai pertimbangan.
 
@@ -52,6 +52,8 @@ Biasanya laba yang tertahan akan digunakan untuk berbagai kepentingan perusahaan
 * [Tahun Depan Mau Investasi Apa? Yuk Pahami Hal ini Sebelum Mulai Investasi di Tahun 2022](https://landx.id/blog/hal-penting-yang-harus-dipahami-saat-berinvestasi-di-tahun-2022/)
 
 ## Laba Ditahan Karena Apa?
+
+Setelah membahas apa itu laba ditahan, tentunya setiap perusahaan punya alasan dan strategi masing-masing mengenai alasan untuk memutuskan adanya laba ditahan dalam laporan keuangan.
 
 Keputusan penahanan laba biasanya dilakukan karena berbagai tujuan untuk kepentingan perusahaan dalam beberapa waktu kedepan seperti pembayaran hutang, pembiayaan operasional, penyiapan modal cadangan, dan pengembangan usaha dalam waktu kedepan. Berikut adalah beberapa tujuan laba ditahan:
 
