@@ -51,7 +51,7 @@ Biasanya laba yang tertahan akan digunakan untuk berbagai kepentingan perusahaan
 * [Return on Investment (ROI): Cara Menghitung dan Jenis-Jenis ROI](https://landx.id/blog/return-on-investment-roi-adalah/)
 * [Tahun Depan Mau Investasi Apa? Yuk Pahami Hal ini Sebelum Mulai Investasi di Tahun 2022](https://landx.id/blog/hal-penting-yang-harus-dipahami-saat-berinvestasi-di-tahun-2022/)
 
-## Kenapa Perusahaan Melakukan Penahan Laba?
+## Laba Ditahan Karena Apa?
 
 Keputusan penahanan laba biasanya dilakukan karena berbagai tujuan untuk kepentingan perusahaan dalam beberapa waktu kedepan seperti pembayaran hutang, pembiayaan operasional, penyiapan modal cadangan, dan pengembangan usaha dalam waktu kedepan. Berikut adalah beberapa tujuan laba ditahan:
 
