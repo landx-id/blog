@@ -88,7 +88,7 @@ Anda membeli saham ATSK dengan harga Rp1.000.000/lot pada tahun 2019 sebanyak 50
 
 Jadi, dari modal awal Rp50 juta, Anda memperoleh nominal keuntungan saham atau capital gain adalah Rp50 juta.
 
-
+## Bagaimana Cara Menghitung Dividen?
 
 
 
