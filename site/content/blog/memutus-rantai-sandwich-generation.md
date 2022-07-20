@@ -136,7 +136,7 @@ Jumlah dana pensiun ideal memang sebenarnya berbeda-beda untuk setiap orang, tap
 
 ### 4. Menambah Penghasilan
 
-Cara selanjutnya yang bisa kamu coba adalah dengan menambah penghasilan tambahan. Gimana caranya? Salah satunya dengan mencoba bekerja secara *freelance* saat *weekend*. Manfaatkanlah skill yang sudah kamu kuasai dan cobalah mencari klien.
+Cara selanjutnya untuk menghindari mewariskan generasi sandwich adalah coba menambah penghasilan tambahan. Gimana caranya? Salah satunya dengan mencoba bekerja secara *freelance* saat *weekend*. Manfaatkanlah skill yang sudah kamu kuasai dan cobalah mencari klien.
 
 Selain *freelance*, kamu juga bisa memanfaatkan aset berlebih yang kamu punya seperti tanah. Ketimbang tidak terpakai, sebaiknya tanah tersebut kamu sewakan. Sehingga di masa depan kamu bisa mendapatkan penghasilan yang bersifat pasif.
 
