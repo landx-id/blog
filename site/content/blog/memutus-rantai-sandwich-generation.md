@@ -134,7 +134,7 @@ Selain itu, dana pensiun juga akan memberikan manfaat lain secara mental. Kamu b
 
 Menyiapkan rencana pensiun sebaiknya kita siapkan sedini mungkin karena kita harus bisa menyusun rencana proyeksi keuangan jangka panjang kita agar tidak menyulitkan generasi berikutnya.
 
-Jumlah dana pensiun ideal memang sebenarnya berbeda-beda untuk setiap orang, tapi kamu bisa mulai menyusun rencana untuk mencapai *financial freedom* agar hingga hari tua kita tidak perlu bergantung kepada orang lain.
+Jumlah dana pensiun ideal memang sebenarnya berbeda-beda untuk setiap orang, tapi kamu bisa mulai menyusun rencana untuk mencapai *financial freedom* agar hingga hari tua kita tidak perlu mewariskan pengalaman generasi sandwich generasi setelah kita.
 
 ### 4. Menambah Penghasilan
 
