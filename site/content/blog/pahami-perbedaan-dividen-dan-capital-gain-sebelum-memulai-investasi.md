@@ -3,13 +3,13 @@ draft: false
 author: Abdul Wahhab
 slug: pahami-perbedaan-dividen-dan-capital-gain-sebelum-memulai-investasi
 title: "Capital Gain Adalah: Perbedaan Capital Gain dan Dividen dalam Saham"
-metaTitle: Pahami Apa Itu Capital Gain dalam Investasi Saham
-metaDescription: Dividen dan capital gain adalah jenis return yang bisa kamu
-  dapatkan apabila kamu melakukan investasi saham, yuk pahami dua jenis return
-  ini
-intro: Capital gain dan dividen adalah dua jenis return yang bisa kamu dapatkan
-  apabila berinvestasi ke dalam instrumen saham. Karena itu, yuk kita bahas dulu
-  perbedaan antara dua jenis return ini.
+metaTitle: Pahami Apa Itu Capital Gain dam Dividen dalam Investasi Saham
+metaDescription: Dividen dan capital gain adalah dua sumber keuntungan saham
+  yang bisa didapatkan. Yuk pahami apa itu capital gain dan perbedaan dividen.
+intro: Dividen dan capital gain adalah dua sumber keuntungan saham yang bisa
+  didapatkan  apabila berinvestasi ke dalam instrumen saham. Karena itu, yuk
+  kita bahas dulu pengertian capital gain dan dividen, serta perbedaan antara
+  dua jenis return ini.
 date: 2021-05-11T03:31:49.000Z
 tag:
   - investasi
