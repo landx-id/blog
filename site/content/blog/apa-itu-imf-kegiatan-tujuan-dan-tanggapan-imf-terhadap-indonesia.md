@@ -1,18 +1,23 @@
 ---
 draft: false
 author: Vlora Riyandi
-title: "  Apa itu IMF? Kegiatan, Tujuan, dan Tanggapan IMF Terhadap Indonesia"
-metaTitle: "  Apa itu IMF? Kegiatan, Tujuan, dan Tanggapan IMF Terhadap Indonesia"
+title: Apa Itu IMF? Memahami Tujuan Organisasi IMF dan Anggota IMF
+metaTitle: Apa Itu IMF? Memahami Tujuan Organisasi IMF dan Anggota IMF
 metaDescription: Direktur Pelaksana IMF menghargai kesuksesan penyelenggaraan
   G20 di Bali. IMF adalah lembaga keuangan global dalam sistem PBB.
 intro: IMF adalah lembaga keuangan global dalam sistem PBB. Mari simak terus
   tanggapan Bos IMF terhadap kondisi perekonomian Indonesia yang sukses
   menyelenggarakan G20, serta tujuan IMF dalam artikel ini.
 date: 2022-07-20T02:05:22.283Z
+tag:
+  - Ekonomi
+  - Investasi
+category:
+  - Keuangan
 featuredImage:
   title: "  Apa itu IMF? Kegiatan, Tujuan, dan Tanggapan IMF Terhadap Indonesia"
   alt: "  Apa itu IMF? Kegiatan, Tujuan, dan Tanggapan IMF Terhadap Indonesia"
-  src: https://unsplash.com/photos/Mk1RW1AfxAw
+  src: https://images.unsplash.com/photo-1646776930319-b16b17781725?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=873&q=80
 ---
 Sejarah IMF dibentuk dalam sebuah konferensi internasional yang diadakan pada Juli 1944 di Bretton Woods, New Hampshire, Amerika Serikat. Konferensi ini mengarah pada pembentukan kerangka kerja sama ekonomi pembangunan yang mengarah pada perekonomian global yang lebih stabil. 
 
@@ -98,4 +103,10 @@ Salah satu investasi yang dapat Anda lakukan adalah investasi mendukung perekono
 
 Salah satu platform equity crowdfunding adalah LandX yang memegang market cap terbesar. Membuktikan eksistensi hadirkan akses investasi kepada bisnis potensial menguntungkan kepada masyarakat luas.
 
-### Dukung Kebijakan Fiskal dan Moneter Indonesia Melalui Investasi Equity Crowdfunding
+### [Dukung Kebijakan Fiskal dan Moneter Indonesia Melalui Investasi Equity Crowdfunding](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)
+
+[<!--StartFragment-->](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)
+
+[![Bagaimana? Kamu lebih suka bisnis dengan buyback guarantee atau yang bisa disimpan dalam jangka panjang? Apapun pilihan kamu.. Yuk Patungan  dengan Keuntungan Menjanjikan Bareng LandX](https://accountgram-production.sfo2.cdn.digitaloceanspaces.com/landx_ghost/2021/10/Equity-Crowdfunding-di-Indonesia-1--3.png)](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)
+
+<!--EndFragment-->
