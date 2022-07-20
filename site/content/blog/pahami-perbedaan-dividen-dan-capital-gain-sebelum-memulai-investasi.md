@@ -94,9 +94,11 @@ Dalam menghitung dividen, terdapat beberapa data yang dibutuhkan. Seperti laba b
 
 Laba bersih per saham dalam perhitungan dividen adalah Earning Per Share (EPS). EPS adalah pembagian antara laba bersih yang didapatkan oleh perusahaan di periode tertentu dengan jumlah saham yang beredar di pasar (outstanding shares).
 
-Sementara itu, Dividend Payout Ratio (DPR) atau Rasio Pembayaran Dividen adalah rasio yang menunjukkan persentase setiap keuntungan yang diperoleh dan didistribusikan kepada pemegang saham dalam bentuk uang tunai. 
+Lalu, Outstanding Shares adalah jumlah total lembar saham yang dimiliki oleh para investor atau pemegang saham baik perorangan maupun institusi.
 
-Outstanding Shares adalah jumlah total lembar saham sebuah perusahaan yang dimiliki oleh para investor atau pemegang saham baik perorangan maupun institusi. 
+Sementara itu, Dividend Payout Ratio (DPR) atau Rasio Pembayaran Dividen adalah rasio yang menunjukkan persentase setiap keuntungan yang diperoleh dan didistribusikan kepada pemegang saham dalam bentuk uang tunai. Rumus cara menghitung dividen adalah sebagai berikut.
+
+> **Dividen = Laba bersih x Dividend Payout Ratio**
 
 
 
