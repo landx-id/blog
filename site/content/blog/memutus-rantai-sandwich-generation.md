@@ -92,7 +92,11 @@ Jenis terakhir adalah mereka — tanpa memandang usia — yang terlibat dalam pe
 
 Kondisi ini cukup membingungkan karena di satu sisi mereka perlu berbakti kepada orang tua tapi di sisi lain mereka butuh pekerjaan yang bisa memenuhi kebutuhan ekonomi mereka.
 
-## Kenapa generasi sandwich muncul?
+## Kenapa Generasi Sandwich Muncul?
+
+Penyebab utama adanya generasi sandwich adalah kurangnya kemampuan seseorang secara finansial, terutama para orang tua yang gagal menyiapkan finansial masa tua mereka. Akhirnya hadir generasi sandwich yang merupakan anak-anak dari orang tua yang gagal menyiapkan kondisi finansialnya.
+
+Generasi sandwich ini  harus menanggung beban hidup orang tuanya, saudaranya, dan juga keluarganya sendiri. Sehingga anak-anak yang ditempatkan dalam kondisi generasi sandwich harus menghadapi tanggung jawab dan beban ganda.
 
 ## **Cara Memutus Rantai Sandwich Generation**
 
