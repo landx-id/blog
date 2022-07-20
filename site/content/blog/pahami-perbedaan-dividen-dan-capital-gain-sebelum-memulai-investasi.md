@@ -50,15 +50,15 @@ Pertama, mari kita bahas secara mendasar tentang pengertian capital gain dan div
 
 Perusahaan juga terkadang tidak akan melakukan pembagian dividen atau menahan laba yang telah didapatkan karena akan digunakan untuk keperluan lain seperti ekspansi bisnis yang sebelumnya sudah disepakati dalam RUPS.
 
-Apabila kamu berinvestasi lewat [securities crowdfunding](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog), maka dividen artinya pembagian keuntungan dari bisnis telah kamu danai sebelumnya dan kamu akan mendapatkan dividen sebagai return yang menyesuaikan bagaimana performa bisni.
+Apabila kamu berinvestasi lewat [securities crowdfunding](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog), maka dividen adalah pembagian keuntungan dari bisnis telah kamu danai sebelumnya dan kamu akan mendapatkan dividen sebagai return yang menyesuaikan bagaimana performa bisni.
 
 Walau sering disebut banyak orang, sebenarnya banyak orang tidak paham dengan baik tentang pengertian capital gain sehingga mereka masih kebingungan tentang apa itu capital gain.
 
 ### 2. Capital Gain
 
-**Capital gain adalah** keuntungan yang akan didapatkan dengan menjual saham di pasar sekunder saat harga lebih tinggi dibandingkan harga pembelian awal.  Jadi apabila anda ingin mendapatkan capital gain anda harus menunggu momentum saat saham yang anda miliki mengalami kenaikan harga.
+**Capital gain adalah** keuntungan yang akan didapatkan dengan menjual saham di pasar sekunder saat harga lebih tinggi dibandingkan harga pembelian awal.  Jadi, capital gain adalah keuntungan yang didapat pada momentum harga saham yang dimiliki mengalami kenaikan harga.
 
-Karena itu dalam berinvestasi saham atau equity crowdfunding anda perlu memilih perusahaan dengan prospek menjanjikan yang memiliki potensi kenaikan nilai di pasaran.
+Karena itu, strategi terbaik untuk mendapat capital gain adalah dengan berinvestasi saham atau saham dalam equity crowdfunding pada perusahaan dengan prospek menjanjikan yang memiliki potensi kenaikan nilai di pasaran.
 
 ## Periode Perolehan Dividen dan *Capital Gain*
 
@@ -71,6 +71,26 @@ Perbedaan mendasar lain dari dua jenis keuntungan ini adalah waktu perolehan keu
 Akan tetapi, kita bisa memprediksi capital gain dengan memproyeksikan bagaimana kondisi di masa mendatang apakah akan menguntungkan bagi instrumen investasi yang kita pegang atau tidak. Karena itu, kita butuh menganalisa saham yang akan kita beli agar kita bisa melihat bagaimana potensi harga saham tersebut di masa mendatang.
 
 Karena itu untuk memperoleh capital gain anda harus rajin menganalisis bisnis dan saham seperti apa yang berpotensi mengalami kenaikan dalam beberapa periode ke depan.
+
+
+
+## Bagaimana Cara Menghitung Capital Gain?
+
+Dalam cara menghitung capital gain, sebaiknya menggunakan formula agar perhitungannya lebih terarah. Rumus capital gain adalah sebagai berikut.
+
+> **Harga jual - Harga beli x Jumlah barang atau produk yang diinvestasikan**
+
+Contoh cara menghitung capital gain:
+
+Anda membeli saham ATSK dengan harga Rp1.000.000/lot pada tahun 2019 sebanyak 50 lot. Pada tahun 2021, ternyata harga saham tersebut naik menjadi Rp1.150.000/lot. Maka, perhitungan capital gain adalah sebagai berikut:
+
+> Capital gain = **(Rp2.000.000 - Rp1.000.000) x 50 lembar saham= Rp50.000.000** 
+
+Jadi, dari modal awal Rp50 juta, Anda memperoleh nominal keuntungan saham atau capital gain adalah Rp50 juta.
+
+
+
+
 
 ## Berapa Dividen dan Capital Gain dari Setiap Investasi?
 
