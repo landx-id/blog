@@ -1,8 +1,8 @@
 ---
 draft: false
 author: Della Octavilia
-title: Pengertian, Tujuan, Serta Perbedaan Kebijakan Fiskal dan Moneter
-metaTitle: Pengertian, Tujuan, Serta Perbedaan Kebijakan Fiskal dan Moneter
+title: "Kebijakan Fiskal: Pengertian, Tujuan, dan Instrumen Kebijakan Fiskal"
+metaTitle: "Kebijakan Fiskal: Pengertian, Tujuan, dan Instrumen Kebijakan Fiskal"
 metaDescription: Tujuan kebijakan fiskal adalah untuk menjaga kestabilan
   ekonomi, salah satunya dengan mengatur  pajak sebagai instrumen kebijakan
   fiskal.
@@ -10,6 +10,13 @@ intro: Salah satu kebijakan ekonomi untuk menjaga stabilitas perekonomian adalah
   kebijakan fiskal. Kebijakan fiskal adalah kebijakan dengan mengatur
   pengeluaran dan penerimaan negara agar ekonomi tetap stabil dan bertumbuh.
 date: 2022-07-15T06:33:27.784Z
+tag:
+  - Inflasi
+  - Tips Investasi
+  - Ekonomi
+category:
+  - Investasi
+  - Keuangan
 featuredImage:
   src: img/kebijakan-fiskal-adalah.jpg
   alt: Pengertian, Tujuan, Serta Perbedaan Kebijakan Fiskal dan Moneter
@@ -87,7 +94,7 @@ Salah satu transaksi terbesar dalam perekonomian Indonesia bersumber dari invest
 
 Dengan keadaan ekonomi yang stabil akibat kebijakan fiskal ternyata dapat  mendorong laju investasi suatu negara. Terciptanya kepercayaan dari investor yang tertarik untuk menanamkan modalnya, sehingga negara juga akan memperoleh pajak yang lebih besar lagi dengan banyaknya investor yang masuk.
 
-## Jenis-Jenis Kebijakan Fiskal
+## Jenis-jenis Kebijakan Fiskal
 
 Jenis kebijakan fiskal di Indonesia terbagi menjadi dua kategori diantaranya, yaitu:
 
@@ -187,4 +194,10 @@ Platform [equity crowdfunding](https://landx.id/project/?utm_source=Blog&utm_med
 
 [LandX](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog), platform [equity crowdfunding](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog) terpercaya, transparan, dan telah mengantongi izin dari Otoritas Jasa Keuangan (OJK). Kalian bisa memperoleh keuntungan besar dengan modal kecil.
 
-## [Manfaatkan Kebijakan Fiskal dengan Investasi di LandX Sekarang Juga!](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)[](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)
+## [Manfaatkan Kebijakan Fiskal dengan Investasi di LandX Sekarang Juga!](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)
+
+<!--StartFragment-->
+
+[![Bagaimana? Kamu lebih suka bisnis dengan buyback guarantee atau yang bisa disimpan dalam jangka panjang? Apapun pilihan kamu.. Yuk Patungan  dengan Keuntungan Menjanjikan Bareng LandX](https://accountgram-production.sfo2.cdn.digitaloceanspaces.com/landx_ghost/2021/10/Equity-Crowdfunding-di-Indonesia-1--3.png)](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)
+
+<!--EndFragment-->[](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)
