@@ -114,7 +114,7 @@ Gimana caranya? Yang pertama, lakukan pencatatan pengeluaran setiap bulan. Dari 
 
 Setelah membuat prioritas, nantinya kamu bakal bisa memprediksi berapa uang yang harus dikeluarkan untuk bulan depan. Hal ini sangat berguna agar dana yang kamu siapkan sudah cukup dan tidak keteteran di masa depan.
 
-Mengelola uang dengan tepat menjadi langkah awal yang harus kamu lakukan untuk memutus lingkaran setan di lingkungan kita. Selain itu, kita perlu menyusun strategi pengelolaan uang yang baik agar kita melakukan kesalahan yang sama seperti sebelumnya.
+Mengelola uang dengan tepat menjadi langkah awal yang harus kamu lakukan untuk memutus lingkaran setan di lingkungan kita. Selain itu, kita perlu menyusun strategi pengelolaan uang yang baik agar kita melakukan kesalahan yang sama seperti sebelumnya dan menyebabkan anak-anak kita menjadi generasi sandwich.
 
 ### 2. Berhati-hati dengan Utang Konsumtif
 
