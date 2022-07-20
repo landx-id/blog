@@ -28,11 +28,13 @@ category:
 ---
 Saat memutuskan berinvestasi, apa itu capital gain dan dividen adalah dua sumber keuntungan saham. Ini adalah *return* atau keuntungan yang setara dengan risiko yang akan anda tanggung. Investasi akan memberikan anda return dalam berbagai bentuk seperti [dividen](https://landx.id/), *[capital gain](https://landx.id/)*, dan bunga.
 
-**Dividen dan *capital gain*** merupakan dua jenis keuntungan yang berpotensi didapatkan oleh seorang investor saat mulai berinvestasi ke dalam beberapa jenis instrumen seperti saham dan [equity crowdfunding](https://landx.id/).
+**Dividen dan *capital gain*** adalah dua jenis keuntungan yang berpotensi didapatkan oleh seorang investor saat mulai berinvestasi ke dalam beberapa jenis instrumen seperti saham di pasar modal dan saham di [equity crowdfunding](https://landx.id/).
 
-Baik dividen maupun ***capital gain*** akan memberikan investor keuntungan selama bisnis atau korporasi yang mereka danai memiliki performa yang baik sehingga bisa menghasilkan keuntungan juga berpengaruh terhadap harga saham.
+Baik dividen maupun ***capital gain*** adalah keuntungan bagi investor selama bisnis atau korporasi yang mereka danai memiliki performa yang baik sehingga bisa menghasilkan keuntungan juga berpengaruh terhadap harga saham.
 
-Namun, masih banyak investor yang masih belum paham dengan konsep dari dividen dan capital gain, karena itu mari kita bahas lebih lanjut agar anda paham perbedaan dividen dan capital gain.
+Namun, masih banyak investor yang masih belum paham dengan apa itu capital gain dan dividen. Padahal ini adalah tolak ukur prospek investasi. 
+
+Lalu apa itu capital gain, perbedaan dividen dan capital gain, serta bagaimana cara menghitung capital gain dan dividen? Yuk, mari kita bahas lebih lanjut!
 
 ## Perbedaan Dividen dan Capital Gain
 
