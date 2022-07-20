@@ -6,12 +6,13 @@ metaTitle: "Sandwich Generation Adalah: Apa Itu dan Dampak Generasi Sandwich"
 metaDescription: Yuk pahami apa yang dimaksud generasi sandwich dan bagaimana
   cara memutus rantai sandwich generation
 intro: >-
-  Kalau kamu belum tau apa itu sandwich generation, Sandwich generation artinya
-  generasi yang terhimpit karena harus membiayai dua generasi sekaligus yaitu
-  orang tua dan anaknya dalam waktu bersamaan. Sandwich generation memang sulit
-  untuk kita hindari karena merupakan warisan dari generasi sebelumnya, tapi
-  kita bisa lo memutus rantai sandwich generation agar tidak terjadi kepada anak
-  kita nanti. Karena itu.... 
+  Apa itu generasi sandwich atau sandwich generation adalah generasi yang
+  terhimpit karena harus membiayai dua generasi sekaligus yaitu orang tua dan
+  anaknya dalam waktu bersamaan. Generation sandwich artinya tanggung jawab dua
+  kali lipat. 
+
+
+  Memang sulit untuk kita hindari karena merupakan warisan dari generasi sebelumnya, tapi kita bisa lho memutus rantai sandwich generation agar tidak terjadi kepada anak kita nanti. Karena itu.... 
 
 
   Yuk kita bahas bagaimana memutus rantai sandwich generation untuk generasi berikutnya.
