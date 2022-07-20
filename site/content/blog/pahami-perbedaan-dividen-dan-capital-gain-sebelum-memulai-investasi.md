@@ -26,7 +26,7 @@ image: https://images.unsplash.com/photo-1568234928966-359c35dd8327?crop=entropy
 category:
   - Investasi
 ---
-Saat memutuskan berinvestasi, anda tentu mengharapkan *return* atau keuntungan yang setara dengan risiko yang akan anda tanggung. Investasi akan memberikan anda return dalam berbagai bentuk seperti [dividen](https://landx.id/), *[capital gain](https://landx.id/)*, dan bunga.
+Saat memutuskan berinvestasi, apa itu capital gain dan dividen adalah dua sumber keuntungan saham. Ini adalah *return* atau keuntungan yang setara dengan risiko yang akan anda tanggung. Investasi akan memberikan anda return dalam berbagai bentuk seperti [dividen](https://landx.id/), *[capital gain](https://landx.id/)*, dan bunga.
 
 **Dividen dan *capital gain*** merupakan dua jenis keuntungan yang berpotensi didapatkan oleh seorang investor saat mulai berinvestasi ke dalam beberapa jenis instrumen seperti saham dan [equity crowdfunding](https://landx.id/).
 
@@ -99,8 +99,6 @@ Berinvestasi di LandX  sangat cocok untuk kamu yang ingin melakukan investasi ja
 [![miliki bisnis modal kecil cuma dengan 1 jutaan dapat 4 cabang ](https://accountgram-production.sfo2.cdn.digitaloceanspaces.com/landx_ghost/2021/11/jadi-owner-bisnis-hanya-1-jutaan-dengan-cuan-yang-sangat-menjanjikan.png)](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)
 
 {{< button link="https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog" text="**Yuk Patungan Bisnis Menguntungan Bareng LandX**" >}}
-
-
 
 - - -
 
