@@ -102,7 +102,7 @@ Generasi sandwich ini harus menanggung beban hidup orang tuanya, saudaranya, dan
 
 Akar utama dari *sandwich generation* disebabkan oleh generasi sebelumnya yang gagal secara finansial. Generasi sandwich yang terdampak kemudian mewariskannya kembali ke generasi selanjutnya.
 
-Jika tidak diputus rantainya, mustahil bagi sebuah keluarga bisa memutus siklus *sandwich generation.*
+Jika tidak diputus rantainya, mustahil bagi sebuah keluarga bisa memutus siklus *sandwich generation.* Memutus rantai ini adalah bagaimana cara keluar dari sandwich generation.
 
 Untuk memutus rantai *generasi sandwich* ini memang sangat sulit, namun bukan berarti mustahil. Berikut beberapa cara yang bisa kamu lakukan untuk memutus rantai sandwich generation.
 
@@ -144,9 +144,7 @@ Selain *freelance*, kamu juga bisa memanfaatkan aset berlebih yang kamu punya se
 
 Dana darurat dan asuransi akan sangat kamu rasakan manfaatnya di masa depan. Banyak sekali *sandwich generation* yang harus menanggung beban saat orang tuanya masuk rumah sakit. Hal ini karena mereka tidak menyiapkan asuransi ataupun dana darurat di masa lalu.
 
-Tidak memiliki asuransi menjadi salah satu faktor yang banyak orang menjadi sandwich generation dari waktu ke waktu.
-
-Hal ini karena biaya perawatan rumah sakit apalagi untuk penyakit yang butuh perawatan jangka panjang membutuhkan biaya yang cukup besar sehingga generasi berikutnya harus menanggung biaya ini apabila kita memiliki dana darurat dan asuransi.
+Tidak memiliki asuransi menjadi salah satu faktor yang banyak orang menjadi sandwich generation dari waktu ke waktu. Hal ini karena biaya perawatan rumah sakit apalagi untuk penyakit yang butuh perawatan jangka panjang membutuhkan biaya yang cukup besar sehingga generasi berikutnya harus menanggung biaya ini apabila kita memiliki dana darurat dan asuransi.
 
 Apabila kita tidak memiliki asuransi dan dana darurat, maka kondisi ini akan menyebabkan masalah finansial seperti berhutang. Karena itu kita perlu menyiapkan hal ini dengan baik agar tidak menyebabkan masalah keuangan untuk keturunan kita di masa mendatang.
 
