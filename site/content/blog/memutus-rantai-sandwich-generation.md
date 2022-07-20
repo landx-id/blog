@@ -158,7 +158,7 @@ Ada banyak sekali jenis investasi yang bisa kamu coba, salah satunya adalah Land
 
 LandX merupakan tempat dimana kamu bisa berinvestasi patungan terhadap perusahaan UMKM terbaik yang ada di Indonesia. Cukup dengan **Rp 1 Juta**, kamu sudah bisa mulai berinvestasi dan mendapatkan keuntungan di masa depan.
 
-## Tunggu apa lagi? **Ayo berinvestasi di LandX** sekarang juga!
+## Yuk Persiapan Keluar dari Generasi Sandwich dengan **berinvestasi Lewat LandX** Sekarang Juga!
 
 [![Yuk mulai patungan bisnis menguntungkan jangka panja g bersama LandX](https://accountgram-production.sfo2.cdn.digitaloceanspaces.com/landx_ghost/2021/09/Equity-Crowdfunding-di-Indonesia-1--3.png)](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)
 
