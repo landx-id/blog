@@ -100,7 +100,7 @@ Generasi sandwich ini harus menanggung beban hidup orang tuanya, saudaranya, dan
 
 ## **Cara Memutus Rantai Sandwich Generation**
 
-Akar utama dari *sandwich generation* disebabkan oleh generasi sebelumnya yang gagal secara finansial. Generasi yang terdampak kemudian mewariskannya kembali ke generasi selanjutnya.
+Akar utama dari *sandwich generation* disebabkan oleh generasi sebelumnya yang gagal secara finansial. Generasi sandwich yang terdampak kemudian mewariskannya kembali ke generasi selanjutnya.
 
 Jika tidak diputus rantainya, mustahil bagi sebuah keluarga bisa memutus siklus *sandwich generation.*
 
