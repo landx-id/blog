@@ -34,7 +34,7 @@ Baik dividen maupun ***capital gain*** adalah keuntungan bagi investor selama bi
 
 Namun, masih banyak investor yang masih belum paham dengan apa itu capital gain dan dividen. Padahal ini adalah tolak ukur prospek investasi. 
 
-Lalu apa itu capital gain, perbedaan dividen dan capital gain, serta bagaimana cara menghitung capital gain dan dividen? Yuk, mari kita bahas lebih lanjut!
+Lalu apa itu pengertian capital gain, perbedaan dividen dan capital gain, serta bagaimana cara menghitung capital gain dan dividen? Yuk, mari kita bahas lebih lanjut!
 
 ## Perbedaan Dividen dan Capital Gain
 
