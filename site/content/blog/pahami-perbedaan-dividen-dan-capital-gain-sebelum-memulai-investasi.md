@@ -80,7 +80,7 @@ Dalam cara menghitung capital gain, sebaiknya menggunakan formula agar perhitung
 
 > **Harga jual - Harga beli x Jumlah barang atau produk yang diinvestasikan**
 
-Contoh cara menghitung capital gain:
+Contoh cara menghitung capital gain adalah:
 
 Anda membeli saham ATSK dengan harga Rp1.000.000/lot pada tahun 2019 sebanyak 50 lot. Pada tahun 2021, ternyata harga saham tersebut naik menjadi Rp1.150.000/lot. Maka, perhitungan capital gain adalah sebagai berikut:
 
@@ -99,6 +99,21 @@ Lalu, Outstanding Shares adalah jumlah total lembar saham yang dimiliki oleh par
 Sementara itu, Dividend Payout Ratio (DPR) atau Rasio Pembayaran Dividen adalah rasio yang menunjukkan persentase setiap keuntungan yang diperoleh dan didistribusikan kepada pemegang saham dalam bentuk uang tunai. Rumus cara menghitung dividen adalah sebagai berikut.
 
 > **Dividen = Laba bersih x Dividend Payout Ratio**
+
+Contoh cara menghitung dividen adalah:
+
+Saham VILO milik PT Vilo Sejahtera memiliki 1 juta lot saham. Perusahaan VILO laba bersihnya meningkat positif sebesar Rp500 juta. Sementara itu, kebijakan pembagian dividennya atau dividend payout ratio (DPR) nya sebesar 35% dari laba bersih yang dihasilkan perusahaan. Dari data tersebut, perhitungan dividen pada perusahaan VILO adalah sebagai berikut:
+
+> Laba Bersih = Rp500.000.000
+> DPR = 35%
+> Outstanding Shares = 1.000 lot saham
+> Dividen = Laba bersih X Dividend Payout Ratio 
+>
+> Dividen = Rp500.000.000 x 35% 
+>
+> Dividen = Rp175.000.000
+>
+> **Maka, dividen per lembar saham beredar = Rp175.000.000:1000 lot saham = Rp175.000 per lot saham.** 
 
 
 
