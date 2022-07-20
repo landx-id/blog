@@ -19,8 +19,9 @@ tag:
   - ROI
 featuredImage:
   src: https://images.unsplash.com/photo-1568234928966-359c35dd8327?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxMTc3M3wwfDF8c2VhcmNofDF8fHByb2ZpdHxlbnwwfHx8fDE2NDAwMjE0NDk&ixlib=rb-1.2.1&q=80&w=1080
-  alt: Memahami perbedaan antara dividen dan capital gain
-  title: Dividen dan Capital Gain dalam Berinvestasi
+  alt: Memahami perbedaan antara dividen dan capital gain adalah dua sumber
+    keuntungan saham
+  title: Apa itu Dividen dan Capital Gain dalam Investasi Saham
 image: https://images.unsplash.com/photo-1568234928966-359c35dd8327?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxMTc3M3wwfDF8c2VhcmNofDF8fHByb2ZpdHxlbnwwfHx8fDE2NDAwMjE0NDk&ixlib=rb-1.2.1&q=80&w=1080
 category:
   - Investasi
