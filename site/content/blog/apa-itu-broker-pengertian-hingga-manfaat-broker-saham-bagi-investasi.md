@@ -1,18 +1,25 @@
 ---
 draft: false
 author: Della Octavilia
-title: Apa itu Broker? Pengertian Hingga Manfaat Broker Saham Bagi Investasi
-metaTitle: Apa itu Broker? Pengertian Hingga Manfaat Broker Saham Bagi Investasi
+title: Apa itu Broker? Pengertian Hingga Manfaat Broker Saham Bagi Investor
+metaTitle: Memahami Apa Itu Broker dan Fungsi Broker Bagi Investor
 metaDescription: Apa itu broker? Broker saham adalah ditujukan bagi individu
   atau perusahaan sebagai perantara antara investor dan pasar modal.
 intro: Ingin memulai investasi di pasar modal? Penting untuk mengetahui seputar
   broker. Apa itu broker? Broker adalah individu atau perusahaan sebagai
   perantara antara investor dan pasar modal.
 date: 2022-07-18T08:03:49.747Z
+tag:
+  - Cara Investasi Saham
+  - Investasi Saham
+  - Tips Investasi
+  - Investor Pemula
+category:
+  - Investasi
 featuredImage:
   src: img/broker-saham-adalah.jpg
   title: Apa itu Broker? Pengertian Hingga Manfaat Broker Saham Bagi Investasi
-  alt: Apa itu Broker? Peran Broker Saham Bagi Investasi
+  alt: Apa itu Broker? Peran Broker Saham di Indonesia dalam proses investasi
 ---
 Apa itu broker? Broker dalam bahasa Indonesia adalah pialang. Broker adalah individu atau perusahaan yang berperan sebagai perantara antara investor sebagai konsumen dengan pasar modal.
 
@@ -150,3 +157,9 @@ Platform [equity crowdfunding](https://landx.id/project/?utm_source=Blog&utm_med
 [LandX](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog), platform [equity crowdfunding](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog) terpercaya, transparan, dan telah mengantongi izin dari Otoritas Jasa Keuangan (OJK). Kalian bisa memperoleh keuntungan besar dengan modal kecil.[](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)
 
 ### [Tentukan Pilihanmu dengan Download Aplikasi LandX Sekarang Juga!](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)
+
+<!--StartFragment-->
+
+[![Bagaimana? Kamu lebih suka bisnis dengan buyback guarantee atau yang bisa disimpan dalam jangka panjang? Apapun pilihan kamu.. Yuk Patungan  dengan Keuntungan Menjanjikan Bareng LandX](https://accountgram-production.sfo2.cdn.digitaloceanspaces.com/landx_ghost/2021/10/Equity-Crowdfunding-di-Indonesia-1--3.png)](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)
+
+<!--EndFragment-->
