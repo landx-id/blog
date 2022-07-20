@@ -1,5 +1,5 @@
 ---
-draft: true
+draft: false
 author: Della Octavilia
 title: "Apa Itu Bank Sentral: Tujuan dan Fungsi Bank Sentral di Indonesia"
 metaTitle: "Bank Sentral Adalah: Tujuan dan Fungsi Bank sentral di Indonesia"
