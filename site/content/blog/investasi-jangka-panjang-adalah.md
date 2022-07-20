@@ -21,106 +21,106 @@ featuredImage:
   alt: Cara menyusun rencana investasi jangka panjang
   title: Memilih investasi jangka panjang yang sesuai untuk pemula
 ---
-Berbicara tentang [investasi jangka panjang](https://landx.id/), anda pasti langsung memikirkan bagaimana uang yang anda miliki dapat menghasilkan keuntungan dalam jangka panjang.
+Berbicara tentang [investasi jangka panjang](https://landx.id/), Anda pasti langsung memikirkan bagaimana uang yang Anda miliki dapat menghasilkan keuntungan dalam jangka panjang.
 
-Oleh sebab itu, setiap orang tentu saja memiliki tujuan yang berbeda-beda sehingga rencana investasi jangka panjangnya pun akan berbeda.
+Karena setiap orang tentu saja memiliki tujuan keuangan yang berbeda-beda sehingga rencana investasi jangka panjangnya pun akan berbeda.
 
-Menentukan investasi jangka panjang terbaik tentu saja bukanlah hal mudah karena anda harus bisa menentukan instrumen seperti apa yang bisa memberikan anda keuntungan yang sesuai dengan tujuan anda.
+Investasi jangka panjang adalah investasi yang dilakukan dengan menanam dana dalam periode jangka waktu yang lama. Waktu pencairan hasil investasi jangka panjang adalah setelah jatuh tempo sesuai kesepakatan di awal. 
 
-Akan tetapi, sebelum menyusun rencana investasi jangka panjang, sudahkah anda paham apa itu investasi jangka panjang dan bagaimana menentukan investasi jangka panjang terbaik yang yang sesuai dengan tujuan yang ingin anda capai.
+Menentukan investasi jangka panjang terbaik tentu saja bukanlah hal mudah karena Anda harus bisa menentukan instrumen seperti apa yang bisa memberikan anda keuntungan yang sesuai dengan tujuan Anda.
 
-Karena itu yuk kita bahas tentang investasi jangka panjang dan bagaimana menentukan investasi jangka terbaik untuk anda.
+Akan tetapi sebelum menyusun rencana investasi jangka panjang, sudahkah Anda paham apa itu investasi jangka panjang? Bagaimana cara menentukan investasi jangka panjang terbaik yang yang sesuai dengan tujuan yang ingin Anda capai?
+
+Untuk mengetahuinya, yuk kita bahas tentang investasi jangka panjang adalah dan bagaimana menentukan investasi jangka terbaik untuk Anda.
 
 - - -
 
 ## **Investasi Jangka Panjang Adalah**
 
-> Investasi jangka panjang adalah investasi yang dilakukan dalam periode yang waktu yang panjang dan pencairan-nya akan dilakukan di akhir periode waktu yang sudah ditentukan sebelumnya.
+> Investasi jangka panjang adalah investasi yang dilakukan dalam periode yang waktu yang panjang dan pencairannya akan dilakukan di akhir periode waktu yang sudah ditentukan sebelumnya.
 
-Investasi jangka panjang bisa di-ibaratkan seperti menanam bibit pohon yang harus terus anda berikan berikan pupuk supaya dapat tumbuh besar dan memberikan anda buah yang bisa memberikan anda keuntungan.
+Investasi jangka panjang bisa diibaratkan seperti menanam bibit pohon yang harus terus Anda berikan berikan pupuk supaya dapat tumbuh besar dan memberikan Anda hasil buah yang bisa memberikan Anda keuntungan.
 
-Karena itu saat  investasi jangka panjang merupakan investasi yang anda lakukan untuk mencapai tujuan finansial di masa mendatang yang membutuhkan dana cukup besar seperti ingin memiliki rumah sendiri, ingin memiliki bisnis pribadi, atau ingin memiliki dana yang cukup untuk menghadapi masa pensiun anda.
+Karena itu, investasi jangka panjang adalah investasi yang Anda lakukan untuk mencapai tujuan finansial di masa mendatang dan biasanya membutuhkan dana cukup besar. Seperti ingin memiliki rumah sendiri, ingin memiliki bisnis pribadi, atau ingin memiliki dana yang cukup untuk menghadapi masa pensiun Anda.
 
-Karena tujuan yang berbeda-beda, anda harus tahu tujuan apa yang ingin anda capai sehingga anda anda bisa tahu berapa lama jangka waktu yang dibutuhkan untuk mencapai tujuan ini dan berapa perkiraan dana yang harus anda investasikan setiap bulan agar tujuan bisa dicapai sesuai rencana finansial yang anda inginkan.
+Karena tujuan yang berbeda-beda, Anda harus tahu terlebih dahulu tujuan apa yang ingin Anda capai. Sehingga bisa memerkirakan berapa lama jangka waktu yang dibutuhkan untuk mencapai tujuan dan berapa perkiraan dana yang harus diinvestasikan setiap bulan agar tujuan bisa dicapai sesuai rencana finansial yang Anda rencanakan.
 
 Selanjutnya mari kita bahas bagaimana cara menentukan investasi jangka panjang terbaik yang bisa anda mulai.
 
 ## **Memilih Investasi Jangka Panjang Terbaik**
 
-Sebagai investor menentukan instrumen investasi terbaik merupakan hal yang tidak mudah dan membutuhkan waktu cukup lama terutama investor pemula yang belum pernah berinvestasi sebelumnya.
+Sebagai investor menentukan instrumen investasi terbaik merupakan hal yang tidak mudah. Karena investasi jangka panjang adalah investasi yang membutuhkan waktu cukup lama, terutama bagi investor pemula yang belum pernah berinvestasi sebelumnya.
 
 Karena itu mari kita bahas bagaimana tips memilih investasi jangka panjang terbaik yang cocok dengan tujuan dan kondisi finansial anda.
 
 ### **1. Tentukan Prioritas Keuangan**
 
-Agar investasi jangka panjang anda dapat berjalan dengan lancar, anda harus menyusun dulu prioritas yang harus anda penuhi sehingga anda bisa menghitung berapa besar uang yang bisa anda keluarkan secara rutin untuk berinvestasi.
+Agar investasi jangka panjang Anda dapat berjalan dengan lancar, Anda harus menyusun daftar prioritas yang harus ingin segera penuhi. Sehingga bisa menghitung berapa besar uang yang bisa Anda keluarkan secara rutin untuk berinvestasi.
 
-Hal ini akan membantu anda menyusun rencana investasi jangka panjang yang sesuai dengan prioritas keuangan anda.
+Hal ini akan membantu Anda menyusun rencana investasi jangka panjang yang tidak memberatkan dan sesuai dengan prioritas keuangan Anda.
 
-Memahami prioritas kebutuhan keuangan ini juga sangat penting agar anda bisa memperhitungkan berapa lama waktu yang anda butuhkan untuk mencapai suatu tujuan finansial.
+Memahami prioritas kebutuhan keuangan ini juga sangat penting agar Anda bisa memperhitungkan berapa lama waktu yang anda butuhkan untuk mencapai suatu tujuan finansial.
 
-Anda bisa mulai dengan menghitung berapa besar pengeluaran dasar yang harus anda keluarkan seperti biaya kebutuhan pokok, cicilan rumah, dan cicilan motor yang harus anda bayarkan setiap bulan.
+Anda bisa mulai dengan menghitung berapa besar pengeluaran dasar yang harus dikeluarkan, seperti biaya kebutuhan pokok, cicilan rumah, dan cicilan motor yang wajib Anda bayarkan setiap bulan.
 
-Setelah menghitung ini maka anda bisa mulai memilih instrumen investasi yang cocok dan sesuai dengan tujuan investasi yang akan anda lakukan.
+Setelah menghitung ini maka Anda bisa mulai memilih instrumen investasi jangka panjang yang cocok dan sesuai dengan tujuan investasi yang akan anda tetapkan.
 
 ### **2. Perhitungkan Periode Investasi**
 
-Berikutnya anda harus menghitung periode investasi yang akan anda lakukan. Apabila anda sudah menentukan tujuan investasi seperti apa yang ingin anda harus mulai menghitung berapa lama anda bisa mencapai kondisi tersebut dengan kemampuan investasi dan besar *return* yang bisa anda dapatkan dari investasi tersebut.
+Berikutnya menghitung periode investasi yang akan Anda lakukan. Apabila sudah menentukan tujuan investasi yang ingin Anda capai, selanjutnya mulai menghitung berapa lama Anda bisa mencapai kondisi tersebut dengan kemampuan investasi rutin dan perkiraan besar *return* yang bisa Anda dapatkan dari investasi tersebut.
 
-Menghitung periode investasi ini harus anda sesuaikan dengan instrumen investasi yang anda pilih, apabila anda ingin memiliki uang 100 juta dalam 10 tahun melalui investasi reksa dana maka anda harus tahu berapa potensi keuntungan dari instrumen ini dan berapa biaya yang harus anda keluarkan setiap bulan untuk mencapai kondisi yang anda inginkan tersebut.
+Menghitung periode investasi ini harus anda sesuaikan dengan instrumen investasi jangka panjang yang Anda pilih. Apabila Anda ingin memiliki uang 100 juta dalam 10 tahun melalui investasi reksa dana, maka Anda harus tahu berapa potensi keuntungan dari instrumen ini dan berapa biaya yang harus Anda keluarkan setiap bulan untuk mencapai kondisi angka yang diinginkan.
 
 ### **3. Pahami Risiko Investasi**
 
-Dalam memilih instrumen anda harus paham berbagai risiko yang timbul dari instrumen tersebut karena setiap investasi memiliki risiko yang berbeda-beda.
+Dalam memilih instrumen investasi, Anda harus paham berbagai risiko yang timbul dari instrumen tersebut karena setiap investasi pasti memiliki risiko yang berbeda-beda.
 
-Apabila anda ingin melakukan investasi jangka panjang maka sebaiknya anda menyimpan uang anda ke dalam instrumen investasi dengan risiko rendah agar uang anda aman dalam jangka panjang.
+Apabila Anda ingin melakukan investasi jangka panjang, sebaiknya Anda menyimpan uang pada instrumen investasi dengan risiko rendah agar uang Anda aman dalam waktu yang panjang.
 
-Selain itu, dalam investasi jangka panjang anda harus bisa melihat jauh ke depan sehingga bisa melihat berbagai potensi risiko yang terjadi seperti kondisi politik atau keadaan ekonomi di masa mendatang.
+Selain itu, melakukan investasi jangka panjang adalah harus memiliki kemampuan bisa melihat jauh ke depan. Sehingga bisa melihat berbagai potensi risiko yang terjadi seperti kondisi politik atau keadaan ekonomi di masa mendatang.
 
-Karena itu anda butuh analisis yang lebih dalam lagi agar bisa menyusun mitigasi risiko yang baik.
+Oleh karena itu, Anda butuh analisis yang lebih dalam lagi agar bisa menyusun mitigasi risiko yang baik.
 
-Apabila kamu masih belum paham dengan baik terkait dengan profil risiko, yuk simak penjelasan dari MindLand berikut ini ya:
+Apabila Anda masih belum paham dengan baik terkait dengan profil risiko, yuk simak penjelasan dari MinLand berikut ini ya:
 
 {{< youtube id="IFiYKKofzzs&t" >}}
  {{< button link="https://www.youtube.com/watch?v=IFiYKKofzzs&t" text="Watch This Video" >}}
 
+### **4. Mulai dengan Sesuatu yang Anda Familiar**
 
+Salah satu cara terbaik untuk memulai investasi jangka panjang adalah dengan mulai berinvestasi melalui suatu hal yang familiar dan Anda pahami dengan baik agar memperkecil risiko yang muncul.
 
-### **4. Mulai Dengan Sesuatu Yang Anda Familiar**
+Apabila Anda masih kebingungan dan masih belum tau mau berinvestasi jangka panjang lewat instrumen apa maka, Anda bisa mulai dengan melakukan investasi bisnis ke dalam bisnis-bisnis potensial yang berada di sekitar Anda. Seperti berinvestasi pada bisnis F&B dan bisnis rumah kost. Apabila Anda belum punya modal yang cukup besar, Anda tetap bisa memulai berinvestasi pada berbagai bisnis seperti F&B melalui sistem equity crowdfunding.
 
-Salah satu cara terbaik untuk memulai investasi jangka panjang adalah dengan mulai berinvestasi melalui suatu hal yang familiar dan anda pahami dengan baik agar memperkecil risiko yang muncul.
-
-Apabila anda masih kebingungan dan masih belum tau mau berinvestasi jangka panjang lewat instrumen apa maka anda bisa dengan segala hal yang sangat dengan kehidupan sehari-hari anda seperti kostan yang anak tinggali dan berbagai makanan yang anda konsumsi.
-
-Anda bisa mulai dengan melakukan investasi bisnis ke dalam bisnis-bisnis potensial yang berada di sekitar anda seperti bisnis F&B dan bisnis rumah kost. Apabila anda belum punya modal yang cukup besar maka anda bisa mulai dengan sistem equity crowdfunding.
-
-Memilih investasi yang familiar dan sudah anda mengerti akan membuat investasi yang anda jalankan menjadi lebih mudah.
+Memilih investasi dari sektor bisnis yang familiar dan sudah Anda mengerti akan membuat investasi yang Anda jalankan terasa lebih mudah.
 
 ## Rekomendasi Investasi Jangka Panjang untuk Pemula
 
-Apabila anda masih pemula dan bingung memilih investasi, berikut pilihan investasi jangka panjang yang bisa anda coba.
+Apabila anda masih pemula dan bingung memilih investasi, berikut pilihan intrumen investasi jangka panjang yang bisa Anda coba.
 
 ### 1. Investasi Saham
 
-Saham merupakan salah satu contoh investasi yang bisa digunakan untuk investasi jangka panjang maupun pendek. Saham merupakan instrumen investasi yang cocok untuk jangka panjang karena selain mendapatkan dividen, anda juga bisa mendapatkan capital gain dari saham yang anda miliki apabila anda menemukan saham yang tepat untuk investasi jangka panjang anda.
+Saham merupakan salah satu contoh investasi yang bisa digunakan untuk investasi jangka panjang maupun pendek. Saham merupakan instrumen investasi yang cocok untuk jangka panjang karena selain mendapatkan dividen, Anda juga bisa mendapatkan capital gain dari saham yang dimiliki apabila menemukan saham yang tepat untuk investasi jangka panjang Anda.
 
-Oleh sebab itu, apabila anda tertarik dengan instrumen ini, untuk jangka panjang anda bisa mulai dengan berinvestasi ke dalam saham *blue chip* yang performanya menjanjikan dalam beberapa tahun belakangan. Hal ini dilakukan untuk memperkecil risiko dari investasi yang anda lakukan.
+Apabila Anda tertarik dengan instrumen jangka panjang ini, Anda bisa mulai dengan berinvestasi ke dalam saham *blue chip* yang memiliki history performa yang baik. Hal ini dilakukan untuk memperkecil risiko dari investasi yang Anda lakukan.
 
 ### 2. Reksa Dana
 
-Apabila anda ingin investasi dengan risiko yang lebih kecil, maka anda bisa mencoba reksa dana. Dalam reksa dana, uang anda akan dikelola secara kolektif dengan dana masyarakat lainnya oleh seorang manajer investasi terpercaya.
+Apabila Anda ingin investasi dengan risiko yang lebih kecil, maka anda bisa mencoba reksa dana. Dalam reksa dana, uang Anda akan dikelola secara kolektif dengan dana investor lainnya oleh seorang yang disebut manajer investasi yang berpengalaman.  
 
-Hal ini menjadikan risiko kerugian menjadi semakin kecil. Untuk jangka waktu sendiri, setiap produk reksa dana memiliki jangka waktu yang beragam sehingga anda bisa sesuaikan dengan tujuan investasi anda.
+Hal ini menjadikan risiko kerugian menjadi semakin kecil. Untuk jangka waktu sendiri, setiap produk reksa dana memiliki jangka waktu yang beragam sehingga Anda bisa sesuaikan dengan tujuan investasi Anda.
 
 ### [3. Equity Crowdfunding](https://landx.id/)
 
-**[Equity crowdfunding](https://landx.id/)**  merupakan salah satu cara investasi bisnis yang bisa anda coba untuk investasi jangka panjang. Konsepnya hampir sama dengan pembelian saham, namun dalam sistem ini anda berkesempatan untuk memiliki saham dari berbagai bisnis privat dengan modal kecil yang sulit dilakukan sebelum adanya sistem ini.
+**[Equity crowdfunding](https://landx.id/)**  merupakan salah satu cara investasi bisnis yang bisa Anda coba untuk investasi jangka panjang. Konsepnya hampir sama dengan pembelian saham, namun dalam sistem ini Anda berkesempatan untuk memiliki saham dari berbagai bisnis privat dengan modal kecil yang sulit dilakukan sebelum adanya sistem ini.
 
-Sebagai pemilik saham dari suatu bisnis, anda tentu berpotensi mendapatkan berbagai keuntungan berupa deviden yang disesuaikan keuntungan dari bisnis tersebut. Bisnis ini sangat cocok untuk investasi jangka panjang karena bisa menghasilkan ***[passive income](https://landx.id/)*** \*\*\*\* untuk anda.
+Sebagai pemilik saham dari suatu bisnis, Anda tentu berpotensi mendapatkan berbagai keuntungan berupa deviden yang disesuaikan keuntungan dari bisnis tersebut. Bisnis ini sangat cocok untuk investasi jangka panjang karena bisa menghasilkan ***[passive income](https://landx.id/)*** untuk Anda. Anda bisa memiliki berbagai bisnis tanpa repot mengelolanya.
 
-Selain itu, anda bisa melakukan analisis investasi dengan lebih mudah karena bisnis yang akan anda danai merupakan bisnis-bisnis yang dekat keseharian anda seperti properti kostan, klinik kecantikan, bisnis F&B, dan berbagai bisnis potensial lainnya.
+Selain itu, Anda bisa melakukan analisis investasi dengan lebih mudah karena bisnis yang akan Anda danai merupakan bisnis-bisnis yang akrab dengan keseharian Anda seperti properti kostan, klinik kecantikan, bisnis F&B, dan berbagai bisnis potensial lainnya.
 
 ## Tips Penting Investasi Jangka Panjang
+
+Setelah mengetahui berbagai pilihan instrumen investasi jangka panjang, terdapat tips penting yang sebaiknya Anda ketahui. Ini dia tips seputar Investasi jangka panjang adalah sebagai berikut: 
 
 ### **1. Menentukan Tujuan Investasi Jangka Panjang**
 
