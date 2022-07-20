@@ -1,8 +1,8 @@
 ---
-draft: false
+draft: true
 author: Abdul Wahhab
-title: Memahami Apa Itu Sandwich Generation/ Generasi Sandwich
-metaTitle: Memahami Apa Itu Sandwich Generation/ Generasi Sandwich
+title: "Apa Itu Sandwich Generation: Cara Keluar dari Generasi Sandwich"
+metaTitle: "Sandwich Generation Adalah: Apa Itu dan Dampak Generasi Sandwich"
 metaDescription: Yuk pahami apa yang dimaksud generasi sandwich dan bagaimana
   cara memutus rantai sandwich generation
 intro: >-
