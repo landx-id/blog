@@ -38,7 +38,7 @@ Lalu apa itu capital gain, perbedaan dividen dan capital gain, serta bagaimana c
 
 ## Perbedaan Dividen dan Capital Gain
 
-agar kamu lebih paham berbagai perbedaan antara dividen dan *capital gain* mari bahas perbedaan dari dua jenis keuntungan ini dari berbagai sisi.
+Perbedaan antara dividen dan *capital gain* adalah sumber keuntungan, periode perolehan, dan kebijakan atas nominalnya. Pembahasan perbedaan dividen dan capital gain adalah sebagai berikut.
 
 ## Pengertian Dividen dan Capital Gain
 
