@@ -55,6 +55,8 @@ Rasio solvabilitas ini terdiri dari beberapa jenis yaitu: rasio total hutang ter
 
 ## Jenis-Jenis Rasio Solvabilitas dan Cara Perhitungannya
 
+Setelah memahami pengertian rasio solvabilitas, sekarang jenis rasio solvabilitas apa saja?
+
 Terdapat tiga jenis rasio solvabilitas yaitu rasio total hutang terhadap total modal, rasio total hutang terhadap total aset, dan time interest earned ratio. Supaya lebih jelas, yuk kita bahas satu persatu ketiga jenis rasio solvabilitas ini.
 
 ### 1. Rasio Total Utang terhadap Total Modal (Debt-to-Equity Ratio)
