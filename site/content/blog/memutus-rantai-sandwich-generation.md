@@ -5,17 +5,10 @@ title: "Apa Itu Sandwich Generation: Cara Keluar dari Generasi Sandwich"
 metaTitle: "Sandwich Generation Adalah: Apa Itu dan Dampak Generasi Sandwich"
 metaDescription: Yuk pahami apa yang dimaksud generasi sandwich dan bagaimana
   cara memutus rantai sandwich generation
-intro: >-
-  Apa itu generasi sandwich atau sandwich generation adalah generasi yang
+intro: "Apa itu generasi sandwich atau sandwich generation adalah generasi yang
   terhimpit karena harus membiayai dua generasi sekaligus yaitu orang tua dan
   anaknya dalam waktu bersamaan. Generation sandwich artinya tanggung jawab dua
-  kali lipat. 
-
-
-  Memang sulit untuk kita hindari karena merupakan warisan dari generasi sebelumnya, tapi kita bisa lho memutus rantai sandwich generation agar tidak terjadi kepada anak kita nanti. Karena itu.... 
-
-
-  Yuk kita bahas bagaimana memutus rantai sandwich generation untuk generasi berikutnya.
+  kali lipat. "
 isPinned: false
 slug: memutus-rantai-sandwich-generation
 date: 2022-02-03T05:27:41.805Z
@@ -35,6 +28,12 @@ category:
   - Investasi
   - Keuangan
 ---
+Generasi sandwich adalah hal yang sulit untuk kita hindari karena merupakan warisan dari generasi sebelumnya. tapi kita bisa lho memutus rantai sandwich generation agar tidak terjadi kepada anak kita nanti. Karena itu.... 
+
+Yuk kita bahas bagaimana memutus rantai sandwich generation untuk generasi berikutnya.
+
+
+
 Pernah nggak kamu ngalamin baru saja gajian tapi uang tiba-tiba habis? Bukan untuk beli hal-hal konsumtif seperti barang pribadi, tapi untuk memenuhi kebutuhan keluarga sendiri serta orang tua.
 
 Jika kamu pernah mengalaminya, maka kamu sedang **berada dalam fase *sandwich generation atau generasi sandwich*** yang saat ini banyak dialami generasi muda.
@@ -92,6 +91,8 @@ Seperti yang kita tau, masyarakat kawasan Asian sebagian besar memiliki budaya k
 Jenis terakhir adalah mereka — tanpa memandang usia — yang terlibat dalam perawatan orang lanjut usia, namun aktivitas tersebut bukan dilakukan dengan profesional. Artinya mereka tidak mendapatkan penghasilan dari merawat orang tua tersebut.
 
 Kondisi ini cukup membingungkan karena di satu sisi mereka perlu berbakti kepada orang tua tapi di sisi lain mereka butuh pekerjaan yang bisa memenuhi kebutuhan ekonomi mereka.
+
+## Kenapa generasi sandwich muncul?
 
 ## **Cara Memutus Rantai Sandwich Generation**
 
