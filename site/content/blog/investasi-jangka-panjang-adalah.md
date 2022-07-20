@@ -2,8 +2,8 @@
 draft: false
 author: Abdul Wahhab
 slug: investasi-jangka-panjang-adalah
-title: Tips Penting dalam Menyusun Rencana Investasi Jangka Panjang Terbaik
-metaTitle: Tips Penting dalam Menyusun Rencana Investasi Jangka Panjang Terbaik
+title: Rekomendasi 3 Jenis instrumen Investasi Jangka Panjang Terbaik
+metaTitle: Rekomendasi 3 Jenis instrumen Investasi Jangka Panjang Terbaik | LandX
 metaDescription: Investasi jangka panjang adalah investasi yang dilakukan untuk
   periode jangka panjang hingga akhirnya bisa memberikan keuntungan|Tujuan
   Investasi
@@ -19,7 +19,7 @@ category:
 featuredImage:
   src: https://images.unsplash.com/photo-1565514020179-026b92b84bb6?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1470&q=80
   alt: Cara menyusun rencana investasi jangka panjang
-  title: Memilih investasi jangka panjang yang sesuai untuk pemula
+  title: Rekomendasi 3 Jenis instrumen Investasi Jangka Panjang Terbaik
 ---
 Berbicara tentang [investasi jangka panjang](https://landx.id/), Anda pasti langsung memikirkan bagaimana uang yang Anda miliki dapat menghasilkan keuntungan dalam jangka panjang.
 
@@ -47,29 +47,31 @@ Karena tujuan yang berbeda-beda, Anda harus tahu terlebih dahulu tujuan apa yang
 
 Selanjutnya mari kita bahas bagaimana cara menentukan investasi jangka panjang terbaik yang bisa anda mulai.
 
-## **Memilih Investasi Jangka Panjang Terbaik**
+## **Cara Menentukan Tujuan Investasi**
 
-Sebagai investor menentukan instrumen investasi terbaik merupakan hal yang tidak mudah. Karena investasi jangka panjang adalah investasi yang membutuhkan waktu cukup lama, terutama bagi investor pemula yang belum pernah berinvestasi sebelumnya.
+Sebagai investor menentukan instrumen investasi terbaik merupakan hal yang tidak mudah karena bergantung pada tujuan investasi jangka panjang dan jangka pendek. Investasi jangka panjang adalah investasi yang membutuhkan waktu cukup lama, terutama bagi investor pemula yang belum pernah berinvestasi sebelumnya.
 
-Karena itu mari kita bahas bagaimana tips memilih investasi jangka panjang terbaik yang cocok dengan tujuan dan kondisi finansial anda.
+Bagaimana cara menentukan tujuan investasi baik jangka panjang maupun pendek?
+
+Untuk mengetahuinya, mari kita bahas bagaimana tips memilih investasi jangka panjang dan jangka pendek terbaik yang cocok dengan tujuan dan kondisi finansial Anda.
 
 ### **1. Tentukan Prioritas Keuangan**
 
-Agar investasi jangka panjang Anda dapat berjalan dengan lancar, Anda harus menyusun daftar prioritas yang harus ingin segera penuhi. Sehingga bisa menghitung berapa besar uang yang bisa Anda keluarkan secara rutin untuk berinvestasi.
+Agar investasi Anda dapat berjalan dengan lancar, Anda harus menyusun daftar prioritas yang harus ingin segera penuhi. Sehingga bisa menghitung berapa besar uang yang bisa Anda keluarkan secara rutin untuk berinvestasi.
 
-Hal ini akan membantu Anda menyusun rencana investasi jangka panjang yang tidak memberatkan dan sesuai dengan prioritas keuangan Anda.
+Hal ini akan membantu Anda menyusun rencana investasi jangka panjang maupun jangka pendek yang tidak memberatkan dan sesuai dengan prioritas keuangan Anda.
 
-Memahami prioritas kebutuhan keuangan ini juga sangat penting agar Anda bisa memperhitungkan berapa lama waktu yang anda butuhkan untuk mencapai suatu tujuan finansial.
+Memahami prioritas kebutuhan keuangan ini juga sangat penting agar Anda bisa memperhitungkan berapa lama waktu yang Anda butuhkan untuk mencapai suatu tujuan finansial.
 
 Anda bisa mulai dengan menghitung berapa besar pengeluaran dasar yang harus dikeluarkan, seperti biaya kebutuhan pokok, cicilan rumah, dan cicilan motor yang wajib Anda bayarkan setiap bulan.
 
-Setelah menghitung ini maka Anda bisa mulai memilih instrumen investasi jangka panjang yang cocok dan sesuai dengan tujuan investasi yang akan anda tetapkan.
+Setelah menghitung ini maka Anda bisa mulai memilih instrumen investasi untuk jangka panjang atau jangka pendek yang cocok dan sesuai dengan tujuan investasi yang Anda tetapkan.
 
 ### **2. Perhitungkan Periode Investasi**
 
-Berikutnya menghitung periode investasi yang akan Anda lakukan. Apabila sudah menentukan tujuan investasi yang ingin Anda capai, selanjutnya mulai menghitung berapa lama Anda bisa mencapai kondisi tersebut dengan kemampuan investasi rutin dan perkiraan besar *return* yang bisa Anda dapatkan dari investasi tersebut.
+Berikutnya menghitung periode investasi yang akan Anda lakukan. Apabila sudah menentukan tujuan investasi yang ingin Anda capai, selanjutnya mulai menghitung berapa lama Anda ingin mencapai kondisi tersebut. Caranya yaitu dengan mengukut kemampuan investasi rutin dan perkiraan besar *return* yang bisa Anda dapatkan dari rencana impian investasi tersebut.
 
-Menghitung periode investasi ini harus anda sesuaikan dengan instrumen investasi jangka panjang yang Anda pilih. Apabila Anda ingin memiliki uang 100 juta dalam 10 tahun melalui investasi reksa dana, maka Anda harus tahu berapa potensi keuntungan dari instrumen ini dan berapa biaya yang harus Anda keluarkan setiap bulan untuk mencapai kondisi angka yang diinginkan.
+Menghitung periode investasi ini harus Anda sesuaikan dengan instrumen investasi untuk jangka panjang maupun pendek yang Anda pilih. Apabila Anda ingin memiliki uang 100 juta dalam 10 tahun melalui investasi reksa dana, maka Anda harus tahu berapa potensi keuntungan dari instrumen ini. Serta berapa dana yang harus Anda siapkan setiap bulan untuk mencapai kondisi angka impian yang diinginkan.
 
 ### **3. Pahami Risiko Investasi**
 
@@ -120,7 +122,7 @@ Selain itu, Anda bisa melakukan analisis investasi dengan lebih mudah karena bis
 
 ## Tips Penting Investasi Jangka Panjang
 
-Setelah mengetahui berbagai pilihan instrumen investasi jangka panjang, terdapat tips penting yang sebaiknya Anda ketahui. Ini dia tips seputar Investasi jangka panjang adalah sebagai berikut: 
+Setelah mengetahui berbagai pilihan instrumen investasi untuk jangka panjang, terdapat tips penting yang sebaiknya Anda ketahui. Ini dia tips seputar Investasi jangka panjang adalah sebagai berikut: 
 
 ### **1. Menentukan Tujuan Investasi Jangka Panjang**
 
