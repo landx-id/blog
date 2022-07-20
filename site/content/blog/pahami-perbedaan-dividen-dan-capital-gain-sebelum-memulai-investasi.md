@@ -90,6 +90,14 @@ Jadi, dari modal awal Rp50 juta, Anda memperoleh nominal keuntungan saham atau c
 
 ## Bagaimana Cara Menghitung Dividen?
 
+Dalam menghitung dividen, terdapat beberapa data yang dibutuhkan. Seperti laba bersih perusahaan atau laba bersih per saham, dividend payout ratio (DPR), dan jumlah saham beredar atau outstanding shares. 
+
+Laba bersih per saham dalam perhitungan dividen adalah Earning Per Share (EPS). EPS adalah pembagian antara laba bersih yang didapatkan oleh perusahaan di periode tertentu dengan jumlah saham yang beredar di pasar (outstanding shares).
+
+Sementara itu, Dividend Payout Ratio (DPR) atau Rasio Pembayaran Dividen adalah rasio yang menunjukkan persentase setiap keuntungan yang diperoleh dan didistribusikan kepada pemegang saham dalam bentuk uang tunai. 
+
+Outstanding Shares adalah jumlah total lembar saham sebuah perusahaan yang dimiliki oleh para investor atau pemegang saham baik perorangan maupun institusi. 
+
 
 
 ## Berapa Dividen dan Capital Gain dari Setiap Investasi?
