@@ -121,7 +121,7 @@ Saham VILO milik PT Vilo Sejahtera memiliki 1 juta lot saham. Perusahaan VILO la
 
 Dari segi besar keuntungan, besar dividen yang akan dibagikan ditentukan melalui RUPS yang diadakan sebelumnya dan investor akan mendapatkan besar dividen sesuai dengan jumlah saham yang dimilikinya.
 
-Dalam capital gain keuntungan tergantung pada seberapa besar kenaikan yang dialami oleh efek saham atau sekuritas yang anda miliki. Semakin besar selisih antara harga jual dan harga beli maka semakin besar keuntungan yang akan didapatkan.
+Keuntungan dalam capital gain adalah berdasarkan pada seberapa besar kenaikan yang dialami oleh efek saham atau sekuritas yang anda miliki. Semakin besar selisih antara harga jual dan harga beli maka semakin besar keuntungan yang akan didapatkan.
 
 Berbicara tentang berapa keuntungan optimal dari setiap investasi tentu saja tidak habisnya karena setiap orang memiliki perspektif yan berbeda-beda tentang ini. Selain itu, kita tidak boleh bahwa ada konsep high risk high return dalam investasi sehingga keuntungan yang besar juga akan diikuti risiko yang besar juga.
 
