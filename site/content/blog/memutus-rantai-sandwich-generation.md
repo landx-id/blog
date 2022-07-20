@@ -98,13 +98,15 @@ Penyebab utama adanya generasi sandwich adalah kurangnya kemampuan seseorang sec
 
 Generasi sandwich ini harus menanggung beban hidup orang tuanya, saudaranya, dan juga keluarganya sendiri. Sehingga anak-anak yang ditempatkan dalam kondisi generasi sandwich harus menghadapi tanggung jawab dan beban ganda.
 
-## **Cara Memutus Rantai Sandwich Generation**
+
+
+## Bagaimana Cara Keluar Dari Sandwich Generation?
 
 Akar utama dari *sandwich generation* disebabkan oleh generasi sebelumnya yang gagal secara finansial. Generasi sandwich yang terdampak kemudian mewariskannya kembali ke generasi selanjutnya.
 
 Jika tidak diputus rantainya, mustahil bagi sebuah keluarga bisa memutus siklus *sandwich generation.* Memutus rantai ini adalah bagaimana cara keluar dari sandwich generation.
 
-Untuk memutus rantai *generasi sandwich* ini memang sangat sulit, namun bukan berarti mustahil. Berikut beberapa cara yang bisa kamu lakukan untuk memutus rantai sandwich generation.
+Untuk memutus rantai *generasi sandwich* atau keluar dari generasi sandwich ini memang sangat sulit, namun bukan berarti mustahil. Berikut beberapa cara yang bisa kamu lakukan untuk memutus rantai sandwich generation.
 
 ### 1. Kelola Keuangan dengan Baik
 
