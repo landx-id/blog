@@ -1,5 +1,5 @@
 ---
-draft: true
+draft: false
 author: Rafa Syawalia R
 title: "Self Improvement Adalah: Manfaat dan Cara Membangun Self Improvement"
 metaTitle: Apa itu Self Improvement Adalah Cara Peningkatan Kualitas Diri
