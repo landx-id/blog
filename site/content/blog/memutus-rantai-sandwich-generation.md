@@ -106,7 +106,7 @@ Akar utama dari *sandwich generation* disebabkan oleh generasi sebelumnya yang g
 
 Jika tidak diputus rantainya, mustahil bagi sebuah keluarga bisa memutus siklus *sandwich generation.* Memutus rantai ini adalah bagaimana cara keluar dari sandwich generation.
 
-Untuk memutus rantai *generasi sandwich* atau keluar dari generasi sandwich ini memang sangat sulit, namun bukan berarti mustahil. Berikut beberapa cara yang bisa kamu lakukan untuk memutus rantai sandwich generation.
+Untuk memutus rantai *generasi sandwich* atau keluar dari generasi sandwich ini memang sangat sulit, namun bukan berarti mustahil. Berikut beberapa cara yang bisa kamu lakukan untuk memutus rantai generasi sandwich.
 
 ### 1. Kelola Keuangan dengan Baik
 
