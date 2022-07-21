@@ -59,11 +59,16 @@ Bagi perusahaan yang menerbitkan surat utang jenis ini, keuntungan obligasi konv
 * Keinginan untuk meningkatkan modal ekuitas tanpa melepaskan kontrol kepemilikan lebih dari yang dibutuhkan.
 * Mendapatkan pembiayaan saham biasa dengan harga yang lebih murah.
 
-## Keuntungan Obligasi Konversi
+## Keuntungan Obligasi Konversi Bagi Investor
 
-Bagi investor keuntungan dari investasi obligasi konversi adalah fleksibilitas pengembalian pinjaman dan bunga dalam bentuk saham.
+Bagi investor keuntungan dari investasi obligasi konversi adalah fleksibilitas pengembalian pinjaman dan bunga dalam bentuk saham. Selain itu, berikut adalah keuntungan obligasi konversi bagi investor.
 
-Mengkonversi obligasi menjadi saham bisa memberikan keuntungan bagi investor di masa mendatang saat proyek yang dijalankan perusahaan sudah berhasil dan mendapatkan keuntungan.
+1. Obligasi konversi adalah keuntungan di masa mendatang jika proyek yang dijalankan perusahaan sudah berhasil dan mendapatkan keuntungan.
+
+
+2. Investor menerima pembayaran bunga suku bunga tetap dengan opsi untuk mengkonversi ke saham dan mendapatkan keuntungan dari apresiasi harga saham.
+3. Investor mendapatkan keamanan risiko karena pemegang obligasi dibayar sebelum pemegang saham biasa.
+4. Perusahaan mendapat keuntungan dengan meningkatkan modal tanpa segera mendilusi saham mereka.
 
 Akan tetapi, anda harus tetap mempertimbangkan risiko yang muncul di masa mendatang seperti berbagai risiko kegagalan yang mungkin terjadi.
 
