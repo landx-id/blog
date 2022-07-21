@@ -36,16 +36,20 @@ Mari telaah dari asal katanya, dijelaskan secara mudah oleh Youtuber yang sering
 
 Apa yang ditebak? Harga-harga dari crypto, emas, forex, hingga saham.
 
-### **Mekanisme Binary Option:**
+## **Cara Kerja Binary Option**
 
-* Kita akan diberi waktu 5 menit untuk menebak , misal harga bitcoin dalam 5 menit ke depan apakah akan naik atau turun.
-* Kemudian kita bertaruh sejumlah uang, Rp 1 juta rupiah misalnya.
-* Apabila kita benar, kita dapat keuntungan 80% dari modal atau Rp 800 ribu
-* Apabilan tebakan salah, akan kehilangan seluruh uang yang ditaruhkan
+Seperti penjelasan bahwa binary option adalah kegiatan menebak harga saham antara naik atau turun dengan menaruhkan sejumlah dana. Lalu bagaimana cara kerja binary option? Agar lebih mudah dimengerti, berikut mekanisme cara kerja binary option:
+
+* Kamu akan diberi waktu 5 menit untuk menebak, misal harga bitcoin dalam 5 menit ke depan apakah akan naik atau turun.
+* Kemudian kamu bertaruh sejumlah uang, Rp 1 juta rupiah misalnya.
+* Apabila kamu benar, akan mendapat keuntungan 80% dari modal atau Rp 800 ribu
+* Apabila tebakan kamu salah, otomatis kamu akan kehilangan seluruh uang yang ditaruhkan
 
 Karena ini binary option dikenal sebagai cash or nothing. Sebenarnya binary option atau opsi biner juga merupakan permainan kata dimana biner merupakan bahasa teknologi atau IT yang berarti 1 atau 0. 
 
 Hal ini kemudian dibuat seolah sedang berinvestasi padahal Anda tidak memiliki apapun dengan memberi modal pada saat taruhan. Tidak seperti floating loss atau minus pada saat berinvestasi saham, dengan binary option uang Anda bisa hilang menguap tanpa bekas.
+
+Sehingga terlihat bahwa binary option dan trading adalah dua hal yang berbeda. Walaupun sering disebut sebagai trading binary option, padahal bukan dan malah mirip sebuah aktivitas judi. Sedangkan trading adalah kegiatan jual beli saham yang dilakukan dalam waktu singkat. Kegiatan trading didasari teknik analisis saham sebelum memutuskan membeli dan/atau menjual, tidak seperti binary option yang hanya main tebak-tebakan dengan taruhan uang.
 
 Bebeberapa platform binary option yang populer dan harus Anda waspadai ada Binomo, Olymtrade, Quotex dan IQ Option.
 
