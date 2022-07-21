@@ -52,7 +52,6 @@ Untuk mengetahui cara perhitungan ekuitas, ada beberapa hal yang perlu diingat. 
 * Total liabilitas perusahaan dalam sebuah periode akuntansi harus dicantumkan dalam laporan terpisah.
 * Setelah total aset dan liabilitas ditemukan, maka ekuitas adalah total pengurangan aset dengan liabilitas. Namun, liabilitas dan ekuitasnya harus dalam satu periode akuntansi yang sama.
 
-
 Berikut adalah rumus cara menghitung ekuitas atau rumus ekuitas:
 
 > **Ekuitas = Aset (Aktiva) - Liabilitas (beban)**
@@ -69,13 +68,11 @@ Modal disetor adalah modal yang ditanamkan oleh para investor yang biasanya mend
 
 Modal saham adalah jumlah atau nominal saham yang beredar. Sedangkan agio saham atau disagio saham adalah selisih dari setoran saham dengan nominal saham yang beredar. Unsur ekuitas ini penting untuk kamu pahami karena saham agio dan disagio bisa menjadi salah satu poin yang perlu kamu perhatikan saat membaca laporan keuangan.
 
-
-
 - - -
 
 **Artikel Terkait:**
 
-* **[Agio dan Disagio dalam Saham](https://landx.id/blog/kenali-apa-itu-agio-saham-dalam-investasi/)**
+* **[Yuk Pahami Apa Itu Aset Lancar Beserta Jenisnya!](https://landx.id/blog/apa-itu-aktiva-lancar-ini-dia-penjelasannya/)**
 * **[Investor Pemula Wajib Tau, Berbagai Jenis dan Risiko Obligasi](https://landx.id/blog/apa-itu-obligasi/)**
 
 - - -
@@ -86,14 +83,12 @@ Laba ditahan merupakan keuntungan didapatkan oleh perusahaan tapi belum dibagika
 
 Dalam konteks perusahaan terbuka, laba ditahan adalah keputusan yang dibuat dalam RUPS yang untuk mengambil keputusan apakah keuntungan akan dibagikan melalui dividen atau tidak. Akan tetapi, biasanya modal ini dijadikan sebagai cadangan modal saja karena pada dasarnya modal ini merupakan hak para investor.
 
-
-
 - - -
 
 **Artikel Terkait:**
 
 * **[Memahami Konsep Laba Ditahan](https://landx.id/blog/beda-antara-laba-ditahan-dan-laba-tahun-berjalan/)**
-* **[Liabilitas Adalah Penentu Masa Depan Perusahaan, Ini Penjelasannya](https://landx.id/blog/liabilitas-adalah-penentu-masa-depan-perusahaan-ini-penjelasannya/)[!](https://landx.id/blog/liabilitas-adalah-penentu-masa-depan-perusahaan-ini-penjelasannya/)**
+* **[Liabilitas Adalah Penentu Masa Depan Perusahaan, Ini Penjelasannya](https://landx.id/blog/liabilitas-adalah-penentu-masa-depan-perusahaan-ini-penjelasannya/)****[!](https://landx.id/blog/liabilitas-adalah-penentu-masa-depan-perusahaan-ini-penjelasannya/)**
 
 - - -
 
