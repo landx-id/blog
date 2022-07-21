@@ -50,15 +50,15 @@ Aset dikelompokan ke dalam 3 kategori dengan beberapa kelompok pembagian lagi di
 
 ## 1. Jenis Aset Berdasarkan Konversi
 
-**Pertama,** aset dikelompokan berdasarkan seberapa mudah aset tersebut untuk dicairkan atau dikonversikan menjadi uang tunai atau berdasarkan likuiditas dari aset tersebut.
+**Pertama,** aset dikelompokan berdasarkan seberapa mudah aset tersebut untuk dicairkan atau dikonversikan menjadi uang tunai atau berdasarkan likuiditas dari aset tersebut. Berdasarkan konversinya, pengelompokan aset adalah sebagai berikut.
 
-* ### **Aset Lancar**
+### **Aset Lancar**
 
 Jenis aset lancar adalah aset dengan likuiditas yang tinggi atau mudah untuk dicairkan menjadi uang tunai apabila dibutuhkan. Suatu aset bisa dikatakan aset lancar apabila pemiliknya tidak perlu menunggu lama untuk pencairan aset tersebut.
 
 Berikut beberapa jenis aset lancar yang bisa mulai anda kumpulkan dari sekarang: deposito, tagihan piutang, surat berharga, dan saham (tergantung jenis saham yang dibeli)
 
-* ### **Aset Tidak Berwujud**
+### **Aset Tidak Berwujud**
 
 Seperti namanya, apa itu aset ini tidak memiliki wujud yang dapat dilihat secara fisik tetapi dapat dirasakan manfaat ekonominya. Karena itu, jenis aset ini sering kali disebut sebagai hak istimewa. Contohnya adalah sebagai berikut.
 
@@ -69,9 +69,11 @@ Seperti namanya, apa itu aset ini tidak memiliki wujud yang dapat dilihat secara
 * Franchise atau hak istimewa yang diterima oleh individu atau badan usaha dari pihak lain untuk mengomersialkan teknik, produk, resep, atau formula tertentu.
 * Good Will adalah nilai (values) istimewa yang dimiliki perusahaan.
 
-Aset ditetap juga dikenal sebagai aset tidak lancar atau aset keras. Berbeda dengan poin sebelumnya, aset tetap bersifat tidak likuid alias sulit ditukar menjadi uang.
+### **Aset Tetap**
 
-Kalaupun bisa, prosesnya biasanya membutuhkan waktu lama. Contoh aktiva tetap yaitu: tanah, bangunan, mesin, dan berbagai pelaratan yang sebagian mungkin saja mengalami penunyusutan di masa mendatang.
+Aset tetap juga dikenal sebagai aset tidak lancar atau aset keras. Berbeda dengan poin sebelumnya, aset tetap bersifat tidak likuid alias sulit ditukar menjadi uang.  Aset tetap adalah aset yang dijual ketika sebuah perusahaan atau individu mengalami perubahan besar-besaran. 
+
+Entah itu bangkrut atau berkembang dengan mengadakan ekspansi bisnis. Contoh dari jenis aset adalah gedung, mesin dan transportasi operasional perusahaan, tanah perusahaan, dan berbagai pelaratan yang sebagian mungkin saja mengalami penunyusutan di masa mendatang.
 
 ## 2. Jenis Aset Berdasarkan Eksistensi Fisik
 
@@ -81,7 +83,7 @@ Sedangkan aset yang tidak berbentuk atau *intangible* seperti hak cipta dan pate
 
 ## 3. Jenis Aset Berdasarkan Penggunaan
 
-Selain berdasarkan wujud fisik, aset juga dibagi berdasarkan penggunaannya. Aset yang digunakan untuk menunjang berbagai kegiatan ekonomi disebut sebagai aset operasional.
+Selain berdasarkan wujud fisik, jenis aset juga dibagi berdasarkan penggunaannya. Aset yang digunakan untuk menunjang berbagai kegiatan ekonomi disebut sebagai aset operasional.
 
 Aset non-operasional merupakan aset yang tidak berkaitan dengan proses operasional seperti surat-surat berharga atau berbagai investasi instrumen investasi yang dimiliki suatu bisnis atau perorangan.
 
@@ -97,7 +99,17 @@ Sebuah properti bisa saja menjadi beban karena membutuhkan biaya perawatan sedan
 
 Karena itu, dalam mengatur keuangan kita perlu paham mana saja aset yang bisa memberikan kita keuntungan jangka panjang di masa mendatang.
 
-## Cara Manajemen Aset Pribadi
+## Pentingnya Manajemen Aset
+
+Manajemen aset adalah efisiensi pengelolaan aset yang dimiliki individu, perusahaan, atau organisasi untuk mencapai tujuan ideal yang diinginkan. 
+
+Bagi perusahaan, manajemen aset akan membantu perusahaan terhindar dari kerugian depresiasi (penyusutan nilai aset). Dengan pengelolaan aset dengan baik, perusahaan dapat memanfaatkan asetnya untuk menunjang proses produksi dan distribusi untuk mendapatkan keuntungan optimal.
+
+Sementara sebagai individual, pentingnya manajemen aset tidak jauh berbeda dengan manajemen perusahaan. Jika aset 
+
+
+
+Analisis aset berarti segala sesuatu yang memiliki nilai tukar, modal, atau kekayaan. Aset juga dapat dianggap sebagai investasi bisnis atau sumber pendanaan. Agar suatu aset dapat dijadikan sebagai alat untuk mencapai tujuannya, maka perlu dikelola seperti pengelolaan aset yang baik.
 
 ## Mau Punya Aset dengan Keuntungan Jangka Panjang?
 
