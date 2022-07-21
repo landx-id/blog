@@ -15,7 +15,7 @@ intro: >-
   Karena itu, yuk kita bahas lebih lanjut tentang apa itu blockchain dan bagaimana cara kerja blockchain ini.
 isPinned: false
 slug: apa-itu-blockchain-ini-pengertian-kelebihan-dan-cara-kerjanya
-date: 2022-01-31T18:56:11.853Z
+date: 2022-07-21T05:13:33.907Z
 tag:
   - Instrumen Investasi
   - Blockchain
