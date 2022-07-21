@@ -22,10 +22,10 @@ category:
   - Investasi
 featuredImage:
   src: https://images.unsplash.com/photo-1624953187654-9d6c86f63315?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80
-  alt: Mengenal obligasi konversi dan  jenis-jenis obligasi konversi yang bisa
-    memberikan kamu keuntungan jangka panjanga
-  title: Mengenal jenis obligasi konversi yang bisa memberikan kamu keuntungan
-    jangka panjang
+  alt: Mengenal apa itu obligasi konversi dan jenis-jenis obligasi konversi yang
+    bisa memberikan kamu keuntungan jangka panjanga
+  title: Mengenal obligasi konversi adalah jenis yang bisa memberikan kamu
+    keuntungan jangka panjang
 ---
 *Convertible bond* atau apa itu obligasi konversi adalah salah satu instrumen investasi yang bisa memberikan anda keuntungan. Merupakan suatu jenis obligasi, keuntungan obligasi konversi adalah dapat diubah jadi saham dari perusahaan penerbit obligasi.
 
