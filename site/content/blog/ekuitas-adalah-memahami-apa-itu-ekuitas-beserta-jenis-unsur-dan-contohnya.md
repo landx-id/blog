@@ -36,8 +36,6 @@ Karena apa itu ekuitas adalah modal perusahaan yang akan berubah seiring dengan 
 
 Supaya lebih paham lagi, mari kita bahas lebih lanjut apa yang dimaksud dengan ekuitas dan jenis ekuitas dalam akuntansi.
 
-- - -
-
 ## Apa Itu Ekuitas?
 
 Agar kita paham apa itu ekuitas, mari pertama-tama kita bahas pengertian ekuitas dan liabilitas  terlebih dahulu. Ekuitas adalah kekayaan bersih dari perusahaan yang telah dikurangi dengan liabilitas atau berbagai beban yang harus dikeluarkan oleh perusahaan.
@@ -115,7 +113,7 @@ Modal lainnya merupakan modal-modal yang berasal dari berbagai sumber cadangan m
 
 ## Jenis-jenis Ekuitas
 
-Dalam akuntansi, terdapat beberapa jenis ekuitas yang penting untuk kamu pahami, berikut beberapa jenis ekuitas. 
+Dalam akuntansi, terdapat beberapa jenis ekuitas yang penting untuk kamu pahami, berikut beberapa jenis-jenis ekuitas. 
 
 Seperti yang kita sudah bahas sebelumnya, ekuitas menjadi salah satu acuan yang digunakan untuk menilai kinerja suatu perusahaan sehingga banyak dilibatkan dalam perhitungan rasio keuangan.
 
