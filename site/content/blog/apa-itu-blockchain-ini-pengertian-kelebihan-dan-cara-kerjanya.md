@@ -1,17 +1,18 @@
 ---
 draft: false
 author: Abdul Wahhab
-title: Apa Itu Blockchain? Ini Pengertian, Kelebihan, dan Karakteristik
-metaTitle: Apa Itu Blockchain? Ini Pengertian, Kelebihan, dan Karakteristik
-metaDescription: "Blockchain adalah sistem penyimpanan data yang
-  terdesentralisasi sehingga menjadi sistem yang digunakan untuk berbagai "
+title: Apa Itu Blockchain? Cara Kerja, Karakteristik, dan Contoh di Indonesia
+metaTitle: Apa Itu Blockchain? Cara Kerja, Karakteristik, dan Contoh di Indonesia
+metaDescription: Teknologi blockchain adalah database tempat menyimpan transaksi
+  cryptocurrency. Contoh penerapan teknologi blockchain di Indonesia mencakup
+  sektor
 intro: >-
-  Blockchain adalah pengembangan teknologi dengan sistem digital yang membuat
-  penyimpanan data jadi terintegrasi satu sama lain. Sistem ini menjadi populer
-  belakangan karena sistem ini dinilai bisa digunakan diberbagai sektor bisnis.
+  Teknologi blockchain adalah database tempat menyimpan transaksi
+  cryptocurrency. Contoh penerapan teknologi blockchain di Indonesia mencakup
+  sektor finansial, makanan buah segar, hingga investasi emas digital.
 
 
-  Karena itu, yuk kita bahas dan pelajari lebih lanjut tentang apa itu blockchain dan bagaimana cara berinvestasi dengan instrumen investasi satu ini.
+  Karena itu, yuk kita bahas lebih lanjut tentang apa itu blockchain dan bagaimana cara kerja blockchain ini.
 isPinned: false
 slug: apa-itu-blockchain-ini-pengertian-kelebihan-dan-cara-kerjanya
 date: 2022-01-31T18:56:11.853Z
@@ -20,9 +21,9 @@ tag:
   - Blockchain
 featuredImage:
   src: https://images.unsplash.com/photo-1559445368-b8a993676d7a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxMTc3M3wwfDF8c2VhcmNofDExfHxibG9ja2NoYWlufGVufDB8fHx8MTY0MDA2MjAyNg&ixlib=rb-1.2.1&q=80&w=1080
-  alt: Memahami apa itu blockchain yang kini menjadi salah satu instrumen
-    investasi populer di kalangan masayarakat
-  title: Memahami konsep blockchain sebagai salah satu instrumen investasi
+  alt: Apa Itu Blockchain? Cara Kerja Blockchain, Karakteristik, dan Contoh
+    teknologi blockchain di Indonesia
+  title: Apa Itu Blockchain? Cara Kerja, Karakteristik, dan Contoh di Indonesia
 image: https://images.unsplash.com/photo-1559445368-b8a993676d7a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxMTc3M3wwfDF8c2VhcmNofDExfHxibG9ja2NoYWlufGVufDB8fHx8MTY0MDA2MjAyNg&ixlib=rb-1.2.1&q=80&w=1080
 category:
   - Blockchain
