@@ -46,13 +46,22 @@ Liabilitas adalah beban atau utang seperti misalnya utang pembayaran pajak serta
 
 Oleh sebab itu, ekuitas atau equity dalam akuntansi adalah selisih dari aset dan liabilitas. Asal dari ekuitas adalah berbagai sumber, misalnya dari investor atau merupakan hasil dari kegiatan ekonomi yang dilakukan oleh perusahaan. 
 
-**Karena itu, cara menghitung ekuitas atau rumus ekuitas adalah dengan mencari selisih antara aset dan liabilitas (beban)**
+## Cara Perhitungan Ekuitas
+
+Untuk mengetahui cara perhitungan ekuitas, ada beberapa hal yang perlu diingat. Berikut adalah hal penting dalam langkah perhitungan nilai ekuitas:
+
+* Besaran total aset perusahaan pada sebuah periode perlu diketahui.
+* Total liabilitas perusahaan dalam sebuah periode akuntansi harus dicantumkan dalam laporan terpisah.
+* Setelah total aset dan liabilitas ditemukan, maka ekuitas adalah total pengurangan aset dengan liabilitas. Namun, liabilitas dan ekuitasnya harus dalam satu periode akuntansi yang sama.
 
 
+Berikut adalah rumus cara menghitung ekuitas atau rumus ekuitas:
+
+> **Ekuitas = Aset (Aktiva) - Liabilitas (beban)**
 
 Oleh sebab itu, nilai ekuitas ini mungkin saja negatif apabila liabilitas lebih besar dibandingkan aset yang dimiliki oleh perusahaan sehingga perusahaan mengalami defisit. Karena itu, ekuitas dan liabilitas adalah dua hal yang saling berkaitan satu sama lain. 
 
-## Unsur-unsur Dalam Laporan Perubahan Ekuitas
+## Unsur-unsur Dalam Laporan Ekuitas
 
 Untuk mengetahui nilai ekuitas, unsur unsur yang diperlukan dalam laporan perubahan ekuitas adalah sebagai berikut
 
