@@ -70,7 +70,7 @@ Bagi investor keuntungan dari investasi obligasi konversi adalah fleksibilitas p
 3. Investor mendapatkan keamanan risiko karena pemegang obligasi dibayar sebelum pemegang saham biasa.
 4. Perusahaan mendapat keuntungan dengan meningkatkan modal tanpa segera mendilusi saham mereka.
 
-Akan tetapi, anda harus tetap mempertimbangkan risiko yang muncul di masa mendatang seperti berbagai risiko kegagalan yang mungkin terjadi.
+Akan tetapi, meski obligasi konversi adalah opsi yang nampak menjanjikan, anda harus tetap mempertimbangkan risiko yang muncul di masa mendatang seperti berbagai risiko kegagalan bayar yang mungkin terjadi.
 
 ## Jenis-Jenis Obligasi Konversi
 
