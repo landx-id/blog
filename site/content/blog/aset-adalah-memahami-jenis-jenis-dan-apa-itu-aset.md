@@ -34,11 +34,11 @@ Aset adalah hal yang bisa didapatkan dan dikumpulkan untuk mencapai kestabilan f
 
 ## Apa Itu Aset?
 
-Apa itu aset? Banyak orang tidak dapat membedakan mana aset dan mana yang sebenarnya merupakan liabilitas yang malah membuat memakan biaya. 
+Banyak orang tidak dapat membedakan mana aset dan mana yang sebenarnya merupakan liabilitas yang malah membuat memakan biaya. 
 
-Aset adalah sumber daya yang dimiliki oleh suatu pihak baik individu maupun kelompok yang bisa memberikan pemiliknya keuntungan, dengan kata lain aset merupakan kekayaan atau modal yang bisa memberikan kita keuntungan di masa mendatang.
+Apa itu aset adalah sumber daya yang dimiliki oleh suatu pihak baik individu maupun kelompok yang bisa memberikan pemiliknya keuntungan. Atau dengan kata lain, pengertian aset adalah kekayaan atau modal yang bisa memberikan kita keuntungan di masa mendatang.
 
-Selain bisa memberikan keuntungan di masa mendatang, aset adalah sesuatu yang bisa dijadikan sebagai sumber arus kas di masa mendatang. Dalam bisnis, perusahaan biasanya membeli suatu aset dengan berbagai tujuan seperti untuk meningkatkan nilai perusahaan atau investasi.
+Selain bisa memberikan keuntungan di masa mendatang, apa itu aset adalah sesuatu yang bisa dijadikan sebagai sumber arus kas di masa mendatang. Dalam bisnis, perusahaan biasanya membeli suatu aset dengan berbagai tujuan seperti untuk meningkatkan nilai perusahaan atau investasi.
 
 Karena itu, sesuatu yang dikatakan aset harus memiliki nilai ekonomi sehingga bisa dijual untuk memberikan pemiliknya uang tunai.
 
@@ -48,29 +48,38 @@ Setelah memahami apa itu aset, yuk selanjutnya kita bahas lebih lanjut tentang j
 
 Aset dikelompokan ke dalam 3 kategori dengan beberapa kelompok pembagian lagi di dalamnya, supaya kamu paham berbagai jenis aset, mari kita bahas hal ini satu per satu.
 
-### 1. Konversi
+## 1. Jenis Aset Berdasarkan Konversi
 
 **Pertama,** aset dikelompokan berdasarkan seberapa mudah aset tersebut untuk dicairkan atau dikonversikan menjadi uang tunai atau berdasarkan likuiditas dari aset tersebut.
 
-* #### **Aset Lancar**
+* ### **Aset Lancar**
 
-Aset lancar adalah aset dengan likuiditas yang tinggi atau mudah untuk dicairkan menjadi uang tunai apabila dibutuhkan. Suatu aset bisa dikatakan aset lancar apabila pemiliknya tidak perlu menunggu lama untuk pencairan aset tersebut.
+Jenis aset lancar adalah aset dengan likuiditas yang tinggi atau mudah untuk dicairkan menjadi uang tunai apabila dibutuhkan. Suatu aset bisa dikatakan aset lancar apabila pemiliknya tidak perlu menunggu lama untuk pencairan aset tersebut.
 
 Berikut beberapa jenis aset lancar yang bisa mulai anda kumpulkan dari sekarang: deposito, tagihan piutang, surat berharga, dan saham (tergantung jenis saham yang dibeli)
 
-* #### **Aset Tetap**
+* ### **Aset Tidak Berwujud**
+
+Seperti namanya, apa itu aset ini tidak memiliki wujud yang dapat dilihat secara fisik tetapi dapat dirasakan manfaat ekonominya. Karena itu, jenis aset ini sering kali disebut sebagai hak istimewa. Contohnya adalah sebagai berikut.
+
+* Hak Cipta adalah hak yang diberikan oleh pemerintah akan sebuah karya intelektual yang diciptakan atas nama individu atau pun perusahaan.
+* Hak Paten atau hak tunggal yang diberikan pemerintah kepada individu atau kelompok atas penemuan yang bermanfaat bagi masyarakat luas.
+* Hak Merek Dagang atau hak yang diberikan pemerintah atas penggunaan nama dan lambang usaha.
+* Hak Kontrak atau hak yang diberikan oleh pihak tertentu kepada pihak lain untuk penggunaan aset selama jangka waktu yang disepakati.
+* Franchise atau hak istimewa yang diterima oleh individu atau badan usaha dari pihak lain untuk mengomersialkan teknik, produk, resep, atau formula tertentu.
+* Good Will adalah nilai (values) istimewa yang dimiliki perusahaan.
 
 Aset ditetap juga dikenal sebagai aset tidak lancar atau aset keras. Berbeda dengan poin sebelumnya, aset tetap bersifat tidak likuid alias sulit ditukar menjadi uang.
 
 Kalaupun bisa, prosesnya biasanya membutuhkan waktu lama. Contoh aktiva tetap yaitu: tanah, bangunan, mesin, dan berbagai pelaratan yang sebagian mungkin saja mengalami penunyusutan di masa mendatang.
 
-### 2. Eksistensi Fisik
+## 2. Jenis Aset Berdasarkan Eksistensi Fisik
 
 Aset juga dibagi ke dalam dua kategori berdasarkan eksitensi fisiknya, aset yang memiliki bentuk fisik atau *tangible* seperti bangunan dan mesin disebut sebagai aset berwujud.
 
 Sedangkan aset yang tidak berbentuk atau *intangible* seperti hak cipta dan paten disebut sebagai aset tidak berwujud.
 
-### 3. Penggunaan
+## 3. Jenis Aset Berdasarkan Penggunaan
 
 Selain berdasarkan wujud fisik, aset juga dibagi berdasarkan penggunaannya. Aset yang digunakan untuk menunjang berbagai kegiatan ekonomi disebut sebagai aset operasional.
 
@@ -87,6 +96,8 @@ Karena itu, suatu benda bisa saja menjadi aset atau beban tergantung dengan kema
 Sebuah properti bisa saja menjadi beban karena membutuhkan biaya perawatan sedangkan tidak memberikan keuntungan apa-apa karena tidak ada penyewa, sebaliknya, mainan bisa saja menjadi aset harganya naik di masa mendatang karena mainan tersebut limited edition.
 
 Karena itu, dalam mengatur keuangan kita perlu paham mana saja aset yang bisa memberikan kita keuntungan jangka panjang di masa mendatang.
+
+## Cara Manajemen Aset Pribadi
 
 ## Mau Punya Aset dengan Keuntungan Jangka Panjang?
 
