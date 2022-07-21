@@ -1,5 +1,5 @@
 ---
-draft: true
+draft: false
 author: Abdul Wahhab
 slug: obligasi-konversi
 title: "Obligasi Konversi Adalah: Apa Itu Obligasi Konversi dan Keuntungannya"
