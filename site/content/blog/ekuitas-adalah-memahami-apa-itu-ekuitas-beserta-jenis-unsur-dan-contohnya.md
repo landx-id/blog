@@ -42,7 +42,9 @@ Agar kita paham apa itu ekuitas, mari pertama-tama kita bahas pengertian ekuitas
 
 Oleh sebab itu, ekuitas atau equity dalam akuntansi adalah selisih dari aset dan liabilitas. Asal dari ekuitas adalah berbagai sumber, misalnya dari investor atau merupakan hasil dari kegiatan ekonomi yang dilakukan oleh perusahaan. 
 
-**Karena itu, cara menghitung ekuitas adalah dengan mencari selisih antara aset dan liabilitas (beban).**
+**Karena itu, cara menghitung ekuitas atau rumus ekuitas adalah dengan mencari selisih antara aset dan liabilitas (beban)**
+
+
 
 Oleh sebab itu, nilai ekuitas ini mungkin saja negatif apabila liabilitas lebih besar dibandingkan aset yang dimiliki oleh perusahaan sehingga perusahaan mengalami defisit. Karena itu, ekuitas dan liabilitas adalah dua hal yang saling berkaitan satu sama lain. 
 
