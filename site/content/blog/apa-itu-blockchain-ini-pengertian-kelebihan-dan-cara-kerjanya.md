@@ -94,13 +94,15 @@ Seperti yang sudah kita bahas sebelumnya, blockchain simpelnya adalah sebuah tek
 
 Jadi bisa dibilang blockchain merupakan teknologinya dan cryptocurrency merupakan produk yang menggunakan sistem ini dalam sistem transaksinya karena blockchain bisa membantu proses smart contracts yang mendukung proses transaksi.
 
-## Kelebihan Blockchain
+## Kelebihan dan Kelemahan Sistem Blockchain
 
-Setelah mengetahui tentang cara kerja, tentu kamu penasaran kenapa sih blockchain menjadi populer? Dan mengapa banyak orang percaya dengan sistem ini padahal kan gak ada bentuknya sama sekali? 
+Setelah mengetahui tentang cara kerja, tentu kamu penasaran kenapa sih sistem teknologi blockchain menjadi populer? Dan mengapa banyak orang percaya dengan sistem ini padahal ga ada bentuknya sama sekali? Apa kelebihan dan kelemahan sistem blockchain ini?
+
+### Kelebihan Blockchain
 
 Untuk menjawabnya, ada tiga hal utama membuat teknologi blockchain bisa dipercaya saat ini, berikut ulasannya:
 
-### 1. Desentralisasi
+#### 1. Desentralisasi
 
 Sebelum ada blockchain, sebenarnya sistem sentralisasi ini sudah diterapkan oleh berbagai industri termasuk Bank. Sayangnya, sistem seperti ini punya beberapa kelemahan.
 
@@ -112,7 +114,7 @@ Kelemahan lainnya adalah, untuk melakukan sebuah aktivitas, kita harus menggunak
 
 Dalam buku besar terdistribusi ini, hanya kamu yang bertanggung jawab terhadap data yang tersimpan. Selain itu, kamu juga bisa memangkas waktu jika ingin bertransaksi karena blockchain tidak membutuhkan pihak ketiga untuk melakukannya.
 
-### 2. Transparansi
+#### 2. Transparansi
 
 Transparansi -- yang tentunya tanpa melanggar privasi -- adalah salah satu nilai plus dalam blockchain.
 
@@ -120,17 +122,31 @@ Semua transaksi dalam blockchain bisa kita lihat tanpa sekat. Jika begitu, bagai
 
 Misalnya, suatu saat teman kamu yang bernama Reza mengirimkan satu koin bitcoin. Karena penasaran, kamu ingin melihat riwayat transaksi tersebut. Dalam riwayat itu, tidak tercatat transaksi dengan status “Reza mengirimkanmu 1 BTC” melainkan “M739djsak90 mengirimkanmu 1 BTC”.
 
-### 3. Keamanan yang Sulit Ditembus
+#### 3. Keamanan yang Sulit Ditembus
 
 Ada beberapa alasan mengapa blockchain merupakan sistem yang sangat aman. Pertama, setiap transaksi harus disepakati sebelum dicatat. Setelah transaksi disetujui, transaksi tersebut kemudian dienkripsi dan ditautkan ke transaksi sebelumnya.
 
 Kedua, fakta bahwa setiap informasi yang ada disimpan di jaringan komputer, bukan di satu server,membuat peretas akan sangat sulit untuk meretas data transaksi. Selain itu, dengan keamanan yang ketat seperti ini, blockchain dapat mencegah aktivitas ilegal lain seperti penipuan.
 
-### 4. Memangkas Biaya
+#### 4. Memangkas Biaya
 
 Selain memangkas waktu, blockchain juga berguna untuk mengurangi biaya. Pasalnya, jika kamu menggunakan sistem ini, kamu tidak perlu lagi membayar pihak ketiga untuk melakukan sebuah transaksi.
 
 Selain itu, kamu juga tidak perlu ribet dengan urusan administrasi yang terkadang memakan dana yang besar. Pasalnya, dengan blockchain, tidak ada syarat rumit yang terkadang melelahkan secara finansial dan waktu.
+
+### Kelemahan Blockchain
+
+Dengan berbagai kelebihan dari penerapan sistem blockchain, terdapat kelemahan yang meliputinya.
+
+#### 1. Membutuhkan Resourse Besar
+
+Jika keunggulan teknologi blockchain adalah tidak dapat diubah oleh siapa pun termasuk diri kita sendiri, maka terkadang hal ini dapat menyulitkan. Karena apabila kita membuat sebuah transaksi yang membuat terjadi perpindahan kripto ke akun lain maka perlu perubahan isi data blok. 
+
+Memang, perubahan data ini akan diregistrasi sebagai blok baru. Walaupun hanya perubahan sederhana maka akan disimpan dalam blok baru pada rantai yang sama, sehingga hal ini memakan kapasitas penyimpanan (disk space).
+
+#### 2. Data Terlihat oleh Semua Orang
+
+Keamanan yang menjadi kelebihan blockchain adalah setiap data tidak dapat diubah maupun dipalsukan oleh siapapun. Namun, tidak memungkiri bahwa data kamu akan terbaca oleh semua orang bahkan di analisis. Karena sifat teknologi blockchain yaitu transparansi. tetapi tetap saja kamu sebagai pemilik data tidak akan ditemukan oleh orang yang melihat data tesebut.
 
 ## Penggunaan teknologi blockchain di Indonesia
 
