@@ -11,7 +11,7 @@ intro: Rasio solvabilitas adalah rasio yang digunakan untuk melihat potensi
   jangka panjang perusahaan agar memberi keuntungan saat pilih sebagai emiten
   investasi. Yuk simak cara melakukan analisis investasi menggunakan rumus rasio
   solvabilitas.
-date: 2022-01-26T10:55:00.000Z
+date: 2022-07-20T05:15:42.307Z
 tag:
   - rasio keuangan
   - rasio solvabilitas
