@@ -8,7 +8,7 @@ metaDescription: Apa yang dimaksud dengan aset adalah sumber daya yang dimiliki
   oleh individu atau perusahaan yang bisa memberikan keuntungan di masa depan,
 intro: "Apa yang dimaksud dengan aset adalah sumber daya yang dimiliki oleh
   individu atau perusahaan yang bisa memberikan keuntungan di masa depan, Jika
-  kamu adalah seorang yang tertarik dalam berinvestasi, memahami apa itu aset
+  anda adalah seorang yang tertarik dalam berinvestasi, memahami apa itu aset
   dan jenis-jenis aset adalah hal yang penting untuk dilakukan. "
 date: 2021-09-27T09:22:08.000Z
 tag:
@@ -20,7 +20,7 @@ featuredImage:
   src: https://images.unsplash.com/photo-1634757439914-23b8acb9d411?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxMTc3M3wwfDF8c2VhcmNofDJ8fGhvdXNlJTIwbW9uZXl8ZW58MHx8fHwxNjQwMjQ5OTk4&ixlib=rb-1.2.1&q=80&w=1080
   alt: Memahami apa itu aset dan jenis-jenis aset yang bisa jadi aset investasi
     pemula
-  title: Mengenal berbagai jenis aset yang bisa kamu jadikan investasi jangka panjang
+  title: Mengenal berbagai jenis aset yang bisa anda jadikan investasi jangka panjang
 image: https://images.unsplash.com/photo-1634757439914-23b8acb9d411?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxMTc3M3wwfDF8c2VhcmNofDJ8fGhvdXNlJTIwbW9uZXl8ZW58MHx8fHwxNjQwMjQ5OTk4&ixlib=rb-1.2.1&q=80&w=1080
 category:
   - Keuangan
@@ -46,7 +46,7 @@ Setelah memahami apa itu aset, yuk selanjutnya kita bahas lebih lanjut tentang j
 
 ## Jenis-Jenis Aset
 
-Aset dikelompokan ke dalam 3 kategori dengan beberapa kelompok pembagian lagi di dalamnya, supaya kamu paham berbagai jenis aset, mari kita bahas hal ini satu per satu.
+Aset dikelompokan ke dalam 3 kategori dengan beberapa kelompok pembagian lagi di dalamnya, supaya anda paham berbagai jenis aset, mari kita bahas hal ini satu per satu.
 
 ## 1. Jenis Aset Berdasarkan Konversi
 
@@ -93,11 +93,9 @@ Seperti yang kita bahas di atas, poin utama daria aset adalah sesuatu yang dapat
 
 Selain itu, aset juga dapat digunakan sebagai alat untuk menggambarkan kekayaan seseorang. Kekayaan ini salah satunya memiliki nilai ekonomi, di mana aset tersebut dapat diperdagangkan.
 
+Contoh sederhana aset adalah mainan yang dibeli tanpa niatan apapun bisa saja menjadi aset jika harganya naik di masa mendatang karena mainan tersebut limited edition.
+
 Karena itu, suatu benda bisa saja menjadi aset atau beban tergantung dengan kemampuannya menghasilkan keuntungan di masa mendatang.
-
-Sebuah properti bisa saja menjadi beban karena membutuhkan biaya perawatan sedangkan tidak memberikan keuntungan apa-apa karena tidak ada penyewa, sebaliknya, mainan bisa saja menjadi aset harganya naik di masa mendatang karena mainan tersebut limited edition.
-
-Karena itu, dalam mengatur keuangan kita perlu paham mana saja aset yang bisa memberikan kita keuntungan jangka panjang di masa mendatang.
 
 ## Pentingnya Manajemen Aset
 
@@ -105,13 +103,23 @@ Manajemen aset adalah efisiensi pengelolaan aset yang dimiliki individu, perusah
 
 Bagi perusahaan, manajemen aset akan membantu perusahaan terhindar dari kerugian depresiasi (penyusutan nilai aset). Dengan pengelolaan aset dengan baik, perusahaan dapat memanfaatkan asetnya untuk menunjang proses produksi dan distribusi untuk mendapatkan keuntungan optimal.
 
-Sementara sebagai individual, pentingnya manajemen aset tidak jauh berbeda dengan manajemen perusahaan. Jika aset 
+Sementara sebagai individual, pentingnya manajemen aset tidak jauh berbeda dengan manajemen perusahaan. Jika aset didiamkan saja, maka aset tersebut bisa saja menghasilkan kerugian. 
 
+Misalnya contoh aset adalah sebuah properti yang dimiliki individu. Jika properti tersebut didiamkan saja, maka akan membutuhkan biaya perawatan meski tidak memberikan keuntungan apa-apa.  Karena tidak ada penyewa, aset ini lama-kelamaan akan kehilangan nilainya dan tidak akan bisa memiliki prospek keuntungan di masa depan.
 
+Karena itu, dalam mengatur keuangan kita perlu paham mana saja aset yang bisa memberikan kita keuntungan jangka panjang di masa mendatang.
 
-Analisis aset berarti segala sesuatu yang memiliki nilai tukar, modal, atau kekayaan. Aset juga dapat dianggap sebagai investasi bisnis atau sumber pendanaan. Agar suatu aset dapat dijadikan sebagai alat untuk mencapai tujuannya, maka perlu dikelola seperti pengelolaan aset yang baik.
+Inilah yang disebut dengan fungsi analisis aset. Analisis aset adalah segala sesuatu yang memiliki nilai tukar, modal, atau kekayaan. 
 
 ## Mau Punya Aset dengan Keuntungan Jangka Panjang?
+
+Aset adalah kepemilikan yang bisa digunakan untuk modal dalam berinvestasi. Misalnya, contoh aset adalah uang cash yang dapat digunakan untuk meniti bisnis yang bisa menghasilkan keuntungan di masa depan. 
+
+Tentunya, siapapun ingin memiliki aset yang tidak mengalami penyusutan sehingga menjadi kerugian bagi pemegangnya. Karena itu, salah satu cara menghindari penyusutan nilai aset adalah dengan melakukan investasi.
+
+Tidak lagi identik dengan butuh modal aset besar, sekarang investasi bisa dilakukan oleh siapapun meski hanya memiliki modal kecil. Salah satu cara investasi modal kecil adalah investasi lewat skema securities crowdfunding yang merupakan penyempurnaan skema equity crowdfunding. 
+
+Lewat skema ini, anda bisa patungan bersama masyarakat luas untuk mendanai bisnis UMKM yang potensial. Dengan investasi, anda melakukan manajemen aset untuk menghindari penurunan nilai uang dan bahkan memberikan keuntungan lebih besar. 
 
 ## **[Yuk Ikut Patungan Bisnis Menguntungkan Bareng LandX](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)**
 
