@@ -78,11 +78,11 @@ Cara pengelompokan jenis-jenis obligasi konversi adalah disesuaikan dengan cara 
 
 * ### **Obligasi Tukar**
 
-Obligasi tukar juga sering disebut sebagai *exchangeable convertible* merupakan jenis obligasi konversi di mana saham yang digunakan dalam obligasi konversi merupakan saham perusahaan yang berbeda dari penerbit obligasi tersebut.
+Apa itu obligasi konversi tukar juga sering disebut sebagai *exchangeable convertible* merupakan jenis obligasi konversi di mana saham yang digunakan dalam obligasi konversi merupakan saham perusahaan yang berbeda dari penerbit obligasi tersebut.
 
 * ### Obligasi Wajib Konversi
 
-Jenis  ini juga disebut *mandatory convertibles* di mana obligasi jenis ini memiliki memiliki periode waktu pendek dengan *return* yang tinggi dan wajib untuk dikonversikan menjadi saham biasa yang mengacu pada harga pasar saham pada saat dilakukan konversi.
+Jenis obligasi konversi ini juga disebut *mandatory convertibles* di mana obligasi jenis ini memiliki memiliki periode waktu pendek dengan *return* yang tinggi dan wajib untuk dikonversikan menjadi saham biasa yang mengacu pada harga pasar saham pada saat dilakukan konversi.
 
 * ### Obligasi Konversi Bersyarat
 
