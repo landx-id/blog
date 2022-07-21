@@ -51,6 +51,14 @@ Selain itu perusahaan juga memiliki opsi untuk tidak mengembalikan hutang dan me
 
 Hal ini bisa saja memberikan investor keuntungan, akan tetapi yang harus anda perhatikan saat melakukan konversi adalah risiko investasi anda akan ikut berubah menjadi investasi saham. Karena itu anda harus turut mempertimbangkan risiko yang muncul saat melakukan berinvestasi lewat obligasi konversi.
 
+## Mengapa Perusahaan Menerbitkan Obligasi Konversi?
+
+Bagi perusahaan yang menerbitkan surat utang jenis ini, keuntungan obligasi konversi adalah sebagai berikut.
+
+* Tingkat suku bunga yang lebih rendah dibandingkan dengan tingkat suku bunga yang dapat diberikan oleh emiten untuk utang non konversi.
+* Keinginan untuk meningkatkan modal ekuitas tanpa melepaskan kontrol kepemilikan lebih dari yang dibutuhkan.
+* Mendapatkan pembiayaan saham biasa dengan harga yang lebih murah.
+
 ## Keuntungan Obligasi Konversi
 
 Bagi investor yang menggunakan obligasi konversi, keuntungan dari investasi ini adalah fleksibilitas pengembalian pinjaman dan bunga dalam bentuk saham.
