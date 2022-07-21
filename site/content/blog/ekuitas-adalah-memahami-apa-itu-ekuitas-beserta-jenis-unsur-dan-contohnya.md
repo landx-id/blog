@@ -40,7 +40,9 @@ Supaya lebih paham lagi, mari kita bahas lebih lanjut apa yang dimaksud dengan e
 
 ## Apa Itu Ekuitas?
 
-Agar kita paham apa itu ekuitas, mari pertama-tama kita bahas pengertian ekuitas itu sendiri terlebih dahulu. Ekuitas adalah kekayaan bersih dari perusahaan yang telah dikurangi dengan liabilitas atau berbagai beban yang harus dikeluarkan oleh perusahaan. 
+Agar kita paham apa itu ekuitas, mari pertama-tama kita bahas pengertian ekuitas dan liabilitas  terlebih dahulu. Ekuitas adalah kekayaan bersih dari perusahaan yang telah dikurangi dengan liabilitas atau berbagai beban yang harus dikeluarkan oleh perusahaan.
+
+Liabilitas adalah beban atau utang seperti misalnya utang pembayaran pajak serta utang pembayaran gaji karyawan perusahaan.
 
 Oleh sebab itu, ekuitas atau equity dalam akuntansi adalah selisih dari aset dan liabilitas. Asal dari ekuitas adalah berbagai sumber, misalnya dari investor atau merupakan hasil dari kegiatan ekonomi yang dilakukan oleh perusahaan. 
 
