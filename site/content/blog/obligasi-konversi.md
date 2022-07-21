@@ -56,8 +56,8 @@ Hal ini bisa saja memberikan investor keuntungan, akan tetapi yang harus anda pe
 Bagi perusahaan yang menerbitkan surat utang jenis ini, keuntungan obligasi konversi adalah sebagai berikut.
 
 * Tingkat suku bunga yang lebih rendah dibandingkan dengan tingkat suku bunga yang dapat diberikan oleh emiten untuk utang non konversi.
-* Keinginan untuk meningkatkan modal ekuitas tanpa melepaskan kontrol kepemilikan lebih dari yang dibutuhkan.
-* Mendapatkan pembiayaan saham biasa dengan harga yang lebih murah.
+* Tujuan obligasi konversi adalah keinginan perusahaan untuk meningkatkan modal ekuitas tanpa melepaskan kontrol kepemilikan lebih dari yang dibutuhkan.
+* Obligasi konversi adalah cara perusahaan mendapatkan pembiayaan saham biasa dengan harga yang lebih murah.
 
 ## Keuntungan Obligasi Konversi Bagi Investor
 
