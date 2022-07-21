@@ -1,9 +1,9 @@
 ---
-draft: false
+draft: true
 author: Abdul Wahhab
 slug: obligasi-konversi
-title: "Obligasi Konversi: Apa Itu Obligasi Konversi dan Keuntungannya"
-metaTitle: "Obligasi Konversi: Apa Itu Obligasi Konversi dan Keuntungannya"
+title: "Obligasi Konversi Adalah: Apa Itu Obligasi Konversi dan Keuntungannya"
+metaTitle: "Obligasi Konversi Adalah: Cara Kerja Obligasi Konversi dan Keuntungan"
 metaDescription: Obligasi konversi adalah jenis obligasi yang bisa jadi pilihan
   untuk investasi anda, konversi obligasi jadi saham
 intro: >-
