@@ -48,13 +48,15 @@ Oleh sebab itu, ekuitas atau equity dalam akuntansi adalah selisih dari aset dan
 
 Oleh sebab itu, nilai ekuitas ini mungkin saja negatif apabila liabilitas lebih besar dibandingkan aset yang dimiliki oleh perusahaan sehingga perusahaan mengalami defisit. Karena itu, ekuitas dan liabilitas adalah dua hal yang saling berkaitan satu sama lain. 
 
-## Unsur Ekuitas
+## Unsur-unsur Dalam Laporan Perubahan Ekuitas
+
+Untuk mengetahui nilai ekuitas, unsur unsur yang diperlukan dalam laporan perubahan ekuitas adalah sebagai berikut
 
 ### 1. Modal Disetor
 
-Modal disetor adalah modal yang ditanamkan oleh para investor yang biasanya mendapatkan saham sesuai dengan jumlah modal yang mereka tanamkan. Modal ini terbagi ke dalam dua jenis yaitu modal saham dan agio/ disagio saham.
+Modal disetor adalah modal yang ditanamkan oleh para investor yang biasanya mendapatkan saham sesuai dengan jumlah modal yang mereka tanamkan. Modal ini terbagi ke dalam dua jenis yaitu modal saham dan agio saham atau disagio saham.
 
-Modal saham adalah jumlah/ nominal saham yang beredar. Sedangkan agio/ disagio merupakan selisih dari setoran saham dengan nominal saham yang beredar. Unsur ekuitas ini penting untuk kamu pahami karena saham agio dan disagio bisa menjadi salah satu poin yang perlu kamu perhatikan saat membaca laporan keuangan.
+Modal saham adalah jumlah atau nominal saham yang beredar. Sedangkan agio saham atau disagio saham adalah selisih dari setoran saham dengan nominal saham yang beredar. Unsur ekuitas ini penting untuk kamu pahami karena saham agio dan disagio bisa menjadi salah satu poin yang perlu kamu perhatikan saat membaca laporan keuangan.
 
 
 
