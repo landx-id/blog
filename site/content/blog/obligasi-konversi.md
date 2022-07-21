@@ -94,7 +94,7 @@ Jenis ini hampir sama dengan jenis obligasi pada umumnya, yang menjadi pembeda a
 
 ## Diversifikasi dalam Berinvestasi
 
-Setiap instrumen investasi memiliki keuntungan jangka panjang termasuk obligasi konversi, tapi jangan lupa kamu juga perlu menyiapkan strategi diversifikasi agar keuntungan investasi kamu menjadi lebih optimal. Salah satu instrumen yang bisa kamu pilih adalah investasi bisnis lewat **equity crowdfunding.**
+Setiap instrumen investasi memiliki keuntungan jangka panjang termasuk obligasi konversi, tapi jangan lupa kamu juga perlu menyiapkan strategi diversifikasi agar keuntungan investasi kamu menjadi lebih optimal. Salah satu instrumen yang bisa kamu pilih adalah investasi bisnis lewat **[equity crowdfunding](landx.id).**
 
 Sistem ini memberikan kamu kesempatan untuk berinvestasi ke dalam berbagai bisnis menguntungkan cuma dengan modal 1 juta saja.... 
 
