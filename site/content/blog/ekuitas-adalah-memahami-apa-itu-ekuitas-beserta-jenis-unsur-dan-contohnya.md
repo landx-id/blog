@@ -17,7 +17,7 @@ tag:
   - tips investasi
 featuredImage:
   src: https://images.unsplash.com/photo-1560518883-ce09059eeffa?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxMTc3M3wwfDF8c2VhcmNofDEwfHxpbnZlc3RtZW50fGVufDB8fHx8MTY0MDE0ODgzMA&ixlib=rb-1.2.1&q=80&w=1080
-  alt: Memahami apa itu ekuitas
+  alt: Memahami apa itu ekuitas pemegang saham
   title: Apa itu ekuitas adalah modal perusahaan dan memahami jenis ekuitas
 image: https://images.unsplash.com/photo-1560518883-ce09059eeffa?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxMTc3M3wwfDF8c2VhcmNofDEwfHxpbnZlc3RtZW50fGVufDB8fHx8MTY0MDE0ODgzMA&ixlib=rb-1.2.1&q=80&w=1080
 category:
@@ -36,13 +36,11 @@ Supaya lebih paham lagi, mari kita bahas lebih lanjut apa yang dimaksud dengan e
 
 - - -
 
-## Apa Itu Ekuitas
+## Apa Itu Ekuitas?
 
-Agar kita paham apa itu ekuitas, mari pertama-tama kita bahas pengertian ekuitas itu sendiri terlebih dahulu.
+Agar kita paham apa itu ekuitas, mari pertama-tama kita bahas pengertian ekuitas itu sendiri terlebih dahulu. Ekuitas adalah kekayaan bersih dari perusahaan yang telah dikurangi dengan liabilitas atau berbagai beban yang harus dikeluarkan oleh perusahaan. 
 
-Ekuitas adalah kekayaan bersih dari perusahaan yang telah dikurangi dengan liabilitas atau berbagai beban yang harus dikeluarkan oleh perusahaan. 
-
-Oleh sebab itu, ekuitas atau equity dalam akuntansi adalah selisih dari aset dan liabilitas. Ekuitas ini bisa berasal dari berbagai sumber seperti dari investor atau merupakan hasil dari kegiatan ekonomi yang dilakukan oleh perusahaan. 
+Oleh sebab itu, ekuitas atau equity dalam akuntansi adalah selisih dari aset dan liabilitas. Asal dari ekuitas adalah berbagai sumber, misalnya dari investor atau merupakan hasil dari kegiatan ekonomi yang dilakukan oleh perusahaan. 
 
 **Karena itu, cara menghitung ekuitas adalah dengan mencari selisih antara aset dan liabilitas (beban).**
 
