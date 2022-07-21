@@ -31,17 +31,17 @@ Obligasi konversi adalah salah satu instrumen investasi yang bisa memberikan and
 
 
 
- dan biasanya pada rasio pertukaran yang sudah dipilihkan terlebih dahulu pada penerbitan obligasi tsb
-
-
-
-Jenis obligasi ini bisa menjadi pilihan instrumen investasi yang bisa memberikan anda keuntungan. Karena itu mari kita bahas lebih lanjut apa itu obligasi konversi.
+Lalu mengapa obligasi konversi adalah pilihan instrumen investasi yang menguntungkan? Mari cari tahu lebih lanjut tentang apa itu obligasi konversi, jenis-jenis obligasi konversi, dan keuntungan bagi investor yang memiliki oblligasi konversi.
 
 - - -
 
-## Obligasi Konversi
+## Apa Itu Obligasi Konversi?
 
 Obligasi konversi adalah jenis surat utang yang memungkinkan pemiliknya untuk mengkonversi surat utang yang mereka miliki menjadi saham di perusahaan penerbit obligasi sesuai dengan rasio penukaran yang sudah disepakati sebelumnya.
+
+
+
+ dan biasanya pada rasio pertukaran yang sudah dipilihkan terlebih dahulu pada penerbitan obligasi tsb
 
 Surat utang jenis ini biasanya cenderung memiliki tingkat bunga yang rendah karena keunggulan yang diberikan yaitu kemudahan untuk diubah menjadi bukti kepemilikan berupa saham.
 
