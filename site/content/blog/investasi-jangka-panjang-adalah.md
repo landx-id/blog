@@ -9,7 +9,7 @@ metaDescription: Investasi jangka panjang adalah investasi yang dilakukan untuk
   Investasi
 intro: Yuk simak bagaimana cara menyusun rencana investasi jangka panjang yang
   sesuai dengan tujuan finansial anda.
-date: 2021-08-03T06:38:52.000Z
+date: 2022-07-20T05:14:46.826Z
 tag:
   - investasi jangka panjang
   - investasi bagi hasil
