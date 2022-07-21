@@ -26,11 +26,11 @@ category:
 ---
 Berbicara tentang apa itu ekuitas, kamu pasti sering mendengar istilah ini dalam kehidupan sehari-hari terutama untuk kamu yang berkecimpung di dunia keuangan. Apa itu ekuitas adalah modal yang didapatkan dari perhitungan ekuitas atau hasil aset perusahaan yang sudah dikurangi dengan liabilitas atau kewajiban.
 
-Ekuitas adalah hak kepemilikan atas suatu aset yang sudah dikurangi dengan liabilitas atau berbagai kewajiban harus dikeluarkan.
+Ekuitas adalah hak kepemilikan atas suatu aset yang sudah dikurangi dengan liabilitas atau berbagai kewajiban harus dikeluarkan. Dalam konteks akuntansi secara spesifik, ekuitas adalah hak atas aset perusahaan yang telah dikurangi dengan berbagai liabilitas yang harus ditanggung perusahaan seperti hutang atau tagihan yang harus dibayarkan. 
 
-Dalam konteks akuntansi,  ekuitas hak atas aktiva perusahaan yang telah dikurangi dengan berbagai liabilitas yang harus ditanggung perusahaan seperti hutang atau tagihan yang harus dibayarkan. Dengan kata lain, ekuitas dapat diartikan sebagai selisih antara aktiva dengan liabilitas yang harus dikeluarkan oleh perusahaan.
+Dengan kata lain, apa itu ekuitas adalah selisih antara aktiva (aset) dengan liabilitas yang harus dikeluarkan oleh perusahaan. Jumlah ekuitas ini menjadi salah satu indikator yang menjelaskan bagaimana kondisi keuangan perusahaan. 
 
-Jumlah ekuitas ini menjadi salah satu indikator yang menjelaskan bagaimana kondisi keuangan perusahaan karena ekuitas akan berubah seiring dengan kondisi dari perusahaan. Hal ini karena perusahaan bisa saja kehilangan ekuitas karena mengalami kerugian.
+Karena apa itu ekuitas adalah modal perusahaan yang akan berubah seiring dengan kondisi finansial perusahaan. Hal ini karena perusahaan bisa saja kehilangan ekuitas karena bisnisnya mengalami rugi 
 
 Supaya lebih paham lagi, mari kita bahas lebih lanjut apa yang dimaksud dengan ekuitas dan jenis ekuitas dalam akuntansi.
 
