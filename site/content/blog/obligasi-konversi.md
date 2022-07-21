@@ -27,7 +27,7 @@ featuredImage:
   title: Mengenal jenis obligasi konversi yang bisa memberikan kamu keuntungan
     jangka panjang
 ---
-Obligasi konversi adalah salah satu instrumen investasi yang bisa memberikan anda keuntungan. Merupakan suatu jenis obligasi, keuntungan obligasi konversi adalah dapat diubah jadi saham dari perusahaan penerbit obligasi.
+*Convertible bond* atau obligasi konversi adalah salah satu instrumen investasi yang bisa memberikan anda keuntungan. Merupakan suatu jenis obligasi, keuntungan obligasi konversi adalah dapat diubah jadi saham dari perusahaan penerbit obligasi.
 
 
 
@@ -45,7 +45,7 @@ Surat utang jenis ini biasanya cenderung memiliki tingkat bunga yang rendah kare
 
 Pemegang surat utang jenis obligasi konversi diberikan pilihan untuk mengubah surat utang yang mereka miliki menjadi saham yang rasionya  sudah ditentukan sebelumnya.
 
-Hal ini akan menguntungkan perusahaan penerbit karena bunga konversi yang  jenis ini cenderung lebih rendah akan tetapi, hal ini juga bisa menyebabkan dilusi saham karena penurunan kepemilikan saham saat pemilik surat utang melakukan konversi.
+Hal ini akan menguntungkan perusahaan penerbit karena bunga konversi yang jenis ini cenderung lebih rendah akan tetapi, hal ini juga bisa menyebabkan dilusi saham karena penurunan kepemilikan saham saat pemilik surat utang melakukan konversi.
 
 Selain itu perusahaan juga memiliki opsi untuk tidak mengembalikan hutang dan mengkonversinya menjadi saham sesuai kesepakatan yang sudah ditentukan di awal.
 
@@ -61,13 +61,15 @@ Bagi perusahaan yang menerbitkan surat utang jenis ini, keuntungan obligasi konv
 
 ## Keuntungan Obligasi Konversi
 
-Bagi investor yang menggunakan obligasi konversi, keuntungan dari investasi ini adalah fleksibilitas pengembalian pinjaman dan bunga dalam bentuk saham.
+Bagi investor keuntungan dari investasi obligasi konversi adalah fleksibilitas pengembalian pinjaman dan bunga dalam bentuk saham.
 
 Mengkonversi obligasi menjadi saham bisa memberikan keuntungan bagi investor di masa mendatang saat proyek yang dijalankan perusahaan sudah berhasil dan mendapatkan keuntungan.
 
 Akan tetapi, anda harus tetap mempertimbangkan risiko yang muncul di masa mendatang seperti berbagai risiko kegagalan yang mungkin terjadi.
 
 ## Jenis-Jenis Obligasi Konversi
+
+Cara pengelompokan jenis-jenis obligasi konversi adalah disesuaikan dengan cara konversinya yang berbeda-beda. Berikut adalah beberapa contoh obligasi konversi.
 
 * ### **Obligasi Tukar**
 
