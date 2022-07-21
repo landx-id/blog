@@ -10,7 +10,7 @@ intro: "Apa yang dimaksud dengan aset adalah sumber daya yang dimiliki oleh
   individu atau perusahaan yang bisa memberikan keuntungan di masa depan, Jika
   anda adalah seorang yang tertarik dalam berinvestasi, memahami apa itu aset
   dan jenis-jenis aset adalah hal yang penting untuk dilakukan. "
-date: 2021-09-27T09:22:08.000Z
+date: 2022-07-21T16:42:40.333Z
 tag:
   - investasi
   - investasi keuangan
@@ -118,7 +118,7 @@ Karena itu, dalam mengatur keuangan kita perlu paham mana saja aset yang bisa me
 
 Inilah yang disebut dengan fungsi analisis aset. Analisis aset adalah segala sesuatu yang memiliki nilai tukar, modal, atau kekayaan. 
 
-## Mau Punya Aset dengan Keuntungan Jangka Panjang?
+## Mau Punya Aset untuk Keuntungan Jangka Panjang?
 
 Investasi jangka panjang adalah salah satu aset financial atau aset keuangan individu. Hal ini karena aset keuangan adalah aset yang dijadikan penanaman modal untuk aset tetap atau tidak tetap ke badan usaha atau perusahaan lain dapat menghasilkan prospek jangka panjang di masa depan. 
 
