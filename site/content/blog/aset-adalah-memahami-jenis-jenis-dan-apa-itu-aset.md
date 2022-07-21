@@ -26,11 +26,9 @@ category:
   - Keuangan
   - Investasi
 ---
-Apa itu aset adalahistilah dalam kehidupan sehari-hari yang sering ditemui. Namun, banyak sekali orang yang salah mengartikan. Singkatnya, aset adalah kepemilikan sumber daya dari perusahaan atau perorangan berupa kas dan sumber lain yang dapat memberi keuntungan jangka panjang.
+Apa itu aset adalah istilah dalam kehidupan sehari-hari yang sering ditemui. Namun, banyak sekali orang yang salah mengartikan. Singkatnya, aset adalah kepemilikan sumber daya dari perusahaan atau perorangan berupa kas dan sumber lain yang dapat memberi keuntungan jangka panjang.
 
 Aset adalah hal yang bisa didapatkan dan dikumpulkan untuk mencapai kestabilan finansial. Agar pengumpulan aset anda semakin lancar mari kita bahas apa itu aset, jenis-jenis aset, dan cara menajemen aset agar semakin mudah mengatur strategi keuangan dengan lebih baik lagi.
-
-- - -
 
 ## Apa Itu Aset?
 
@@ -50,11 +48,11 @@ Aset dikelompokan ke dalam 3 kategori dengan beberapa kelompok pembagian lagi di
 
 ## 1. Jenis Aset Berdasarkan Konversi
 
-**Pertama,** aset dikelompokan berdasarkan seberapa mudah aset tersebut untuk dicairkan atau dikonversikan menjadi uang tunai atau berdasarkan likuiditas dari aset tersebut. Berdasarkan konversinya, pengelompokan aset adalah sebagai berikut.
+**Pertama,** aset dikelompokan berdasarkan seberapa mudah aset tersebut untuk dicairkan atau dikonversikan menjadi uang tunai atau berdasarkan aset likuid. Berdasarkan konversinya, pengelompokan aset adalah sebagai berikut.
 
 ### **Aset Lancar**
 
-Jenis aset lancar adalah aset dengan likuiditas yang tinggi atau mudah untuk dicairkan menjadi uang tunai apabila dibutuhkan. Suatu aset bisa dikatakan aset lancar apabila pemiliknya tidak perlu menunggu lama untuk pencairan aset tersebut.
+Jenis aset lancar adalah aset likuidi. Atau, dapat disebut juga aset yang mudah untuk dicairkan menjadi uang tunai apabila dibutuhkan. Suatu aset bisa dikatakan aset lancar apabila pemiliknya tidak perlu menunggu lama untuk pencairan aset tersebut.
 
 Berikut beberapa jenis aset lancar yang bisa mulai anda kumpulkan dari sekarang: deposito, tagihan piutang, surat berharga, dan saham (tergantung jenis saham yang dibeli)
 
@@ -103,7 +101,7 @@ Manajemen aset adalah efisiensi pengelolaan aset yang dimiliki individu, perusah
 
 Bagi perusahaan, manajemen aset akan membantu perusahaan terhindar dari kerugian depresiasi (penyusutan nilai aset). Dengan pengelolaan aset dengan baik, perusahaan dapat memanfaatkan asetnya untuk menunjang proses produksi dan distribusi untuk mendapatkan keuntungan optimal.
 
-Sementara sebagai individual, pentingnya manajemen aset tidak jauh berbeda dengan manajemen perusahaan. Jika aset didiamkan saja, maka aset tersebut bisa saja menghasilkan kerugian. 
+Sementara sebagai individual, pentingnya manajemen aset adalah hal yang tidak jauh berbeda dengan manajemen perusahaan. Jika aset didiamkan saja, maka aset tersebut bisa saja menghasilkan kerugian. 
 
 Misalnya contoh aset adalah sebuah properti yang dimiliki individu. Jika properti tersebut didiamkan saja, maka akan membutuhkan biaya perawatan meski tidak memberikan keuntungan apa-apa.  Karena tidak ada penyewa, aset ini lama-kelamaan akan kehilangan nilainya dan tidak akan bisa memiliki prospek keuntungan di masa depan.
 
@@ -112,6 +110,10 @@ Karena itu, dalam mengatur keuangan kita perlu paham mana saja aset yang bisa me
 Inilah yang disebut dengan fungsi analisis aset. Analisis aset adalah segala sesuatu yang memiliki nilai tukar, modal, atau kekayaan. 
 
 ## Mau Punya Aset dengan Keuntungan Jangka Panjang?
+
+Investasi jangka panjang adalah salah satu aset financial atau aset keuangan individu. Hal ini karena aset keuangan adalah aset yang dijadikan penanaman modal untuk aset tetap atau tidak tetap ke badan usaha atau perusahaan lain dapat menghasilkan prospek jangka panjang di masa depan. 
+
+Semua alokasi dana investasi ini dapat memberikan keuntungan bagi bisnis ketika return of investment sudah diraih.
 
 Aset adalah kepemilikan yang bisa digunakan untuk modal dalam berinvestasi. Misalnya, contoh aset adalah uang cash yang dapat digunakan untuk meniti bisnis yang bisa menghasilkan keuntungan di masa depan. 
 
