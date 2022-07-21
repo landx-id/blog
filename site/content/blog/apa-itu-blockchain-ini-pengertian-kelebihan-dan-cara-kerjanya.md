@@ -9,7 +9,7 @@ metaDescription: Teknologi blockchain adalah database tempat menyimpan transaksi
 intro: >-
   Teknologi blockchain adalah database tempat menyimpan transaksi
   cryptocurrency. Contoh penerapan teknologi blockchain di Indonesia mencakup
-  sektor finansial, makanan buah segar, hingga investasi emas digital.
+  sektor finansial, makanan buah segar, hingga investasi emas digital..
 
 
   Karena itu, yuk kita bahas lebih lanjut tentang apa itu blockchain dan bagaimana cara kerja blockchain ini.
