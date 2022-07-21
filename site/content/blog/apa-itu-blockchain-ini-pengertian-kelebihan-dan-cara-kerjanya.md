@@ -52,28 +52,38 @@ Selain itu, blockchain juga merupakan sebuah sistem yang aman dan terproteksi da
 
 Selanjutnya, semua transaksi yang terjadi dalam blok akan divalidasi dan disetujui oleh mekanisme konsensus, memastikan bahwa setiap transaksi sudah benar dan tepat.
 
+## Cara Kerja Blockchain
+
+Membahas tentang bitcoin tentu akan lepas dari membicarakan teknologi blockchain. Kamu tahu nggak apa hubungannya teknologi blockchain sama kripto? Terus gimana sih cara kerja teknologi blockchain. Teknologi blockchain adalah sistem yang menyimpan data transaksi mata uang digital, sistem ini tidak dikelola oleh pihak ketiga seperti bank melainkan dapat dikelola oleh semua pengguna komputer internet.
+
+Tujuan dari blockchain adalah untuk memungkinkan informasi digital direkam dan didistribusikan, tetapi tidak bisa diedit. Lalu bagaimana jika perlu merubah data? Bagaimana cara kerja blockchain? Berikut langkah proses cara kerja teknologi blockchain.
+
+1. Blockchain terdiri serangkaian transaksi yang dikelompokkan ke dalam blok blok-blok. 
+2. Blok-blok ini saling terhubung melalui kode enkripsi yang membuat data tersimpan secara aman serta mencegah seseorang merubah rantai blok. Sebuah blok terdiri dari data (nama pengirim, jumlah, nama penerima), kode enkripsi baru, dan kode lama.
+3. Bagaimana jika suatu data dalam blok membutuhkan perubahan? Maka data akan disetor sebagai blok baru dengan mencatut kode enkripsi blok lama. Data tetap tersimpan dan tidak terlihat karena diwakilkan oleh kode enkripsi acak.
+4. Hubungan rantai-rantai blok ini membentuk ledger (buku besar). Sistem ledger mengacu pada cara pencatatan akuntansi dalam mengompilasi setiap transaksi sehingga tidak dapat diubah.
+5. Ledger dapat bersifat publik maupun pribadi atau tertutup. Ledger yang bersifat publik membuat siapapun dapat melihat semua riwayat transaksi secara lengkap. Karena karakteristik blockchain yang desentralisasi, membuat blok dapat diakses oleh setiap pengguna komputer dengan internet (P2P) dari seluruh dunia.
+6. Setiap rantai blok dari blockchain akan mencatat setiap transaksi atau perpindahan bitcoin dari satu pengguna ke pengguna lainnya tanpa perlu bantuan pihak ketiga.
+
 ## Karakteristik Blockchain
+
+Setelah mengetahui cara kerja teknologi blockchain maka, dapat terlihat karakteristik dari teknologi blockchain ini. Untuk lebih mudah, LandX rangkum karakteristik teknologi blockchain sebagai berikut.
 
 ### 1. Tidak Bisa Diubah (Immutable)
 
-Salah satu karakteristik blockchain adalah datanya yang berisifat abadi dan tidak bisa diubah karena sistem desentralisasi yang menyebabkan pengubahan harus dilakukan di semua komputer sehingga tidak mungkin untuk dilakukan. Oleh sebab itu, blockchain tidak bergantung atau dikendalikan oleh satu orang saja.
+Setiap data transaksi yang masuk ke blockchain adalah berbentuk blok. Setiap data terlindungi oleh kode unik berupa kode enkripsi (acak) hasil sistem kriptografi.
+
+Sistem ini menyebabkan pengubahan data tidak mungkin untuk dilakukan oleh siapapun dan membuat tingkat keamanannya meningkat.
 
 ### 2. Hanya Bisa Ditambahkan (Append Only)
 
-Sistem blockchain tidak memungkinkan adanya perubahan dan penghapusan karena sistem ini hanya bisa melakukan penambahan data saja sehingga sistem lebih aman.
+Sistem blockchain tidak memungkinkan adanya perubahan dan penghapusan karena sistem ini hanya bisa melakukan penambahan data saja sehingga sistem lebih aman. 
+
+Setiap data dalam sistem teknologi blockchain berisifat abadi dan tidak bisa diubah karena sistem desentralisasi atau pihak ketiga. Sehingga apabila terjadi perpindahan transaksi sehingga membutuhkan perubahan data maka, data transaksi baru akan dicatat sebagai blok baru. Sehingga menciptakan rantai blok baru.
 
 ### 3. Ledger
 
 Ledger atau Distributed Ledger Technology (DLT) merupakan sistem atau protokol digital yang menjadikan data berbasis desentralisasi menjadi lebih aman karena tersimpan menggunakan kriptografi. Sistem ini meningkatan keamanan data sehingga lebih sulit untuk ditembus pihak-pihak yang tidak diinginkan.
-
-## Cara Kerja Blockchain
-
-Setelah mengetahui definisi Blockchain, tentu kamu penasaran bagaimana cara kerja buku besar virtual ini. Berikut MinLand sajikan cara kerja Blockchain dalam kasus transaksi Bitcoin:
-
-1. Semua transaksi bitcoin dimasukkan dan ditransmisikan ke jaringan komputer yang kuat dan aman. Jaringan tersebut dikenal sebagai node.
-2. Selanjutnya, jaringan dari ribuan node di seluruh dunia ini kemudian bersaing untuk mengkonfirmasi transaksi menggunakan algoritma komputer. Proses ini dikenal sebagai penambangan. Penambang yang pertama kali berhasil menyelesaikan blok baru akan dibayar dengan bitcoin.
-3. Setelah pembelian dikonfirmasi secara kriptografis, penjualan akan dicatat dalam blok. Mayoritas jaringan kemudian harus mengkonfirmasi penjualan. Proses ini sering disebut dengan “bukti kerja.”
-4. Blok tersebut kemudian akan dirantai secara permanen ke semua blok transaksi bitcoin sebelumnya, menggunakan sidik jari kriptografi yang dikenal sebagai hash, dan penjualan selesai.
 
 ## Perbedaan Blockchain dan Cryptocurrency
 
@@ -85,7 +95,9 @@ Jadi bisa dibilang blockchain merupakan teknologinya dan cryptocurrency merupaka
 
 ## Kelebihan Blockchain
 
-Setelah mengetahui tentang cara kerja, tentu kamu penasaran kenapa sih Blockchain menjadi populer? Dan mengapa banyak orang percaya dengan sistem ini padahal kan gak ada bentuknya sama sekali? Untuk menjawabnya, ada tiga hal utama membuat Blockchain bisa dipercaya saat ini. Berikut ini ulasannya:
+Setelah mengetahui tentang cara kerja, tentu kamu penasaran kenapa sih blockchain menjadi populer? Dan mengapa banyak orang percaya dengan sistem ini padahal kan gak ada bentuknya sama sekali? 
+
+Untuk menjawabnya, ada tiga hal utama membuat teknologi blockchain bisa dipercaya saat ini, berikut ulasannya:
 
 ### 1. Desentralisasi
 
@@ -101,7 +113,7 @@ Dalam buku besar terdistribusi ini, hanya kamu yang bertanggung jawab terhadap d
 
 ### 2. Transparansi
 
-Transparansi -- yang tentunya tanpa melanggar privasi -- adalah salah satu nilai plus dalam Blockchain.
+Transparansi -- yang tentunya tanpa melanggar privasi -- adalah salah satu nilai plus dalam blockchain.
 
 Semua transaksi dalam blockchain bisa kita lihat tanpa sekat. Jika begitu, bagaimana dengan privasi pengguna? Tenang dulu. Dalam proses ini, setiap identitas pengguna akan disamarkan oleh sebuah sistem bernama kriptografi.
 
@@ -119,9 +131,25 @@ Selain memangkas waktu, blockchain juga berguna untuk mengurangi biaya. Pasalnya
 
 Selain itu, kamu juga tidak perlu ribet dengan urusan administrasi yang terkadang memakan dana yang besar. Pasalnya, dengan blockchain, tidak ada syarat rumit yang terkadang melelahkan secara finansial dan waktu.
 
+## Penggunaan teknologi blockchain di Indonesia
+
+Penggunaan teknologi blockchain dipercaya dapat meningkatkan efisiensi perusahaan terutama bidang operasional. Perusahaan-perusahaan di Indonesia mulai mengadopsi teknologi  blockchain ini dari berbagai sektor.
+
+* **Sektor Finansial**
+
+Pelaku sistem blockchain dalam cryptocurrency di Indonesia semakin meningkat jumlahnya. Memberi akses pada peningkatan jumlah investor kripto di Indonesia dan mendukung revolusi industri 4.0. 
+
+* **Sektor Makanan Buah Segar**
+
+Perusahaan terkemuka di bidang distribusi buah segar yaitu Sunpride telah mengimplementasikan teknologi blockchain traceability. Tujuan digunakannya teknologi untuk menelusuri setiap tahapan untuk menjamin kualitas produknya terkhusus buah pisang mas hingga sampai ke tangan pelanggan. 
+
+* **Sektor Komoditas – Emas Digital**
+
+Kehadiran token emas digital di marketplace teknologi blockchain di Indonesia Tokocrypto membuka cara baru investasi emas. Harga emas digital token bernama DGX ini mewakili harga asli emas. Sehingga membuat investor emas digital tak perlu menyimpan emas asli dan khawatir kehilangan. Serta dapat dicairkan dengan harga yang setara harga emas di pasaran.
+
 ## Blockchain untuk Sistem Investasi
 
-Itulah artikel tentang Blockchain, dari cara kerja sampai kelebihannya. Meskipun tidak terlalu lengkap, setidaknya kamu sudah mengerti secara sekilas tentang sistem ini. Apalagi bagi kamu yang mulai berinvestasi kripto, mengerti tentang blockchain tentu akan menjadi nilai tambah.
+Itulah artikel tentang teknologi blockchain, dari cara kerja sampai kelebihannya. Meskipun tidak terlalu lengkap, setidaknya kamu sudah mengerti secara sekilas tentang sistem ini. Apalagi bagi kamu yang mulai berinvestasi kripto, mengerti tentang blockchain tentu akan menjadi nilai tambah.
 
 Akan tetapi, kamu harus paham bahwa setiap investasi memiliki risiko
 
