@@ -48,48 +48,59 @@ Oleh sebab itu, ekuitas atau equity dalam akuntansi adalah selisih dari aset dan
 
 Oleh sebab itu, nilai ekuitas ini mungkin saja negatif apabila liabilitas lebih besar dibandingkan aset yang dimiliki oleh perusahaan sehingga perusahaan mengalami defisit. Karena itu, ekuitas dan liabilitas adalah dua hal yang saling berkaitan satu sama lain. 
 
-## Jenis dan Unsur Ekuitas
+## Unsur Ekuitas
 
-Dalam akuntansi, terdapat beberapa jenis ekuitas yang penting untuk kamu pahami, berikut beberapa jenis ekuitas:
-
-### Unsur Ekuitas
-
-#### 1. Modal Disetor
+### 1. Modal Disetor
 
 Modal disetor adalah modal yang ditanamkan oleh para investor yang biasanya mendapatkan saham sesuai dengan jumlah modal yang mereka tanamkan. Modal ini terbagi ke dalam dua jenis yaitu modal saham dan agio/ disagio saham.
 
 Modal saham adalah jumlah/ nominal saham yang beredar. Sedangkan agio/ disagio merupakan selisih dari setoran saham dengan nominal saham yang beredar. Unsur ekuitas ini penting untuk kamu pahami karena saham agio dan disagio bisa menjadi salah satu poin yang perlu kamu perhatikan saat membaca laporan keuangan.
 
+
+
+- - -
+
 **Artikel Terkait:**
 
 * **[Agio dan Disagio dalam Saham](https://landx.id/blog/kenali-apa-itu-agio-saham-dalam-investasi/)**
-* [Investor Pemula Wajib Tau, Berbagai Jenis dan Risiko Obligasi](https://landx.id/blog/apa-itu-obligasi/)
+* **[Investor Pemula Wajib Tau, Berbagai Jenis dan Risiko Obligasi](https://landx.id/blog/apa-itu-obligasi/)**
 
-#### 2. Laba Ditahan
+- - -
+
+### 2. Laba Ditahan
 
 Laba ditahan merupakan keuntungan didapatkan oleh perusahaan tapi belum dibagikan kepada investor/ pemegang saham karena berbagai alasan sehingga perusahaan menjadi uang ini sebagai ekuitas cadangan.
 
 Dalam konteks perusahaan terbuka, laba ditahan diputuskan dalam RUPS yang untuk mengambil keputusan apakah keuntungan akan dibagikan melalui dividen atau tidak. Akan tetapi, biasanya modal ini dijadikan sebagai cadangan modal saja karena pada dasarnya modal ini merupakan hak para investor.
 
+
+
+- - -
+
 **Artikel Terkait:**
 
 * **[Memahami Konsep Laba Ditahan](https://landx.id/blog/beda-antara-laba-ditahan-dan-laba-tahun-berjalan/)**
+* **[Liabilitas Adalah Penentu Masa Depan Perusahaan, Ini Penjelasannya](https://landx.id/blog/liabilitas-adalah-penentu-masa-depan-perusahaan-ini-penjelasannya/)[!](https://landx.id/blog/liabilitas-adalah-penentu-masa-depan-perusahaan-ini-penjelasannya/)**
 
-#### 3. Modal Penilaian Kembali
+- - -
+
+### 3. Modal Penilaian Kembali
 
 Perusahaan biasanya akan melakukan penilaian ulang aset-aset yang mereka miliki sehingga akan membuat perubahan nilai dari neraca perusahaan. Hal ini sering kali terjadi karena adanya selisih antara nilai aset saat ini dari sebelumnya.
 
 Hal ini karena suatu aset mungkin saja mengalami kenaikan harga atau mengalami penyusutan seiring berjalannya waktu. Contohnya adalah aset properti yang nilainya cenderung meningkat dari waktu ke waktu.
 
-#### 4. Modal Sumbangan
+### 4. Modal Sumbangan
 
 Modal sumbangan merupakan ekuitas yang didapatkan dari sumbangan pihak lain kepada perusahaan. Karena sumbangan dari berbagai merupakan salah satu sumber aktiva bagi suatu perusahaan.
 
-#### 5. Modal Lain-Lain
+### 5. Modal Lain-Lain
 
 Modal lainnya merupakan modal-modal yang berasal dari berbagai sumber cadangan modal seperti modal yang disiapkan untuk ekspansi bisnis, modal untuk pelunasan obligasi, cadangan modal untuk menghadapi penurunan harga, atau berbagai jenis cadangan modal lain yang disiapkan oleh perusahaan.
 
-### Jenis Ekuitas
+## Jenis-jenis Ekuitas
+
+Dalam akuntansi, terdapat beberapa jenis ekuitas yang penting untuk kamu pahami, berikut beberapa jenis ekuitas. 
 
 Seperti yang kita sudah bahas sebelumnya, ekuitas menjadi salah satu acuan yang digunakan untuk menilai kinerja suatu perusahaan sehingga banyak dilibatkan dalam perhitungan rasio keuangan.
 
