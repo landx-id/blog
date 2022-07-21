@@ -71,9 +71,9 @@ Modal saham adalah jumlah atau nominal saham yang beredar. Sedangkan agio saham 
 
 ### 2. Laba Ditahan
 
-Laba ditahan merupakan keuntungan didapatkan oleh perusahaan tapi belum dibagikan kepada investor/ pemegang saham karena berbagai alasan sehingga perusahaan menjadi uang ini sebagai ekuitas cadangan.
+Laba ditahan merupakan keuntungan didapatkan oleh perusahaan tapi belum dibagikan kepada investor atau pemegang saham karena berbagai alasan sehingga perusahaan menjadi uang ini sebagai ekuitas cadangan.
 
-Dalam konteks perusahaan terbuka, laba ditahan diputuskan dalam RUPS yang untuk mengambil keputusan apakah keuntungan akan dibagikan melalui dividen atau tidak. Akan tetapi, biasanya modal ini dijadikan sebagai cadangan modal saja karena pada dasarnya modal ini merupakan hak para investor.
+Dalam konteks perusahaan terbuka, laba ditahan adalah keputusan yang dibuat dalam RUPS yang untuk mengambil keputusan apakah keuntungan akan dibagikan melalui dividen atau tidak. Akan tetapi, biasanya modal ini dijadikan sebagai cadangan modal saja karena pada dasarnya modal ini merupakan hak para investor.
 
 
 
@@ -88,7 +88,7 @@ Dalam konteks perusahaan terbuka, laba ditahan diputuskan dalam RUPS yang untuk 
 
 ### 3. Modal Penilaian Kembali
 
-Perusahaan biasanya akan melakukan penilaian ulang aset-aset yang mereka miliki sehingga akan membuat perubahan nilai dari neraca perusahaan. Hal ini sering kali terjadi karena adanya selisih antara nilai aset saat ini dari sebelumnya.
+Perusahaan biasanya akan melakukan penilaian ulang aset-aset yang mereka miliki sehingga akan membuat perubahan nilai dari neraca perusahaan dalam laporan perubahan ekuitas. Hal ini sering kali terjadi karena adanya selisih antara nilai aset saat ini dari sebelumnya.
 
 Hal ini karena suatu aset mungkin saja mengalami kenaikan harga atau mengalami penyusutan seiring berjalannya waktu. Contohnya adalah aset properti yang nilainya cenderung meningkat dari waktu ke waktu.
 
@@ -120,7 +120,7 @@ Karena itu, ekuitas ini menjadi perhitungan yang sangat diperhatikan apabila kam
 
 #### 3. Ekuitas Pemilik Perusahaan
 
-Ekuitas pemilik perusahaan pada dasarnya hampir sama seperti ekuitas pemegang saham namun ekuitas ini digunakan untuk perusahaan privat yang sahamnya tidak terbuka kepada publik. Oleh sebab itu, dalam bisnis privat keuntungan masuk ke dalam ekuitas dari pemilik usaha.
+Pada perusahaan, ekuitas pemilik adalah hal yang dasarnya hampir sama seperti ekuitas pemegang saham. Namun, ekuitas pemilik adalah ekuitas yang digunakan untuk perusahaan privat yang sahamnya tidak terbuka kepada publik. Oleh sebab itu, dalam bisnis privat keuntungan masuk ke dalam ekuitas dari pemilik usaha.
 
 #### 4. Pembiayaan Ekuitas
 
