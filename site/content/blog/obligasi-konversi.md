@@ -14,7 +14,7 @@ intro: >-
 
 
   Jenis obligasi ini bisa menjadi pilihan instrumen investasi yang bisa memberikan anda keuntungan. Karena itu mari kita bahas lebih lanjut apa itu obligasi konversi.
-date: 2021-06-09T04:23:44.000Z
+date: 2022-07-21T04:23:00.000Z
 tag:
   - Obligasi
   - Instrumen Investasi
