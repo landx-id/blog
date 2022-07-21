@@ -6,30 +6,25 @@ title: Apakah Ekuitas Adalah Modal? Pelajari Apa itu dan Jenis Ekuitas
 metaTitle: "Apa Itu Ekuitas Adalah Modal: Arti, Jenis dan Perhitungan Ekuitas"
 metaDescription: Apa itu ekuitas adalah modal yang didapatkan dari perhitungan
   ekuitas atau hasil aset perusahaan yang sudah dikurangi dengan liabilitas.
-intro: >-
-  Apa itu ekuitas adalah modal yang didapatkan dari perhitungan ekuitas atau
-  hasil aset perusahaan yang sudah dikurangi dengan liabilitas.Berbicara tentang
-  ekuitas kamu pasti sering mendengar istilah ini dalam kehidupan sehari-hari
-  terutama untuk kamu yang berkecimpung di dunia keuangan.
-
-
-  Karena itu, kita bahas secara mendalam tentang apa itu ekuitas dan unsur-unsurnya.
-date: 2022-02-03T14:42:35.416Z
+intro: Apa itu ekuitas adalah modal yang didapatkan dari perhitungan ekuitas
+  atau hasil aset perusahaan yang sudah dikurangi dengan liabilitas atau
+  kewajiban. Mari kita bahas secara mendalam tentang apa itu ekuitas dan
+  unsur-unsurnya.
+date: 2022-07-21T05:44:00.000Z
 tag:
   - rasio keuangan
   - investasi saham
   - tips investasi
 featuredImage:
   src: https://images.unsplash.com/photo-1560518883-ce09059eeffa?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxMTc3M3wwfDF8c2VhcmNofDEwfHxpbnZlc3RtZW50fGVufDB8fHx8MTY0MDE0ODgzMA&ixlib=rb-1.2.1&q=80&w=1080
-  alt: Memahami apa yang dimaksud dengan ekuitas
-  title: "Ekuitas Adalah: Memahami Apa itu Ekuitas Beserta Jenis, Unsur, dan
-    Contohnya"
+  alt: Memahami apa itu ekuitas
+  title: Apa itu ekuitas adalah modal perusahaan dan memahami jenis ekuitas
 image: https://images.unsplash.com/photo-1560518883-ce09059eeffa?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxMTc3M3wwfDF8c2VhcmNofDEwfHxpbnZlc3RtZW50fGVufDB8fHx8MTY0MDE0ODgzMA&ixlib=rb-1.2.1&q=80&w=1080
 category:
   - Keuangan
   - Investasi
 ---
-Berbicara tentang ekuitas kamu pasti sering mendengar istilah ini dalam kehidupan sehari-hari terutama untuk kamu yang berkecimpung di dunia keuangan.
+Berbicara tentang apa itu ekuitas, kamu pasti sering mendengar istilah ini dalam kehidupan sehari-hari terutama untuk kamu yang berkecimpung di dunia keuangan. Apa itu ekuitas adalah modal yang didapatkan dari perhitungan ekuitas atau hasil aset perusahaan yang sudah dikurangi dengan liabilitas atau kewajiban.
 
 Ekuitas adalah hak kepemilikan atas suatu aset yang sudah dikurangi dengan liabilitas atau berbagai kewajiban harus dikeluarkan.
 
