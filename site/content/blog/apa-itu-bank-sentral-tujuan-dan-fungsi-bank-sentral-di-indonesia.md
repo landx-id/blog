@@ -16,7 +16,7 @@ category:
   - Bisnis
   - Investasio
 featuredImage:
-  src: https://cdn0-production-images-kly.akamaized.net/AVBQ9bsAfpx3H1lAtHLIENMkS1I=/640x360/smart/filters:quality(75):strip_icc():format(jpeg)/kly-media-production/medias/712414/original/ilustrasi-BI-2-140722-1-andri.jpg
+  src: https://images.unsplash.com/photo-1502920514313-52581002a659?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1167&q=80
   alt: "Apa itu bank sentral "
   title: Fungsi Bank Sentral di Indonesia
 ---
