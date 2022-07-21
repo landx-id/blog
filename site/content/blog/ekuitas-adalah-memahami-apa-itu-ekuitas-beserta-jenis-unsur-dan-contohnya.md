@@ -1,15 +1,16 @@
 ---
-draft: false
+draft: true
 author: Abdul Wahhab
 slug: ekuitas-adalah-memahami-apa-itu-ekuitas-beserta-jenis-unsur-dan-contohnya
-title: "Ekuitas Adalah: Memahami Apa itu Ekuitas Beserta Jenis, dan Unsur"
-metaTitle: "Ekuitas Adalah: Memahami Apa itu Ekuitas Beserta Jenis, dan Unsur"
-metaDescription: Ekuitas adalah hak kepemilikan atas aset yang sudah dikurangi
-  dengan liabilitas dan berbagai kewajiban, berikut jenis dan unsur-unsur
-  ekuitas
+title: Apakah Ekuitas Adalah Modal? Pelajari Apa itu dan Jenis Ekuitas
+metaTitle: "Apa Itu Ekuitas Adalah Modal: Arti, Jenis dan Perhitungan Ekuitas"
+metaDescription: Apa itu ekuitas adalah modal yang didapatkan dari perhitungan
+  ekuitas atau hasil aset perusahaan yang sudah dikurangi dengan liabilitas.
 intro: >-
-  Berbicara tentang ekuitas kamu pasti sering mendengar istilah ini dalam
-  kehidupan sehari-hari terutama untuk kamu yang berkecimpung di dunia keuangan.
+  Apa itu ekuitas adalah modal yang didapatkan dari perhitungan ekuitas atau
+  hasil aset perusahaan yang sudah dikurangi dengan liabilitas.Berbicara tentang
+  ekuitas kamu pasti sering mendengar istilah ini dalam kehidupan sehari-hari
+  terutama untuk kamu yang berkecimpung di dunia keuangan.
 
 
   Karena itu, kita bahas secara mendalam tentang apa itu ekuitas dan unsur-unsurnya.
