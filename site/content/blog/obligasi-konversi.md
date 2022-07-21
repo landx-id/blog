@@ -39,11 +39,11 @@ Lalu mengapa obligasi konversi adalah pilihan instrumen investasi yang menguntun
 
 Apa itu obligasi konversi adalah jenis surat utang yang memungkinkan pemiliknya untuk mengkonversi surat utang yang mereka miliki menjadi saham di perusahaan penerbit obligasi sesuai dengan rasio penukaran yang sudah disepakati sebelumnya.
 
-Surat utang jenis ini biasanya cenderung memiliki tingkat bunga yang rendah karena keunggulan yang diberikan yaitu kemudahan untuk diubah menjadi bukti kepemilikan berupa saham.
+Obligasi konversi adalah jenis surat utang yang biasanya cenderung memiliki tingkat bunga yang rendah karena keunggulan yang diberikan yaitu kemudahan untuk diubah menjadi bukti kepemilikan berupa saham.
 
 ## Cara Kerja Obligasi Konversi
 
-Pemegang surat utang jenis obligasi konversi diberikan pilihan untuk mengubah surat utang yang mereka miliki menjadi saham yang rasionya  sudah ditentukan sebelumnya.
+Pemegang surat utang jenis obligasi konversi adalah seseorang yang diberikan pilihan untuk mengubah surat utang yang mereka miliki menjadi saham yang rasionya  sudah ditentukan sebelumnya.
 
 Hal ini akan menguntungkan perusahaan penerbit karena bunga konversi yang jenis ini cenderung lebih rendah akan tetapi, hal ini juga bisa menyebabkan dilusi saham karena penurunan kepemilikan saham saat pemilik surat utang melakukan konversi.
 
