@@ -9,7 +9,7 @@ intro: Inflasi adalah keadaan perekonomian negara di mana ada kecenderungan
   kenaikan harga-harga dan jasa dalam periode waktu panjang yang pastinya
   berdampak bagi masyakat. Untuk itu, Anda perlu memahami pengertian dan
   konsepnya agar Anda bisa melakukan persiapan menghadapi inflasi.
-date: 2022-05-30T16:23:06.058Z
+date: 2022-07-22T05:06:39.433Z
 tag:
   - Laju Inflasi
   - Inflasi
@@ -18,6 +18,7 @@ tag:
 category:
   - Investasi
   - Keuangan
+  - Ekonomi
 featuredImage:
   src: https://images.unsplash.com/photo-1627155596311-c90f02e25402?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80
   alt: Pengertian Inflasi dan Konsep Inflasi
