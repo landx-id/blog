@@ -1,7 +1,7 @@
 ---
 draft: true
 author: Rafa Syawalia S
-title: "Memahami Apa Itu Valuta Asing: Pengertian, Fungsi, dan Transaksi Valas"
+title: "Memahami Apa Itu Valuta Asing: Pengertian, Fungsi dan Transaksi Valas"
 metaTitle: "Apa Itu Valuta Asing Adalah: Arti, Fungsi dan Jenis-jenis Valas"
 metaDescription: "Apa itu valuta asing adalah mata uang yang mudah digunakan dan
   diterima dalam dunia perdagangan internasional. "
