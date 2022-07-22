@@ -1,5 +1,5 @@
 ---
-draft: true
+draft: false
 author: Rafa Syawalia R
 title: "Apa itu Securities Crowdfunding: Cara Kerja & Keuntungan Crowdfunding"
 metaTitle: "Securities Crowdfunding Adalah: Apa Itu Crowdfunding Fintech"
