@@ -1,5 +1,5 @@
 ---
-draft: true
+draft: false
 author: Della Octavilia
 title: Apa Itu Return? Pengertian Hingga Cara Menghitung Return Saham
 metaTitle: Apa Itu Return? Pengertian Hingga Cara Menghitung Return Saham | LandX
