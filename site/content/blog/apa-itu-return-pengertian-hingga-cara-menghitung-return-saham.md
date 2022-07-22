@@ -9,6 +9,13 @@ intro: Dalam dunia investasi pasti sudah sering terdengar istilah return. Apa
   itu return? Return investasi adalah imbal hasil atau keuntungan yang akan
   diterima para investor atas investasinya.
 date: 2022-07-20T09:37:44.561Z
+tag:
+  - Return on Investment
+  - ROI
+  - Investasi untuk Pemula
+category:
+  - Investasi
+  - Bisnis
 featuredImage:
   title: Apa Itu Return? Pengertian Hingga Cara Menghitung Return Saham
   alt: Apa Itu Return, Cara Menghitung Return Saham
@@ -138,7 +145,11 @@ Berikut ini cara menghitung return saham yang dapat dilakukan para investor untu
 
 Rumus menghitung return saham adalah:
 
-![rumus menghitung return saham](img/rumus-menghitung-harga-saham.png "rumus menghitung return saham")
+<!--StartFragment-->
+
+![](blob:https://keen-mestorf-9781e3.netlify.app/b4e82bf3-9d46-422d-addc-97d243e03fe1)
+
+<!--EndFragment-->
 
 Contoh kasus perhitungan return saham:
 
@@ -183,4 +194,10 @@ Salah satu platform equity crowdfunding dengan market cap terbesar di Indonesia 
 
 Melalui LandX, kamu bisa menjadi bos cuan hanya dengan modal mulai Rp1.000.000 saja!
 
-### Ingin Mendapat Return Investasi? Download Aplikasi LandX dan Danai Bisnisnya Sekarang Juga!
+### I[ngin Mendapat Return Investasi? Download Aplikasi LandX dan Danai Bisnisnya Sekarang Juga!](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)
+
+<!--StartFragment-->
+
+[![Bagaimana? Kamu lebih suka bisnis dengan buyback guarantee atau yang bisa disimpan dalam jangka panjang? Apapun pilihan kamu.. Yuk Patungan  dengan Keuntungan Menjanjikan Bareng LandX](https://accountgram-production.sfo2.cdn.digitaloceanspaces.com/landx_ghost/2021/10/Equity-Crowdfunding-di-Indonesia-1--3.png)](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)
+
+<!--EndFragment-->
