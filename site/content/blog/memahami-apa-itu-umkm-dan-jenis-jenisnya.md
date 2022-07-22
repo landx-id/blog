@@ -46,7 +46,7 @@ Oleh sebab itu bisnis ini menjadi salah satu sektor yang harus terus dikembangka
 
 ## Perbedaan UMKM dan UKM
 
-Dilansir dari Undang-Undang Nomor 20 Tahun 2008 tentang usaha, mikro, kecil, dan menengah, terdapat perbedaan dari ciri-ciri dan bentuk pengelolaan badan usahanya. Penjelasan ini adalah jenis-jenis UMKM dan UKM berdasarkan kategorinya.
+Dilansir dari Undang-Undang Nomor 20 Tahun 2008 tentang usaha, mikro, kecil, dan menengah, terdapat perbedaan dari ciri-ciri dan bentuk pengelolaan badan usahanya. Ini dia penjelasan lebih lanjut tentang adalah jenis-jenis UMKM dan UKM ber
 
 ### 1. Ciri-ciri UMKM
 
