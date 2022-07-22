@@ -1,5 +1,5 @@
 ---
-draft: true
+draft: false
 author: Della Octavilia
 title: "Derivatif Adalah: Definisi, Jenis, dan Risiko Transaksi Derivatif"
 metaTitle: "Derivatif Adalah: Definisi, Jenis, dan Risiko Transaksi Derivatif"
