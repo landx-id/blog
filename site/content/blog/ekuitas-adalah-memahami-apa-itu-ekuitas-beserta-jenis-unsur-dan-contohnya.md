@@ -1,5 +1,5 @@
 ---
-draft: true
+draft: false
 author: Abdul Wahhab
 slug: ekuitas-adalah-memahami-apa-itu-ekuitas-beserta-jenis-unsur-dan-contohnya
 title: Apakah Ekuitas Adalah Modal? Pelajari Apa itu dan Jenis Ekuitas
