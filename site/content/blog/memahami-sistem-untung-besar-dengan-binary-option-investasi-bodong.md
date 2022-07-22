@@ -26,8 +26,6 @@ featuredImage:
     terutama bagi kamu yang masih awam soal forex
   src: https://images.unsplash.com/photo-1620714223084-8fcacc6dfd8d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1171&q=80
 ---
-Memahami Sistem Untung Besar dengan Binary Option yang Sebenarnya Investasi Bodong
-
 Binary option atau opsi biner kini jadi perbincangan para trader saham pemula yang mudah di iming-imingi hasil besar yang high risk, high reward. Sudahkan Anda memahami apa itu binary option? Yuk, pahami mekanisme dan risiko di opsi biner dalam mencapai untung besar.
 
 ## Apa Itu Binary Option dan Sistemnya
@@ -63,7 +61,9 @@ Bebeberapa platform binary option yang populer dan harus Anda waspadai ada Binom
 
 Hal ini mirip pada saat Anda dan teman-teman Anda betting atau menebak apakah akan terjdi gol dalam sebuah pertandingan bola. Ketika benar menebak, Anda menerima sejumlah uang namun pada saat salah maka Anda akan kehilangan seluruh uang yang Anda taruhkan.
 
-## Binary Option Bukanlah Investasi ataupun Trading
+## Perbedaan **Trading dan** Binary Op**tion**
+
+**Binary option bukanlah trading ataupun investasi.**
 
 Perlu dipahami kembali pemahaman terhadap investasi. Investasi menurut investopedia adalah bagaimana kita menaruh aset yang dimiliki untuk seiring waktu bisa generate income yang berguna bagi kesejahteraan di masa depan. 
 
@@ -71,17 +71,19 @@ Sedangkan pada binary option, Anda akan dihadapkan pada dua pilihan untuk meneba
 
 Walaupun setiap investasi memiliki risiko, tetapi terdapat harapan positif untuk return. Namun, pada binary option karena yang dilakukan adalah menebak antara dua pilihan yang akan benar atau salah maka kita dibuat harus memiliki ekspektasi terhadap hasil negatif atau rugi.
 
-Ini berarti definisi binary option sudah keluar dari bagian definisi investasi.
+**Ini berarti definisi binary option sudah keluar dari bagian definisi investasi.**
 
 Trading binary option tidak sejalan dengan bentuk trading saham yang kita tahu selama ini. Dalam pasar saham, seorang trader memiliki kekuasaan penuh terhadap kapan harus membeli, seberapa lam harus menahan, dan kapan harus dijual kembali untuk mendapatkan profit gain.
 
 Namun, pada sistem binary option hal ini tidak terjadi. Pada binary option, Anda akan dihadapkan pada pilihan naik atau turun yang harus ditebak dalam jangka waktu yang singkat, misal 5 menit. Hal ini membuat Anda tidak memiliki untuk mempelajari bisnis tersebut dan terkesan berjudi.
 
-Apakah ada broker binary option yang legal di Indonesia? Seiring pemblokiran domain-domain binary option di Indonesia, ini berarti tidak ada broker binary option yang legal di Indonesia karena praktik ini melanggar undang-undang.
+### Apakah ada broker binary option yang legal di Indonesia? 
 
-Terdapat berbagai kasus affiliator binary option yang membuat korbannya menjerit karena kehilangan ratusan juta jumlah kekayaan. Para affiliator binary option umumnya memamerkan kekayaan mereka seperti moge dan barang mewah dituding sebagai affiliator yang melakukan penipuan. 
+Seiring pemblokiran domain-domain binary option di Indonesia, ini berarti tidak ada broker binary option yang legal di Indonesia karena praktik ini melanggar undang-undang.
 
-Penipuan affiliator binary option ini dikabarkan dilakukan dengan cara memberikan info menyimpang dari cara trading yang benar dan meraup keuntungan apabila korbannya merugi di broker binary option. Biasanya trading binary option ini berkedok forex atau indeks saham atau binary forex dalam praktiknya.
+Terdapat berbagai **kasus affiliator binary option** yang membuat korbannya menjerit karena kehilangan ratusan juta jumlah kekayaan. Para affiliator binary option adalah umumnya memamerkan kekayaan mereka seperti moge dan barang mewah dituding sebagai affiliator yang melakukan penipuan. 
+
+**Penipuan affiliator binary option** ini dikabarkan dilakukan dengan cara memberikan info menyimpang dari cara trading yang benar dan meraup keuntungan apabila korbannya merugi di broker binary option. Biasanya trading binary option ini berkedok forex atau indeks saham atau binary forex dalam praktiknya.
 
 - - -
 
