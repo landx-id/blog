@@ -90,19 +90,19 @@ Rumus rasio solvabilitas jenis ini sering kali menjadi acuan bagi kreditur dalam
 
 Rumus rasio solvabilitas debt to equity ratio dihitung menggunakan rumus sebagai berikut:
 
-![Cara menghitung rumus rasio solvabilitas yang sangat penting untuk investasi](img/rumus-rasio-solvabilitas-debt-to-equity.png "Rasio Total Utang terhadap Total Modal (Debt-to-Equity Ratio)")
+![Cara menghitung rumus rasio solvabilitas yang sangat penting untuk investasi](https://cdn.discordapp.com/attachments/905280638955962378/999547371249741894/rumus-rasio-solvabilitas-debt-ratio.png "Rasio Total Utang terhadap Total Modal (Debt-to-Equity Ratio)")
 
 ### 2. Rasio Total Utang terhadap Total Asset (Debt Ratio)
 
 Rumus rasio solvabilitas jenis debt ratio dihitung menggunakan rumus berikut:
 
-![rumus solvabilitas debt ratio](img/rumus-rasio-solvabilitas-debt-ratio.png "rumus solvabilitas debt ratio yang sangat penting untuk dianalisis saat berinvestasi")
+![rumus solvabilitas debt ratio](https://cdn.discordapp.com/attachments/905280638955962378/999547371530768444/rumus-rasio-solvabilitas-debt-to-equity.png "rumus solvabilitas debt ratio yang sangat penting untuk dianalisis saat berinvestasi")
 
 ### 3. Time Interest-Earned Ratio
 
 Time interest-earned ratio dihitung menggunakan rumus rasio solvabilitas sebagai berikut:
 
-![rumus rasio solvabilitas time earned ratio](img/rumus-rasio-solvabilitas-time-interest-rate.png "menghitung rasio solvabilitas jenis Time Interest-Earned Ratio")
+![rumus rasio solvabilitas time earned ratio](https://cdn.discordapp.com/attachments/905280638955962378/999547371832742008/rumus-rasio-solvabilitas-time-interest-rate.png "menghitung rasio solvabilitas jenis Time Interest-Earned Ratio")
 
 ## Manfaat Rasio Solvabilitas
 
