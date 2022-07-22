@@ -10,6 +10,14 @@ intro: "Instrumen keuangan derivatif adalah salah satu instrumen investasi yang
   dilakukan dua pihak atau lebih untuk menjual atau membeli aset maupun
   komoditas. "
 date: 2022-07-22T02:20:14.267Z
+tag:
+  - Instrumen Investasi
+  - Cara Investasi
+  - Investasi untuk Pemula
+  - Tips Investasi
+  - Diversifikasi Investasi
+category:
+  - Investasi
 featuredImage:
   title: "Derivatif Adalah: Definisi, Jenis, dan Risiko Transaksi Derivatif"
   alt: Derivatif Adalah
@@ -49,7 +57,7 @@ Peristiwa di atas adalah bagaimana  cara kerja dari derivatif.
 
 Sederhananya, cara kerja derivatif itu berbasis pada kontak perjanjian perdagangan derivatif yang telah disepakati. Derivatif adalah salah satu instrumen investasi yang memiliki risiko tinggi karena memanfaatkan perkiraan harga di masa depan dengan potensi mendapat imbal hasil yang besar.
 
-## Derivatif Keuangan 
+## Derivatif Keuangan
 
 **Derivatif keuangan adalah instrumen derivatif yang juga terdapat di bursa efek dan telah diawasi oleh Bursa Efek Indonesia (BEI).**
 
@@ -143,3 +151,9 @@ Dengan memilih investasi [equity crowdfunding](https://landx.id/project/?utm_sou
 Kalian bisa mendanai bisnis dengan modal mulai Rp1.000.000 saja, lho!
 
 ### [Jangan Lupa Download Aplikasi LandX Sekarang untuk Mendapatkan Keuntungan yang Menjanjikan!](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)
+
+<!--StartFragment-->
+
+[![Bagaimana? Kamu lebih suka bisnis dengan buyback guarantee atau yang bisa disimpan dalam jangka panjang? Apapun pilihan kamu.. Yuk Patungan  dengan Keuntungan Menjanjikan Bareng LandX](https://accountgram-production.sfo2.cdn.digitaloceanspaces.com/landx_ghost/2021/10/Equity-Crowdfunding-di-Indonesia-1--3.png)](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)
+
+<!--EndFragment-->
