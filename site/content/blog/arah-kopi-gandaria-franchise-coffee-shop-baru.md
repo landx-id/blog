@@ -1,8 +1,8 @@
 ---
 draft: false
 author: Vlora Riyandi
-title: Arah Kopi Gandaria, Franchise Coffee Shop Baru!
-metaTitle: Arah Kopi Gandaria, Franchise Coffee Shop Baru!
+title: Arah Kopi Gandaria, Franchise Coffee Shop Baru Hasil Kolaborasi LandX
+metaTitle: Arah Kopi Gandaria, Franchise Coffee Shop Baru Hasil Kolaborasi LandX
 metaDescription: Telah hadir franchise coffee shop Arah Kopi di Gandaria,
   Jakarta Selatan. Rampungkan tiga cabang baru setelah raih pendanaan investor
   di LandX.
@@ -10,6 +10,15 @@ intro: Tancapkan panah di Jakarta Selatan, franchise Arah Kopi Gandaria hadirkan
   racikan kopi Arabika yang sedap dan pastry yang lezat bersama para investor di
   platform equity crowdfunding LandX.
 date: 2022-07-22T06:48:29.063Z
+tag:
+  - Franchise Fnb
+  - ARKO
+  - Bisnis FnBq
+  - Franchise Minuman
+  - Bisnis Makanan
+category:
+  - Bisnis
+  - Investasi
 featuredImage:
   title: "PROJECT SERIES: Arah Kopi Gandaria Jakarta Selatan Open!"
   alt: Arah Kopi Gandaria Jakarta Selatan Open!
@@ -19,7 +28,7 @@ Arah Kopi sukses rampungkan 3 cabang terbaru dari rangkaian kerja sama pendanaan
 
 **Yuk, lihat outlet terbaru Arah Kopi Gandaria!**
 
-(video)
+
 
 ## About Arah Kopi
 
@@ -80,3 +89,9 @@ Menjadi owner suatu bisnis ternama dengan modal Rp 1 jutaan pada project bisnis 
 Investasi juga secara mudah hanya melalui aplikasi [LandX](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog) pada smartphone kamu. Berinvestasi layaknya belanja online! Jika kamu memiliki pertanyaan yang belum tersedia di website dan aplikasi, [LandX](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog) menyediakan fasilitas untuk kamu bisa mendiskusikannya di sini.
 
 ## [Mau Investasi Miliki Saham Bisnis? Download Aplikasi LandX Sekarang!](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)
+
+<!--StartFragment-->
+
+[![Bagaimana? Kamu lebih suka bisnis dengan buyback guarantee atau yang bisa disimpan dalam jangka panjang? Apapun pilihan kamu.. Yuk Patungan  dengan Keuntungan Menjanjikan Bareng LandX](https://accountgram-production.sfo2.cdn.digitaloceanspaces.com/landx_ghost/2021/10/Equity-Crowdfunding-di-Indonesia-1--3.png)](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)
+
+<!--EndFragment-->
