@@ -1,7 +1,7 @@
 ---
-draft: true
+draft: false
 author: Sylvana Oktia Susaningtyas
-title: "  Apa Itu Strategi Growth Investing? Begini 5 Cara Penerapannya"
+title: "  Apa Itu Strategi Growth Investing? 5 Penerapan Growth Investor"
 metaTitle: "  Apa Itu Strategi Growth Investing? Begini 5 Cara Penerapannya"
 metaDescription: Growth investing adalah strategi investasi yang berfokus
   mengambil keuntungan dari pertumbuhan bisnis perusahaan atau capital gain.
