@@ -1,5 +1,5 @@
 ---
-draft: true
+draft: false
 author: Sylvana Oktia Susaningtyas
 title: Apa itu Value Investing? Begini Penerapan Prinsip Value Investing
 metaTitle: Apa itu Value Investing? Begini Penerapan Prinsip Value Investing
