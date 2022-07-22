@@ -4,13 +4,12 @@ author: Abdul Wahhab
 slug: memahami-apa-itu-umkm-dan-jenis-jenisnya
 title: Memahami Apa Itu UMKM Berikut Jenis UMKM yang Harus Kamu Pahami
 metaTitle: Memahami Apa Itu UMKM Berikut Jenis UMKM yang Harus Kamu Pahami
-metaDescription: "UMKM adalah usaha micro kecil menengah yang dikelompokkan
-  berdasarkan jumlah aset yang dimiliki usaha tersebut. Jenis UMKM dibagi jadi
-  tiga "
-intro: UMKM adalah jenis bisnis atau usaha yang paling banyak kita temui di
-  sekitar kita dan UMKM adalah salah satu penopang ekonomi Indonesia. Karena
-  itu, yuk kita bahas lebih lanjut tentang apa itu UMKM dan bagaimana cara
-  investasi lewat ke UMKM potensial.
+metaDescription: Apa itu UMKM adalah bisnis yang dijalankan oleh individu, rumah
+  tangga, atau badan usaha kecil. Yuk pelajari arti usaha mikro dan peran UMKM!
+intro: "Apa itu UMKM adalah bisnis yang dijalankan oleh individu, rumah tangga,
+  atau badan usaha kecil. UMKM adalah jenis bisnis atau usaha yang paling banyak
+  di sekitar kita dan UMKM adalah salah satu penopang ekonomi terkuar Indonesia.
+  "
 date: 2021-11-24T12:30:26.000Z
 tag:
   - Securities Crowdfunding untuk Pengembangan UMKM di Indonesia
@@ -25,11 +24,11 @@ category:
   - Bisnis
   - Investasi
 ---
-Berbicara tentang bisnis, tentu kamu sudah tidak asing lagi dengan UMKM atau Usaha Mikro Kecil Menengah. Banyak orang hanya mengetahui UMKM selewat saja dan gak tahu persis kenapa sebenarnya sebuah usaha atau bisnis bisa disebut UMKM.
+Berbicara tentang bisnis, tentu kamu sudah tidak asing lagi dengan apa itu UMKM atau Usaha Mikro Kecil Menengah. Banyak orang hanya mengetahui UMKM selewat saja dan gak tahu persis kenapa sebenarnya sebuah usaha atau bisnis bisa disebut UMKM.
 
-UMKM merupakan salah satu bisnis yang sangat mudah kita temui dalam kehidupan sehari-hari dan merupakan salah satu sektor yang memiliki peranan sangat penting dalam perkembangan ekonomi suatu negara.
+Apa itu UMKM adalah salah satu bisnis yang sangat mudah kita temui dalam kehidupan sehari-hari dan merupakan salah satu sektor yang memiliki peranan sangat penting dalam perkembangan ekonomi suatu negara.
 
-Supaya kita semakin paham dengan baik tentang apa itu UMKM, mari kita bahas bisnis jenis ini secara lebih lanjut.
+Karena itu, yuk kita bahas lebih lanjut tentang penjelasan lengkap arti usaha mikro, peran UMKM, dan cara investasi bisnisn UMKM!
 
 - - -
 
@@ -43,23 +42,23 @@ Dalam perkembangan ekonomi, UMKM menjadi salah satu indikator yang menentukan ke
 
 Oleh sebab itu bisnis ini menjadi salah satu sektor yang harus terus dikembangkan karena peran pentingnya dalam menobang perekonomian.
 
-## Jenis UMKM
 
-Supaya gak bingung tentang arti UMKM, MinLand bakal merujuk kepada Undang-Undang Nomor 20 Tahun 2008 tentang usaha, mikro, kecil, dan menengah yang dibahas berdasarkan jenis-jenisnya. 
 
-Berikut ini jenis-jenis UMKM berdasarkan kategorinya.
+## Perbedaan UMKM dan UKM
 
-### 1. Usaha Mikro
+Dilansir dari Undang-Undang Nomor 20 Tahun 2008 tentang usaha, mikro, kecil, dan menengah, terdapat perbedaan dari ciri-ciri dan bentuk pengelolaan badan usahanya. Penjelasan ini adalah jenis-jenis UMKM dan UKM berdasarkan kategorinya.
+
+### 1. Ciri-ciri UMKM
 
 Merujuk kepada Undang-Undang Nomor 20 Tahun 2008, usaha mikro adalah usaha yang dijalankan dan dimiliki oleh orang maupun badan usaha perorangan yang sesuai dengan kriteria. Jadi apa yang dimaksud usaha mikro adalah jenis usaha yang memenuhi kriteria Undang-Undang Nomor 20 Tahun 2008.
 
-Seperti apa kriterianya? Yang pertama, omzet yang dimiliki mencapai Rp. 300 juta per tahun. Angka tersebut merupakan angka maksimal. Artinya, jika sebuah usaha memiliki omzet melebihi Rp. 300 juta, maka ia tidak bisa disebut sebagai Usaha Mikro.
+Seperti apa ciri-ciri UMKM? Yang pertama, omzet yang dimiliki mencapai Rp300 juta per tahun. Angka tersebut merupakan angka maksimal. Artinya, jika sebuah usaha memiliki omzet melebihi Rp300 juta, maka ia tidak bisa disebut sebagai Usaha Mikro.
 
-Kriteria selanjutnya adalah, jumlah aset atau kekayaan yang dimiliki maksimal Rp. 50 juta. Jumlah nilai tersebut di luar dari tanah dan bangunan yang dimiliki. Salah satu masalah umum yang dimiliki sebuah mikro adalah bercampurnya keuangan pribadi dan perusahaan.
+Kriteria selanjutnya adalah, jumlah aset atau kekayaan yang dimiliki maksimal Rp50 juta. Jumlah nilai tersebut di luar dari tanah dan bangunan yang dimiliki. Salah satu masalah umum yang dimiliki sebuah mikro adalah bercampurnya keuangan pribadi dan perusahaan.
 
 Usaha mikro sering kamu temui pada kehidupan sehari-hari. Contohnya seperti warung kopi, pedagang asongan, tukang cukur, dan lain-lain.
 
-### 2. Usaha Kecil
+### 2. Ciri-ciri UKM (Usaha Kecil Menengah)
 
 Meski mempunyai arti kata yang mirip, ternyata usaha kecil mempunyai omzet dan jumlah aset yang lebih besar dari usaha mikro.
 
@@ -77,7 +76,7 @@ Sebuah usaha bisa dikategorikan sebagai usaha menengah jika memiliki jumlah aset
 
 Selain sistem keuangannya yang sudah rapi, sebuah usaha menengah juga mempunyai legalitas yang jelas. Contoh dari usaha menengah adalah bengkel mobil besar, restoran besar,  pabrik skala rumahan, sampai toko bangunan.
 
-## Arti UMKM Bagi Ekonomi Indonesia
+## Peran UMKM Bagi Ekonomi Indonesia
 
 Meski menggandeng nama kecil dan mengah, nyatanya UMKM punya sumbangsih besar bagi ekonomi negara *lho.* 
 
