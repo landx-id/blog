@@ -47,7 +47,7 @@ Karena ini binary option dikenal sebagai cash or nothing. Sebenarnya binary opti
 
 Hal ini kemudian dibuat seolah sedang berinvestasi padahal Anda tidak memiliki apapun dengan memberi modal pada saat taruhan. Tidak seperti floating loss atau minus pada saat berinvestasi saham, dengan binary option uang Anda bisa hilang menguap tanpa bekas.
 
-Sehingga terlihat bahwa binary option dan trading adalah dua hal yang berbeda. Walaupun sering disebut sebagai trading binary option, padahal bukan dan malah mirip sebuah aktivitas judi. Sedangkan trading adalah kegiatan jual beli saham yang dilakukan dalam waktu singkat. Kegiatan trading didasari teknik analisis saham sebelum memutuskan membeli dan/atau menjual, tidak seperti binary option yang hanya main tebak-tebakan dengan taruhan uang**.**
+Sehingga terlihat bahwa binary option dan trading adalah dua hal yang berbeda. Walaupun sering disebut sebagai trading binary option, padahal bukan dan malah mirip sebuah aktivitas judi. Sedangkan trading adalah kegiatan jual beli saham yang dilakukan dalam waktu singkat. Kegiatan trading didasari teknik analisis saham sebelum memutuskan membeli dan/atau menjual, tidak seperti binary option yang hanya main tebak-tebakan dengan taruhan uang.
 
 **Bebeberapa platform kasus binary option yang populer dan harus Anda waspadai ada Binomo, Olymtrade, Quotex dan IQ Option.**
 
