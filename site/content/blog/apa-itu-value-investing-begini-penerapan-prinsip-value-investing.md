@@ -1,7 +1,7 @@
 ---
 draft: false
 author: Sylvana Oktia Susaningtyas
-title: Apa itu Value Investing? Begini Penerapan Prinsip Value Investing
+title: "Value Investing Adalah: Mengenal Apa Itu Prinsip Value Investing"
 metaTitle: Apa itu Value Investing? Begini Penerapan Prinsip Value Investing
 metaDescription: Value investing adalah metode pembelian saham di bawah harga
   wajarnya dari perusahaan yang berpotensi.
@@ -9,10 +9,17 @@ intro: Value investing adalah metode pembelian saham di bawah harga wajarnya
   dari perusahaan yang berpotensi. Cari tahu keunggulan dan keterbatasan balue
   investing di Indonesia.
 date: 2022-07-15T08:10:14.539Z
+tag:
+  - Cara Investasi
+  - Investasi Pemula
+  - Tips Investasi
+  - Investasi Aman
+category:
+  - Investasi
 featuredImage:
   title: Apa itu Value Investing? Begini Penerapan Prinsip Value Investing
   alt: Apa itu Value Investing
-  src: https://unsplash.com/photos/tcJ6sJTtTWI
+  src: https://images.unsplash.com/photo-1651340981821-b519ad14da7c?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80
 ---
 Untuk meraup keuntungan maksimal, seorang investor tentu memerlukan strategi dalam berinvestasi. Salah satu teknik yang dilakukan oleh investor untuk mendapatkan keuntungan dalam investasi saham adalah value investing.
 
@@ -36,13 +43,13 @@ Seorang investor tidak dapat menerapkan prinsip value investing hanya berdasarka
 
 Seorang value investor tidak asal melakukan pembelian. Dalam prinsip value investing, ada beberapa strategi yang bisa diterapkan agar value investing menghasilkan keuntungan yang besar. Anda ingin menjadi value investor yang sukses? Yuk perhatikan hal-hal di bawah ini!
 
-1. **Memilih Metode Analisa**
+**1. Memilih Metode Analisa**
 
 Untuk menganalisa strategi saham, ada dua strategi yang bisa Anda gunakan. Anda bisa menganalisa dengan metode analisis top down, dimana Anda bisa menganalisanya dari kondisi ekonomi makro, lalu mengerucut pada fundamental perusahaan.
 
 Sementara itu, ada yang memulai analisa saham dengan istilah analisis bottom-up. Kebalikan dari analisis sebelumnya, analisis ini menilai saham dari bawah ke atas. Caranya dengan mengecek kondisi fundamental perusahaan terlebih dahulu. Lalu berlanjut menganalisa masalah ekonomi yang mempengaruhi pergerakan harga saham.
 
-2. **Memantau Sektor yang Trending**
+**2. Memantau Sektor yang Trending**
 
 Strategi ini menjadi langkah pertama ataupun langkah kedua setelah Anda memilih metode value investing. Pada dasarnya, Anda harus mengetahui sektor mana saja yang sedang diminati oleh masyarakat atau yang sedang trending.
 
@@ -50,7 +57,7 @@ Membaca trend saham juga membantu Anda lebih peka terhadap keadaan pasar saham s
 
 Bahkan, bisa hanya dalam hitungan hari. Menarik bukan?
 
-3. **Melakukan Screening Saham dengan Fundamental yang Bagus**
+**3. Melakukan Screening Saham dengan Fundamental yang Bagus**
 
 Hingga sampai saat ini, sudah ada lebih dari 600 emiten yang terdaftar di Bursa Efek Indonesia. Sehingga untuk melakukan screening dengan lebih efektif, Anda harus menetapkan kriterianya.
 
@@ -58,7 +65,7 @@ Cara sederhananya adalah mengelompokkan emiten yang memiliki REO (Return on Equi
 
 Jika Anda sudah mendapatkan daftar emiten dengan kriteria di atas, Anda bisa mengecek saham tersebut satu per satu. Jadi, Anda tidak perlu menghabiskan waktu untuk mengecek semua saham di BEI.
 
-4. **Mengetahui Valuasi dan Nilai Intrinsik Saham yang Akan Dibeli**
+**4. Mengetahui Valuasi dan Nilai Intrinsik Saham yang Akan Dibeli**
 
 Sebagai value investor, Anda wajib mempelajari bagaimana cara menilai harga saham tersebut. 
 
@@ -66,7 +73,7 @@ Dalam prinsip value investing, yang dinilai sebenarnya adalah harga wajar atau h
 
 Anda bisa mengikuti apa yang digunakan oleh Warren Buffet, yaitu hanya menggunakan dua rasio untuk menilai valuasi suatu saham. Kedua rasio tersebut adalah PER (Price Earning Ratio) dan PBV (Price to Book Value).
 
-5. **Menganalisa Faktor Fundamental Perusahaan**
+**5. Menganalisa Faktor Fundamental Perusahaan**
 
 Untuk mengetahui fundamental perusahaan, hal wajib yang harus dilakukan adalah membaca laporan keuangan terbarunya. Apa saja hal wajib yang perlu diketahui dalam sebuah laporan keuangan?
 
@@ -77,7 +84,7 @@ Untuk mengetahui fundamental perusahaan, hal wajib yang harus dilakukan adalah m
 * Laporan arus kas
 * Catatan-catatan keuangan
 
-6. **Menentukan Waktu Tepat Membeli Saham**
+**6. Menentukan Waktu Tepat Membeli Saham**
 
 Waktu paling tepat untuk seorang value investor membeli saham adalah pada saat harga saham undervalued atau lebih murah di bawah nilai intrinsiknya.
 
@@ -85,11 +92,11 @@ Contohnya harga saham PGAS yang dihargai PBV 1,5 kali, dan nilai PBV tersebut ad
 
 Lalu, saham secara signifikan naik beberapa tahun kemudian namun karena ada rumor, maka akan menjadi turun lagi. Kebetulan, karena pada saat itu PBN nya menurun di angka 1,5 lagi, maka pada saat itulah saat yang tepat membeli saham PGAS.
 
-7. **Melakukan Pemantauan**
+**7. Melakukan Pemantauan**
 
 Selain menganalisa dan membeli saham, melakukan value investing adalah juga mengawasi saham yang terdapat di dalam portofolionya. Caranya adalah dengan memantau performa dan membaca laporan keuangan terbaru secara langsung di situs resmi IDX di idx.co.id.
 
-8. **Menentukan Waktu Jual Saham**
+**8. Menentukan Waktu Jual Saham**
 
 Selain harus menentukan waktu yang tepat dalam membeli saham, Anda juga harus cermat dalam menjual saham. Sebagai contoh, setelah Anda selesai melakukan pemantauan ternyata terdapat saham yang Anda beli mengalami kerugian atau masalah tertentu. Maka pada saat itulah Anda harus segera menjualnya.
 
@@ -138,3 +145,9 @@ Apabila Anda belum siap berinvestasi pada perusahaan besar dan ingin memulai ber
 [LandX](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog) telah mengantongi izin dari Otoritas Jasa Keuangan (OJK), sehingga terpercaya menjadi platform patungan bisnis yang aman dan transparan.
 
 ## [Mulai Langkah Kecil Investasimu dengan Download Aplikasi LandX!](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)
+
+<!--StartFragment-->
+
+[![Yuk mulai patungan bisnis menguntungkan jangka panja g bersama LandX](https://accountgram-production.sfo2.cdn.digitaloceanspaces.com/landx_ghost/2021/09/Equity-Crowdfunding-di-Indonesia-1--3.png)](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)
+
+<!--EndFragment-->
