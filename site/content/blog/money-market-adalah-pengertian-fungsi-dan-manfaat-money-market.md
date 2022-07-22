@@ -14,6 +14,8 @@ tag:
   - Investasi
   - Funding
   - Reksadana
+category:
+  - Investasi
 featuredImage:
   src: https://images.unsplash.com/photo-1582281171754-405cb2a75fb1?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2070&q=80
   alt: Arti Apa Itu Money Market adalah tempat transaksi jual beli
