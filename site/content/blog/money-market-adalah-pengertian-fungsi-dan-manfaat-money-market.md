@@ -1,5 +1,5 @@
 ---
-draft: true
+draft: false
 author: Rafa Syawalia R
 title: "Money Market Adalah: Pengertian, Fungsi dan Manfaat Money Market"
 metaTitle: "Apa Itu Money Market: Pengertian dan Manfaat Pasar Uang"
