@@ -61,13 +61,15 @@ Jika Anda mengalami hal tersebut, mungkin Anda belum sepenuhnya bisa berstrategi
 
 Apabila tabungan Anda sering kandas di tengah jalan, salah satu penyebabnya mungkin karena Anda belum mantap menentukan alasan untuk menabung. Tujuan menjadi aspek paling penting sebagai pondasi mempelajari bagaimana cara menabung yang baik untuk masa depan.
 
-Sebagian orang masih menganggap bahwa aktivitas menabung hanya sebatas menyimpan uang sisa dari penghasilan bulanan mereka. Padahal saat ini sudah banyak informasi soal strategi menabung yang bisa Anda coba. Mulai dari tips menabung harian, tips cara menabung dengan cepat dan efektif, hingga tips cara menabung yang baik untuk kebutuhan jangka panjang.
+Sebagian orang masih menganggap bahwa aktivitas menabung hanya sebatas menyimpan uang sisa dari penghasilan bulanan mereka. Padahal saat ini sudah banyak informasi soal strategi menabung yang bisa Anda coba. 
+
+Mulai dari tips menabung harian, tips cara menabung dengan cepat dan efektif, hingga tips cara menabung yang baik untuk kebutuhan jangka panjang.
 
 Tanpa keinginan belajar bagaimana cara menabung yang baik, akibatnya adalah saat Anda bertemu dengan sesuatu yang sebenarnya tidak terlalu Anda butuhkan namun menarik perhatian, Anda akan tergoda untuk menggunakan uang tabungan tersebut.
 
 Oleh karena itu, sebelum mulai menabung, Anda juga perlu menentukan tujuan yang pasti. Anda bisa memulainya dengan hal-hal yang Anda sukai, seperti menabung untuk traveling atau membeli kendaraan/gadget baru. Dengan begitu, Anda akan memiliki fokus dan tujuan yang jelas, sehingga tidak akan mudah tergoda pada sesuatu yang tidak terlalu dibutuhkan.
 
-
+Dengan niat untuk mencapai tujuan yang memang diinginkan, maka Anda sedikit demi sedikit tumbuh keinginan untuk belajar mengaplikasikan bagaimana cara menabung yang baik untuk masa depan jangka pendek dahulu.
 
 Setelah mulai terbiasa dan mampu mencapai tujuan-tujuan tersebut, mulainya untuk meng-upgrade tujuan menabung Anda ke tujuan yang lebih besar. Seperti tabungan untuk menikah, pergi haji, atau tabungan untuk biaya pendidikan anak di masa depan.
 
