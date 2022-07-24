@@ -63,8 +63,6 @@ Apabila tabungan Anda sering kandas di tengah jalan, salah satu penyebabnya mung
 
 Sebagian orang masih menganggap bahwa aktivitas menabung hanya sebatas menyimpan uang sisa dari penghasilan bulanan mereka. Padahal saat ini sudah banyak informasi soal strategi menabung yang bisa Anda coba. Mulai dari tips menabung harian, tips cara menabung dengan cepat dan efektif, hingga tips cara menabung yang baik untuk kebutuhan jangka panjang.
 
-
-
 Tanpa keinginan belajar bagaimana cara menabung yang baik, akibatnya adalah saat Anda bertemu dengan sesuatu yang sebenarnya tidak terlalu Anda butuhkan namun menarik perhatian, Anda akan tergoda untuk menggunakan uang tabungan tersebut.
 
 Oleh karena itu, sebelum mulai menabung, Anda juga perlu menentukan tujuan yang pasti. Anda bisa memulainya dengan hal-hal yang Anda sukai, seperti menabung untuk traveling atau membeli kendaraan/gadget baru. Dengan begitu, Anda akan memiliki fokus dan tujuan yang jelas, sehingga tidak akan mudah tergoda pada sesuatu yang tidak terlalu dibutuhkan.
@@ -101,7 +99,7 @@ Anda akan diserang rasa khawatir bahwa uang tersisa tidak akan cukup untuk memen
 
 Salah satu solusi untuk mencegah hal tersebut adalah dengan menerapkan sistem penarikan otomatis (auto-debit) menuju rekening tabungan. Dengan sistem ini, dana tabungan Anda akan otomatis dipisahkan dari rekening utama, sehingga tidak ada alasan untuk lupa menabung atau mengurangi anggaran tabungan semula.
 
-Selain memudahkan Anda menabung, sistem ini juga dapat membantu Anda agar lebih bijaksana dalam mengatur keuangan dengan dana yang tersisa.
+Selain memudahkan Anda menabung, sistem ini juga dapat membantu Anda agar lebih mendalami bagaimana cara menabung yang baik dan juga bijaksana dalam mengatur keuangan dari dana yang tersisa.
 
 - - -
 
