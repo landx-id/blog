@@ -22,9 +22,9 @@ tag:
   - Tips Keuangan
 featuredImage:
   src: https://images.unsplash.com/photo-1586034679970-cb7b5fc4928a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxMTc3M3wwfDF8c2VhcmNofDJ8fHNhdmluZ3xlbnwwfHx8fDE2NDA5NzY2MzI&ixlib=rb-1.2.1&q=80&w=1080
-  alt: Tips and trik menabung dengan benar untuk keuntungan jangka panjang anda
-  title: Yuk simak bagaimana cara menabung dengan benar untuk mencapai tujan
-    finansial anda
+  alt: Tips and trik menabung dengan benar untuk keuntungan jangka panjang Anda
+  title: Yuk simak bagaimana cara menabung yang baik untuk kebutuhan jangka
+    panjang Anda
 image: https://images.unsplash.com/photo-1586034679970-cb7b5fc4928a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxMTc3M3wwfDF8c2VhcmNofDJ8fHNhdmluZ3xlbnwwfHx8fDE2NDA5NzY2MzI&ixlib=rb-1.2.1&q=80&w=1080
 category:
   - Keuangan
@@ -134,7 +134,9 @@ Sementara itu, jika Anda menabung dalam bentuk [investasi](https://landx.id/), a
 
 Menabung dalam bentuk [investasi](https://landx.id/?gclid=Cj0KCQiAwqCOBhCdARIsAEPyW9nwi5NqHHR49GyAePUYL0Od4dF99zKuM6A-0DRLjtKLAAZuyxzPJM4aAuAYEALw_wcB) memang lebih memiliki risiko dibanding menabung secara konvensional. Namun, dengan perencanaan dan perhitungan yang baik, risiko **berinvestasi dapat diminimalkan.** Investasi ini adalah salah satu cara menabung dengan cepat karena aset yang diinvestasikan berpeluang menghasilkan profit yang lebih besar.
 
-Selain tabungan deposito, ada banyak **[instrumen investasi](https://landx.id/)** [](https://landx.id/?gclid=Cj0KCQiAwqCOBhCdARIsAEPyW9nwi5NqHHR49GyAePUYL0Od4dF99zKuM6A-0DRLjtKLAAZuyxzPJM4aAuAYEALw_wcB) yang bisa dipakai untuk meningkatkan pundi-pundi tabungan. Salah satunya ialah investasi saham perusahaan/emiten yang memberikan pengembalian berupa pembagian keuntungan atau dividen. Melalui [investasi](https://landx.id/?gclid=Cj0KCQiAwqCOBhCdARIsAEPyW9nwi5NqHHR49GyAePUYL0Od4dF99zKuM6A-0DRLjtKLAAZuyxzPJM4aAuAYEALw_wcB) saham emiten, investor dapat menerima pembagian dividen secara rutin yang akan terus menambah pundi-pundi tabungan.
+Selain tabungan deposito, ada banyak **[instrumen investasi](https://landx.id/)** [](https://landx.id/?gclid=Cj0KCQiAwqCOBhCdARIsAEPyW9nwi5NqHHR49GyAePUYL0Od4dF99zKuM6A-0DRLjtKLAAZuyxzPJM4aAuAYEALw_wcB) yang bisa dipakai untuk meningkatkan pundi-pundi tabungan. Salah satunya ialah investasi saham perusahaan/emiten yang memberikan pengembalian berupa pembagian keuntungan atau dividen. 
+
+Melalui [investasi](https://landx.id/?gclid=Cj0KCQiAwqCOBhCdARIsAEPyW9nwi5NqHHR49GyAePUYL0Od4dF99zKuM6A-0DRLjtKLAAZuyxzPJM4aAuAYEALw_wcB) saham emiten, investor dapat menerima pembagian dividen secara rutin yang akan terus menambah pundi-pundi tabungan.
 
 Jika Anda tertarik berinvestasi saham namun tidak memiliki modal yang tinggi, Anda bisa mencoba berinvestasi saham melalui **[platform LandX](https://landx.id/project/)**.
 
