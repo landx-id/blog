@@ -57,9 +57,9 @@ Jika Anda mengalami hal tersebut, mungkin Anda belum sepenuhnya bisa berstrategi
 
 ## 5 Tips Menabung untuk Masa Depan
 
-### 1. Menetapkan Tujuan Menabung
+### 1. Menetapkan Niat Menabung
 
-Apabila tabungan Anda sering kandas di tengah jalan, salah satu penyebabnya mungkin karena Anda belum mantap menentukan alasan untuk menabung. Tujuan menjadi aspek paling penting sebagai pondasi mempelajari bagaimana cara menabung yang baik untuk masa depan.
+Apabila tabungan Anda sering kandas di tengah jalan, salah satu penyebabnya mungkin karena Anda belum mantap menentukan alasan untuk menabung. Niat menjadi aspek paling penting sebagai pondasi mempelajari bagaimana cara menabung yang baik untuk masa depan.
 
 Sebagian orang masih menganggap bahwa aktivitas menabung hanya sebatas menyimpan uang sisa dari penghasilan bulanan mereka. Padahal saat ini sudah banyak informasi soal strategi menabung yang bisa Anda coba. 
 
@@ -67,13 +67,21 @@ Mulai dari tips menabung harian, tips cara menabung dengan cepat dan efektif, hi
 
 Tanpa keinginan belajar bagaimana cara menabung yang baik, akibatnya adalah saat Anda bertemu dengan sesuatu yang sebenarnya tidak terlalu Anda butuhkan namun menarik perhatian, Anda akan tergoda untuk menggunakan uang tabungan tersebut.
 
-Oleh karena itu, sebelum mulai menabung, Anda juga perlu menentukan tujuan yang pasti. Anda bisa memulainya dengan hal-hal yang Anda sukai, seperti menabung untuk traveling atau membeli kendaraan/gadget baru. Dengan begitu, Anda akan memiliki fokus dan tujuan yang jelas, sehingga tidak akan mudah tergoda pada sesuatu yang tidak terlalu dibutuhkan.
+### 2. Membuat Target Menabung
+
+Sebelum mulai menabung, Anda juga perlu menentukan tujuan yang pasti. Anda bisa memulainya dengan hal-hal yang Anda sukai, seperti menabung untuk traveling atau membeli kendaraan/gadget baru. 
+
+Namun agar semakin terarah, bagaimana cara menabung yang baik adalah membuat target sesuai dengan jangka waktu pencapaiannya. Misalnya, Anda menentukan target jangka pendek seperti membeli motor baru secara cash yang harus dicapai dalam waktu maksimal 2 tahun.
+
+Atau, Anda ingin mencapai target jangka panjang membeli rumah secara cash yang harus direalisasikan maksimal dalam 10 tahun.
+
+Dengan begitu, Anda akan memiliki fokus dan tujuan yang jelas, sehingga tidak akan mudah tergoda pada sesuatu yang tidak terlalu dibutuhkan.
 
 Dengan niat untuk mencapai tujuan yang memang diinginkan, maka Anda sedikit demi sedikit tumbuh keinginan untuk belajar mengaplikasikan bagaimana cara menabung yang baik untuk masa depan jangka pendek dahulu.
 
 Setelah mulai terbiasa dan mampu mencapai tujuan-tujuan tersebut, mulainya untuk meng-upgrade tujuan menabung Anda ke tujuan yang lebih besar. Seperti tabungan untuk menikah, pergi haji, atau tabungan untuk biaya pendidikan anak di masa depan.
 
-### 2. Memisahkan Rekening Khusus untuk Tabungan
+### 3. Memisahkan Rekening Khusus untuk Tabungan
 
 Tips selanjutnya yang juga perlu diterapkan dalam belajar bagaimana cara menabung yang baik untuk masa depan adalah membuka rekening baru khusus digunakan untuk menyimpan tabungan. 
 
@@ -83,7 +91,7 @@ Oleh karena itu, membuka rekening khusus untuk tabungan adalah cara paling ampuh
 
 Selain itu, saat ini juga sudah banyak layanan perbankan menyediakan rekening khusus tabungan dengan berbagai keuntungan yang ditawarkan, seperti setoran awal ringan atau bebas dari biaya administrasi bulanan.
 
-### 3. Mulai dari Nominal yang Kecil
+### 4. Mulai dari Nominal yang Kecil
 
 Beberapa pakar perencana keuangan menyebutkan bahwa **nominal ideal untuk ditabung adalah 10-20%** dari jumlah penghasilan bulanan. Namun, tidak semua orang bisa dengan mudah menerapkan perhitungan tersebut, terutama bagi orang-orang yang belum terbiasa menabung.
 
@@ -93,7 +101,7 @@ Jika angka 10-20% terasa terlalu berat, Anda bisa memulainya dengan menabung 2-5
 
 Misalnya, Anda bisa mulai menabung dengan 2% dari penghasilan per bulan. Anda akan meningkatkannya sedikit demi sedikit hingga mencapai angka 10% di bulan kesepuluh, dan seterusnya.
 
-### 4. Mengatur Auto Debit ke Rekening Tabungan
+### 5. Mengatur Auto Debit ke Rekening Tabungan
 
 Meskipun sudah membuka rekening terpisah, godaan untuk mengurangi jumlah tabungan akan selalu ada. Terutama jika Anda sudah menghabiskan cukup banyak uang di awal tanggal gajian. Hal ini adalah ancaman bagi Anda yang masih belajar bagaimana cara menabung yang baik untuk masa depan.
 
@@ -112,7 +120,7 @@ Selain memudahkan Anda menabung, sistem ini juga dapat membantu Anda agar lebih 
 
 - - -
 
-## 5. Menyisihkan Sebagian Tabungan untuk [Investasi](https://landx.id/?gclid=Cj0KCQiAwqCOBhCdARIsAEPyW9nwi5NqHHR49GyAePUYL0Od4dF99zKuM6A-0DRLjtKLAAZuyxzPJM4aAuAYEALw_wcB)
+## 6. Menyisihkan Sebagian Tabungan untuk [Investasi](https://landx.id/?gclid=Cj0KCQiAwqCOBhCdARIsAEPyW9nwi5NqHHR49GyAePUYL0Od4dF99zKuM6A-0DRLjtKLAAZuyxzPJM4aAuAYEALw_wcB)
 
 Selain menabung dengan cara konvensional, salah satu cara untuk dapat menambah nominal tabungan adalah dengan **[berinvestasi](https://landx.id/project/)**. Dengan berinvestasi di aset yang tepat dan disesuaikan dengan profil risiko yang diinginkan, investasi adalah salah satu tips tentang bagaimana cara menabung yang baik untuk masa depan.
 
