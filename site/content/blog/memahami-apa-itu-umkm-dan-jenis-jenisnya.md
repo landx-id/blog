@@ -2,15 +2,15 @@
 draft: false
 author: Abdul Wahhab
 slug: memahami-apa-itu-umkm-dan-jenis-jenisnya
-title: Memahami Apa Itu UMKM Berikut Jenis UMKM yang Harus Kamu Pahami
-metaTitle: Memahami Apa Itu UMKM Berikut Jenis UMKM yang Harus Kamu Pahami
+title: Memahami Apa Itu UMKM, Arti dan Peran UMKM di Indonesia
+metaTitle: Apa Itu UMKM? Ini  Arti Usaha Mikro dan Peran UMKM di Indonesia
 metaDescription: Apa itu UMKM adalah bisnis yang dijalankan oleh individu, rumah
   tangga, atau badan usaha kecil. Yuk pelajari arti usaha mikro dan peran UMKM!
 intro: "Apa itu UMKM adalah bisnis yang dijalankan oleh individu, rumah tangga,
   atau badan usaha kecil. UMKM adalah jenis bisnis atau usaha yang paling banyak
   di sekitar kita dan UMKM adalah salah satu penopang ekonomi terkuar Indonesia.
   "
-date: 2021-11-24T12:30:26.000Z
+date: 2022-07-24T09:28:34.224Z
 tag:
   - Securities Crowdfunding untuk Pengembangan UMKM di Indonesia
   - investasi umkm
@@ -34,15 +34,13 @@ Karena itu, yuk kita bahas lebih lanjut tentang penjelasan lengkap arti usaha mi
 
 ## Apa Itu UMKM?
 
-UMKM atau Usaha Mikro Kecil Menengah adalah sebuah istilah populer yang beredar di masyarakat. Meskipun begitu, masih banyak orang yang belum bisa membedakan mana usaha yang pantas dilabeli UMKM dan mana yang tidak.
+Apa Itu UMKM atau Usaha Mikro Kecil Menengah adalah sebuah istilah populer yang beredar di masyarakat. Meskipun begitu, masih banyak orang yang belum bisa membedakan mana usaha yang pantas dilabeli UMKM dan mana yang tidak.
 
-Secara garis besar, **UMKM adalah** sebuah bisnis atau usaha yang dijalankan oleh individu, keluarga, maupun badan usaha berukuran mikro. Lebih lanjut, sebuah usaha bisa dikatakan UMKM jika omzet per tahun, jumlah aset, serta jumlah karyawannya masuk dalam kategori tertentu.
+Secara garis besar, apa itu **UMKM adalah** sebuah bisnis atau usaha yang dijalankan oleh individu, keluarga, maupun badan usaha berukuran mikro. Lebih lanjut, sebuah usaha bisa dikatakan UMKM jika omzet per tahun, jumlah aset, serta jumlah karyawannya masuk dalam kategori tertentu.
 
 Dalam perkembangan ekonomi, UMKM menjadi salah satu indikator yang menentukan kemajuan ekonomi suatu negara karena perkembangan UMKM juga biasanya mengikuti perkembangan ekonomi.
 
 Oleh sebab itu bisnis ini menjadi salah satu sektor yang harus terus dikembangkan karena peran pentingnya dalam menobang perekonomian.
-
-
 
 ## Perbedaan UMKM dan UKM
 
@@ -76,9 +74,42 @@ Sebuah usaha bisa dikategorikan sebagai usaha menengah jika memiliki jumlah aset
 
 Selain sistem keuangannya yang sudah rapi, sebuah usaha menengah juga mempunyai legalitas yang jelas. Contoh dari usaha menengah adalah bengkel mobil besar, restoran besar,  pabrik skala rumahan, sampai toko bangunan.
 
+## Perbedaan UMKM dan UKM
+
+Lalu secara lebih jelas, apa itu UMKM dan perbedaannya dengan UKM? Penjelasan lengkap apa itu UMKM dan perbedaannya diatur lewat kebijakan pemerintah dalam aspek-aspek sebagai berikut.
+
+### 1. Omzet Usaha
+
+Berdasarkan UU Nomor 20 Tahun 2008, usaha mikro hasil penjualan tahunannya paling banyak sebesar Rp300 juta. Sedangkan apa itu UMKM omzetnya bervariasi. Seperti usaha kecil memiliki omzet tahunan lebih dari Rp300 juta, sampai dengan paling banyak Rp2,5 milyar. Lalu, usaha menengah memiliki omzet tahunan lebih dari Rp2,5 milyar, sampai dengan paling banyak Rp50 milyar.
+
+### 2. Kekayaan Bersih Usaha
+
+
+Kekayaan bersih usaha mikro paling banyak Rp50 juta. Sedangkan kekayaan bersih usaha kecil berkisar lebih dari Rp50 juta sampai dengan Rp500 juta. Lalu, kekayaan bersih usaha menengah berkisar antara Rp500 juta sampai dengan Rp10 milyar. Inilah yang menjadi hal yang mendefinisikan apa itu UMKM dan UKM di mana tanah dan bangunan tidak termasuk ke dalam perhitungan kekayaan bersih usaha.
+
+### 3. Jumlah Tenaga Kerja
+
+
+Apa itu UMKM dan UKM definisinya juga dibedakan oleh jumlah tenaga kerja yang dimiliki. Dilansir dari survey Badan Pusat Statistik, usaha mikro setidaknya memiliki 1-5 orang tenaga kerja, usaha kecil memiliki 6-19 tenaga kerja, sementara usaha menengah memiliki 20-99 tenaga kerja.
+
+### 4. Perbedaan Modal Awal UKM dan UMKM
+
+
+Apa itu UMKM dan UKM dan UMKM juga diartikan dari perbedaan besaran jumlah modal awal usahanya. Umumnya, modal mendirikan UKM adalah sebesar Rp50 juta. Sedangkan modal untuk mendirikan UMKM adalah sebesar Rp300 juta yang bisa didapatkan dari bantuan pemerintah atau urun dana lewat platform [equity crowdfunding](landx.id). 
+
+### 5. Pembinaan Usaha
+
+
+Arti apa itu UMKM dan UKM juga dibedakan dari pembinaan usahanya. Dilansir dari UU Nomor 23 tahun 2014, pembinaan usaha skala mikro pengelolaannya dipegang oleh kabupaten dan kota. Sementara apa itu UMKM pembinaannya dibagi menjadi usaha kecil yang dibina oleh provinsi, serta usaha menengah yang dibina berskala nasional. 
+
+### 6. Pajak yang Dikenakan
+
+
+Diatur oleh PP Nomor 23 Tahun 2018, wajib pajak yang memperoleh penghasilan dengan peredaran bruto tidak melebihi Rp4,8 milyar, dikenakan pajak penghasilan sebesar 0,5%. Artinya, pelaku usaha yang memiliki peredaran bruto tertentu ini tidak wajib memungut dan membayar PPN atas setiap transaksinya, melainkan harus memungut PPh Final 0,5%
+
 ## Peran UMKM Bagi Ekonomi Indonesia
 
-Meski menggandeng nama kecil dan mengah, nyatanya UMKM punya sumbangsih besar bagi ekonomi negara *lho.* 
+Meski apa itu UMKM dan UKM menggandeng nama kecil dan menegah, nyatanya peran UMKM adalah  sumbangsih yang besar bagi ekonomi negara *lho.* 
 
 Berdasarkan data Kementerian Koperasi dan UKM Republik Indonesia yang dilansir dari [kompas](https://www.kompas.com/skola/read/2019/12/20/120000469/peran-umkm-dalam-perekonomian-indonesia), pada tahun 2016, UMKM menyumbang 60,43 % dari total PDB nasional. Selain itu, UMKM juga membuka lapangan pekerjaan dan menyerap hingga 89,2 % dari total tenaga kerja.
 
