@@ -29,7 +29,7 @@ image: https://images.unsplash.com/photo-1586034679970-cb7b5fc4928a?crop=entropy
 category:
   - Keuangan
 ---
-Untuk mencapai tujuan finansial, memahami bagaimana cara menabung yang benar adalala hal yang wajib diketahui. Meski biasanya bagaimana cara menabung sudah diajarkan sejak kecil, terkadang yang kita pelajari bukanlah bagaimana cara menabung yang terbaik.
+Untuk mencapai tujuan finansial, memahami bagaimana cara menabung yang benar adalala hal yang wajib diketahui. Meski biasanya bagaimana cara menabung sudah diajarkan sejak kecil, terkadang yang kita pelajari bukanlah bagaimana cara menabung terbaik.
 
 Karena itu, penting untuk kamu memahami bagaimana cara menabung yang baik untuk masa depan dan kebutuhan jangka panjang. Yuk, baca artikel ini untuk mendapatkan tips menabung untuk masa depan!
 
@@ -61,9 +61,15 @@ Jika Anda mengalami hal tersebut, mungkin Anda belum sepenuhnya bisa berstrategi
 
 Apabila tabungan Anda sering kandas di tengah jalan, salah satu penyebabnya mungkin karena Anda belum mantap menentukan alasan untuk menabung. Tujuan menjadi aspek paling penting sebagai pondasi mempelajari bagaimana cara menabung yang baik untuk masa depan.
 
-Sebagian orang masih menganggap bahwa aktivitas menabung hanya sebatas menyimpan uang sisa dari penghasilan bulanan mereka. Akibatnya, ketika Anda bertemu dengan sesuatu yang sebenarnya tidak terlalu Anda butuhkan namun menarik perhatian, Anda akan tergoda untuk menggunakan uang tabungan tersebut.
+Sebagian orang masih menganggap bahwa aktivitas menabung hanya sebatas menyimpan uang sisa dari penghasilan bulanan mereka. Padahal saat ini sudah banyak informasi soal strategi menabung yang bisa Anda coba. Mulai dari tips menabung harian, tips cara menabung dengan cepat dan efektif, hingga tips cara menabung yang baik untuk kebutuhan jangka panjang.
+
+
+
+Tanpa keinginan belajar bagaimana cara menabung yang baik, akibatnya adalah saat Anda bertemu dengan sesuatu yang sebenarnya tidak terlalu Anda butuhkan namun menarik perhatian, Anda akan tergoda untuk menggunakan uang tabungan tersebut.
 
 Oleh karena itu, sebelum mulai menabung, Anda juga perlu menentukan tujuan yang pasti. Anda bisa memulainya dengan hal-hal yang Anda sukai, seperti menabung untuk traveling atau membeli kendaraan/gadget baru. Dengan begitu, Anda akan memiliki fokus dan tujuan yang jelas, sehingga tidak akan mudah tergoda pada sesuatu yang tidak terlalu dibutuhkan.
+
+
 
 Setelah mulai terbiasa dan mampu mencapai tujuan-tujuan tersebut, mulainya untuk meng-upgrade tujuan menabung Anda ke tujuan yang lebih besar. Seperti tabungan untuk menikah, pergi haji, atau tabungan untuk biaya pendidikan anak di masa depan.
 
@@ -89,7 +95,9 @@ Misalnya, Anda bisa mulai menabung dengan 2% dari penghasilan per bulan. Anda ak
 
 ### 4. Mengatur Auto Debit ke Rekening Tabungan
 
-Meskipun sudah membuka rekening terpisah, godaan untuk mengurangi jumlah tabungan akan selalu ada. Terutama jika Anda sudah menghabiskan cukup banyak uang di awal tanggal gajian. Anda akan diserang rasa khawatir bahwa uang tersisa tidak akan cukup untuk memenuhi kebutuhan selama sebulan ke depan, kemudian akan berpikir untuk memotong sebagian dana tabungan.
+Meskipun sudah membuka rekening terpisah, godaan untuk mengurangi jumlah tabungan akan selalu ada. Terutama jika Anda sudah menghabiskan cukup banyak uang di awal tanggal gajian. Hal ini adalah ancaman bagi Anda yang masih belajar bagaimana cara menabung yang baik untuk masa depan.
+
+Anda akan diserang rasa khawatir bahwa uang tersisa tidak akan cukup untuk memenuhi kebutuhan selama sebulan ke depan, kemudian akan berpikir untuk memotong sebagian dana tabungan.
 
 Salah satu solusi untuk mencegah hal tersebut adalah dengan menerapkan sistem penarikan otomatis (auto-debit) menuju rekening tabungan. Dengan sistem ini, dana tabungan Anda akan otomatis dipisahkan dari rekening utama, sehingga tidak ada alasan untuk lupa menabung atau mengurangi anggaran tabungan semula.
 
@@ -106,7 +114,9 @@ Selain memudahkan Anda menabung, sistem ini juga dapat membantu Anda agar lebih 
 
 ## 5. Menyisihkan Sebagian Tabungan untuk [Investasi](https://landx.id/?gclid=Cj0KCQiAwqCOBhCdARIsAEPyW9nwi5NqHHR49GyAePUYL0Od4dF99zKuM6A-0DRLjtKLAAZuyxzPJM4aAuAYEALw_wcB)
 
-Selain menabung dengan cara konvensional, salah satu cara untuk dapat menambah nominal tabungan adalah dengan **[berinvestasi](https://landx.id/project/)**. Pada sistem tabungan biasa, uang yang Anda miliki hanya akan berdiam di dalam penyimpanan. Meskipun bank memberikan bunga dari simpanan Anda, nominalnya tidak seberapa.
+Selain menabung dengan cara konvensional, salah satu cara untuk dapat menambah nominal tabungan adalah dengan **[berinvestasi](https://landx.id/project/)**. Dengan berinvestasi di aset yang tepat dan disesuaikan dengan profil risiko yang diinginkan, investasi adalah salah satu tips tentang bagaimana cara menabung yang baik untuk masa depan.
+
+Pada sistem tabungan biasa, uang yang Anda miliki hanya akan berdiam di dalam penyimpanan. Meskipun bank memberikan bunga dari simpanan Anda, nominalnya tidak seberapa.
 
 Sementara itu, jika Anda menabung dalam bentuk [investasi](https://landx.id/), aset yang Anda miliki akan bekerja dan berpotensi memberikan keuntungan yang lebih tinggi. Menabung dalam bentuk [investasi](https://landx.id/?gclid=Cj0KCQiAwqCOBhCdARIsAEPyW9nwi5NqHHR49GyAePUYL0Od4dF99zKuM6A-0DRLjtKLAAZuyxzPJM4aAuAYEALw_wcB) memang lebih memiliki risiko dibanding menabung secara konvensional. Namun, dengan perencanaan dan perhitungan yang baik, risiko **berinvestasi dapat diminimalkan.**
 
