@@ -47,19 +47,19 @@ Padahal, selain untuk memenuhi kebutuhan atau keinginan, belajar bagaimana cara 
 
 - - -
 
-## Cara Menabung dengan Benar
+## Tips Cara Menabung dengan Baik
 
 Sebagian dari Anda mungkin sudah mulai menerapkan kebiasaan menabung saat pertama kali memiliki penghasilan, namun tidak jarang pula yang tabungannya kandas di tengah jalan karena berbagai penyebab.
 
 Selain itu, menabung juga sering kali terhalang karena gaya hidup konsumtif yang membawa kita sering mengeluarkan uang secara impulsif tanpa memikirkan dampak jangka panjang dari keputusan keuangan yang kita ambil tersebut.
 
-Jika Anda mengalami hal tersebut, mungkin ada yang salah dengan cara Anda menabung. Anda bisa mencoba beberapa tips menabung berikut ini agar aktivitas menabung Anda bisa lebih maksimal.
+Jika Anda mengalami hal tersebut, mungkin Anda belum sepenuhnya bisa berstrategi mempelajari bagaimana cara Anda menabung dengan baik. Anda bisa mencoba beberapa tips menabung untuk masa depanberikut ini agar aktivitas menabung Anda bisa lebih maksimal.
 
-## 5 Tips Utama Agar Dapat Menabung dengan Benar
+## 5 Tips Menabung untuk Masa Depan
 
 ### 1. Menetapkan Tujuan Menabung
 
-Apabila tabungan Anda sering kandas di tengah jalan, salah satu penyebabnya mungkin karena Anda belum mantap menentukan alasan untuk menabung.
+Apabila tabungan Anda sering kandas di tengah jalan, salah satu penyebabnya mungkin karena Anda belum mantap menentukan alasan untuk menabung. Tujuan menjadi aspek paling penting sebagai pondasi mempelajari bagaimana cara menabung yang baik untuk masa depan.
 
 Sebagian orang masih menganggap bahwa aktivitas menabung hanya sebatas menyimpan uang sisa dari penghasilan bulanan mereka. Akibatnya, ketika Anda bertemu dengan sesuatu yang sebenarnya tidak terlalu Anda butuhkan namun menarik perhatian, Anda akan tergoda untuk menggunakan uang tabungan tersebut.
 
@@ -69,7 +69,9 @@ Setelah mulai terbiasa dan mampu mencapai tujuan-tujuan tersebut, mulainya untuk
 
 ### 2. Memisahkan Rekening Khusus untuk Tabungan
 
-Tips selanjutnya yang juga perlu diterapkan adalah membuka rekening baru khusus digunakan untuk menyimpan tabungan. Seperti pembahasan sebelumnya, aktivitas menabung yang baik bukan hanya sekadar menyimpan uang sisa bulanan. Dana tabungan harus direncanakan dan disisihkan sejak awal.
+Tips selanjutnya yang juga perlu diterapkan dalam belajar bagaimana cara menabung yang baik untuk masa depan adalah membuka rekening baru khusus digunakan untuk menyimpan tabungan. 
+
+Seperti pembahasan sebelumnya, aktivitas menabung yang baik bukan hanya sekadar menyimpan uang sisa bulanan. Dana tabungan harus direncanakan dan disisihkan sejak awal.
 
 Oleh karena itu, membuka rekening khusus untuk tabungan adalah cara paling ampuh agar tabungan Anda tidak tercampur dengan dana untuk kebutuhan sehari-hari. Dengan begitu, Anda juga akan lebih mudah mengelola kebutuhan berdasarkan pemisahan dana.
 
@@ -81,7 +83,7 @@ Beberapa pakar perencana keuangan menyebutkan bahwa **nominal ideal untuk ditabu
 
 **Clark Howard,** seorang pakar konsumen sekaligus pendiri lembaga Consumer Action Center, mengatakan bahwa **menabung** sebaiknya dimulai dari nominal yang kecil agar tidak terasa berat.
 
-Jika angka 10-20% terasa terlalu berat, Anda bisa memulainya dengan menabung 2-5% dari penghasilan bulanan. Namun, angka tersebut harus berangsur ditingkatkan sedikit demi sedikit dengan target yang pasti.
+Jika angka 10-20% terasa terlalu berat, Anda bisa memulainya dengan menabung 2-5% dari penghasilan bulanan. Namun, angka tersebut harus berangsur ditingkatkan sedikit demi sedikit dengan target yang pasti. Memulai sedikit demi sedikit adalah salah satu upaya sepenuhnya mengaplikasisan bagaimana cara menabung yang baik untuk masa depan.
 
 Misalnya, Anda bisa mulai menabung dengan 2% dari penghasilan per bulan. Anda akan meningkatkannya sedikit demi sedikit hingga mencapai angka 10% di bulan kesepuluh, dan seterusnya.
 
