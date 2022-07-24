@@ -43,7 +43,7 @@ Meskipun sudah memasuki usia produktif dan memiliki penghasilan, biaya hidup yan
 
 Padahal, selain untuk memenuhi kebutuhan atau keinginan, belajar bagaimana cara menabung dengan baik juga merupakan salah satu cara untuk menjamin kestabilan keuangan agar siap menghadapi hal-hal tidak terduga di masa mendatang.
 
-**Menabung dengan cara yang benar** dapat berperan penting untuk belajar mengatur keuangan, terutama bagi Anda yang baru mulai bekerja dan mulai memiliki penghasilan. *First jobber* cenderung lebih memiliki kesempatan untuk belajar menabung karena belum banyak terbentur oleh kebutuhan dan tanggungan.
+**Karena itu, kamu harus belajar bagaimana cara menabung dengan baik untuk masa depan.** Mengetahui bagaimana cara menabung yang baik untuk kebutuhan jangka panjang dapat berperan penting untuk belajar mengatur keuangan, terutama bagi Anda yang baru mulai bekerja dan mulai memiliki penghasilan. *First jobber* cenderung lebih memiliki kesempatan untuk belajar menabung karena belum banyak terbentur oleh kebutuhan dan tanggungan.
 
 - - -
 
