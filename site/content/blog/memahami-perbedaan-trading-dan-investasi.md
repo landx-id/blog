@@ -44,7 +44,23 @@ Sehingga nantinya, kamu semakin yakin menentukan pilihan untuk lebih baik tradin
 
 ## Perbedaan Trading dan Investasi Saham
 
-Pada dasarnya, trading dan investasi sebenarnya memiliki tujuan yang sama yaitu untuk memaksimalkan keuntungan saat berinvestasi ke dalam saham. Akan tetapi terdapat beberapa perbedaan konsep dalam cara mendapatkan keuntungan dari saham yang dimiliki.
+Pada dasarnya, perbedaan trading dan investasi didasari oleh tujuan yang sama, yaitu untuk memaksimalkan keuntungan saat berinvestasi ke dalam saham. 
+
+Akan tetapi, konsep dan mindset pemegang saham dalam mencari keuntungan menjadi tanda jelas soal perbedaan trading dan investasi. Berikut ini penjelasan lengkap tentang perbedaan trading dan investasi.
+
+### 1. Jangka Waktu
+
+Perbedaan trading dan investasi yang paling terlihat jelas adalah pemilihan jangka waktu dalam memegang saham yang dibeli. Dalam investasi, terdapat target yang ditentukan sebelum membeli saham.
+
+Seorang investor akan membeli saham untuk disimpan hingga untuk target waktu atau hingga mencapai nominal tertentu sesuai dengan tipe investornya. Misalnya, tipe investor konservatif akan mengambil keuntungan investasi akan diambil dalam waktu lebih dari empat tahun. 
+
+Tipe investor ini cenderung tidak akan mencairkan dana investasi jika di kemudian hari sedang terjadi penurunan atas nilai investasi, bahkan berpotensi mengalami kerugian.
+
+Sementara perbedaan trading dan investasi, dalam trading patokan jual dan beli saham adalah perubahan harga dalam waktu yang sangat singkat. Keuntungan trading diambil dari membeli saham pada saat harganya turun.
+
+Lalu, jika saham naik pada kisaran harga tertentu, seorang trader akan menjualnya kembali dengan cepat apabila nilai saham tersebut telah mencapai angka yang diinginkannya. Hitungannya bisa dalam jam, hari, atau minggu.
+
+
 
 ## Apa Itu Trading Saham
 
@@ -87,6 +103,12 @@ Anda bisa menyisihkan sebagian uang yang anda miliki untuk trading dan sisanya a
 Contohnya anda bisa memasukkan sebagian uang anda ke dalam saham yang stabil dan sisanya anda bisa masukkan ke dalam saham dengan harga yang lebih fluktuatif sehingga anda bisa mengoptimalkan keuntungan yang bisa anda dapatkan.
 
 Karena itu anda harus bisa mengatur aset yang anda miliki agar memberikan keuntungan yang maksimal.
+
+## Keuntungan Investasi
+
+## Keuntungan Trading
+
+
 
 ## Diversifikasi dalam Investasi
 
