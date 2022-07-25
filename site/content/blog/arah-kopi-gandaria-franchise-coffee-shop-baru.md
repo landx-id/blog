@@ -28,7 +28,7 @@ Arah Kopi sukses rampungkan 3 cabang terbaru dari rangkaian kerja sama pendanaan
 
 **Yuk, lihat outlet terbaru Arah Kopi Gandaria!**
 
-
+{{< youtube id="gFgwilduPg4" >}}
 
 ## About Arah Kopi
 
