@@ -28,17 +28,17 @@ category:
   - Investasi
   - Keuangan
 ---
-Apabila kamu merupakan investor pemula yang ingin masuk ke dunia saham, kamu harus paham dulu perbedaan antara trading dan investasi dalam seham sehingga kamu bisa menentukan apakah kamu ingin menjadi seorang investor atau trader saham.
+Pernah dengar opsi investasi vs trading? Jika kamu merupakan investor pemula yang ingin masuk ke dunia saham, arti dari perbedaan trading dan investasi sangat perlu dipami lho!
 
-Untuk pemula yang baru mau bermain tentu saja bertanya-tanya apa itu trading saham dan apa yang membedakan trading dengan investasi.
+Pemula tentu saja bertanya-tanya apa bedanya investasi dan trading karena kedua hal ini serupa tapi tak sama. Karena itu, kamu harus tahu perbedaan trader dan investor untuk bisa menentukan kamu ingin jadi yang mana.
 
-Konsep trading dan investasi seringkali kurang dipahami dengan baik oleh para investor terutama bagi mereka yang tidak menentukan tujuan dengan jelas sebelum mulai bermain di dunia saham.
+Umumnya, konsep perbedaan trading dan investasi seringkali kurang dipahami dengan baik terutama bagi mereka yang tidak menentukan tujuan jelas sebelum mulai bermain di dunia saham. 
 
-Dalam dunia saham, baik trading maupun investasi sebenarnya sama-sama bertujuan untuk memberikan terbaik dari saham yang dipegang, namun dua hal ini memiliki perbedaan dari sisi bagaimana cara mendapatkan keuntungan dari saham yang dipegang tersebut.
+Dalam dunia saham, baik trading maupun investasi sebenarnya sama-sama bertujuan untuk memberikan terbaik dari saham yang dipegang, namun bedanya trader dan investor adalah dari sisi proses mendapatkan keuntungan dari saham yang dimiliki.
 
-Supaya kamu tidak kebingungan lagi membedakan trading dan investasi, mari kita bahas tentang apa itu trading dan investasi agar kamu tau mau jadi investor atau trader saham.
+Supaya kamu tidak kebingungan lagi bedanya trader dan investor, yuk kita bahas tentang perbedaan trading dan investasi serta beda trader dan investor dari segi mindset. 
 
-- - -
+Sehingga nantinya, kamu semakin yakin menentukan pilihan untuk lebih baik trading atau investasi.
 
 - - -
 
