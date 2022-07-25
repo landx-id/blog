@@ -65,7 +65,7 @@ Aplikasi ini dikembangkan oleh salah satu bank swasta di Indonesia, BCA Sekurita
 
 Diterbitkan oleh PT Star Mercato Capitale, Tanamduit adalah aplikasi investasi resmi OJK dengan nomor KEP-13/PM.21/2017. Aplikasi ini menawarkan instrumen investasi Surat Berharga Negara (SBN), reksadana, emas, dan asuransi. Tanamduit memiliki fasilitas *self-learning* untuk investasi reksadana yang membantu investor untuk melihat profil risikonya.
 
-## 8. Koinworks
+### 8. Koinworks
 
 Didirikan sejak 2016, aplikasi investasi resmi OJK ini mengantongi izin dengan nomor KEP-125/D.05/2019. Aplikasi investasi ini awalnya memberikan tawaran investasi berupa *peer-to-peer lending*, yaitu layanan pinjam meminjam uang dalam mata uang rupiah secara langsung antara kreditur/*lender* (pemberi pinjaman) dan debitur/*borrower* (penerima pinjaman). Selain itu, aplikasi ini juga menawarkan investasi emas digital dan obligasi negara.
 
