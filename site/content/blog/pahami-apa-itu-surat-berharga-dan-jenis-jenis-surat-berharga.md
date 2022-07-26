@@ -3,12 +3,14 @@ draft: false
 author: Abdul Wahhab
 slug: pahami-apa-itu-surat-berharga-dan-jenis-jenis-surat-berharga
 title: Pahami Apa Itu Surat Berharga dan Jenis-Jenis Surat Berharga
-metaTitle: Pahami Apa Itu Surat Berharga dan Jenis-Jenis Surat Berharga
-metaDescription: Kenali jenis-jenis surat berharga dan surat-surat berharga untuk investasi anda
-intro: "Surat berharga adalah salah satu instrumen yang bisa dijadikan instrumen
-  investasi. Karena itu yuk kenali berbagai jenis surat berharga yang mungkin
-  bisa jadi instrumen investasi anda. "
-date: 2021-05-25T04:18:10.000Z
+metaTitle: "Apa Itu Surat Berharga: Karakteristik dan Jenis-Jenis Surat Berharga"
+metaDescription: Apa itu surat berharga adalah dokumen yang nilainya diakui
+  negara dan dilindungi oleh hukum. Ini dia  karakteristik dan jenis-jenis surat
+  berharga.
+intro: Apa itu surat berharga adalah dokumen yang nilainya diakui negara dan
+  dilindungi oleh hukum. Yuk, pelajari karakteristik surat berharga, jenis-jenis
+  surat berharga, dan fungs pentingnya.
+date: 2022-07-26T06:44:17.575Z
 tag:
   - surat berharga
   - kumpulan surat berharga
@@ -19,7 +21,8 @@ category:
   - Investasi
 featuredImage:
   src: https://images.unsplash.com/photo-1516409590654-e8d51fc2d25c?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1126&q=80
-  alt: "Berbagai jenis surat berharga yang harus kamu kenal "
+  alt: "Pengertian surat berharga dan jenis-jenis surat berharga yang harus kamu
+    kenal "
   title: Mengenal berbagai jenis surat berharga yang harus kamu kenali
 ---
 Apa itu surat berharga adalah dokumen yang memiliki nilai, dilindungi oleh hukum, dan diakui oleh negara. Utamanya, pengertian suurat berharga adalah dokumen resmi yang digunakan dalam transaksi perdagangan, penagihan, pembayaran, dan transaksi lainnya.
