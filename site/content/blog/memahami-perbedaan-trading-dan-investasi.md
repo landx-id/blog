@@ -22,7 +22,7 @@ tag:
 featuredImage:
   src: https://images.unsplash.com/photo-1518186233392-c232efbf2373?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxMTc3M3wwfDF8c2VhcmNofDM1fHxzdG9ja3xlbnwwfHx8fDE2NDAxNDc3ODU&ixlib=rb-1.2.1&q=80&w=1080
   alt: Perbedaan Investasi dan Trading
-  title: Trading Vs Investasi
+  title: Memahami Trading Vs Investasi perbedaan trading dan investasi
 image: https://images.unsplash.com/photo-1518186233392-c232efbf2373?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxMTc3M3wwfDF8c2VhcmNofDM1fHxzdG9ja3xlbnwwfHx8fDE2NDAxNDc3ODU&ixlib=rb-1.2.1&q=80&w=1080
 category:
   - Investasi
@@ -66,11 +66,11 @@ Biasanya para investor akan membeli dan menjual saham ketika harganya menyentuh 
 
 ### 3. Keuntungan Investasi
 
-Keuntungan investasi didapat lewat pihak lain yang mengelola uang tersebut, seperti platform investasi. Investor hanya perlu menunggu keuntungannya dan mungkin menanggung kerugian.
+Keuntungan investasi didapat lewat pihak lain yang mengelola uang tersebut, seperti platform investasi. Investor hanya perlu menunggu keuntungannya dan mungkin menanggung kerugian. Waktu memperoleh keuntungan inilah yang jadi perbedaan trading dan investasi.
 
 ### 4. Karakteristik Trading
 
-Perbedaan investasi dan trading terletak di tidak adanya pihak manajemen investasi atau platform yang mengelola modal seorang trader. Umumnya, trader bertujuan pada target nominal harga saham agar meraih target tersebut dalam waktu yang singkat. 
+Perbedaan trading dan investasi terletak di tidak adanya pihak manajemen investasi atau platform yang mengelola modal seorang trader. Umumnya, trader bertujuan pada target nominal harga saham agar meraih target tersebut dalam waktu yang singkat. 
 
 Jika saham naik pada kisaran harga tertentu, seorang trader akan menjualnya kembali dengan cepat apabila nilai saham tersebut telah mencapai angka yang diinginkannya. Hitungannya bisa dalam jam, hari, atau minggu.
 
