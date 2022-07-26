@@ -98,6 +98,8 @@ Apabila anda memutuskan untuk menjadi seorang trader sahama maka anda harus bisa
 
 Akan tetapi, hal ini tentu saja membutuhkan analisis yang mendalam karena hal ini bisa dibilang cukup berisiko dan agak sulit untuk pemula yang belum pernah terjun dan mendalami dunia saham sebelumnya.
 
+Karena itu, karakteristik saham yang cocok untuk trading adalah [saham dengan volatilitas tinggi](https://landx.id/blog/volatilitas-definisi-jenis-cara-dan-penyebab-terjadinya-volatilitas/) di pasar modal RI. Ini karena trading adalah transaksi jual-beli saham jangka pendek.
+
 Walaupun potensi keuntungannya sangat besar, kamu harus ingat bahwa keuntungan dan risiko yang berjalan beringan dalam investasi sehingga kamu juga harus sanggup menanggung risiko tersebut.
 
 ## Pengertian Investasi Saham
@@ -125,8 +127,6 @@ Anda bisa menyisihkan sebagian uang yang anda miliki untuk trading dan sisanya a
 Contohnya anda bisa memasukkan sebagian uang anda ke dalam saham yang stabil dan sisanya anda bisa masukkan ke dalam saham dengan harga yang lebih fluktuatif sehingga anda bisa mengoptimalkan keuntungan yang bisa anda dapatkan.
 
 Karena itu anda harus bisa mengatur aset yang anda miliki agar memberikan keuntungan yang maksimal.
-
-## Karakteristik Saham yang Cocok untuk Trading
 
 ## Diversifikasi dalam Investasi
 
