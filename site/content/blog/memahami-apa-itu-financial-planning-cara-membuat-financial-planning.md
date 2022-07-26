@@ -1,7 +1,7 @@
 ---
 draft: false
 author: Rafa Syawalia R
-title: Memahami Apa Itu Financial Planning & Cara Membuat Financial Planning
+title: Memahami Apa Itu Financial Planning & Cara Menyusun Financial Planning
 metaTitle: "Apa Itu Financial Planning: Tujuan dan Cara Membuat Financial Planning"
 metaDescription: Apa itu financial planning adalah proses penyederhanaan
   perencanaan keuangan seseorangan atau kelompok untuk memenuhi tujuan
