@@ -1,5 +1,5 @@
 ---
-draft: true
+draft: false
 author: Rafa Syawalia R
 title: Memahami Apa Itu Financial Planning & Cara Membuat Financial Planning
 metaTitle: "Apa Itu Financial Planning: Tujuan dan Cara Membuat Financial Planning"
