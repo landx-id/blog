@@ -10,6 +10,16 @@ intro: Untuk memenuhi tujuan hidup, kita perlu memahami apa itu financial
   planning dan cara membuat perencanaan keuangan yang akan membantu kita di masa
   depan nanti. Yuk simak artikel ini kalau kamu mau menjadi financial planner.
 date: 2022-07-25T02:57:23.965Z
+tag:
+  - Mengatur Keuangan
+  - Mengelola Keuangan
+  - Perencanaan Keuangan
+  - Investasi Terbaik
+  - Investasi untuk Pemula
+  - Investasi Keuangan
+category:
+  - Keuangan
+  - Investasi
 featuredImage:
   alt: Memahami apa itu financial planning dan cara membuat perencanaan keuangan
   title: Definisi apa itu financial planning dan cara membuat financial planning
@@ -20,47 +30,27 @@ featuredImage:
 
 Perencanaan keuangan atau biasa dikenal dengan financial planning adalah suatu perencanaan dalam mengelola pendapatan seseorang untuk kebutuhan di masa yang akan datang. 
 
-
-
 Konsep financial plan ini akan membantu kita membedakan kebutuhan primer, sekunder, tersier, dan mana yang hanya sekadar keinginan kita. Dengan mengetahui hal-hal tersebut, maka kita akan mudah membangun skala prioritas keuangan dan mencapai tujuan yang diharapkan.
 
-
-
 Untuk lebih jelas yuk kita simak penjelasan mengenai apa itu financial planning dan cara membuat financial planning.
-
-
 
 ## Apa itu Financial Planning?
 
 Financial planning adalah proses untuk mengelola keuangan baik seseorang atau perusahaan berdasarkan tujuan finansialnya. Dalam penerapannya, apa itu financial planning biasanya tujuan perencanaan keuangan ini ditargetkan untuk kebutuhan jangka panjang.
 
-
-
 Secara sederhana, apa itu financial planning merujuk pada proses penyederhanaan pendapatan, pengeluaran, aset dan berbagai kebutuhan kewajiban rumah tangga untuk mengatur perencanaan atau menyiapkan dana darurat di masa sekarang dan masa mendatang. 
-
-
 
 Dilansir dari Investopedia, financial planner adalah seseorang atau lembaga profesional yang memenuhi syarat untuk membantu individu dan perusahaan untuk memenuhi tujuan keuangan jangka panjang mereka. 
 
-
-
 Kegiatan ini bukan hanya perencanaan saja, tetapi arti dari apa itu financial planning merupakan proses penyederhanaan yang terus berlanjut dan dilakukan secara berkala. Selama kita masih hidup, maka kita harus membuat strategi setelah membuat perencanaan untuk memastikan kondisi finansial kita stabil dan tentunya bisa mencapai tujuan yang kita inginkan. 
 
-
-
 Selain dalam kehidupan pribadi, perencanaan keuangan juga berlaku pada perusahaan yang akan dibahas secara sekilas dalam artikel ini.
-
-
 
 ## Apa Itu Financial Management?
 
 Konsep ini tidak berbeda dari konsep yang diterapkan individu juga. Financial management adalah semua aktivitas atau kegiatan perusahaan yang berkaitan dengan cara mendapatkan, menggunakan, dan mengelola keuangan.
 
-
-
 Secara sederhana, financial management adalah kegiatan manajemen yang bertujuan untuk mengelola dana maupun aset-aset yang dimiliki perusahaan untuk dimanfaatkan pada hal-hal aktivitas atau kegiatan yang mencapai tujuan utama perusahaan, yaitu profit.
-
-
 
 Dalam perusahaan atau menjalankan bisnis, manajemen keuangan memiliki tiga aktivitas keuangan yang dilakukan manajer keuangan atau financial planner, yaitu:
 
@@ -69,8 +59,6 @@ Dalam perusahaan atau menjalankan bisnis, manajemen keuangan memiliki tiga aktiv
 * Pengelolaan aktiva
 
 Ketiga hal tersebut berkaitan dengan sumber dana internal maupun eksternal perusahaan. Modal kerja dan kepemilikan saham juga termasuk tugas seorang financial planner dalam perusahaan.
-
-
 
 ## Manfaat Financial Planning
 
@@ -88,11 +76,7 @@ Dengan membuat perencanaan keuangan, kita bisa melihat kemana pengeluaran kita s
 
 Dana investasi dalam financial planning adalah uang dingin yang berguna karena uang tersebut tidak masuk dalam anggaran manapun. Oleh karena itu, kemampuan untuk mengidentifikasi uang dingin sangat penting jika kalian ingin mendapatkan imbal hasil di kemudian hari.
 
-
-
 Menerapkan financial planning adalah upaya yang dapat membantu memfilter investasi apa yang cocok bagi profil calon investor.
-
-
 
 Seseorang yang memiliki tanggungan keluarga dan tidak ingin mendapatkan risiko dari investasi, perlu memperhatikan instrumen investasi dengan seseorang yang berorientasi high risk high return. 
 
@@ -104,15 +88,11 @@ Dengan keputusan finansial lebih terarah dapat menekan kita untuk mengeluarkan u
 
 Beberapa dari kita tentu memiliki prioritas keuangan yang berbeda-beda, sebagai contoh salah satu dari kamu ingin memiliki aset penting sebagai tujuan finansial kamu. Jika kamu merencanakan keuangan dengan benar untuk memiliki sebuah aset, maka tujuan untuk membeli aset sebagai keinginan jangka panjang kamu bisa tercapai. 
 
-
-
 Namun, jangan lupa juga untuk mempertimbangkan kapasitas keuangan jangka panjang dan melakukan perhitungan secara presisi agar tujuan tersebut bisa diraih dalam waktu jangka yang ditentukan. 
 
 ### 6. Merencanakan Asuransi
 
 Selain investasi, ada pula asuransi sebagai instrumen penting dalam perencanaan keuangan. Fungsi asuransi dalam financial planning bisa digunakan untuk menyisihkan sedikit uang per bulannya sebagai dana perlindungan diri. 
-
-
 
 Jika merasa keberatan dengan menyisihkan dana asuransi, maka kamu bisa memproyeksikan seberapa besar biaya kesehatan atau biaya lain yang perlu dikeluarkan karena tidak memiliki asuransi.  
 
@@ -124,8 +104,6 @@ Kita perlu memiliki pengukuran untuk mencapai tujuan finansial masing-masing seh
 
 Dengan adanya cash flow management, perencanaan keuangan dibangun atas asumsi bahwa seseorang telah memahami dengan benar berapa pengeluaran dan pemasukannya. Sehingga dapat mengorganisir hal-hal yang berada dalam jangkauan finansialnya. 
 
-
-
 Area ini merupakan hal paling dasar atau fundamental yaitu pembukuan pemasukan dan pengeluaran seseorang atau perusahaan. Hal ini bisa dijadikan indikator untuk evaluasi seseorang dalam pengeluaran keuangannya. Pada perusahaan, ini bisa menjadi penilaian kinerja serta pencatatan pertumbuhan perusahaan dari tahun ke tahun.
 
 ### 2. Risk Management
@@ -135,8 +113,6 @@ Area kedua adalah risk management yang meliputi proses identifikasi risiko yang 
 ### 3. Investment Planning
 
 Investment planning adalah proses identifikasi tujuan perencanaan keuangan dengan mengubahnya melalui pembuatan rencana. 
-
-
 
 Kita perlu mencocokkan tujuan finansial kita dengan pendapatan keuangan yang tersedia. Dengan banyaknya sarana investasi yang dapat kita pilih, kita bisa menyesuaikan dana kita untuk berinvestasi yang cocok dengan kita.
 
@@ -156,15 +132,11 @@ Jika pengelolaan aset merupakan tujuan finansial kita, maka kita telah melakukan
 
 Setelah menyimak penjelasan tadi hingga area-area mengenai financial planning. Dengan menerapkan financial planning, kita bisa menghindari kekhawatiran, melindungi aset serta meraih tujuan jangka panjang.
 
-
-
 Kita bisa melakukan financial planning untuk jangka pendek dulu sebagai pelatihan dan mengenal dasar kondisi keuangan kita. Lantas, bagaimana cara membuat financial planning jangka panjang?
 
 ### 1. Menyusun Tujuan untuk Jangka Pendek, Menengah, dan Panjang
 
 Kita perlu menyusun tujuan kita berdasarkan kurun waktu, seperti contoh sebelumnya adalah tujuan jangka panjang jika kita memiliki tujuan untuk beberapa tahun ke depan. Dengan menerapkan tujuan berdasarkan waktu, kita bisa memproyeksikan keinginan yang ingin kita raih secara tersusun dan rinci untuk langkah-langkah berdasarkan kurun waktu.
-
-
 
 Rasanya mustahil dalam waktu bersamaan kita dapat meraih semua tujuan finansial kita. Maka dari itu, kita perlu mengatur keuangan kita dengan baik berdasarkan waktu.
 
@@ -192,27 +164,23 @@ Setelah membuat perencanaan dan melaksanakannya, kita perlu mengevaluasi anggara
 
 Setiap orang memiliki rencana keuangan pribadi karena tujuan orang-orang akan berbeda dengan tujuan kita. Hal ini juga dipengaruhi dari jumlah pemasukan dan pengeluaran, kebutuhan dan gaya hidup, tujuan dan keinginan masing-masing, dan cara yang digunakan untuk meraih tujuan tersebut.
 
-
-
 Salah satu contoh financial planning pribadi adalah sebagai berikut:
-
-
 
 Tika adalah fresh graduate entry level dengan gaji Rp7.000.000 dalam waktu 6 tahun, Tika ingin membeli rumah. Untuk mempermudah, misalkan, rumah yang diincar Tika 6 tahun lagi setelah dihitung dengan memperhitungkan tingkat inflasi rata-rata, harganya menjadi Rp150.000.000.
 
-
-
 Selain rumah, Tika memiliki tujuan lain, yaitu menikah. Maka dari itu, Tika perlu mempersiapkan biaya pernikahan. Disamping itu pula, Tika ingin memiliki kendaraan pribadi berupa mobil. Sebagai perumpamaan, target keinginan Tika harus dicapai dalam waktu 6 tahun.
 
-
-
 Berikut perencanaan keuangan pribadi Tika:
+
+<!--StartFragment-->
 
 ![](https://cdn.discordapp.com/attachments/995954280559284304/999976239379005520/Screenshot_2022-07-22_164245.png)
 
 Berikut adalah tabel pemasukan Tika:
 
-![Screenshot_2022-07-22_164309.png (1398×234)](https://cdn.discordapp.com/attachments/995954280559284304/999976239706165319/Screenshot_2022-07-22_164309.png)
+![](https://cdn.discordapp.com/attachments/995954280559284304/999976239706165319/Screenshot_2022-07-22_164309.png)
+
+
 
 **Menghitung dan membuat perencanaan**
 Dari tujuan yang sudah ditetapkan dan melihat sumber pemasukan, Tika memutuskan untuk menggunakan gaji utama sebagai sumber dana tujuan jangka panjang 6 tahunnya.
@@ -225,7 +193,11 @@ Rp1.200.000 + Rp900.000 = Rp2.100.000
 
 Untuk memenuhi kebutuhan sehari-sehari, Tika bisa membuat anggaran rutin per bulan seperti ini:
 
-![Screenshot_2022-07-22_164327.png (1392×314)](https://cdn.discordapp.com/attachments/995954280559284304/999976240092020797/Screenshot_2022-07-22_164327.png)
+<!--StartFragment-->
+
+![](https://cdn.discordapp.com/attachments/995954280559284304/999976240092020797/Screenshot_2022-07-22_164327.png)
+
+<!--EndFragment-->
 
 Financial planning adalah konsep yang berguna untuk kita merealisasikan tujuan keinginan kita dan menghadapi kebutuhan yang mungkin diperlukan pada masa depan nanti. Investasi bisa menjadi opsi sebagai financial planning karena selain mendapatkan pemasukan dari keuntungan investasi, keuntungan tersebut juga bisa membantu kita untuk merealisasikan keinginan kita.
 
@@ -237,7 +209,14 @@ Kamu perlu memilih platform terpercaya yang sudah berizin resmi dari Otoritas Ja
 
 LandX merupakan salah satu platform equity crowdfunding yang sedang bertansisi ke securities crowdfunding. LandX juga berpengalaman dalam mengembangkan bisnis potensial dari berbagai industri F&B, seperti Cloud Kitchen, Resto Sushi, dan Gelato Hits, bisnis pusat kebugaran mega gym, hingga bisnis di industri properti seperti kos-kosan.
 
-## 
 [Yuk Wujudkan Target Financial Planning dengan Investasi di Bisnis Potensial Lewat LandX Sekarang!](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)
+
+<!--StartFragment-->
+
+[![Bagaimana? Kamu lebih suka bisnis dengan buyback guarantee atau yang bisa disimpan dalam jangka panjang? Apapun pilihan kamu.. Yuk Patungan  dengan Keuntungan Menjanjikan Bareng LandX](https://accountgram-production.sfo2.cdn.digitaloceanspaces.com/landx_ghost/2021/10/Equity-Crowdfunding-di-Indonesia-1--3.png)](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)
+
+[\#Instrumen Investasi](https://landx.id/blog/tag/instrumen-investasi)[\#Cara Investasi](https://landx.id/blog/tag/cara-investasi)[\#Investasi untuk Pemula](https://landx.id/blog/tag/investasi-untuk-pemula)[\#Tips Investasi](https://landx.id/blog/tag/tips-investasi)[\#Diversifikasi Investasi](https://landx.id/blog/tag/diversifikasi-investasi)
+
+
 
 <!--EndFragment-->
