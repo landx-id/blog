@@ -42,7 +42,7 @@ Current ratio atau **rasio lancar adalah** rasio keuangan yang menggambarkan kem
 
 Berikut rumus rasio lancar (current ratio):
 
-![](https://lh5.googleusercontent.com/2tFTR7x9s_xhjRiGgEyRwZy2JrOveN4u8EVCcuUnOYdxq1755LSEEhlIzPDJ3g60Yr-rC_8iuw9iYZckuaDD0MwI-7L2c7PJtCwBVy5T2Unc8VWQGsEgzsNfJpT0E_C6gX0GiA9Qwk70zj5R2HWc3z4)
+![rumus rasio lancar (Current Rasio)](https://lh5.googleusercontent.com/2tFTR7x9s_xhjRiGgEyRwZy2JrOveN4u8EVCcuUnOYdxq1755LSEEhlIzPDJ3g60Yr-rC_8iuw9iYZckuaDD0MwI-7L2c7PJtCwBVy5T2Unc8VWQGsEgzsNfJpT0E_C6gX0GiA9Qwk70zj5R2HWc3z4 "rumus rasio lancar (Current Rasio)")
 
 Gambar di atas merupakan rumus rasio likuiditas jenis rumus rasio lancar dengan penjelasan sebagai berikut:
 
@@ -61,7 +61,7 @@ Quick ratio merupakan perhitungan rasio yang lebih detail dibandingkan current r
 
 Jadi, quick ratio atau **rasio cepat adalah** rasio yang menunjukkan  kemampuan perusahaan membayar utang jangka pendek dengan aset-aset yang paling likuid. Berikut rumus quick ratio atau rasio cepat:
 
-![](https://lh3.googleusercontent.com/q0f4WuZEe6wRDB1b_VsbaaZcrtZc889PMWYa2GtRpj0seuGsAwLMUq4TN2nVHfh-0BKZyJIQdUeqxQ4FxAFvOUaL2VCd3-QoskGlt9CJSMkvdQmpeJIb5MJy_BfoVL7cBe5kVN9Y3bkZu2yBLYCI_Hs)
+![rumus quick ratio](https://lh3.googleusercontent.com/q0f4WuZEe6wRDB1b_VsbaaZcrtZc889PMWYa2GtRpj0seuGsAwLMUq4TN2nVHfh-0BKZyJIQdUeqxQ4FxAFvOUaL2VCd3-QoskGlt9CJSMkvdQmpeJIb5MJy_BfoVL7cBe5kVN9Y3bkZu2yBLYCI_Hs "rumus quick ratio")
 
 Gambar di atas merupakan rumus rasio cepat (quick ratio) dengan penjelasan sebagai berikut:
 
@@ -77,7 +77,7 @@ Serupa dengan definisi dua rasio sebelumnya, cash ratio atau **rasio kas adalah*
 
 Rumus cash ratio dihitung dengan membandingkan jumlah kas yang dimiliki perusahaan dengan kewajiban lancar yang harus segera mereka penuhi. Berikut rumus cash ratio yang bisa kamu gunakan:
 
-![](https://lh5.googleusercontent.com/QBDXBEu3vFLfcqYW8CHklyJduDmUCY906QbPZQAcrKL-LyXekTol3pwQk1bANR7Z5HhpCLk6vneVh5dwzgURhjkH557l0_RrZla4mr3CzBzXzZDjrHUGiJgOWQkpTj6JHCXuyrYjFfmOrpIYUQgouNA)
+![rumus cash ratio](https://lh5.googleusercontent.com/QBDXBEu3vFLfcqYW8CHklyJduDmUCY906QbPZQAcrKL-LyXekTol3pwQk1bANR7Z5HhpCLk6vneVh5dwzgURhjkH557l0_RrZla4mr3CzBzXzZDjrHUGiJgOWQkpTj6JHCXuyrYjFfmOrpIYUQgouNA "rumus cash ratio")
 
 Gambar di atas merupakan rumus rasio kas (cash ratio) dengan penjelasan sebagai berikut:
 
