@@ -9,7 +9,7 @@ metaDescription: Investasi trading adalah dua hal yang harus kamu pahami saat
 intro: Investasi dan trading adalah dua hal akan yang akan sering kamu temui
   saat berinvestasi ke dalam saham. Karena itu, yuk kita bahas apa perbedaan
   trading dan investasi secara lebih lanjut.
-date: 2022-02-11T03:59:57.905Z
+date: 2022-07-26T04:03:00.004Z
 tag:
   - Cara Investasi Saham
   - investasi saham
