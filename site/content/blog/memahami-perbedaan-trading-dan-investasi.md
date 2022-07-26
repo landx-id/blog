@@ -84,7 +84,7 @@ Karena ituu, jika tidak cerdas dalam berstrategi dan melihat pola waktu dan harg
 
 Instrumen yang cocok untuk trading umumnya adalah saham dan foreign exchange (forex). 
 
-## Apa Itu Trading Saham
+## Apa Itu Investasi Trading Saham
 
 Saat ingin mulai masuk ke dunia saham, kamu pasti sering mendengar istilah trading dan trader yang pasti membuat kamu bertanya-tanya apa itu trading saham.
 
@@ -125,6 +125,8 @@ Anda bisa menyisihkan sebagian uang yang anda miliki untuk trading dan sisanya a
 Contohnya anda bisa memasukkan sebagian uang anda ke dalam saham yang stabil dan sisanya anda bisa masukkan ke dalam saham dengan harga yang lebih fluktuatif sehingga anda bisa mengoptimalkan keuntungan yang bisa anda dapatkan.
 
 Karena itu anda harus bisa mengatur aset yang anda miliki agar memberikan keuntungan yang maksimal.
+
+## Karakteristik Saham yang Cocok untuk Trading
 
 ## Diversifikasi dalam Investasi
 
