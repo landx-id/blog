@@ -58,9 +58,31 @@ Tipe investor ini cenderung tidak akan mencairkan dana investasi jika di kemudia
 
 Sementara perbedaan trading dan investasi, dalam trading patokan jual dan beli saham adalah perubahan harga dalam waktu yang sangat singkat. Keuntungan trading diambil dari membeli saham pada saat harganya turun.
 
-Lalu, jika saham naik pada kisaran harga tertentu, seorang trader akan menjualnya kembali dengan cepat apabila nilai saham tersebut telah mencapai angka yang diinginkannya. Hitungannya bisa dalam jam, hari, atau minggu.
+### 2. Karakteristik Investasi
 
+Meski punya tujuan sama untuk meraup keuntungan, perbedaan trading dan investasi utamanya terletak di mindset dalam mencapai tujuan. Tujuan dari berinvestasi adalah membangun kekayaan secara bertahap melalui jangka waktu yang bertahap.
 
+Biasanya para investor akan membeli dan menjual saham ketika harganya menyentuh angka yang diinginkan dalam jangka waktu yang ditentukan di awal. Sehingga investasi sifatnya pasif, yang artinya investor tidak menjalankan langsung proses mendapat keuntungan dari membeli saham tersebut. 
+
+### 3. Keuntungan Investasi
+
+Keuntungan investasi didapat lewat pihak lain yang mengelola uang tersebut, seperti platform investasi. Investor hanya perlu menunggu keuntungannya dan mungkin menanggung kerugian.
+
+### 4. Karakteristik Trading
+
+Perbedaan investasi dan trading terletak di tidak adanya pihak manajemen investasi atau platform yang mengelola modal seorang trader. Umumnya, trader bertujuan pada target nominal harga saham agar meraih target tersebut dalam waktu yang singkat. 
+
+Jika saham naik pada kisaran harga tertentu, seorang trader akan menjualnya kembali dengan cepat apabila nilai saham tersebut telah mencapai angka yang diinginkannya. Hitungannya bisa dalam jam, hari, atau minggu.
+
+### 5. Keuntungan Trading
+
+Untung dan rugi modal yang dikeluarkan sepenuhnya tergantung pada trader tersebut. Kalau sukses dalam mengelola dan memanfaatkan momentum, trader bisa mendapatkan profit. 
+
+Ketika harga saham rendah, trader akan membeli saham tersebut setelah menganalisis kemungkinan prospek kenaikan harganya. Ketika harga saham tersebut melambung, maka trader akan memanfaatkan waktu tersebut untuk segera menjualnya.
+
+Karena ituu, jika tidak cerdas dalam berstrategi dan melihat pola waktu dan harga saham, maka trader bisa kehilangan uang dalam jumlah besar dalam waktu yang sangat cepat.
+
+Instrumen yang cocok untuk trading umumnya adalah saham dan foreign exchange (forex). 
 
 ## Apa Itu Trading Saham
 
@@ -103,12 +125,6 @@ Anda bisa menyisihkan sebagian uang yang anda miliki untuk trading dan sisanya a
 Contohnya anda bisa memasukkan sebagian uang anda ke dalam saham yang stabil dan sisanya anda bisa masukkan ke dalam saham dengan harga yang lebih fluktuatif sehingga anda bisa mengoptimalkan keuntungan yang bisa anda dapatkan.
 
 Karena itu anda harus bisa mengatur aset yang anda miliki agar memberikan keuntungan yang maksimal.
-
-## Keuntungan Investasi
-
-## Keuntungan Trading
-
-
 
 ## Diversifikasi dalam Investasi
 
