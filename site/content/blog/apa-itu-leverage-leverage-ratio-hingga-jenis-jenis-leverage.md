@@ -112,7 +112,7 @@ Untuk mengukur besaran leverage, Anda harus mengetahui rumus leverage ratio terl
 
 <!--StartFragment-->
 
-![](blob:https://keen-mestorf-9781e3.netlify.app/da3f6a62-17b8-438f-9bac-5a0cdfd27eb6)
+![rumus perhitungan leverage](https://cdn.discordapp.com/attachments/905280638955962378/1001734537606352916/rumus-leverage.png?width=597&height=623 "perhitungan leverage dengan rumus")
 
 <!--EndFragment-->
 
