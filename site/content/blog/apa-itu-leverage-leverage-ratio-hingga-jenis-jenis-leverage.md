@@ -1,14 +1,22 @@
 ---
 draft: false
 author: Della Octavilia
-title: "Apa itu Leverage: Leverage Ratio Hingga Jenis-jenis Leverage"
-metaTitle: "Apa itu Leverage: Leverage Ratio Hingga Jenis-jenis Leverage | LandX"
+title: "Apa itu Leverage Ratio? Memahami Konsep dan Jenis Leverage Ratio "
+metaTitle: Apa itu Leverage? Jenis-jenis Leverage Hingga  Leverage Ratio
 metaDescription: Apa itu leverage? Leverage adalah pinjaman dana atau utang yang
   digunakan untuk menghasilkan return bagi perusahaan maupun investasi.
 intro: Apa itu leverage? Leverage adalah pinjaman dana atau utang yang digunakan
   untuk menghasilkan return bagi perusahaan maupun investasi. Ketahui
   jenis-jenis leverage dan leverage ratio dalam artikel ini.
 date: 2022-07-27T02:02:09.057Z
+tag:
+  - Tips Investasi
+  - Forex
+  - Trading
+  - Tips Investasi
+  - Diversifikasi Investasi
+category:
+  - Investasi
 featuredImage:
   title: "Apa itu Leverage: Leverage Ratio Hingga Jenis-jenis Leverage"
   alt: "Apa itu Leverage: Leverage Ratio, Jenis-jenis Leverage"
@@ -102,7 +110,11 @@ Setelah mengetahui jenis-jenis leverage, selanjutnya kita akan mengetahui rumus 
 
 Untuk mengukur besaran leverage, Anda harus mengetahui rumus leverage ratio terlebih dahulu.
 
-![rumus leverage](img/rumus-leverage.png "rumus leverage")
+<!--StartFragment-->
+
+![](blob:https://keen-mestorf-9781e3.netlify.app/da3f6a62-17b8-438f-9bac-5a0cdfd27eb6)
+
+<!--EndFragment-->
 
 Berikut ini beberapa rumus dalam mengukur leverage, yaitu:
 
@@ -201,3 +213,9 @@ Anda juga berkesempatan mendapatkan potensi dividen dari bisnis yang kalian dana
 [LandX](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog) merupakan platform [equity crowdfunding](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog) dengan market cap terbesar di Indonesia yang terpercaya, transparan, dan telah mengantongi izin dari Otoritas Jasa Keuangan (OJK). 
 
 ## [Mulai Investasikan Dana Anda di LandX Sekarang Juga!](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)
+
+<!--StartFragment-->
+
+[![Bagaimana? Kamu lebih suka bisnis dengan buyback guarantee atau yang bisa disimpan dalam jangka panjang? Apapun pilihan kamu.. Yuk Patungan  dengan Keuntungan Menjanjikan Bareng LandX](https://accountgram-production.sfo2.cdn.digitaloceanspaces.com/landx_ghost/2021/10/Equity-Crowdfunding-di-Indonesia-1--3.png)](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)
+
+<!--EndFragment-->
