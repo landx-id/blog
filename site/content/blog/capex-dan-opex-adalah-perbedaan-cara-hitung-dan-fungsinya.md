@@ -64,7 +64,7 @@ Setelah membahas definisi dua biaya ini, mari kita bahas perbedaan CapEx dan OpE
 * Capital expenditures adalah biaya pengeluaran yang dilakukan perusahaan untuk menciptakan manfaat di masa depan. Bentuk pengeluaran biaya CapEx berupa pembelian aset tetap, mengganti aset tetap. CapEx juga dikenal sebagai capital expense.
 * Operational expenditures adalah biaya pengeluaran yang dilakukan perusahaan untuk membayar hal bersifat rutin atau berkelanjutan. Contoh biaya OpEx adalah gaji karyawan, bayar pajak, biaya tagihan listrik, biaya sewa, dan biaya administratif lainnya. OpEx juga dikenal sebagai operating expense atau revenue expenditures.
 
-## Pencatatan CapEx dan OpEx dalam Laporan Keuangan
+### Pencatatan CapEx dan OpEx dalam Laporan Keuangan
 
 * CapEx dalam laporan keuangan dicatat sebagai biaya penyusutan serta biaya aset tak berwujud yang dapat diamortisasi. Contoh aset tak berwujud yang dapat diamortisasi adalah merek dagang, hak cipta, dan hak paten. 
 * OpEx dalam laporan keuangan dicatat langsung sebagai biaya beban. 
@@ -90,12 +90,12 @@ Data laporan laba rugi yang menampilkan biaya CapEx dan OpEx dapat menjadi awal 
 
 Investasi saham dapat dilakukan pada perusahaan terbuka dan perusahaan privat. Jika pada perusahaan terbuka dapat secara mudah Anda pilih melalui Bursa Efek, perusahaan privat cenderung memiliki penawaran saham yang terbatas.
 
-Cara berinvestasi saham perusahaan privat dapat dilakukan melalui equity crowdfunding. Equity crowdfunding adalah kegiatan pendanaan suatu perusahaan dari masyarakat secara online.
+[Cara berinvestasi saham perusahaan privat](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog) dapat dilakukan melalui [equity crowdfunding](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog). [Equity crowdfunding](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog) adalah kegiatan pendanaan suatu perusahaan dari masyarakat secara online.
 
-LandX adalah platform equity crowdfunding dengan market cap terbesar yang telah hadirkan berbagai perusahaan atau bisnis privat untuk diakses masyarakat Indonesia. Berbagai bisnis dari sektor industri berbeda telah berhasil didanai oleh investor melalui platform LandX
+[LandX](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog) adalah [platform equity crowdfunding](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog) dengan market cap terbesar yang telah hadirkan berbagai perusahaan atau bisnis privat untuk diakses masyarakat Indonesia. Berbagai bisnis dari sektor industri berbeda telah berhasil didanai oleh investor melalui platform [LandX](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog).
 
-LandX telah berizin dan diawasi OJK serta mengantongi sertifikat ISO 27000 tentang keamanan data. Sehingga berinvestasi pada bisnis privat dapat dilakukan secara aman dan mudah.
+[LandX](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog) telah berizin dan diawasi OJK serta mengantongi sertifikat ISO 27000 tentang keamanan data. Sehingga berinvestasi pada bisnis privat dapat dilakukan secara aman dan mudah.
 
 Apa Anda tertarik investasi saham bisnis privat?
 
-## Akses Saham Perusahaan Privat Melalui Platform Equity Crowdfunding
+## [Akses Saham Perusahaan Privat Melalui Platform Equity Crowdfunding](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)
