@@ -10,6 +10,13 @@ intro: >
   teknikal analisis sebagai salah satu cara untuk melihat pergerakan harga
   saham.
 date: 2022-07-26T07:51:17.188Z
+tag:
+  - Cara Investasi Saham
+  - Valuasi Saham
+  - Investasi Sahan
+  - Investasi untuk Pemula
+category:
+  - Investasi
 featuredImage:
   src: https://images.unsplash.com/photo-1626342766970-73cab95398a4?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2831&q=80
   title: Memahami Analisis Teknikal Saham dan Indikator Analisa Saham untuk investasi
@@ -19,39 +26,25 @@ featuredImage:
 
 Untuk menjadi investor saham yang baik maupun pemula atau berpengalaman, kamu perlu mengetahui dan memahami indikator analisis teknikal saham untuk memaksimalkan investasi. Biasanya, analisis teknikal saham adalah teknik yang digunakan untuk menilai kondisi pasar saat ini berdasarkan riwayat harga pasar di masa lalu sekaligus memberikan gambaran mengenai pergerakan pasar di masa depan. 
 
-
-
 Berbeda dengan analisis fundamental, analisis teknikal dalam saham biasanya digunakan pada investasi cepat atau trading, karena dapat membantu trader dalam menentukan saham pilihan yang berpotensi menghasilkan uang dalam jangka pendek.
 
-
-
 Jika kamu tertarik memahami lebih lanjut, artikel ini akan menguraikan mengenai definisi analisis teknikal, indikator dan cara menganalisa teknikal saham.
-
-
 
 ## Pengertian Analisis Teknikal Saham
 
 Analisis teknikal saham adalah teknis analisis yang digunakan untuk mengamati pola-pola seperti data pasar, harga saham, dan volume transaksi saham berdasarkan historis. Teknikal analisis ini digunakan untuk harga berdasarkan data harga di masa lalu. Dengan data tersebut, akan membentuk adanya suatu trend atau pola harga yang terjadi.
 
-
-
 Biasanya para trader akan mengikuti pola yang terjadi, misalnya ketika harga cenderung naik, mereka akan membuka posisi beli. Sedangkan untuk investor, analisis teknikal dapat membantu untuk menentukan waktu membeli suatu saham yang bisa disimpan dalam jangka waktu jangka panjang. 
 
-
-
 Porsi pemakaian teknikal analisis saham akan lebih sering digunakan seorang trader dibandingkan investor karena teknikal analisis akan berperan penting dalam menunjukan grafik atau chart harga saham, trend yang sedang terjadi, support and resistance, dan waktu yang tepat untuk menjual atau membeli dengan adanya bantuan indikator. 
-
-
 
 ## Perbedaan Analisis Teknikal dan Fundamental
 
 Secara umum, analisis fundamental digunakan untuk mengetahui dasar-dasar ekonomi, neraca, laporan laba rugi, dan sebagainya. Sedangkan analisis teknikal adalah digunakan berkaitan dengan kinerja suatu pasar berdasarkan historis dengan melihat pergerakan harga dan dapat membayangkan pergerakan di masa depan. Perbedaan keduanya akan ditampilkan dalam bagan sebagai berikut:
 
-![Screenshot_2022-07-25_171310.png (1400×656)](https://cdn.discordapp.com/attachments/995954280559284304/1001069676807340052/Screenshot_2022-07-25_171310.png)
+![Screenshot_2022-07-25_171310.png (1400×656)](https://media.discordapp.net/attachments/913743599844343808/1001733610266693632/unknown.png?width=1057&height=495)
 
 Analisis fundamental akan membantu investor untuk memprediksi tren jangka panjang, sehingga memungkinkan investor menentukan perusahaan yang baik untuk diinvestasikan. Selain itu investor juga akan terbantu dengan analisis fundamental membedakan saham yang baik dan buruk, dan investor tidak akan khawatir ketika harga saham turun.
-
-
 
 Sedangkan teknik analisis saham biasanya digunakan para trader untuk mendapatkan uang dalam jangka pendek dan membantu memungkinkan melakukan analisis dalam membuat keputusan dengan cepat. Analisis teknikal juga akan membantu investor atau trader kapan harus menjual atau membeli saham di waktu yang tepat. 
 
@@ -63,11 +56,7 @@ Dalam cara analisa teknikal saham, ada tiga prinsip dasar yang biasa digunakan. 
 
 Asumsi yang menjadi dasar analisis teknikal adalah segala hal yang mempengaruhi pergerakan pasar, baik fundamental, politik, bencana alam, dan faktor psikologis pelaku pasar, telah tercermin dalam pergerakan pasar.
 
-
-
 Dengan demikian, harga sebenarnya yang ada di pasar merupakan refleksi langsung dari kejadian terkini. Selain itu, untuk pengambilan keputusan trading dapat didasarkan pada pergerakan harga pasar itu sendiri. 
-
-
 
 Menurut Robert A. Levy, pendiri CDA Investment Technologies, mengemukakan ada beberapa asumsi yang menjadi dasar analisis teknikal, empat diantaranya adalah:
 
@@ -76,19 +65,13 @@ Menurut Robert A. Levy, pendiri CDA Investment Technologies, mengemukakan ada be
 * Harga-harga efek secara Individu dan nilai pasar secara keseluruhan cenderung bergerak mengikuti suatu trend selama jangka waktu yang relatif panjang.
 * Trend perubahan harga dan nilai pasar dapat berubah karena perubahan hubungan permintaan dan penawaran.
 
-
-
 Dalam asumsi yang dijelaskan, semua mendasarkan pada interaksi yang terjadi di pasar secara langsung maupun tidak langsung dan baik yang rasional dan maupun irasional. Asumsi ini nantinya yang menjadi dasar analisis teknikal untuk menentukan harga yang tertera di atas segalanya. 
 
 ### 2. Prices Move in Trend
 
 Kecenderungan pergerakan harga adalah faktor lain ketika seorang investor dan trader menggunakan analisa teknikal. Asumsi ini mendasari prinsip bahwa pergerakan harga di pasar tidak bergerak secara acak, melainkan berlangsung dalam suatu pola tertentu yang akan terus bergerak sampai berhenti atau berbalik arah. 
 
-
-
 Arah tren ini berupa tren naik, tren turun, dan tren sideways (mendatar), dengan mengetahui arah tren tersebut seorang investor dan trader bisa mengambil keputusan yang tepat dalam kegiatan bertransaksi. 
-
-
 
 Charles H. Dow dalam The Dow Theory menjelaskan bahwa tujuan untuk mengidentifikasi tren harga pasar saham dalam jangka panjang dengan berdasarkan pada data-data historis harga pasar saham masa lalu. Teori ini menjadikan harga saham dikelompokkan sebagai berikut:
 
@@ -100,11 +83,7 @@ Charles H. Dow dalam The Dow Theory menjelaskan bahwa tujuan untuk mengidentifik
 
 Asumsi ketiga memiliki pola tertentu di pasar dan menjadikan sebagai indikator. Ada beberapa grafik yang menjadi pertimbangan dengan asumsi pasar menggunakan analisis teknikal. Sebuah pasar selalu bergerak dalam sebuah siklus dan mengikuti pola-pola tertentu.
 
-
-
 Pola-pola ini memiliki kecenderungan berulangan dari masa ke masa. Ada kecenderungan yang kuat bahwa perilaku investor, trader dan para pelaku pasar di masa lalu adalah sama dengan masa kini dalam menyikapi informasi yang mempengaruhi pasar.
-
-
 
 Adanya pola berulang ini dimanfaatkan untuk memperkirakan arah pergerakan harga selanjutnya dengan berdasarkan observasi mengenai harga pasar di masa lalu.
 
@@ -116,11 +95,7 @@ Selain prinsip yang dijelaskan sebelumnya, ada dua hal utama yang perlu dipahami
 
 Grafik atau chart harga ini mewakili data-data historis perdagangan instrumen trading. Ada tiga model grafik harga yang digunakan dalam perdagangan, yaitu grafik garis, grafik bar, dan grafik candlestick. Di antara ketiga grafik tersebut, grafik candlestick merupakan grafik yang sering digunakan.
 
-
-
 Selain grafik harga, ada pula volume perdagangan. Volume perdagangan ini mengindikasi tingkat likuiditas saham tersebut dan seberapa fluktuatif instrumen tersebut diperjualbelikan oleh pelaku pasar.
-
-
 
 Dengan memperhatikan grafik dan volume secara seksama, maka trader atau investor akan menemukan berbagai pola sama yang selalu terjadi dalam tiap perdagangan instrumen finansial. 
 
@@ -128,11 +103,7 @@ Dengan memperhatikan grafik dan volume secara seksama, maka trader atau investor
 
 Support adalah titik terendah harga saham pada suatu masa. Jika harga saham sudah memasuki titik tersebut, maka ada kemungkinan besar harga tersebut akan memantul ke atas dan kembali naik, tetapi hal ini juga bisa membuat semakin turun menembus garis support sampai menemukan titik support baru.
 
-
-
 Sedangkan resistance kebalikan dari support. Jika mencapai titik resistance, maka saham umumnya akan terkoreksi ke bawah. Namun, hal ini juga bisa terjadi ketika harga terus naik, maka saham tersebut akan mengalami breakout hingga menemukan titik resistance selanjutnya. 
-
-
 
 ## Indikator Teknikal Saham
 
@@ -140,8 +111,6 @@ Memahami indikator analisis teknikal tentunya sangat penting untuk para investor
 
 * Overlays merupakan garis penentu tren saham tersebut naik atau turun. Overlays bisa dilihat di atas atau di bawah candle atau bar. Contohnya adalah Moving Average (MA) dan Bollinger Bands (BB).
 * Oscillators adalah yang muncul terpisah dari grafik pergerakan harga sekaligus bar penentu awal atau akhir dari sebuah tren. Contohnya adalah stochastic oscillator, MCAD atau RSI.
-
-
 
 Selain itu, ada pula tujuh indikator analisis teknikal saham yang terkenal yaitu:
 
@@ -161,15 +130,11 @@ ADX digunakan untuk mengukur kekuatan dan momentum tren. Dalam hal ini, analisis
 
 Jenis indikator ini digunakan untuk menunjukan kekuatan tren dan kekuatan titik masuk. Aroon indicator juga bisa mengidentifikasi tren baru yang akan dimulai. Aroon indicator memiliki dua garis yaitu, Aroon-up sebagai warna hijau dan Aroon-down dengan warna merah.
 
-
-
 Ketika garis Aroon-up memotong di atas garis Aroon-down atau sebaliknya, artinya ada kemungkinan perubahan tren. Jika Aroon-down di angka nol dan bersimpangan dengan Aroon-up, artinya menunjukan titik masuk dan kecenderungan tren akan naik atau sebaliknya.
 
 ### 5. Moving Average Convergence Divergence (MACD)
 
 Indikator ini disebut Analisis Teknikal Saham yang menjadi andalan para trader. Indikator ini relatif mudah digunakan untuk menunjukan kekuatan tren. Terdiri dari dua garis yaitu garis MACD dan garis sinyal, yang biasanya bergerak lambat. 
-
-
 
 Ketika garis sinyal di atas titik nol mengindikasikan up-trend sedang berlangsung, selanjutnya, jika garis sinyal berada di bawah titik nol, maka down-trend sedang terjadi.
 
@@ -177,21 +142,15 @@ Ketika garis sinyal di atas titik nol mengindikasikan up-trend sedang berlangsun
 
 Relative Strength Index atau RSI adalah merupakan garis acuan analisis teknikal saham berupa angka tengah atau nol. RSI standarnya berada di angka 30 dan 70.
 
-
-
 RSI menunjukkan kondisi jenuh beli (overbought) dan jenuh jual (oversold). Overbought diindikasikan jika harga menyentuh atau melebihi angka 70. Sedangkan oversold akan terjadi jika harga menyentuh atau di bawah angka 30. RSI bisa menjadi indikator level support dan resistance. 
 
 ### 7. Stochastic Oscillator
 
 Stochastic oscillator adalah indikator yang mengukur harga relatif saat ini terhadap kisaran harga dalam periode tertentu. Mirip dengan RSI yang memiliki dua garis berada di nol dan 100. Garis biasanya berwarna hijau dan merah. Apabila garis hijau di atas garis merah, artinya tren sedang naik. Namun, jika garis hijau bersimpangan dengan garis merah, maka artinya tren cenderung turun.
 
-
-
 ## Cara Analisis Teknikal Saham
 
 Setelah membaca mengenai prinsip dasar teknik analisis saham, hal dasar mengenai analisa teknikal saham dan indikator dalam melakukan analisis teknikal saham kamu sudah mendapatkan pencerahan untuk menganalisis saham. Selain itu, kamu bisa memutuskan untuk memilih saham yang memberikan keuntungan.
-
-
 
 Mengutip dari idxchannel.com, berikut langkah-langkah yang dapat kamu lakukan sebagai cara analisa saham secara teknikal yaitu:
 
@@ -201,32 +160,22 @@ Mengutip dari idxchannel.com, berikut langkah-langkah yang dapat kamu lakukan se
 * Menggunakan indikator oscillator ketika mengamati bahwa tren saham pada grafik memiliki kemungkinan terjadi perubahan tren.
 * Menentukan batas harga minimum atau stop loss untuk mengurangi terjadinya kerugian dalam trading saham.
 
-
-
 Demikian penjelasan mengenai analisis teknikal saham baik dari aspek dasar sampai indikator teknikal saham. Adanya analisis teknikal saham ini akan mempermudah investor/trader memperhatikan kegiatan pasar saham yang sedang terjadi. 
-
-
 
 Selain itu juga, adanya teknik analisis saham dapat memudahkan untuk para calon investor dan trader memaksimalkan profit dari investasi saham yang akan digunakan dan paling sesuai dengan kebutuhan untuk mengatur strategi investasi dan trading saham menjadi lebih cepat dan tepat. 
 
-
-
 Dalam kegiatan investasi, biasanya beberapa dari kita melakukan investasi untuk bertujuan untuk mencapai tujuan finansial. Oleh karena itu kamu perlu mengetahui berbagai instrumen investasi yang cocok dengan kamu sebagai pemula. 
-
-
 
 Nah, jika kamu tertarik menjadi investor dengan investasi yang minim risiko dan dimulai dengan modal kecil, kamu bisa memilih berinvestasi dengan skema securities crowdfunding.
 
-
-
 Melalui securities crowdfunding kamu bersama masyarakat luas bersama-sama patungan mendanai bisnis yang nantinya akan berkembang menjadi bisnis potensial dan bertahan dalam waktu jangka panjang. Pastinya kamu akan mendapatkan keuntungan secara rutin berupa dividen dari bisnis potensial yang kamu danai tadi.
-
-
 
 [LandX](https://landx.id/) merupakan platform securities crowdfunding yang telah berizin dari Otoritas Jasa Keuangan, dan berpengalaman dalam mengelola bisnis-bisnis potensial yang membuat investasi kamu berjalan dengan baik dalam kurun waktu jangka panjang. 
 
-
-
 ## [Yuk, Raih Keuntungan Kamu dengan Investasi lewat LandX Sekarang!](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)
+
+<!--StartFragment-->
+
+[![Bagaimana? Kamu lebih suka bisnis dengan buyback guarantee atau yang bisa disimpan dalam jangka panjang? Apapun pilihan kamu.. Yuk Patungan  dengan Keuntungan Menjanjikan Bareng LandX](https://accountgram-production.sfo2.cdn.digitaloceanspaces.com/landx_ghost/2021/10/Equity-Crowdfunding-di-Indonesia-1--3.png)](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)
 
 <!--EndFragment-->
