@@ -1,5 +1,5 @@
 ---
-draft: true
+draft: false
 author: Della Octavilia
 title: Perbedaan Obligasi Premium dan Diskonto dalam Utang Obligasi
 metaTitle: Perbedaan Obligasi Premium dan Diskonto dalam Utang Obligasi | LandX
