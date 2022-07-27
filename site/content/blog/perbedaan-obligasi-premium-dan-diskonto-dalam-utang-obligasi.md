@@ -9,6 +9,11 @@ intro: Jenis utang obligasi yang dapat dibedakan dari perbandingan harga pasar
   adalah premium obligasi dan diskonto utang obligasi. Simak definisi dan apa
   perbedaan obligasi premium dan diskonto dalam artikel ini.
 date: 2022-07-25T02:08:57.174Z
+tag:
+  - Instrumen Investasi
+  - Obligasi
+category:
+  - Investasi
 featuredImage:
   alt: Perbedaan Obligasi Premium dan Diskonto dalam Utang Obligasi
   title: Perbedaan Obligasi Premium dan Diskonto dalam Utang Obligasi
@@ -146,3 +151,9 @@ Anda juga berkesempatan mendapatkan potensi dividen dari bisnis yang kalian dana
 Anda juga bisa mendanai bisnis dengan modal mulai Rp1.000.000 saja, lho!
 
 ## [Dapatkan Potensi Keuntungan dengan Investasi Melalui LandX Sekarang Juga!](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)
+
+<!--StartFragment-->
+
+[![Bagaimana? Kamu lebih suka bisnis dengan buyback guarantee atau yang bisa disimpan dalam jangka panjang? Apapun pilihan kamu.. Yuk Patungan  dengan Keuntungan Menjanjikan Bareng LandX](https://accountgram-production.sfo2.cdn.digitaloceanspaces.com/landx_ghost/2021/10/Equity-Crowdfunding-di-Indonesia-1--3.png)](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)
+
+<!--EndFragment-->
