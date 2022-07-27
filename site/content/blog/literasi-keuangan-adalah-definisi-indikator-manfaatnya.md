@@ -1,5 +1,5 @@
 ---
-draft: true
+draft: false
 author: Rafa Syawalia R
 title: "Literasi Keuangan Adalah: Definisi, Indikator & Manfaatnya"
 metaTitle: "Literasi Keuangan Adalah: Indikator dan 4 Tingkat Literasi Keuangan"
