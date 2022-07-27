@@ -1,5 +1,5 @@
 ---
-draft: true
+draft: false
 author: Rafa Syawalia R
 title: "Analisis Teknikal Saham: Pengertian, Cara, dan Indikator Analisa Saham"
 metaTitle: "Pengertian Analisis Teknikal: Cara dan Indikator Analisa Saham"
