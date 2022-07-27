@@ -2,15 +2,15 @@
 draft: false
 author: Abdul Wahhab
 slug: investasi-ke-saham-blue-chip
-title: "Saham Blue Chip 2021: Yuk Cek Saham Blue Chip untuk Pemula"
-metaTitle: "Saham Blue Chip 2021: Yuk Cek Saham Blue Chip untuk Pemula"
-metaDescription: Apabila kamu pemula di investasi saham, maka saham blue chip
-  adalah pilihan saham yang cocok
-intro: Saham blue chip adalah saham yang memiliki kualitas baik berdasarkan
-  beberapa kriteria seperti fundamental dan berbagai rasio keuangan untuk
-  menghitung valuasi suatu saham. Karena itu, yuk cek daftar saham bluechip
-  untuk investasi kamu.
-date: 2021-12-17T18:01:47.000Z
+title: Saham Blue Chip Indonesia, Pilihan Investasi Terbaik untuk Pemula
+metaTitle: Saham Blue Chip Indonesia, Daftar Saham Blue Chip LQ45 2022 | LandX
+metaDescription: pa itu saham blue chip? Saham blue chip adalah saham dari
+  perusahaan yang memiliki histori keuangan yang stabil. Berikut daftar saham
+  blue chip LQ45.
+intro: Apa itu saham blue chip? Saham blue chip adalah saham dari perusahaan
+  yang memiliki histori keuangan yang stabil. Cari tahu daftar saham blue chip
+  LQ45 dan saham blue chip syariah 2022 untuk kamu pilih dalam artikel ini.
+date: 2022-07-27T06:13:54.191Z
 tag:
   - Cara Investasi Saham
   - investasi saham
@@ -20,16 +20,18 @@ tag:
 featuredImage:
   src: https://images.unsplash.com/photo-1554260570-e9689a3418b8?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxMTc3M3wwfDF8c2VhcmNofDE0fHxzdG9ja3xlbnwwfHx8fDE2Mzk3NjM2NjY&ixlib=rb-1.2.1&q=80&w=1080
   alt: daftar saham blue chip lq 45 yang bisa jadi pilihan investasi saham
-  title: Mengenal saham-saham blue chip 2022 untuk investasi kamu
+  title: Saham Blue Chip Indonesia, Pilihan Investasi Terbaik untuk Pemula
 image: https://images.unsplash.com/photo-1554260570-e9689a3418b8?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxMTc3M3wwfDF8c2VhcmNofDE0fHxzdG9ja3xlbnwwfHx8fDE2Mzk3NjM2NjY&ixlib=rb-1.2.1&q=80&w=1080
 category:
   - Investasi
 ---
-Apabila kamu pemula yang masih bingung cara berinvestasi ke dalam saham seperti apa yang bisa memberikan keuntungan, maka saham blue chip bisa jadi pilihan bagi investor pemula.
+Apabila kamu adalah seseorang yang tertarik dengan investasi namun masih bingung cara investasi saham seperti apa yang bisa memberikan keuntungan, maka saham blue chip bisa jadi pilihan untuk kamu sebagai investor pemula.
 
-Saham blue chip adalah saham yang memiliki kualitas baik berdasarkan beberapa kriteria seperti fundamental dan berbagai rasio keuangan untuk menghitung valuasi suatu saham.
+Saham blue chip adalah saham yang memiliki kualitas yang baik berdasarkan beberapa kriteria seperti fundamental dan berbagai rasio keuangan untuk menghitung valuasi suatu saham.
 
-Oleh sebab itu, terdapat beberapa daftar saham blue chip yang jadi incaran investor pemula
+Daftar saham blue chip atau blue chip stock sering diburu para investor kakap. Kenapa blue chip stock paling diburu oleh investor? Berapa harga 1 lot saham blue chip Indonesia?
+
+Yuk, cari tahu lebih lanjut semua hal tentang saham blue chip 2022 dalam artikel ini.
 
 - - -
 
@@ -41,7 +43,7 @@ Rekomendasi yang paling sering diberikan salah satunya adalah tabungan deposito,
 
 ## Saham Blue Chip Adalah
 
-Saham blue chip adalah jenis saham yang berasal dari perusahaan-perusahaan yang dapat dikatakan mapan serta memiliki catatan kinerja keuangan yang stabil dan prima. Biasanya merupakan perusahaan yang telah beroperasi selama berdekade lamanya dan terbukti mampu terus bertahan dalam menghadapi berbagai krisis.
+Saham blue chip adalah saham dari perusahaan yang sangat besar dan terkenal dengan sejarah kinerja keuangan yang sehat. Saham-saham ini dikenal memiliki kemampuan untuk bertahan dalam krisis atau kondisi pasar yang sulit dan dapat memberikan return yang tinggi dalam kondisi pasar yang baik.
 
 Istilah ini pertama kali digunakan di Amerika Serikat pada tahun 1923. Kala itu, seorang karyawan di Dow Jones bernama Oliver Gingold mengamati pergerakan beberapa saham yang diperdagangkan dengan nilai lebih dari 200 dollar AS per saham.
 
@@ -55,9 +57,11 @@ Walaupun perusahaan blue chip merupakan bisnis yang cenderung stabil dan memilik
 
 Hal ini karena pasar saham dipengaruhi oleh berbagai faktor dan kondisi yang perubahannya cukup sulit untuk kita prediksi karena kondisi ini terkadang muncul karena kondisi tak terduga yang sulit dikendalikan. Contohnya adalah kondisi pandemi yang membuat guncangan pada bursa efek sehingga berbagai emiten saham harganya turun. 
 
-Akan tetapi, apabila kamu berinvestasi ke dalam emiten blue chip, maka harganya cenderung lebih stabil sehingga memperkecil risiko kerugian anda dalam investasi. 
+Akan tetapi, apabila kamu berinvestasi ke dalam emiten blue chip, maka harganya cenderung lebih stabil sehingga memperkecil risiko kerugian kamu dalam investasi. 
 
-## Kriteria Blue Chip dalam Investasi Saham
+Di kala resesi tahun ini, saham blue chip 2022 khususnya perbankan Indonesia yang dipercaya tahan banting berbagai kondisi dikabarkan berbagai pakar keuangan ikut goyah. Namun, saran investasi tahun 2022 adalah wait and see karena saham yang memiliki fundamental yang baik dipercaya mampu bangkit kembali di masa depan.
+
+## Kriteria Saham Blue Chip dalam Investasi
 
 Ada beberapa hal yang menjadi kriteria atau ciri-ciri dari saham blue chip yang dapat diketahui. Perlu dicatat bahwa seluruh **kriteria berikut bersifat kumulatif**, artinya seluruh kriteria harus terpenuhi agar dapat masuk ke dalam saham blue chip.
 
@@ -93,6 +97,21 @@ Dari seluruh kriteria, yang paling mudah digunakan sebagai penanda saham tersebu
 
 - - -
 
+## Alasan Blue Chip Stock Banyak Diburu Investor
+
+Dengan berbagai kriteria perusahaan blue chip, membuat saham ini semakin menarik hingga diburu para investor. Kenapa blue chip stock paling diburu oleh investor? Apa kriteria perusahaan blue chip? Berikut ulasannya.
+
+### Kriteria Perusahaan Blue Chip Stock
+
+Perusahaan blue chip adalah perusahaan yang menawarkan saham kepada publik dan dikategorikan sebagai jajaran terbaik karena memiliki histori keuangan yang baik selama bertahun-tahun operasinya.
+
+* **Kapitalisasi pasar besar** – kriteria dari perusahaan blue chip adalah memiliki nilai market cap atau kapitalisasi pasar yang besar di atas Rp 10 triliun. Kapitalisasi adalah nilai keseluruhan perusahaan. Makna mudah dari kapitalisasi adalah harga perusahaan jika dibeli secara utuh. \
+  Kapitalisasi pasar mencerminkan kualitas perusahaan sehingga perlu dipertimbangkan oleh investor. Kapitalisasi pasar yang besar menggambarkan potensi perkembangan dan keuntungan yang diberikan.
+* **Pemimpin di sektor industrinya** – cara mudah melihat kriteria perusahaan saham blue chip adalah memiliki produk top of mind, mudah ditemukan dan diingat konsumen. Misal produk Indomie dari perusahaan Indofood dengan kode saham INDF di Bursa Efek Indonesia. Ada lagi produk yang kamu ingat dari sektor industri consumer goods ini?
+* **Saham blue chip ramai diperdagangkan** – tidak hanya investor perorangan, saham blue chip juga diburu lembaga-lembaga lainnya sebagai pilihan produk investasi yang diperdagangkan. Kegiatan transaksi perdagangan yang banyak ini disebut likuiditas saham. Likuiditas saham adalah ukuran jumlah dan volume transaksi saham di pasar modal dalam suatu periode tertentu
+
+Saham dari perusahaan-perusahaan yang memenuhi kriteria seperti kapitalisasi yang besar serta jumlah transaksi yang tinggi ini dikelompokkan atau dikategorikan dalam indeks saham LQ45.
+
 ## Keuntungan Berinvestasi ke Saham Blue Chip
 
 Saham blue chip sering disebut sebagai saham yang paling cocok bagi investor pemula. Hal ini dikarenakan investor pemula cenderung belum bisa menentukan mana perusahaan yang bagus dan terjamin untuk berinvestasi.
@@ -105,23 +124,41 @@ Kedua, pengembalian yang diterima oleh investor dari perusahaan blue chip biasan
 
 Ketiga, perusahaan blue chip memiliki manajemen dan pengawasan yang baik terhadap aset investasinya. Sehingga, investor pemula juga dapat berinvestasi dengan tenang sebagai investor pasif.
 
-Bagi yang tertarik pada saham blue chip, di Indonesia sudah tersedia indeks saham yang berisi daftar perusahaan blue chip bernama LQ45.
+Bagi yang tertarik pada saham blue chip, di Indonesia sudah tersedia indeks saham yang berisi daftar perusahaan blue chip bernama LQ45. **Apa itu indeks saham LQ45?** 
 
 Indeks LQ45 berisi daftar 45 perusahaan teratas yang diukur berdasarkan beberapa kriteria blue chip, seperti likuiditas tinggi, kapitalisasi pasar yang besar, serta stabilitas perusahaan yang terjaga.
 
-Jadwal tinjauan berkala LQ45 pada dilakukan pada bulan Januari dan Juli untuk tinjauan mayor, sementara untuk tinjauan minor dilakukan pada bulan April dan Oktober. Kemudian, hasil tinjauannya diumumkan pada selambatnya 5 hari bursa sebelum tanggal efektif.
+## Apakah Saham Blue Chip Adalah Indeks LQ45?
+
+Terdapat perbedaan saham blue chip dan indeks LQ45, **tidak semua saham pada indeks LQ45 termasuk blue chip.** Kriteria indeks LQ45 diukur dari likuiditas sahamnya. Likuiditas saham adalah ukuran jumlah transaksi suatu saham di pasar modal.
+
+Saham Indeks LQ45 dievaluasi pergerakan urutannya oleh pasar modal atau BEI setiap tiga bulan. Indeks saham LQ45 dapat dikatakan menjadi patokan awal untuk investor dalam menyeleksi saham blue chip. Lalu, apa saja saham blue chip LQ45?
+
+Baru saja diumumkan bahwa daftar baru saham LQ45 2022 yang berlaku mulai bulan Agustus hingga Januari 2023 untuk dipilih. Terdapat tiga saham baru yang bergabung indeks saham LQ45 yaitu PT Bank Jago Tbk (ARTO), PT Bank Syariah Indonesia Tbk (BRIS), dan PT Indika Energy Tbk (INDY).
+
+Beberapa diantaranya yang merupakan daftar saham blue chip LQ45 ada PT Sumber Alfaria Trijaya Tbk (AMRT), PT BFI Finance Indonesia Tbk (BFIN), PT Elang Mahkota Teknologi Tbk (EMTK), PT Harum Energi Tbk (HRUM), PT Waskita Karya (Persero) Tbk (WSKT)
+
+### Berapa Harga 1 Lot Saham Blue Chip?
+
+Lot adalah satuan yang dipakai dalam perdagangan saham di pasar modal. Nilai 1 lot mewakili 100 lembar saham. Misalkan per artikel ini ditulis harga saham Indofood adalah Rp 6.975 per lembar maka harga 1 lot saham blue chip Indofood adalah Rp Rp 697.500. 
+
+Umumnya kisaran harga 1 lot saham blue chip Indonesia adalah mulai ratusan ribu rupiah. Seperti per artikel ini ditulis, harga 1 lot saham Alfamart adalah Rp 188.500, harga 1 lot saham Bank BCA yaitu Rp 735.000, serta harga 1 lot saham Unilever yakni Rp 454.000.
+
+### 5 Saham Syariah Blue Chip 2022
+
+Dari daftar saham blue chip 2022 indeks LQ45, terdapat emiten yang dikategorikan juga sebagai saham blue chip syariah. Dirlis [IDX](https://www.idxchannel.com/market-news/investor-catat-5-daftar-saham-blue-chip-syariah-terbaik-2022/), berikut saham dari indeks LQ45 yang termasuk ketentuan saham blue syariah 2022, yaitu PT Indofood CBP Sukses Makmur (ICBP), PT Telkom Indonesia Tbk (TLKM), PT Perusahaan Gas Negara (PGAS), PT Japfa Comfeed Indonesia (JPFA), dan PT Adaro Energy (ADRO).
 
 **Kamu harus tahu,,,**
 
-Selain berinvestasi ke saham perusahaan publik, kamu juga bisa membeli saham dari perusahaan privat dengan sistem equity crowdfunding.
+Selain berinvestasi ke saham perusahaan publik, kamu juga bisa membeli saham dari perusahaan privat dengan sistem **[equity crowdfunding](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)**.
 
-Sistem ini sebenarnya hampir sama dengan investasi saham, namun dalam skala bisnis yang lebih kecil sehingga memudahkan anda untuk menganalisis bagaimana potensi bisnis ini di pasaran.
+Sistem ini sebenarnya hampir sama dengan investasi saham, namun dalam skala bisnis yang lebih kecil sehingga memudahkan kamu untuk menganalisis bagaimana potensi bisnis ini di pasaran.
 
-**[Platform equity crowdfunding](https://landx.id/)** akan memberikan anda pilihan berbagai jenis bisnis potensial yang bisa anda tanami modal sehingga anda berhak mendapatkan dividen saat bisnis tersebut menghasilkan keuntungan.
+**[Platform equity crowdfunding](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)** akan memberikan kamu pilihan berbagai jenis bisnis potensial yang bisa kamu tanami modal sehingga kamu berhak mendapatkan dividen saat bisnis tersebut menghasilkan keuntungan.
 
-**[LandX](https://landx.id/)** merupakan [platform equity crowdfunding](https://landx.id/) terpercaya yang memberikan anda pilihan berbagai bisnis terpercaya untuk diversifikasi investasi anda agar lebih menguntungkan.
+**[LandX](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)** merupakan [platform equity crowdfunding](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)[](https://landx.id/) terpercaya yang memberikan kamu pilihan berbagai bisnis terpercaya untuk diversifikasi investasi kamu agar lebih menguntungkan.
 
-**[Yuk Temukan Bisnis Menjanjikan dengan Keuntungan Terbaik di LandX](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)**
+## **[Yuk Temukan Saham Bisnis Privat di LandX](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)**
 
 [![miliki bisnis modal kecil cuma dengan 1 jutaan dapat 4 cabang ](https://accountgram-production.sfo2.cdn.digitaloceanspaces.com/landx_ghost/2021/11/jadi-owner-bisnis-hanya-1-jutaan-dengan-cuan-yang-sangat-menjanjikan.png)](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)
 
