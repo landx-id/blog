@@ -2,14 +2,13 @@
 draft: false
 author: Abdul Wahhab
 slug: 10-bisnis-menguntungkan-jangka-panjang-yang-cocok-untuk-pemula
-title: 10+ Bisnis Menguntungkan Jangka Panjang yang Cocok untuk Pemula
-metaTitle: 10+ Bisnis Menguntungkan Jangka Panjang yang Cocok untuk Pemula
-metaDescription: "Mau memulai bisnis menguntungkan? Berikut 10+ rekomendasi
-  bisnis menguntungkan dengan potensi keuntungan jangka panjang yang
-  menjanjikan. "
-intro: Yuk simak ide bisnis jangka panjang yang bisa jadi usaha menguntungkan
-  untuk kamu.
-date: 2021-08-30T13:56:00.000Z
+title: 10+ Usaha yang Cocok untuk Pemula dan Cara Berbisnis untuk Pemula
+metaTitle: 10+ Usaha yang Cocok untuk Pemula dan Cara Berbisnis untuk Pemula
+metaDescription: Mau cara berbisnis untuk pemula? Ini 10 rekomendasi usaha yang
+  cocok untuk pemula dan usaha jangka panjang.
+intro: Mau cara berbisnis untuk pemula? Ini dia 10 rekomendasi usaha yang cocok
+  untuk pemula dan usaha jangka panjang.
+date: 2022-07-27T06:30:00.808Z
 tag:
   - bisnis menguntungkan
   - keuntungan investasi
@@ -19,36 +18,48 @@ category:
   - Investasi
 featuredImage:
   src: https://images.unsplash.com/photo-1556761175-5973dc0f32e7?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1032&q=80
-  alt: Usaha Modal Kecil yang Bisa Jadi Ide Bisnis Kamu
-  title: Pilihan Usaha Modal Kecil untuk Kamu
+  alt: Usaha Modal Kecil yang Bisa Jadi Rekomendasi Usaha yang Cocok untuk Pemula
+  title: Usaha Jangka Panjang yang Bisa Jadi Rekomendasi Usaha yang Cocok untuk Pemula
 ---
-Membangun bisnis yang menguntungkan dalam jangka panjang tentu saja impian semua orang saat ingin membangun suatu bisnis. Akan tetapi, hal ini tentu saja bukanlah hal yang
+Tertarik memulai tapi bingung cara berbisnis untuk pemula? Meski bisa menguntungkan, mencari usaha yang cocok untuk pemula mungkin adalah hal yang dirasa sulit. 
 
-mudah apalagi melihat persaingan pasar yang semakin ketat. Oleh sebab itu, agar bisnis menguntungkan anda perlu menyusun strategi jitu yang membuat bisnis yang anda miliki dapat bersaing dengan kompetitor.
+Jika kamu ingin tahu rekomendasi usaha yang bagus untuk pemula, yuk baca terus artikel ini! 
 
-- - -
+## Pentingnya Memilih Usaha Jangka Panjang
 
-Karena itu, yuk simak rekomendasi bisnis menguntungkan modal kecil yang sangat cocok untuk pemula.
+Usaha jangka panjang adalah hal yang perlu jadi rencana utama seorang yang ingin mulai berbisnis. Sebuah bisnis harus direncanakan atas dasar kemampuan bisnis tersebut bertahan secara berkelanjutan. 
 
-### **1. Bisnis Tanpa Modal dengan Sistem Dropship**
 
-Memulai bisnis dengan sistem dropship merupakan salah satu cara memulai bisnis tanpa modal. Dalam sistem ini anda tidak perlu repot menyediakan modal untuk menyediakan stok barang yang akan dijual karena dalam sistem ini anda hanya perlu meneruskan orderan kepada supplier dan mereka yang akan memprosesnya.
+
+Akan tetapi, hal ini tentu saja bukanlah hal yang mudah apalagi melihat persaingan pasar yang semakin ketat. Oleh sebab itu, agar bisnis menguntungkan anda perlu menyusun strategi jitu yang membuat bisnis yang anda miliki dapat bersaing dengan kompetitor.
+
+
+
+Karena itu, yuk simak rekomendasi usaha yang cocok untuk pemula dan bisnis menguntungkan modal kecil yang sangat cocok untuk pemula.
+
+## **1. Bisnis Tanpa Modal dengan Sistem Dropship**
+
+Bisnis dropship merupakan salah satu cara memulai bisnis tanpa modal yang tentunya usaha yang cocok untuk pemula. Dalam sistem ini, anda tidak perlu repot menyediakan modal untuk menyediakan stok barang yang akan dijual karena dalam sistem ini anda hanya perlu meneruskan orderan kepada supplier dan mereka yang akan memprosesnya.
 
 Supplier nantinya akan mengemas dan mengirim produk yang telah anda pesan kepada konsumen anda. Oleh sebab itu, apabila ingin memulai bisnis dengan sistem ini anda perlu mencari supplier terpercaya sehingga bisnis yang anda lakukan dapat berjalan lancar.
 
 Cara ini bisa anda coba apabila anda ingin memulai bisnis tapi masih belum memiliki modal yang cukup. Agar memberikan keuntungan yang maksimal, anda perlu melakukan analisis mendalam untuk menemukan supplier dengan harga dan pelayanan terbaik sehingga anda bisa mendapatkan keuntungan yang maksimal.
 
-### **[2. Usaha Perikanan](https://landx.id/project/#/asm1)**
+## **[2. Bisnis Akuakultur](https://landx.id/project/asm1)**
 
-Usaha perikanan bisa menjadi salah satu bisnis menguntungkan sangat menjanjikan untuk di mulai di tahun 2021.
+Usaha perikanan bisa menjadi salah satu bisnis yang cocok untuk pemula karena memiliki prospek menjanjikan. 
 
-Bisnis perikanan sendiri kini sudah semakin berkembang sehingga terdapat banyak sekali cara memulai bisnis ini yang bisa anda coba.
+Bisnis perikanan sendiri kini sudah semakin berkembang. Misalnya, bisnis penangkapan ikan dan akuakultur (budidaya ikan) saat ini semakin dilirik. Ditambah lagi, mulai muncul start-up manajemen di industri penangkapan ikan dan akualkultur berbasis teknologi. 
 
 Dalam menentukan ikan apa yang akan anda budidayakan, anda harus melihat bagaimana kondisi pasar sehingga anda tahu jenis ikan apa yang permintaannya tinggi di pasaran.
 
-### **3. Bisnis Makanan Sehat**
+Karena itu, usaha ini bisa menjadi pilihan usaha yang cocok untuk pemula dengan prospek jadi usaha jangka panjang.
 
-[Bisnis F&B](https://landx.id/) merupakan salah satu bisnis yang berkembang cukup pesat dan bertahan di masa pandemi.
+
+
+## **3. Bisnis Makanan Sehat**
+
+[Bisnis F&B](https://landx.id/) merupakan salah satu pilihan bisnis yang cocok untuk pemula karena terus berkembang pesat dan bertahan di masa pandemi.
 
 Kondisi pandemi membuat trend bisnis F&B pun berubah sehingga muncul model bisnis F&B dengan konsep *cloud kitchen* yang semakin populer dalam beberapa waktu belakangan.
 
@@ -58,15 +69,17 @@ Makanan sehat merupakan salah satu jenis produk yang semakin diminati belakangan
 
 Kesempatan ini bisa anda manfaatkan untuk meraup keuntungan dengan membuka bisnis yang menjual makanan sehat seperti salad, paket catering diet, atau berbagai cemilan rendah kalori.
 
-### **4. Bisnis Custom Gift**
+## **4. Bisnis Custom Gift**
 
 Saat memberikan hadiah, banyak orang ingin memberikan sesuatu yang unik sehingga penerima dapat terus mengingat hadiah tersebut. Oleh sebab itu, kini banyak bermunculan jasa custom gift yang membantu konsumen menciptakan hadiah unik untuk orang tersayang mereka.
 
-Apabila anda memiliki kemampuan untuk merancang *gift box* yang unik dan menarik maka anda bisa mulai membangun bisnis ini. Bisnis ini sangat menjanjikan karena saat ini semakin banyak momen yang mendorong orang untuk saling mengirim hadiah seperti ulang tahun, kelulusan, atau momen menyemangati seseorang saat sedang isolasi mandiri.
+Apabila anda memiliki kemampuan untuk merancang *gift box* yang unik dan menarik maka anda bisa mulai membangun bisnis ini. Bisnis ini dapat menjadi pilihan usaha yang cocok bagi pemula karena meningkatnya ketertarikan banyak orang untuk saling mengirim hadiah saat momen spesial seperti ulang tahun, kelulusan, atau momen menyemangati seseorang saat sedang isolasi mandiri.
 
-### **5. Memulai Bisnis Fashion**
+## **5. Memulai Bisnis Fashion**
 
-Fashion merupakan salah satu industri yang tidak ada matinya karena industri ini terus mengalami perkembangan dari waktu ke waktu. Untuk memulai bisnis anda memiliki dua pilihan, anda bisa menjual pakaian yang sudah jadi atau menjual pakaian dengan modal dan desain yang anda produksi sendiri.
+Fashion merupakan salah satu industri yang tidak ada matinya karena industri ini terus mengalami perkembangan dari waktu ke waktu. Karena itu, fashion adalah usaha yang cocok bagi pemula yang ingin punya usaha jangka panjang.
+
+Untuk memulai bisnis anda memiliki dua pilihan, anda bisa menjual pakaian yang sudah jadi atau menjual pakaian dengan modal dan desain yang anda produksi sendiri.
 
 Masing-masing cara ini memiliki kelebihan dan kekurangan masing-masing sehingga bisa anda sesuaikan dengan modal dan pasar yang anda tuju.
 
@@ -76,13 +89,13 @@ Apabila tertarik memulai bisnis ini, anda harus menyiapkan lokasi yang strategis
 
 Apabila kesulitan merencanakan sistemnya, maka anda bisa membuka bisnis ini dengan skema franchise sehingga anda lebih mudah menjalankan bisnis ini.
 
-### **[6. Laundry Kiloan](https://landx.id/project/index.html)**
+## **[6. Laundry Kiloan](https://landx.id/project/index.html)**
 
-Jasa laundry kiloan merupakan salah satu bisnis yang terus berkembang dan memiliki pasar yang semakin besar dari waktu ke waktu. Hal ini karena orang-orang semakin sibuk sehingga mereka tidak punya waktu untuk mencuci pakaian mereka sendiri.
+Jasa laundry kiloan merupakan salah satu bisnis yang terus berkembang dan memiliki pasar yang semakin besar dari waktu ke waktu. Hal ini karena orang-orang semakin sibuk sehingga mereka tidak punya waktu untuk mencuci pakaian mereka sendiri. 
 
-Selain itu, hal ini juga terjadi karena banyak orang yang tinggal di kontrakan atau kost tidak memiliki ruang yang cukup untuk mesin cuci. Hal ini membuat laundry kiloan menjadi salah satu kebutuhan utama bagi banyak orang.
+Selain itu, hal ini juga terjadi karena banyak orang yang tinggal di kontrakan atau kost tidak memiliki ruang yang cukup untuk mesin cuci. Hal ini membuat laundry kiloan menjadi salah satu kebutuhan utama bagi banyak orang. Karena itu, laundry adalah salah satu bisnis potensial dan usaha yang cocok untuk pemula.
 
-**[7. Bisnis Kosmetik](https://landx.id/project/)**
+## **7. Bisnis Kosmetik**
 
 Kosmetik dan skincare merupakan salah satu bisnis yang berkembang pesat selama masa pandemi. Hal ini karena proses karantina membuat orang semakin sadar pentingnya menjaga penampilan mereka agar tetap menarik.
 
@@ -90,13 +103,13 @@ Oleh sebab itu, bisnis ini memiliki keuntungan yang menjanjikan jika anda mulai 
 
 Selain itu, saat ini pemasaran produk menjadi lebih mudah karena adanya *e-commerce* yang mempermudah anda dalam proses transaksi dan pemasaran bisnis.
 
-**[8. Bisnis Properti](https://landx.id/project/index.html)**
+## **[8. Bisnis Properti](https://landx.id/project/index.html)**
 
 Bisnis properti merupakan jenis bisnis yang sangat potensial sehingga cocok untuk bisnis jangka panjang yang ingin anda jalankan. Anda bisa memilih ingin mulai dengan jual-beli atau properti sewaan seperti rumah kost atau kontrakan.
 
 Agar bisnis ini bisa memberikan anda keuntungan jangka panjang, maka anda harus bisa memilih properti terbaik yang berada di kawasan strategis. Oleh sebab itu anda harus bisa melihat bagaimana potensi perkembangan dari lokasi properti yang anda pilih agar bisa melihat potensi bisnis yang muncul.
 
-### **[9. Usaha Burger](https://landx.id/project/index.html)**
+## **[9. Usaha Burger](https://landx.id/project/index.html)**
 
 Burger merupakan salah satu produk yang sangat digemari masyarakat dari berbagai kalangan. Oleh sebab itu, bisnis ini sangat potensial untuk anda mulai.
 
@@ -104,7 +117,7 @@ Apabila anda ingin memulai usaha burger, anda harus membangun keunikan burger an
 
 Selain itu jangan lupa, anda harus membangun produk dengan kualitas terbaik yang agar bisa menarik konsumen bisa datang kembali.
 
-### **[10. Usaha Cuci Mobil](https://landx.id/blog/yellow-car-wash-listing-di-landx/)**
+## **[10. Usaha Cuci Mobil](https://landx.id/blog/yellow-car-wash-listing-di-landx/)**
 
 Usaha cuci mobil saat ini menjadi salah satu bisnis dengan keuntungan yang sangat karena masyarakat yang semakin sibuk sehingga tidak punya waktu lagi untuk mencuci mobil mereka sendiri. Selain itu bisnis usaha cuci mobil menjadi semakin berkembang karena semakin banyaknya jumlah kendaraan di Indonesia.
 
@@ -132,11 +145,17 @@ Opportunity merupakan faktor eksternal yang perlu anda analisis untuk menciptaka
 
 Terakhir, *threat* merupakan ancaman yang muncul dari luar seperti kompetitor yang harus anda waspadai saat menjalankan suatu bisnis. Untuk itu anda harus menyusun strategi bagaimana agar bisnis anda tidak ketinggalan dan bisa lebih unggul dibandingkan kompetitor.
 
-## **Risiko dalam Bisnis**
+## Peluang Bisnis Pemula untuk Anak Muda
 
-Dibalik potensi keuntungan yang besar, membangun bisnis juga memiliki risiko yang besar sehingga anda harus berhati-hati dalam membangun bisnis. Tingginya risiko kerugian ini juga disebabkan oleh masih kurangnya pengalaman anda sebagai pemula dalam mengelola bisnis. Oleh sebab itu, anda harus melakukan analisis dengan baik sebelum memulai suatu bisnis.
+Dibalik potensi keuntungan yang besar, membangun bisnis juga memiliki risiko yang besar sehingga anda harus berhati-hati dalam membangun bisnis. Meski berani membangun bisnis sebagai anak muda, tingginya risiko kerugian ini merupakan sesuatu yang bisa saja terjadi kapanpun, apalagi jika anda tidak berstrategi.
 
-Apabila anda belum sanggup untuk menanggung risiko ini, ada cara yang lebih mudah yaitu investasi bisnis dengan skema[ **equity crowdfunding**](https://landx.id/). Sistem ini membuat risiko kerugian anda menjadi lebih kecil karena bisnis yang anda danai akan dikelola oleh pihak yang sudah berpengalaman. Selain itu, cara ini sangat cocok untuk pemula karena investasi ini bisa dimulai dengan modal kecil.
+Karena hal tersebut, anda harus melakukan analisis dengan baik sebelum memulai suatu bisnis.Apabila anda belum sanggup untuk menanggung risiko ini, ada cara bisnis yang cocok bagi pemula dan anak muda dengan modal kecil.
+
+Bisnis ini adalah dengan menjadi pemilik saham lewat skema[ **equity crowdfunding**](https://landx.id/). Sistem ini membuat risiko kerugian anda menjadi lebih kecil karena bisnis yang anda danai akan dikelola oleh pihak yang sudah berpengalaman. 
+
+Pilihan bisnisnya pun banyak. Misalnya bisnis F&B seperti cloud kitchen, dessert kekinian, hingga resto sushi premium. Lalu ada juga bisnis sektor pet economy yang punya prospek pertumbuhan yang baik, bisnis di bidang maritim yaitu penangkapan ikan, hingga bisnis di bidang properti seperti kost. 
+
+Semua ini bisa anda pilih sesuai dengan preferensi profil risiko anda dan sesuai dengan definisi terbaik anda mengenai bisnis yang cocok untuk pemula.
 
 Karena itu, tunggu apalagi yuk…
 
