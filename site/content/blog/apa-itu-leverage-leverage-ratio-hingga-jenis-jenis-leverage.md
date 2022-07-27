@@ -102,6 +102,8 @@ Setelah mengetahui jenis-jenis leverage, selanjutnya kita akan mengetahui rumus 
 
 Untuk mengukur besaran leverage, Anda harus mengetahui rumus leverage ratio terlebih dahulu.
 
+![rumus leverage](img/rumus-leverage.png "rumus leverage")
+
 Berikut ini beberapa rumus dalam mengukur leverage, yaitu:
 
 * ### Rasio Utang terhadap Aset (Debt to Assets Ratio (DAR))
@@ -150,11 +152,11 @@ Suatu perusahaan yang memilih leverage akan meminjam uang dengan perjanjian adan
 
 Namun, menggunakan leverage tentunya memiliki risiko tinggi hingga kebangkrutan bagi suatu perusahaan jika dilakukan secara berlebihan. Tetapi, jika leverage dapat digunakan dengan tepat, dan atas pertimbangan yang mendalam, maka nantinya leverage dapat membantu meningkatkan keuntungan perusahaan.
 
-## Kelebihan dan Kekurangan Leverage 
+## Kelebihan dan Kekurangan Leverage
 
 Setelah mengetahui seputar leverage, kita akan membahas kelebihan dan kekurangan leverage yang wajib diketahui sebelum memutuskan untuk menggunakan leverage.
 
-### Kelebihan Leverage 	
+### Kelebihan Leverage
 
 * **Dapat digunakan untuk ekspansi bisnis**
   Menggunakan leverage dapat dimanfaatkan dalam mengembangkan bisnis secara spesifik dan berjangka pendek.
