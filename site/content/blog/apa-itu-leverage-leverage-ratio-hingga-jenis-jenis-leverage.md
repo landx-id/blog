@@ -1,5 +1,5 @@
 ---
-draft: true
+draft: false
 author: Della Octavilia
 title: "Apa itu Leverage: Leverage Ratio Hingga Jenis-jenis Leverage"
 metaTitle: "Apa itu Leverage: Leverage Ratio Hingga Jenis-jenis Leverage | LandX"
