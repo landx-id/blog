@@ -142,7 +142,7 @@ Dalam investasi, kamu boleh saja memasukkan crypto sebagai salah intrumen yang m
 
 ## Apakah Cocok Investasi Crypto Jangka Panjang?
 
-Karena Crypto termasuk instrumen investasi yang memiliki votatilitas tinggi, maka Crypto adalah instrumen yang lebih cocok untuk *trading* atau investasi jangka menengah. Selain itu, maka melakukan diversifikasi adalah strategi paling mudah untuk meminimalisir risiko kerugian dari fluktuasi nilai Crypto.
+Karena Crypto termasuk instrumen investasi yang memiliki votatilitas tinggi, maka Crypto adalah instrumen yang lebih cocok untuk *trading* atau investasi jangka pendek. Selain itu, melakukan diversifikasi adalah strategi paling mudah untuk meminimalisir risiko kerugian dari fluktuasi nilai Crypto.
 
 Apabila kamu sedang mencari instrumen investasi yang menjanjikan untuk jangka panjang, maka kamu bisa ikut patungan bisnis lewat equity crowdfunding yang bisa memberikan kamu keuntungan menjanjikan dalam jangka panjang.
 
