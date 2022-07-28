@@ -41,15 +41,15 @@ Salah satu misi IMF adalah membantu negara-negara yang mengalami kesulitan ekono
 
 Apa saja kegiatan yang dilakukan lembaga keuangan internasional ini? Berikut kegiatan IMF
 
-1. ### Surveillance (Pengawasan)
+### 1. Surveillance (Pengawasan)
 
 IMF mengumpulkan data ekonomi nasional, perdagangan internasional, dan ekonomi global secara agregat. Organisasi IMF ini juga menyediakan prakiraan ekonomi yang diperbarui secara berkala di tingkat nasional dan internasional. Prakiraan ini diterbitkan dalam bentuk World Economic Outlook, disertai dengan diskusi panjang tentang pengaruh kebijakan fiskal, moneter, dan perdagangan terhadap prospek pertumbuhan dan stabilitas keuangan.
 
-2. ### Capacity Building (Peningkatan Kapasitas)
+### 2. Capacity Building (Peningkatan Kapasitas)
 
 IMF memberikan bantuan teknis, pelatihan, dan saran kebijakan kepada negara-negara anggota melalui program capacity building. Program capacity building IMF mencakup pelatihan dalam bentuk pengumpulan dan analisis data yang dimasukkan ke dalam proyek IMF untuk memantau ekonomi nasional dan global.
 
-3. ### Lending (Memberi Pinjaman)
+### 3. Lending (Memberi Pinjaman)
 
 IMF memberikan pinjaman kepada negara-negara yang mengalami kesulitan ekonomi untuk mencegah atau mengurangi krisis keuangan. Sumber dana IMF adalah dari kuota, anggota menyumbangkan dana untuk dipinjamkan dan dikumpulkan berdasarkan sistem kuota. 
 
