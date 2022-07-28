@@ -39,7 +39,7 @@ Artinya Cryptocurrency adalah salah satu instrumen investasi yang bisa memberika
 
 **Definisi dari apa itu Cryptocurrency atau apa itu kripto adalah** mata uang digital yang menggunakan sistem kriptografi atau yang sering juga dikenal *blockchain* sebagai sistem yang menjaga keamanan dari mata uang digital tersebut.
 
-Apabila kamu ingin berinvestasi ke dalam instrumen ini, yuk kita bahas apa Cryptocurrency, sistem cara main kripto,  dan apa saja jenis kripto yang coock untuk investasi anda.
+Apabila kamu ingin berinvestasi ke dalam instrumen ini, yuk kita bahas apa Cryptocurrency, sistem cara main kripto,  dan apa saja jenis crypto yang coock untuk investasi anda.
 
 - - -
 
@@ -49,11 +49,11 @@ Pengertian Cryptocurrency seperti dikutip dari [Investopedia](https://www.invest
 
 Dengan perlindungan yang sulit ditembus, aset virtual ini sangat sulit untuk dimanipulasi.
 
-Berbeda dengan mata uang konvensional, Cryptocurrency adalah mata uang yang tidak mempunyai bentuk fisik sama sekali. Selain itu, tempat transaksi Cryptocurrency adalah hanya di pasar *online* saja.
+Berbeda dengan mata uang konvensional, kripto atau Cryptocurrency adalah mata uang yang tidak mempunyai bentuk fisik sama sekali. Selain itu, tempat transaksi Cryptocurrency adalah hanya di pasar *online* saja.
 
 > Meskipun cuma ‘sah’ digunakan sebagai alat transaksi di dunia maya saja, kamu masih bisa menukar Cryptocurrency dengan mata uang fiat seperti Rupiah, Yen, Dollar, dan lain-lain.
 
-Jadi, kripto adalah istilah yang digunakan untuk menggambarkan berbagai jenis mata uang digital bukan hanya sebatas Bitcoin saja. Hal sering terjadi karena Bitcoin merupakan mata uang digital dengan nilai hampir 70% nilai total pasar kripto global.
+Jadi, kripto adalah istilah yang digunakan untuk menggambarkan berbagai jenis mata uang digital bukan hanya sebatas Bitcoin saja. Hal sering terjadi karena Bitcoin merupakan mata uang digital dengan nilai hampir 70% nilai total pasar crypto global.
 
 Selain itu, kamu pasti sering mendengar istilah mining crypto atau proses menambang crypto bukan? Istilah ini belakangan semakin populer karena kegiatan ini ditekuni banyak orang karena dinilai memiliki potensi keuntungan jangka panjang yang menggiurkan.
 
@@ -61,7 +61,7 @@ Karena itu, yuk kita bahas dulu apa itu mining crypto dan bagaimana proses seben
 
 ## Proses dan Cara Mining Cryptocurrency
 
-Saat ini, mining cryptocurrency adalah hal yang semakin marak dan digiati banyak orang. Bahkan beberapa negara sempat melarang adanya proses mining bitcoin karena dikhawatirkan dapat menimbulkan berbagai masalah karena proses penambangan aset digital ini memakan energi yang sangat banyak.
+Saat ini, mining Cryptocurrency adalah hal yang semakin marak dan digiati banyak orang. Bahkan beberapa negara sempat melarang adanya proses mining Bitcoin karena dikhawatirkan dapat menimbulkan berbagai masalah karena proses penambangan aset digital ini memakan energi yang sangat banyak.
 
 Dalam prosesnya Bitcoin melibatkan dua kegiatan dasar yaitu penyampaian informasi dan verifikasi info yang melibatkan banyak sekali perangkat lunak di seluruh dunia untuk memastikan bahwa setiap transaksi tercatat dan tidak dapat dijualbelikan dua kali.
 
@@ -73,13 +73,13 @@ Oleh sebab itu, mining cryptocurrency seperti Bitcoin membutuhkan modal yang cuk
 
 ## Jenis Cryptocurrency dengan Market Cap Paling Besar
 
-Mungkin sebagian besar dari kamu sudah kenal dengan Bitcoin. Ya, mata uang virtual yang kini tengah populer ini adalah salah satu dari ribuan jenis Cryptocurrency yang beredar di masyarakat..
+Mungkin sebagian besar dari kamu sudah kenal dengan Bitcoin. Ya, mata uang virtual yang kini tengah populer ini adalah salah satu dari ribuan jenis mata uang Crypto yang beredar di masyarakat.
 
 Dilansir dari [nerdwallet](https://www.nerdwallet.com/article/investing/cryptocurrency-7-things-to-know), jumlah jenis Cryptocurrency adalah lebih dari 2.200. Semuanya ini bisa dibeli dan besarnya animo masyarakat terhadap mata uang tersebut menjadi alasan kian ramainya mata uang kripto.
 
 ### 1. Bitcoin (BTC)
 
-Bitcoin merupakan salah satu jenis Cryptocurrency paling tua dan paling populer saat ini. Bahkan, banyak orang yang mengenal terlebih dahulu nama Bitcoin sebelum crypto itu sendiri. Mata uang digital ini pertama kali muncul dan diperkenalkan oleh Satoshi Nakamoto pada tahun 2009.
+Jenis yang tertua dan terpopuler dari Cryptocurrency adalah Bitcoin. Bahkan, banyak orang yang mengenal terlebih dahulu nama Bitcoin sebelum crypto itu sendiri. Mata uang digital ini pertama kali muncul dan diperkenalkan oleh Satoshi Nakamoto pada tahun 2009.
 
 Sejak kemunculan pertamanya, Bitcoin adalah mata uang yang banyak disukai orang karena kemudahannya ditukar dengan mata uang fiat seperti Rupiah dan Dollar. Tak hanya itu, biaya transaksi yang ditawarkan juga tergolong rendah serta banyak *e-commerce* yang menerima mata uang ini sebagai alat tukar ekonomi.
 
@@ -97,11 +97,11 @@ Ethereum banyak digemari oleh masyarakat karena pencairannya yang tergolong muda
 
 ## Untung Rugi Cryptocurrency
 
-Ibarat dua sisi koin, Cryptocurrency punya keuntungan dan kekurangan. Berikut ini keuntungan dan kekurangan yang dimiliki Crypto.
+Ibarat dua sisi koin, Cryptocurrency punya keuntungan dan kekurangan. Penjelasan tentang keuntungan dan kekurangan yang dimiliki Crypto adalah sebagai berikut.
 
 ### Keuntungan
 
-* **Praktis:**  Bertransaksi dengan Crypto nggak perlu bantuan pihak ketiga seperti bank. Selain itu, nggak ada syarat *njlimet* yang harus kamu patuhi buat bertransaksi dan memiliki Crypto. Hal ini tentu berbeda jika kamu ingin menjadi nasabah bank, yang memiliki segudang syarat untuk dipenuhi.
+* **Praktis:**  Kemudahan yang ditawarkan Crypto adalah transaksinya nggak perlu bantuan pihak ketiga seperti bank. Selain itu, nggak ada syarat ribet yang harus kamu patuhi buat bertransaksi dan memiliki Crypto. Hal ini tentu berbeda jika kamu ingin menjadi nasabah bank, yang memiliki segudang syarat untuk dipenuhi.
 * **\*\***Cepat:**\*\*** Jika dibandingkan dengan transaksi internasional melalui bank, idealnya kamu perlu waktu lebih dari satu hari untuk melakukannya. Dengan mata uang Crypto, transaksi tersebut bisa dipangkas bahkan hanya dalam hitungan menit saja.
 * Terlindung dari Tangan Jahat: Seperti yang sudah dijelaskan di atas, semua mata uang Crypto dilindungi oleh Cryptography yang bikin kamu nggak perlu khawatir dengan keimanannya.
 
@@ -109,16 +109,16 @@ Ibarat dua sisi koin, Cryptocurrency punya keuntungan dan kekurangan. Berikut in
 
 * **\*\***Rentan Digunakan Sebagai Transaksi Ilegal:**\*\*** Karena keberadaannya yang sulit dilacak dan diakses oleh pihak luar, banyak orang jahat diluar sana yang menggunakan mata uang digital ini untuk transaksi ilegal di internet.
 * **\*\***Tidak Ada Badan Otoritas:**\*\*** Semua transaksi Crypto dicatat dan disimpan oleh sebuah sistem Blockchain. Artinya, tidak ada otoritas yang dipimpin oleh manusia untuk mengawasi jalannya mata uang ini.
-* **\*\***Masih Banyak Dibilang Ilegal:**\*\*** Karena nggak ada barang fisiknya, Crypto saat ini masih belum sepenuhnya diterima di masyarakat. Bahkan banyak orang masih menganggap Crypto sebagai barang ilegal.
+* **\*\***Masih Banyak Dibilang Ilegal:**\*\*** Karena nggak ada barang fisiknya, saat ini Crypto adalah mata uang digital yang masih belum sepenuhnya diterima di masyarakat. Bahkan banyak orang masih menganggap Crypto sebagai barang ilegal.
 * **\*\***Password Itu Penting:**\*\*** Sebelum membeli Crypto, kamu harus mencatat dengan baik password yang akan digunakan. Pasalnya, jika kamu lupa dengan password yang kamu miliki, semua uang yang kamu punya akan raib**\*\*.\*\***
 
-## Tips Berinvestasi dengan Crypto
+## Tips Investasi Crypto
 
-Selain sebagai alat transaksi, Crypto juga banyak digemari oleh masyarakat sebagai investasi. Kemudahan dalam bertransaksi serta menjanjikan *return* yang tinggi membuat para investor terutama *millenials* dan gen Z yang banyak kepincut mata uang digital ini.
+Selain sebagai alat transaksi, Crypto adalah opsi investasi yang banyak digemari oleh masyarakat. Kemudahan dalam bertransaksi serta menjanjikan *return* yang tinggi membuat para investor terutama *millenials* dan gen Z yang banyak kepincut mata uang digital ini.
 
-Pamor Crypto sebagai alternatif investasi semakin mencuat sejak pandemi 2021 berlangsung. Seperti alat investasi lainnya, tentu kamu perlu tahu seluk-beluk tentang Cryptocurrency. Jangan sampai niat kamu berinvestasi hanya untuk mengikuti *trend* saja.
+Crypto adalah alternatif investasi yang pamornya semakin mencuat sejak pandemi 2021 berlangsung. Seperti alat investasi lainnya, tentu kamu perlu tahu seluk-beluk tentang Cryptocurrency. Jangan sampai niat kamu berinvestasi hanya untuk mengikuti *trend* saja.
 
-Berikut ini MinLand sajikan beberapa tips sebelum berinvestasi menggunakan Crypto.
+Penjelasan tips berinvestasi Crypto adalah sebagai berikut.
 
 ### 1. Jangan Panik Saat Turun
 
@@ -139,6 +139,10 @@ Seperti yang sudah disinggung diatas, terdapat lebih dari 2.200  jenis Crypto ya
 ### 5. Diversifikasi dalam Investasi
 
 Dalam investasi, kamu boleh saja memasukkan crypto sebagai salah intrumen yang menghiasi portofolio investasi kamu. Namun, kamu tidak boleh lupa melakukan diversifikasi kepada instrumen yang lebih stabil dan aman sebagai strategi mitigasi risiko anda.
+
+## Apakah Cocok Investasi Crypto Jangka Panjang?
+
+Karena Crypto termasuk instrumen investasi yang memiliki votatilitas tinggi, maka Crypto adalah instrumen yang lebih cocok untuk *trading* atau investasi jangka menengah. Selain itu, maka melakukan diversifikasi adalah strategi paling mudah untuk meminimalisir risiko kerugian dari fluktuasi nilai Crypto.
 
 Apabila kamu sedang mencari instrumen investasi yang menjanjikan untuk jangka panjang, maka kamu bisa ikut patungan bisnis lewat equity crowdfunding yang bisa memberikan kamu keuntungan menjanjikan dalam jangka panjang.
 
