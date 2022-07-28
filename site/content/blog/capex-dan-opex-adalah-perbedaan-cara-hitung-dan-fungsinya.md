@@ -1,5 +1,5 @@
 ---
-draft: false
+draft: true
 author: Vlora Riyandi
 title: "CapEx dan OpEx Adalah: Perbedaan, Cara Hitung, dan Fungsinya"
 metaTitle: "CapEx dan OpEx Adalah: Perbedaan, Cara Hitung, dan Fungsinya | LandX"
