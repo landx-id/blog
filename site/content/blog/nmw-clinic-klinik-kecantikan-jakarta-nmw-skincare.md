@@ -65,7 +65,7 @@ NMW Clinic juga mengeluarkan berbagai produk kecantikan, seperti skin care, hing
 
 Kenapa harus NMW Clinic? Seperti yang sudah dijelaskan diatas. NMW Clinic merupakan salah satu klinik kecantikan yang terpercaya dan ditangani oleh tenaga-tenaga profesional terdidik.
 
-NMW Beauty Clinic juga tercatat sudah berdiri hingga 15 tahun lamanya, dan selalu melakukan inovasi sera pembaharuan di segi teknologi yang dimilikinya.
+Franchise klinik kecantikan NMW Beauty Clinic juga tercatat sudah berdiri hingga 15 tahun lamanya, dan selalu melakukan inovasi sera pembaharuan di segi teknologi yang dimilikinya.
 
 Selain itu, NMW Clinic juga mengeluarkan produk skin care dan make up yang sudah tersedia di marketplace. Jadi, Anda juga bisa memakai beberapa produk dari NMW Beauty Clinic yang telah tersedia di marketplace.
 
@@ -75,7 +75,7 @@ Jadi, Anda dapat melakukan konsultasi online melalui website NMW Beauty Clinic. 
 
 Sehabis itu, Anda dapat memilih dokter favorit Anda dan segera lakukan konsultasi online. Selanjutnya, Anda akan diberikan obat yang telah direkomendasikan terlebih dahulu, lalu obat tersebut akan dikirim langsung ke alamat rumah Anda. Mudah bukan?
 
-Untuk treatment, setiap bulannya NMW Clinic juga selalu memberikan promo diskon. Bahkan jika Anda merupakan customer baru, Anda akan mendapatkan voucher gratis salah satu treatment di NMW Beauty Clinic.
+Untuk treatment, setiap bulannya NMW Clinic juga selalu memberikan promo diskon. Bahkan jika Anda merupakan customer baru, Anda akan mendapatkan voucher gratis salah satu treatment di franchise klinik kecantikan ini.
 
 Oiya, setiap transaksi yang Anda lakukan di NMW Clinic nantinya akan berubah menjadi poin, lho! Poin ini nantinya bisa Anda tukarkan ke salah satu treatment yang Anda butuhkan.
 
@@ -83,7 +83,7 @@ Satu lagi, saat ini NMW Skincare telah melakukan ekspansi cabang melalui pendana
 
 ## [Mencari Peluang Bisnis dengan Modal 1 Juta](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)
 
-Bagaimana, menarik bukan penjelasan seputar salah satu klinik kecantikan Jakarta yaitu NMW Clinic? Juga ternyata NMW Clinic telah melakukan ekspansi cabang melalui pendanaan dari  investor di [LandX](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog).
+Bagaimana, menarik bukan penjelasan seputar salah satu klinik kecantikan Jakarta yaitu NMW Clinic? Juga ternyata NMW Clinic telah melakukan ekspansi cabang melalui pendanaan dari  investor di [LandX](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog). Sehingga investor bisa memiliki saham bisnis franchise klinik kecantikan Jakarta.
 
 Apa sih pendanaan dari [LandX](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog) itu? Bagaimana cara investasi melalui [LandX](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)? Jadi, [LandX](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog) itu merupakan salah satu platform [equity crowdfunding](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog).
 
