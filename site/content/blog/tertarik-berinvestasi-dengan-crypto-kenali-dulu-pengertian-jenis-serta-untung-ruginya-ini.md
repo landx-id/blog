@@ -16,7 +16,7 @@ intro: >-
 
 
   Apabila kamu juga tertarik berinvestasi ke dalam instrumen satu ini, yuk kita lebih lanjut tentang apa itu cryptocurrency dan jenis mata uang kripto yang bisa jadi pilihan investasi jangka panjang maupun pendek kamu. 
-date: 2022-02-04T16:51:22.383Z
+date: 2022-07-28T06:38:59.835Z
 tag:
   - Instrumen Investasi
   - Investasi
