@@ -2,8 +2,8 @@
 draft: false
 author: Abdul Wahhab
 slug: tertarik-berinvestasi-dengan-crypto-kenali-dulu-pengertian-jenis-serta-untung-ruginya-ini
-title: Mau Investasi Crypto? Pahami Apa Itu Cryptocurrency dan Jenis-jenisnya
-metaTitle: Mau Investasi Crypto? Pahami Apa Itu Cryptocurrency dan Jenis-jenisnya
+title: "Investasi Cryptocurrency Adalah: Apa Itu Cryptocurrency & Strateginya"
+metaTitle: "Cara Main Crypto: Apa Itu Cryptocurrency dan Strategi Investasi Crypto"
 metaDescription: Apa itu cryptocurrency adalah mata uang digital yang bisa jadi
   opsi investasi kripto jangka panjang.
 intro: >-
