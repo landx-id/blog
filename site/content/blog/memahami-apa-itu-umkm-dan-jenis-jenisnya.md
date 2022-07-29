@@ -95,7 +95,7 @@ Apa itu UMKM dan UKM definisinya juga dibedakan oleh jumlah tenaga kerja yang di
 ### 4. Perbedaan Modal Awal UKM dan UMKM
 
 
-Apa itu UMKM dan UKM dan UMKM juga diartikan dari perbedaan besaran jumlah modal awal usahanya. Umumnya, modal mendirikan UKM adalah sebesar Rp50 juta. Sedangkan modal untuk mendirikan UMKM adalah sebesar Rp300 juta yang bisa didapatkan dari bantuan pemerintah atau urun dana lewat platform [equity crowdfunding](landx.id). 
+Apa itu UMKM dan UKM dan UMKM juga diartikan dari perbedaan besaran jumlah modal awal usahanya. Umumnya, modal mendirikan UKM adalah sebesar Rp50 juta. Sedangkan modal untuk mendirikan UMKM adalah sebesar Rp300 juta yang bisa didapatkan dari bantuan pemerintah atau urun dana lewat platform equity crowdfunding. 
 
 ### 5. Pembinaan Usaha
 
