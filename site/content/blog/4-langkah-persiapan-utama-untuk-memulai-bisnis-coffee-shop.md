@@ -46,7 +46,9 @@ Melihat ramainya *coffee shop* saat ini serta perkiraan omzet yang bisa didapatk
 
 ## Langkah-Langkah Memulai Bisnis Coffee Shop
 
-Ada beberapa langkah persiapan yang perlu Anda lakukan untuk memulai bisnis *coffee shop* sendiri. Langkah-langkah tersebut antara lain:
+Bagaimana cara menjalankan bisnis coffee shop?
+
+Ada beberapa langkah persiapan yang perlu Anda lakukan untuk memulai bisnis *coffee shop*. Langkah-langkah atau cara menjalankan bisnis coffee shop tersebut antara lain:
 
 ### 1. Mencari Lokasi yang Strategis
 
