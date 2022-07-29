@@ -1,5 +1,5 @@
 ---
-draft: false
+draft: true
 author: Rafa Syawalia R
 title: Apa Itu Depresiasi? Memahami Faktor dan Metode Perhitungan Depresiasi
 metaTitle: Apa Itu Depresiasi, Faktor dan Metode Perhitungan Depresiasi Aset
@@ -198,7 +198,7 @@ Sebagai pemilik perusahaan tentunya kita tidak bisa menghindari depresiasi, hal 
 
 Melalui skema securities crowdfunding, perusahaan kamu yang terdaftar akan didanai oleh investor yang tertarik untuk mengembangkan bisnis yang kamu miliki. Bisnis kamu pun terus bisa berkembang dan bisa menjadi bisnis potensial secara jangka panjang loh. 
 
-LandX adalah platform [securities crowdfunding](landx.id) yang berpengalaman untuk membantu bisnis potensial saat ini. Mulai dari industri F&B, seperti cloud kitchen, resto sushi dan gelato hits, hingga bisnis di industri properti seperti kos-kosan.
+LandX adalah platform securities crowdfunding yang berpengalaman untuk membantu bisnis potensial saat ini. Mulai dari industri F&B, seperti cloud kitchen, resto sushi dan gelato hits, hingga bisnis di industri properti seperti kos-kosan.
 
 ## [Yuk, Listing Perusahaanmu lewat LandX untuk Mengembangkan Bisnis Kamu!](https://landx.id/)
 
