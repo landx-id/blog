@@ -10,7 +10,7 @@ metaDescription: Bagaimana cara investasi deposito yang jadi salah satu produk
 intro: Untuk investor pemula, yuk simak lebih baik cara investasi deposito,
   jenis-jenis deposito, hingga kelebihan dan kekurangan deposito agar bisa
   memilih opsi investasi yang bisa memberikan anda keuntungan yang optimal!
-date: 2022-07-29T06:04:00.000Z
+date: 2022-07-29T05:04:53.077Z
 tag:
   - bisnis investasi
   - investasi bisnis
