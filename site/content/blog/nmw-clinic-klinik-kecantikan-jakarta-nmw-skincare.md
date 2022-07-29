@@ -10,6 +10,12 @@ intro: Salah satu klinik kecantikan Jakarta yang memiliki reputasi baik adalah
   NMW Clinic. NMW Clinic telah beroperasi selama 15 tahun dan ditangani oleh
   berbagai dokter profesional yang berlisensi.
 date: 2022-07-28T14:39:11.045Z
+tag:
+  - NMW1
+  - Franchise Klinik Kecantikan
+category:
+  - Bisnis
+  - Investasi
 featuredImage:
   title: "NMW Clinic: Klinik Kecantikan Jakarta, NMW Skincare "
   alt: "NMW Clinic, Klinik Kecantikan Jakarta, NMW Skincare "
@@ -98,3 +104,9 @@ Ditambah, Anda juga akan mendapatkan dividen dari bisnis yang telah Anda danai!
 [LandX](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog) merupakan platform [equity crowdfunding](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog) terpercaya, transparan, memiliki market cap terbesar se Indonesia, dan telah mengantongi izin dari Otoritas Jasa Keuangan (OJK). Tunggu apalagi, jadi salah satu investor di [LandX](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog) ya, sebelum kehabisan!
 
 ## [Jadi Investor Bisnis Impianmu dengan Download Aplikasi LandX Sekarang Juga!](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)
+
+<!--StartFragment-->
+
+[![miliki bisnis modal kecil cuma dengan 1 jutaan dapat 4 cabang ](https://accountgram-production.sfo2.cdn.digitaloceanspaces.com/landx_ghost/2021/11/jadi-owner-bisnis-hanya-1-jutaan-dengan-cuan-yang-sangat-menjanjikan.png)](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)
+
+<!--EndFragment-->
