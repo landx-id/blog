@@ -1,5 +1,5 @@
 ---
-draft: true
+draft: false
 author: Rafa Syawalia R
 title: "Memahami Apa Itu Hedging: Pengertian dan Teknik Hedging dalam Forex"
 metaTitle: "Hedging Adalah: Memahami Apa Itu Hedging dan Teknik Hedging Forex"
