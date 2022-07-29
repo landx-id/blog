@@ -2,14 +2,15 @@
 draft: false
 author: Abdul Wahhab
 slug: deposito-dan-investasi-bisnis-untuk-pemula
-title: Lebih Baik Deposito atau Investasi ke Bisnis? Yuk Simak Disini
+title: Investasi Deposito atau Bisnis? Simak Cara Investasi Deposito ini!
 metaTitle: Lebih Baik Deposito atau Investasi Bisnis? Yuk Simak Disini
-metaDescription: Deposito merupakan salah satu produk investasi yang dikeluarkan
-  perbankan yang populer di kalangan masyarakat | Deposito atau Investasi
-  Bisnis?
-intro: "Untuk investor pemula, yuk simak lebih baik deposito atau investasi ke
-  dalam bisnis yang bisa memberikan anda keuntungan yang optimal. "
-date: 2021-09-22T06:01:00.000Z
+metaDescription: Bagaimana cara investasi deposito yang jadi salah satu produk
+  investasi populer saat ini? Simak instrumen yang dikeluarkan perbankan ini
+  yuk!
+intro: Untuk investor pemula, yuk simak lebih baik cara investasi deposito,
+  jenis-jenis deposito, hingga kelebihan dan kekurangan deposito agar bisa
+  memilih opsi investasi yang bisa memberikan anda keuntungan yang optimal!
+date: 2022-07-29T06:04:00.000Z
 tag:
   - bisnis investasi
   - investasi bisnis
@@ -22,20 +23,21 @@ tag:
   - Securities Crowdfunding untuk Pengembangan UMKM di Indonesia
 featuredImage:
   src: https://images.unsplash.com/photo-1551260627-fd1b6daa6224?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxMTc3M3wwfDF8c2VhcmNofDE3fHxiYW5rfGVufDB8fHx8MTY0MDI1MDY2NQ&ixlib=rb-1.2.1&q=80&w=1080
-  alt: "Investasi deposito untuk pemula apakah yang paling aman? "
-  title: Kelebihan dan kekurangan deposito untuk investasi jangka panjang anda.
+  alt: "Cara investasi deposito untuk pemula apakah yang paling aman? "
+  title: Memahami Cara investasi deposito dan kelebihan dan kekurangan deposito
+    untuk investasi jangka panjang anda.
 image: https://images.unsplash.com/photo-1551260627-fd1b6daa6224?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxMTc3M3wwfDF8c2VhcmNofDE3fHxiYW5rfGVufDB8fHx8MTY0MDI1MDY2NQ&ixlib=rb-1.2.1&q=80&w=1080
 category:
   - Investasi
   - Keuangan
 ---
-- - -
+Sebagai investor pemula anda pasti cukup familiar dengan cara investasi deposito karena instrumen ini sangat populer digunakan masyarakat luas untuk investasi jangka panjang. 
 
-Deposito dan [Investasi bisnis](https://landx.id/) merupakan instrumen investasi yang bisa digunakan oleh para investor pemula. Instrumen investasi yang semakin beragam terkadang membuat investor pemula kebingungan dalam memilih investasi awal mereka.
+Selain ada cara investasi deposito, terdapat [investasi bisnis](https://landx.id/) yang bisa jadi opsi instrumen investasi yang bagi para investor pemula. Instrumen investasi yang semakin beragam terkadang membuat investor pemula kebingungan dalam memilih investasi awal mereka.
 
-Sebagai investor pemula anda pasti cukup familiar dengan instrumen deposito karena instrumen ini sangat populer digunakan masyarakat luas untuk investasi jangka panjang. Deposito identik dengan instrumen investasi risiko rendah sehingga banyak digemari investor pemula. Namun, risiko rendah tentu saja juga diikuti dengan keuntungan yang kecil juga.
+Umumnya, cara investasi deposito identik dengan risiko rendah sehingga banyak digemari investor pemula. Namun, risiko rendah tentu saja juga diikuti dengan keuntungan yang kecil juga.
 
-Berbeda dengan deposito, investasi bisnis memiliki potensi risiko dan keuntungan yang beragam sehingga bisa menyesuaikan tujuan investasi investor. Walaupun risikonya cenderung lebih besar, instrumen ini memiliki potensi keuntungan yang lebih besar pula.
+Berbeda dengan cara investasi deposito, investasi bisnis memiliki potensi risiko dan keuntungan yang beragam sehingga bisa menyesuaikan tujuan investasi investor. Walaupun risikonya cenderung lebih besar, instrumen ini memiliki potensi keuntungan yang lebih besar pula.
 
 Karena itu, mari kita bahas lebih lanjut tentang peluang investasi dari kedua instrumen ini
 
@@ -43,15 +45,19 @@ Karena itu, mari kita bahas lebih lanjut tentang peluang investasi dari kedua in
 
 ## **Investasi Bisnis dan Deposito**
 
-Dalam investasi anda harus mengingat prinsip “*high risk high return”* semakin besar resiko yang berani anda tanggung, maka semakin besar pula potensi keuntungan yang bisa didapatkan.
+Dalam investasi anda harus mengingat prinsip “*high risk high return”* semakin besar risiko yang berani anda tanggung, maka semakin besar pula potensi keuntungan yang bisa didapatkan.
 
-Deposito merupakan produk investasi yang memiliki resiko rendah karena modal yang anda tanamkan melalui bank akan terjamin oleh Lembaga Penjamin Simpanan (LPS) dengan jaminan hingga 2 miliar sehingga memperkecil risiko yang akan anda terima. Nilai deposito yang anda simpan tidak akan terpengaruh oleh pergerakan pasar, hal ini akan memperkecil resiko anda tapi sekaligus memperkecil potensi keuntungan yang akan dapatkan.
+Cara investasi deposito mengandalkan instrumen deposito yang memiliki risiko rendah karena modal yang anda tanamkan melalui bank akan terjamin oleh Lembaga Penjamin Simpanan (LPS) dengan jaminan hingga 2 miliar.
 
-Berbeda dengan deposito, investasi bisnis merupakan penempatan modal ke dalam bisnis yang dirasa memiliki potensi perkembangan yang menjanjikan dalam beberapa waktu kedepan. Investasi ini memiliki potensi kenaikan nilai di masa yang akan datang. Selain itu, investasi bisnis juga dapat memberikan anda passive income kepada anda melalui dividen dalam periode tertentu saat bisnis menghasilkan keuntungan.
+Karena itu, cara investasi deposito dapat menawarkan risiko yang minim. Nilai deposito yang anda simpan tidak akan terpengaruh oleh pergerakan pasar, hal ini akan memperkecil resiko anda tapi sekaligus memperkecil potensi keuntungan yang akan dapatkan.
+
+Berbeda dengan cara investasi deposito, investasi bisnis merupakan penempatan modal ke dalam bisnis yang dirasa memiliki potensi perkembangan yang menjanjikan dalam beberapa waktu kedepan. Investasi ini memiliki potensi kenaikan nilai di masa yang akan datang. 
+
+Selain itu, investasi bisnis juga dapat memberikan anda passive income kepada anda melalui dividen dalam periode tertentu saat bisnis menghasilkan keuntungan.
 
 Tapi sebelum anda menentukan pilihan, mari kita bahas secara lebih mendalam satu persatu.
 
-## **Deposito**
+## **Cara Investasi Deposito**
 
 Deposito biasanya produk investasi yang sudah disiapkan oleh sebuah bank. Bunga yang diberikan dalam deposito pun biasanya sudah ditetapkan oleh bank sesuai dengan tenor dan nilai deposito yang akan anda tanamkan. Umumnya bunga yang diberikan di kisaran 4-7% yang biasanya mengacu kepada suku bunga yang ditentukan oleh Bank Indonesia (BI).
 
@@ -67,7 +73,7 @@ Deposito dikategorikan ke dalam tiga jenis yaitu Deposito Berjangka, Sertifikat 
 * **Sertifikat deposito**, deposito juga bisa diterbitkan dalam bentuk sertifikat deposito yang tidak mengacu pada nama instansi atau individu tertentu sehingga dapat diperjualbelikan.
 * **Deposito On Call**,  deposito on call merupakan deposito yang berjangka waktu minimal 7 hari dan maksimal 1 bulan. Deposito jenis ini dikhususkan untuk penyimpanan dana dalam jumlah yang besar.
 
-## Beda Perbedaan Investasi Deposito dan Tabungan
+## Perbedaan Investasi Deposito dan Tabungan
 
 Saat akan berinvestasi, banyak orang sulit membedakan antara deposito dan tabungan. Secara konsep, memang keduanya sama-sama menyimpan uang di bank dan mendapatkan bunga dari tabungan tersebut sesuai dengan ketentuan bank.
 
@@ -79,11 +85,21 @@ Oleh sebab itu, deposito masuk ke dalam instrumen investasi dengan risiko rendah
 
 ## **Kelebihan dan Kekurangan Deposito**
 
-Tiap investasi memiliki kelebihan dan kekurangan tertentu, berikut kelebihan dan kekurangan dari deposito
+Tiap investasi memiliki kelebihan dan kekurangan tertentu, berikut kelebihan deposito.
 
-**Kelebihan:** investasi dengan jangka waktu fleksibel dan risiko yang sangat kecil karena dana anda terjamin LPS sehingga investasi ini mudah dijalankan oleh banyak orang. Selain itu, sertifikat deposito juga bisa anda jadikan jaminan untuk kredit.
+### **1. Kelebihan Deposito**
 
-**Kekurangan:** deposito memiliki bunga yang kecil dibandingkan yang lain dan uang anda akan tertahan sampai dengan akhir periode. Selain itu bunga yang anda dapatkan juga dipotong oleh berbagai biaya seperti pajak dan administrasi.
+* Investasi dengan jangka waktu fleksibel karena bisa kapan saja.
+* Risiko yang sangat kecil karena dana anda terjamin LPS sehingga investasi ini mudah dijalankan oleh banyak orang.
+* Sertifikat deposito juga bisa dijadikan jaminan untuk kredit.
+* Nilai suku bunga yang cenderung lebih tinggi dibanding menabung biasa
+
+### **2. Kekurangan Deposito** 
+
+* Hasil *return* yang rendah. Meski deposito adalah instrumen investasi paling aman, imbal balik keuntungannya juga dapat dikatakan paling rendah dibanding instrumen lainnya.
+* Uang anda akan tertahan sampai dengan akhir periode penyimpanan. 
+* Keuntungan dari bunga deposito akan dipotong berbagai biaya seperti pajak dan administrasi.
+* Ketika dihadapkan dengan inflasi, keuntungan yang seharusnya didapatkan dari bunga deposito tidak akan memberi nilai yang signifikan. Hal ini karena tingkat inflasi bisa saja lebih tinggi daripada bunga deposito.
 
 ## **Investasi Bisnis**
 
