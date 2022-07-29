@@ -1,5 +1,5 @@
 ---
-draft: true
+draft: false
 author: Della Octavilia
 title: "Bakwan Malang 99: Potensi Franchise Bakso Malang di Jakarta"
 metaTitle: "Bakwan Malang 99: Potensi Franchise Bakso Malang di Jakarta"
