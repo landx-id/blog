@@ -119,7 +119,7 @@ Sekarang kamu sudah mengerti penjelasan mengenai apa itu securities crowdfunding
 
 Kamu juga perlu mencari platform yang sudah berpengalaman untuk pendanaan ke berbagai bisnis sehingga investasi yang kamu lakukan semakin minim risiko. Selain itu, platform yang kamu pilih akan bertindak sebagai pihak yang membantu kamu mengevaluasi suatu bisnis berpotensi atau tidak dalam kurun waktu yang panjang.
 
-[LandX](landx.id) merupakan salah satu platform securities crowdfunding yang berpengalaman untuk mengembangkan bisnis potensial dari industri F&B, seperti Cloud Kitchen, Resto Sushi, dan Gelato Hits, pusat kebugaran mega gym, hingga bisnis di industri properti seperti kos-kosan.
+[LandX](https://landx.id/) merupakan salah satu platform securities crowdfunding yang berpengalaman untuk mengembangkan bisnis potensial dari industri F&B, seperti Cloud Kitchen, Resto Sushi, dan Gelato Hits, pusat kebugaran mega gym, hingga bisnis di industri properti seperti kos-kosan.
 
 ## [Yuk, Jadi Investor Bisnis Potensial Kekinian Lewat LandX!](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)
 
