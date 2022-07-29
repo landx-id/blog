@@ -138,7 +138,7 @@ Rumus *Dividend yield* adalah perbandingan seberapa besar dividen yang dibagi pe
 
 Dulu, mendapatkan dividen saham identik dengan investasi yang membutuhkan modal besar. Hal ini karena kebanyakan perusahaan yang *listing* saham adalah perusahaan berskala besar yang harga lembaran sahamnya terhitung cukup tinggi.
 
-Namun saat ini, terdapat kesempatan bagi investor dengan modal minim untuk mendapatkan pembagian dividen saham lewat skema [securities crowdfunding](landx.id). Skema ini adalah investasi ke berbagai bisnis UMKM potensial yang akan menawarkan dividen rutin.
+Namun saat ini, terdapat kesempatan bagi investor dengan modal minim untuk mendapatkan pembagian dividen saham lewat skema securities crowdfunding. Skema ini adalah investasi ke berbagai bisnis UMKM potensial yang akan menawarkan dividen rutin.
 
 Sebagai investor, kamu bisa membandingkan bisnis UMKM mana yang paling potensial profitnya agar keuntungan dari modal yang diinvestasikan dapat optimal. Selain dividen saham, kamu juga punya peluang untuk mendapatkan *capital gain* karena peningkatan harga saham dari waktu ke waktu.
 
