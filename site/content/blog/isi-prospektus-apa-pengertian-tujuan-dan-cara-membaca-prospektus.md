@@ -5,10 +5,11 @@ metaTitle: Prospektus Isinya Apa? Pengertian, Tujuan dan Cara Membaca Prospektus
 metaDescription: Prospektus adalah dokumen resmi yang menyediakan detail
   informasi terkait gambaran penawaran saham yang ditawarkan kepada publik.
   Prospektus berisi..
-intro: Apabila kamu berinvestasi, prospektus menjadi salah satu dokumen penting
-  yang harus kamu bisa membuat keputusan investasi yang optimal. Karena itu,
-  mari kita bahas apa itu prospektus dan cara membacanya...
-date: 2022-03-30T05:36:10.081Z
+intro: Apabila Anda berinvestasi, prospektus menjadi salah satu dokumen penting
+  yang harus dibaca karena bisa membantu membuat keputusan investasi yang
+  optimal. Karena itu, mari kita bahas apa itu prospektus dan fungsi prospektus
+  bagi investor.
+date: 2022-07-29T07:09:22.880Z
 tag:
   - "Investasi "
   - Tips Investasi
@@ -27,14 +28,13 @@ featuredImage:
 ---
 Jika Anda adalah investor di [LandX](https://landx.id/), pasti sudah sering mengakses dan membaca dokumen bernama prospektus. Dokumen prospektus wajib dibaca dan dipertimbangkan investor sebelum memutuskan untuk membeli saham sebuah perusahaan.
 
-Apakah Anda tahu pengertian dan cara membaca prospektus yang baik? Berikut [LandX](https://landx.id/) rangkum untuk Anda.
+Apakah Anda tahu pengertian dan cara membaca prospektus yang baik? Dalam artikel ini kita akan membahas seputar apa itu prospektus, apa saja isi prospektus, serta apa fungsi prospektus. Anda juga akan belajar bagaimana cara menemukan prospektus sebuah perusahaan terbuka yang terdaftar di Bursa Efek.
 
-1. Prospektus artinya apa?
-2. Isi prospektus apa?
-3. Apa tujuan prospektus?
-4. Hal yang diperhatikan dalam prospektus
+Berikut [LandX](https://landx.id/) rangkum untuk Anda, yuk lanjut scrolling.
 
 ## Pengertian Prospektus
+
+Apa itu prospektus?
 
 Prospektus adalah dokumen resmi yang digunakan perusahaan untuk menyediakan detail informasi terkait gambaran penawaran saham yang ditawarkan kepada publik. Sebuah informasi prospektus berisi mengenai profil perusahaan, biografi manajemen, laporan keuangan, tujuan investasi, risiko dan mitigasi, serta informasi lainnya.
 
@@ -46,31 +46,29 @@ Prospektus final dirilis setelah terjadi kesepakatan efektif dan siap untuk dita
 
 ## Isi Prospektus
 
-Berikut adalah komponen umum untuk menyusun sebuah prospektus:
+Setelah mengetahui definisi dari apa itu prospektus. Kita akan membahas apa saja isi dalam prospektus, komponen umum untuk menyusun sebuah prospektus adalah sebagai berikut:
 
-* Overview perusahaan
+* **Overview perusahaan**
 
-Sebuah prospektus memberi gambaran perusahaan dan perjalanannya di industri terkait. Informasi ini didukung USP (unique selling points) yang membuat perusahaan tersebut dapat alami growth yang baik selama bertahun-tahun operasionalnya. 
+Sebuah prospektus memberi gambaran umum tentang perusahaan dan perjalanannya di industri terkait. Informasi ini didukung USP (unique selling points) yang membuat perusahaan tersebut dapat alami growth yang baik selama bertahun-tahun operasionalnya. 
 
-It also includes information about the founders, company registration, and initial service offerings. This section may also include an overview of the company’s strategy and what management believes is its competitive advantage or “unique selling proposition” (USP).
+* **Jasa/produk perusahaan**
 
-* Jasa/produk perusahaan
+Selanjutnya informasi yang ada dalam prospektus adalah informasi produk dan jasa yang dijual perusahaan untuk mendapatkan keuntunga. Di dalam prospektus dijabarkan produk atau jasa yang ditawarkan kepada konsumennya. Serta, apa produk atau jasa yang menjadi core economic activities perusahaan tersebut.
 
-Di dalam prospektus juga dijabarkan produk atau jasa yang ditawarkan kepada konsumennya. Serta, apa produk atau jasa yang menjadi core economic activities perusahaan tersebut.
+* **Profil manajemen**
 
-* Profil manajemen
+Informasi terkait profil dan latar belakang manajemen eksekutif juga menjadi bagian penting dalam prospektus. Investor ingin memiliki jaminan atas rasa percaya mereka bahwa perusahaan dapat melindungi investasi mereka dengan kemampuan yang dimiliki. Karena prospektus adalah dokumen berisi informasi perusahaan yang membantu meningkatkan rasa percaya investor sebelum memutuskan pembelian saham.
 
-Informasi terkait profil dan latar belakang manajemen eksekutif juga menjadi bagian penting dalam prospektus. Investor ingin memiliki jaminan atas rasa percaya mereka bahwa perusahaan dapat melindungi investasi mereka dengan kemampuan yang dimiliki.
-
-* Mekanisme saham dan penggunannya
+* **Mekanisme saham dan penggunannya**
 
 Saat penawaran saham dijual ke publik, calon investor ingin mengetahui dan melihat struktur kepemilikan saham saat ini. Investor juga ingin mengetahui bagaimana dana mereka akan diolah dan mempengaruhi pertumbuhan perusahaan agar bisa mendapatkan tingkat pengembalian (rate of return) yang diharapkan.
 
-* Laporan keuangan
+* **Laporan keuangan**
 
-Prospektus harus memberikan informasi kepada investor tentang kinerja keuangan perusahaan di masa lalu. Dengan adanya data dengan angka nyata, investor dapat memperkirakan prospek perusahaan dengan adanya penawaran investasi ini.
+Prospektus harus memberikan informasi kepada investor tentang kinerja keuangan. Data kinerja keuangan dalam prospektus adalah data kinerja perusahaan di masa lalu. Dengan adanya data dengan angka nyata, investor dapat memperkirakan prospek perusahaan dengan adanya penawaran investasi ini.
 
-* Risiko dan mitigasi
+* **Risiko dan mitigasi**
 
 Prospektus harus mengungkapkan risiko yang dihadapi investor ketika berinvestasi. Misalnya, terdapat risiko terkait regulasi pemerintah yang akan memengaruhi operasional bisnis.
 
@@ -80,23 +78,49 @@ Namun, perusahaan tentu juga harus menyiapkan mitigasi untuk menanggulangi kemun
 
 Tujuan prospektus dibuat adalah untuk memberikan informasi terkait perusahaan yang menawarkan saham kepada calon investor untuk dipertimbangkan. 
 
-Menurut Investopedia, prospektus sangat berguna bagi investor karena memberi tahu mereka tentang risiko terkait investasi untuk menjaga keamanan dana. Risiko biasanya diungkapkan di awal prospektus dan dijelaskan secara lebih rinci diakhir dokumen. 
+Menurut Investopedia, prospektus adalah dokumen yang sangat berguna bagi investor karena memberi tahu mereka tentang risiko terkait investasi untuk menjaga keamanan dana. Risiko biasanya diungkapkan di awal prospektus dan dijelaskan secara lebih rinci diakhir dokumen. 
 
 Dengan adanya prospektus, investor dapat mempelajari kondisi keuangan perusahaan untuk memastikan perusahaan cukup layak secara finansial untuk memenuhi komitmennya. 
 
-## Perhatikan Hal Ini Saat Membaca Prospektus
+## Fungsi Prospektus Bagi Investor
 
-Semua informasi yang tertera di dokumen prospektus adalah nyata dan penting. Namun, Anda harus memperhatikan bagian-bagian berikut untuk membantu menganalisa perusahaan.
+Seperti yang telah kita bahas bahwa singkatnya prospektus adalah dokumen resmi berisi detail informasi penawaran saham sebuah perusahaan. Semua informasi yang tertera di dalam dokumen prospektus adalah nyata dan penting. 
 
-* Profil bisnis
-* Laporan keuangan
-* Tujuan penawaran saham
-* Manajemen bisnis
-* Major shareholders
-* Harga yang ditawarkan
-* Risiko bisnis
+Lalu, apa fungsi prospektus? Sebagai investor Anda harus memerhatikan bagian-bagian berikut untuk membantu menganalisa perusahaan. Cari tahu bagaimana prospektus dapat memengaruhi keputusan investasi Anda.
 
-Sebuah prospektus perusahaan bisa menjadi berita besar. Seperti rilisnya ringkasan prospektus penawaran umum perdana saham atau IPO dari dua perusahaan unicorn yang merger yaitu GOTO pada awal tahun 2022 ini. 
+1. ### Profil bisnis
+
+Hal pertama yang harus Anda baca dalam sebuah prospektus adalah profil bisnis sebagai perusahaan yang menawarkan saham. Pahami informasi seputar sektor industri yang digeluti perusahaan. Seberapa besar potensi bisnis pada industri dapat berkembang dengan melihat paparan berbagai informasi yang tersedia di dalam prospektus.
+
+2. ### Laporan keuangan
+
+Di dalam prospektus, laporan keuangan yang ditampilkan adalah laporan keuangan periode yang telah berjalan. Lakukan analisis bisnis dengan membandingkan laba perusahaan dengan ekuitas menggunakan metode [rasio profitabilitas](https://landx.id/blog/rasio-rasio-keuangan-yang-penting-dalam-investasi/).
+
+Rasio profitabilitas adalah perbandingan untuk mengukur kemampuan perusahaan menghasilkan keuntungan.
+
+3. ### Tujuan penawaran saham
+
+Penting untuk mengetahui bagaimana dana investor dikelola oleh perusahaan nantinya. Apakah untuk menawarkan saham baru, saham lama, atau malah untuk menutup utang. Di LandX, umumnya dana investor digunakan untuk melakukan ekspansi bisnis dengan membuka cabang baru. Sehingga jangkauan konsumen dan penjualan meningkat.
+
+4. ### Manajemen bisnis
+
+Pada informasi manajemen bisnis, tertera profil pendiri serta jajaran komisaris yang membangun perusahaan. Mengetahui profil pihak perusahaan dapat menggambarkan juga kemampuan manajemen untuk membawa perusahaan dalam melangkah lebih jauh.
+
+5. ### Major shareholders
+
+Mengetahui mekanisme saham seperti berapa persentase saham yang dipegang pihak manajemen serta berapa persen yang ditawarkan kepada publik. Untuk apa tahu hal ini? Mengetahui persentase mekanisme saham berguna untuk memerkirakan potensi distribusi dividen. Dividen dibagikan sesuai persentase kepemilikan saham seseorang.
+
+6. ### Harga yang ditawarkan
+
+Mengetahui harga saham yang ditawarkan dapat membantu Anda untuk memerkirakan berapa lot yang ingin dibeli sehingga dapat memproyeksi potensi dividen yang diterima. Semakin banyak jumlah lot saham yang dimiliki tentu memperbesar potensi jumlah dividen yang diterima.
+
+7. ### Risiko bisnis
+
+Perusahaan memberi tahu potensi risiko bisnis kepada investor yang berguna memberi tahu mereka tentang potensi kekhawatiran yang mungkin dihadapi saat berinvestasi pada perusahaan. 
+
+Berkaitan dengan informasi risiko, diterakan juga informasi mitigasi atau upaya meminimalisir besar risiko yang menyebabkan kerugian bagi investor dan perusahaan. Hal ini berarti perusahaan memiliki rencana cepat tanggap apabila terjadi kondisi yang menggoyahkan.
+
+Sebuah prospektus perusahaan bisa menjadi berita besar. Seperti rilisnya ringkasan prospektus penawaran umum perdana saham atau IPO dari dua perusahaan unicorn yang merger pada awal tahun 2022 ini, yaitu GOTO. 
 
 Dikabarkan juga, prospektus Uber yang rilis pada tahun 2019 menjadi tuntunan bagi perusahaan ride-hailing dan ecommerce yang beroperasi di Asia Tenggara seperti Grab dan GOTO.
 
@@ -125,6 +149,6 @@ Sebagai pemilik modal dan pengatur penuh keuangan Anda, sebaiknya baca dengan se
 
 Karena itu, sebagai investor cerdas jangan sampai ‘skip’ membaca dokumen penting ini, ya!
 
-### [Di LandX, kamu bisa akses dan pelajari prospektus sebelum berinvestasi pada project bisnis potensial pilihan!](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)
+### [Di LandX, Anda bisa akses dan pelajari prospektus sebelum berinvestasi pada project bisnis potensial pilihan!](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)
 
 [![miliki bisnis modal kecil cuma dengan 1 jutaan dapat 4 cabang ](https://accountgram-production.sfo2.cdn.digitaloceanspaces.com/landx_ghost/2021/11/jadi-owner-bisnis-hanya-1-jutaan-dengan-cuan-yang-sangat-menjanjikan.png)](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)
