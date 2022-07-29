@@ -10,8 +10,15 @@ intro: CAPEX dan OPEX adalah dua hal penting dalam anggaran perusahaan. Yuk,
   ketahui perbedaan CapEx dan OpEx, cara hitungnya, serta fungsi CapEx dalam
   analisis investasi dalam artikel ini.
 date: 2022-07-27T15:01:51.806Z
+tag:
+  - Manajemen Bisnis
+  - Bisnis untuk Pemula
+  - Peluang Bisnis
+  - Analisis Bisnis
+category:
+  - Bisnis
 featuredImage:
-  src: https://unsplash.com/photos/xoU52jUVUXA
+  src: https://images.unsplash.com/photo-1554224155-6726b3ff858f?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1011&q=80
   alt: "CapEx dan OpEx Adalah: Perbedaan, Cara Hitung, dan Fungsinya dalam
     Analisis Investasi"
   title: "CapEx dan OpEx Adalah: Perbedaan, Cara Hitung, dan Fungsinya dalam
@@ -21,13 +28,13 @@ Dalam menyusun anggaran perusahaan terdapat dua jenis pengelompokan berdasarkan 
 
 CapEx berasal dari kata capital expenditure dan OpEx berarti operational expenditure. Persamaan dua kata ini adalah memiliki kata expenditure atau pengeluaran. Sama-sama merupakan biaya pengeluaran, tapi dicatat dalam jurnal laporan keuangan yang berbeda. 
 
-**Apa beda CapEx dan OpEx?**
+## **Memahami Perbedaan CAPEX dan OPEX?**
 
 CapEx adalah pengeluaran perusahaan untuk memeroleh atau meningkatkan jumlah aset tetap yang dimiliki. Contoh biaya CapEx adalah pembelian gedung, mesin, dan kendaraan. OpEx adalah pengeluaran yang bersifat rutin atau berkelanjutan, contoh OpEx yaitu gaji karyawan hingga biaya listrik dan telepon perusahaan.
 
 Apakah Anda sudah lebih memahami apa itu CapEx dan OpEx? Agar dapat memahami lebih baik, berikut LandX CapEx dan OpEx dalam artikel ini.
 
-## CapEx Adalah
+## CAPEX Adalah
 
 Capital expenditure atau CapEx adalah anggaran yang mengacu pada pengeluaran kas modal untuk memeroleh atau meningkatkan aset tetap. Pengeluaran CapEx dilakukan untuk pembelian atau pengadaan aset yang dapat digunakan jangka waktu panjang (minimal lebih 1 tahun). 
 
@@ -47,7 +54,7 @@ CapEx tidak selalu berbentuk pengadaan barang baru. Contoh CapEx termasuk melaku
 
 Jadi, anggaran CapEx yang dieksekusi mengacu pada kegiatan perusahaan berinvestasi pada masa depan. Setelah lebih paham terkait apa itu biaya CapEx, selanjutnya mari kita bahas apa itu OpEx.
 
-## OpEx Adalah
+## OPEX Adalah
 
 Operational expenditure atau OpEx adalah anggaran yang dibuat untuk pembayaran rutin operasional. Biya OpEx digunakan untuk mendukung aset tetap dapat tetap berjalan. Contoh OpEx adalah pembayaran gaji, oli kendaraan, tagihan listrik dan telepon, serta biaya sewa.
 
@@ -55,26 +62,26 @@ Penting bagi perusahaan untuk mempertimbangkan besaran anggaran OpEx. Dikarenaka
 
 Pengeluaran OpEx yang dilakukan untuk pembiayaan kegiatan rutin merupakan suatu hal yang tidak memiliki manfaat jangka panjang, alias habis saat itu juga. Sehingga apabila suatu perusahaan memiliki total biaya OpEx yang terlalu besar dan tidak terkendali maka sebuah perusahaan dapat menuju kesulitan finansial hingga kebangkrutan secara cepat.
 
-## Perbedaan CapEx dan OpEx
+## Perbedaan CAPEX dan OPEX
 
 Setelah membahas definisi dua biaya ini, mari kita bahas perbedaan CapEx dan OpEx. 
 
-### Definisi CapEx dan OpEx
+## CAPEX dan OPEX
 
 * Capital expenditures adalah biaya pengeluaran yang dilakukan perusahaan untuk menciptakan manfaat di masa depan. Bentuk pengeluaran biaya CapEx berupa pembelian aset tetap, mengganti aset tetap. CapEx juga dikenal sebagai capital expense.
 * Operational expenditures adalah biaya pengeluaran yang dilakukan perusahaan untuk membayar hal bersifat rutin atau berkelanjutan. Contoh biaya OpEx adalah gaji karyawan, bayar pajak, biaya tagihan listrik, biaya sewa, dan biaya administratif lainnya. OpEx juga dikenal sebagai operating expense atau revenue expenditures.
 
-### Pencatatan CapEx dan OpEx dalam Laporan Keuangan
+### Pencatatan CAPEX dan OPEX dalam Laporan Keuangan
 
 * CapEx dalam laporan keuangan dicatat sebagai biaya penyusutan serta biaya aset tak berwujud yang dapat diamortisasi. Contoh aset tak berwujud yang dapat diamortisasi adalah merek dagang, hak cipta, dan hak paten. 
 * OpEx dalam laporan keuangan dicatat langsung sebagai biaya beban. 
 
-### Contoh Biaya CapEx dan OpEx
+### Contoh Biaya CAPEX dan OPEX
 
 * Contoh biaya CapEx adalah pembelian mesin produksi, pembelian kendaraan, melakukan akuisisi merek.
 * Contoh biaya OpEx adalah biaya maintanance mesin, biaya bensin kendaraan, komisi, biaya promosi, serta biaya sewa jika tidak dilakukan sewa gedung bukan membeli gedung. 
 
-## Fungsi CapEx dan OpEx dalam Analisis Investasi
+## FungsiCAPEX dan OPEX dalam Analisis Bisnis dan Investasi
 
 Pencatatan dua biaya pengeluaran ini dicatat pada laporan laba rugi perusahaan dan mengurangi laba rugi dengan cara yang berbeda. Biaya OpEx secara langsung mengurangi biaya laba dan rugi, sedangkan CapEx yang mengalami biaya penyusutan mengurangi laba yang diakui perusahaan.
 
@@ -99,3 +106,9 @@ Investasi saham dapat dilakukan pada perusahaan terbuka dan perusahaan privat. J
 Apa Anda tertarik investasi saham bisnis privat?
 
 ## [Akses Saham Perusahaan Privat Melalui Platform Equity Crowdfunding](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)
+
+<!--StartFragment-->
+
+[![miliki bisnis modal kecil cuma dengan 1 jutaan dapat 4 cabang ](https://accountgram-production.sfo2.cdn.digitaloceanspaces.com/landx_ghost/2021/11/jadi-owner-bisnis-hanya-1-jutaan-dengan-cuan-yang-sangat-menjanjikan.png)](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)
+
+<!--EndFragment-->
