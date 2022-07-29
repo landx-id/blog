@@ -29,8 +29,6 @@ featuredImage:
 ---
 *Convertible bond* atau apa itu obligasi konversi adalah salah satu instrumen investasi yang bisa memberikan anda keuntungan. Merupakan suatu jenis obligasi, keuntungan obligasi konversi adalah dapat diubah jadi saham dari perusahaan penerbit obligasi.
 
-
-
 Lalu mengapa obligasi konversi adalah pilihan instrumen investasi yang menguntungkan? Mari cari tahu lebih lanjut tentang apa itu obligasi konversi, jenis-jenis obligasi konversi, dan keuntungan bagi investor yang memiliki oblligasi konversi.
 
 - - -
@@ -65,9 +63,10 @@ Bagi investor keuntungan dari investasi obligasi konversi adalah fleksibilitas p
 
 1. Obligasi konversi adalah keuntungan di masa mendatang jika proyek yang dijalankan perusahaan sudah berhasil dan mendapatkan keuntungan.
 
-
 2. Investor menerima pembayaran bunga suku bunga tetap dengan opsi untuk mengkonversi ke saham dan mendapatkan keuntungan dari apresiasi harga saham.
+
 3. Investor mendapatkan keamanan risiko karena pemegang obligasi dibayar sebelum pemegang saham biasa.
+
 4. Perusahaan mendapat keuntungan dengan meningkatkan modal tanpa segera mendilusi saham mereka.
 
 Akan tetapi, meski obligasi konversi adalah opsi yang nampak menjanjikan, anda harus tetap mempertimbangkan risiko yang muncul di masa mendatang seperti berbagai risiko kegagalan bayar yang mungkin terjadi.
@@ -94,7 +93,7 @@ Jenis ini hampir sama dengan jenis obligasi pada umumnya, yang menjadi pembeda a
 
 ## Diversifikasi dalam Berinvestasi
 
-Setiap instrumen investasi memiliki keuntungan jangka panjang termasuk obligasi konversi, tapi jangan lupa kamu juga perlu menyiapkan strategi diversifikasi agar keuntungan investasi kamu menjadi lebih optimal. Salah satu instrumen yang bisa kamu pilih adalah investasi bisnis lewat **[equity crowdfunding](landx.id).**
+Setiap instrumen investasi memiliki keuntungan jangka panjang termasuk obligasi konversi, tapi jangan lupa kamu juga perlu menyiapkan strategi diversifikasi agar keuntungan investasi kamu menjadi lebih optimal. Salah satu instrumen yang bisa kamu pilih adalah investasi bisnis lewat **[equity crowdfunding](https://landx.id/).**
 
 Sistem ini memberikan kamu kesempatan untuk berinvestasi ke dalam berbagai bisnis menguntungkan cuma dengan modal 1 juta saja.... 
 
@@ -102,7 +101,11 @@ Karena itu.......
 
 ## **[Yuk Temukan Bisnis Menjanjikan dengan Keuntungan Terbaik di LandX](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)**
 
-[![miliki bisnis modal kecil cuma dengan 1 jutaan dapat 4 cabang ](https://accountgram-production.sfo2.cdn.digitaloceanspaces.com/landx_ghost/2021/11/jadi-owner-bisnis-hanya-1-jutaan-dengan-cuan-yang-sangat-menjanjikan.png)](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)
+<!--StartFragment-->
+
+[![Bagaimana? Kamu lebih suka bisnis dengan buyback guarantee atau yang bisa disimpan dalam jangka panjang? Apapun pilihan kamu.. Yuk Patungan  dengan Keuntungan Menjanjikan Bareng LandX](https://accountgram-production.sfo2.cdn.digitaloceanspaces.com/landx_ghost/2021/10/Equity-Crowdfunding-di-Indonesia-1--3.png)](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)
+
+<!--EndFragment-->
 
 **Baca Juga:**
 
