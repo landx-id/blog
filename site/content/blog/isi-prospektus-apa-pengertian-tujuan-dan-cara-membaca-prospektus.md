@@ -21,7 +21,7 @@ category:
   - Investasi
   - Keuangan
 featuredImage:
-  title: "Prospektus: Pengertian, Isi Informasi, dan Hal yang Harus Diperhatikan"
+  title: "Prospektus: Pengertian, Isi Informasi, dan Fungsi Prospektus Bagi Investor"
   alt: "Yuk pahami apa itu prospektus dan bagaimana cara membaca prospektus agar
     keputusan investasi kamu dapat berkembang dengan "
   src: https://images.unsplash.com/photo-1562564055-71e051d33c19?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80
