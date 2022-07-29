@@ -10,7 +10,7 @@ intro: Simak bagaimana cara investor pemula menemukan bisnis terbaik yang bisa
   menjadi sumber passive income jangka panjang anda
 date: 2019-03-25T09:37:15.000Z
 tag:
-  - Bisnis F&B
+  - Investasi
   - Instrumen Investasi
 featuredImage:
   src: https://accountgram-production.sfo2.cdn.digitaloceanspaces.com/landx_ghost/2019/05/pilihan-investasi-untuk-pemula.jpg
@@ -64,7 +64,7 @@ Selain mendapat akses investasi ke properti yang tersebar di seluruh Indonesia, 
 
 Investor bisa bergabung sebagai pemilik properti hanya dengan investasi di bawah 10 juta Rupiah, dan mendapatkan return yang relatif tinggi karena tidak hanya mendapat hasil sewa, tetapi juga kenaikan harga properti ketika dijual.
 
-Melihat perkembangan investasinya bagaimana? Ada dashboard investor di [](https://t.co/ZrUjxGnsO2) aplikasi LandX. Semua properti di LandX dikelola secara terbuka dan transparan. LandX memberikan informasi lengkap untuk setiap properti, membagikan dividen dari properti secara berkala, dan juga membagikan keuntungan dari kenaikan harga properti nantinya.
+Melihat perkembangan investasinya bagaimana? Ada dashboard investor d(https://t.co/ZrUjxGnsO2) aplikasi LandX. Semua properti di LandX dikelola secara terbuka dan transparan. LandX memberikan informasi lengkap untuk setiap properti, membagikan dividen dari properti secara berkala, dan juga membagikan keuntungan dari kenaikan harga properti nantinya.
 
 Investasi properti tidak pernah semudah ini!
 
@@ -72,7 +72,6 @@ Jadi, tunggu apalagi?
 
 Mulai investasi sekarang, sebelum properti incaranmu habis terjual!
 
-**Untuk informasi lebih lanjut, kunjungi [www.landx.id](https://www.landx.id/)**
 
 [![miliki bisnis modal kecil cuma dengan 1 jutaan dapat 4 cabang ](https://accountgram-production.sfo2.cdn.digitaloceanspaces.com/landx_ghost/2021/11/jadi-owner-bisnis-hanya-1-jutaan-dengan-cuan-yang-sangat-menjanjikan.png)](https://landx.id/project/)
 
