@@ -1,12 +1,12 @@
 ---
-draft: true
+draft: false
 author: Vlora Riyandi
-title: "CapEx dan OpEx Adalah: Perbedaan, Cara Hitung, dan Fungsinya"
-metaTitle: "CapEx dan OpEx Adalah: Perbedaan, Cara Hitung, dan Fungsinya | LandX"
-metaDescription: CapEx dan OpEx adalah dua hal penting dalam anggaran
+title: "CAPEX dan OPEX Adalah: Perbedaan, Cara Hitung, dan Fungsinya"
+metaTitle: "CAPEX dan OPEX Adalah: Perbedaan, Cara Hitung, dan Fungsi pada Bisnis"
+metaDescription: CAPEX dan OPEX adalah dua hal penting dalam anggaran
   perusahaan. Ketahui perbedaan CapEx dan OpEx serta fungsinya dalam analisis
   investasi di sini.
-intro: CapEx dan OpEx adalah dua hal penting dalam anggaran perusahaan. Yuk,
+intro: CAPEX dan OPEX adalah dua hal penting dalam anggaran perusahaan. Yuk,
   ketahui perbedaan CapEx dan OpEx, cara hitungnya, serta fungsi CapEx dalam
   analisis investasi dalam artikel ini.
 date: 2022-07-27T15:01:51.806Z
