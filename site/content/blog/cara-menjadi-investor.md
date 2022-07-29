@@ -10,7 +10,7 @@ intro: "Istilah investor tentu saja menjadi sesuatu yang sering kamu dengar
   belakangan ini. Namun sudahkah kamu paham apa yang dimaksud dengan investor
   dan bagaimana cara jadi investor bagi pemula. Apabila belum, yuk kita bahas
   lebih lanjut tentang arti investor. "
-date: 2021-08-02T06:11:15.000Z
+date: 2022-07-29T03:29:45.278Z
 tag:
   - investor pemula
   - investasi bisnis
@@ -23,11 +23,13 @@ featuredImage:
     modal kecil
   title: Memahami Apa Itu Investor dan Cara Menjadi Investor Modal Kecil
 ---
-Pada saat ini istilah investor pasti sudah menjadi istilah yang sering kita temui dalam kehidupan sehari-hari terutama bagi anda yang baru mulai belajar cara pengembangan uang melalui investasi.
+Apa itu investor? Saat ini istilah investor pasti sudah menjadi kata yang sering kita temui dalam kehidupan sehari-hari terutama bagi anda yang mulai belajar cara pengembangan uang melalui investasi.
 
 Istilah ini juga kian populer karena saat ini masyarakat semakin melek investasi sehingga banyak yang mulai terjun ke dunia investasi.
 
-Investasi sendiri merupakan kegiatan menanamkan modal terhadap suatu proyek atau kegiatan ekonomi dengan harapan bisa mendapatkan  *[return](https://landx.id/project/index.html)*  atau keuntungan di masa mendatang. Sedangkan investor adalah orang yang bertindak sebagai penanam modal di proyek tersebut.
+Apa itu investor adalah seorang yang menanamkan modal terhadap suatu proyek atau kegiatan ekonomi dengan harapan bisa mendapatkan  *[return](https://landx.id/project/index.html)*  atau keuntungan di masa mendatang. Jadi, apa arti investor singkatnya adalah orang yang bertindak sebagai penanam modal di proyek tersebut.
+
+Namun, selengkapnya apa arti investor? Lalu, sebagai investor itu apa yang dilakukan? Mengapa keuntungan investor adalah hal yang memungkinkan?
 
 Untuk itu, mari kita bahas lebih lanjut apa itu investor dan bagaimana cara menjadi investor dengan modal kecil yang membantu pengembangan modal anda.
 
@@ -44,6 +46,56 @@ Karena itu, salah satu cara menjadi investor adalah dengan mempertajam analisis 
 Akan tetapi, banyak orang salah kaprah dengan istilah ini dan menganggap bahwa investor istilah yang digunakan untuk orang yang melakukan investasi dengan modal kecil besar saja. Padahal orang yang menanamkan modal dengan nominal kecil sekali pun dapat tetap bisa disebut investor.
 
 Apabila anda belum tahu cara menjadi investor dengan modal kecil, mari kita bahas bagaimana cara menjadi investor dengan modal kecil.
+
+## Apa Tugas Seorang Investor?
+
+Utamanya, arti investor adalah seorang yang tugasnya untuk mencari peluang investasi sebanyak-banyaknya. Selain itu, apa itu investor memiliki tugas sebagai berikut.
+
+### 1. Menghitung ROI
+
+Apa itu investor adalah seorang yang memiliki target keuntungan yang ingin diperoleh dari investasi. Karena itu, utamanya arti investor adalah orang yang memahami analisis balik modal atau analisis return of investment (ROI).
+
+*Return of Investment* adalah alat ukur untuk menilai keuntungan finansial dari sebuah investasi di perusahaan. Utamanya, manfaat adanya analisis balik modal bagi investor adalah untuk mengetahui perbandingan prospek profit antara beberapa proyek investasi.
+
+Fungsi menghitung ROI ini juga untuk mengukur kemungkinan risiko yang mungkin dihadapi dari opsi investasi yang ada. Sehingga nantinya, keuntungan bisa semakin dimaksimalkan.
+
+### 2. Menjalankan Rencana Investasi
+
+
+Setelah melakukan perhitungan mendalam tentang pilihan alokasi modal, apa itu investor adalah seorang yang akan langsung menjalankan kegiatan investasi dengan berpegangan pada profil risiko yang sudah dibuat.
+
+### 3. Evaluasi Kinerja Investasi
+
+Apa itu investor adalah seorang yang punya target. Ia pasti memiliki tujuan jangka pendek atau panjang yang ingin diraih dari perolehan keuntungan investasi.
+
+Namun, dalam proses mencapai hal tersebut, seorang investor perlu melakukan evaluasi soal rencana dan output yang dihasilkan dari investasinya secara berkala. Hal ini dilakukan karena kondisi yang berubah-ubah tentu menghadirkan risiko dan peluang keuntungan yang fluktuatif juga.
+
+## Siapa Investor Terkaya di Dunia?
+
+Meski hadir dengan risiko kerugian, investasi memang menawarkan peluang untuk meraup keuntungan yang sesuai dengan risikonya. Karena itu, hadir orang-orang yang berhasil meraup keuntungan luar biasa besar dari kegiatan investasi.
+
+Mereka juga memiliki kemampuan, strategi, dan filosofi tersendiri dalam menjalankan kegiatan investasinya. Berikut adalah beberapa investor terkaya di dunia menurut Forbes 2021.
+
+**1. Warren Buffet**
+
+**2. Carl Icahn**
+
+**3. George Soros**
+
+**4. Peter Lynch**
+
+**5. Alisher Usmanov**
+
+## Keuntungan Investasi
+
+Apa itu investor adalah seorang yang bisa duduk menunggu uang yang menghampiri, bukan seorang yang berlari mengejar uang tersebut. Dengan nvestasi seorang investor akan memiliki passive income yang bisa digunakan untuk meraih masa depan impian.
+
+
+Ingin pensiun dini dan keliling dunia? Bisa dicapai dari *return* investasi yang didapat. Atau, ingin punya rumah idaman di usia muda? Tentu bisa dicapai juga dengan berinvestasi. 
+
+Semua keinginan untuk mencapai kebebasan finansial ideal bisa terealisasi dengan membangun strategi investasi terbaik yang sesuai dengan profil risiko yang ingin dimiliki.
+
+ 
 
 ## Cara Menjadi Investor Pemula
 
