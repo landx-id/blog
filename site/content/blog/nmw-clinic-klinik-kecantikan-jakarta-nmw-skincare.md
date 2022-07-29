@@ -1,5 +1,5 @@
 ---
-draft: true
+draft: false
 author: Della Octavilia
 title: "NMW Clinic: Klinik Kecantikan Jakarta, NMW Skincare "
 metaTitle: "NMW Clinic: Klinik Kecantikan Jakarta Pilihan Favorit | LandX Blog"
