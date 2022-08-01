@@ -1,8 +1,8 @@
 ---
 draft: false
 author: Vlora Riyandi
-title: "Investasi Bodong Adalah: 4 Modus Penipuan Investasi Online"
-metaTitle: "Investasi BodongAdalah: 4 Modus Penipuan Investasi Online"
+title: "Investasi Bodong Adalah: Hindari 4 Modus Penipuan Investasi Online"
+metaTitle: "Investasi BodongAdalah: Hindari 4 Modus Penipuan Investasi Online"
 metaDescription: Kenali mudah ciri-ciri investasi bodong dan penipuan investasi
   via telegram agar kamu terhindar dari situasi yang merugikan. Yuk, kenali
   cirinya.
