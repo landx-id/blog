@@ -9,7 +9,7 @@ metaDescription: Bunga majemuk adalah sistem perhitungan bunga berbunga yang
 intro: Compound interest adalah bunga majemuk. Bunga majemuk adalah sistem
   perhitungan imbalan bunga berdasarkan modal pokok ditambah total bunga yang
   sudah didapatkan sebelumnya. Yuk kita bahas cara menghitung bunga majemuk.
-date: 2021-07-13T11:41:43.000Z
+date: 2022-08-01T07:19:55.981Z
 tag:
   - compounding effect
   - efek compounding
