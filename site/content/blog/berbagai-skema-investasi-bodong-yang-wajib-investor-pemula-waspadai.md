@@ -11,7 +11,7 @@ intro: Supaya Anda terhindar dari situasi yang merugikan, kenali mudah ciri-ciri
   korban.
 isPinned: true
 slug: berbagai-skema-investasi-bodong-yang-wajib-investor-pemula-waspadai
-date: 2022-02-01T08:57:56.000Z
+date: 2022-08-01T03:10:50.946Z
 tag:
   - Investasi Bodong
   - Penipuan Investasi di Telegram
