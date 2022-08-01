@@ -2,8 +2,8 @@
 draft: false
 author: Abdul Wahhab
 slug: menyiapkan-dana-darurat-yang-ideal
-title: "Dana Darurat Adalah: Cara Mudah Hitung Besar Dana Darurat Ideal "
-metaTitle: "Dana Darurat Adalah: Cara Mudah Hitung Besar Dana Darurat Ideal "
+title: Memahami Apa Itu Dana Darurat dan Jumlah Dana Darurat Ideal
+metaTitle: Menghitung Dana Darurat Ideal untuk Investasi Jangka Panjang
 metaDescription: Berapa besar dana darurat ideal untuk menghadapi berbagai
   kondisi tidak terduga? Cara mudah hitung dana darurat ideal
 intro: "Dana darurat adalah dana yang disiapkan untuk kondisi berbagai kondisi
@@ -109,7 +109,7 @@ Bukan hanya menghindari nasib buruk di masa depan, tapi dana darurat juga akan b
 
 Persiapan dana darurat ini juga akan sangat berpengaruh terhadap investasi jangka panjang yang akan kamu lakukan. Apabila kamu tidak memiliki darurat, maka kamu terpaksa harus mencairkan instrumen investasi yang kamu miliki yang terkadang dalam posisi yang tidak baik sehingga kamu harus mengalami kerugian. karena itu, kamu butuh menyiapkan dana darurat sebelum memulai program investasi jangka panjang yang akan kamu lakukan.
 
-## Cara menghitung Dana Darurat Ideal
+## Cara Menghitung Dana Darurat Ideal
 
 Banyak orang menyamakan dana darurat dengan tabungan. Faktanya, kedua hal tersebut sangatlah berbeda. Dana darurat disiapkan untuk menghadapi keadaan genting di masa depan. Cara menghitung dana darurat tergantung oleh penghasilan serta beban yang harus dihadapi seseorang.
 
@@ -137,7 +137,7 @@ Lebih Lengkapnya, kamu bisa simak video di bawah ini ya....
 
 {{< button link="https://youtu.be/watch?v=-qwzBBnxLXU" text="Watch This Video" >}}
 
-## Instrumen Investasi Untuk Dana Darurat
+## Instrumen Investasi untuk Dana Darurat
 
 Apabila kamu sudah paham berapa besar dana darurat ideal, mari kita bahas dana darurat sebaiknya disimpan dimana. 
 
@@ -151,7 +151,7 @@ Jadi, jawaban untuk dana darurat sebaiknya disimpan dimana adalah pada instrumen
 
 Karena itu, sebaiknya dana darurat disimpan di instrumen Reksa Dana Pasar Uang (RDPU) yang memiliki risiko penurunan rendah dan dapat mudah dicairkan apabila kamu sewaktu-waktu butuh dana tersebut. 
 
-## Tips Menyiapkan Dana Darurat
+## Tips Menyiapkan Dana Darurat Ideal
 
 Menyiapkan dana darurat memang tidak mudah, namun masih mustahil kamu lakukan jika punya komitmen yang kuat. Berikut ini beberapa tips yang bisa kamu lakukan untuk menyiapkan dana darurat:
 
