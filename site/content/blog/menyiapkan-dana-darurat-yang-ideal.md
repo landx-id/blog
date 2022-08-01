@@ -10,7 +10,7 @@ intro: "Dana darurat adalah dana yang disiapkan untuk kondisi berbagai kondisi
   tidak terduga sehingga dana darurat atau emergency fund ini tidak ditujukan
   untuk tujuan keuangan tertentu karena bersifat dana cadangan yang standby
   apalagi dibutuhkan di kondisi terdesak. "
-date: 2021-10-25T13:36:21.000Z
+date: 2022-08-01T06:35:17.934Z
 tag:
   - tips investasi
   - investasi
