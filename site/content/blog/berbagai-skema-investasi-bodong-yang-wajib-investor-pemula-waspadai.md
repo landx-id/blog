@@ -1,6 +1,6 @@
 ---
 draft: false
-author: Vlora Riyandi
+author: Abdul Wahhab
 title: "Investasi Bodong Adalah: Hindari 4 Modus Penipuan Investasi Online"
 metaTitle: "Investasi BodongAdalah: Hindari 4 Modus Penipuan Investasi Online"
 metaDescription: Kenali mudah ciri-ciri investasi bodong dan penipuan investasi
