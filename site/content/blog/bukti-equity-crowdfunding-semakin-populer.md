@@ -118,7 +118,7 @@ Pertama, karena adanya dukungan dari Pemerintah Indonesia yang menerbitkan regul
 
 Kedua, karena jumlah pelaku startup sebagai penyelenggara *equity crowdfunding* di Indonesia kian bertambah banyak.
 
-Gimana, kamu sekarang sudah makin akrab dengan *equity crowdfunding* khan
+Gimana, kamu sekarang sudah makin akrab dengan *equity crowdfunding* kan
 
 **[Yuk Temukan Bisnis Menjanjikan dengan Keuntungan Terbaik di LandX](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)**
 
