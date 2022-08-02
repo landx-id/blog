@@ -1,5 +1,5 @@
 ---
-draft: true
+draft: false
 author: Rafa Syawalia S
 title: "High Risk High Return Adalah: Jenis dan Strategi dalam Investasi"
 metaTitle: "High Risk High Return Adalah: Risk and Return Dalam Manajemen Keuangan"
