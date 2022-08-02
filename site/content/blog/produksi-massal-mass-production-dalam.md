@@ -150,9 +150,9 @@ Selain kebutuhan pokok, industri retail fast fashion skala global seperti Ximivo
 
 Sebagai salah satu industri ritel yang menjual barang dengan korean based design, Ximivogue menjual produk-produk dengan kualitas terbaik dan terus berkembang dari dari waktu ke waktu. Industri ritel dipandang dapat memberikan keuntungan yang menjanjikan karena luasnya target pasar dan permintaan yang terus meningkat dari waktu ke waktu.
 
-Memiliki bisnis yang dapat menghadirkan barang yang dibutuhkan masyarakat dari waktu ke waktu tentu terlihat menjanjikan. Seperti investor di LandX yang bisa punya saham bisnis skala global cuma dengan 1 juta saja.
+Memiliki bisnis yang dapat menghadirkan barang yang dibutuhkan masyarakat dari waktu ke waktu tentu terlihat menjanjikan. Seperti investor di [LandX](https://landx.id/) yang bisa punya saham bisnis cuma dengan 1 juta saja.
 
-Caranya adalah dengan ikut investasi bisnis melalui LandX untuk membangun cabang terbaru dari bisnis potensial di Indonesia dan kamu bisa ikut menikmati dividen sesuai dengan keuntungan bisnis tersebut.
+Caranya adalah dengan ikut investasi mendanai bisnis melalui [LandX](https://landx.id/) untuk membangun cabang terbaru dari bisnis potensial di Indonesia dan kamu bisa ikut menikmati dividen sesuai dengan keuntungan bisnis tersebut.
 
 Karena itu..
 
