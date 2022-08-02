@@ -9,6 +9,13 @@ intro: Mengenal perusahaan fast moving consumer good, FMCG adalah perusahaan
   yang memperjualkan produk yang sangat laris, terjual cepat, dan dengan harga
   yang terjangkau.
 date: 2022-08-02T03:13:15.087Z
+tag:
+  - Bisnis Jangka Panjang
+  - Produksi Massal
+  - Retail
+  - Bisnis Retail
+category:
+  - Bisnis
 featuredImage:
   alt: Apa Itu FMCG? Pengertian, Jenis Produk & Perusahaan FMCG di Indonesia
   title: Apa Itu FMCG, Perusahaan FMCG di Indonesia
@@ -76,3 +83,9 @@ Selain itu, Anda juga bisa  investasi untuk jangka panjang melalui skema [equity
 Dengan skema [equity crowdfunding](https://landx.id/), Anda hanya perlu modal yang kecil untuk memulai investasi ke bisnis yang nanti Anda danai, dan mendapatkan potensi keuntungan berupa dividen secara rutin sesuai performa bisnis. Tentunya melalui platform berizin OJK dan berpengalaman mendanai bisnis potensial seperti [LandX](https://landx.id/) ya!
 
 ## [Yuk Mulai Investasi Bisnis Potensial di LandX Sekarang Juga!](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)
+
+<!--StartFragment-->
+
+[![Yuk mulai patungan bisnis menguntungkan jangka panja g bersama LandX](https://accountgram-production.sfo2.cdn.digitaloceanspaces.com/landx_ghost/2021/09/Equity-Crowdfunding-di-Indonesia-1--3.png)](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)
+
+<!--EndFragment-->
