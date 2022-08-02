@@ -1,14 +1,22 @@
 ---
 draft: false
 author: Rafa Syawalia S
-title: "High Risk High Return Adalah: Jenis dan Strategi dalam Investasi"
-metaTitle: "High Risk High Return Adalah: Risk and Return Dalam Manajemen Keuangan"
+title: "High Risk High Return: Memahami Konsep Risk dan Return dalam Investasi"
+metaTitle: Memahami Konsep Risk dan Return dalam Investasi
 metaDescription: Arti dari high risk high return adalah prinsip dalam investasi
   untuk mengambil risiko tinggi untuk potensi balik modal yang besar.
 intro: Di dalam dunia investasi, kita harus memahami mengenai apa itu high risk
   high return adalah untuk menentukan strategi dalam investasi dan, jenis
   instrumen investasi dengan high risk high return.
 date: 2022-08-01T04:22:39.701Z
+tag:
+  - Tips Investasi
+  - Investasi Menguntungkan
+  - Investasi Jangka Panjang
+  - Investasi untuk Pemula
+category:
+  - Investasi
+  - Keuangan
 featuredImage:
   src: https://images.unsplash.com/photo-1618650551428-199e32d38059?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1471&q=80
   alt: Pengertian High Risk High Return Adalah Strategi Dalam Investasi
@@ -112,5 +120,9 @@ Dengan skema ini, kamu bersama masyarakat luas bersama-sama mendanai bisnis pote
 Melalui platform equity crowdfunding yang berpengalaman, [LandX](https://landx.id/) membantu perkembangan dan ekspansi bisnis potensial dan telah berizin Otoritas Jasa Keuangan, sehingga membantu kamu menemukan bisnis terbaik untuk investasi jangka panjang kamu.
 
 ## [Temukan Bisnis Menjanjikan dengan Keuntungan Terbaik Lewat LandX Sekarang Juga!](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)
+
+<!--StartFragment-->
+
+[![Yuk mulai patungan bisnis menguntungkan jangka panja g bersama LandX](https://accountgram-production.sfo2.cdn.digitaloceanspaces.com/landx_ghost/2021/09/Equity-Crowdfunding-di-Indonesia-1--3.png)](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)
 
 <!--EndFragment-->
