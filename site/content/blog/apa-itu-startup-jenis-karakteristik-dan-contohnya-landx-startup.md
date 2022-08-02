@@ -125,17 +125,17 @@ Dalam startup ada yang paling rendah adalah unicorn, kedua ada decacorn, dan yan
 
 Perusahaan bisnis startup Indonesia banyak yang mulai berkembang cepat. Namun, berikut adalah perusahaan-perusahaan startupnya.
 
-### 1. Gojek
+**1. Gojek**
 
-### 2. Traveloka
+**2. Traveloka**
 
-### 3. Bukalapak
+**3. Bukalapak**
 
-### 4. Sociolla
+**4. Sociolla**
 
-### 5. Ruangguru
+**5. Ruangguru**
 
-### 6. LandX
+**6. LandX**
 
 ## LandX Sebagai Startup Crowdfunding Indonesia
 
