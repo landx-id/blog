@@ -1,7 +1,7 @@
 ---
 draft: false
 author: Rafa Syawalia R
-title: "Apa itu Securities Crowdfunding: Cara Kerja & Keuntungan Crowdfunding"
+title: "Apa Itu Securities Crowdfunding: Cara Kerja & Keuntungan Crowdfunding"
 metaTitle: "Securities Crowdfunding Adalah: Apa Itu Crowdfunding Fintech"
 metaDescription: Apa itu securities crowdfunding adalah skema pendanaan yang
   dilakukan oleh para pemilik modal dengan cara patungan yang melalui pasar
