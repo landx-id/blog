@@ -1,5 +1,5 @@
 ---
-draft: true
+draft: false
 author: Della Octavilia
 title: "Apa Itu Sekuritas: Definisi, Jenis, dan Tips Memilih Sekuritas Terbaik"
 metaTitle: "Apa Itu Sekuritas: Definisi, Jenis, dan Tips Memilih Sekuritas Terbaik"
