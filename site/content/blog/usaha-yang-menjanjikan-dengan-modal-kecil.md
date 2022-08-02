@@ -4,8 +4,9 @@ author: Abdul Wahhab
 slug: usaha-yang-menjanjikan-dengan-modal-kecil
 title: 7+ Peluang Usaha Modal Kecil dan Ide Usaha Menjanjikan di 2022
 metaTitle: 7+ Peluang Usaha yang Menjanjikan dan Ide Usaha Modal Kecil di 2022
-metaDescription: Cari peluang usaha modal kecil menjanjikan yang bisa dicoba di
-  2022? Ini ide membangun usaha modal kecil untuk keuntungan jangka panjang!
+metaDescription: Lagi cari peluang usaha modal kecil menjanjikan yang bisa
+  dicoba di 2022? Ini ide membangun usaha modal kecil untuk keuntungan jangka
+  panjang!
 intro: Cari peluang usaha modal kecil menjanjikan yang bisa dicoba di 2022? Ini
   dia ide membangun usaha modal kecil untuk pemula agar bisa segera membangun
   keuntungan jangka panjang!
