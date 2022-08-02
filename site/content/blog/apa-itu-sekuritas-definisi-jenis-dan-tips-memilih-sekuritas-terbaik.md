@@ -11,6 +11,15 @@ intro: Apa itu sekuritas? Sekuritas adalah objek yang dimanfaatkan investor
   bahas bersama seputar sekuritas hingga tips memilih perusahaan sekuritas
   terbaik.
 date: 2022-07-29T09:50:41.477Z
+tag:
+  - "Investasi untuk Pemula "
+  - Investor Pemula
+  - Instrumen Pasar Modal
+  - Cara Investasi
+  - Cara Investasi Modal Kecil
+  - Cara Investasi Saham
+category:
+  - Investasi
 featuredImage:
   title: "Apa Itu Sekuritas: Definisi, Jenis, dan Tips Memilih Sekuritas Terbaik"
   alt: Mengetahui Apa Itu Sekuritas, Jenis-jenis sekuritas, Tips Memilih
@@ -79,16 +88,17 @@ Contoh dari ekuitas adalah saham, reksa dana, dana investasi real estate (DIRE),
 
 Bagaimana cara kerja sekuritas? Melalui Otoritas Jasa Keuangan (OJK), terdapat dua aktivitas usaha yang dilakukan oleh perusahaan sekuritas di Indonesia. Cara kerja sekuritas di Indonesia diantaranya, yaitu:
 
-1. ### Perantara Pedagang Efek (Broker-Dealer)
+### 1. Perantara Pedagang Efek (Broker-Dealer)
 
-   Cara kerja sekuritas pertama adalah sebagai perantara pedagang efek. Di sini, perusahaan sekuritas adalah melakukan jual beli efek (surat berharga) untuk kepentingan sendiri atau pihak lain.
+Cara kerja sekuritas pertama adalah sebagai perantara pedagang efek. Di sini, perusahaan sekuritas adalah melakukan jual beli efek (surat berharga) untuk kepentingan sendiri atau pihak lain.
 
-   Kemudian, perusahaan sekuritas juga melakukan jual-beli efek seperti saham dan obligasi yang dilakukan melalui Bursa Efek atau melalui transaksi di luar bursa (transaksi Over-the-Counter/OTC)
-2. ### Penjamin Emisi Efek (Underwriter)
+Kemudian, perusahaan sekuritas juga melakukan jual-beli efek seperti saham dan obligasi yang dilakukan melalui Bursa Efek atau melalui transaksi di luar bursa (transaksi Over-the-Counter/OTC)
 
-   Kedua, cara kerja sekuritas adalah sebagai penjamin emisi efek.
+### 2. Penjamin Emisi Efek (Underwriter)
 
-   Perusahaan sekuritas akan membantu calon Emiten (perusahaan terbuka) dalam melaksanakan Pelaksanaan Umum Saham (Initial Public Offering/IPO), dengan atau tanpa kewajiban untuk membeli sisa efek yang tidak terjual.
+Kedua, cara kerja sekuritas adalah sebagai penjamin emisi efek.
+
+Perusahaan sekuritas akan membantu calon Emiten (perusahaan terbuka) dalam melaksanakan Pelaksanaan Umum Saham (Initial Public Offering/IPO), dengan atau tanpa kewajiban untuk membeli sisa efek yang tidak terjual.
 
 ## Perusahaan Sekuritas Terbaik di Indonesia
 
@@ -156,6 +166,12 @@ Anda bisa memiliki sekuritas dengan cara investasi metode [equity crowdfunding](
 
 Dengan metode [equity crowdfunding](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog) Anda akan menjadi investor untuk bisnis yang akan Anda danai. Nantinya, Anda akan memperoleh dividen hasil dari bisnis yang Anda danai. 
 
-[LandX](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog) merupakan platform [equity crowdfunding](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog) terpercaya, transparan, memiliki market cap terbesar se Indonesia, dan telah mengantongi izin dari Otoritas Jasa Keuangan (OJK). Tunggu apalagi, jadi salah satu investor di [LandX](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog) ya, sebelum kehabisan![](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)
+[LandX](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog) merupakan platform [equity crowdfunding](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog) terpercaya, transparan, memiliki market cap terbesar se Indonesia, dan telah mengantongi izin dari Otoritas Jasa Keuangan (OJK). Tunggu apalagi, jadi salah satu investor di [LandX](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog) ya, sebelum kehabisan
 
 ### [Miliki Sekuritas Bisnis Privat Melalui Equity Crowdfunding di Sini!](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)
+
+<!--StartFragment-->
+
+[![miliki bisnis modal kecil cuma dengan 1 jutaan dapat 4 cabang ](https://accountgram-production.sfo2.cdn.digitaloceanspaces.com/landx_ghost/2021/11/jadi-owner-bisnis-hanya-1-jutaan-dengan-cuan-yang-sangat-menjanjikan.png)](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)
+
+<!--EndFragment-->
