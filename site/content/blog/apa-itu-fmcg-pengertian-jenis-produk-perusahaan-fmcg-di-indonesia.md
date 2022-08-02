@@ -1,5 +1,5 @@
 ---
-draft: true
+draft: false
 author: Rafa Syawalia R
 title: Apa Itu FMCG? Pengertian, Jenis Produk & Perusahaan FMCG di Indonesia
 metaTitle: Apa Itu FMCG? Pengertian, Jenis Produk & Perusahaan FMCG di Indonesia
