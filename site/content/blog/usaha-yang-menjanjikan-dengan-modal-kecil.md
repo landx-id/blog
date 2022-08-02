@@ -98,9 +98,7 @@ Proses merintis bisnis memang bukanlah hal yang mudah. Karena itu, berikut ini a
 * Memilih lokasi yang strategis.
 * Memanfaatkan platform media sosial dengan maksimal, efisien, dan tepat sasaran agar peluang bisnis semakin berkembang. 
 
-
-
-## Mengambil Peluang Usaha Modal Kecil
+## Opsi Peluang Usaha Modal Kecil dengan Modal Sejutaan
 
 Dalam membangun bisnis anda membutuhkan modal dan kemampuan untuk mengatur bisnis agar bisa berjalan dalam jangka panjang. Oleh sebab itu mulai membangun suatu usaha artinya  anda siap menghadapi berbagai risiko yang muncul. Namun ada solusi lain untuk memulai usaha modal kecil dengan keuntungan menjanjikan.
 
