@@ -10,6 +10,13 @@ intro: Jasa laundry kiloan ramah lingkungan Kirei Laundry hadir sebagai solusi
   untuk melindungi lingkungan dan memberikan pelayanan terbaik serta canggih di
   masa yang super praktis saat ini.
 date: 2022-08-01T05:54:10.274Z
+tag:
+  - KRI1
+  - Bisnis Laundry
+  - Laundry Kiloan
+category:
+  - Bisnis
+  - Keuangan
 featuredImage:
   title: "Kirei Laundry: Laundry Kiloan Ramah Lingkungan | Eco-Laundry"
   src: https://images.unsplash.com/photo-1604335399105-a0c585fd81a1?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2070&q=80
@@ -91,3 +98,9 @@ Selain bidang jasa laundry, jika Anda memiliki ketertarikan di bidang industri l
 Tunggu apalagi…
 
 ## [Yuk Jadi Investor Bisnis Potensial Lewat LandX Sekarang Juga!](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)
+
+<!--StartFragment-->
+
+[![Yuk mulai patungan bisnis menguntungkan jangka panja g bersama LandX](https://accountgram-production.sfo2.cdn.digitaloceanspaces.com/landx_ghost/2021/09/Equity-Crowdfunding-di-Indonesia-1--3.png)](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)
+
+<!--EndFragment-->
