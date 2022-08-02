@@ -1,5 +1,5 @@
 ---
-draft: true
+draft: false
 author: Della Octavilia
 title: "SID Adalah: Manfaat Hingga Cara Mendapatkan SID"
 metaTitle: "SID Adalah: Arti Nomor SID, Manfaat dan Cara Mendapatkan SID"
