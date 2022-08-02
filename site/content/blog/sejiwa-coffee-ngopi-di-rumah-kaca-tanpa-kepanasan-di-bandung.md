@@ -1,5 +1,5 @@
 ---
-draft: true
+draft: false
 author: Rafa Syawalia R
 title: "Sejiwa Coffee: Ngopi di Rumah Kaca tanpa Kepanasan di Bandung"
 metaTitle: "Sejiwa Coffee Bandung: Alamat dan Harga Menu Kopi Sejiwa"
