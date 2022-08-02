@@ -5,10 +5,13 @@ metaTitle: "Apa Itu Startup: Jenis. Karakteristik dan Contoh Startup di Indonesi
 metaDescription: "Startup adalah bisnis atau perusahaan baru yang mencoba
   mendisrupsi pasar. Perusahaan rintisan masih berada pada fase mengembangkan
   produk dan.. "
-intro: Bisnis stratup adalah perusahaan baru umumnya di bidang teknologi yang
-  mencoba mendisrupsi pasar. Sederhananya, bisnis startup adalah perusahaan yang
-  masih berada pada fase mengembangkan produk. Mari cari tahu  jenis perusahaan
-  startup yang berkembang pesat di Indonesia!
+intro: >-
+  Bisnis stratup adalah perusahaan baru umumnya di bidang teknologi yang mencoba
+  mendisrupsi pasar. Sederhananya, bisnis startup adalah perusahaan yang masih
+  berada pada fase mengembangkan produk. 
+
+
+  Mari cari tahu  jenis perusahaan startup yang berkembang pesat di Indonesia!
 date: 2022-08-02T07:54:16.404Z
 tag:
   - Investasi Jangka Panjang
