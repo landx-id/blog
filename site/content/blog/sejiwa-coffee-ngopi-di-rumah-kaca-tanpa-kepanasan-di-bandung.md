@@ -1,7 +1,7 @@
 ---
 draft: false
 author: Rafa Syawalia R
-title: "Sejiwa Coffee: Ngopi di Rumah Kaca tanpa Kepanasan di Bandung"
+title: "Sejiwa Coffee: Coffee Shop Nyaman Kawasan Bandung"
 metaTitle: "Sejiwa Coffee Bandung: Alamat dan Harga Menu Kopi Sejiwa"
 metaDescription: Sejiwa Coffee menjadi pilihan tempat untuk menikmati kopi dan
   nongkrong yang berlokasi strategis di Jalan Progo, Bandung.
@@ -9,6 +9,14 @@ intro: Sejiwa Coffee Bandung menjadi pilihan destinasi nongkrong dari berbagai
   kalangan. Selain kopi Sejiwa yang hits dan enak, lokasi Sejiwa Coffee  mudah
   ditemukan untuk mampir sejenak.
 date: 2022-08-01T04:28:14.309Z
+tag:
+  - Bisnis Franchise Modal Kecil
+  - Franchise f&b
+  - Bisnis Kopi
+  - Bisnis F&B
+category:
+  - Bisnis
+  - Investasi
 featuredImage:
   src: https://images.unsplash.com/photo-1506619216599-9d16d0903dfd?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1469&q=80
   alt: Sejiwa Coffee bandung dan menu Kopi Sejiwa
@@ -58,40 +66,26 @@ Sejiwa coffee menawarkan pengalaman ngopi, nongkrong dengan suasana yang baru di
 
 Selain berada di tengah-tengah kota Bandung, Sejiwa Coffee terdekat bisa diakses kalau Anda sedang berada di kawasan Ciumbuleuit. Terletak di Jalan Kiputih No. 1A, Cidadap, Bandung konsep yang ditawarkan Sejiwa Kiputih Satu adalah open space, lebih terbuka langsung dan Anda bisa menikmati udara sejuk dengan tempat yang lebih luas.
 
-
-
 Konsep baru ini dengan sentuhan alam langsung, memberikan Anda pengalaman untuk menikmati kopi di area terbuka dengan nyaman, aman dan mengurangi kekhawatiran dengan tempat yang luas. 
-
-
 
 Suasana yang tenang dan adem cocok untuk Anda yang Work From Anywhere, karena suasana yang teduh dan tenang. Hidangan yang disajikan pun lengkap, jadi Anda tidak perlu khawatir merasa kelaparan. 
 
-
-
 Menu yang ditawarkan tidak ada yang berbeda dari Sejiwa Coffee Jalan Progo. Harga menu di Sejiwa Coffee Kiputih Satu tidak berbeda juga, kopi signature dari sejiwa seperti es kopi sejiwa berkisar Rp30.000. 
-
-
 
 Sedangkan untuk makanan, snacks, dan cakes berkisar Rp39.000-Rp.95.000 dengan variasi hidangan bermacam-macam, dari Western, Asia, dan hidangan Nusantara. Menambah pengalaman Anda lebih seru dan asik tentunya. 
 
-
-
 Bisnis kedai kopi semakin menjamur dan terus hidup di Indonesia. Kopi sudah menjadi gaya hidup yang tidak bisa dilewati untuk berbagai kalangan. Dengan menawarkan konsep yang bermacam-macam, sebagai penikmat kopi ataupun bukan, pengalaman merasakan suasana pada kedai kopi pastinya memberikan kesan yang baik.
-
-
 
 Pada zaman sekarang, memiliki bisnis kedai kopi kekinian bisa kamu wujudkan loh. Kamu bisa memulai dengan modal yang kecil,untuk memiliki bisnis potensial yang nantinya memberikan keuntungan untuk kamu begitupun berkontribusi untuk perkembangan usaha bisnis kedai kopi juga.
 
-
-
 Melalui platform [securities crowdfunding](https://landx.id/), LandX menawarkan berbagai jenis bisnis potensial di berbagai industri F&B, seperti coffee shop, cloud kitchen, resto sushi, dan gelato hits, bisnis pusat kebugaran mega gym, hingga bisnis di industri properti seperti kos-kosan.
-
-
 
 [LandX](https://landx.id/) merupakan platform securities crowdfunding yang berpengalaman dan diawasi OJK dengan mengumpulkan masyarakat luas mendanai bisnis-bisnis yang akan ekspansi dan berkembang. Sehingga kamu akan mendapatkan keuntungan secara rutin berupa dividen dari keuntungan bisnis dengan prospek yang bagus.
 
 ## [Temukan Bisnis Potensial Kekinian Lewat LandX Yuk! Download Aplikasinya Sekarang Juga!](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)
 
+<!--StartFragment-->
 
+[![Yuk mulai patungan bisnis menguntungkan jangka panja g bersama LandX](https://accountgram-production.sfo2.cdn.digitaloceanspaces.com/landx_ghost/2021/09/Equity-Crowdfunding-di-Indonesia-1--3.png)](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)
 
 <!--EndFragment-->
