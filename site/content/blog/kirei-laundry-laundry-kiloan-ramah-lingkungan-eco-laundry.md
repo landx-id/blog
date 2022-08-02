@@ -1,5 +1,5 @@
 ---
-draft: true
+draft: false
 author: Rafa Syawalia R
 title: "Kirei Laundry: Laundry Kiloan Ramah Lingkungan | Eco-Laundry"
 metaTitle: "Kirei Laundry: Laundry Kiloan Ramah Lingkungan | Eco-Laundry"
