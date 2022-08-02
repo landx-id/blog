@@ -26,7 +26,7 @@ category:
 ---
 Di era industri modern seperti saat ini, produksi massal atau mass production semakin berkembang karena perkembangan teknologi yang mendukung proses produksi barang dalam skala besar.
 
-Apa itu produksi massal?
+Apa itu produksi massal? 
 
 Produksi massal adalah adalah kegiatan produksi yang dilakukan dalam jumlah besar dan berulang hingga akhirnya sampai ke tangan konsumen akhir melalui berbagai channel supply seperti ritel.
 
