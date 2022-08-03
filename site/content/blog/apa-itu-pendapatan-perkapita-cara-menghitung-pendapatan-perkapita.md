@@ -6,8 +6,8 @@ metaTitle: "Pendapatan Perkapita Adalah: Ini Cara Menghitung Pendapatan Perkapit
 metaDescription: Apa itu pendapatan perkapita? Pendapatan perkapita adalah
   ukuran rata-rata pendapatan yang diperoleh setiap penduduk di suatu negara.
 intro: Apa itu pendapatan perkapita? Pendapatan perkapita adalah salah satu
-  aspek mengetahui tingkat kesejahteraan di suatu negara. Seberapa besar
-  pendapatan perkapita Indonesia? Simak terus artikel ini.
+  aspek mengetahui tingkat kesejahteraan di suatu negara. Lalu, seberapa besar
+  pendapatan perkapita Indonesia? Simak terus artikel ini!
 date: 2022-08-03T14:49:44.959Z
 featuredImage:
   src: https://img.freepik.com/free-photo/magnifying-glass-fallen-coins-infographic-template_23-2147919145.jpg
