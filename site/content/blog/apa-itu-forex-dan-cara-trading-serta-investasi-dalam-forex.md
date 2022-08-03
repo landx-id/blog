@@ -12,7 +12,7 @@ intro: >-
   high risk high return yang umumnya dilakukan. 
 
   Karena ini, Forex atau Foreign Exchange sering dijadikan kedok investasi bodong. Yuk, pelajari!
-date: 2021-11-24T14:28:10.000Z
+date: 2022-08-03T18:06:58.373Z
 tag:
   - Robot Trading
   - Forex
@@ -44,7 +44,7 @@ Selain itu, **forex adalah instrumen** yang digunakan dalam modus penipuan karen
 
 ## Apa Itu Forex?
 
-Jika kamu pergi ke luar negeri, tentu kamu butuh uang dari negara tersebut untuk melakukan transaksi. Maka dari itu kamu harus menukarkan uang rupiah terhadap mata uang negara tersebut. Nah pertukaran itulah yang sering disebut forex.
+Jika kamu pergi ke luar negeri, tentu kamu butuh uang dari negara tersebut untuk melakukan transaksi. Maka dari itu kamu harus menukarkan uang rupiah terhadap mata uang negara tersebut. Nah forex adalah pertukaran tersebut.
 
 Dilansir dari investopedia, *foreign exchange* atau forex adalah pasar elektronik global untuk perdagangan mata uang internasional dan derivatif mata uang.
 
