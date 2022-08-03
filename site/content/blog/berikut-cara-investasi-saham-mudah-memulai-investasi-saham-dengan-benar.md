@@ -42,7 +42,7 @@ Istilah dasar sebelum memulai investasi saham yang harus kamu pahami adalah apa 
 
 Memahami sebuah instrumen investasi akan membantu kamu mengetahui potensi keuntungan yang dapat diterima serta memahami kondisi risiko yang dapat muncul.
 
-Singkatnya, saham adalah surat bukti bahwa seseorang memiliki modal dari sebuah perusahaan atau bisnis. Saat membeli saham artinya kamu akan menjadi salah satu pemilik dari sebuah perusahaan.
+Singkatnya, **saham adalah surat bukti bahwa seseorang memiliki modal dari sebuah perusahaan atau bisnis.** Saat membeli saham artinya kamu akan menjadi salah satu pemilik dari sebuah perusahaan.
 
 Dengan kepemilikan saham artinya kamu berhak mendapatkan potensi imbalan keuntungan berupa dividen namun, turut menanggung berbagai risiko yang dapat muncul dan melanda perusahaan.
 
@@ -131,7 +131,9 @@ Baca Juga:
 
 ## Mulai Sekarang
 
-Semakin cepat kamu mulai investasi, maka semakin dekat kamu dengan tujuan keuanganmu. Saran yang akan kamu sering dengan adalah kamu harus mulai investasi sedini mungkin agar kamu bisa sesegera mungkin membangun aset finansial yang lebih baik.
+Saran yang akan kamu sering dengan adalah kamu harus mulai investasi sedini mungkin agar kamu bisa sesegera mungkin membangun aset finansial yang lebih baik.
+
+> Semakin cepat kamu mulai investasi, maka semakin dekat kamu dengan tujuan keuanganmu. 
 
 Akan tetapi sebelum investasi kamu tentu harus memiliki manajemen keuangan yang baik terlebih dahulu dengan menyiapkan dana darurat untuk kebutuhan mendadak kamu.
 
