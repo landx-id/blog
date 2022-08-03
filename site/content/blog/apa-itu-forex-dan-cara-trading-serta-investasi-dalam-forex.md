@@ -82,7 +82,7 @@ Artinya, jika kamu membeli EUR/USD, kamu berharap agar Euro akan menguat. Sebali
 
 Saat ini, kata forex dan trading menjadi dua kata yang tidak terpisahkan karena forex menjadi salah satu instrumen yang banyak dijadikan sebagai objek trading oleh para trader.
 
-Trading forex adalah kegiatan jual beli valuta asing yang dilakukan secara online dengan tujuan mengambil keuntungan dari selisih harga beli dan jual valuta asing tersebut.
+Apa itu trading forex adalah kegiatan jual beli valuta asing yang dilakukan secara online dengan tujuan mengambil keuntungan dari selisih harga beli dan jual valuta asing tersebut.
 
 Kegiatan trading ini mengambil memanfaatkan pasar forex yang terbilang cukup fluktuatif karena mata uang asing yang nilainya cenderung mengalami fluktuasi karena dipengaruhi banyak faktor.
 
