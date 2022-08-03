@@ -78,7 +78,7 @@ Yang perlu dicatat adalah, saat melakukan trading, yang menjadi patokan adalah *
 
 Artinya, jika kamu membeli EUR/USD, kamu berharap agar Euro akan menguat. Sebaliknya, jika ternyata kamu punya prediksi USD akan menguat terhadap Euro, maka kamu harus jual.
 
-## Forex Trading Adalah
+## Apa Itu Forex Trading?
 
 Saat ini, kata forex dan trading menjadi dua kata yang tidak terpisahkan karena forex menjadi salah satu instrumen yang banyak dijadikan sebagai objek trading oleh para trader.
 
@@ -100,7 +100,7 @@ Apabila kamu memang akan menggunakan robot, maka kamu perlu melihat performa rob
 
 ## Tips Melakukan Trading Forex
 
-Perlu dicatat jika trading forex merupakan salah satu aktivitas yang punya resiko tinggi. Dalam hitungan menit, bisa saja uang kamu bakal ludes tak tersisa. Maka dari itu, untuk meminimalisir resiko, sebaiknya kamu ikuti tips dibawah ini:
+Perlu dicatat jika trading forex adalah salah satu aktivitas yang punya resiko tinggi. Dalam hitungan menit, bisa saja uang kamu bakal ludes tak tersisa. Maka dari itu, untuk meminimalisir resiko, sebaiknya kamu ikuti tips dibawah ini:
 
 ### 1. Tentukan Tujuan Trading Forex
 
