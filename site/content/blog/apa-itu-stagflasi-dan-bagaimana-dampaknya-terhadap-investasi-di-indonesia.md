@@ -11,7 +11,7 @@ intro: Stagflasi adalah situasi inflasi tinggi dan kontraksi terjadi bersamaan
   yang memperlambat pertumbuhan ekonomi. Ini penjelasan tentang apa yang
   dimaksud dengan stagflasi ekonomi di Indonesia dan pengaruhnya terhadap
   investasi jangka panjang Anda.
-date: 2021-11-25T10:47:37.000Z
+date: 2022-08-03T09:31:21.972Z
 tag:
   - laju inflasi
   - tips investasi
@@ -118,7 +118,7 @@ Hal ini karena kondisi stagflasi ini terjadi hanya sementara dan pasti akan memb
 
 Saham siklikal adalah saham yang mengikuti siklus ekonomi yang sedang terjadi. Jika saham pada sektor industri tersebut rentan terdampak risiko stagflasi, tentunya sebaiknya dihindari. Cara untuk menghindarinya adalah dengan mempelajari industri bisnis tersebut terhadap permintaan kebutuhan konsumen.
 
-## Berinvestasi ke Dalam Sektor Privat
+## Cara Mengatasi Stagflasi di Indonesia dengan Investasi di Sektor Privat
 
 Bagi investor, balik lagi kepada pentingnya bagi kita untuk mempelajari terlebih dahulu bisnis yang akan kita jadikan aset.
 
