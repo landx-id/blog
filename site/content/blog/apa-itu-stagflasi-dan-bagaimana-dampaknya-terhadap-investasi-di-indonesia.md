@@ -90,7 +90,7 @@ Jika stagflasi benar-benar terjadi, tentunya semua sektor saham diperkirakan aka
 
 Dapat terjadi pengecualian jika sektor tersebut merupakan sektor *consumer goods*, defensif atau selalu dibutuhkan konsumen apapun situasinya. Sektor yang diperkirakan aman yakni seperti makanan dan sektor berbasis telekomunikasi.
 
-## Cara Mengatasi Stagflasi dan Tips Memilih *Stagflation Stock* (Saham)
+## Tips Memilih *Stagflation Stock* (Saham)
 
 Stagflasi merupkan suatu kondisi yang rumit, tidak ada obat mutlak yang dapat menyembuhkan kondisi ini. Di masa ini, kekuatan ekonomi riil akan sangat dibutuhkan karena jika inflasi yang disebabkan karena daya beli masyarakat yang tinggi tentu saja suatu hal yang baik.
 
