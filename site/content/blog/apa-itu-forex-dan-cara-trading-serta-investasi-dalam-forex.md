@@ -2,12 +2,16 @@
 draft: false
 author: Abdul Wahhab
 slug: apa-itu-forex-dan-cara-trading-serta-investasi-dalam-forex
-title: "Trading Forex: Memahami Apa Itu Forex yang Jadi Kedok Investasi Bodong"
-metaTitle: "Trading Forex: Memahami Apa Itu Forex yang Jadi Kedok Investasi Bodong"
-metaDescription: Forex atau foreign exchange merupakan instrumen mata uang asing
-  yang bisa untuk investasi dan objek trading karena volatility yang tinggi
-intro: Yuk pahami dengan baik apa itu Forex atau Foreign Exchange yang sering
-  dijadikan kedok investasi bodong.
+title: "Forex Adalah: Memahami Apa Itu Forex yang Jadi Kedok Investasi Bodong"
+metaTitle: "Forex Adalah: Pelajari Apa Itu Forex agar Terhindar Investasi Bodong"
+metaDescription: Apa itu forex adalah instrumen mata uang asing untuk opsi
+  investasi dan objek trading karena volatility yang tinggi. Ini penjelasannya!
+intro: >-
+  Apa itu forex adalah instrumen mata uang asing untuk opsi investasi. Karena
+  volatility yang tinggi, trading forex adalah strategi untuk dapat keuntungan
+  high risk high return yang umumnya dilakukan. 
+
+  Karena ini, Forex atau Foreign Exchange sering dijadikan kedok investasi bodong. Yuk, pelajari!
 date: 2021-11-24T14:28:10.000Z
 tag:
   - Robot Trading
@@ -26,29 +30,29 @@ category:
   - Keuangan
   - Bisnis
 ---
+Apa itu forex adalah instrumen mata uang asing untuk opsi investasi. Forex atau *Foreign Exchange* adalah instrumen mata uang asing yang sering kali dijadikan komoditas untuk transaksi seperti trading.
 
+Karena volatility yang tinggi, trading forex adalah strategi investor atau trader untuk dapat keuntungan high risk high return dengan cepat.
 
-Forex (_Foreign Exchange)_ adalah instrumen mata uang asing yang sering kali dijadikan komoditas untuk transaksi seperti trading.
-
-Belakangan, instrumen ini semakin sering dibahas karena forex menjadi salah satu instrumen yang digunakan untuk trading menggunakan robot. Oleh sebab itu forex menjadi salah satu instrumen yang banyak diminati oleh banyak orang.
+Belakangan, instrumen ini semakin sering dibahas karena forex adalah salah satu instrumen yang digunakan untuk trading menggunakan robot. Oleh sebab itu forex adalah salah satu instrumen yang banyak diminati oleh banyak orang.
 
 Selain itu, **forex adalah instrumen** yang digunakan dalam modus penipuan karena banyak orang tidak familiar dengan instrumen satu sini.
 
 **Mendengar nama forex** mungkin kamu sudah familiar dan sedikit mengetahui maksudnya. Tapi, apakah kamu sudah benar-benar tahu apa itu forex dan cara kerjanya? Karena itu yuk **belajar tentang forex** dan seluk-beluknya di sini.
 
----
+- - -
 
 ## Apa Itu Forex?
 
 Jika kamu pergi ke luar negeri, tentu kamu butuh uang dari negara tersebut untuk melakukan transaksi. Maka dari itu kamu harus menukarkan uang rupiah terhadap mata uang negara tersebut. Nah pertukaran itulah yang sering disebut forex.
 
-Dilansir dari investopedia, forex atau _foreign exchange_ adalah pasar elektronik global untuk perdagangan mata uang internasional dan derivatif mata uang.
+Dilansir dari investopedia, *foreign exchange* atau forex adalah pasar elektronik global untuk perdagangan mata uang internasional dan derivatif mata uang.
 
 Meski tidak punya lokasi pusat secara fisik, namun pasar forex adalah pasar terbesar dan paling likuid di dunia berdasarkan volume perdagangan yang bisa mencapai triliunan dolar setiap harinya.
 
 Sebagian besar perdagangan dilakukan melalui bank, broker, dan lembaga keuangan. Saking sibuknya, pasar forex bisa buka 24 jam sehari dan lima hari dalam seminggu. Terkadang, pasar forex bisa terus buka di hari libur, meskipun volume perdagangan mungkin lebih rendah.
 
-Banyak orang menggunakan forex sebagai usaha untuk mencari keuntungan. Meskipun begitu, tidak jarang pasar valuta asing ini digunakan sebagai sarana non profit _lho._
+Banyak orang menggunakan forex sebagai usaha untuk mencari keuntungan. Meskipun begitu, tidak jarang pasar valuta asing ini digunakan sebagai sarana non profit *lho.*
 
 Karena itu, pandangan bahwa forex adalah penipuan salah besar karena forex memang sebuah komoditas yang diperjualbelikan di pasar forex. Namun, belakangan memang sedang marak penipuan dengan dalih robot trading forex.
 
@@ -60,7 +64,7 @@ Buat kamu yang masih awam dengan forex tentu penasaran dengan bagaimana sebenarn
 
 Mari kita ambil contoh EUR/USD = 1.298.
 
-Dua kata tersebut merupakan _pair_ atau pasangan mata uang asing yang akan kamu transaksikan. Sisi kiri (EUR) merupakan mata uang dasar sedangkan sisi kanan (USD) adalah mata uang kutipan. Sedangkan 1.298 merupakan notasi yang menunjukan 1 Euro = 1.1296 USD.
+Dua kata tersebut merupakan *pair* atau pasangan mata uang asing yang akan kamu transaksikan. Sisi kiri (EUR) merupakan mata uang dasar sedangkan sisi kanan (USD) adalah mata uang kutipan. Sedangkan 1.298 merupakan notasi yang menunjukan 1 Euro = 1.1296 USD.
 
 Selanjutnya, mari kita lakukan transaksi jual beli, Misalkan, posisi harga beli dan harga jual untuk EUR/USD adalah:
 
@@ -68,9 +72,9 @@ Buy: 1.1296
 
 Sell: 1.1298
 
-Harga _buy_ berarti kamu membeli 1 Euro dengan harga 1.1296 USD. Sedangkan untuk _sell_, artinya kamu menjual 1 Euro dengan 1.1298 USD. Mudah bukan?
+Harga *buy* berarti kamu membeli 1 Euro dengan harga 1.1296 USD. Sedangkan untuk *sell*, artinya kamu menjual 1 Euro dengan 1.1298 USD. Mudah bukan?
 
-Yang perlu dicatat adalah, saat melakukan trading, yang menjadi patokan adalah _base currency_ (sisi kiri) terhadap _currency_ awal (sisi kanan).
+Yang perlu dicatat adalah, saat melakukan trading, yang menjadi patokan adalah *base currency* (sisi kiri) terhadap *currency* awal (sisi kanan).
 
 Artinya, jika kamu membeli EUR/USD, kamu berharap agar Euro akan menguat. Sebaliknya, jika ternyata kamu punya prediksi USD akan menguat terhadap Euro, maka kamu harus jual.
 
@@ -102,7 +106,7 @@ Perlu dicatat jika trading forex merupakan salah satu aktivitas yang punya resik
 
 Agar tak salah langkah, kamu harus membuat dulu tujuan dari trading forex. Berapa sebenarnya keuntungan yang ingin kamu  peroleh? Dengan begitu, kamu sudah tahu apa strategi yang akan kamu pilih dan berapa jangka waktu kamu untuk mencapainya.
 
-Untuk menghitung keuntungan, kamu bisa menggunakan _direct_ maupun _indirect rate pair._ Misal untuk menghitung direct, kamu bisa menggunakan USD sebagai akhiran. Selanjutnya gunakan rumus **Profit/loss = (harga jual – harga beli) x Contract Size x Lot.**
+Untuk menghitung keuntungan, kamu bisa menggunakan *direct* maupun *indirect rate pair.* Misal untuk menghitung direct, kamu bisa menggunakan USD sebagai akhiran. Selanjutnya gunakan rumus **Profit/loss = (harga jual – harga beli) x Contract Size x Lot.**
 
 Selanjutnya, untuk menghitung indirect rate pair, USD digunakan sebagai awalan. Lalu gunakan rumus **Profit/loss = (harga jual – harga beli) / harga likuidasi X contract size X lot.**
 
@@ -118,7 +122,7 @@ Kamu tidak bisa menaklukan pasar forex hanya dalam satu hari. Maka dari itu, gun
 
 Indikator teknikal merupakan cara bagi kamu untuk melakukan perhitungan, prediksi dan analisis terkait harga, volume, serta minat pasar terkait valuta asing. Sebenarnya indikator ini biasanya sudah tersedia di platform yang kamu pilih. Namun begitu, kamu tetap perlu belajar banyak tentang hal ini.
 
-Indikator selanjutnya adalah indikator fundamental. Meskipun kamu hanya _trading_, namun hal-hal yang berbau fundamental juga punya _impact_ yang besar. Indikator fundamental berasal dari data ekonomi makro serta isu sosial politik yang dapat mempengaruhi pergerakan mata asing.
+Indikator selanjutnya adalah indikator fundamental. Meskipun kamu hanya *trading*, namun hal-hal yang berbau fundamental juga punya *impact* yang besar. Indikator fundamental berasal dari data ekonomi makro serta isu sosial politik yang dapat mempengaruhi pergerakan mata asing.
 
 ## Leverage dalam Trading Forex
 
@@ -152,16 +156,15 @@ Bersama LandX, kamu bisa menemukan bisnis  terbaik yang kamu bisa terlibat patun
 
 [![miliki bisnis modal kecil cuma dengan 1 jutaan dapat 4 cabang ](https://accountgram-production.sfo2.cdn.digitaloceanspaces.com/landx_ghost/2021/11/jadi-owner-bisnis-hanya-1-jutaan-dengan-cuan-yang-sangat-menjanjikan.png)](https://landx.id/project/)
 
-[**Mau Berbagai Info Menarik Seputar Investasi Lainnya? Yuk Follow Instagram @landx.id**](https://instagram.com/landx.id?utm_medium=copy_link)
+**[Mau Berbagai Info Menarik Seputar Investasi Lainnya? Yuk Follow Instagram @landx.id](https://instagram.com/landx.id?utm_medium=copy_link)**
 
----
+- - -
 
 **Baca Juga:**
 
 * [Apakah Kamu Termasuk Sandwich Generation? Ini 6 Cara Memutus Rantai Generasi Sandwich](https://landx.id/blog/memutus-rantai-sandwich-generation/)
 * [Hong Tang: Kesegaran Berbagai Dessert Khas Asia dengan Konsep Cloud Kitchen](https://landx.id/blog/hong-tang-dengan-berbagai-menu-dessert-oriental-khas-taiwan-dan-hongkong/)
 
----
+- - -
 
-**#YukPatunganBisnis    #LandX.id    #landx         #landx.id     #InvestasiBisnis  #SecuritiesCrowdfunding   #EquityCrowdfunding     #InvestasiMenguntungkan     #Urundana    #BisnisPatungan     #InvestasiUsaha**
-
+**\#YukPatunganBisnis    #LandX.id    #landx         #landx.id     #InvestasiBisnis  #SecuritiesCrowdfunding   #EquityCrowdfunding     #InvestasiMenguntungkan     #Urundana    #BisnisPatungan     #InvestasiUsaha**
