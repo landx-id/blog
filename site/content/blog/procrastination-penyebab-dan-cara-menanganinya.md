@@ -36,8 +36,7 @@ Supaya kita paham mengatasi hal ini, yuk kita bahas lebih lanjut
 
 - - -
 
-## \
-Procrastination Adalah
+## Procrastination Adalah
 
 Procrastination adalah sikap suka menunda-nunda pekerjaan yang sering dialami oleh orang-orang sehingga banyak dari mereka mengalami hal tersebut dalam kehidupan sehari-hari. 
 
