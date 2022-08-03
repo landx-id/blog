@@ -2,7 +2,7 @@
 draft: false
 author: Abdul Wahhab
 slug: apa-itu-forex-dan-cara-trading-serta-investasi-dalam-forex
-title: "Forex Adalah: Memahami Apa Itu Forex yang Jadi Kedok Investasi Bodong"
+title: Apa Itu Forex Adalah Penipuan Bodong? Ini Penjelasan Forex Trading!
 metaTitle: "Forex Adalah: Pelajari Apa Itu Forex agar Terhindar Investasi Bodong"
 metaDescription: Apa itu forex adalah instrumen mata uang asing untuk opsi
   investasi dan objek trading karena volatility yang tinggi. Ini penjelasannya!
@@ -87,6 +87,17 @@ Apa itu trading forex adalah kegiatan jual beli valuta asing yang dilakukan seca
 Kegiatan trading ini mengambil memanfaatkan pasar forex yang terbilang cukup fluktuatif karena mata uang asing yang nilainya cenderung mengalami fluktuasi karena dipengaruhi banyak faktor.
 
 Seiring perkembangan teknologi, kini muncul sebuah algoritma atau sistem yang membantu para trader dalam proses trading mereka yang disebut **robot trading.**
+
+## Apakah Forex Adalah Penipuan?
+
+Baru-baru ini marak tersebar promosi investasi trading forex dengan iming-iming keuntungan besar jika investor menanamkan sejumlah uang ke manajemen trading tertentu. 
+
+Salah satu contoh penipuan trading forex adalah dengan skema "titip investasi." Dalam prosesnya, calon investor diminta menanamkan modal untuk investasi. Tidak hanya itu, calon investor juga diharuskan untuk menjadi member dan membayar biaya *membership* di manajemen trading tersebut.
+
+
+Membership ini terbagi dalam beberapa level dengan biaya membership yang berbeda. Promosinya adalah semakin tinggi levelnya, semakin tinggi juga persenan keuntungan yang bisa diraih. Level tertinggi diharuskan "tanam modal" dengan jumlah yang besar. 
+
+Jelas yang katanya skema trading forex adalah penipuan dan bukan trading forex yang sebenarnya.
 
 ## Robot Trading Forex
 
