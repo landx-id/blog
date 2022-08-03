@@ -2,13 +2,15 @@
 draft: false
 author: Vlora Riyandi
 slug: apa-itu-stagflasi-dan-bagaimana-dampaknya-terhadap-investasi-di-indonesia
-title: Apa Itu Stagflasi di Indonesia & Pengaruhnya Terhadap Investasi Anda
+title: Pahami Apa Itu Stagflasi di Indonesia & Dampaknya Pada Investasi Anda
 metaTitle: Memahami Apa Itu Stagflasi dan Pengaruhnya Terhadap Investasi Anda
 metaDescription: Stagflasi adalah situasi inflasi tinggi dan kontraksi terjadi
   bersamaan yang memperlambat pertumbuhan ekonomi. Ini penjelasan stagflasi di
   Indonesia!
-intro: Yuk pahami apa yang dimaksud dengan stagflasi dan pengaruhnya terhadap
-  investasi jangka panjang anda
+intro: Stagflasi adalah situasi inflasi tinggi dan kontraksi terjadi bersamaan
+  yang memperlambat pertumbuhan ekonomi. Ini penjelasan tentang apa yang
+  dimaksud dengan stagflasi ekonomi di Indonesia dan pengaruhnya terhadap
+  investasi jangka panjang Anda.
 date: 2021-11-25T10:47:37.000Z
 tag:
   - laju inflasi
@@ -20,14 +22,16 @@ tag:
 featuredImage:
   src: https://accountgram-production.sfo2.cdn.digitaloceanspaces.com/landx_ghost/2021/11/memahami-apa-itu-stagflasi-dan-pengaruhnya-terhadap-pertumbuhan-ekonomi.jpg
   alt: Memahami apa yang dimaksud dengan stagflasi
-  title: Memahami apa itu stagflasi
+  title: Memahami apa itu stagflasi ekonomi di Indonesia dan cara mengatasi stagflasi
 image: https://accountgram-production.sfo2.cdn.digitaloceanspaces.com/landx_ghost/2021/11/memahami-apa-itu-stagflasi-dan-pengaruhnya-terhadap-pertumbuhan-ekonomi.jpg
 category:
   - Investasi
 ---
 - - -
 
-Stagflasi terdiri dari situasi yang stagnan dan inflasi. Stagflasi adalah karakteristik situasi saat inflasi tinggi, pertumbuhan ekonomi berjalan lambat (stagnasi), dan tingkat pengangguran relatif tinggi. Kondisi ini identik menjadi dilema pemerintahan di negara maju.
+Stagflasi terdiri dari situasi yang stagnan dan inflasi. Apa itu stagflasi atau stagnansi ekonomi adalah karakteristik situasi saat inflasi tinggi ditambah kontraksi sehingga pertumbuhan ekonomi berjalan lambat (stagnasi) dan tingkat pengangguran relatif tinggi. 
+
+Apa itu stagflasi ini adalah kondisi yang identik dialami sebagai dilema pemerintahan di negara maju.
 
 Kata stagflasi pertama kali dipakai oleh politisi Inggris, Macleod untuk menggambarkan kondisi inflasi dan stagnasi yang dialami oleh United Kingdom pada 1965.
 
@@ -39,9 +43,9 @@ Beberapa hasil penelitian mengungkapkan stagflasi disebabkan oleh kenaikan biaya
 
 - - -
 
-## Stagflasi di Indonesia
+## Kondisi Stagflasi di Indonesia
 
-Indonesia pernah mengalami stagflasi pada krisis tahun 1998. Bersamaan saat nilai tukar rupiah yang anjlok terhadap dolar Amerika, di negara ini harga barang melambung tinggi dan jumlah uang beredar di masyarakat yang banyak juga menyebabkan nilai tukar menurun.
+Contoh stagflasi atau stagnasi ekonomi di Indonesia pernah terjadi pada saat krisis tahun 1998. Bersamaan saat nilai tukar rupiah yang anjlok terhadap dolar Amerika, di negara ini harga barang melambung tinggi dan jumlah uang beredar di masyarakat yang banyak juga menyebabkan nilai tukar menurun.
 
 Indonesia dikabarkan masih jauh dari tahap stagflasi karena tingkat inflasi yang masih dibawah 2% serta tren pertumbuhan ekonomi yang masih baik. Namun, ada baiknya untuk selalu waspada karena Indonesia memiliki hubungan perekonomian dengan negara lain yang mungkin sedang menunjukkan tanda-tanda risiko stagflasi.
 
@@ -57,15 +61,24 @@ Saat ini di negara tirai bambu tersebut harga minyak, batu bara dan besi baja na
 
 Saat ini stagflasi belum terjadi di Cina, namun kepala ekonom dari Pinpoint Asset Management Zhang Ziwei mengatakan kepada media CNBC Internasional bahwa tanda-tanda stagflasi sudah terlihat di Cina.
 
-## Stagflasi dan Dampak Pada Investasi
+## Apa Itu Stagflasi Ekonomi dan Dampaknya Pada Investasi?
 
-Stagflasi menjadi kata pencarian populer pada beberapa minggu ini. Apa akibat yang akan disebabkan oleh stagflasi pada investasi? Penuturan Analis Indopremiere Sekuritas, Mino pada siaran CNBC (16/11) mengatakan Cina belum 100% dalam tahap stagflasi.
+Stagflasi menjadi kata pencarian populer pada akhir tahun 2020. Apa akibat yang akan disebabkan oleh stagflasi pada investasi? Penuturan Analis Indopremiere Sekuritas, Mino pada siaran CNBC (16/11) mengatakan Cina belum 100% dalam tahap stagflasi.
 
 Hal yang bisa kita harapkan adalah tren perekonomian Cina tidak menurun karena terdapat beberapa industrial seperti manufaktur Cina yang telah menunjukkan kenaikan bulan lalu.
 
+## Kondisi Akibat Stagflasi
+
+Utamanya, akibat stagflasi adalah beberapa kondisi di bawah ini. 
+
+* Kenaikan harga barang yang tidak terkontrol karena inflasi. 
+* Harga barang yang mahal akan menurunkan daya beli masyarakat.
+* Kenaikan tingkat suku bunga oleh bank sentral untuk mengatasi inflasi.
+* Jika terjadi terus-menerus, tingkat pengangguran akan meningkat karena bisnis memotong cost untuk bertahan dengan cara PHK karyawan.
+
 ## Aset Pelindung dari Stagflasi
 
-Kemanakan sebaiknya harus **[diinvestasikan](https://landx.id/project/)** ketika akan terjadi risiko stagflasi ini? Apakah batubara, nikel, atau emas? Permintaan akan komoditas seperti batubara dan nikel diperkirakan mengalami penurunan jika situasi stagflasi melanda.
+Kemanakah sebaiknya harus **[diinvestasikan](https://landx.id/project/)** ketika akan terjadi risiko stagflasi ini? Apakah batubara, nikel, atau emas? Permintaan akan komoditas seperti batubara dan nikel diperkirakan mengalami penurunan jika situasi stagflasi melanda.
 
 Dikarenakan stagflasi merupakan kondisi pertumbuhan ekonomi yang sedang menurun. Sehingga komoditas bukan menjadi pilihan.
 
@@ -77,7 +90,7 @@ Jika stagflasi benar-benar terjadi, tentunya semua sektor saham diperkirakan aka
 
 Dapat terjadi pengecualian jika sektor tersebut merupakan sektor *consumer goods*, defensif atau selalu dibutuhkan konsumen apapun situasinya. Sektor yang diperkirakan aman yakni seperti makanan dan sektor berbasis telekomunikasi.
 
-## Strategi Memperkecil Risiko Investasi Saham Saat Stagflasi
+## Cara Mengatasi Stagflasi dan Tips Memilih *Stagflation Stock* (Saham)
 
 Stagflasi merupkan suatu kondisi yang rumit, tidak ada obat mutlak yang dapat menyembuhkan kondisi ini. Di masa ini, kekuatan ekonomi riil akan sangat dibutuhkan karena jika inflasi yang disebabkan karena daya beli masyarakat yang tinggi tentu saja suatu hal yang baik.
 
