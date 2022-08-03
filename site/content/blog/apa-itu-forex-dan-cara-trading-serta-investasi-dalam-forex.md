@@ -52,11 +52,11 @@ Meski tidak punya lokasi pusat secara fisik, namun pasar forex adalah pasar terb
 
 Sebagian besar perdagangan dilakukan melalui bank, broker, dan lembaga keuangan. Saking sibuknya, pasar forex bisa buka 24 jam sehari dan lima hari dalam seminggu. Terkadang, pasar forex bisa terus buka di hari libur, meskipun volume perdagangan mungkin lebih rendah.
 
-Banyak orang menggunakan forex sebagai usaha untuk mencari keuntungan. Meskipun begitu, tidak jarang pasar valuta asing ini digunakan sebagai sarana non profit *lho.*
+Forex adalah salah usaha untuk mencari keuntungan oleh banyak orang. Meskipun begitu, tidak jarang pasar valuta asing ini digunakan sebagai sarana non profit *lho.*
 
 Karena itu, pandangan bahwa forex adalah penipuan salah besar karena forex memang sebuah komoditas yang diperjualbelikan di pasar forex. Namun, belakangan memang sedang marak penipuan dengan dalih robot trading forex.
 
-Supaya kenal lebih dekat, yuk kita belajar forex itu apa dan cara kerjanya.
+Supaya kenal lebih dekat, yuk kita belajar forex itu apa dan cara kerjanya!
 
 ## Cara Kerja Forex
 
