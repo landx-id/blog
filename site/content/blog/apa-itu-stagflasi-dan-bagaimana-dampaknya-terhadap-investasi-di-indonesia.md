@@ -2,11 +2,11 @@
 draft: false
 author: Vlora Riyandi
 slug: apa-itu-stagflasi-dan-bagaimana-dampaknya-terhadap-investasi-di-indonesia
-title: Memahami Apa Itu Stagflasi dan Pengaruhnya Terhadap Investasi Anda
+title: Apa Itu Stagflasi di Indonesia & Pengaruhnya Terhadap Investasi Anda
 metaTitle: Memahami Apa Itu Stagflasi dan Pengaruhnya Terhadap Investasi Anda
-metaDescription: "Stagflasi adalah karakteristik situasi saat inflasi tinggi,
-  pertumbuhan ekonomi berjalan lambat/ stagnasi yang sering menjadi dilema
-  negara maju "
+metaDescription: Stagflasi adalah situasi inflasi tinggi dan kontraksi terjadi
+  bersamaan yang memperlambat pertumbuhan ekonomi. Ini penjelasan stagflasi di
+  Indonesia!
 intro: Yuk pahami apa yang dimaksud dengan stagflasi dan pengaruhnya terhadap
   investasi jangka panjang anda
 date: 2021-11-25T10:47:37.000Z
