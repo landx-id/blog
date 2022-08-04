@@ -1,7 +1,7 @@
 ---
 draft: false
 author: Rafa Syawalia R
-title: "e-IPO Adalah: Manfaat, Cara Daftar e-IPO, Perbedaan e-IPO dan IPO"
+title: "e-IPO Adalah: Manfaat, Cara Daftar, dan Perbedaan e-IPO dan IPO"
 metaTitle: "e-IPO Adalah: Manfaat, Cara Daftar e-IPO, Perbedaan e-IPO dan IPO"
 metaDescription: e-IPO adalah sarana pendukung proses penawaran umum saham yang
   disediakan oleh Bursa Efek Indonesia melalui sistem elektronik dan digital.
@@ -10,6 +10,13 @@ intro: e-IPO merupakan sarana elektronik dan digital untuk membantu proses
   mudah dijangkau untuk para investor. Cari tahu perbedaan e-IPO dan IPO dalam
   artikel ini yuk.
 date: 2022-08-02T09:17:08.375Z
+tag:
+  - IPO Adalah
+  - Cara Investasi Saham
+  - Cara Investasi
+  - Cara Investasi Modal Kecil
+category:
+  - Investasi
 featuredImage:
   title: Manfaat e-IPO Adalah, Perbedaan e-IPO dan IPO
   alt: Manfaat e-IPO Adalah, Perbedaan e-IPO dan IPO
@@ -47,7 +54,7 @@ Melansir dari idxchannel.com perbedaan e-IPO dan IPO berada pada sistem pemesana
 
 Sedangkan lewat IPO, masyarakat tentunya bisa membeli saham dan memiliki saham perusahaan tersebut, juga perusahaan terkait dapat memperoleh dana segar tambahan. Tujuan IPO ini adalah mengumpulkan modal atau dana, serta membuat saham yang dapat dibeli masyarakat untuk dibeli.
 
-Berikut **perbedaan e-IPO dan IPO**, sebagai berikut:
+**Berikut perbedaan e-IPO dan IPO, sebagai berikut:**
 
 1. Melalui e-IPO IDX, informasi yang disampaikan transparan. e-IPO IDX memberikan kemudahan bagi para investor untuk mengikuti pembelian saham perdana suatu emiten. 
 
@@ -60,27 +67,16 @@ Berikut **perbedaan e-IPO dan IPO**, sebagai berikut:
 Jika seorang investor tertarik melakukan pemesanan IPO, maka investor perlu memiliki akun e-IPO terlebih dahulu. Berikut langkah-langkah mendaftar e-IPO IDX:
 
 1. Menuju laman https://e-ipo.co.id
-
 2. Klik registrasi, dan masukkan alamat surel yang aktif.
-
 3. Pilih “Investor Type”
-
 4. Pilih untuk individu atau institusi.
-
 5. Isi data diri dengan benar dan melampirkan data identitas (WNI: KTP, WNA: Passport), lalu klik Send and I agree.
-
 6. Simpan data dan register, kemudian lanjut ke registrasi dengan melakukan autentikasi melalui surel yang telah didaftarkan.
-
 7. Klik tautan autentikasi di surel Anda, dan lanjutkan dengan memasukkan kote OTP yang telah dikirimkan.
-
 8. Masukkan password.
-
 9. Klik “+Broker”
-
 10. Pilih broker yang dituju, baik yang sudah memiliki rekening ataupun belum.
-
 11. Pilih registrasi SID/SRE bagi yang telah memiliki atau yang belum sama sekali.
-
 12. Setelah partisipan sistem melakukan verifikasi investor, maka investor sudah dapat Login dan menyampaikan minat atau pesanan ke sistem e-IPO.
 
 Setelah mendaftarkan diri pada sistem e-IPO, ada pula tahapan yang perlu dilalui dalam pembelian e-IPO saham. Berikut **tahapan pembelian e-IPO saham**:
@@ -137,3 +133,9 @@ Bisnis yang Anda danai nantinya akan berkembang dan melakukan ekspansi sehingga 
 Tentunya perlu untuk memilih platform terpercaya dan berpengalaman mendanai bisnis potensial seperti [LandX](https://landx.id/) dan sudah berizin oleh Otoritas Jasa Keuangan sehingga kegiatan investasi pun aman.
 
 ## [Yuk Investasi Bisnis Potensial yang Aman di LandX Sekarang Juga!](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)
+
+<!--StartFragment-->
+
+[![miliki bisnis modal kecil cuma dengan 1 jutaan dapat 4 cabang ](https://accountgram-production.sfo2.cdn.digitaloceanspaces.com/landx_ghost/2021/11/jadi-owner-bisnis-hanya-1-jutaan-dengan-cuan-yang-sangat-menjanjikan.png)](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)
+
+<!--EndFragment-->
