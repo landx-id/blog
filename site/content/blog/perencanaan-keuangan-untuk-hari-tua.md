@@ -82,9 +82,15 @@ Karena itu, memiliki rencana dana pensiun yang optimal menjadi salah satu cara m
 
 ## Menghitung Dana Pensiun yang Ideal
 
-Ada banyak cara atau rumus dana pensiun yang sering digunakan untuk menentukan berapa dana pensiun ideal. Namun, rumus yang paling umum untuk menghitung dana pensiun adalah menghitung biaya hidup bulanan dikalikan dengan estimasi masa pensiun.
+Ada banyak cara atau rumus dana pensiun yang sering digunakan untuk menentukan berapa dana pensiun ideal. Namun, rumus yang paling umum untuk menghitung dana pensiun adalah The 4% Rule.
 
-Misalnya, biaya hidup yang kamu keluarkan saat ini adalah 5 juta rupiah dan waktu kamu menjalani masa pensiun kurang lebih 15 tahun. Maka, perhitungannya jadi (5 juta x 12 bulan x 15 tahun). Hasilnya adalah 900 juta. Itulah besaran dana yang kamu butuhkan untuk dapat menjalani masa pensiun yang ideal.
+Apa itu the 4% rule? The 4% rule adalah aturan perhitungan dana pensiun yang dapat digunakan oleh calon pensiunan untuk memutuskan berapa banyak uang yang harus mereka tabung setiap tahun di usia produktif. 
+
+Angka empat muncul dari perhitungan estimasi dari rata-rata return investasi tahun 1900-1990 yaitu 7% dikurangi rata-rata inflasi kala itu 3% oleh seorang financial planner, William Bengen.
+
+CAra menghitung dana pensiun dengan rumus the 4% rule adalah mengalikan pengeluaran per bulan dengan 12 bulan, kemudian dibagi 4%.
+
+Misalkan seseorang bernama Sarah memiliki pengeluaran per bulan 5 juta sehingga pengeluaran per tahun adalah 60 juta. Maka dana pensiun yang harus disiapkan Sarah adalah 60 juta dibagi 4% adalah 1.5 miliar.
 
 Angka ini tentu sangat tergantung pada gaya hidup dan kebiasaan yang sangat bisa disesuaikan kembali.
 
