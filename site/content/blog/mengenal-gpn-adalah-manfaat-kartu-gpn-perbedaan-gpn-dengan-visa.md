@@ -10,6 +10,11 @@ intro: Sadarkah Anda ada logo GPN pada kartu debit kredit yang dimiliki?
   kanal pembayaran dalam negeri. Simak perbedaan GPN dan MasterCard dalam
   artikel ini.
 date: 2022-08-04T07:18:08.999Z
+tag:
+  - Mengatur Keuangan
+  - Lembaga Keuangan
+category:
+  - Keuangan
 featuredImage:
   alt: kartu gpn, perbedaan gpn dan mastercard
   title: memahami kartu gpn, perbedaan gpn dan mastercard
@@ -37,11 +42,13 @@ Dengan menggunakan kartu GPN, nasabah bank bisa melakukan pembayaran di semua me
 
 Munculnya sistem GPN terdiri dari lembaga standar, switching, dan services. Lembaga-lembaga ini memiliki tanggung jawabnya masing-masing.
 
-1. **Lembaga Standar**, bertugas menyusun, mengelola standar teknologi sistem pembayaran nasional dan sistem keamanan untuk interkoneksi pembayaran, dan switching. Hal ini sudah ditetapkan dan wajib dipatuhi oleh Bank Indonesia untuk seluruh industri.
-2. **Lembaga Switching** bertugas menyelenggarakan proses data transaksi pembayaran domestik secara aman dan efisien. Sehingga data nasabah dan, adanya penarikan biaya admin masuk dalam catatan pajak di dalam negeri bukan di luar negeri.
+**1. Lembaga Standar**, bertugas menyusun, mengelola standar teknologi sistem pembayaran nasional dan sistem keamanan untuk interkoneksi pembayaran, dan switching. Hal ini sudah ditetapkan dan wajib dipatuhi oleh Bank Indonesia untuk seluruh industri.
 
-   Beberapa perusahaan switching yang sudah bergabung dalam kartu GPN antara lain PT Artajasa Pembayaran Elektronik (ATM Bersama), PT Rintis Sejahtera (ATM Prima), PT Jalin Pembayaran Nusantara (ATM Link), dan PT Alto Network (ATM ALTO).
-3. **Lembaga Services** bertugas untuk menjaga keamanan transaksi dengan memastikan enkripsi data transaksi secara end-to-end, selain itu juga tugas yang dilakukan lembaga services menyelenggarakan rekonsiliasi kliring serta setelmen secara efisiensi, mendorong perluasan akseptasi instrumen non-tunai, dan menangani adanya perselisihan secara kredibel.
+**2. Lembaga Switching** bertugas menyelenggarakan proses data transaksi pembayaran domestik secara aman dan efisien. Sehingga data nasabah dan, adanya penarikan biaya admin masuk dalam catatan pajak di dalam negeri bukan di luar negeri.
+
+Beberapa perusahaan switching yang sudah bergabung dalam kartu GPN antara lain PT Artajasa Pembayaran Elektronik (ATM Bersama), PT Rintis Sejahtera (ATM Prima), PT Jalin Pembayaran Nusantara (ATM Link), dan PT Alto Network (ATM ALTO).
+
+**3. Lembaga Services** bertugas untuk menjaga keamanan transaksi dengan memastikan enkripsi data transaksi secara end-to-end, selain itu juga tugas yang dilakukan lembaga services menyelenggarakan rekonsiliasi kliring serta setelmen secara efisiensi, mendorong perluasan akseptasi instrumen non-tunai, dan menangani adanya perselisihan secara kredibel.
 
 ## Manfaat GPN
 
@@ -91,3 +98,9 @@ Dengan begitu, kamu akan mendapatkan keuntungan secara rutin dalam jangka waktu 
 [LandX](https://landx.id/) merupakan platform [equity crowdfunding](https://landx.id/) yang berpengalaman mendanai bisnis-bisnis dengan prospek bagus dan potensi yang besar, dan telah mengantongi izin OJK sebagai platform patungan bisnis yang aman.
 
 ## [Temukan Bisnis Potensial Keuntungan Terbaik di LandX Sekarang Juga!](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)
+
+<!--StartFragment-->
+
+[![miliki bisnis modal kecil cuma dengan 1 jutaan dapat 4 cabang ](https://accountgram-production.sfo2.cdn.digitaloceanspaces.com/landx_ghost/2021/11/jadi-owner-bisnis-hanya-1-jutaan-dengan-cuan-yang-sangat-menjanjikan.png)](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)
+
+<!--EndFragment-->
