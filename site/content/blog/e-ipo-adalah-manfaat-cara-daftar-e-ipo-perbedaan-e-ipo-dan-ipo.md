@@ -1,5 +1,5 @@
 ---
-draft: true
+draft: false
 author: Rafa Syawalia R
 title: "e-IPO Adalah: Manfaat, Cara Daftar e-IPO, Perbedaan e-IPO dan IPO"
 metaTitle: "e-IPO Adalah: Manfaat, Cara Daftar e-IPO, Perbedaan e-IPO dan IPO"
