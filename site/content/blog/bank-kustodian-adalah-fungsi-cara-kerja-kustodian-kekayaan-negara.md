@@ -10,10 +10,15 @@ intro: Memahami apa itu bank kustodian atau custody bank. Custody bank adalah
   bank umum tempat penitipan efek dan harta lain yang berkaitan pasar modal yang
   berfungsi menjaga keamanan dana investasi Anda.
 date: 2022-08-04T05:58:24.268Z
+tag:
+  - KSEI
+  - Cara Investasi
+category:
+  - Investasi
 featuredImage:
   title: "Bank Kustodian Adalah: Fungsi, Cara Kerja, Kustodian Kekayaan Negara"
   alt: bank kustodian adalah
-  src: https://unsplash.com/photos/2_K82gx9Uk8
+  src: https://images.unsplash.com/photo-1501167786227-4cba60f6d58f?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80
 ---
 Bicara soal investasi artinya Anda menyetorkan uang ke rekening dana saham (RDN) Anda di aplikasi investasi. Tetapi dana tersebut ternyata tidak disimpan oleh perusahaan aplikasi investasi ini atau perusahaan sekuritas. Melainkan dana investasi Anda disimpan oleh lembaga berwenang sesuai ketentuan OJK yaitu **bank kustodian (custody bank).**
 
@@ -97,3 +102,9 @@ Berkat modal dari masyarakat, bisnis mampu berkembang dan masyarakat sebagai inv
 Oleh karena itu..
 
 ## [Yuk, Berinvestasi Pada Platform Investasi Terdaftar OJK](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)
+
+<!--StartFragment-->
+
+[![Yuk mulai patungan bisnis menguntungkan jangka panja g bersama LandX](https://accountgram-production.sfo2.cdn.digitaloceanspaces.com/landx_ghost/2021/09/Equity-Crowdfunding-di-Indonesia-1--3.png)](https://landx.id/project/utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)
+
+<!--EndFragment-->
