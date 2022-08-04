@@ -1,5 +1,5 @@
 ---
-draft: true
+draft: false
 author: Rafa Syawalia R
 title: "Mengenal GPN Adalah: Manfaat Kartu GPN & Perbedaan GPN dengan Visa"
 metaTitle: "Mengenal GPN Adalah: Manfaat Kartu GPN & Perbedaan GPN dengan Visa"
