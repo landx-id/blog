@@ -1,5 +1,5 @@
 ---
-draft: true
+draft: false
 author: Della Octavilia
 title: 10 Peluang Usaha di Bali dengan Modal Kecil yang Menjanjikan
 metaTitle: 10 Peluang Usaha di Bali dan Ide Usaha yang Menjanjikan di Bali 2022
