@@ -2,10 +2,10 @@
 author: Aulia Putri Andrika
 title: Mengenal Jenis-Jenis Lembaga Keuangan Beserta Fungsinya
 metaTitle: Mengenal Jenis-Jenis Lembaga Keuangan Beserta Fungsinya
-metaDescription: "Lembaga Keuangan adalah perusahaan yang bergerak di bidang
-  keuangan. Berikut jenis-jenis lembaga keuangan yang sering digunakan. "
+metaDescription: Lembaga keuangan adalah badan yang menyediakan jasa dan produk
+  keuangan yang membantu arus perekonomian. Berikut jenis-jenis lembaga keuangan
 intro: Lembaga keuangan dalam dunia keuangan bertindak selaku lembaga yang
-  menyediakan jasa keuangan bagi nasabahnya, dimana pada umumnya lembaga ini
+  menyediakan jasa dan produk keuangan bagi nasabahnya, pada umumnya lembaga ini
   diatur oleh regulasi keuangan dari pemerintah.
 date: 2022-04-20T05:39:10.396Z
 tag:
@@ -21,13 +21,19 @@ featuredImage:
     menyediakan jasa keuangan bagi nasabahnya, dimana pada umumnya lembaga ini
     diatur oleh regulasi keuangan dari pemerintah.
 ---
-Lembaga keuangan tak lepas dengan aktivitas masyarakat, lembaga inilah yang menjadi perantara finansial masyarakat. Hampir setiap orang yang hidup di era ekonomi maju memiliki kebutuhan yang berkelanjutan atau setidaknya berkala untuk layanan lembaga keuangan. 
+Aktivitas masyarakat berkaitan dengan penggunaan terhadap uang sehingga peran lembaga keuangan tak lepas dari kegiatan masyarakat. Lembaga keuangan inilah yang menjadi perantara finansial masyarakat. 
 
-Kali ini Landx akan membahas jenis-jenis lembaga keuangan serta definisinya. Untuk mengetahui lebih jauh mengenai lembaga keuangan ini, yuk simak artikel di bawah ini sampai abis!
+Lembaga keuangan adalah badan yang menyediakan jasa dan produk keuangan yang membantu arus perekonomian. Jenis lembaga keuangan ada dua yaitu lembaga keuangan bank dan lembaga keuangan bukan bank.
+
+Fungsi lembaga keuangan adalah umumnya menghimpun dan menyalurkan dana kepada masyarakat. Untuk mengetahui lebih jauh mengenai lembaga keuangan, kali ini Landx akan membahas jenis-jenis lembaga keuangan serta fungsinya. Yuk simak artikel ini sampai habis.
 
 ## **Apa itu Lembaga Keuangan?** 
 
-Lembaga keuangan adalah perusahaan yang bergerak dalam bidang keuangan dan moneter seperti deposito pinjaman, investasi , dan pertukaran mata uang. Lembaga keuangan mencakup berbagai operasi bisnis dalam sektor jasa keuangan termasuk bank, perusahaan perwalian, perusahaan asuransi, perusahaan pialang, dan dealer investasi.
+Lembaga keuangan adalah badan yang menyediakan jasa dan produk keuangan yang membantu arus perekonomian. Kegiatan lembaga keuangan mencakup dan tidak terbatas pada menghimpun dan menyalurkan dana kepada masyarakat.
+
+Bentuk badan atau perusahaan sebagai lembaga keuangan yang bergerak dalam bidang keuangan dan moneter seperti deposito pinjaman, investasi , dan pertukaran mata uang. Lembaga keuangan mencakup berbagai operasi bisnis dalam sektor jasa keuangan termasuk bank, perusahaan perwalian, perusahaan asuransi, perusahaan pialang, dan dealer investasi.
+
+Terdapat dua jenis lembaga keuangan secara umum yang terdiri dari bank dan bukan bank. Yuk, kita ulas lebih lanjut!
 
 ## Jenis-Jenis Lembaga Keuangan 
 
@@ -73,7 +79,9 @@ Apabila kamu sudah memberikan barang ke pegadaian, kemudian akan mendapatkan uan
 
 ### Pasar Modal 
 
-Pasar modal merupakan lembaga keuangan bukan bank seperti perusahaan atau institusi lain yang memerlukan dana dari masyarakat dengan masyarakat yang memiliki dana untuk diinvestasikan. Dana investasi tadi umumnya dipakai buat keperluan pengembangan bisnis, ekspansi, penambahan kapital bisnis, & sebagainya.
+Lembaga keuangan bukan bank yang memberi pinjaman jangka panjang adalah pasar modal.
+
+Pasar modal merupakan lembaga keuangan bukan bank seperti perusahaan atau institusi lain yang memerlukan dana dari masyarakat dengan masyarakat yang memiliki dana untuk diinvestasikan jangka panjang. Dana investasi tadi umumnya dipakai buat keperluan pengembangan bisnis, ekspansi, penambahan kapital bisnis, & sebagainya.
 
 Kegiatan bisnis yg dilakukan pada pasar kapital mencakup perdagangan atau jual beli saham & surat berharga lainnya misalnya obligasi, reksadana, waran, right, surat pernyataan hutang, dan produk derivatif lainnya.
 
@@ -85,9 +93,13 @@ Perusahaan ini menghimpun dana melalui premi yang dibayarkan oleh nasabah dalam 
 
 ### Koperasi Simpan Pinjam 
 
-Koperasi simpan pinjam adalah Lembaga Keuangan Bukan Bank yg menghimpun dana para anggota koperasi dan menyalurkannya pula baik pada sesama anggota juga non-anggota. Bunga yg diberikan sang koperasi umumnya lebih akrab  daripada bank atau pegadaian. Di akhir periode, setiap anggota berhak menerima selisih output bisnis yg diperoleh menurut output bisnis atau pendapatan koperasi pada satu tahun kitab selesainya dikurangi menggunakan pengeluaran atas aneka macam beban bisnis.
+Koperasi simpan pinjam adalah Lembaga Keuangan Bukan Bank yg menghimpun dana para anggota koperasi dan menyalurkannya pula baik pada sesama anggota juga non-anggota. Bunga yg diberikan sang koperasi umumnya lebih akrab daripada bank atau pegadaian. 
+
+Di akhir periode, setiap anggota berhak menerima selisih output bisnis yg diperoleh menurut output bisnis atau pendapatan koperasi pada satu tahun kitab selesainya dikurangi menggunakan pengeluaran atas aneka macam beban bisnis.
 
 ## Fungsi Lembaga Keuangan 
+
+Seperti yang telah diulas, lembaga keuangan adalah badan yang menyediakan jasa dan produk keuangan yang membantu arus perekonomian. Berikut beberapa fungsi lembaga keuangan adalah:
 
 ### Penghimpun Dana 
 
@@ -111,15 +123,15 @@ Bukan cuma itu, lembaga ini juga berfungsi sebagai pemindah aset. Caranya adalah
 
 ## Perbedaan Lembaga Keuangan Bank dan Non Bank
 
-Perbedaan utama lembaga keuangan bank dan non bank ini berdasarkan fungsinya. Lembaga finansial bank berfungsi buat mendapat atau menghimpun dana & memberi pinjaman pada rakyat pada bentuk giro, deposito, dan tabungan.
+Sama-sama bergerak memengaruhi pergerakan aktivitas masyarakat seputar finansial, terdapat perbedaan antara lembaga keuangan bank dan non bank. 
 
-Sementara itu, fungsi berdasarkan lembaga keuangan bukan bank merupakan menghimpun & menyalurkan dana pada rakyat  pada bentuk tabungan, melainkan berupa surat-surat berharga.
+* **Perbedaan utama lembaga keuangan bank dan non bank adalah berdasarkan fungsinya.** Lembaga finansial bank berfungsi buat mendapat atau menghimpun dana & memberi pinjaman pada rakyat pada bentuk giro, deposito, dan tabungan.
 
-Perbedaan selanjutnya merupakan terletak dalam aktivitas usahanya. Lembaga keuangan bank melakukan aktivitas-aktivitas bisnis misalnya pembukaan rekening tabungan, deposito, giro, pembayaran kartu kredit, & sebagainya. Sedangkan, aktivitas lembaga keuangan non bank mencakup penjualan surat-surat berharga, misalnya saham.
+  Sementara itu, fungsi berdasarkan lembaga keuangan bukan bank merupakan menghimpun & menyalurkan dana pada rakyat  pada bentuk tabungan, melainkan berupa surat-surat berharga.
+* **Perbedaan selanjutnya merupakan terletak dalam aktivitas usahanya.** Lembaga keuangan bank melakukan aktivitas-aktivitas bisnis misalnya pembukaan rekening tabungan, deposito, giro, pembayaran kartu kredit, & sebagainya. Sedangkan, aktivitas lembaga keuangan non bank mencakup penjualan surat-surat berharga, misalnya saham.
+* Tak hanya itu, **kedua lembaga keuangan ini juga tidak sinkron pada hal tujuan dalam pinjaman**. Lembaga keuangan bank memberi pinjaman menggunakan tujuan buat dipakai menjadi porto, pendidikan, bisnis, & lain-lain. Sedangkan lembaga keuangan non-bank menaruh pinjaman agar pemilik usaha bisa membuatkan bisnisnya.
 
-Tak hanya itu, kedua lembaga keuangan ini juga tidak sinkron pada hal tujuan dalam pinjaman. Lembaga keuangan bank memberi pinjaman menggunakan tujuan buat dipakai menjadi porto  pendidikan, bisnis, & lain-lain. sedangkan lembaga keuangan non-bank menaruh pinjaman agar pemilik usaha bisa membuatkan bisnisnya.
-
-Selain menggunakan Lembaga Keuangan kamu juga harus mencoba investasi, salah satu investasi yang cocok untuk pemula adalah investasi bisnis dengan sistem equity crowdfunding. Sistem ini memberikan kamu kesempatan untuk melakukan patungan membangun suatu bisnis bersama para investor lain yang akan diberikan bukti kepemilikan berupa saham sesuai dengan modal yang kamu berikan.
+**Selain menggunakan lembaga keuangan kamu juga harus mencoba investasi**, salah satu investasi yang cocok untuk pemula adalah investasi bisnis dengan sistem equity crowdfunding. Sistem ini memberikan kamu kesempatan untuk melakukan patungan membangun suatu bisnis bersama para investor lain yang akan diberikan bukti kepemilikan berupa saham sesuai dengan modal yang kamu berikan.
 
 Hal ini menjadi solusi bagi investor pemula yang memiliki dana terbatas tapi ingin melakukan investasi bisnis. Sistem ini akan memberikan investor keuntungan berupa dividen dan capital gain sehingga dapat menjadi salah satu pilihan investasi yang memberikan kamu keuntungan dalam jangka panjang.
 
