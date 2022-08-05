@@ -7,7 +7,7 @@ metaDescription: Apa itu hustle culture di Indonesia adalah suatu budaya untuk
   bekerja keras dengan mendorong diri sendiri di luar kemampuan mereka.
 intro: "Budaya pekerjaan saat ini mulai bergeser dari kebutuhan menjadi sebuah
   kebiasaan yang lumrah dan kerap dikenal dengan hustle culture. "
-date: 2022-07-13T09:07:53.211Z
+date: 2022-08-05T06:46:22.097Z
 tag:
   - Karir
   - "Bisnis Sampingan "
@@ -90,7 +90,7 @@ Sebagai contoh, kita memilih untuk investasi bisnis potensial lewat [aplikasi se
 
 Kamu bisa mengalokasikan sebagian gaji pokok untuk berinvestasi agar mendapatkan keuntungan yang bisa ditabung. Dengan menabung secara rutin, maka impian untuk segera meraih kebebasan finansial dan meninggalkan hustle culture tentu bisa diwujudkan. 
 
-Karena itu, tunggu apalagi…
+Karena itu, tunggu apalagi…..
 
 ## [Yuk, Investasi Lewat LandX untuk Menambah Penghasilan Kamu di Masa Depan Nanti!](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)
 
