@@ -7,7 +7,7 @@ metaDescription: Lembaga keuangan adalah badan yang menyediakan jasa dan produk
 intro: Lembaga keuangan dalam dunia keuangan bertindak selaku lembaga yang
   menyediakan jasa dan produk keuangan bagi nasabahnya, pada umumnya lembaga ini
   diatur oleh regulasi keuangan dari pemerintah.
-date: 2022-04-20T05:39:10.396Z
+date: 2022-08-06T03:02:09.747Z
 tag:
   - Lembaga pembiayaan
   - Investasi
