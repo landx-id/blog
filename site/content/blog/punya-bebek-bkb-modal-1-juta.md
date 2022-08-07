@@ -94,7 +94,9 @@ Lewat patungan bisnis di LandX, Anda bisa menjadi salah satu Bebek BKB owner. An
 
 ### 2. Menggunakan Bahan Alami dan 100% Halal
 
-Semua menu di Bebek BKB diolah menggunakan bahan-bahan alami. Menu andalannya, Bebek Kepahiang, diolah dengan menggunakan buah kepahiang/kluwak serta 21 bumbu rempah alami yang membuat hidangan menjadi sangat kaya cita rasa.
+Dengan bahan-bahan alami, Bebek BKB adalah resto yang menyajikan olahan bebek yang premium. Menu andalah Bebek BKB adalah Bebek Kepahiang yang diolah dengan menggunakan buah kepahiang/kluwak serta 21 bumbu rempah alami yang membuat hidangan menjadi sangat kaya cita rasa.
+
+Bebek Kepahiang adalah menu unik khas Bengkulu yang masih jarang ditemui di resto-resto Pulau Jawa. Karena itu, menu Bebek BKB adalah sajian yang sudah lama menjadi favorit konsumennya.
 
 Selain itu, BKB juga telah memiliki sertifikat halal dari MUI dan berkomitmen dalam menjaga kenyamanan pelanggan dengan cara memastikan seluruh bahan, proses memasak, hingga tempat makan terjamin kebersihan dan kehalalannya.
 
