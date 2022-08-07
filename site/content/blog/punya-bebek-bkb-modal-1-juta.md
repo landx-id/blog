@@ -68,19 +68,17 @@ Karena berbahan dasar alami, Bebek BKB adalah resto yang memiliki cita rasa yang
 
 Bebek Kepahiang adalah menu yang berasal dari Kota Kepahiang yang terletak di provinsi Bengkulu. Menjadi sajian andalan resto Bebek BKB, hal yang spesial dari sajian Kepahiang milik Bebek BKB adalah buah kepahiang atau kluwak serta 21 bumbu rempah alami yang membuat hidangan menjadi sangat kaya cita rasa. 
 
-Buah Keluwak umumnya jarang dipakai dalam bumbu masak karena pengolahannya yang cukup sulit. Jika salah mengolah, cita rasa khas dari Buah Keluwak bisa hilang. Meski begitu, Bebek BKB adalah resto yang dapat memroses buah ini dengan maksimal sehingga cita rasa yang gurih dapat keluar 
-
-Salah satu hal yang membuat buah keluwak jarang dipakai dalam bumbu masak adalah cara pengelolaannya yang cukup merepotkan. Buah keluwak harus diolah secara khusus agar cita rasa khasnya tidak hilang saat digunakan.
+Buah Keluwak umumnya jarang dipakai dalam bumbu masak karena pengolahannya yang cukup sulit. Jika salah mengolah, cita rasa khas dari Buah Keluwak bisa hilang. Meski begitu, Bebek BKB adalah resto yang dapat memroses buah ini dengan maksimal sehingga cita rasa yang gurih dapat menyeruak di tiap sajiannya.
 
 ## Desain Interior Bebek BKB
 
-Dari segi desain interior restoran, restoran BKB mengusung tema tradisional dengan aksen warna kayu dan ornamen bebatuan di beberapa sudut ruangan. Desain tersebut sengaja dibuat demikian agar selaras dengan menu yang dihidangkan.
+Dari segi desain interior restoran, restoran BKB adalah resto yang mengusung tema tradisional dengan aksen warna kayu dan ornamen bebatuan di beberapa sudut ruangan. Desain tersebut sengaja dibuat demikian agar selaras dengan menu yang dihidangkan.
 
 Meski begitu, furniture yang digunakan terbilang cukup modern, sehingga pelanggan tetap dapat makan dengan nyaman. Pencahayaan juga diatur sedemikian rupa untuk memberikan kesan ruang yang nyaman untuk makan bersama keluarga.
 
 ## Outlet Bebek BKB
 
-Kelezatan Bebek BKB saat ini bisa dinikmati secara langsung di 17 outlet yang tersebar di seluruh jabodetabek. Namun, bagi pelanggan yang tidak sempat untuk datang ke restoran atau ingin memesan untuk keperluan konsumsi acara, Bebek BKB juga dapat dipesan dengan sangat mudah melalui website resmi [www.bebekbkb.com](http://www.bebekbkb.com).
+Kelezatan Bebek BKB saat ini bisa dinikmati secara langsung di 17 outlet yang tersebar di seluruh Jabodetabek. Namun, bagi pelanggan yang tidak sempat untuk datang ke restoran atau ingin memesan untuk keperluan konsumsi acara, Bebek BKB juga dapat dipesan dengan sangat mudah melalui website resmi [www.bebekbkb.com](http://www.bebekbkb.com).
 
 Meski sambil bersantai di rumah bersama keluarga, pelanggan tetap bisa menikmati kelezatan kuliner satu ini.
 
@@ -90,27 +88,31 @@ Bagi Anda yang tertarik dengan bisnis kuliner, namun tidak mau repot membangun b
 
 Ada banyak alasan mengapa Anda wajib ikut jadi bisnis dengan potensi keuntungan menjanjikan satu ini:
 
-### 1. Menggunakan Bahan Alami dan 100% Halal
+### 1. Menjadi Pemilik Bebek BKB
+
+Lewat patungan bisnis di LandX, Anda bisa menjadi salah satu Bebek BKB owner. Anda bisa menjadi investor yang membeli lot saham Bebek BKB hanya dengan modal Rp1 jutaan saja. Bersama dengan investor lainnya, nominal modal yang terkumpul akan dialokasikan untuk ekspansi bisnis Bebek BKB.
+
+### 2. Menggunakan Bahan Alami dan 100% Halal
 
 Semua menu di Bebek BKB diolah menggunakan bahan-bahan alami. Menu andalannya, Bebek Kepahiang, diolah dengan menggunakan buah kepahiang/kluwak serta 21 bumbu rempah alami yang membuat hidangan menjadi sangat kaya cita rasa.
 
 Selain itu, BKB juga telah memiliki sertifikat halal dari MUI dan berkomitmen dalam menjaga kenyamanan pelanggan dengan cara memastikan seluruh bahan, proses memasak, hingga tempat makan terjamin kebersihan dan kehalalannya.
 
-### 2. Kolaborasi dan Brand Awareness yang Tinggi
+### 3. Kolaborasi dan Brand Awareness yang Tinggi
 
 Cita rasanya yang khas serta dengan bumbu yang melimpah, membuat Bebek BKB dikenal khalayak luas dalam waktu yang singkat. Selain itu, BKB juga melakukan kolaborasi dengan berbagai brand Fast Moving Consumer Goods (FMCG), yakni produk dengan harga murah/terjangkau dan memiliki daya jual yang tinggi. Sehingga, hal ini dapat meningkatkan brand awareness di masyarakat serta memperluas jangkauan pasar.
 
-### 3. Berpengalaman dan Mampu Menangani Pesanan dengan Jumlah Besar
+### 4. Berpengalaman dan Mampu Menangani Pesanan dengan Jumlah Besar
 
 Bebek BKB memiliki kualitas pelayanan yang sangat baik. Hal itu dibuktikan dengan pengalaman sukses menangani pesanan sebanyak 3.000 porsi nasi kotak dalam satu kali order, dan diantarkan kepada pemesan dengan tepat waktu serta kualitas hidangan yang tetap memuaskan. Karena itu, BKB terbukti sangat bisa diandalkan untuk memenuhi pesanan untuk berbagai jenis kegiatan.
 
 Selain itu, meski baru berdiri sejak tahun 2017 dan terbilang masih berusia muda, BKB sudah menunjukkan kualitasnya dengan berhasil membuka 17 cabang di wilayah Jabodetabek. Berbekal pengalaman sukses tersebut, ke depannya restoran ini memiliki ambisi untuk menjangkau seluruh wilayah yang ada di Indonesia.
 
-### 4. Target Konsumen yang Luas
+### 5. Target Konsumen yang Luas
 
 Meskipun menu daging bebek sangat terkenal dengan rasa gurihnya, namun tetap saja ada pelanggan yang tidak menyukai menu bebek. Untuk memenuhi kebutuhan tersebut, restoran BKB juga menyediakan menu hidangan dengan bahan daging unggas lainnya seperti ayam kampung, burung puyuh, dan merpati pedaging. Sehingga dapat menjangkau target konsumen yang lebih luas.
 
-### 4. Dividen yang Tinggi dengan Modal yang Rendah
+### 6. Dividen yang Tinggi dengan Modal yang Rendah
 
 Calon investor yang tertarik dengan bisnis Bebek BKB di LandX bisa ikut menjadi salah satu owner bisnis dengan **[modal mulai dari 1 jutaan rupiah.](https://landx.id/project/)**
 
