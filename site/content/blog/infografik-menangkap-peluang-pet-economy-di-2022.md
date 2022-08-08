@@ -1,8 +1,8 @@
 ---
 draft: false
 author: Vlora Riyandi
-title: "[INFOGRAFIK] Menangkap Peluang Pet Economy di 2022"
-metaTitle: "[INFOGRAFIK] Menangkap Peluang Pet Economy di 2022"
+title: Menangkap Peluang Pet Economy di 2022
+metaTitle: Menangkap Peluang Pet Economy di 2022
 metaDescription: "Industri baru: Pet economy Indonesia, lihat peluang bisnis pet
   shop dan pet care market di Indonesia tahun 2021 di sini."
 intro: Pandemi membuat masyarakat Indonesia mengadopsi kebiasaan baru, salah
@@ -10,9 +10,18 @@ intro: Pandemi membuat masyarakat Indonesia mengadopsi kebiasaan baru, salah
   Indonesia dan lihat peluang bisnis pet shop dan bisnis dog hotel yang patut
   dilirik!
 date: 2022-08-05T13:07:18.705Z
+tag:
+  - Bisnis Jangka Panjang
+  - Bisnis Menguntungkan
+  - Investasi Bisnis
+  - Bisnis Franchise
+category:
+  - Bisnis
+  - Investasi
 featuredImage:
-  title: industri baru pet economy indonesia
-  alt: industri baru pet economy indonesia
+  title: "Perkembangan industri pet care dan petshop di Indonesia "
+  alt: Melihat potensi jangka panjang bisnsi petshop dan industri pet care di
+    Indonesia
   src: img/infografis_vodkalatte.png
 ---
 Kemunculan virus corona pada tahun 2020 menyebabkan perubahan perilaku manusia secara menyeluruh di seluruh dunia. Hal ini pun didorong dengan kebijakan lockdown atau ‘di rumah saja’ yang membuat berbagai orang hanya dapat melakukan kegiatan di dalam area rumah masing-masing.
@@ -59,4 +68,10 @@ Caranya mudah yaitu bergabung pada pendanaan cabang terbaru Vodka and Latte mela
 
 Memiliki bisnis, berinvestasi, sekaligus berkontribusi pada pet economy Indonesia bisa kamu lakukan melalui satu aplikasi. Yuk, download aplikasi LandX dan **[jadi pemilik pet shop Jakarta Vodka and Latte!](https://landx.id/)**
 
-## [Jadi Investor Bisnis Pet Shop Jakarta Premium](https://landx.id/project/vlcp)
+## [Jadi Investor Bisnis Pet Shop Premium Jakarta Modal Cuma 1 Jutaan ](https://landx.id/project/vlcp)
+
+<!--StartFragment-->
+
+[![miliki bisnis modal kecil cuma dengan 1 jutaan dapat 4 cabang ](https://accountgram-production.sfo2.cdn.digitaloceanspaces.com/landx_ghost/2021/11/jadi-owner-bisnis-hanya-1-jutaan-dengan-cuan-yang-sangat-menjanjikan.png)](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)
+
+<!--EndFragment-->
