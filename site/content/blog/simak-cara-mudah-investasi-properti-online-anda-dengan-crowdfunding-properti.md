@@ -13,7 +13,6 @@ tag:
   - investasi online
   - crowdfunding properti
   - Equity Crowdfunding
-  - Investasi propertionline
   - Properti online
   - Securities Crowdfunding untuk Pengembangan UMKM di Indonesia
 category:
