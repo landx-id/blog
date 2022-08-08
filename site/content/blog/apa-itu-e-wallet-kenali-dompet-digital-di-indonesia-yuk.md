@@ -11,7 +11,6 @@ intro: Apa yang dimaksud dengan e-Wallet? opsi layanan finansial dompet digital
   atau premi asuransi.
 date: 2022-06-06T08:23:55.394Z
 tag:
-  - E-wallet
   - Startup Indonesia
   - Fintech
 category:
