@@ -12,7 +12,6 @@ isPinned: false
 slug: memulai-investasi-pahami-apa-itu-price-to-book-value-pbv-dalam-investasi-saham
 date: 2022-02-02T12:45:26.728Z
 tag:
-  - price to book value
   - pbv
   - Cara Investasi Saham
   - saham syariah
