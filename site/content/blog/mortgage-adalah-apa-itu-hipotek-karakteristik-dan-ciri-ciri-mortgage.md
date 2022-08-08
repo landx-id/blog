@@ -119,7 +119,7 @@ Bisnis properti terkenal menawarkan cuan yang maksimal. Namun dibalik itu, inves
 
 Lalu, sebenarnya adakah peluang investasi properti modal minim? Tentu ada!
 
-Melalui skema **[equity crowdfunding](landx.id)**, Anda berpeluang untuk berinvestasi pada bisnis properti dengan prospek yang menjanjikan. Skema equity crowdfunding adalah sistem urun dana bersama masyarakat luas sebagai investor yang mendanai bisnis badan usaha UMKM melalui penawaran saham.
+Melalui skema **[equity crowdfunding](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)**, Anda berpeluang untuk berinvestasi pada bisnis properti dengan prospek yang menjanjikan. Skema equity crowdfunding adalah sistem urun dana bersama masyarakat luas sebagai investor yang mendanai bisnis badan usaha UMKM melalui penawaran saham.
 
 Penawaran saham ini dilakukan melalui platform aplikasi online berpengalaman dan mengantongi izin OJK seperti** [LandX](https://landx.id/)**. Bersama LandX, Anda bisa berinvestasi properti dengan modal mulai dari Rp1 jutaan saja untuk mendapat keuntungan dividen secara rutin
 
@@ -132,7 +132,5 @@ Anda memiliki keleluasaan dalam memilih bisnis properti mana yang ingin diberi s
 [![Bagaimana? Kamu lebih suka bisnis dengan buyback guarantee atau yang bisa disimpan dalam jangka panjang? Apapun pilihan kamu.. Yuk Patungan  dengan Keuntungan Menjanjikan Bareng LandX](https://accountgram-production.sfo2.cdn.digitaloceanspaces.com/landx_ghost/2021/10/Equity-Crowdfunding-di-Indonesia-1--3.png)](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)
 
 [\#Instrumen Investasi](https://landx.id/blog/tag/instrumen-investasi)[\#Cara Investasi](https://landx.id/blog/tag/cara-investasi)[\#Investasi untuk Pemula](https://landx.id/blog/tag/investasi-untuk-pemula)[\#Tips Investasi](https://landx.id/blog/tag/tips-investasi)[\#Diversifikasi Investasi](https://landx.id/blog/tag/diversifikasi-investasi)
-
-
 
 <!--EndFragment-->
