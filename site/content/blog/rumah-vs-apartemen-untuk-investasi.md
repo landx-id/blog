@@ -12,7 +12,6 @@ date: 2021-07-08T16:38:31.000Z
 tag:
   - investasi rumah
   - investasi apartemen
-  - rumah vs apartemen
   - Properti investasi
 category:
   - Investasi
