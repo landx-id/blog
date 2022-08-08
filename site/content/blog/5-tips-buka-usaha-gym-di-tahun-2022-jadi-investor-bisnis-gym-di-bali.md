@@ -19,8 +19,8 @@ tag:
 category:
   - Bisnis
 featuredImage:
-  title: 5 Tips Buka Usaha Gym di Tahun 2022 dan Bagaimana Jadi Pemilik Franchise
-    Gym Cuma Modal 1 Jutaan
+  title: Gym adalah, Jenis-jenis Gym di Tahun 2022 dan Bagaimana Jadi Pemilik
+    Franchise Gym Cuma Modal 1 Jutaan
   src: https://media.discordapp.net/attachments/884994154873094244/943816739769172008/Blog_Fitness.png
   alt: tips memulai startup bisnis gym dan usaha fitness, rekomendasi gym Jakarta,
     rekomendasi gym Bali
