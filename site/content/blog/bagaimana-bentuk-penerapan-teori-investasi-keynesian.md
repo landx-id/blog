@@ -1,5 +1,5 @@
 ---
-draft: true
+draft: false
 author: Rafa Syawalia R
 title: Bagaimana Bentuk Penerapan Teori Investasi Keynesian?
 metaTitle: Bagaimana Bentuk Penerapan Teori Investasi Keynesian? | LandX
