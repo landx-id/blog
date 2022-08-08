@@ -1,5 +1,5 @@
 ---
-draft: false
+draft: true
 author: Vlora Riyandi
 title: "[INFOGRAFIK] Menangkap Peluang Pet Economy di 2022"
 metaTitle: "[INFOGRAFIK] Menangkap Peluang Pet Economy di 2022"
