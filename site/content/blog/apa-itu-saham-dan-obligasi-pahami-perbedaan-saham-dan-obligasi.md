@@ -10,6 +10,14 @@ intro: Dalam pasar modal, saham dan obligasi cukup populer di kalangan
   investor.  Kedua perbedaan instrumen populer ini memiliki perbedaan dan
   mekanismenya sendiri, yuk simak sama-sama dalam artikel ini.
 date: 2022-08-08T06:49:42.035Z
+tag:
+  - Cara Investasi Saham
+  - Obligasi
+  - Instrumen Investasi
+  - Investasi untuk Pemula
+category:
+  - Investasi
+  - Keuangan
 featuredImage:
   alt: Apa itu Saham dan Obligasi? Perbedaan Saham dan Obligasi
   title: Perbedaan Saham dan Obligasi dalam investasi pasar modal
@@ -72,7 +80,7 @@ Lalu, ketika keadaan ekonomi mencapai puncak dan masuk tahap resesi, suku bunga 
 
 Secara sederhana, apa itu obligasi saham memiliki perbedaan dan mekanisme yang berbeda. Saham dan obligasi bersaing untuk mendapatkan dana dari investor. Pergerakan harga keduanya memiliki korelasi yang negatif. 
 
-**Jika imbal balik obligasi lebih rendah maka berpotensi membuat harga saham naik, begitupun sebaliknya. Adanya kenaikan inflasi dan suku bunga dampak berdampak negatif terhadap harga saham dan obligasi.**
+> **Jika imbal balik obligasi lebih rendah maka berpotensi membuat harga saham naik, begitupun sebaliknya. Adanya kenaikan inflasi dan suku bunga dampak berdampak negatif terhadap harga saham dan obligasi.**
 
 Selain itu, jika Anda ingin melakukan investasi minim risiko, Anda bisa memilih investasi dengan skema [securities crowdfunding](https://landx.id/).
 
@@ -84,4 +92,10 @@ Anda juga akan mendapatkan keuntungan berupa dividen secara rutin sesuai perform
 
 Tunggu apalagi?
 
-## [Yuk Investasi Modal Kecil untuk Dapatkan Keuntungan Terbaik Lewat LandX Sekarang Juga!](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)
+## [Yuk Investasi Modal Kecil untuk Dapatkan Keuntungan Jangka Panjang di LandX Sekarang Juga!](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)
+
+<!--StartFragment-->
+
+[![miliki bisnis modal kecil cuma dengan 1 jutaan dapat 4 cabang ](https://accountgram-production.sfo2.cdn.digitaloceanspaces.com/landx_ghost/2021/11/jadi-owner-bisnis-hanya-1-jutaan-dengan-cuan-yang-sangat-menjanjikan.png)](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)
+
+<!--EndFragment-->
