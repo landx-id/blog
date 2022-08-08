@@ -1,5 +1,6 @@
 ---
 title: Cara Kerja Reksa Dana
+slug: cara kerja reksa dana
 metaTitle: Memahami Apa Itu Reksa Dana dan Cara Kerjanya
 metaDescription: Memahami apa itu reksa dana dan bagaimana cara kerja instrumen
   reksa dana yang merupakan instrumen investasi yang cocok untuk pemula
