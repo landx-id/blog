@@ -76,6 +76,36 @@ Diluar berbagai manfaat olahraga, berolahraga memiliki tantangan tersendiri, bai
 
 Dengan gabung dalam membership gym akan membantu membangun rutinitas serta motivasi untuk harus berolahraga. Lingkungan gym yang fokus, akan membantu Anda untuk lebih menjaga tujuan jaga kesehatan. Serta berbagai latar belakang profesi para member gym bisa menjadi pintu networking yang lebih profesional.
 
+## Jenis-jenis Gym
+
+Ketika Anda sudah yakin untuk memulai usaha gym atau seseorang ingin bergabung pada program kesehatan fitness gym, maka yang selanjutnya dilakukan adalah memilih jenis gym yang tepat.
+
+**5 jenis gym dan fitness center yang cocok dijadikan pilihan:**
+
+* ### Membership Gym
+
+Tipe studio gym yang biasanya dapat diakses hingga 24 jam, memiliki ragam peralatan, dan program personal training. Sebagai pemula dalam gym, ada banyak manfaat untuk berolahraga dengan personal trainer. Anda akan memiliki seseorang yang memandu waktu latihan dan mengembangkan kebiasaan yang lebih sehat agar mendapatkan hasil terbaik.
+
+* ### Crossfit 
+
+Crossfit adalah latihan kekuatan menggunakan gerakan sehari-hari dengan intensitas tinggi. Singkatnya, crossfit merupakan bentuk latihan interval (interval workout) intensitas tinggi. 
+
+Latihan interval adalah jenis olahraga latihan pendek yang berulang-ulang. Misalkan latihan jalan cepat ditempat 1 menit kemudian jalan lambat ditempat 2 menit secara berulang. Contoh crossfit ada zumba fitness, HIIT cardio seperti plank, squats, burpees, hingga penggabungan beberapa gerakan powerlifting dan weightlifting.
+
+* ### Weightlifting
+
+Weightlifting merupakan jenis olahraga yang fokus pada latihan kekuatan. Seperti kata pembentuknya weight lifting yang artinya angkat beban, kegiatan olahraga ini akan fokus pada latihan angkat beban untuk memperkuat ketahanan.
+
+* ### Women Gym
+
+Women gym merupakan pilihan tepat untuk wanita kultural yang takut akan merasa terintimidasi oleh tatapan orang lalu lalang. Banyak program dan yoga khusus untuk wanita yang menargetkan latihan untuk penurunan berat badan. 
+
+* ### Boutique Gym
+
+Boutique gym adalah studio gym berukuran lebih kecil dengan kelas kebugaran spesifik dan lebih sedikit orang. Jenis bukti studio kebugaran ini identik dengan peralatan modern, berestetika, namun harga yang cukup mahal sehingga disebut sebagai bagian dari lifestyle.
+
+Contoh boutique gym berkaitan dengan mind-body wellness seperti pilates, yoga, dan kelas serupa seperti barre fitness. Barre fitness adalah latihan yang menggabungkan gerakan seperti balet dengan elemen pilates, yoga, dan jenis dance.
+
 ## 5 Tips Buka Bisnis Gym di Tahun 2022
 
 Senang berolahraga secara rutin tentu bisa membuat Anda memiliki kecenderungan untuk ingin memiliki usaha gym atau fitness gym. Masa kritis pandemi yang semakin berusaha lalu membuat proyeksi pertumbuhan semakin pulih di tahun ini. 
