@@ -10,9 +10,16 @@ intro: "Teori investasi bisa menjadi landasan dasar sebagai pemahaman dasar
   memulai investasi. Yuk pelajari teori investasi dari para ahli untuk mengenal
   lebih jauh mengenai dunia investasi. "
 date: 2022-08-06T02:45:28.441Z
+tag:
+  - Analisis Investasi
+  - Tips Investasi Saham
+  - Investasi Aman untuk Pemula
+category:
+  - Investasi
 featuredImage:
-  title: Contoh Penerapan Teori Investasi Keynesian
-  alt: Memahami Teori Investasi
+  title: Memahami berbagai teori investasi yang bisa anda coba
+  alt: Berbagai teori investasi yang bisa kamu terapkan dalam investasi jangka
+    panjang ada
   src: https://images.unsplash.com/photo-1604594849809-dfedbc827105?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1470&q=80
 ---
 Teori investasi digunakan sebagai penyusun tujuan investasi, menyesuaikan profil risiko, dan menghitung estimasi dari kegiatan investasi seseorang atau lembaga. Sebagai tambahan, teori investasi bisa digunakan juga untuk menyusun portofolio dan menganalisa kinerja investasi. 
@@ -125,3 +132,9 @@ Tentunya memilih platform [equity crowdfunding](https://landx.id/) berpengalaman
 Jadi tunggu apalagi?
 
 ## [Miliki Bisnis Potensial dengan Keuntungan Terbaik Lewat LandX Sekarang Juga!](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)
+
+<!--StartFragment-->
+
+[![miliki bisnis modal kecil cuma dengan 1 jutaan dapat 4 cabang ](https://accountgram-production.sfo2.cdn.digitaloceanspaces.com/landx_ghost/2021/11/jadi-owner-bisnis-hanya-1-jutaan-dengan-cuan-yang-sangat-menjanjikan.png)](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)
+
+<!--EndFragment-->
