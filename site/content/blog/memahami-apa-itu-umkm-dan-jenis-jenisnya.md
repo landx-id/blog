@@ -14,7 +14,6 @@ date: 2022-07-24T09:28:34.224Z
 tag:
   - Securities Crowdfunding untuk Pengembangan UMKM di Indonesia
   - investasi umkm
-  - UMKM
 featuredImage:
   alt: Memahami apa itu UMKM dan Arti UMKM untuk pengembangan bisnis Indonesia
   src: https://images.unsplash.com/photo-1556740758-90de374c12ad?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxMTc3M3wwfDF8c2VhcmNofDJ8fHNtYWxsJTIwYnVzaW5lc3N8ZW58MHx8fHwxNjQwMDYxNTQ1&ixlib=rb-1.2.1&q=80&w=1080
