@@ -1,6 +1,6 @@
 ---
 author: Nadya A. Faatihah
-title: Cek 10 Ide Usaha Makanan Paling Laris Saat Ini untuk Ide Bisnis Anda
+title: 10 Ide Bisnis Menjanjikan Tahun 2022, Usaha Makanan Paling Laris
 metaTitle: 10 Ide Bisnis Menjanjikan Tahun 2022, Usaha Makanan Paling Laris
 metaDescription: Buat kamu yang ini memulai usaha kuliner, berikut 10 usaha
   kuliner paling laris untuk bisnis jangka panjang anda
