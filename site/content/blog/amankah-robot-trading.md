@@ -5,14 +5,14 @@ title: Amankah Robot Trading? Waspadai Modus Penipuan Robot Trading Forex
 metaTitle: Amankah Robot Trading? Waspadai Modus Penipuan Robot Trading Forex
 metaDescription: Trading forex menggunakan robot menjadi hal yang sangat populer
   belakangan ini, namun tidak sedikit juga robot trading menjadi modus penipuan
-intro: Belakangan, robot trading forex  menjadi topik yang banyak
-  diperbincangkan karena banyak disebut-sebut bisa memberikan keuntungan yang
-  besar bagi para trader. Namun, belakangan robot trading menjadi salah modus
-  penipuan yang memakan banyak korban. Karena itu yuk kita apa itu sebenarnya
-  robot trading agar kita terhindar dari modus penipuan satu ini.
+intro: Belakangan, robot trading forex menjadi topik yang banyak diperbincangkan
+  karena banyak disebut-sebut bisa memberikan keuntungan yang besar bagi para
+  trader. Namun, belakangan robot trading autopilot menjadi salah modus penipuan
+  yang memakan banyak korban. Karena itu yuk kita apa itu sebenarnya robot
+  trading agar kita terhindar dari modus penipuan satu ini.
 isPinned: false
 slug: amankah-robot-trading
-date: 2021-11-19T13:22:37.000Z
+date: 2022-08-09T06:57:33.971Z
 tag:
   - Robot Trading
   - Penipuan Investasi di Telegram
@@ -21,18 +21,18 @@ tag:
 featuredImage:
   src: https://images.unsplash.com/photo-1531837763904-5d3cb2632ea3?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxMTc3M3wwfDF8c2VhcmNofDYwfHxyb2JvdCUyMHRyYWRpbmd8ZW58MHx8fHwxNjQwMDYyMTE4&ixlib=rb-1.2.1&q=80&w=1080
   alt: Waspada dan kenali berbagai modus penipuan dengan kedok robot trading forex
-  title: Mengenal investasi bodong dengan modus robot trading
+  title: Mengenal investasi bodong dengan modus robot trading autopilot
 image: https://images.unsplash.com/photo-1531837763904-5d3cb2632ea3?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxMTc3M3wwfDF8c2VhcmNofDYwfHxyb2JvdCUyMHRyYWRpbmd8ZW58MHx8fHwxNjQwMDYyMTE4&ixlib=rb-1.2.1&q=80&w=1080
 category:
   - Investasi
 ---
-Dalam beberapa waktu belakangan, kamu pasti sering mendengar istilah robot trading atau di mana kegiatan otomasi trading dengan menggunakan suatu aplikasi/ sistem yang disebut robot.
+Dalam beberapa waktu belakangan, kamu pasti sering mendengar istilah robot trading autopilot atau kegiatan otomasi trading dengan menggunakan suatu aplikasi/ sistem yang disebut robot.
 
 Trading menggunakan robot ini sering semakin marak belakangan terutama untuk instrumen-intrumen dengan volatilitas tinggi seperti forex, kripto, saham, dan berbagai instrumen investasi lainnya yang harganya cenderung **fluktuatif.**
 
 Beberapa pihak penyedia robot trading menjanjikan return 1-3% per hari dengan perkiraan kerugian yang tidak jauh berbeda. Membayangkan uang yang bisa tumbuh dengan cepat dan secara bergerak otomatis tentu saja sangat menggiurkan.
 
-Hal ini membuat banyak orang mulai melakukan trading dengan menggunakan robot trading tanpa mempelajari lebih lanjut tentang risiko dan keamanan dari robot trading yang mereka gunakan.
+Hal ini membuat banyak orang mulai melakukan trading dengan menggunakan robot trading autopilot tanpa mempelajari lebih lanjut tentang risiko dan keamanan dari robot trading yang mereka gunakan.
 
 Biar kamu tidak seperti itu, yuk kita bahas bareng-bareng tentang robot trading ini.
 
@@ -42,13 +42,13 @@ Biar kamu tidak seperti itu, yuk kita bahas bareng-bareng tentang robot trading 
 
 Pertama-tama, mari kita bahas dari hal yang paling dasar yaitu memahami apa itu robot trading sebenarnya.
 
-Robot trading sebenarnya adalah suatu program alogaritma yang disusun untuk membantu melakukan analisa terhadap fluktuasi suatu instrumen investasi dan mengambil keputusan secara otomatis berdasarkan analisis yang dilakukan.
+Robot trading adalah suatu program alogaritma yang disusun untuk membantu melakukan analisa terhadap fluktuasi suatu instrumen investasi dan mengambil keputusan secara otomatis berdasarkan analisis yang dilakukan.
 
 Jadi bisa dibilang robot trading merupakan alat (*tools)* yang membantu proses trading menjadi autopilot sehingga trader tidak perlu memamtau fluktuasi harga saham selama 24 jam.
 
 Program algoritma ini biasanya dibuat dengan indikator teknikal sehingga membantu memberikan sinyal-sinyal pergerakan harga kepada trader agar proses pengambilan keputusan menjadi jauh lebih mudah dan cepat.
 
-Karena itu, sebenarnya keberhasilan trading ini kembali lagi kepada kemampuan trader dalam mengatur pengambilan keputusan jual beli dari instrumen investasi tersebut. Jadi walaupun ada fitur auto buy dan sell trader tetap perlu memahami dengan baik tentang komoditas yang akan di trading.
+Karena itu, sebenarnya keberhasilan robot trading autopilot ini kembali lagi kepada kemampuan trader dalam mengatur pengambilan keputusan jual beli dari instrumen investasi tersebut. Jadi walaupun ada fitur auto buy dan sell trader tetap perlu memahami dengan baik tentang komoditas yang akan di trading.
 
 ## Robot Trading Forex
 
@@ -128,21 +128,37 @@ Modus yang marak belakangan adalah menggunakan skema ponzi atau money game untuk
 
 Akan tetapi, hal ini seperti bom waktu karena lama kelamaan para member sadar bahwa mereka telah terjebak oleh sistem ini. Para trader biasanya tidak sadar di awal karena modus ini biasanya memberikan keuntungan di awal sehingga mereka tetap percaya di awal.
 
-Saat korban sudah mulai percaya dan melakukan deposit, maka barulah mereka modus penipuan dilakukan dengan bermasalahnya robot trading sehingga tidak bisa diakses lagi oleh para korban.
+Saat korban sudah mulai percaya dan melakukan deposit, maka barulah mereka modus penipuan dilakukan dengan bermasalahnya robot trading autopilot sehingga tidak bisa diakses lagi oleh para korban.
 
-## Belajar dari Kasus Sunton Capital
+## Penipuan Sunton Capital
 
-Salah satu kasus yang sangat hangat diperbincangkan belakangan adalah penipuan berkedok robot trading yang dilakukan oleh Sunton Capital.
+Salah satu kasus penipuan investasi yang sangat hangat diperbincangkan menjelang akhir tahun 2021 adalah penipuan berkedok robot trading autopilot yang dilakukan oleh Sunton Capital.
 
 Modusnya hampir sama seperti yang sudab kita bahas sebelumnya di mana para investor dijanjikan keuntungan hingga 50% saat melakukan trading menggunakan robot yang mereka tawarkan.
 
-Setelah melakukan deposit dan memulai trading, mereka melakukan manipulasi margin call sehingga terjadi loss total yang menyebabkan hilangnya dana para investor.
+**Sunton Capital adalah** perusahaan robot trading forex yang berasal dari Inggris. Skema layanan Sunton Capital yaitu memberikan sinyal kepada investor terkait kapan waktu membeli atau menjual atau exit trading forex dengan waktu yang sangat akurat.
+
+> Trading forex adalah aktivitas transaksi pertukaran 2 mata uang (valuta asing), forex adalah singkatan foreign exchange.
+
+Di kala normal, dikarenakan keakuratan yang ditawarkan Sunton Capital maka tingkat kepercayaan investor pun ikut meningkat. Sehingga para investor menambah jumlah dana yang mereka investasikan melalui broker forex ini. 
+
+Hal lain yang membuat investor tertarik dan mempromosikan Sunton Capital adalah setiap kali seorang investor berhasil menggaet investor baru maka akan mendapatkan bonus tambahan. Kegiatan gaet member dapat bonus ini berlanjut terus menerus, dari sini tercium aroma penipuan jenis ponzi.
+
+**Kegiatan para trader berlanjut terus hingga Oktober 2021 tiba-tiba saja Sunton Capital menginfokan semua trader untuk margin call kemudian menutup perusahaannya.** Apa yang dimaksud margin call?
+
+**Margin call adalah** instruksi dari perusahaan broker atau sekuritas kepada penggunanya untuk melakukan tambah dana ke rekening investasinya. Lalu apa yang terjadi jika margin call? Jika seorang trader mendapat margin call maka artinya dana di dalam rekeningnya hampir habis karena posisi tradingnya sedang merugi. Jika tambah dana tidak dilakukan maka perusahaan akan menutup secara sepihak akun trader dalam kondisi rugi tersebut.
+
+Sudah terbayang penipuan yang dilakukan Sunton Capital?
+
+Kabar margin call dan dana tidak bisa ditarik ini tentu membuat para trader geger dan panik. Uang jutaan hingga miliaran lenyap tak bisa diselamatkan karena kabar margin call. Sunton Capital penipuan pun dilaporkan kepada pihak berwajib.
+
+**Lalu, apakah forex legal di Indonesia?**
+
+Forex dihitung sebagai komoditas sehingga regulasinya diatur oleh adan Pengawas Perdagangan Berjangka Komoditi (Bappebti), bukan OJK. Oleh karena itu, jika Anda tertarik dengan trading forex lakukanlah melalui perusahaan yang telah terdaftar di Bappebti. Sunton Capital adalah ilegal karena tidak terdaftar di Bappebti.
 
 Dari kasus Sunton Capital, kini tentu kita diharapkan harus berhati-hati dalam menentukan berinvestasi dan tidak tergiur cuma karena iming-iming keuntungan besar semata.
 
-Selain itu, kita juga harus paham bahwa menggunakan aplikasi robot trading bukanlah jalan pintas yang pasti bisa membuat uang kamu berlipat ganda dalam waktu singkat.
-
-Karena itu, kamu butuh memahami risiko dari setiap instrumen yang akan kamu gunakan dalam investasi.
+Selain itu, kita juga harus paham bahwa menggunakan aplikasi robot trading bukanlah jalan pintas yang pasti bisa membuat uang kamu berlipat ganda dalam waktu singkat. Kamu butuh memahami risiko dari setiap instrumen yang akan kamu gunakan dalam investasi.
 
 ## Kesimpulan
 
