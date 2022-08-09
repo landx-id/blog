@@ -57,9 +57,9 @@ Setelah kamu paham obligasi itu apa, mari kita bahas berbagai jenis obligasi yan
 
 Seperti pembahasan definisi obligasi sebelumnya, obligasi adalah surat hutang yang artinya jangka waktu investasi akan bergantung perjanjian yang dilakukan saat kamu membeli surat hutang tersebut. Hal ini karena bunga dan modal yang kamu tanamkan di awal akan dibayarkan pada akhir periode tersebut. 
 
-Karena itu, jangka waktu obligasi akan berbeda-beda tergantung masa jatuh tempo (*maturity)* dari surat hutang tersebut. Jangka waktu jatuh tempo ini sendiri berbeda-beda, ada yang 1 tahun, atau bahkan bisa 5 tahun tergantung dengan jenis obligasinya. 
+Karena itu, jenis-jenis obligasi yang berbeda akan punya jangka waktu atau masa jatuh tempo (*maturity)* dari surat hutang yang berbeda. Jangka waktu jatuh tempo ini sendiri berbeda-beda, ada yang 1 tahun, atau bahkan bisa 5 tahun tergantung dengan jenis obligasinya. 
 
-Biasanya, semakin panjang periode jatuh tempo semakin besar pula besar return yang dijanjikan. Namun hal ini tentu saja dengan risiko yang lebih besar pula. Karena itu, biasanya investor pemula memilih obligasi dengan jangka waktu lebih singkat karena dianggap memiliki risiko lebih kecil. 
+Biasanya, semakin panjang periode jatuh tempo semakin besar pula besar return yang dijanjikan. Namun hal ini tentu saja dengan risiko yang lebih besar pula. Karena itu, biasanya investor pemula memilih jenis obligasi dengan jangka waktu lebih singkat karena dianggap memiliki risiko lebih kecil. 
 
 Akan tetapi, kamu tidak perlu khawatir apabila butuh dana sebelum masa jatuh tempo karena kamu tetap bisa menjual surat hutang yang kamu miliki kepada investor lain lewat pasar sekunder sehingga kamu tidak perlu menunggu hingga akhir masa jatuh tempo.
 
@@ -73,11 +73,13 @@ Obligasi secara umum dibagi ke dalam tiga jenis yaitu obligasi pemerintah, korpo
 
 #### 1. Obligasi Pemerintah
 
-Obligasi pemerintah merupakan surat utang yang dikeluarkan oleh pemerintah dalam bentuk surat utang negara yang diterbitkan. Pemerintah akan menerbitkan kupon dalam beberapa bentuk yaitu kupon tetap (*Fixed Rated*), kupon Variabel (*Variable Rated*), dan obligasi dalam bentuk syariah atau juga disebut sukuk negara.
+Jenis obligasi pemerintah adalah surat utang yang dikeluarkan oleh pemerintah dalam bentuk surat utang negara yang diterbitkan. Jenis obligasi pemerintah yaitu Obligasi Ritel Indonesia (ORI), Savings Bond Ritel (SBR), dan Sukuk Ritel (SR).
+
+Dari jenis-jenis obligasi tersebut, pemerintah akan menerbitkan kupon dalam beberapa bentuk yaitu kupon tetap (*Fixed Rated*), kupon Variabel (*Variable Rated*), dan obligasi dalam bentuk syariah atau juga disebut sukuk negara.
 
 #### 2. Obligasi Korporasi
 
-Obligasi jenis ini merupakan surat utang yang dikeluarkan oleh korporasi swasta maupun BUMN yang membutuhkan pinjaman dana. Sama seperti obligasi pemerintah, obligasi ini juga dikeluarkan dalam beberapa jenis kupon yaitu kupon tetap, variabel dan obligasi dengan prinsip syariah.
+Jenis obligasi ini merupakan surat utang yang dikeluarkan oleh korporasi swasta maupun BUMN yang membutuhkan pinjaman dana. Sama seperti obligasi pemerintah, obligasi ini juga dikeluarkan dalam beberapa jenis kupon yaitu kupon tetap, variabel dan obligasi dengan prinsip syariah.
 
 #### 3. Obligasi Ritel
 
@@ -121,7 +123,14 @@ Obligasi menjadi salah satu instrumen investasi yang banyak diminati oleh pemula
 
 ## **Risiko Obligasi**
 
-Setiap investasi yang anda lakukan pasti akan diikuti oleh risiko baik itu besar maupun kecil. Selain keuntungan, obligasi juga memiliki beberapa risiko yang harus diperhatikan oleh investor saat memutuskan untuk menanamkan modal ke dalam sebuah obligasi, berikut beberapa risiko dari obligasi:
+Setiap investasi yang anda lakukan pasti akan diikuti oleh risiko baik itu besar maupun kecil. 
+
+* Risiko jenis Obligasi pemerintah seperti **Obligasi Negara dan ORI (Obligasi Ritel Indonesia)** sangat minim bahkan hampir tidak ada. Ini karena obligasi jenis ini dijamin pembayaran bunga dan pokoknya oleh negara Indonesia sesuai masa berlakunya.
+* **Risiko jenis Obligasi Korporasi** punya tingkat yang lebih tinggi. Ini karena risiko dapat muncul bergantung pada perusahaan yang mengeluarkan jenis obligasinya. Misalnya, faktor bidang industri dan kondisi pasar yang digeluti peruhasaan pastinya berdampak pada performa bisnis perusahaan.
+
+
+
+Selain keuntungan, obligasi juga memiliki beberapa risiko yang harus diperhatikan oleh investor saat memutuskan untuk menanamkan modal ke dalam sebuah obligasi, berikut beberapa risiko dari obligasi:
 
 ### 1. Risiko Gagal bayar
 
