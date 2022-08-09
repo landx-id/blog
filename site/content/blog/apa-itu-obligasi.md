@@ -8,7 +8,8 @@ metaDescription: Pahami apa itu obligasi dan jenis obligasi yang memberikan kamu
   keuntungan jangka panjang|Keuntungan Obligasi
 intro: Obligasi adalah salah satu instrumen investasi pasar modal yang berupa
   surat utang yang bisa jadi pilihan investasi jangka panjang maupun pendek
-  kamu. Karena itu, yuk kenalan lebih dekat dengan instrumen investasi satu ini.
+  kamu. Karena itu, yuk kenalan lebih dekat dengan jenis-jenis obligasi sebagai
+  instrumen investasi satu ini.
 date: 2021-08-07T19:25:28.000Z
 tag:
   - obligasi
@@ -24,25 +25,33 @@ featuredImage:
   alt: Keuntungan obligasi untuk investasi jangka panjang menguntungkan anda.
   title: Memahami Obligasi Itu Apa dan Risiko Obligasi Sebagai Instrumen Investasi
 ---
-Obligasi adalah surat utang yang dikeluarkan oleh suatu instansi seperti pemerintah atau swasta sebagai sarana mereka mendapatkan dana dari para investor yang membeli surat hutang tersebut. Sebagai gantinya, biasanya obligasi akan memberikan investor return berupa bunga yang akan dibayarkan pada akhir periode saat pengembalian modal tersebut. 
+Obligasi adalah surat utang yang dikeluarkan oleh suatu instansi seperti pemerintah atau swasta yang menjadikan jenis obligasi berbeda sesuai dengan pihak yang mengeluarkannya. 
 
-Akan tetapi, obligasi sendiri sebenarnya memiliki terdiri dari beberapa jenis berbeda sehingga kamu harus paham jenis obligasi apa yang akan kamu jadikan instrumen investasi kamu. 
+Jenis-jenis obligasi ini bisa digunakan sebagai sarana pihak yang mengeluarkan jenis obligasi untuk mendapatkan dana dari para investor yang membeli surat hutang tersebut. 
+
+Sebagai gantinya, biasanya instrumen obligasi akan memberikan investor return berupa bunga yang akan dibayarkan pada akhir periode saat pengembalian modal tersebut. 
+
+Akan tetapi, jenis obligasi sendiri sebenarnya memiliki terdiri dari beberapa jenis berbeda sehingga kamu harus paham jenis obligasi apa yang akan kamu jadikan instrumen investasi kamu. 
 
 Karena itu, yuk kita bahas obligasi secara lebih mendalam, mulai dari defisini, jenis, dan berbagai risiko yang harus kamu waspadai saat berinvestasi ke dalam surat hutang atau obligasi.
 
 ## Apa Itu Obligasi?
 
-Pertama, mari kita bahas dulu definisi dari obligasi agar kamu paham obligasi itu apa.
+Pertama, mari kita bahas dulu definisi dari obligasi sebelum membahas jenis-jenis obligasi itu apa saja.
 
-> Obligasi adalah surat utang yang diterbitkan oleh suatu pihak baik swasta maupun pemerintahan sebagai sarana mereka untuk mendapatkan pendanaan.
+> Definisi obligasi adalah surat utang yang diterbitkan oleh suatu pihak baik swasta maupun pemerintahan sebagai sarana mereka untuk mendapatkan pendanaan.
 
 Dengan kata lain, **pengertian obligasi adalah** surat pengakuan utang yang dikeluarkan oleh penerbit yang menjelaskan bahwa mereka memiliki utang kepada pemilik obligasi dan akan dibayarkan pada di akhir periode yang sudah disepakati.
 
-Oleh sebab itu, obligasi memiliki jangka waktu yang berbeda-beda mulai dari utang jangka pendek, sedang, hingga panjang tergantung dengan kesepakatan dalam surat utang. Selain itu, Obligasi juga memiliki tingkat suka bunga yang berbeda-beda sehingga anda bisa disesuaikan dengan tujuan investasi anda.
+Oleh sebab itu, dari jenis obligasi yang ada, jenis-jenis obligasi tersebut memiliki jangka waktu yang berbeda-beda mulai dari utang jangka pendek, sedang, hingga panjang tergantung dengan kesepakatan dalam surat utang. 
+
+Selain itu, setiap jenis obligasi juga memiliki tingkat suka bunga yang berbeda-beda sehingga anda bisa disesuaikan dengan tujuan investasi anda.
 
 Agar mudah anda pahami, penerbit atau pihak yang membutuhkan dana bisa disebut sebagai debitur dan investor yang membeli obligasi bisa dianggap sebagai kreditur yang akan mendapatkan pengembalian berupa pinjaman pokok ditambah bunga atau kupon yang akan diberikan pada akhir periode pinjaman.
 
-Setelah kamu paham obligasi itu apa, mari kita bahas berbagai jenis obligasi yang memiliki risiko dan potensi yang berbeda-beda.
+Investasi obligasi adalah dengan membeli surat pengakuan utang untuk mendapat keuntungan sebagaimana yang telah dijelaskan.
+
+Setelah kamu paham obligasi itu apa, mari kita bahas berbagai jenis obligasi yang memiliki risiko dan potensi yang berbeda-beda. Penjelasan jenis-jenis obligasi adalah 
 
 ## Jangka Waktu Obligasi
 
