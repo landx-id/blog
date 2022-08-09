@@ -12,7 +12,6 @@ tag:
   - Bisnis Ritel
   - "Sistem Franchise "
   - Retail
-  - "Bisnis Franchise Modal "
 category:
   - Investasi
   - Bisnis
