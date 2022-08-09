@@ -57,11 +57,11 @@ Setelah kamu paham obligasi itu apa, mari kita bahas berbagai jenis obligasi yan
 
 Seperti pembahasan definisi obligasi sebelumnya, obligasi adalah surat hutang yang artinya jangka waktu investasi akan bergantung perjanjian yang dilakukan saat kamu membeli surat hutang tersebut. Hal ini karena bunga dan modal yang kamu tanamkan di awal akan dibayarkan pada akhir periode tersebut. 
 
-Karena itu, jenis-jenis obligasi yang berbeda akan punya jangka waktu atau masa jatuh tempo (*maturity)* dari surat hutang yang berbeda. Jangka waktu jatuh tempo ini sendiri berbeda-beda, ada yang 1 tahun, atau bahkan bisa 5 tahun tergantung dengan jenis obligasinya. 
+Karena itu, jenis-jenis obligasi yang berbeda akan punya jangka waktu obligasi atau masa jatuh tempo (*maturity)* dari surat hutang yang berbeda. Jangka waktu obligasi atau jatuh tempo ini sendiri berbeda-beda, ada yang 1 tahun, atau bahkan bisa 5 tahun tergantung dengan jenis obligasinya. 
 
 Biasanya, semakin panjang periode jatuh tempo semakin besar pula besar return yang dijanjikan. Namun hal ini tentu saja dengan risiko yang lebih besar pula. Karena itu, biasanya investor pemula memilih jenis obligasi dengan jangka waktu lebih singkat karena dianggap memiliki risiko lebih kecil. 
 
-Akan tetapi, kamu tidak perlu khawatir apabila butuh dana sebelum masa jatuh tempo karena kamu tetap bisa menjual surat hutang yang kamu miliki kepada investor lain lewat pasar sekunder sehingga kamu tidak perlu menunggu hingga akhir masa jatuh tempo.
+Akan tetapi, kamu tidak perlu khawatir apabila butuh dana sebelum masa jatuh tempo obligasi karena kamu tetap bisa menjual surat hutang yang kamu miliki kepada investor lain lewat pasar sekunder sehingga kamu tidak perlu menunggu hingga akhir masa jatuh tempo.
 
 ## Jenis-Jenis Obligasi
 
@@ -111,26 +111,24 @@ Apabila anda sudah paham berbagai jenis obligasi, selanjutnya mari kita bahas ba
 
 Jenis obligasi yang tidak memiliki masa jatuh adalah obligasi abadi yang diterbitkan oleh pemerintah *Inggris* atau disebut Undated Treasuries. Jenis ini sendiri tidak tersedia di Indonesia jadi kamu bisa memilih obligasi dari jenis lain.
 
-## Keuntungan Obligasi
+## Keuntungan dari Obligasi
 
-Obligasi menjadi salah satu instrumen investasi yang banyak diminati oleh pemula karena dinilai aman dan bisa memberikan keuntungan yang beragam baik dalam jangka panjang maupun pendek. 
+Obligasi adalah salah satu instrumen investasi yang banyak diminati oleh pemula. Hal ini karena keuntungan obligasi adalah instrumen yang dinilai aman dan bisa memberikan keuntungan yang beragam baik dalam jangka panjang maupun pendek. 
 
-**Pertama,** return obligasi berupa kupon sehingga keuntungan yang diberikan berupa bunga cenderung stabil selama periode obligasi. Akan tetapi hal ini tentu saja kembali lagi ke jenis obligasi yang digunakan saat berinvestasi tersebut. 
+**Pertama,** return obligasi berupa kupon sehingga keuntungan obligasi adalah bunga yang cenderung stabil selama periode obligasi. Akan tetapi hal ini tentu saja kembali lagi ke jenis obligasi yang digunakan saat berinvestasi tersebut. 
 
-**Kedua,** obligasi merupakan instrumen yang likuid karena investor dapat menjual obligasi mereka di pasar sekunder dan bisa mendapatkan capital gain walaupun obligasi yang kita pegang belum jatuh tempo. 
+**Kedua,** keuntungan obligasi adalah instrumen yang likuid karena investor dapat menjual obligasi mereka di pasar sekunder dan bisa mendapatkan capital gain walaupun obligasi yang kita pegang belum jatuh tempo. 
 
-**Ketiga,** return berupa bunga yang ditawarkan cenderung cukup tinggi jika dibandingkan dengan bunga deposito yang ditawarkan di bank sehingga intrumen obligasi menjadi salah satu yang menarik banyak orang.
+**Ketiga,** return obligasi berupa bunga yang ditawarkan cenderung cukup tinggi jika dibandingkan dengan bunga deposito yang ditawarkan di bank sehingga intrumen obligasi menjadi salah satu yang menarik banyak orang.
 
 ## **Risiko Obligasi**
 
 Setiap investasi yang anda lakukan pasti akan diikuti oleh risiko baik itu besar maupun kecil. 
 
-* Risiko jenis Obligasi pemerintah seperti **Obligasi Negara dan ORI (Obligasi Ritel Indonesia)** sangat minim bahkan hampir tidak ada. Ini karena obligasi jenis ini dijamin pembayaran bunga dan pokoknya oleh negara Indonesia sesuai masa berlakunya.
+* Risiko jenis obligasi pemerintah seperti **Obligasi Negara dan ORI (Obligasi Ritel Indonesia)** sangat minim bahkan hampir tidak ada. Ini karena obligasi jenis ini dijamin pembayaran bunga dan pokoknya oleh negara Indonesia sesuai masa berlakunya.
 * **Risiko jenis Obligasi Korporasi** punya tingkat yang lebih tinggi. Ini karena risiko dapat muncul bergantung pada perusahaan yang mengeluarkan jenis obligasinya. Misalnya, faktor bidang industri dan kondisi pasar yang digeluti peruhasaan pastinya berdampak pada performa bisnis perusahaan.
 
-
-
-Selain keuntungan, obligasi juga memiliki beberapa risiko yang harus diperhatikan oleh investor saat memutuskan untuk menanamkan modal ke dalam sebuah obligasi, berikut beberapa risiko dari obligasi:
+Selain kerugian spesifik dari jenis obligasi, terdapat beberapa risiko lain yang harus diperhatikan oleh investor saat memutuskan untuk menanamkan modal ke dalam sebuah obligasi, berikut beberapa risiko dari obligasi:
 
 ### 1. Risiko Gagal bayar
 
