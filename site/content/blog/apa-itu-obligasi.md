@@ -10,7 +10,7 @@ intro: Obligasi adalah salah satu instrumen investasi pasar modal yang berupa
   surat utang yang bisa jadi pilihan investasi jangka panjang maupun pendek
   kamu. Karena itu, yuk kenalan lebih dekat dengan jenis-jenis obligasi sebagai
   instrumen investasi satu ini.
-date: 2021-08-07T19:25:28.000Z
+date: 2022-08-09T16:32:07.581Z
 tag:
   - obligasi
   - instrumen pasar modal
