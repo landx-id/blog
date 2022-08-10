@@ -10,6 +10,11 @@ intro: Saat ini transaksi menggunakan QRIS sedang marak digunakan oleh
   masyarakat karena kemudahannya. Apa itu QRIS? QRIS adalah metode pembayaran
   yang hanya memerlukan satu QR Code saat transaksi.
 date: 2022-08-09T14:01:01.658Z
+tag:
+  - Lembaga Keuangan
+  - Lembaga Pembiayaan
+category:
+  - Keuangan
 featuredImage:
   src: https://img.freepik.com/free-photo/close-up-hands-holding-device_23-2149303395.jpg?w=740&t=st=1660053822~exp=1660054422~hmac=e6df49ba710465047b383dc1a8fa2a15f32d162edb7379d3d210ae5117c18575
   alt: Apa itu QRIS dan cara menggunakan QRIS sebagai transaksi pembayaran
@@ -131,5 +136,9 @@ Bersama LandX Anda akan melakukan pendanaan dengan cara patungan dana dari beber
 Bagi Anda yang tertarik untuk menanamkan modalnya di salah satu bisnis yang tersedia di LandX, Anda dapat menyetorkan modal awal mulai dari Rp1 Jutaan saja dan Anda sudah bisa bergabung menjadi salah satu investor di LandX.
 
 ## [Jadi Tunggu Apalagi? Download Aplikasi LandX Sekarang dan Nikmati Kemudahan Investasi Semudah Belanja Online!](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)
+
+<!--StartFragment-->
+
+![miliki bisnis modal kecil cuma dengan 1 jutaan dapat 4 cabang ](https://accountgram-production.sfo2.cdn.digitaloceanspaces.com/landx_ghost/2021/11/jadi-owner-bisnis-hanya-1-jutaan-dengan-cuan-yang-sangat-menjanjikan.png)
 
 <!--EndFragment-->
