@@ -85,6 +85,14 @@ Jenis obligasi ini merupakan surat utang yang dikeluarkan oleh korporasi swasta 
 
 Jenis ini merupakan surat utang yang dikeluarkan oleh pemerintah yang dijual kepada individu melalui agen penjualan yang telah ditetapkan oleh pemerintah. Jenis yang biasanya diperjualbelikan adalah jenis ORI dan Sukuk Ritel.
 
+#### 4. Obligasi Konversi
+
+Jenis obligasi konversi adalah surat utang yang dikeluarkan oleh perusahan. Nantinya, investor pemegang jenis obligasi ini bisa menukar surat utangnya untuk dikonversikan menjadi saham perusahaan. 
+
+Jenis obligasi konversi ada yang diterbitkan oleh pemerintah dan juga oleh korporasi. [Keuntungan obligasi konversi](https://landx.id/blog/obligasi-konversi/) salah satunya adalah  investor menerima pembayaran bunga suku bunga tetap dengan opsi untuk mengkonversi ke saham dan mendapatkan keuntungan dari apresiasi harga saham.
+
+
+
 ### Jenis Obligasi Berdasarkan Pembayaran Kupon/ Bunga
 
 Pembayaran kupon atau bunga merupakan bagian penting yang harus anda perhatikan sebelum memutuskan untuk berinvestasi ke dalam obligasi karena obligasi memiliki beberapa jenis kupon. Berikut beberapa jenis kupon dalam obligasi:
@@ -110,10 +118,6 @@ Apabila anda sudah paham berbagai jenis obligasi, selanjutnya mari kita bahas ba
 #### 4. Obligasi Abadi
 
 Jenis obligasi yang tidak memiliki masa jatuh adalah obligasi abadi yang diterbitkan oleh pemerintah *Inggris* atau disebut Undated Treasuries. Jenis ini sendiri tidak tersedia di Indonesia jadi kamu bisa memilih obligasi dari jenis lain.
-
-#### 5. Obligasi Konversi
-
-Jenis obligasi konversi adalah surat utang yang dikeluarkan oleh perusahan. Nantinya, investor pemegang jenis obligasi ini bisa menukar surat utangnya untuk dikonversikan menjadi saham perusahaan. 
 
 ## Keuntungan dari Obligasi
 
