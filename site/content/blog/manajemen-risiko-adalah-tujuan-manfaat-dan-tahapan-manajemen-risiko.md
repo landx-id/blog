@@ -9,6 +9,16 @@ intro: Cara meminimalkan risiko bisnis adalah dengan penerapan manajemen risiko.
   Manajemen risiko adalah usaha yang dilakukan perusahaan untuk mencegah hingga
   meminimalisir dampak dari risiko.
 date: 2022-08-09T14:09:55.096Z
+tag:
+  - Mitigasi Risiko
+  - Diversifikasi
+  - Manajemen Bisnis
+  - Bisnis Jangka Panjang
+  - Bisnis untuk Pemula
+  - Manajemen Bisnis
+category:
+  - Investasi
+  - Keuangan
 featuredImage:
   src: https://img.freepik.com/free-photo/risk-gamble-opportunity-swot-weakness-unsure-concept_53876-122989.jpg?w=740&t=st=1660054225~exp=1660054825~hmac=a87d88be4f4aba11f46c815479516ca5a094f91a6bcb3ee4bc13824552ebdf50
   alt: Apa itu tujuan manajemen risiko dan manfaat manajemen risiko
