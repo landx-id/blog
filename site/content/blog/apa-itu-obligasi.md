@@ -111,7 +111,9 @@ Apabila anda sudah paham berbagai jenis obligasi, selanjutnya mari kita bahas ba
 
 Jenis obligasi yang tidak memiliki masa jatuh adalah obligasi abadi yang diterbitkan oleh pemerintah *Inggris* atau disebut Undated Treasuries. Jenis ini sendiri tidak tersedia di Indonesia jadi kamu bisa memilih obligasi dari jenis lain.
 
-### Jangka Waktu Obligasi Tak Terbatas
+#### 5. Obligasi Konversi
+
+Jenis obligasi konversi adalah surat utang yang dikeluarkan oleh perusahan. Nantinya, investor pemegang jenis obligasi ini bisa menukar surat utangnya untuk dikonversikan menjadi saham perusahaan. 
 
 ## Keuntungan dari Obligasi
 
