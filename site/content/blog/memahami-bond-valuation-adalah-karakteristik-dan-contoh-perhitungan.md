@@ -1,5 +1,5 @@
 ---
-draft: true
+draft: false
 author: Rafa Syawalia R
 title: "Memahami Bond Valuation Adalah: Karakteristik dan Contoh Perhitungan"
 metaTitle: "Memahami Bond Valuation Adalah: Karakteristik dan Contoh Perhitungan"
