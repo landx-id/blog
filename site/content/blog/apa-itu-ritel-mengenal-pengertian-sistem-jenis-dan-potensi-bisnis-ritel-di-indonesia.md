@@ -2,7 +2,7 @@
 draft: false
 author: Abdul Wahhab
 slug: apa-itu-ritel-mengenal-pengertian-sistem-jenis-dan-potensi-bisnis-ritel-di-indonesia
-title: "Bisnis Retail Adalah: Pengertian Apa Itu Bisnis Ritel dan Potensinya"
+title: "Bisnis Retail Adalah: Pengertian Apa Itu Ritel, Sistem dan Potensinya"
 metaTitle: Apa Itu Ritel? Pengertian, Sistem, Jenis, dan Potensi Bisnis Ritel
 metaDescription: Apa itu bisnis ritel adalah pihak yang menengahi penjualan
   produk dari produsen ke konsumen dengan harga yang lebih tinggi. Simak potensi
