@@ -1,18 +1,18 @@
 ---
 draft: false
 author: Abdul Wahhab
-title: "Franchise Adalah: Potensi Sistem Bisnis Franchise di Indonesia  "
-metaTitle: "Franchise Adalah: Potensi Sistem Bisnis Franchise di Indonesia  "
-metaDescription: Franchise/ waralaba adalah salah satu sistem kemitraan dalam
-  bisnis dimana pemilik franchise menjual bisnis ke orang lain
+title: "Franchise Adalah: Potensi Sistem Bisnis Franchise di Indonesia 2022"
+metaTitle: "Franchise Adalah: Potensi Sistem Bisnis Franchise di Indonesia 2022"
+metaDescription: Franchise adalah bentuk kerja sama dalam menjalankan usaha
+  sebuah perusahaan yang mengizinkan penggunakan merek dan distribusi produk.
 intro: >-
   Salah satu yang paling populer adalah franchise berbagai makanan kekinian yang
   berkembang sangat pesat karena adanya sistem franchise. 
 
-  Supaya kamu paham dengan baik tentang bisnis franchise, yuk kita bahas secara mendalam seluk beluk berbisnis dengan sistem franchise.
+  Supaya Anda paham dengan baik tentang bisnis franchise, yuk kita bahas secara mendalam seluk beluk berbisnis dengan sistem franchise.
 isPinned: false
 slug: memiliki-bisnis-franchise-untuk-pemula
-date: 2022-02-03T13:07:11.187Z
+date: 2022-08-10T03:13:26.165Z
 tag:
   - Franchise Makanan
   - sistem franchise
@@ -23,26 +23,22 @@ featuredImage:
   src: https://images.unsplash.com/photo-1466978913421-dad2ebd01d17?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxMTc3M3wwfDF8c2VhcmNofDJ8fHJlc3RhdXJhbnR8ZW58MHx8fHwxNjQwMTQ1Mjg4&ixlib=rb-1.2.1&q=80&w=1080
   alt: " Franchise adalah sistem bisnis yang memberikan kesempatan bagi mitra
     untuk membeli hak franchise sehingga orang lain bisa membuka bisnis sejenis"
-  title: Memahami apa itu sistem franchise untuk mempermudah proses pembukaan
-    bisnis kamu
+  title: franchise adalah, Memahami apa itu sistem franchise untuk mempermudah
+    proses pembukaan bisnis franchise untuk pemula
 image: https://images.unsplash.com/photo-1466978913421-dad2ebd01d17?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxMTc3M3wwfDF8c2VhcmNofDJ8fHJlc3RhdXJhbnR8ZW58MHx8fHwxNjQwMTQ1Mjg4&ixlib=rb-1.2.1&q=80&w=1080
 category:
   - Bisnis
   - Investasi
 ---
-Apabila kamu pemula dan masih bingung cara memulai bisnis, mungkin franchise adalah solusi untuk mempermudah kamu memiliki bisnis sendiri.
+Apabila Anda pemula dan masih bingung cara memulai bisnis, mungkin franchise adalah solusi untuk mempermudah Anda memiliki bisnis sendiri.
 
-Franchise atau waralaba adalah salah satu sistem kemitraan dalam bisnis dimana pemilik franchise memberikan kesempatan kepada pembeli franchise untuk menjalankan bisnis.
+**Franchise adalah salah satu sistem kemitraan dalam bisnis dimana pemilik franchise memberikan kesempatan kepada pembeli franchise untuk menjalankan bisnis.**
 
 Artinya, pembeli franchise bisa menjalankan bisnis dengan brand, sistem, dan berbagai sumber daya lain sesuai dengan perjanjian franchise yang disepakati oleh kedua belah pihak.
 
-Saat ini, bisnis melalui franchise menjadi salah satu sistem yang berkembang di
+Saat ini, bisnis melalui franchise menjadi salah satu sistem yang berkembang di Indonesia saat ini sehingga banyak sekali berbagai bisnis membuka kemitraan melalui sistem franchise. Salah satu yang paling populer adalah franchise berbagai makanan kekinian yang berkembang sangat pesat karena adanya **[sistem franchise](https://landx.id/project/)**.
 
-Indonesia saat ini sehingga banyak sekali berbagai bisnis membuka kemitraan melalui sistem franchise.
-
-Salah satu yang paling populer adalah franchise berbagai makanan kekinian yang berkembang sangat pesat karena adanya **[sistem franchise](https://landx.id/project/)**.
-
-Supaya kamu paham dengan baik tentang bisnis franchise, yuk kita bahas secara mendalam seluk beluk berbisnis dengan sistem franchise.
+Supaya paham lebih baik tentang bisnis franchise, yuk kita bahas secara mendalam seluk beluk berbisnis dengan sistem franchise.
 
 - - -
 
@@ -50,7 +46,7 @@ Supaya kamu paham dengan baik tentang bisnis franchise, yuk kita bahas secara me
 
 Sebelum masuk lebih dalam, mari kita bahas dulu arti franchise agar kita bisa memahami dengan baik tentang sistem franchise.
 
-[Franchise atau waralaba](https://landx.id/blog/tag/bisnis-franchise/) adalah hak yang dimiliki oleh suatu badan usaha/ perorangan untuk menjual sistem bisnis yang mereka miliki kepada pihak lain melalui perjanjian franchise yang telah disepakati oleh kedua belah pihak.
+**[Franchise atau waralaba](https://landx.id/blog/tag/bisnis-franchise/) adalah** hak yang dimiliki oleh suatu badan usaha/ perorangan untuk menjual sistem bisnis yang mereka miliki kepada pihak lain melalui perjanjian franchise yang telah disepakati oleh kedua belah pihak.
 
 Simpelnya, perusahaan yang membuka kemitraan franchise artinya memberikan kesempatan kepada pihak lain untuk membuka bisnis serupa dengan membagikan sistem bisnis dan sumber daya yang mereka miliki kepada pembeli franchise.
 
@@ -62,21 +58,47 @@ Pemberian akses ini membuat proses pembangunan bisnis menjadi lebih mudah karena
 
 Dari sisi pebisnis, sistem franchise juga mempermudah mereka melakukan ekspansi ke pasar baru sehingga cakupan bisnis bisa menjadi lebih luas. Karena itu sistem franchise banyak digunakan perusahaan multinasional untuk memasuki negara baru.
 
+## Istilah-istilah Penting dalam Sistem Franchise
+
+* **Franchisor**
+
+Franchisor merupakan pihak pemilik franchise yang akan menjual kemitraan kepada pihak lain guna memperluas jangkauan bisnis mereka. Franchisor berkewajiban memberikan hak-hak dari pembeli franchise seperti pemberian sistem bisnis dan produk hingga fasilitas marketing kit untuk mendukung proses bisnis. Sebagai gantinya franchisor akan mendapatkan beberapa keuntungan dari franchise fee dan royalty fee.
+
+* **Franchisee**
+
+Franchisee merupakan pihak pembeli franchise yang berhak menggunakan berbagai atribut dari franchisor untuk menjalankan bisnis. Pihak franchisee akan dirikan akses untuk menjalankan bisnis atas nama franchisor dengan membayar franchise fee dan royalty fee.
+
+* **Franchise Fee**
+
+Franchise fee adalah biaya yang harus dikeluarkan oleh franchisee sebelum memulai bisnis. Franchise fee yang harus dibayarkan beragama sesuai dengan ketentuan yang telah ditentukan oleh franchisor.
+
+Biaya ini biasanya mencakup biaya lisensi untuk penggunaan nama dan biaya penggunaan sistem bisnis selama periode waktu yang sudah disepakati di awal.
+
+Selain biaya ini, biaya lain yang harus diperhatikan adalah biaya perlengkapan, pembelian bahan baku yang biasanya juga disediakan oleh franchisor dan yang paling penting adalah biaya lokasi yang harus anda tanggung.
+
+* **Royalty Fee**
+
+Royalty fee adalah biaya yang harus anda bayarkan saat bisnis sudah mulai beroperasi. Biaya ini sebenarnya opsional dan nilainya berbeda-beda sesuai dengan kesepakatan antara kedua belah pihak. Biaya ini biasanya dibayarkan dalam periode tertentu dalam bentuk persenan dari penjualan yang telah dilakukan.
+
+Royalty fee ini ditujukan untuk pengembangan bisnis seperti riset dan pengembangan produk baru agar memasuki target pasar yang lebih luas dan biaya pemasaran agar bisnis dapat berkembang lebih baik.
+
 ## Kelebihan dan Kekurangan Memulai Usaha dengan Sistem Franchise
 
-Dalam dunia bisnis tentu saja tidak ada sistem yang sempurna dan bisa dengan secara instan memberikan kamu keuntungan. Karena itu, mari kita bahas kelebihan dan kekurangan dari sistem usaha franchise.
+Dalam dunia bisnis tentu saja tidak ada sistem yang sempurna dan bisa dengan secara instan memberikan Anda keuntungan. Karena itu, mari kita bahas kelebihan dan kekurangan dari sistem usaha franchise.
 
-## Keuntungan Memulai Usaha dengan Sistem Franchise
+## Keuntungan Sistem Franchise
+
+Berikut keuntungan memulai usaha dengan sistem franchise:
 
 ### 1. Manajemen Bisnis yang Teratur
 
-Salah satu keunggulan memulai usaha franchise  adalah kejelasan sistem manajemen dan SOP dari bisnis yang akan dijalankan sehingga kamu tidak perlu kesulitan lagi membangun sistem bisnis dari awal yang biasanya memakan waktu cukup panjang karena butuh *trial and error*.
+Salah satu keunggulan memulai usaha franchise  adalah kejelasan sistem manajemen dan SOP dari bisnis yang akan dijalankan sehingga Anda tidak perlu kesulitan lagi membangun sistem bisnis dari awal yang biasanya memakan waktu cukup panjang karena butuh *trial and error*.
 
 Manajemen  bisnis yang baik merupakan salah satu faktor penentu keberlangsungan bisnis jangka panjang karena banyak sekali usaha-usaha potensial mengalami kegagalan karena manajemen yang kurang baik.
 
 Karena itu, memulai usaha dengan sistem franchise sangat cocok untuk pemula yang masih kebingungan bagaimana mengatur bisnis dengan baik.
 
-Oleh sebab itu, kamu harus melihat apakah franchise yang kamu beli memiliki sistem manajemen yang baik atau tidak sebelum memutuskan untuk membeli franchise bisnis tersebut.
+Oleh sebab itu, Anda harus melihat apakah franchise yang Anda beli memiliki sistem manajemen yang baik atau tidak sebelum memutuskan untuk membeli franchise bisnis tersebut.
 
 ### **2. Pemasaran Cenderung Lebih Mudah**
 
@@ -96,7 +118,9 @@ Sebagai pebisnis, anda harus memperhatikan perjanjian franchise yang akan anda j
 
 Selanjutnya. Mari kita bahas kekurangan dari memulai bisnis dengan sistem franchise
 
-## **Kekurangan Bisnis Makanan dengan Sistem Franchise**
+## **Kekurangan Sistem Franchise**
+
+Disamping keuntungan menggunakan merek terkenal melalui sistem franchise, terdapat hal yang harus diperhatikan saat memulai bisnis usaha makanan dengan sistem franchise:
 
 ### 1. Persaingan
 
@@ -115,6 +139,24 @@ Oleh sebab itu, sebagai pemilik bisnis anda harus bisa mengatur bagaimana manaje
 ### **3. Pembayaran Biaya Franchise**
 
 Semakin besar suatu brand, maka biaya franchise yang harus anda tanggung ikut meningkat pula. Karena anda kemitraan franchise harus anda perpanjang secara berkala sehingga membutuhkan biaya tambahan yang harus anda perhatikan.
+
+## Jenis-jenis Sistem Franchise
+
+Dalam mengatur hubungan antara franchisee dan franchisor dalam mendistribusikan dan menjual produk, terdapat beberapa sistem bisnis franchise. Berikut sistem franchise pada laman  International Franchise Association (IFA):
+
+1. ### Product Distribution Franchise
+
+**Product distribution franchise adalah** sistem franchise perusahaan yang mengizinkan pihak franchisee untuk menjual produknya tanpa menggunakan metode khusus.
+
+Dengan sistem franchise ini seorang franchisee dapat secara luwes menjual produknya tanpa ikatan aturan dan batasan ketat. Namun, terkadang beberapa perusahaan atau manufaktur memberikan guideline singkat untuk menjaga image brand.
+
+Pada product distribution franchise atau waralaba distribusi produk yang harus dilakukan seorang franchisor adalah menyediakan produknya. **Contoh perusahaan dengan sistem product franchise** adalah minuman Coca Cola, Pepsi, serta perusahaan mobil Ford.
+
+2. ### Business Format Franchise
+
+**Business format franchise adalah** jenis waralaba yang tidak hanya mengizinkan franchisee untuk menjual produk, layanan, dan merek dagang. Tetapi juga metode lengkap untuk menjalankan bisnis tersebut seperti rencana pemasaran dan manual operasi.
+
+**Contoh business format franchise adalah** perusahaan fast food seperti KFC, McDonalds, hingga Subway. Franchisee diharuskan membayar loyalti dan wajib mengikuti semua aturan proses serta promosi yang dijalankan secara serentak.
 
 ## **Memilih Franchise Terbaik**
 
@@ -158,57 +200,33 @@ Saat memilih franchise anda harus mempertimbangkan berapa banyak tenaga manusia 
 
 Akan tetapi masalah ini terkadang tidak sulit karena sebagian franchisor terkadang sudah menyediakan tenaga ahli yang akan ditempatkan di bisnis anda.
 
-## Istilah-istilah Penting dalam Sistem Franchise
-
-* **Franchisor**
-
-Franchisor merupakan pihak pemilik franchise yang akan menjual kemitraan kepada pihak lain guna memperluas jangkauan bisnis mereka. Franchisor berkewajiban memberikan hak-hak dari pembeli franchise seperti pemberian sistem bisnis dan produk hingga fasilitas marketing kit untuk mendukung proses bisnis. Sebagai gantinya franchisor akan mendapatkan beberapa keuntungan dari franchise fee dan royalty fee.
-
-* **Franchisee**
-
-Franchisee merupakan pihak pembeli franchise yang berhak menggunakan berbagai atribut dari franchisor untuk menjalankan bisnis. Pihak franchisee akan dirikan akses untuk menjalankan bisnis atas nama franchisor dengan membayar franchise fee dan royalty fee.
-
-* **Franchise Fee**
-
-Franchise fee adalah biaya yang harus dikeluarkan oleh franchisee sebelum memulai bisnis. Franchise fee yang harus dibayarkan beragama sesuai dengan ketentuan yang telah ditentukan oleh franchisor.
-
-Biaya ini biasanya mencakup biaya lisensi untuk penggunaan nama dan biaya penggunaan sistem bisnis selama periode waktu yang sudah disepakati di awal.
-
-Selain biaya ini, biaya lain yang harus diperhatikan adalah biaya perlengkapan, pembelian bahan baku yang biasanya juga disediakan oleh franchisor dan yang paling penting adalah biaya lokasi yang harus anda tanggung.
-
-* **Royalty Fee**
-
-Royalty fee merupakan biaya yang harus anda bayarkan saat bisnis sudah mulai beroperasi. Biaya ini sebenarnya opsional dan nilainya berbeda-beda sesuai dengan kesepakatan antara kedua belah pihak. Biaya ini biasanya dibayarkan dalam periode tertentu dalam bentuk persenan dari penjualan yang telah dilakukan.
-
-Royalty fee ini ditujukan untuk pengembangan bisnis seperti riset dan pengembangan produk baru agar memasuki target pasar yang lebih luas dan biaya pemasaran agar bisnis dapat berkembang lebih baik.
-
 **Selain itu, yuk simak suksesnya McDonalds sebagai salah satu bisnis franchise paling besar di dunia.**
 
 **{{< button link="**https://www.youtube.com/watch?v=cOPuN3jjRsM**" text="Watch This Video" >}}**
 
  **{{< youtube id="**cOPuN3jjRsM**" >}}**
 
-## **Apakah Skema Franchise Terbaik untuk Pemula?**
+## **Franchise untuk Pemula**
 
 Skema bisnis franchise bisa dibilang salah satu sistem yang cocok untuk pemula yang ingin memiliki bisnis karena sistem ini membuat proses membangun bisnis menjadi jauh lebih mudah.
 
-Hal ini menjadikan sistem franchise menjadi solusi untuk pemula yang ingin memiliki bisnis. Akan tetapi, kamu harus paham bahwa bisnis sebagus apapun tidak menjamin bisnis tersebut bisa berjalan dengan baik dan menguntungkan.
+Hal ini menjadikan sistem franchise menjadi solusi untuk pemula yang ingin memiliki bisnis. Akan tetapi, Anda harus paham bahwa bisnis sebagus apapun tidak menjamin bisnis tersebut bisa berjalan dengan baik dan menguntungkan.
 
-Karena itu kamu harus tetap mempertimbangkan potensi kerugian karena kondisi pasar yang dinamis dan sulit diprediksi. Selain itu, memulai bisnis dengan sistem franchise tetap membutuhkan modal yang cukup besar sehingga hal ini sering kali menjadi kendala bagi pemula yang ingin memiliki bisnis.
+Karena itu, Anda harus tetap mempertimbangkan potensi kerugian karena kondisi pasar yang dinamis dan sulit diprediksi. Selain itu, memulai bisnis dengan sistem franchise tetap membutuhkan modal yang cukup besar sehingga hal ini sering kali menjadi kendala bagi pemula yang ingin memiliki bisnis.
 
-## **Memiliki Franchise dengan Modal Kecil**
+## **Memiliki Franchise dengan Modal Kecil 2022**
 
-Sebagai pebisnis pemula anda harus bisa berhati-hati mengambil franchise karena tidak semua **[bisnis franchise](https://landx.id/blog/tag/bisnis-franchise/)** potensial dan bisa memberikan anda keuntungan. Semua hal ini akan kembali kepada anda sebagai pebisnis yang harus bisa mengelola bisnis dengan baik.
+Sebagai pebisnis pemula Anda harus bisa berhati-hati mengambil bisnis franchise karena tidak semua **[bisnis franchise](https://landx.id/blog/tag/bisnis-franchise/)** potensial dan bisa memberikan Anda keuntungan. Semua hal ini akan kembali kepada Anda sebagai pebisnis yang harus bisa mengelola bisnis dengan baik.
 
-Hal ini karena bisnis dalam membangun bisnis kamu butuh modal, waktu, dan pengalaman yang cukup agar bisnis dapat berjalan baik dan menghasilkan keuntungan.
+Karena dalam membangun bisnis Anda butuh modal, waktu, dan pengalaman yang cukup agar bisnis dapat berjalan baik dan menghasilkan keuntungan.
 
-Tapi apabila kamu tidak memiliki ketiga poin di atas, kamu tidak usah khawatir karena bisa memiliki berbagai bisnis potensial yang dikelola oleh profesional hanya modal 1 jutaan dengan ikut patungan bisnis di **[LandX](https://landx.id/)**
+Apabila Anda masih kekurangan terhadap tiga poin di atas, tidak perlu khawatir karena Anda masih bisa memiliki berbagai bisnis potensial yang dikelola oleh profesional hanya modal 1 jutaan melalui ikut patungan bisnis di **[LandX](https://landx.id/).**
 
-Bareng LandX kamu bisa ikut patungan membangun berbagai bisnis potensial yang nantinya akan dikelola profesional hanya dengan 1 juta. Setelah ikut patungan, kamu nanti bisa menikmati dividen dari bagi hasil keuntungan yang didapatkan oleh bisnis tersebut.
+Bareng LandX Anda bisa ikut patungan membangun berbagai bisnis potensial yang nantinya akan dikelola oleh profesional hanya dengan 1 juta. Setelah ikut patungan, Anda nanti bisa menikmati dividen dari bagi hasil keuntungan yang didapatkan oleh bisnis tersebut.
 
 Karena itu...
 
-## [Yuk Patungan Bisnis Menguntungkan Bareng LandX](https://landx.id/project/)
+## [Yuk Patungan Bisnis Potensial Bareng LandX](https://landx.id/project/)
 
 [![Equity crowdfunding merupakan salah satu instrumen investasi dengan potensi keuntungan menjanjikan untuk pemula yang mau berinvestasi](https://accountgram-production.sfo2.cdn.digitaloceanspaces.com/landx_ghost/2021/10/Equity-Crowdfunding-di-Indonesia-1--4.png)](https://landx.id/project/)
 
