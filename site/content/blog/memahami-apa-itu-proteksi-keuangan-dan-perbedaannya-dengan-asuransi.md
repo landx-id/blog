@@ -1,8 +1,8 @@
 ---
 draft: false
 author: Rafa Syawalia R
-title: Memahami Apa Itu Proteksi Keuangan dan Perbedaannya Dengan Asuransi
-metaTitle: Memahami Apa Itu Proteksi Keuangan dan Perbedaannya Dengan Asuransi
+title: Memahami Apa Itu Proteksi Keuangan dan Perbedaannya dengan Asuransi
+metaTitle: Memahami Apa Itu Proteksi Keuangan dan Perbedaannya dengan Asuransi
 metaDescription: Proteksi keuangan adalah prinsip untuk menjaga kondisi
   finansial dan mengantisipasi kerugian pengeluaran tidak terduga dalam
   manajemen keuangan.
@@ -11,8 +11,8 @@ intro: >
   cari tahu jenis dan cara proteksi keuangan untuk lindungi masa depan kamu.
 date: 2022-08-10T09:58:59.853Z
 featuredImage:
-  title: Memahami Apa Itu Proteksi Keuangan dan Perbedaannya Dengan Asuransi
-  alt: Apa Itu Proteksi Keuangan dan Perbedaannya Dengan Asuransi
+  title: Memahami Apa Itu Proteksi Keuangan dan Perbedaannya dengan Asuransi
+  alt: Apa Itu Proteksi Keuangan dan Perbedaannya dengan Asuransi
   src: https://images.unsplash.com/photo-1648120637796-9bed5eb881fc?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1374&q=80
 ---
 Dalam perencanaan terkadang kita tidak pernah mengetahui mengenai adanya kemungkinan buruk terjadi, meskipun perencanaan tersebut sudah diputuskan dengan baik. Begitu pula dalam merencanakan keuangan. 
