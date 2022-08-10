@@ -9,6 +9,13 @@ intro: Pemanfaatan aset untuk indikator profit dan laba memerlukan perhitungan
   seperti return on asset atau ROA. Hal ini dapat memperhitungkan kinerja usaha
   perusahaan dan bisa diterapkan juga oleh investor.
 date: 2022-08-09T06:13:03.075Z
+tag:
+  - Rasio Keuangan
+  - Analisis Investasi
+  - Laporan Keuangan
+category:
+  - Investasi
+  - Keuangan
 featuredImage:
   title: "Cara Menghitung ROA, Rumus ROA untuk Analisis Investasi "
   alt: "Cara Menghitung ROA, Rumus ROA untuk Analisis Investasi "
@@ -38,7 +45,7 @@ Berikut **rumus ROA**:
 
 ![rumus roa](https://cdn.discordapp.com/attachments/1003487270864703559/1006442401197457499/Red_Modern_Line_Chart_Diagram_Produt_Data_Graph.png "rumus return on asset (ROA)")
 
-### **Cara menghitung ROA**
+### **Cara Menghitung ROA**
 
 Pada tahun 2020, perusahaan A dan V merupakan perusahaan sejenis. Dikatakan sebuah perusahaan A memiliki jumlah aset secara keseluruhan bernilai Rp20.000.000 dengan nilai aset sebesar Rp120.000.000. Sedangkan perusahaan V memiliki aset sekitar Rp150.000.000 dengan laba bersih Rp50.000.000. Hitung analisis probabilitas kedua perusahaan tersebut menggunakan rumus return on asset!
 
@@ -91,3 +98,9 @@ Keuntungan yang Anda dapat berupa dividen secara rutin dan menguntungkan Anda da
 [LandX](https://landx.id/) merupakan [platform equity crowdfunding](https://landx.id/) yang telah berizin OJK an berpengalaman dalam mendanai bisnis potensial kekinian pada sektor industri seperti FnB, kebugaran, dan properti. 
 
 ## [Yuk Investasi Bisnis di LandX dengan Keuntungan Terbaik Sekarang Juga!](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)
+
+<!--StartFragment-->
+
+[![miliki bisnis modal kecil cuma dengan 1 jutaan dapat 4 cabang ](https://accountgram-production.sfo2.cdn.digitaloceanspaces.com/landx_ghost/2021/11/jadi-owner-bisnis-hanya-1-jutaan-dengan-cuan-yang-sangat-menjanjikan.png)](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)
+
+<!--EndFragment-->
