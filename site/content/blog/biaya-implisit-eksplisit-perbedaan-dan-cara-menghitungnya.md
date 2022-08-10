@@ -2,20 +2,23 @@
 draft: false
 author: Rafa Syawalia R
 title: "Biaya Implisit & Eksplisit: Perbedaan dan Cara Menghitungnya"
-metaTitle: "Biaya Implisit & Eksplisit: Perbedaan dan Cara Menghitungnya | LandX"
+metaTitle: "Biaya Implisit & Eksplisit: Perbedaan dan Cara Menghitungnya"
 metaDescription: Biaya implisit dan eksplisit adalah jenis biaya dari penggunaan
   aset perusahaan dalam menggunakan sumber daya internal perusahaan.
 intro: Biaya implisit dan eksplisit adalah jenis biaya dari penggunaan aset
   perusahaan memanfaatkan sumber daya internal dan bisa diukur dalam tujuan
   akuntansi perusahaan untuk membantu dalam membuat keputusan.
 date: 2022-08-10T07:25:26.223Z
+tag:
+  - Analisis Bisnis
+  - Bisnis Jangka Panjang
+category:
+  - Bisnis
 featuredImage:
   title: "Biaya Implisit dan Eksplisit: Perbedaan dan Cara Menghitungnya"
   alt: "Biaya Implisit & Eksplisit: Perbedaan dan Cara Menghitung biaya implisti"
   src: https://images.unsplash.com/photo-1635840420799-f75477b0b977?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1469&q=80
 ---
-
-
 Dalam kegiatan perusahaan atau bisnis, kegiatan produksi menyebabkan penyusutan pada suatu aset, dan biaya yang dikeluarkan merupakan biaya implisit. Biaya implisit adalah biaya operasional dari sumber daya perusahaan secara internal, biasanya tidak terduga dan tidak tercatat dalam arus kas laporan keuangan.
 
 Berkebalikan dengan biaya eksplisit. Biaya eksplisit adalah biaya yang dikeluarkan oleh perusahaan atau organisasi selama proses berlangsung. Biasanya proses ini terjadi pada perusahaan dan mengeluarkan biaya supaya produksi perusahaan tersebut lancar.
@@ -109,3 +112,9 @@ Melalui skema [equity crowdfunding](https://landx.id/), kamu bisa memiliki bisni
 [LandX](https://landx.id/) merupakan platform [equity crowdfunding](https://landx.id/) yang berpengalaman mendanai bisnis-bisnis dengan keuntungan terbaik dan telah berizin oleh Otoritas Jasa Keuangan sehingga kegiatan investasi kamu lebih aman.
 
 ## [Yuk, Investasi Bisnis Menguntungkan Lewat LandX Sekarang Juga!](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)
+
+<!--StartFragment-->
+
+[![miliki bisnis modal kecil cuma dengan 1 jutaan dapat 4 cabang ](https://accountgram-production.sfo2.cdn.digitaloceanspaces.com/landx_ghost/2021/11/jadi-owner-bisnis-hanya-1-jutaan-dengan-cuan-yang-sangat-menjanjikan.png)](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)
+
+<!--EndFragment-->
