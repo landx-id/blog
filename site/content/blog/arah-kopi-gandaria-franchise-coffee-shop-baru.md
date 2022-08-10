@@ -13,7 +13,7 @@ date: 2022-07-22T06:48:29.063Z
 tag:
   - Franchise Fnb
   - ARKO
-  - Bisnis FnBq
+  - Bisnis FnB
   - Franchise Minuman
   - Bisnis Makanan
 category:
