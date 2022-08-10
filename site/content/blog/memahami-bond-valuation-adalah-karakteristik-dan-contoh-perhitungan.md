@@ -9,6 +9,12 @@ intro: Valuation bonds atau penilaian obligasi merupakan teknik untuk menentukan
   nilai intrinsik suatu obligasi dengan cara menghitung nilai sekarang dari
   pembayaran bunga obligasi di masa depan.
 date: 2022-08-03T06:49:30.826Z
+tag:
+  - Obligasi
+  - Strategi Investasi
+  - Instrumen Investasi
+category:
+  - Investasi
 featuredImage:
   title: "Memahami Bond Valuation Adalah: Karakteristik dan Contoh Perhitungan"
   alt: Bond Valuation Adalah, Karakteristik dan Contoh Perhitungan
@@ -82,9 +88,7 @@ Contoh:
 
 Suatu perusahaan A menerbitkan obligasi dengan jangka waktu jatuh tempo 10 tahun dengan nominal Rp1.000.000 dan kupon dibayarkan tiap tahun Rp80.000. Diketahui suku bunga di pasar sama dengan coupon rate 8%. Hitung nilai obligasinya!
 
-![](https://lh4.googleusercontent.com/mdCZ_GKQQI1i1Dvdk7DswV42dmzTt-1_O_ElLSTckTm5e2opKLtyD1nYPf2b1u6hiCe_-v_crrX2FY1f5w9P5z8Ow2DBsgumGArqTcqbNF50o30tLQ8AG9qj3TEZ8Ebf-mq7p4dFUJrJzL61sTekLMs)
-
-
+![Cara perhitungan dan penilaian obligasi](https://lh4.googleusercontent.com/mdCZ_GKQQI1i1Dvdk7DswV42dmzTt-1_O_ElLSTckTm5e2opKLtyD1nYPf2b1u6hiCe_-v_crrX2FY1f5w9P5z8Ow2DBsgumGArqTcqbNF50o30tLQ8AG9qj3TEZ8Ebf-mq7p4dFUJrJzL61sTekLMs "cara menghitung penilaian obligasi")
 
 Keterangan rumus nilai sekarang dari nominal obligasi:
 
@@ -95,17 +99,15 @@ Keterangan rumus nilai sekarang dari nominal obligasi:
 
 Rumus diatas digunakan ketika mencari nilai sekarang dari nominal obligasi dengan cara perhitungan obligasi adalah sebagai berikut:![](https://lh6.googleusercontent.com/Rpp7sxlzXM-P_inyFGWgw9q-ZHzwvZ1_T-Cnr7RGlYuGAiVhDL3U_OC3J37oVqiS3mcOtW4m6rg6D6u6-YAeLO2jP27hO2Wdc-m6ffuVRcZVTp2QC9H9x7QUlhfRqq0qjaNqzZgoh4M-MmR1-fblOy0)
 
-![](https://lh6.googleusercontent.com/g6dUNuhieHwL-1135iWgmqYPJqEaT7l1zE5kwI353hKJkbE27hruZnUmwDDJR1dtep420aTZJYqmie2M9ymxL_VOVOU-xe5FTCNoKLYuxEVVPZNp3IgC8FNdzEt9yWRJNA7nXgZ0tNsISaIq1fRlS40)
+![Cara menghitung penilaian obligasi](https://lh6.googleusercontent.com/g6dUNuhieHwL-1135iWgmqYPJqEaT7l1zE5kwI353hKJkbE27hruZnUmwDDJR1dtep420aTZJYqmie2M9ymxL_VOVOU-xe5FTCNoKLYuxEVVPZNp3IgC8FNdzEt9yWRJNA7nXgZ0tNsISaIq1fRlS40 "menghitung nilai obligasi")
 
 Setelah menemukan present value, kemudian menghitung present value of annuity (PVA) untuk menghitung berapa jumlah uang yang dibutuhkan untuk membuat serangkaian pembayaran di masa depan.
 
 Berikut perhitungan nilai anuitas dari contoh soal sebelumnya:
 
-![](https://lh3.googleusercontent.com/ytM6p2Df8aqZtwHkD5kBfu2LU7MqqjcZTaSKBWmPYc03m9UHc-3TJPdlkhHkH68oXAqzU2qNnrucXDFIdCINcr3gw2l-lxIt-pb7MUqVZkaentM-XjTZBQKorRCRERX7rQC7dY7gij2_Wlq7D3Av93M)
+![perhitungan nilai obligasi ](https://lh3.googleusercontent.com/ytM6p2Df8aqZtwHkD5kBfu2LU7MqqjcZTaSKBWmPYc03m9UHc-3TJPdlkhHkH68oXAqzU2qNnrucXDFIdCINcr3gw2l-lxIt-pb7MUqVZkaentM-XjTZBQKorRCRERX7rQC7dY7gij2_Wlq7D3Av93M "rumus menghitung nilai obligasi ")
 
 Nilai obligasi = Rp463.190 + Rp536.810 = Rp1.000.000
-
-
 
 Dapat disimpulkan, jika suatu suku bunga di pasar sama dengan coupon rate, maka nilai obligasi sama dengan nilai nominal. Demikian juga jika suku bunga di pasar lebih tinggi dari coupon rate maka nilai obligasi akan lebih rendah dari nilai nominal. 
 
@@ -115,16 +117,14 @@ Nilai sekarang dari nominal obligasi = 1.000.000/(1.10)9 = 1.000.000/2.3579 = 42
 
 Nilai sekarang anuitas dari kupon obligasi:
 
-![](https://lh5.googleusercontent.com/aBKlSDyU8dlsfosP_xnEDrbJt7-CBr8d7163KYsQFCCgGeW2_fqdUgLYeslTD71Zj6apddkM_tJwz4Wv-6Xc7h73qK5-k9af7tWfLRE6nxkkW6_54nUcHVr-AZxioUWDvC2xirH9DbyoAqjxhdefbVU)
+![rumus perhitungan nilai obligasi](https://lh5.googleusercontent.com/aBKlSDyU8dlsfosP_xnEDrbJt7-CBr8d7163KYsQFCCgGeW2_fqdUgLYeslTD71Zj6apddkM_tJwz4Wv-6Xc7h73qK5-k9af7tWfLRE6nxkkW6_54nUcHVr-AZxioUWDvC2xirH9DbyoAqjxhdefbVU "cara perhitungan nilai obligasi")
 
 Maka nilai obligasi = 424.100 + 460.720 = Rp884.820
 
 Dengan kata lain **rumus umum nilai obligasi** adalah:![](https://lh4.googleusercontent.com/dK7NDDkkXPGz99jyps07cOx3Ou_QSTwHrOAN7dwH7E7lpVlo9hh63MSHIJ65Zb8TUSm5wmoumNsx6XWGIIsnHC0NgDd3H67sMLDbROgrJK8F3Q19jEa0uBeZe9Fp2exmcCeq374H3EWfiyiaYSnLoDs)Dengan mengetahui besar dan waktu pembayaran kupon, nilai par serta tingkat bunga disyaratkan, maka perhitungan obligasi adalah melihat nilai atau harga obligasi yang bisa ditentukan dengan cara:
 
 1. Menentukan nilai sekarang dari pendapatan kupon yang diperoleh setiap tahun.
-
 2. Menentukan nilai sekarang dari nilai par yang akan diperoleh saat obligasi jatuh tempo.
-
 3. Menjumlahkan nilai sekarang dari pendapatan kupon dan nilai par.
 
 Obligasi merupakan bagian penting dari pasar modal. Oleh karena itu, penilaian obligasi digunakan investor dan analis untuk menentukan nilai intrinsik atau nilai teoritis yang dihasilkan dari estimasi nilai sekarang dari semua aliran kas obligasi di masa depan.
@@ -144,3 +144,9 @@ Melalui skema [equity crowdfunding](https://landx.id/), Anda bersama masyarakat 
 Jadi tunggu apalagi…
 
 ## [Yuk Investasi Bisnis Jangka Panjang dengan Modal Kecil Sekarang Lewat LandX!](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)
+
+<!--StartFragment-->
+
+[![miliki bisnis modal kecil cuma dengan 1 jutaan dapat 4 cabang ](https://accountgram-production.sfo2.cdn.digitaloceanspaces.com/landx_ghost/2021/11/jadi-owner-bisnis-hanya-1-jutaan-dengan-cuan-yang-sangat-menjanjikan.png)](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)
+
+<!--EndFragment-->
