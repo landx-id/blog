@@ -10,6 +10,10 @@ intro: >
   Sebagai financial planner perlu juga untuk memproteksi keuangan sendiri. Yuk,
   cari tahu jenis dan cara proteksi keuangan untuk lindungi masa depan kamu.
 date: 2022-08-10T09:58:59.853Z
+tag:
+  - Pengelolaan Keuangan
+category:
+  - Investasi
 featuredImage:
   title: Memahami Apa Itu Proteksi Keuangan dan Perbedaannya dengan Asuransi
   alt: Apa Itu Proteksi Keuangan dan Perbedaannya dengan Asuransi
@@ -100,3 +104,9 @@ Jika Anda ingin berinvestasi minim risiko, maka skema equity crowdfunding cocok 
 Dari bisnis yang Anda danai, Anda akan berpotensi mendapatkan keuntungan berupa dividen secara rutin sesuai performa bisnis. Tentunya melalui aplikasi [equity crowdfunding](https://landx.id/) yang berpengalaman mendanai bisnis-bisnis dengan keuntungan terbaik dan telah diawasi oleh Otoritas Jasa Keuangan seperti [LandX](https://landx.id/). 
 
 ## [Yuk, Jadi Investor Bisnis Terbaik untuk Mewujudkan Kebebasan Finansial Kamu lewat LandX Sekarang Juga!](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)
+
+<!--StartFragment-->
+
+[![miliki bisnis modal kecil cuma dengan 1 jutaan dapat 4 cabang ](https://accountgram-production.sfo2.cdn.digitaloceanspaces.com/landx_ghost/2021/11/jadi-owner-bisnis-hanya-1-jutaan-dengan-cuan-yang-sangat-menjanjikan.png)](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)
+
+<!--EndFragment-->
