@@ -2,19 +2,20 @@
 draft: false
 author: Abdul Wahhab
 slug: apa-itu-ritel-mengenal-pengertian-sistem-jenis-dan-potensi-bisnis-ritel-di-indonesia
-title: Apa Itu Ritel? Pengertian, Sistem, Jenis, dan Potensi Bisnis Ritel
+title: "Bisnis Retail Adalah: Pengertian Apa Itu Bisnis Ritel dan Potensinya"
 metaTitle: Apa Itu Ritel? Pengertian, Sistem, Jenis, dan Potensi Bisnis Ritel
-metaDescription: Bisnis retail adalah pihak yang menghubungkan antara produsen
-  dan konsumen dengan menjual dalam harga yang lebih tinggi
+metaDescription: Apa itu bisnis ritel adalah pihak yang menengahi penjualan
+  produk dari produsen ke konsumen dengan harga yang lebih tinggi. Simak potensi
+  bisnisnya!
 intro: >-
-  Bisnis ritel bisa dibilang bisnis dengan cakupan pasar yang sangat luas karena
-  target pasarnya luas yaitu konsumen akhir dalam rantai pasok.Karena itu,
+  Apa itu bisnis ritel adalah bisnis dengan cakupan pasar yang sangat luas.
+  Target bisnis ritel adalah konsumen akhir dalam rantai pasok. Karena itu,
   bisnis ini menjadi salah satu bisnis yang sangat potensial dan menguntungkan
   dalam jangka panjang.
 
 
   Supaya lebih paham tentang sistem retailing dalam bisnis ritel, yuk kita bahas lebih lanjut seluk beluk bisnis ritel dan bagaimana cara jadi pemilik bisnis ritel cuma modal 1 juta.
-date: 2021-10-29T07:20:15.000Z
+date: 2022-08-10T04:08:56.088Z
 tag:
   - bisnis ritel
   - retail
@@ -24,18 +25,16 @@ tag:
 featuredImage:
   src: https://images.unsplash.com/photo-1522684462852-01b24e76b77d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxMTc3M3wwfDF8c2VhcmNofDJ8fHJldGFpbHxlbnwwfHx8fDE2NDAxNDE5MjY&ixlib=rb-1.2.1&q=80&w=1080
   alt: Ritel adalah dan jenis-jenis ritel yang bisa jadi ide bisnis kamu
-  title: Mengenal berbagai jenis ritel dan cara jadi pemilik bisnis ritel
+  title: Mengenal apa itu berbagai jenis ritel dan cara jadi pemilik bisnis ritel
 image: https://images.unsplash.com/photo-1522684462852-01b24e76b77d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxMTc3M3wwfDF8c2VhcmNofDJ8fHJldGFpbHxlbnwwfHx8fDE2NDAxNDE5MjY&ixlib=rb-1.2.1&q=80&w=1080
 category:
   - Bisnis
 ---
-Berbicara soal ritel atau *retail* kamu tentu saja sering mendengar istilah ini karena bisnis ritel adalah bisnis yang sangat dekat dengan kehidupan sehari-hari kita.
+Berbicara soal apa itu bisnis ritel atau *retail* kamu tentu saja sering mendengar istilah ini. Bisnis retail adalah sistem berbisnis yang sangat dekat dengan kehidupan sehari-hari kita.
 
-Dalam kehidupan sehari-hari, kita pasti sering sekali bergantung dengan berbagai produk dari berbagai bisnis ritel karena *retail* atau pengecer adalah pihak yang berkaitan dengan konsumen akhir.
+Toko retail adalah tempat banyak orang berbelanja untuk memenuhi kebutuhan sehari-harinya. Karena bisnis ritel adalah tempat yang menjual berbagai produk dari berbagai brand, *retail* atau pengecer atau bisnis retail adalah pihak yang transaksinya berhubungan erat den dengan konsumen akhir.
 
-Bisnis ritel bisa dibilang bisnis dengan cakupan pasar yang sangat luas karena target pasarnya luas yaitu konsumen akhir dalam rantai pasok.
-
-Karena itu, bisnis ini menjadi salah satu bisnis yang sangat potensial dan menguntungkan dalam jangka panjang.
+Dengan cakupan pasar luas, target utama bisnis retail adalah konsumen akhir dalam rantai pasok. Karena itu, bisnis ritel adalah salah satu bisnis yang sangat potensial dan menguntungkan dalam jangka panjang.
 
 Supaya lebih paham tentang sistem retailing dalam bisnis ritel, yuk kita bahas lebih lanjut seluk beluk bisnis ritel dan bagaimana potensi jangka panjang dari bisnis *retail* di Indonesia.
 
@@ -45,7 +44,7 @@ Supaya lebih paham tentang sistem retailing dalam bisnis ritel, yuk kita bahas l
 
 Ritel atau *retail* adalah bagian akhir dari rantai suplai suatu produk, dimana ritel adalah kegiatan pemasaran suatu barang atau jasa kepada konsumen akhir yang akan menggunakan produk tersebut.
 
-Dengan kata lain ritel adalah bisnis yang berkaitan dengan produk-produk yang akan dipakai langsung oleh pembelinya dan tidak akan dijual kembali.
+Dengan kata lain retail adalah bisnis yang berkaitan dengan produk-produk yang akan dipakai langsung oleh pembelinya dan tidak akan dijual kembali.
 
 Retail menjadi yang sangat penting dalam rantai suplai karena bisnis retail membantu konsumen menemukan produk yang kita butuhkan. Karena itu retail memiliki peranan penting dalam kegiatan ekonomi terutama di dalam tahap konsumsi.
 
@@ -53,17 +52,19 @@ Apabila tidak ada ritel, kamu tentu bisa membayangkan betapa sulitnya kita menem
 
 Karena itu, bisnis *retail* juga disebut sebagai pengecer karena membantu konsumen akhir untuk mendapatkan produk secara satuan sehingga mereka menjadi pihak menjembatani antara produsen dan konsumen.
 
-## Sistem Bisnis Ritel
+## Apa Itu Retailer?
 
-Pada dasarnya ritel merupakan pihak yang membeli/ menampung barang dari produsen dan menjualnya secara eceran/ satuan kepada konsumen akhir.
+Dari sistem bisnis retail, terdapat pihak retail. Apa itu retailer adalah pihak yang menjual produk secara eceran dari tangan produsen utama ke konsumen akhir. 
 
-Dalam bisnis ritel, keuntungan didapatkan dari penjualan produk dengan harga satuan yang lebih tinggi dari harga beli dari produsen yang lebih murah karena dalam jumlah besar.
+Pada dasarnya retailer atau retail adalah pihak yang membeli/ menampung barang dari produsen dan menjualnya secara eceran/ satuan kepada konsumen akhir.
+
+Dalam bisnis ritel, pendapatan yang didapatkan peritel adalah keuntungan dari penjualan produk dengan harga satuan yang lebih tinggi dari harga beli dari produsen yang lebih murah karena dalam jumlah besar.
 
 Selain *breaking bulk*, bisnis *retail* juga mempermudah konsumen mendapatkan berbagai produk konsumsi karena akses produk menjadi lebih. Kamu bisa bayangkan berapa banyak produsen yang harus kita datangi hanya untuk membeli kebutuhan sehari-hari kita.
 
-Karena itu ritel menjadi bagian terdepan dan proses paling akhir dari kegiatan ekonomi yaitu konsumsi.
+Karena itu perusahaan retail adalah salah satu bagian terdepan dan proses paling akhir dari kegiatan ekonomi yaitu konsumsi.
 
-## Peran Penting Ritel
+## Peran Penting Ritel Bagi Perekonomian
 
 Selain berperan sebagai perantara bagi produsen dengan konsumen, *retail industry* juga memiliki berbagai peran penting lain dalam kegiatan ekonomi, berikut beberapa peran ritel:
 
@@ -74,11 +75,11 @@ Selain berperan sebagai perantara bagi produsen dengan konsumen, *retail industr
 
 ## Jenis-jenis Ritel dan Contohnya
 
-Bisnis ritel memiliki beberapa kategori berbeda yang dipisahkan berdasarkan beberapa faktor, berikut beberapa jenis ritel dan contohnya:
+Bisnis ritel memiliki beberapa kategori berbeda yang dipisahkan berdasarkan faktor-faktornya. Beberapa jenis ritel adalah sebagai berikut:
 
 ### 1. Berdasarkan produk yang dijual
 
-Secara umum, jenis ritel dibagi ke dalam dua kategori berdasarkan produk yang mereka jual yaitu *product* dan *service* retailing.
+Secara umum, pembagian jenis retail adalah ke dalam dua kategori berdasarkan produk yang mereka jual yaitu *product* dan *service* retailing.
 
 *Product retailing* merupakan retail yang melakukan pengenceran terhadap berbagai jenis barang yang telah diproduksi oleh produsen. Ritel ini bisa dalam berbagai bentuk seperti department store, speciality store yang menjual eceran produk tertentu, serta ritel yang fokus menjual makanan dan obat.
 
