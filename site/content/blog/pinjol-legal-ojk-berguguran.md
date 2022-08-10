@@ -2,15 +2,14 @@
 draft: false
 author: Vlora Riyandi
 slug: pinjol-legal-ojk-berguguran
-title: Pinjol Legal Berguguran, Penyebab, dan Tips Agar Tergoda Pinjol Ilegal
+title: "Pinjol Legal OJK Berguguran: Penyebab dan Tips Terhindar Pinjol Ilegal"
 metaTitle: Pinjol Legal Berguguran, Penyebab, dan Tips Agar Tergoda Pinjol Ilegal
-metaDescription: Layanan pinjaman online atau pinjol legal ojk kini banyak
-  berguguran, bagaimana cara mengenal pinjol yang legal
-intro: Update dari Otoritas Jasa Keuangan (OJK) pada 2 November lalu,
-  mengungkapkan data penyelenggara fintech lending atau penyedia layanan
-  pinjaman online yang berizin dan diawasi OJK terdaftar 104 perusahan. Jumlah
-  ini menyusut dari data yang pernah dirilis OJK pada awal tahun 2021 yakni
-  sejumlah 149 penyelenggara pinjol legal.
+metaDescription: "Layanan pinjaman online atau pinjol legal OJK kini banyak
+  berguguran, ini dia tips terhindar dari pinjol ilegal! "
+intro: Pada 2 November 2021, OJK mempublikasikan hanya ada 104 perusahaan
+  fintech lending atau penyedia layanan pinjaman online legal OJK. Jumlah ini
+  menyusut dari data yang pernah dirilis OJK pada awal tahun 2021 yakni sejumlah
+  149 penyelenggara pinjol legal.
 date: 2021-11-25T13:19:40.000Z
 tag:
   - Fintech
@@ -25,7 +24,7 @@ image: https://accountgram-production.sfo2.cdn.digitaloceanspaces.com/landx_ghos
 category:
   - Investasi
 ---
-**Layanan pinjaman online,** fintech lending atau P2P lending telah menjadi isu beberapa tahun belakang ini.
+Layanan pinjaman online berizin atau pinjol legal OJK yang dikenal sebagai fintech lending atau P2P lending sedang dihadapkan dengan isu beberapa tahun belakang ini.
 
 Dari kasus teriakan pinjaman online ilegal dan sikap mengerikan para *debt collectornya*, hingga baru-baru ini pinjaman online legal juga terkena dampaknya. Aturan yang diterapkan pemerintah pada penyelenggara pinjaman *online* di Indonesia membuat jumlah usaha layanan * **fintech lending***  menurun.
 
