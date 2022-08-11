@@ -2,16 +2,16 @@
 draft: false
 author: Vlora Riyandi
 slug: cara-jeff-bezos-kelola-amazon-dan-jadi-miliarder-dunia-pentingnya-mulai-berinvestasi
-title: Cara Miliarder Jeff Bezos Investasi dan Memulai Bisnis
-metaTitle: Cara Miliarder Jeff Bezos Investasi dan Memulai Bisnis
-metaDescription: Yuk simak cara Jeff Bezos berinvestasi dan berbagai bisnis yang
-  dibangun oleh Jeff Bezos
-intro: Pemegang saham terbesar sekaligus founder dari ecommerce super Amazon,
-  Jeff Bezos mengawali situs _retail online_nya tersebut dengan menjual buku
-  pada tahun 1994. Memiliki ambisi besar, Bezos sebenarnya sudah memiliki
-  keinginan untuk menjadikan Amazon sebagai situs penyedia segalanya atau “an
-  everything store”
-date: 2021-12-03T16:11:46.000Z
+title: Cara Miliarder Jeff Bezos Investasi dan Kelola Kekayaan Bisnisnya
+metaTitle: Cara Miliarder Jeff Bezos Investasi dan Kelola Kekayaan Bisnisnya
+metaDescription: Kekayaan bersih Jeff Bezos berkisar US$171 miliar yang
+  diinvestasikan pada berbagai bisnis. Lihat cara pendiri Amazon, Jeff Bezos
+  kelola kekayaannya
+intro: Siapa itu Jeff Bezos? **Jeff Besoz adalah seorang pengusaha asal Amerika
+  dan merupakan founder dari situs jual beli online Amazon.** Ia memainkan peran
+  kunci dalam perkembangan e-commerce saat ini, dikarenakan perusahaan amazon
+  adalah situs ritel online terbesar di dunia.
+date: 2022-08-11T04:05:18.310Z
 tag:
   - Jeff Bezos
   - strategi investasi
@@ -32,7 +32,11 @@ category:
   - Bisnis
   - Investasi
 ---
+Siapa itu Jeff Bezos? **Jeff Besoz adalah seorang pengusaha asal Amerika dan merupakan founder dari situs jual beli online Amazon.** Ia memainkan peran kunci dalam perkembangan e-commerce saat ini, dikarenakan perusahaan amazon adalah situs ritel online terbesar di dunia. 
 
+Selain itu, Jeff Bezos juga memiliki minat terhadap bisnis luar angkasa dan mendirikan Blue Origin dengan harapan dapat menghadirkan layanan wisata luar angkasa. Bisnis Jeff Bezos lainnya yaitu memiliki media The Washington Post dan melalui perusahaan investasinya Bezos Expeditions, ia memiliki saham di perusahaan seperti Google, Uber, dan Airbnb.
+
+Dilansir Forbes (11/08/2022), **total kekayaan Jeff Bezos adalah $171 miliar dolar** dan menempatkannya sebagai orang terkaya sejagat dunia nomor 2 setelah Elon Musk. Yuk, cari tahu apa saja investasi dan bisnis-bisnis Jeff Bezos lainnya serta strategi bisnis Jeff Bezos yang dijalankan pada perusahaan yang dikelolanya.
 
 - - -
 
@@ -74,9 +78,9 @@ Strategi di atas adalah bagaimana mengelola sebuah bisnis yang telah berjalan ag
 
 - - -
 
-## Jeff Bezos dan Investasi
+## Kekayaan Jeff Bezos
 
-Laporan *Real Time Billionaires* Forbes (19/11), Jeff Bezos memiliki kekayaan senilai $211.7 miliar dolar Amerika dan menjadikannya sebagai orang terkaya kedua di dunia setelah **[Elon Musk](https://landx.id/blog/tag/ellon-musk/)**. Selain mengelola Amazon, kekayaannya tidak didiamkan saja melainkan ia aktif berinvestasi sehingga bisa menduduki posisi orang terkaya di dunia. Bezos mendirikan perusahaan investasi Bezos Expedition untuk mengelola semua investasi pribadi miliknya.
+Laporan *Real Time Billionaires* Forbes (11/08/2022), Jeff Bezos memiliki kekayaan senilai $171 miliar dolar Amerika dan menjadikannya sebagai orang terkaya kedua di dunia setelah **[Elon Musk](https://landx.id/blog/tag/ellon-musk/)**. Selain mengelola Amazon, kekayaannya tidak didiamkan saja melainkan ia aktif berinvestasi sehingga bisa menduduki posisi orang terkaya di dunia. Bezos mendirikan perusahaan investasi Bezos Expedition untuk mengelola semua investasi pribadi miliknya.
 
 Melalui Bezos Expedition, Jeff Bezos mengelola portofolio investasi personalnya yang tersebar di sektor teknologi, *real estate*, media, transportasi, bioteknologi, dan lainnya. Melalui perusahaan investasinya ini, Bezos juga menganalisis bisnis terbaik untuk didanai selanjutnya.
 
@@ -85,9 +89,8 @@ Melalui Bezos Expedition, Jeff Bezos mengelola portofolio investasi personalnya 
 Berikut sebagian portofolio seorang visioner dalam bidang teknologi, Jeff Bezos:
 
 * Berpartisipasi pada berbagai funding round, beberapa perusahaan ternama yang didanai ialah $150 juta pada Lookout (perusahaan cybersecurity), $85 juta pada Workday, (perusahaan software HR-use), $18 juta pada Rethink Robotics, $15 juta ke Twitter, serta berbagai perusahaan lainnya dengan kisaraan pendanaan terbentang dari $10 juta hingga $134 juta.
-
-Lewat Bezos Expedition ini juga, sebuah perusahaan rintisan Indonesia yang memodernisasi pelayanan warung, Ula mendapat kucuran dana yang nominalnya tidak disebutkan. Catatan [Crunchbase](https://www.crunchbase.com/organization/bezos-expeditions/recent_investments) menuliskan bahwa investasi terbaru miliarder ini ditaruh pada WhyLabs, sebuah perusahaan monitoring dan obeservasi berbasis AI.
-
+* Lewat Bezos Expedition ini juga, sebuah perusahaan rintisan Indonesia yang memodernisasi pelayanan warung, Ula mendapat kucuran dana dari Jeff Bezos yang nominalnya tidak disebutkan. 
+* Catatan [Crunchbase](https://www.crunchbase.com/organization/bezos-expeditions/recent_investments) menuliskan bahwa investasi terbaru miliarder ini ditaruh pada WhyLabs, sebuah perusahaan monitoring dan obeservasi berbasis AI.
 * Menguasai media dengan jadi pemilik media koran The Washington Post melalui akuisisi senilai $250 juta pada tahun 2013. Bezos juga pernah berinvestasi pada Business Insider sebesar $5 juta.
 * Aktif sebagai Angel Investor, ikut dalam funding round Airbnb (marketplace rental penginapan), Uber, juga merupakan investor awal pada Google tahun 1998 sebesari $1 juta.
 
@@ -136,7 +139,7 @@ Karena itu, jika kamu menginginkan investasi dengan risiko minim bisa mencoba pe
 
 [![miliki bisnis modal kecil cuma dengan 1 jutaan dapat 4 cabang ](https://accountgram-production.sfo2.cdn.digitaloceanspaces.com/landx_ghost/2021/11/jadi-owner-bisnis-hanya-1-jutaan-dengan-cuan-yang-sangat-menjanjikan.png)](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)
 
-**[](http://landx.id/project/)#YukPatunganBisnis**
+[](http://landx.id/project/)**\#YukPatunganBisnis**
 
 **[Jangan Lupa Follow Instagram @landx.id Untuk Berbagai Tips Investasi Menguntungkan Lainnya](https://www.instagram.com/landx.id/?utm_medium=copy_link)**
 
