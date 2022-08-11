@@ -18,6 +18,7 @@ tag:
   - Investasi untuk Pemula
   - Investasi Menguntungkan
   - memulai investasi menguntungkan
+  - Investasi Leher ke Atas
 featuredImage:
   src: https://images.unsplash.com/photo-1522211988038-6fcbb8c12c7e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxMTc3M3wwfDF8c2VhcmNofDUyfHxsZWFybmluZ3xlbnwwfHx8fDE2NDAxNTk2ODU&ixlib=rb-1.2.1&q=80&w=1080
   alt: Memahami maksud investasi leher ke atas yang harus kamu pahami
