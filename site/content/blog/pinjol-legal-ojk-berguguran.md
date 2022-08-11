@@ -28,15 +28,25 @@ Layanan pinjaman online berizin atau pinjol legal OJK yang dikenal sebagai finte
 
 Dari kasus teriakan pinjaman online ilegal dan sikap mengerikan para *debt collectornya*, hingga baru-baru ini pinjaman online legal juga terkena dampaknya. Aturan yang diterapkan pemerintah pada penyelenggara pinjaman *online* di Indonesia membuat jumlah usaha layanan * **fintech lending***  menurun.
 
-***Update* dari [Otoritas Jasa Keuangan (OJK](https://www.ojk.go.id/id/kanal/iknb/financial-technology/Pages/Penyelenggara-Fintech-Lending-Terdaftar-dan-Berizin-di-OJK-per-2-November-2021.aspx))** pada 2 November lalu, mengungkapkan data penyelenggara *fintech lending* atau penyedia layanan pinjaman *online* yang berizin dan diawasi OJK terdaftar 104 perusahan. Jumlah ini menyusut dari data yang pernah dirilis OJK pada awal tahun 2021 yakni sejumlah 149 penyelenggara pinjol legal.
+***Update* dari [Otoritas Jasa Keuangan (OJK](https://www.ojk.go.id/id/kanal/iknb/financial-technology/Pages/Penyelenggara-Fintech-Lending-Terdaftar-dan-Berizin-di-OJK-per-2-November-2021.aspx))** pada 2 November lalu, mengungkapkan data penyelenggara *fintech lending* atau penyedia layanan pinjol legal OJK terdaftar 104 perusahan. Jumlah ini menyusut dari data yang pernah dirilis OJK pada awal tahun 2021 yakni sejumlah 149 penyelenggara pinjol OJK legal.
 
 - - -
 
 - - -
+
+## Apa Itu Pinjol yang Legal?
+
+Apa itu pinjol adalah transaksi meminjam uang yang dilakukan secara online, seperti lewat aplikasi atau website. Pada dasarnya, pinjol legal OJK difasilitasi oleh Lembaga keuangan berbasis online yang disebut [Peer-to-Peer (P2P) Lending](https://landx.id/blog/p2p-lending-adalah-alternatif-investasi-ini-penjelasannya/). 
+
+P2P ini adalah pinjol legak OJK yang termasuk ke dalam Layanan Pinjam Meminjam Uang Berbasis Teknologi Informasi (LPMUBTI). Pinjol yang ada harus mengikuti ketetapan OJK dalam POJK No. 77/POJK/.01/2016.
+
+Singkatnya, pinjol legal OJK adalah transaksi antara pihak peminjam, pihak yang memberi pinjaman, dan pihak platform yang mempertemukan pihak peminjam dan pemberi pinjaman. 
+
+Pinjol legal OJK ini dilakukan tanpa harus bertemu secara langsung dan tidak harus mengajukan aset apapun sebagai jaminan.
 
 ## Kenapa Pinjol Legal OJK Bisa Gugur?
 
-**Ternyata terdapat beberapa pinjol** yang secara sukarela menggugurkan diri karena alasan pribadi. Berkemungkinan tidak lagi memiliki kemampuan melanjutkan operasionalnya.
+**Ternyata terdapat beberapa pinjol yang** **diawasi OJK** yang secara sukarela menggugurkan diri karena alasan pribadi. Berkemungkinan tidak lagi memiliki kemampuan melanjutkan operasionalnya.
 
 Juga, terdapat penyelanggara pinjol yang dicabut izinya oleh OJK. Hal ini dikarenakan penyelenggara terlambat melengkapi berkas dokumen yang diminta OJK untuk proses pemenuhan dokumen dan persyaratan usahanya.
 
