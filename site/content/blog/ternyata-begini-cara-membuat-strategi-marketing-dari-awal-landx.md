@@ -17,7 +17,8 @@ category:
   - Bisnis
   - Investasi
 featuredImage:
-  title: Yuk pahami dengan baik apa itu marketing strategi untuk bisnis jangka panjang
+  title: Memahami apa itu strategi pemasaran dan teknik marketing untuk bisnis
+    jangka panjang
   src: https://images.unsplash.com/photo-1533750349088-cd871a92f312?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80
   alt: Yuk pahami apa itu strategi pemasaran dan tujuan strategi pemasaran untuk
     bisnis jangka panjang anda
