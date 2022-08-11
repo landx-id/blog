@@ -106,13 +106,19 @@ Sedangkan marketing mix 7P dapat membantu perusahaan untuk me-review dan menentu
 
 ## Penutup
 
-Bukti penerapan strategi marketing dapat Anda lihat pada perusahaan favorit Anda yang masih beroperasi hingga hari ini. Bahkan perusahaan yang Anda senangi tersebut dapat melakukan ekspansi dengan menambah outlet baru di berbagai lokasi.
+Contoh nyata atas bukti penerapan strategi pemasaran adalah hal yang dapat Anda lihat pada perusahaan favorit Anda yang masih beroperasi dari dulu hingga hari ini. Bahkan, banyak perusahaan yang sudah berdiri puluhan tahun masih ramai konsumen tetapnya dan masih bisa menggaet konsumen baru.
 
-Seperti perusahaan yang sedang melakukan strategi ekspansi dengan berkolaborasi di [LandX. LandX](https://landx.id/) adalah [platform equity crowdfunding](https://landx.id/) yang membuat masyarakat dapat membantu bisnis melakukan ekspansi melalui kegiatan investasi. 
+Kondisi dari perusahaan tersebut membuktikan cermat dan berkelanjutannya strategi perusahaan adalah pondasi untuk kesuksesan sebuah bisnis. Salah satu upaya terbaik dalam strategi pemasaran adalah dengan melakukan ekspansi bisnis.
+
+Anda juga bisa lho mendapat keuntungan dari turut mendukung strategi pemasaran bisnis yang sesuai dengan minat Anda agar bisa melakukan ekspansi dengan menambah outlet baru di berbagai lokasi. 
+
+Bagaimanakah caranya? Tentu dengan investasi saham bisnis yang berkolaborasi dengan platform equity crowdfunding, seperti LandX. 
+
+[LandX](https://landx.id/) adalah [platform equity crowdfunding](https://landx.id/) yang membuat masyarakat dapat membantu bisnis melakukan ekspansi melalui kegiatan investasi. 
 
 Setiap bisnis atau perusahaan yang hadir di [LandX](https://landx.id/) telah terbukti melakukan poin penting marketing berupa memahami kebutuhan konsumen dengan menghadirkan produk yang dibutuhkan. 
 
-Selain produk yang dihadirkan dapat dibutuhkan dan disenangi konsumen, bisnis yang hadir di [LandX](https://landx.id/) juga berusaha menjangkau pasar (reach market) lebih banyak dengan melakukan penambahan outlet di lokasi strategis.
+Selain produk yang dihadirkan dapat dibutuhkan dan disenangi konsumen, bisnis yang hadir di [LandX](https://landx.id/) juga berusaha menjangkau pasar(*reach market*) lebih banyak dengan melakukan penambahan outlet di lokasi strategis.
 
 Setiap outlet baru yang akan dibuka pemilik bisnis di [LandX](https://landx.id/), juga dapat dimiliki setiap masyarakat Indonesia. Caranya dengan membeli kepemilikan saham yang ditawarkan melalui aplikasi [LandX](https://landx.id/). Dengan modal minim, kamu dapat memiliki ownership perusahaan sekaligus menjadi investor yang terima keuntungan rutin.
 
