@@ -1,7 +1,7 @@
 ---
 author: Vlora Riyandi
 title: "Strategi Pemasaran Adalah: Apa Itu Marketing dan Cara Menyusunnya"
-metaTitle: "Strategi Pemasaran Adalah: Apa Itu Marketing dan Cara Menyusunnya"
+metaTitle: "Strategi Pemasaran Adalah: Cara Membuat Strategi Marketing"
 metaDescription: "Strategi pemasaran adalah teknik marketing agar penjualan
   produk perusahaan dapat dimaksimalkan. Pahami cara membuat strategi marketing
   yuk! "
@@ -45,13 +45,13 @@ Strategi pemasaran (strategi marketing) mencakup dari awal pemilik bisnis menent
 
 Dengan strategi pemasaran, Anda dapat menentukan bagaimana perusahaan memposisikan dirinya di pasar. Termasuk menentukan jenis produk yang akan didistribusikan, mitra strategis yang perlu dijalin, dan strategi jenis promosi dan iklan digital yang perlu dilakukan.
 
-Memiliki rencana strategi marketing sangat penting untuk keberhasilan bisnis jenis apa pun. Strategi marketing sangat penting terutama disaat pembentukan awal bisnis agar dapat bertahan jangka panjang. 
+Memiliki rencana strategi marketing adalah hal yang sangat penting untuk keberhasilan bisnis jenis apa pun. Karena strategi marketing adalah pondasi penting terutama di saat pembentukan awal bisnis, strategi ini adalah penentu apakah sebuah bisnis dapat bertahan jangka panjang atau tidak.
 
 Baca terus untuk mempelajari cara membuat strategi marketing bagi perusahaan Anda.
 
 ## Cara Membuat Strategi Pemasaran dengan Teknik Marketing Mix
 
-Mari mengingat kembali konsep awal untuk dapat merumuskan strategi marketing, yaitu **memahami tujuan perusahaan, target konsumen, serta apa yang membuat produk Anda spesial.**
+Konsep awal untuk dapat merumuskan strategi pemasaran adalah **memahami tujuan perusahaan, target konsumen, serta apa yang membuat produk Anda spesial.**
 
 Ada banyak strategi pemasaran yang mencakup kegiatan promosi langsung kepada konsumen secara offline maupun online melalui digital marketing. Strategi pemasaran paling populer yang dapat diterapkan pada pengembangan awal bisnis yaitu marketing mix.
 
@@ -69,8 +69,8 @@ Variabel marketing mix jenis produk berbicara mengenai cara memuaskan konsumen d
 
 Ada beberapa pendekatan untuk Anda menentukan harga produk atau layanan yang ditawarkan. 
 
-* Strategi pemasaran cost-plus pricing, berupa penetapan harga jual yang telah ditambah persentase laba yang diharapkan. 
-* Strategi pemasaran consumer-led pricing yaitu penetapan harga produk berdasar nilai yang dianggap adil oleh suatu basis konsumen. Contoh: harga diwaktu peak season (weekend/liburan) bersedia dibayar mahal dan dianggap normal oleh konsumen dibanding hari biasa.
+* Cost-plus pricing, berupa strategi pemasaran penetapan harga jual yang telah ditambah persentase laba yang diharapkan. 
+* Strategi pemasaran consumer-led pricing yaitu penetapan harga produk berdasar nilai yang dianggap adil oleh suatu basis konsumen. Contoh strategi pemasaran adalah: harga diwaktu peak season (weekend/liburan) bersedia dibayar mahal dan dianggap normal oleh konsumen dibanding hari biasa.
 * Strategi pemasaran competitve pricing adalah menetapkan harga produk yang kompetitif terhadap pesaing.
 * Strategy pemasaran penetration pricing dapat diterapkan ketika Anda ingin meraih market share di target lokasi pasar baru dengan menawarkan harga yang rendah. Kemudian secara perlahan menaikkan harga menjadi normal.
 * Strategi pemasaran skimming pricing yaitu kebalikan dari penetration pricing. Skimming pricing adalah penetapan harga produk di awal dengan harga tinggi. Kemudian secara perlahan harga turun karena life-cycle produk yang berkurang seiring waktu.\
@@ -80,7 +80,7 @@ Ada beberapa pendekatan untuk Anda menentukan harga produk atau layanan yang dit
 
 ### 3. Promotion – which channels you use to tell customers about your product 
 
-Channel promosi adalah bagaimana target konsumen dapat menemukan produk Anda. Melakukan promosi kegiatan iklan di TV/radio, atau secara online melalui fitur iklan Google, fitur iklan konten di media sosial (YouTube, FaceBook, TikTok, WhatsApp, Instagram). 
+Channel promosi dalam strategi pemasaran adalah bagaimana target konsumen dapat menemukan produk Anda. Melakukan promosi kegiatan iklan di TV/radio, atau secara online melalui fitur iklan Google, fitur iklan konten di media sosial (YouTube, FaceBook, TikTok, WhatsApp, Instagram). 
 
 Anda juga dapat menjalin relasi dengan kolaborasi dan promosi di podcast atau YouTube KOL(contoh: influencer), sponsorship sebuah kegiatan untuk mendapat exposure, direct mail dan lainnya.
 
@@ -90,15 +90,15 @@ Dengan produk yang Anda tawarkan, akan cocok promosi di mana? Terdapat berbagai 
 
 ### 5. People – individuals who help sell your product to customers 
 
-People adalah orang-orang yang terlibat kegiatan penjualan produk kepada konsumen. Mereka dapat dimulai dari seluruh elemen karyawan perusahaan Anda, sehingga perlakukanlah tim Anda dengan baik.
+Pihak vital dalam strategi pemasaran adalah people atau orang-orang yang terlibat kegiatan penjualan produk kepada konsumen. Mereka dapat dimulai dari seluruh elemen karyawan perusahaan Anda, sehingga perlakukanlah tim Anda dengan baik.
 
 ### 6. Packaging – how you present your product to the customer 
 
-Packaging dalam marketing mix adalah bentuk nyata (physical evidence) yang dapat dilihat oleh konsumen. Packaging dapat berupa kemasan produk, tanda terima kwitansi, toko atau kantor perusahaan Anda, atau situs website dan logo bisnis.
+Packaging dalam strategi pemasaran adalah bentuk nyata (physical evidence) yang dapat dilihat oleh konsumen. Packaging dapat berupa kemasan produk, tanda terima kwitansi, toko atau kantor perusahaan Anda, atau situs website dan logo bisnis.
 
 ### 7. Process – how you deliver your product to customers
 
-Proses mencakup kegiatan distribusi produk hingga sampai ke tangan konsumen. Merancang alur distribusi dan mekanisme pengiriman yang aman dengan quality assurance dan quality management.
+Komponen selanjutnya dalam strategi pemasaran adalah proses mencakup kegiatan distribusi produk hingga sampai ke tangan konsumen. Merancang alur distribusi dan mekanisme pengiriman yang aman dengan quality assurance dan quality management.
 
 Sejatinya terdapat 2 jenis marketing mix yaitu 7P dan 4P. Marketing mix 4P lebih didesain untuk strategi pemasaran produk, namun tidak fleksibel pada bisnis yang menawarkan service. 
 
