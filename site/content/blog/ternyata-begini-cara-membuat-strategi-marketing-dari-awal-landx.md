@@ -1,12 +1,14 @@
 ---
 author: Vlora Riyandi
-title: Yuk Pahami Pengertian dan Cara Menyusun Strategi Pemasaran
-metaTitle: Pahami Apa Itu Strategi Marketing dan Cara Menyusunnya untuk Bisnis
-metaDescription: Yuk pahami apa itu strategi pemasaran dan kenapa strategi
-  pemasaran atau marketing sangat penting untuk bisnis
-intro: "Yuk pahami apa itu strategi pemasaran dan strategi promosi yang
-  meruipakan bagian penting yang anda pikirkan saat membangun bisnis. "
-date: 2022-05-10T10:42:50.084Z
+title: "Strategi Pemasaran Adalah: Apa Itu Marketing dan Cara Menyusunnya"
+metaTitle: "Strategi Pemasaran Adalah: Apa Itu Marketing dan Cara Menyusunnya"
+metaDescription: "Strategi pemasaran adalah teknik marketing agar penjualan
+  produk perusahaan dapat dimaksimalkan. Pahami cara membuat strategi marketing
+  yuk! "
+intro: Strategi pemasaran adalah teknik marketing agar penjualan produk
+  perusahaan dapat dimaksimalkan. Pahami cara membuat strategi marketing dan
+  tips terbaik tentang teknis marketing untuk jalannya bisnis berkelanjutan.
+date: 2022-08-11T08:26:57.846Z
 tag:
   - Manajemen Bisnis
   - Bisnis Jangka Panjang
@@ -20,21 +22,21 @@ featuredImage:
   alt: Yuk pahami apa itu strategi pemasaran dan tujuan strategi pemasaran untuk
     bisnis jangka panjang anda
 ---
-Setiap perusahaan perlu memasarkan produk dan layanannya untuk dapat menjualnya, kegiatan inilah disebut sebagai pemasaran. 
+Setiap perusahaan perlu punya strategi pemasaran agar produk atau layanan yang ditawarkan pada konsumen dapat mencapai target penjualan yang baik.
 
 Strategi pemasaran adalah rencana yang dibuat oleh perusahaan untuk memasarkan produk dan jasa. Ini adalah rencana yang dibuat oleh perusahaan untuk memasarkan produk dan layanan mereka.
 
 Dalam artikel ini, [LandX](https://landx.id/) akan bahan strategi marketing apa yang dapat dilakukan oleh bisnis kecil dan dapat diterapkan jangka panjang. Namun, sebelumnya yuk pahami dulu apa itu marketing. 
 
-## Apa Itu Marketing
+## Apa Itu Marketing?
 
-Marketing adalah kegiatan menghubungkan perusahaan dengan pelanggan potensial lalu menghubungkannya ke produk Anda. Marketing akan mengharuskan Anda memahami kebutuhan pelanggan, menerjemahkan kebutuhan tersebut ke dalam produk dan layanan.
+Apa itu marketing atau strategi marketing adalah kegiatan menghubungkan perusahaan dengan pelanggan potensial lalu menghubungkannya ke produk Anda. Strategi marketing yang baik akan mengharuskan Anda memahami kebutuhan pelanggan, lalu menerjemahkan kebutuhan tersebut ke dalam produk dan layanan.
 
 Dengan strategi marketing juga konsep pengemasan dan penetapan harga produk dapat dilakukan agar dapat mengundang konsumen potensial untuk membeli produk Anda. 
 
-Ringkasnya, marketing adalah keseluruhan siklus dari mengidentifikasi pelanggan potensial hingga memuaskan kebutuhan pelanggan tersebut dengan produk yang Anda hasilkan.
+Ringkasnya, strategi marketing adalah keseluruhan siklus dari mengidentifikasi pelanggan potensial hingga memuaskan kebutuhan pelanggan tersebut dengan produk yang Anda hasilkan.
 
-## Strategi Pemasaran
+## Strategi Pemasaran yang Baik
 
 Strategi pemasaran adalah rencana jangka panjang untuk mencapai tujuan perusahaan dengan memahami kebutuhan pelanggan. Strategi pemasaran dieksekusi untuk menciptakan keunggulan kompetitif agar perusahaan dapat tampil berbeda dan berkelanjutan. 
 
@@ -46,50 +48,54 @@ Memiliki rencana strategi marketing sangat penting untuk keberhasilan bisnis jen
 
 Baca terus untuk mempelajari cara membuat strategi marketing bagi perusahaan Anda.
 
-## Strategi Marketing Untuk Bisnis Kecil-Menengah
+## Cara Membuat Strategi Pemasaran dengan Teknik Marketing Mix
 
-Mari mengingat kembali konsep awal untuk dapat merumuskan strategi marketing, yaitu memahami tujuan perusahaan, target konsumen, serta apa yang membuat produk Anda spesial.
+Mari mengingat kembali konsep awal untuk dapat merumuskan strategi marketing, yaitu **memahami tujuan perusahaan, target konsumen, serta apa yang membuat produk Anda spesial.**
 
 Ada banyak strategi pemasaran yang mencakup kegiatan promosi langsung kepada konsumen secara offline maupun online melalui digital marketing. Strategi pemasaran paling populer yang dapat diterapkan pada pengembangan awal bisnis yaitu marketing mix.
 
+Strategi pemasaran marketing mix adalah metode yang berfokus pada 7 aspek penting yang dimiliki oleh produk atau jasa yang ditawarkan perusahaan. 7 aspek ini adalah products, price, promotions, place, people, process, dan physical evidence.
+
+## Strategi Pasar untuk Bisnis Kecil-Menengah
+
 Marketing mix adalah gabungan tindakan yang dapat diterapkan bisnis untuk dapat menghasilkan respon terbaik target market.  Berikut penjelasan marketing mix yang juga dikenal sebagai 7P:
 
-1. ### Product – how you satisfy customer needs 
+### 1. Product – how you satisfy customer needs 
 
 Variabel marketing mix jenis produk berbicara mengenai cara memuaskan konsumen dengan mengembangkan produk dan layanan yang dibutuhkan. Anda dapat mengembangkan dari sisi desain, kegunaan, kenyamanan, value layanan, kualitas, hingga garansi produk. 
 
-2. ### Price – how much customers are willing to pay for your product
+### 2. Price – how much customers are willing to pay for your product
 
 Ada beberapa pendekatan untuk Anda menentukan harga produk atau layanan yang ditawarkan. 
 
-* strategi cost-plus pricing, berupa penetapan harga jual yang telah ditambah persentase laba yang diharapkan. 
-* Strategi consumer-led pricing yaitu penetapan harga produk berdasar nilai yang dianggap adil oleh suatu basis konsumen. Contoh: harga diwaktu peak season (weekend/liburan) bersedia dibayar mahal dan dianggap normal oleh konsumen dibanding hari biasa.
-* Strategi competitve pricing adalah menetapkan harga produk yang kompetitif terhadap pesaing.
-* Strategy penetration pricing dapat diterapkan ketika Anda ingin meraih market share di target lokasi pasar baru dengan menawarkan harga yang rendah. Kemudian secara perlahan menaikkan harga menjadi normal.
-* Strategi skimming pricing yaitu kebalikan dari penetration pricing. Skimming pricing adalah penetapan harga produk di awal dengan harga tinggi. Kemudian secara perlahan harga turun karena life-cycle produk yang berkurang seiring waktu.\
+* Strategi pemasaran cost-plus pricing, berupa penetapan harga jual yang telah ditambah persentase laba yang diharapkan. 
+* Strategi pemasaran consumer-led pricing yaitu penetapan harga produk berdasar nilai yang dianggap adil oleh suatu basis konsumen. Contoh: harga diwaktu peak season (weekend/liburan) bersedia dibayar mahal dan dianggap normal oleh konsumen dibanding hari biasa.
+* Strategi pemasaran competitve pricing adalah menetapkan harga produk yang kompetitif terhadap pesaing.
+* Strategy pemasaran penetration pricing dapat diterapkan ketika Anda ingin meraih market share di target lokasi pasar baru dengan menawarkan harga yang rendah. Kemudian secara perlahan menaikkan harga menjadi normal.
+* Strategi pemasaran skimming pricing yaitu kebalikan dari penetration pricing. Skimming pricing adalah penetapan harga produk di awal dengan harga tinggi. Kemudian secara perlahan harga turun karena life-cycle produk yang berkurang seiring waktu.\
   Skimming pricing biasa diterapkan oleh perusahaan yang menawarkan produk teknologi seperti handphone, komputer, laptop dan lainnya. Contoh skimming pricing nampak pada harga produk Apple saat peluncuran produk baru.
 * Strategi premium pricing adalah penetapan harga yang tinggi yang merefleksikan produk bernilai tinggi juga. Seperti harga produk pada brand luxury fashion.
 * Strategi economy pricing adalah menetapkan harga layanan dan produk dengan harga bersahabat atau rendah karena biaya produksi yang juga rendah. Biasanya akan terlihat pada produk-produk yang masuk supermarket dan  obat-obat kategori umum digunakan.
 
-3. ### Promotion – which channels you use to tell customers about your product 
+### 3. Promotion – which channels you use to tell customers about your product 
 
 Channel promosi adalah bagaimana target konsumen dapat menemukan produk Anda. Melakukan promosi kegiatan iklan di TV/radio, atau secara online melalui fitur iklan Google, fitur iklan konten di media sosial (YouTube, FaceBook, TikTok, WhatsApp, Instagram). 
 
 Anda juga dapat menjalin relasi dengan kolaborasi dan promosi di podcast atau YouTube KOL(contoh: influencer), sponsorship sebuah kegiatan untuk mendapat exposure, direct mail dan lainnya.
 
-4. ### Place – where you sell your product 
+### 4. Place – where you sell your product 
 
 Dengan produk yang Anda tawarkan, akan cocok promosi di mana? Terdapat berbagai jenis tempat untuk Anda dapat menaruh produk untuk dijual. Mulai dari menjual secara grosir, membuka toko sendiri, menjual langsung dengan mendatangi satu per satu target pasar, atau hanya lewat penjualan online. 
 
-5. ### People – individuals who help sell your product to customers 
+### 5. People – individuals who help sell your product to customers 
 
 People adalah orang-orang yang terlibat kegiatan penjualan produk kepada konsumen. Mereka dapat dimulai dari seluruh elemen karyawan perusahaan Anda, sehingga perlakukanlah tim Anda dengan baik.
 
-6. ### Packaging – how you present your product to the customer 
+### 6. Packaging – how you present your product to the customer 
 
 Packaging dalam marketing mix adalah bentuk nyata (physical evidence) yang dapat dilihat oleh konsumen. Packaging dapat berupa kemasan produk, tanda terima kwitansi, toko atau kantor perusahaan Anda, atau situs website dan logo bisnis.
 
-7. ### Process – how you deliver your product to customers
+### 7. Process – how you deliver your product to customers
 
 Proses mencakup kegiatan distribusi produk hingga sampai ke tangan konsumen. Merancang alur distribusi dan mekanisme pengiriman yang aman dengan quality assurance dan quality management.
 
