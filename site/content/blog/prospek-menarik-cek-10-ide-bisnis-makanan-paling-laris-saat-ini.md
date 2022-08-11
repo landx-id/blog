@@ -1,13 +1,13 @@
 ---
 author: Nadya A. Faatihah
-title: 10 Ide Bisnis Menjanjikan Tahun 2022, Usaha Makanan Paling Laris
-metaTitle: 10 Ide Bisnis Menjanjikan Tahun 2022, Usaha Makanan Paling Laris
-metaDescription: Buat kamu yang ini memulai usaha kuliner, berikut 10 usaha
-  kuliner paling laris untuk bisnis jangka panjang anda
-intro: Sedang cari ide bisnis makanan untuk memulai bisnismu? Cek 10 usaha
-  makanan paling laris saat ini untuk maksimalkan prospek keuntungan di masa
-  depan.
-date: 2022-08-08T15:57:11.261Z
+title: 10 Ide Bisnis Makanan 2022, Usaha yang Menjanjikan Laris | LandX
+metaTitle: 10 Ide Bisnis Makanan 2022, Usaha yang Menjanjikan Laris | LandX
+metaDescription: Butuh ide usaha 2022? Buat kamu yang ini memulai usaha kuliner,
+  berikut ide bisnis kuliner 2022 paling laris untuk bisnis jangka panjang.
+intro: Sedang cari ide bisnis makanan untuk memulai bisnismu? Cek 10 ide bisnis
+  makanan 2022, usaha makanan paling laris saat ini untuk maksimalkan prospek
+  keuntungan di masa depan.
+date: 2022-08-11T04:16:23.218Z
 tag:
   - Bisnis Menguntungkan
   - Peluang Bisnis
@@ -46,7 +46,7 @@ Sebagai pilihan mudah, enak, dan lengkap, tak heran bisnis serba ayam ini semaki
 
 ### 3. Makanan Organik, Vegan, dan Vegetarian 
 
-Pola hidup masyarakat yang berubah menjadi lebih peduli akan pengaruh makanan sehat terhadap imunitas tubuh selama pandemi menjadi faktor berkembangnya bisnis ini. Karena itu, ide bisnis makanan organik, vega, dan vegetarian memiliki prospek yang cukup menjanjikan
+Ini dia ide bisnis makanan sehat 2022 yang hadir oleh pola hidup masyarakat yang berubah menjadi lebih peduli akan pengaruh makanan sehat terhadap imunitas tubuh selama pandemi menjadi faktor berkembangnya bisnis ini. Karena itu, ide bisnis makanan organik, vega, dan vegetarian memiliki prospek yang cukup menjanjikan
 
 Berdasarkan laporan Google Year in Search 2021, minat penelusuran untuk produk makanan plant-based melonjak hingga 233%, serta makanan organik tumbuh ke 55%. Untuk memenuhi kebutuhan masyarakat, banyak bisnis makanan sehat baru bermunculan atau membuka cabang baru. Mulai dari salad & juice bar, restoran vegan, hingga toko bahan makanan organik.
 
@@ -60,13 +60,13 @@ Tidak hanya menyediakan kopi saja, gerai kopi ini juga menyediakan opsi non-kopi
 
 Makanan korea semakin menjadi kegemaran berbagai generasi di masyarakat Indonesia diiringi dengan semakin masifnya konsumsi media hiburan dari Korea Selatan. Mulai dari K-Drama, K-Pop, hingga K-Movie. Karena itu, banyak orang tertarik dan penasaran ingin mencicipi kuliner yang muncul di media tersebut. Saat ini pun, harga dari makanan Korea ini beragam, mulai dari harga kaki lima hingga harga kualitas serba premium.
 
-Mulai dari street food seperti Tteokbokki, Odeng, Bungeoppang, Hotteok, hingga makanan berat seperti Bibimbap, Kimbap, Korean fried chicken, Jjampong, dan Jajamyeon yang lengkap dengan aneka banchan atau side dish khas korea. Karena itu resto khas makanan Korea seperti San-Gyu, Moon Chicken, Chingu Cafe, Mujigae, dan Topoci dapat menjadi ide bisnis makanan yang menginspirasi.
+Mulai dari street food seperti Tteokbokki, Odeng, Bungeoppang, Hotteok, hingga makanan berat seperti Bibimbap, Kimbap, Korean fried chicken, Jjampong, dan Jajamyeon yang lengkap dengan aneka banchan atau side dish khas korea. Karena itu resto khas makanan Korea seperti San-Gyu, Moon Chicken, Chingu Cafe, Mujigae, dan Topoci dapat menjadi ide usaha makanan yang menginspirasi.
 
 ### 6. Makanan Jepang
 
-Tidak kalah dari makanan korea, sekarang bisnis kuliner Jepang sudah semakin luas merambah sampai ke pasar kaki lima. Meski sebenarnya pamor makanan Jepang di Indonesia sudah dari lama ada, namun tren kulineran di sosial media turut membantu kepopuleran pilihan makanan Jepang yang lebih variatif dan terjangkau. Inilah yang membuat makanan Jepang menjadi salah satu ide bisnis makanan yang menjanjikan untuk ditekuni.
+Tidak kalah dari makanan korea, sekarang usaha kuliner Jepang sudah semakin luas merambah sampai ke pasar kaki lima. Meski sebenarnya pamor makanan Jepang di Indonesia sudah dari lama ada, namun tren kulineran di sosial media turut membantu kepopuleran pilihan makanan Jepang yang lebih variatif dan terjangkau. Inilah yang membuat makanan Jepang menjadi salah satu ide usaha yang menjanjikan untuk ditekuni.
 
-Jajanan street food seperti Takoyaki, Okonomiyaki, Yakitori, hingga Mochi. Ditambah makanan berat yang sudah lebih familiar di Indonesia seperti Ramen, Bento, dan Sushi. Semua ini menjadi alasan peluang bisnis kuliner makanan Jepang semakin menjanjikan.
+Jajanan street food seperti Takoyaki, Okonomiyaki, Yakitori, hingga Mochi. Ditambah makanan berat yang sudah lebih familiar di Indonesia seperti Ramen, Bento, dan Sushi. Semua ini menjadi alasan peluang usaha kuliner makanan Jepang semakin menjanjikan.
 
 Karena itu, resto khas Japanese cuisine seperti Okinawa Sushi, RamenYa!, SushiGo, Hakata Ikkousha, dan HokBen saat ini tetap menjadi pilihan favorit pecinta kuliner.
 
@@ -84,9 +84,9 @@ Banyak resto sukses yang bisa jadi bukti bahwa olahan bebek adalah salah satu id
 
 ### 9. Spesialisasi BBQ 
 
-Bersamaan dengan semakin banyaknya resto all you can eat, kuliner BBQ menjadi peluang bisnis yang menjanjikan. Pilihan daging yang berkualitas dimarinasi dengan bumbu khas, side dish yang beragam, serta sensasi grilling daging di depan mata, menjadikan resto BBQ menjadi destinasi kuliner yang trendy.
+Bersamaan dengan semakin banyaknya resto all you can eat, kuliner BBQ menjadi peluang usaha yang menjanjikan. Pilihan daging yang berkualitas dimarinasi dengan bumbu khas, side dish yang beragam, serta sensasi grilling daging di depan mata, menjadikan resto BBQ menjadi destinasi kuliner yang trendy.
 
-Gaya restonya pun beragam, mulai dari Korean BBQ, Japanese BBQ, hingga Brazilian BBQ. Brand seperti Onokabe, Pochajjang, dan Gyu-Kaku telah menjadi bukti bahwa ide bisnis makanan jenis ini masih memiliki peluang yang menjanjikan.
+Gaya restonya pun beragam, mulai dari Korean BBQ, Japanese BBQ, hingga Brazilian BBQ. Brand seperti Onokabe, Pochajjang, dan Gyu-Kaku telah menjadi bukti bahwa ide usaha makanan jenis ini masih memiliki peluang yang menjanjikan.
 
 ### 10. Rice Bowl
 
