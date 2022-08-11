@@ -44,6 +44,20 @@ Singkatnya, pinjol legal OJK adalah transaksi antara pihak peminjam, pihak yang 
 
 Pinjol legal OJK ini dilakukan tanpa harus bertemu secara langsung dan tidak harus mengajukan aset apapun sebagai jaminan.
 
+## Ciri-ciri Pinjol Legal OJK
+
+perusahaan pemberi pinjaman online yang legal memiliki kriteria-kriteria sebagai berikut:
+
+Terdaftar/berizin dari OJK
+Pinjol legal tidak pernah menawarkan melalui saluran komunikasi pribadi
+Pemberian pinjam akan diseleksi terlebih dahulu
+Bunga atau biaya pinjaman transparan
+Peminjam yang tidak dapat membayar setelah batas waktu 90 hari akan masuk ke daftar hitam (blacklist) Fintech Data Center sehingga peminjam tidak dapat meminjam dana ke platform fintech yang lain
+Mempunyai layanan pengaduan
+Mengantongi identitas pengurus dan alamat kantor yang jelas
+Hanya mengizinkan akses kamera, mikrofon, dan lokasi pada gawai peminjam
+Pihak penagih wajib memiliki sertifikasi penagihan yang diterbitkan oleh AFPI.
+
 ## Kenapa Pinjol Legal OJK Bisa Gugur?
 
 **Ternyata terdapat beberapa pinjol yang** **diawasi OJK** yang secara sukarela menggugurkan diri karena alasan pribadi. Berkemungkinan tidak lagi memiliki kemampuan melanjutkan operasionalnya.
