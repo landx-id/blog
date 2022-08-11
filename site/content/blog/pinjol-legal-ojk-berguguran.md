@@ -10,7 +10,7 @@ intro: Pada 2 November 2021, OJK mempublikasikan hanya ada 104 perusahaan
   fintech lending atau penyedia layanan pinjaman online legal OJK. Jumlah ini
   menyusut dari data yang pernah dirilis OJK pada awal tahun 2021 yakni sejumlah
   149 penyelenggara pinjol legal.
-date: 2021-11-25T13:19:40.000Z
+date: 2022-08-11T03:44:58.180Z
 tag:
   - Fintech
   - tips investasi
@@ -68,7 +68,7 @@ Terlepas dari status layanan pinjaman *online* yang legal, jika kamu berniat men
 
 Jangan sampai setelah meminjam sejumlah uang, ternyata tidak memiliki pemasukan arus kas bulanan karena tidak memiliki pekerjaan. Hal yang akan berdampak kamu akan diserbu oleh *debt collector* bersangkutan.
 
-## Berbagai Permasalah Pinjaman Online Ilegal
+## Macam-macam Pinjaman Online dan Permasalahannya
 
 Ada berbagai permasalahan dari layanan pinjaman online ilegal seperti penuturan Jeanny Silvia Sari Sirait, pengacara LBH Jakarta melalui siaran Mata Najwa (16/11), diantaranya:
 
