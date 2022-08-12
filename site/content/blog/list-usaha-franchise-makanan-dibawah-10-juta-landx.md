@@ -50,7 +50,9 @@ Akhirnya, seiring perkembangan sistem bisnis tersebut, pemerintah menerbitkan pe
 
 ## Apa Saja Franchise di Indonesia yang Sukses?
 
-Setelah kepastian hukum terjamin, akhirnya brand lokal dalam negeri seperti E**s Teller 77, Jco Donuts, California Fried Chicken (CFC), Alfamart, Indomaret, Bebek BKB, Sushi Okinawa**, dan banyak lagi berhasil melakukan ekspansi bisnis dengan mengadaptasi sistem ini.
+Pada dasarnya, banyak brand lokal asli Indonesia yang punya potensi besar untuk jadi franchise Indonesia terbaik dengan mengadaptasi sistem ini.
+
+Setelah kepastian hukum terjamin, akhirnya brand lokal dalam negeri seperti **Es Teller 77, Jco Donuts, California Fried Chicken (CFC), Alfamart, Indomaret, Bebek BKB, Sushi Okinawa**, dan banyak lagi berhasil melakukan ekspansi bisnis.
 
 ## Tips Agar Sukses Membangun Bisnis Franchise 
 
