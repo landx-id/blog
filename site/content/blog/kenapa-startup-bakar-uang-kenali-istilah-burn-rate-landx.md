@@ -8,7 +8,7 @@ metaDescription: Alasan banyak startup bakar duit di awal kemunculannya ialah
 intro: Alasan banyak startup bakar duit di awal kemunculannya ialah untuk
   mencapai tujuan meraih pangsa pasar (market share). Bentuk strategi bakar
   uang..
-date: 2022-05-14T16:17:23.386Z
+date: 2022-08-12T03:50:49.257Z
 tag:
   - Venture Capital
   - Manajemen Bisnis
@@ -42,7 +42,13 @@ Putaran pendanaan startup (funding) dari investor berkali-kali hingga ratusan do
 
 ## Istilah dalam Startup GMV Adalah
 
+Terdapat salah satu istilah startup, yaitu GMV atau Gross Merchandise Value yang umumnya digunakan pebisnis online atau perusahaan startup untuk mengukur tingkat kesehatan finansial usahanya. 
 
+Dilansir dari Investopedia, GMV adalah nilai total barang atau produk yang berhasil dijual selama jangka waktu tertentu lewat situs C2C (Customer to Customer) seperti aplikasi dan website. 
+
+Lewat GMV, platform C2C seperti e-commerce bisa mengindentifikasi revenuenya setelah melihat jumlah transaksi dan biaya admin transaksi tersebut. Utamanya, GMV adalah pengukur perusahaan startup yang menghadirkan e-commerce. 
+
+Karena setiap kali pengguna/user aplikasi dan wesbite perusahaan e-commerce melakukan transaksi jual-beli, maka nilai untuk mengukur GMV akan bertambah.
 
 ## Tujuan Startup Bakar Uang
 
