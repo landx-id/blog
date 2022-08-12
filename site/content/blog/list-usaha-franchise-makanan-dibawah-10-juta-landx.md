@@ -30,7 +30,23 @@ Yuk simak disini Landx akan menjelaskan apa itu Franchise dan tips agar sukses m
 
 ## Apa Itu Bisnis Franchise?
 
-Franchise adalah bisnis di mana pemiliknya melisensikan operasinya bersama dengan produk, merek, dan pengetahuannya dengan imbalan biaya waralaba. Sedangkan Franchisor adalah bisnis yang memberikan lisensi kepada franchisee.
+Franchise adalah bisnis di mana pemiliknya melisensikan operasinya bersama dengan produk, merek, dan pengetahuannya dengan imbalan biaya waralaba. Sedangkan Franchisor adalah bisnis yang memberikan lisensi kepada franchise.
+
+## Sejarah Bisnis Franchise Indonesia
+
+Sejak tahun 1950-an, konsep bisnis franchise dipublikasikan oleh Isaac Singers sang inventor mesin jahit dengan merk Singer. Konsep franchise ini ia dipublikasikan dengan harapan untuk meningkatkan jumlah penjualan dari mesin jahit tersebut. 
+
+Namun, meski saat ini konsep waralaba atau franchise adalah konsep bisnis yang bisa dikatakan sukses dan diminati, di masa lalu usaha Isaac malah dihadapkan kegagalan.  
+
+Dalam melakukan usahanya, Isaac menggunakan metode yang akhirnya banyak ditiru oleh pebisnis lain. Salah satu pebisnis pertama yang mengikuti jejak cara Isaac menjalankan bisnisnya adalah bisnis industri otomotif dari Amerika Serikat, General Motors Industry pada tahun 1989. Kemudian diikuti John S Pemberton yang merupakan pendiri Coca Cola.
+
+Kemudian berlanjut pada 1970-an ketika sistem pembelian lisensi tambahan dilakukan. Saat itu, franchisee tak sekadar menjadi penyalur, tetapi juga diberi hak melakukan produksi kendaraan.
+
+Dalam perkembangannya, bisnis dengan sistem franchise bertumbuh sangat cepat pada era 1980-an.
+
+Sistem ini mulai banyak digunakan oleh usaha makanan cepat saji (fast food) dari luar negeri untuk masuk ke dalam negeri. Beberapa di antaranya seperti Kentucky Fried Chicken, Pizza Hut, dan Mcdonald. Ada pula restoran dari dalam negeri yang mengadaptasi sistem franchise seperti Es Teller 77.
+
+Seiring perkembangan bisnis tersebut, pemerintah menerbitkan peraturan untuk melindungi dan memberi kepastian hukum. Beleid awal yang diterbitkan adalah Peraturan Pemerintah Republik Indonesia No.16 Tahun 1997 tentang Waralaba dan Keputusan Menteri Perindustrian dan Perdagangan RI No. 259/MPP/KEP/7/1997 tentang Ketentuan dan Tata Cara Pelaksanaan Pendaftaran Waralaba.
 
 ## Tips Agar Sukses Membangun Bisnis Franchise 
 
