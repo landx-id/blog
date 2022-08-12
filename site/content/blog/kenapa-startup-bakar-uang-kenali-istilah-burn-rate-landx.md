@@ -40,6 +40,10 @@ Putaran pendanaan startup (funding) dari investor berkali-kali hingga ratusan do
 
 > [Berapa jumlah pendanaan awal startup? Baca lebih lanjut di sini](https://landx.id/blog/mengenal-tahapan-pendanaan-startup-berapa-nilai-seed-funding-landx/)
 
+## Istilah dalam Startup GMV Adalah
+
+
+
 ## Tujuan Startup Bakar Uang
 
 Dirangkum dari berbagai sumber, berikut tujuan startup melakukan kegiatan bakar uang yang telah [LandX](https://www.landx.id/) rangkum. Beberapa alasan startup bakar uang ialah meningkatkan brand awareness, loyalitas pelanggan, dan tentunya berusaha menguasai pangsa pasar (market share).
