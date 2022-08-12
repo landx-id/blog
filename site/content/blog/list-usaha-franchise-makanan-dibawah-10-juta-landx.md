@@ -48,7 +48,9 @@ Hingga saat ini, brand besar di Amerika Serikat seperti Kentucky Fried Chicken, 
 
 Akhirnya, seiring perkembangan sistem bisnis tersebut, pemerintah menerbitkan peraturan untuk melindungi dan memberi kepastian hukum bagi usaha dengan sistem waralaba lewat Peraturan Pemerintah Republik Indonesia No.16 Tahun 1997 tentang Waralaba dan Keputusan Menteri Perindustrian dan Perdagangan RI No. 259/MPP/KEP/7/1997 tentang Ketentuan dan Tata Cara Pelaksanaan Pendaftaran Waralaba.
 
-Sehingga brand lokal dalam negeri seperti Es Teller 77, Jco Donuts, California Fried Chicken (CFC), Alfamart, Indomaret, Bebek BKB, Sushi Okinawa, dan banyak lagi berhasil mengadaptasi sistem ini.
+## Apa Saja Franchise di Indonesia yang Sukses?
+
+Setelah kepastian hukum terjamin, akhirnya brand lokal dalam negeri seperti E**s Teller 77, Jco Donuts, California Fried Chicken (CFC), Alfamart, Indomaret, Bebek BKB, Sushi Okinawa**, dan banyak lagi berhasil melakukan ekspansi bisnis dengan mengadaptasi sistem ini.
 
 ## Tips Agar Sukses Membangun Bisnis Franchise 
 
