@@ -6,7 +6,7 @@ metaDescription: Bisnis Franchise Makanan Terlaris Modal di Bawah 10 Juta.
   Berikut ini 10 franchise makanan paling laris dengan modal
 intro: Yuk cek berbagai franchise makanan modal di bawah 10 juta yang bisa jadi
   inspirasi bisnis franchise kamu di tahun 2022
-date: 2022-04-25T04:00:56.136Z
+date: 2022-08-12T05:41:31.221Z
 tag:
   - Bisnis Makanan
   - Franchise Makanan
@@ -38,15 +38,17 @@ Sejak tahun 1950-an, konsep bisnis franchise dipublikasikan oleh Isaac Singers s
 
 Namun, meski saat ini konsep waralaba atau franchise adalah konsep bisnis yang bisa dikatakan sukses dan diminati, di masa lalu usaha Isaac malah dihadapkan kegagalan.  
 
-Dalam melakukan usahanya, Isaac menggunakan metode yang akhirnya banyak ditiru oleh pebisnis lain. Salah satu pebisnis pertama yang mengikuti jejak cara Isaac menjalankan bisnisnya adalah bisnis industri otomotif dari Amerika Serikat, General Motors Industry pada tahun 1989. Kemudian diikuti John S Pemberton yang merupakan pendiri Coca Cola.
+Metode yang diperkenalkan Isaac ini akhirnya banyak ditiru oleh pebisnis lain, salah satunya pada bisnis industri otomotif dari Amerika Serikat dengan sistem pembelian lisensi pendirian dealer. 
 
-Kemudian berlanjut pada 1970-an ketika sistem pembelian lisensi tambahan dilakukan. Saat itu, franchisee tak sekadar menjadi penyalur, tetapi juga diberi hak melakukan produksi kendaraan.
+Pada 1898, General Motors Industry menggunakan sistem franchise yang tak cuma menjadi distributor saja, tetapi juga diberi hak melakukan produksi kendaraannya.
 
-Dalam perkembangannya, bisnis dengan sistem franchise bertumbuh sangat cepat pada era 1980-an.
+Lalu, model franchise juga diikuti oleh John S Pemberton yang merupakan pendiri Coca Cola. Hingga akhirnya sistem franchise bertumbuh dengan masif di era 1980-an.
 
-Sistem ini mulai banyak digunakan oleh usaha makanan cepat saji (fast food) dari luar negeri untuk masuk ke dalam negeri. Beberapa di antaranya seperti Kentucky Fried Chicken, Pizza Hut, dan Mcdonald. Ada pula restoran dari dalam negeri yang mengadaptasi sistem franchise seperti Es Teller 77.
+Hingga saat ini, brand besar di Amerika Serikat seperti Kentucky Fried Chicken, Pizza Hut, dan Mcdonald menggunakan sistem franchise untuk ekspansi bisnis ke berbagai belahan dunia lain. 
 
-Seiring perkembangan bisnis tersebut, pemerintah menerbitkan peraturan untuk melindungi dan memberi kepastian hukum. Beleid awal yang diterbitkan adalah Peraturan Pemerintah Republik Indonesia No.16 Tahun 1997 tentang Waralaba dan Keputusan Menteri Perindustrian dan Perdagangan RI No. 259/MPP/KEP/7/1997 tentang Ketentuan dan Tata Cara Pelaksanaan Pendaftaran Waralaba.
+Akhirnya, seiring perkembangan sistem bisnis tersebut, pemerintah menerbitkan peraturan untuk melindungi dan memberi kepastian hukum bagi usaha dengan sistem waralaba lewat Peraturan Pemerintah Republik Indonesia No.16 Tahun 1997 tentang Waralaba dan Keputusan Menteri Perindustrian dan Perdagangan RI No. 259/MPP/KEP/7/1997 tentang Ketentuan dan Tata Cara Pelaksanaan Pendaftaran Waralaba.
+
+Sehingga brand lokal dalam negeri seperti Es Teller 77, Jco Donuts, California Fried Chicken (CFC), Alfamart, Indomaret, Bebek BKB, Sushi Okinawa, dan banyak lagi berhasil mengadaptasi sistem ini.
 
 ## Tips Agar Sukses Membangun Bisnis Franchise 
 
