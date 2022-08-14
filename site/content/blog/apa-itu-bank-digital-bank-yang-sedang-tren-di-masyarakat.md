@@ -62,6 +62,55 @@ Jadi, peran bank digital di Indonesia sudah sangat baik dan akan lebih baik lagi
 Kelebihan dan Kekurangan Bank Digital Dibanding Bank Konvensional
 Walau bank digital di Indonesia sedang mengalami peningkatan, tidak dipungkiri bahwa kehadiran bank digital juga memiliki kelebihan dan kekurangan dibanding dengan bank konvensional.
 
+## Apa Saja Layanan Bank Digital?
+
+Dilansir dari laman OJK (Otoritas Jasa Keuangan), perusahaan bank digital memiliki izin untuk memberikan layanan sebagai berikut.
+
+### 1. Internet Banking
+
+Jenis-jenis transaksi internet banking antara lain adalah transfer dana, mengecek informasi saldo, mutasi rekening dan informasi nilai tukar, membayar tagihan (kartu kredit, telepon, ponsel, listrik), pembelian (isi ulang pulsa, tiket perjalanan)
+
+### 2. Phone Banking
+
+Nasabah dapat melakukan transaksi layanan perbankan yang biasanya dilakukan lewat tellerdengan menghubungi contact center bank. Umumnya, bank telah menyediakan tenaga staf khusus yang menjalankan tugasnya dalam support transaksi nasabah lewat aplikasi atau sistem otomatis.
+
+Jenis- jenis transaksi phone banking yang dapat dilakukan oleh nasabah, antara lain:
+
+1. **Transfer dana;**
+2. **Informasi saldo;**
+3. **Mutasi rekening;**
+4. **Pembayaran (kartu kredit, PLN, Telepon, ponsel, listrik, asuransi);**
+5. **Pembelian (pulsa isi ulang).**
+
+### 3. SMS Banking
+
+Melalui telepon seluler (ponsel) dengan format Short Message Service (SMS), nasabah bisa mengakses kurang lebih fitur yang sama dengan phone banking. Caranya adalah nasabah mengirimkan SMS ke nomor telepon bank atau menggunakan aplikasi yang dipasang bank pada ponsel nasabah.
+
+Jenis-jenis transaksi melalui SMS banking, antara lain:
+
+1. **Transfer dana;**
+2. **Informasi Saldo;**
+3. **Mutasi rekening**
+4. **Pembayaran (kartu kredit);**
+5. **Pembelian (pulsa isi ulang).**
+
+### 4. Mobile Banking
+
+Mobile banking adalah layanan perbankan yang juga dapat diakses langsung melalui ponsel seperti SMS banking, namun memiliki tingkat kecanggihan yang lebih tinggi karena umumnya berbentuk aplikasi. 
+
+Bank akan bekerja sama dengan operator seluler agar SIM Card Global yang digunakan oleh nasabahnya bisa didaftarkan program khusus untuk bisa melakukan transaksi perbankan.
+
+Selain itu, karena menggunakan aplikasi dengan tampilan *user interface* yang terstruktur, proses transaksi nasabah cenderung lebih mudah dibandingkan dengan SMSBanking.
+
+Beberapa jenis transaksi mobile banking, antara lain:
+
+1. **Transfer dana;**
+2. **Informasi saldo;**
+3. **Mutasi rekening;**
+4. **Informasi nilai tukar;**
+5. **Pembayaran (kartu kredit,PLN,telepon,handphone,listrik,asuransi);**
+6. **Pembelian (pulsa isi ulang, saham).**
+
 ### Kelebihan bank digital:
 
 * **Akses Mudah**
