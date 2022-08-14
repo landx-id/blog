@@ -7,7 +7,7 @@ metaDescription: Bank digital adalah mendigitalisasikan semua aktivitas
 intro: Apa itu bank digital? Bank digital adalah mendigitalisasikan semua
   aktivitas perbankan dari awal membuka rekening hingga menutup rekening.
   Berikut ini penjelasan lengkapnya seputar bank digital
-date: 2022-06-26T10:06:11.553Z
+date: 2022-08-14T17:55:50.324Z
 tag:
   - Lembaga Keuangan
   - Lembaga Pembiayaan
@@ -62,9 +62,11 @@ Jadi, peran bank digital di Indonesia sudah sangat baik dan akan lebih baik lagi
 Kelebihan dan Kekurangan Bank Digital Dibanding Bank Konvensional
 Walau bank digital di Indonesia sedang mengalami peningkatan, tidak dipungkiri bahwa kehadiran bank digital juga memiliki kelebihan dan kekurangan dibanding dengan bank konvensional.
 
-## Apa Saja Layanan Bank Digital?
+## Apa Saja Layanan Bank Digital dan Sejarahnya?
 
-Dilansir dari laman OJK (Otoritas Jasa Keuangan), perusahaan bank digital memiliki izin untuk memberikan layanan sebagai berikut.
+Dilansir dari laman OJK (Otoritas Jasa Keuangan), sejarah bank digital tentu tidak langsung memiliki kecanggihan yang masif seperti saat ini. Seluruh layanan bank digital dihadapkan dengan proses perkembangan dan penyesuaian yang masih terjadi hingga saat ini.
+
+Namun, pada umumnya perjalanan perkembangan perusahaan bank digital dalam memberikan layanannya adalah sebagai berikut.
 
 ### 1. Internet Banking
 
@@ -111,15 +113,15 @@ Beberapa jenis transaksi mobile banking, antara lain:
 5. **Pembayaran (kartu kredit,PLN,telepon,handphone,listrik,asuransi);**
 6. **Pembelian (pulsa isi ulang, saham).**
 
-### Kelebihan bank digital:
+## Apa Manfaat Bank Digital?
 
 * **Akses Mudah**
 
-Bank digital memberikan kemudahan dalam mengakses layanannya. Selama nasabah memiliki koneksi yang bagus, maka nasabah dapat melakukan aktivitas perbankan kapanpun dan dimanapun dan memakan waktu yang cepat tanpa harus mengantri.
+Kelebihan bank digital memberikan kemudahan dalam mengakses layanannya. Selama nasabah memiliki koneksi yang bagus, maka nasabah dapat melakukan aktivitas perbankan kapanpun dan dimanapun dan memakan waktu yang cepat tanpa harus mengantri.
 
 * **Layanan 24 Jam**
 
-Dengan seluruh aktivitas menggunakan metode daring, layanan bank digital yang diberikan kepada nasabah pun selama 24 jam. Jadi nasabah dapat melakukan transfer, pembayaran, pembukaan rekening, hingga mengakses customer service selama 24 jam penuh.
+Dengan seluruh aktivitas menggunakan metode daring, kelebihan bank digital yang diberikan kepada nasabah pun adalah layanan yang aktif selama 24 jam. Jadi nasabah dapat melakukan transfer, pembayaran, pembukaan rekening, hingga mengakses customer service selama 24 jam penuh.
 
 Walaupun nasabah dapat mengakses bank digital selama 24 jam penuh, nasabah harus tetap aware dan membaca terlebih dahulu segala pemberitahuan pada aplikasi bank digital.
 
@@ -129,7 +131,7 @@ Karena sering sekali aplikasi bank digital melakukan pembaharuan, jadi nasabah t
 
 Bila melakukan transfer antar bank menggunakan bank konvensional, maka nasabah akan dikenakan biaya admin yang cukup besar.
 
-Hal berbeda dirasakan jika menggunakan bank digital. Karena biaya operasional yang digunakan industri bank digital sangat kecil, biaya admin bank digital menjadi lebih murah. B bahkan beberapa bank digital memberikan bebas biaya admin untuk transfer antar bank per bulannya.
+Hal berbeda dirasakan jika menggunakan bank digital. Karena kelebihan bank digital adalah biaya operasional yang digunakan industri bank digital sangat kecil, biaya admin bank digital menjadi lebih murah. Bahkan beberapa bank digital memberikan bebas biaya admin untuk transfer antar bank per bulannya.
 
 * **Bunga Lebih Besar**
 
@@ -147,7 +149,7 @@ Karena keberadaannya yang masih terbilang baru, banyak bank digital yang memberi
 
 Promo dan reward yang diberikan oleh bank digital dapat berupa promo diskon, cashback, hingga poin yang dapat ditukarkan dengan voucher diskon atau voucher belanja.
 
-### Kelemahan bank digital
+## Apa Kelemahan Bank Digital?
 
 * **Bergantung pada Koneksi Internet**
 
