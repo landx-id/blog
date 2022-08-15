@@ -10,6 +10,14 @@ intro: Perlunya mengetahui AUM dalam reksadana adalah untuk mengetahui kinerja
   mengambil keputusan investasi. Cari tahu tentang manfaat AUM dalam artikel
   ini.
 date: 2022-08-12T10:23:26.662Z
+tag:
+  - Reksadana
+  - Investasi untuk Pemula
+  - Instrumen Investasi
+  - Tips Investasi
+  - Strategi Investasi
+category:
+  - Investasi
 featuredImage:
   alt: "AUM dalam Reksadana: Manfaat & Perbedaan AUM dan NAV"
   title: "AUM dalam Reksadana: Manfaat & Perbedaan AUM dan NAV"
@@ -80,3 +88,9 @@ Nah, selain itu juga jika Anda ingin memilih investasi minim risiko, Anda bisa b
 Jadi tunggu apalagi?
 
 ## [Yuk, Miliki Bisnis Terbaik lewat LandX dan Dapatkan Keuntungannya Sekarang Juga!](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)
+
+<!--StartFragment-->
+
+[![miliki bisnis modal kecil cuma dengan 1 jutaan dapat 4 cabang ](https://accountgram-production.sfo2.cdn.digitaloceanspaces.com/landx_ghost/2021/11/jadi-owner-bisnis-hanya-1-jutaan-dengan-cuan-yang-sangat-menjanjikan.png)](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)
+
+<!--EndFragment-->
