@@ -23,7 +23,9 @@ category:
   - Bisnis
   - Investasi
 ---
-Beberapa waktu belakangan, rencana peluncuran venture capital Indonesia yaitu Merah Putih Fund menjadi salah satu hal yang banyak diperbincangkan banyak orang. Kehadiran venture capital ini tentu saja membawa harapan baru bagi sebagian orang terutama bagi bisnis-bisnis yang kekurangan modal untuk melakukan.
+Beberapa waktu belakangan, rencana peluncuran venture capital Indonesia yaitu Merah Putih Fund menjadi salah satu hal yang banyak diperbincangkan banyak orang. 
+
+Kehadiran Merah Putih Fund sebagai venture capital ini tentu saja membawa harapan baru bagi sebagian orang terutama bagi bisnis-bisnis yang kekurangan modal untuk melakukan.
 
 **[Venture Capital adalah](https://landx.id/blog/venture-capital-adalah/)** pendanaan secara *private* pada yang biasanya dilakukan kepada perusahaan rintisan (startup) yang diyakini memiliki potensi pertumbuhan jangka panjang. Dana venture capital umumnya berasal dari investor kaya, bank investasi, dan lembaga keuangan lainnya.
 
