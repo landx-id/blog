@@ -7,7 +7,7 @@ metaTitle: Tips dan Strategi Investasi Kos Kosan untuk Pemula
 metaDescription: Investasi kos kosan memiliki potensi perkembangan yang sangat
   pesat dalam beberapa waktu kedepan|Investasi properti modal kecil
 intro: Yuk simak tips investasi kos kosan modal kecil untuk pemula
-date: 2021-03-28T06:21:00.000Z
+date: 2022-08-15T02:51:06.683Z
 tag:
   - investasi bisnis
   - crowdfunding properti
@@ -91,33 +91,46 @@ Oleh karena itu, mencari lokasi yang strategis merupakan salah satu syarat penti
 
 - - -
 
+## Prospek Bisnis Kosan Selama Resesi 2022
+
+Bisnis kos-kosan identik dengan kebutuhan akan tempat tinggal sehingga menjadi bagian dari kebutuhan primer bagi masyarakat. Walaupun bendungan resesi yang semakin meluap seperti tidak dapat dihalangi, prospek jangka panjang bisnis kosan masih baik untuk Anda amati.
+
+Berikut **tips memiliki properti kosan selama pandemi dan resesi**: 
+
+* **Lokasi** - utamanya penting untuk memperhatikan penentuan lokasi seperti dekat sekolah, universitas, atau gedung perkantoran. Karena sebagus apapun sebuah bangunan kosan namun, lokasi yang jauh tentu akan menurunkan minat konsumen.
+* **Pelayanan** - membuat penyewa betah dengan pelayanan yang baik juga merupakan kunci bisnis kosan dapat bertahan jangka panjang. Suatu manajemen kosan bisa menerima hingga 5 komplain setiap harinya dari penyewa, sehingga respon dan tanggapan cepat penting untuk membuat mereka merasa worth it untuk membayar.
+* **Kebersihan** - nyaman juga bisa didapatkan dengan menjaga kebersihan. Karena itu, manajemen kebersihan dan aturan jaga kebersihan perlu ditetapkan.
+* **Keamanan** - memantau kondisi kosan melalui CCTV agar meminimalisir kondisi tidak terduga.
+* **Internet** - kebijakan wfh yang membuat waktu yang dihabiskan di kosan lebih banyak tentu memerlukan kecepatan internet yang maksimal agar penyewa betah.
+* **Ruang Terbuka** -  tidak hanya menyediakan kamar, namun menyediakan ruang terbuka untuk menyambut tamu, nongkrong, atau sekedar melihat cahaya matahari langsung.
+
+Pada kala pelik pandemi semua bisnis kosan terkena dampak sehingga banyak kamar kosong hingga lebih dari 20%. Sebagai mitigasi para pemilik bisnis kosan menawarkan diskon menarik seperti potongan harga di awal pandemi, subsidi tambahan jika sudah vaksin, hingga bonus ketika penyewa dapat membawa teman sebagai penyewa baru. Hal ini dapat Anda terapkan juga selama perkiraan resesi 2022.
+
+Selain itu, jika Anda sudah yakin untuk investasi properti maka hal penting yang harus diingat adalah jangan berharap langsung cuan. Ketahui dan pelajari risiko bisnis properti seperti kosan, karena setiap investasi pasti ada risikonya. Menghitung proyeksi keuntungan tentu penting dilakukan namun jangan dijadikan patokan utama.
+
+- - -
+
 **Baca Juga:**
 
 * [Mau Investasi Rumah? Berikut Hal yang Wajib Kamu Ketahui Tentang Investasi Rumah](https://landx.id/blog/memulai-investasi-rumah/)[Simak Bagaimana Peran Penting Real Estate Agents dalam Investasi Properti](https://landx.id/blog/peran-penting-real-estate-agents-dalam-investasi-properti/)
 * [Simak Berbagai Strategi Memulai Bisnis Properti Modal Kecil Terbaik yang Bisa Anda Terapkan](https://landx.id/blog/bisnis-properti-modal-kecil/)
 * [10 Rekomendasi Situs Jual Beli Rumah Terpercaya 2021](https://landx.id/blog/10-rekomendasi-situs-jual-beli-rumah-terpercaya-2021/)
 
-- - -
+## [LandX Crowdfunding: Pilihan Investasi Properti Minim Modal](https://landx.id/)
 
-## [LandX, Crowdfunding: Pilihan Investasi Properti Minim Modal](https://landx.id/)
-
-Crowdfunding juga bisa dikatakan penggalangan dana berskala besar, atau joint venture yang menyediakan dana untuk proyek tertentu.
-
-Singkatnya, investasi kos kosan atau properti online ini melalui [LandX](https://landx.id/) dapat diartikan sebagai aktivitas investasi yang menggunakan sistem joint venture sehingga memiliki modal yang lebih sedikit.
+Crowdfunding juga bisa dikatakan penggalangan dana berskala besar, atau joint venture yang menyediakan dana untuk proyek tertentu. Singkatnya, investasi kos kosan atau properti online melalui [LandX](https://landx.id/) dapat diartikan sebagai aktivitas investasi yang menggunakan sistem joint venture sehingga memiliki modal yang lebih sedikit.
 
 Anda yang ingin menggalang dana untuk investasi properti bisa memulai dengan mengumpulkan dana yang bisa membeli sebagian kecil dari nilai real estate atau properti yang akan anda investasikan.
 
-contoh:
-
-Anda memiliki dana RP. 5.000.000.
+Contoh, Anda memiliki dana RP5.000.000.
 
 Oleh karena itu, Anda dapat menginvestasikan nilai dan tersebut di sektor real estate. Jika sistem crowdfunding digunakan, anda sudah bisa menjadi bagian dari real estate yang nilainya 500 juta. Untuk itu, Anda hanya perlu mencari penyedia layanan investasi crowdfunding yang profesional dan andal.
 
 Penting untuk diingat bahwa Anda tidak memiliki kepemilikan penuh atas properti tersebut. Karena nilai kepemilikan Anda didasarkan pada persentase dari nilai properti secara keseluruhan.
 
-## [Jadi, Apakah Investasi Crowdfunding ini Menguntungkan?](https://landx.id/)
+[Jadi, apakah investasi crowdfunding ini menguntungkan?](https://landx.id/)
 
-Tentu menguntungkan. Karena selain resikonya paling kecil, ternyata banyak juga orang yang tertarik untuk menyewa. Investor yang berpartisipasi dalam crowdfunding dapat menikmati uang dari pendapatan sewa ini.
+Tentu berpotensi menguntungkan. Karena selain risikonya kecil, ternyata banyak juga orang yang tertarik untuk menyewa. Investor yang berpartisipasi dalam crowdfunding dapat menikmati uang dari pendapatan sewa ini.
 
 [LandX](https://landx.id/) adalah platform yang menghubungkan investor dan manajer aset real estate atau properti. Pada platform ini, investor dapat menginvestasikan dana pada proyek real estate atau properti bermodal rendah, dengan investasi minimal Rp 1 juta.
 
