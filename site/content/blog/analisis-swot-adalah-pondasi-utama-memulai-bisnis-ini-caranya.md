@@ -29,9 +29,21 @@ Yuk, baca terus artikel ini untuk memahami fungsi analisis SWOT, contohnya, sert
 
 ## Apa Itu Analisis SWOT?
 
-Analisis SWOT adalah metode mengidentifikasi situasi dan kondisi sebuah perusahaan agar dapat membantu proses pengambilan keputusan dalam membuat strategi bisnis. Singkatnya, sebuah perusahaan perlu mengidentifikasi Strength (kekuatan), Weakness (kelemahan), Opportunity (kesempatan/peluang) dan Threat (ancaman) yang dimiliki oleh bisnisnya agar dapat menentukan tujuan dan rencana jangka panjang atau pun jangka pendek bagi bisnis tersebut.
+Analisis SWOT adalah metode mengidentifikasi situasi dan kondisi sebuah perusahaan agar dapat membantu proses pengambilan keputusan dalam membuat strategi bisnis. 
 
-## Berbagai Faktor Dalam Analisis SWOT
+Singkatnya, metode SWOT adalah cara sebuah perusahaan perlu mengidentifikasi Strength (kekuatan), Weakness (kelemahan), Opportunity (kesempatan/peluang) dan Threat (ancaman) yang dimiliki oleh bisnisnya agar dapat menentukan tujuan dan rencana jangka panjang atau pun jangka pendek bagi bisnis tersebut.
+
+## Pentingnya Komponen SWOT
+
+Dalam analisis SWOT, terdapat fokus utama yang benar-benar harus diperhatikan oleh kamu yang ingin memulai bisnis atau bahkan berinvestasi pada bisnis baru yang dirasa potensial. 
+
+Adanya analisis SWOT adalah langkah utama yang dapat membantu perusahaan atau investor membangun bisnis yang berkelanjutan. Jika asal memulai bisnis tanpa analisis SWOT, maka jalannya bisnis tidak akan terarah dan akan lebih berisiko.
+
+Utamanya, analisis SWOT adalah cara mengetahu potensi pasar, minat dan peluang usaha yang bisa dimanfaatkan agar bisnis sukses dan berkelanjutan. 
+
+Karena itu, pastikan untuk memperhatikan aspek analisis SWOT lewat pembahasan di bawah ini.
+
+##  4 Komponen Analisis SWOT
 
 ### 1. Strength (Kekuatan)
 
@@ -53,11 +65,11 @@ Ancaman yang dimaksud dalam analisis SWOT adalah kondisi dan situasi merugikan y
 
 Analisis ini didasari oleh hubungan atau interaksi antara unsur internal, yaitu Strength (kekuatan) dan Weakness (kelemahan), terhadap unsur-unsur eksternal yaitu Opportunity (peluang) dan Threat (ancaman). Berikut penjelasan lengkapnya.
 
-### 1. Faktor Eksternal (O and T)
+### 1. Komponen SWOT Eksternal (O and T)
 
 Faktor eksternal dalam analisis SWOT adalah faktor yang memengaruhi terbentuknya Opportunities (peluang) dan Threats (Ancaman). Faktor eksternal ini dipengaruhi oleh kondisi yang terjadi di luar perusahaan, namun bisa berdampak pada proses pengambilan keputusan perusahaan untuk kestabilan perusahaan. Misalnya adalah kondisi lingkungan industri (industry environment), ekonomi, politik, hukum, teknologi, kependudukan, dan sosial budaya.
 
-### 2. Faktor Internal (S and W)
+### 2. Komponen SWOT Internal (S and W)
 
 Faktor ini dalam analisis SWOT adalah faktor yang memengaruhi terbentuknya Strength (kekuatan) dan Weaknesses (kelemahan). Faktor ini didasari oleh kondisi yang terjadi dalam perusahaan. Misalnya seperti kondisi manajemen pemasaran, keuangan, operasional, sumber daya manusia, penelitian dan pengembangan, sistem informasi manajemen, dan budaya perusahaan (corporate culture).
 
@@ -77,7 +89,9 @@ Selain itu, matrik ini akan mempermudah pembuatan keputusan, strategi, dan renca
 
 ## Tujuan Analisis SWOT
 
-Salah satu tujuan dari analisis SWOT adalah sebagai panduan perusahaan untuk menentukan skala prioritas dalam mempertahankan kestabilan manajemen dan bisnisnya. Seperti yang dijelaskan dalam matrik SWOT, tujuan analisis SWOT adalah untuk membuat strategi dan alternatif strategi dari berbagai sudut pandang agar bisnis dapat berjalan secara berkelanjutan. Selain itu, berikut adalah fungsi analisis SWOT lainnya.
+Salah satu tujuan dari analisis SWOT adalah sebagai panduan perusahaan untuk menentukan skala prioritas dalam mempertahankan kestabilan manajemen dan bisnisnya. 
+
+Seperti yang dijelaskan dalam matrik SWOT, tujuan analisis SWOT adalah untuk membuat strategi dan alternatif strategi dari berbagai sudut pandang agar bisnis dapat berjalan secara berkelanjutan. Selain itu, berikut adalah fungsi analisis SWOT lainnya.
 
 1. Bermanfaat untuk menyusun strategi untuk mengatasi masalah internal perusahaan.
 2. Dasar pembuatan strategi untuk networking dan memperluas relasi bisnis dengan investor atau perusahaan lain.
