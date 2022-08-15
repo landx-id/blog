@@ -1,5 +1,5 @@
 ---
-draft: false
+draft: true
 author: Khurin N. Imandini
 slug: tertarik-berbisnis-kapal-tongkang
 title: Tertarik Berbisnis Kapal Tongkang?
