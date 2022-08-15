@@ -104,7 +104,7 @@ Berikut **tips memiliki properti kosan selama pandemi dan resesi**: 
 * **Internet** - kebijakan wfh yang membuat waktu yang dihabiskan di kosan lebih banyak tentu memerlukan kecepatan internet yang maksimal agar penyewa betah.
 * **Ruang Terbuka** -  tidak hanya menyediakan kamar, namun menyediakan ruang terbuka untuk menyambut tamu, nongkrong, atau sekedar melihat cahaya matahari langsung.
 
-Pada kala pelik pandemi semua bisnis kosan terkena dampak sehingga banyak kamar kosong hingga lebih dari 20%. Sebagai mitigasi para pemilik bisnis kosan menawarkan diskon menarik seperti potongan harga di awal pandemi, subsidi tambahan jika sudah vaksin, hingga bonus ketika penyewa dapat membawa teman sebagai penyewa baru. Hal ini dapat Anda terapkan juga selama perkiraan resesi 2022.
+Pada kala pelik pandemi semua bisnis kosan terkena dampak sehingga banyak kamar kosong hingga lebih dari 20%. Sebagai **mitigasi para pemilik bisnis kosan** menawarkan diskon menarik seperti potongan harga di awal pandemi, subsidi tambahan jika sudah vaksin, hingga bonus ketika penyewa dapat membawa teman sebagai penyewa baru. Hal ini dapat Anda terapkan juga selama perkiraan resesi 2022.
 
 Selain itu, jika Anda sudah yakin untuk investasi properti maka hal penting yang harus diingat adalah jangan berharap langsung cuan. Ketahui dan pelajari risiko bisnis properti seperti kosan, karena setiap investasi pasti ada risikonya. Menghitung proyeksi keuntungan tentu penting dilakukan namun jangan dijadikan patokan utama.
 
