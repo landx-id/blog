@@ -1,5 +1,5 @@
 ---
-draft: false
+draft: true
 author: Vlora Riyandi
 slug: melihat-potensi-kapal-tongkang-batubara
 title: Mengenal Apa Itu Kapal Tongkang dan Potensi Bisnis Kapal Tongkang
