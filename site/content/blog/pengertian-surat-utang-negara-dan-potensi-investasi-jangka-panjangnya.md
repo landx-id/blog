@@ -34,9 +34,9 @@ Dengan penerbitan SUN, pemerintah “meminjam” dana dari para investor yang ak
 
 SUN terbilang mudah didapat yaitu dengan melakukan minimal pembelian SUN sebesar Rp1 juta saja. Namun, pembelian SUN hanya dapat dilakukan saat penawaran dibuka. Jadi, apabila kamu tertarik investasi SUN maka cara pembelian SUN adalah dengan mencari informasi kapan periode penawaran dibuka.
 
-Lalu, keuntungan seperti apa yang bisa didapatkan investor? Berikut beberapa istilah yang harus diketahui jika ingin berinvestasi Surat Utang Negara.
+Sebelum mengetahui keuntungan yang bisa didapatkan investor dengan investasi SUN, berikut beberapa **istilah** yang harus diketahui jika ingin **berinvestasi Surat Utang Negara.**
 
-* ### Jatuh Tempo (Maturity)
+* ### **Jatuh Tempo (Mat**urity)
 
 Jatuh Tempo yang dimaksud dalam Surat Utang Negara adalah masa berlaku, yaitu mulai dari tiga bulan hingga 30 tahun. Pemerintah akan mengembalikan dana pokok investor setelah masanya habis atau sudah jatuh tempo.
 
