@@ -13,6 +13,7 @@ tag:
   - Resesi Ekonomi
   - Resesi
   - Ekonomi
+  - Inflasi
 category:
   - Bisnis
   - Investasi
