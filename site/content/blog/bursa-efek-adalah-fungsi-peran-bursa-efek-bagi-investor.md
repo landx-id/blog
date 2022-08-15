@@ -1,14 +1,20 @@
 ---
 draft: false
 author: Rafa Syawalia R
-title: "Bursa Efek Adalah: Fungsi & Peran Bursa Efek Bagi Investor"
-metaTitle: "Bursa Efek Adalah: Fungsi & Peran Bursa Efek Bagi Investor | LandX"
+title: "Bursa Efek Adalah: Fungsi & Peran Bursa Efek Bagi Investor dan Bisnis"
+metaTitle: "Bursa Efek Adalah: Fungsi & Peran Bursa Efek Bagi Investor dan Bisnis"
 metaDescription: Peran bursa efek adalah memfasilitasi transaksi saham atau
   instrumen pasar modal lainnya secara aman untuk masyarakat luas atau investor.
 intro: Bursa Efek Indonesia adalah lembaga resmi yang menyediakan sarana jual
   beli dan beregulasi aman untuk pelaku pasar modal melakukan transaksi saham.
   Yuk ketahui apa itu bursa efek sama-sama lewat artikel ini.
 date: 2022-08-11T09:36:26.983Z
+tag:
+  - Memulai Investasi
+  - Investasi Pemula
+  - Instrumen Pasar Modal
+category:
+  - Investasi
 featuredImage:
   src: https://images.unsplash.com/photo-1641444556999-30742a0b8123?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2787&q=80
   alt: Peran bursa efek indonesia, fungsi BEI bagi investor
@@ -94,7 +100,7 @@ Fungsi bursa efek ini tentunya untuk memantau transaksi, mencegah adanya kecuran
 
 Bursa Efek Indonesia juga memberikan pelayanan pada anggota bursa, emiten, dan masyarakat luas. BEI memiliki peran dalam menyeleksi perusahaan berdasarkan syarat dan ketentuan perusahaan terbuka dalam berbentuk badan hukum dan belum pernah mengalami pailit sebelumnya.
 
-## Peran Bursa Efek Bagi Investor 
+## Peran Bursa Efek Bagi Investor
 
 Selaras dengan fungsi dan peran bursa efek seperti penjelasan sebelumnya, BEI memiliki beberapa upaya untuk melindungi investor pada pasar modal diantaranya yaitu:
 
@@ -130,6 +136,12 @@ Perlu diingat kegiatan investasi merupakan kegiatan yang mengandung risiko. Perl
 
 Melalui skema [equity crowdfunding](https://landx.id/), Anda bersama masyarakat mendanai bisnis yang nantinya akan berkembang dan dapat melakukan ekspansi bisnis. Keuntungan dari pendanaan bisnis nanti memberikan Anda berupa dividen sesuai dengan performa bisnis yang Anda pilih.
 
-Tentunya pilih platform [equity crowdfunding ](https://landx.id/)terpercaya, transparan, berpengalaman dalam pendanaan bisnis potensial yang dapat berkembang dalam jangka waktu panjang dan sudah mengantongi izin dari OJK seperti [LandX](https://landx.id/) ya![](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)
+Tentunya pilih platform [equity crowdfunding ](https://landx.id/)terpercaya, transparan, berpengalaman dalam pendanaan bisnis potensial yang dapat berkembang dalam jangka waktu panjang dan sudah mengantongi izin dari OJK seperti [LandX](https://landx.id/) ya...
 
 ## [Miliki Bisnis Potensial dengan Keuntungan Terbaik lewat LandX Yuk!](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)
+
+<!--StartFragment-->
+
+[![Bagaimana? Kamu lebih suka bisnis dengan buyback guarantee atau yang bisa disimpan dalam jangka panjang? Apapun pilihan kamu.. Yuk Patungan  dengan Keuntungan Menjanjikan Bareng LandX](https://accountgram-production.sfo2.cdn.digitaloceanspaces.com/landx_ghost/2021/10/Equity-Crowdfunding-di-Indonesia-1--3.png)](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)
+
+<!--EndFragment-->
