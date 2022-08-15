@@ -13,7 +13,6 @@ date: 2022-07-26T07:51:17.188Z
 tag:
   - Cara Investasi Saham
   - Valuasi Saham
-  - Investasi Sahan
   - Investasi untuk Pemula
 category:
   - Investasi
