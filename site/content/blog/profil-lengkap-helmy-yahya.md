@@ -1,15 +1,40 @@
-+++
-author = "Vlora Riyandi"
-category = ["Kapal Tongkang", "keuntungan investasi", "bisnis patungan", "bisnis masa pandemi", "crowdfunding indonesia", "ETF", "Instrumen Investasi", "investasi bisnis", "Helmy Yahya"]
-date = 2021-12-17T08:30:44Z
-metaDescription = "Seorang entertainer yang kini juga mengembangkan fokusnya pada pengembangan bisnis, membuat Helmy Yahya menjadi salah satu pengusaha sukses di Indonesia."
-draft = false
-image = "https://accountgram-production.sfo2.cdn.digitaloceanspaces.com/landx_ghost/2022/01/Punya-bisnis-kapal-tongkang-bersama-helmy-yahya-cuma-dengan-modal-1-jutaan-min.png"
-slug = "profil-lengkap-helmy-yahya"
-tag = ["Kapal Tongkang", "keuntungan investasi", "bisnis patungan", "bisnis masa pandemi", "crowdfunding indonesia", "ETF", "Instrumen Investasi", "investasi bisnis", "Helmy Yahya"]
-title = "Biografi Helmy Yahya: Entertainer dan Pengusaha Sukses yang Siap Rambah Bisnis Kapal Tongkang"
-
-+++
+---
+draft: true
+author: Vlora Riyandi
+slug: profil-lengkap-helmy-yahya
+title: "Biografi Helmy Yahya: Entertainer dan Pengusaha Sukses "
+metaTitle: "Biografi Helmy Yahya: Entertainer dan Pengusaha Sukses "
+metaDescription: Biografi Helmy Yahya
+intro: Seorang entertainer yang kini juga mengembangkan fokusnya pada
+  pengembangan bisnis, membuat Helmy Yahya menjadi salah satu pengusaha sukses
+  di Indonesia
+date: 2021-12-17T08:30:44.000Z
+tag:
+  - Kapal Tongkang
+  - keuntungan investasi
+  - bisnis patungan
+  - bisnis masa pandemi
+  - crowdfunding indonesia
+  - ETF
+  - Instrumen Investasi
+  - investasi bisnis
+  - Helmy Yahya
+featuredImage:
+  src: https://images.unsplash.com/photo-1562564055-71e051d33c19?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80
+  alt: Helmy yahya
+  title: helmy yahya
+image: https://accountgram-production.sfo2.cdn.digitaloceanspaces.com/landx_ghost/2022/01/Punya-bisnis-kapal-tongkang-bersama-helmy-yahya-cuma-dengan-modal-1-jutaan-min.png
+category:
+  - Kapal Tongkang
+  - keuntungan investasi
+  - bisnis patungan
+  - bisnis masa pandemi
+  - crowdfunding indonesia
+  - ETF
+  - Instrumen Investasi
+  - investasi bisnis
+  - Helmy Yahya
+---
 
 
 Nama Helmy Yahya tidak asing di telinga masyarakat Indonesia pada umumnya. Seorang _entertainer_ yang kini juga mengembangkan fokusnya pada pengembangan bisnis, membuatnya menjadi salah satu pengusaha sukses di Indonesia.
