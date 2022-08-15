@@ -8,7 +8,7 @@ metaDescription: Saham properti merupakan salah satu pilihan investasi akan
   menguntungkan bagi anda dalam jangka panjang | Simak keuntungan dan cara
   investasi properti
 intro: Yuk simak cara investasi saham properti yang menguntungkan
-date: 2021-03-27T05:48:00.000Z
+date: 2022-08-15T05:10:28.192Z
 tag:
   - crowdfunding indonesia
   - crowdfunding properti
@@ -50,6 +50,20 @@ Properti adalah istilah yang mengacu pada kepemilikan hak eksklusif oleh individ
 
 [Investasi ](https://landx.id/)[properti](https://landx.id/) atau real estat sangat erat kaitannya dengan aset berupa tanah dan bangunan. Menurut konsep perencanaan keuangan, jika pemilik menjual aset di masa depan, maka aset tersebut dapat dinyatakan sebagai aset investasi. Namun, jika pemiliknya menggunakannya untuk perumahan atau kebutuhan pribadi, meskipun nilainya akan tetap naik (terus naik), itu juga akan menjadi aset yang dapat dikonsumsi.
 
+## Saham Properti 2022
+
+Para pemilik properti mulai menghela nafas lega setelah masa pelik pandemi semakin longgar dan perekonomian Indonesia dikabarkan bisa terus tumbuh. Hal ini membuat tren pembelian properti kembali dilirik investor. 
+
+Dari segi konsumen atau calon pembeli properti, [hasil survei Bank Indonesia](https://www.youtube.com/watch?v=knlyPLMk9ZY) (12/05) menemukan peningkatan hingga 22,7% responden yang ingin membeli properti dalam 12 bulan ke depan.
+
+**Apakah sektor properti sejalan dengan kebangkitan ekonomi?**
+
+Terlepas perang Rusia-Ukraina, fundamental ekonomi Indonesia terlihat baik. Hasil survei perbankan Bank Indonesia juga mencatat pertumbuhan penyaluran kredit positif pada triwulan II 2022. Hal ini disampaikan Direktur Pemasaran Perum Perumnas, Tambok Setyawati, dapat dipandang sebagai pertumbuhan sektor properti telah seiring dengan kebangkitan ekonomi. 
+
+Setelah krisi tahun 2008, saham properti ikut naik setelah saham energi memulihkan diri. Sehingga diperkirakan saham property 2022 ini ikut naik panggung setelah saham komoditas dikabarkan naik. 
+
+Namun, perlu diperhatikan tingkat suku bunga yang memengaruhi harga properti. Gairah sektor properti dapat terganggu jika suku bunga naik, dikarenakan tingkat suku bunga yang tinggi dapat menurunkan minat calon pembeli untuk memiliki properti dan dapat membuat lesu sektor properti. 
+
 ## Apa Keuntungan Investasi di Saham Properti?
 
 Ada banyak alasan menguntungkan untuk berinvestasi di saham properti. Mari kita temukan di bawah ini beberapa keuntungan berinvestasi di saham properti.
@@ -86,12 +100,34 @@ Sekalipun nilai tiap bangunan disusutkan atau didevaluasi, peraturan pemerintah 
 
 nilai depresiasi dari properti pun terhitung cukup rendah jika dibandingkan dengan investasi jenis lain. Maka dari itu anda harus sesegera mungkin mulai memasukkan dana anda ke dalam investasi properti.
 
+## Jenis-jenis Investasi Properti
+
+Investasi dapat menjadi kunci peningkatan manajemen keuangan bagi siapapun untuk mencapai tujuan finansial yang diharapkan. Banyak jenis investasi yang dapat Anda pilih, termasuk sektor properti yang berkaitan dengan tempat tinggal yang merupakan kebutuhan primer masyarakat.
+
+Banyak jenis properti yang dapat Anda pertimbangkan untuk memulai. Berikut jenis-jenis investasi properti untuk dapat Anda pertimbangkan:
+
+* ### Investasi Properti Indekos
+
+Jenis investasi property ini paling banyak dilirik pemilik modal. Potensi keuntungan dari biaya sewa setiap bulan bisa didapatkan dari penyewa yang dapat berjumlah belasan hingga puluhan. 
+
+Dengan manajemen dan tata kelola yang baik, sebuah bisnis kos-kosan dapat dilirik cepat oleh calon penyewa, tentunya utamakan lokasi strategis. Dengan kos-kosan di lokasi strategis dan manajemen yang baik, Anda dapat menawarkan kamar dengan harga kompetitif menguntungkan.
+
+* ### Investasi Properti Apartemen
+
+Anda berkesempatan mendapatkan keuntungan ganda dengan investasi apartemen. Pertama, mendapatkan keuntungan dari biaya sewa bulanan dan selanjutnya nilai properti apartemen yang semakin naik setiap tahunnya. Nilai kenaikan harga jual apartemen di masa depan tentu akan lebih mahal daripada saat dibeli dahulu.
+
+* ### Investasi Tanah
+
+Jika Anda adalah pemula dalam jenis investasi property maka tanah dapat menjadi opsi menguntungkan. Membeli tanah di lokasi yang dikabarkan akan dikembangkan menjadi potensi keuntungan untuk masa depan keuangan Anda. Pada umumnya pun, harga tanah setiap tahun meningkat karena adanya keterbatasan lahan.
+
+- - -
+
 **Baca Juga:**
 
 * [Bisnis Properti: Melihat Bagaimana Potensi Bisnis Properti Selama Masa Pandemi](https://landx.id/blog/potensi-bisnis-properti-di-masa-pandemi/)
 * [Mau Investasi Rumah? Berikut Hal yang Wajib Kamu Ketahui Tentang Investasi Rumah](https://landx.id/blog/memulai-investasi-rumah/)
 
-## Jenis Investasi Properti Online
+- - -
 
 Dalam pembahasan berikut, kami akan memperkenalkan kepada Anda jenis-jenis investasi  properti menarik yang dapat Anda pilih. Ini adalah 3 di antaranya:
 
