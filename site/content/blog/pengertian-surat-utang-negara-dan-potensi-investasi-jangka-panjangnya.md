@@ -6,7 +6,7 @@ metaDescription: Apa itu Surat Utang Negara dan prospeknya untuk investasi? Baca
   artikel ini untuk lebih tahu info lengkapnya!
 intro: Yuk kenali Surat Utang Negara (SUN) dan Obligasi Ritel Indonesia (ORI)
   untuk potensi instrumen investasi jangka panjang anda
-date: 2022-06-16T04:11:03.509Z
+date: 2022-08-15T08:10:26.465Z
 tag:
   - Instrumen Investasi
   - Investasi untuk pemula
@@ -20,19 +20,19 @@ featuredImage:
   alt: Apa Itu Arti SUN (Surat Utang Negara) dan ORI untuk investasi
   title: Jenis Surat Utang Negara
 ---
-
-
 Apa itu SUN? Surat Utang Negara adalah bukti pemerintah berutang kepada investor dalam jangka waktu tertentu. Dengan kata lain, melalui Surat Utang Negara (SUN), pemerintah menjamin pembayaran bunga dan pokok dari SUN sesuai masa berlaku yang ditentukan. 
 
 Ada beberapa jenis surat utang negara seperti ORI (Obligasi Republik Indonesia), Surat Perbendaharaan Negara (SPN), Obligasi Negara, dan Saving Bond Retail (SBR) atau Obligasi Ritel Indonesia.
 
-Untuk penjelasan lebih lengkap soal Surat Utang Negara, baca terus artikel ini!
+Untuk penjelasan lebih lengkap soal Surat Utang Negara (SUN), baca terus artikel ini!
 
-## Apa Itu Arti SUN (Surat Utang Negara)?
+## Apa Itu SUN (Surat Utang Negara)?
 
 Dilansir dari laman OJK, Surat Utang Negara adalah surat pengakuan utang yang dijamin pembayaran bunga dan pokoknya oleh negara RI sesuai masa berlakunya. Surat Berharga ini termasuk salah satu opsi untuk berinvestasi. 
 
 Dengan penerbitan SUN, pemerintah “meminjam” dana dari para investor yang akan digunakan untuk kebutuhan APBN. Sebaliknya, investor akan mendapatkan keuntungan yang disebut sebagai kupon (bunga) dari penempatan dana di Surat Utang Negara tersebut. 
+
+SUN terbilang mudah didapat yaitu dengan melakukan minimal pembelian SUN sebesar Rp1 juta saja. Namun, pembelian SUN hanya dapat dilakukan saat penawaran dibuka. Jadi, apabila kamu tertarik investasi SUN maka cara pembelian SUN adalah dengan mencari informasi kapan periode penawaran dibuka.
 
 Lalu, keuntungan seperti apa yang bisa didapatkan investor? Berikut beberapa istilah yang harus diketahui jika ingin berinvestasi Surat Utang Negara.
 
@@ -64,7 +64,7 @@ SBR adalah salah satu instrumen Surat Utang Negara yang tidak dapat diperdagangk
 
 * **Sukuk Ritel (SR)**
 
-Surat Utang Negara ini adalah produk investasi syariah yang ditawarkan oleh Pemerintah kepada individu Warga Negara Indonesia. Sukuk Ritel dikelola berdasarkan prinsip syariah, tidak mengandung unsur maysir (judi) gharar (ketidakjelasan) dan riba (usury), serta telah dinyatakan sesuai syariah oleh Dewan Syariah Nasional – Majelis Ulama Indonesia (DSN-MUI).
+Sukuk ritel adalah produk investasi syariah yang ditawarkan oleh Pemerintah kepada individu Warga Negara Indonesia. Sukuk Ritel dikelola berdasarkan prinsip syariah, tidak mengandung unsur maysir (judi) gharar (ketidakjelasan) dan riba (usury), serta telah dinyatakan sesuai syariah oleh Dewan Syariah Nasional – Majelis Ulama Indonesia (DSN-MUI).
 
 Dana hasil penerbitan akan digunakan untuk kegiatan investasi berupa pembelian hak manfaat Barang Milik Negara untuk disewakan kepada Pemerintah serta pengadaan proyek untuk disewakan kepada Pemerintah. Imbalan bagi para investor berasal dari keuntungan hasil kegiatan investasi tersebut.
 
