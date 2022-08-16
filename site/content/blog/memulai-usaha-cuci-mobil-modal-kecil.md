@@ -4,10 +4,13 @@ author: Abdul Wahhab
 slug: memulai-usaha-cuci-mobil-modal-kecil
 title: "Usaha Cuci Mobil: Memulai Bisnis Carwash dengan Modal Kecil"
 metaTitle: "Usaha Cuci Mobil: Memulai Bisnis Carwash dengan Modal Kecil"
-metaDescription: Mau mulai usaha cuci mobil? Cek modal dan omset menggiurkan
-  dari usaha cuci mobil|Cara memiliki Yellow Car Wash dengan modal kecil
-intro: Yuk simak bagaimana cara memulai bisnis usaha cuci mobil cuma dengan
-  modal 1 jutaan.
+metaDescription: Mau mulai usaha cuci mobil? Cek modal bisnis cuci mobil dan
+  omset menggiurkan dari usaha cuci mobil dengan potensi 22 juta unit mobil di
+  Indonesia..
+intro: Peningkatan jumlah kendaraan bermotor tembus hingga 146 juta unit dengan
+  22 juta lebih adalah kendaraan berjenis mobil. Hal ini mendorong kebutuhan
+  baru dan peluang usaha menjanjikan seperti bisnis cuci mobil. Berikut modal
+  bisnis cuci mobil hingga tips memulai untuk Anda.
 date: 2022-08-16T03:18:43.811Z
 tag:
   - bisnis menguntungkan
