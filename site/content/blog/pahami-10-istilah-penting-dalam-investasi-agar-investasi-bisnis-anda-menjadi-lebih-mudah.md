@@ -6,7 +6,9 @@ title: Berbagai Istilah dalam Investasi yang Penting untuk Investor Pemula
 metaTitle: Berbagai Istilah dalam Investasi yang Penting untuk Investor Pemula
 metaDescription: Yuk pahami berbagai istilah penting dalam investasi yang
   penting untuk anda pahami
-intro: Yuk pahami berbagai hal penting dalam investasi yang penting anda pahami
+intro: Yuk pahami berbagai istilah dalam investasi yang penting diketahui jika
+  Anda ingin memulai investasi untuk meraih passive income untuk tambahan cuan
+  di masa depan.
 date: 2022-08-16T08:12:40.360Z
 tag:
   - bisnis investasi
