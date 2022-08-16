@@ -8,7 +8,7 @@ metaDescription: Mau mulai usaha cuci mobil? Cek modal dan omset menggiurkan
   dari usaha cuci mobil|Cara memiliki Yellow Car Wash dengan modal kecil
 intro: Yuk simak bagaimana cara memulai bisnis usaha cuci mobil cuma dengan
   modal 1 jutaan.
-date: 2021-08-28T14:14:27.000Z
+date: 2022-08-16T03:18:43.811Z
 tag:
   - bisnis menguntungkan
   - yellow Car Wash
@@ -34,13 +34,6 @@ Karena itu, usaha cuci mobil menjadi peluang bisnis dengan keuntungan yang menja
 Supaya lebih jelas, mari kita bahas lebih lanjut berbagai hal penting dalam membangun usaha cuci mobil yang menguntungkan.
 
 - - -
-
-## Table of Content
-
-* **[Modal Usaha Cuci Mobil](#modal-usaha-cuci-mobil)**[1. Usaha Cuci Mobil Manual](#1-usaha-cuci-mobil-manual)[2. Usaha Cuci Mobil Hidrolik](#2-usaha-cuci-mobil-hidrolik)[3. Usaha Cuci Mobil Robotic (*Robotic Car Wash*](#3-usaha-cuci-mobil-robotic-robotic-car-wash)*)*
-* **[Omset Usaha Cuci Mobil](#omset-usaha-cuci-mobil)**
-* **Tips Membangun Usaha Cuci Mobil**
-* **[Memulai Usaha Cuci Mobil dengan Modal Kecil](#memulai-usaha-cuci-mobil-dengan-modal-kecil)**
 
 ## Modal Usaha Cuci Mobil
 
@@ -70,7 +63,7 @@ Apabila ingin memulai usaha cuci mobil jenis ini, anda harus menyiapkan modal ya
 
 Akan tetapi, bisnis ini memiliki potensi keuntungan yang lebih besar karena tarif layanan yang akan lebih mahal jika dibandingkan cuci manual.
 
-### 3. Usaha Cuci Mobil Robotic (Robotic Car Wash)
+### 3. Usaha Cuci Mobil Robotic (Car Wash Robotic)
 
 Terakhir, jenis robotic car wash merupakan jenis yang saat ini sangat populer dan disukai banyak orang. Selain proses pencucian yang lebih cepat, sistem ini juga membuat konsumen tidak perlu keluar dari mobil selama proses pencucian karena pencucian dilakukan oleh mesin canggih yang melakukan semua proses pencucian mobil.
 
@@ -78,7 +71,15 @@ Akan tetapi, modal awal yang harus anda siapkan memang cukup besar untuk membeli
 
 Namun, usaha ini sangat potensial dan bisa memberikan anda keuntungan yang sangat besar karena teknologi ini membuat anda bisa melayani lebih banyak konsumen sehingga bisnis dapat berjalan dengan lebih optimal.
 
-## Omset Usaha Cuci Mobil
+![](https://lh4.googleusercontent.com/IzB-c-A_u03i7n39dZ75HPbi1ZqdRx4IHwxEBSqBnrsExYY2U2nasDXNpHwMpZh16RXzSVHJlCMYTz4ARUDHv016xaVAFVCr9YQ6F4Kt0FzxuTPq67-EJ1tANWAA38URd92EwK0I_3I0caSUqgY_uLA)
+
+**Car Wash Robotic**
+
+Usaha car wash robotic dapat memberikan keuntungan bisnis cuci mobil lebih optimal karena proses pengerjaan yang singkat. Hanya berkisar 5 hingga 15 menit satu unit mobil dapat diselesaikan. Mulai dari proses penyemprotan awal, cuci sabun, hingga proses bilas.
+
+Antrian panjang kendaraan yang perlu dicuci pun dapat diselesaikan dengan cepat dan membuat pelanggan puas. Apalagi pelanggan tidak harus turun dari mobil untuk mendapatkan layanan modern dari robot cuci mobil ini.
+
+## Omzet Usaha Cuci Mobil
 
 Untuk omset usaha cuci mobil, kita harus melihat terlebih dahulu jenis usaha yang akan dijalankan. Untuk cuci mobil manual, biasanya biaya berkisar antara Rp 25-50 ribu per sekali cuci sehingga omset perbulan diperkirakan mencapai belasan juta.
 
@@ -127,6 +128,36 @@ Selain itu, anda juga bisa melakukan promosi dengan mengoptimalkan platform digi
 Apabila anda ingin memulai usaha cuci mobil, anda harus menyesuaikan modal yang anda miliki dengan jenis bisnis yang akan anda bangun. Menyusun budget dengan baik membuat proses pembangunan bisnis dapat berjalan dan tidak terhenti di tengah jalan karena kekurangan biaya.
 
 Dalam usaha cuci mobil, anda harus memperhatikan apakah anda akan membeli atau menyewa suatu lokasi, investasi untuk berbagai perlengkapan, dan memikirkan biaya yang harus dikeluarkan untuk menyiapkan karyawan.
+
+- - -
+
+## Risiko Usaha Car Wash
+
+Dengan lebih dari 22 juta unit mobil di Indonesia, peluang bisnis cuci mobil terlihat terampil untuk dapat dimulai. Namun, penting untuk memehatikan potensi risiko bisnis ini serta memersiapkan mitigasi atau rencana pencegahan dan kelola risiko yang baik. Berikut beberapa risiko usaha car wash untuk Anda ketahui:
+
+* **Risiko Strategi**
+
+Risiko strategi dapat terjadi dalam usaha car wash apabila dilanda kondisi tidak terduga. Risiko strategi umum terjadi pada seorang pemilik bisnis apapun yang sedang dalam tahap pengembangan bisnis.
+
+Sebagai mitigasi risiko ini, sebuah usaha car wash sebaiknya menyiapkan perencanaan yang detail sebagai antisipasi dan manajemen risiko bisnis.
+
+* **Risiko Operasional**
+
+Risiko operasional adalah kemungkinan risiko yang terjadi dalam kegiatan sehari-hari perusahaan seperti kesalahan teknis, hingga kekeliruan manusia. Mitigasi dan pengelolaan manajemen risiko yang dapat dilakukan adalah melakukan pengecekan mesin berkala serta memperbarui strategi.
+
+* **Risiko Finansial**
+
+Risiko finansial dapat terjadi apabila bisnis cuci mobil Anda harus membayar hal tidak terduga sehingga membuat biaya pengeluaran besar dan dapat mengarah pada kerugian.
+
+Untuk mencegah potensi risiko ini, Anda dapat menggunakan jasa proteksi bisnis seperti asuransi atau menyiapkan dana cadangan saat memulai bisnis.
+
+* **Risiko Reputasional**
+
+Menjaga reputasi bisnis adalah hal penting dan sering menjadi kunci kesuksesan bisnis jangka panjang. Menjaga bisnis dari komplain yang merugikan dapat Anda lakukan dengan memberikan pelayanan yang baik serta mencantumkan aturan secara jelas untuk meminimalisir.
+
+* **Risiko Legal**
+
+Taat pada aturan dan hukum yang berlaku sebagai bisnis agar terhindar dari denda. Serta membuat perjanjian kerja sama yang jelas dengan pihak yang berkaitan dengan bisnis seperti karyawan dengan aturan yang jelas. Hal ini untuk menghindari dari tuntutan tidak berdasar yang dapat merugikan bisnis.
 
 ## Memulai Usaha Cuci Mobil dengan Modal Kecil
 
