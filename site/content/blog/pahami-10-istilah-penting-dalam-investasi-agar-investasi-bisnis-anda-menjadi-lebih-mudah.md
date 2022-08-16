@@ -7,7 +7,7 @@ metaTitle: Berbagai Istilah dalam Investasi yang Penting untuk Investor Pemula
 metaDescription: Yuk pahami berbagai istilah penting dalam investasi yang
   penting untuk anda pahami
 intro: Yuk pahami berbagai hal penting dalam investasi yang penting anda pahami
-date: 2021-03-30T04:41:47.000Z
+date: 2022-08-16T08:12:40.360Z
 tag:
   - bisnis investasi
   - crowdfunding indonesia
@@ -137,7 +137,15 @@ Momentum tersebut biasanya berhubungan dengan kondisi politik, ekonomi, dan tren
 
 Istilah dalam investasi ini merujuk pada penarikan atau pencairan uang (withdraw) dari platform sekuritas ditransfer ke rekening tabungan nasabah. Pencairan atau withdrawal ini dapat dilakukan setelah terjadi transaksi di pasar modal, seperti transaksi jual beli saham ataupun transaksi lainnya.
 
-## 16. 
+## 16. Diversifikasi
+
+
+Diversifikasi adalah salah satu strategi untuk meminimalisir risiko dan mengoptimalkan return. Diversifikasi ini adalah menempatkan investasi pada lebih dari satu instrumen, baik saham maupun non saham. 
+
+Pengelolaan portofolio investasi akan semakin optimal untuk mencapai tujuan investasi.
+Dalam pengelolaan portofolio investasi yang diversifikasi, ada baiknya Anda menempatkan dana investasi di beberapa instrumen investasi yang berbeda karakteristiknya. 
+
+Misalnya, Anda mengalokasikan modal ke saham di Bursa Efek, saham bisnis di equity crowdfunding, obligasi, dan sukuk. Ini dilakukan agar jika salah satu instrumen rugi, maka kerugian tersebut bisa ditutupi dari keuntungan aset investasi lainnya.
 
 Setelah memahami istilah ini, kini saat Anda mulai investasi bisnis pertama anda bersama [LandX](https://landx.id/) dengan berbagai bisnis pilihan yang akan membuat investasi bisnis anda menjadi menguntungkan.
 
