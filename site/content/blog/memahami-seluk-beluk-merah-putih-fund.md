@@ -33,7 +33,7 @@ Supaya lebih paham tentang Merah Putih Fund dan apa perannya terhadap perekonomi
 
 - - -
 
-## Mengenal Merah Putih  Fund
+## Mengenal Merah Putih Fund
 
 Presiden Indonesia akan segera *launching* Merah Putih Fund sebagai salah satu VC Indonesia. Apa itu Merah Putih Fund? Benarkah Merah Putih Fund danai bisnis lokal?
 
@@ -62,11 +62,13 @@ Hal ini tentunya mengundang perhatian para investor di Indonesia terkait bagaima
 
 - - -
 
-## Menanti Merah Putih Fund
+## Menanti Merah Putih Fund untuk Indonesia Startup Funding
 
 Potensi ekonomi dan pasar digital Indonesia terbilang potensial, hal inilah yang membuat *venture capital* asing mendatangi dan mendukung perusahaan startup Indonesia. Merah Putih Fund dinantikan dapat mendorong munculnya perusahaan rintisan lokal yang berpotensi mejadi unicorn.
 
-Merah Putih Fund perlu menciptakan ekosistem keseluruhan yang ideal untuk pendanaan startup lokal. Dengan potensi pasar yang besar maka diperlukan ketersedian manusia bertalenta digital. Pemerintah juga perlu menyiapkan infrastruktur, mekanisme, dan prinsip *good governance* untuk terciptanya regulasi yang kondusif.
+Merah Putih Fund ini bisa menjadi langkah awal untuk funding startup Indonesia.  Agar Merah Putih Fund dapat efisien dan terarah, perlu diciptakan ekosistem keseluruhan yang ideal untuk pendanaan startup lokal. 
+
+Dengan potensi pasar yang besar maka diperlukan ketersedian manusia bertalenta digital. Pemerintah juga perlu menyiapkan infrastruktur, mekanisme, dan prinsip *good governance* untuk terciptanya regulasi yang kondusif.
 
 ## Proses Pendanaan Venture Capital
 
