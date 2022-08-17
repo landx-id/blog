@@ -44,6 +44,8 @@ Adaptasi terhadap kondisi dan berbagai kebijakan yang diturunkan ternyata mampu 
 
 > Produk Domestik Bruto (PDB) = Gross Domestic Product (GDP)
 
+![sektor lapangan usaha pdb](img/landx_infografis_raih-kebebasan_multiple-post_05.png "sektor lapangan usaha pdb 2021")
+
 ## 5 Sektor Lapangan Usaha Dominasi PDB 2021
 
 PDB digunakan untuk mengetahui kondisi ekonomi Indonesia. PDB adalah total nilai pasar dari seluruh barang dan jasa yang dihasilkan suatu negara dalam suatu periode. Singkatnya, PDB adalah total jumlah produksi barang dan jasa suatu negara.
@@ -73,6 +75,8 @@ Contoh belanja negara adalah tercantum dalam Anggaran Pendapatan dan Belanja Neg
 * ### Data Ekspor dan Impor Indonesia 2019-2021
 
 Berdasarkan data BPS, nilai ekspor-impor Indonesia yang tercatat stabil di tahun 2019 mengalami penurunan di tahun 2020 dikarenakan aturan ketat di berbagai negara. Namun, terlihat pemulihan nilai ekspor-impor di tahun 2021 dengan nilai ekspor yang lebih besar daripada nilai impor.
+
+![pertumbuhan ekonomi indonesia 2022](img/landx_infografis_raih-kebebasan_multiple-post_11.png "pertumbuhan ekonomi indonesia 2022")
 
 ## Indonesia Diprediksi Tumbuh Positif 2023!
 
