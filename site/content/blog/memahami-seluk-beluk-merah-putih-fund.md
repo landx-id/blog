@@ -122,7 +122,11 @@ Berikan sebuah jawaban berkualitas _ *di setiap pertanyaan dan tinggalkan _impre
 
 ## Perkembangan Merah Putih Funding Startup Indonesia 2022
 
+Dalam Mandiri Investment Forum yang diadakan pada Februari 2022 lalu, Wakil Menteri Badan Usaha Milik Negara (BUMN) Kartika Wirjoatmodjo mengumumkan, [b](https://www.kompas.com/tag/merah-putih-fund?_ga=2.67856404.462947402.1660744852-1844245157.1653466288)ahwa perusahaan modal ventura patungan BUMN yaitu Merah Putih Fund masih dalam proses pembentukan di Otoritas Jasa Keuangan.
 
+Memasuki kuartal ketiga tahun ini, informasi pasti tentang Merah Putih Fund adalah keputusan akan dikelola bersama oleh lima General Partner (GP) yaitu Mandiri Capital Indonesia, MDI Ventures milik Telkom, Telkomsel Mitra Inovasi, BRI Ventures, dan BNI Modal Ventura.
+
+Nantinya, dari General Partner tersebut ditambah dengan dua orang perwakilan independen akan menjadi anggota dewan direksi yang menentukan keputusan startup mana yang akan mendapat suntikan modal investasi dari dana Merah Putih Fund.
 
 ## [Yuk Ikut Pendanaan Startup Bisnis Lokal](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)
 
