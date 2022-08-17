@@ -120,7 +120,11 @@ Berikan sebuah jawaban berkualitas _ *di setiap pertanyaan dan tinggalkan _impre
 
 *Venture capital* akan *go dive* mengevaluasi keseluruhan bisnismu. Mencari tahu lebih dalam untuk memutuskan *yes or no* terhadap pendanaan bisnismu.
 
-## [Yuk Ikut Mendanai Bisnis Lokal](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)
+## Perkembangan Merah Putih Funding Startup Indonesia 2022
+
+
+
+## [Yuk Ikut Pendanaan Startup Bisnis Lokal](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)
 
 Bisnis lokal dengan pancaran potensi yang dimiliki menjadi peluang menjanjikan. Berandai-andai dapat ikut berpartisipasi pada bisnis yang sedang berjalan dan arus kas terlihat cuan tentu pernah terlintas di pikiran.
 
