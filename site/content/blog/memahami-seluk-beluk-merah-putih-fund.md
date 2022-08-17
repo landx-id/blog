@@ -7,7 +7,7 @@ metaTitle: "Merah Putih Fund: Venture Capital Indonesia untuk Pendanaan Startup"
 metaDescription: Merah putih fund adalah venture capital asal Indonesia yang
   akan melakukan pendanaan kepada bisnis dan startup di Indonesai
 intro: Yuk pahami apa itu merah putih fund dan manfaatnya bagi bisnis Indonesia.
-date: 2021-12-09T19:41:00.000Z
+date: 2022-08-17T14:07:40.006Z
 tag:
   - venture capital
   - tips investasi
