@@ -16,11 +16,11 @@ featuredImage:
   src: img/money-laundering-adalah.jpg
   alt: Memahami berbagai modus dan kasus pencucian uang
 ---
-Kamu pasti pernah kan melihat berita di televisi mengenai kasus pencucian uang? Pencucian uang atau mMoney laundering merupakan kasus yang marak dilakukan oleh tokoh masyarakat hingga pejabat di Indonesia. 
+Kamu pasti pernah kan melihat berita di televisi mengenai kasus pencucian uang? Pencucian uang atau Money laundering merupakan kasus yang marak dilakukan oleh tokoh masyarakat hingga pejabat di Indonesia. 
 
-Dengan maraknya kasus money laundering di Indonesia  memberi kerugian yang besar bagi negara. Oleh karena itu kasus ini masih menjadi pekerjaan rumah bagi negara dan masyarakat Indonesia.
+Dengan maraknya kasus money laundering di Indonesia memberi kerugian yang besar bagi negara. Oleh karena itu kasus ini money laundering masih menjadi pekerjaan rumah yang perlu diselesaikan bagi negara dan masyarakat Indonesia.
 
-Kali ini kita akan membahas seputar money laundering, hingga tips  menghindari money laundering.
+Kali ini kita akan membahas seputar money laundering, hingga tips menghindari money laundering.
 
 Yuk, simak penjelasannya di sini!
 
@@ -36,7 +36,7 @@ Biasanya para pelaku money laundering ini menyamarkan sumber dana tersebut melal
 
 ## Aturan Tentang Pencucian Uang
 
-Di Indonesia tindak pidana pencucian uang diatur dalam UU No. 8 tahun 2010 tentang Pencegahan dan Pemberantasan Tindak Pidana Pencucian Uang. Aadapun perbuatan-perbuatan yang menjadi tindak pidana pencucian uang menurut UU No.8 tahun 2010 adalah:
+Di Indonesia tindak pidana pencucian uang diatur dalam UU No. 8 tahun 2010 tentang Pencegahan dan Pemberantasan Tindak Pidana Pencucian Uang. Aadapun perbuatan-perbuatan yang menjadi tindak pidana pencucian uang atau money laundering menurut UU No.8 tahun 2010 adalah:
 
 1. Menempatkan, mentransfer, mengalihkan membelanjakan, membayarkan, menghibahkan, menitipkan, membawa ke luar negeri, mengubah bentuk, menukarkan dengan mata uang atau surat berharga atau perbuatan lain atas harta kekayaan yang tindak pidana dengan tujuan menyembunyikan atau menyamarkan asal usul harta kekayaan.
 2. Menyembunyikan atau menyamarkan asal usul, sumber, lokasi, peruntukan, pengalihan hak-hak, atau kepemilikan yang sebenarnya atas harta kekayaan yang diketahuinya atau patut diduganya merupakan hasil tindak pidana.
@@ -44,7 +44,7 @@ Di Indonesia tindak pidana pencucian uang diatur dalam UU No. 8 tahun 2010 tenta
 
 ## Tahapan Money Laundering
 
-Membuktikan bahwa adanya praktek money laundering bukanlah sesuatu yang mudah. Karena proses atau tahapan money laundering mencangkup tiga langkah, yaitu Placement, Layering, dan Integration.
+Umumnya, pelaku pencucian uang menggunakan strategi yang telah direncanakan. Adanya praktek money laundering bukanlah sesuatu yang mudah. Karena proses atau tahapan money laundering mencangkup tiga langkah, yaitu Placement, Layering, dan Integration.
 
 * **Placement (Penempatan)**
 
@@ -66,9 +66,45 @@ Cara lainnya juga dari proses layering ini adalah dengan transfer melalui kegiat
 
 * **Integration (Integrasi)**
 
-Pada tahapan terakhir ini, para pelaku money laundering melakukan upaya untuk menggabungkan atau menggunakan uang hasil money laundering untuk dinikmati langsung., Sseperti diinvestasikan ke berbagai jenis produk keuangan, digunakan untuk membiayai bisnis yang sah, serta dengan membiayai kembali kegiatan tindak pidana.
+Pada tahapan terakhir ini, para pelaku money laundering melakukan upaya untuk menggabungkan atau menggunakan uang hasil money laundering untuk dinikmati langsung. 
+
+Seperti diinvestasikan ke berbagai jenis produk keuangan, digunakan untuk membiayai bisnis yang sah, serta dengan membiayai kembali kegiatan tindak pidana.
 
 Cara lainnya juga dengan melakukan investasi pada suatu kegiatan usaha, penjualan dan pembelian aset.
+
+## Jenis Modus Pencucian Uang
+
+Dilansir dari jurnal KPK, praktik jenis modus pencucian uang utamanya memiliki karakteristik di bawah ini.
+
+### 1. Loan Back
+
+Modus pencucian uang ini dilakukan dengan cara "perusahaan" meminjam uang dari Bank di luar negeri yang seolah-olah perusahaan tersebut ada. Padahal, itu adalah perusahaan "bayangan" atau tidak ada. 
+
+Perusahaan itu seluruh jajaran direksi dan pemegang sahamnya adalah pelaku money laundering itu sendiri.
+
+Dalam jenis modus pencucian uang ini, pelaku peminjam uang dari "perusahaan bayangan" lewat kesepakatan dengan cabang bank asing menggunakan stand by letter of credit atau certificate of deposit. Nantinya, pinjaman tidak dikembalikan.
+
+Karena dalam stand by letter of credit terdapat ketentuan dari bank jika perusahaan yang meminjam gagal membayar maka uang akan dibayarkan dari jaminan bank. Pencucian uang bisa berhasil setelah dana tersebut "dicairkan" oleh bank yang menjamin.
+
+### 2. Modus Transaksi Dagang Internasional
+
+Modus ini menggunakan sarana dokumen L/C. Modus pencucian uang ini dilakukan dengan membuat invoice jumlah besar pada barang-barang transaksi dagang internasional.
+
+Karena pada dagang internasional bank koresponden maupun opening bank adalah dokumen yang tidak perlu adanya proses mengenal keadaan barang, praktik money laundering ini memanfaatkan kondisi demikian. Invoice yang dibuat tentu sebenarnya palsu dan barang-barang yang tertulis tidak ada.
+
+### 3. Pencucian Uang Berkedok Investasi
+
+Melakukan investasi tentu bukanlah sesuatu yang aneh. Namun, money laundering dengan kedok investasi seringkali dilakukan. Investasi ini biasanya berhubungan dengan barang antik atau lukisan-lukisan yang ditransaksikan dengan harga fantastis.
+
+Misalnya, pelaku membeli lukisan dan kemudian menjualnya kepada seseorang yang sebenarnya adalah suruhan si pelaku itu sendiri dengan harga yang sangat mahal. Utamanya, karena lukisan atau barang antik seringkali sah untuk jadi koleksi yang harganya tidak terukur. 
+
+Ketika dijual kembali, meski uang itu adalah hasil korupsi maka dana hasil penjualan lukisan tersebut dapat dikategorikan sebagai dana sah yang "bebas" dari pasal pidana.
+
+### 4. Pertukaran Barang
+
+Dilansir dari *ppatk.go.id*, modus pertukaran barang atau barter adalah salah satu jenis modus pencucian uang yang sering ditemukan. Praktik ini dilakukan dengan cara menghindari penggunaan dana tunai atau instrumen keuangan untuk mengelabuo deteksi sistem keuangan.
+
+Uang tunai yang didapat dari misalnya korupsi diubah bentuknya menjadi barang yang dihargai sesuai nominal yang ingin "dicuci" sehingga pergerakannya akan lolos dari deteksi sistem keuangan.
 
 ## Penyebab Terjadinya Pencucian Uang (Money Laundering)
 
