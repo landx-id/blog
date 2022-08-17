@@ -4,10 +4,10 @@ title: Memahami Apa Itu Pencucian Uang (Money Laundering) dan Modus-modusnya
 metaTitle: Simak Berbagai Modus dan Kasus Pencucian Uang yang Harus Anda Pahami
 metaDescription: Pencucian uang atau money laundering adalah tindak kejahatan
   dengan menyamarkan asal usul uang yang seolah dari kegiatan legal.
-intro: Pencucian uang atau money laundering adalah kejahatan yang kerap
+intro: "Pencucian uang atau money laundering adalah kejahatan yang kerap
   dilakukan tokoh dan pejabat Indonesia untuk memperkaya diri sendiri dengan
-  menyamarkan asal usul uang yang seolah dari kegiatan legal.
-date: 2022-06-15T10:17:12.944Z
+  menyamarkan asal usul uang yang seolah dari kegiatan legal. "
+date: 2022-08-18T00:11:00.000Z
 tag:
   - Investasi Bodong
   - Penipuan Telegram
@@ -20,7 +20,7 @@ Kamu pasti pernah kan melihat berita di televisi mengenai kasus pencucian uang? 
 
 Dengan maraknya kasus money laundering di Indonesia memberi kerugian yang besar bagi negara. Oleh karena itu kasus ini money laundering masih menjadi pekerjaan rumah yang perlu diselesaikan bagi negara dan masyarakat Indonesia.
 
-Kali ini kita akan membahas seputar money laundering, hingga tips menghindari money laundering.
+Kali ini kita akan membahas seputar money laundering, tahap pencucian uang, dan jenis modus pencucian uang agar bisa menghindari money laundering.
 
 Yuk, simak penjelasannya di sini!
 
@@ -36,15 +36,15 @@ Biasanya para pelaku money laundering ini menyamarkan sumber dana tersebut melal
 
 ## Aturan Tentang Pencucian Uang
 
-Di Indonesia tindak pidana pencucian uang diatur dalam UU No. 8 tahun 2010 tentang Pencegahan dan Pemberantasan Tindak Pidana Pencucian Uang. Aadapun perbuatan-perbuatan yang menjadi tindak pidana pencucian uang atau money laundering menurut UU No.8 tahun 2010 adalah:
+Di Indonesia tindak pidana pencucian uang adalah praktik yang diatur dalam UU No. 8 tahun 2010 tentang Pencegahan dan Pemberantasan Tindak Pidana Pencucian Uang. Aadapun perbuatan-perbuatan yang menjadi tindak pidana pencucian uang atau money laundering menurut UU No.8 tahun 2010 adalah:
 
-1. Menempatkan, mentransfer, mengalihkan membelanjakan, membayarkan, menghibahkan, menitipkan, membawa ke luar negeri, mengubah bentuk, menukarkan dengan mata uang atau surat berharga atau perbuatan lain atas harta kekayaan yang tindak pidana dengan tujuan menyembunyikan atau menyamarkan asal usul harta kekayaan.
-2. Menyembunyikan atau menyamarkan asal usul, sumber, lokasi, peruntukan, pengalihan hak-hak, atau kepemilikan yang sebenarnya atas harta kekayaan yang diketahuinya atau patut diduganya merupakan hasil tindak pidana.
-3. Menerima, menguasai penempatan, pentransferan, pembayaran, hibah, sumbangan, penitipan, penukaran, atau menggunakan harta kekayaan yang diketahuinya atau patut diduganya merupakan hasil tindak pidana.
+1. Pencucian uang adalah menempatkan, mentransfer, mengalihkan membelanjakan, membayarkan, menghibahkan, menitipkan, membawa ke luar negeri, mengubah bentuk, menukarkan dengan mata uang atau surat berharga atau perbuatan lain atas harta kekayaan yang tindak pidana dengan tujuan menyembunyikan atau menyamarkan asal usul harta kekayaan.
+2. Pencucian uang adalah menyembunyikan atau menyamarkan asal usul, sumber, lokasi, peruntukan, pengalihan hak-hak, atau kepemilikan yang sebenarnya atas harta kekayaan yang diketahuinya atau patut diduganya merupakan hasil tindak pidana.
+3. Pencucian uang adalah menerima, menguasai penempatan, pentransferan, pembayaran, hibah, sumbangan, penitipan, penukaran, atau menggunakan harta kekayaan yang diketahuinya atau patut diduganya merupakan hasil tindak pidana.
 
 ## Tahapan Money Laundering
 
-Umumnya, pelaku pencucian uang menggunakan strategi yang telah direncanakan. Adanya praktek money laundering bukanlah sesuatu yang mudah. Karena proses atau tahapan money laundering mencangkup tiga langkah, yaitu Placement, Layering, dan Integration.
+Umumnya, pelaku pencucian uang adalah orang yang menggunakan strategi yang telah direncanakan. Adanya praktek money laundering bukanlah sesuatu yang mudah. Karena proses atau tahapan money laundering mencangkup tiga langkah, yaitu Placement, Layering, dan Integration.
 
 * **Placement (Penempatan)**
 
@@ -56,7 +56,7 @@ Pelaku pencucian uang juga tidak jarang memecah sumber dana ilegal mereka ke dal
 
 * **Layering (Lapisan)**
 
-Pada tahapan layering ini, para pelaku pencucian uang berusaha menjauhkan sumber dana ilegal mereka.
+Pada tahapan layering ini, upaya yang dilakukan para pelaku pencucian uang adalah berusaha menjauhkan sumber dana ilegal mereka.
 
 Cara yang dilakukan biasanya dengan membeli aset, investasi, atau dengan menyebar sumber dana ilegal tersebut ke berbagai rekening bank di beberapa negara yang memiliki kriteria tax havens (surga pajak). 
 
@@ -66,7 +66,7 @@ Cara lainnya juga dari proses layering ini adalah dengan transfer melalui kegiat
 
 * **Integration (Integrasi)**
 
-Pada tahapan terakhir ini, para pelaku money laundering melakukan upaya untuk menggabungkan atau menggunakan uang hasil money laundering untuk dinikmati langsung. 
+Pada tahapan terakhir ini, taktik pelaku money laundering adalah menggabungkan atau menggunakan uang hasil money laundering untuk dinikmati langsung. 
 
 Seperti diinvestasikan ke berbagai jenis produk keuangan, digunakan untuk membiayai bisnis yang sah, serta dengan membiayai kembali kegiatan tindak pidana.
 
