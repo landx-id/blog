@@ -94,7 +94,7 @@ Karena pada dagang internasional bank koresponden maupun opening bank adalah dok
 
 ### 3. Pencucian Uang Berkedok Investasi
 
-Melakukan investasi tentu bukanlah sesuatu yang aneh. Namun, money laundering dengan kedok investasi seringkali dilakukan. Investasi ini biasanya berhubungan dengan barang antik atau lukisan-lukisan yang ditransaksikan dengan harga fantastis.
+Melakukan investasi tentu bukanlah sesuatu yang aneh. Namun, money laundering dengan kedok investasi adalah jenis modus pencucian uang baru yang seringkali dilakukan. Investasi ini biasanya berhubungan dengan barang antik atau lukisan-lukisan yang ditransaksikan dengan harga fantastis.
 
 Misalnya, pelaku membeli lukisan dan kemudian menjualnya kepada seseorang yang sebenarnya adalah suruhan si pelaku itu sendiri dengan harga yang sangat mahal. Utamanya, karena lukisan atau barang antik seringkali sah untuk jadi koleksi yang harganya tidak terukur. 
 
