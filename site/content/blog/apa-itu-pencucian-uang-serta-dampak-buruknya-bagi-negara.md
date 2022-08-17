@@ -7,7 +7,7 @@ metaDescription: Pencucian uang atau money laundering adalah tindak kejahatan
 intro: "Pencucian uang atau money laundering adalah kejahatan yang kerap
   dilakukan tokoh dan pejabat Indonesia untuk memperkaya diri sendiri dengan
   menyamarkan asal usul uang yang seolah dari kegiatan legal. "
-date: 2022-08-18T00:11:00.000Z
+date: 2022-08-17T12:11:39.806Z
 tag:
   - Investasi Bodong
   - Penipuan Telegram
