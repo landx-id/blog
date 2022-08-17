@@ -24,6 +24,8 @@ Berbagai guncangan terjadi menyebabkan pondasi harus diperkuat lagi agar dapat t
 
 Untuk melihat faktanya, berikut data pertumbuhan ekonomi Indonesia tahun 2019-2021 yang telah LandX rangkum.
 
+![ancaman resesi indonesia](img/landx_infografis_raih-kebebasan_multiple-post_02.png "ancaman resesi indonesia")
+
 ## Urutan Ke-14 dari Resesi di Negara Asia
 
 [IMF](https://landx.id/blog/apa-itu-imf-kegiatan-tujuan-dan-tanggapan-imf-terhadap-indonesia/) melakukan survei terhadap 15 negara di Asia terkait probabilitas terjadinya resesi dan Indonesia berada pada urutan yang melegakan yaitu ke-14 (data di atas hanya menunjukkan 14 negara karena data dari IMF ikut menghitung Selandia Baru yang berada pada posisi kedua). Resesi yang menghantui berbagai negara di dunia membuat berbagai elemen suatu negara khawatir dengan proyeksi masa depan.
@@ -31,6 +33,8 @@ Untuk melihat faktanya, berikut data pertumbuhan ekonomi Indonesia tahun 2019-20
 > IMF adalah lembaga keuangan dalam organisasi PBB.
 
 Walaupun masih jauh dari urutan pertama, masa depan adalah keadaan yang belum terjadi. Oleh karena itu, penting bagi kita sebagai masyarakat memersiapkan kondisi keuangan yang sehat seperti memiliki dana darurat serta mengikuti perkembangan berita seputar ekonomi dan bisnis.
+
+![pertumbuhan pdb](img/landx_infografis_raih-kebebasan_multiple-post_04.png "pertumbuhan pdb")
 
 ## Pertumbuhan PDB Kembali Positif di 2021
 
@@ -52,21 +56,21 @@ Manfaat mengetahui PDB adalah negara dapat mengetahui laju pertumbuhan ekonomi d
 
 Dalam menghitung PDB ada beberapa pendekatan, salah satu pendekatan paling sering digunakan adalah PDB pendekatan pengeluaran. PDB pendekatan pengeluaran dihitung dengan menjumlahkan total konsumsi rumah tangga, total investasi, total belanja negara, dan selisih total ekspor dan impor suatu periode.
 
-* Data Konsumsi Rumah Tangga Indonesia 2019-2021
+* ### Data Konsumsi Rumah Tangga Indonesia 2019-2021
 
 Data konsumsi rumah tangga mencerminkan tingkat konsumsi masyarakat Indonesia. Peningkatan angka konsumsi rumah tangga maka dapat diartikan daya beli masyarakat Indonesia meningkat. 
 
 Seperti yang ditunjukkan data Badan Pusat Statistik bahwa terjadi kontraksi peningkatan total konsumsi masyarakat hingga 2,02% tahun 2021 setelah sempat negatif pada tahun sebelumnya. Hal ini menunjukkan daya beli masyarakat meningkat dan perekonomian masuk masa pemulihan.
 
-* Data Total Investasi Indonesia 2019-2021
+* ### Data Total Investasi Indonesia 2019-2021
 
 Pasca pandemi, terlihat peningkatan total investasi di Indonesia pada tahun 2021 mencapai Rp 901,02 triliun. Peningkatan investasi dapat menggambarkan perekonomian Indonesia memiliki potensi baik di masa depan.
 
-* Data Total belanja Negara Indonesia 2019-2021
+* ### Data Total Belanja Negara Indonesia 2019-2021
 
 Contoh belanja negara adalah tercantum dalam Anggaran Pendapatan dan Belanja Negara atau APBN serta kegiatan pemerintah memberikan bantuan belanja subsidi, belanja hibah, belanja pegawai, hingga belanja bunga utang. 
 
-* Data Ekspor dan Impor Indonesia 2019-2021
+* ### Data Ekspor dan Impor Indonesia 2019-2021
 
 Berdasarkan data BPS, nilai ekspor-impor Indonesia yang tercatat stabil di tahun 2019 mengalami penurunan di tahun 2020 dikarenakan aturan ketat di berbagai negara. Namun, terlihat pemulihan nilai ekspor-impor di tahun 2021 dengan nilai ekspor yang lebih besar daripada nilai impor.
 
