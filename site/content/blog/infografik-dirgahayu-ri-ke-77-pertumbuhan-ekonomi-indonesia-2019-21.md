@@ -8,7 +8,13 @@ metaDescription: "Dirgahayu RI ke-77: Pulih Lebih Cepat, Bangkit Lebih Kuat –
   ada apa aja!"
 intro: "Dirgahayu RI ke-77: Pulih Lebih Cepat, Bangkit Lebih Kuat – Ini dia data
   yang buktikan terjadi pertumbuhan ekonomi Indonesia. Yuk lihat ada apa aja!"
+isPinned: true
 date: 2022-08-17T08:55:02.392Z
+tag:
+  - Ekonomi
+  - Inflasi
+category:
+  - Keuangan
 featuredImage:
   src: img/landx_infografis_raih-kebebasan_multiple-post_01.png
   alt: "Dirgahayu RI ke-77: Pulih Lebih Cepat, Bangkit Lebih Kuat – Ini dia data
@@ -16,7 +22,7 @@ featuredImage:
   title: "Dirgahayu RI ke-77: Pulih Lebih Cepat, Bangkit Lebih Kuat – Ini dia data
     yang buktikan terjadi pertumbuhan ekonomi Indonesia. Yuk lihat ada apa aja!"
 ---
-![data pertumbuhan ekonomi indonesia 2021](https://cdn.discordapp.com/attachments/913745757100711946/1009382662986793020/LandX_Infografis_Raih-Kebebasan_17-agustus.png)
+![data pertumbuhan ekonomi indonesia 2021](https://cdn.discordapp.com/attachments/913745757100711946/1009382662986793020/LandX_Infografis_Raih-Kebebasan_17-agustus.png "Pertumbuhan ekonomi Indonesia dari Tahun ke tahun")
 
 Pecahnya kasus Covid-19 pada tahun 2020 membuat perekonomian di berbagai dunia mengalami perosotan. Rencana yang telah dirancang oleh pemerintah maupun pemilik bisnis sejak tahun sebelumnya 2019 harus mengalami perubahan dan penyesuaian.
 
@@ -24,7 +30,7 @@ Berbagai guncangan terjadi menyebabkan pondasi harus diperkuat lagi agar dapat t
 
 Untuk melihat faktanya, berikut data pertumbuhan ekonomi Indonesia tahun 2019-2021 yang telah LandX rangkum.
 
-![ancaman resesi indonesia](img/landx_infografis_raih-kebebasan_multiple-post_02.png "ancaman resesi indonesia")
+![Resesi Indonesia dari tahun ke tahun hingga tahun 2021](img/landx_infografis_raih-kebebasan_multiple-post_02.png "ancaman resesi indonesia")
 
 ## Urutan Ke-14 dari Resesi di Negara Asia
 
@@ -34,7 +40,7 @@ Untuk melihat faktanya, berikut data pertumbuhan ekonomi Indonesia tahun 2019-20
 
 Walaupun masih jauh dari urutan pertama, masa depan adalah keadaan yang belum terjadi. Oleh karena itu, penting bagi kita sebagai masyarakat memersiapkan kondisi keuangan yang sehat seperti memiliki dana darurat serta mengikuti perkembangan berita seputar ekonomi dan bisnis.
 
-![pertumbuhan pdb](img/landx_infografis_raih-kebebasan_multiple-post_04.png "pertumbuhan pdb")
+![Pertumbuhan pdb Indonesia dari tahun ke tahun](img/landx_infografis_raih-kebebasan_multiple-post_04.png "Pertumbuhan PBD Indonesia pasca pandemi")
 
 ## Pertumbuhan PDB Kembali Positif di 2021
 
@@ -95,4 +101,10 @@ Melihat kabar terkini, ada empat faktor yang harus Anda ikuti terkait pertumbuha
 
 Dengan mengetahui dan mengikuti berita perekonomian dan bisnis, diharapkan kita bisa #RaihKebebasan sebagai masyarakat dapat memilih opsi terbaik dalam manajemen keuangan yang tahan banting segala kondisi seperti memiliki dana darurat, cash, serta alokasi investasi sesuai profil risiko.
 
-## Persiapkan Finansial Hadapi Ekonomi Masa Depan
+## [Persiapkan Finansial Hadapi Ekonomi Masa Depan](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)
+
+<!--StartFragment-->
+
+[![miliki bisnis modal kecil cuma dengan 1 jutaan dapat 4 cabang ](https://accountgram-production.sfo2.cdn.digitaloceanspaces.com/landx_ghost/2021/11/jadi-owner-bisnis-hanya-1-jutaan-dengan-cuan-yang-sangat-menjanjikan.png)](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)
+
+<!--EndFragment-->
