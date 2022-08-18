@@ -30,7 +30,11 @@ Berbagai guncangan terjadi menyebabkan pondasi harus diperkuat lagi agar dapat t
 
 Untuk melihat faktanya, berikut data pertumbuhan ekonomi Indonesia tahun 2019-2021 yang telah LandX rangkum.
 
-![Resesi Indonesia dari tahun ke tahun hingga tahun 2021](img/landx_infografis_raih-kebebasan_multiple-post_02.png "ancaman resesi indonesia")
+<!--StartFragment-->
+
+![](blob:https://keen-mestorf-9781e3.netlify.app/34834a9e-5a50-4a25-a09b-3e5a24078e56)
+
+<!--EndFragment-->
 
 ## Urutan Ke-14 dari Resesi di Negara Asia
 
@@ -40,7 +44,11 @@ Untuk melihat faktanya, berikut data pertumbuhan ekonomi Indonesia tahun 2019-20
 
 Walaupun masih jauh dari urutan pertama, masa depan adalah keadaan yang belum terjadi. Oleh karena itu, penting bagi kita sebagai masyarakat memersiapkan kondisi keuangan yang sehat seperti memiliki dana darurat serta mengikuti perkembangan berita seputar ekonomi dan bisnis.
 
-![Pertumbuhan pdb Indonesia dari tahun ke tahun](img/landx_infografis_raih-kebebasan_multiple-post_04.png "Pertumbuhan PBD Indonesia pasca pandemi")
+<!--StartFragment-->
+
+![](blob:https://keen-mestorf-9781e3.netlify.app/962780b9-9f78-40ff-8045-cfbb20bc84d0)
+
+<!--EndFragment-->
 
 ## Pertumbuhan PDB Kembali Positif di 2021
 
@@ -49,8 +57,12 @@ Indonesia memiliki pertumbuhan PDB yang baik pada tahun 2019, namun keadaan beru
 Adaptasi terhadap kondisi dan berbagai kebijakan yang diturunkan ternyata mampu membawa grafik PDB Indonesia naik kembali ke angka positif. Indonesia mencatatkan pertumbuhan PDB hingga 3,59% di tahun 2021.
 
 > Produk Domestik Bruto (PDB) = Gross Domestic Product (GDP)
-
-![sektor lapangan usaha pdb](img/landx_infografis_raih-kebebasan_multiple-post_05.png "sektor lapangan usaha pdb 2021")
+>
+> <!--StartFragment-->
+>
+> ![](blob:https://keen-mestorf-9781e3.netlify.app/c6197315-500c-47f6-9efd-968b82a1c8ab)
+>
+> <!--EndFragment-->
 
 ## 5 Sektor Lapangan Usaha Dominasi PDB 2021
 
@@ -82,7 +94,11 @@ Contoh belanja negara adalah tercantum dalam Anggaran Pendapatan dan Belanja Neg
 
 Berdasarkan data BPS, nilai ekspor-impor Indonesia yang tercatat stabil di tahun 2019 mengalami penurunan di tahun 2020 dikarenakan aturan ketat di berbagai negara. Namun, terlihat pemulihan nilai ekspor-impor di tahun 2021 dengan nilai ekspor yang lebih besar daripada nilai impor.
 
-![pertumbuhan ekonomi indonesia 2022](img/landx_infografis_raih-kebebasan_multiple-post_11.png "pertumbuhan ekonomi indonesia 2022")
+<!--StartFragment-->
+
+![](blob:https://keen-mestorf-9781e3.netlify.app/e3e7c0bb-a0d6-4271-802e-e2af58088c06)
+
+<!--EndFragment-->
 
 ## Indonesia Diprediksi Tumbuh Positif 2023!
 
