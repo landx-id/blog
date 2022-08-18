@@ -9,10 +9,17 @@ intro: Investment loan atau kredit investasi adalah pinjaman jangka menengah
   hingga panjang dari perbankan untuk pengembangan usaha. Pahami syarat dan
   contoh kredit investasi dalam artikel ini.
 date: 2022-08-16T09:42:03.162Z
+tag:
+  - Lembaga Keuangan
+  - Investasi Modal Kecil
+category:
+  - Bisnis
+  - Investasi
+  - Keuangan
 featuredImage:
   alt: Memahami Investment Loan, Kredit Investasi Solusi Para Pengusaha
   title: Memahami Investment Loan, Kredit Investasi Solusi Para Pengusaha
-  src: https://unsplash.com/photos/jpqyfK7GB4w
+  src: https://images.unsplash.com/photo-1633158829585-23ba8f7c8caf?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80
 ---
 Perekonomian Indonesia dikabarkan dapat bangkit dan pulih dari pandemi. Hal ini didukung **data pertumbuhan ekonomi Indonesia tahun 2021 yang tumbuh positif** dari tahun sebelumnya. 
 
@@ -94,3 +101,9 @@ Tahukah kamu,
 Selain membuka dan mengembangkan usaha sendiri terdapat cara menjadi pemilik usaha dengan menjadi investor bisnis melalui kegiatan investasi. 
 
 ## [Berinvestasi pada Bisnis Potensial Menguntungkan](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)
+
+<!--StartFragment-->
+
+[![miliki bisnis modal kecil cuma dengan 1 jutaan dapat 4 cabang ](https://accountgram-production.sfo2.cdn.digitaloceanspaces.com/landx_ghost/2021/11/jadi-owner-bisnis-hanya-1-jutaan-dengan-cuan-yang-sangat-menjanjikan.png)](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)
+
+<!--EndFragment-->
