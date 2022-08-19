@@ -2,13 +2,13 @@
 draft: false
 author: Abdul Wahhab
 slug: mau-memulai-bisnis-simak-cara-membangun-bisnis-menguntungkan-untuk-pemula
-title: Mau Memulai Bisnis? Cara Membangun Bisnis Menguntungkan untuk Pemula
-metaTitle: Mau Memulai Bisnis? Cara Membangun Bisnis Menguntungkan untuk Pemula
-metaDescription: Yuk pahami bagaimana cara membangun bisnis dari nol dan
-  berbagai persiapan yang harus dimiliki saat ingin memulai suatu bisnis
-intro: Yuk  simak cara memulai bisnis yang bisa memberikan kamu keuntungan
-  jangka panjang.
-date: 2021-09-15T01:44:26.000Z
+title: 5 Cara Bisnis untuk Pemula dan Tips Membangun BIsnis Menguntungkan
+metaTitle: 5 Cara Bisnis untuk Pemula dan Tips Membangun BIsnis Menguntungkan
+metaDescription: Yuk pahami bagaimana cara membangun bisnis dari nol dan cara
+  membangun bisnis untuk pemula
+intro: Yuk simak cara memulai bisnis untuk pemula yang bisa memberikan Anda
+  potensi keuntungan jangka panjang.
+date: 2022-08-19T09:29:34.506Z
 tag:
   - bisnis menguntungkan
   - bisnis investasi
@@ -34,7 +34,7 @@ Karena itu, yuk kita bahas bagaimana cara membangun bisnis agar bisa memberikan 
 
 - - -
 
-## Berbagai Persiapan Penting dalam Membangun Bisnis
+## Persiapan Penting dalam Membangun Bisnis
 
 Saat kamu memulai bisnis, kamu harus paham bahwa bisnis merupakan sesuatu yang penuh risiko sehingga anda harus mempertimbangkan hal tersebut dengan baik.
 
@@ -88,6 +88,36 @@ Penyusunan strategi yang baik dan kemampuan dalam mengelola bisnis tentu saja bi
 
 Namun, anda tidak boleh lupa bahwa dalam bisnis kita mungkin saja menghadapi berbagai kondisi tidak terduga yang bisa merugikan anda.
 
+## Cara Berbisnis yang Benar dan Menguntungkan
+
+Bisnis skala besar maupun kecil memiliki tujuan sama, yaitu mendapatkan keuntungan atau laba. Ini dia cara membangun bisnis untuk pemula yang harus Anda terapkan:
+
+1. ### Memahami Finansial Perusahaan
+
+Saat baru merintis usaha, mengelola keuangan perusahaan adalah hal yang harus diperhatikan. Karena mendapatkan keuntungan yang dapat diandalkan untuk pengembangan perusahaan sangatlah penting untuk keberlangsungan.
+
+Anda perlu memiliki pengetahuan dasar tentang istilah keuangan dan kemampuan membaca laporan keuangan. Mampu membaca neraca, laporan laba rugi, dan laporan arus kas mengartikan Anda akan dapat berpartisipasi penuh dalam percakapan tentang bagaimana menghasilkan keuntungan.
+
+2. ### Membuat Business Map
+
+Business map adalah peta visual dari cara kerja bisnis atau alur proses bisnis dari awal hingga tahap akhir. Mengetahui business map atau memetakan perusahaan Anda akan membantu mengidentifikasi posisi perusahaan di mata konsumen, kompetitor, dan pasar.
+
+Membuat business map membantu melihat keunggulan apa yang dimiliki bisnis dibanding pesaing serta membantu menentukan tujuan jangka panjang yang ingin dicapai.
+
+3. ### Buatlah SMART Goals
+
+Memiliki tujuan (goals) yang realistis dengan metode SMART: Specific, Measurable, Achievable, Realistic dan ada Time Frame. Contoh tujuan tidak realistis adalah ketika perusahaan baru didirikan hari ini tapi minggu depan menginginkan pendapatan Rp 10 miliar, caranya gimana??
+
+Jadi cara menentukan tujuan dengan SMART goal yaitu menentukan tujuan yang spesifik serta dapat dicapai dan diukur atau ditrack hasilnya berkala dalam frame waktu yang ditentukan dan sesuai dengan visi perusahaan. 
+
+4. ### Mengetahui Celah untuk Meningkatkan Perusahaan
+
+Ketahui apa hambatan atau kekurangan dari internal perusahaan Anda. Misal leadership dari suatu tim kurang baik atau ada masalah dari suatu divisi? Selain itu, lihat juga diri Anda apakah emosi dan preferensi Anda menghambat perusahaan berkembang?
+
+5. ### Memiliki Tim yang Tepat
+
+Identifikasi kekuatan dan kelemahan Anda dalam mengelola bisnis. Kemudian tentukan siapa yang perlu Anda pekerjakan untuk mengisi celah tersebut. Mungkin Anda membutuhkan seorang akuntan atau tim sales yang proaktif. Maka kata hire right atau memiliki dan memiliki tim yang tepat harus diterapkan.
+
 ## Bisnis yang Bagus untuk Pemula
 
 Bagi pemula, bisnis yang bagus sebenarnya adalah berbisnis dengan sistem kemitraan franchise. Hal ini karena sistem ini bisa mempermudah kamu dalam proses persiapan bisnis yang akan sangat sulit untuk disiapkan sendiri apabila kamu tidak memiliki pengalaman sebelumnya. 
@@ -98,13 +128,29 @@ Selain itu, cara ini membuat usaha anda memakan biaya yang lebih kecil karena ka
 
 Akan tetapi, sistem ini tidak menjadi jaminan kesuksesan dari bisnis anda karena pasti ada berbagai risiko tidak terduga dalam bisnis yang penting untuk kamu waspadai. Karena itu, mari kita bahas berbagai risiko yang harus anda perhatikan saat membangun suatu bisnis.
 
+### **Tips Bisnis Bagi Pemula**
+
+Untuk Anda yang baru memulai bisnis, ada beberapa pertimbangan tips tambahan saat membangun fondasi yang diperlukan untuk mengembangkan bisnis agar berkelanjutan. Berikut saran Forbes bagi Anda yang ingin mengetahui cara membangun usaha yang tepat:
+
+* Sempurnakan Ide Bisnis Anda
+* Kenali Pesaing dan Pasar Anda
+* Buat Rencana Bisnis Anda
+* Pilih Struktur Bisnis Anda
+* Daftarkan Bisnis Anda dan Urus Dokumen Legalnya
+* Atur Keuangan Perusahaan Anda
+* Atur Pendanaan Bisnis Anda
+* Mendaftar Asuransi Bisnis
+* Pilih Alat Bisnis yang Tepat
+* Promosikan Bisnis Anda
+* Tingkatkan Skala Bisnis Anda
+
 ## **Risiko dalam Membangun Bisnis**
 
 Dibalik potensi keuntungan yang besar, membangun bisnis juga memiliki risiko yang besar sehingga anda harus berhati-hati dalam membangun bisnis.
 
 Tingginya risiko kerugian ini juga disebabkan oleh masih kurangnya pengalaman anda sebagai pemula dalam mengelola bisnis. Oleh sebab itu, anda harus melakukan analisis dengan baik sebelum memulai suatu bisnis.
 
-Apabila anda belum sanggup untuk menanggung risiko ini, ada cara yang lebih mudah yaitu investasi bisnis dengan skema [**equity crowdfunding**.](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog) 
+Apabila anda belum sanggup untuk menanggung risiko yang besar, ada cara yang lebih mudah yaitu investasi bisnis dengan skema [**equity crowdfunding**.](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog) 
 
 Sistem ini membuat risiko kerugian anda menjadi lebih kecil karena bisnis yang anda danai akan dikelola oleh pihak yang sudah berpengalaman. Selain itu, cara ini sangat cocok untuk pemula karena investasi ini bisa dimulai dengan modal kecil.
 
