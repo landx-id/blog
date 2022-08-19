@@ -2,13 +2,21 @@
 draft: false
 author: Rafa Syawalia R
 title: "Emiten Adalah: Pengertian & Perbedaan Emiten dengan Perusahaan Publik"
-metaTitle: "Emiten Adalah: Pengertian & Perbedaan Emiten dengan Perusahaan Publik"
+metaTitle: Memahami Apa Itu Emiten dalam Pasar Modal dan Investasi
 metaDescription: Emiten adalah pihak yang melakukan penawaran umum berupa efek
   kepada masyarakat luas yang diatur oleh undang-undang.
 intro: Emiten adalah pihak yang menawarkan efek kepada masyarakat publik ketika
   melakukan penawaran umum. Yuk ketahui apa saja efek yang ditawarkan serta beda
   emiten dan perusahaan publik dalam artikel ini.
 date: 2022-08-19T04:34:07.356Z
+tag:
+  - Investasi Saham
+  - Investasi untuk Pemula
+  - Cara Investasi Saham
+  - Strategi Investasi
+category:
+  - Binsis
+  - Investasi
 featuredImage:
   title: "Emiten Adalah: Pengertian & Perbedaan Emiten dengan Perusahaan Publik"
   alt: "Emiten Adalah: Pengertian & Perbedaan Emiten dengan Perusahaan Publik"
@@ -91,3 +99,9 @@ Sebagai pengingat, kegiatan investasi merupakan kegiatan yang mengandung risiko.
 Karena itu, sesuaikan profil risiko anda dengan instrumen investasi pilihan.
 
 ## [Lihat Instrumen Investasi Lainnya di Sini](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)
+
+<!--StartFragment-->
+
+[![miliki bisnis modal kecil cuma dengan 1 jutaan dapat 4 cabang ](https://accountgram-production.sfo2.cdn.digitaloceanspaces.com/landx_ghost/2021/11/jadi-owner-bisnis-hanya-1-jutaan-dengan-cuan-yang-sangat-menjanjikan.png)](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)
+
+<!--EndFragment-->
