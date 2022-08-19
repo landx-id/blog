@@ -5,9 +5,9 @@ title: Apa Itu Angel Investor? Perbedaan Angel Investor dan Venture Capital
 metaTitle: Apa Itu Angel Investor? Perbedaan Angel Investor dan Venture Capital
 metaDescription: Angel investor adalah individu yang bersedia menyediakan dana
   untuk pengembangan startup, bisnis kecil dengan kekayaan pribadinya.
-intro: Biasanya, angel investor dikenal dengan private investor karena dana yang
-  diberikan seorang individu angel investor ini bertujuan untuk membantu usaha
-  kecil atau bisnis yang ingin keluar dari masa sulitnya.
+intro: Biasanya, angel investor dikenal sebagai private investor karena dana
+  yang diberikan seorang individu angel investor ini bertujuan untuk membantu
+  usaha kecil atau bisnis yang ingin keluar dari masa sulitnya.
 date: 2022-08-19T09:45:31.901Z
 featuredImage:
   title: Apa Itu Angel Investor? Perbedaan Angel Investor dan Venture Capital
