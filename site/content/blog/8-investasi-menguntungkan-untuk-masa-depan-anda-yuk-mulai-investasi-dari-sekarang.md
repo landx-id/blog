@@ -130,7 +130,22 @@ Sistem P2P lending termasuk dalam list modal minim investasi itu apa saja. P2P l
 
 Konsep pemberian pinjaman dalam peer-to-peer lending memberikan anda kesempatan untuk investasi dengan modal kecil karena pendanaan akan dihimpun dari berbagai investor dalam cakupan yang luas.
 
-## 8. [Equity Crowdfunding](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)
+## 8. Obligasi atau Surat Berharga Negara (SBN)
+
+Macam-macam investasi itu apa saja selanjutnya adalah obligasi atau Surat Berharga Negara (SBN). Dokumen ini adalah surat utang jangka menengah panjang yang dapat
+dipindahtangankan dan dikeluarkan oleh korporasi atau lembaga resmi pemerintah. 
+
+Sederhananya, penerbit obligasi adalah debitur, sementara pembeli obligasi adalah kreditur (investor). Kamu akan meminjamkan uang kepada negara atau korporasi yang menerbitkan jenis obligasi/surat hutang. 
+
+Nantinya, keuntungan yang kamu dapat sebagai kreditur adalah bunga dari nominal yang dipinjamkan.
+
+## 9. Sukuk
+
+Berikutnya, modal kecil dalam pilihan investasi itu apa saja adalah Sukuk yang merupakan Obligasi negara atau korporasi dengan sistem syariah. Sederhanya, Sukuk atau Obligasi Syariah adalah suatu surat berharga jangka panjang berdasarkan prinsip syariah yang dikeluarkan Emiten.
+
+Emiten diwajibkan untuk membayar pendapatan kepada pemegang Obligasi Syariah berupa bagi hasil, margin fee, dan membayar kembali dana obligasi pada saat jatuh tempo. Sederhananya, Sukuk adalah obligasi yang menghindari riba.
+
+## 10. [Equity Crowdfunding](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)
 
 **Equity crowdfunding** termasuk juga ke dalam merupakan jenis pendanaan kepada bisnis berbasis ekuitas yang akan memberikan anda keuntungan dalam jangka panjang. Berinvestasi lewat equity crowdfunding memberikan anda bagian kepemilikan dari sebuah bisnis yang telah anda danai.
 
