@@ -6,8 +6,9 @@ title: "Membangun Aset jangka Panjang lewat Investasi Urun Dana "
 metaTitle: "Membangun Aset jangka Panjang lewat Investasi Urun Dana "
 metaDescription: Simak bagaimana cara membangun aset menguntungkan lewat
   investasi melalui sistem urun dana
-intro: Yuk simak tips membangun aset investasi menguntungkan lewat sistem urun dana
-date: 2021-04-21T03:43:10.000Z
+intro: "Yuk simak tips membangun aset investasi menguntungkan lewat sistem urun
+  dana. "
+date: 2022-08-20T18:24:08.548Z
 tag:
   - bisnis investasi
   - Investasi Menguntungkan
@@ -72,9 +73,30 @@ Hal ini agar anda tidak bergantung hanya pada 1 jenis investasi saja dan memperk
 
 - - -
 
+## Contoh Sistem Investasi Urun
+
+Saat ini, terdapat banyak opsi investasi modal minim yang dapat kamu akses dengan mudah, salah satunya adalah kepemilikan saham bisnis UMKM potensial dengan skema equity crowdfunding lewat [platform LandX](https://landx.id/). 
+
+Dalam skema equity crowdfunding, terdapat tiga pihak yang terlibat, yakni pihak bisnis yang membutuhkan pendanaan (penerbit), platform online penyelenggara seperti LandX, dan investor publik. 
+
+Pihak penerbit diharuskan untuk mengajukan proposal atau prospektus yang berisi informasi bisnis, proyek yang akan dijalankan, dan laporan keuangan periode terbaru, serta prospek usaha kedepannya ke platform LandX.
+
+Setelah itu, LandX akan melakukan verifikasi secara menyeluruh tentang prospektus yang diajukan hingga akhirnya, saham UMKM tersebut bisa listing atau tercatat dibuka kepada publik secara online agar investor yang tertarik dapat membeli sejumlah lot saham UMKM penerbit atau disebut juga pendanaan bagi bisnisnya.
+
+
+Umumnya, saham UMKM yang listing di LandX menawarkan pembagian dividen secara rutin dan persentasenya sudah tertera di prospektus. 
+
+Tidak perlu khawatir tentang tingkat sekuritas skema investasi saham UMKM atau urun dana. Karena, skema SCF telah diatur dalam peraturan OJK (otoritas jasa keuangan) lewat POJK No. 57/POJK.04/2020 tentang penawaran efek melalui layanan urunan dana berbasis teknologi Informasi (Securities Crowdfunding).
+
+Karena platform LandX  sepenuhnya diawasi oleh OJK, maka investasi sistem urun dana ini pastinya aman dan terpercaya.
+
+
+
+
+
 ## Mengubah Gaya Hidup
 
-Salah satu kunci sukses  membangun aset investasi anda adalah konsistensi anda dalam melakukan investasi, karena investasi bukan masalah besar kecil dana yang anda  keluarkan tapi bagaimana konsistensi anda meningkatkan nilai investasi anda dari waktu ke waktu.
+Salah satu kunci sukses membangun aset investasi anda adalah konsistensi anda dalam melakukan investasi, karena investasi bukan masalah besar kecil dana yang anda  keluarkan tapi bagaimana konsistensi anda meningkatkan nilai investasi anda dari waktu ke waktu.
 
 Karena itu anda perlu membangun mindset tentang pentingnya berinvestasi dan mulai mengurangi hal-hal yang tidak penting yang membutuhkan biaya besar. Anda bisa mulai dengan meningkatkan porsi investasi dibandingkan biaya hiburan anda atau mulai menghindari berhutang untuk keperluan yang sifatnya hanya konsumtif saja.
 
@@ -82,7 +104,7 @@ Hal ini mungkin tidak akan anda rasakan sekarang, namun dalam beberapa tahun ke 
 
 **Oleh sebab itu,** \*\*\*\*\*\* ayo mulai [investasi urun dana](https://landx.id/) anda bersama LandX dengan [modal hanya 1 juta](https://landx.id/). LandX menyediakan berbagai pilihan bisnis yang tepat untuk membangun aset investasi jangka panjang anda. Yuk bangun aset investasi anda dengan urun dana bersama [LandX](https://landx.id/).
 
-## [Yuk, jadi bos bisnis dan terima keuntungan rutin di LandX](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)
+## [Yuk, Jadi Bos Bisnis dengan Sistem Urun Dana Lewat LandX!](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)
 
 [![miliki bisnis modal kecil cuma dengan 1 jutaan dapat 4 cabang ](https://accountgram-production.sfo2.cdn.digitaloceanspaces.com/landx_ghost/2021/11/jadi-owner-bisnis-hanya-1-jutaan-dengan-cuan-yang-sangat-menjanjikan.png)](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)
 
