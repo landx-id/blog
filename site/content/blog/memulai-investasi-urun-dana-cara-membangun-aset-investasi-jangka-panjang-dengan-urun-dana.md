@@ -26,13 +26,17 @@ category:
   - Bisnis
   - Cara Investasi di Securities Crowdfunding
 ---
-Investasi [urun dana](https://landx.id/) atau [equity crowdfunding](https://landx.id/) adalah salah satu cara untuk membangun aset dari nol yang merupakan hal penting untuk disiapkan oleh setiap orang sejak dini. Hal ini bertujuan agar mempermudah pencapaian tujuan finansial anda. Salah satu aset yang penting untuk anda bangun adalah aset investasi, mulai membangun investasi akan membuat nilai aset yang anda miliki terus berkembang seiring berjalannya waktu.
+Investasi [urun dana](https://landx.id/) atau [equity crowdfunding](https://landx.id/) adalah salah satu cara untuk membangun aset dari nol yang merupakan hal penting untuk disiapkan oleh setiap orang sejak dini. Hal ini bertujuan agar mempermudah pencapaian tujuan finansial anda. 
+
+Salah satu aset yang penting untuk anda bangun adalah aset investasi, mulai membangun investasi akan membuat nilai aset yang anda miliki terus berkembang seiring berjalannya waktu.
 
 Karena itu anda harus pintar memilih investasi yang bisa memberikan anda keuntungan yang bisa anda gunakan untuk membangun aset anda menjadi lebih besar lagi dari waktu ke waktu. Karena anda harus bijak memilih aset yang bisa menghasilkan uang bukan malah menimbulkan beban pengeluaran baru untuk anda.
 
 Walaupun bukan hal yang mudah, membangun aset dari nol akan menjadi lebih mudah asalkan anda bisa memilih investasi yang tepat dan bisa memberikan keuntungan dalam jangka panjang untuk anda. Salah satu pilihan investasi yang sangat cocok membangun aset anda adalah investasi bisnis yang bisa anda mulai dengan modal kecil melalui sistem urun dana atau [equity crowdfunding](https://landx.id/).
 
-Indonesia sekarang sudah resmi mengizinkan dan mengawasi sistem ini sehingga anda bisa mulai berinvestasi ke dalam bisnis yang lewat urun dana yang akan memberikan anda kepemilikan saham, dividen dan capital gain yang dapat membantu pertumbuhan aset yang anda miliki. Karena itu mari kita bahas berbagai hal yang dapat membantu anda dalam memulai investasi bisnis.
+Indonesia sekarang sudah resmi mengizinkan dan mengawasi sistem ini sehingga anda bisa mulai berinvestasi ke dalam bisnis yang lewat urun dana yang akan memberikan anda kepemilikan saham, dividen dan capital gain yang dapat membantu pertumbuhan aset yang anda miliki. 
+
+Karena itu mari kita bahas berbagai hal yang dapat membantu anda dalam memulai investasi bisnis lewat sistem urun dana di pembahasan kali ini.
 
 - - -
 
@@ -42,19 +46,25 @@ Keuntungan yang akan anda dapatkan dalam [investasi urun dana](https://landx.id/
 
 Oleh sebab itu anda harus pahami terlebih dahulu bagaimana keadaan dari bisnis tersebut. Dalam [urun dana](https://landx.id/), anda akan diberikan berbagai jenis bisnis yang bisa jadi tempat anda berinvestasi sehingga anda harus pintar memilih bisnis seperti apa yang akan anda  pilih sesuai dengan riset dan pertimbangan anda.
 
-Hal simpel yang bisa anda lakukan adalah melihat bagaimana kondisi bisnis ini dalam beberapa tahun belakangan untuk melihat apakah mereka masih memiliki potensi untuk berkembang ke dalam skala lebih besar lagi nantinya.
+Hal simpel yang bisa anda lakukan sebelum investasi urun dana adalah melihat bagaimana kondisi bisnis ini dalam beberapa tahun belakangan untuk melihat apakah mereka masih memiliki potensi untuk berkembang ke dalam skala lebih besar lagi nantinya.
 
 Apabila bisnis ini memang berkembang pesat pada pasar sebelumnya, maka anda bisa memprediksi bagaimana tingkat kesuksesan dari bisnis ini saat anda danai untuk ekspansi ke pasar yang lebih luas.
 
-Selain itu anda juga harus melihat bagaimana bisnis ini akan dikelola dalam jangka panjang agar anda bisa menghitung apakah bisnis ini sesuai dengan profil risiko yang anda miliki. Selanjutnya adalah anda harus menghitung [return on investment](https://landx.id/) dari investasi yang anda lakukan bisa membuat rencana membangun aset investasi anda.
+Selain itu anda juga harus melihat bagaimana bisnis ini akan dikelola dalam jangka panjang agar anda bisa menghitung apakah bisnis ini sesuai dengan profil risiko yang anda miliki. 
+
+Selanjutnya, sebelum memutuskan investasi urun dana, anda harus menghitung [return on investment](https://landx.id/) dari investasi yang anda lakukan bisa membuat rencana membangun aset investasi anda.
 
 ## Mengoptimalkan Return on Investment
 
-Dalam investasi anda akan diberikan berbagai bentuk return on investment seperti *interest* atau bunga, dividen atau capital gain. Dalam investasi urun dana sendiri, anda akan mendapatkan berpotensi untuk mendapatkan dua jenis return on investment yaitu dividen dan capital gain.
+Dalam investasi sistem urun dana anda akan diberikan berbagai bentuk return on investment seperti *interest* atau bunga, dividen atau capital gain. Dalam investasi urun dana sendiri, anda akan mendapatkan berpotensi untuk mendapatkan dua jenis return on investment yaitu dividen dan capital gain.
 
-Dalam membangun aset investasi, anda harus pintar mengoptimalkan return dari investasi yang telah anda dapatkan. Dalam investasi jangka panjang, return yang telah anda dapatkan sebaiknya dikembangkan kembali ke dalam investasi lain sehingga pada periode berikutnya anda bisa mendapatkan return yang lebih besar lagi.
+Dalam membangun aset investasi, anda harus pintar mengoptimalkan return dari investasi yang telah anda dapatkan, mau itu investasi di sistem urun dana atau aset investasi lainnya. 
 
-Sistem ini akan membuat nilai investasi anda terus berkembang lebih cepat lagi. Sistem ini disebut [efek compounding](https://landx.id/) dari investasi yang akan membuat dana anda bisa meningkat dengan pesat.  Dalam urun dana hal ini sangat mungkin anda lakukan dengan menambah saham bisnis yang anda milik dengan dana dividen yang telah anda dapatkan.
+Apalagi, untuk investasi jangka panjang, return yang telah anda dapatkan sebaiknya dikembangkan kembali ke dalam investasi lain sehingga pada periode berikutnya anda bisa mendapatkan return yang lebih besar lagi.
+
+Sistem ini akan membuat nilai investasi anda terus berkembang lebih cepat lagi. Sistem ini disebut [efek compounding](https://landx.id/) dari investasi yang akan membuat dana anda bisa meningkat dengan pesat. 
+
+Dalam urun dana hal ini sangat mungkin anda lakukan dengan menambah saham bisnis yang anda milik dengan dana dividen yang telah anda dapatkan.
 
 ## Lakukan Diversifikasi
 
