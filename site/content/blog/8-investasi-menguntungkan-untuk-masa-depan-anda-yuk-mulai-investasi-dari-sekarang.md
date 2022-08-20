@@ -10,7 +10,7 @@ metaDescription: Macam-macam investasi ini wajib diketahui kalau mau lancar
 intro: Macam-macam investasi ini wajib diketahui kalau kamu mau lancar menyusun
   keuangan ideal jangka panjang. Ingin tahu caranya? Yuk simak instrumen
   investasi itu apa saja lewat artikel ini!
-date: 2022-01-11T09:03:00.000Z
+date: 2022-08-20T19:02:51.466Z
 tag:
   - bisnis investasi
   - crowdfunding
@@ -40,9 +40,9 @@ Menyiapkan [investasi terbaik](https://www.akseleran.co.id/blog/investasi-terbai
 
 Kini, menyusun instrumen **[investasi terbaik](https://www.akseleran.co.id/blog/investasi-terbaik/)** untuk masa depan bukanlah sesuatu yang sulit karena akses investasi semakin mudah dan bisa dimulai dengan modal yang relatif kecil sehingga kita bisa mulai berinvestasi se-dini mungkin.
 
-Pilihan instrumen pun kini kian beragam sehingga kita dapat dengan lebih mudah menyesuaikan jenis instrumen dengan tujuan finansial kamu di masa mendatang. Mari ketahui instrumen investasi itu apa saja lewat pembahasan berikut!
+Pilihan instrumen pun kini kian beragam sehingga kita dapat dengan lebih mudah menyesuaikan jenis instrumen dengan tujuan finansial kamu di masa mendatang. Mari ketahui instrumen investasi itu apa saja serta macam-macam investasi lewat pembahasan berikut!
 
-## Investasi Modal Kecil Untung Besar
+## Macam-macam Investasi Modal Kecil Untung Besar
 
 Dalam memilih instrumen investasi, setiap investor tentu saja menginginkan investasi modal kecil dengan untung besar. Namun kamu harus ingat bahwa setiap investasi memiliki risiko yang sejalan dengan potensi keuntungan yang mereka berikan.  
 
