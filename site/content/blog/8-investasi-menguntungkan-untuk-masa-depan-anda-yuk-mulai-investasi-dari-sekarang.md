@@ -52,11 +52,17 @@ Karena itu, yuk cek 10 jenis investasi di Indonesia yang bisan menjadi pilihan m
 
 ## Jenis-jenis Investasi Modal Kecil untuk Keuntungan Jangka Panjang Anda
 
+Berbicara tentang modal minim, instrumen investasi itu apa saja sih yang bisa jadi pilihan? 
+
+Hadirnya perkembangan teknologi, sekarang 10 jenis investasi di Indonesia ini bisa jadi opsimu!
+
 ## 1. Investasi Properti
 
-Properti bisa menjadi pilihan investasi jangka panjang anda yang akan memberikan anda keuntungan di masa mendatang. Memilih properti yang tepat akan memberikan kamu keuntungan jangka panjang untuk membantu kamu membangun aset dengan keuntungan passive income jangka panjang.
+Gak perlu bingung ketika ditanya investasi itu apa saja, investasi properti pastinya masuk opsi pilihan teratas investasi jangka panjang anda yang akan memberikan anda keuntungan di masa mendatang. 
 
-Dalam [](https://landx.id/) memilih properti,  kamu harus memilih properti dengan prospek menjanjikan di masa mendatang seperti potensi keramaian atau bisnis yang akan muncul sehingga harga sewa dapat meningkat sehingga diikuti juga dengan kenaikan harga properti anda.
+Memilih properti yang tepat akan memberikan kamu keuntungan jangka panjang untuk membantu kamu membangun aset dengan keuntungan passive income jangka panjang.
+
+Dalam [](https://landx.id/) memilih properti, kamu harus memilih properti dengan prospek menjanjikan di masa mendatang seperti potensi keramaian atau bisnis yang akan muncul sehingga harga sewa dapat meningkat sehingga diikuti juga dengan kenaikan harga properti anda.
 
 Properti menjadi salah satu instrumen investasi masa kini yang bisa diakses dengan modal 1 jutaan lewat crowdfunding properti yang memberikan kamu kesempatan untuk ikut patungan membangun sebuah properti yang bisa memberikan kamu keuntungan jangka panjang.
 
@@ -72,7 +78,7 @@ Properti menjadi salah satu instrumen investasi masa kini yang bisa diakses deng
 
 ## 2. Investasi Agribisnis
 
-Indonesia memiliki potensi pertanian yang sangat besar di masa mendatang. Berinvestasi lewat pertanian bisa menjadi pilihan tepat dan bisa memberikan keuntungan besar di masa mendatang.
+Indonesia memiliki potensi pertanian yang sangat besar di masa mendatang. Jadi, pilihan investasi itu apa saja, tentu berinvestasi lewat pertanian bisa menjadi pilihan tepat dan bisa memberikan keuntungan besar di masa mendatang.
 
 Apabila kamu tidak memiliki kemampuan untuk mengelola secara langsung pertanian yang anda miliki, anda bisa berinvestasi lewat crowdfunding yang memberikan anda kesempatan untuk melakukan patungan membangun bisnis pertanian dengan potensi keuntungan menjanjikan.
 
@@ -80,7 +86,7 @@ Apabila kamu tidak memiliki kemampuan untuk mengelola secara langsung pertanian 
 
 Menyimpan uang dalam bentuk emas merupakan salah satu investasi yang bisa anda lakukan untuk menjaga uang anda agar tidak tergerus inflasi dan mengalami penurunan. Selain itu emas juga memiliki potensi kenaikan nilai dari tahun ke tahun sehingga bisa memberikan anda keuntungan.
 
-Kini akses investasi emas semakin mudah karena adanya platform yang memberikan akses untuk membeli emas secara online sehingga investasi emas anda bisa dilakukan dengan lebih mudah.
+Pilihan modal minim investasi itu apa saja? tentu emas kini masuk ke rekomendasi. Karena sekarang akses investasi emas semakin mudah lewat platform yang memberikan akses untuk membeli emas secara online sehingga investasi emas anda bisa dilakukan dengan lebih mudah.
 
 ## 4. Saham
 
@@ -120,13 +126,13 @@ Deposito memiliki risiko sangat kecil sehingga cocok untuk pemula  yang ingin mu
 
 ## 7. P2P Lending
 
-Sistem ini [berbasis online](https://landx.id/) yang berpotensi memberikan anda keuntungan dengan meminjamkan dana anda kepada pihak membutuhkan dana dan akan mendapatkan keuntungan berupa bunga pinjaman.
+Sistem P2P lending termasuk dalam list modal minim investasi itu apa saja. P2P lending adalah sistem [berbasis online](https://landx.id/) yang berpotensi memberikan anda keuntungan dengan meminjamkan dana anda kepada pihak membutuhkan dana dan akan mendapatkan keuntungan berupa bunga pinjaman.
 
 Konsep pemberian pinjaman dalam peer-to-peer lending memberikan anda kesempatan untuk investasi dengan modal kecil karena pendanaan akan dihimpun dari berbagai investor dalam cakupan yang luas.
 
 ## 8. [Equity Crowdfunding](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)
 
-**Equity crowdfunding** merupakan jenis pendanaan kepada bisnis berbasis ekuitas yang akan memberikan anda keuntungan dalam jangka panjang. Berinvestasi lewat equity crowdfunding memberikan anda bagian kepemilikan dari sebuah bisnis yang telah anda danai.
+**Equity crowdfunding** termasuk juga ke dalam merupakan jenis pendanaan kepada bisnis berbasis ekuitas yang akan memberikan anda keuntungan dalam jangka panjang. Berinvestasi lewat equity crowdfunding memberikan anda bagian kepemilikan dari sebuah bisnis yang telah anda danai.
 
 Lewat sistem ini, anda akan mendapatkan bagian kepemilikan sehingga anda berhak mendapatkan keuntungan berupa dividen saat bisnis untung dan capital gain karena potensi kenaikan harga saham dari bisnis yang anda miliki.
 
