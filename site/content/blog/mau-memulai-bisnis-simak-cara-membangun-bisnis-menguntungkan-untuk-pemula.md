@@ -2,8 +2,8 @@
 draft: false
 author: Abdul Wahhab
 slug: mau-memulai-bisnis-simak-cara-membangun-bisnis-menguntungkan-untuk-pemula
-title: 5 Cara Bisnis untuk Pemula dan Tips Membangun BIsnis Menguntungkan
-metaTitle: 5 Cara Bisnis untuk Pemula dan Tips Membangun BIsnis Menguntungkan
+title: 5 Cara Bisnis untuk Pemula dan Tips Membangun Bisnis Menguntungkan
+metaTitle: 5 Cara Bisnis untuk Pemula dan Tips Membangun Bisnis Menguntungkan
 metaDescription: Yuk pahami bagaimana cara membangun bisnis dari nol dan cara
   membangun bisnis untuk pemula
 intro: Yuk simak cara memulai bisnis untuk pemula yang bisa memberikan Anda
