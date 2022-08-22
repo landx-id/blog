@@ -9,6 +9,13 @@ intro: Biasanya, angel investor dikenal sebagai private investor karena dana
   yang diberikan seorang individu angel investor ini bertujuan untuk membantu
   usaha kecil atau bisnis yang ingin keluar dari masa sulitnya.
 date: 2022-08-19T09:45:31.901Z
+tag:
+  - Venture Capital
+  - Investor Adalah
+  - Cara Jadi Investor
+category:
+  - Investasi
+  - Bisnis
 featuredImage:
   title: Apa Itu Angel Investor? Perbedaan Angel Investor dan Venture Capital
   alt: Apa Itu Angel Investor? Perbedaan Angel Investor dan Venture Capital
@@ -22,7 +29,7 @@ Selain itu, tipe investor ini hampir mirip dengan pendanaan yang dilakukan ventu
 
 Karena itu, yuk kita bahas bersama-sama mengenai apa itu angel investor? Bagaimana karakteristik angel investor ini? Serta apa perbedaan angel investor dan venture capital?
 
-## Apa itu Angel Investor?
+## Apa Itu Angel Investor?
 
 **Angel investor adalah** seseorang sebagai individu yang menyediakan dana untuk bisnis-bisnis kecil, dana tersebut biasanya digunakan untuk pengembangan operasional usaha dengan imbalan yang diterima sebagai kepemilikan saham dari perusahaan rintisan atau startup, bisnis kecil, dan sebagainya yang mungkin membantu mereka melewati tahapan awal dalam membangun bisnis.
 
@@ -97,3 +104,9 @@ Dengan skema [equity crowdfunding](https://landx.id/), Anda bersama masyarakat l
 [LandX](https://landx.id/) merupakan salah satu platform [equity crowdfunding](https://landx.id/) yang telah berpengalaman melakukan crowdfunding bagi berbagai bisnis-bisnis di berbagai sektor industri. Untuk mengetahui investasi dengan skema ini, pastikan melalui platform terpercaya, aman dan sudah berizin OJK seperti [LandX](https://landx.id/) ya!
 
 ## [Berinvestasi pada Bisnis Potensial Menguntungkan Sekarang Juga!](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)
+
+<!--StartFragment-->
+
+[![miliki bisnis modal kecil cuma dengan 1 jutaan dapat 4 cabang ](https://accountgram-production.sfo2.cdn.digitaloceanspaces.com/landx_ghost/2021/11/jadi-owner-bisnis-hanya-1-jutaan-dengan-cuan-yang-sangat-menjanjikan.png)](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)
+
+<!--EndFragment-->
