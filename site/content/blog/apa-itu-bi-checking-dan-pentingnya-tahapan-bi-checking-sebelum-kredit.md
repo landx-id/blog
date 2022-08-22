@@ -177,7 +177,7 @@ Apalagi, jika kamu punya rencana mengajukan kredit untuk membangun usaha atau pu
 
 Salah satu cara terbaik untuk terhindar dari utang yang dapat merusak skor BI checking, utamakan untuk menabung dana darurat, tabungan masa depan, dan alokasikan pemasukanmu untuk berinvestasi.
 
-Mengapa menabung saja tidak cukup dan harus disertai dengan investasi? Hal ini karena jika kamu menabung di bank saja, pasti terdapat biaya administrasi yang adanya faktor inflasi bisa terjadi kapan saja. Kedua kondisi sederhana yang kemungkinan besar pasti terjadi ini dapat menggerus nilai uang yang kamu.
+Mengapa menabung saja tidak cukup dan harus disertai dengan investasi? Hal ini karena jika kamu menabung di bank saja, pasti terdapat biaya administrasi yang adanya faktor inflasi bisa terjadi kapan saja. Kedua kondisi sederhana yang kemungkinan besar pasti terjadi dapat menggerus nilai uang yang kamu.
 
 Untuk menghindari berkurangnya nilai uang, melakukan investasi di aset yang tepat adalah cara paling strategis. Karena dengan berinvestasi, modal awal yang kamu tanamkan berpotensi untuk mendulang keuntungan yang lebih besar di masa depan. 
 
