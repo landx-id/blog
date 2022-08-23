@@ -40,7 +40,7 @@ Investasi adalah kegiatan menanamkan modal dengan harapan memberikan keuntungan 
 
 Masih banyak generasi milenial yang belum berinvestasi dengan berbagai kondisi alasan yang dimiliki. Mereka ingin mencapai pendapatan tertentu terlebih dahulu sebelum terjun berinvestasi dan fokus pada tabungan yang ada saat ini. Serta kekhawatiran lain berupa kenyataan bahwa mereka belum mengerti bagaimana cara berinvestasi.
 
-Nyatanya, tidak harus menjadi expert terlebih dahulu untuk berinvestasi. Tapi tentu saja pengetahuan yang cukup tentang cara berinvestasi sangat dibutuhkan. Jika kamu bertanya, kapan waktu terbaik untuk mulai berinvestasi? Jawaban yang akan kamu dapatkan adalah sekarang waktu terbaik tersebut.
+Nyatanya, tidak harus menjadi expert terlebih dahulu untuk berinvestasi. Tapi tentu saja pengetahuan yang cukup tentang cara berinvestasi dan juga tujuan investasi dari diri sendiri sangat dibutuhkan. Jika kamu bertanya, kapan waktu terbaik untuk mulai berinvestasi? Jawaban yang akan kamu dapatkan adalah sekarang waktu terbaik tersebut.
 
 ## Kenapa Harus Investasi?
 
