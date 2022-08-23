@@ -1,13 +1,13 @@
 ---
 author: Vlora Riyandi
-title: "Mengenal Tahapan Pendanaan Startup: Berapa Nilai Seed Funding? | LandX"
+title: "Mengenal Tahapan Pendanaan Startup: Berapa Nilai Seed Funding?"
 metaTitle: "Mengenal Tahapan Pendanaan Startup: Berapa Nilai Seed Funding? | LandX"
 metaDescription: Merintis usaha memerlukan dana dan sumber modal, dapat berasal
   dari bootstrap dan investor. Tahapan pendanaan startup dari memiliki nilai
   sebesar..
 intro: Merintis usaha memerlukan dana dan sumber modal, dapat berasal dari
   bootstrap dan investor. Tahapan pendanaan startup dari memiliki nilai sebesar
-date: 2022-05-09T05:09:04.601Z
+date: 2022-08-23T03:33:06.712Z
 tag:
   - Equity Crowdfunding
   - Securities Crowdfunding
@@ -28,15 +28,23 @@ Proses pencarian modal bagi perusahaan rintisan (startup) mencakup serangkaian l
 
 Singkatnya, funding adalah penggalangan dana. Pemilik startup memulai proses funding dengan cara mempromosikan ide bisnis inovatif mereka kepada para calon investor yang akan mendanai.
 
+## Pre-seed Stage
+
+Terdapat tahap pendahuluan sebelum pendanaan dari modal ventura, yaitu tahap pre-seed atau dikenal juga sebagai tahap ide (idea stage). 
+
+Tahap pre-seed atau pre-seed funding adalah tahap pendanaan awal startup namun tidak termasuk pada putaran pendanaan. Biasanya, dana yang didapat pada tahap pre-seed funding adalah melalui bootstrapping (dana sendiri) dan/atau menerima dana untuk bisnis dari keluarga serta teman.
+
+Selain itu, keberadaan angel investor pada tahap pre-seed funding juga dapat menjadi sumber pendanaan startup. Namun, pendanaan dari angel investor terbilang langka. Nilai pendanaan pre-seed funding berkisar 200-500 ribu USD.
+
 ## Jenis-jenis Pendanaan Startup
 
 Langkah awal memulai funding startup ialah para pendiri startup mencari orang-orang yang memiliki uang untuk diinvestasikan dalam startup. Investor ini dapat merupakan seorang teman, anggota keluarga, angel investor, atau perusahaan modal ventura. 
 
-Jika investor tertarik untuk mempelajari lebih lanjut, presentasi formal dilakukan. Investor kemudian akan memutuskan apakah akan menginvestasikan modalnya. Langkah-langkah pendanaan startup antara lain raising seed capital, meningkatkan Seri A, Seri B, Seri C, dan melakukan exit startegy. Yuk, kita bahas lebih lanjut.
+Jika investor tertarik untuk mempelajari lebih lanjut, presentasi formal dilakukan. Investor kemudian akan memutuskan apakah akan menginvestasikan modalnya. Langkah-langkah pendanaan startup antara lain raising seed capital, meningkatkan pendanaan Seri A, Seri B, Seri C, dan melakukan exit startegy. Yuk, kita bahas lebih lanjut.
 
 ## 1. Seed Funding
 
-Putaran seed funding adalah sejumlah minimun uang yang dibutuhkan untuk memulai startup. Tujuan seed funding adalah untuk membuktikan bahwa startup dapat mengeksekusi idenya dan membuktikan bahwa pasar akan mendukungnya. 
+Seed funding adalah sejumlah minimun uang yang dibutuhkan untuk memulai startup. Tujuan seed funding adalah untuk membuktikan bahwa startup dapat mengeksekusi idenya dan membuktikan bahwa pasar akan mendukungnya. 
 
 Proses meningkatkan modal awal bisa jadi sulit dan memakan waktu, tetapi sangat penting bagi perusahaan startup untuk memulai. Ada banyak calon investor dalam situasi pendanaan awal: pendiri, teman, keluarga, inkubator, perusahaan modal ventura, dan banyak lagi.
 
@@ -52,25 +60,25 @@ Berdasar laporan Google, Temasek, dan Bain & Company, rata-rata nilai kesepakata
 
 Pada 2016, rata-rata nilai kesepakatan seed funding mencapai sekitar $500.000. Hingga tahun 2009 telah melonjak menjadi rata-rata $800.000. Demikian pula, nilai pendanaan untuk seri A dan B ikut mengalami pertumbuhan nilai seiring waktu.
 
-## 2. Seri A
+## 2. Pendanaan Seri A
 
 Setahun dari pendanaan seed funding telah berlalu dan perusahaan Anda telah memiliki basis konsumen potensial yang membeli produk. Untuk melayani para konsumen dengan maksimal, saatnya Anda mempekerjakan lebih banyak karyawan dan tentunya ruang kantor yang mencukupi.
 
-Untuk dapat melakukannya, Anda dapat menggalang lebih banyak dana pada putaran investasi selanjutnya yaitu seri A. Pada pendanaan startup Seri A di Indonesia, besaran nilai putaran Seri A adalah mulai dari Rp 10 miliar.
+Untuk dapat melakukannya, Anda dapat menggalang lebih banyak dana pada putaran investasi selanjutnya yaitu pendanaan seri A. Pada startup series A di Indonesia, besaran nilai pendanaan Seri A adalah mulai dari Rp 10 miliar.
 
-Founder startup seri A selanjutnya memiliki tanggung jawab untuk memasarkan produknya dalam skala yang lebih besar. Sembari melakukan pengembangan produk lebih lanjut dan eksekusi strategi untuk menghasilkan profit jangka panjang.
+Founder startup series A selanjutnya memiliki tanggung jawab untuk memasarkan produknya dalam skala yang lebih besar. Sembari melakukan pengembangan produk lebih lanjut dan eksekusi strategi untuk menghasilkan profit jangka panjang.
 
-## 3. Seri B
+## 3. Pendanaan Seri B
 
 Pendanaan pada putaran seri B dapat diberikan pada perusahaan yang telah memiliki market share dan scaling bisnis. Investor akan fokus pada kemampuan perusahaan dalam menjangkau pasar (market reach) dalam jumlah besar.
 
 Menjangkau lebih banyak konsumen dan menghadirkan fitur layanan yang mumpuni membuat startup akan berusaha melakukan promosi dan menghadirkan tim berkualitas
 
-## 4. Seri C
+## 4. Pendanaan Seri C
 
-Seri C adalah babak terakhir penggalangan dana startup. Bisnis yang memasuki tahapan Seri C dapat dikategorikan sukses. 
+Pendanaan seri C adalah babak terakhir penggalangan dana startup. Bisnis yang memasuki tahapan pendanaan seri C dapat dikategorikan sukses. 
 
-Investor Seri C ingin melihat bahwa startup telah mencapai tonggak penting, seperti meningkatkan pendapatan atau mengembangkan produk baru. Investor Seri C menyuntikkan modal mereka dengan harapan kembali dua kali lipat.
+Investor startup series C ingin melihat bahwa startup telah mencapai tonggak penting, seperti meningkatkan pendapatan atau mengembangkan produk baru. Investor startup series C menyuntikkan modal mereka dengan harapan kembali dua kali lipat.
 
 Biasanya pada kategori ini perusahaan akan berusaha mengembangkan produk baru, mengjangkau market baru, atau bahkan mengakuisisi sebuah perusahaan. Untuk dapat mengakuisisi dengan perusahaan lain perlu dana tambahan.
 
