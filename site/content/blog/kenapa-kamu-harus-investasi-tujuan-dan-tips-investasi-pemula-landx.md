@@ -2,12 +2,13 @@
 author: Vlora Riyandi
 title: Kenapa Kamu Harus Investasi? Tujuan dan Tips Investasi Pemula | LandX
 metaTitle: Kenapa Kamu Harus Investasi? Tujuan dan Tips Investasi Pemula | LandX
-metaDescription: kenapa semua orang investasi? Tujuan investasi
-  adalah mendapatkan keuntungan dari modal yang telah ditanamkan agar segera
-  mencapai tujuan finansial.
-intro: kenapa semua orang investasi? Tujuan investasi adalah mendapatkan
-  keuntungan dari modal yang telah ditanamkan agar segera mencapai tujuan
-  finansial.
+metaDescription: Apa tujuan investasi adalah dapat keuntungan dari modal yang
+  ditanamkan agar cepat mencapai tujuan finansial. Simak lengkapnya kenapa harus
+  investasi!
+intro: Orang-orang bertanya "apa tujuan investasi?" Sederhananya, tujuan apa
+  tujuan investasi adalah upaya menanamkan modal untuk dapat keuntungan.
+  Nantinya, keuntungan ini bisa menjadi cara agar cepat mencapai tujuan
+  finansial. Yuk, simak lengkapnya kenapa harus investasi!
 date: 2022-04-21T09:06:08.792Z
 tag:
   - Investasi
