@@ -28,7 +28,11 @@ featuredImage:
   alt: Tujuan Investasi dan Kenapa Investasi Sangat Penting untuk Dilakukan
   src: https://images.unsplash.com/photo-1616261167032-b16d2df8333b?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=871&q=80
 ---
-Jika kamu belum mulai berinvestasi dengan alasan belum memiliki pendapatan yang cukup, kamu sedang menunda kekayaan di masa depan. Kegiatan investasi dilakukan layaknya sebuah maraton, ada jarak yang harus ditempuh, bukan sebuah sprint yang instan. 
+Jika hingga saat ini kamu belum tahu apa tujuan investasi, maka kamu sedang menunda kekayaan di masa depan. 
+
+Belum mulai memikirkan apa tujuan investasi hanya karena beralasan belum memiliki pendapatan yang cukup hanya akan membuat prosesmu meraih tujuan finansial impian semakin jauh.
+
+Kegiatan investasi dilakukan layaknya sebuah maraton, ada jarak yang harus ditempuh, bukan sebuah sprint yang instan. 
 
 Namun, seseorang yang melakukan maraton tidak langsung terjun pada kegiatannya karena dapat menyebabkan cedera. Seperti kegiatan investasi, kamu harus memulai secara pelan dan dalam jumlah yang kecil agar terbiasa. 
 
