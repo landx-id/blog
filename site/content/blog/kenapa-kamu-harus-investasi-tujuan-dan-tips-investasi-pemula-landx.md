@@ -9,7 +9,7 @@ intro: Orang-orang bertanya "apa tujuan investasi?" Sederhananya, tujuan apa
   tujuan investasi adalah upaya menanamkan modal untuk dapat keuntungan.
   Nantinya, keuntungan ini bisa menjadi cara agar cepat mencapai tujuan
   finansial. Yuk, simak lengkapnya kenapa harus investasi!
-date: 2022-04-21T09:06:08.792Z
+date: 2022-08-23T15:09:05.627Z
 tag:
   - Investasi
   - Investasi Saham
@@ -48,6 +48,24 @@ Terlepas dari tujuan kamu yang ingin pensiun dengan nyaman di umur 65 tahun atau
 
 Investasi tidak selalu akan bergerak naik, banyak faktor dan kondisi yang mempengaruhi. Walaupun terkadang kurva statistiknya menunjukkan penurunan, pada investasi jangka panjang nantinya cenderung akan naik dan memberikan keuntungan. 
 
+## Bagaimana Membuat Tujuan Investasi yang Tepat?
+
+Sebenarnya, tidak ada yang salah atau pun benar ketika membicarakan tentang apa itu tujuan investasi yang tepat. Tetapi yang jelas, setiap orang punya standar kehidupan finansialnya masing-masing.
+
+Karena pada dasarnya berbeda-beda, maka tujuan investasi pun bisa berbeda setiap orangnya. Namun, apa yang harus dilakukan kalau kamu bingung harus mulai mencari dari mana?
+
+Dalam kehidupan, banyak hal sederhana yang pastinya kamu inginkan. Impian seperti ingin punya laptop baru atau pun ingin punya rumah sebelum usia 40 tahun. Impian yang berhubungan dengan kondisi finansial tersebutlah yang bisa kamu jadikan motivasi sebagai tujuan investasi.
+
+Selain itu, berikut adalah hal-hal sederhana yang bisa kamu jadikan referensi sebagai tujuan investasi yang mungkin *relatable* dengan impianmu.
+
+* Ingin punya tabungan dengan nominal tertentu sebelum memasuki usia tertentu
+* Pensiun dini agar bisa membangun bisnis sendiri tanpa bingung modal
+* Keinginan memberangkatkan keluarga liburan bersama
+* Membeli handphone baru untuk mendukung pekerjaan saat ini
+* Menambah simpanan dana darurat untuk mengantisipasi situasi krisis yang mungkin terjadi seperti pandemi
+
+
+
 ## Tips Berinvestasi Bagi Pemula
 
 Berbagai perusahaan manajemen investasi mengatakan investasi dalam jumlah besar dapat memberikan keuntungan atau return yang menguntungkan. Namun, tidak semua orang punya keberanian berinvestasi dengan jumlah modal yang besar.
@@ -74,11 +92,11 @@ Reksa dana adalah wadah menampung modal masyarakat yang ingin berinvestasi yang 
 
 * **Obligasi** 
 
-Obligasi adalah surat utang yang dapat dibeli dan mendpat keuntungan bunga sesuai jatuh tempo. Surat utang bisa kamu beli dari perusahaan atau pemerintah yang menerbitkannnya.
+Obligasi adalah surat utang yang dapat dibeli dari perusahaan atau pemerintah yang menerbitkannnya. Tujuan investasi obligasi adalah untuk memperoleh keuntungan dalam bentuk bunga atau kupon sesuai jatuh tempo. 
 
 * **P2P lending** 
 
-P2P lending adalah tempat mempertemukan orang yang membutuhkan pinjaman uang dengan yang memberi pinjaman. Investasi P2P lending adalah kamu akan menyediakan modal untuk dipinjam dan mendapat keuntungan berupa bunga. 
+P2P lending adalah tempat mempertemukan orang yang membutuhkan pinjaman uang dengan yang memberi pinjaman. Tujuan investasi P2P lending adalah kamu akan menyediakan modal untuk dipinjam. Lalu, kamu mendapat keuntungan berupa bunga. 
 
 Kehadiran P2P sebagai bentuk menghapus rangkaian proses pinjam uang yang panjang dari sebuah lembaga keuangan konvensional seperti bank.
 
@@ -93,9 +111,9 @@ Instrumen investasi jangka panjang yang bisa kamu pilih diantaranya ada saham, e
 * BBRI  dari Bank milik pemerintah Indonesia yang tunjukkan kenaikan hingga 14% pada 10 tahun terakhir. Untuk kepemilikan juga lebih murah daripada BCA yaitu sebesar Rp 400 ribu per lot.
 * ICBP dari perusahaan consumer good yaitu Indofood dapat jadi pilihan selain banking. Dengan pertumbuhan hingga 12% pada 10 tahun terakhir, sahamnya dapat kamu miliki dengan modal mulai Rp 800 ribu per lot.
 
-Bicara investasi jangka panjang, terkhusus saham akan sering berkaitan dengan emiten bank dan consumer good. Saham adalah surat berharga sebagai bentuk bukti kepemilikan investor pada sebuah perseroan terbatas atau perusahaan. 
+Bicara soal tujuan investasi jangka panjang, terkhusus saham akan sering berkaitan dengan emiten bank dan consumer good. Saham adalah surat berharga sebagai bentuk bukti kepemilikan investor pada sebuah perseroan terbatas atau perusahaan. 
 
-Keuntungan investasi pada saham adalah dividen. Investor saham juga memiliki peluang mendapat profit dengan jual beli saham pada pasar saham atau disebut capital gain.
+Tujuan dari investasi pada saham adalah keuntungan yang berupa dividen rutin. Investor saham juga memiliki peluang mendapat profit dengan jual beli saham pada pasar saham atau disebut capital gain.
 
 ## Mendapat Keuntungan Dividen dengan Investasi Crowdfunding
 
