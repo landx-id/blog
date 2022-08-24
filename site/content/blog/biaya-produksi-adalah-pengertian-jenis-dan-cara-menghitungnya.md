@@ -115,11 +115,11 @@ Biaya material diperlukan oleh perusahaan. Untuk pembuatan produk tersebut, biay
 
 Formulasi untuk menghitung biaya produksi terdiri dari beberapa tahapan, pada tahapan pertama perhitungan bahan baku dengan rumus:
 
-`Bahan Baku yang dipakai = Saldo awal + Pembelian Bahan - Saldo Akhir`
+> `Bahan Baku yang dipakai = Saldo awal + Pembelian Bahan - Saldo Akhir`
 
 Kemudian tahapan kedua adalah perhitungan biaya produksi dengan rumus:
 
-`Total biaya produksi = Bahan baku yang digunakan + Biaya tenaga kerja + Overhead produksi`
+> `Total biaya produksi = Bahan baku yang digunakan + Biaya tenaga kerja + Overhead produksi`
 
 Selanjutnya, perhitungan harga pokok produksi dengan rumus:
 
@@ -151,7 +151,7 @@ Maka diketahui bahwa harga pokok produksi perusahaan C adalah sebesar Rp327.000.
 
 ## Kesimpulan
 
-Biaya produksi adalah biaya yang dikeluarkan perusahaan untuk memulai membuat produk, proses pengelolaan bahan mentah sampai menjadi setengah jadi atau barang jadi. Dengan mengetahui biaya produksi, perusahaan perlu memiliki akuntan atau seorang ahli pencatatan laporan keuangan untuk menghitung harga pokok produksi dengan tepat.
+**Biaya produksi adalah** biaya yang dikeluarkan perusahaan untuk memulai membuat produk, proses pengelolaan bahan mentah sampai menjadi setengah jadi atau barang jadi. Dengan mengetahui biaya produksi, perusahaan perlu memiliki akuntan atau seorang ahli pencatatan laporan keuangan untuk menghitung harga pokok produksi dengan tepat.
 
 Dengan adanya pencatatan ini supaya perusahaan dapat menentukan laba rugi selama proses produksi diketahui. Adanya laporan biaya produksi juga dapat menjadi acuan perusahaan untuk menganalisis laporan keuangannya.
 
@@ -163,19 +163,4 @@ Melalui sistem [equity crowdfunding](https://landx.id/), kamu bersama masyarakat
 
 Tunggu apalagi?
 
-## [Jadi Bos Bisnis Potensial lewat LandX Sekarang Juga!](<Maka diketahui bahwa harga pokok produksi perusahaan C adalah sebesar Rp327.000.000
-
-Kesimpulan
-Biaya produksi adalah biaya yang dikeluarkan perusahaan untuk memulai membuat produk, proses pengelolaan bahan mentah sampai menjadi setengah jadi atau barang jadi. Dengan mengetahui biaya produksi, perusahaan perlu memiliki akuntan atau seorang ahli pencatatan laporan keuangan untuk menghitung harga pokok produksi dengan tepat.
-
-Dengan adanya pencatatan ini supaya perusahaan dapat menentukan laba rugi selama proses produksi diketahui. Adanya laporan biaya produksi juga dapat menjadi acuan perusahaan untuk menganalisis laporan keuangannya.
-
-Memiliki bisnis tentunya diperlukan pencatatan laporan yang tepat supaya estimasi laba dan rugi perusahaan dapat diketahui dengan jelas. Tetapi selain itu, kamu bisa juga loh miliki bisnis potensial tanpa ribet mengurusi laporan keuangan, operasional bisnis, dan semacamnya. Bagaimana tuh?
-
-Melalui sistem equity crowdfunding, kamu bersama masyarakat luas mendanai bisnis kecil seperti UKM dengan modal Rp1 juta. Dengan skema ini, kamu bisa menjadi pemilik saham bisnis yang kamu danai. Bisnis yang kamu danai pun dapat berkembang dan melakukan ekspansi, sehingga kamu akan mendapatkan keuntungan berupa dividen sesuai performa bisnis tadi.
-
-LandX merupakan platform equity crowdfunding yang berpengalaman mendanai bisnis-bisnis dengan prospek bagus dan memiliki potensi yang besar, kegiatan patungan bisnis pun aman karena sudah mendapatkan izin dari Otoritas Jasa Keuangan.
-
-Tunggu apalagi?
-
-Jadi Bos Bisnis Potensial lewat LandX Sekarang Juga!>)
+## [Jadi Bos Bisnis Potensial lewat LandX Sekarang Juga!](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)
