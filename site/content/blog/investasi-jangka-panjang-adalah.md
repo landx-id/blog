@@ -85,8 +85,10 @@ Oleh karena itu, Anda butuh analisis yang lebih dalam lagi agar bisa menyusun mi
 
 Apabila Anda masih belum paham dengan baik terkait dengan profil risiko, yuk simak penjelasan dari MinLand berikut ini ya:
 
-{{< youtube id="IFiYKKofzzs&t" >}}
- {{< button link="https://www.youtube.com/watch?v=IFiYKKofzzs&t" text="Watch This Video" >}}
+https://www.youtube.com/watch?v=IFiYKKofzzs
+
+ **{{< youtube id="**IFiYKKofzzs**" >}}**
+{{< youtube id="IFiYKKofzzs" >}}
 
 ### **4. Mulai dengan Sesuatu yang Anda Familiar**
 
