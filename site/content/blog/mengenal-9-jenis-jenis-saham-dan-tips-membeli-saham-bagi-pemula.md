@@ -13,7 +13,7 @@ date: 2022-08-22T09:49:17.472Z
 featuredImage:
   alt: Mengenal 9 Jenis-jenis Saham dan Tips Membeli Saham bagi Pemula
   title: Mengenal 9 Jenis-jenis Saham dan Tips Membeli Saham bagi Pemula
-  src: https://unsplash.com/photos/tLG2hcpITZE
+  src: img/adam-nowakowski-vkrq5w3asca-unsplash.jpg
 ---
 **Saham adalah** dokumen yang menunjukkan porsi kepemilikan seseorang atau badan atas suatu perusahaan. Ketika Anda membeli saham maka Anda telah menjadi bagian pemilik dari suatu perusahaan tersebut. 
 
