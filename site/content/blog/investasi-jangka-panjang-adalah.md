@@ -84,10 +84,6 @@ Selain itu, melakukan investasi jangka panjang adalah harus memiliki kemampuan b
 Oleh karena itu, Anda butuh analisis yang lebih dalam lagi agar bisa menyusun mitigasi risiko yang baik.
 
 Apabila Anda masih belum paham dengan baik terkait dengan profil risiko, yuk simak penjelasan dari MinLand berikut ini ya:
-
-https://www.youtube.com/watch?v=IFiYKKofzzs
-
- **{{< youtube id="**IFiYKKofzzs**" >}}**
 {{< youtube id="IFiYKKofzzs" >}}
 
 ### **4. Mulai dengan Sesuatu yang Anda Familiar**
