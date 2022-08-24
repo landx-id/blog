@@ -10,7 +10,7 @@ metaDescription: Apa perbedaan menabung dan investasi perlu dipahami agar target
 intro: Apa perbedaan menabung dan investasi? Mengapa harus keduanya? Yuk simak
   alasan kenapa menabung saja tidak cukup untuk menyiapkan kondisi finansial
   yang optimal di masa mendatang.
-date: 2021-08-19T07:04:04.000Z
+date: 2022-08-24T03:59:33.684Z
 tag:
   - menabung dengan benar
   - investasi
