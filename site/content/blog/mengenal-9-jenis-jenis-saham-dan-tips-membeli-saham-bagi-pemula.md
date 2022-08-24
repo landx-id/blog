@@ -31,13 +31,13 @@ Ada banyak jenis saham dan segmen saham berdasarkan perusahaan yang menjual efek
 
 Ada 2 jenis kepemilikan saham berdasarkan kemampuan klaim atas aset perusahaan ketika likuidasi dan saat pembagian dividen. 
 
-1. #### Saham Biasa (Common Stock)  
+#### 1. Saham Biasa (Common Stock)  
 
 Seperti definisi saham yang berarti surat berharga tanda bukti kepemilikan perusahaan. Pemegang saham biasa dapat menerima imbal hasil berupa dividen dari laba perusahaan serta memiliki hak suara (voting) dalam RUPS. 
 
 Fungsi hak suara dari pemegang saham adalah dapat menentukan direktur baru dari perusahaan, ikut serta dalam penentuan kebijakan perusahaan seperti [stock split](https://landx.id/blog/stock-split-memahami-apa-itu-stock-split-dan-pengaruhnya-terhadap-harga-saham/). Namun, berpotensi risiko berupa menanggung kerugian perusahaan sebesar saham yang dimiliki jika perusahaan likuidasi (bankrut).
 
-2. #### Saham Preferen (Preferred Stock)
+#### 2. Saham Preferen (Preferred Stock)
 
 Saham preferen adalah jenis saham istimewa yang memberikan prioritas kepada pemegangnya atas aset dan laba perusahaan. Jika pemegang saham biasa hanya menerima dividen ketika perusahaan mendapat laba saja, maka pemegang saham preferen akan didahulukan serta menerima hak untuk selalu terima dividen dengan jumlah tetap.
 
@@ -49,21 +49,21 @@ Perbedaan saham biasa dan preferen pada klaim aset perusahaan adalah pemegang sa
 
 Terdapat 3 bentuk saham yang dikelompokkan berdasarkan kinerjanya di perdagangan saham. Yuk kenali saham-saham ini agar Anda dapat menemukan pilihan saham terbaik yang cocok profil risiko Anda.
 
-1. #### Saham Blue Chip (Blue Chip Stock)
+#### 1. Saham Blue Chip (Blue Chip Stock)
 
 Apa itu saham blue chip? Jika Anda adalah investor pemula dengan profil risiko rendah maka penting untuk mulai berinvestasi pada saham blue chip. Saham blue chip adalah saham yang memiliki histori pertumbuhan, reputasi, serta pembagian dividen yang stabil.
 
 Kategori saham blue chips yaitu perusahaan yang memiliki kapitalisasi pasar di atas Rp10 triliun. Kapitalisasi pasar diartikan sebagai jumlah keseluruhan saham beredar. Contoh saham blue chips terbaru (Juli 2022) yaitu saham Adaro Energy, Alfamart, Astra International, BCA, serta Aneka Tambang.
 
-2. #### Growth Stock
+#### 2. Growth Stock
 
 Saham growth stock diterbitkan oleh perusahaan yang memiliki pertumbuhan lebih cepat daripada industrinya. Contoh growth stock adalah saham Sido Muncul yang baru IPO tahun 2013. Contoh saham growth stock di Amerika ada saham Amazon dan Facebook dengan gebrakan berbasis layanan teknologi.
 
-3. #### Saham Spekulatif (Speculative Stock)
+#### 3. Saham Spekulatif (Speculative Stock)
 
 Saham spekulatif merupakan incaran para trader dengan profil risiko tinggi. Saham spekulatif adalah saham yang memiliki potensi keuntungan tinggi juga risiko tinggi karena belum konsisten dapat memberikan keuntungan di masa depan.
 
-4. #### Saham Siklikal (Cyclical Stocks)
+#### 4. Saham Siklikal (Cyclical Stocks)
 
 Saham siklikal adalah saham yang pergerakan harganya dipengaruhi kebijakan dan situasi makroekonomi. Biasanya saham siklikal turun saat kondisi perekonomian tidak stabil dan turun namun, ikut naik saat jika kebijakan ekonomi dapat menguntungkan sektor siklikal.
 
@@ -71,7 +71,7 @@ Contoh saham siklikal adalah saham dari sektor bisnis yang memproduksi barang no
 
 Misal saat kondisi pandemi pecah sehingga kegiatan ekonomi terhambat maka banyak orang berhemat dan hanya membeli barang kebutuhan utama atau suatu barang harga murah. Sehingga banyak kegiatan masyarakat seputar liburan, membeli rumah baru, mobil baru, ataupun furniture baru dihentikan sementara.
 
-5. #### Saham Non Siklikal (Counter Cyclical Stocks)
+#### 5. Saham Non Siklikal (Counter Cyclical Stocks)
 
 Saham counter cyclical dikenal juga sebagai saham defensive stock dan merupakan kebalikan dari saham cyclical. Saham counter cyclical tidak dipengaruhi kondisi makroekonomi, malah cenderung naik ketika situasi resesi.
 
@@ -79,11 +79,13 @@ Contoh saham counter cyclical adalah saham dari perusahaan yang memproduksi bara
 
 ### Jenis Saham Berdasarkan Cara Pengalihannya
 
-1. #### Saham Atas Unjuk (Bearer Stock) 
+Terdapat 2 kategori saham berdasarkan cara pengalihan saham kepada pihak lain, sebagai berikut:
+
+#### 1. Saham Atas Unjuk (Bearer Stock) 
 
 Bearer stock adalah bentuk fisik saham tanpa ada nama pemiliknya sehingga mudah dialihtangankan. Layaknya uang yang tidak sulit dipindahtangankan, saham atas unjuk juga mudah diperdagangkan kembali.
 
-2. #### Saham Atas Nama (Registered Stock)
+#### 2. Saham Atas Nama (Registered Stock)
 
 Apa perbedaan saham atas nama dan saham atas unjuk?
 
@@ -91,9 +93,9 @@ Merupakan kebalikan dari saham bearer stock, registered stock adalah bentuk saha
 
 ## Tips Membeli Saham untuk Pemula
 
-Bagi investor pemula hal paling penting untuk memulai investasi adalah memiliki pengetahuan seputar investasi, khususnya jenis instrumen investasi yang diminati. Jenis instrumen investasi beberapa ada saham, obligasi, sukuk, reksa dana, lending P2P, hingga [crowdfunding](https://landx.id/blog).
+Bagi investor pemula hal **paling penting** untuk memulai investasi adalah memiliki pengetahuan seputar investasi, khususnya jenis instrumen investasi yang diminati. Jenis instrumen investasi beberapa ada saham, obligasi, sukuk, reksa dana, lending P2P, hingga [crowdfunding](https://landx.id/blog).
 
-Selanjutnya mengetahui profil risiko Anda, profil risiko investasi adalah indikator untuk mengetahui tingkat toleransi Anda terhadap risiko potensi kerugian saat berinvestasi. Karena perlu diingat bahwa apapun jenis investasi yang dipilih terdapat risiko yang mengiringi. Namun, terdapat gap risiko tinggi dan risiko rendah sehingga perlu memahami profil diri Anda.
+Selanjutnya mengetahui profil risiko Anda, **profil risiko investasi** adalah indikator untuk mengetahui tingkat toleransi Anda terhadap risiko potensi kerugian saat berinvestasi. Karena perlu diingat bahwa apapun jenis investasi yang dipilih terdapat risiko yang mengiringi. Namun, terdapat gap risiko tinggi dan risiko rendah sehingga perlu memahami profil diri Anda.
 
 Cara mengetahui profil risiko adalah misal jika Anda tertarik berinvestasi secara aman, tingkat imbalan cenderung stabil, dan tidak siap dengan pergerakan harga yang dapat mengurangi dana awal secara signifikan, maka profil risiko Anda adalah konservatif sehingga lihatlah daftar jenis investasi untuk profil risiko ini.
 
