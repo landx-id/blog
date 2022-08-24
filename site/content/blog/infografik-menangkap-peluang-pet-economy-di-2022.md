@@ -1,10 +1,10 @@
 ---
 draft: false
 author: Vlora Riyandi
-title: Menangkap Peluang Pet Economy di 2022
+title: "[INFOGRAFIK] Industri Baru: Menangkap Peluang Pet Economy di 2022"
 metaTitle: Menangkap Peluang Pet Economy di 2022
-metaDescription: "Industri baru: Pet economy Indonesia, lihat peluang bisnis pet
-  shop dan pet care market di Indonesia tahun 2021 di sini."
+metaDescription: Industri baru pet economy Indonesia, lihat peluang bisnis pet
+  shop dan pet care market di Indonesia tahun 2021 di sini.
 intro: Pandemi membuat masyarakat Indonesia mengadopsi kebiasaan baru, salah
   satunya mengadopsi hewan peliharaan. Berikut data terkait industri pet economy
   Indonesia dan lihat peluang bisnis pet shop dan bisnis dog hotel yang patut
