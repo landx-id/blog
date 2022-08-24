@@ -1,8 +1,8 @@
 ---
 draft: false
 author: Abdul Wahhab
-title: "Buyback adalah: Apa itu Buyback Saham dan Equity Crowdfunding"
-metaTitle: "Buyback adalah: Apa itu Buyback Saham dan Equity Crowdfunding"
+title: "Buyback adalah: Apa Itu Buyback Saham dan Equity Crowdfunding"
+metaTitle: "Buyback adalah: Apa Itu Buyback Saham dan Equity Crowdfunding"
 metaDescription: Buyback adalah kebijakan perusahaan untuk membeli kembali saham
   mereka yang beredar di publik sehingga mereka dapat kembali privat
 intro: Yuk pahami apa itu buyback dalam investasi yang penting untuk anda pahami.....
