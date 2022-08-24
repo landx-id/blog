@@ -53,7 +53,7 @@ Karena itu, kamu butuh strategi menabung yang menguntungkan dalam jangka panjang
 {{< youtube id="wBsrpNUzfI0" >}}
 {{< button link="https://www.youtube.com/watch?v=wBsrpNUzfI0" text="Watch This Video" >}}
 
-## **Kenapa Harus Berinvestasi?**
+## **Kenapa Harus Investasi?**
 
 apabila uang anda hanya dibiarkan dalam tabungan, maka uang tersebut berpotensi untuk mengalami penurunan nilai dikarenakan inflasi yang terjadi dari waktu ke waktu.
 
@@ -69,9 +69,27 @@ Apabila anda mulai investasi, maka uang anda ini mungkin saja telah mengalami pe
 
 Contohnya investasi yang menguntungkan adalah investasi ke dalam bisnis yang akan memberikan anda capital gain saat nilai saham anda naik dan dividen yang akan dibagikan sesuai dengan nilai keuntungan dari bisnis tersebut sehingga dana yang anda miliki akan memiliki potensi perkembangan dari waktu ke waktu.
 
+## Perbedaan Menabung dan Investasi
+
+Dilansir dari Investopedia, faktor utama yang menjadi perbedaan menabung dan investasi adalah risiko dan jangka waktunya. Dalam jangka waktu pendek, menabung punya faktor risiko lebih rendah dibandingkan investasi.
+
+Misalnya, jika kita menabung sebentar saja dan disimpan di bank, maka uang yang disimpan jumlahnya akan tetap. Namun, jika uang tersebut disimpan untuk waktu yang lama, maka kita akan merugi karena nilainya bahkan bisa berkurang karena biaya administrasi dan inflasi.
+
+Dalam investasi, kita berkesempatan untuk meningkatkan nilai uang yang kita alokasikan sebagai modal. Tentunya, potensi mendapat keuntungan ini juga disertai dengan risiko kerugian yang ditentukan oleh cara kita memilih instrumen investasi dan profil risikonya.
+
 ## Pentingnya Menabung dan Investasi
 
+Pada dasarnya, investasi atau menabung menjadi dua hal yang penting dalam proses mencapai kondisi finansial impian. Dengan menabung kamu bisa belajar menyisihkan uang untuk alokasi yang betul-betul harus dimiliki, seperti dana darurat. 
 
+Selain itu, nominal tabungan tertentu bisa dijadikan target yang ingin kamu capai. Lewat kebiasaan menabung, kamu tentu secara rutin harus menyisihkan pendapatanmu.
+
+Jika kamu hanya menyisihkan dari pendapatan saja, maka nominal yang dikumpulkan secara rutin bisa saja stagnan. Hal ini karena pemasukanmu pun belum mampu meningkat secara signifikan dalam waktu dekat.
+
+Dalam situasi ini lah kenapa investasi menjadi upaya untuk mendukung prosesmu menabung. Dari nominal yang ditabungkan, kamu bisa juga mengalokasikan untuk berinvestasi.
+
+Dengan mempelajari profil risiko dan karakteristik instrumen investasi, kamu bisa menentukan akan menanamkan modalmu di aset yang mana. Modal tersebut punya potensi untuk meningkat seiring berjalannya waktu.
+
+Artinya, keuntungan yang kamu dapat dari investasi bisa kamu masukkan kembali ke tabunganmu. Inilah yang dimaksud dengan pentingnya menabung dan investasi sebagai langkah meraih kondisi finansial ideal.
 
 ## Menabung Vs Investasi
 
