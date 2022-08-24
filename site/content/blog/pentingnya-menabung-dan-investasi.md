@@ -4,10 +4,12 @@ author: Abdul Wahhab
 slug: pentingnya-menabung-dan-investasi
 title: Alasan Kenapa Selain Menabung Anda Perlu Melakukan Investasi
 metaTitle: Alasan Kenapa Selain Menabung Anda Perlu Melakukan Investasi
-metaDescription: "Menabung Vs Investasi: Alasan Kenapa Menabung Saja Tidak Cukup
-  dan Butuh Investasi"
-intro: "Menabung atau investasi? Yuk simak alasan kenapa menabung saja tidak
-  cukup untuk menyiapkan kondisi finansial yang optimal di masa mendatang. "
+metaDescription: Apa perbedaan menabung dan investasi perlu dipahami agar target
+  keuangan impianmu cepat tercapai. Yuk pelajari pentingnya menabung dan
+  investasi!
+intro: Apa perbedaan menabung dan investasi? Mengapa harus keduanya? Yuk simak
+  alasan kenapa menabung saja tidak cukup untuk menyiapkan kondisi finansial
+  yang optimal di masa mendatang.
 date: 2021-08-19T07:04:04.000Z
 tag:
   - menabung dengan benar
@@ -24,17 +26,21 @@ featuredImage:
 ---
 - - -
 
-**[](https://landx.id/)Mengapa kita harus menabung?** untuk mempersiapkan keuangan di masa depan, anda tentu saja perlu menyiapkan tabungan untuk menghadapi berbagai kondisi tak terduga di masa.
+[](https://landx.id/)**Mengapa kita harus menabung?** untuk mempersiapkan keuangan di masa depan, anda tentu saja perlu menyiapkan tabungan untuk menghadapi berbagai kondisi tak terduga di masa depan.
 
-Menabung merupakan hal yang sudah diajarkan kepada kita sejak dulu untuk menghadapi berbagai kebutuhan yang tidak anda terduga. Menyiapkan tabungan untuk berbagai hal tak terduga sangat penting agar finansial anda tetap stabil dalam berbagai kondisi.
+Selain itu, investasi juga digadang-gadang menjadi hal yang penting. Tapi, apa perbedaan menabung dan investasi? 
 
-tapi, selain menabung anda butuh investasi agar uang yang anda miliki tidak tergerus inflasi dan nilainya bisa berkembang seiring berjalannya waktu.
+Menabung adalah kegiatan yang diajarkan kepada kita sejak dulu untuk menghadapi berbagai kebutuhan yang tidak anda terduga. Menyiapkan tabungan untuk berbagai hal tak terduga sangat penting agar finansial anda tetap stabil dalam berbagai kondisi.
 
-Oleh sebab itu, selain menyiapkan tabungan anda perlu menyusun strategi investasi untuk pengembangan uang yang anda miliki. Karena itu, yuk kita bahas lebih lanjut kenapa selain menabung kita perlu investasi.
+Lalu, kenapa harus investasi? Hal ini sederhananya karena nilai uang dari waktu ke waktu bisa berkurang karena tergerus inflasi. Jika kamu berinvestasi, keuntungan yang didapat bisa menjadi tabungan investasi, di mana modal yang ditanam menjadi nominal yang berpotensi lebih besar.
+
+Itulah gambaran sederhanya pentingnya menabung dan investasi. Selain menyiapkan tabungan anda perlu menyusun strategi investasi untuk pengembangan uang yang anda miliki. Sederhananya, investasi atau menabung saling berhubungan agar kondisi finansial idaman segera tercapai.
+
+Yuk kita bahas lebih lanjut kenapa selain menabung kita perlu investasi!
 
 - - -
 
-## **Mengapa Kita Harus Menabung?** 
+## **Mengapa Kita Harus Menabung?**
 
 Dari kecil kita tentu saja diajarkan untuk menabung agar kita memiliki dana yang cukup untuk berbagai hal di masa mendatang. Alasan menabung sebenarnya beragam tergantung dengan tujuan yang ingin dicapai seseorang, ada yang menabung untuk membeli rumah atau da yang menabung untuk menyiapkan hari tua mereka. 
 
@@ -62,6 +68,10 @@ Contohnya begini, uang 300 juta yang sanggup membeli properti pada saat ini belu
 Apabila anda mulai investasi, maka uang anda ini mungkin saja telah mengalami peningkatan nilai beberapa persen sesuai dengan instrumen investasi yang anda lakukan.
 
 Contohnya investasi yang menguntungkan adalah investasi ke dalam bisnis yang akan memberikan anda capital gain saat nilai saham anda naik dan dividen yang akan dibagikan sesuai dengan nilai keuntungan dari bisnis tersebut sehingga dana yang anda miliki akan memiliki potensi perkembangan dari waktu ke waktu.
+
+## Pentingnya Menabung dan Investasi
+
+
 
 ## Menabung Vs Investasi
 
