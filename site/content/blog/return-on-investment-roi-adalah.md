@@ -8,7 +8,7 @@ metaDescription: ROI adalah singkatan dari return on investment atau
   pengembalian dari investasi yang dilakukan
 intro: "Yuk simak jenis-jenis ROI dan cara menghitung return dalam investasi
   yang bisa memberikan anda keuntungan jangka panjang. "
-date: 2022-01-17T07:49:00.000Z
+date: 2022-08-25T02:12:40.045Z
 tag:
   - investasi
   - investasi jangka panjang
@@ -39,7 +39,7 @@ Karena itu, yuk kita bahasa **apa itu Return on Investment (ROI)** dan kenapa an
 
 Apabila kamu masuk ke dalam dunia investasi, kamu pasti akan sering mendengar istilah ROI atau return on investment yang menjadi salah satu rasio penting yang harus diperhitungkan dengan baik saat memulai investasi.
 
-**ROI adalah** salah satu indikator dari rasio profitabilitas yang menjadi acuan untuk perusahaan mengambil berbagai keputusan dengan melihat berapa besar pengembalian atau keuntungan yang bisa mereka dapatkan dari investasi yang mereka lakukan.
+Cara menghitung keuntungan investasi dengan **ROI adalah** salah satu indikator dari rasio profitabilitas yang menjadi acuan untuk perusahaan mengambil berbagai keputusan dengan melihat berapa besar pengembalian atau keuntungan yang bisa mereka dapatkan dari investasi yang mereka lakukan.
 
 **Nilai ROI** dipengaruhi oleh komponen lain seperti tingkat keuntungan dihasilkan dan bagaimana tingkat perputaran aset sebuah perusahaan atau bisnis. Karena itu, investor harus paham dengan baik bagaimana cara kerja dari suatu sistem bisnis atau investasi serta bagaimana cara suatu instrumen menghasilkan keuntungan.
 
@@ -47,9 +47,15 @@ Apabila kamu masuk ke dalam dunia investasi, kamu pasti akan sering mendengar is
 
 ROI ini juga bisa dilihat dengan berapa laba bersih yang dihasilkan dari total aktiva yang dimiliki oleh perusahaan. Dalam investasi, return on investment bisa anda jadikan patokan untuk melihat berapa keuntungan dari investasi anda lakukan.
 
-Apabila kamu berinvestasi ke dalam bisnis, analisis terhadap ROI menjadi hal yang sangat krusial karena selain melihat berapa kita tidak hanya melihat berapa besar ROI dari bisnis tapi juga memperhatikan bagaimana prospek jangka panjang dari bisnis tersebut.
+## Analisis Risk and Return dengan melihat ROI
 
-Saat investasi bisnis anda biasanya bisa melihat besar perkiraan return on investment melalui prospektus sehingga anda bisa menghitung sendiri potensi keuntungan dari investasi yang akan anda dapatkan. Untuk lebih lanjut mari kita bahas bagaimana menghitung  ROI karena hal ini akan membantu keputusan investasi yang anda lakukan.
+Apabila kamu berinvestasi ke dalam bisnis, analisis terhadap ROI menjadi hal yang sangat krusial. Hal ini karena dengan menghitung investasi menggunakan metode ini dapat menunjukkan bagaimana prospek jangka panjang dari bisnis tersebut.
+
+Selain itu, kamu bisa melalukan analilis risk and return dengan melihat ROI. Dengan mengidentifikasi perkiraan keuntungan dari investasi, Anda akan menganalisa laporan keuangan, naik-turunnya kondisi bisnis, serta kemungkinan peerumbuhan atau bahkan risiko rugi dari biaya investasi yang Anda keluarkan.
+
+Saat investasi bisnis Anda biasanya bisa melihat besar perkiraan return on investment melalui prospektus sehingga anda bisa menghitung sendiri potensi keuntungan dari investasi yang akan anda dapatkan. 
+
+Karena itu, yuk bahas lebih lanjut soal perhitungan Investor dalam berinvestasi dengan mempelajari bagaimana menghitung ROI karena hal ini akan membantu keputusan investasi yang anda lakukan.
 
 ## **Cara Menghitung ROI (Return On Investment)**
 
