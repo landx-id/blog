@@ -9,14 +9,24 @@ intro: Kesehatan merupakan hak siapapun, termasuk kesehatan finansial. Untuk
   Anda yang sedang membuat perencanaan keuangan, yuk cari tahu cara cek
   kesehatan finansial yang akan dibahas pada artikel ini.
 date: 2022-08-25T02:27:24.412Z
+tag:
+  - Manajemen Keuangan
+  - Mengelola Keuangan
+  - investasi keuangan
+  - Perencanaan Keuangan
+category:
+  - Keuangan
+  - Investasi
 featuredImage:
   alt: Mengenal Apa Itu Kesehatan Finansial & Cara Cek Kesehatan Finansial
   title: Mengenal Apa Itu Kesehatan Finansial & Cara Cek Kesehatan Finansial
   src: https://images.unsplash.com/photo-1587403335644-fa8fef06b261?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2072&q=80
 ---
-Biasanya kita sering mendengar, “money cannot buy happiness” tetapi hal tersebut tentunya tidak selalu benar, karena jika seseorang menghadapi kesulitan dalam permasalahan keuangan tentunya keberlangsungan hidupnya akan terganggu. Kesehatan finansial seseorang akan memengaruhi semua aspek pada kehidupannya, bahkan perencanaan keuangannya pun akan terganggu juga.
+Biasanya kita sering mendengar, “*money cannot buy happiness”* tetapi hal tersebut tentunya tidak selalu benar, karena jika seseorang menghadapi kesulitan dalam permasalahan keuangan tentunya keberlangsungan hidupnya akan terganggu. Oleh sebab itu, penting bagi seseorang untuk memperhatikan kesehatan finansial/ keuangan untuk menghindari adanya masalah keuangan di masa mendatang.
 
-Meleknya seseorang terhadap literasi keuangan, perlu juga mengontrol kesehatan keuangannya. Hal ini termasuk dalam bagian dalam perencanaan keuangan juga. Manfaat financial planning dapat membantu seseorang dalam pengelolaan keuangannya, seperti membayar kredit tepat waktu, menentukan proteksi keuangan yang sesuai serta manfaat dari proteksi keuangan tersebut, dan pengelolaan uang dengan menabung atau investasi.
+Kesehatan finansial seseorang akan memengaruhi semua aspek pada kehidupannya, bahkan perencanaan keuangannya pun akan terganggu juga.
+
+Mengontrol kesehatan keuangannya termasuk dalam bagian dalam perencanaan keuangan juga yang harus diperhatikan dengan baik. Financial planning bermanfaat  untuk membantu seseorang dalam pengelolaan keuangannya, seperti membayar kredit tepat waktu, menentukan proteksi keuangan yang sesuai serta manfaat dari proteksi keuangan tersebut, dan pengelolaan uang dengan menabung atau investasi.
 
 Untuk kamu yang sedang melakukan perencanaan keuangan atau penasaran apa itu kesehatan finansial? Simak terus artikel ini ya.
 
@@ -52,7 +62,7 @@ Untuk menentukan seseorang sehat secara finansial, dapat dilihat dari **ciri-cir
 * **Malas menabung dan investasi**. Mungkin bagi beberapa orang investasi masih dihindari karena risikonya yang tinggi. Namun jika Anda ragu dengan investasi, Anda dapat melakukan hal yang paling mudah yaitu menabung. Tabungan ini nantinya bisa Anda kelola jika Anda mulai memilih layanan lembaga keuangan yang ada, memahami kegiatan investasi, dan memahami instrumen proteksi keuangan yang cocok dengan Anda.
 * **Tidak membayar tagihan bulanan secara tepat waktu.** Jika Anda sering melakukan pembayaran tagihan tidak sesuai dengan jatuh tempo, maka Anda perlu mengevaluasi pengelolaan keuangan Anda kembali. Untuk melakukannya, Anda bisa mengalokasikan pendapatan Anda dengan mengkalkulasikan jumlah tagihan bulanan Anda, atau mengatur tagihan secara otomatis terpotong pada rekening Anda.
 
-## Mengelola Kesehatan Finansial dengan Piramida Keuangan
+## Memahami Konsep Piramida Perencanaan Keuangan
 
 Untuk menghindari kesalahan dalam pengelolaan keuangan, maka diperlukan pengelolaan keuangan yang tepat dan baik. Seperti yang kita tahu dari penjelasan sebelumnya, tidak semua orang memiliki kemampuan finansial untuk mengelola uangnya secara tepat. Pengelolaan keuangan yang baik akan membantu siapapun menyelaraskan keinginan dan kebutuhannya dengan dana tersedia, bahkan tujuan untuk mencapai kebebasan finansial pun dapat diraih. 
 
@@ -107,3 +117,9 @@ Investasi [crowdfunding](https://landx.id/) sendiri merupakan investasi jangka p
 Perlunya [platform crowdfunding](https://landx.id/) yang sudah berizin Otoritas Jasa Keuangan, terpercaya dan berpengalaman mendanai bisnis potensial di berbagai sektor industri seperti [LandX](https://landx.id/) sehingga investasi Anda dijamin aman dan tetap cuan.
 
 ## [Kelola Finansial dan Miliki Bisnis Potensial](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)
+
+<!--StartFragment-->
+
+[![miliki bisnis modal kecil cuma dengan 1 jutaan dapat 4 cabang ](https://accountgram-production.sfo2.cdn.digitaloceanspaces.com/landx_ghost/2021/11/jadi-owner-bisnis-hanya-1-jutaan-dengan-cuan-yang-sangat-menjanjikan.png)](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)
+
+<!--EndFragment-->
