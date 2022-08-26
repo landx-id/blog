@@ -13,7 +13,7 @@ date: 2022-08-26T05:14:33.411Z
 featuredImage:
   alt: "Harga Pokok Penjualan atau HPP Adalah: Pengertian & Cara Menghitungnya"
   title: "Harga Pokok Penjualan atau HPP Adalah: Pengertian & Cara Menghitungnya"
-  src: https://www.freepik.com/free-photo/team-glassblowers-shaping-glass-blowpipe_8897273.htm#query=garmen%20factory&position=7&from_view=search&track=ais
+  src: https://img.freepik.com/free-photo/team-glassblowers-shaping-glass-blowpipe_107420-74231.jpg?w=996&t=st=1661502917~exp=1661503517~hmac=032518127b22c75630a2f03c27c33ba2b17b6bda3bafac956ba8663698b7a859
 ---
 **Harga Pokok Penjualan** atau **HPP adalah** keseluruhan total biaya yang dikeluarkan oleh suatu perusahaan dalam memproduksi barang atau jasa untuk dijual selama satu periode tertentu. Setiap pemilik bisnis atau usaha penting sekali untuk mengetahui cara menghitung harga pokok penjualan. Karena dari HPP pemilik bisnis akan mengetahui besaran laba rugi yang dihasilkan dalam usaha mereka.
 
