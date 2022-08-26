@@ -40,7 +40,7 @@ Yuk kita bahas lebih lanjut kenapa selain menabung kita perlu investasi!
 
 - - -
 
-## **Mengapa Kita Harus Menabung?**
+## **Pentingnya Menyiapkan Tabungan**
 
 Dari kecil kita tentu saja diajarkan untuk menabung agar kita memiliki dana yang cukup untuk berbagai hal di masa mendatang. Alasan menabung sebenarnya beragam tergantung dengan tujuan yang ingin dicapai seseorang, ada yang menabung untuk membeli rumah atau da yang menabung untuk menyiapkan hari tua mereka. 
 
@@ -53,7 +53,7 @@ Karena itu, kamu butuh strategi menabung yang menguntungkan dalam jangka panjang
 {{< youtube id="wBsrpNUzfI0" >}}
 {{< button link="https://www.youtube.com/watch?v=wBsrpNUzfI0" text="Watch This Video" >}}
 
-## **Kenapa Harus Investasi?**
+## **Menabung Saja Tidak Cukup?** 
 
 apabila uang anda hanya dibiarkan dalam tabungan, maka uang tersebut berpotensi untuk mengalami penurunan nilai dikarenakan inflasi yang terjadi dari waktu ke waktu.
 
@@ -69,7 +69,7 @@ Apabila anda mulai investasi, maka uang anda ini mungkin saja telah mengalami pe
 
 Contohnya investasi yang menguntungkan adalah investasi ke dalam bisnis yang akan memberikan anda capital gain saat nilai saham anda naik dan dividen yang akan dibagikan sesuai dengan nilai keuntungan dari bisnis tersebut sehingga dana yang anda miliki akan memiliki potensi perkembangan dari waktu ke waktu.
 
-## Perbedaan Menabung dan Investasi
+## Konsep Menabung dan Investasi
 
 Dilansir dari Investopedia, faktor utama yang menjadi perbedaan menabung dan investasi adalah risiko dan jangka waktunya. Dalam jangka waktu pendek, menabung punya faktor risiko lebih rendah dibandingkan investasi.
 
@@ -77,7 +77,7 @@ Misalnya, jika kita menabung sebentar saja dan disimpan di bank, maka uang yang 
 
 Dalam investasi, kita berkesempatan untuk meningkatkan nilai uang yang kita alokasikan sebagai modal. Tentunya, potensi mendapat keuntungan ini juga disertai dengan risiko kerugian yang ditentukan oleh cara kita memilih instrumen investasi dan profil risikonya.
 
-## Pentingnya Menabung dan Investasi
+## Menyiapkan Tabungan dan Investasi
 
 Pada dasarnya, investasi atau menabung menjadi dua hal yang penting dalam proses mencapai kondisi finansial impian. Dengan menabung kamu bisa belajar menyisihkan uang untuk alokasi yang betul-betul harus dimiliki, seperti dana darurat. 
 
@@ -99,7 +99,7 @@ Apabila kamu hanya menabung, maka uang yang kamu miliki pasti mengalami penuruna
 
 Oleh sebab itu, selain menabung kamu perlu menyiapkan rencana investasi yang matang agar kamu dapat mencapai tujuan finansial yang kamu harapkan di masa mendatang. 
 
-## **Cara Melakukan Investasi**
+## **Memulai Investasi**
 
 Mengembangkan investasi merupakan hal yang harus anda lakukan agar nilai investasi yang anda miliki terus berkembang. Dalam investasi anda harus paham *risk and reward* dalam pengembangan investasi yang akan anda lakukan.
 
@@ -113,9 +113,7 @@ Untuk investasi dengan risiko rendah anda bisa mulai berinvestasi lewat reksa da
 
 Investasi bisnis merupakan bisnis yang sering dijadikan pilihan karena selain peningkatan nilai uang, investasi ini memiliki potensi memberikan anda  ***[passive income](https://landx.id/blog/tag/investasi-passive-income/)***  melalui bagi hasil.
 
-## **Investasi Bagi Hasil untuk Menambah *Income***
-
-Investasi bagi hasil bulanan merupakan salah satu pilihan investasi yang akan memberikan investor **[income](https://landx.id/project/)** lewat bagi hasil yang dilakukan setiap periode yang telah disepakati.
+## **Investasi dengan Sistem Bagi Hasil**
 
 Sistem investasi bisnis dengan bagi hasil ini merupakan pilihan investasi yang cukup mudah untuk anda mulai apalagi pemula yang masih kebingungan tentang bagaimana memilih investasi yang baik.
 
@@ -125,7 +123,7 @@ Dalam hal ini investor harus jeli melihat bagaimana pergerakan pasar pada saat i
 
 Oleh sebab itu anda harus memiliki pengetahuan yang cukup sebelum memutuskan bisnis mana yang akan anda berikan modal.
 
-## **Mulai Berinvestasi untuk Melawan Inflasi**
+## **Pentingnya Investasi untuk Menghadapi Inflasi**
 
 Dalam mengelola dana untuk menyiapkan masa depan, anda butuh lebih dari sekedar menabung. Oleh sebab itu anda perlu menyiapkan investasi jangka panjang yang bisa membuat uang anda dapat berkembang dengan lebih cepat.
 
@@ -137,9 +135,9 @@ Untuk Pemula, kamu bisa lo punya berbagai bisnis menguntungkan cuma dengan 1 jut
 
 ## **Mulai Investasi Bisnis Menguntungkan dengan Modal 1 Juta**
 
-**[LandX](https://landx.id/)** \*\*\*\* memberikan kesempatan untuk anda mulai investasi yang menguntungkan dengan risiko rendah dan modal kecil. [](https://landx.id/)
+**[LandX](https://landx.id/)**  memberikan kesempatan untuk anda mulai investasi yang menguntungkan dengan risiko rendah dan modal kecil. [](https://landx.id/)
 
-**[LandX](https://landx.id/)** \*\*\*\* akan menyediakan anda berbagai pilihan bisnis untuk tempat investasi pengembangan modal yang anda miliki. [Yuk mulai sekarang](https://landx.id/)!
+**[LandX](https://landx.id/)** akan menyediakan anda berbagai pilihan bisnis untuk tempat investasi pengembangan modal yang anda miliki. [Yuk mulai sekarang](https://landx.id/)!
 
 **[Yuk Temukan Bisnis Menjanjikan dengan Keuntungan Terbaik di LandX](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)**
 
