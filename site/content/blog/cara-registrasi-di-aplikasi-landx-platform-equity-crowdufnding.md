@@ -1,16 +1,16 @@
 ---
 draft: false
 author: Vlora Riyandi
-title: Cara Registrasi di Aplikasi LandX, Platform Equity Crowdufnding
-metaTitle: Cara Registrasi di Aplikasi LandX, Platform Equity Crowdufnding
+title: Cara Registrasi di Aplikasi LandX, Platform Equity Crowdfunding
+metaTitle: Cara Registrasi di Aplikasi LandX, Platform Equity Crowdfunding
 metaDescription: Langkah mudah registrasi akun di aplikasi LandX dan verifikasi
   akun agar dapat miliki saham bisnis potensial menguntungkan.
 intro: Lihat langkah mudah registrasi akun di aplikasi LandX dan verifikasi akun
   agar dapat miliki saham bisnis potensial menguntungkan dalam artikel ini.
 date: 2022-08-29T07:22:34.549Z
 featuredImage:
-  title: Cara Registrasi di Aplikasi LandX, Platform Equity Crowdufnding
-  alt: Cara Registrasi di Aplikasi LandX, Platform Equity Crowdufnding
+  title: Cara Registrasi di Aplikasi LandX, Platform Equity Crowdfunding
+  alt: Cara Registrasi di Aplikasi LandX, Platform Equity Crowdfunding
   src: img/landx_1.9.1.1_ads-general-campaign_agustus-2022_c.png
 ---
 Hai Sobat LandX, kali ini kami akan bahas **cara registrasi akun di aplikasi LandX**. Panduan ini dapat membuat kamu memahami lebih baik setiap langkah registrasi dan verifikasi akun agar dapat membeli saham yang ditawarkan project bisnis yang hadir melalui LandX.
@@ -49,7 +49,7 @@ Yuk, lihat lebih lanjut!
 
 ## Cara Verifikasi Akun di Aplikasi LandX
 
-Agar terdaftar sebagai investor resmi di negara Indonesia, kamu juga harus melakukan pendataan diri ke lembaga KSEI. Namun tak perlu khawatir, kamu dapat membantu kamu melakukan proses verifikasi data (KYC) mudah dengan cara mengunggah informasi yang diperlukan melalui aplikasi LandX.
+Agar terdaftar sebagai investor resmi di negara Indonesia, kamu juga harus melakukan pendataan diri ke lembaga KSEI. Namun tak perlu khawatir, kami dapat membantu kamu melakukan proses verifikasi data (KYC) mudah dengan cara mengunggah informasi yang diperlukan melalui aplikasi LandX.
 
 #### 1. Agar proses kamu melakukan verifikasi berjalan lancar, mari persiapkan beberapa dokumen berikut: KTP, NPWP, dan RDN (jika telah punya). Klik Mulai.
 
@@ -59,11 +59,9 @@ Agar terdaftar sebagai investor resmi di negara Indonesia, kamu juga harus melak
 
 #### 3. Selanjutnya unggah foto selfie kamu dengan KTP. Posisikan KTP di bawah dagu dan tidak menutupi wajah serta keseluruhan wajah terlihat jelas dan hasil foto tidak berbayang. 
 
-####  ![](https://lh5.googleusercontent.com/3vQ0QkcDjSyvlPLS0BtY3eLmijsb49_pTfwF7JY2u-DYmvGujrVLA10yLxQEo9nISEziJLyC5PK1H5mWDczDpwtWOIR8ZSdRY7ZQNRS1Ez0JFse50T7G6mtIGr1ACb4m8xDyU0xfMXFG32OQlmekqBgUIedUvxyq0NCYVMAo6JRQTKqS4fufTQSchA)
-
 #### 4. Setelah memastikan hasil foto KTP dan selfie dengan KTP baik maka langkah selanjutnya adalah Isi Alamat Sesuai KTP dan Isi Alamat Domisili.![](https://lh5.googleusercontent.com/fLd3XbqWw7M6VxjebXWBF6mc7P6zzZaJ60XPrfvSR8pfijZyaUDz_kks979A2YUGlJVvzlUCv6r3uIDEDyib1eV-kSXzbIPfp046PJ_huDnkeidgENWO5rlLrtyUsWV-c0PgJfBN0kFP-ZEspjmvn-g8TdZ9-z7oXptOVhq47eooZ5YbsILjfOSufg)
 
-#### 5. Periksa kembali semua data yang telah diisi untuk memastikan semua data terisi sesuai dan benar. 
+#### 5. Periksa kembali semua data yang telah diisi untuk memastikan semua data terisi sesuai dan benar.
 
 Selanjutnya, unggah informasi terkait **NPWP** sebagai bagian data Profil Investor serta isi data terkait **RDN** (Rekening Dana Nasabah) jika kamu telah punya sebelumnya.
 
