@@ -9,7 +9,7 @@ intro: Bagi pemilik usaha, kebijakan devaluasi adalah faktor yang mampu
   meningkatkan demand terhadap barang di pasaran dalam hingga luar negeri. Mari
   simak penjelasan seputar apa itu devaluasi dan dampaknya bagi perekonomian
   negara!
-date: 2022-06-23T05:35:31.780Z
+date: 2022-08-30T14:08:01.916Z
 tag:
   - Inflasi
   - Investasi Keuangan
