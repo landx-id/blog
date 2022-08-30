@@ -2,11 +2,12 @@
 author: Della Octavilia
 title: "Devaluasi Adalah: Memahami Apa Itu Devaluasi dan Dampaknya"
 metaTitle: Mehamami Apa Itu Kebijakan Devaluasi dan Pengaruhnya ke Investasi
-metaDescription: " Devaluasi adalah kebijakan yang diterapkan pemerintah dengan
-  menurunkan nilai mata uang negara terhadap nilai mata uang asing."
+metaDescription: Apa itu devaluasi adalah kebijakan menurunkan nilai mata uang
+  negara terhadap nilai mata uang asing. Pelajari kebijakan devaluasi Indonesia
+  yuk!
 intro: Bagi pemilik usaha, kebijakan devaluasi dapat meningkatkan demand
-  terhadap barang di pasaran dalam hingga luar negeri. Simak, penjelasan seputar
-  devaluasi dan dampaknya bagi perekonomian negara.
+  terhadap barang di pasaran dalam hingga luar negeri. Mari simak penjelasan
+  seputar apa itu devaluasi dan dampaknya bagi perekonomian negara.
 date: 2022-06-23T05:35:31.780Z
 tag:
   - Inflasi
