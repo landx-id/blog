@@ -121,7 +121,7 @@ Pada akhirnya, keputusan ini akan berpengaruh pada pertumbuhan ekonomi bisa rela
 
 ## Mengapa Harus Mulai Investasi?
 
-Menaikkan suku bunga ini tentu adalah strategi Pemerintah Indonesia mengontrol penyebab inflasi. Namun, sebagai masyarakat kamu bisa melakukan tindakan untuk menghindari dan menghadapi dampak inflasi, salah satunya adalah melakukan investasi. 
+Menaikkan suku bunga ini tentu adalah strategi Pemerintah Indonesia dan Bank Indonesia mengontrol penyebab inflasi. Namun, sebagai masyarakat kamu bisa melakukan tindakan untuk menghindari dan menghadapi dampak inflasi, salah satunya adalah melakukan investasi. 
 
 Inflasi dapat mengurangi nilai uang karena penurunan daya beli. Untuk itu, uang tersebut perlu diinvestasikan dalam aset yang bisa menghasilkan imbal hasil yang lebih tinggi dibandingkan dengan laju inflasi. 
 
