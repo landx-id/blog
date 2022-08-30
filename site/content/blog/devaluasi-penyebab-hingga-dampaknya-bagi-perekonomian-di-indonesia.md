@@ -5,16 +5,17 @@ metaTitle: Mehamami Apa Itu Kebijakan Devaluasi dan Pengaruhnya ke Investasi
 metaDescription: Apa itu devaluasi adalah kebijakan menurunkan nilai mata uang
   negara terhadap nilai mata uang asing. Pelajari kebijakan devaluasi Indonesia
   yuk!
-intro: Bagi pemilik usaha, kebijakan devaluasi dapat meningkatkan demand
-  terhadap barang di pasaran dalam hingga luar negeri. Mari simak penjelasan
-  seputar apa itu devaluasi dan dampaknya bagi perekonomian negara.
+intro: Bagi pemilik usaha, kebijakan devaluasi adalah faktor yang mampu
+  meningkatkan demand terhadap barang di pasaran dalam hingga luar negeri. Mari
+  simak penjelasan seputar apa itu devaluasi dan dampaknya bagi perekonomian
+  negara!
 date: 2022-06-23T05:35:31.780Z
 tag:
   - Inflasi
   - Investasi Keuangan
   - Investasi Jangka Panjang
 featuredImage:
-  title: Memahami apa itu devaluasi dan  tujuan devaluasi untuk investasi
+  title: Memahami apa itu devaluasi dan tujuan devaluasi untuk investasi
   alt: pengaruh  devaluasi mata uang terhadap investasi jangka panjang
   src: img/devaluasi-adalah.jpg
 ---
@@ -22,10 +23,9 @@ Anda tahu tidak kalau di Indonesia pernah terjadi devaluasi? Sebelumnya, Anda ta
 
 Devaluasi adalah kebijakan yang dilakukan pemerintah untuk menjaga perekonomian suatu negara dengan menurunkan nilai mata uang negara terhadap mata uang asing. 
 
-Bagi seseorang yang memiliki bisnis atau usaha penting untuk mengetahui devaluasi. Karena bila terjadi devaluasi akan mempengaruhi bisnis yang sedang dijalankan.
+Mengetahui apa itu devaluasi adalah hal wajib bagi seseorang yang memiliki bisnis atau usaha. Karena bila terjadi devaluasi akan mempengaruhi bisnis yang sedang dijalankan.
 
-Di artikel ini, kita akan membahas lengkap seputar devaluasi, hingga contoh kebijakan 
-Devaluasi yang pernah terjadi di Indonesia.
+Dalam artikel ini, kita akan membahas lengkap seputar apa itu devaluasi mata uang, contoh kebijakan devaluasi di Indonesia, hingga dampak devaluasi rupiah.
 
 Jadi, langsung saja simak artikel ini!
 
