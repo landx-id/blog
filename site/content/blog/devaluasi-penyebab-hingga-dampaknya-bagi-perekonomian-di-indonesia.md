@@ -35,13 +35,13 @@ Merujuk dari wikipedia, devaluasi adalah kebijakan moneter yang diambil oleh pem
 
 Sedangkan menurut Kamus Besar Bahasa Indonesia (KBBI), devaluasi adalah penurunan nilai uang yang dilakukan dengan sengaja terhadap uang luar negeri atau terhadap emas untuk memperbaiki perekonomian.
 
-Singkatnya, devaluasi adalah kebijakan yang dilakukan pemerintah dengan menurunkan nilai mata uang negara terhadap nilai mata uang asing. Adanya kebijakan devaluasi membuat nilai mata uang suatu negara berada dibawah rata-rata nilai mata uang asing.
+Singkatnya, devaluasi adalah kebijakan yang dilakukan pemerintah dengan menurunkan nilai mata uang negara terhadap nilai mata uang asing. Kebijakan devaluasi dapat menyebabkan  nilai mata uang suatu negara berada dibawah rata-rata nilai mata uang asing.
 
 Dalam penerapannya, pemerintah melalui bank sentral akan melakukan devaluasi saat kurs resmi dapat membahayakan sistem perekonomian negara.
 
-Alasan pemerintah suatu negara melakukan devaluasi mata uang adalah untuk memerangi ketidakseimbangan perdagangan..
+Kebijakan devaluasi dapat menyebabkan ketidakseimbangan perdagangan dapat diminimalisir. Sehingga utamanya, alasan pemerintah mengambil keputusan kebijakan devaluasi adalah untuk menjaga kestabilan harga barang lokal dan impor. 
 
-Dengan diterapkannya kebijakan devaluasi, maka harga barang negara lain akan lebih murah di pasaran luar negeri dan menjadi lebih mahal di pasaran dalam negeri. Hal ini menyebabkan masyarakat akan berhenti menggunakan produk luar negeri dan beralih menggunakan produk dalam negeri.
+Kebijakan devaluasi dapat menyebabkan harga barang negara lain lebih mahal di pasaran luar negeri dan menjadi lebih murah di pasaran dalam negeri. Hal ini bisa menyebabkan masyarakat akan berhenti menggunakan produk luar negeri dan beralih menggunakan produk dalam negeri.
 
 Sehingga, produk dalam negeri memiliki kualitas yang baik dan dapat bersaing baik di dalam dan di luar negeri. Pemerintah menggunakan kesempatan ini dengan menekan impor dan meningkatkan kegiatan ekspor, lalu mata uang dalam negeri akan kembali stabil.
 
@@ -81,17 +81,17 @@ Sehingga masyarakat beralih menggunakan produk dalam negeri. Jadi, muncul pemiki
 
 ## Dampak dari Kebijakan Devaluasi
 
-Dengan pemerintah menerapkan kebijakan devaluasi, diharapkan akan memberikan dampak bagi negara, terutama di sektor ekonominya. Berikut ini dampak dari kebijakan devaluasi, diantaranya:
+Dengan pemerintah menerapkan kebijakan devaluasi, diharapkan akan memberikan dampak bagi negara, terutama di sektor ekonominya. Kebijakan devaluasi dapat menyebabkan dampak berikut ini:
 
 * **Menekan jumlah barang impor**
 
 Dengan diterapkannya kebijakan devaluasi, nantinya akan merubah pola pikir masyarakat dari lebih baik menggunakan produk luar menjadi lebih menggunakan produk dalam negeri (lokal).
 
-Sehingga penggunaan produk lokal meningkat dan mengurangi jumlah barang impor yang beredar di pasar dalam negeri.
+Sehingga kebijakan devaluasi dapat meningkatkan penggunaan produk lokal dan mengurangi jumlah barang impor yang beredar di pasar dalam negeri.
 
 * **Meningkatnya kegiatan ekspor**
 
-Ketika negara menerapkan devaluasi yang membuat nilai mata uang dalam negeri lebih rendah dibanding nilai mata uang asing. Sehingga  harga barang lokal dianggap lebih murah oleh warga asing.
+Ketika negara menerapkan devaluasi yang membuat nilai mata uang dalam negeri lebih rendah dibanding nilai mata uang asing, kebijakan devaluasi dapat menyebabkan harga barang lokal dianggap lebih murah oleh warga asing.
 
 Hal ini akan mendorong meningkatnya permintaan barang oleh warga asing dan terjadinya peningkatan dalam kegiatan ekspor dalam negeri.
 
@@ -103,11 +103,11 @@ Dengan kualitas yang bagus, harga murah dan produk beragam, maka warga asing aka
 
 * **Meningkatnya devisa dalam negeri**
 
-Dengan produk lokal yang dapat bersaing di pasar internasional dan menjadi pilihan bai warga asing akan menyebabkan terjadinya peningkatan ekspor dalam negeri.
+Dengan produk lokal yang dapat bersaing di pasar internasional dan menjadi pilihan bagi warga asing akan menyebabkan terjadinya peningkatan ekspor dalam negeri.
 
-Dengan meningkatnya kegiatan ekspor akan memberikan dampak positif bagi perekonomian, dimana devisa dalam negeri mengalami kenaikan.
+Dengan meningkatnya kegiatan ekspor akan memberikan dampak positif bagi perekonomian, di mana devisa dalam negeri mengalami kenaikan.
 
-Meningkatnya devisa dalam negeri akan dimanfaatkan untuk mendirikan banyak perusahaan sehingga menciptakan lapangan kerja yang baru.
+Kebijakan devaluasi dapat menyebabkan meningkatnya devisa dalam negeri yang akan dimanfaatkan untuk mendirikan banyak perusahaan sehingga menciptakan lapangan kerja yang baru. 
 
 * **Menciptakan keseimbangan terhadap neraca pembayaran** 
 
@@ -117,11 +117,11 @@ Dengan meningkatnya nilai mata uang asing, menyebabkan kegiatan ekspor dalam neg
 
 Akibat kejadian ini neraca perdagangan akan mengalami defisit dan akhirnya neraca pembayaran mengalami defisit juga.
 
-## Contoh Devaluasi di Indonesia
+## Contoh Devaluasi Rupiah di Indonesia
 
 Sepanjang perjalanannya, Indonesia pernah beberapa kali menerapkan kebijakan devaluasi. Umunya, kebijakan ini dilakukan karena adanya inflasi tinggi. Sehingga untuk memperbaiki kondisi ekonomi dalam negeri, pemerintah Indonesia menerapkan devaluasi.
 
-Berikut ini beberapa contoh devaluasi yang pernah diterapkan di Indonesia.
+Berikut ini beberapa contoh penerapan kebijakan devaluasi di Indonesia.
 
 * **Tahun 1950**
 
@@ -131,7 +131,7 @@ Kebijakan ini dikenal dengan kebijakan gunting syarifuddin, dimana ia memangkas 
 
 * **Tahun 1959**
 
-Sejak dikeluarkannya dekrit Presiden pada 5 Juli 1959, pemerintah terus menekan inflasi di Indonesia. Salah satu caranya dengan menetapkan kebijakan devaluasi pada 25 Agustus 1959.
+Sejak dikeluarkannya dekrit Presiden pada 5 Juli 1959, pemerintah terus menekan inflasi di Indonesia. Salah satu caranya dengan menetapkan kebijakan devaluasi di Indonesia pada 25 Agustus 1959.
 
 Pemerintah mengeluarkan Peraturan Pemerintah Pengganti Undang-Undang No.2 tahun 1959 dengan nilai mata uang Rp1.000 dan Rp500 berubah menjadi Rp100 dan Rp50.
 
@@ -153,17 +153,35 @@ Untuk mengatasi utang negara dan pendapatan yang menurun akibat dari penjualan m
 
 * **Tahun 1983**
 
-Devaluasi ketiga yang terjadi di masa pemerintahan Presiden Soeharto. Di Bawah menteri keuangan, Radius Prawiro menerapkan devaluasi dengan memotong nilai rupiah hingga 48% hampir setengah dari nilai rupiah. Kurs 1 dolar AS naik yang awalnya Rp702,50 menjadi Rp970.
+Devaluasi rupiah ketiga yang terjadi di masa pemerintahan Presiden Soeharto. Di Bawah menteri keuangan, Radius Prawiro menerapkan devaluasi dengan membuat kebijakan devaluasi rupiah hingga 48% hampir setengah dari nilai rupiah. Kurs 1 dolar AS naik yang awalnya Rp702,50 menjadi Rp970.
 
 * **Tahun 1986**
 
 Masih terjadi di bawah presiden dan menteri keuangan yang sama, pada 12 September 1986 devaluasi kembali diterapkan.
 
-Nilai rupiah mengalami devaluasi sebesar 47% yang awalnya Rp1,134 menjadi Rp1,664 per 1 dolar AS. 
+Nilai devaluasi rupiah mencapai angka 47% yang awalnya Rp1,134 menjadi Rp1,664 per 1 dolar AS. 
 
 Sepanjang masa pemerintahan Presiden Soeharto, Indonesia telah mengalami devaluasi sebanyak 4 kali.
 
-**Gimana sekarang Anda sudah mengetahui seputar devaluasi kan?** 
+## Dampak Kebijakan Devaluasi di Indonesia
+
+Dari contoh kebijakan devaluasi di Indonesia yang disebutkan sebelumnya, secara garis besar kebijakan devaluasi dapat menyebabkan perubahan persepsi masyarakat atas harga barang lokal dan impor.
+
+Melalui kebijakan devaluasi rupiah, harga barang lokal bisa menjadi lebih mahal di pasaran luar negeri dan barang impor bisa lebih mahal di pasar Indonesia. 
+
+Lewat kebijakan devaluasi di Indonesia, kondisi sebaliknya di mana harga lokal lebih murah di pasaran luar negeri dan lebih mahal di pasaran domestik juga bisa terjadi. 
+
+Sederhananya, semakin tinggi tingkat devaluasi rupiah yang dilakukan pemerintah, maka kebijakan devaluasi di Indonesia akan berpengaruh secara signifikan pada tingkat daya saing produk antar negara yang bersangkutan.
+
+Kebijakan devaluasi di Indonesia dapat membuat masyarakat lebih memilih untuk konsumsi produk dalam negeri ketimbang produk impor. Namun, jika konsumsi produk lokal terus meningkat tanpa kontrol pemerintah, hal ini bisa juga menyebabkan masifnya kenaikan harga produk lokal sebab permintaan masyarakat.
+
+Sesuai dengan konsep dasar permintaan dan penawaran, maka jika harga barang terus meroket tajam karena devaluasi mata uang rupiah, maka masyarakat bisa saja tidak memiliki kemampuan untuk membelinya. 
+
+Secara berkala, kondisi ini membuat penurunan permintaan yang pada akirnya dapat mengganggu aktivitas produksi dan distribusi barang, serta memicu terjadinya deflasi. 
+
+Karena itu, pengambilan kebijakan devaluasi mata uang rupiah yang diterapkan pemerintah harus melalui proses pertimbangan menyeluruh. 
+
+## **Gimana sekarang Anda sudah mengetahui seputar devaluasi kan?** 
 
 Dengan diterapkannya devaluasi yang dapat menguntungkan suatu bisnis dari meningkatnya demand baik dari dalam dan luar negeri banyak dimanfaatkan untuk membuka peluang usaha.
 
