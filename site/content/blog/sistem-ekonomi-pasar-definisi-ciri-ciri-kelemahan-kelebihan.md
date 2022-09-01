@@ -9,6 +9,13 @@ intro: Sistem ekonomi pasar biasanya dikenal sebagai sistem ekonomi liberal yang
   diterapkan oleh suatu negara dengan memberi kebebasan kepada warganya dalam
   mengadakan kegiatan ekonomi.
 date: 2022-08-26T08:33:35.757Z
+tag:
+  - Ekonomi
+  - Resesi Ekonomi
+  - Kebijakan Ekonomi
+category:
+  - Ekonomi
+  - Keuangan
 featuredImage:
   alt: "Sistem Ekonomi Pasar: Definisi, Ciri-ciri, Kelemahan & Kelebihan"
   title: "Sistem Ekonomi Pasar: Definisi, Ciri-ciri, Kelemahan & Kelebihan"
@@ -44,7 +51,7 @@ Perbedaan sistem ekonomi pasar dengan sistem ekonomi campuran adalah pada sistem
 
 Dalam sistem ekonomi campuran menggabungkan karakteristik pasar, beberapa kebijakan diatur oleh pemerintah dan ekonomi tradisional. Jika menarik kesimpulan, perbedaan diantaranya adalah pada konteks peranan pemerintah dan kebebasan pihak swasta, karena sistem ekonomi pasar menghendaki kebebasan yang seluas-luasnya. Berbeda dengan sistem ekonomi campuran yang beberapa kebijakannya diatur negara atau swasta. 
 
-## Ciri-ciri Sistem Ekonomi Pasar 
+## Ciri-ciri Sistem Ekonomi Pasar
 
 Setelah penjelasan diatas, jika suatu negara menerapkan sistem ekonomi pasar tentu akan memiliki karakteristik tertentu, diantaranya:
 
@@ -86,3 +93,9 @@ Melalui sistem [equity crowdfunding](https://landx.id/), perusahaan kamu yang su
 Jadi tunggu apalagi?
 
 ## [Yuk, Daftarkan Perusahaan Kamu untuk Ekspansi Lebih Cepat Melalui LandX Sekarang Juga!](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)
+
+<!--StartFragment-->
+
+[![miliki bisnis modal kecil cuma dengan 1 jutaan dapat 4 cabang ](https://accountgram-production.sfo2.cdn.digitaloceanspaces.com/landx_ghost/2021/11/jadi-owner-bisnis-hanya-1-jutaan-dengan-cuan-yang-sangat-menjanjikan.png)](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)
+
+<!--EndFragment-->
