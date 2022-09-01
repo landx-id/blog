@@ -52,9 +52,15 @@ Besarannya tidak akan berubah dari awal hingga akhir periode. Contoh dari perhit
 
 **Cara Menghitung Bunga Tunggal**
 
-![Cara menghitung bunga tunggal](img/cara-menghitung-bunga-tunggal.png "Cara menghitung bunga tunggal")
+<!--StartFragment-->
 
-![](img/contoh-cara-menghitung-bunga-tunggal.png)
+![](blob:https://keen-mestorf-9781e3.netlify.app/31dcc341-2843-4edd-b7b0-a584c81d244f)
+
+<!--EndFragment-->
+
+<!--StartFragment-->
+
+![](blob:https://keen-mestorf-9781e3.netlify.app/0c1482e4-6ba4-493f-a409-ddde9ed9b48a)
 
 ### 2. Bunga Majemuk
 
@@ -68,9 +74,9 @@ Tidak sampai situ, besarannya ditambah lagi dengan akumulasi bunga yang didapatk
 
 **Cara Menghitung Bunga Majemuk**
 
-![Cara Menghitung Bunga Majemuk](img/cara-menghitung-bunga-majemuk.png)
+<!--StartFragment-->
 
-![Contoh cara Menghitung Bunga Majemuk](img/contoh-cara-menghitung-bunga-majemuk.png)
+![](blob:https://keen-mestorf-9781e3.netlify.app/1d973a18-d2d1-454d-bb37-2de18efc609d)
 
 ## Jenis-jenis Suku Bunga Bank Kredit
 
@@ -84,7 +90,11 @@ Misalnya, pembelian secara kredit alat elektronik, perlengkapan rumah tangga, ke
 
 **Cara Menghitung Bunga Flat**
 
-![Rumus dan Cara Menghitung Bunga Flat](img/cara-menghitung-bunga-flat.png)
+<!--StartFragment-->
+
+![](blob:https://keen-mestorf-9781e3.netlify.app/6edc9a46-07b7-452e-ad4c-5b8508e48327)
+
+
 
 Jumlah angsuran yang dibayarkan setiap bulan ini tidak akan berubah, karena itu disebut bunga tetap. Tentunya, besaran bunga bank flat tergantung dengan kebijakan bank atau jasa keuangan yang memberikan kredit dan dipilih oleh nasabah. 
 
@@ -98,7 +108,11 @@ Contohnya adalah suku bunga KPR (kredit Pemilikan Rumah) untuk periode tertentu.
 
 **Cara Menghitung Floating Rate**
 
-![Cara Menghitung Floating Rate](img/cara-menghitung-floating-rate.png)
+<!--StartFragment-->
+
+![](blob:https://keen-mestorf-9781e3.netlify.app/48c3b634-772b-42cd-b3eb-6f1ff28414e7)
+
+<!--EndFragment-->
 
 ### 3. Suku Bunga Efektif
 
@@ -110,11 +124,17 @@ Dalam jenis-jenis bunga bank anuitas ini, suku bunga yang dibayarkan adalah gabu
 
 **Cara Menghitung Bunga Efektif dan Anuitas**
 
-![Rumus Bunga Efektif dan Anuitas](img/cara-menghitung-bunga-efektif-dan-anuitas.png)
+<!--StartFragment-->
 
-![Contoh Menghitung Bunga Efektif dan Anuitas 1](img/contoh-cara-menghitung-bunga-efektif-dan-anuitas-1.png)
+![](blob:https://keen-mestorf-9781e3.netlify.app/74d761f1-47d8-45fb-a472-418bfa21848d)
 
-![Contoh Menghitung Bunga Efektif dan Anuitas 2](img/contoh-cara-menghitung-bunga-efektif-dan-anuitas-2.png)
+![](blob:https://keen-mestorf-9781e3.netlify.app/2adf7d82-be30-452b-8176-809b77703ef2)
+
+<!--StartFragment-->
+
+![](blob:https://keen-mestorf-9781e3.netlify.app/0958b904-95b1-4c2f-8309-3d11ad4683c9)
+
+<!--EndFragment-->
 
 ## Dampak Naiknya Suku Bunga BI
 
