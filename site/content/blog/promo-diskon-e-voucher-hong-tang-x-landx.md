@@ -23,7 +23,6 @@ Kali ini bersama platform equity crowdfunding terdepan di Indonesia, **LandX dan
 **Promo Diskon e-Voucher Hong Tang** **berlaku untuk pengguna aplikasi LandX yang masuk dalam dua kategori berikut:**
 
 1. Investor LandX Circle
-
 2. Pengguna aplikasi LandX yang telah melakukan [registrasi dan verifikasi akun](https://landx.id/blog/cara-registrasi-di-aplikasi-landx-platform-equity-crowdufnding/)
 
 \*Syarat dan Ketentuan Berlaku
@@ -38,8 +37,7 @@ Promo setiap pembelian minimal Rp. 100.000 setelah pajak mendapat diskon 15%
 
 (berlaku setiap hari).
 
-* Promo beli satu menu Grass Jelly Signature gratis Original Cocoshake (berlaku setiap
-* hari rabu)
+* Promo beli satu menu Grass Jelly Signature gratis Original Cocoshake (berlaku setiap hari rabu)
 * Periode promo 01 September sampai 20 September 2022
 * Promo berlaku pada outlet Hong Tang :
 
