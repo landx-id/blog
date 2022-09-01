@@ -11,6 +11,12 @@ date: 2022-08-29T09:13:49.983Z
 tag:
   - Investasi untuk Pemula
   - Investasi Menguntungkan
+  - Mengatur Keuangan
+  - Cara Investasi
+  - Investasi Jangka Panjang
+category:
+  - Investasi
+  - Keuangan
 featuredImage:
   title: "6 Cara Milenial Investasi & Tips Investasi Milenial Terbaik "
   alt: "6 Cara Milenial Investasi & Tips Investasi Milenial Terbaik "
