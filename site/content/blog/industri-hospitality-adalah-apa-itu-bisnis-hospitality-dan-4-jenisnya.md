@@ -11,6 +11,14 @@ intro: Konsep ramah tamah adalah hal dasar bisnis di industri hospitality. Bukan
   konsentrasi yang relevan seperti event, travel & tourism, dan kuliner. Lihat
   bahasan 4 jenis bisnis hospitality dalam artikel ini.
 date: 2022-08-22T06:41:29.791Z
+tag:
+  - Bisnis Menguntungkan
+  - Peluang Bisnis
+  - Ekonomi
+  - Patungan Bisnis
+category:
+  - Bisnis
+  - Investasi
 featuredImage:
   src: https://images.unsplash.com/photo-1516788875874-c5912cae7b43?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2073&q=80
   alt: Jenis-jenis bisnis Hospitality
@@ -98,3 +106,9 @@ Di [LandX](https://landx.id/), kamu bisa memiliki bisnis potensial yang dikelola
 Karena itu …
 
 ## [Patungan Bisnis Potensial Bareng LandX Sekarang Juga!](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)
+
+<!--StartFragment-->
+
+[![miliki bisnis modal kecil cuma dengan 1 jutaan dapat 4 cabang ](https://accountgram-production.sfo2.cdn.digitaloceanspaces.com/landx_ghost/2021/11/jadi-owner-bisnis-hanya-1-jutaan-dengan-cuan-yang-sangat-menjanjikan.png)](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)
+
+<!--EndFragment-->
