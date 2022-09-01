@@ -1,5 +1,5 @@
 ---
-draft: false
+draft: true
 author: LandX
 title: Promo Diskon e-Voucher Bebek Kepahiang x LandX
 metaTitle: Promo Diskon e-Voucher Bebek Kepahiang x LandX
