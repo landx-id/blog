@@ -54,13 +54,13 @@ Besarannya tidak akan berubah dari awal hingga akhir periode. Contoh dari perhit
 
 <!--StartFragment-->
 
-![](blob:https://keen-mestorf-9781e3.netlify.app/31dcc341-2843-4edd-b7b0-a584c81d244f)
+![](https://cdn.discordapp.com/attachments/976381310857773066/1014851668803846275/Cara_menghitung_bunga_tunggal.PNG)
+
+![](https://cdn.discordapp.com/attachments/976381310857773066/1014851668443140157/Contoh_cara_menghitung_bunga_tunggal.PNG)
 
 <!--EndFragment-->
 
-<!--StartFragment-->
 
-![](blob:https://keen-mestorf-9781e3.netlify.app/0c1482e4-6ba4-493f-a409-ddde9ed9b48a)
 
 ### 2. Bunga Majemuk
 
@@ -76,7 +76,13 @@ Tidak sampai situ, besarannya ditambah lagi dengan akumulasi bunga yang didapatk
 
 <!--StartFragment-->
 
-![](blob:https://keen-mestorf-9781e3.netlify.app/1d973a18-d2d1-454d-bb37-2de18efc609d)
+![](https://cdn.discordapp.com/attachments/976381310857773066/1014851668015325214/Cara_menghitung_bunga_majemuk.PNG)
+
+<!--StartFragment-->
+
+![](https://cdn.discordapp.com/attachments/976381310857773066/1014851667679789187/Contoh_cara_menghitung_bunga_majemuk.PNG)
+
+<!--EndFragment-->
 
 ## Jenis-jenis Suku Bunga Bank Kredit
 
@@ -92,9 +98,9 @@ Misalnya, pembelian secara kredit alat elektronik, perlengkapan rumah tangga, ke
 
 <!--StartFragment-->
 
-![](blob:https://keen-mestorf-9781e3.netlify.app/6edc9a46-07b7-452e-ad4c-5b8508e48327)
+![](https://cdn.discordapp.com/attachments/976381310857773066/1014851667218403389/Cara_menghitung_bunga_flat.PNG)
 
-
+<!--EndFragment-->
 
 Jumlah angsuran yang dibayarkan setiap bulan ini tidak akan berubah, karena itu disebut bunga tetap. Tentunya, besaran bunga bank flat tergantung dengan kebijakan bank atau jasa keuangan yang memberikan kredit dan dipilih oleh nasabah. 
 
@@ -110,7 +116,7 @@ Contohnya adalah suku bunga KPR (kredit Pemilikan Rumah) untuk periode tertentu.
 
 <!--StartFragment-->
 
-![](blob:https://keen-mestorf-9781e3.netlify.app/48c3b634-772b-42cd-b3eb-6f1ff28414e7)
+![](https://cdn.discordapp.com/attachments/976381310857773066/1014851666815754241/Cara_menghitung_floating_rate.PNG)
 
 <!--EndFragment-->
 
@@ -126,13 +132,19 @@ Dalam jenis-jenis bunga bank anuitas ini, suku bunga yang dibayarkan adalah gabu
 
 <!--StartFragment-->
 
-![](blob:https://keen-mestorf-9781e3.netlify.app/74d761f1-47d8-45fb-a472-418bfa21848d)
+![](https://cdn.discordapp.com/attachments/976381310857773066/1014851666450862160/Cara_menghitung_bunga_efektif_dan_anuitas.PNG)
 
-![](blob:https://keen-mestorf-9781e3.netlify.app/2adf7d82-be30-452b-8176-809b77703ef2)
+
+
+![](https://cdn.discordapp.com/attachments/976381310857773066/1014851665968513054/Contoh_cara_menghitung_bunga_efektif_dan_anuitas.PNG)
+
+<!--EndFragment-->
+
+![](https://cdn.discordapp.com/attachments/976381310857773066/1014851665607790664/Contoh_cara_menghitung_bunga_efektif_dan_anuitas_1.PNG)
 
 <!--StartFragment-->
 
-![](blob:https://keen-mestorf-9781e3.netlify.app/0958b904-95b1-4c2f-8309-3d11ad4683c9)
+![](https://cdn.discordapp.com/attachments/976381310857773066/1014851665221918770/Contoh_cara_menghitung_bunga_efektif_dan_anuitas_2.PNG)
 
 <!--EndFragment-->
 
@@ -161,8 +173,6 @@ Skema ini adalah urun dana lewat patungan investor dari seluruh Indonesia bagi b
 Lewat skema ini, Anda tidak perlu turun tangan langsung mencari ide bisnis, mengurus operasional, atau membangun dari nol strategi marketing. Jadi, Anda tinggal menunggu keuntungan lewat dividen yang memiliki jadwal pembagian rutin.
 
 ## [Siap #RaihKebebasan Finansial dengan Modal 1 Jutaan? Yuk, Investasi Lewat LandX Sekarang!](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)
-
-<!--StartFragment-->
 
 [![miliki bisnis modal kecil cuma dengan 1 jutaan dapat 4 cabang ](https://accountgram-production.sfo2.cdn.digitaloceanspaces.com/landx_ghost/2021/11/jadi-owner-bisnis-hanya-1-jutaan-dengan-cuan-yang-sangat-menjanjikan.png)](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)
 
