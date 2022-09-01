@@ -16,7 +16,7 @@ featuredImage:
 ---
 Hai Sobat LandX,
 
-Lagi bingung mutusin menu makan kali ini apa? Yuk, bangkitkan selera kamu dengan menu super gurih dari **Bebek Kepahiang**![](https://landx.id/blog/bebek-kepahiang-cibinong-mall-city-raih-pendanaan-crowdfunding-landx/)
+Lagi bingung mutusin menu makan kali ini apa? Yuk, bangkitkan selera kamu dengan menu super gurih dari **Bebek Kepahiang**
 
 **[Bebek kepahiang](https://landx.id/blog/bebek-kepahiang-cibinong-mall-city-raih-pendanaan-crowdfunding-landx/)** adalah restoran olahan bebek populer di Jakarta. Memiliki slogan emang item bebeknya, sajian bebek dari restoran Bebek Kepahiang memiliki tampilan kehitaman karena bumbu kepahiang yang meresap sempurna. 
 
@@ -28,8 +28,6 @@ Melalui proses marinasi dan pengolahan yang panjang, hasilkan daging bebek empuk
 * Pengguna aplikasi LandX yang telah melakukan [registrasi dan verifikasi akun](https://landx.id/blog/cara-registrasi-di-aplikasi-landx-platform-equity-crowdufnding/)
 
 \*Syarat dan Ketentuan Berlaku
-
-**Cek e-voucher di aplikasi LandX kamu ya!**
 
 - - -
 
@@ -55,4 +53,4 @@ Melalui proses marinasi dan pengolahan yang panjang, hasilkan daging bebek empuk
 
 E-voucher Bebek Kepahiang x LandX bisa dipakai setiap hari selama masa periode diskon loh!
 
-**Cek sekarang juga aplikasi LandX kamu dan kunjungi restoran Bebek Kepahiang terdekat🛒🛒**
+**Yuk segera kunjungi restoran Bebek Kepahiang terdekat🛒🛒**
