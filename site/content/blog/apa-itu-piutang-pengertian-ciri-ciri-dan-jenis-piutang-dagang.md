@@ -9,6 +9,14 @@ intro: Piutang (account receivable) adalah dana serta hak milik sebuah
   perusahaan yang berada di tangan pihak lain berupa aset, barang atau jasa yang
   belum dibayar. Yuk, cari tahu jenis-jenis piutang dagang sebuah bisnis.
 date: 2022-08-24T03:19:02.164Z
+tag:
+  - Rasio Keuangan
+  - Laporan Keuangan
+  - Analisis Investasi
+  - Analisis Bisnis
+category:
+  - Investasi
+  - Keuangan
 featuredImage:
   src: https://images.unsplash.com/photo-1515606378517-3451a4fa2e12?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2128&q=80
   alt: memahami jenis piutang dagang
@@ -42,7 +50,7 @@ Dalam neraca perusahaan, piutang adalah salah satu komponen aktiva lancar. Piuta
 
 Ada pula **jenis-jenis piutang** yang begitu beragam dan mungkin dimiliki oleh beberapa perusahaan. Berikut merupakan jenis-jenis piutang adalah sebagai berikut:
 
-### 1. Piutang Usaha 
+### 1. Piutang Usaha
 
 **Piutang usaha adalah** nama lain dari piutang dagang yang merupakan tagihan perusahaan kepada konsumen karena adanya penjualan barang atau jasa secara kredit yang akan dibayar di kemudian hari. Tagihan tersebut tidak disertai dengan perjanjian formal, namun baik pihak kreditur dan debitur terjalin kesepakatan dan kebijakan yang dilakukan perusahaan. 
 
@@ -62,16 +70,16 @@ Surat wesel banyak digunakan oleh perusahaan-perusahaan ketika ingin mengajikan 
 
 Transaksi piutang membutuhkan sejumlah dokumen pendukung untuk memudahkan pencatatan yang dilakukan akuntan perusahaan seperti penagihan, pelunasan, atau pencatatan lainnya terhadap piutang yang dimiliki perusahaan. Dokumen pendukung yang membantu akuntan dalam mencatat piutang perusahaan diantaranya adalah sebagai berikut:
 
-* ### Faktur Penjualan 
+* ### Faktur Penjualan
 
   Faktur penjualan atau sales invoice yang merupakan lembar bukti penagihan atau bukti transaksi yang diberikan kepada pembeli ketika melakukan pembelian suatu produk.
-* ### Bukti Kas 
+* ### Bukti Kas
 
   Bukti kas masuk merupakan bukti transaksi kalau pihak penjual telah menerima sejumlah uang sebagai pelunasan piutang.
-* ### Bukti Memorial 
+* ### Bukti Memorial
 
   Bukti memorial merupakan bukti transaksi dari pimpinan perusahaan sebagai pihak penjual pada bagian akuntansi untuk melakukan pencatatan.
-* ### Memo Kredit 
+* ### Memo Kredit
 
   Memo kredit adalah dokumen catatan utang pada pihak pembeli atau pelanggan yang muncul ketika retur penjualan pada transaksi sudah berstatus lunas.
 
@@ -130,3 +138,9 @@ Piutang muncul karena adanya transaksi jual beli secara kredit. Perusahaan juga 
 Selain menerima keuntungan dari investasi piutang sebagai pemilik bisnis, kamu juga bisa berkesempatan terima keuntungan dari [investasi bisnis](https://landx.id/) melalui urun dana atau crowdfunding.
 
 ## [Pilih Bisnis Impian Kamu di Sini](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)
+
+<!--StartFragment-->
+
+[![miliki bisnis modal kecil cuma dengan 1 jutaan dapat 4 cabang ](https://accountgram-production.sfo2.cdn.digitaloceanspaces.com/landx_ghost/2021/11/jadi-owner-bisnis-hanya-1-jutaan-dengan-cuan-yang-sangat-menjanjikan.png)](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)
+
+<!--EndFragment-->
