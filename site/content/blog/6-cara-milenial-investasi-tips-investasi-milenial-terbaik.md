@@ -1,15 +1,16 @@
 ---
 draft: false
 author: Della Octavilia
-title: "6 Cara Milenial Investasi & Tips Investasi Milenial Terbaik "
-metaTitle: "6 Cara Milenial Investasi & Tips Investasi Milenial Terbaik "
-metaDescription: Literasi keuangan yang meningkat diiringi tren kegiatan
-  investasi milenial, simak 6 cara milenial investasi untuk masa depan yang
-  lebih baik.
+title: 6 Tips dan Cara Investasi Terbaik untuk Milenial
+metaTitle: Yuk Simak Tips Investasi dan Mengatur Dana untuk Milenial
+metaDescription: Simak 6 cara milenial investasi untuk masa depan yang lebih baik|
 intro: Tren investasi semakin didominasi kaum milenial dengan harapan memiliki
   masa depan yang lebih baik. Dalam artikel ini akan dibahas tips investasi uang
   terbaik untuk milenial.
 date: 2022-08-29T09:13:49.983Z
+tag:
+  - Investasi untuk Pemula
+  - Investasi Menguntungkan
 featuredImage:
   title: "6 Cara Milenial Investasi & Tips Investasi Milenial Terbaik "
   alt: "6 Cara Milenial Investasi & Tips Investasi Milenial Terbaik "
@@ -63,7 +64,7 @@ Tips cara milenial investasi selanjutnya adalah dengan memutuskan apakah kalian 
 
 Setelah kita membahas tips investasi untuk milenial, selanjutnya kita akan membahas 6 investasi milenial masa kini yang sedang digandrungi dan berpotensi mendapatkan keuntungan. Ada apa saja? Berikut ini 6 investasi masa kini untuk milenial, yaitu:
 
-### 1. Investasi Saham 
+### 1. Investasi Saham
 
 Investasi satu ini kerap kali disebut sebagai pilihan investasi generasi muda. Karena banyak generasi muda, terutama generasi milenial memilih investasi saham saat memulai investasi. Jika Anda memilih investasi saham, artinya Anda akan membeli kepemilikan saham di suatu perusahaan. Nah, nantinya ketika perusahaan tersebut meraih keuntungan, kalian berkesempatan mendapatkan keuntungan juga.
 
@@ -104,3 +105,9 @@ Nah, dari bisnis yang sudah Anda danai secara patungan, nantinya Anda juga berpo
 [LandX](https://landx.id/) merupakan platform [equity crowdfunding](https://landx.id/) yang dapat dipilih untuk menanamkan modal kalian di berbagai bisnis yang telah listing. [LandX](https://landx.id/) juga telah memiliki market cap terbesar se-Indonesia dan telah mengantongi izin dari Otoritas Jasa Keuangan (OJK). memulai investasi di LandX juga dapat dilakukan dengan modal yang kecil, yaitu mulai dari 1 jutaan, saja.
 
 ## [Persiapkan Masa Depan Terjamin dengan Investasi di LandX Sekarang Juga](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)
+
+<!--StartFragment-->
+
+[![miliki bisnis modal kecil cuma dengan 1 jutaan dapat 4 cabang ](https://accountgram-production.sfo2.cdn.digitaloceanspaces.com/landx_ghost/2021/11/jadi-owner-bisnis-hanya-1-jutaan-dengan-cuan-yang-sangat-menjanjikan.png)](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)
+
+<!--EndFragment-->
