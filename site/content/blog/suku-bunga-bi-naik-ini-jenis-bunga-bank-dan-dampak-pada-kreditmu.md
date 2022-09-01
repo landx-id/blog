@@ -1,8 +1,8 @@
 ---
 draft: false
 author: Nadya A. Faatihah
-title: Suku Bunga BI Naik! Ini Jenis Bunga Bank dan Dampak pada Kreditmu
-metaTitle: Menghitung Suku Bunga Bank yang Naik dan Dampaknya Bagi Kreditmu
+title: Suku Bunga BI Naik! Memahami Jenis dan Dampak Kenaikan Suku Bunga
+metaTitle: Menghitung Suku Bunga Bank yang Naik dan Dampaknya Bagi Investasi
 metaDescription: Suku bunga bank baru dinyatakan naik oleh Bank Indonesia.
   Pahami jenis bunga bank dan cara menghitungnya untuk bijak dalam kredit dan
   investasi!
@@ -10,6 +10,13 @@ intro: Suku bunga bank baru dinyatakan naik oleh Bank Indonesia. Hal ini bisa
   membawa dampak positif dan negatif bagi masyarakat. Karena itu, pahami jenis
   bunga bank dan cara menghitung bunga untuk bijak dalam kredit dan investasi!
 date: 2022-08-30T03:45:45.017Z
+tag:
+  - Suku Bunga
+  - Ekonomi
+  - Inflasi
+category:
+  - Keuangan
+  - Investasi
 featuredImage:
   src: https://images.unsplash.com/photo-1624953901718-e24ee7200b85?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80
   alt: Cara Menghitung Jenis Bunga Bank dan Dampaknya pada Kredit
@@ -37,19 +44,19 @@ Besaran persenan yang harus dibayarkan ini ditentukan oleh jenis-jenis bunga ban
 
 Secara umum, terdapat dua jenis-jenis bunga bank jika nasabah menyimpan atau menginvestasikan dananya di bank. Masing-masing dari jenis-jenis bunga bank ini punya kelebihan dan kekurangan yang dapat dirasakan para nasabahnya. Berikut adalah penjelasan dari jenis-jenis bunga bank yang diperoleh nasabah.
 
-## 1. Suku Bunga Tunggal
+### 1. Suku Bunga Tunggal
 
 Dalam jenis-jenis bunga bank, suku bunga tunggal adalah besaran bunga yang telah ditetapkan sejak awal berdasarkan perhitungan modal awal yang disimpan di bank. Suku bunga tunggal artinya persentase yang harus dibayarkan oleh pihak bank kepada nasabah memiliki satu variasi saja atau tetap.
 
 Besarannya tidak akan berubah dari awal hingga akhir periode. Contoh dari perhitungan suku bunga tunggal adalah saat nasabah menabung di bank, bunga imbalan yang didapat tidak akan berubah tiap-tiap periodenya. Berikut adalah cara menghitung bunga tunggal.
 
-### Cara Menghitung Bunga Tunggal
+**Cara Menghitung Bunga Tunggal**
 
 ![Cara menghitung bunga tunggal](img/cara-menghitung-bunga-tunggal.png "Cara menghitung bunga tunggal")
 
 ![](img/contoh-cara-menghitung-bunga-tunggal.png)
 
-## 2. Bunga Majemuk
+### 2. Bunga Majemuk
 
 Bunga majemuk adalah bunga yang perhitungannya berdasarkan membungakan pinjaman pokok ditambah bunga dari periode sebelumnya; dengan kata lain, bunga berbunga atau disebut juga compounding interest.
 
@@ -59,7 +66,7 @@ Bunga majemuk memiliki banyak variasi dan selalu berubah (tidak tetap) pada tiap
 
 Tidak sampai situ, besarannya ditambah lagi dengan akumulasi bunga yang didapatkan juga di setiap periode terlewati. 
 
-### Cara Menghitung Bunga Majemuk
+**Cara Menghitung Bunga Majemuk**
 
 ![Cara Menghitung Bunga Majemuk](img/cara-menghitung-bunga-majemuk.png)
 
@@ -69,19 +76,19 @@ Tidak sampai situ, besarannya ditambah lagi dengan akumulasi bunga yang didapatk
 
 Terdapat jenis-jenis bunga bank jika nasabah menggunakan fasilitas kredit atau meminjam di bank. Penjelasan berikut adalah jenis-jenis bunga bank kredit tersebut.
 
-## 1. Suku Bunga Flat
+### 1. Suku Bunga Flat
 
 Pada pengajuan pinjaman dengan bunga flat, nilai bunga disesuaikan dengan jumlah pokok pinjaman di awal periode cicilan. Bunga flat perhitungannya sangat sederhana, sehingga sering kali digunakan untuk kredit jangka pendek.
 
 Misalnya, pembelian secara kredit alat elektronik, perlengkapan rumah tangga, kendaraan bermotor, dan Kredit Tanpa Agunan (KTA)
 
-### Cara Menghitung Bunga Flat
+**Cara Menghitung Bunga Flat**
 
 ![Rumus dan Cara Menghitung Bunga Flat](img/cara-menghitung-bunga-flat.png)
 
 Jumlah angsuran yang dibayarkan setiap bulan ini tidak akan berubah, karena itu disebut bunga tetap. Tentunya, besaran bunga bank flat tergantung dengan kebijakan bank atau jasa keuangan yang memberikan kredit dan dipilih oleh nasabah. 
 
-## 2. Suku Floating Rate atau Bunga Mengambang
+### 2. Suku Floating Rate atau Bunga Mengambang
 
 Dalam jenis-jenis bunga bank, floating rate adalah besaran suku bunga yang akan berubah-ubah mengikuti suku bunga di pasaran. Jika pemerintah Indonesia melalui BI membuat kebijakan untuk menaikkan suku bunga acuan, maka suku bunganya juga ikut naik, begitu pun sebaliknya.
 
@@ -89,19 +96,19 @@ Seperti disinggung pada awal artikel, naiknya suku bunga acuan dari Bank Indones
 
 Contohnya adalah suku bunga KPR (kredit Pemilikan Rumah) untuk periode tertentu. Misalnya, untuk satu tahun pertama diberlakukan besaran suku bunga tetap. Lalu, setelah satu tahun terlewati, besaran bunga yang harus dibayarkan adalah floating rate.
 
-### Cara Menghitung Floating Rate
+**Cara Menghitung Floating Rate**
 
 ![Cara Menghitung Floating Rate](img/cara-menghitung-floating-rate.png)
 
-## 3. Suku Bunga Efektif
+### 3. Suku Bunga Efektif
 
 Dalam jenis-jenis bunga bank yang berupa bunga efektif skema perhitungan bunga efektif yang dibayarkan akan mengalami perubahan. Hal ini dikarenakan perhitungan bunganya ditentukan dari nilai sisa pinjaman pokok, yakni jumlah utang yang belum terbayarkan setiap bulan. 
 
-## 4. Suku Bunga Anuitas
+### 4. Suku Bunga Anuitas
 
 Dalam jenis-jenis bunga bank anuitas ini, suku bunga yang dibayarkan adalah gabungan antara suku bunga flat dan suku bunga efektif. Besaran bunganya dihitung dari sisa pokok pinjaman (suku bunga efektif), tetapi dibagi secara proporsional berdasarkan periode pelunasan (suku bunga flat).
 
-### Cara Menghitung Bunga Efektif dan Anuitas
+**Cara Menghitung Bunga Efektif dan Anuitas**
 
 ![Rumus Bunga Efektif dan Anuitas](img/cara-menghitung-bunga-efektif-dan-anuitas.png)
 
@@ -134,5 +141,9 @@ Skema ini adalah urun dana lewat patungan investor dari seluruh Indonesia bagi b
 Lewat skema ini, Anda tidak perlu turun tangan langsung mencari ide bisnis, mengurus operasional, atau membangun dari nol strategi marketing. Jadi, Anda tinggal menunggu keuntungan lewat dividen yang memiliki jadwal pembagian rutin.
 
 ## [Siap #RaihKebebasan Finansial dengan Modal 1 Jutaan? Yuk, Investasi Lewat LandX Sekarang!](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)
+
+<!--StartFragment-->
+
+[![miliki bisnis modal kecil cuma dengan 1 jutaan dapat 4 cabang ](https://accountgram-production.sfo2.cdn.digitaloceanspaces.com/landx_ghost/2021/11/jadi-owner-bisnis-hanya-1-jutaan-dengan-cuan-yang-sangat-menjanjikan.png)](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)
 
 <!--EndFragment-->
