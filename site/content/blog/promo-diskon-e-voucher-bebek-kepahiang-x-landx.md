@@ -25,7 +25,7 @@ Melalui proses marinasi dan pengolahan yang panjang, hasilkan daging bebek empuk
 **Promo Diskon e-Voucher Hong Tang berlaku untuk pengguna aplikasi LandX yang masuk dalam dua kategori berikut:**
 
 * Investor LandX Circle
-* Pengguna aplikasi LandX yang telah melakukan registrasi dan verifikasi akun
+* Pengguna aplikasi LandX yang telah melakukan [registrasi dan verifikasi akun](https://landx.id/blog/cara-registrasi-di-aplikasi-landx-platform-equity-crowdufnding/)
 
 \*Syarat dan Ketentuan Berlaku
 
