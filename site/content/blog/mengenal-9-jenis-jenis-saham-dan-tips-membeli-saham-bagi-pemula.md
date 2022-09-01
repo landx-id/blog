@@ -10,6 +10,13 @@ intro: Berapa macam jenis saham yang ada? Tidak hanya saham biasa yang Anda
   kenal, ternyata saham dapat dikategorikan berdasarkan faktor kinerjanya juga.
   Lihat saham terbaik untuk Anda di artikel ini.
 date: 2022-08-22T09:49:17.472Z
+tag:
+  - Cara Investasi Saham
+  - Investasi Saham
+  - Tips Investasi Saham
+category:
+  - Investasi
+  - Keuangan
 featuredImage:
   alt: Mengenal 9 Jenis-jenis Saham dan Tips Membeli Saham bagi Pemula
   title: Mengenal 9 Jenis-jenis Saham dan Tips Membeli Saham bagi Pemula
@@ -104,3 +111,9 @@ Anda juga dapat menggunakan kalkulator online untuk mengetahui profil risiko inv
 Tips selanjutnya adalah jangan menaruh dana pada satu jenis investasi saja, hal ini untuk meminimalisir kerugian. Maka lakukan strategi diversifikasi portofolio investasi, yaitu menaruh dana pada beberapa jenis instrumen investasi misal saham dan obligasi, reksa dana dan [crowdfunding](https://landx.id/blog), dan pilihan yang cocok dengan Anda.
 
 ## [Diversifikasi Portofolio Investasi dengan Miliki Saham Bisnis](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)
+
+<!--StartFragment-->
+
+[![miliki bisnis modal kecil cuma dengan 1 jutaan dapat 4 cabang ](https://accountgram-production.sfo2.cdn.digitaloceanspaces.com/landx_ghost/2021/11/jadi-owner-bisnis-hanya-1-jutaan-dengan-cuan-yang-sangat-menjanjikan.png)](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)
+
+<!--EndFragment-->
