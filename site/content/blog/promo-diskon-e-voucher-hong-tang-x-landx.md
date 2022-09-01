@@ -23,7 +23,8 @@ Kali ini bersama platform equity crowdfunding terdepan di Indonesia, **LandX dan
 **Promo Diskon e-Voucher Hong Tang** **berlaku untuk pengguna aplikasi LandX yang masuk dalam dua kategori berikut:**
 
 1. Investor LandX Circle
-2. Pengguna aplikasi LandX yang telah melakukan [registrasi dan verifikasi akun](https://landx.id/blog/cara-registrasi-di-aplikasi-landx-platform-equity-crowdufnding/)
+
+2.Pengguna aplikasi LandX yang telah melakukan [registrasi dan verifikasi akun](https://landx.id/blog/cara-registrasi-di-aplikasi-landx-platform-equity-crowdufnding/)
 
 \*Syarat dan Ketentuan Berlaku
 
@@ -41,14 +42,13 @@ Promo setiap pembelian minimal Rp. 100.000 setelah pajak mendapat diskon 15%
 * Periode promo 01 September sampai 20 September 2022
 * Promo berlaku pada outlet Hong Tang :
 
-Mall Kelapa Gading 3\
-Gandaria City Mall\
-Summarecon Mall Bekasi\
-AEON Mall Tanjung Barat\
-Pondok Indah Mall 2\
-Plaza Festival Kuningan\
-Grand Indonesia
-
+  Mall Kelapa Gading 3\
+  Gandaria City Mall\
+  Summarecon Mall Bekasi\
+  AEON Mall Tanjung Barat\
+  Pondok Indah Mall 2\
+  Plaza Festival Kuningan\
+  Grand Indonesia
 * Promo berlaku kelipatan dan promo tidak dapat digabung dengan promo lain
 * Promo hanya berlaku dine in dan take away, tidak berlaku online 
 * Customer wajib memperlihatkan e-voucher pada aplikasi LandX
