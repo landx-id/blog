@@ -9,6 +9,12 @@ intro: Biaya produksi adalah biaya yang wajib dicatat dalam menulis laporan
   keuangan, pasalnya perhitungan biaya produksi dapat membantu perusahaan untuk
   menentukan harga pokok produksi.
 date: 2022-08-23T03:52:10.919Z
+tag:
+  - Patungan Bisnis
+  - Analisis Bisnis
+category:
+  - Bisnis
+  - Investasi
 featuredImage:
   title: "Memahami Biaya Produksi Adalah dan Cara Menghitungnya "
   alt: "Memahami Biaya Produksi Adalah dan Cara Menghitungnya "
