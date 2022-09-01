@@ -16,7 +16,7 @@ Hai Sobat LandX,
 
 Pastinya udah kenal kan sama brand dessert terkemuka di Indonesia yang satu ini, yaitu **HONG TANG**!
 
-[**Hong Tang**](https://landx.id/blog/makin-rame-kini-hadir-grand-opening-hong-tang-di-pim-2-landx/) adalah bisnis F&B yang menyuguhkan sajian oriental dessert favorit Asia. Dipercaya selama lebih 10 tahun, Hong Tang mampu jaga ketenarannya sebagai tujuan kuliner pencuci mulut yang udah ga perlu diragukan lagi
+**[Hong Tang](https://landx.id/blog/makin-rame-kini-hadir-grand-opening-hong-tang-di-pim-2-landx/)** adalah bisnis F&B yang menyuguhkan sajian oriental dessert favorit Asia. Dipercaya selama lebih 10 tahun, Hong Tang mampu jaga ketenarannya sebagai tujuan kuliner pencuci mulut yang udah ga perlu diragukan lagi
 
 Kali ini bersama platform equity crowdfunding terdepan di Indonesia, **LandX dan Hong Tang** **beri kamu e-voucher DISKON!** 
 
@@ -32,7 +32,7 @@ Kali ini bersama platform equity crowdfunding terdepan di Indonesia, **LandX dan
 
 - - -
 
-Promo Diskon e-Voucher Hong Tang untuk LandX Circle
+## Promo Diskon e-Voucher Hong Tang untuk LandX Circle
 
 Promo setiap pembelian minimal Rp. 100.000 setelah pajak mendapat diskon 15%
 
@@ -43,19 +43,13 @@ Promo setiap pembelian minimal Rp. 100.000 setelah pajak mendapat diskon 15%
 * Periode promo 01 September sampai 20 September 2022
 * Promo berlaku pada outlet Hong Tang :
 
-1. Mall Kelapa Gading 3
-
-2. Gandaria City Mall
-
-3. Summarecon Mall Bekasi
-
-4. AEON Mall Tanjung Barat
-
-5. Pondok Indah Mall 2
-
-6. Plaza Festival Kuningan
-
-7. Grand Indonesia
+Mall Kelapa Gading 3\
+Gandaria City Mall\
+Summarecon Mall Bekasi\
+AEON Mall Tanjung Barat\
+Pondok Indah Mall 2\
+Plaza Festival Kuningan\
+Grand Indonesia
 
 * Promo berlaku kelipatan dan promo tidak dapat digabung dengan promo lain
 * Promo hanya berlaku dine in dan take away, tidak berlaku online 
@@ -63,25 +57,19 @@ Promo setiap pembelian minimal Rp. 100.000 setelah pajak mendapat diskon 15%
 
 - - -
 
-### Promo Diskon e-Voucher Hong Tang untuk LandX Circle
+### Promo Diskon e-Voucher Hong Tang untuk Pengguna Baru
 
 * Setiap pembelian 1 menu Dessert gratis 1 menu Topping: Coconut Jelly, Red Bean, Boba, Mochi, Q ball, Purple Rice, Peanut, Tangyuan, Coconut Pudding, Caramel Pudding, Mango Pudding, Chocolate Pudding, Grass Jelly Pudding, Soya Pudding.
 * Periode promo **01 September** sampai **20 September 2022**
 * Promo hanya berlaku pada outlet Hong Tang berikut:
 
-1. Mall Kelapa Gading 3
-
-2. Gandaria City Mall
-
-3. Summarecon Mall Bekasi
-
-4. AEON Mall Tanjung Barat
-
-5. Pondok Indah Mall 2
-
-6. Plaza Festival Kuningan
-
-7. Grand Indonesia
+Mall Kelapa Gading 3\
+Gandaria City Mall\
+Summarecon Mall Bekasi\
+AEON Mall Tanjung Barat\
+Pondok Indah Mall 2\
+Plaza Festival Kuningan\
+Grand Indonesia
 
 * Promo berlaku kelipatan dan promo tidak dapat digabung dengan promo lain
 * Promo hanya berlaku dine in dan take away, tidak berlaku online
@@ -89,4 +77,4 @@ Promo setiap pembelian minimal Rp. 100.000 setelah pajak mendapat diskon 15%
 
 **E-voucher Hong Tang x LandX bisa dipakai setiap hari selama masa periode diskon loh!**
 
-Let’s go kunjungi store Hong Tang terdekat🛒🛒
+Let’s go cek aplikasi LandX dan kunjungi store Hong Tang terdekat🛒🛒
