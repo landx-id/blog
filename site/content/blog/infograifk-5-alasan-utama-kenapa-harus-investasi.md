@@ -1,7 +1,7 @@
 ---
 draft: false
 author: Vlora Riyandi
-title: "[INFOGRAIFK] 5 Alasan Utama Kenapa Harus Investasi"
+title: "[INFOGRAIFK] 5 Alasan Kenapa Harus Mulai Investasi"
 metaTitle: "[INFOGRAIFK] 5 Alasan Utama Kenapa Harus Investasi"
 metaDescription: Kegiatan investasi dilakukan dengan tujuan mengharapkan
   keuntungan di masa depan. Selain itu, ada 5 alasan berinvestasi lain yang
