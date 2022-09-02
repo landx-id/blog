@@ -1,8 +1,8 @@
 ---
 draft: false
 author: Vlora Riyandi
-title: "[INFOGRAIFK] 5 Alasan Kenapa Harus Mulai Investasi"
-metaTitle: "[INFOGRAIFK] 5 Alasan Utama Kenapa Harus Investasi"
+title: "[INFOGRAFIK] 5 Alasan Kenapa Harus Mulai Investasi"
+metaTitle: "[INFOGRAFIK] 5 Alasan Utama Kenapa Harus Investasi"
 metaDescription: Kegiatan investasi dilakukan dengan tujuan mengharapkan
   keuntungan di masa depan. Selain itu, ada 5 alasan berinvestasi lain yang
   perlu diketahui.
@@ -11,7 +11,7 @@ intro: Kegiatan investasi dilakukan dengan tujuan mengharapkan keuntungan di
 date: 2022-09-02T04:15:40.771Z
 featuredImage:
   title: Memahami 5 Alasan Utama Kenapa Harus Investasi
-  alt: "[INFOGRAIFK] 5 Alasan Utama Kenapa Harus Investasi"
+  alt: "[INFOGRAFIK] 5 Alasan Utama Kenapa Harus Investasi"
   src: img/landx_infografis_5-alasan-memulai-investasi_landscape_01.png
 ---
 ![alasan utama mulai investasi](img/landx_infografis_5-alasan-memulai-investasi_rev.png "alasan utama mulai investasi")
