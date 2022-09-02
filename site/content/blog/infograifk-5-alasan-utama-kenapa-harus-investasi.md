@@ -14,7 +14,7 @@ featuredImage:
   alt: "[INFOGRAFIK] 5 Alasan Utama Kenapa Harus Investasi"
   src: img/landx_infografis_5-alasan-memulai-investasi_landscape_01.png
 ---
-![alasan utama mulai investasi](img/landx_infografis_5-alasan-memulai-investasi_rev-1-.png "alasan utama mulai investasi")
+![alasan utama mulai investasi](https://cdn.discordapp.com/attachments/976309038067367996/1015187565541867621/LandX_Infografis_5-Alasan-Memulai-Investasi_REV_1.png "alasan utama mulai investasi")
 
 Kamu mungkin pernah mendengar pertanyaan kenapa ya orang-orang berinvestasi? Orang-orang tersebut memiliki **tujuan investasi** yang sama yaitu mengharapkan keuntungan di masa depan.
 
