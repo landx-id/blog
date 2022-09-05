@@ -2,7 +2,7 @@
 draft: false
 author: Della Octavilia
 title: Definisi dan Kondisi Sistem Keuangan Indonesia
-metaTitle: "Sistem Keuangan di Indonesia: Memahami Teraihnya Stabilitas Keuangan!"
+metaTitle: "Sistem Keuangan di Indonesia: Kabar Tercapainya Stabilitas Keuangan!"
 metaDescription: Sistem keuangan memegang peranan penting bagi setiap negara.
   Apa itu sistem keuangan? Dan bagaimana kondisi sistem keuangan Indonesia saat
   ini?
