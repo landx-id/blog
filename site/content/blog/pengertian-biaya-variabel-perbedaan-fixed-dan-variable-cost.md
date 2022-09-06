@@ -8,7 +8,7 @@ metaDescription: Pengertian biaya variabel adalah pengeluaran yang berkaitan
   cost yuk!
 intro: >
   Pengertian biaya variabel adalah pengeluaran yang berkaitan erat dengan
-  kegiatan produksi perusahaan. Jika tertarik investasi untuk berbisnis, yuk
+  kegiatan produksi perusahaan. Jika tertarik investasi atau berbisnis, yuk
   pelajari pengeluaran perusahaan yang termasuk biaya variabel adalah apa saja,
   serta apa perbedaan biaya tetap dan biaya variabel.
 date: 2022-09-06T06:30:13.060Z
