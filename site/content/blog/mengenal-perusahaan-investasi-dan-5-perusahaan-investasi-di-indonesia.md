@@ -9,6 +9,15 @@ intro: Perusahaan investasi mendapatkan keuntungannya dengan memperjual-belikan
   properti, obligasi, saham, uang tunai, dan macam-macam aset. Untuk lebih
   jelasnya yuk, simak bersama-sama.
 date: 2022-08-30T09:15:26.225Z
+tag:
+  - Instrumen Investasi
+  - Investasi Keuangan
+  - Analisis Investasi
+  - Strategi Investasi
+  - Investasi  Tahun 2022
+category:
+  - Investasi
+  - Keuangan
 featuredImage:
   alt: Mengenal Perusahaan Investasi dan 5 Perusahaan Investasi di Indonesia
   title: Mengenal Perusahaan Investasi dan 5 Perusahaan Investasi Terbaik
@@ -20,7 +29,7 @@ Untuk melakukan investasi baik pada instrumen saham, obligasi, dan sukuk para in
 
 Masih bingung? Yuk kita simak bersama-sama bahas mengenai perusahaan investasi pada artikel ini.
 
-## Perusahaan Investasi 
+## Perusahaan Investasi
 
 **Perusahaan investasi (fund company) adalah** perusahaan yang bergerak dalam bisnis investasi dengan menanamkan modal gabungan pada sekuritas keuangan. Perusahaan investasi adalah termasuk entitas bisnis, baik secara privat atau secara publik. Perusahaan juga terlibat dalam pengelolaan manajemen, penjualan, dan pemasaran produk investasi kepada publik. 
 
@@ -56,7 +65,7 @@ Setiap sekuritas saham yang diterbitkan perusahaan investasi ini mewakili propor
 
 Dari segi sifat penerbitan saham, perusahaan investasi digolongkan menjadi reksa dana terbuka (open-end fund), reksa dana tertutup (closed-end fund) dan Unit Investment Trust. 
 
-* ### Perusahaan Reksa Dana Terbuka 
+* ### Perusahaan Reksa Dana Terbuka
 
 Perusahaan reksa dana terbuka (open-end fund) selalu dalam keadaan siap dalam menjualkan saham-saham baru kepada publik dan akan membeli saham-saham yang beredar di bursa. 
 
@@ -64,7 +73,7 @@ Perusahaan reksa dana terbuka (open-end fund) selalu dalam keadaan siap dalam me
 
 Sedangkan reksa dana tertutup (closed-end fund) hanya melakukan penjualan saham saja, tidak melakukan pembelian saham-saham yang beredar di bursa. 
 
-* ###  Unit Investment Trust
+* ### Unit Investment Trust
 
 Unit trust atau perwalian unit mirip dengan perusahaan reksa dana tertutup yang melakukan penjualan dalam jumlah unit sertifikat tetap yang diterbitkan di bursa. Berbeda dengan reksa dana obligasi, dalam unit trust obligasi tidak aktif diperdagangkan serta unit trust memiliki tanggal pembubaran tetap. Kebanyakan para investor unit trust tahu mengenai portofolionya terdiri dari kumpulan obligasi tertentu dan tidak akan khawatir jika wali mengubah portofolionya. 
 
@@ -100,4 +109,10 @@ Dengan skema [equity crowdfunding](https://landx.id/), kamu bersama masyarakat l
 
 [LandX](https://landx.id/) merupakan platform [equity crowdfunding](https://landx.id/) yang telah berizin dari Otoritas Jasa Keuangan (OJK) dan berpengalaman mendanai bisnis di berbagai sektor industri seperti FnB, properti, kebugaran, dan jasa laundry. Nantinya usaha yang kamu danai akan berkembang dan melakukan ekspansi bisnis. Dengan demikian, keuntungan yang kamu raih berupa dividen pun akan semakin baik.
 
-## [Yuk, Diversifikasi Investasi Kamu dengan Miliki Bisnis Kekinian Lewat LandX!](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)
+## [Yuk, Diversifikasi Investasi Kamu dengan Miliki Bisnis Kekinian Lewat LandX!](https://app.landx.id/?utm_source=BLOGCONTENT&utm_medium=SEO&utm_campaign=SEO&utm_id=BLOGLANDX)
+
+<!--StartFragment-->
+
+[![miliki bisnis modal kecil cuma dengan 1 jutaan dapat 4 cabang ](https://accountgram-production.sfo2.cdn.digitaloceanspaces.com/landx_ghost/2021/11/jadi-owner-bisnis-hanya-1-jutaan-dengan-cuan-yang-sangat-menjanjikan.png)](https://app.landx.id/?utm_source=BLOGCONTENT&utm_medium=SEO&utm_campaign=SEO&utm_id=BLOGLANDX)
+
+<!--EndFragment-->
