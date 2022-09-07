@@ -10,6 +10,15 @@ intro: "Apa itu manajemen investasi? Konsep manajemen investasi adalah
   perusahaan yang berperan dalam mengelola dan mengoptimalkan dana milik
   investor demi mendapatkan keuntungan yang memuaskan bagi investor. "
 date: 2022-08-30T13:12:01.087Z
+tag:
+  - Diversifikasi Investasi
+  - Manajemen Keuangan
+  - Strategi Investasi
+  - Memulai Investasi
+category:
+  - Investasi
+  - Keuangan
+  - Bisnis
 featuredImage:
   src: https://img.freepik.com/free-photo/forex-trade-graph-chart-concept_53876-125167.jpg?w=740&t=st=1661865146~exp=1661865746~hmac=782a627f234f32d4a7295cfe1b69b1b01afea66255bf99a3a9faea6de68ce94d
   alt: Memahami apa tujuan dari manajemen investasi dan konsepnya
@@ -129,7 +138,7 @@ Sebelum Anda memutuskan untuk menggunakan manajemen investasi, Anda harus memast
 
 Di Indonesia sendiri per 23 Maret 2022 jumlah perusahaan manajemen investasi yang telah terdaftar di OJK berjumlah 97 manajemen investasi. Jika Anda ingin menggunakan manajemen investasi, Anda dapat memilih manajemen investasi dengan kelolaan dana yang paling baik. Dilansir dari [Bareksa](https://www.bareksa.com/berita/reksa-dana/2022-03-23/ada-berapa-jumlah-manajer-investasi-di-indonesia-ini-daftarnya), manajemen investasi terbaik dengan dana kelolaan terbesar di bulan Februari 2022 terdapat, yaitu:
 
-![Manajemen Investasi](https://lh6.googleusercontent.com/Vp6H-rQZMsdZoHKdYbThHAhUPUeMT--Qh4VWUC-VABAQyAAoWE6sz8kfxAcGZwDOn7NKmDBTyoPcNEj9q89chsl-lEr9cXqrYXgOLs9WwDe7np58Ar3kD01-av47e2KZFtTAQDOSSUZ2uybJYAfbYxg)
+![Manajemen Investasi](https://lh6.googleusercontent.com/Vp6H-rQZMsdZoHKdYbThHAhUPUeMT--Qh4VWUC-VABAQyAAoWE6sz8kfxAcGZwDOn7NKmDBTyoPcNEj9q89chsl-lEr9cXqrYXgOLs9WwDe7np58Ar3kD01-av47e2KZFtTAQDOSSUZ2uybJYAfbYxg "proses manajemen investasi")
 
 Sumber: Bareksa Mutual Fund Industry Data Market - Monthly Report February 2022
 
@@ -149,6 +158,12 @@ Dengan investasi lewat skema equity crowdfunding, Anda berkesempatan mendapatkan
 
 [LandX](https://landx.id/) adalah salah satu platform equity crowdfunding yang telah memiliki market cap terbesar se-Indonesia, berpengalaman, dan telah mengantongi izin dari Otoritas Jasa Keuangan (OJK).
 
-## [Persiapkan Dana Untuk Masa Mendatang dengan Investasi di LandX Sekarang Juga!](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)
+## [Persiapkan Dana untuk Masa Mendatang dengan Investasi di LandX Sekarang Juga!](https://app.landx.id/?utm_source=BLOGCONTENT&utm_medium=SEO&utm_campaign=SEO&utm_id=BLOGLANDX)
+
+[![miliki bisnis modal kecil cuma dengan 1 jutaan dapat 4 cabang ](https://accountgram-production.sfo2.cdn.digitaloceanspaces.com/landx_ghost/2021/11/jadi-owner-bisnis-hanya-1-jutaan-dengan-cuan-yang-sangat-menjanjikan.png)](https://app.landx.id/?utm_source=BLOGCONTENT&utm_medium=SEO&utm_campaign=SEO&utm_id=BLOGLANDX)
+
+[\#Patungan Bisnis](https://landx.id/blog/tag/patungan-bisnis)[\#Analisis Bisnis](https://landx.id/blog/tag/analisis-bisnis)[\#Laporan Keuangan](https://landx.id/blog/tag/laporan-keuangan)
+
+
 
 <!--EndFragment-->
