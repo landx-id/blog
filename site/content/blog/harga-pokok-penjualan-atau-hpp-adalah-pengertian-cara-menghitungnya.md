@@ -10,6 +10,13 @@ intro: Setiap pemilik perusahaan penting untuk mengetahui HPP. Harga Pokok
   Penjualan atau HPP adalah perhitungan untuk mengetahui besaran pengeluaran
   produksi barang atau jasa yang akan dijual perusahaan.
 date: 2022-08-26T05:14:33.411Z
+tag:
+  - Patungan Bisnis
+  - Analisis Bisnis
+  - Laporan Keuangan
+category:
+  - Bisnis
+  - Keuangan
 featuredImage:
   alt: "Harga Pokok Penjualan atau HPP Adalah: Pengertian & Cara Menghitungnya"
   title: "Harga Pokok Penjualan atau HPP Adalah: Pengertian & Cara Menghitungnya"
@@ -75,11 +82,11 @@ Sama halnya juga dengan diskon, potongan, atau retur barang yang telah dibeli ju
 
      **Persediaan akhir adalah** jumlah stok barang yang tersisa dari proses produksi di akhir periode waktu tertentu. Untuk mengetahui total persediaan barang akhir dapat dilihat dari data perusahaan di akhir periode tertentu. Persediaan barang akhir menjadi salah satu komponen penting lainnya dalam perhitungan HPP.
 
-## Rumus HPP 
+## Rumus HPP
 
 Setelah kita membahas komponen-komponen yang akan masuk dalam perhitungan HPP, selanjutnya kita akan membahas cara menghitung Harga Pokok Produk. **Rumus HPP adalah sebagai berikut**:
 
-![rumus hpp](https://cdn.discordapp.com/attachments/976309038067367996/1012595967461183529/rumus_hpp.png "rumus hpp")
+![Rumus perhitungan hpp, cara menghitung hpp](https://cdn.discordapp.com/attachments/976309038067367996/1012595967461183529/rumus_hpp.png "Rumus cara menghitung HPP")
 
 **Sebelum menghitung HPP**, terlebih dahulu perusahaan harus **menghitung total pembelian bersih dan penjualan awal**.
 
@@ -87,7 +94,7 @@ Setelah kita membahas komponen-komponen yang akan masuk dalam perhitungan HPP, s
 
      Sebelum menghitung HPP, pertama-tama perusahaan terlebih dahulu harus menghitung pembelian bersih. Untuk komponen-komponen pembelian bersih sendiri sudah dijelaskan sebelumnya, dimana harus memasukkan seluruh pembiayaan yang melibatkan produksi, terutama biaya kirim barang yang dibeli juga masuk ke dalam pembelian bersih. Rumus pembelian bersih adalah sebagai berikut:
 
-![rumus pembelian bersih](https://cdn.discordapp.com/attachments/976309038067367996/1012595968539115530/rumus_pembelian_bersih.png "rumus pembelian bersih")
+![cara menghitung pembelian bersih saat menghitung HPP](https://cdn.discordapp.com/attachments/976309038067367996/1012595968539115530/rumus_pembelian_bersih.png "Perhitungan pembelian bersih")
 
 ### 2. Menghitung Harga Pokok Penjualan (HPP)
 
@@ -112,7 +119,7 @@ Langkah pertama yang harus dilakukan adalah dengan menghitung pembelian bersih, 
 
 Setelah mengetahui pembelian bersih, selanjutnya adalah menghitung HPP dengan cara sebagai berikut:
 
-![contoh soal hpp](https://cdn.discordapp.com/attachments/976309038067367996/1012595967821877349/contoh_soal_hpp.png "contoh soal hpp")
+![Contoh perhitungan hpp](https://cdn.discordapp.com/attachments/976309038067367996/1012595967821877349/contoh_soal_hpp.png "Perhitungan hpp")
 
 Dengan begitu perusahaan sudah mengetahui HPP yang dihasilkannya sebesar Rp210.000.000
 
@@ -156,4 +163,10 @@ Setelah kalian memutuskan untuk mendanai salah satu bisnis yang sudah kalian cek
 
 [LandX](https://landx.id/) merupakan platform [equity crowdfunding](https://landx.id/) di Indonesia yang telah memiliki market cap terbesar se-Indonesia, berpengalaman, dan telah mengantongi izin dari Otoritas Jasa Keuangan (OJK).
 
-## [Mulai Investasi Bisnis Berpotensi di LandX  Sekarang Juga!](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)
+## [Mulai Investasi Bisnis Berpotensi di LandX  Sekarang Juga!](https://app.landx.id/?utm_source=BLOGCONTENT&utm_medium=SEO&utm_campaign=SEO&utm_id=BLOGLANDX)
+
+<!--StartFragment-->
+
+[![miliki bisnis modal kecil cuma dengan 1 jutaan dapat 4 cabang ](https://accountgram-production.sfo2.cdn.digitaloceanspaces.com/landx_ghost/2021/11/jadi-owner-bisnis-hanya-1-jutaan-dengan-cuan-yang-sangat-menjanjikan.png)](https://app.landx.id/?utm_source=BLOGCONTENT&utm_medium=SEO&utm_campaign=SEO&utm_id=BLOGLANDX)
+
+<!--EndFragment-->
