@@ -1,7 +1,7 @@
 ---
 draft: false
 author: Khurin N. Imandini
-title: Kenaikan Suku Bunga Capai 3,75% dan Dampak Terhadap Pelaku Investasi
+title: Suku Bunga Capai 3,75% Simak Dampaknya Investasi Anda
 metaTitle: Kenaikan Suku Bunga Capai 3,75% dan Dampak Terhadap Pelaku Investasi
 metaDescription: Kenaikan suku bunga adalah upaya pre-emptive dan forward
   looking untuk mengurangi dampak peningkatan inflasi, memperkuat stabilitas
@@ -10,6 +10,14 @@ intro: Kenaikan suku bunga telah diputuskan dalam Rapat Dewan Gubernur BI pada
   periode 22-23 Agustus 2022. Putusan tersebut menghasilkan kenaikan suku bunga
   acuan yakni BI 7 Day Repo Rate sebesar 25 basis poin yaitu mencapai 3,75%.
 date: 2022-08-30T03:57:23.954Z
+tag:
+  - Analisis Investasi
+  - Investasi Jangka Panjang
+  - Suku Bunga
+  - Laju Inflasi
+category:
+  - Investasi
+  - Keuangan
 featuredImage:
   title: Kenaikan Suku Bunga Capai 3,75% dan Dampak Terhadap Pelaku Investasi
   alt: Dampak Kenaikan Suku Bunga Terhadap Pelaku Investasi
@@ -95,4 +103,14 @@ Oleh karena itu, jika kamu memutuskan untuk mencari alternatif investasi di masa
 
 LandX adalah platform patungan bisnis di mana kamu dapat ikut berinvestasi di berbagai project bisnis, dengan modal yang relatif lebih kecil. Di LandX, kamu dapat memilih berbagai project menarik dengan prospek bisnis yang menjanjikan. Tunggu apalagi? Buka [LandX](https://landx.id/) sekarang juga dan pilih project bisnismu!
 
-## [Alternatif Investasi Saat Kenaikan Suku Bunga](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)
+<!--StartFragment-->
+
+## [Mulai Investasi Bisnis Berpotensi di LandX Sekarang Juga!](https://app.landx.id/?utm_source=BLOGCONTENT&utm_medium=SEO&utm_campaign=SEO&utm_id=BLOGLANDX)
+
+[![miliki bisnis modal kecil cuma dengan 1 jutaan dapat 4 cabang ](https://accountgram-production.sfo2.cdn.digitaloceanspaces.com/landx_ghost/2021/11/jadi-owner-bisnis-hanya-1-jutaan-dengan-cuan-yang-sangat-menjanjikan.png)](https://app.landx.id/?utm_source=BLOGCONTENT&utm_medium=SEO&utm_campaign=SEO&utm_id=BLOGLANDX)
+
+[\#Patungan Bisnis](https://landx.id/blog/tag/patungan-bisnis)[\#Analisis Bisnis](https://landx.id/blog/tag/analisis-bisnis)[\#Laporan Keuangan](https://landx.id/blog/tag/laporan-keuangan)
+
+
+
+<!--EndFragment-->
