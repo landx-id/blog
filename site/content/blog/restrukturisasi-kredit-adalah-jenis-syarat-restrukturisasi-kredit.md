@@ -94,14 +94,8 @@ Utang yang menumpuk pun akan menjadi beban bagi siapapun dan merusak kestabilan 
 
 Melalui sistem [equity crowdfunding](https://landx.id/), perusahaan kamu yang sudah melalui proses verifikasi, akan terdaftar dan didanai oleh para investor yang tertarik dengan pengembangan bisnis kamu. Kamu juga perlu memperhatikan aplikasi [equity crowdfunding](https://landx.id/) yang terpercaya seperti [LandX](https://landx.id/) yang sudah berpengalaman dalam pendanaan bisnis di berbagai sektor industri, selain itu juga sudah mendapatkan izin dari Otoritas Jasa Keuangan.
 
-<!--StartFragment-->
-
 ## [Mulai Investasi Bisnis Berpotensi di LandX Sekarang Juga!](https://app.landx.id/?utm_source=BLOGCONTENT&utm_medium=SEO&utm_campaign=SEO&utm_id=BLOGLANDX)
 
 [![miliki bisnis modal kecil cuma dengan 1 jutaan dapat 4 cabang ](https://accountgram-production.sfo2.cdn.digitaloceanspaces.com/landx_ghost/2021/11/jadi-owner-bisnis-hanya-1-jutaan-dengan-cuan-yang-sangat-menjanjikan.png)](https://app.landx.id/?utm_source=BLOGCONTENT&utm_medium=SEO&utm_campaign=SEO&utm_id=BLOGLANDX)
 
 [\#Patungan Bisnis](https://landx.id/blog/tag/patungan-bisnis)[\#Analisis Bisnis](https://landx.id/blog/tag/analisis-bisnis)[\#Laporan Keuangan](https://landx.id/blog/tag/laporan-keuangan)
-
-
-
-<!--EndFragment-->
