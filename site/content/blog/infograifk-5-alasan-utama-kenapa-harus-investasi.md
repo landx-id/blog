@@ -9,12 +9,21 @@ metaDescription: Kegiatan investasi dilakukan dengan tujuan mengharapkan
 intro: Kegiatan investasi dilakukan dengan tujuan mengharapkan keuntungan di
   masa depan. Berikut ini 5 alasan berinvestasi lain yang perlu diketahui.
 date: 2022-09-02T04:15:40.771Z
+tag:
+  - Cara Investasi
+  - Investasi Menguntungkan
+  - Analisis Investasi
+  - Keuntungan Investasi
+  - Investasi untuk Pemula
+category:
+  - Investasi
+  - Keuangan
 featuredImage:
-  title: Memahami 5 Alasan Utama Kenapa Harus Investasi
-  alt: "[INFOGRAFIK] 5 Alasan Utama Kenapa Harus Investasi"
+  title: Data perkembangan investasi di Indonesia
+  alt: Data alasan investasi di Indonesia
   src: img/landx_infografis_5-alasan-memulai-investasi_landscape_01.png
 ---
-![alasan utama mulai investasi](https://cdn.discordapp.com/attachments/976309038067367996/1015187565541867621/LandX_Infografis_5-Alasan-Memulai-Investasi_REV_1.png "alasan utama mulai investasi")
+![alasan utama mulai investasi](https://cdn.discordapp.com/attachments/976309038067367996/1015187565541867621/LandX_Infografis_5-Alasan-Memulai-Investasi_REV_1.png "Data Alasan Investor Indonesia berinvestasi")
 
 Kamu mungkin pernah mendengar pertanyaan kenapa ya orang-orang berinvestasi? Orang-orang tersebut memiliki **tujuan investasi** yang sama yaitu mengharapkan keuntungan di masa depan.
 
@@ -24,7 +33,7 @@ Selain mengharapkan keuntungan, berinvestasi pada jenis investasi yang tepat dap
 
 Oleh karena itu, yuk tingkatkan semangat kamu untuk belajar investasi karena ini dia 5 alasan kamu harus mulai investasi sekarang juga!
 
-![tingkat literasi keuangan](https://lh3.googleusercontent.com/AvphD0WE_pDAYzCIVpMnDmxAVs95-Z7wYV6b7sDKzPs0d4ewqyn0kMEuGLhccMwKcNUrvamD4m6GbXu4JKN_Vj2rclX9pyzGrPRQutNWBJ0YecdwKTPrnE2-6RAF2_noaDVbIoddALVYj0VC0HJ-psjF3QxzKIHozPQWReEFDplA7kNC1UA0Oy0JpA "tingkat literasi keuangan")
+![Tingkat literasi keuangan di Indonesia](https://lh3.googleusercontent.com/AvphD0WE_pDAYzCIVpMnDmxAVs95-Z7wYV6b7sDKzPs0d4ewqyn0kMEuGLhccMwKcNUrvamD4m6GbXu4JKN_Vj2rclX9pyzGrPRQutNWBJ0YecdwKTPrnE2-6RAF2_noaDVbIoddALVYj0VC0HJ-psjF3QxzKIHozPQWReEFDplA7kNC1UA0Oy0JpA "Penjelasan tentang literasi keuangan di Indonesia")
 
 ## 01 Informasi dan Akses Keuangan Tersedia Mudah
 
@@ -44,7 +53,7 @@ Hal ini menunjukkan masyarakat Indonesia telah semakin sadar untuk memanfaatkan 
 
 Jadi, kamu juga bisa memilih layanan keuangan terbaik untuk kamu manfaatkan dalam mengelola keuangan yang dimiliki.
 
-![investasi dan inflasi](https://lh6.googleusercontent.com/oBDmbecYcQ-ra4c0W1eX1dUfzm5z3C7rp4n-mdbkIAGMX75rSyR4Br_9TVscD3vqtCTi5gyCj5RZ0598VhMZVO8puISInbvoscFL6NYhZloAwmib8j8D8iwrAnW9pcxhDDOUjkKY2k8dIqzfR_Af-CKvfx5dvMb90B0-Gm3_73VCQnhlVYiT5nMWiQ "investasi dan inflasi")
+![data tingkat inflasi Indonesia dari tahun ke tahun](https://lh6.googleusercontent.com/oBDmbecYcQ-ra4c0W1eX1dUfzm5z3C7rp4n-mdbkIAGMX75rSyR4Br_9TVscD3vqtCTi5gyCj5RZ0598VhMZVO8puISInbvoscFL6NYhZloAwmib8j8D8iwrAnW9pcxhDDOUjkKY2k8dIqzfR_Af-CKvfx5dvMb90B0-Gm3_73VCQnhlVYiT5nMWiQ "data peningkatan inflasi dalam beberapa tahun terakhir")
 
 ## 02 Mencegah dari Penurunan Nilai Uang Akibat Inflasi
 
@@ -54,7 +63,7 @@ Oleh karena itu, daripada hanya ditabung biasa sebaiknya kamu investasikan pada 
 
 **Daripada uang mengalami penurunan nilai karena inflasi, lebih baik dijaga bahkan ditingkatkan jumlahnya dengan diinvestasikan.**
 
-![investasi dana pensiun](https://lh3.googleusercontent.com/zY7HaocmEJsx2DnQQOz-KGpE_4e8EqC48ZEJxAyFdCAxMFtxE6Z3gF8eClZEIoNDvFC7aVuU9gzfTHMqPqPa3H2t-8zRxHlPPZVOVrlia0qbLvYURbl5CfFqj3raG9v-7bYvAhiqGEbb_zx8jA2_aDnsJ_g-cqAdjxHX8akzj7lEd0EQIW4lJTyq8w "investasi dana pensiun")
+![data investasi untuk dana pensiun](https://lh3.googleusercontent.com/zY7HaocmEJsx2DnQQOz-KGpE_4e8EqC48ZEJxAyFdCAxMFtxE6Z3gF8eClZEIoNDvFC7aVuU9gzfTHMqPqPa3H2t-8zRxHlPPZVOVrlia0qbLvYURbl5CfFqj3raG9v-7bYvAhiqGEbb_zx8jA2_aDnsJ_g-cqAdjxHX8akzj7lEd0EQIW4lJTyq8w "investasi dana pensiun")
 
 ## 03 Merencanakan Masa Depan dan Dana Pensiun 
 
@@ -94,4 +103,10 @@ Oleh karena itu, **waktu terbaik untuk memulai investasi adalah sekarang**. Saat
 
 ![alasan utama mulai berinvestasi](https://lh5.googleusercontent.com/PwjGKtYixWvZKrtb3bZ2khizk77i_92O9KbqjydaNsPrWnQfEwrG3pv1R-HL_GuS0k07Qsut5FC91ZTy6bHLoJzgPXedIaDTTg2aEhQFkvfhfvRRzb1HAZNp40qulSNIgdfR4IduVywRnB6QnIggJvHLFaln3CGxt5SyzAP5LFM_YZKAnzPZKg0a8w "alasan utama mulai berinvestasi")
 
-## [Yuk ](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)[Berinvestasi Sekarang Demi Masa Depan](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)
+## [Yuk ](https://app.landx.id/?utm_source=BLOGCONTENT&utm_medium=SEO&utm_campaign=SEO&utm_id=BLOGLANDX)[Berinvestasi Sekarang Demi Masa Depan](https://app.landx.id/?utm_source=BLOGCONTENT&utm_medium=SEO&utm_campaign=SEO&utm_id=BLOGLANDX)
+
+<!--StartFragment-->
+
+[![miliki bisnis modal kecil cuma dengan 1 jutaan dapat 4 cabang ](https://accountgram-production.sfo2.cdn.digitaloceanspaces.com/landx_ghost/2021/11/jadi-owner-bisnis-hanya-1-jutaan-dengan-cuan-yang-sangat-menjanjikan.png)](https://app.landx.id/?utm_source=BLOGCONTENT&utm_medium=SEO&utm_campaign=SEO&utm_id=BLOGLANDX)
+
+<!--EndFragment-->
