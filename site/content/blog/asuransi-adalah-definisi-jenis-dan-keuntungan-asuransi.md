@@ -1,5 +1,5 @@
 ---
-draft: true
+draft: false
 author: Rafa Syawalia
 title: "Asuransi Adalah: Definisi, Jenis, dan Keuntungan Asuransi"
 metaTitle: "Asuransi Adalah: Definisi, Jenis, dan Keuntungan Asuransi"
