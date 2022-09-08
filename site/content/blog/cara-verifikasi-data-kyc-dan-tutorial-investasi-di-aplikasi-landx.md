@@ -11,6 +11,7 @@ date: 2022-05-24T01:33:56.728Z
 tag:
   - LandX
   - Equity Crowdfunding
+  - Cara Investasi di LandX
 category:
   - Cara Investasi di Securities Crowdfunding
 featuredImage:
