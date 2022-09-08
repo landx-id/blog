@@ -1,7 +1,7 @@
 ---
 draft: false
 author: Rafa Syawalia R
-title: Simak Perbedaan Investasi Riil dan Investasi Finansial Beserta Asetnya
+title: Perbedaan Investasi Riil dan Investasi Finansial dan Contoh Asetnya
 metaTitle: Simak Perbedaan Investasi Riil dan Investasi Finansial Beserta Asetnya
 metaDescription: Investasi riil adalah investasi pada aset yang nyata sedangkan
   investasi finansial adalah investasi yang tidak berwujud. Contoh investasi
@@ -10,6 +10,14 @@ intro: Secara umum, investasi memiliki dua jenis, investasi riil dan investasi
   finansial. Yuk, kenali perbedaan investasi sektor riil dan investasi sektor
   keuangan yang sesuai dengan keadaan finansial Anda.
 date: 2022-09-01T08:22:04.180Z
+tag:
+  - Instrumen Investasi
+  - Pilihan Investasi
+  - Tips Investasi
+  - Investasi Tahun 2022
+category:
+  - Investasi
+  - Keuangan
 featuredImage:
   title: Simak Perbedaan Investasi Riil dan Investasi Finansial Beserta Asetnya
   alt: Simak Perbedaan Investasi Riil dan Investasi Finansial Beserta Asetnya
@@ -87,4 +95,14 @@ Kamu bisa memilih bisnis yang ingin kamu danai sesuai dengan profil risiko kamu 
 
 Jadi tunggu apalagi?
 
-#### [Jadi Pemilik Bisnis Potensial dengan Investasi Equity Crowdfunding](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)
+#### [Jadi Pemilik Bisnis Potensial dengan Investasi Equity Crowdfunding](https://app.landx.id/?utm_source=BLOGCONTENT&utm_medium=SEO&utm_campaign=SEO&utm_id=BLOGLANDX)
+
+<!--StartFragment-->
+
+[![miliki bisnis modal kecil cuma dengan 1 jutaan dapat 4 cabang ](https://accountgram-production.sfo2.cdn.digitaloceanspaces.com/landx_ghost/2021/11/jadi-owner-bisnis-hanya-1-jutaan-dengan-cuan-yang-sangat-menjanjikan.png)](https://app.landx.id/?utm_source=BLOGCONTENT&utm_medium=SEO&utm_campaign=SEO&utm_id=BLOGLANDX)
+
+[\#Patungan Bisnis](https://landx.id/blog/tag/patungan-bisnis)[\#Analisis Bisnis](https://landx.id/blog/tag/analisis-bisnis)[\#Laporan Keuangan](https://landx.id/blog/tag/laporan-keuangan)
+
+
+
+<!--EndFragment-->
