@@ -1,8 +1,8 @@
 ---
 draft: false
 author: Rafa Syawalia R
-title: Memahami Apa itu Budgeting dan Cara Membuat Budget Plan
-metaTitle: Memahami Apa itu Budgeting dan Cara Membuat Budget Plan yang Benar
+title: Memahami Apa Itu Budgeting dan Cara Membuat Budget Plan
+metaTitle: Memahami Apa Itu Budgeting dan Cara Membuat Budget Plan yang Benar
 metaDescription: "Budgeting adalah metode yang membantu kamu melakukan
   perencanaan keuangan, eksekusi, evaluasi, dan monitoring keuangan menjadi
   lebih baik. "
@@ -10,6 +10,13 @@ intro: Budgeting adalah kegiatan penting dalam perencanaan keuangan supaya
   anggaran masuk dan keluar tercatat dengan jelas. Budgeting bisa menjadi acuan
   evaluasi keuangan untuk menjaga keuangan tetap stabil.
 date: 2022-09-07T16:09:29.109Z
+tag:
+  - Mengatur Keuangan
+  - Mengelola Keuangan
+  - Pengelolaan Keuangan
+category:
+  - Investasi
+  - Keuangan
 featuredImage:
   src: https://images.unsplash.com/photo-1544377193-33dcf4d68fb5?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1332&q=80
   title: Memahami Apa itu Budgeting & Cara Membuat Budget Plan
@@ -85,7 +92,7 @@ Angka 50, 30, 20 merupakan salah satu contoh persentase dana yang akan dialokasi
 
 Metode budgeting ini tentunya disesuaikan dengan kondisi keuangan dan kebutuhan kamu dahulu ya. Kamu perlu mengetahui proporsi pendapatan dan pengeluaran kamu dahulu, kemudian kamu menerapkan metode 50/30/20 seperti perumpamaan dan penjelasan sebelumnya.
 
-### 5. Selalu Utamakan Menabung 
+### 5. Selalu Utamakan Menabung
 
 Untuk memaksimalkan rutinitas budgeting, kamu perlu menanamkan pemikiran kembali ketika ingin membeli barang baru yang tidak diperlukan sekali atau urgen. Dengan **menerapkan pemikiran menabung** untuk kebutuhan nanti, kamu menjadi lebih hati-hati dalam menghabiskan anggaran. 
 
@@ -108,3 +115,13 @@ Investasi [crowdfunding](https://landx.id/) merupakan investasi jangka panjang, 
 Karena itu…
 
 ## [Yuk, Maksimalkan Budgeting Kamu untuk Wujudkan Target Finansial Impian Melalui LandX!](https://app.landx.id/?utm_source=BLOGCONTENT&utm_medium=SEO&utm_campaign=SEO&utm_id=BLOGLANDX)
+
+<!--StartFragment-->
+
+[![miliki bisnis modal kecil cuma dengan 1 jutaan dapat 4 cabang ](https://accountgram-production.sfo2.cdn.digitaloceanspaces.com/landx_ghost/2021/11/jadi-owner-bisnis-hanya-1-jutaan-dengan-cuan-yang-sangat-menjanjikan.png)](https://app.landx.id/?utm_source=BLOGCONTENT&utm_medium=SEO&utm_campaign=SEO&utm_id=BLOGLANDX)
+
+[\#Patungan Bisnis](https://landx.id/blog/tag/patungan-bisnis)[\#Analisis Bisnis](https://landx.id/blog/tag/analisis-bisnis)[\#Laporan Keuangan](https://landx.id/blog/tag/laporan-keuangan)
+
+
+
+<!--EndFragment-->
