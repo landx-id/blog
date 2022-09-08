@@ -10,6 +10,13 @@ intro: Apakah kamu sadar bahwa snack kesukaan kamu semakin mengecil? Hal
   tersebut adalah fenomena shrinkflation yang merupakan penyusutan kuantitas
   produk, kenapa bisa terjadi? Yuk simak artikel ini ya.
 date: 2022-09-07T02:12:38.183Z
+tag:
+  - Inflasi
+  - Laju Inflasi
+  - Resesi Ekonomi
+category:
+  - Investasi
+  - Keuangan
 featuredImage:
   title: "Shrinkflation: Trik Perusahaan Menghadapi Inflasi dan Penyebabnya"
   alt: "Shrinkflation: Trik Perusahaan Menghadapi Inflasi dan Penyebabnya"
@@ -23,7 +30,7 @@ Penyebab perusahaan mengurangi ukuran volume produk adalah untuk mengendalikan b
 
 Nah, di artikel ini akan dibahas secara jelas mengenai contoh shrinkflation pada produk cemilan kesukaan kamu. Yuk scroll lebih lanjut ya.
 
-## Definisi Shrinkflation 
+## Definisi Shrinkflation
 
 Apa itu Shrinkflation? Dalam ilmu ekonomi definisi shrinkflation adalah merupakan taktik umum yang dilakukan perusahaan makanan dan minuman. Istilah ini ditemukan pada tahun 2009 oleh ekonom Inggris, Pippa Malmgren. 
 
@@ -59,7 +66,7 @@ Naiknya harga bahan baku menjadi penyebab utama shrinkflasi. Biaya produksi yang
 
 Maka perusahaan akan menemukan strategi untuk mampu bersaing dalam pasar dengan mengurangi berat, kuantitas atau volume produk dengan harga eceran yang sama. Hal tersebut dapat meningkatkan keuntungan pada pihak produsen sendiri. Selain itu, kebanyakan konsumen tidak akan menyadari adanya pengurangan kuantitas produk.
 
-### 2. Permintaan Pasar 
+### 2. Permintaan Pasar
 
 Dalam kurva permintaan, kadang-kadang tren dan permintaan produk dapat berubah dengan drastis. Hal tersebut membuat perusahaan perlu membuat strategi baru atau membuat ulang produk mereka.
 
@@ -106,3 +113,9 @@ Sekarang kamu bisa melakukan [investasi modal minim ](https://landx.id/)dimulai 
 [LandX](https://landx.id/) merupakan platform [equity crowdfunding](https://landx.id/) di Indonesia yang berpengalaman melakukan crowdfunding bagi berbagai bisnis potensial di berbagai sektor industri dan sudah mendapatkan izin dari Otoritas Jasa Keuangan.
 
 ## [Yuk, Hadapi Inflasi dengan Investasi Modal Minim Sekarang Juga! ](https://app.landx.id/?utm_source=BLOGCONTENT&utm_medium=SEO&utm_campaign=SEO&utm_id=BLOGLANDX)
+
+<!--StartFragment-->
+
+[![miliki bisnis modal kecil cuma dengan 1 jutaan dapat 4 cabang ](https://accountgram-production.sfo2.cdn.digitaloceanspaces.com/landx_ghost/2021/11/jadi-owner-bisnis-hanya-1-jutaan-dengan-cuan-yang-sangat-menjanjikan.png)](https://app.landx.id/?utm_source=BLOGCONTENT&utm_medium=SEO&utm_campaign=SEO&utm_id=BLOGLANDX)
+
+[\#Patungan Bisnis](https://landx.id/blog/tag/patungan-bisnis)[\#Analisis Bisnis](https://landx.id/blog/tag/analisis-bisnis)[\#Laporan Keuangan](https://landx.id/blog/tag/laporan-keuangan)
