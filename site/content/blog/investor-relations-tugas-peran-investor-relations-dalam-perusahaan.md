@@ -38,7 +38,7 @@ Sedangkan melansir dari laman investopedia, investor relations adalah sebuah div
 
 Kegiatan divisi **hubungan investor** sendiri merupakan subkategori hubungan masyarakat atau public relation. Namun, untuk pratiknya investor relations hanya membangun komunikasi mengenai pemberian informasi tentang kesehatan keuangan perusahaan kepada investor, pemegang saham, dan publik.
 
-## Tugas Investor Relation
+## Tugas Investor Relations
 
 Orang-orang yang terlibat dalam divisi investor relations harus memahami informasi perusahaan mengenai divisi legal, manajemen eksekutif, dan akuntansi. Jika membicarakan investor relations dalam sebuah divisi, biasanya orang-orang yang masuk dalam divisi ini akan melakukan laporan langsung menuju CEO (chief executive officer) atau CFO (chief financial officer).
 
@@ -59,7 +59,7 @@ Ada pula poin-poin yang menjabarkan **tujuan investor relations dalam perusahaan
 * Membuat laporan bulanan atau tahunan dan kinerja pasar.
 * Menyediakan informasi terkait pasar modal, sehingga harga saham perusahaan dapat mencerminkan nilai perusahaan.
 
-## Mengapa Investor Relations Penting Untuk Perusahaan?
+## Mengapa Investor Relations Penting untuk Perusahaan?
 
 Setelah membaca penjelasan terkait investor relations, kini diketahui bahwa **tugas dan tujuan investor relations** adalah setidaknya merilis informasi finansial perusahaan kepada publik dan memahami laporan keuangan. 
 
