@@ -8,6 +8,12 @@ metaDescription: Langkah mudah registrasi akun di aplikasi LandX dan verifikasi
 intro: Lihat langkah mudah registrasi akun di aplikasi LandX dan verifikasi akun
   agar dapat miliki saham bisnis potensial menguntungkan dalam artikel ini.
 date: 2022-08-29T07:22:34.549Z
+tag:
+  - Cara Investasi di LandX
+  - Equity Crowdfunding
+  - Cara Investasi
+category:
+  - Cara Investasi di Securities Crowdfunding
 featuredImage:
   title: Cara Registrasi di Aplikasi LandX, Platform Equity Crowdfunding
   alt: Cara Registrasi di Aplikasi LandX, Platform Equity Crowdfunding
@@ -27,25 +33,25 @@ Yuk, lihat lebih lanjut!
 
 [Klik di sini](https://play.google.com/store/apps/details?id=store.numoney.landxapp) untuk download aplikasi LandX
 
-![](https://lh4.googleusercontent.com/V-zj63lmH5VnAZ31dExjnPq66XtScCOzzr3kP5OJIbURZZlUmNwHwsB_QXv4NYjif6ubQCJ6__aLddNu0M8WonA6pLaTDzSkAD3H2J1WpCSqOlMQMJ2DM4aiHsyxDBctpQ1rg81vNEtRyuFQmPfTqAAJaHmO8RBrriW-fJkcT3IEXwLTtbBg15C6CA)
+![Cara daftar di aplikasi landx](https://lh4.googleusercontent.com/V-zj63lmH5VnAZ31dExjnPq66XtScCOzzr3kP5OJIbURZZlUmNwHwsB_QXv4NYjif6ubQCJ6__aLddNu0M8WonA6pLaTDzSkAD3H2J1WpCSqOlMQMJ2DM4aiHsyxDBctpQ1rg81vNEtRyuFQmPfTqAAJaHmO8RBrriW-fJkcT3IEXwLTtbBg15C6CA "cara investasi di landx")
 
 #### 2. Klik Registrasi Sekarang
 
-![](https://lh4.googleusercontent.com/70ip2HfwMDsBOzL-vQWXlLqyDVuojSrHOAUscOhYkC7ZjoyDnIIHmMJxMYTqvXhIWqfuXbXNB8c6a1A2_NC8fzDttvt-AI2jDEyPU_afFKXmFmDsg8vwHWSpBTnlvRMkls8iB7KmjcATOPi_ccOhHWqpORhorDThnAi3gHPryp7cCHp6j03Bfhdc5g)
+![registrasi investasi bisnis](https://lh4.googleusercontent.com/70ip2HfwMDsBOzL-vQWXlLqyDVuojSrHOAUscOhYkC7ZjoyDnIIHmMJxMYTqvXhIWqfuXbXNB8c6a1A2_NC8fzDttvt-AI2jDEyPU_afFKXmFmDsg8vwHWSpBTnlvRMkls8iB7KmjcATOPi_ccOhHWqpORhorDThnAi3gHPryp7cCHp6j03Bfhdc5g "investasi di landx")
 
 #### 3. Masukkan email dan nomor handphone kamu yang aktif serta buatlah kombinasi kata sandi yang mudah diingat. Klik Selanjutnya.
 
-![](https://lh3.googleusercontent.com/K7WkySMs6CXV0_PxXtjFUdmsAo03PXnD9BG0oduI6qZslY-ZcfKMRvmC2iAqyMH-BmSS2vHsW2q9DnKbUjklOEXwlxasaVlEwQZslrh9avjbGicWe93fPDs68U9zm-QSDSzTA2ObiDhX-bTs0m02WB3yzi6iQskjPkp7qejx60BQSEmCjUggOygmtA)
+![pendaftaran investasi](https://lh3.googleusercontent.com/K7WkySMs6CXV0_PxXtjFUdmsAo03PXnD9BG0oduI6qZslY-ZcfKMRvmC2iAqyMH-BmSS2vHsW2q9DnKbUjklOEXwlxasaVlEwQZslrh9avjbGicWe93fPDs68U9zm-QSDSzTA2ObiDhX-bTs0m02WB3yzi6iQskjPkp7qejx60BQSEmCjUggOygmtA "cara investasi")
 
 #### 4. Baca Syarat dan Ketentuan kemudian klik tanda centang, kamu akan menerima Email Verifikasi pada email yang telah dimasukkan.
 
-![](https://lh3.googleusercontent.com/wLRsHiqLH2nxiJP_QR0yRQZyLbNNjP0BrC1PgHg4SyZm6-V2ARf49HWfy6bKVeQuXZ8cqwbZFGf53MTuLqK-LtoSzVhUzw0PaYSQFNpTEefFtuB0G4jdYFB-XmJZVBJx0grrc3MeI3NFOdnX8f_eJb5BKyA_WRSMKfvLVHUbmKSwLAgMbz80RB5NWw)
+![investasi di landx](https://lh3.googleusercontent.com/wLRsHiqLH2nxiJP_QR0yRQZyLbNNjP0BrC1PgHg4SyZm6-V2ARf49HWfy6bKVeQuXZ8cqwbZFGf53MTuLqK-LtoSzVhUzw0PaYSQFNpTEefFtuB0G4jdYFB-XmJZVBJx0grrc3MeI3NFOdnX8f_eJb5BKyA_WRSMKfvLVHUbmKSwLAgMbz80RB5NWw "investasi landx")
 
 #### 5. Setelah email berhasil diverifikasi, masuk ke akun kamu dengan klik Login![](https://lh4.googleusercontent.com/x6V17AZL4WVr0m1bN2a5aUsUlu-_xeGc78Ta7WAxtulYunp4bCC4aJX4Kw172pV6ZWZhPPnli6EXjtl8U0iGc18njJIzxdXxTt4rdD_Gr8hlqeCbq21UtcO87SAQCWmvxYEObE4y-_SBF8OvWQ6GDKyLegVFkdlcdJhj52iveTnqxFDXaOpES23ssQ)
 
 #### 6. Selamat! Selangkah lagi kamu bisa jadi Investor dengan cara melakukan Verifikasi Akun. Klik Verifikasi Akun sekarang yuk.
 
-![](https://lh4.googleusercontent.com/zZdabBQa0fO2tMfrxAjBcfhtC0lWDeJuzuTRKPc-sb_xE_C6qZ_cN5jqLKBtquP1AnHtxGU_Uvc3FpNQfofAiihGc9p0dAojL8ihxktIL2uR4u_VM10oLvovuP1Tg6WsmRCEUrKvkeeKc39TI-FmWh1wnM0Nm9ZAWk0a4gm2mdFy-h3Bs-KI5kNryg)
+![investasi di landx](https://lh4.googleusercontent.com/zZdabBQa0fO2tMfrxAjBcfhtC0lWDeJuzuTRKPc-sb_xE_C6qZ_cN5jqLKBtquP1AnHtxGU_Uvc3FpNQfofAiihGc9p0dAojL8ihxktIL2uR4u_VM10oLvovuP1Tg6WsmRCEUrKvkeeKc39TI-FmWh1wnM0Nm9ZAWk0a4gm2mdFy-h3Bs-KI5kNryg "investasi di landx")
 
 ## Cara Verifikasi Akun di Aplikasi LandX
 
@@ -72,3 +78,9 @@ Mengunggah data RDN akan membantu memaksimalkan kuota investasi kamu saat membel
 #### 7. Data kamu akan diperiksa Tim LandX dan KSEI (Kustodian Sentral Efek Indonesia) untuk meningkatkan keamanan. Proses verifikasi akan selesai 2x24 jam.
 
 Mari lebih cuan!
+
+## [Y﻿uk Mulai Investasi Jangka Panjang Menguntungkan di LandX](https://app.landx.id/?utm_source=BLOGCONTENT&utm_medium=SEO&utm_campaign=SEO&utm_id=BLOGLANDX)
+
+[![miliki bisnis modal kecil cuma dengan 1 jutaan dapat 4 cabang ](https://accountgram-production.sfo2.cdn.digitaloceanspaces.com/landx_ghost/2021/11/jadi-owner-bisnis-hanya-1-jutaan-dengan-cuan-yang-sangat-menjanjikan.png)](https://app.landx.id/?utm_source=BLOGCONTENT&utm_medium=SEO&utm_campaign=SEO&utm_id=BLOGLANDX)
+
+<!--EndFragment-->
