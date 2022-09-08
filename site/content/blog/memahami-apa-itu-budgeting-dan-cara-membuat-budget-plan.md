@@ -116,12 +116,6 @@ Karena itu…
 
 ## [Yuk, Maksimalkan Budgeting Kamu untuk Wujudkan Target Finansial Impian Melalui LandX!](https://app.landx.id/?utm_source=BLOGCONTENT&utm_medium=SEO&utm_campaign=SEO&utm_id=BLOGLANDX)
 
-<!--StartFragment-->
-
 [![miliki bisnis modal kecil cuma dengan 1 jutaan dapat 4 cabang ](https://accountgram-production.sfo2.cdn.digitaloceanspaces.com/landx_ghost/2021/11/jadi-owner-bisnis-hanya-1-jutaan-dengan-cuan-yang-sangat-menjanjikan.png)](https://app.landx.id/?utm_source=BLOGCONTENT&utm_medium=SEO&utm_campaign=SEO&utm_id=BLOGLANDX)
 
 [\#Patungan Bisnis](https://landx.id/blog/tag/patungan-bisnis)[\#Analisis Bisnis](https://landx.id/blog/tag/analisis-bisnis)[\#Laporan Keuangan](https://landx.id/blog/tag/laporan-keuangan)
-
-
-
-<!--EndFragment-->
