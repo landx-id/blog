@@ -2,14 +2,19 @@
 draft: false
 author: Vlora Riyandi
 title: Mengenal Rekening Dana Nasabah (RDN) dalam Transaksi Efek & Fungsinya
-metaTitle: Mengenal Rekening Dana Nasabah (RDN) dalam Transaksi Efek & Fungsinya
-metaDescription: Apa itu RDN? Rekening RDN adalah rekening yang berfungsi
-  menampung dan mencatat transaksi kamu di dunia efek seperti saham. Lihat
-  selengkapnya.
+metaTitle: Mengenal Rekening Dana Nasabah (RDN) dalam Transaksi Efek & Investasi
+metaDescription: Yuk simak apa itu Rekening Dana Nasabah (RDN)  yang mencatat
+  transaksi keuangan kamu dalam  efek atau investasi
 intro: RDN adalah rekening yang berfungsi menampung dan mencatat transaksi
   keuangan kamu di dunia efek seperti saham. Yuk cari tahu lebih lanjut terkait
   rekening efek ini.
 date: 2022-09-06T17:06:14.642Z
+tag:
+  - KSEI
+  - Investasi untuk Pemula
+  - Cara Investasi
+  - Investasi Saham
+  - Instrumen Pasar Modal
 featuredImage:
   title: Mengenal Rekening Dana Nasabah (RDN) dalam Transaksi Efek & Fungsinya
   alt: Mengenal RDN Efek dan Fungsinya
@@ -87,3 +92,9 @@ Dengan melakukan pendaftaran akun dan tahap verifikasi data (KYC), kamu dapat se
 Lihat cara verifikasi data melalui aplikasi LandX di [sini](https://landx.id/blog/cara-registrasi-di-aplikasi-landx-platform-equity-crowdufnding/).
 
 ## [Yuk Buka Akun RDN Mudah Melalui LandX](https://app.landx.id/?utm_source=BLOGCONTENT&utm_medium=SEO&utm_campaign=SEO&utm_id=BLOGLANDX)
+
+<!--StartFragment-->
+
+[![miliki bisnis modal kecil cuma dengan 1 jutaan dapat 4 cabang ](https://accountgram-production.sfo2.cdn.digitaloceanspaces.com/landx_ghost/2021/11/jadi-owner-bisnis-hanya-1-jutaan-dengan-cuan-yang-sangat-menjanjikan.png)](https://app.landx.id/?utm_source=BLOGCONTENT&utm_medium=SEO&utm_campaign=SEO&utm_id=BLOGLANDX)
+
+<!--EndFragment-->
