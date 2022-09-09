@@ -53,7 +53,7 @@ Yuk, lihat lebih lanjut!
 
 ![investasi di landx](https://lh4.googleusercontent.com/zZdabBQa0fO2tMfrxAjBcfhtC0lWDeJuzuTRKPc-sb_xE_C6qZ_cN5jqLKBtquP1AnHtxGU_Uvc3FpNQfofAiihGc9p0dAojL8ihxktIL2uR4u_VM10oLvovuP1Tg6WsmRCEUrKvkeeKc39TI-FmWh1wnM0Nm9ZAWk0a4gm2mdFy-h3Bs-KI5kNryg "investasi di landx")
 
-## Cara Verifikasi Akun di Aplikasi LandX
+## Cara Verifikasi Akun di Aplikasi LandX (K)YC
 
 Agar terdaftar sebagai investor resmi di negara Indonesia, kamu juga harus melakukan pendataan diri ke lembaga KSEI. Namun tak perlu khawatir, kami dapat membantu kamu melakukan proses verifikasi data (KYC) mudah dengan cara mengunggah informasi yang diperlukan melalui aplikasi LandX.
 
