@@ -65,7 +65,7 @@ Agar terdaftar sebagai investor resmi di negara Indonesia, kamu juga harus melak
 
 #### 3. Selanjutnya unggah foto selfie kamu dengan KTP. Posisikan KTP di bawah dagu dan tidak menutupi wajah serta keseluruhan wajah terlihat jelas dan hasil foto tidak berbayang. 
 
-![cara kyc landx](img/cara-kyc.png "cara kyc landx")
+![cara kyc landx](https://cdn.discordapp.com/attachments/898051981162209283/1017703854197977139/cara_kyc.png "cara kyc landx")
 
 #### 4. Setelah memastikan hasil foto KTP dan selfie dengan KTP baik maka langkah selanjutnya adalah Isi Alamat Sesuai KTP dan Isi Alamat Domisili.![](https://lh5.googleusercontent.com/fLd3XbqWw7M6VxjebXWBF6mc7P6zzZaJ60XPrfvSR8pfijZyaUDz_kks979A2YUGlJVvzlUCv6r3uIDEDyib1eV-kSXzbIPfp046PJ_huDnkeidgENWO5rlLrtyUsWV-c0PgJfBN0kFP-ZEspjmvn-g8TdZ9-z7oXptOVhq47eooZ5YbsILjfOSufg)
 
