@@ -72,11 +72,15 @@ Selamat telah menjadi investor project bisnis potensial di LandX. Dengan resmi m
 
 Kinerja Aset membantu kamu terhubung dengan bisnis dengan memantau perkembangan bisnis setelah meraih pendanaan penuh. Setiap data bisnis di Kinerja Aset akan selalu diupdate dan kamu selalu dapat melihat secara real-time.
 
-> **B﻿aca Juga:**\
-> [Informasi Apa Aaja yang Terdapat Pada Fitur Kinerja LandX](https://landx.id/blog/baru-nikmati-fitur-menarik-landx-apakah-itu-equity-crowdfunding/)
->
-> [Apa Itu Prospektus dan Tujuannya](https://landx.id/blog/isi-prospektus-apa-pengertian-tujuan-dan-cara-membaca-prospektus/)
+- - -
 
-Demikian cara melakukan verifikasi data KYC dan panduan berinvestasi di aplikasi LandX. Untuk dapat memiliki saham project bisnis, yuk verifikasi akun sekarang.
+**B﻿aca Juga:**
+
+* [Informasi Apa Aaja yang Terdapat Pada Fitur Kinerja LandX](https://landx.id/blog/baru-nikmati-fitur-menarik-landx-apakah-itu-equity-crowdfunding/)
+* [Apa Itu Prospektus dan Tujuannya](https://landx.id/blog/isi-prospektus-apa-pengertian-tujuan-dan-cara-membaca-prospektus/)
+
+- - -
+
+Demikian cara melakukan verifikasi data KYC dan panduan berinvestasi di aplikasi LandX untuk dapat kamu coba. Untuk dapat memiliki saham project bisnis, **[yuk verifikasi akun sekarang!](https://app.landx.id/?utm_source=BLOGCONTENT&utm_medium=SEO&utm_campaign=SEO&utm_id=BLOGLANDX)**
 
 [![miliki bisnis modal kecil cuma dengan 1 jutaan dapat 4 cabang ](https://accountgram-production.sfo2.cdn.digitaloceanspaces.com/landx_ghost/2021/11/jadi-owner-bisnis-hanya-1-jutaan-dengan-cuan-yang-sangat-menjanjikan.png)](https://app.landx.id/?utm_source=BLOGCONTENT&utm_medium=SEO&utm_campaign=SEO&utm_id=BLOGLANDX)
