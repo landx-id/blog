@@ -9,6 +9,14 @@ intro: FIRE Movement adalah kondisi seseorang yang telah memiliki kebebasan
   finansial  untuk melakukan pensiun dini.  Untuk mewujudkannya, perlu mencapai
   financial independent terlebih dahulu. Simak di sini!
 date: 2022-09-14T07:23:20.698Z
+tag:
+  - Mengatur Keuangan
+  - Pengelolaan Keuangan
+  - Tips Keuangan
+  - Manajemen Keuangan
+category:
+  - Investasi
+  - Keuangan
 featuredImage:
   src: https://img.freepik.com/free-photo/young-businessman-throughs-away-papers-standing-street_8353-7198.jpg?w=740&t=st=1663140218~exp=1663140818~hmac=00f4a2e162774df97ab1f191701989079eadc9d5629e39e63aaa8b891e16d9be
   alt: Menerapkan strategi financial independent retire early
