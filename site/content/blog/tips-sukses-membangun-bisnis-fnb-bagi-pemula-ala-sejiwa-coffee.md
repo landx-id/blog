@@ -111,6 +111,6 @@ Jadi, tunggu apa lagi? Jangan lewatkan bisnis FnB potensial lainnya di LandX, ya
 
 ## [Download Aplikasi LandX dan Nikmati Webinar Bermanfaat untuk Masa Depan Sekarang Juga!](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)
 
-![Talx by LandX cara memulai bisnis food and beverage dari nol](img/landx_poster-webinar_talx3_1080x540-px-1-.png "Talx by LandX cara memulai bisnis food and beverage dari nol")
+![Talx by LandX cara memulai bisnis food and beverage dari nol](https://cdn.discordapp.com/attachments/976381310857773066/1021681179751104564/LandX_poster-webinar_TALX3_1080x540-px_1.png "Talx by LandX cara memulai bisnis food and beverage dari nol")
 
 <!--EndFragment-->
