@@ -55,7 +55,7 @@ Kemudian tahapan selanjutnya menjadi AJB yang sekarang dibahas. Selain itu juga,
 
 Kamu bisa meningkatkan sertifikat rumah kamu menjadi HGB (Hak Guna Bangunan) atau SHM (Sertifikat Hak Milik). Hanya saja, SHM di khususkan untuk warga negara Indonesia saja. Biaya sertifikat rumah dari AJB ke HGB atau SHM juga relatif, sebaiknya kamu bisa berkonsultasi pada ahlinya.
 
-## 5. Biaya Balik Nama 
+## 5. Biaya Balik Nama
 
 Selanjutnya adalah Bea Balik Nama atau BBN. Biaya ini sering terdengar ketika ada seseorang yang ingin membeli rumah, apa itu BBN? BBN adalah biaya yang dikenakan dari pihak penjual atau developer ke pembeli. Pada bagian ini, nominal umum yang dikenakan berkisar 1-2% dari nilai transaksi atau sesuai dengan peraturan daerah yang berlaku. 
 
@@ -87,6 +87,8 @@ Kedua biaya tersebut wajib dibayar oleh pihak pembeli dan menjadi biaya lain dal
 Untuk memastikan kekuatan hukum hak atas tanah dan bangunan, kamu perlu mengecek keaslian sertifikat. Pasalnya rumah kamu akan menjadi rumah sengketa dengan memiliki sertifikat palsu atau ganda, dan tentunya hal tersebut akan merugikan kamu. Kamu bisa mendatangi kantor BPN atau Badan Pertanahan Nasional untuk meninjau keabsahan sertifikat rumah kamu.
 
 Untuk mengecek sertifikat, kamu perlu menyiapkan berkas-berkas penting seperti sertifikat rumah kamu, surat kuasa dari PPAT, KTP, dan surat permohonan. Pengecekan sertifikat ini sesuai dengan Pasal 34 PP Nomor 24 Tahun 1997, BPN akan mengecek keabsahan sertifikat tanah berdasarkan daftar tanah, peta pendaftaran, surat ukur, dan lain-lain. Selain itu kamu juga bisa meminta bantuan untuk mengecek sertifikat tanah oleh notaris. Biaya yang dikenakan berkisar Rp150-Rp200.
+
+![Biaya lainnya dalam pembelian rumah](img/biaya-lainnya-dalam-pembelian-rumah.png "Biaya lain pembelian rumah")
 
 ## Alokasi Pendapatan Kamu Pada Investasi Bisnis Potensial
 
