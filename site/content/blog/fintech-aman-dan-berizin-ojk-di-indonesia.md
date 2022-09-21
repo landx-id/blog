@@ -122,9 +122,13 @@ Nah itulah artikel lengkap tentang Fintech mulai dari definisinya sampai jenis-j
 
 **Tunggu apalagi...**
 
-## [Yuk Patungan Bisnis dengan Keuntungan Jangka Panjang Bareng LandX](https://landx.id/project/)
+## [Yuk Patungan Bisnis dengan Keuntungan Jangka Panjang Bareng LandX](https://app.landx.id/?utm_source=Organic+Page&utm_medium=Content+Blog&utm_campaign=BlogLandX&utm_id=Blog)
 
-[![jadi pemiliki bisnis dengan modal 1 jutaan melalui investasi bisnis lewat securities crowdfunding di LandX-platform equity crowdfunding terpercaya](https://accountgram-production.sfo2.cdn.digitaloceanspaces.com/landx_ghost/2021/11/jadi-owner-bisnis-hanya-1-jutaan-dengan-cuan-yang-sangat-menjanjikan.png)](https://landx.id/project/)
+<!--StartFragment-->
+
+[![miliki bisnis modal kecil cuma dengan 1 jutaan dapat 4 cabang ](https://accountgram-production.sfo2.cdn.digitaloceanspaces.com/landx_ghost/2021/11/jadi-owner-bisnis-hanya-1-jutaan-dengan-cuan-yang-sangat-menjanjikan.png)](https://app.landx.id/?utm_source=Organic+Page&utm_medium=Content+Blog&utm_campaign=BlogLandX&utm_id=Blog)
+
+<!--EndFragment-->
 
 **[Mau Berbagai info Terbaru Terkait Investasi? Yuk Follow @landx.id di Instagram](https://www.instagram.com/landx.id/?utm_medium=copy_link)**
 
