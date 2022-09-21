@@ -32,8 +32,6 @@ category:
   - Investasi
   - Bisnis
 ---
-
-
 **Intrumen pasar modal** adalah salah satu instrumen investasi yang banyak diminati oleh para investor terutama pemula yang baru ingin memasuki dunia investasi. Hal ini karena instrumen investasi pasar modal yang beragam sehingga pemula dapat menyesuaikan instrumen mana yang cocok dengan profil risiko dan tujuan mereka.
 
 Selain itu, saat ini akses ke berbagai **instrumen pasar modal** semakin mudah karena adanya sistem online yang mempermudah akses investasi ke pasar modal.
@@ -44,7 +42,7 @@ Akan tetapi, sebelum berinvestasi memahami berbagai instrumen pasar modal adalah
 
 Karena itu, yuk kita bahas lebih lanjut tentang berbagai instrumen pasar modal dan agar kamu bisa menentukan instrumen terbaik untuk kamu.
 
----
+- - -
 
 ## Pilihan Instrumen Pasar Modal
 
@@ -58,9 +56,9 @@ Karena itu, yuk kita bahas satu persatu berbagai jenis instrumen investasi di pa
 
 Berinvestasi ke dalam saham artinya anda menanamkan sejumlah modal ke dalam perusahaan atau bisnis yang akan memberikan anda bagian kepemilikan dari bisnis tersebut sesuai dengan besaran modal yang anda tanamkan.
 
-Sebagai investor saham, anda berhak mendapatkan keuntungan berupa dividen saat bisnis mendapatkan [profit](https://landx.id/) yang akan dibagikan kepada investor pemegang saham. Selain dividen investor juga bisa mendapatkan keuntungan melalui _capital gain_ dengan menjual saham pada saat nilainya naik sehingga anda mendapatkan keuntungan dari selisih nilai jual dan beli saham.
+Sebagai investor saham, anda berhak mendapatkan keuntungan berupa dividen saat bisnis mendapatkan [profit](https://landx.id/) yang akan dibagikan kepada investor pemegang saham. Selain dividen investor juga bisa mendapatkan keuntungan melalui *capital gain* dengan menjual saham pada saat nilainya naik sehingga anda mendapatkan keuntungan dari selisih nilai jual dan beli saham.
 
-Pasar modal menawarkan dua jenis saham yaitu saham biasa**(_common stock)_** dan saham**Preferen (_Preferred Stock)._** Karena itu, yuk kita bahas dua jenis saham ini agar kamu paham perbedaan _**common stock dan preffered stock.**_
+Pasar modal menawarkan dua jenis saham yaitu saham biasa**(*common stock)*** dan saham**Preferen (*Preferred Stock).*** Karena itu, yuk kita bahas dua jenis saham ini agar kamu paham perbedaan ***common stock dan preffered stock.***
 
 ### A. Saham biasa
 
@@ -132,23 +130,26 @@ Saham Warrant adalah akses kepada investor untuk mendapatkan saham dalam jumlah 
 
 LandX sebagai platform equity crowdfunding memberikan anda kesempatan untuk berinvestasi ke dalam berbagai bisnis potensial yang berpotensi memberikan anda keuntungan lewat dividen dan capital gain.
 
-## Yuk m[ulai investasi melalui LandX dengan modal 1 Juta](https://landx.id/https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)
+## Yuk m[ulai investasi melalui LandX dengan modal 1 Juta](https://app.landx.id/?utm_source=Organic+Page&utm_medium=Content+Blog&utm_campaign=BlogLandX&utm_id=Blog)
 
-[![Yuk mulai patungan bisnis menguntungkan jangka panja g bersama LandX](https://accountgram-production.sfo2.cdn.digitaloceanspaces.com/landx_ghost/2021/09/Equity-Crowdfunding-di-Indonesia-1--3.png)](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)
+<!--StartFragment-->
 
----
+[![miliki bisnis modal kecil cuma dengan 1 jutaan dapat 4 cabang ](https://accountgram-production.sfo2.cdn.digitaloceanspaces.com/landx_ghost/2021/11/jadi-owner-bisnis-hanya-1-jutaan-dengan-cuan-yang-sangat-menjanjikan.png)](https://app.landx.id/?utm_source=Organic+Page&utm_medium=Content+Blog&utm_campaign=BlogLandX&utm_id=Blog)
+
+<!--EndFragment-->
+
+- - -
 
 **[Mau Tau Lebih Banyak Seputar Instrumen Investasi? Yuk Follow Instagram Kami @landx.id](https://www.instagram.com/landx.id/)**
 
----
+- - -
 
-#**Baca Juga:**
+\#**Baca Juga:**
 
 * [4 Cara Diversifikasi untuk Memperkecil Risiko Investasi yang Dilakukan](https://landx.id/blog/arti-penting-diversifikasi-dalam-investasi/)
 * [Mau Jadi Investor? Simak Cara Mudah Menjadi Investor Hanya dengan Modal Kecil](https://landx.id/blog/cara-menjadi-investor/)
 * [Tips Penting dalam Menyusun Rencana Investasi Jangka Panjang Terbaik](https://landx.id/blog/investasi-jangka-panjang-adalah/)
 
----
+- - -
 
-**#YukPatunganBisnis**
-
+**\#YukPatunganBisnis**
