@@ -69,7 +69,7 @@ Namun, **seluruh properti toko** beserta karyawannya masih menjadi milik manajem
 
 - - -
 
-**Schultz pernah** mengatakan di dalam bukunya "***Pour Your Heart Into It"**,* bahwa ia ingin menciptakan fanatisme pelanggan dengan cara menjaga kemurnian nilai-nilai yang dimiliki perusahaan.
+**Schultz pernah** mengatakan di dalam bukunya "**\*Pour Your Heart Into It"**,* bahwa ia ingin menciptakan fanatisme pelanggan dengan cara menjaga kemurnian nilai-nilai yang dimiliki perusahaan.
 
 Jika ia menjualnya dalam bentuk franschise, ia khawatir nilai-nilai tersebut akan hilang. Maka dari itu, seluruh standar kualitas produk dan pelayanan gerai-gerai Starbucks selalu dijaga dan diawasi secara  ketat oleh manajemen.
 
@@ -131,9 +131,13 @@ Dengan sistem patungan bisnis atau *crowdfunding*, Anda bisa ikut menjadi invest
 
 - - -
 
-## [Pspspss.. Bakal ada project seru di LandX, nantikan kabarnya melalui website serta sosial media LandX juga, ya!](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)
+## [Pspspss.. Bakal ada project seru di LandX, nantikan kabarnya melalui website serta sosial media LandX juga, ya!](https://app.landx.id/?utm_source=Organic+Page&utm_medium=Content+Blog&utm_campaign=BlogLandX&utm_id=Blog)
 
-[![Yuk mulai patungan bisnis menguntungkan jangka panja g bersama LandX](https://accountgram-production.sfo2.cdn.digitaloceanspaces.com/landx_ghost/2021/09/Equity-Crowdfunding-di-Indonesia-1--3.png)](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)
+[<!--StartFragment-->](https://app.landx.id/?utm_source=Organic+Page&utm_medium=Content+Blog&utm_campaign=BlogLandX&utm_id=Blog)
+
+[![miliki bisnis modal kecil cuma dengan 1 jutaan dapat 4 cabang ](https://accountgram-production.sfo2.cdn.digitaloceanspaces.com/landx_ghost/2021/11/jadi-owner-bisnis-hanya-1-jutaan-dengan-cuan-yang-sangat-menjanjikan.png)](https://app.landx.id/?utm_source=Organic+Page&utm_medium=Content+Blog&utm_campaign=BlogLandX&utm_id=Blog)
+
+<!--EndFragment-->
 
 **[Mau Informasi Menarik Lain Seputar Investasi? Yuk Kunjungi Instagram Kami di @landx.id](https://www.instagram.com/landx.id/?utm_medium=copy_link)**
 
