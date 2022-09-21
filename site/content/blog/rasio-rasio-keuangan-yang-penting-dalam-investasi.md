@@ -170,9 +170,13 @@ Tapi anda harus tahu bahwa setiap investasi memiliki risiko sehingga anda harus 
 
 Namun, apakah anda tahu bahwa anda sistem [investasi equity crowdfunding](https://landx.id/) yang sistemnya hampir sama dengan investasi saham, tapi memberikan anda kesempatan untuk berinvestasi ke dalam bisnis privat. Kalau belum…
 
-**[Yuk Mulai Investasi Bisnis Bersama LandX, Platform Equity Crowdfunding Terpercaya](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog/)**
+**[Yuk Mulai Investasi Bisnis Bersama LandX, Platform Equity Crowdfunding Terpercaya](https://app.landx.id/?utm_source=Organic+Page&utm_medium=Content+Blog&utm_campaign=BlogLandX&utm_id=Blog)**
 
-[![Equity-Crowdfunding-di-Indonesia-1--6](https://accountgram-production.sfo2.cdn.digitaloceanspaces.com/landx_ghost/2021/09/Equity-Crowdfunding-di-Indonesia-1--6.png)](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)
+<!--StartFragment-->
+
+[![miliki bisnis modal kecil cuma dengan 1 jutaan dapat 4 cabang ](https://accountgram-production.sfo2.cdn.digitaloceanspaces.com/landx_ghost/2021/11/jadi-owner-bisnis-hanya-1-jutaan-dengan-cuan-yang-sangat-menjanjikan.png)](https://app.landx.id/?utm_source=Organic+Page&utm_medium=Content+Blog&utm_campaign=BlogLandX&utm_id=Blog)
+
+<!--EndFragment-->
 
 [LandX](https://landx.id/) memberikan kesempatan untuk anda melakukan investasi bisnis dengan modal kecil ke dalam berbagai bisnis potensial yang ada di sekitar anda.[ **Yuk Investasi Sekarang**](https://landx.id/)
 
