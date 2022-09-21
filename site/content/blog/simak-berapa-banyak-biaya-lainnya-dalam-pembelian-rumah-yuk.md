@@ -1,7 +1,7 @@
 ---
 draft: false
 author: Rafa Syawalia R
-title: Simak Berapa Banyak Biaya Lainnya dalam Pembelian Rumah Yuk!
+title: Hitung Berapa Biaya Lainnya dalam Pembelian Rumah Yuk!
 metaTitle: Simak Berapa Banyak Biaya Lainnya dalam Pembelian Rumah Yuk! - LandX
 metaDescription: Perlu kamu ketahui, ternyata ada biaya tambahan pembelian rumah
   lain seperti biaya akta jual beli, BBN, biaya sertifikat rumah, bea dan pajak.
@@ -88,7 +88,7 @@ Untuk memastikan kekuatan hukum hak atas tanah dan bangunan, kamu perlu mengecek
 
 Untuk mengecek sertifikat, kamu perlu menyiapkan berkas-berkas penting seperti sertifikat rumah kamu, surat kuasa dari PPAT, KTP, dan surat permohonan. Pengecekan sertifikat ini sesuai dengan Pasal 34 PP Nomor 24 Tahun 1997, BPN akan mengecek keabsahan sertifikat tanah berdasarkan daftar tanah, peta pendaftaran, surat ukur, dan lain-lain. Selain itu kamu juga bisa meminta bantuan untuk mengecek sertifikat tanah oleh notaris. Biaya yang dikenakan berkisar Rp150-Rp200.
 
-![Biaya lainnya dalam pembelian rumah](img/biaya-lainnya-dalam-pembelian-rumah.png "Biaya lain pembelian rumah")
+![Biaya lainnya dalam pembelian rumah](img/biaya-lainnya-dalam-pembelian-rumah-1-.png "Biaya lain pembelian rumah")
 
 ## Alokasi Pendapatan Kamu Pada Investasi Bisnis Potensial
 
