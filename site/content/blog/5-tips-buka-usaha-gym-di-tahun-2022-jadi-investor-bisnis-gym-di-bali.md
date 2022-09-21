@@ -144,8 +144,6 @@ Menjadi investor sebuah bisnis dikenal harus memiliki modal bagai sultan. Namun,
 
 Yuk, menjadi investor bisnis gym potensial dan banyak cabang di [LandX](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog). Dengan sejutaan, Anda **\#SekarangBisa** miliki usaha fitness dan mega gym paling populer di Bali. 
 
-### [Segera kunjungi LandX sekarang! Kuota terbatas.](https://landx.id/project/FBUD?utm_source=Blog&utm_medium=BlogPost&utm_campaign=Blog)
+### [Segera kunjungi LandX sekarang! Kuota terbatas.](https://app.landx.id/?utm_source=Content+Listing&utm_medium=Content+Blog&utm_campaign=BlogLandX&utm_id=Blog)
 
-[![Jadi owner gym paling rame di bali fitness plus cuma dengan modal 1 juta](https://media.discordapp.net/attachments/913743599844343808/940505848801792010/Thumbnail_Fitness_Pluss_2-01.png)](https://landx.id/project/FBUD?utm_source=Blog&utm_medium=BlogPost&utm_campaign=Blog)
-
-**\#SekarangBisa**
+[![Jadi owner gym paling rame di bali fitness plus cuma dengan modal 1 juta](https://media.discordapp.net/attachments/913743599844343808/940505848801792010/Thumbnail_Fitness_Pluss_2-01.png)](https://app.landx.id/?utm_source=Content+Listing&utm_medium=Content+Blog&utm_campaign=BlogLandX&utm_id=Blog)
