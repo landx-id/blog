@@ -112,10 +112,6 @@ Dividen juga didistribusikan secara rutin sesuai dokumen yang ditunjukkan di awa
 
 Sebagai pemegang saham sekaligus bagian pemilik project bisnis, Anda dapat memantau kinerja bisnis tersebut dan memberikan masukan maupun kritikan. Setiap kinerja dan masukan yang ingin disampaikan dapat dilakukan pada aplikasi [LandX](https://landx.id/).
 
-## [Yuk, Kenal Lebih Lanjut Investasi Crowdfunding di Indonesia](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)
+## [Yuk, Kenal Lebih Lanjut Investasi Crowdfunding di Indonesia](https://app.landx.id/?utm_source=Organic+Page&utm_medium=Content+Blog&utm_campaign=BlogLandX&utm_id=Blog)
 
-<!--StartFragment-->
-
-[![miliki bisnis modal kecil cuma dengan 1 jutaan dapat 4 cabang ](https://accountgram-production.sfo2.cdn.digitaloceanspaces.com/landx_ghost/2021/11/jadi-owner-bisnis-hanya-1-jutaan-dengan-cuan-yang-sangat-menjanjikan.png)](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)
-
-<!--EndFragment-->
+[![miliki bisnis modal kecil cuma dengan 1 jutaan dapat 4 cabang ](https://accountgram-production.sfo2.cdn.digitaloceanspaces.com/landx_ghost/2021/11/jadi-owner-bisnis-hanya-1-jutaan-dengan-cuan-yang-sangat-menjanjikan.png)](https://app.landx.id/?utm_source=Organic+Page&utm_medium=Content+Blog&utm_campaign=BlogLandX&utm_id=Blog)
