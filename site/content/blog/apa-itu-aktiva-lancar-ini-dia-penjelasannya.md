@@ -120,10 +120,6 @@ Bagi investor data ini sangat penting sebagai acuan untuk pengambilan keputusan 
 
 Dari sebuah laporan keuangan, aset atau aktiva lancar dapat berguna sebagai salah satu data dasar untuk menentukan performa perusahaan dalam mengelola asetnya. Karena itu, perhitungan aset atau aktiva lancar sebuah perusahaan perlu dilakukan secara periodik untuk memastikan keberlangsungan dan kestabilan jalannya bisnis.
 
-## [Temukan Opsi Investasi Menjanjikan Hanya Dengan Modal 1 Juta di LandX!](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)
+## [Temukan Opsi Investasi Menjanjikan Hanya Dengan Modal 1 Juta di LandX!](https://app.landx.id/?utm_source=Organic+Page&utm_medium=Content+Blog&utm_campaign=BlogLandX&utm_id=Blog)
 
-[![miliki bisnis modal kecil cuma dengan 1 jutaan dapat 4 cabang ](https://accountgram-production.sfo2.cdn.digitaloceanspaces.com/landx_ghost/2021/11/jadi-owner-bisnis-hanya-1-jutaan-dengan-cuan-yang-sangat-menjanjikan.png)](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)
-
-> Yuk Download Aplikasi LandX Sekarang!!!
-> {{< button link="https://play.google.com/store/apps/details?id=store.numoney.landxapp&hl=in&gl=US" text="Android" >}}
-> {{< button link="https://apps.apple.com/id/app/landx/id1453823676" text="IOS" >}}
+[![miliki bisnis modal kecil cuma dengan 1 jutaan dapat 4 cabang ](https://accountgram-production.sfo2.cdn.digitaloceanspaces.com/landx_ghost/2021/11/jadi-owner-bisnis-hanya-1-jutaan-dengan-cuan-yang-sangat-menjanjikan.png)](https://app.landx.id/?utm_source=Organic+Page&utm_medium=Content+Blog&utm_campaign=BlogLandX&utm_id=Blog)
