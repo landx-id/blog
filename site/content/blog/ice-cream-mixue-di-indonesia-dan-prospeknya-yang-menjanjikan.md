@@ -66,10 +66,10 @@ Jika mendirikan franchice membutuhkan biaya ratusan juta, sekarang terdapat pelu
 
 Tentunya, pastikan untuk memilih platform **[equity crowdfunding](https://landx.id/)** berpengalaman, terpercaya, dan telah mengantongi izin dari OJK seperti** [LandX](https://landx.id/)** ya!
 
-## [Jadi Bos Bisnis dengan Modal 1 Juta, Nantikan Peluangnya di LandX!](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)
+## [Jadi Bos Bisnis dengan Modal 1 Juta, Nantikan Peluangnya di LandX!](https://app.landx.id/?utm_source=Content+Listing&utm_medium=Content+Blog&utm_campaign=BlogLandX&utm_id=Blog)
 
 <!--StartFragment-->
 
-[![Yuk mulai patungan bisnis menguntungkan jangka panja g bersama LandX](https://accountgram-production.sfo2.cdn.digitaloceanspaces.com/landx_ghost/2021/09/Equity-Crowdfunding-di-Indonesia-1--3.png)](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)
+[![miliki bisnis modal kecil cuma dengan 1 jutaan dapat 4 cabang ](https://accountgram-production.sfo2.cdn.digitaloceanspaces.com/landx_ghost/2021/11/jadi-owner-bisnis-hanya-1-jutaan-dengan-cuan-yang-sangat-menjanjikan.png)](https://app.landx.id/?utm_source=Content+Listing&utm_medium=Content+Blog&utm_campaign=BlogLandX&utm_id=Blog)
 
 <!--EndFragment-->
