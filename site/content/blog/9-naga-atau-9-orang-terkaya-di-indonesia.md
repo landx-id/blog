@@ -33,8 +33,6 @@ category:
   - Investasi
   - Bisnis
 ---
-
-
 **Tidak hanya Jeff Bezos, Elon Musk dan Warren Buffet** yang ditelaah kekayaannya. Indonesia juga telah dirilis nama-namanya oleh majalah bisnis, Forbes, Januari 2022.
 
 Beberapa taipan Indonesia ini juga merupakan bagian dari 9 naga penguasa ekonomi Indonesia. Siapakah 9 naga bisnis Indonesia itu?
@@ -43,7 +41,7 @@ Sembilan naga adalah sebutan untuk para pengusaha Indonesia yang digadang memili
 
 Selain sembilan naga di Indonesia yang dikenal di kalangan bisnis konglomerat Indonesia. Ada baiknya kita mengenali para 9 orang terkaya di Indonesia serta bisnis apa saja yang digelutinya.
 
----
+- - -
 
 ## 1. Robert Budi Hartono dan Michael Bambang Hartono
 
@@ -55,14 +53,14 @@ Seiring pertumbuhan, perusahaan Djarum melampaui sektor industri rokok dan kini 
 
 Dengan kekayaan dan jaringan bisnis sebesar ini, Rebert Budi Hartanto dan Michael Bambang Hartanto tentu saja pantas mendapatkan gelar 9 naga.
 
----
+- - -
 
 **Baca Juga:**
 
 * [Berinvestasi Gaya Elon Musk atau Warren Buffet? 2 Pandangan Buat Kamu yang Ingin Ikutan Bitcoin](https://landx.id/blog/berinvestasi-gaya-elon-musk-atau-warren-buffet-2-pandangan-buat-kamu-yang-ingin-ikutan-bitcoin/)
 * [Daftar 5 Orang Terkaya di Dunia 2021 dan Growth Mindset yang Bisa Kamu Tiru](https://landx.id/blog/daftar-orang-terkaya-di-dunia-tahun-2021/)
 
----
+- - -
 
 ## 2. Widjaja Family
 
@@ -90,20 +88,20 @@ PT Indo-Rama Synthetics Tbk. milik konglomerat satu ini terdaftar di bursa saham
 
 Prajogo Pangestu adalah pengusaha yang pernah dinobatkan sebagai taipan perkayuan terbesar di Indonesia sebelum krisis ekonomi 1997. Walalupun bukan terlahir dari keluarga berada, ia mampu membangun kehidupan profesionalnya hingga membeli perusahaan kayu pada tahun 1973 yang kini dikenal dengan nama grup Barito Pacific.
 
-Dari laporan Forbes per Sabtu (15/1/2022), kekayaannya yang mencapai lebih dari Rp 77 triliun berasal dari bisnis petrokimia anak perusahan Barito Pacific. Perusahaan ini juga telah _go-public_ di bursa saham yaitu PT Chandra Asri Petrochemical Tbk (TPIA).
+Dari laporan Forbes per Sabtu (15/1/2022), kekayaannya yang mencapai lebih dari Rp 77 triliun berasal dari bisnis petrokimia anak perusahan Barito Pacific. Perusahaan ini juga telah *go-public* di bursa saham yaitu PT Chandra Asri Petrochemical Tbk (TPIA).
 
 **Laporan terbaru awal tahun ini,** PT Chandra Asri akan membangun pabrik baru komplek petrokimia dari dana Rights Issue. Hal ini dilakukan untuk memperluas skala usaha dan kapasitas produksi dalam melayanai kebutuhan pasar Indonesia.
 
 **Right issue saham adalah** hak yang diberikan kepada pemegang saham lama untuk membeli efek baru sebelum ditawarkan kepada pihak lain.
 
----
+- - -
 
 **Baca Juga:**
 
 * [Memahami Apa Itu Right Issue dalam Saham dan Pengaruhnya Terhadap Investor](https://landx.id/blog/right-issue-dalam-saham-adalah/)
 * [Yuk Pahami Apa Itu Agio Saham dan Berbagai Jenisnya](https://landx.id/blog/kenali-apa-itu-agio-saham-dalam-investasi/)
 
----
+- - -
 
 ## 6. Chairul Tanjung
 
@@ -121,7 +119,7 @@ Dilansir Forbes, pria kelahiran tahun 1956 ini memiliki harta kekayaan senilai l
 
 Pada 1 Januari 2022 lalu pemerintah menaikkan cukai tembakau hingga rata-rata 12%, namun nilai ini lebih rendah dibanding prediksi tarif naik tahunan. Karena produk Gudang Garam dikenal sebagai konsumsi kelas middle to low, kenaikan harga pun menjadi sentimen bagi emiten rokok berkode GGRM satu ini.
 
----
+- - -
 
 **Baca Juga:**
 
@@ -129,7 +127,7 @@ Pada 1 Januari 2022 lalu pemerintah menaikkan cukai tembakau hingga rata-rata 12
 * [Menanti Merah Putih Fund, Venture Capital Milik Indonesia yang Akan Danai Startup Dalam Negeri](https://landx.id/blog/memahami-seluk-beluk-merah-putih-fund/)
 * [Venture Capital: Mengenal Peran Venture Capital dalam Bisnis](https://landx.id/blog/venture-capital-adalah/)
 
----
+- - -
 
 ## 8. Benjamin Setiawan
 
@@ -153,17 +151,21 @@ Sebagai pemain kuat di industri fast moving consumer goods (FMCG), Mayora Group 
 
 **Namun,** membangun bisnis sangatlah jauh dari kata mudah dan tanpa stres. Bisnis yang hadir di lingkungan kita dan bertahan hingga hari ini adalah karena memiliki manajemen yang baik. Tentu kita juga ingin menjadi bagian lingkungan bisnis dengan manajemen yang baik.
 
-[Ikut patungan bisnis](https://landx.id/project/) menjadi salah satu jalan dapat belajar tips suatu industri bisnis serta menilik bisnis dengan cuan potensial. Melalui platform investasi [**crowdfunding LandX**](https://landx.id/project/), patungan bisnis dapat mendatangkan cuan potensial.
+[Ikut patungan bisnis](https://landx.id/project/) menjadi salah satu jalan dapat belajar tips suatu industri bisnis serta menilik bisnis dengan cuan potensial. Melalui platform investasi **[crowdfunding LandX](https://landx.id/project/)**, patungan bisnis dapat mendatangkan cuan potensial.
 
 Berinvestasi pada bisnis pilihan yang kamu inginkan serta belajar seluk-beluk industrinya sambil menantikan cuan datang.
 
-**[Yuk, berinvestasi patungan bisnis, pahami berbagai industri dan menjadi generasi cuan!](https://landx.id/project/)**
+**[Yuk, berinvestasi patungan bisnis, pahami berbagai industri dan menjadi generasi cuan!](https://app.landx.id/?utm_source=Organic+Page&utm_medium=Content+Blog&utm_campaign=BlogLandX&utm_id=Blog)**
 
-[![Bagaimana? Kamu lebih suka bisnis dengan buyback guarantee atau yang bisa disimpan dalam jangka panjang? Apapun pilihan kamu.. Yuk Patungan  dengan Keuntungan Menjanjikan Bareng LandX](https://accountgram-production.sfo2.cdn.digitaloceanspaces.com/landx_ghost/2021/10/Equity-Crowdfunding-di-Indonesia-1--3.png)](http://landx.id/project/)
+<!--StartFragment-->
+
+[![miliki bisnis modal kecil cuma dengan 1 jutaan dapat 4 cabang ](https://accountgram-production.sfo2.cdn.digitaloceanspaces.com/landx_ghost/2021/11/jadi-owner-bisnis-hanya-1-jutaan-dengan-cuan-yang-sangat-menjanjikan.png)](https://app.landx.id/?utm_source=Organic+Page&utm_medium=Content+Blog&utm_campaign=BlogLandX&utm_id=Blog)
+
+<!--EndFragment-->
 
 **[Mau Informasi Menarik Lain Seputar Investasi? Yuk Kunjungi Instagram Kami di @landx.id](https://www.instagram.com/landx.id/?utm_medium=copy_link)**
 
----
+- - -
 
 **Baca Juga:**
 
@@ -171,7 +173,6 @@ Berinvestasi pada bisnis pilihan yang kamu inginkan serta belajar seluk-beluk in
 * [Investasi dengan Passive Income untuk Masa Depan](https://landx.id/blog/investasi-dengan-passive-income-untuk-masa-depan/)
 * [Investasi Selalu Rugi? Coba Lakukan Diversifikasi. Ini 4 Cara Melakukannya!](https://landx.id/blog/arti-penting-diversifikasi-dalam-investasi/)
 
----
+- - -
 
-**#YukPatunganBisnis**
-
+**\#YukPatunganBisnis**
