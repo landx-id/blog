@@ -22,8 +22,6 @@ featuredImage:
   alt: Yuk simak apa itu pasiva dan cara menghitung pasiva dalam laporan keuangan
   title: Penjelasan Pasiva Adalah Utang Penting Bagi Perusahaan
 ---
-
-
 Pasiva adalah sejumlah dana pinjaman dari kreditur yang harus dibayar oleh perusahaan sesuai kesepakatan. Komponen yang termasuk ke dalam liabilitas atau jenis pasiva adalah seluruh utang yang sengaja dibuat dalam akuntansi perusahaan untuk meningkatkan aktivitas bisnis perusahaan.
 
 Dalam neraca akuntansi perusahaan, hadirnya total pasiva lancar adalah penunjang dalam sebuah periode akuntansi. Hasil perhitungan aktiva dan pasiva adalah kewajiban yang harus dilakukan untuk memahami kondisi keuangan perusahaan. Data ini nantinya akan menunjukkan kestabilan dan prospek jangka panjang perusahaan. Selain itu, perhitungan ini dibutuhkan sebagai data transparansi bagi para pemegang saham. 
@@ -118,11 +116,11 @@ Dari sebuah laporan keuangan perusahaan, utang (pasiva) tidak melulu memiliki ar
 
 Karena itu, pasiva adalah salah satu komponen paling penting yang harus dimiliki oleh sebuah perusahaan dalam neraca akuntasi. Jika dibarengi dengan pengelolaan aset (aktiva) dan utang (pasiva) yang baik, sebuah perusahaan mampu mendapatkan keuntungan maksimal bagi badan usaha itu sendiri dan juga investornya.
 
-## [Temukan Opsi Investasi Menjanjikan Hanya Dengan Modal 1 Juta di LandX!](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)
+## [Temukan Opsi Investasi Menjanjikan Hanya Dengan Modal 1 Juta di LandX!](https://app.landx.id/?utm_source=Organic+Page&utm_medium=Content+Blog&utm_campaign=BlogLandX&utm_id=Blog)
 
-<!--StartFragment-->
+[![miliki bisnis modal kecil cuma dengan 1 jutaan dapat 4 cabang ](https://accountgram-production.sfo2.cdn.digitaloceanspaces.com/landx_ghost/2021/11/jadi-owner-bisnis-hanya-1-jutaan-dengan-cuan-yang-sangat-menjanjikan.png)](https://app.landx.id/?utm_source=Organic+Page&utm_medium=Content+Blog&utm_campaign=BlogLandX&utm_id=Blog)
 
-[![miliki bisnis modal kecil cuma dengan 1 jutaan dapat 4 cabang ](https://accountgram-production.sfo2.cdn.digitaloceanspaces.com/landx_ghost/2021/11/jadi-owner-bisnis-hanya-1-jutaan-dengan-cuan-yang-sangat-menjanjikan.png)](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)
+<!--EndFragment-->
 
 > Yuk Download Aplikasi LandX Sekarang!!!
 > {{< button link="https://play.google.com/store/apps/details?id=store.numoney.landxapp&hl=in&gl=US" text="Android" >}}
