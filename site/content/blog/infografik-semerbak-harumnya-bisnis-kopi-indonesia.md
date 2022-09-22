@@ -13,7 +13,7 @@ featuredImage:
   title: peluang bisnis coffee shop indonesia
   src: img/landx_infografis_sejiwa-coffee_landscape_01.png
 ---
-![data bisnis coffee shop indonesia](https://lh6.googleusercontent.com/2QqRyvN9IMFoaiupCuW2-QHHt-hD_vtsDsuJy7wRhBxVNe-ZjXyNBp5gCJvIPkDehf3fgGXfDSHh-oea128bJwejvwgkCCZ7lX8sQGsWlYnN0ZqQh_d4dP_fiNcCT0Q2_3YA6pj4kp0EitQbjF2-va3KogTAu-jp9vzesNyBl44TfBB8MVRYo8jgdg "data bisnis coffee shop indonesia")
+![data bisnis coffee shop indonesia](img/data-bisnis-coffee-shop.png "data bisnis coffee shop indonesia")
 
 Industri kopi di Indonesia kian semerbak wanginya, potensi ini ditunjukkan oleh semakin tingginya tingkat konsumsi kopi dari berbagai kalangan sosial. Hal ini membuat para pebisnis mata elang menangkap peluang usaha coffee shop yang membuat semakin maraknya bisnis coffee shop dengan beragam konsep di Tanah Air. 
 
