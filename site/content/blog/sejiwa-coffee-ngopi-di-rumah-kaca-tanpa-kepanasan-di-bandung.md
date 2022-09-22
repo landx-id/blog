@@ -82,6 +82,6 @@ Melalui platform [securities crowdfunding](https://landx.id/), LandX menawarkan 
 
 [LandX](https://landx.id/) merupakan platform securities crowdfunding yang berpengalaman dan diawasi OJK dengan mengumpulkan masyarakat luas mendanai bisnis-bisnis yang akan ekspansi dan berkembang. Sehingga kamu akan mendapatkan keuntungan secara rutin berupa dividen dari keuntungan bisnis dengan prospek yang bagus.
 
-## [Temukan Bisnis Potensial Kekinian Lewat LandX Yuk! Download Aplikasinya Sekarang Juga!](https://app.landx.id/?utm_source=Content+Listing&utm_medium=Content+Blog&utm_campaign=BlogLandX&utm_id=Blog)[.](https://app.landx.id/?utm_source=Content+Listing&utm_medium=Content+Blog&utm_campaign=BlogLandX&utm_id=Blog)
+## [Yuk Temukan Bisnis Potensial Kekinian Lewat LandX﻿](https://app.landx.id/?utm_source=Content+Listing&utm_medium=Content+Blog&utm_campaign=BlogLandX&utm_id=Blog)
 
 [![miliki bisnis modal kecil cuma dengan 1 jutaan dapat 4 cabang ](https://accountgram-production.sfo2.cdn.digitaloceanspaces.com/landx_ghost/2021/11/jadi-owner-bisnis-hanya-1-jutaan-dengan-cuan-yang-sangat-menjanjikan.png)](https://app.landx.id/?utm_source=Content+Listing&utm_medium=Content+Blog&utm_campaign=BlogLandX&utm_id=Blog)
