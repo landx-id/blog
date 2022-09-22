@@ -87,7 +87,7 @@ Menurut Dicky, jika kita konsisten, maka keberuntungan akhirnya yang akan mengha
 
 Pada akhirnya, strategi, konsisten, dan inovasi adalah pondasi utama yang diyakini oleh Dicky Sukmana sehingga dapat mengantarkan Sejiwa Coffee sama ke titik suksesan ini.
 
-## Jadi Pemegang Saham Bisnis FnB Berpotensi Melalui Investasi
+## Investasi ke Saham FnB Potensial
 
 Bagaimana tips membangun bisnis FnB dari nol menurut Dicky Sukmana? Jadi semakin membuat kalian semangat untuk membangun bisnis FnB kah? 
 
@@ -109,8 +109,10 @@ Oiya, pendanaan di [LandX](https://landx.id/) dapat dimulai dari modal yang keci
 
 Jadi, tunggu apa lagi? Jangan lewatkan bisnis FnB potensial lainnya di LandX, ya!
 
-## [Download Aplikasi LandX dan Nikmati Webinar Bermanfaat untuk Masa Depan Sekarang Juga!](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)
+## [Y﻿uk Jadi Owner Bisnis Bisnis Menguntungkan di LandX](https://app.landx.id/?utm_source=Content+Listing&utm_medium=Content+Blog&utm_campaign=BlogLandX&utm_id=Blog)
 
-![Talx by LandX cara memulai bisnis food and beverage dari nol](https://cdn.discordapp.com/attachments/976381310857773066/1021681179751104564/LandX_poster-webinar_TALX3_1080x540-px_1.png "Talx by LandX cara memulai bisnis food and beverage dari nol")
+[![miliki bisnis modal kecil cuma dengan 1 jutaan dapat 4 cabang ](https://accountgram-production.sfo2.cdn.digitaloceanspaces.com/landx_ghost/2021/11/jadi-owner-bisnis-hanya-1-jutaan-dengan-cuan-yang-sangat-menjanjikan.png)](https://app.landx.id/?utm_source=Content+Listing&utm_medium=Content+Blog&utm_campaign=BlogLandX&utm_id=Blog)
+
+<!--EndFragment-->
 
 <!--EndFragment-->
