@@ -67,12 +67,14 @@ Kamu tahu gak kalo ternyata sekarang bisa punya bisnis dengan modal sejutaan aja
 
 Caranya gimana? Yuk download platform [equity crowdfunding](https://landx.id/) [LandX](https://landx.id/), verifikasi data, dan nantikan kehadiran bisnis coffee shop hits kekinian segera di [LandX](https://landx.id/).
 
-## [Jadi Pemilik Bisnis Coffee Shop Sekarang!](https://app.landx.id/?utm_source=Organic+Page&utm_medium=Content+Blog&utm_campaign=BlogLandX&utm_id=Blog)
+## [Y﻿uk Jadi Pemilik Bisnis Coffee Shop Sekarang!](https://app.landx.id/?utm_source=Content+Listing&utm_medium=Content+Blog&utm_campaign=BlogLandX&utm_id=Blog)
 
 - - -
 
-[LandX](https://landx.id/) merupakan sebuah platform [equity crowdfunding](https://landx.id/), yakni tempat bertemunya para investor dengan para pebisnis yang tengah mengembangkan bisnisnya.
+[LandX](https://landx.id/) merupakan sebuah platform [equity crowdfunding](https://app.landx.id/?utm_source=Content+Listing&utm_medium=Content+Blog&utm_campaign=BlogLandX&utm_id=Blog), yakni tempat bertemunya para investor dengan para pebisnis yang tengah mengembangkan bisnisnya.
 
-Dengan sistem patungan bisnis [equity crowdfunding](https://landx.id/), Anda bisa ikut menjadi investor atau owner dari project bisnis di [LandX](https://landx.id/) dengan modal yang lebih ringan, mulai dari 1 juta rupiah.
+Dengan sistem patungan bisnis [equity crowdfunding](https://app.landx.id/?utm_source=Content+Listing&utm_medium=Content+Blog&utm_campaign=BlogLandX&utm_id=Blog), Anda bisa ikut menjadi investor atau owner dari project bisnis di [LandX](https://landx.id/) dengan modal yang lebih ringan, mulai dari 1 juta rupiah.
+
+<!--StartFragment-->
 
 ![landx equity crowdfunding](https://lh5.googleusercontent.com/ItnbV2k19p7d58j3TAasLhqrDI6NpA3Szz8U7K4W-fcH3tVovvigFLybtLTAD2i2YodgDTrBy1DUg36l9bRdgugkUGjyL0XE5CkT_TcHyob1wjH5hfunLXaki50FQJFjhNMW46KkQrDktm3L89tCT713gQYmhQWgxhX53I0BcyUzW-7M8wpCfj8__g "landx equity crowdfunding")
