@@ -13,7 +13,7 @@ featuredImage:
   title: peluang bisnis coffee shop indonesia
   src: img/landx_infografis_sejiwa-coffee_landscape_01.png
 ---
-![](https://lh6.googleusercontent.com/2QqRyvN9IMFoaiupCuW2-QHHt-hD_vtsDsuJy7wRhBxVNe-ZjXyNBp5gCJvIPkDehf3fgGXfDSHh-oea128bJwejvwgkCCZ7lX8sQGsWlYnN0ZqQh_d4dP_fiNcCT0Q2_3YA6pj4kp0EitQbjF2-va3KogTAu-jp9vzesNyBl44TfBB8MVRYo8jgdg)
+![data bisnis coffee shop indonesia](https://lh6.googleusercontent.com/2QqRyvN9IMFoaiupCuW2-QHHt-hD_vtsDsuJy7wRhBxVNe-ZjXyNBp5gCJvIPkDehf3fgGXfDSHh-oea128bJwejvwgkCCZ7lX8sQGsWlYnN0ZqQh_d4dP_fiNcCT0Q2_3YA6pj4kp0EitQbjF2-va3KogTAu-jp9vzesNyBl44TfBB8MVRYo8jgdg "data bisnis coffee shop indonesia")
 
 Industri kopi di Indonesia kian semerbak wanginya, potensi ini ditunjukkan oleh semakin tingginya tingkat konsumsi kopi dari berbagai kalangan sosial. Hal ini membuat para pebisnis mata elang menangkap peluang usaha coffee shop yang membuat semakin maraknya bisnis coffee shop dengan beragam konsep di Tanah Air. 
 
@@ -21,7 +21,7 @@ Industri kopi di Indonesia kian semerbak wanginya, potensi ini ditunjukkan oleh 
 
 Yuk cari tahu lebih lanjut tentang usaha coffee shop kekinian ini.
 
-![](https://lh3.googleusercontent.com/wUtMBNzhC56uV1cRWUj9i4Wqv68TxdQY68kSfZXMEJwEVrKgSoV2Kf9bVIYhFAyg2mRnse7EBGjrDZVMD-IU5FXCq6Ab3ltg7mnV9zKr1RSS_uOg5MwnGi56QtVvsdfaZRdxc7DtPdLI58Wj3vR9pUJVNIrwX-nf3EoNJQvMUU99qBkn1hbl1RHwUQ)
+![tren konsumsi kopi indonesia](https://lh3.googleusercontent.com/wUtMBNzhC56uV1cRWUj9i4Wqv68TxdQY68kSfZXMEJwEVrKgSoV2Kf9bVIYhFAyg2mRnse7EBGjrDZVMD-IU5FXCq6Ab3ltg7mnV9zKr1RSS_uOg5MwnGi56QtVvsdfaZRdxc7DtPdLI58Wj3vR9pUJVNIrwX-nf3EoNJQvMUU99qBkn1hbl1RHwUQ "tren konsumsi kopi indonesia")
 
 ## Gelombang Tren Konsumsi Kopi
 
@@ -33,13 +33,13 @@ Dari hasil research Toffin, sejak tahun 2013 konsumsi kopi mulai bergeser dari g
 
 Kalau kamu mulai mengonsumsi kopi dari tahun berapa?
 
-![](https://lh3.googleusercontent.com/yPwigYT4p992XvQvE9wbMdYh3jlJwJbD_x55P0c_oddZCu_Xm3v16FM2VES3B-14bseuRMoyluK6991r9ti9tBQQJosyELOypqM3B6CzoIIKETKO013nQs6oPnm1iQ5KklIQQ_6eqDzFDufaEVtV2a0m8BHDtX1r0RmV_4eBYdkWP_buzDOVSHx0Nw)
+![data tingkat konsumsi kopi indonesia](https://lh3.googleusercontent.com/yPwigYT4p992XvQvE9wbMdYh3jlJwJbD_x55P0c_oddZCu_Xm3v16FM2VES3B-14bseuRMoyluK6991r9ti9tBQQJosyELOypqM3B6CzoIIKETKO013nQs6oPnm1iQ5KklIQQ_6eqDzFDufaEVtV2a0m8BHDtX1r0RmV_4eBYdkWP_buzDOVSHx0Nw "data tingkat konsumsi kopi indonesia")
 
 ## No Coffee, No Life
 
 Tingkat konsumsi kopi di Indonesia selalu meningkat setiap tahunnya, fenomena ini membuat kehadiran kopi bukan lagi sekedar gengsi musiman namun sebuah kebutuhan harian. Bahkan disampaikan Menteri Koordinator Bidang Perekonomian bahwa dalam 10 tahun terakhir, industri kopi Indonesia tumbuh hingga 250%. 
 
-![](https://lh4.googleusercontent.com/1Gfht4dEwmZPgNZlwcPxN5deLW_jvNy9M7fG8ReKeCW9ZGOThcUTs07KF4Y3McWXCp03Qmkipqa-ueQ7dBJ96eIo0iWD8ADMLbdq_oEU4xrFwuxSIKGnH_yEO0wiekRvPQQEjGgqDIHbdMNB8eNexHMNlLLd0MhGtaPNDGZroiRe6a_dZdRo7ftZHg)
+![jumlah gerai coffee shop indonesia](https://lh4.googleusercontent.com/1Gfht4dEwmZPgNZlwcPxN5deLW_jvNy9M7fG8ReKeCW9ZGOThcUTs07KF4Y3McWXCp03Qmkipqa-ueQ7dBJ96eIo0iWD8ADMLbdq_oEU4xrFwuxSIKGnH_yEO0wiekRvPQQEjGgqDIHbdMNB8eNexHMNlLLd0MhGtaPNDGZroiRe6a_dZdRo7ftZHg "jumlah gerai coffee shop indonesia")
 
 ## Jenis Gerai Coffee Shop Favorit 
 
@@ -49,7 +49,7 @@ Sama-sama menyajikan seduhan kopi asli, beragam konsep coffee shop warnai piliha
 
 Mudah dan pelayanan cepat, outlet berkonsep coffee to go yang lumrah ditemui di kawasan ramai mahasiswa, foodcourt, hingga dekat rumah menjadikannya pilihan favorit dikunjungi.
 
-![](https://lh5.googleusercontent.com/VNCtziYmzPPWXrGNSfmN3ED2QyNX8YumghbliAu-Gc2o_bM3aik5RQWIzUe_Ugv65oobQUUnjyrIntd9GRzirsD6PheRVF2VfWaMYuJt0ZzW__AfjGY0Pck7qRn80AXNbjFGDFOXPYp2ysC1nWdoH4iNZI0xd2fZUIkWXTKsmbM23oSSzXFxadcyiw)
+![faktor ramainya bisnis coffee shop](https://lh5.googleusercontent.com/VNCtziYmzPPWXrGNSfmN3ED2QyNX8YumghbliAu-Gc2o_bM3aik5RQWIzUe_Ugv65oobQUUnjyrIntd9GRzirsD6PheRVF2VfWaMYuJt0ZzW__AfjGY0Pck7qRn80AXNbjFGDFOXPYp2ysC1nWdoH4iNZI0xd2fZUIkWXTKsmbM23oSSzXFxadcyiw "alasan ramainya bisnis coffee shop")
 
 ## Budaya Ngopi Ramaikan Bisnis Kopi
 
@@ -75,4 +75,4 @@ Caranya gimana? Yuk download platform [equity crowdfunding](https://landx.id/) [
 
 Dengan sistem patungan bisnis [equity crowdfunding](https://landx.id/), Anda bisa ikut menjadi investor atau owner dari project bisnis di [LandX](https://landx.id/) dengan modal yang lebih ringan, mulai dari 1 juta rupiah.
 
-![](https://lh5.googleusercontent.com/ItnbV2k19p7d58j3TAasLhqrDI6NpA3Szz8U7K4W-fcH3tVovvigFLybtLTAD2i2YodgDTrBy1DUg36l9bRdgugkUGjyL0XE5CkT_TcHyob1wjH5hfunLXaki50FQJFjhNMW46KkQrDktm3L89tCT713gQYmhQWgxhX53I0BcyUzW-7M8wpCfj8__g)
+![landx equity crowdfunding](https://lh5.googleusercontent.com/ItnbV2k19p7d58j3TAasLhqrDI6NpA3Szz8U7K4W-fcH3tVovvigFLybtLTAD2i2YodgDTrBy1DUg36l9bRdgugkUGjyL0XE5CkT_TcHyob1wjH5hfunLXaki50FQJFjhNMW46KkQrDktm3L89tCT713gQYmhQWgxhX53I0BcyUzW-7M8wpCfj8__g "landx equity crowdfunding")
