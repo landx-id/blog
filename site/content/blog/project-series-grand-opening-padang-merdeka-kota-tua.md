@@ -56,7 +56,7 @@ Nuansa patriotis dan keragaman budaya dituangkan pada konsep desain restorannya.
 
 Diiringi harapan para investor untuk selalu sukses dan berkembang lebih hebat kedepannya, semoga restoran Padang Merdeka Kota Tua dapat menjadi pilihan utama kuliner di kawasan Kota Tua. 
 
-![](https://lh6.googleusercontent.com/coeofmSzVIWZc8lsG4ug4iaepbT85kdn1ecsbKZrjH3EkID_9UK86G-HV-Amg3Y7FWiYkha1wm4F-nZjjESqejYiW7ocz0xKVchiycLtWlcfwX_Hg7qYx7yOpy6pFsWs1cpmw3zAvs5qr1OTGXQVVRMjA5zygUJpfB2HnPm2u_fkbVsWTpJFKuoWKg)
+![kuliner kota tua](https://lh6.googleusercontent.com/coeofmSzVIWZc8lsG4ug4iaepbT85kdn1ecsbKZrjH3EkID_9UK86G-HV-Amg3Y7FWiYkha1wm4F-nZjjESqejYiW7ocz0xKVchiycLtWlcfwX_Hg7qYx7yOpy6pFsWs1cpmw3zAvs5qr1OTGXQVVRMjA5zygUJpfB2HnPm2u_fkbVsWTpJFKuoWKg "kuliner kota tua")
 
 ## Cara Jadi Investor Bisnis
 
