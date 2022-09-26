@@ -69,9 +69,7 @@ Nah, jika ingin menghitung estimasi keuntungan dari investasi, kamu bisa menggun
 
 Cara menghitung risk free rate tadi, bisa menggunakan BI-7 day repo rate, dikarenakan SBI sebagai investasi bebas risiko oleh investor. Untuk memperoleh data BI 7 sendiri bisa langsung mengakses laman resmi Bank Indonesia. Kamu bisa mengklik pilihan menu Statistik, lalu mengklik Indikator dan laman yang terlampir akan seperti ini:
 
-![](https://lh3.googleusercontent.com/PeW90OZovE2geb-87xl2WgBn4gWCL1Pf5l4vRjRJBZxyY5Udisl597ege0rsPSHUmeaW00cM9Zj7CPEDUixmv1a8H6yL9NVGQ6LmsFfQZ8eIz3vhvU4wBrPrSBYOCXDNDtCUDWkFFrbWbuONMkoFmXVD12JdhcLFSLz7MZegVs_ns67cN_AS7K4PDg)
-
-
+![Cara Menghitung Risk Free Rate](https://lh3.googleusercontent.com/PeW90OZovE2geb-87xl2WgBn4gWCL1Pf5l4vRjRJBZxyY5Udisl597ege0rsPSHUmeaW00cM9Zj7CPEDUixmv1a8H6yL9NVGQ6LmsFfQZ8eIz3vhvU4wBrPrSBYOCXDNDtCUDWkFFrbWbuONMkoFmXVD12JdhcLFSLz7MZegVs_ns67cN_AS7K4PDg "Cara Menghitung Risk Free Rate")
 
 Per 22 September 2022, BI-7 Day RR adalah 4,25% jika dijadikan angka maka diketahui Rf = 0,0425. Dalam melakukan pertimbangan pengembalian data, perlu memastikan bahwa data yang diambil merupakan data yang paling baru atau sudah diperbaharui. Selain itu juga, cara mengetahui risk free rate dengan mengacu spesifikasi obligasi, hanya saja untuk mengakses data obligasi ini diperlukan biaya tambahan lagi karena sulit untuk diakses secara publik. 
 
