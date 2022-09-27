@@ -3,7 +3,7 @@ draft: false
 author: Della Octavilia
 title: Tembus 1 Miliar! LandX Indonesia Bagikan Dividen bagi Para Investor!
 metaTitle: Tembus 1 Miliar! LandX Indonesia Bagikan Dividen ke Para Investor!
-metaDescription: Dividen mencapai Rp 1 Miliar dibagikan LandX platform equity
+metaDescription: Dividen mencapai Rp1 Miliar dibagikan LandX platform equity
   crowdfunding di Indonesia. Simak berita terkininya!
 intro: Perkembangan equity crowdfunding di Indonesia telah tumbuh ke arah
   positif.  LandX, platform crowdfunding di Indonesia telah bagikan dividen
