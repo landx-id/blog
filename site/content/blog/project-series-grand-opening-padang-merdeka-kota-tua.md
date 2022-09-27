@@ -52,7 +52,7 @@ Keseriusan Padang Merdeka untuk menjadi bagian utama kuliner Kota Tua ditunjukka
 
 Renovasi ini dapat diwujudkan berkat pendanaan masyarakat Indonesia yang tergabung sebagai investor restoran Padang Merdeka melalui platform [equity crowdfunding LandX](https://landx.id/). Setelah melalui berbagai proses persiapan, Padang Merdeka Kota Tua tampil glow up di depan para investor dan pelanggan pada acara grand openingnya yang diadakan pada 17 September 2022.
 
-Nuansa patriotis dan keragaman budaya dituangkan pada konsep desain restorannya. Tak luput sentuhan rasa mewah menghiasi untuk membuat pelanggan dapat menikmati makanan dan suasana yang diberikan.
+Nuansa patriotisme dan keragaman budaya dituangkan pada konsep desain restorannya. Tak luput sentuhan rasa mewah menghiasi untuk membuat pelanggan dapat menikmati makanan dan suasana yang diberikan.
 
 Diiringi harapan para investor untuk selalu sukses dan berkembang lebih hebat kedepannya, semoga restoran Padang Merdeka Kota Tua dapat menjadi pilihan utama kuliner di kawasan Kota Tua. 
 
