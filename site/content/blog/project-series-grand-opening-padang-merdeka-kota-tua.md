@@ -32,7 +32,7 @@ Padang Merdeka yang terbukti dapat berikan rasa dan suasana membuatnya dapat mel
 
 Tak hanya itu, berinvestasi pada lokasi strategis yang sedang dikembangkan menjadi kawasan Jakarta Heritage membuat resto yang kental dengan interior bernuansa nasionalisme ini secara nyaman berdiri di Kota Tua.
 
-Serius dengan proyek negara membangun kawasan wisata kultural membuat Padang Merdeka beraksi lakukan renovasi mempercantik diri menjadi tujuan kuliner Kota Tua, Padang Merdeka Kota Tua.![](https://lh6.googleusercontent.com/SZCGwK-VSvND7mzlsqaJD60Olz2c-X_zNlwkMhbnSUxB0cozUi2wiQAgfxDbOnV3YDdytJYxre_EN3QucoLpy0hfDo6-oN3LD_j8oRAeQHOI0THTtJtesREzGSDqQu1DidkfhycEpvUufDj2HGAt4JN0Fr11uTivjqh3vuBkP5dprbC88Sd6s-RmYQ)
+Serius dengan proyek negara membangun kawasan wisata kultural membuat franchise Padang Merdeka beraksi lakukan renovasi mempercantik diri menjadi tujuan kuliner Kota Tua, Padang Merdeka Kota Tua.![](https://lh6.googleusercontent.com/SZCGwK-VSvND7mzlsqaJD60Olz2c-X_zNlwkMhbnSUxB0cozUi2wiQAgfxDbOnV3YDdytJYxre_EN3QucoLpy0hfDo6-oN3LD_j8oRAeQHOI0THTtJtesREzGSDqQu1DidkfhycEpvUufDj2HGAt4JN0Fr11uTivjqh3vuBkP5dprbC88Sd6s-RmYQ)
 
 ## Menu Padang Merdeka
 
@@ -40,7 +40,7 @@ Jangan khawatir soal rasa, karena anggapan bahwa masakan Padang di luar daerahny
 
 Lebih dari 30 jenis menu dapat dinikmati di restoran ini. Kamu dapat memilih dari rendang yang gurih, dendeng batokok, gulai kepala ikan favorit, hingga menu kaya rasa seperti jengkol, telur dadar spesial, dan perkedel.
 
-Kamu juga dapat mencoba nasi rames Padang Merdeka dengan mengunjungi salah satu lokasi nasi padang enak terdekat dari Kota Tua di alamat berikut ya,
+Kamu juga dapat mencoba nasi rames di Padang Merdeka terdekat dengan mengunjungi salah satu lokasi nasi padang enak di Kota Tua pada alamat berikut,
 
 📍 **Alamat Padang Merdeka Kota Tua**
 
