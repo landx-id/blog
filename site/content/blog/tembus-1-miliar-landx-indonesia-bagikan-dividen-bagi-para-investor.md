@@ -10,7 +10,7 @@ intro: Perkembangan equity crowdfunding di Indonesia telah tumbuh ke arah
   hingga Rp 1 miliar. Simak seputar LandX di sini!
 date: 2022-09-27T07:14:41.154Z
 featuredImage:
-  src: https://cdn-2.tstatic.net/tribunnews/foto/bank/images/romario-sumargo1111.jpg
+  src: https://cdn.discordapp.com/attachments/976309038067367996/1024222030058508348/LandX__MainLogo_New_V2.png
   alt: LandX Indonesia Bagikan Dividen 1 Miliar
   title: LandX Indonesia Bagikan Dividen 1 Miliar
 ---
