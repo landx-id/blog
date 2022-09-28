@@ -10,8 +10,12 @@ intro: Fluktuasi harga minyak dunia telah memberi tekanan yang cukup besar
   terhadap perekonomian global. Fenomena ini memicu kenaikan harga bbm pada
   beberapa negara di belahan dunia, termasuk negara yang berada di kawasan ASEAN
 date: 2022-09-14T06:22:42.765Z
+tag:
+  - Ekonomi
+category:
+  - Bisnis
 featuredImage:
-  src: https://img.freepik.com/free-photo/car-refueling-fuel-station_1303-27942.jpg?w=740&t=st=1663136820~exp=1663137420~hmac=688af6b3e30f8d28ec6cf50e75032ad07a62a709e018d6db2b7d16a8007994e1
+  src: https://media.discordapp.net/attachments/913743599844343808/1024564905237549067/305378680_134376085985688_3483545428208405903_n.jpg?width=525&height=656
   alt: Memahami dampak kenaikan BBM terhadap investasi
   title: Memahami dampak kenaikan BBM terhadap investasi
 ---
@@ -23,13 +27,9 @@ Pemerintah mengatakan alasan kenapa harga BBM naik adalah sebagai salah satu upa
 
 Namun, upaya ini justru menimbulkan banyak pertanyaan dari berbagai pihak, terutama pelaku bisnis dan investasi. Pasalnya dampak kenaikan harga bbm terhadap investasi terbilang cukup besar.
 
-
-
 Lebih lanjut, Arifin Tasrif selaku Menteri Energi dan Sumber Daya Mineral (ESDM) mengumumkan bahwa kenaikan harga tersebut meliputi produk BBM yang disubsidi maupun nonsubsidi, yakni Pertalite dan Solar sebagai BBM subsidi, hingga Pertamax sebagai jenis BBM nonsubsidi.
 
 Perincian mengenai info harga BBM dimulai dari harga Pertalite yang semula Rp7.650 per liter menjadi Rp10.000 per liter. Disusul harga Solar subsidi dari Rp5.150 per liter naik menjadi Rp6.800 per liter. Kemudian, untuk BBM nonsubsidi Pertamax mengalami kenaikan yang semula Rp12.500 per liter menjadi Rp14.500 per liter.
-
-
 
 Mengapa demikian? Apa saja hal yang menyebabkan kenaikan harga BBM? Bagaimana imbasnya di masyarakat khususnya para pelaku investasi? Yuk, baca artikel ini untuk cari tahu!
 
@@ -37,7 +37,7 @@ Mengapa demikian? Apa saja hal yang menyebabkan kenaikan harga BBM? Bagaimana im
 
 Kenaikan harga BBM di Indonesia dilatarbelakangi oleh serangkaian fakta atau faktor yang saling terkait dan merantai satu sama lain. Berikut adalah beberapa faktor yang menjadi penyebab efek domino kenaikan harga BBM ini:
 
-### 1. Mewaspadai Kenaikan Harga Minyak Global 
+### 1. Mewaspadai Kenaikan Harga Minyak Global
 
 Kenaikan harga minyak mentah dunia sempat mencapai US$147 per barel di bulan Maret 2022 lalu. Hal ini merupakan kenaikan harga minyak dunia tertinggi yang menembus angka $100 sejak 2014 silam. 
 
@@ -71,11 +71,15 @@ Pemerintah rupanya telah menaikkan anggaran subsidi dan kompensasi sebesar tiga 
 
 Sementara itu, penyaluran subsidi BBM yang telah berlangsung selama ini dinilai tidak tepat sasaran, dengan menyebutkan bahwa 80% pengguna subsidi adalah kendaraan pribadi dan orang mampu. Berdasar pada fakta itu, pemerintah kemudian mengambil langkah inisiatif untuk melakukan penyesuaian dan normalisasi, dengan mengalihkan subsidi BBM menjadi bantuan langsung tunai (BLT) yang akan diberikan langsung kepada masyarakat kurang mampu.
 
-
-
 ## Dampak Kenaikan BBM Terhadap Investasi dan Ekonomi
 
 Sebagai salah satu kebutuhan dasar operasional, kenaikan harga BBM tentu akan banyak mempengaruhi iklim investasi di Indonesia, terutama pada sektor pasar saham nasional. Sejumlah sektor saham bahkan diproyeksi berpotensi terdampak langsung dan lebih tinggi.
+
+<!--StartFragment-->
+
+![](https://cdn.discordapp.com/attachments/913743599844343808/1024565323829092474/305134148_1283479185726149_8876452396942489216_n.jpg)
+
+<!--EndFragment-->
 
 ### 1. Harga Bahan Baku Naik
 
@@ -109,6 +113,10 @@ Oleh karena itu, jika kamu memutuskan untuk mencari alternatif investasi bisnis 
 
 LandX adalah platform patungan bisnis di mana kamu dapat ikut berinvestasi di berbagai project bisnis dengan modal yang relatif lebih kecil. Di LandX, kamu dapat memilih berbagai project menarik dari berbagai sektor dengan prospek bisnis yang menjanjikan. Tunggu apalagi? 
 
-## [Download LandX App Sekarang Juga dan Pilih Project Bisnismu!](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)
+<!--StartFragment-->
+
+## [Yuk, Kenal Lebih Lanjut Investasi Crowdfunding di Indonesia](https://app.landx.id/?utm_source=Organic+Page&utm_medium=Content+Blog&utm_campaign=BlogLandX&utm_id=Blog)
+
+[![miliki bisnis modal kecil cuma dengan 1 jutaan dapat 4 cabang ](https://accountgram-production.sfo2.cdn.digitaloceanspaces.com/landx_ghost/2021/11/jadi-owner-bisnis-hanya-1-jutaan-dengan-cuan-yang-sangat-menjanjikan.png)](https://app.landx.id/?utm_source=Organic+Page&utm_medium=Content+Blog&utm_campaign=BlogLandX&utm_id=Blog)
 
 <!--EndFragment-->
