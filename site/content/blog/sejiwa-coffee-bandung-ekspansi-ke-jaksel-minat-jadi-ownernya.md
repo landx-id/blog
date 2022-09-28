@@ -84,7 +84,7 @@ Sejiwa Coffee menargetkan outlet barunya di kawasan yang tak kalah strategisnya,
 
 ## Ambil Peluang Jadi Owner Kopi Sejiwa!
 
-Itu dia pembahasan tentang Sejiwa Coffee, mulai dari konsep outlet, nilai plus, hingga potensi bisnisnya yang berencana akan ekspansi ke Jakarta Selatan. Saat ini, proyek Sejiwa Coffee sudah tersedia di LandX lho!
+Itu dia pembahasan tentang Sejiwa Coffee, mulai dari konsep outlet, nilai plus, hingga potensi bisnisnya yang berencana akan ekspansi ke Jakarta Selatan. Saat ini, proyek [Sejiwa Coffee sudah tersedia di LandX](https://sejiwa.landx.id/) lho!
 
 Tertarik untuk jadi salah satu owner Sejiwa Coffee hanya dengan modal Rp1 jutaan? Ini saatnya ambil peluangmu!
 
