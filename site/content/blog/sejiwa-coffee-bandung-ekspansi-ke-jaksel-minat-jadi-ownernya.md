@@ -88,7 +88,7 @@ Itu dia pembahasan tentang Sejiwa Coffee, mulai dari konsep outlet, nilai plus, 
 
 Tertarik untuk jadi salah satu owner Sejiwa Coffee hanya dengan modal Rp1 jutaan? Ini saatnya ambil peluangmu!
 
-Caranya mudah! Segera aktivasi akun di LandX App, cari proyek Sejiwa Coffee dengan kode saham SJAW, baca prospektusnya untuk memastikan sudah cocok dengan profil risikomu, lalu tentukan langkahmu selanjutnya untuk checkout sahamnya!
+Caranya mudah! Segera aktivasi akun di LandX App, cari proyek Sejiwa Coffee dengan kode saham SJAW, baca prospektusnya untuk memastikan sudah cocok dengan profil risikomu, lalu tentukan langkahmu selanjutnya untuk checkout lot sahamnya!
 
 LandX adalah platform equity crowdfunding yang mengantongi berizin OJK (Otoritas Jasa Keuangan) sehingga seluruh kegiatan investasimu pasti di bawah pengawasan lembaga Negara resmi.
 
