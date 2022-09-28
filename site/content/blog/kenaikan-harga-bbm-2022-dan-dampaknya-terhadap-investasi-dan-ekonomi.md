@@ -113,9 +113,9 @@ Oleh karena itu, jika kamu memutuskan untuk mencari alternatif investasi bisnis 
 
 LandX adalah platform patungan bisnis di mana kamu dapat ikut berinvestasi di berbagai project bisnis dengan modal yang relatif lebih kecil. Di LandX, kamu dapat memilih berbagai project menarik dari berbagai sektor dengan prospek bisnis yang menjanjikan. Tunggu apalagi? 
 
-<!--StartFragment-->
+## [Download LandX App Sekarang Juga dan Pilih Project Bisnismu!](https://app.landx.id/?utm_source=Organic+Page&utm_medium=Content+Blog&utm_campaign=BlogLandX&utm_id=Blog)
 
-## [Yuk, Kenal Lebih Lanjut Investasi Crowdfunding di Indonesia](https://app.landx.id/?utm_source=Organic+Page&utm_medium=Content+Blog&utm_campaign=BlogLandX&utm_id=Blog)
+<!--StartFragment-->
 
 [![miliki bisnis modal kecil cuma dengan 1 jutaan dapat 4 cabang ](https://accountgram-production.sfo2.cdn.digitaloceanspaces.com/landx_ghost/2021/11/jadi-owner-bisnis-hanya-1-jutaan-dengan-cuan-yang-sangat-menjanjikan.png)](https://app.landx.id/?utm_source=Organic+Page&utm_medium=Content+Blog&utm_campaign=BlogLandX&utm_id=Blog)
 
