@@ -41,9 +41,7 @@ Term loan adalah salah satu jenis pembiayaan jangka menengah dengan biaya modal 
 
 **Perbedaan term loan dan leasing** sendiri dilihat dapat dilihat dari pihak yang memberikan biaya tersebut. Pembiayaan dalam bentuk term loan adalah pinjaman yang diberikan oleh lembaga perbankan, sedangkan untuk leasing diberikan oleh perusahaan pembiayaan. 
 
-Berikut merupakan tabel perbedaan term loan dan leasing.
-
-![term loan adalah](img/term-loan-adalah.png "term loan adalah")
+Berikut merupakan tabel perbedaan term loan dan leasing:![](https://lh6.googleusercontent.com/Q97ZFEPNE4bw4dh0MgVWa8vs6MulIMhI1zN9QXuQRLB-MHxOMrsDeuJBhX4yAtT2rAgKcseidFwszLEWrzKzP6wZVLosqyDwlfKGDBSylaTPdU4Ujd945-0ULwuU6XrVq0I1cnFLYskFrlZfALE13DNjCkBlZ06JBpB5x2vv0ulGsAQm6KewIhg8FQ)
 
 ## Sistem Term Loan
 
