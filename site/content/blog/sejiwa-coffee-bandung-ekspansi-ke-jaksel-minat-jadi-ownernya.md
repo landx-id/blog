@@ -103,7 +103,7 @@ Sejiwa Coffee menargetkan outlet barunya di kawasan yang tak kalah strategisnya,
 
 ## Ambil Peluang Jadi Owner Kopi Sejiwa!
 
-Itu dia pembahasan tentang Sejiwa Coffee, mulai dari konsep outlet, nilai plus, hingga potensi bisnisnya yang berencana akan ekspansi ke Jakarta Selatan. Saat ini, proyek [Sejiwa Coffee sudah tersedia di LandX](https://sejiwa.landx.id/) lho!
+Itu dia pembahasan tentang Sejiwa Coffee, mulai dari konsep outlet, nilai plus, hingga potensi bisnisnya yang berencana akan ekspansi ke Jakarta Selatan. Saat ini, proyek [Sejiwa Coffee sudah tersedia di LandX](https://app.landx.id/?utm_source=Content+Listing&utm_medium=Content+Blog&utm_campaign=BlogLandX&utm_id=Blog) lho!
 
 Tertarik untuk jadi salah satu owner Sejiwa Coffee hanya dengan modal Rp1 jutaan? Ini saatnya ambil peluangmu!
 
@@ -113,7 +113,7 @@ LandX adalah platform equity crowdfunding yang mengantongi izin OJK (Otoritas Ja
 
 Tunggu apa lagi? 
 
-## [Cek Prospektus SJAW dan Mulai Berinvestasi Bersama LandX!](https://app.landx.id/?utm_source=Organic+Page&utm_medium=Content+Blog&utm_campaign=BlogLandX&utm_id=Blog)
+## [Cek Prospektus SJAW dan Mulai Berinvestasi Bersama LandX!](https://app.landx.id/?utm_source=Content+Listing&utm_medium=Content+Blog&utm_campaign=BlogLandX&utm_id=Blog)
 
 <!--StartFragment-->
 
