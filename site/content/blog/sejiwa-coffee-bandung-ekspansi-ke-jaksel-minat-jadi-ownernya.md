@@ -13,6 +13,9 @@ tag:
   - Bisnis Kopi
   - Franchise Kopi
   - Sejiwa Coffee
+category:
+  - Bisnis
+  - Investasi
 featuredImage:
   src: https://thumbor.landx.id/unsafe/590x393/https://landx.id/images/SJAW/5.webp
   alt: "Proyek LandX Sejiwa Coffee Bandung "
@@ -29,6 +32,12 @@ Yuk kupas tuntas dulu Sejiwa Coffee Bandung hingga potensi bisnisnya lewat artik
 ## Daya Tarik Terbaik dari Sejiwa Kopi Bandung
 
 Telah berdiri sejak tahun 2016, Sejiwa Coffee membuktikan bahwa bisnis F&B bisa punya resistensi optimal meski punya banyak saingan dan diterjang badai pandemi. Bukan tanpa alasan, kesuksesan Sejiwa Coffee tidak lepas dari nilai plus bisnis yang dimiliki. Ini dia daya tarik yang dimiliki Sejiwa Coffee.
+
+<!--StartFragment-->
+
+![](https://cdn.discordapp.com/attachments/913743599844343808/1024953405870972928/308771892_181550451030195_2376294983489691718_n.jpg)
+
+<!--EndFragment-->
 
 ### 1. Mengedepankan Kualitas Terbaik
 
@@ -84,6 +93,12 @@ Untuk harga menu minuman Sejiwa Coffee sendiri dipatok di kisaran Rp18.000 - Rp6
 
 Jika sebelumnya wisatawan hanya punya pilihan Sejiwa Coffee terdekat di Bandung, rencana ekspansi ini menjadi kabar baik. Rencananya, Sejiwa Coffee akan ekspansi ke Ibu Kota Jakarta dengan berkolaborasi bersama LandX untuk menggandeng para investor untuk turut andil dalam pendanaan bisnis ini.
 
+<!--StartFragment-->
+
+![](https://cdn.discordapp.com/attachments/913743599844343808/1024954174594629692/308710584_460583769423114_7189497162711048928_n_1.jpg)
+
+<!--EndFragment-->
+
 Sejiwa Coffee menargetkan outlet barunya di kawasan yang tak kalah strategisnya, yaitu Jl. Adityawarman, Melawai, Jakarta Selatan. Target lokasi baru ini terkenal sebagai kawasan yang dekat dengan wisata hits urban, kuliner, fashion, dan otomotif yaitu Blok M.
 
 ## Ambil Peluang Jadi Owner Kopi Sejiwa!
@@ -99,5 +114,9 @@ LandX adalah platform equity crowdfunding yang mengantongi izin OJK (Otoritas Ja
 Tunggu apa lagi? 
 
 ## [Cek Prospektus SJAW dan Mulai Berinvestasi Bersama LandX!](https://app.landx.id/?utm_source=Organic+Page&utm_medium=Content+Blog&utm_campaign=BlogLandX&utm_id=Blog)
+
+<!--StartFragment-->
+
+![](https://cdn.discordapp.com/attachments/913743599844343808/1024948935447564328/308635915_644521063702602_1523764149725151463_n.jpg)
 
 <!--EndFragment-->
