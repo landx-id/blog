@@ -97,7 +97,9 @@ Seperti pembahasan sebelumnya, instrumen safe haven sebaiknya disertai dengan as
 
 Berbarengan dengan inovasi tersebut, muncul instrumen investasi yang lebih beragam. Tidak hanya identik dengan aset konvensional seperti emas, obligasi, dan properti, saat ini hadir juga instrumen saham milik UMKM potensial lewat skema equity crowdfunding. 
 
-[Equity crowdfunding](https://landx.id/) pada dasarnya adalah penerbitan efek berupa saham yang ditawarkan kepada investor guna pendanaan bersama dalam pengembangan bisnis UMKM. Keuntungan dari skema ini adalah modal yang terbilang kecil. Selain itu, investor juga punya potensi mendapatkan return dalam bentuk dividen rutin sesuai dengan angka persentase yang ditawarkan oleh perusahaan UMKM yang menerbitkan saham publik lewat platform equity crowdfunding.
+[Equity crowdfunding](https://landx.id/) pada dasarnya adalah penerbitan efek berupa saham yang ditawarkan kepada investor guna pendanaan bersama dalam pengembangan bisnis UMKM. Keuntungan dari skema ini adalah modal yang terbilang kecil. 
+
+Selain itu, investor juga punya potensi mendapatkan return dalam bentuk dividen rutin sesuai dengan angka persentase yang ditawarkan oleh perusahaan UMKM yang menerbitkan saham publik lewat platform equity crowdfunding.
 
 Salah satu platform skema tersebut adalah LandX yang memiliki market cap terbesar, berizin OJK (Otoritas Jasa Keuangan), dan berpengalaman sejak 2019. LandX telah dipercayai sebagai platform investasi oleh 88.254 investor terdaftar dan telah menerbitkan 44 proyek pendanaan bisnis UMKM.
 
