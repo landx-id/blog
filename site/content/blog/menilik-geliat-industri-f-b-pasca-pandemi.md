@@ -1,5 +1,5 @@
 ---
-draft: false
+draft: true
 author: Vlora Riyandi
 title: Menilik Geliat Industri F&B Pasca Pandemi
 metaTitle: Menilik Geliat Industri F&B Pasca Pandemi
