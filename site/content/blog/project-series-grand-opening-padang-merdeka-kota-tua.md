@@ -18,7 +18,7 @@ featuredImage:
 
 Yuk lihat keseruannya yang dibuka dengan tari tradisional!
 
-video
+{{< youtube id="kGehQgpnIF4" >}}
 
 ## Tentang Restoran Padang Merdeka
 
