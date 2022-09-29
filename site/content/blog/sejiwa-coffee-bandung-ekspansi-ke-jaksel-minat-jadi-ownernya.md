@@ -9,8 +9,12 @@ intro: Sejiwa Coffee Bandung hits di kalangan pecinta kopi dan kuliner, dari
   rakyat hingga pejabat siap ekspasi ke kawasan hits Jakarta Selatan! Yuk kupas
   tuntas prospek bisnisnya!
 date: 2022-09-28T03:49:37.557Z
+tag:
+  - Bisnis Kopi
+  - Franchise Kopi
+  - Sejiwa Coffee
 featuredImage:
-  src: https://cdn.discordapp.com/attachments/977943413909487668/1024528953190404127/unknown.png
+  src: https://thumbor.landx.id/unsafe/590x393/https://landx.id/images/SJAW/5.webp
   alt: "Proyek LandX Sejiwa Coffee Bandung "
   title: "Proyek LandX Sejiwa Coffee Bandung "
 ---
