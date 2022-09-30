@@ -1,5 +1,5 @@
 ---
-draft: true
+draft: false
 author: Vlora Riyandi
 title: "[INFOGRAFIK] Menilik Geliat Industri F&B Pasca Pandemi"
 metaTitle: "[INFOGRAFIK] Menilik Geliat Industri F&B Pasca Pandemi - LandX"
