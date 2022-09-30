@@ -14,7 +14,7 @@ featuredImage:
   alt: data industri makanan dan minuman 2022
   title: data industri fnb
 ---
-![](https://lh5.googleusercontent.com/HRfjrajl5wlci60Re_d72XHOmTZsNnU0PAD4iGnjPJN9rKsal9eCNv569k6NZJaShEZgC5X_QUM-sQ9xwuZ_guSKlhhUNuiMVDQHRiNNsBW4d-K-YxobHkhja-zh_XJ0WgvbMU_1FYpSWdDEOnQ5uAme28lY5YbCIdK5AJuUBW87Ov6_tCxfazD9Mw)![](https://lh4.googleusercontent.com/kIoDK-NQki_ySyL1sxWaJOSqw_1ehQsRzUKm8nsFi8JBNJK_p5JMEDSpJz1ZswXlAG7AjP6KI8L4qyyFTeg0qKPjIBjzTvqq81sEQ_ne58Ae6zE5u48QGICCWkRwuqRHWtYXSd6lD7DjeL6tE9sZY0DBpwc8yWiF6M3foJZzZk5jKbQ-9x6EQM_BCw "data industri fnb indonesia")
+![](https://lh5.googleusercontent.com/HRfjrajl5wlci60Re_d72XHOmTZsNnU0PAD4iGnjPJN9rKsal9eCNv569k6NZJaShEZgC5X_QUM-sQ9xwuZ_guSKlhhUNuiMVDQHRiNNsBW4d-K-YxobHkhja-zh_XJ0WgvbMU_1FYpSWdDEOnQ5uAme28lY5YbCIdK5AJuUBW87Ov6_tCxfazD9Mw)![](https://cdn.discordapp.com/attachments/976309038067367996/1025268938927521822/LandX_Infografis_Geliat-Industri-F_B.png "data industri fnb indonesia")
 
 Hembusan angin segar datang dari industri yang sempat terpuruk di tahun 2020. Tahun kasus pandemi Covid-19 di Indonesia pertama kali muncul dan menyebabkan pengereman di segala aktivitas masyarakat, termasuk aktivitas bisnis makanan dan minuman. Kegiatan bisnis semakin terhambat karena kewajiban mematuhi kebijakan preventif penyebaran kasus dengan ‘di rumah aja’. 
 
