@@ -189,8 +189,12 @@ Selain mendapat keuntungan, kamu juga merupakan salah satu bagian dari pemegang 
 
 Oiya, kamu juga tidak perlu khawatir investasi di LandX ya. Karena LandX telah mengantongi izin dari OJK, jadi lebih terjamin keamanannya.
 
-[Y﻿uk Mulai Siapkan Investasi Jangka Panjang Anda Sekarang](https://app.landx.id/?utm_source=BLOGCONTENT&utm_medium=SEO&utm_campaign=SEO&utm_id=BLOGLANDX)
+<!--StartFragment-->
+
+## **[Bangun Personal Finance yang Aman, Yuk Investasi di LandX Sekarang Juga!](https://app.landx.id/?utm_source=BLOGCONTENT&utm_medium=SEO&utm_campaign=SEO&utm_id=BLOGLANDX)**
 
 [![miliki bisnis modal kecil cuma dengan 1 jutaan dapat 4 cabang ](https://accountgram-production.sfo2.cdn.digitaloceanspaces.com/landx_ghost/2021/11/jadi-owner-bisnis-hanya-1-jutaan-dengan-cuan-yang-sangat-menjanjikan.png)](https://app.landx.id/?utm_source=BLOGCONTENT&utm_medium=SEO&utm_campaign=SEO&utm_id=BLOGLANDX)
+
+<!--EndFragment-->
 
 <!--EndFragment-->
