@@ -9,6 +9,11 @@ intro: Apa itu BI Fast? BI Fast adalah layanan transfer antar bank yang dapat
   dilakukan kapan saja dan dengan biaya admin yang jauh lebih murah, yaitu
   Rp2.500, saja. Simak juga perbedaan transfer online dan BI fast!
 date: 2022-09-20T07:10:53.988Z
+tag:
+  - Lembaga Keuangan
+  - Lembaga Pembiayaan
+category:
+  - Keuangan
 featuredImage:
   src: https://img.freepik.com/free-photo/internet-banking-online-payment-technology-concept_53876-121206.jpg?w=740&t=st=1663657896~exp=1663658496~hmac=a6b010fb52cb6ef117c0710c1f8b5d523f8f79a45dad5c0b7f8eb511eb166eee
   alt: Apa itu metode transfer BI fast dan perbedaan real time online
