@@ -69,8 +69,6 @@ Moka Capital telah berdiri sejak tahun 2014 dan telah membantu puluhan ribu bisn
 
 ![](https://cdn.discordapp.com/attachments/977943413909487668/1027411520688246854/-_3.png)
 
-
-
 Melalui Moka Capital, merchant Moka yang telah memenuhi syarat dapat mengajukan pendanaan bagi bisnisnya dengan praktis dan caranya yang lebih mudah dibanding memperoleh dana dari lembaga konvensional.
 
 Dalam proses pendanaan, Moka sendiri telah bekerja sama dengan Lender yang akan memfasilitasi kredit atau pendanaan di mana mekanisme pengembalian dananya dilakukan secara bertahap atau dibayarkan sekaligus (Term Loan) . 
@@ -96,5 +94,9 @@ Apalagi saat ini adanya kolaborasi Moka Capital dan LandX yang akan menambah leb
 Jadi tunggu apa lagi? Segera danai bisnis berpotensi dan nikmati hasilnya di kemudian hari!
 
 ## [Download Aplikasi LandX  dan Danai Bisnis UMKM Berpotensi Untung Sekarang Juga!](https://app.landx.id/?utm_source=Organic+Page&utm_medium=Content+Blog&utm_campaign=BlogLandX&utm_id=Blog)
+
+<!--StartFragment-->
+
+[![miliki bisnis modal kecil cuma dengan 1 jutaan dapat 4 cabang ](https://accountgram-production.sfo2.cdn.digitaloceanspaces.com/landx_ghost/2021/11/jadi-owner-bisnis-hanya-1-jutaan-dengan-cuan-yang-sangat-menjanjikan.png)](https://app.landx.id/?utm_source=BLOGCONTENT&utm_medium=SEO&utm_campaign=SEO&utm_id=BLOGLANDX)
 
 <!--EndFragment-->
