@@ -68,8 +68,10 @@ Terjadinya inflasi tinggi membuat perusahaan melakukan **strategi untuk mengenda
 
 Salah satunya, Edgar Dworsky seorang pengacara hak konsumen di Amerika Serikat, menyatakan bahwa sekiranya ada **tiga cara bisnis menghadapi inflasi** diantaranya:
 
-1. Menaikan harga produk
+1. Menaikan harga produk 
+
 2. Mengurangi ukuran produk
+
 3. Membuat ulang produk dengan bahan yang lebih murah
 
 Untuk menjaga daya beli konsumen, banyak perusahaan memilih untuk mengurangi volume atau ukuran produk atau memilih opsi kedua. Bagaimana pun perusahaan ingin menjaga minat konsumen dan menjaga produk mereka untuk tetap eksis dalam pasar. 
