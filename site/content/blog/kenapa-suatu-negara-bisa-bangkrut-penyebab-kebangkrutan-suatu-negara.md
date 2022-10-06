@@ -123,11 +123,9 @@ Jika gelombang eksodus terjadi secara besar-besaran, nantinya negara yang bangkr
 
 <!--StartFragment-->
 
-![](https://cdn.discordapp.com/attachments/913743599844343808/1024590224413704252/-_Slide_4_4.jpg)
+![Memahami Kenapa Suatu Negara Mengalami Kebangkrutan](https://cdn.discordapp.com/attachments/913743599844343808/1024590224413704252/-_Slide_4_4.jpg "Memahami penyebab suatu negara mengalami kebangkrutan")
 
 <!--EndFragment-->
-
-
 
 Kenapa Sri Lanka bisa bangkrut? Sebelum Sri Lanka bangkrut, terdapat lima negara yang telah mengalami kebangkrutan di dunia, yaitu Yunani, Argentina, Rusia, Meksiko,dan Islandia.
 
@@ -183,10 +181,10 @@ Semua bisnis ini sangat berpotensi dan bisa memberimu keuntungan untuk jangka pa
 
 Jadi, tunggu apa lagi? Download Aplikasi LandX dan mulai pendanaan untuk proyek-proyek potensial!
 
-## [Wujudkan Financial Freedom dengan Investasi di LandX Sekarang Juga!](https://app.landx.id/?utm_source=Organic+Page&utm_medium=Content+Blog&utm_campaign=BlogLandX&utm_id=Blog)
+## [Wujudkan Financial Freedom dengan Investasi di LandX Sekarang Juga!](https://app.landx.id/?utm_source=Content+Listing&utm_medium=Content+Blog&utm_campaign=BlogLandX&utm_id=Blog)
 
 <!--StartFragment-->
 
-[![miliki bisnis modal kecil cuma dengan 1 jutaan dapat 4 cabang ](https://accountgram-production.sfo2.cdn.digitaloceanspaces.com/landx_ghost/2021/11/jadi-owner-bisnis-hanya-1-jutaan-dengan-cuan-yang-sangat-menjanjikan.png)](https://app.landx.id/?utm_source=Organic+Page&utm_medium=Content+Blog&utm_campaign=BlogLandX&utm_id=Blog)
+[![miliki bisnis modal kecil cuma dengan 1 jutaan dapat 4 cabang ](https://accountgram-production.sfo2.cdn.digitaloceanspaces.com/landx_ghost/2021/11/jadi-owner-bisnis-hanya-1-jutaan-dengan-cuan-yang-sangat-menjanjikan.png)](https://app.landx.id/?utm_source=Content+Listing&utm_medium=Content+Blog&utm_campaign=BlogLandX&utm_id=Blog)
 
 <!--EndFragment-->
