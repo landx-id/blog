@@ -10,6 +10,14 @@ intro: Per Agustus lalu, suku bunga acuan BI sebesar 3,75%. Kenaikan suku bunga
   ditetapkan pada Rapat Dewan Gubernur BI pada 21-22 September 2022 untuk
   menaikkan suku bunga acuan BI 7-DRR menjadi 4,25%.
 date: 2022-09-28T09:49:17.678Z
+tag:
+  - Suku Bunga
+  - Analisis Investasi
+  - Investasi Jangka Panjang
+  - Laju Inflasi
+category:
+  - Investasi
+  - Keuangan
 featuredImage:
   title: Suku Bunga Indonesia Naik Menjadi 4,25% Simak Dampaknya!
   alt: Suku Bunga Indonesia Naik Menjadi 4,25% Simak Dampaknya!
@@ -41,7 +49,7 @@ Kebijakan moneter The Fed dapat memengaruhi kenaikan suku bunga acuan di Indones
 
 Para investor perlu juga mengetahui arah kebijakan dari The Fed. Pasalnya kegiatan ekonomi dari berbagai negara, maupun Indonesia sendiri, kebijakan yang ditetapkan The Fed akan memengaruhi perekonomian negara-negara lain di seluruh dunia dikarenakan banyak faktor yang memengaruhi kondisi pasar, ekonomi dunia dan lain-lain dari kebijakan yang dikeluarkan oleh The Fed.
 
-## Dampak Kenaikan Suku Bank Indonesia 
+## Dampak Kenaikan Suku Bank Indonesia
 
 Melihat sikap agresif yang dilakukan The Fed untuk menekankan inflasi, tindakan yang dilakukan Bank Indonesia dalam menaikan suku bunga masih dalam perkiraan bertahap dan cenderung aman untuk pertumbuhan ekonomi di Indonesia. 
 
@@ -71,4 +79,8 @@ Investasi dapat menjadi tindakan untuk menghindari dan menghadapi dampak inflasi
 
 Melalui skema ini, kamu tidak perlu mencari ide bisnis, mengurus kelangsungan operasional, atau membangun strategi bisnis dan marketing. Jadi, kamu bisa memantau performa dari bisnis yang kamu danai dan mendapatkan keuntungan berupa dividen sesuai dengan performa bisnis tadi.
 
-## [Yuk Mulai Investasi Bisnis Potensial!](https://app.landx.id/?utm_source=Organic+Page&utm_medium=Content+Blog&utm_campaign=BlogLandX&utm_id=Blog)
+## [Yuk Mulai Investasi Sekarang!!!](https://app.landx.id/?utm_source=BLOGCONTENT&utm_medium=SEO&utm_campaign=SEO&utm_id=BLOGLANDX)
+
+[![miliki bisnis modal kecil cuma dengan 1 jutaan dapat 4 cabang ](https://accountgram-production.sfo2.cdn.digitaloceanspaces.com/landx_ghost/2021/11/jadi-owner-bisnis-hanya-1-jutaan-dengan-cuan-yang-sangat-menjanjikan.png)](https://app.landx.id/?utm_source=BLOGCONTENT&utm_medium=SEO&utm_campaign=SEO&utm_id=BLOGLANDX)
+
+<!--EndFragment-->
