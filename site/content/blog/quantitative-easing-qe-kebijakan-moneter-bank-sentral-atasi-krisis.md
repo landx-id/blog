@@ -3,12 +3,12 @@ draft: false
 author: Vlora Riyandi
 title: "Quantitative Easing (QE): Kebijakan Moneter Bank Sentral Atasi Krisis"
 metaTitle: "Quantitative Easing (QE): Kebijakan Moneter Bank Sentral Atasi Krisis"
-metaDescription: Qualitative easing adalah kebijakan untuk mendukung
+metaDescription: Quantitative easing adalah kebijakan untuk mendukung
   perekonomian negara yang sedang dilanda krisis melalui peningkatan jumlah uang
   beredar.
-intro: Qualitative easing adalah kebijakan untuk mendukung perekonomian negara
+intro: Quantitative easing adalah kebijakan untuk mendukung perekonomian negara
   yang sedang dilanda krisis melalui peningkatan jumlah uang beredar. Bagaimana
-  cara qualititative easing dan dampaknya? Yuk cari tahu lebih lanjut!
+  cara quantitative easing dan dampaknya? Yuk cari tahu lebih lanjut!
 date: 2022-10-04T15:18:52.411Z
 featuredImage:
   alt: Quantitative Easing adalah
@@ -27,7 +27,7 @@ Bagaimana cara quantitative easing dan penerapannya di Indonesia? Serta apa beda
 
 Apabila terjadi krisis ekonomi di suatu negara maka masyarakatnya cenderung akan menahan pengeluaran yang berdampak pada tingkat konsumsi masyarakat rendah. Rendahnya tingkat konsumsi masyarakat dapat menyebabkan kesulitan bagi perekonomian nasional karena perputaran uang pada berbagai usaha dan investasi rendah, masyarakat lebih memilih menyimpan uangnya.
 
-Sehingga untuk menstimulasi tingkat konsumsi masyarakat di saat terjadi krisis ekonomi, pemerintah akan mengeluarkan kebijakan yang memberi kelonggaran pada masyarakat melalui kebijakan moneter konvensional dan non-konvensional melalui qualitative easing. 
+Sehingga untuk menstimulasi tingkat konsumsi masyarakat di saat terjadi krisis ekonomi, pemerintah akan mengeluarkan kebijakan yang memberi kelonggaran pada masyarakat melalui kebijakan moneter konvensional dan non-konvensional melalui quantitative easing. 
 
 **Quantitative easing** atau qe adalah kebijakan moneter bank sentral untuk meningkatkan uang beredar dengan cara membeli surat berharga dari pasar atau membeli aset dari bank komersial atau instansi swasta. 
 
@@ -97,7 +97,7 @@ Banyaknya jumlah uang beredar dapat mendevaluasi mata uang domestik. Hal ini dap
 
 * ### Membantu Pemulihan Ekonomi Negara Jika Efektif
 
-Qualitative easing adalah kebijakan untuk mendukung perekonomian negara yang sedang dilanda krisis melalui peningkatan jumlah uang beredar. Meningkatnya jumlah uang beredar diharapkan dapat menstimulasi kegiatan perekonomian seperti meningkatnya likuiditas perbankan hingga daya beli masyarakat sehingga roda ekonomi terus berjalan.
+Quantitative easing adalah kebijakan untuk mendukung perekonomian negara yang sedang dilanda krisis melalui peningkatan jumlah uang beredar. Meningkatnya jumlah uang beredar diharapkan dapat menstimulasi kegiatan perekonomian seperti meningkatnya likuiditas perbankan hingga daya beli masyarakat sehingga roda ekonomi terus berjalan.
 
 Berbagai lembaga dan pemerintah selalu berusaha menjaga perekonomian Indonesia, menjadi bagian antisipasi agar tidak jatuh terlalu dalam pada resesi yang akan datang. Banyak pakar telah mengatakan resesi sudah dipastikan akan datang, bahkan telah terasa kehadirannya.
 
