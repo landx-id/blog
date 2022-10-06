@@ -99,7 +99,3 @@ Sekarang, kamu bisa menjadi investor dengan modal Rp1 juta untuk memiliki saham 
 [LandX](https://landx.id/) merupakan platform equity crowdfunding yang mempertemukan para pebisnis yang tengah mengembangkan bisnisnya dengan investor yang tertarik mengenai bisnis tersebut. Investasi dengan skema equity crowdfunding dilakukan secara kolektif, sehingga kamu bisa menjadi investor dengan modal minim.
 
 #### [Yuk, Jadi Pemilik Bisnis Kopi Kekinian Cuma Modal Rp1 Juta!](https://app.landx.id/?utm_source=Organic+Page&utm_medium=Content+Blog&utm_campaign=BlogLandX&utm_id=Blog)
-
-## [!](https://app.landx.id/?utm_source=Organic+Page&utm_medium=Content+Blog&utm_campaign=BlogLandX&utm_id=Blog)
-
-<!--EndFragment-->
