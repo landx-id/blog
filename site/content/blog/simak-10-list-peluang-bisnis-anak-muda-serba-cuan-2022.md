@@ -70,9 +70,13 @@ Tren WFH (work from home) yang masih diterapkan banyak  perusahaan membuat seseo
 
 Kamu dapat memanfaatkan peluang bisnis ini dengan menjual tanaman hias serta menawarkan bibit tanaman dan juga jasa merangkai bunga. Saat ini, bisnis merangkai bunga menjadi bisnis yang menarik bahkan seru untuk dilakukan. Dalam menjalankan bisnis anak muda yaitu merangkai bunga, diperlukan keahlian dalam merangkai dan mengerti variasi bunga yang bisa dijadikan rangkaian bunga menjadi cantik. 
 
-### 7. Bisnis Salon Kecantikan
+### 7. Bisnis Lash Lift
 
-Perawatan tubuh saat ini bisa menjadi peluang usaha yang menguntungkan, meskipun perlu mengeluarkan modal yang cukup besar. Perawatan rambut, kulit, sampai pijat memijat masih cukup diminati untuk siapapun sampai anak muda. Memiliki tubuh yang sehat serta penampilan yang cantik sangat erat dengan budaya saat ini. Standar kecantikan yang kerap kali dikonstruksi media, dibutuhkan perawatan yang baik supaya awet muda. Dengan demikian, salon kecantikan cukup berpeluang menjadi ide usaha anak muda saat ini, perlu keahlian khusus dan menggunakan bahan-bahan yang aman untuk kulit pelanggan.
+Saat ini, untuk memiliki penampilan ideal dibutuhkan perawatan tubuh yang sempurna. Salah satunya dengan menunjang tampilan mata. Pada dasarnya, bulu mata orang Indonesia berbeda-beda. Standar kecantikan yang terus dikonstruksi oleh media dan masyarakat itu sendiri, akhirnya berbagai cara dilakukan untuk menyempurnakan bulu mata dengan teknik lash lifting. Bisnis ini cukup mudah, kamu perlu melakukan pelatihan yang disesuaikan kemampuan sampai mahir untuk mendapatkan sertifikat dari studio kecantikan. Kemudian, kamu bisa mulai menawarkan jasa kamu ke teman-teman kamu dan melalui sosial media. Bisnis ini bisa dijadikan bisnis sampingan juga dan bisnis utama karena sangat fleksibel.
+
+
+
+<!--EndFragment-->
 
 ### 8. Bisnis App Developer
 
