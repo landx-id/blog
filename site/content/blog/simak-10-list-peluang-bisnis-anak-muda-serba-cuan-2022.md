@@ -72,11 +72,9 @@ Kamu dapat memanfaatkan peluang bisnis ini dengan menjual tanaman hias serta men
 
 ### 7. Bisnis Lash Lift
 
-Saat ini, untuk memiliki penampilan ideal dibutuhkan perawatan tubuh yang sempurna. Salah satunya dengan menunjang tampilan mata. Pada dasarnya, bulu mata orang Indonesia berbeda-beda. Standar kecantikan yang terus dikonstruksi oleh media dan masyarakat itu sendiri, akhirnya berbagai cara dilakukan untuk menyempurnakan bulu mata dengan teknik lash lifting. Bisnis ini cukup mudah, kamu perlu melakukan pelatihan yang disesuaikan kemampuan sampai mahir untuk mendapatkan sertifikat dari studio kecantikan. Kemudian, kamu bisa mulai menawarkan jasa kamu ke teman-teman kamu dan melalui sosial media. Bisnis ini bisa dijadikan bisnis sampingan juga dan bisnis utama karena sangat fleksibel.
+Saat ini, untuk memiliki penampilan ideal dibutuhkan perawatan tubuh yang sempurna. Salah satunya dengan menunjang tampilan mata. Pada dasarnya, bulu mata orang Indonesia berbeda-beda. Standar kecantikan yang terus dikonstruksi oleh media dan masyarakat itu sendiri, akhirnya berbagai cara dilakukan untuk menyempurnakan bulu mata dengan teknik lash lifting. 
 
-
-
-<!--EndFragment-->
+Bisnis ini cukup mudah, kamu perlu melakukan pelatihan yang disesuaikan kemampuan sampai mahir untuk mendapatkan sertifikat dari studio kecantikan. Kemudian, kamu bisa mulai menawarkan jasa kamu ke teman-teman kamu dan melalui sosial media. Bisnis ini bisa dijadikan bisnis sampingan juga dan bisnis utama karena sangat fleksibel.
 
 ### 8. Bisnis App Developer
 
