@@ -11,6 +11,16 @@ intro: "Evaluasi keuangan merupakan salah satu hal yang paling penting dan
   akhir bulan atau akhir tahun untuk mengetahui seberapa baik dan cermat
   pengelolaan uang yang kita lakukan. "
 date: 2022-09-26T07:18:08.518Z
+tag:
+  - Tips Keuangan
+  - Mengatur Keuangan
+  - Pengelolaan Keuangan
+  - Perencanaan Keuangan
+  - Mengelola Keuangan
+  - Analisis Keuangan
+category:
+  - Investasi
+  - Keuangan
 featuredImage:
   src: https://images.unsplash.com/photo-1632406897798-e5472b4a989e?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80
   alt: Cara Melakukan Evaluasi Keuangan
@@ -64,8 +74,6 @@ Sebagaimana yang sudah disinggung di awal, salah satu langkah penting dalam mela
 6. membuat perencanaan anggaran yang kurang realistis; dan
 7. tidak mengestimasi dana cadangan.
 
-
-
 ### 2. Membuat Perencanaan Keuangan Berdasarkan Analisis yang Telah Dilakukan
 
 Setelah kamu selesai melakukan analisis, kamu mungkin akan menemukan salah satu dari beberapa kebiasan di atas. Selanjutnya, kamu bisa melakukan tindakan-tindakan yang bertujuan untuk mengeliminasi kebiasan kurang baik tersebut dari catatan kamu.
@@ -104,8 +112,10 @@ LandX merupakan salah satu lembaga investasi yang telah terdaftar dan diawasi ol
 
 Investasi jadi lebih bijak bersama LandX! 
 
-## [Download LandX App Sekarang Juga dan Pilih Project Bisnismu!](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)
+## [Download LandX App Sekarang Juga dan Pilih Project Bisnismu!](https://app.landx.id/?utm_source=Organic+Page&utm_medium=Content+Blog&utm_campaign=BlogLandX&utm_id=Blog)
 
+<!--StartFragment-->
 
+[![miliki bisnis modal kecil cuma dengan 1 jutaan dapat 4 cabang ](https://accountgram-production.sfo2.cdn.digitaloceanspaces.com/landx_ghost/2021/11/jadi-owner-bisnis-hanya-1-jutaan-dengan-cuan-yang-sangat-menjanjikan.png)](https://app.landx.id/?utm_source=Organic+Page&utm_medium=Content+Blog&utm_campaign=BlogLandX&utm_id=Blog)
 
 <!--EndFragment-->
