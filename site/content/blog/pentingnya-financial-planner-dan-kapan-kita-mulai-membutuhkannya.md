@@ -11,6 +11,14 @@ intro: Berbarengan dengan tren kesadaran finansial dan investasi, terutama di
   financial planner dan apakah sama dengan pekerjaan financial advisor’? Kita
   akan coba bedah satu per satu.
 date: 2022-09-26T11:59:24.236Z
+tag:
+  - Mengatur Keuangan
+  - Tips Keuangan
+  - Pengelolaan Keuangan
+  - Perencanaan Keuangan
+category:
+  - Investasi
+  - Keuangan
 featuredImage:
   src: https://images.unsplash.com/photo-1454165804606-c3d57bc86b40?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80
   alt: Memahami apa itu financial planner dan tugasnya
