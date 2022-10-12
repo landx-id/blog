@@ -34,7 +34,7 @@
   display: flex;
   flex-direction: row;
   align-items: center;
-  justify-content: space-between;
+  justify-content: flex-end;
   max-width: 50%;
   flex: 0 0 50%;
   position: relative;
@@ -45,6 +45,10 @@
   margin-right: -15px;
   margin-left: -15px;
   /* gap: 30px; */
+}
+
+.lx-header-right a {
+  margin-left: 35px;
 }
 
 .lx-logo {
@@ -136,7 +140,7 @@
   align-items: stretch;
   background-color: white;
   padding: 0px;
-  box-shadow: 0px 6px 6px 0px #d5d5d566;  
+  box-shadow: 0px 6px 6px 0px #d5d5d566;
   font-family: roboto, sans-serif !important;
   z-index: 2;
 
@@ -190,20 +194,17 @@
   background-color: #5e798d10;
 }
 
-
 /* SUB HEADER (CATEGORY) */
 .category-section {
   position: fixed;
   top: 88px;
-  left: 0px;
   width: 100vw;
   color: #5e798d;
   display: flex;
-  align-items: flex-end;
   justify-content: center;
   background-color: white;
   border-top: 1px solid #ccd7df;
-  box-shadow: 0px 6px 6px 0px #d5d5d566;  
+  box-shadow: 0px 6px 6px 0px #d5d5d566;
   font-family: roboto, sans-serif !important;
   font-size: 0.7rem;
   z-index: 2;
@@ -216,11 +217,13 @@
   display: flex;
   flex-direction: row;
   align-items: center;
-  justify-content: flex-end;
   gap: 24px;
-  padding: 12px 12px 12px 12px;
   cursor: pointer;
   text-decoration: none;
+}
+
+.category-section a {
+  font-weight: bold;
 }
 
 .category-section a:hover {
@@ -231,7 +234,6 @@
   font-size: 0.9rem;
   color: #384853;
 }
-
 
 @media (min-width: 1200px) {
   .lx-header-container .main-container {

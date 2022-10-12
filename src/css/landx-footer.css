@@ -1,112 +1,40 @@
-.divider-footer {
-  height: 1px;
-  background-color: #ccd7df;
-  width: 100%;
-  max-width: calc(1140px - 30px);
-  margin: 2rem auto;
-}
-
 .lx-footer-container {
   font-family: roboto, sans-serif !important;
-  background-color: #fff;
+  background-color: #000;
   display: flex;
+  flex-direction: column;
   justify-content: center;
-  padding-bottom: 48px;
-  /* height: 377.19px; */
+  align-items: center;
+  padding: 48px 0;
+  color: white;
+  font-size: 14px !important;
 }
 
 .lx-footer-main {
-  flex-direction: row;
-  display: flex;
-  justify-content: flex-start;
-  align-items: flex-start;
   width: 100%;
   max-width: 1140px;
-  color: #5e798d !important;
-  /* padding-top: 2rem; */
-  flex-wrap: wrap;
 }
 
-.lx-footer-main .section-1,
-.lx-footer-main .section-2 {
-  padding: 0px 15px;
-  width: 285px;
+.lx-footer-container .section-divider {
+  width: 100%;
+  border-width: 0px 0px thin;
+  border-style: solid;
+  border-color: rgba(0, 0, 0, 0.12);
+  background-color: #343a40;
 }
 
-.section-1,
-.section-2,
-.section-3 {
-  display: flex;
-  flex-direction: column;
-  align-items: flex-start;
-  justify-content: flex-start;
+.lx-footer-container .disclaimer-section p {
+  max-width: unset;
+  font-weight: 400;
+  font-size: 10px;
+  line-height: 16px;
+  color: #adb5bd;
 }
 
-.section-1,
-.section-2 {
-  margin-top: 8px;
-}
-
-.section-1 a,
-.section-2 a,
-.section-2 div,
-.section-3 .copyright {
-  cursor: pointer;
-  display: block;
-  padding: 8px 0px 4px 0px;
-  font-size: 16px;
-  color: #5e798d !important;
-  border-bottom: 2px solid transparent;
-  text-decoration: none;
-}
-
-.section-1 a:hover,
-.section-2 a:hover {
-  color: var(--primary) !important;
-}
-
-.section-1 a:hover + .border-bot,
-.section-2 a:hover + .border-bot {
-  background-color: var(--primary);
-}
-
-.border-bot {
-  width: 32px;
-  height: 2px;
-  background-color: transparent;
-}
-
-.section-1 a,
-.section-2 div {
+.lx-footer-container .disclaimer-section .header {
   font-weight: 700;
-}
-
-.section-2 div {
-  margin-bottom: 8px;
-}
-
-.section-3 .copyright {
-  padding-top: 48px;
-  padding-bottom: 0px;
-  margin-bottom: 4px;
-}
-
-.section-3 i {
-  font-size: 36px;
-  margin-right: 16px;
-}
-
-.section-3 .icon-container {
-  padding-left: 0px;
-}
-
-@media (max-width: 768px) {
-  .section-3 {
-    padding: 16px;
-  }
-
-  .lx-footer-main .section-1,
-  .lx-footer-main .section-2{
-    width: 180px;
-  }
+  font-size: 14px;
+  line-height: 20px;
+  letter-spacing: 0.3px;
+  color: #ffffff;
 }

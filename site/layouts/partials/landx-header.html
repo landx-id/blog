@@ -1,9 +1,15 @@
-<div class='lx-header-container'>
+<div class="lx-header-container">
   <div class="main-container">
-    <img src='{{.Site.Params.pathUrl}}/img/logo-1.png' class="lx-logo" alt='landx logo'
-      onclick="goTo('https://landx.id/')" />
-    <div class="lx-header-right  in-desktop">
-      <a href='https://landx.id/#why-landx'>Mengapa Landx</a>
+    <img
+      src="{{.Site.Params.pathUrl}}/img/logo-1.png"
+      class="lx-logo"
+      alt="landx logo"
+      onclick="goTo('https://landx.id/')"
+    />
+    <div class="lx-header-right in-desktop">
+      <a href="https://landx.id/investor">Investor</a>
+      <a href="https://landx.id/penerbit">Penerbit</a>
+      <!-- <a href='https://landx.id/#why-landx'>Mengapa Landx</a>
       <a href='https://landx.id/#ongoing-projects'>Proyek</a>
       <a href='https://landx.id/#how-it-works'>Cara Kerja</a>
       <a href='https://landx.id/contact.html'>Kontak</a>
@@ -35,96 +41,105 @@
             <a href='https://landx.id/blog/faq-landx'>FAQ</a>
           </div>
         </div>
-      </div>
+      </div> -->
     </div>
 
-    <img src='{{.Site.Params.pathUrl}}/img/hamburgerMenu.svg' alt="menu-button" class="in-mobile menu" onclick="toggleMenu()" />
+    <!-- <img src='{{.Site.Params.pathUrl}}/img/hamburgerMenu.svg' alt="menu-button" class="in-mobile menu" onclick="toggleMenu()" />
 
     <button class="lx-button in-desktop" onclick="goTo('https://landx.id/pendaftaran-perusahaan.html')">Pendaftaran
-      Perusahaan</button>
+      Perusahaan</button> -->
   </div>
 </div>
 
 <div class="category-section" id="categorysection">
   <div class="main-container">
-    {{ with .Site.GetPage "/partials/landx-header/_index.md" }}
-    {{ range .Params.headerCategory }}
-      <a href="/blog/category/{{ . | urlize }}">{{ . }}</a>
-    {{ end }}
-  
-    {{ end }}
-  
-    <i class="far fa-newspaper"></i>
+    {{ with .Site.GetPage "/partials/landx-header/_index.md" }} {{ range
+    .Params.headerCategory }}
+    <a href="/blog/category/{{ . | urlize }}">{{ . }}</a>
+    {{ end }} {{ end }}
   </div>
 </div>
 
 <div class="menu-drawer" id="menudrawer">
-  <div class="menu-container" id='menucontainer'>
-    <a href='https://landx.id/#why-landx' class="menu-item">Mengapa Landx</a>
-    <a href='https://landx.id/#ongoing-projects' class="menu-item">Proyek</a>
-    <a href='https://landx.id/#how-it-works' class="menu-item">Cara Kerja</a>
-    <a href='https://landx.id/contact.html' class="menu-item">Kontak</a>
+  <div class="menu-container" id="menucontainer">
+    <a href="https://landx.id/#why-landx" class="menu-item">Mengapa Landx</a>
+    <a href="https://landx.id/#ongoing-projects" class="menu-item">Proyek</a>
+    <a href="https://landx.id/#how-it-works" class="menu-item">Cara Kerja</a>
+    <a href="https://landx.id/contact.html" class="menu-item">Kontak</a>
     <a class="menu-item" onclick="expandMenu()">Perusahaan</a>
     <div class="second-menu" id="secondmenu">
-      <div id='items'>
+      <div id="items">
         <div class="second-menu-item">
-          <a href='https://landx.id/blog/jobs-at-landx/'>Karir</a>
+          <a href="https://landx.id/blog/jobs-at-landx/">Karir</a>
         </div>
         <div class="second-menu-item">
-          <a href='https://landx.id/syarat-dan-ketentuan.html'>Syarat & Ketentuan</a>
+          <a href="https://landx.id/syarat-dan-ketentuan.html"
+            >Syarat & Ketentuan</a
+          >
         </div>
         <div class="second-menu-item">
-          <a href='https://landx.id/privacy-policy.html'>Kebijakan Privasi</a>
+          <a href="https://landx.id/privacy-policy.html">Kebijakan Privasi</a>
         </div>
         <div class="second-menu-item">
-          <a href='https://landx.id/service-level-agreement.html'>Service Level Agreement</a>
+          <a href="https://landx.id/service-level-agreement.html"
+            >Service Level Agreement</a
+          >
         </div>
         <div class="second-menu-item">
-          <a href='https://landx.id/kebijakan-isms.html'>Kebijakan ISMS</a>
+          <a href="https://landx.id/kebijakan-isms.html">Kebijakan ISMS</a>
         </div>
         <div class="second-menu-item">
-          <a href='https://landx.id/mitigasi-risiko.html'>Mitigasi Resiko</a>
+          <a href="https://landx.id/mitigasi-risiko.html">Mitigasi Resiko</a>
         </div>
         <div class="second-menu-item">
-          <a href='https://landx.id/blog/faq-landx'>FAQ</a>
+          <a href="https://landx.id/blog/faq-landx">FAQ</a>
         </div>
       </div>
     </div>
 
-    <button class="lx-button" style="margin-top: 16px;" onclick="goTo('https://landx.id/pendaftaran-perusahaan.html')"
-      type="button">Pendaftaran Perusahaan</button>
+    <button
+      class="lx-button"
+      style="margin-top: 16px"
+      onclick="goTo('https://landx.id/pendaftaran-perusahaan.html')"
+      type="button"
+    >
+      Pendaftaran Perusahaan
+    </button>
   </div>
 </div>
 
-
 <script>
-  let isMenuOpen = false
+  let isMenuOpen = false;
 
-  let md = document.getElementById('menudrawer')
-  let mc = document.getElementById('menucontainer')
-  let sm = document.getElementById('secondmenu')
-  let it = document.getElementById('items')
+  let md = document.getElementById("menudrawer");
+  let mc = document.getElementById("menucontainer");
+  let sm = document.getElementById("secondmenu");
+  let it = document.getElementById("items");
 
   function toggleMenu() {
-    isMenuOpen = !isMenuOpen
-    md.style.height = isMenuOpen ? `${mc.offsetHeight}px` : '0px'
+    isMenuOpen = !isMenuOpen;
+    md.style.height = isMenuOpen ? `${mc.offsetHeight}px` : "0px";
     // md.style.padding = isMenuOpen ? '16px' : '0px'
   }
 
   function expandMenu() {
-    sm.style.height = sm.style.height === `${it.offsetHeight}px` ? '0px' : `${it.offsetHeight}px`
-    md.style.height = md.style.height === `${mc.offsetHeight}px` ? '0px' : `${mc.offsetHeight}px`
+    sm.style.height =
+      sm.style.height === `${it.offsetHeight}px`
+        ? "0px"
+        : `${it.offsetHeight}px`;
+    md.style.height =
+      md.style.height === `${mc.offsetHeight}px`
+        ? "0px"
+        : `${mc.offsetHeight}px`;
   }
 
   function goTo(string) {
     window.location.href = string;
   }
 
-  window.addEventListener('resize', () => {
+  window.addEventListener("resize", () => {
     if (window.innerWidth > 768 && isMenuOpen) {
-      toggleMenu()
+      toggleMenu();
     }
-  })
-
-
+  });
 </script>
