@@ -7,9 +7,9 @@
     - main
 
 .build:
-  image: ${CI_REGISTRY}/pub/docker-images:docker19-stable
+  image: ${CI_REGISTRY}/pub/docker-images:docker20-stable
   services:
-    - docker:19-dind
+    - docker:20-dind
   script:
     - docker login -u ${CI_REGISTRY_USER} -p ${CI_REGISTRY_PASSWORD} ${CI_REGISTRY}
     - docker pull ${CI_REGISTRY_IMAGE}:${DOCKER_IMAGE_TAG} || true
