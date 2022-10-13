@@ -2,7 +2,7 @@
 draft: false
 author: Della Octavilia
 title: Analisis Fundamental Saham untuk Memaksimalkan Return Investasi
-metaTitle: Analisis Fundamental Saham untuk Memaksimalkan Return Investasi
+metaTitle: Cara Analisis Fundamental Saham untuk Memaksimalkan Return Investasi
 metaDescription: Analisis fundamental saham adalah analisis yang dilakukan
   investor dalam meminimalisir risiko kerugian dengan melihat kondisi perusahaan
   yang dituju.
