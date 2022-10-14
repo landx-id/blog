@@ -1,9 +1,9 @@
-name: synchronize main
+name: synchronize develop
 
 on:
   push:
     branches:
-      - main
+      - develop
 
 jobs:
   build:
@@ -15,5 +15,5 @@ jobs:
         with:
           ssh_private_key: ${{ secrets.SSH_PRIVATE_KEY }}
           target_repo_url: git@code.landx.id:landx/blog.git
-          source_branch: main
-          destination_branch: main
+          source_branch: develop
+          destination_branch: develop

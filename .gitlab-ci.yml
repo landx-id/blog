@@ -1,12 +1,27 @@
+stages:
+  - build
+  - deploy
+
 .for_release:
   environment:
     name: release
   variables:
-    DOCKER_IMAGE_TAG: latest
+    DOCKER_IMAGE_TAG: stable
+    NAMESPACE: landx-blog
   only:
     - main
 
+.for_development:
+  environment:
+    name: development
+  variables:
+    DOCKER_IMAGE_TAG: latest
+    NAMESPACE: landx-staging
+  only:
+    - develop
+
 .build:
+  stage: build
   image: ${CI_REGISTRY}/pub/docker-images:docker20-stable
   services:
     - docker:20-dind
@@ -23,8 +38,6 @@
       .
     
     - docker push ${CI_REGISTRY_IMAGE}:${DOCKER_IMAGE_TAG}
-  extends:
-    - .for_release
 
 .deploy:
   stage: deploy
@@ -36,14 +49,19 @@
     - gcloud config set project $GCLOUD_PROJECT_NAME
     - gcloud --quiet container clusters get-credentials $CLUSTER_NAME --region $CLUSTER_REGION
 
-    - kubectl rollout restart -n landx-blog deployment/landx-blog
+    - kubectl rollout restart -n $NAMESPACE deployment/landx-blog
 
-prepare_release:
-  extends: .build
-  stage: build
+development:publish:
+  extends:
+    - .for_development
+    - .build
 
 release:publish:
   extends:
+    - .for_release
+    - .build
+
+release:deploy:
+  extends:
+    - .for_release
     - .deploy
-  dependencies:
-    - prepare_release
