@@ -1,3 +1,7 @@
+stages:
+  - build
+  - deploy
+
 .for_release:
   environment:
     name: release
@@ -16,7 +20,7 @@
   only:
     - develop
 
-.build:
+build:
   stage: build
   image: ${CI_REGISTRY}/pub/docker-images:docker20-stable
   services:
@@ -50,12 +54,11 @@
 development:publish:
   extends:
     - .for_development
-    - .build
+    - build
 
 release:publish:
   extends:
     - .for_release
     - .deploy
   dependencies:
-    - .build
-    
+    - build
