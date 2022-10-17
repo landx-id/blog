@@ -1,8 +1,8 @@
 ---
 draft: false
 author: Della Octavilia
-title: "Refinancing Adalah: Metode untuk Membantu Debitur Dalam Melunasi Utang"
-metaTitle: "Refinancing Adalah: Metode untuk Membantu Debitur Dalam Melunasi Utang"
+title: "Refinancing Adalah: Metode untuk Membantu Debitur dalam Melunasi Utang"
+metaTitle: "Refinancing Adalah: Metode untuk Membantu Debitur dalam Melunasi Utang"
 metaDescription: Refinancing adalah solusi untuk membantu debitur dalam melunasi
   utangnya, melalui pengajuan  pinjaman baru yang bunganya lebih kecil.
 intro: Metode yang dapat membantu debitur dalam melunasi utangnya adalah
