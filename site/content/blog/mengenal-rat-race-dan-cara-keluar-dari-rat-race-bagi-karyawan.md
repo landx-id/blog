@@ -10,6 +10,12 @@ intro: Rat race berhubungan dengan cara kelola keuangan seseorang. Yuk pahami
   tentang rat race dan kenali keuangan kamu apakah sedang terjebak rat race atau
   masih dapat menghindarinya.
 date: 2022-09-27T17:08:45.825Z
+tag:
+  - Mengatur Keuangan
+  - Karir
+category:
+  - Investasi
+  - Keuangan
 featuredImage:
   alt: Rat race adalah
   title: Rat race adalah
