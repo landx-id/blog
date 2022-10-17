@@ -14,11 +14,7 @@ featuredImage:
   alt: "Bisnis B2B "
   src: img/landx_infografis_mengenal-bisnis-model-b2b_landscape_01.png
 ---
-![](https://lh4.googleusercontent.com/c3Ii86hlxnDVy4VyxJVI9RomdSCOwnUnw2T2PfWeQCX_5Ltq9IaFZHUZSbiTG_bMAlLpUk9qRIr-Mw1sxnEa0SHLV6ZRpxAt6cvKtfS9Bxb0dGh9RD1HjC7lbGrfnaN3gXM16-KkNmUjWWeWik3_oaAjWwAPacV0fsbbhQeAguc4YtFvGgVzVjKs6g)
-
-
-
-![](https://lh6.googleusercontent.com/LfdQzZJ08phU3KZQaSGysS1yanv3rLYcNweYYvPon3bYhJ86SliLUsBqPGW6zZAVjNTvcIxN80Bf8CJxzlMAG2cT5fXIuMRrHL5s3J_AiioHExY3NTDBliPt1nQzBveoK9KRLaiGZi-nn9HobGk3VpBLEbaniOYNu8Cv-VkpBW3gCSgtx-veX2aKWQ)
+![potensi bisnis b2b di indonesia](https://lh6.googleusercontent.com/LfdQzZJ08phU3KZQaSGysS1yanv3rLYcNweYYvPon3bYhJ86SliLUsBqPGW6zZAVjNTvcIxN80Bf8CJxzlMAG2cT5fXIuMRrHL5s3J_AiioHExY3NTDBliPt1nQzBveoK9KRLaiGZi-nn9HobGk3VpBLEbaniOYNu8Cv-VkpBW3gCSgtx-veX2aKWQ "potensi bisnis b2b di indonesia")
 
 Dalam dunia bisnis terdapat istilah **B2B (business to business)** atau lebih akrab disebut bisnis B2B. Model bisnis B2B adalah jenis transaksi perdagangan yang terjadi antara pelaku bisnis, seperti melibatkan produsen dan produsen atau produsen dengan toko grosir.
 
@@ -26,7 +22,7 @@ Menjalankan bisnis B2B dipandang lebih menantang karena target konsumennya adala
 
 Lebih lanjut kita akan membahas mengenai model bisnis B2B, market B2B, perbedaan B2B dan B2C, hingga potensi B2B di Indonesia. Yuk simak terus ya!
 
-![](https://lh3.googleusercontent.com/RscLYNTXK71gcPHzofqaMw5_JscL-dNQeu50jFHMiLrGXSInLQB6_SUEXILEijQvcydsx-4hG94WDTBq_fbdxAMm3KkQ8nuCwaHtL7R-wWkhsTIBIcRZu5TigdBX8HTPp4BqoeOE6jebDiOKu6FVQ6Cj2Yo3NGuNtb8EBEZOVDIiTCkf4UXx-L6QEQ) 
+![bisnis b2b ](https://lh3.googleusercontent.com/RscLYNTXK71gcPHzofqaMw5_JscL-dNQeu50jFHMiLrGXSInLQB6_SUEXILEijQvcydsx-4hG94WDTBq_fbdxAMm3KkQ8nuCwaHtL7R-wWkhsTIBIcRZu5TigdBX8HTPp4BqoeOE6jebDiOKu6FVQ6Cj2Yo3NGuNtb8EBEZOVDIiTCkf4UXx-L6QEQ "bisnis b2b ")
 
 ## Definisi B2B
 
@@ -40,7 +36,7 @@ Jika transaksi perdagangan dijalankan kepada perusahaan lain disebut B2B maka, t
 
 **Perbedaan B2B dan B2B** yaitu terletak pada target pasarnya. B2C adalah bisnis yang dijalankan dengan menjual produk dan jasa secara langsung kepada konsumen akhir atau perorangan. Sedangkan target pasar atau market B2B yaitu para pelaku industri.
 
-![](https://lh6.googleusercontent.com/hl3vI6sed880ooVRy55uKJ2IVbjrJO58YVocSUXa-lRr8Yxj9DIN27dPOktDPAav1KzuEFkGqE9edYGmfqZQhC6BUCNV5-xli_omV13Gj-0wh1GEuiMl8HLGVfQeimlP7Oy5sxQhYXlZFzIyO3y6O2a0hUGaONGph37MTSQhht-pluEEzfm8vrR8Zw)
+![jenis b2b](https://lh6.googleusercontent.com/hl3vI6sed880ooVRy55uKJ2IVbjrJO58YVocSUXa-lRr8Yxj9DIN27dPOktDPAav1KzuEFkGqE9edYGmfqZQhC6BUCNV5-xli_omV13Gj-0wh1GEuiMl8HLGVfQeimlP7Oy5sxQhYXlZFzIyO3y6O2a0hUGaONGph37MTSQhht-pluEEzfm8vrR8Zw "jenis b2b")
 
 ## Jenis Perusahaan B2B 
 
@@ -70,7 +66,7 @@ Contoh bisnis B2B industri tersier yaitu perusahaan konsultan seperti PwC, Deloi
 
 Kamu lebih tertarik pada perusahaan B2B segmen industri mana?.
 
-![](https://lh4.googleusercontent.com/1wwJlExezvv-o6-ZisGzC9jcXNlre9PkeGS7k98cPn1HKvlNi7rQmbCei-0YbDJy_Hp3d5_v88ICm44skN9IJhUUe7UL1_men8Yay4qY_yWbu-GVuAhm3_5-R3NAwNrACNa__3IWUjy0IiubIBZ0Yeh9o5LrnCrarU7XYbUtC0QM6LthdptwYj1-tA)
+![apa itu b2b](https://lh4.googleusercontent.com/1wwJlExezvv-o6-ZisGzC9jcXNlre9PkeGS7k98cPn1HKvlNi7rQmbCei-0YbDJy_Hp3d5_v88ICm44skN9IJhUUe7UL1_men8Yay4qY_yWbu-GVuAhm3_5-R3NAwNrACNa__3IWUjy0IiubIBZ0Yeh9o5LrnCrarU7XYbUtC0QM6LthdptwYj1-tA "apa itu b2b")
 
 ## Jenis Pembeli B2B
 
@@ -94,7 +90,7 @@ Contoh kerja sama pemerintah dengan perusahaan seperti kontrak layanan transport
 
 Institusi atau lembaga non-profit seperti Palang Merah Indonesia (PMI), yayasan rumah sakit, perguruan tinggi swasta melakukan pembelian produk dan jasa dari perusahaan lain. Pembelian barang jumlah besar dari perusahaan lain lebih efektif dalam menekan biaya.
 
-![](https://lh3.googleusercontent.com/50SIITHKeU0UNwYRbgoheIODPo0gW-3shFLGte-MeSOO98X-CemPu8dIWUBEU7uvMRADVqE30tZbC7jNW9mse7u3EbfhwYp8DzK2rI4zNnQc81kb1HN4vRhVfZAVjOKC6i9hx4BXmh475llLBmWEGZDyj5u03TgcWZjvYt9KzoSqTfSImiCfpEp9CA)
+![ecommerce b2b](https://lh3.googleusercontent.com/50SIITHKeU0UNwYRbgoheIODPo0gW-3shFLGte-MeSOO98X-CemPu8dIWUBEU7uvMRADVqE30tZbC7jNW9mse7u3EbfhwYp8DzK2rI4zNnQc81kb1HN4vRhVfZAVjOKC6i9hx4BXmh475llLBmWEGZDyj5u03TgcWZjvYt9KzoSqTfSImiCfpEp9CA "ecommerce b2b")
 
 ## Potensi Pertumbuhan B2B 
 
