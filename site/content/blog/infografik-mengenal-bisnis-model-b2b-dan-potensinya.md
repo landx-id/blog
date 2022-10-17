@@ -14,7 +14,7 @@ featuredImage:
   alt: "Bisnis B2B "
   src: img/landx_infografis_mengenal-bisnis-model-b2b_landscape_01.png
 ---
-![potensi bisnis b2b di indonesia](https://lh6.googleusercontent.com/LfdQzZJ08phU3KZQaSGysS1yanv3rLYcNweYYvPon3bYhJ86SliLUsBqPGW6zZAVjNTvcIxN80Bf8CJxzlMAG2cT5fXIuMRrHL5s3J_AiioHExY3NTDBliPt1nQzBveoK9KRLaiGZi-nn9HobGk3VpBLEbaniOYNu8Cv-VkpBW3gCSgtx-veX2aKWQ "potensi bisnis b2b di indonesia")
+![](https://lh3.googleusercontent.com/SrNTDxZmOugKAxxzXp8jNzSZ2R488aKx7VQDZkhjDntOdZrESsf9YW4NkrYThL3tyJJ0HvLklBZvy4VKUd3S3s3YGxZHNBc8yUvkplpq0d9S7l0p-EvWH1GkNLuem6ySvIT_aqmq0kkxU3_vDVc7ebBw8Vo37x38Exv6kMeoyOYevestqhMEDf4cRw)
 
 Dalam dunia bisnis terdapat istilah **B2B (business to business)** atau lebih akrab disebut bisnis B2B. Model bisnis B2B adalah jenis transaksi perdagangan yang terjadi antara pelaku bisnis, seperti melibatkan produsen dan produsen atau produsen dengan toko grosir.
 
@@ -36,7 +36,7 @@ Jika transaksi perdagangan dijalankan kepada perusahaan lain disebut B2B maka, t
 
 **Perbedaan B2B dan B2B** yaitu terletak pada target pasarnya. B2C adalah bisnis yang dijalankan dengan menjual produk dan jasa secara langsung kepada konsumen akhir atau perorangan. Sedangkan target pasar atau market B2B yaitu para pelaku industri.
 
-![jenis b2b](https://lh6.googleusercontent.com/hl3vI6sed880ooVRy55uKJ2IVbjrJO58YVocSUXa-lRr8Yxj9DIN27dPOktDPAav1KzuEFkGqE9edYGmfqZQhC6BUCNV5-xli_omV13Gj-0wh1GEuiMl8HLGVfQeimlP7Oy5sxQhYXlZFzIyO3y6O2a0hUGaONGph37MTSQhht-pluEEzfm8vrR8Zw "jenis b2b")
+![jenis b2b](img/landx_infografis_mengenal-bisnis-model-b2b_landscape_03.png "jenis b2b")
 
 ## Jenis Perusahaan B2B 
 
