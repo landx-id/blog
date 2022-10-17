@@ -10,6 +10,13 @@ intro: Bisnis franchise adalah sistem bisnis yang digandrungi oleh masyarakat
   Indonesia. Konsep franchise memberi kemudahan memasarkan produk dan lebih
   cepat berkembang. Cari tahu seputar franchising lewat artikel ini yuk.
 date: 2022-09-30T08:39:23.783Z
+tag:
+  - sistem franchise
+  - Bisnis Franchise Modal Kecil
+  - bisnis franchise
+category:
+  - Bisnis
+  - Investasi
 featuredImage:
   alt: Apa Itu Franchising
   title: Kekurangan dan Kelebihan Bisnis Franchise
@@ -81,4 +88,10 @@ Nah, saat ini ada juga loh **[opsi investasi dengan modal minim](https://landx.i
 
 Dengan skema ini, kamu bisa mencari dan memiliki berbagai merek bisnis .dari berbagai sektor industri seperti, FnB coffee shop, retail, jasa laundry, dan properti. Peluang investasi melalui aplikasi [equity crowdfunding](https://landx.id/) seperti [LandX](<coffee shop>) yang berpengalaman melakukan pendanaan bisnis potensial, terpercaya dan sudah memiliki izin dari Otoritas Jasa Keuangan membuat investasi kamu aman dan menguntungkan. 
 
-#### [Yuk, Jadi Bos Bisnis Potensial dengan Modal Minim Lewat LandX Sekarang Juga! ](https://app.landx.id/?utm_source=Organic+Page&utm_medium=Content+Blog&utm_campaign=BlogLandX&utm_id=Blog)
+#### [Yuk, Jadi Bos Bisnis Potensial dengan Modal Minim Lewat LandX Sekarang Juga! ](https://app.landx.id/?utm_source=BLOGCONTENT&utm_medium=SEO&utm_campaign=SEO&utm_id=BLOGLANDX)
+
+<!--StartFragment-->
+
+[![miliki bisnis modal kecil cuma dengan 1 jutaan dapat 4 cabang ](https://accountgram-production.sfo2.cdn.digitaloceanspaces.com/landx_ghost/2021/11/jadi-owner-bisnis-hanya-1-jutaan-dengan-cuan-yang-sangat-menjanjikan.png)](https://app.landx.id/?utm_source=BLOGCONTENT&utm_medium=SEO&utm_campaign=SEO&utm_id=BLOGLANDX)
+
+<!--EndFragment-->
