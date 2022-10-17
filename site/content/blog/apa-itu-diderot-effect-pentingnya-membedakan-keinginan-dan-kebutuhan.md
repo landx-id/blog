@@ -10,6 +10,12 @@ intro: Tanpa sadar mungkin kita pernah melakukan sikap dari Diderot Effect yang
   menyebabkan kita membuat pengeluaran hanya berdasarkan keinginan. Kenapa
   Diderot Effect dapat terjadi? Yuk cari tahu dalam artikel ini.
 date: 2022-09-28T09:24:41.412Z
+tag:
+  - Mengatur Keuangan
+  - Pengelolaan Keuangan
+category:
+  - Investasi
+  - Keuangan
 featuredImage:
   title: Apa Itu Diderot Effect
   alt: Diderot effect adalah
@@ -83,4 +89,10 @@ Jadi, untuk menghindari Diderot effect atau secara tidak sadar berusaha memenuhi
 
 Skala prioritas akan membantu kamu lebih terarah menentukan pengeluaran dan mentrack daftar yang dibutuhkan agar tidak diserempet oleh daftar keinginan. Daripada mengeluarkan biaya yang hanya bermanfaat sesaat, lebih baik ditingkatkan potensi jumlahnya dengan berinvestasi. 
 
-## [Sisihkan Uang untuk Investasi Agar Terhindar dari Sikap Diderot Effect Yuk!](https://app.landx.id/?utm_source=Organic+Page&utm_medium=Content+Blog&utm_campaign=BlogLandX&utm_id=Blog)
+## [Sisihkan Uang untuk Investasi Agar Terhindar dari Sikap Diderot Effect Yuk!](https://app.landx.id/?utm_source=BLOGCONTENT&utm_medium=SEO&utm_campaign=SEO&utm_id=BLOGLANDX)
+
+<!--StartFragment-->
+
+[![miliki bisnis modal kecil cuma dengan 1 jutaan dapat 4 cabang ](https://accountgram-production.sfo2.cdn.digitaloceanspaces.com/landx_ghost/2021/11/jadi-owner-bisnis-hanya-1-jutaan-dengan-cuan-yang-sangat-menjanjikan.png)](https://app.landx.id/?utm_source=BLOGCONTENT&utm_medium=SEO&utm_campaign=SEO&utm_id=BLOGLANDX)
+
+<!--EndFragment-->
