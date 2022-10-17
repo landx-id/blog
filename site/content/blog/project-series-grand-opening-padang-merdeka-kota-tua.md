@@ -9,6 +9,15 @@ metaDescription: Cari makanan di kawasan Kota Tua? Ajak keluarga dan tamu kamu
 intro: Saat berkunjung ke kawasan wisata Kota Tua jangan lupa cobain kuliner
   khas nusantara di restoran nasi Padang enak, Padang Merdeka Kota Tua.
 date: 2022-09-26T15:25:11.021Z
+tag:
+  - Padang Merdeka
+  - Bisnis Fnb
+  - Franchise FnB
+  - Bisnis F&B
+  - Franchise F&B
+category:
+  - Bisnis
+  - Investasi
 featuredImage:
   src: img/padang-merdeka-kota-tua.jpg
   alt: padang merdeka kota tua
@@ -68,4 +77,10 @@ Perlu diingat bahwa setiap investasi pasti memiliki risiko maka penting untuk me
 
 Memiliki bisnis dan berinvestasi semakin mudah dengan kehadiran teknologi yang bantu kamu dapat meningkatkan potensi nilai aset untuk capai tujuan finansial. Oleh karena itu..
 
-## [Yuk Jadi Investor Bisnis Sekarang!](https://app.landx.id/?utm_source=Organic+Page&utm_medium=Content+Blog&utm_campaign=BlogLandX&utm_id=Blog)
+## [Yuk Jadi Investor Bisnis Sekarang!](https://app.landx.id/?utm_source=BLOGCONTENT&utm_medium=SEO&utm_campaign=SEO&utm_id=BLOGLANDX)
+
+<!--StartFragment-->
+
+[![miliki bisnis modal kecil cuma dengan 1 jutaan dapat 4 cabang ](https://accountgram-production.sfo2.cdn.digitaloceanspaces.com/landx_ghost/2021/11/jadi-owner-bisnis-hanya-1-jutaan-dengan-cuan-yang-sangat-menjanjikan.png)](https://app.landx.id/?utm_source=BLOGCONTENT&utm_medium=SEO&utm_campaign=SEO&utm_id=BLOGLANDX)
+
+<!--EndFragment-->
