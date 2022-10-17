@@ -10,6 +10,16 @@ intro: Hampir semua instrumen investasi memiliki risiko. Kalau kamu termasuk
   golongan investor konservatif yang ingin berinvestasi minim risiko, kamu perlu
   memilih instrumen risk free rate yang akan dibahas pada artikel ini.
 date: 2022-09-26T01:29:05.657Z
+tag:
+  - Investasi Pemula
+  - Investasi Jangka Panjang
+  - Investasi untuk Pemula
+  - Investasi Aman
+  - Investasi Aman untuk Pemula
+  - Cara Investasi Modal Kecil
+category:
+  - Investasi
+  - Keuangan
 featuredImage:
   title: Apa itu Risk Free Rate
   alt: Risk Free Rate adalah
@@ -83,4 +93,10 @@ Dengan sistem [equity crowdfunding](https://landx.id/), kamu bisa memilih pendan
 
 Melalui aplikasi [equity crowdfunding](https://landx.id/) seperti [LandX](https://landx.id/) yang sudah berpengalaman mendanai bisnis potensial di Indonesia dan mendapatkan izin dari Otoritas Jasa Keuangan, kamu akan mendapatkan keuntungan berupa dividen dan selain itu, bisnis yang kamu danai akan berkembang dan dapat melakukan ekspansi. Investasi kamu pun akan mendapatkan keuntungan sesuai performa bisnis dan mendapatkan keuntungan.
 
-## [Yuk, Danai Bisnis Potensial Favorit Kamu Lewat LandX Sekarang](https://app.landx.id/?utm_source=Organic+Page&utm_medium=Content+Blog&utm_campaign=BlogLandX&utm_id=Blog)
+## [Yuk, Danai Bisnis Potensial Favorit Kamu Lewat LandX Sekarang](https://app.landx.id/?utm_source=BLOGCONTENT&utm_medium=SEO&utm_campaign=SEO&utm_id=BLOGLANDX)
+
+<!--StartFragment-->
+
+[![miliki bisnis modal kecil cuma dengan 1 jutaan dapat 4 cabang ](https://accountgram-production.sfo2.cdn.digitaloceanspaces.com/landx_ghost/2021/11/jadi-owner-bisnis-hanya-1-jutaan-dengan-cuan-yang-sangat-menjanjikan.png)](https://app.landx.id/?utm_source=BLOGCONTENT&utm_medium=SEO&utm_campaign=SEO&utm_id=BLOGLANDX)
+
+<!--EndFragment-->
