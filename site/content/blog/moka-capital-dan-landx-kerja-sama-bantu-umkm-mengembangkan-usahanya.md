@@ -10,6 +10,12 @@ intro: Pada 30 September 2022, telah terjalin kolaborasi Moka Capital dan LandX
   guna memberi kemudahaan akses bagi para pelaku UMKM dalam memperoleh dana
   melalui skema equity crowdfunding.
 date: 2022-10-06T02:28:02.615Z
+tag:
+  - LandX
+  - Investasi Bisnis
+category:
+  - Investasi
+  - Bisnis
 featuredImage:
   src: https://cdn.discordapp.com/attachments/976309038067367996/1027409077875265536/-_1.1.png
   alt: Moka Capital dan LandX
