@@ -89,7 +89,7 @@ Poin penting juga bagi kamu yang sedang terjebak siklus rat race yaitu eliminasi
 
 Jadi, jika kamu ingin keluar dari rat race sebagai karyawan ataupun ingin menghindarinya bagi yang akan memasuki dunia kerja maka coba evaluasi diri kamu dan gali potensi. Investasi terbaik tentu saja pada diri sendiri, oleh sebab itu yuk terus belajar tentang belajar kelola keuangan yang baik agar tidak terjebak rat race.
 
-## [Yuk Susun Rencana Keuangan Agar Terhindari dari Rat Race](https://app.landx.id/?utm_source=Organic+Page&utm_medium=Content+Blog&utm_campaign=BlogLandX&utm_id=Blog)
+## [Yuk Susun Rencana Keuangan Agar Terhindari dari Rat Race](https://app.landx.id/?utm_source=BLOGCONTENT&utm_medium=SEO&utm_campaign=SEO&utm_id=BLOGLANDX)
 
 <!--StartFragment-->
 
