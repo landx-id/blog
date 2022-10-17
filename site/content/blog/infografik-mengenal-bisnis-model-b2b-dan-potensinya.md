@@ -36,9 +36,9 @@ Jika transaksi perdagangan dijalankan kepada perusahaan lain disebut B2B maka, t
 
 **Perbedaan B2B dan B2B** yaitu terletak pada target pasarnya. B2C adalah bisnis yang dijalankan dengan menjual produk dan jasa secara langsung kepada konsumen akhir atau perorangan. Sedangkan target pasar atau market B2B yaitu para pelaku industri.
 
-![jenis b2b](img/landx_infografis_mengenal-bisnis-model-b2b_landscape_03.png "jenis b2b")
+![](https://lh5.googleusercontent.com/hoJ0lVGfjwrfHL1YguRfhs0i0LoMXpB-RFSe8OpLu0Vv2k4gGnVhrqKjVIGJ7uLI1iZ4DYSvRV69MeRBXmCsRziG5xo4EhJsTgnzvKQFOEtyjWLcJZobnwns8rYWg7zhOykT_rciN9WYHhtGm_gblFwf33ycbAFj3d7tEbOMCjvY8vEzxfau0JdBUA)
 
-## Jenis Perusahaan B2B 
+## Jenis Perusahaan B2B
 
 Berdasarkan beberapa segmen seperti jenis produk dan target pasar dari market B2B maka dapat dikelompokkan jenis perusahaan sektor B2B. Pengelompokkan produsen B2B ini dapat dibagi menjadi primary industry, secondary industry, dan tertiary industry.
 
