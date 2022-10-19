@@ -11,7 +11,7 @@ intro: Ingin menjadi salah satu pemilik bisnis industri B2B berpotensi? Saat ini
   LandX.  Danai sekarang juga dan nikmati potensi keuntungannya!
 date: 2022-10-19T10:04:10.166Z
 featuredImage:
-  src: https://cdn.discordapp.com/attachments/977943413909487668/1032238040422301746/unknown.png
+  src: https://cdn.discordapp.com/attachments/976381310857773066/1032241864767709204/unknown.png
   alt: Laundry Rumah Sakit Spesiasilasi Industri B2B
   title: Laundry Rumah Sakit Spesiasilasi Industri B2B
 ---
