@@ -2,7 +2,7 @@
 draft: false
 author: Abdul Wahhab
 slug: aset-adalah-memahami-jenis-jenis-dan-apa-itu-aset
-title: "Apa Itu Aset Adalah: Pengertian dan Jenis-jenis Aset Investasi"
+title: "Apa Itu Aset: Pengertian dan Jenis-jenis Aset Investasi"
 metaTitle: Memahami Pengertian Apa Itu Aset dan Jenis-jenis Aset
 metaDescription: Apa yang dimaksud dengan aset adalah sumber daya yang dimiliki
   oleh individu atau perusahaan yang bisa memberikan keuntungan di masa depan,
