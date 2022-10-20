@@ -9,6 +9,14 @@ intro: Non-performing loan adalah indikator kesehatan aset dari lembaga
   perbankan. Dalam NPL terdapat perhitungan berkaitan dengan banyaknya debitur
   yang gagal melakukan pelunasan pinjaman.
 date: 2022-10-06T06:33:58.608Z
+tag:
+  - Rasio Keuangan
+  - Ekonomi
+  - Pengelolaan Keuangan
+  - Analisis Keuangan
+category:
+  - Keuangan
+  - Investasi
 featuredImage:
   alt: NPL Adalah
   title: NPL Adalah
@@ -120,3 +128,9 @@ Dengan pendanaan tersebut, bisnis yang kamu danai dapat berkembang, melakukan ek
 Jadi, tunggu apa lagi?
 
 #### [Yuk, Bantu Bisnis Jauh dari NPL dan Raih Potensi Menguntungkan Melalui Equity Crowdfunding](https://app.landx.id/?utm_source=Organic+Page&utm_medium=Content+Blog&utm_campaign=BlogLandX&utm_id=Blog)
+
+<!--StartFragment-->
+
+[![miliki bisnis modal kecil cuma dengan 1 jutaan dapat 4 cabang ](https://accountgram-production.sfo2.cdn.digitaloceanspaces.com/landx_ghost/2021/11/jadi-owner-bisnis-hanya-1-jutaan-dengan-cuan-yang-sangat-menjanjikan.png)](https://app.landx.id/?utm_source=Organic+Page&utm_medium=Content+Blog&utm_campaign=BlogLandX&utm_id=Blog)
+
+<!--EndFragment-->
