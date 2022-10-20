@@ -71,7 +71,7 @@ Menurut Gubernur Bank Indonesia, Perry Warjiyo juga mengharapkan kenaikan suku b
 
 Bagi investor yang menggunakan fasilitas simpanan dana di bank, kenaikan suku bunga bank ini membawa kabar baik. Hal ini karena bersamaan dengan kenaikan suku bunga Indonesia, pihak bank berkewajiban untuk membayarkan suku bunga bank kepada nasabah.
 
-Nasabah ini misalnya yang menggunakan fasilitas tabungan atau deposito atau bagi para nasabah bank yang kebijakan [jenis bunga investasi](https://landx.id/blog/jenis-jenis-dan-pengaruhnya-pada-investasi-landx-blog/) mengikuti floating rate. Namun, kira-kira bagaimana seharusnya kamu melangkah mengambil keputusan sebagai investor?
+Nasabah ini misalnya yang menggunakan fasilitas tabungan atau deposito atau bagi para nasabah bank yang kebijakan [jenis bunga investasi](https://landx.id/blog/suku-bunga-bi-naik-ini-jenis-bunga-bank-dan-dampak-pada-kreditmu/) mengikuti floating rate. Namun, kira-kira bagaimana seharusnya kamu melangkah mengambil keputusan sebagai investor?
 
 Mengingat inflasi dapat mengurangi nilai uang karena penurunan daya beli yang diiringi naiknya harga barang, maka langkah bijakmu sebagai investor adalah meminimalisir dampak risiko inflasi, salah satunya adalah melakukan investasi. 
 
