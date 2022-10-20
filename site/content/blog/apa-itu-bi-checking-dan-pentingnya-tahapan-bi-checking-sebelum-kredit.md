@@ -154,17 +154,17 @@ Setelah menyiapkan dokumen, jika formulir sudah sesuai persyaratan maka pihak OJ
 
 ### 2. Daring (Online)
 
-#### A. Cara check SLIK online tahap pertama adalah melakukan registrasi di laman <https://konsumen.ojk.go.id/minisitedplk/registrasi> 
+A. Cara check SLIK online tahap pertama adalah melakukan registrasi di laman <https://konsumen.ojk.go.id/minisitedplk/registrasi> 
 
-#### B. Pilih jenis informasi debitur, apakah perorangan atau badan usaha dan tanggal antrian yang tersedia. 
+B. Pilih jenis informasi debitur, apakah perorangan atau badan usaha dan tanggal antrian yang tersedia. 
 
-#### C. Klik “Lanjut Isi” dan input seluruh data yang diminta secara lengkap. Informasi ini akan diverifikasi untuk mendapatkan akun iDeb (Informasi Debitur).
+C. Klik “Lanjut Isi” dan input seluruh data yang diminta secara lengkap. Informasi ini akan diverifikasi untuk mendapatkan akun iDeb (Informasi Debitur).
 
-#### D. Upload foto atau scan dokumen persyaratan SLIK online yang diminta. 
+D. Upload foto atau scan dokumen persyaratan SLIK online yang diminta. 
 
-#### E. Tunggu bukti e-mail registrasi nomor antrian SLIK Online dan *approval* verifikasi data. Informasi ini akan muncul pada H-2 dari tanggal antrian yang diajukan. 
+E. Tunggu bukti e-mail registrasi nomor antrian SLIK Online dan *approval* verifikasi data. Informasi ini akan muncul pada H-2 dari tanggal antrian yang diajukan. 
 
-#### F. Data dan dokumen yang telah memenuhi persyaratan akan mendapatkan instruksi lewat e-mail: 
+F. Data dan dokumen yang telah memenuhi persyaratan akan mendapatkan instruksi lewat e-mail: 
 
 **\- Cetak dan tandatangani formulir sebanyak 3 rangkap** 
 
@@ -194,10 +194,10 @@ Peluang investasi ini bisa kamu raih hanya dengan modal Rp1 jutaan saja lewat pl
 
 Karena itu, segera download aplikasinya dan jangan sampai ketinggalan peluang jadi pemilik bisnis potensial lainnya ya!
 
-## [Miliki Saham Bisnis Potensial untuk #RaihKebebasan dari Utang Sekarang Juga!](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)
+## [Miliki Saham Bisnis Potensial untuk #RaihKebebasan dari Utang Sekarang Juga!](https://app.landx.id/?utm_source=Organic+Page&utm_medium=Content+Blog&utm_campaign=BlogLandX&utm_id=Blog)
 
 <!--StartFragment-->
 
-[![miliki bisnis modal kecil cuma dengan 1 jutaan dapat 4 cabang ](https://accountgram-production.sfo2.cdn.digitaloceanspaces.com/landx_ghost/2021/11/jadi-owner-bisnis-hanya-1-jutaan-dengan-cuan-yang-sangat-menjanjikan.png)](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)
+[![miliki bisnis modal kecil cuma dengan 1 jutaan dapat 4 cabang ](https://accountgram-production.sfo2.cdn.digitaloceanspaces.com/landx_ghost/2021/11/jadi-owner-bisnis-hanya-1-jutaan-dengan-cuan-yang-sangat-menjanjikan.png)](https://app.landx.id/?utm_source=Organic+Page&utm_medium=Content+Blog&utm_campaign=BlogLandX&utm_id=Blog)
 
 <!--EndFragment-->
