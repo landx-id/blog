@@ -10,6 +10,14 @@ intro: Suku bunga Indonesia naik lagi! Dari angka 4,25% menjadi 4,75%, suku
   bunga terbaru ini adalah strategi Bank Indonesia mengontrol laju inflasi.
   Benarkah demikian? Yuk kupas tuntas alasan kenaikkan suku bunga Indonesia Q4!
 date: 2022-10-20T13:44:54.065Z
+tag:
+  - Suku Bunga
+  - Analisis Investasi
+  - Investasi Jangka Panjang
+  - Laju Inflasi
+category:
+  - Investasi
+  - Keuangan
 featuredImage:
   src: https://cdn.discordapp.com/attachments/977943413909487668/1032652659716534343/unknown.png
   alt: Kenaikan suku bunga Indonesia terbaru
@@ -97,6 +105,10 @@ Sederhananya, kamu bisa jadi pemilik berbagai bisnis UMKM potensial dan berpelua
 
 Tertarik ambil peluang ini?
 
-## [\#MulaiSekarang Bisa Investasi Modal 1 Jutaan! Yuk Download LandX App!](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)
+## [\#MulaiSekarang Bisa Investasi Modal 1 Jutaan! Yuk Download LandX App!](https://app.landx.id/?utm_source=Organic+Page&utm_medium=Content+Blog&utm_campaign=BlogLandX&utm_id=Blog)
+
+<!--StartFragment-->
+
+[![miliki bisnis modal kecil cuma dengan 1 jutaan dapat 4 cabang ](https://accountgram-production.sfo2.cdn.digitaloceanspaces.com/landx_ghost/2021/11/jadi-owner-bisnis-hanya-1-jutaan-dengan-cuan-yang-sangat-menjanjikan.png)](https://app.landx.id/?utm_source=Organic+Page&utm_medium=Content+Blog&utm_campaign=BlogLandX&utm_id=Blog)
 
 <!--EndFragment-->
