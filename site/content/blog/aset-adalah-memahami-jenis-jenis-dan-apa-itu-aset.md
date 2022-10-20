@@ -132,19 +132,10 @@ Tidak lagi identik dengan butuh modal aset besar, sekarang investasi bisa dilaku
 
 Lewat skema ini, anda bisa patungan bersama masyarakat luas untuk mendanai bisnis UMKM yang potensial. Dengan investasi, anda melakukan manajemen aset untuk menghindari penurunan nilai uang dan bahkan memberikan keuntungan lebih besar. 
 
-## **[Yuk Ikut Patungan Bisnis Menguntungkan Bareng LandX](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)**
+<!--StartFragment-->
 
-[![Yuk Patungan Bisnis Melalui LandX Platform Securities Crowdfunding Terpercaya](https://accountgram-production.sfo2.cdn.digitaloceanspaces.com/landx_ghost/2021/09/patungan-bisnis-menguntungkan-bareng-landx-6.png)](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)
+[![miliki bisnis modal kecil cuma dengan 1 jutaan dapat 4 cabang ](https://accountgram-production.sfo2.cdn.digitaloceanspaces.com/landx_ghost/2021/11/jadi-owner-bisnis-hanya-1-jutaan-dengan-cuan-yang-sangat-menjanjikan.png)](https://app.landx.id/?utm_source=Organic+Page&utm_medium=Content+Blog&utm_campaign=BlogLandX&utm_id=Blog)
 
-**[Jangan Lupa!! Follow @landx.id di Instagram Supaya Terus Update Berbagai Info Seputar Investas](https://instagram.com/landx.id?utm_medium=copy_link)i**
-
-- - -
-
-**Baca Juga:**
-
-* \***\*[**Return on Investment (ROI): Cara Menghitung dan Jenis-Jenis ROI**](https://landx.id/blog/return-on-investment-roi-adalah/)\*\***
-* \***\*[**Crowdfunding di Indonesia: Mengenal Sistem Investasi Melalui crowdfunding yang Semakin Diminati Masyarakat Indonesia**](https://landx.id/blog/crowdfunding-di-indonesia-untuk-investasi/)\*\***
+<!--EndFragment-->
 
 - - -
-
-**\#YukPatunganBisnis  #LandX.id    #landx         #landx.id    #InvestasiBisnis    #SecuritiesCrowdfunding #EquityCrowdfunding    #InvestasiMenguntungkan    #Urundana    #BisnisPatungan    #InvestasiUsaha**
