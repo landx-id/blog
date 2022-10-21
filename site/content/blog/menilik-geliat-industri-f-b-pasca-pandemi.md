@@ -9,8 +9,15 @@ metaDescription: Data pertumbuhan industri makanan dan minuman 2022 berikan
 intro: Data pertumbuhan industri makanan dan minuman 2022 berikan hembusan angin
   segar bagi potensi bisnis F&B Indonesia. Yuk lihat data dan faktanya!
 date: 2022-09-29T09:03:44.892Z
+tag:
+  - Bisnis F&B
+  - Bisnis FnB
+  - "franchise "
+category:
+  - Bisnis
+  - Investasi
 featuredImage:
-  src: img/landx_infografis_geliat-industri-f_b_landscape_01.png
+  src: https://media.discordapp.net/attachments/913743599844343808/1032932051344699452/unknown.png?width=1080&height=466
   alt: data industri makanan dan minuman 2022
   title: data industri fnb
 ---
@@ -67,4 +74,10 @@ Kamu juga dapat memanfaatkan potensi bisnis F&B ini dengan ide dan peluang bisni
 
 Jadi bagian pemilik bisnis mudah dan tanpa repot lewat equity crowdfunding. Sekarang lagi buka pendanaan bisnis untuk project coffee shop loh, yuk lihat bisnisnya dan sebelum kehabisan!
 
-## [Jadi Pemilik Bisnis Mudah di Sini](https://app.landx.id/?utm_source=Organic+Page&utm_medium=Content+Blog&utm_campaign=BlogLandX&utm_id=Blog)
+## [Jadi Pemilik Bisnis Mudah di Sini](https://app.landx.id/?utm_source=Content+Listing&utm_medium=Content+Blog&utm_campaign=BlogLandX&utm_id=Blog)
+
+<!--StartFragment-->
+
+[![miliki bisnis modal kecil cuma dengan 1 jutaan dapat 4 cabang ](https://accountgram-production.sfo2.cdn.digitaloceanspaces.com/landx_ghost/2021/11/jadi-owner-bisnis-hanya-1-jutaan-dengan-cuan-yang-sangat-menjanjikan.png)](https://app.landx.id/?utm_source=Content+Listing&utm_medium=Content+Blog&utm_campaign=BlogLandX&utm_id=Blog)
+
+<!--EndFragment-->
