@@ -10,6 +10,11 @@ intro: Biasanya term loan digunakan oleh para pelaku usaha kecil untuk keperluan
   bisnisnya. Fasilitas term loan ini ditetapkan oleh banyak bank sebagai
   pinjaman berjangka untuk membantu bisnis kecil.
 date: 2022-09-29T06:09:40.340Z
+tag:
+  - Lembaga Keuangan
+category:
+  - Keuangan
+  - Investasi
 featuredImage:
   alt: Term Loan Adalah
   title: Term Loan dan Bedanya dengan Leasing
@@ -70,3 +75,9 @@ Melalui aplikasi [equity crowdfunding](https://landx.id/) seperti [LandX](https:
 Tunggu apa lagi?
 
 ## [Yuk, Danai Bisnis Potensial Favorit Kamu Lewat LandX Sekarang Juga! ](https://app.landx.id/?utm_source=Organic+Page&utm_medium=Content+Blog&utm_campaign=BlogLandX&utm_id=Blog)
+
+<!--StartFragment-->
+
+[![miliki bisnis modal kecil cuma dengan 1 jutaan dapat 4 cabang ](https://accountgram-production.sfo2.cdn.digitaloceanspaces.com/landx_ghost/2021/11/jadi-owner-bisnis-hanya-1-jutaan-dengan-cuan-yang-sangat-menjanjikan.png)](https://app.landx.id/?utm_source=Organic+Page&utm_medium=Content+Blog&utm_campaign=BlogLandX&utm_id=Blog)
+
+<!--EndFragment-->
