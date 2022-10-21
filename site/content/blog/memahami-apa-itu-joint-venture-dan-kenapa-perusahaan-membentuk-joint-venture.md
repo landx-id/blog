@@ -152,9 +152,13 @@ Berbicara tentang patungan, LandX merupakan **[platform equity crowdfunding](htt
 
 Karena itu,,,,
 
-### **Yuk Temukan Bisnis Terbaik untuk Investasi Jangka Panjang Kamu di LandX**
+### **[Yuk Temukan Bisnis Terbaik untuk Investasi Jangka Panjang Kamu di LandX](https://app.landx.id/?utm_source=Organic+Page&utm_medium=Content+Blog&utm_campaign=BlogLandX&utm_id=Blog)**
 
-[![patungan bisnis melalui skema equity crowdfunding bareng landx](https://accountgram-production.sfo2.cdn.digitaloceanspaces.com/landx_ghost/2021/10/patungan-bisnis-menguntungkan-bareng-landx-6.png)](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)
+<!--StartFragment-->
+
+[![miliki bisnis modal kecil cuma dengan 1 jutaan dapat 4 cabang ](https://accountgram-production.sfo2.cdn.digitaloceanspaces.com/landx_ghost/2021/11/jadi-owner-bisnis-hanya-1-jutaan-dengan-cuan-yang-sangat-menjanjikan.png)](https://app.landx.id/?utm_source=Organic+Page&utm_medium=Content+Blog&utm_campaign=BlogLandX&utm_id=Blog)
+
+<!--EndFragment-->
 
 **[Mau Berbagai Informasi Menarik Seputar Keuangan Lainnya? Yuk Follow Instagram Kami @landx.id](https://www.instagram.com/landx.id/?utm_medium=copy_link)**
 
