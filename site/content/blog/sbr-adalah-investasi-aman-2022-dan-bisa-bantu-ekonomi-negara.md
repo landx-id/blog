@@ -11,6 +11,16 @@ intro: Saving Bond Ritel adalah surat berharga negara ritel yang merupakan
   dalam pembangunan negara dan tidak bergantung dengan modal luar negeri. Jadi,
   apa itu sbr? Yuk, simak artikel ini.
 date: 2022-09-30T09:03:37.839Z
+tag:
+  - Instrumen Investasi
+  - Obligasi
+  - Sukuk
+  - pilihan investasi
+  - investasi jangka panjang
+  - Investasi Jangka Pendek
+category:
+  - Investasi
+  - Bisnis
 featuredImage:
   alt: SBR Adalah
   title: Investasi Aman 2022
@@ -99,3 +109,9 @@ Jika kamu tertarik investasi jangka menengah dan panjang, maka skema [equity cro
 Dengan begitu, bisnis yang kamu danai kana melakukan ekspansi dan bertahan, sehingga investasi kamu akan berjangka panjang. Kamu juga akan mendapatkan keuntungan berupa dividen sesuai dengan performa bisnis yang kamu danai tadi. Tentunya memilih aplikasi yang sudah berpengalaman melakukan pendanaan bisnis potensial dan mendapatkan izin dari OJK seperti [LandX ](https://landx.id/)ya.
 
 ## [Yuk, Diversifkasi dengan Investasi Bisnis Potensial!](https://app.landx.id/?utm_source=Organic+Page&utm_medium=Content+Blog&utm_campaign=BlogLandX&utm_id=Blog)
+
+<!--StartFragment-->
+
+[![miliki bisnis modal kecil cuma dengan 1 jutaan dapat 4 cabang ](https://accountgram-production.sfo2.cdn.digitaloceanspaces.com/landx_ghost/2021/11/jadi-owner-bisnis-hanya-1-jutaan-dengan-cuan-yang-sangat-menjanjikan.png)](https://app.landx.id/?utm_source=Organic+Page&utm_medium=Content+Blog&utm_campaign=BlogLandX&utm_id=Blog)
+
+<!--EndFragment-->
