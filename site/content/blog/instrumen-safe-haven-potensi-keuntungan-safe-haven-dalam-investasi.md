@@ -10,6 +10,15 @@ intro: Instrumen safe haven adalah aset yang risiko fluktuasi nilainya rendah
   jika dihadapkan tidak stabilnya ekonomi. Ini dia penjelasan lengkap jenis,
   fungsi, dan potensi keuntungan instrumen safe haven di Indonesia.
 date: 2022-09-29T09:45:12.720Z
+tag:
+  - Investasi Aman
+  - Investasi Aman untuk Pemula
+  - Investasi Pemula
+  - Investasi untuk Pemula
+  - Cara Investasi Modal Kecil
+category:
+  - Investasi
+  - Keuangan
 featuredImage:
   src: https://images.unsplash.com/photo-1527788263495-3518a5c1c42d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=908&q=80
   alt: Pengertian dan Potensi Keuntungan Instrumen Safe Haven dalam Investasi
@@ -106,5 +115,9 @@ Salah satu platform skema tersebut adalah LandX yang memiliki market cap terbesa
 Tertarik untuk diversifikasi investasimu bersama LandX?
 
 ## [Download LandX App dan Temukan Beragam Proyek Potensial Sekarang Juga!](https://app.landx.id/?utm_source=Organic+Page&utm_medium=Content+Blog&utm_campaign=BlogLandX&utm_id=Blog)
+
+<!--StartFragment-->
+
+[![miliki bisnis modal kecil cuma dengan 1 jutaan dapat 4 cabang ](https://accountgram-production.sfo2.cdn.digitaloceanspaces.com/landx_ghost/2021/11/jadi-owner-bisnis-hanya-1-jutaan-dengan-cuan-yang-sangat-menjanjikan.png)](https://app.landx.id/?utm_source=Organic+Page&utm_medium=Content+Blog&utm_campaign=BlogLandX&utm_id=Blog)
 
 <!--EndFragment-->
