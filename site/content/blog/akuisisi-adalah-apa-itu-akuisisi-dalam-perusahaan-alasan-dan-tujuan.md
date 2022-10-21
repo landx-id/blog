@@ -9,6 +9,12 @@ intro: Sebagian dari kamu, mungkin pernah mendengar akuisisi. Akuisisi adalah
   pengambilalihan sebuah kepemilikan, baik perusahaan maupun aset oleh salah
   satu perusahaan yang ditetapkan dalam perjanjian dan kesepakatan sebelumnya.
 date: 2022-10-10T01:12:20.152Z
+tag:
+  - Investasi Bisnis
+  - Ventute Capital
+category:
+  - Bisnis
+  - Keuangan
 featuredImage:
   title: "Akuisisi Adalah: Apa Itu Akuisisi dalam Perusahaan? Alasan dan Tujuan"
   alt: "Akuisisi Adalah: Apa Itu Akuisisi dalam Perusahaan? Alasan dan Tujuan"
@@ -48,7 +54,7 @@ Penjelasan mengenai tujuan akuisisi yang dilakukan perusahaan sebagai strategi b
 
 Akuisisi perusahaan berpotensi meningkatkan keuntungan, serta bisnis pun diharapkan dapat bertahan jangka panjang. Namun, adapun kekurangan dari penerapan strategi akuisisi, yaitu:
 
-### Kekurangan akuisisi 
+### Kekurangan akuisisi
 
 * **Hilangnya lapangan kerja** karena akan ada penumpukan atau terlalu banyak tenaga kerja dalam perusahaan. Penyesuaian dan restrukturisasi 2 perusahaan dapat berdampak pada penyesuaian gaji hingga  menyebabkan pemotongan gaji.
 * Proses akuisisi perusahaan biasanya mengeluarkan **biaya dalam proses legalitasnya**. Hal tersebut dapat mengganggu proses produksi dan memungkinkan untuk hilangnya potensi dalam sektor tertentu.
@@ -99,3 +105,9 @@ Selain dengan akuisisi ada cara lain untuk ekspansi yaitu dengan melakukan penge
 [LandX](https://landx.id/) merupakan platform [equity crowdfunding](https://landx.id/) yang sudah berpengalaman untuk membantu bisnis-bisnis potensial saat ini dari berbagai sektor industri seperti, FnB, industri properti, kebugaran, dan masih banyak lagi.
 
 #### [Mau Ekspansi Bisnis? Kenalan Equity Crowdfunding Yuk!](https://app.landx.id/?utm_source=Organic+Page&utm_medium=Content+Blog&utm_campaign=BlogLandX&utm_id=Blog)
+
+<!--StartFragment-->
+
+[![miliki bisnis modal kecil cuma dengan 1 jutaan dapat 4 cabang ](https://accountgram-production.sfo2.cdn.digitaloceanspaces.com/landx_ghost/2021/11/jadi-owner-bisnis-hanya-1-jutaan-dengan-cuan-yang-sangat-menjanjikan.png)](https://app.landx.id/?utm_source=Organic+Page&utm_medium=Content+Blog&utm_campaign=BlogLandX&utm_id=Blog)
+
+<!--EndFragment-->
