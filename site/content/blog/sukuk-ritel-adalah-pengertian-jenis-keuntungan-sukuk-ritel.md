@@ -22,6 +22,8 @@ Investasi sukuk ritel ini cocok untuk kamu yang selama ini masih ragu untuk mela
 
 Di artikel kali ini, kita akan membahas seputar investasi sukuk ritel di Indonesia, mulai dari pengertian sukuk ritel,  cara investasi sukuk ritel, hingga keuntungan sukuk ritel. Jadi ikuti terus artikel ini, ya!
 
+![sukuk ritel adalah](https://cdn.discordapp.com/attachments/913745757100711946/1032920218093228062/Article_Image_2.png "sukuk ritel adalah")
+
 ## Sukuk Ritel
 
 Memang benar, aktivitas investasi tiap tahunnya mengalami kenaikan. Tetapi walaupun begitu, masih banyak orang yang ragu untuk melakukan investasi, karena dianggap tidak sesuai dengan syariat Islam. Banyak orang yang menganggap bahwa investasi adalah perbuatan riba.
@@ -160,7 +162,7 @@ Risiko market ini terjadi saat SBSN dijual di pasar sekunder. Risiko pasar pada 
 
 Risiko ini timbul apabila pemerintah gagal bayar atau tidak mampu untuk membayar kupon atau imbalan pokok pada para investor. Sebenarnya, risiko gagal bayar pemerintah jarang terjadi, namun sebagai investor kita tetap harus waspada.
 
-## Investasi Sekaligus Membantu Ekonomi Negara 
+## Investasi Sekaligus Membantu Ekonomi Negara
 
 Nah, itu tadi pembahasan seputar sukuk ritel sebagai salah satu instrumen investasi yang selurus proses pengelolaannya berdasar pada syariah Islam. Melalui investasi sukuk ritel, kamu berkesempatan untuk memperoleh return dan juga menjadi bagian dalam pembangunan nasional.
 
