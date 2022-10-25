@@ -1,47 +1,72 @@
 {{ define "main" }}
 
-<div class="mw6 center ph3 pv4 post-container">
-  <h1 class="f2 lh-title b mb3">{{.Title}}</h1>
+<style>
+  .blog-container .image {
+    width: 100%;
+    object-fit: cover;
+  }
 
-  <div class="flex justify-between grey-3">
+  .blog-title {
+    font-size: 34px;
+  }
+
+  .information {
+    font-size: 16px;
+    gap: 12px;
+  }
+</style>
+
+<div class="mw6 center ph3 pv4 post-container blog-container">
+  <h1 class="f2 lh-title b mb3 blog-title">{{.Title}}</h1>
+
+  <div class="flex grey-3 information">
     <p>{{ .Date.Format "Monday, 2 Jan 2006" }}</p>
     <p>Read in {{ .ReadingTime }} minutes</p>
   </div>
 
-  <div class="grey-4 mb-3" style="font-size: 0.8rem; cursor: pointer; margin-bottom: 24px;" onclick="window.location.href = '/blog/author/{{.Params.author | urlize}}'">Author: {{.Params.author}}</div>
-  
-  <div class="cms mw6">
-    {{if .Params.image}}
-    {{if in .Params.image "http"}}
+  <div
+    class="grey-4 mb-3"
+    style="font-size: 0.8rem; cursor: pointer; margin-bottom: 24px"
+    onclick="window.location.href = '/blog/author/{{.Params.author | urlize}}'"
+  >
+    Author: {{.Params.author}}
+  </div>
+
+  <div class="cms mw6 center">
+    {{if .Params.image}} {{if in .Params.image "http"}}
     <img src="{{.Params.image}}" class="image" />
     {{else}}
     <img src="{{.Site.Params.pathUrl}}/{{.Params.image}}" class="image" />
-    {{end}}
-
-    {{else if .Params.featuredImage.src}}
-    {{if in .Params.featuredImage.src "http"}}
-    <img src="{{.Params.featuredImage.src}}" class="image" alt="{{.Params.featuredImage.alt}}"
-      title="{{.Params.featuredImage.title}}" />
+    {{end}} {{else if .Params.featuredImage.src}} {{if in
+    .Params.featuredImage.src "http"}}
+    <img
+      src="{{.Params.featuredImage.src}}"
+      class="image"
+      alt="{{.Params.featuredImage.alt}}"
+      title="{{.Params.featuredImage.title}}"
+    />
     {{else}}
-    <img src="{{.Site.Params.pathUrl}}/{{.Params.featuredImage.src}}" class="image" alt="{{.Params.featuredImage.alt}}"
-      title="{{.Params.featuredImage.title}}" />
-    {{end}}
-    {{end}}
+    <img
+      src="{{.Site.Params.pathUrl}}/{{.Params.featuredImage.src}}"
+      class="image"
+      alt="{{.Params.featuredImage.alt}}"
+      title="{{.Params.featuredImage.title}}"
+    />
+    {{end}} {{end}}
 
     <p class="description">{{ .Params.intro }}</p>
     <div class="toc-container">
       <h2>Table Of Contents</h2>
       {{.TableOfContents}}
     </div>
-    <div style="font-size: 0.75rem">
-      {{ .Content }}
-    </div>
-
+    <div style="font-size: 0.75rem">{{ .Content }}</div>
 
     <div class="terms-container">
       <div class="chip-container in-content">
         {{ range .Params.tag }}
-        <a href="{{$.Site.Params.pathUrl}}/tag/{{. | urlize }}" class="chip">#{{.}}</a>
+        <a href="{{$.Site.Params.pathUrl}}/tag/{{. | urlize }}" class="chip"
+          >#{{.}}</a
+        >
         {{ end }}
       </div>
     </div>
@@ -49,18 +74,19 @@
 
   {{partial "related" .}}
 
-  <div class="paginator-container" style="padding-top: 32px; border-top: 1px solid #ccd7df">
+  <div
+    class="paginator-container"
+    style="padding-top: 32px; border-top: 1px solid #ccd7df"
+  >
     {{with .Next}}
-    <a title='Previous Page' href="{{.Permalink}}">
+    <a title="Previous Page" href="{{.Permalink}}">
       <i class="fas fa-arrow-left"></i>
       <span>Previous</span>
     </a>
     {{ else }}
     <div>&nbsp;</div>
-    {{ end }}
-
-    {{with .Prev}}
-    <a title='Previous Page' href="{{.Permalink}}">
+    {{ end }} {{with .Prev}}
+    <a title="Previous Page" href="{{.Permalink}}">
       <span>Next</span>
       <i class="fas fa-arrow-right"></i>
     </a>
@@ -68,22 +94,23 @@
     <div>&nbsp;</div>
     {{ end }}
   </div>
-
 </div>
 
 <script>
-  window.addEventListener('DOMContentLoaded', () => {
+  window.addEventListener("DOMContentLoaded", () => {
     const toc = document.getElementById("TableOfContents");
-    const anchor = toc.getElementsByTagName('a')
-    const loc = window.location
+    const anchor = toc.getElementsByTagName("a");
+    const loc = window.location;
     for (let i = 0; i < anchor.length; i++) {
-      anchor[i].href = loc.origin + loc.pathname + anchor[i].hash
+      anchor[i].href = loc.origin + loc.pathname + anchor[i].hash;
     }
 
-    const headings = document.querySelectorAll("h1[id], h2[id], h3[id], h4[id], h5[id], h6[id")
-    headings.forEach(item => {
-      item.style.scrollMarginTop = '3em'
-    })
+    const headings = document.querySelectorAll(
+      "h1[id], h2[id], h3[id], h4[id], h5[id], h6[id"
+    );
+    headings.forEach((item) => {
+      item.style.scrollMarginTop = "3em";
+    });
   });
 </script>
 
