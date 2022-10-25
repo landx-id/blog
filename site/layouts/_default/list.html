@@ -20,18 +20,18 @@
   }
 
   .blog-main-container .section-title {
-    font-size: 1.5rem;
-    color: #5e798D;
+    font-size: 32px;
+    color: #212529;
+    font-weight: 600;
   }
 
   .blog-section {
     height: fit-content;
     width: 100%;
     max-width: 1140px;
-    display: flex;
-    flex-direction: row;
-    flex-wrap: wrap;
-    gap: 12px;
+    gap: 20px;
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
   }
   .blog-item-container {
     flex: 0.5;
@@ -42,36 +42,33 @@
       padding: 32px 20px;
     }
 
+    .blog-section {
+      grid-template-columns: repeat(1, 1fr);
+    }
+
     .blog-item-container {
       flex: 1;
     }
   }
-
 </style>
 
 <div class="blog-main-container">
   <h1 class="section-title extra-bold">Artikel Pilihan</h1>
   <div class="blog-section">
-    {{ range .Site.Pages}}
-    {{ if .Params.isPinned }}
-    {{ .Render "landx-li"}}
-    {{end}}
-    {{ end }}
+    {{ range .Site.Pages}} {{ if .Params.isPinned }} {{ .Render "landx-li"}}
+    {{end}} {{ end }}
   </div>
 
-  <br>
-  <br>
+  <br />
+  <br />
 
   <h2 class="section-title extra-bold">Artikel Lainnya</h2>
   <div class="blog-section">
     {{ range (.Paginator 20).Pages.ByPublishDate.Reverse }}
-    <div class="blog-item-container">
-      {{ .Render "landx-li"}}
-    </div>
+    <div class="blog-item-container">{{ .Render "landx-li"}}</div>
     {{ end }}
   </div>
   {{ partial "landx-paginator" . }}
-
 </div>
 
 {{end}}
