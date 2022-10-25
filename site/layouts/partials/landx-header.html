@@ -1,10 +1,16 @@
 <div class="lx-header-container">
   <div class="main-container">
-    <div>
+    <div
+      style="
+        display: flex;
+        flex-direction: row;
+        align-items: center;
+        height: 100%;
+      "
+    >
       <img
         src="{{.Site.Params.pathUrl}}/img/landxV3.svg"
         class="lx-logo"
-        style="margin-right: 26px"
         alt="icx-logo"
         onclick="goTo('https://landx.id/')"
       />
@@ -71,8 +77,8 @@
       </button>
     </div>
     <img
-      src="{{.Site.Params.pathUrl}}/assets/images/logo/landxV3.svg"
-      alt="menu-button"
+      src="{{.Site.Params.pathUrl}}/img/hamburgerMenu.svg"
+      alt="menu-mobile"
       class="in-mobile menu"
       onclick="toggleMenu()"
     />
@@ -85,8 +91,8 @@
       <a href="/blog/category/{{ . | urlize }}">Keuangan</a>
       <a href="/blog/category/{{ . | urlize }}">Gaya Hidup</a>
       <a href="/blog/category/{{ . | urlize }}">Investasi</a>
-      {{ with .Site.GetPage "/partials/landx-header/_index.md" }}
-      {{ range .Params.headerCategory }}
+      {{ with .Site.GetPage "/partials/landx-header/_index.md" }} {{ range
+      .Params.headerCategory }}
       <a href="/blog/category/{{ . | urlize }}">{{ . }}</a>
       {{ end }} {{ end }}
     </div>
@@ -111,7 +117,7 @@
       </div>
       <button
         class="lx-button"
-        style="margin-top: 16px"
+        style="padding: 34px 0px 16px"
         onclick="goTo('https://landx.id/pendaftaran-perusahaan.html')"
         type="button"
       >
