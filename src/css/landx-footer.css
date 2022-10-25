@@ -13,4 +13,9 @@
 }
 
 @media (max-width: 768px) {
+  .footer-container {
+    padding-top: 46px;
+    padding-left: 16px;
+    padding-right: 16px;
+  }
 }
