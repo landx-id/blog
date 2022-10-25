@@ -1,5 +1,5 @@
 .toc-container {
-  padding: 16px 0px; 
+  padding: 16px 0px;
   border-bottom: 1px solid #ccd7df;
   border-top: 1px solid #ccd7df;
   margin: 64px 0px;
@@ -11,8 +11,11 @@
   font-weight: 700;
 }
 
-.post-container h1, .post-container h2, .post-container h3, .post-container h4, .post-container h5 {
+.post-container h1,
+.post-container h2,
+.post-container h3,
+.post-container h4,
+.post-container h5 {
   top: -250px;
   /* position: relative; */
 }
-
