@@ -1,130 +1,163 @@
-<div class='lx-header-container'>
+<div class="lx-header-container">
   <div class="main-container">
-    <img src='{{.Site.Params.pathUrl}}/img/landxV3.svg' class="lx-logo" alt='landx logo'
-      onclick="goTo('https://landx.id/')" />
-    <div class="lx-header-right  in-desktop">
-      <a href='https://landx.id/#why-landx'>Mengapa Landx</a>
-      <a href='https://landx.id/#ongoing-projects'>Proyek</a>
-      <a href='https://landx.id/#how-it-works'>Cara Kerja</a>
-      <a href='https://landx.id/contact.html'>Kontak</a>
-      <a href=''>Blog</a>
-      <div class="dropdown">
-        <span>Perusahaan</span>
-        <span><i class="fa fa-chevron-up closed" style="font-size: 12px;"></i></span>
-        <span><i class="fa fa-chevron-down expanded" style="font-size: 12px;"></i></span>
+    <div
+      style="
+        display: flex;
+        flex-direction: row;
+        align-items: center;
+        height: 100%;
+      "
+    >
+      <img
+        src="{{.Site.Params.pathUrl}}/img/landxV3.svg"
+        class="lx-logo"
+        alt="icx-logo"
+        onclick="goTo('https://landx.id/')"
+      />
+      <img
+        src="{{.Site.Params.pathUrl}}/img/ojk.svg"
+        class="lx-logo"
+        alt="ojk-logo"
+        onclick="goTo('https://landx.id/')"
+      />
+    </div>
+    <div class="lx-header-right in-desktop">
+      <a
+        class="lx-item"
+        style="
+          font-size: 16px;
+          font-weight: 700;
+          color: #868e96;
+          margin-right: 48px;
+        "
+        href="https://landx.id/investor"
+        >Investor</a
+      >
+      <a
+        class="lx-item"
+        style="
+          font-size: 16px;
+          font-weight: 700;
+          color: #868e96;
+          margin-right: 48px;
+        "
+        href="https://landx.id/penerbit"
+        >Penerbit</a
+      >
+      <div class="dropdown" style="margin-right: 48px; cursor: pointer">
+        <span style="font-size: 16px; font-weight: 700; color: #868e96"
+          >ID</span
+        >
+        <span
+          ><i
+            class="fa fa-chevron-down closed"
+            style="font-size: 12px; color: #868e96"
+          ></i
+        ></span>
+        <span
+          ><i
+            class="fa fa-chevron-up expanded"
+            style="font-size: 12px; color: #868e96"
+          ></i
+        ></span>
         <div class="dropdown-content">
           <div>
-            <a href='https://landx.id/blog/jobs-at-landx/'>Karir</a>
+            <a href="https://landx.id/blog/jobs-at-landx/">ID</a>
           </div>
           <div>
-            <a href='https://landx.id/syarat-dan-ketentuan.html'>Syarat & Ketentuan</a>
-          </div>
-          <div>
-            <a href='https://landx.id/privacy-policy.html'>Kebijakan Privasi</a>
-          </div>
-          <div>
-            <a href='https://landx.id/service-level-agreement.html'>Service Level Agreement</a>
-          </div>
-          <div>
-            <a href='https://landx.id/kebijakan-isms.html'>Kebijakan ISMS</a>
-          </div>
-          <div>
-            <a href='https://landx.id/mitigasi-risiko.html'>Mitigasi Resiko</a>
-          </div>
-          <div>
-            <a href='https://landx.id/blog/faq-landx'>FAQ</a>
+            <a href="https://landx.id/syarat-dan-ketentuan.html">EN</a>
           </div>
         </div>
       </div>
+      <button
+        class="lx-button lx-item in-desktop"
+        onclick="goTo('https://landx.id/pendaftaran-perusahaan.html')"
+      >
+        Get The App
+      </button>
     </div>
-
-    <img src='{{.Site.Params.pathUrl}}/img/hamburgerMenu.svg' alt="menu-button" class="in-mobile menu" onclick="toggleMenu()" />
-
-    <button class="lx-button in-desktop" onclick="goTo('https://landx.id/pendaftaran-perusahaan.html')">Pendaftaran
-      Perusahaan</button>
+    <img
+      src="{{.Site.Params.pathUrl}}/img/hamburgerMenu.svg"
+      alt="menu-mobile"
+      class="in-mobile menu"
+      onclick="toggleMenu()"
+    />
   </div>
-</div>
-
-<div class="category-section" id="categorysection">
-  <div class="main-container">
-    {{ with .Site.GetPage "/partials/landx-header/_index.md" }}
-    {{ range .Params.headerCategory }}
+  <div class="category-section" id="categorysection">
+    <div class="main-container">
+      <a href="/blog/category/{{ . | urlize }}">Semua</a>
+      <a href="/blog/category/{{ . | urlize }}">Terbaru</a>
+      <a href="/blog/category/{{ . | urlize }}">Bisnis</a>
+      <a href="/blog/category/{{ . | urlize }}">Keuangan</a>
+      <a href="/blog/category/{{ . | urlize }}">Gaya Hidup</a>
+      <a href="/blog/category/{{ . | urlize }}">Investasi</a>
+      {{ with .Site.GetPage "/partials/landx-header/_index.md" }} {{ range
+      .Params.headerCategory }}
       <a href="/blog/category/{{ . | urlize }}">{{ . }}</a>
-    {{ end }}
-  
-    {{ end }}
-  
-    <i class="far fa-newspaper"></i>
+      {{ end }} {{ end }}
+    </div>
   </div>
-</div>
 
-<div class="menu-drawer" id="menudrawer">
-  <div class="menu-container" id='menucontainer'>
-    <a href='https://landx.id/#why-landx' class="menu-item">Mengapa Landx</a>
-    <a href='https://landx.id/#ongoing-projects' class="menu-item">Proyek</a>
-    <a href='https://landx.id/#how-it-works' class="menu-item">Cara Kerja</a>
-    <a href='https://landx.id/contact.html' class="menu-item">Kontak</a>
-    <a class="menu-item" onclick="expandMenu()">Perusahaan</a>
-    <div class="second-menu" id="secondmenu">
-      <div id='items'>
-        <div class="second-menu-item">
-          <a href='https://landx.id/blog/jobs-at-landx/'>Karir</a>
-        </div>
-        <div class="second-menu-item">
-          <a href='https://landx.id/syarat-dan-ketentuan.html'>Syarat & Ketentuan</a>
-        </div>
-        <div class="second-menu-item">
-          <a href='https://landx.id/privacy-policy.html'>Kebijakan Privasi</a>
-        </div>
-        <div class="second-menu-item">
-          <a href='https://landx.id/service-level-agreement.html'>Service Level Agreement</a>
-        </div>
-        <div class="second-menu-item">
-          <a href='https://landx.id/kebijakan-isms.html'>Kebijakan ISMS</a>
-        </div>
-        <div class="second-menu-item">
-          <a href='https://landx.id/mitigasi-risiko.html'>Mitigasi Resiko</a>
-        </div>
-        <div class="second-menu-item">
-          <a href='https://landx.id/blog/faq-landx'>FAQ</a>
+  <div class="menu-drawer" id="menudrawer">
+    <div class="menu-container" id="menucontainer">
+      <a href="https://landx.id/#why-landx" class="menu-item">Investor</a>
+      <a href="https://landx.id/#ongoing-projects" class="menu-item"
+        >Penerbit</a
+      >
+      <a class="menu-item" onclick="expandMenu()">ID</a>
+      <div class="second-menu" id="secondmenu">
+        <div id="items">
+          <div class="second-menu-item">
+            <a href="https://landx.id/blog/jobs-at-landx/">ID</a>
+          </div>
+          <div class="second-menu-item">
+            <a href="https://landx.id/syarat-dan-ketentuan.html">EN</a>
+          </div>
         </div>
       </div>
+      <button
+        class="lx-button"
+        style="padding: 34px 0px 16px"
+        onclick="goTo('https://landx.id/pendaftaran-perusahaan.html')"
+        type="button"
+      >
+        Get The App
+      </button>
     </div>
-
-    <button class="lx-button" style="margin-top: 16px;" onclick="goTo('https://landx.id/pendaftaran-perusahaan.html')"
-      type="button">Pendaftaran Perusahaan</button>
   </div>
-</div>
 
+  <script>
+    let isMenuOpen = false;
 
-<script>
-  let isMenuOpen = false
+    let md = document.getElementById("menudrawer");
+    let mc = document.getElementById("menucontainer");
+    let sm = document.getElementById("secondmenu");
+    let it = document.getElementById("items");
 
-  let md = document.getElementById('menudrawer')
-  let mc = document.getElementById('menucontainer')
-  let sm = document.getElementById('secondmenu')
-  let it = document.getElementById('items')
-
-  function toggleMenu() {
-    isMenuOpen = !isMenuOpen
-    md.style.height = isMenuOpen ? `${mc.offsetHeight}px` : '0px'
-    // md.style.padding = isMenuOpen ? '16px' : '0px'
-  }
-
-  function expandMenu() {
-    sm.style.height = sm.style.height === `${it.offsetHeight}px` ? '0px' : `${it.offsetHeight}px`
-    md.style.height = md.style.height === `${mc.offsetHeight}px` ? '0px' : `${mc.offsetHeight}px`
-  }
-
-  function goTo(string) {
-    window.location.href = string;
-  }
-
-  window.addEventListener('resize', () => {
-    if (window.innerWidth > 768 && isMenuOpen) {
-      toggleMenu()
+    function toggleMenu() {
+      isMenuOpen = !isMenuOpen;
+      md.style.height = isMenuOpen ? `${mc.offsetHeight}px` : "0px";
     }
-  })
 
+    function expandMenu() {
+      sm.style.height =
+        sm.style.height === `${it.offsetHeight}px`
+          ? "0px"
+          : `${it.offsetHeight}px`;
+      md.style.height =
+        md.style.height === `${mc.offsetHeight}px`
+          ? "0px"
+          : `${mc.offsetHeight}px`;
+    }
 
-</script>
+    function goTo(string) {
+      window.location.href = string;
+    }
+
+    window.addEventListener("resize", () => {
+      if (window.innerWidth > 768 && isMenuOpen) {
+        toggleMenu();
+      }
+    });
+  </script>
+</div>
