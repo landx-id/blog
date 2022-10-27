@@ -20,7 +20,7 @@ category:
 featuredImage:
   alt: Biaya Lainnya dalam Pembelian Rumah
   title: Biaya Lainnya dalam Pembelian Rumah
-  src: https://images.unsplash.com/photo-1572120360610-d971b9d7767c?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2070&q=80
+  src: https://images.unsplash.com/photo-1565402170291-8491f14678db?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1117&q=80
 ---
 Ketika membeli rumah, ada banyak hal yang perlu dipersiapkan, baik itu rumah baru atau 'seken' bekas. Manusia membutuhkan tempat tinggal untuk keberlangsungan hidupnya, maka dari itu banyak orang menabung dan melakukan **investasi untuk mendapatkan rumah idaman**. 
 
