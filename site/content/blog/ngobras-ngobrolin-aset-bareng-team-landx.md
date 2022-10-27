@@ -26,7 +26,7 @@ Ingin tahu lebih lanjut? Yuk chit chat bareng di [NGOBRAS - Ngobrolin Aset Baren
 
 NGOBRAS adalah sarana bagi kamu yang ingin lebih paham apa itu investasi equity crowdfunding (ECF), serta beda ECF dan SCF (securities crowdfunding). Dengan memahami konsepnya, kamu dapat menjadikan ECF dan SCF sebagai opsi memaksimalkan aset kamu.
 
-NGOBRAS hadir di setiap hari Kamis pukul 19.30 WIB melalui link reservasi. 
+NGOBRAS hadir di setiap hari Kamis pukul 19.30 WIB melalui [link reservasi](https://info.landx.id/ngobras?utm_source=Blog&utm_medium=Artikel&utm_campaign=ArtikelNgobras&utm_id=ArtikelNgobras). 
 
 ## Cara Gabung NGOBRAS
 
