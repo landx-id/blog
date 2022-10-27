@@ -107,10 +107,10 @@ Banyak cara untuk mendapatkan passive income, salah satunya adalah dengan berinv
 
 Melakukan diversifikasi portofolio dengan investasi bisnis pada [equity crowdfunding](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog) dapat menjadi pilihan yang cocok bagi Anda. Berinvestasi dengan kepemilikan saham bisnis mulai dengan modal sejutaan dan mendapatkan imbal hasil dividen rutin hingga 4 kali dalam setahun.
 
-## **[Yuk, Tambah Modal untuk Siapkan Modal KPR Rumah 2022 dengan Investasi Bisnis](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)**
+## **[Yuk, Tambah Modal untuk Siapkan Modal KPR Rumah 2022 dengan Investasi Bisnis](https://app.landx.id/?utm_source=Content+Listing&utm_medium=Content+Blog&utm_campaign=BlogLandX&utm_id=Blog)**
 
 <!--StartFragment-->
 
-![miliki bisnis modal kecil cuma dengan 1 jutaan dapat 4 cabang ](https://accountgram-production.sfo2.cdn.digitaloceanspaces.com/landx_ghost/2021/11/jadi-owner-bisnis-hanya-1-jutaan-dengan-cuan-yang-sangat-menjanjikan.png "Cara punya bisnis modal kecil di LandX")
+[![miliki bisnis modal kecil cuma dengan 1 jutaan dapat 4 cabang ](https://accountgram-production.sfo2.cdn.digitaloceanspaces.com/landx_ghost/2021/11/jadi-owner-bisnis-hanya-1-jutaan-dengan-cuan-yang-sangat-menjanjikan.png)](https://app.landx.id/?utm_source=Content+Listing&utm_medium=Content+Blog&utm_campaign=BlogLandX&utm_id=Blog)
 
-<!--EndFragment-->
+[\#Bisnis F&B](https://landx.id/blog/tag/bisnis-fb)[\#Bisnis FnB](https://landx.id/blog/tag/bisnis-fnb)[\#franchise](https://landx.id/blog/tag/franchise)
