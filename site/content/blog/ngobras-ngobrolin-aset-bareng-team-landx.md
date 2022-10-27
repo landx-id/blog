@@ -9,6 +9,8 @@ metaDescription: Tingkatkan informasi keuangan kamu dan dapatkan informasi
 intro: Gabung dan dapatkan informasi seputar investasi serta tak ketinggalan
   penawaran menarik khusus untuk kamu!
 date: 2022-10-27T07:53:36.921Z
+tag:
+  - LandX
 featuredImage:
   src: https://images.unsplash.com/photo-1550096141-7263640aa48c?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80
   alt: webinar investasi
@@ -48,4 +50,4 @@ Kamu dapat terhubung secara langsung dengan Team Consultant Representative LandX
 
 Kamu dapat mengetahui informasi program menarik yang saat ini LandX tawarkan.
 
-## [Y﻿uk Daftar Gratis NGOBRAS Sekarang Juga](https://info.landx.id/ngobras?utm_source=Blog&utm_medium=Artikel&utm_campaign=ArtikelNgobras&utm_id=ArtikelNgobras)
+## [Y﻿uk Daftar Gratis NGOBRAS Sekarang Juga](https://reg-ngobras-landx.paperform.co/?utm_source=Newsletter&utm_medium=Email&utm_campaign=NL262022&utm_id=NL262022)
