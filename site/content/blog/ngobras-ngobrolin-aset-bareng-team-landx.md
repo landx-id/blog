@@ -20,7 +20,7 @@ Yuk ngobrol seru tentang investasi dan sistem pendanaan bisnis melalui skema equ
 
 Equity crowdfunding (ECF) adalah sistem pendanaan suatu proyek usaha atau bisnis secara patungan dari masyarakat melalui penawaran saham (berbasis teknologi). Layaknya pemegang saham atau investor pada bursa saham pada umumnya, kamu berkesempatan menerima bagi hasil keuntungan berupa dividen sesuai performa bisnis yang diinvestasikan.
 
-Ingin tahu lebih lanjut? Yuk chit chat bareng di NGOBRAS - Ngobrolin Aset Bareng Team LandX!
+Ingin tahu lebih lanjut? Yuk chit chat bareng di [NGOBRAS - Ngobrolin Aset Bareng Team LandX!](https://info.landx.id/ngobras?utm_source=Blog&utm_medium=Artikel&utm_campaign=ArtikelNgobras&utm_id=ArtikelNgobras)
 
 ## Tentang NGOBRAS
 
@@ -28,7 +28,7 @@ NGOBRAS adalah sarana bagi kamu yang ingin lebih paham apa itu investasi equity 
 
 ## Cara Gabung NGOBRAS
 
-NGOBRAS hadir di setiap hari Kamis pukul 19.30 WIB melalui link reservasi. Klik Daftar Gratis di laman ini dan kami akan mengirimkan link webinar (Zoom) agar kamu bisa pesan kursi online duluan😉
+NGOBRAS hadir di setiap hari Kamis pukul 19.30 WIB melalui link reservasi. Klik [Daftar Gratis di laman ini](https://info.landx.id/ngobras?utm_source=Blog&utm_medium=Artikel&utm_campaign=ArtikelNgobras&utm_id=ArtikelNgobras) dan kami akan mengirimkan link webinar (Zoom) agar kamu bisa pesan kursi online duluan😉
 
 ## Benefit Join NGOBRAS
 
