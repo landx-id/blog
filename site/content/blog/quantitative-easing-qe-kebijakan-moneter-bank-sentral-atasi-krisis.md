@@ -10,6 +10,14 @@ intro: Quantitative easing adalah kebijakan untuk mendukung perekonomian negara
   yang sedang dilanda krisis melalui peningkatan jumlah uang beredar. Bagaimana
   cara quantitative easing dan dampaknya? Yuk cari tahu lebih lanjut!
 date: 2022-10-04T15:18:52.411Z
+tag:
+  - Ekonomi
+  - Inflasi
+  - Laju Inflasi
+  - investasi jangka panjang
+category:
+  - Investasi
+  - Keuangan
 featuredImage:
   alt: Quantitative Easing adalah
   title: Quantitative Easing adalah
@@ -103,4 +111,8 @@ Berbagai lembaga dan pemerintah selalu berusaha menjaga perekonomian Indonesia, 
 
 Penting bagi kita memersiapkan dana pribadi seperti dana darurat, aset, hingga investasi pada sektor yang disarankan profesional. Mari persiapkan keuangan kita sedini mungkin agar dapat survive dari kemungkinan terjangan resesi di masa depan.
 
-#### [Bersiap Menghadapi Resesi](https://app.landx.id/?utm_source=Organic+Page&utm_medium=Content+Blog&utm_campaign=BlogLandX&utm_id=Blog)
+#### [Y﻿uk Siapkan Investasimu dari Sekarang](https://app.landx.id/?utm_source=Organic+Page&utm_medium=Content+Blog&utm_campaign=BlogLandX&utm_id=Blog)
+
+[](https://app.landx.id/?utm_source=Organic+Page&utm_medium=Content+Blog&utm_campaign=BlogLandX&utm_id=Blog)[![miliki bisnis modal kecil cuma dengan 1 jutaan dapat 4 cabang ](https://accountgram-production.sfo2.cdn.digitaloceanspaces.com/landx_ghost/2021/11/jadi-owner-bisnis-hanya-1-jutaan-dengan-cuan-yang-sangat-menjanjikan.png)](https://app.landx.id/?utm_source=Organic+Page&utm_medium=Content+Blog&utm_campaign=BlogLandX&utm_id=Blog)
+
+<!--EndFragment-->
