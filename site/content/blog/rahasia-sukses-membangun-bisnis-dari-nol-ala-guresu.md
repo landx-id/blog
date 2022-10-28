@@ -10,6 +10,13 @@ intro: Esha Mahendra selaku pendiri Guresu Dining, membagikan pengalaman dan
   kiat-kiat jitu dalam memulai bisnis dari nol terutama untuk para pemula. Yuk,
   simak tipsnya!
 date: 2022-10-11T06:37:54.762Z
+tag:
+  - LandX
+  - Bisnis F&B
+  - Memulai Usaha
+category:
+  - Investasi
+  - Bisnis
 featuredImage:
   src: https://cdn.discordapp.com/attachments/976309038067367996/1029285708239753236/LandX_poster-webinar_TALX4_1080x1080-px.png
   alt: Talx by LandX Tips Membangun Usaha
@@ -25,19 +32,13 @@ Walaupun jauh dari kata mudah, scale up bisnis dapat kita pelajari melalui prose
 
 Dalam artikel ini, akan dibahas 6 tips membangun bisnis dari nol ala Guresu. Tips ini secara langsung telah disampaikan oleh Esha Mahendra pada Kamis, 6 Oktober 2022 dalam program Talx by LandX 04 yang bertajuk “Tips Cerdas Menggalang Modal Usaha: Peluang Terbaik untuk Mengembangkan Bisnis.”
 
-
-
 Penasaran bagaimana Guresu memulai bisnisnya? Simak terus artikel ini agar kamu dapat menemukan rahasia sukses mebangun bisnis dari nol!
 
 ## Guresu Scaleup Bisnis dengan Konsep Omakase
 
 Guresu memulai bisnis dari nol di awal tahun 2021. Didirikan oleh Esha Mahendra dan Ankatama Ruyatna, bermula dari gerai berupa kontainer kecil di daerah Bintaro, kini Guresu telah memiliki dua gerai yang sangat proper dengan kualitas bahan pilihan, yakni di Dekhad, Gandaria dan Kemang Timur.
 
-
-
 Cabang terbaru yang terletak di Kemang Timur memberikan pengalaman baru bagi para penikmat sushi melalui konsep Omakase. Konsep ini merupakan salah satu cara memesan menu makanan dengan membiarkan koki memilih pesanan yang akan disantap.
-
-
 
 Rupanya hal ini menjadi daya tarik sekaligus langkah scaleup bisnis tersendiri bagi Guresu dalam menarik pelanggan dengan menyiapkan hidangan berkualitas di harga yang masih terjangkau. 
 
@@ -45,15 +46,11 @@ Rupanya hal ini menjadi daya tarik sekaligus langkah scaleup bisnis tersendiri b
 
 Keberhasilan Guresu dalam memulai bisnis dari nol tidak selamanya berjalan mudah, mulai dari keadaan modal yang terbatas hingga tuntutan perkembangan zaman yang mempengaruhi gaya baru perilaku konsumen. Menyikapi hal tersebut, Esha Mahendra menerapkan beberapa langkah yang harus dilakukan agar bisnis dapat berjalan secara konsisten. 
 
-
-
 Sebagai seorang yang telah memiliki berbagai pengalaman di bidang enterpreneur, content creator, podcaster, author, sekaligus pendiri restoran Guresu Dining, Esha Mahendra mengungkapkan 6 tips sukses membangun bisnis dari nol:
 
 ### 1. *Don't be scared to start small!*
 
 Berani memulai adalah modal pertama dalam membangun sebuah kesuksesan. Pemula bisnis seringkali dihadapkan dengan keterbatasan modal. Walaupun tidak dapat dipungkiri bahwa modal adalah faktor terbesar dan utama dalam membangun bisnis. 
-
-
 
 Menurut Esha Mahendra, memulai sesuatu tidak harus selalu dari hal yang besar. Berbagai cara dapat dilakukan untuk menyiasati keterbatasan modal. Namun hal tersebut dapat disiasati dengan perencanaan dan eksekusi strategi yang matang.
 
@@ -67,15 +64,9 @@ Bisnis yang sukses adalah bisnis yang memiliki nilai lebih atau keunikan pada pr
 
 Nilai plus sebuah produk dari bisnis yang kamu miliki akan menciptakan daya tarik tersendiri sehingga dapat bersaing dengan kompetitor bisnis serupa lainnya. Diperlukan riset secara mendalam terhadap produk yang benar-benar dibutuhkan oleh konsumen.
 
-
-
 Selain memiliki produk dan cita rasa yang enak, Guresu juga memastikan bahwa para pengunjung mendapatkan pengalaman emosional yang mengesankan dan tertarik untuk kembali lagi atau menjadi pelanggan setia.
 
-
-
 Esha Mahendra menyebutkan bahwa pengembangan inovasi bisnis selain pada produk utama yakni makanan, juga terdapat pada nama atau brand produk, logo, packaging, developing menu, termasuk menyusun konsep pengalaman makan di tempat secara serius. 
-
-
 
 Dengan menentukan keunikan dan nilai lebih produk, kamu dapat membangun bisnis jangka panjang, tidak sekadar mengikuti tren, melainkan dapat benar-benar menawarkan produk yang layak untuk di jual.
 
@@ -83,11 +74,7 @@ Dengan menentukan keunikan dan nilai lebih produk, kamu dapat membangun bisnis j
 
 Setelah menemukan keunikan dan nilai lebih suatu produk, salah satu strategi yang paling mendasar dalam membangun bisnis yakni membangun kepercayaan audiens. Esha Mahendra berujar bahwa “Kita hidup di media sosial yang everyone love to share.” Sehingga momentum sekaligus menjadi strategi dalam memasarkan produk.
 
-
-
 Umumnya para konsumen sangat senang dengan penawaran, seperti promo dan diskon. Promo ini dapat dijadikan ajang memperkenalkan produk ke masyarakat secara lebih luas melalui pendekatan emosional agar konsumen lebih mudah memperhatikan dan mengingat produk, hingga memberikan ulasan positif.
-
-
 
 Memanfaatkan jaringan sosial dengan imbalan ulasan positif akan memberi dampak besar bagi sebuah perkembangan bisnis. Semakin banyak ulasan positif pada produk bisnismu, semakin luas jangkauan pasar, maka semakin besar peluang untuk mendapatkan lebih banyak konsumen.
 
@@ -95,19 +82,13 @@ Memanfaatkan jaringan sosial dengan imbalan ulasan positif akan memberi dampak b
 
 Tidak sedikit kita temukan, beberapa orang yang baru memulai membangun usaha mengabaikan faktor realistis dalam berbisnis. Padahal, modal dalam membangun bisnis adalah adanya perencanaan dan fokus bisnis yang matang. Perhitungan dan riset pasar menjadi sangat penting untuk menentukan arah bisnis yang akan dijalankan. 
 
-
-
 “Mulai dari hal yang paling mungkin untuk dicapai.” ujar Esha Mahendra. Bersikap realistis dapat dimulai dari hal-hal terdekat, bertahap, dan konsisten. Seperti menentukan target konsumen, analisis produk, hingga melakukan ekspansi bisnis.
-
-
 
 Ide kreatif dan mimpi yang besar, sebaiknya diiringi dengan fokus dan pemetaan strategi bisnis yang tepat sasaran. Sehingga ketika bisnis akhirnya sudah mulai berkembang, kamu tidak dengan mudah terjebak dengan euforia dan tetap termotivasi untuk membuat bisnis bertumbuh menjadi lebih besar.
 
 ### 5. *Be the best version of yourself, as the founder!*
 
 Saat membangun bisnis dari nol, kamu telah otomatis menjadi seorang founder dari bisnismu sendiri. Founder menjadi pondasi awal kesuksesan sebuah bisnis.  Sementara bisnis yang mampu bertahan lama haruslah memiliki seorang founder dengan wawasan dan pengetahuan mendalam juga ketertarikan emosional terhadap industri yang akan dibangun.
-
-
 
 Kemampuan dasar seorang founder menjadi tombak utama saat menghadapi setiap situasi yang mungkin akan terjadi dalam perkembangan bisnis. Menurut Esha Mahendra, sikap disiplin, mental, keberanian, dan kebiasaan untuk selalu belajar akan membantu terealisasikannya sebuah bisnis yang jauh lebih optimal. 
 
@@ -135,6 +116,10 @@ Jika kamu punya bisnis dan sedang berencana untuk melakukan ekspansi, tapi meras
 
 LandX x Moka Capital merupakan platform equity crowdfunding (ECF) yang menaungi berbagai project bisnis dari berbagai sektor industri. Para investor dapat ikut berinvestasi di berbagai project bisnis menarik dengan modal yang relatif terjangkau, mulai dari satu juta rupiah. Tunggu apalagi? 
 
-## [Daftarkan Bisnismu di LandX x Moka Capital dan Scale-up Sekarang Juga!](https://moka.landx.id/)
+## [Daftarkan Bisnismu di LandX x Moka Capital dan Scale-up Sekarang Juga!](https://app.landx.id/?utm_source=Organic+Page&utm_medium=Content+Blog&utm_campaign=BlogLandX&utm_id=Blog)
+
+<!--StartFragment-->
+
+[![miliki bisnis modal kecil cuma dengan 1 jutaan dapat 4 cabang ](https://accountgram-production.sfo2.cdn.digitaloceanspaces.com/landx_ghost/2021/11/jadi-owner-bisnis-hanya-1-jutaan-dengan-cuan-yang-sangat-menjanjikan.png)](https://app.landx.id/?utm_source=Organic+Page&utm_medium=Content+Blog&utm_campaign=BlogLandX&utm_id=Blog)
 
 <!--EndFragment-->
