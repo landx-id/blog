@@ -1,7 +1,7 @@
 ---
 draft: false
 author: Della Octavilia
-title: "Break Even Point Adalah: Definisi, Manfaat, & Cara Menghitung  BEP"
+title: "Break Even Point Adalah: Definisi, Manfaat & Cara Menghitung  BEP"
 metaTitle: "Break Even Point Adalah: Definisi, Manfaat, & Cara Menghitung  BEP"
 metaDescription: Apa itu BEP? BEP atau Break Even Point adalah kondisi jumlah
   pendapatan dan pengeluaran perusahaan sama, sehingga tidak terdapat rugi
