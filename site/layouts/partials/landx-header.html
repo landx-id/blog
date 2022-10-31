@@ -43,12 +43,16 @@
     <button class="lx-button in-desktop" onclick="goTo('https://landx.id/pendaftaran-perusahaan.html')">Pendaftaran
       Perusahaan</button>
   </div>
-</div>
-
-<div class="category-section" id="categorysection">
-  <div class="main-container">
-    {{ with .Site.GetPage "/partials/landx-header/_index.md" }}
-    {{ range .Params.headerCategory }}
+  <div class="category-section" id="categorysection">
+    <div class="main-container">
+      <a href="/blog">Semua</a>
+      <a href="/blog/category/{{ . | urlize }}">Terbaru</a>
+      <a href="/blog/category/{{ . | urlize }}">Bisnis</a>
+      <a href="/blog/category/{{ . | urlize }}">Keuangan</a>
+      <a href="/blog/category/{{ . | urlize }}">Gaya Hidup</a>
+      <a href="/blog/category/{{ . | urlize }}">Investasi</a>
+      {{ with .Site.GetPage "/partials/landx-header/_index.md" }} {{ range
+      .Params.headerCategory }}
       <a href="/blog/category/{{ . | urlize }}">{{ . }}</a>
     {{ end }}
   
