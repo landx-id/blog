@@ -3,9 +3,9 @@ draft: false
 author: Rafa Syawalia R
 title: "Money Market Adalah: Pengertian, Fungsi dan Manfaat Money Market"
 metaTitle: "Apa Itu Money Market: Pengertian dan Manfaat Pasar Uang"
-metaDescription: Apa itu money market adalah pasar yang menyediakan sarana
-  pengalokasian dana untuk jual beli dan pinjam-meminjam dana dalam jangka waktu
-  pendek.
+metaDescription: "Monetary market adalah pasar perdagangan instrumen investasi
+  jangka pendek seperti deposito. Perbedaan money market dan capital market
+  adalah "
 intro: Money market adalah mekanisme pasar yang memungkinkan bagi seseorang atau
   korporasi untuk dengan mudah melakukan transaksi penjualan dan pembelian dalam
   bentuk sekuritas keuangan.
@@ -21,8 +21,6 @@ featuredImage:
   alt: Arti Apa Itu Money Market adalah tempat transaksi jual beli
   title: Memahami pengertian money market adalah dan manfaat money market
 ---
-<!--StartFragment-->
-
 Money market adalah pasar yang menyediakan sarana pengalokasikan pinjaman dana jangka pendek. Money market merupakan jenis dari pasar keuangan atau financial markets sebagai tempat terjadinya transaksi berbagai instrumen keuangan dengan melibatkan berbagai pihak. Pasar-pasar ini muncul dalam era modern sekarang, salah satunya adalah money market (pasar uang). 
 
 Untuk lebih lengkapnya, apa itu money market? Simak pengertiannya, fungsi dan manfaatnya dalam artikel berikut. 
@@ -37,17 +35,17 @@ Melansir dari Bank Indonesia, money market adalah bagian dari sistem keuangan ya
 
 Secara sederhana, pasar uang adalah tempat instrumen yang diperdagangkan oleh pemilik modal kepada peminjam modal dengan jangka pendek. Instrumen money market dapat dikonversi menjadi uang tunai dengan cepat dan dengan biaya relatif rendah. Tingkat keuntungan atau return yang ditawarkan oleh produk money market biasanya lebih rendah karena memiliki risiko harga rendah akibat rentan waktu yang singkat.
 
-## Fungsi Money Market
+## Fungsi Pasar Uang
 
-Seperti yang dilansir dari laman Bank Indonesia, untuk menetapkan dan melaksanakan kebijakan moneter, Bank Indonesia melakukan pengendalian moneter melalui pasar uang rupiah maupun valuta asing. Untuk meningkatkan efektivitas kebijakan moneter, makroprudensial, sistem pembayaran dan pengelolaan uang rupiah yang dilakukan oleh Bank Indonesia, perlu adanya pendalaman pasar keuangan untuk mencapai pasar uang domestik yang efisien, likuid, dan dalam. 
+Seperti yang dilansir dari laman Bank Indonesia, untuk menetapkan dan melaksanakan kebijakan moneter maka Bank Indonesia melakukan pengendalian moneter melalui pasar uang rupiah maupun valuta asing. Untuk meningkatkan efektivitas kebijakan moneter, makroprudensial, sistem pembayaran dan pengelolaan uang rupiah yang dilakukan oleh Bank Indonesia, perlu adanya pendalaman pasar keuangan untuk mencapai pasar uang domestik yang efisien, likuid, dan dalam. 
 
-Jika diminta jelaskan apa yang menjadi fungsi atau manfaat pasar uang, berikut adalah fungsi money market lainnya:
+Jika diminta jelaskan apa yang menjadi fungsi pasar uang atau manfaat pasar uang, berikut adalah fungsi money market:
 
 ### 1. Fungsi Likuiditas
 
 Seperti pada penjelasan mengenai apa itu money market adalah sebagai likuiditas antara pemilik modal dengan peminjam modal. Untuk memperoleh kelebihan kas (uang tunai) yang dimiliki, biasanya para pemilik modal atau investor akan menyimpan kas tersebut di money market seperti deposito dan Sertifikat Bank Indonesia. 
 
-Nantinya jika ingin memperoleh pendapatan jangka pendek, maka dihasilkan dari perputaran pinjam-meminjam dan jual beli. Sedangkan untuk pengusaha, money market dijadikan sebagai sumber modal jangka pendek untuk memenuhi kebutuhan bisnis.
+Nantinya jika ingin memperoleh pendapatan jangka pendek, maka dihasilkan dari perputaran pinjam-meminjam dan jual beli. Sedangkan untuk pengusaha, fungsi money market dijadikan sebagai sumber modal jangka pendek untuk memenuhi kebutuhan bisnis.
 
 Ada dua tipe pendanaan jangka pendek yang dalam transaksi pasar uang yaitu, pendanaan spontan dan pendanaan yang memerlukan negosiasi. Pendanaan spontan adalah tipe pendanaan yang terjadi karena perubahan situasi ketika berlangsungnya aktivitas ekonomi. Sedangkan pendanaan yang memerlukan negosiasi merupakan tipe pendanaan yang memerlukan diskusi dan perjanjian proses selama prosesnya.
 
@@ -61,7 +59,7 @@ Untuk menjaga perekonomian secara makro, produk surat berharga pemerintah atau y
 
 ### 3. Fungsi Informasi
 
-Untuk pelaku-pelaku dalam money market, seperti perbankan, perusahaan, pemerintah, dan otoritas moneter–terkait arah kebijakan kondisi moneter, prefensi, dan tingkah laku peserta money market, adanya money market sebagai sarana informasi mengenai perkembangan pasar itu sendiri dan sebagai gambaran mengenai kondisi atau prospek ekonomi domestik dan luar negeri.
+Untuk pelaku-pelaku pasar uang, seperti perbankan, perusahaan, pemerintah, dan otoritas moneter–terkait arah kebijakan kondisi moneter, prefensi, dan tingkah laku peserta money market, adanya fungsi money market sebagai sarana informasi mengenai perkembangan pasar itu sendiri dan sebagai gambaran mengenai kondisi atau prospek ekonomi domestik dan luar negeri. 
 
 ### 4. Akumulasi Kekayaan
 
@@ -71,7 +69,7 @@ Ketika seseorang meminjamkan kekayaan atau menjualnya dalam money market, surat 
 
 Money market dan capital market merupakan sarana bagi para investor untuk melakukan investasi. Keduanya memiliki perbedaan karakteristik tertentu baik dari segi jangka waktu, instrumen yang diperjualbelikan, tempat penjualan maupun tujuan para penjual dan pembelinya. 
 
-Pada money market lebih bersifat abstrak yang tidak memiliki tempat khusus seperti capital market. Untuk lebih jelasnya, berikut adalah perbedaanya:
+Pada money market lebih bersifat abstrak yang tidak memiliki tempat khusus seperti capital market. Untuk lebih jelasnya, berikut adalah perbedaan money market dan capital market:
 
 ### 1. Instrumen yang Diperjualbelikan
 
@@ -95,24 +93,31 @@ Jika seorang investor membeli surat-surat berharga di money market, maka dia men
 
 Berikut adalah instrumen ataupun surat-surat yang diperjualbelikan di money market Indonesia, yaitu:
 
-* Sertifikat Bank Indonesia (BI) adalah instrumen utang yang diterbitkan oleh pemerintah selaku bank sentral. Tujuan penerbitan Sertifikat Bank Indonesia biasanya untuk mengendalikan jumlah uang beredar, mencegah inflasi, dan menjaga stabilitas nilai tukar. Jangka waktu Sertifikat Bank Indonesia lebih singkat dari deposito, yaitu kurang dari 1 tahun, misalnya periode 1, 3, 6, 9, atau 12 bulan. Tingkat suku bunga Sertifikat Bank Indonesia akan mengacu BI Rate (BI 7-Day Repo Rate).
-* Surat Berharga Pasar Uang (SBPU) adalah surat-surat berharga yang berjangka pendek yang diperjualbelikan secara diskonto dengan Bank Indonesia atau lembaga diskonto yang ditunjuk Bank Indonesia.
-* Sertifikat Deposito adalah instrumen keuangan yang diterbitkan oleh suatu bank umum dalam suatu nominal, jangka waktu, dan tingkat bunga. Nasabah yang menempatkan sejumlah uang di rekening bank berhak atas imbal hasil (return) berupa bunga (%). Umumnya, bunga deposito berkisar antara 4-6% per tahun. Jangka waktu simpanan deposito secara teoritis yaitu maksimal 1 tahun, namun dalam praktiknya, tenor deposito bisa sampai 2 tahun. Bunga deposito biasanya lebih kecil dari kupon obligasi.
-* Commercial Paper Promes adalah surat promes jangka pendek tanpa jaminan yang diterbitkan oleh perusahaan dan pemerintah asing. Bagi banyak penerbit besar yang layak mendapatkan kredit, commercial paper promes adalah alternatif berbiaya rendah untuk pinjaman bank. Investor commercial paper promes mendapatkan hasil kompetitif dan ditentukan pasar dalam bentuk wesel yang jatuh tempo dan jumlahnya dapat disesuaikan dengan kebutuhan spesifik mereka.
-* Call Money yaitu kegiatan pinjam meminjam dana antara satu bank dengan bank lainnya dalam jangka waktu yang singkat.
-* Repurchase Agreement adalah transaksi jual surat-surat berharga disertai dengan perjanjian bahwa penjual akan membeli kembali surat-surat berharga tersebut pada tanggal dan harga yang telah ditetapkan dahulu.
-* Banker’s Acceptance merupakan instrumen money market yang digunakan untuk memberikan kredit pada eksportir atau importir untuk membayar sejumlah uang barang atau membeli valuta asing 
+* **Sertifikat Bank Indonesia (BI)** \
+  Sertifikat Bank Indonesia (BI) adalah instrumen utang yang diterbitkan oleh pemerintah selaku bank sentral. Tujuan penerbitan Sertifikat Bank Indonesia biasanya untuk mengendalikan jumlah uang beredar, mencegah inflasi, dan menjaga stabilitas nilai tukar. Jangka waktu Sertifikat Bank Indonesia lebih singkat dari deposito, yaitu kurang dari 1 tahun, misalnya periode 1, 3, 6, 9, atau 12 bulan. Tingkat suku bunga Sertifikat Bank Indonesia akan mengacu BI Rate (BI 7-Day Repo Rate).
+* **Surat Berharga Pasar Uang (SBPU)** \
+  Surat Berharga Pasar Uang adalah surat-surat berharga yang berjangka pendek yang diperjualbelikan secara diskonto dengan Bank Indonesia atau lembaga diskonto yang ditunjuk Bank Indonesia.
+* **Sertifikat Deposito** \
+  Deposito adalah instrumen keuangan yang diterbitkan oleh suatu bank umum dalam suatu nominal, jangka waktu, dan tingkat bunga. Nasabah yang menempatkan sejumlah uang di rekening bank berhak atas imbal hasil (return) berupa bunga (%). Umumnya, bunga deposito berkisar antara 4-6% per tahun. Jangka waktu simpanan deposito secara teoritis yaitu maksimal 1 tahun, namun dalam praktiknya, tenor deposito bisa sampai 2 tahun. Bunga deposito biasanya lebih kecil dari kupon obligasi.
+* **Commercial Paper Promes** \
+  Surat berharga komersial adalah surat promes jangka pendek tanpa jaminan yang diterbitkan oleh perusahaan dan pemerintah asing. Bagi banyak penerbit besar yang layak mendapatkan kredit, commercial paper promes adalah alternatif berbiaya rendah untuk pinjaman bank. Investor commercial paper promes mendapatkan hasil kompetitif dan ditentukan pasar dalam bentuk wesel yang jatuh tempo dan jumlahnya dapat disesuaikan dengan kebutuhan spesifik mereka.
+* **Call Money** \
+  Call money yaitu kegiatan pinjam meminjam dana antara satu bank dengan bank lainnya dalam jangka waktu yang singkat.
+* **Repurchase Agreement** \
+  Repurchase agreement adalah transaksi jual surat-surat berharga disertai dengan perjanjian bahwa penjual akan membeli kembali surat-surat berharga tersebut pada tanggal dan harga yang telah ditetapkan dahulu.
+* **Banker’s Acceptance** \
+  Banker’s acceptance merupakan instrumen money market yang digunakan untuk memberikan kredit pada eksportir atau importir untuk membayar sejumlah uang barang atau membeli valuta asing 
 
-## Pelaku-Pelaku di Pasar Uang
+## Pelaku Pasar Uang
 
 Secara umum, para pelaku utama di money market adalah sebagai berikut:
 
-1. Bank Komersial, memiliki tiga peran, sebagai lembaga perantara untuk proses permintaan dan penawaran dana (uang), sebagai dealer di pasar over-the counter (OTC) untuk produk derivatives, dan sebagai pemberi jasa fee base income.
-2. Pemerintah pusat dan daerah membutuhkan dana talangan (bridging funds) dengan jumlah besar untuk membiayai proyek-proyek pemerintah.
-3. Perusahaan swasta non-bank biasanya membutuhkan instrumen pasar uang untuk memenuhi kebutuhan bisnis.
-4. Money market fund atau bisa disebut Money Market Mutual Funds (MMMFs) beroperasi dalam bentuk perusahaan broker untuk kelompok reksa dana. Money market funds adalah reksa dana yang diinvestasikan 100% pada instrumen pasar uang jangka pendek. Investor dapat berpartisipasi dalam portofolio yang lebih beragam daripada berinvestasi secara mandiri.
-5. Brokers dan Dealers adalah pihak-pihak yang memasarkan produk perbankan, baik di pasar perdana maupun pasar sekunder.
-6. Bank Sentral adalah salah satu pelaku utama di pasar uang karena memiliki tanggung jawab dan tugas untuk menjaga stabilitas moneter melalui pengendalian jumlah likuiditas di money market.
+1. **Bank Komersial**, memiliki tiga peran, sebagai lembaga perantara untuk proses permintaan dan penawaran dana (uang), sebagai dealer di pasar over-the counter (OTC) untuk produk derivatives, dan sebagai pemberi jasa fee base income.
+2. **Pemerintah pusat dan daerah** juga merupakan pelaku utama pasar uang yang membutuhkan dana talangan (bridging funds) dengan jumlah besar untuk membiayai proyek-proyek pemerintah. 
+3. **Perusahaan swasta non-bank** biasanya membutuhkan instrumen pasar uang untuk memenuhi kebutuhan bisnis.
+4. **Money market fund** atau bisa disebut Money Market Mutual Funds (MMMFs) beroperasi dalam bentuk perusahaan broker untuk kelompok reksa dana. Money market funds adalah reksa dana yang diinvestasikan 100% pada instrumen pasar uang jangka pendek. Investor dapat berpartisipasi dalam portofolio yang lebih beragam daripada berinvestasi secara mandiri.
+5. **Brokers dan Dealers** adalah pihak-pihak yang memasarkan produk perbankan, baik di pasar perdana maupun pasar sekunder.
+6. **Bank Sentral** adalah salah satu pelaku utama pasar uang karena memiliki tanggung jawab dan tugas untuk menjaga stabilitas moneter melalui pengendalian jumlah likuiditas di money market.
 
 ## Security Market Line
 
@@ -138,22 +143,20 @@ Security Market Line dapat digunakan untuk membantu investor dalam menentukan ap
 
 Security Market Line biasanya digunakan oleh pengelola uang dan investor untuk mengevaluasi produk investasi yang mereka pikirkan untuk dimasukan ke dalam portofolio. 
 
-Nah, kesimpulan apa itu money market adalah tempat yang dijadikan wadah investasi bagi masyarakat pemodal atau investor. Sedangkan bagi peminjam dana seperti perusahaan, instrumen pasar uang dapat berfungsi untuk memenuhi likuiditas jangka pendek.
+**Nah,** kesimpulan apa itu money market adalah tempat yang dijadikan wadah investasi bagi masyarakat pemodal atau investor. Sedangkan bagi peminjam dana seperti perusahaan, instrumen pasar uang dapat berfungsi untuk memenuhi likuiditas jangka pendek.
 
-Selain itu juga, money market mampu mengendalikan stabilitas perekonomian negara. Sistem keuangan pun stabil melewati transaksi jual beli atau keuangan yang dilakukan pada money market. Demikian ulasan mengenai apa itu money market, fungsi, dan manfaatnya untuk pemilik modal, peminjam dana, serta negara.
+Selain itu juga, money market mampu mengendalikan stabilitas perekonomian negara. Sistem keuangan pun stabil melewati transaksi jual beli atau keuangan yang dilakukan pada money market. Demikian ulasan mengenai apa itu money market, fungsi pasar uang, perbedaan money market dan capital market,dan manfaatnya untuk pemilik modal, peminjam dana, serta negara. 
 
 Dari artikel diatas kita telah mengetahui mengenai money market secara lengkap. Pada umumnya, money market merupakan sarana pinjam-meminjam dan jual beli dengan jangka waktu yang pendek.
 
-Jika kamu tertarik untuk melakukan investasi jangka panjang, kamu bisa juga loh berinvestasi melalui skema securities crowdfunding. Melalui skema securities crowdfunding kamu bisa berinvestasi ke bisnis potensial dengan urun dana bersama masyarakat luas.
+Jika kamu tertarik untuk melakukan investasi jangka panjang, kamu bisa juga loh berinvestasi melalui skema [equity crowdfunding](https://landx.id/). Melalui skema [equity crowdfunding](https://landx.id/) kamu bisa berinvestasi ke bisnis potensial dengan urun dana bersama masyarakat luas.
 
 Tentunya kamu perlu menyesuaikan profil risiko terhadap bisnis yang kamu danai. Bisnis yang kamu pilih tadi akan berkembang dan memiliki potensi untuk bertahan dalam kurun waktu jangka panjang. Kamu juga akan mendapatkan keuntungan berupa dividen dari bisnis yang kamu danai secara rutin.
 
-LandX merupakan platform securities crowdfunding terpercaya dan telah memiliki izin dari Otoritas Jasa Keuangan yang membantu kamu untuk mendapatkan keuntungan dengan mendanai bisnis potensial dengan jangka panjang.
+LandX merupakan platform [equity crowdfunding](https://landx.id/) terpercaya dan telah memiliki izin dari Otoritas Jasa Keuangan yang membantu kamu untuk mendapatkan keuntungan dengan mendanai bisnis potensial dengan jangka panjang.
 
 ## **[Yuk, Jadi Investor Bisnis Potensial untuk Mendapat Keuntungan Jangka Panjang Bersama LandX!](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)**
 
 <!--StartFragment-->
 
 [![Bagaimana? Kamu lebih suka bisnis dengan buyback guarantee atau yang bisa disimpan dalam jangka panjang? Apapun pilihan kamu.. Yuk Patungan  dengan Keuntungan Menjanjikan Bareng LandX](https://accountgram-production.sfo2.cdn.digitaloceanspaces.com/landx_ghost/2021/10/Equity-Crowdfunding-di-Indonesia-1--3.png)](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)
-
-<!--EndFragment-->
