@@ -9,7 +9,7 @@ metaDescription: "Monetary market adalah pasar perdagangan instrumen investasi
 intro: Money market adalah mekanisme pasar yang memungkinkan bagi seseorang atau
   korporasi untuk dengan mudah melakukan transaksi penjualan dan pembelian dalam
   bentuk sekuritas keuangan.
-date: 2022-07-20T07:50:47.487Z
+date: 2022-11-01T06:43:44.164Z
 tag:
   - Investasi
   - Funding
