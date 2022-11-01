@@ -1,73 +1,81 @@
 {{ define "main" }}
 
-<!-- {{ partial "landx-jumbotron" (dict "imageUrl" "/img/header_background.webp" "title" "Landx Blog" "path"
-.Site.Params.pathUrl) }} -->
-
 <style>
-  .blog-main-container {
-    width: 100%;
-    max-width: 1140px;
-    min-height: 200px;
-    margin-bottom: 64px;
-    margin-left: auto;
-    margin-right: auto;
-    padding: 32px;
-    gap: 20px;
+  .main-list-container {
+    padding: 42px 0px;
+  }
+
+  .list-container {
+    max-width: 1150px !important;
+  }
+
+  .title-container {
+    max-width: 1130px !important;
+  }
+
+  .render-li {
     display: flex;
-    flex-direction: column;
-    align-items: flex-start;
-    justify-content: flex-start;
+    width: 33%;
   }
 
-  .blog-main-container .section-title {
-    font-size: 32px;
-    color: #212529;
-    font-weight: 600;
-  }
-
-  .blog-section {
-    height: fit-content;
-    width: 100%;
-    max-width: 1140px;
-    gap: 20px;
-    display: grid;
-    grid-template-columns: repeat(3, 1fr);
-  }
-  .blog-item-container {
-    flex: 0.5;
-  }
-
-  @media (max-width: 768px) {
-    .blog-main-container {
-      padding: 32px 20px;
+  @media (max-width: 1200px) {
+    .render-li {
+      width: 50%;
     }
 
-    .blog-section {
-      grid-template-columns: repeat(1, 1fr);
+    .list-container {
+      padding-left: 56px;
+      padding-right: 56px;
     }
 
-    .blog-item-container {
-      flex: 1;
+    .title-container {
+      padding-left: 66px;
+      padding-right: 66px;
+    }
+  }
+
+  @media (max-width: 760px) {
+    .render-li {
+      width: 100%;
+    }
+
+    .list-container {
+      padding-left: 6px;
+      padding-right: 6px;
+    }
+
+    .title-container {
+      padding-left: 16px;
+      padding-right: 16px;
     }
   }
 </style>
 
-<div class="blog-main-container">
-  <h1 class="section-title extra-bold">Artikel Pilihan</h1>
-  <div class="blog-section">
-    {{ range .Site.Pages}} {{ if .Params.isPinned }} {{ .Render "landx-li"}}
-    {{end}} {{ end }}
+<div class="main-list-container">
+  <div class="center title-container">
+    <h1 style="font-size: 32px; font-weight: 700">Artikel Pilihan</h1>
   </div>
 
-  <br />
-  <br />
-
-  <h2 class="section-title extra-bold">Artikel Lainnya</h2>
-  <div class="blog-section">
-    {{ range (.Paginator 20).Pages.ByPublishDate.Reverse }}
-    <div class="blog-item-container">{{ .Render "landx-li"}}</div>
-    {{ end }}
+  <div class="center list-container">
+    <ul style="display: flex; justify-content: start; flex-wrap: wrap">
+      {{ range .Site.Pages}} {{ if .Params.isPinned }}
+      <div class="render-li">{{ .Render "landx-li"}}</div>
+      {{end}} {{ end }}
+    </ul>
   </div>
+
+  <div class="center title-container" style="padding-top: 42px">
+    <h2 style="font-size: 32px; font-weight: 700">Artikel Lainnya</h2>
+  </div>
+
+  <div class="center list-container">
+    <ul style="display: flex; justify-content: start; flex-wrap: wrap">
+      {{ range (.Paginator 20).Pages.ByPublishDate.Reverse }}
+      <div class="render-li">{{ .Render "landx-li"}}</div>
+      {{ end }}
+    </ul>
+  </div>
+
   {{ partial "landx-paginator" . }}
 </div>
 

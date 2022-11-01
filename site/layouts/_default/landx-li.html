@@ -1,128 +1,172 @@
-<!-- <a href="{{ .RelPermalink }}" class="landx-card" style="background-image: url({{.Params.image}});">
-  <div class="container">
-    <div class="title">{{ .Title }}</div>
-    <div class="description">{{ .Description }}</div>
-    <div class="date">{{ .Date.Format "Mon, 2 Jan 2006" }} - {{ .ReadingTime }} min read</div>
-  </div>
-</a> -->
-
 <style>
   .item-card {
     width: 100%;
-    background-color: white;
+    height: 100%;
     display: flex;
     flex-direction: column;
-    gap: 12px;
     align-items: flex-start;
     border: 1px solid #e9ecef;
-    border-radius: 6px;
+    border-radius: 12px;
+    background-color: #fff;
   }
 
   .item-card .image {
     width: 100%;
     height: 230px;
     object-fit: cover;
+    border-top-left-radius: 12px;
+    border-top-right-radius: 12px;
   }
 
   .item-card .item-detail {
     display: flex;
     flex-direction: column;
-    gap: 4px;
     align-items: flex-start;
-    justify-content: flex-start;
+    justify-content: space-between;
     padding: 16px;
     position: relative;
+    width: 100%;
+    height: 100%;
   }
 
-  .item-detail .summary {
-    font-size: 0.7rem;
-    /* color: #8ca1b1; */
-    overflow: hidden;
-    /* max-width: 25ch; */
-    text-overflow: ellipsis;
-    /* white-space: nowrap; */
-    /* max-height: 60px; */
-    display: -webkit-box;
-    -webkit-line-clamp: 3;
-    -webkit-box-orient: vertical;
-    margin-bottom: 30px;
+  .item-detail .details {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    width: 100%;
+    margin-top: 20px;
   }
 
-  .item-detail .date {
-    font-style: italic;
-    font-size: 0.6rem;
-    position: absolute;
-    bottom: 16px;
-    /* color: #8ca1b1; */
+  .item-detail .details .author-image {
+    height: 30px;
+    width: 30px;
+    margin-right: 10px;
+    border-radius: 4px;
   }
 
   .item-detail .title {
-    font-size: 0.8rem;
-    transition: all 0.3s ease-in-out;
+    font-size: 18px;
+    font-weight: 600;
+    transition: all 0.2s ease-in-out;
     overflow: hidden;
     text-overflow: ellipsis;
     display: -webkit-box;
-    -webkit-line-clamp: 2;
+    -webkit-line-clamp: 4;
     -webkit-box-orient: vertical;
+    height: 110px;
   }
 
   a.item-card:hover .item-detail .title {
     color: var(--primary);
   }
 
-  @media (max-width: 768px) {
-    /* .item-card .image {
-      width: 80px;
-      height: 80px;
-    } */
+  .category {
+    font-size: 14px;
+    text-transform: uppercase;
+    color: #868e96;
+    font-weight: 500;
+  }
 
+  @media (max-width: 1200px) {
+    .item-card .image {
+      height: 180px;
+    }
+  }
+
+  @media (max-width: 760px) {
     .item-card {
       width: 100%;
-      /* max-width: calc(100vw - 40px);
-      padding: 16px 0px; */
     }
   }
 </style>
 
-<a href="{{ .RelPermalink }}" class="item-card">
-  {{if .Params.image}} {{if in .Params.image "http"}}
-  <img
-    loading="lazy"
-    src="{{.Params.image}}"
-    class="image"
-    alt="{{.Params.title}}"
-    title="{{.Params.title}}"
-  />
-  {{else}}
-  <img
-    loading="lazy"
-    src="{{.Site.Params.pathUrl}}/{{.Params.image}}"
-    class="image"
-    alt="{{.Params.title}}"
-    title="{{.Params.title}}"
-  />
-  {{end}} {{else if .Params.featuredImage.src}} {{if in
-  .Params.featuredImage.src "http"}}
-  <img
-    loading="lazy"
-    src="{{.Params.featuredImage.src}}"
-    class="image"
-    alt="{{.Params.featuredImage.alt}}"
-    title="{{.Params.featuredImage.title}}"
-  />
-  {{else}}
-  <img
-    loading="lazy"
-    src="{{.Site.Params.pathUrl}}/{{.Params.featuredImage.src}}"
-    class="image"
-    alt="{{.Params.featuredImage.alt}}"
-    title="{{.Params.featuredImage.title}}"
-  />
-  {{end}} {{end}}
+<div style="margin: 10px; width: 100%">
+  <a href="{{ .RelPermalink }}" class="item-card" style="width: 100%">
+    {{if .Params.image}} {{if in .Params.image "http"}}
+    <div class="image">
+      <img
+        loading="lazy"
+        src="{{.Params.image}}"
+        class="image"
+        alt="{{.Params.title}}"
+        title="{{.Params.title}}"
+      />
+    </div>
+    {{else}}
+    <div class="image">
+      <img
+        loading="lazy"
+        src="{{.Site.Params.pathUrl}}/{{.Params.image}}"
+        class="image"
+        alt="{{.Params.title}}"
+        title="{{.Params.title}}"
+      />
+    </div>
+    {{end}} {{else if .Params.featuredImage.src}} {{if in
+    .Params.featuredImage.src "http"}}
+    <div class="image">
+      <img
+        loading="lazy"
+        src="{{.Params.featuredImage.src}}"
+        class="image"
+        alt="{{.Params.featuredImage.alt}}"
+        title="{{.Params.featuredImage.title}}"
+      />
+    </div>
+    {{else}}
+    <div class="image">
+      <img
+        loading="lazy"
+        src="{{.Site.Params.pathUrl}}/{{.Params.featuredImage.src}}"
+        class="image"
+        alt="{{.Params.featuredImage.alt}}"
+        title="{{.Params.featuredImage.title}}"
+      />
+    </div>
+    {{end}} {{end}}
 
-  <div class="item-detail">
-    <div class="title bold">{{.Params.title}}</div>
-    <p class="summary">{{.Params.intro}}</p>
-    <div class="date">{{ .Date.Format "Monday, 2 Jan 2006" }}</div>
-  </div>
-</a>
+    <div class="item-detail">
+      <div class="category">CROWDFUNDING</div>
+      <div class="title">{{.Params.title}}</div>
+      <div class="details">
+        <div
+          style="
+            display: flex;
+            flex-direction: row;
+            justify-content: center;
+            align-items: center;
+            width: fit-content;
+          "
+        >
+          <div class="author-image">
+            <img
+              src="{{.Site.Params.pathUrl}}/{{.Params.featuredImage.src}}"
+              style="width: 100%; height: 100%; border-radius: 4px"
+            />
+          </div>
+          <p
+            style="
+              color: #212529;
+              font-size: 12px;
+              font-weight: 500;
+              margin-bottom: 0px;
+            "
+          >
+            {{ .Params.author }}
+          </p>
+        </div>
+        <p
+          style="
+            color: #adb5bd;
+            font-size: 12px;
+            font-weight: 500;
+            margin-bottom: 0px;
+          "
+        >
+          5 Min Read
+        </p>
+      </div>
+    </div>
+  </a>
+</div>
