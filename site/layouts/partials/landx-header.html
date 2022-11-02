@@ -69,10 +69,7 @@
           </div>
         </div>
       </div>
-      <button
-        class="lx-button lx-item in-desktop"
-        onclick="goTo('https://landx.id/pendaftaran-perusahaan.html')"
-      >
+      <button class="lx-button lx-item in-desktop" onclick="expandModal()">
         Get The App
       </button>
     </div>
@@ -83,6 +80,65 @@
       onclick="toggleMenu()"
     />
   </div>
+
+  <div class="modal" id="menumodal">
+    <div
+      style="
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+        width: 100%;
+        padding: 16px;
+        border-bottom: 1px solid gainsboro;
+      "
+    >
+      <h1>Unduh Aplikasi</h1>
+      <div>X</div>
+    </div>
+    <p>Scan QR code to download LandX app</p>
+    <div
+      style="
+        width: 100%;
+        height: auto;
+        margin-bottom: 16px;
+        display: flex;
+        justify-content: center;
+      "
+    >
+      <img
+        src="{{.Site.Params.pathUrl}}/img/google-play.svg"
+        alt="barcode-app"
+        src="{{.Site.Params.pathUrl}}/img/barcode-app.svg"
+        style="width: 200px; height: 200px"
+      />
+    </div>
+    <p>Download from app stores</p>
+    <div
+      style="
+        width: 100%;
+        height: auto;
+        display: flex;
+        justify-content: center;
+        margin-bottom: 40px;
+      "
+    >
+      <a
+        src="{{.Site.Params.pathUrl}}/img/app-store.svg"
+        class="lx-item"
+        style="margin-right: 48px"
+        href="https://play.google.com/store/apps/details?id=store.numoney.landxapp"
+      >
+        <img alt="play-store" style="width: 100%; height: 100%" />
+      </a>
+      <a
+        class="lx-item"
+        href="https://apps.apple.com/id/app/landx/id1453823676"
+      >
+        <img alt="app-store" style="width: 100%; height: 100%" />
+      </a>
+    </div>
+  </div>
+
   <div class="category-section" id="categorysection">
     <div class="main-container">
       <a href="/blog">Semua</a>
@@ -118,7 +174,7 @@
       <button
         class="lx-button"
         style="padding: 34px 0px 16px"
-        onclick="goTo('https://landx.id/pendaftaran-perusahaan.html')"
+        onclick="expandModal()"
         type="button"
       >
         Get The App
@@ -128,6 +184,7 @@
 
   <script>
     let isMenuOpen = false;
+    let isModalOpen = false;
 
     let md = document.getElementById("menudrawer");
     let mc = document.getElementById("menucontainer");
@@ -148,6 +205,13 @@
         md.style.height === `${mc.offsetHeight}px`
           ? "0px"
           : `${mc.offsetHeight}px`;
+    }
+
+    let modal = document.getElementById("menumodal");
+
+    function expandModal() {
+      isModalOpen = !isModalOpen;
+      modal.style.display = isModalOpen ? "flex" : "none";
     }
 
     function goTo(string) {
