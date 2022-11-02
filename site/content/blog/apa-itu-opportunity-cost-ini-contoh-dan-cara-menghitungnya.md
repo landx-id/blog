@@ -2,13 +2,13 @@
 author: Nadya A. Faatihah
 title: Apa Itu Opportunity Cost? Ini Contoh dan Cara Menghitungnya
 metaTitle: Mengenal Apa Itu Opportunity Cost Dalam Kehidupan Sehari-hari
-metaDescription: Apa itu opportunity cost adalah biaya yang ada karena seseorang
-  mengorbankan sebuah pilihan. Ketahui lebih lengkap lewat artikel ini!
-intro: Tidak hanya bagi investor atau pebisnis saja, memahami apa itu
-  opportunity cost akan membantu siapa pun untuk menentukan pilihan terbaik
-  dalam menjalani kehidupan sehari-hari yang memiliki nilai ekonomi yang paling
-  bermanfaat.
-date: 2022-06-22T06:47:53.037Z
+metaDescription: Opportunity cost atau biaya peluang adalah biaya yang ada
+  karena seseorang mengorbankan sebuah pilihan. Ketahui contoh opportunity cost
+  di sini!
+intro: Opportunity cost adalah konsep yang dapat membantu Anda untuk menemukan
+  opsi yang berpeluang memberi keuntungan terbaik dengan cara menentukan
+  pilihan.
+date: 2022-11-02T07:25:36.977Z
 tag:
   - Rasio Keuangan
   - Bisnis Menguntungkan
@@ -19,8 +19,6 @@ featuredImage:
   alt: Apa Itu Opportunity Cost
   title: Apa Itu Opportunity Cost
 ---
-<!--StartFragment-->
-
 Secara sederhana, yang dimaksud dengan apa itu *opportunity cost* adalah biaya yang timbul karena hilangnya kesempatan dari pemenuhan suatu kebutuhan lain. Secara konsep ekonomi, contoh *opportunity cost* adalah biaya yang muncul ketika seseorang dihadapkan pada beberapa pilihan, tetapi ia harus memilih salah satunya saja.
 
 Berikut penjelasan lengkap tentang apa itu *opportunity cost*, fungsi, dan rumus opportunity cost lengkap dengan contohnya.
@@ -35,9 +33,13 @@ Namun, Dea kehilangan kesempatan yang hanya bisa dirasakan dari segelas es kopi 
 
 ## Cara Menghitung Opportunity Cost
 
-Dari penjelasan tentang pengertian biaya peluang, maka rumus inilah yang menggambarkan perhitungan apa itu *opportunity cost* jika kondisi pilihan-pilihan yang tersedia dapat dihitung dengan angka, misalnya nominal uang seperti contoh sebelumnya.
+Dalam kehidupan, pada dasarnya setiap individu akan dihadapkan pada pilihan. Ada pilihan yang harus dikorbankan karena memilih alternatif lain yang dianggap lebih bernilai ekonomis dan efisien, sehingga biaya pilihan yang terkorbankan disebut sebagai opportunity cost. 
 
-![](https://cdn.discordapp.com/attachments/976381310857773066/989072137404964884/Rumus_Cara_Menghitung_Opportunity_Cost.PNG)
+Dari penjelasan tentang pengertian biaya peluang yang muncul ketika seseorang dihadapkan pada serangkaian pilihan, terdapat cara menghitung opportunity cost. Biaya peluang adalah kondisi biaya alternatif tertinggi yang hilang jika memilih pilihan lain. Opportunity cost muncul karena telah memilih alternatif lain.
+
+Dari penjelasan tentang pengertian biaya peluang, berikut rumus perhitungan opportunity cost jika kondisi pilihan-pilihan yang tersedia dapat dihitung dengan angka.
+
+![Rumus Menghitung Opportunity Cost](https://cdn.discordapp.com/attachments/976381310857773066/989072137404964884/Rumus_Cara_Menghitung_Opportunity_Cost.PNG "Rumus Menghitung Opportunity Cost")
 
 Meski begitu, secara sederhana menghitung apa itu *opportunity cost* dapat didefinisikan dengan konsep **“Jika untuk jangka panjang atau pun pendek Foregone Option (FO) lebih bernilai daripada Chosen Option (CO), maka opsi ini kurang menguntungkan. Sementara, jika FO lebih kecil nilainya dari CO, maka itu adalah opsi terbaik yang harus diambil.”**
 
@@ -75,7 +77,7 @@ Memahami *opportunity cost* yang ada dari setiap pilihan akan memberikan gambara
 
 Dalam proses menentukan pilihan, gambaran mengenai risiko yang mungkin hadir dapat membantu Anda menyusun rencana mitigasi risiko. Dengan demikian, perencanaan masa depan Anda akan lebih matang. Jika ternyata terdapat masalah dari pilihan yang telah dibuat, maka Anda bisa memanfaatkan rencana mitigasi risiko yang telah dipersiapkan
 
-## Contoh Kasus Menghitung Apa Itu *Opportunity Cost*
+## Contoh Kasus Menghitung *Opportunity Cost*
 
 Dalam kehidupan sehari-hari manusia dihadapkan dengan berbagai pilihan. Mulai dari pilihan sederhana seperti memilih Makanan A atau Makanan B, hingga pilihan yang lebih rumit seperti menentukan instrumen investasi saham atau obligasi. 
 
@@ -83,9 +85,9 @@ Dalam kehidupan sehari-hari manusia dihadapkan dengan berbagai pilihan. Mulai da
 
 ### 1. Opportunity Cost Produk A vs Produk B
 
-Misalnya Anda memiliki budget Rp200.000 untuk membeli bahan memasak. Menu yang dimasak harus memiliki protein dari daging, sayur-sayuran, dan buah-buahan. Anda dihadapkan dengan 2 pilihan berikut.
+Contoh opportunity cost dalam kehidupan sehari-hari, misalnya Anda memiliki budget Rp200.000 untuk membeli bahan memasak. Menu yang dimasak harus memiliki protein dari daging, sayur-sayuran, dan buah-buahan. Anda dihadapkan dengan 2 pilihan berikut.
 
-![](https://cdn.discordapp.com/attachments/976381310857773066/989072137107148830/Contoh_Apa_Itu_Opportunity_Cost_1.PNG)
+![menghitung opportunity cost](https://cdn.discordapp.com/attachments/976381310857773066/989072137107148830/Contoh_Apa_Itu_Opportunity_Cost_1.PNG "menghitung opportunity cost")
 
 Jika Anda memilih List A, maka Anda memiliki sisa lebih Rp60.000 yang bisa digunakan untuk keperluan lain. Namun, Anda kehilangan biaya peluang mendapatkan 750gr buah semangka yang 2x lipat lebih banyak dari buah anggur meski dengan harga yang sama. Contoh ini mengilustrasikan apa itu *opportunity cost* dari pembelian kebutuhan sehari-hari. 
 
@@ -97,12 +99,21 @@ Terdapat pilihan antara membeli saham melalui platform reksadana atau [equity cr
 
 Maka, hilangnya kesempatan Anda mendapat Rp500.000 dari berinvestasi di equity crowdfunding adalah yang dimaksud dengan apa itu *opportunity cost*.
 
+### 3﻿. Contoh Opportunity Cost dalam Bisnis
+
+Contoh opportunity cost dalam bisnis dapat terjadi ketika pemilik bisnis ingin ekspansi atau buka cabang baru namun terkendala modal. Pemilik bisnis dihadapkan dengan pilihan untuk mendapatkan dana dari investor, mengajukan pinjaman bank, atau lebih giat mengelola operasional agar dapat terkumpul modal buka usaha baru.
+
+Kita telaah plus-minus opportunity cost dalam bisnis berdasarkan kondisi yang telah disebutkan.
+
+* Jika pemilik bisnis memilih untuk mencari investor untuk mendapatkan modal usaha buka cabang baru, ketika dana telah terkumpul maka akan lebih cepat melaksanakan progres ekspansi. Modal dari investor dapat dicari melalui investasi keluarga, teman bisnis, hingga sistem equity crowdfunding.\
+  Setelah dana terkumpul, pergerakan ekspansi bisnis dapat berjalan cepat mulai dari kontrak lokasi baru hingga pengisian barang akan lebih cepat terlaksana. Namun, pemilik bisnis harus sadar bahwa memiliki komitmen untuk mempertanggungjawabkan dana seperti melaporkan penggunaan dana hingga persentase keuntungan sesuai performa atau perjanjian bisnis di awal.
+* Jika pemilik bisnis memilih untuk mengajukan pinjaman bank maka harus mengurus berbagai dokumen dengan teliti, memenuhi persyaratan, hingga proses yang cukup panjang. Memiliki pinjaman atau kredit berarti sadar akan kehadiran cicilan dan bunga kredit yang harus dibayar setiap bulan. Pastikan besaran bunga kredit serta sistem kredit yang dipakai agar Anda tidak kesulitan membayar di masa depan.
+* Jika pemilik bisnis memilih untuk menunda ekspansi bisnis karena ingin mengumpulkan modal dari keuntungan gerai yang ada pun tidak menjadi masalah. Semua dapat dijalankan sesuai sistem yang telah ada. Namun, lokasi strategis yang Anda incar berisiko diisi oleh kompetitor, sehingga biaya peluang untuk mendapatkan kesempatan meningkatkan omzet menjadi terhalang.
+
+Dilihat dari ketiga situasi ini apakah cukup terbayang biaya peluang yang dihadapi pemilik bisnis? Setiap pilihan terdapat manfaat serta risiko masing-masing, mengenal situasi kondisi sendiri menjadi langkah awal untuk menentukan memilih peluang terbaik.
+
 Itu dia penjelasan mengenai apa itu *opportunity cost*, fungsi, cara menghitung, dan contoh ilustrasinya Tidak hanya bagi investor atau pebisnis saja, memahami konsep ini tentu akan membantu siapa pun untuk menentukan pilihan terbaik dengan nilai ekonomi yang paling bermanfaat dalam menjalani kehidupan sehari-hari.
 
 ## [Jadi Bos Bisnis Hanya Butuh Modal 1 Juta? Yuk, Temukan Peluang Bisnis Menjanjikan di LandX Sekarang!](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)
 
-<!--StartFragment-->
-
 [![miliki bisnis modal kecil cuma dengan 1 jutaan dapat 4 cabang ](https://accountgram-production.sfo2.cdn.digitaloceanspaces.com/landx_ghost/2021/11/jadi-owner-bisnis-hanya-1-jutaan-dengan-cuan-yang-sangat-menjanjikan.png)](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)
-
-<!--EndFragment-->
