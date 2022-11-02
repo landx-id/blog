@@ -2,16 +2,16 @@
 draft: false
 author: Abdul Wahhab
 title: "Apa Itu Sandwich Generation: Cara Keluar dari Generasi Sandwich"
-metaTitle: "Sandwich Generation Adalah: Apa Itu dan Dampak Generasi Sandwich"
+metaTitle: "Sandwich Generation: Dampak dan Cara Memutus Generasi Sandwich"
 metaDescription: Yuk pahami apa yang dimaksud generasi sandwich dan bagaimana
   cara memutus rantai sandwich generation
-intro: "Apa itu generasi sandwich atau sandwich generation adalah generasi yang
+intro: "Apa itu generasi sandwich? Generasi sandwich adalah generasi yang
   terhimpit karena harus membiayai dua generasi sekaligus yaitu orang tua dan
-  anaknya dalam waktu bersamaan. Generation sandwich artinya tanggung jawab dua
-  kali lipat. "
+  anaknya dalam waktu bersamaan. Jadi tanggunangan sandwich generation adalah
+  dua kali lipat. "
 isPinned: false
 slug: memutus-rantai-sandwich-generation
-date: 2022-02-03T05:27:41.805Z
+date: 2022-11-02T06:23:10.654Z
 tag:
   - tips investasi
   - dana darurat
@@ -30,9 +30,7 @@ category:
 ---
 Generasi sandwich adalah hal yang sulit untuk kita hindari karena merupakan warisan dari generasi sebelumnya. tapi kita bisa lho memutus rantai sandwich generation agar tidak terjadi kepada anak kita nanti. Karena itu.... 
 
-Yuk kita bahas bagaimana memutus rantai sandwich generation untuk generasi berikutnya.
-
-
+Yuk kita bahas bagaimana cara memutus rantai sandwich generation untuk generasi berikutnya. 
 
 Pernah nggak kamu ngalamin baru saja gajian tapi uang tiba-tiba habis? Bukan untuk beli hal-hal konsumtif seperti barang pribadi, tapi untuk memenuhi kebutuhan keluarga sendiri serta orang tua.
 
@@ -64,43 +62,9 @@ Generasi sandwich seringkali kesulitan dalam mengatur finansial mereka karena ua
 
 Sebelum itu, yuk kita bahas berbagai jenis sandwich generation.
 
-## **Berbagai Jenis Sandwich Generation**
+## C﻿ara Memutus Generasi Sandwich
 
-Di media sosial, banyak orang tua milenial yang mengeluh soal *sandwich generation.* Mereka terhimpit untuk memenuhi kebutuhan keluarganya yang masih baru serta kebutuhan orang tuanya yang mulai memasuki fase lansia.
-
-Sebenarnya kondisi ini tidak hanya menimpa milenial saja, tapi juga orang dalam rentang usia lain. Berikut ini jenis-jenis generasi sandwich yang perlu kamu pahami:
-
-### 1. Sandwich Generation Tradisional
-
-Biasanya menimpa orang tua berusia sekitar 40 sampai 50 tahun. Mereka terimpit oleh dua beban keuangan sekaligus, yakni untuk memenuhi beban anaknya yang sudah beranjak dewasa namun masih perlu dukungan finansial, serta orang tuanya sendiri yang sudah sakit-sakitan.
-
-Jenis ini bisa dibilang yang paling umum kita temukan dalam lingkungan sehari-hari di mana seseorang harus menghidupi dua keluarga sekaligus karena kondisi yang tidak terelakan.
-
-### 2. The Club Sandwich Generation
-
-Ada dua rentang usia yang biasanya masuk dalam kategori ini.
-
-Pertama, mereka yang sudah berusia 50 sampai 60 tahun yang harus mencukupi kebutuhan orang tuanya yang sudah lansia serta anak-anaknya. Tak jarang mereka juga harus menanggung kebutuhan cucunya sendiri.
-
-Kedua, mereka yang berusia 30 sampai 40 tahun. Selain menanggung anak-anaknya yang masih kecil dan beranjak dewasa, mereka juga harus menanggung beban orang tua serta tak jarang kakek neneknya.
-
-Seperti yang kita tau, masyarakat kawasan Asian sebagian besar memiliki budaya kolektif dan hidup dalam kelompok besar. Oleh sebab itu, generasi sandwich jenis ini pasti akan sering ditemui di sekitar kita.
-
-### 3. Open-Faced Sandwich Generation
-
-Jenis terakhir adalah mereka — tanpa memandang usia — yang terlibat dalam perawatan orang lanjut usia, namun aktivitas tersebut bukan dilakukan dengan profesional. Artinya mereka tidak mendapatkan penghasilan dari merawat orang tua tersebut.
-
-Kondisi ini cukup membingungkan karena di satu sisi mereka perlu berbakti kepada orang tua tapi di sisi lain mereka butuh pekerjaan yang bisa memenuhi kebutuhan ekonomi mereka.
-
-## Kenapa Generasi Sandwich Muncul?
-
-Penyebab utama adanya generasi sandwich adalah kurangnya kemampuan seseorang secara finansial, terutama para orang tua yang gagal menyiapkan finansial masa tua mereka. Akhirnya hadir generasi sandwich yang merupakan anak-anak dari orang tua yang gagal menyiapkan kondisi finansialnya.
-
-Generasi sandwich ini harus menanggung beban hidup orang tuanya, saudaranya, dan juga keluarganya sendiri. Sehingga anak-anak yang ditempatkan dalam kondisi generasi sandwich harus menghadapi tanggung jawab dan beban ganda.
-
-
-
-## Bagaimana Cara Keluar Dari Sandwich Generation?
+Bagaimana cara keluar dari generasi sandwich?
 
 Akar utama dari *sandwich generation* disebabkan oleh generasi sebelumnya yang gagal secara finansial. Generasi sandwich yang terdampak kemudian mewariskannya kembali ke generasi selanjutnya.
 
@@ -154,11 +118,54 @@ Apabila kita tidak memiliki asuransi dan dana darurat, maka kondisi ini akan men
 
 Cara yang terakhir adalah dengan melakukan investasi sejak dini. Selagi beban masih belum terlalu besar, sebaiknya kamu sisihkan untuk investasi.
 
-Ada banyak sekali jenis investasi yang bisa kamu coba, salah satunya adalah LandX.
+## **Berbagai Jenis Sandwich Generation**
 
-LandX merupakan tempat dimana kamu bisa berinvestasi patungan terhadap perusahaan UMKM terbaik yang ada di Indonesia. Cukup dengan **Rp 1 Juta**, kamu sudah bisa mulai berinvestasi dan mendapatkan keuntungan di masa depan.
+Di media sosial, banyak orang tua milenial yang mengeluh soal *sandwich generation.* Mereka terhimpit untuk memenuhi kebutuhan keluarganya yang masih baru serta kebutuhan orang tuanya yang mulai memasuki fase lansia.
 
-## Yuk Persiapan Keluar dari Generasi Sandwich dengan **berinvestasi Lewat LandX** Sekarang Juga!
+Sebenarnya kondisi ini tidak hanya menimpa milenial saja, tapi juga orang dalam rentang usia lain. Berikut ini jenis-jenis generasi sandwich yang perlu kamu pahami:
+
+### 1. Sandwich Generation Tradisional
+
+Biasanya menimpa orang tua berusia sekitar 40 sampai 50 tahun. Mereka terimpit oleh dua beban keuangan sekaligus, yakni untuk memenuhi beban anaknya yang sudah beranjak dewasa namun masih perlu dukungan finansial, serta orang tuanya sendiri yang sudah sakit-sakitan.
+
+Jenis ini bisa dibilang yang paling umum kita temukan dalam lingkungan sehari-hari di mana seseorang harus menghidupi dua keluarga sekaligus karena kondisi yang tidak terelakan.
+
+### 2. The Club Sandwich Generation
+
+Ada dua rentang usia yang biasanya masuk dalam kategori ini.
+
+Pertama, mereka yang sudah berusia 50 sampai 60 tahun yang harus mencukupi kebutuhan orang tuanya yang sudah lansia serta anak-anaknya. Tak jarang mereka juga harus menanggung kebutuhan cucunya sendiri.
+
+Kedua, mereka yang berusia 30 sampai 40 tahun. Selain menanggung anak-anaknya yang masih kecil dan beranjak dewasa, mereka juga harus menanggung beban orang tua serta tak jarang kakek neneknya.
+
+Seperti yang kita tau, masyarakat kawasan Asian sebagian besar memiliki budaya kolektif dan hidup dalam kelompok besar. Oleh sebab itu, generasi sandwich jenis ini pasti akan sering ditemui di sekitar kita.
+
+### 3. Open-Faced Sandwich Generation
+
+Jenis terakhir adalah mereka — tanpa memandang usia — yang terlibat dalam perawatan orang lanjut usia, namun aktivitas tersebut bukan dilakukan dengan profesional. Artinya mereka tidak mendapatkan penghasilan dari merawat orang tua tersebut.
+
+Kondisi ini cukup membingungkan karena di satu sisi mereka perlu berbakti kepada orang tua tapi di sisi lain mereka butuh pekerjaan yang bisa memenuhi kebutuhan ekonomi mereka.
+
+## Kenapa Generasi Sandwich Muncul?
+
+Penyebab utama adanya generasi sandwich adalah kurangnya kemampuan seseorang secara finansial, terutama para orang tua yang gagal menyiapkan finansial masa tua mereka. Akhirnya hadir generasi sandwich yang merupakan anak-anak dari orang tua yang gagal menyiapkan kondisi finansialnya.
+
+Generasi sandwich ini harus menanggung beban hidup orang tuanya, saudaranya, dan juga keluarganya sendiri. Sehingga anak-anak yang ditempatkan dalam kondisi generasi sandwich harus menghadapi tanggung jawab dan beban ganda.
+
+## Dampak Generasi Sandwich
+
+Menjadi generasi sandwich seperti hal yang tidak bisa dihindarkan, karena yang ditanggung adalah keluarga sendiri, baik generasi atas (orang tua) dan generasi bawah (anak). Hal ini menyebabkan muncul berbagai tantangan finansial yang berdampak pada kesehatan mental generasi sandwich.
+
+Seseorang yang terhimpit di lapisan sandwich generation berarti memiliki beban yang berlipat ganda. Mereka harus menyediakan anggaran keuangan untuk orang tua, keluarga sendiri, pendidikan anak, hingga bagian untuk ditabung. 
+
+Sering kala seorang generasi sandwich sangat merasa kesulitan dengan beban ini hingga berdampak pada kesehatan mental. Banyak tuntutan yang harus dipenuhi, sedangkan dia hanya mencari seorang diri.
+Jika kamu seorang generasi sandwich dan telah berhasil menyisihkan banyak tabungan untuk masa depan, jangan lupa ditanamkan pada investasi.
+
+Ada banyak sekali jenis investasi yang bisa kamu coba, salah satunya investasi pada bisnis privat melalui platform [equity crowdfunding LandX](https://landx.id/). 
+
+[LandX](https://landx.id/) merupakan tempat dimana kamu bisa berinvestasi patungan terhadap perusahaan UMKM terbaik yang ada di Indonesia. Cukup dengan **Rp 1 Juta**, kamu sudah bisa mulai berinvestasi dan mendapatkan keuntungan di masa depan.
+
+## [Yuk Bangun Persiapan Keluar dari Generasi Sandwich!](https://app.landx.id/?utm_source=Organic+Page&utm_medium=Content+Blog&utm_campaign=BlogLandX&utm_id=Blog)
 
 [![Yuk mulai patungan bisnis menguntungkan jangka panja g bersama LandX](https://accountgram-production.sfo2.cdn.digitaloceanspaces.com/landx_ghost/2021/09/Equity-Crowdfunding-di-Indonesia-1--3.png)](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)
 
