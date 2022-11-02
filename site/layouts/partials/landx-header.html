@@ -82,7 +82,19 @@
   </div>
 
   <div class="modal" id="menumodal">
-    <h1>Unduh Aplikasi</h1>
+    <div
+      style="
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+        width: 100%;
+        padding: 16px;
+        border-bottom: 1px solid gainsboro;
+      "
+    >
+      <h1>Unduh Aplikasi</h1>
+      <div>X</div>
+    </div>
     <p>Scan QR code to download LandX app</p>
     <div
       style="
@@ -102,7 +114,13 @@
     </div>
     <p>Download from app stores</p>
     <div
-      style="width: 100%; height: auto; display: flex; justify-content: center"
+      style="
+        width: 100%;
+        height: auto;
+        display: flex;
+        justify-content: center;
+        margin-bottom: 40px;
+      "
     >
       <a
         src="{{.Site.Params.pathUrl}}/img/app-store.svg"
