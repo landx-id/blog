@@ -11,7 +11,7 @@ intro: Kali ini kita akan membahas salah satu prinsip penting dalam asuransi.
   insurable interest dalam asuransi di sini!
 date: 2022-11-02T08:44:29.711Z
 featuredImage:
-  src: https://www.freepik.com/free-photo/family-insurance-reimbursement-protection-concept_18422695.htm#query=insurable%20interest&position=1&from_view=search&track=sph
+  src: https://img.freepik.com/free-photo/family-insurance-reimbursement-protection-concept_53876-138642.jpg?w=740&t=st=1667382619~exp=1667383219~hmac=f92f43833773982a3e8e9b2e1fb4e9bdad9c20688e4a6076061e9077787b18c7
   alt: Insurable interest
   title: Insurable interest
 ---
