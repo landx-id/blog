@@ -93,32 +93,33 @@
       "
     >
       <h1>Unduh Aplikasi</h1>
-      <div style="cursor: pointer" onclick="closeModal()">
+      <div
+        style="
+          cursor: pointer;
+          display: flex;
+          justify-content: center;
+          align-items: center;
+        "
+        onclick="closeModal()"
+      >
         <img
           src="{{.Site.Params.pathUrl}}/img/close-ic.svg"
           alt="close"
-          style="width: 30px; height: 30px"
+          style="width: 20px; height: 20px; filter: brightness(0%)"
         />
       </div>
     </div>
-    <p>Scan QR code to download LandX app</p>
+    <p style="margin-bottom: 0px">Scan QR code to download LandX app</p>
     <div
-      style="
-        width: 100%;
-        height: auto;
-        margin-bottom: 16px;
-        display: flex;
-        justify-content: center;
-      "
+      style="width: 100%; height: auto; display: flex; justify-content: center"
     >
       <img
-        src="{{.Site.Params.pathUrl}}/img/google-play.svg"
         alt="barcode-app"
         src="{{.Site.Params.pathUrl}}/img/barcode-app.svg"
         style="width: 200px; height: 200px"
       />
     </div>
-    <p>Download from app stores</p>
+    <p style="margin-bottom: 0px">Download from app stores</p>
     <div
       style="
         width: 100%;
@@ -129,18 +130,25 @@
       "
     >
       <a
-        src="{{.Site.Params.pathUrl}}/img/app-store.svg"
         class="lx-item"
         style="margin-right: 48px"
         href="https://play.google.com/store/apps/details?id=store.numoney.landxapp"
       >
-        <img alt="play-store" style="width: 100%; height: 100%" />
+        <img
+          src="{{.Site.Params.pathUrl}}/img/google-play.svg"
+          alt="play-store"
+          style="width: 100%; height: 100%"
+        />
       </a>
       <a
         class="lx-item"
         href="https://apps.apple.com/id/app/landx/id1453823676"
       >
-        <img alt="app-store" style="width: 100%; height: 100%" />
+        <img
+          src="{{.Site.Params.pathUrl}}/img/app-store.svg"
+          alt="app-store"
+          style="width: 100%; height: 100%"
+        />
       </a>
     </div>
   </div>
