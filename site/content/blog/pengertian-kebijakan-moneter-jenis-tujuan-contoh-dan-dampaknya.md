@@ -6,9 +6,9 @@ metaDescription: " Pengertian kebijakan moneter adalah keputusan yang diambil
   oleh pemerintah untuk menunjang aktivitas ekonomi lewat bank sentral. Ini
   penjelasannya!"
 intro: Pengertian kebijakan moneter adalah keputusan yang diambil oleh
-  pemerintah untuk menunjang aktivitas ekonomi. Kebijakan ini dilakukan untuk
-  mengontrol laju inflasi, meningkatkan lapangan pekerjaan di masyarakat, dan
-  mendukung kegiatan produksi perusahaan melalui kondisi perekonomian dan
+  pemerintah untuk menunjang aktivitas ekonomi. Tujuan kebijakan moneter adalah
+  untuk mengontrol laju inflasi, meningkatkan lapangan pekerjaan di masyarakat,
+  dan mendukung kegiatan produksi perusahaan melalui kondisi perekonomian dan
   peredaran uang yang stabil.
 date: 2022-06-22T16:07:07.033Z
 tag:
