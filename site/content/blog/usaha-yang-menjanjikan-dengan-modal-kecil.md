@@ -10,7 +10,7 @@ metaDescription: Lagi cari peluang usaha modal kecil menjanjikan yang bisa
 intro: Cari peluang usaha modal kecil menjanjikan yang bisa dicoba di 2022? Ini
   dia ide membangun usaha modal kecil untuk pemula agar bisa segera membangun
   keuntungan jangka panjang!
-date: 2022-08-02T17:44:50.273Z
+date: 2022-11-03T15:04:15.872Z
 tag:
   - investasi bisnis
   - bisnis investasi terpercaya
