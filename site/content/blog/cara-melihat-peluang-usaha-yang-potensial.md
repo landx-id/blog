@@ -8,7 +8,7 @@ metaDescription: Peluang usaha adalah sebuah kesempatan untuk memulai suatu ide
 intro: Dapatkan informasi yang diperlukan dalam menciptakan peluang usaha dan
   sumber peluang usaha yang potensial, serta tips bisnis bertahan jangka
   panjang.
-date: 2022-07-11T05:16:30.034Z
+date: 2022-11-04T07:22:29.162Z
 tag:
   - Peluang Bisnis
   - Peluang Usaha
