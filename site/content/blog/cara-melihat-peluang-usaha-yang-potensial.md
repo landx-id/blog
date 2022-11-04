@@ -50,9 +50,11 @@ Penting untuk memanfaatkan momentum, bagi bisnis pemula dapat memanfaatkannya se
 
 ## Cara Melihat Peluang Usaha yang Potensial
 
-Banyak cara untuk melihat potensi peluang buka usaha atau kapan waktu terbaik untuk merilis produk baru. Berikut beberapa sumber peluang usaha dari faktor eksternal dan internal untuk Anda dan strategi menemukan sumber peluang bisnis:
+Kira-kira apa saja sumber peluang usaha yang bisa kamu analisis? Sebenarnya, banyak cara untuk melihat potensi peluang buka usaha atau kapan waktu terbaik untuk merilis produk baru. 
 
-* Analisis Tren Viral Terkini
+Berikut beberapa sumber peluang usaha dari faktor eksternal dan internal untuk Anda dan strategi menemukan sumber peluang bisnis:
+
+### 1. Analisis Tren Viral Terkini
 
 Di tahun serba digital ini, intensitas interaksi Anda dengan internet tentu terhitung tinggi. Berbagai informasi berseliweran silih berganti, hingga berbagai tren melewati postingan sosial media dengan ragam demografi. 
 
@@ -60,7 +62,7 @@ Sebut saja beberapa tren viral di sosial media sesuai artikel ini diterbitkan (J
 
 Selain itu, ada juga tren viral cewek kue, cewek bumi, cewek mamba, hingga cewek seblak yang muncul karena perpaduan warna bajunya. Tren ini dapat dimanfaatkan pemilik bisnis dengan melakukan promosi menyamakan warna produk mereka dengan warna tren-tren ini.
 
-* Amati Kebutuhan Sekitar
+### 2. Amati Kebutuhan Sekitar
 
 Sumber peluang bisnis selanjutnya adalah bisnis barang dengan tingkat kebutuhan tinggi. Cobalah perhatikan kebutuhan Anda sendiri maupun lingkungan sekitar. Kebutuhan di kota besar akan berbeda dengan kebutuhan di kota kecil.
 
@@ -70,7 +72,7 @@ Anda dapat memanfaatkan peluang usaha untuk membuka bisnis outer saja, terdapat 
 
 Baca juga: [Sistem Bisnis Dropshipper](https://landx.id/blog/mengenal-dropshipper-bisnis-online-modal-kecil-untung-besar/)
 
-* Memaksimalkan Passion dan Potensi Diri
+### 3. Memaksimalkan Passion dan Potensi Diri
 
 Sumber peluang bisnis lainnya adalahi hobi yang dimiliki dan terasa sangat menyenangkan jika passionmu bisa jadi peluang ide bisnis. Bagi Anda yang masih memiliki ganjalan keinginan melakoni hobi sebagai bisnis, mulai saja dulu dan maksimalkan.
 
@@ -80,13 +82,13 @@ Jenis karya otentik yang tidak banyak jumlahnya akan dipandang memiliki nilai be
 
 Tidak hanya itu, eksplor diri berkaitan dengan komunikasi, musik dan apapun jenis passion Anda, dapat menjadi hal yang menarik untuk dimaksimalkan.
 
-* Kunjungi Acara Bisnis dan Kreatif
+### 4. Kunjungi Acara Bisnis dan Kreatif
 
 Mau buka bisnis tapi bingung dari mana cari inspirasi? Mengunjungi pameran dan acara bisnis dan kreatif dapat menjadi salah satu solusi. Ragam bisnis yang bahkan Anda tidak pernah bayangkan sebelumnya ternyata bisa dapat hadir menjadi sebuah bisnis besar dengan pelanggan jutawan.
 
 Bertanya, berdiskusi, dan menambah wawasan informasi dengan mengunjungi pameran bisnis dan kreatif dapat buat Anda bisa melihat peluang usaha.
 
-* Gabung Komunitas Bisnis
+### 4. Gabung Komunitas Bisnis
 
 Sebenarnya banyak komunitas pemberdayaan bisnis hingga inkubator bisnis di sekitar kita. Namun, entah kenapa jarang terbaca oleh pandangan kita. Maka dari itu, menggali sosial media atau mencari kenalan bisnis untuk dapat bergabung menambah inspirasi dan semangat bisnis dapat menjadi solusi cara melihat peluang usaha.
 
@@ -120,15 +122,15 @@ Ini dia alasan Anda harus melakukan riset pasar atau market research:
 
 Cara melakukan market research yaitu:
 
-1. ### Analisis Tren Industri
+### 1. Analisis Tren Industri
 
 Jadinya nanti mau bisnis di industri apa? Industri F&B, lifestyle, otomotif, atau jasa? Apapun industrinya, mengenali tren dan sejarah apa saja hal populer yang pernah hadir dalam industri ini akan membuat Anda dapat proyeksi gambaran kehadiran bisnis Anda.
 
-2. ### Analisis Tren Teknologi
+### 2. Analisis Tren Teknologi
 
 Teknologi internet seperti sosial media dapat dimanfaatkan untuk merumuskan strategi promosi atau marketing terbaik. Berdasarkan jenis industri dan target konsumen bisnis Anda, nantinya akan berbeda cara promosinya. Serta akan terlihat di channel mana yang akan lebih memberikan dampak terbaik.
 
-3. ### Faktor Sosial dan Ekonomi
+### 3. Faktor Sosial dan Ekonomi
 
 Kondisi pandemi dulu dapat menjadi gambaran bagi Anda pemula bisnis tentang apa saja bisnis yang dapat bertahan jangka panjang. Kini kondisi sosial dan ekonomi negara kita dikabarkan terjadi kenaikan tingkat suku bunga. Perbanyak baca berita bisnis terkait jenis bisnis apa yang terdampak kurang menyenangkan dan bisnis yang menguntungkan atau diuntungkan.
 
