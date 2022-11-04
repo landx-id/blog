@@ -1,9 +1,13 @@
 <div class="jumbotron-container">
-    {{if in .imageUrl "http"}}
-    <img src="{{.imageUrl}}" class="bg" alt="{{.altText}}" />
-    {{else}}
-    <img src="blog/{{.path}}{{.imageUrl}}" class="bg" alt="{{.altText}}" />
-    {{end}}
+  {{if in .imageUrl "http"}}
+  <img src="{{.imageUrl}}" class="bg" alt="{{.altText}}" />
+  {{else}}
+  <img src="blog/{{.path}}{{.imageUrl}}" class="bg" alt="{{.altText}}" />
+  {{end}}
 
-    <div class="jumbotron-text">{{.title}}</div>
+  <div class="jumbotron-text">{{.title}}</div>
+  <div class="jumbotron-description">
+    Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo
+    ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis
+  </div>
 </div>

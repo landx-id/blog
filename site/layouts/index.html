@@ -1,16 +1,57 @@
-{{ define "main" }}
+{{ define "main" }} {{ partial "landx-jumbotron" (dict "imageUrl"
+"/img/header_background.webp" "title" "Landx Blog" "path" .Site.Params.pathUrl)
+}}
 
-{{ partial "landx-jumbotron" (dict "imageUrl" "/img/header_background.webp" "title" "Landx Blog" "path" .Site.Params.pathUrl) }}
+<style>
+  .render-li {
+    display: flex;
+    width: 33%;
+  }
 
-<div class="mw8 center">
-  <ul class="flex-ns flex-wrap mhn1-ns pa3">
-    {{ range (.Paginator 20).Pages.ByPublishDate.Reverse }}
-    <div class="w-50-ns ph3-ns flex">
-      {{ .Render "landx-li"}}
-    </div>
-    {{ end }}
-  </ul>
-  {{ partial "landx-paginator" . }}
+  .list-container {
+    max-width: 1150px !important;
+  }
+
+  @media (max-width: 1200px) {
+    .render-li {
+      width: 50%;
+    }
+
+    .list-container {
+      padding-left: 56px;
+      padding-right: 56px;
+    }
+  }
+
+  @media (max-width: 760px) {
+    .render-li {
+      width: 100%;
+    }
+
+    .list-container {
+      padding-left: 6px;
+      padding-right: 6px;
+    }
+  }
+</style>
+
+<div
+  style="
+    background-image: linear-gradient(#000, #000 100%);
+    background-size: 100% 300px;
+    background-repeat: no-repeat;
+    background-position: center bottom;
+    padding-top: 42px;
+  "
+>
+  <div class="center list-container">
+    <ul style="display: flex; justify-content: start; flex-wrap: wrap">
+      {{ range (.Paginator 20).Pages.ByPublishDate.Reverse }}
+      <div class="render-li">{{ .Render "landx-li"}}</div>
+      {{ end }}
+    </ul>
+    <!-- {{ partial "landx-paginator" . }} -->
+  </div>
 </div>
 
 {{end}}
