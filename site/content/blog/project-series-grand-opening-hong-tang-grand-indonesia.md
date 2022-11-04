@@ -10,6 +10,13 @@ intro: Hip hip Hong Tang! Selamat untuk Hong Tang dan para investor yang telah
   miliki 7 outlet baru yang beroperasi di lokasi strategis. Di mana aja
   outletnya? Simak infonya di bawah ini!
 date: 2022-10-31T02:26:27.358Z
+tag:
+  - LandX
+  - HONG
+  - Investasi Bisnis
+category:
+  - Bisnis
+  - Investasi
 featuredImage:
   src: img/yt_thumbnail.jpg
   alt: hong tang grand indonesia
@@ -17,7 +24,7 @@ featuredImage:
 ---
 Lengkap sudah 7 outlet baru Hong Tang di berbagai lokasi strategis yang hadir berkat pendanaan crowdfunding dari investor di platform [equity crowdfunding](https://landx.id/) [LandX](https://landx.id/). Yuk lihat outlet Hong Tang Grand Indonesia tepatnya lantai Food Print berikut ini!
 
-([video](https://www.youtube.com/watch?v=mYrgjK9kuTk))
+{{< youtube id="mYrgjK9kuTk" >}}
 
 ## Tentang Hong Tang
 
@@ -93,4 +100,10 @@ Dividen yang lancar didistribusikan tanpa gundah,karena situasi yang tidak terdu
 
 Bagi pemilik bisnis yang berkeinginan menggaet investor melalui [LandX](https://landx.id/), bisa berkunjung ke website [LandX](https://landx.id/) dan mengisi formulir pada tombol ‘Pendaftaran Perusahaan’. [](https://landx.id/)
 
-## [Jangkau Konsumen dari Seluruh Sisi dengan Ekspansi](https://landx.id/)
+## [Jangkau Konsumen dari Seluruh Sisi dengan Ekspansi](https://landx.id/penerbit/?utm_source=Organic+Page&utm_medium=Content+Blog&utm_campaign=BlogLandX&utm_id=Blog)
+
+<!--StartFragment-->
+
+[![miliki bisnis modal kecil cuma dengan 1 jutaan dapat 4 cabang ](https://accountgram-production.sfo2.cdn.digitaloceanspaces.com/landx_ghost/2021/11/jadi-owner-bisnis-hanya-1-jutaan-dengan-cuan-yang-sangat-menjanjikan.png)](https://app.landx.id/?utm_source=Organic+Page&utm_medium=Content+Blog&utm_campaign=BlogLandX&utm_id=Blog)
+
+<!--EndFragment-->
