@@ -1,5 +1,5 @@
 ---
-draft: false
+draft: true
 author: Alula
 title: "Nilai Intrinsik: Fungsi, Jenis, Cara Menghitung Nilai Intrinsik Saham"
 metaTitle: "Nilai Intrinsik: Fungsi, Jenis, Cara Menghitung Nilai Intrinsik Saham"
