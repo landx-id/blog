@@ -19,7 +19,7 @@ category:
   - Bisnis
   - Investasi
 featuredImage:
-  src: img/padang-merdeka-kota-tua.jpg
+  src: https://media.discordapp.net/attachments/913743599844343808/1037994177012707358/unknown.png
   alt: padang merdeka kota tua
   title: kuliner kawasan kota tua
 ---
