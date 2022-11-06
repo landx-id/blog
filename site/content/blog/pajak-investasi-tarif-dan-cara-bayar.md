@@ -1,5 +1,5 @@
 ---
-draft: true
+draft: false
 author: Umar Tusin
 title: "Pajak Investasi: Tarif dan Cara Bayar"
 metaTitle: "Pajak Terhadap Instrumen Investasi: Yuk Pelajari Besar Pajak Investasi"
