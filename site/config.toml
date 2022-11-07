@@ -11,7 +11,7 @@ rssLimit = 4
     baseName = "rss"
 
 [Params]
-  pathUrl = ''
+  pathUrl = 'blog'
   author = "Landx"
   logo = "img/16x16.png"
   header = "LandX"
