@@ -102,15 +102,19 @@ IPO saham merupakan kesempatan untuk kamu mendapatkan saham dari perusahaan pote
 
 Oleh sebab itu, hal ini bisa kamu manfaatkan untuk meraup keuntungan yang lebih besar. Hal lain yang harus kamu pahami adalah cara ikut IPO yang biasanya dilakukan oleh perusahaan dengan skala besar.
 
-Ada skema untuk bisnis skala menengah dan kecil atau UMKM melakukan rilis saham kepada publik, yaitu **[sistem equity crowdfunding.](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)**
+Ada skema untuk bisnis skala menengah dan kecil atau UMKM melakukan rilis saham kepada publik, yaitu **[sistem equity crowdfunding.](https://app.landx.id/?utm_source=Organic+Page&utm_medium=Content+Blog&utm_campaign=BlogLandX&utm_id=Blog)**
 
 Apabila kamu ingin melakukan investasi bisnis ke dalam berbagai bisnis potensial di sekitar kamu, maka kamu harus menemukan [platform equity crowdfunding](https://landx.id/) terbaik untuk menemukan bisnis terbaik untuk investasi kamu.
 
 [LandX](https://landx.id/) merupakan platform equity crowdfunding terbaik yang bisa membantu kamu menemukan bisnis yang bisa kamu beli sahamnya untuk investasi jangka panjang. Sebagai pemegang saham, kamu tentu saja berpotensi mendapatkan keuntungan berupa dividen sesuai dengan performa bisnis yang didanai. Karena itu...
 
-## **[Yuk Temukan Saham Bisnis Terbaik Kamu di LandX](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)**
+## **[Yuk Temukan Saham Bisnis Terbaik Kamu di LandX](https://app.landx.id/?utm_source=Organic+Page&utm_medium=Content+Blog&utm_campaign=BlogLandX&utm_id=Blog)**
 
-[![miliki bisnis modal kecil cuma dengan 1 jutaan dapat 4 cabang ](https://accountgram-production.sfo2.cdn.digitaloceanspaces.com/landx_ghost/2021/11/jadi-owner-bisnis-hanya-1-jutaan-dengan-cuan-yang-sangat-menjanjikan.png)](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)
+<!--StartFragment-->
+
+[![miliki bisnis modal kecil cuma dengan 1 jutaan dapat 4 cabang ](https://accountgram-production.sfo2.cdn.digitaloceanspaces.com/landx_ghost/2021/11/jadi-owner-bisnis-hanya-1-jutaan-dengan-cuan-yang-sangat-menjanjikan.png)](https://app.landx.id/?utm_source=Organic+Page&utm_medium=Content+Blog&utm_campaign=BlogLandX&utm_id=Blog)
+
+<!--EndFragment-->
 
 **[Biar Gak Ketinggalan Info Seputar Bisnis Terbaru Anda, Jangan Lupa Follow @landx.id di Instagram](https://instagram.com/landx.id?utm_medium=copy_link)**
 
