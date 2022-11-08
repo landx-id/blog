@@ -153,22 +153,15 @@ Sebagai investor, kamu bisa membandingkan bisnis UMKM mana yang paling potensial
 Dalam investasi dengan skema securities crowdfunding, sebelum berbicara soal pembagian dividen per lembar saham, sebaiknya kamu harus mempelajari pihak yang terlibat dalam sistem ini, yaitu:
 
 1. Penerbit: Badan usaha seperti CV, NV, Firma, dan lainnya yang membutuhkan pendanaan dan mendaftarkan perusahaannya untuk penawaran saham melalui platform Equity Crowdfunding.
-
 2. Investor: Individu yang telah membuat akun dan verifikasi (KYC) di platform Equity
 
 Crowdfunding. Setelah berinvestasi, pihak investor berpeluang mendapatkan keuntungan dari pembagian dividen per lembar saham kumpulan (lot) dari bisnis yang didanai.
 
 3. Platform Equity Crowdfunding: Platform berbasis online yang menengahi transaksi efek antara investor dan penerbit yang membutuhkan pendanaan.
 
-
-
 Dari tiga pihak tersebut, kamu sebagai investor bisa mendapatkan informasi mengenai sistem pembagian dividen saham dari project penerbit yang kamu inginkan melalui dokumen prospektus. 
 
-
-
 Dalam dokumen ini, terdapat skema soal harga saham per lembar, perhitungan berapa persentase return pembagian dividen per lembar sahamnya, riwayat keuangan jalannya bisnis tersebut, hingga rencana ke depannya jika pendanaan berhasil terpenuhi. Berdasarkan data inilah yang menjadi pertimbangan penting perusahaan dalam menetapkan kebijakan dividen.
-
-
 
 Lewat prospektus ini, kamu sebagai investor bisa menerawang kemungkinan keuntungan yang bisa kamu dapat jika mengalokasikan besaran modalmu, termasuk dengan risiko yang mungkin dihadapi.
 
@@ -176,21 +169,10 @@ Karena itu, jika kamu tertarik mendapatkan dividen untuk passive income di masa 
 
 karena itu...
 
-## **[Yuk Patungan Bisnis Berpotensi Dividen #MulaiSekarang Lewat LandX!](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)**
+## **[Yuk Patungan Bisnis Berpotensi Dividen #MulaiSekarang Lewat LandX!](https://app.landx.id/?utm_source=Organic+Page&utm_medium=Content+Blog&utm_campaign=BlogLandX&utm_id=Blog)**
 
-[![Bagaimana? Kamu lebih suka bisnis dengan buyback guarantee atau yang bisa disimpan dalam jangka panjang? Apapun pilihan kamu.. Yuk Patungan  dengan Keuntungan Menjanjikan Bareng LandX](https://accountgram-production.sfo2.cdn.digitaloceanspaces.com/landx_ghost/2021/10/Equity-Crowdfunding-di-Indonesia-1--3.png)](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)
+<!--StartFragment-->
 
-## [Mau Berbagai info Terbaru Terkait Investasi? Yuk Follow @landx.id di Instagram](https://www.instagram.com/landx.id/?utm_medium=copy_link)
-
-- - -
-
-**Baca Juga:**
-
-* \***\*[**Mau Jadi Investor? Simak Cara Mudah Menjadi Investor Hanya dengan Modal Kecil**](https://landx.id/blog/cara-menjadi-investor/)\*\***
-* \***\*[**Tips Penting dalam Menyusun Rencana Investasi Jangka Panjang Terbaik**](https://landx.id/blog/investasi-jangka-panjang-adalah/)\*\***
-
-- - -
-
-**\#YukPatunganBisnis    #LandX.id    #landx         #landx.id    #InvestasiBisnis  #SecuritiesCrowdfunding   #EquityCrowdfunding    #InvestasiMenguntungkan     #Urundana    #BisnisPatungan    #InvestasiUsaha**
+[![miliki bisnis modal kecil cuma dengan 1 jutaan dapat 4 cabang ](https://accountgram-production.sfo2.cdn.digitaloceanspaces.com/landx_ghost/2021/11/jadi-owner-bisnis-hanya-1-jutaan-dengan-cuan-yang-sangat-menjanjikan.png)](https://app.landx.id/?utm_source=Organic+Page&utm_medium=Content+Blog&utm_campaign=BlogLandX&utm_id=Blog)
 
 <!--EndFragment-->
