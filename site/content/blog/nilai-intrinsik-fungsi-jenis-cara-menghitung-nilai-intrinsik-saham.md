@@ -1,15 +1,17 @@
 ---
-draft: true
+draft: false
 author: Alula
 title: "Nilai Intrinsik: Fungsi, Jenis, Cara Menghitung Nilai Intrinsik Saham"
 metaTitle: "Nilai Intrinsik: Fungsi, Jenis, Cara Menghitung Nilai Intrinsik Saham"
-metaDescription: Nilai instrinsik saham adalah nilai asli dari saham sebenarnya.
-  Menghitung nilai instrinsik saham membantu kamu tahu waktu jual beli saham
-  terbaik
-intro: Nilai instrinsik saham adalah nilai asli dari saham sebenarnya. Fungsi
-  mengetahui nilai instrinsik saham membantu kamu kapan membeli saham di harga
-  murah dan dapat menjual di harga tinggi. Yuk ketahui cara mengetahui nilai
-  instrinsik saham di bawah ini!
+metaDescription: "Nilai intrinsik adalah nilai asli dari suatu saham. Saat
+  menghitung nilai intrinsik saham, kamu bisa menentukan margin of safety yang
+  sesuai. "
+intro: >-
+  Nilai intrinsik mengacu pada perbedaan antara harga pasar saat ini dari aset
+  dasar dan harga pelaksanaan opsi. 
+
+
+  Lalu bagaimana jika nilai intrinsik lebih besar nilai pasar? Yuk simak artikel ini lebih lanjut. 
 date: 2022-11-04T01:31:00.323Z
 featuredImage:
   alt: nilai instrinsik saham
@@ -22,7 +24,7 @@ Saham menjadi salah satu instrumen investasi yang paling banyak diminati oleh pa
 
 Untuk meminimalisir risiko investasi akibat ikut-ikutan, sebaiknya sebelum kamu memulai investasi saham, kamu perlu mengetahui nilai intrinsik dan bagaimana cara menghitung nilai intrinsik saham.
 
-## Nilai Intrinsik Saham
+## Apa Itu Nilai Intrinsik Saham?
 
 **Nilai intrinsik** adalah nilai asli dari suatu saham, yakni sebuah perkiraan nilai yang dihitung dari risiko dan pengembaliannya. Nilai intrinsik sendiri berbeda dengan nilai pasar (harga saham) atau nilai buku (book value). 
 
@@ -40,15 +42,15 @@ Nilai Intrinsik sendiri memiliki fungsi untuk menunjukkan bagaimana potensi keun
 
 Terdapat beberapa jenis penilaian terhadap harga saham, beberapa penilaian tersebut antara lain sebagai berikut.
 
-### 1.    Overvalued
+### 1. Overvalued
 
 Saham overvalued adalah saham yang memiliki harga pasar lebih tinggi daripada nilai intrinsiknya. Biasanya saham ini akan jarang diminati oleh para investor karena harganya yang mahal.
 
-### 2.    Undervalued
+### 2. Undervalued
 
 Saham undervalued adalah saham yang memiliki harga pasar yang lebih murah atau berada dibawah harga intrinsik. Atau dapat diartikan undervalued merupakan suatu kondisi dimana harga suatu saham berada dibawah harga normal.
 
-### 3.    Fair Valued
+### 3. Fair Valued
 
 Pada penilaian fair valued, nilai intrinsik sebuah saham akan sama dengan nilai aslinya. Artinya, harga pasar akan sebanding dengan nilai fundamental saham.
 
@@ -62,9 +64,9 @@ Selain itu, dengan mengetahui nilai intrinsik saham kamu juga dapat menentukan k
 
 Nilai intrinsik akan menunjukkan present value arus kas yang diterima oleh suatu saham. Terdapat tiga pedoman dalam menentukan saham tersebut terjual, dibeli, atau dipertahankan, yakni sebagai berikut.
 
-1. Jika nilai intrinsik lebih besar daripada harga pasar saat ini, maka saham tersebut dinilai undervalued. Lebih baik jika kamu membeli saham tersebut atau menahannya bila saham tersebut telah dimiliki
-2. Jika nilai intrinsik kurang dari harga pasar sekarang, maka saham tersebut dinilai overvalued. Maka kamu tidak dianjurkan untuk membeli saham ini, jika sudah memilikinya maka lebih baik untuk melepaskannya.
-3. Jika nilai intrinsik sama dengan harga pasar sekarang, maka saham tersebut memiliki harga wajar dan memiliki kondisi yang seimbang.
+* Jika nilai intrinsik lebih besar daripada harga pasar saat ini, maka saham tersebut dinilai undervalued. Lebih baik jika kamu membeli saham tersebut atau menahannya bila saham tersebut telah dimiliki
+* Jika nilai intrinsik kurang dari harga pasar sekarang, maka saham tersebut dinilai overvalued. Maka kamu tidak dianjurkan untuk membeli saham ini, jika sudah memilikinya maka lebih baik untuk melepaskannya.
+* Jika nilai intrinsik sama dengan harga pasar sekarang, maka saham tersebut memiliki harga wajar dan memiliki kondisi yang seimbang.
 
 ## Cara Menghitung Nilai Intrinsik Saham
 
@@ -76,7 +78,7 @@ Beberapa hal yang harus kamu pahami sebagai seorang investor sebelum membeli ase
 
 Sedangkan untuk metode analisis fundamental dalam menghitung nilai intrinsik saham antara lain sebagai berikut.
 
-1. ### Rumus Nilai Intrinsik Saham dengan Metode Relatif
+### 1. Rumus Nilai Intrinsik Saham dengan Metode Relatif
 
 Untuk menghitung nilai intrinsik saham dengan metode relatif yakni dengan rumus:
 
@@ -88,7 +90,7 @@ Untuk menghitung nilai intrinsik saham dengan metode relatif yakni dengan rumus:
 
  PER = Price Earning Ratio 
 
-2. ### Nilai Intrinsik Saham dengan Benjamin Graham Formula
+### 2. Rumus Nilai Intrinsik Saham dengan Benjamin Graham Formula
 
 Benjamin Graham adalah seorang tokoh yang memiliki pengaruh besar dalam dunia investasi. Nilai intrinsik bermula dari inisiasi Benjamin dalam menciptakan suatu metode untuk memilih saham yang tepat. Rumus menghitung nilai intrinsik saham dengan formula Benjamin graham antara lain sebagai berikut.
 
@@ -104,15 +106,15 @@ EPS = Earnings per Share atau laba bersih per saham yang berasal dari laporan ta
 
 g = persentase ekspektasi pertumbuhan dalam 7-10 tahun kedepan.
 
-3. ### Nilai Intrinsik Berdasarkan Model Pertumbuhan Dividen
+### 3. Nilai Intrinsik Berdasarkan Model Pertumbuhan Dividen
 
 Terdapat 3 (tiga) model menghitung nilai intrinsik saham pertumbuhan dividen yakni:
 
-#### 1.    Model pertumbuhan nol (zero growth model)
+* #### Model pertumbuhan nol (zero growth model)
 
 Model menghitung nilai intrinsik saham ini berasumsi bahwa dividen yang dibayarkan perusahaan tidak akan mengalami pertumbuhan, dividen akan tetap dipertahankan pada tingkat saat ini dan seterusnya. Untuk rumus model pertumbuhan ini adalah sebagai berikut.
 
-![](https://lh3.googleusercontent.com/Tf33Km_11pvwQ-E5-bxvUrnz5sdAcpdXg-oyz62hbwIn916zSeaaGcSakgSnCbSss7Hd4G9Trxsx3dxB_kvi-O9UX6vFwe8Qd0dsgLiC2m5eiYgaDClplWwhK9XDzOvyuuLiss1q46J2vv4hCAZMvmLsIDQp8qGr8gVDC76k2LDS64nD_89HrxXsaoeNhw)
+![rumus intrinsik saham](https://lh3.googleusercontent.com/Tf33Km_11pvwQ-E5-bxvUrnz5sdAcpdXg-oyz62hbwIn916zSeaaGcSakgSnCbSss7Hd4G9Trxsx3dxB_kvi-O9UX6vFwe8Qd0dsgLiC2m5eiYgaDClplWwhK9XDzOvyuuLiss1q46J2vv4hCAZMvmLsIDQp8qGr8gVDC76k2LDS64nD_89HrxXsaoeNhw "rumus intrinsik saham")
 
 Penjelasan:
 
@@ -122,13 +124,13 @@ D    = dividen tahunan per lembar saham preferen
 
 k     = tingkat return/pengembalian yang disyaratkan   pada saham preferen
 
-#### 2. Model pertumbuhan konstan (constant growth model)
+* #### Model pertumbuhan konstan (constant growth model)
 
 Model pertumbuhan konstan sering juga disebut Gordon Model. Model menghitung nilai intrinsik saham ini berasumsi bahwa dividen tumbuh pada suatu tingkat tertentu yang konstan selama waktu yang tak terbatas. Rumus model pertumbuhan konstan adalah sebagai berikut.
 
 ![](https://lh6.googleusercontent.com/sD1GASzKCmpqJbPpTnNz7eob--7KTOn8OBMlmnp8TADNN77X3tB_oShLJpGs1L-OmkKtO4E1TkQjXOpQ3WwcY9XK01bJ_xaYBChaTWKnkwxg09TZUjKiw4RdnRXxleo7dL7l9Z3QxO0qSRYw_kHa8Kjp7eEJTa2ko6LB0Del4n5XccFZaSGWUkDZyuYzkQ)
 
-![](https://lh4.googleusercontent.com/Svq4Xt2KdMAM-rnjPU9722qP-Y9q-QZiqCHyWYegSEv4LQCtBL7MOlQMmdXRa4LCEiq1i5WFa_NlCxG9rQ_SIdH-Xw4DvyZwAR_l7Z5UExxQqgetFEQQ8JQmIcRzpxiA427n_cbWOceVOpqVNlKW1cV8v6RvLOr9zC1L8yF0dA5c-r32Buvx4980BSbtYw)
+![menghitung saham intrinsik](https://lh4.googleusercontent.com/Svq4Xt2KdMAM-rnjPU9722qP-Y9q-QZiqCHyWYegSEv4LQCtBL7MOlQMmdXRa4LCEiq1i5WFa_NlCxG9rQ_SIdH-Xw4DvyZwAR_l7Z5UExxQqgetFEQQ8JQmIcRzpxiA427n_cbWOceVOpqVNlKW1cV8v6RvLOr9zC1L8yF0dA5c-r32Buvx4980BSbtYw "menghitung saham intrinsik")
 
 Penjelasan:
 
@@ -138,7 +140,7 @@ g   = tingkat pertumbuhan dividen
 
 k   = tingkat pengembalian yang disyaratkan
 
-#### 3. Model pertumbuhan tidak konstan (non constant  growth model)
+* #### Model pertumbuhan tidak konstan (non constant  growth model)
 
 Untuk menghitung nilai intrinsik saham melalui model ini ialah dengan rumus:
 
@@ -160,4 +162,4 @@ Dengan memiliki modal 1 jutaan kamu sudah bisa berinvestasi, kamu dapat menentuk
 
 Untuk dapat berinvestasi bisnis saham kamu dapat mendownload aplikasi investasi [LandX](https://play.google.com/store/apps/details?id=store.numoney.landxapp&hl=id&gl=US). Aplikasi investasi ini sudah memiliki izin resmi dan diawasi Otoritas Jasa Keuangan (OJK). [](https://app.landx.id/?utm_source=Organic+Page&utm_medium=Content+Blog&utm_campaign=BlogLandX&utm_id=Blog)
 
-[Y﻿uk Download dan Jadi Investor Bisnis Sekarang Juga](https://app.landx.id/?utm_source=Organic+Page&utm_medium=Content+Blog&utm_campaign=BlogLandX&utm_id=Blog)
+#### [Y﻿uk Download dan Jadi Investor Bisnis Sekarang Juga](https://app.landx.id/?utm_source=Organic+Page&utm_medium=Content+Blog&utm_campaign=BlogLandX&utm_id=Blog)
