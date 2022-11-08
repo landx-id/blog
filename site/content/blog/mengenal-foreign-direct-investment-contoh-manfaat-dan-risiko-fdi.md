@@ -8,6 +8,13 @@ metaDescription: Foreign Direct Investment (FDI) adalah investasi jangka panjang
 intro: FDI adalah penanaman modal dari suatu negara ke negara lainnya. FDI
   menjadi indikator penting pertumbuhan ekonomi suatu negara.
 date: 2022-10-12T08:57:28.441Z
+tag:
+  - investasi bisnis
+  - investasi keuangan
+  - investasi umkm
+category:
+  - Investasi
+  - Keuangan
 featuredImage:
   title: FDI adalah
   alt: foreign direct investment
@@ -116,3 +123,9 @@ Cara meningkatkan modal dalam negeri sebagai masyarakat Indonesia dapat kamu lak
 Kamu dapat mulai investasi pada bisnis potensial dengan modal mulai Rp1 juta aja.
 
 #### [Yuk Investasi dan Dukung Pertumbuhan Ekonomi Nasional](https://app.landx.id/?utm_source=Organic+Page&utm_medium=Content+Blog&utm_campaign=BlogLandX&utm_id=Blog)
+
+<!--StartFragment-->
+
+[![miliki bisnis modal kecil cuma dengan 1 jutaan dapat 4 cabang ](https://accountgram-production.sfo2.cdn.digitaloceanspaces.com/landx_ghost/2021/11/jadi-owner-bisnis-hanya-1-jutaan-dengan-cuan-yang-sangat-menjanjikan.png)](https://app.landx.id/?utm_source=Organic+Page&utm_medium=Content+Blog&utm_campaign=BlogLandX&utm_id=Blog)
+
+<!--EndFragment-->
