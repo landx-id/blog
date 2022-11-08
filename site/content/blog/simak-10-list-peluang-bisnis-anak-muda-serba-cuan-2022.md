@@ -11,6 +11,14 @@ intro: Pada usia muda kategori umur 20-an cenderung memiliki waktu yang banyak
   Oleh karena itu, jika kamu sedang mencari ide usaha anak muda, yuk simak
   bersama-sama artikel ini.
 date: 2022-10-06T16:17:31.976Z
+tag:
+  - bisnis jangka panjang
+  - Bisnis Menguntungkan
+  - Bisnis F&B
+  - Memulai Bisnis
+category:
+  - "Bisnis "
+  - Investasi
 featuredImage:
   alt: Simak 10 List Peluang Bisnis Anak Muda Serba Cuan 2022
   title: Simak 10 List Peluang Bisnis Anak Muda Serba Cuan 2022
@@ -101,3 +109,7 @@ Sekarang, kamu bisa menjadi investor dengan modal Rp1 juta untuk memiliki saham 
 [LandX](https://landx.id/) merupakan platform equity crowdfunding yang mempertemukan para pebisnis yang tengah mengembangkan bisnisnya dengan investor yang tertarik mengenai bisnis tersebut. Investasi dengan skema equity crowdfunding dilakukan secara kolektif, sehingga kamu bisa menjadi investor dengan modal minim.
 
 #### [Yuk, Jadi Pemilik Bisnis Kopi Kekinian Cuma Modal Rp1 Juta!](https://app.landx.id/?utm_source=Organic+Page&utm_medium=Content+Blog&utm_campaign=BlogLandX&utm_id=Blog)
+
+[![miliki bisnis modal kecil cuma dengan 1 jutaan dapat 4 cabang ](https://accountgram-production.sfo2.cdn.digitaloceanspaces.com/landx_ghost/2021/11/jadi-owner-bisnis-hanya-1-jutaan-dengan-cuan-yang-sangat-menjanjikan.png)](https://app.landx.id/?utm_source=Organic+Page&utm_medium=Content+Blog&utm_campaign=BlogLandX&utm_id=Blog)
+
+<!--EndFragment-->
