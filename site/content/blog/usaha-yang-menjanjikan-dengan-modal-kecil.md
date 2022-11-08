@@ -36,7 +36,7 @@ Jika sudah mantap ingin membangun usaha modal kecil, harus dari mana memulai?
 
 Jika masih bingung, ini dia rekomendasi peluang usaha modal kecil yang menjanjikan untuk inspirasimu memulai bisnis!
 
-## [Franchise F&B](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)
+## Franchise F&B
 
 Bisnis F&B bisa dibilang menjadi salah satu usaha yang menjanjikan pada saat ini, hal ini karena *demand* akan produk satu terus menerus meningkat dari waktu ke waktu sehingga banyak sekali peluang usaha yang bisa Anda ambil apabila terjun ke sektor satu ini. 
 
@@ -108,12 +108,8 @@ Proses merintis bisnis yang menjanjikan memang bukanlah hal yang mudah. Karena i
 
 Dalam membangun bisnis Anda membutuhkan modal dan kemampuan untuk mengatur bisnis agar bisa berjalan dalam jangka panjang. Oleh sebab itu mulai membangun suatu usaha artinya Anda siap menghadapi berbagai risiko yang muncul. Namun ada solusi lain untuk memulai usaha modal kecil dengan keuntungan menjanjikan.
 
-Anda bisa mulai dengan investasi bisnis dengan [equity crowdfunding](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog) sehingga Andabisa memiliki bagian kepemilikan dari suatu bisnis yang bisa memberikan  keuntungan menjanjikan tanpa repot mengatur bisnis Anda. Sistem ini sangat cocok untuk Andayang ingin mendapatkan keuntungan tapi tidak mau repot mengatur suatu bisnis.
+Anda bisa mulai dengan investasi bisnis dengan [equity crowdfunding](https://app.landx.id/?utm_source=Organic+Page&utm_medium=Content+Blog&utm_campaign=BlogLandX&utm_id=Blog) sehingga Andabisa memiliki bagian kepemilikan dari suatu bisnis yang bisa memberikan  keuntungan menjanjikan tanpa repot mengatur bisnis Anda. Sistem ini sangat cocok untuk Andayang ingin mendapatkan keuntungan tapi tidak mau repot mengatur suatu bisnis.
 
-**[Yuk Investasi Bisnis Menguntungkan Bersama LandX](https://app.landx.id/?utm_source=Organic+Page&utm_medium=Content+Blog&utm_campaign=BlogLandX&utm_id=Blog)**
+## **[Yuk Investasi Bisnis Menguntungkan Bersama LandX](https://app.landx.id/?utm_source=Organic+Page&utm_medium=Content+Blog&utm_campaign=BlogLandX&utm_id=Blog)**
 
 [![miliki bisnis modal kecil cuma dengan 1 jutaan dapat 4 cabang ](https://accountgram-production.sfo2.cdn.digitaloceanspaces.com/landx_ghost/2021/11/jadi-owner-bisnis-hanya-1-jutaan-dengan-cuan-yang-sangat-menjanjikan.png)](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)
-
-**[Jangan Lupa!! Follow @landx.id di Instagram Supaya Terus Update Berbagai Info Seputar Investas](https://instagram.com/landx.id?utm_medium=copy_link)i.**
-
-**\#LandX.id    #landx         #landx.id    #InvestasiBisnis    #EquityCrowdfunding    #InvestasiMenguntungkan    #Urundana    #BisnisPatungan    #InvestasiUsaha**
