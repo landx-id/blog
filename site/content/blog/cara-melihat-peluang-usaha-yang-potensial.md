@@ -108,8 +108,6 @@ Anda dapat menganalisis peluang usaha dari sumber informasi data primer atau lan
 
 Sebenarnya, analisis peluang usaha adalah cara paling mendasar yang dapat memastikan pondasi bisnismu cukup kuat untuk berjalan dan berkembang dengan sukses di masa depan. 
 
-
-
 Utamanya, bisnis apa pun pasti pada akhirnya harus terjun ke pasar untuk bersaing dengan kompetitor dengan cara menarik target konsumen. Di sinilah cara memanfaatkan analisis peluang usaha, yaitu melalui pengadaan riset pasar atau market research
 
 Ini dia alasan Anda harus melakukan riset pasar atau market research:
@@ -136,6 +134,10 @@ Kondisi pandemi dulu dapat menjadi gambaran bagi Anda pemula bisnis tentang apa 
 
 Market research tidak hanya berlaku bagi perseorangan yang baru ingin buka usaha. Tetapi juga akan memiliki manfaat pada pelaku bisnis yang ada dalam skala kecil maupun perusahaan besar. Terutama jika perusahaan ingin melakukan ekspansi, tentu akan membutuhkan informasi mengenai target lokasi dan pasar agar diminati target konsumen.
 
-## [Bagi Pengusaha Bisnis yang Ingin Ekspansi, Yuk Ekspansi Bersama LandX](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)
+## [Bagi Pengusaha Bisnis yang Ingin Ekspansi, Yuk Ekspansi Bersama LandX](https://app.landx.id/?utm_source=Organic+Page&utm_medium=Content+Blog&utm_campaign=BlogLandX&utm_id=Blog)
+
+<!--StartFragment-->
+
+[![miliki bisnis modal kecil cuma dengan 1 jutaan dapat 4 cabang ](https://accountgram-production.sfo2.cdn.digitaloceanspaces.com/landx_ghost/2021/11/jadi-owner-bisnis-hanya-1-jutaan-dengan-cuan-yang-sangat-menjanjikan.png)](https://app.landx.id/?utm_source=Organic+Page&utm_medium=Content+Blog&utm_campaign=BlogLandX&utm_id=Blog)
 
 <!--EndFragment-->
