@@ -179,14 +179,10 @@ Platform [equity crowdfunding  LandX](https://landx.id/) pun sudah berpengalama
 
 Karena itu, mari download LandX App dan jangan sampai ketinggalan peluang jadi pemilik bisnis potensial untuk menambah tabunganmu mewujudkan rumah impian ya!
 
-## [\#MulaiSekarang Ambil Langkah Raih Rumah Impian, Yuk Tambah Income Lewat LandX!](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)
+## [\#MulaiSekarang Ambil Langkah Raih Rumah Impian, Yuk Tambah Income Lewat LandX!](https://app.landx.id/?utm_source=Organic+Page&utm_medium=Content+Blog&utm_campaign=BlogLandX&utm_id=Blog)
 
 <!--StartFragment-->
 
-[![miliki bisnis modal kecil cuma dengan 1 jutaan dapat 4 cabang ](https://accountgram-production.sfo2.cdn.digitaloceanspaces.com/landx_ghost/2021/11/jadi-owner-bisnis-hanya-1-jutaan-dengan-cuan-yang-sangat-menjanjikan.png)](https://app.landx.id/?utm_source=Content+Listing&utm_medium=Content+Blog&utm_campaign=BlogLandX&utm_id=Blog)
-
-[\#Bisnis F&B](https://landx.id/blog/tag/bisnis-fb)[\#Bisnis FnB](https://landx.id/blog/tag/bisnis-fnb)[\#franchise](https://landx.id/blog/tag/franchise)
-
-
+[![miliki bisnis modal kecil cuma dengan 1 jutaan dapat 4 cabang ](https://accountgram-production.sfo2.cdn.digitaloceanspaces.com/landx_ghost/2021/11/jadi-owner-bisnis-hanya-1-jutaan-dengan-cuan-yang-sangat-menjanjikan.png)](https://app.landx.id/?utm_source=Organic+Page&utm_medium=Content+Blog&utm_campaign=BlogLandX&utm_id=Blog)
 
 <!--EndFragment-->
