@@ -9,6 +9,14 @@ intro: Mau berinvestasi yang sesuai dengan syariat Islam? Sukuk ritel saja!
   Sukuk ritel adalah bentuk penerbitan Surat Berharga Syariah Negara yang dapat
   dibeli oleh masyarakat luas dengan prinsip Islam
 date: 2022-10-21T06:51:18.125Z
+tag:
+  - Sukuk
+  - Instrumen Investasi
+  - Analisis Investasa
+  - Investasi Keuangan
+category:
+  - Investasi
+  - Keuangan
 featuredImage:
   alt: sukuk ritel adalah
   title: sukuk ritel adalah
@@ -181,3 +189,9 @@ Untuk berinvestasi di [LandX](https://landx.id/) pun kamu hanya perlu mengeluark
 Jadi tunggu apalagi? Download aplikasi [LandX](https://landx.id/) dan nikmati potensi keuntungannya!
 
 ### **[Yuk, Danai Bisnis UMKM Berpotensi Sekarang Juga!](https://app.landx.id/?utm_source=Organic+Page&utm_medium=Content+Blog&utm_campaign=BlogLandX&utm_id=Blog)**
+
+<!--StartFragment-->
+
+[![miliki bisnis modal kecil cuma dengan 1 jutaan dapat 4 cabang ](https://accountgram-production.sfo2.cdn.digitaloceanspaces.com/landx_ghost/2021/11/jadi-owner-bisnis-hanya-1-jutaan-dengan-cuan-yang-sangat-menjanjikan.png)](https://app.landx.id/?utm_source=Organic+Page&utm_medium=Content+Blog&utm_campaign=BlogLandX&utm_id=Blog)
+
+<!--EndFragment-->
