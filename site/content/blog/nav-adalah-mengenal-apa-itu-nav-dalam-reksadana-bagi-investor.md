@@ -10,6 +10,16 @@ intro: Dalam investasi reksadana terdapat istilah NAV. NAV adalah suatu nilai
   atau harga satuan produk reksadana yang sedang diperdagangkan dan sebagai
   acuan bagi para investor.
 date: 2022-10-24T02:49:06.613Z
+tag:
+  - Reksadana
+  - reksa dana
+  - Cara Kerja Reksadana
+  - Investor Pemula
+  - Investasi untuk Pemula
+  - Investasi Pemula
+category:
+  - Investasi
+  - Keuangan
 featuredImage:
   alt: nav reksadana
   title: nav reksa dana
@@ -89,3 +99,9 @@ Oiya, sebelum mendanai salah satu bisnis UMKM, kamu bisa mengecek profil bisnis 
  Berinvestasi di [LandX](https://landx.id/) juga kamu tidak perlu khawatir untuk keamanannya, karena [LandX](https://landx.id/) telah mengantongi izin dari OJK. Sehingga, seluruh aktivitas [LandX](https://landx.id/) akan diawasi langsung oleh OJK.
 
 ### [Yuk, Download Aplikasi LandX dan Danai Bisnis Potensial Sekarang Juga!](https://app.landx.id/?utm_source=Organic+Page&utm_medium=Content+Blog&utm_campaign=BlogLandX&utm_id=Blog)
+
+<!--StartFragment-->
+
+[![miliki bisnis modal kecil cuma dengan 1 jutaan dapat 4 cabang ](https://accountgram-production.sfo2.cdn.digitaloceanspaces.com/landx_ghost/2021/11/jadi-owner-bisnis-hanya-1-jutaan-dengan-cuan-yang-sangat-menjanjikan.png)](https://app.landx.id/?utm_source=Organic+Page&utm_medium=Content+Blog&utm_campaign=BlogLandX&utm_id=Blog)
+
+<!--EndFragment-->
