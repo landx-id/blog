@@ -61,7 +61,6 @@ Fungsi menghitung ROI ini juga untuk mengukur kemungkinan risiko yang mungkin di
 
 ### 2. Menjalankan Rencana Investasi
 
-
 Setelah melakukan perhitungan mendalam tentang pilihan alokasi modal, apa itu investor adalah seorang yang akan langsung menjalankan kegiatan investasi dengan berpegangan pada profil risiko yang sudah dibuat.
 
 ### 3. Evaluasi Kinerja Investasi
@@ -90,12 +89,9 @@ Mereka juga memiliki kemampuan, strategi, dan filosofi tersendiri dalam menjalan
 
 Apa itu investor adalah seorang yang bisa duduk menunggu uang yang menghampiri, bukan seorang yang berlari mengejar uang tersebut. Dengan nvestasi seorang investor akan memiliki passive income yang bisa digunakan untuk meraih masa depan impian.
 
-
 Ingin pensiun dini dan keliling dunia? Bisa dicapai dari *return* investasi yang didapat. Atau, ingin punya rumah idaman di usia muda? Tentu bisa dicapai juga dengan berinvestasi. 
 
 Semua keinginan untuk mencapai kebebasan finansial ideal bisa terealisasi dengan membangun strategi investasi terbaik yang sesuai dengan profil risiko yang ingin dimiliki.
-
- 
 
 ## Cara Menjadi Investor Pemula
 
@@ -137,7 +133,7 @@ Salah satu caranya adalah dengan mulai melakukan investasi bisnis yang berpotens
 
 Investasi bisnis juga sekarang menjadi sangat mudah dan bisa dimulai dengan modal kecil karena sekarang sudah ada [platform equity crowdfunding](https://landx.id/) untuk anda yang ingin patungan bisnis.
 
-### 5. [Menentukan Bisnis/Proyek Terbaik untuk Investasi Jangka Panjang](https://landx.id/project/index.html)
+### 5. [Menentukan Bisnis/Proyek Terbaik untuk Investasi Jangka Panjang](https://landx.id/)
 
 Sebelum membahas ini, yuk simak dulu pengalaman investasi dari para investor LandX berikut ini: 
 
@@ -147,21 +143,18 @@ Sebelum membahas ini, yuk simak dulu pengalaman investasi dari para investor Lan
 
 Apabila anda ingin menjadi investor bagi berbagai bisnis potensial, anda harus bisa menganalisis bisnis bagaimana potensi keuntungan dari bisnis yang akan anda danai.
 
-Karena itu, anda harus bisa menemukan bisnis dengan potensi perkembangan yang baik dalam jangka panjang. Akan tetapi, dengan memilih platform equity crowdfunding terpercaya, memilih bisnis menjadi terbaik menjadi semakin mudah karena sebagai penyelenggara mereka akan menyeleksi terlebih dahulu bisnis yang akan mereka [listing](https://landx.id/project/index.html) kepada masyarakat.
+Karena itu, anda harus bisa menemukan bisnis dengan potensi perkembangan yang baik dalam jangka panjang. Akan tetapi, dengan memilih platform equity crowdfunding terpercaya, memilih bisnis menjadi terbaik menjadi semakin mudah karena sebagai penyelenggara mereka akan menyeleksi terlebih dahulu bisnis yang akan mereka listing kepada masyarakat.
 
 [LandX](https://landx.id/) merupakan platform equity crowdfunding yang bisa membantu anda sebagai investor menemukan bisnis terbaik untuk didanai.
 
 [LandX](https://landx.id/) memberikan anda pilihan bisnis dari berbagai sektor seperti F&B, Jasa, Properti, dan berbagai sektor lain yang sangat potensial untuk investasi jangka panjang anda.
 
-[Investasi bisnis](https://landx.id/project/index.html) di LandX pun sangat mudah dan membutuhkan modal yang relatif kecil. Hanya dengan 1 juta rupiah saja anda sudah bisa memiliki bagian di berbagai bisnis potensial yang ada di LandX. Karena itu, yuk…
+Investasi bisnis di LandX pun sangat mudah dan membutuhkan modal yang relatif kecil. Hanya dengan 1 juta rupiah saja anda sudah bisa memiliki bagian di berbagai bisnis potensial yang ada di LandX. Karena itu, yuk…
 
-## **[Yuk Jadi Investor Bisnis Bareng LandX ](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)**
+## **[Yuk Jadi Investor Bisnis Bareng LandX](https://app.landx.id/?utm_source=Organic+Page&utm_medium=Content+Blog&utm_campaign=BlogLandX&utm_id=Blog)**
 
-[![miliki bisnis modal kecil cuma dengan 1 jutaan dapat 4 cabang ](https://accountgram-production.sfo2.cdn.digitaloceanspaces.com/landx_ghost/2021/11/jadi-owner-bisnis-hanya-1-jutaan-dengan-cuan-yang-sangat-menjanjikan.png)](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)
+<!--StartFragment-->
 
-**\#LandX.id    #landx         #landx.id    #InvestasiBisnis    #EquityCrowdfunding    #InvestasiMenguntungkan    #Urundana    #BisnisPatungan    #InvestasiUsaha**
+[![miliki bisnis modal kecil cuma dengan 1 jutaan dapat 4 cabang ](https://accountgram-production.sfo2.cdn.digitaloceanspaces.com/landx_ghost/2021/11/jadi-owner-bisnis-hanya-1-jutaan-dengan-cuan-yang-sangat-menjanjikan.png)](https://app.landx.id/?utm_source=Organic+Page&utm_medium=Content+Blog&utm_campaign=BlogLandX&utm_id=Blog)
 
-**Baca Juga:**
-
-* **\*\***[Buat Yang Mau Investasi, Yuk Pahami Seperti Apa Investasi Jangka Panjang yang Baik untuk Anda](https://landx.id/blog/tag/investasi-jangka-panjang)**\*\***
-* \***\*[**Investasi Modal Kecil:  Jenis dan Memilih Investasi dengan Modal Kecil yang Menguntungkan untuk Anda**](https://landx.id/blog/investasi-modal-kecil-jenis-dan-memilih-investasi-dengan-modal-kecil-yang-menguntungkan-untuk-anda/)\*\***
+<!--EndFragment-->
