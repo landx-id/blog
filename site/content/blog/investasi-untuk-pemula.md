@@ -133,7 +133,7 @@ Banyak pemula yang mengalami kerugian saat berinvestasi karena investasi yang me
 
 Salah satu investasi yang cocok untuk pemula adalah investasi bisnis.
 
-Yuk kita bahas lebih lanjut tentang investasi bisnis dengan [**skema equity crowdfunding**.](https://instagram.com/landx.id?utm_medium=copy_link) 
+Yuk kita bahas lebih lanjut tentang investasi bisnis dengan **skema equity crowdfunding**. 
 
 ## Memulai Investasi Bisnis
 
@@ -151,12 +151,10 @@ Selain itu, analisis bisnis potensial menjadi sangat terbantu oleh platform equi
 
 **[LandX](https://landx.id/)** merupakan salah satu platform equity crowdfunding terbaik dengan pilihan berbagai pilihan bisnis potensial untuk investasi anda.
 
-## [Yuk, download aplikasi LandX dan jadi investor bisnis potensial menguntungkan!](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)
+## [Yuk, download aplikasi LandX dan jadi investor bisnis potensial menguntungkan!](https://app.landx.id/?utm_source=Organic+Page&utm_medium=Content+Blog&utm_campaign=BlogLandX&utm_id=Blog)
 
-[![miliki bisnis modal kecil cuma dengan 1 jutaan dapat 4 cabang ](https://accountgram-production.sfo2.cdn.digitaloceanspaces.com/landx_ghost/2021/11/jadi-owner-bisnis-hanya-1-jutaan-dengan-cuan-yang-sangat-menjanjikan.png)](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)
+<!--StartFragment-->
+
+[![miliki bisnis modal kecil cuma dengan 1 jutaan dapat 4 cabang ](https://accountgram-production.sfo2.cdn.digitaloceanspaces.com/landx_ghost/2021/11/jadi-owner-bisnis-hanya-1-jutaan-dengan-cuan-yang-sangat-menjanjikan.png)](https://app.landx.id/?utm_source=Organic+Page&utm_medium=Content+Blog&utm_campaign=BlogLandX&utm_id=Blog)
 
 <!--EndFragment-->
-
-**[Jangan Lupa Kunjungi Kami di Instagram @landx.id Supaya Terus Update Info Terbaru Seputar Investasi…](https://instagram.com/landx.id?utm_medium=copy_link)**
-
-**\#LandX.id    #landx         #landx.id    #InvestasiBisnis    #EquityCrowdfunding    #InvestasiMenguntungkan    #Urundana    #BisnisPatungan    #InvestasiUsaha**
