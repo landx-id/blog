@@ -89,7 +89,7 @@ Dalam skema equity crowdfunding, terdapat tiga pihak yang terlibat, yakni bisnis
 
 LandX akan melakukan verifikasi secara menyeluruh tentang prospectus yang diajukan hingga akhirnya, saham UKM bisa listing atau tercatat dibuka untuk publik secara online agar investor yang tertarik dapat membeli sejumlah saham UMKM penerbit tersebut. Pada umumnya, saham UMKM yang listing di LandX menawarkan pembagian dividen secara rutin.
 
-Lewat **[LandX](https://landx.id/),** Anda bisa memilih untuk investasi di berbagai bidang industri. Mulai dari F&B, pet economy, hingga properti.Misalnya, jika Anda memiliki [**franchise F&B Mixue dan Hong Tang melalui LandX**,](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog) maka sistem bagi hasil usaha kuliner ini sesuai dengan persentase yang ditawarkan dalam prospektus. 
+Lewat **[LandX](https://landx.id/),** Anda bisa memilih untuk investasi di berbagai bidang industri. Mulai dari F&B, pet economy, hingga properti.Misalnya, jika Anda memiliki [**franchise F&B Mixue dan Hong Tang melalui LandX**,](https://app.landx.id/?utm_source=Organic+Page&utm_medium=Content+Blog&utm_campaign=BlogLandX&utm_id=Blog) maka sistem bagi hasil usaha kuliner ini sesuai dengan persentase yang ditawarkan dalam prospektus. 
 
 Dalam setiap investasi tentu saja Anda tidak bisa terhindar dari berbagai risiko yang ada. Dengan diversifikasi saham UMKM, Anda dapat mengalokasikan dana yang dimiliki ke sejumlah proyek atau bisnis potensial. Dengan ini, risiko kerugian pun bisa semakin diminimalisir.
 
