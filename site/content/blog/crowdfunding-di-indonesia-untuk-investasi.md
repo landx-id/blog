@@ -130,13 +130,17 @@ Hal ini menunjukkan bahwa sistem ini tidak hanya menguntungkan investor namun ju
 
 Dalam berinvestasi dengan sistem ini, anda harus memperhatikan platform crowdfunding yang akan anda gunakan karena platform merupakan pihak pertama yang akan melakukan kurasi terhadap bisnis yang akan mereka listing.
 
-[Platform crowdfunding](https://landx.id/https://landx.id/) yang baik akan membantu anda menemukan bisnis yang kredibel dan potensial untuk pilihan investasi anda. Maka dari itu, anda harus melihat dulu bagaimana rekam jejak dari suatu platform sebelum mulai berinvestasi.
+Platform crowdfunding yang baik akan membantu anda menemukan bisnis yang kredibel dan potensial untuk pilihan investasi anda. Maka dari itu, anda harus melihat dulu bagaimana rekam jejak dari suatu platform sebelum mulai berinvestasi.
 
 **[LandX](https://landx.id/)**  merupakan [platform equity crowdfunding](https://landx.id/) terpercaya yang telah berpengalaman menyalurkan dana ke berbagai bisnis menguntungkan dari berbagai sektor mulai dari F&B, properti, industri kecantikan, cuci mobil, laundry, dan berbagai sektor lainnya.
 
-## [Yuk Ikut Crowdfunding Membangun Berbagai Bisnis Potensial di LandX](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)
+## [Yuk Ikut Crowdfunding Membangun Berbagai Bisnis Potensial di LandX](https://app.landx.id/?utm_source=Organic+Page&utm_medium=Content+Blog&utm_campaign=BlogLandX&utm_id=Blog)
 
-[![miliki bisnis modal kecil cuma dengan 1 jutaan dapat 4 cabang ](https://accountgram-production.sfo2.cdn.digitaloceanspaces.com/landx_ghost/2021/11/jadi-owner-bisnis-hanya-1-jutaan-dengan-cuan-yang-sangat-menjanjikan.png)](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)
+<!--StartFragment-->
+
+[![miliki bisnis modal kecil cuma dengan 1 jutaan dapat 4 cabang ](https://accountgram-production.sfo2.cdn.digitaloceanspaces.com/landx_ghost/2021/11/jadi-owner-bisnis-hanya-1-jutaan-dengan-cuan-yang-sangat-menjanjikan.png)](https://app.landx.id/?utm_source=Organic+Page&utm_medium=Content+Blog&utm_campaign=BlogLandX&utm_id=Blog)
+
+<!--EndFragment-->
 
 **[Mau Berbagai Info Menarik Seputar Investasi Lainnya? Yuk Follow Instagram Kami di @landx.id](https://www.instagram.com/landx.id/?utm_medium=copy_link)**
 
