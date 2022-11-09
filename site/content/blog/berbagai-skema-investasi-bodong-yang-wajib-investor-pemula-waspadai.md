@@ -2,14 +2,14 @@
 draft: false
 author: Abdul Wahhab
 title: "Investasi Bodong Adalah: Hindari 4 Modus Penipuan Investasi Online"
-metaTitle: "Investasi BodongAdalah: Hindari 4 Modus Penipuan Investasi Online"
+metaTitle: "Investasi Bodong Adalah: Hindari 4 Modus Penipuan Investasi Online"
 metaDescription: Kenali mudah ciri-ciri investasi bodong dan penipuan investasi
   via telegram agar kamu terhindar dari situasi yang merugikan. Yuk, kenali
   cirinya.
 intro: Supaya Anda terhindar dari situasi yang merugikan, kenali mudah ciri-ciri
   investasi bodong dan penipuan investasi via telegram yang masih marak memakan
   korban.
-isPinned: true
+isPinned: false
 slug: berbagai-skema-investasi-bodong-yang-wajib-investor-pemula-waspadai
 date: 2022-08-01T03:10:50.946Z
 tag:
@@ -103,10 +103,13 @@ Selain itu, pada modus penipuan investasu via Telegram biasanya mereka membatasi
 
 ## 4 Modus Investasi Bodong
 
-1. **Piramid (Ponzi).** Sistem dari investasi bodong ini yaitu uang yang disetor oleh Anda sebagai investor baru akan dibayarkan kepada investor lama. Skema ini paling sering muncul dalam beberapa waktu belakangan dan memakan banyak sekali korban terutama anak muda yang tidak paham tentang skema ini.
-2. **Binary Option**. [Binary option](https://landx.id/blog/memahami-sistem-untung-besar-dengan-binary-option-investasi-bodong/) adalah kegiatan bertaruh pada suatu nilai yang dapat naik-turun seperti, emas dan saham. Skema ini sering kali mengatasnamakan investasi sehingga banyak orang terjebak dan mengalami kerugian karena binary option memiliki konsep yang jauh berbeda dari investasi. [Binary option](https://landx.id/blog/memahami-sistem-untung-besar-dengan-binary-option-investasi-bodong/) bahkan dikatakan adalah judi.
-3. **Robot Forex Trading**. Forex atau foreign exchange (valuta asing) trading merupakan transaksi mata uang asing oleh mekanisme robot yang dijalankan oleh broker yang tidak terdaftar resmi. Broker ilegal ini sering kali memakan korban dengan membawa kabur uang investor mereka. Sebagian besar [korban robot forex tradin](https://landx.id/blog/apa-itu-forex-dan-cara-trading-serta-investasi-dalam-forex/)g pada awalnya mendapatkan keuntungan kecil sehingga berpikir bahwa sistem tersebut dapat dipercaya.
-4. **Skema Pump & Dump*.*** Skema investasi bodong dengan cara memanipulasi pasar saham yang membuat terjadi lonjakan naik dan turun secara signifikan, sehingga saat naik akan dijual oleh pengelola. Hal ini umum terjadi pada instrumen investasi dengan volatilitas yang cukup tinggi. Karena itu, kita tidak boleh investasi cuma karena FOMO dan tidak melakukan riset dan analisis sendiri.
+**1. Piramid (Ponzi)** Sistem dari investasi bodong ini yaitu uang yang disetor oleh Anda sebagai investor baru akan dibayarkan kepada investor lama. Skema ini paling sering muncul dalam beberapa waktu belakangan dan memakan banyak sekali korban terutama anak muda yang tidak paham tentang skema ini.
+
+**2. Binary Option** [Binary option](https://landx.id/blog/memahami-sistem-untung-besar-dengan-binary-option-investasi-bodong/) adalah kegiatan bertaruh pada suatu nilai yang dapat naik-turun seperti, emas dan saham. Skema ini sering kali mengatasnamakan investasi sehingga banyak orang terjebak dan mengalami kerugian karena binary option memiliki konsep yang jauh berbeda dari investasi. [Binary option](https://landx.id/blog/memahami-sistem-untung-besar-dengan-binary-option-investasi-bodong/) bahkan dikatakan adalah judi.
+
+**3. Robot Forex Trading** Forex atau foreign exchange (valuta asing) trading merupakan transaksi mata uang asing oleh mekanisme robot yang dijalankan oleh broker yang tidak terdaftar resmi. Broker ilegal ini sering kali memakan korban dengan membawa kabur uang investor mereka. Sebagian besar [korban robot forex tradin](https://landx.id/blog/apa-itu-forex-dan-cara-trading-serta-investasi-dalam-forex/)g pada awalnya mendapatkan keuntungan kecil sehingga berpikir bahwa sistem tersebut dapat dipercaya.
+
+**4. Skema Pump & Dump** Skema investasi bodong dengan cara memanipulasi pasar saham yang membuat terjadi lonjakan naik dan turun secara signifikan, sehingga saat naik akan dijual oleh pengelola. Hal ini umum terjadi pada instrumen investasi dengan volatilitas yang cukup tinggi. Karena itu, kita tidak boleh investasi cuma karena FOMO dan tidak melakukan riset dan analisis sendiri.
 
 ## Penipuan Investasi via Telegram
 
@@ -163,9 +166,13 @@ Saat ini, LandX telah berhasil menyalurkan 2,29 miliar dividen kepada para inves
 
 Karena itu....
 
-## [Yuk Investasi Bisnis yang Aman Bersama LandX](https://landx.id/project/)
+## [Yuk Investasi Bisnis yang Aman Bersama LandX](https://app.landx.id/?utm_source=Organic+Page&utm_medium=Content+Blog&utm_campaign=BlogLandX&utm_id=Blog)
 
-[![Bagaimana? Kamu lebih suka bisnis dengan buyback guarantee atau yang bisa disimpan dalam jangka panjang? Apapun pilihan kamu.. Yuk Patungan  dengan Keuntungan Menjanjikan Bareng LandX](https://accountgram-production.sfo2.cdn.digitaloceanspaces.com/landx_ghost/2021/10/Equity-Crowdfunding-di-Indonesia-1--3.png)](https://landx.id/project/#/ximi)
+<!--StartFragment-->
+
+[![miliki bisnis modal kecil cuma dengan 1 jutaan dapat 4 cabang ](https://accountgram-production.sfo2.cdn.digitaloceanspaces.com/landx_ghost/2021/11/jadi-owner-bisnis-hanya-1-jutaan-dengan-cuan-yang-sangat-menjanjikan.png)](https://app.landx.id/?utm_source=Organic+Page&utm_medium=Content+Blog&utm_campaign=BlogLandX&utm_id=Blog)
+
+<!--EndFragment-->
 
 - - -
 
@@ -180,8 +187,3 @@ Karena itu....
 * **Alamat** : Italian Walk C.15-16, Mall of Indonesia, Jl. Yos Sudarso, RT.18,RT.18/RW.8, Kelapa Gading Barat, Kelapa Gading, Kota Jakarta Utara,  Jakarta 14240
 
 - - -
-
-**Baca Juga:**
-
-* **[Waspada Penipuan Mengatasnamakan LandX dengan Modus Titip Dana](https://landx.id/blog/waspada-penipuan-mengatasnamakan-landx-dengan-modus-titip-dana/)**
-* **[Ingin Terhindar Dari FOMO saat Berinvestasi? 5 Hal Ini Wajib Kamu Lakukan](https://landx.id/blog/fomo-dalam-kehidupan-dan-investasi/)**
