@@ -6,7 +6,7 @@ metaTitle: "Buyback adalah: Apa Itu Buyback Saham dan Equity Crowdfunding"
 metaDescription: Buyback adalah kebijakan perusahaan untuk membeli kembali saham
   mereka yang beredar di publik sehingga mereka dapat kembali privat
 intro: Yuk pahami apa itu buyback dalam investasi yang penting untuk anda pahami.....
-isPinned: true
+isPinned: false
 slug: buyback-adalah
 date: 2022-07-18T08:14:28.327Z
 tag:
@@ -46,7 +46,7 @@ Pertama-tama, mari kita bahas dulu apa itu buyback atau stock repurchase dalam i
 
 Apa yang dimaksud dengan buyback saham?
 
-> [B***uyback*** **adalah**](https://landx.id/project) kebijakan pembelian kembali suatu saham yang oleh perusahaan yang menerbitkan saham tersebut. Artinya, perusahaan membeli kembali bagian kepemilikan dari bisnis mereka yang sebelumnya ditawarkan kepada publik.
+> [B***uyback*** **adalah**](https://landx.id/) kebijakan pembelian kembali suatu saham yang oleh perusahaan yang menerbitkan saham tersebut. Artinya, perusahaan membeli kembali bagian kepemilikan dari bisnis mereka yang sebelumnya ditawarkan kepada publik.
 
 Stock repurchase biasanya dilakukan dengan berbagai tujuan. Tujuan buyback adalah untuk menjaga likuiditas dari perusahaan yang merupakan salah satu rasio keuangan penting yang diperhatikan. Hal ini berkaitan dengan rasio earning per share (EPR) yang akan meningkat saat semakin sedikit jumlah saham yang beredar di pasaran.
 
@@ -78,7 +78,7 @@ Hal ini menjadikan investasi dengan equity crowdfunding bisa memberikan keuntung
 
 Hal ini karena sebagai investor anda bisa mendapatkan keuntungan berupa dividen selama anda memegang saham dan modal yang anda miliki tetap aman karena akan ada *buyback guarantee* di akhir periode.
 
-Sama seperti investasi saham di pasar modal, ***[buyback guarantee](https://landx.id/project/#/cpap)*** ini bersifat opsional dan bergantung dengan kebijakan dari penerbit. Di satu sisi, investasi anda menjadi sangat aman karena ada *buyback guarantee*, namun hal ini artinya anda tidak bisa memiliki saham dari bisnis ini selamanya karena saham anda akan dibeli kembali oleh penerbit pada akhir periode.
+Sama seperti investasi saham di pasar modal, ***buyback guarantee*** ini bersifat opsional dan bergantung dengan kebijakan dari penerbit. Di satu sisi, investasi anda menjadi sangat aman karena ada *buyback guarantee*, namun hal ini artinya anda tidak bisa memiliki saham dari bisnis ini selamanya karena saham anda akan dibeli kembali oleh penerbit pada akhir periode.
 
 **Bagaimana? Anda lebih suka bisnis dengan buyback guarantee atau yang bisa disimpan dalam jangka panjang? Kalau belum yuk simak video penjelasan dari Mindland di bawah ini:**
 
@@ -86,19 +86,10 @@ Sama seperti investasi saham di pasar modal, ***[buyback guarantee](https://land
 
 Gimana? Sudah lebih paham? Atau ingin lihat contoh investasi saham buyback?
 
-## [Yuk, Akses Investasi dengan Buyback Saham di Sini](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)
+## [Yuk, Akses Investasi dengan Buyback Saham di Sini](https://app.landx.id/?utm_source=Organic+Page&utm_medium=Content+Blog&utm_campaign=BlogLandX&utm_id=Blog)
 
-[![Bagaimana? Kamu lebih suka bisnis dengan buyback guarantee atau yang bisa disimpan dalam jangka panjang? Apapun pilihan kamu.. Yuk Patungan  dengan Keuntungan Menjanjikan Bareng LandX](https://accountgram-production.sfo2.cdn.digitaloceanspaces.com/landx_ghost/2021/10/Equity-Crowdfunding-di-Indonesia-1--3.png)](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)
+<!--StartFragment-->
 
-**[Mau Berbagai info Terbaru Terkait Investasi? Yuk Follow @landx.id di Instagram](https://www.instagram.com/landx.id/?utm_medium=copy_link)**
+[![miliki bisnis modal kecil cuma dengan 1 jutaan dapat 4 cabang ](https://accountgram-production.sfo2.cdn.digitaloceanspaces.com/landx_ghost/2021/11/jadi-owner-bisnis-hanya-1-jutaan-dengan-cuan-yang-sangat-menjanjikan.png)](https://app.landx.id/?utm_source=Organic+Page&utm_medium=Content+Blog&utm_campaign=BlogLandX&utm_id=Blog)
 
-- - -
-
-**Baca Juga:**
-
-* [Mau Jadi Investor? Simak Cara Mudah Menjadi Investor Hanya dengan Modal Kecil](https://landx.id/blog/cara-menjadi-investor/)
-* [Tips Penting dalam Menyusun Rencana Investasi Jangka Panjang Terbaik](https://landx.id/blog/investasi-jangka-panjang-adalah/)
-
-- - -
-
-**\#YukPatunganBisnis**
+<!--EndFragment-->
