@@ -58,13 +58,13 @@ Ekosistem *fintech* di Indonesia terbagi dalam berbagai sektor, yaitu sektor keu
 
 ![LandX memimpin pendanaan lewat sistem equity crowdfunding](https://accountgram-production.sfo2.cdn.digitaloceanspaces.com/landx_ghost/2022/01/infografis-sewaktu-LandX--2021-_02-min-1.png "Dominasi LandX dalam pendanaan lewat sistem urun dana atau equity crowdfunding")
 
-**[LandX](https://landx.id/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)**  mengakhiri tahun 2021 dan merayakan 1 tahun [LandX](https://landx.id/) berlisensi *[equity crowdfunding](https://landx.id/)* dengan capai posisi terdepan di industri *crowdfunding*.
+**LandX**  mengakhiri tahun 2021 dan merayakan 1 tahun [LandX](https://landx.id/) berlisensi *[equity crowdfunding](https://landx.id/)* dengan capai posisi terdepan di industri *crowdfunding*.
 
-**[*Crowdfunding* adalah sistem urun dana](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)** berbasis teknologi sebagai modal suatu bisnis dari sejumlah besar orang atau masyarakat. Keuntungan dari berinvetasi *crowdfunding* adalah imbal hasil berupa dividen. Di [LandX](https://landx.id/), sistem urun dana ini dikenal dengan patungan bisnis.
+***Crowdfunding* adalah sistem urun dana** berbasis teknologi sebagai modal suatu bisnis dari sejumlah besar orang atau masyarakat. Keuntungan dari berinvetasi *crowdfunding* adalah imbal hasil berupa dividen. Di [LandX](https://landx.id/), sistem urun dana ini dikenal dengan patungan bisnis.
 
 Pada awal tahun 2022 ini [LandX](https://landx.id/) muncul sebagai salah satu penyelenggara *crowdfunding* terpopuler di Indonesia. Hal ini terlihat pada logo [LandX](https://landx.id/) yang muncul pada acara [Pembukaan Perdagangan Bursa Efek Indonesia (BEI) Tahun 2022](https://www.youtube.com/watch?v=qMoEZfYTZwE) oleh Ketua Dewan Komisaris OJK, Wimboh Santoso.
 
-**[LandX merupakan platform *Equity Crowdfunding*](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)** yang berizin dan diawasi oleh Otoritas Jasa Keuangan (OJK). LandX.id bertindak sebagai penyelenggara layanan urun dana (*crowdfunding*) yang mempertemukan pengusaha dengan pemodal.
+**LandX merupakan platform *Equity Crowdfunding*** yang berizin dan diawasi oleh Otoritas Jasa Keuangan (OJK). LandX.id bertindak sebagai penyelenggara layanan urun dana (*crowdfunding*) yang mempertemukan pengusaha dengan pemodal.
 
 **[LandX](https://landx.id/)** hadir dalam rangka mendukung program pemerintah untuk membangun dan mengembangkan UMKM di Indonesia. Melalui [LandX](https://landx.id/), para pengusaha UMKM mampu menjawab permasalahan utama yaitu kendala modal dalam mengembangkan usahanya.
 
@@ -142,20 +142,6 @@ Selalu berusaha memberikan informasi dan edukasi terkait keuangan, investasi, da
 
 Terima kasih sudah memilih LandX.id menjadi bagian mencapai tujuan bebas finansialmu. Kami senang dapat menjadi bagian perjalananmu dalam segera capai angka bebas finansialmu.
 
-## [Jalani tahun yang baru bersama LandX, let your money work for you in 2022!](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)
+## [Jalani tahun yang baru bersama LandX, let your money work for you in 2022!](https://app.landx.id/?utm_source=Organic+Page&utm_medium=Content+Blog&utm_campaign=BlogLandX&utm_id=Blog)
 
-[![miliki berbagai bisnis paling potensial di 2022 cuma dengan modal 1 jutaan aja bareng landx agar potensi keuangan kamu semakin baik](https://accountgram-production.sfo2.cdn.digitaloceanspaces.com/landx_ghost/2022/01/miliki-berbagai-bisnis-paling-potensial-di-2022-cuma-dengan-modal-1-jutaan-saja--min.png)](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)
-
-**[Mau Terus Update Info Seputar Investasi? Yuk Follow Kami di Instagram @landx.id untuk Berbagai Info Terupdate Seputar Investasi](https://instagram.com/landx.id?utm_medium=copy_link)**
-
-- - -
-
-**Baca Juga:**
-
-* [Window Dressing dan Prospek Investasi di Tahun 2022](https://landx.id/blog/memahami-konsep-window-dressing-2022/)
-* [Peluang Bisnis Franchise Menjanjikan Tahun 2022, Siap Sambut Cuan!](https://landx.id/blog/peluang-bisnis-franchise-terbaik-di-tahun-2022/)
-* [Mengenal Prospek January Effect Saham di Tahun 2022, Hindari Saham Non-Potensial](https://landx.id/blog/january-effect-dalam-investasi/)
-
-- - -
-
-**\#SekarangBisa**
+[![miliki berbagai bisnis paling potensial di 2022 cuma dengan modal 1 jutaan aja bareng landx agar potensi keuangan kamu semakin baik](https://accountgram-production.sfo2.cdn.digitaloceanspaces.com/landx_ghost/2022/01/miliki-berbagai-bisnis-paling-potensial-di-2022-cuma-dengan-modal-1-jutaan-saja--min.png)](https://app.landx.id/?utm_source=Organic+Page&utm_medium=Content+Blog&utm_campaign=BlogLandX&utm_id=Blog)
