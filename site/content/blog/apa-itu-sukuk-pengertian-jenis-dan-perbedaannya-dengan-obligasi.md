@@ -113,6 +113,10 @@ Bagaimana pemahaman Anda terhadap sukuk? Anda sudah paham kan terkait definisi d
 
 Di securities crowdfunding, sukuk juga menjadi instrumen produk investasi yang ditawarkan untuk jadi pilihan diversifikasi portofolio Anda. Selain itu, beirnvestasi dengan modal minim mulai Rp 1 juta juga bisa pada project equity crowdfunding di LandX. Berinvestasi pada project bisnis potensial serta mendapat keuntungan dividen sesuai penawaran. 
 
-### [\#SekarangBisa berinvestasi dengan modal dan capai keuntungan di LandX](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)
+### [\#SekarangBisa berinvestasi dengan modal dan capai keuntungan di LandX](https://landx.id/blog/apa-itu-sukuk-pengertian-jenis-dan-perbedaannya-dengan-obligasi/)
 
-[![miliki bisnis modal kecil cuma dengan 1 jutaan dapat 4 cabang ](https://accountgram-production.sfo2.cdn.digitaloceanspaces.com/landx_ghost/2021/11/jadi-owner-bisnis-hanya-1-jutaan-dengan-cuan-yang-sangat-menjanjikan.png)](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)
+<!--StartFragment-->
+
+[![miliki bisnis modal kecil cuma dengan 1 jutaan dapat 4 cabang ](https://accountgram-production.sfo2.cdn.digitaloceanspaces.com/landx_ghost/2021/11/jadi-owner-bisnis-hanya-1-jutaan-dengan-cuan-yang-sangat-menjanjikan.png)](https://app.landx.id/?utm_source=Organic+Page&utm_medium=Content+Blog&utm_campaign=BlogLandX&utm_id=Blog)
+
+<!--EndFragment-->[](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)
