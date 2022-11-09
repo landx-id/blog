@@ -86,7 +86,7 @@ Seperti yang kita ketahui saat ini, baik pebisnis dan investor sangat tertarik d
 
 Nah, saat ini ada juga loh **[opsi investasi dengan modal minim](https://landx.id/)** dimulai dari Rp1 juta untuk **menjadi bos bisnis potensial melalui skema [equity crowdfunding](https://landx.id/)**. Opsi ini adalah kepemilikan saham bisnis UMKM yang kamu danai, kamu akan mendapatkan keuntungan berupa dividen sesuai dengan performa bisnis. 
 
-Dengan skema ini, kamu bisa mencari dan memiliki berbagai merek bisnis .dari berbagai sektor industri seperti, FnB coffee shop, retail, jasa laundry, dan properti. Peluang investasi melalui aplikasi [equity crowdfunding](https://landx.id/) seperti [LandX](<coffee shop>) yang berpengalaman melakukan pendanaan bisnis potensial, terpercaya dan sudah memiliki izin dari Otoritas Jasa Keuangan membuat investasi kamu aman dan menguntungkan. 
+Dengan skema ini, kamu bisa mencari dan memiliki berbagai merek bisnis .dari berbagai sektor industri seperti, FnB coffee shop, retail, jasa laundry, dan properti. Peluang investasi melalui aplikasi [equity crowdfunding](https://landx.id/) seperti LandX yang berpengalaman melakukan pendanaan bisnis potensial, terpercaya dan sudah memiliki izin dari Otoritas Jasa Keuangan membuat investasi kamu aman dan menguntungkan. 
 
 #### [Yuk, Jadi Bos Bisnis Potensial dengan Modal Minim Lewat LandX Sekarang Juga! ](https://app.landx.id/?utm_source=BLOGCONTENT&utm_medium=SEO&utm_campaign=SEO&utm_id=BLOGLANDX)
 
