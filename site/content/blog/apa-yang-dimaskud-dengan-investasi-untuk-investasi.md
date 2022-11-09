@@ -123,7 +123,7 @@ Karena investasi online tidak memungkinkan anda melakukan pengecekan secara lang
 
 Pada saat ini beberapa platform online sudah menyediakan layanan notifikasi untuk memberikan informasi kepada anda terkait performa investasi yang akan anda lakukan.
 
-### [6. Diversifikasi](https://landx.id/project/)
+### 6. Diversifikasi
 
 **Keenam,** untuk memperkecil risiko kerugian dan memaksimalkan keuntungan dari investasi, anda perlu melakukan diversifikasi terhadap instrumen investasi yang anda gunakan. Oleh sebab itu, anda bisa mengalokasikan dana anda ke beberapa instrumen invsestasi agar risiko yang anda harus tanggung menjadi lebih kecil.
 
@@ -143,7 +143,7 @@ Reksa dana merupakan jenis investasi yang sangat cocok untuk investor pemula ter
 
 Jenis juga sangat digemari oleh pemula karena modal yang dibutuhkan dalam investasi ini terbilang kecil dan mudah di akses melalui berbagai platform investasi online.
 
-### [3. Equity Crowdfunding](https://landx.id/project/)
+### 3. Equity Crowdfunding
 
 Salah satu investasi yang cocok untuk pemula adalah investasi bisnis dengan sistem [equity crowdfunding](https://landx.id/).
 
@@ -151,17 +151,10 @@ Sistem ini memberikan anda kesempatan untuk melakukan [patungan bisnis](https://
 
 Investasi melalui platform ini bisa memberikan anda ***[passive income](https://landx.id/project/)*** melalui dividen yang bisa membantu kamu mencapai berbagai tujuan finansial jangka panjang yang ingin anda capai. Karena itu,
 
-**[Yuk Patungan Bisnis Menguntungkan Bareng Land](https://landx.id/project/)X**
+**[Yuk Patungan Bisnis Menguntungkan Bareng Land](https://app.landx.id/?utm_source=Organic+Page&utm_medium=Content+Blog&utm_campaign=BlogLandX&utm_id=Blog)X**
 
-[![Equity crowdfunding merupakan salah satu instrumen investasi dengan potensi keuntungan menjanjikan untuk pemula yang mau berinvestasi](https://accountgram-production.sfo2.cdn.digitaloceanspaces.com/landx_ghost/2021/10/Equity-Crowdfunding-di-Indonesia-1--4.png)](https://landx.id/project/)
+<!--StartFragment-->
 
-**[Jangan Lupa!!! Follow Juga Kami di Instagram @landx.id Untuk Berbagai Informasi Terupdate Seputar Investasi](https://instagram.com/landx.id?utm_medium=copy_link)**
+[![miliki bisnis modal kecil cuma dengan 1 jutaan dapat 4 cabang ](https://accountgram-production.sfo2.cdn.digitaloceanspaces.com/landx_ghost/2021/11/jadi-owner-bisnis-hanya-1-jutaan-dengan-cuan-yang-sangat-menjanjikan.png)](https://app.landx.id/?utm_source=Organic+Page&utm_medium=Content+Blog&utm_campaign=BlogLandX&utm_id=Blog)
 
-**\#YukPatunganBisnis    #LandX.id    #landx         #landx.id    #InvestasiBisnis    #EquityCrowdfunding    #InvestasiMenguntungkan    #Urundana    #BisnisPatungan    #InvestasiUsaha**
-
-- - -
-
-**Baca Juga:**
-
-* **[Buat Yang Mau Investasi, Yuk Pahami Seperti Apa Investasi Jangka Panjang yang Baik untuk Anda](https://landx.id/blog/tag/investasi-jangka-panjang)**
-* **[Investasi Modal Kecil:  Jenis dan Memilih Investasi dengan Modal Kecil yang Menguntungkan untuk Anda](https://landx.id/blog/investasi-modal-kecil-jenis-dan-memilih-investasi-dengan-modal-kecil-yang-menguntungkan-untuk-anda/)**
+<!--EndFragment-->
