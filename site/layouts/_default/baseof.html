@@ -16,10 +16,13 @@
 
   {{ block "footer" . }}{{ partial "landx-footer" . }}{{end}}
 
+  {{ block "landx-navbar" .}} {{ partial "landx-navbar" .}} {{end}}
+
   {{ $script := .Site.Data.webpack.main }}
   {{ with $script.js }}
   <script src="{{ relURL . }}"></script>
   {{ end }}
+
 </body>
 
 </html>
