@@ -53,7 +53,7 @@ Ketiga, Selalu menggunakan bahan-bahan hasil perkebunan lokal. Hal ini bertujuan
 
 ## Konsep dan Menu Vilo Gelato
 
-![Aneka menu vilo gelato dan cara jadi pemilik vilo gelato modal 1 juta](https://media.discordapp.net/attachments/913743599844343808/939223361769316362/Menu_vilo_gelato.png)
+![Aneka menu vilo gelato dan cara jadi pemilik vilo gelato modal 1 juta](https://media.discordapp.net/attachments/913743599844343808/939223361769316362/Menu_vilo_gelato.png "Menu Vilo Gelato")
 
 Pada daftar menunya, ada tiga varian ukuran penyajian gelato, yakni 90 ml, 250 ml, dan 500 ml. Untuk varian rasa, terdapat lebih dari 50 varian rasa gelato unik yang tersedia setiap hari, di antaranya seperti Dutch Chocolate, Butter Coffee, Strawberry Cheesecake, hingga rasa nusantara seperti Klepon, Pandan Kaya Toast, Martabak, dan lain-lain. 
 
@@ -67,7 +67,7 @@ Lain lagi dengan konsep gerai yang terletak di daerah Senopati. Anda akan dibuat
 
 Total, hingga saat ini Kedai Vilo Gelato sudah tersedia di sembilan titik lokasi, yakni di bilangan Taman Ratu, Ciranjang, Barito, Gunawarman, Hang Lekiu, Tomang, Taman Mini, Bandung, dan Puncak Bogor. Ke depannya, Vilo Gelato berencana untuk mengembangkan bisnis dan membuka lebih banyak gerai lagi di seluruh daerah di Indonesia.
 
-## [Jadi Pemilik Franchise Vilo Gelato Cuma Modal 1 Juta](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)
+## [Jadi Pemilik Franchise Vilo Gelato Cuma Modal 1 Juta](https://app.landx.id/?utm_source=Organic+Page&utm_medium=Content+Blog&utm_campaign=BlogLandX&utm_id=Blog)
 
 **Selain sebagai penikmat es krim gelato**, Anda mungkin juga melihat Vilo Gelato sebagai sebuah peluang bisnis yang menjanjikan. Selama masa pandemi, banyak bisnis yang mengalami penurunan pendapatan. Seperti yang telah dilaporkan bahwa hanya terdapat 1% sektor bisnis di Indonesia yang mampu tetap meningkatkan profit hingga lebih dari 25% selama masa pandemi.
 
@@ -85,10 +85,14 @@ Karena itu, yuk simak dulu pembukaan Vilo Gelato cabang Alam Sutera yang baru sa
 
 **Pada Project Vilo Gelato ini,** Anda sudah bisa menjadi investor hanya dengan modal mulai dari satu juta rupiah, serta akan mendapatkan pengembalian berupa dividen dengan estimasi sebesar 15-25% per tahun yang akan dibagikan setiap tiga bulan.
 
-**[Tunggu apalagi, segera verifikasi akun Anda di LandX agar tidak kehabisan project Vilo Gelato atau project-project bisnis menarik lainnya.\*\**](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)**
+**[Tunggu apalagi, segera verifikasi akun Anda di LandX agar tidak kehabisan project Vilo Gelato atau project-project bisnis menarik lainnya.](https://app.landx.id/?utm_source=Organic+Page&utm_medium=Content+Blog&utm_campaign=BlogLandX&utm_id=Blog)**
 
-[![Jadi Pemilik Vilo Gelato Cuma dengan Modal 1 Juta](https://media.discordapp.net/attachments/913743599844343808/939222534199582800/Jadi_pemilik_franchise_gelato_cuma_dengan_modal_1_juta.png)](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)
+<!--StartFragment-->
 
-{{< button link="https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog" text="Yuk Investasi Sekarang" >}}
+[![miliki bisnis modal kecil cuma dengan 1 jutaan dapat 4 cabang ](https://accountgram-production.sfo2.cdn.digitaloceanspaces.com/landx_ghost/2021/11/jadi-owner-bisnis-hanya-1-jutaan-dengan-cuan-yang-sangat-menjanjikan.png)](https://app.landx.id/?utm_source=Organic+Page&utm_medium=Content+Blog&utm_campaign=BlogLandX&utm_id=Blog)
+
+<!--EndFragment-->[](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)
+
+
 
 - - -
