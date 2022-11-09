@@ -58,11 +58,11 @@ Hal lain adalah analisis produk yang ditawarkan karena pada dasarnya investasi m
 
 Demikian informasi ini disampaikan kepada seluruh calon investor agar terhindar dari berbagai jenis penipuan yang mengatasnamakan **[LandX](https://landx.id/).**  
 
-**[Yuk Temukan Bisnis Menjanjikan dengan Keuntungan Terbaik di LandX](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)**
+**[Yuk Temukan Bisnis Menjanjikan dengan Keuntungan Terbaik di LandX](https://app.landx.id/?utm_source=Organic+Page&utm_medium=Content+Blog&utm_campaign=BlogLandX&utm_id=Blog)**
 
-[![miliki bisnis modal kecil cuma dengan 1 jutaan dapat 4 cabang ](https://accountgram-production.sfo2.cdn.digitaloceanspaces.com/landx_ghost/2021/11/jadi-owner-bisnis-hanya-1-jutaan-dengan-cuan-yang-sangat-menjanjikan.png)](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)
+[![miliki bisnis modal kecil cuma dengan 1 jutaan dapat 4 cabang ](https://accountgram-production.sfo2.cdn.digitaloceanspaces.com/landx_ghost/2021/11/jadi-owner-bisnis-hanya-1-jutaan-dengan-cuan-yang-sangat-menjanjikan.png)](https://app.landx.id/?utm_source=Organic+Page&utm_medium=Content+Blog&utm_campaign=BlogLandX&utm_id=Blog)
 
-**[Jangan Lupa Follow Instagram @landx.id Untuk Berbagai Tips Investasi Menguntungkan Lainnya](https://www.instagram.com/landx.id/?utm_medium=copy_link)**
+<!--EndFragment-->
 
 - - -
 
@@ -78,14 +78,3 @@ Demikian informasi ini disampaikan kepada seluruh calon investor agar terhindar 
 * **Alamat** : Italian Walk C.15-16, Mall of Indonesia, Jl. Yos Sudarso, RT.18,RT.18/RW.8, Kelapa Gading Barat, Kelapa Gading, Kota Jakarta Utara,  Jakarta 14240
 
 - - -
-
-**Baca Juga:**
-
-* [Mengenal Jenis Investasi Bagi Hasil Terpercaya](https://landx.id/blog/mengenal-jenis-investasi-bagi-hasil-terpercaya/)
-* [Memahami Konsep Cashflow Quadrant Berdasarkan Teori Robert Kiyosaki](https://landx.id/blog/konsep-cashflow-quadrant-robert-kiyosaki/)
-* [Mau Memulai Bisnis? Simak Cara Membangun Bisnis Menguntungkan untuk Pemula](https://landx.id/blog/mau-memulai-bisnis-simak-cara-membangun-bisnis-menguntungkan-untuk-pemula/)
-* [Keuntungan Jangka Panjang Menjanjikan dari Usaha Perikanan di Indonesia](https://landx.id/blog/bisnis-perikanan-tangkap-di-indonesia/)
-
-- - -
-
-**\#YukPatunganBisnis    #LandX.id    #landx.id     #InvestasiBisnis    #EquityCrowdfunding    #InvestasiMenguntungkan     #Urundana    #BisnisPatungan    #InvestasiUsaha**
