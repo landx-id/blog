@@ -1,0 +1,79 @@
+<style>
+  .navbar-container {
+    display: flex;
+    flex-direction: row;
+    width: 100%;
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    align-items: center;
+    justify-content: center;
+  }
+
+  .navbar {
+    background-color: white;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-around;
+    width: 100%;
+    max-width: 740px;
+    --tw-shadow: 0px 0px 6px rgba(71, 71, 71, 0.2) !important;
+    --tw-shadow-colored: 0px 0px 6px var(--tw-shadow-color) !important;
+    box-shadow: var(--tw-ring-offset-shadow, 0 0 #0000), var(--tw-ring-shadow, 0 0 #0000), var(--tw-shadow) !important;
+  }
+
+  .navbar-item {
+    display: flex;
+    flex-grow: 1;
+    flex-direction: column;
+    align-items: center;
+    justify-content: flex-start;
+    min-width: 40px;
+    font-size: 12px;
+    padding: 16px;
+    cursor: pointer;
+  }
+
+  .icon-navbar {
+    width: 24px;
+  }
+</style>
+
+<div class="navbar-container" id="navbar-v3">
+  <div class="navbar">
+    <a class="navbar-item" id="home-btn" href="https://app.landx.id/home">
+      <img src="{{ .Site.Params.pathUrl }}/img/icon-home.svg" class="icon-navbar" />
+      <div class="">Home</div>
+    </a>
+    <a class="navbar-item" id="home-btn">
+      <img src="{{ .Site.Params.pathUrl }}/img/icon-blog-active.svg" class="icon-navbar" />
+      <div style="font-weight: bold;">Blog</div>
+    </a>
+    <a class="navbar-item" id="home-btn" href="https://app.landx.id/portfolio">
+      <img src="{{ .Site.Params.pathUrl }}/img/icon-portofolio.svg" class="icon-navbar" />
+      <div class="">Portofolio</div>
+    </a>
+    <a class="navbar-item" id="home-btn" href="https://app.landx.id/account">
+      <img src="{{ .Site.Params.pathUrl }}/img/icon-akun.svg" class="icon-navbar" />
+      <div class="">Akun</div>
+    </a>
+  </div>
+</div>
+
+<script>
+
+  const standalone = window.navigator.standalone,
+    userAgent = window.navigator.userAgent.toLowerCase(),
+    safari = /safari/.test(userAgent),
+    ios = /iphone|ipod|ipad/.test(userAgent),
+    navbarElement = document.getElementById("navbar-v3"),
+    isWebViewAndroid = userAgent.includes('Version/'),
+    isWebViewIos = ios && !standalone && !safari,
+    isWebView = isWebViewAndroid || isWebViewIos
+
+  document.addEventListener("DOMContentLoaded", function () {
+    if (!isWebView) navbarElement.style.display = 'none'
+  });
+
+</script>
