@@ -11,7 +11,6 @@ tag:
   - Investasi Saham
   - Instrumen Investasi
   - Tips Investasi
-  - Efek Compounding
   - Investasi Modal Kecil
   - Investasi Terbaik
 category:
@@ -51,19 +50,19 @@ Awalnya ia sempat mengalami kerugian. Ia masih ingat saham pertama yang didekap 
 
 Mengutip berbagai sumber, pria dengan julukan bapak saham Indonesia  lulusan fakultas sastra itu mengaku, ada beberapa saham yang memberi cuan hingga ribuan persen. Membuat dirinya kaya raya. Berikut beberapa saham yang membuat Lo Kheng Hong sukses dalam dunia saham. 
 
-###    1. Saham PT Indika Energy Tbk (INDY)
+### 1. Saham PT Indika Energy Tbk (INDY)
 
 Membeli saat harga batu bara anjlok pada tahun 2016. Kala itu, saham INDY diperdagangkan di harga terendah Rp 106 per lembar. Lo Kheng Hong menjadi pemegang saham terbesar ke-4 di Indika.
 
 Saham INDY didekap selama 2 tahun. Awal tahun 2018, harga batu bara naik dari 50 dolar menjadi 100 dollar per ton. Harga saham INDY pun langsung terbang menjadi Rp 4.550 per lembar atau harga tertinggi. Lalu Lo Kheng Hong menjual saham tersebut dan untung 4.000% hanya dalam 2 tahun.
 
-###   2. Saham PT Indah Kiat Pulp and Paper Tbk (INKP)
+### 2. Saham PT Indah Kiat Pulp and Paper Tbk (INKP)
 
 Membeli tahun 2017 saat harga saham INKP Rp 1.000 per lembar, kemudian naik menjadi Rp 20 ribu per lembar dan dijual. Dalam waktu 1,5 tahun, untung 1.900%.
 
 “Saham Indah Kiat telah memperkaya saya, teman-teman yang mengikuti, dan investor saham yang memilikinya,” kata mantan Pegawai Tata Usaha di salah satu bank ini.
 
-###   3. Saham PT United Tractor Tbk (UNTR)
+### 3. Saham PT United Tractor Tbk (UNTR)
 
 Tahun 1998, membeli saham UNTR seharga Rp 250 per lembar, disimpan atau dibiarkan ‘tidur’ selama 6 tahun. Lalu menjualnya di harga Rp 15 ribu per lembar. Cuan 5.900%. Saham ini menjadi salah satu aset kekayaan Lo Kheng Hong yang memberikan keuntungan besar karena pertumbuhan nilai dari saham ini. 
 
@@ -79,8 +78,11 @@ Dengan jadi investor di LandX, kamu bisa pilih sendiri project bisnis impian yan
 
 Keuntungan investasi bisnis di LandX adalah kamu bisa jadi bagian pemilik outlet terbaru bisnis yang kamu danai serta menerima keuntungan dividen dari bagi hasil laba perusahaan. Keuntungan akan dibagikan kepada setiap investor secara rutin sesuai perjanjian. Ingin jadi investor bisnis dan dapat keuntungan rutin?
 
-## [Yuk, download aplikasi LandX dan pilih bisnisnya sekarang juga!](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)
+## [Yuk, download aplikasi LandX dan pilih bisnisnya sekarang juga!](https://app.landx.id/?utm_source=Organic+Page&utm_medium=Content+Blog&utm_campaign=BlogLandX&utm_id=Blog)
 
 **Yuk Temukan Bisnis Menjanjikan dengan Keuntungan Terbaik di LandX**
 
-[![miliki bisnis modal kecil cuma dengan 1 jutaan dapat 4 cabang ](https://accountgram-production.sfo2.cdn.digitaloceanspaces.com/landx_ghost/2021/11/jadi-owner-bisnis-hanya-1-jutaan-dengan-cuan-yang-sangat-menjanjikan.png)](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)
+<!--StartFragment-->
+
+[\
+![miliki bisnis modal kecil cuma dengan 1 jutaan dapat 4 cabang ](https://accountgram-production.sfo2.cdn.digitaloceanspaces.com/landx_ghost/2021/11/jadi-owner-bisnis-hanya-1-jutaan-dengan-cuan-yang-sangat-menjanjikan.png)](https://app.landx.id/?utm_source=Organic+Page&utm_medium=Content+Blog&utm_campaign=BlogLandX&utm_id=Blog)
