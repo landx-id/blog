@@ -60,7 +60,7 @@ Sistem ini sangat aman dan terpercaya karena telah resmi diatur OJK sehingga inv
 
 Equity crowdfunding pada dasarnya proses pengumpulan dana investor secara online melalui platform penyelenggara untuk pendanaan suatu proyek atau bisnis.
 
-Bisnis yang membutuhkan investor biasanya akan mengajukan diri kepada _ * [_platform equity crowdfunding* ](https://landx.id/) dengan memberikan proposal dan prospek bisnis kedepan.
+Bisnis yang membutuhkan investor biasanya akan mengajukan diri kepada  *platform equity crowdfunding* dengan memberikan proposal dan prospek bisnis kedepan.
 
 [![Memamahami cara kerja instrumen investasi equity crowdfunding](https://accountgram-production.sfo2.cdn.digitaloceanspaces.com/landx_ghost/2021/09/cara-kerja-sistem-investasi-dan-pendanaan-bagi-bisnis-melalui-equity-atau-security-crowdfunding.png)](https://landx.id/project/)
 
@@ -83,23 +83,14 @@ Di sisi lain, sistem ini mempermudah investor untuk berinvestasi ke berbagai bis
 * **Kemudahan melakukan investasi bisnis secara online**Platform crowdfunding memberikan akses lebih mudah kepada investor untuk menanamkan modal mereka ke dalam berbagai jenis bisnis potensial yang memiliki potensi keuntungan jangka panjang untuk mereka. Akses investasi secara online juga membuat proses investasi menjadi lebih cepat dan mudah.
 * **Memahami dengan jelas aliran dana investasi**Crowdfunding memiliki sistem yang terbuka sehingga investor memahami dengan spesifik kemana modal mereka akan digunakan. Keterbukaan ini menjadikan investor dapat lebih mudah memutuskan bisnis mana yang memiliki potensi keuntungan lebih besar.
 
-## **[Patungan Bisnis Menguntungkan Bersama LandX](https://landx.id/)**
+## **[Patungan Bisnis Menguntungkan Bersama LandX](https://app.landx.id/?utm_source=Organic+Page&utm_medium=Content+Blog&utm_campaign=BlogLandX&utm_id=Blog)**
 
-Bersama **[LandX](https://landx.id/)** kamu bisa ikut patungan untuk membangun bisnis dengan potensi terbaik yang telah dikurasi dengan ketat oleh tim LandX.
+Bersama **[LandX](https://app.landx.id/?utm_source=Organic+Page&utm_medium=Content+Blog&utm_campaign=BlogLandX&utm_id=Blog)** kamu bisa ikut patungan untuk membangun bisnis dengan potensi terbaik yang telah dikurasi dengan ketat oleh tim LandX.
 
 Hal ini akan sangat membantu anda menemukan bisnis terbaik untuk investasi jangka panjang terbaik anda.
 
-**[Yuk Cek Berbagai Bisnis Terbaik untuk Investasi Anda di LandX](https://landx.id/project/)**
+<!--StartFragment-->
 
-**[Yuk Follow Instagram Kami @landx.id Supaya Anda Tidak Ketinggalan Informasi Terbaru Seputar Investasi dan Bisnis](https://www.instagram.com/landx.id/?utm_medium=copy_link)**
+[![miliki bisnis modal kecil cuma dengan 1 jutaan dapat 4 cabang ](https://accountgram-production.sfo2.cdn.digitaloceanspaces.com/landx_ghost/2021/11/jadi-owner-bisnis-hanya-1-jutaan-dengan-cuan-yang-sangat-menjanjikan.png)](https://app.landx.id/?utm_source=Organic+Page&utm_medium=Content+Blog&utm_campaign=BlogLandX&utm_id=Blog)
 
-- - -
-
-**Baca Juga:**
-
-* [Memulai Investasi “Equity Crowdfunding” Kemudahan Berinvestasi Bisnis dengan Modal Kecil](https://landx.id/blog/equity-crowdfunding/)
-* [Simak Cara Mudah Investasi Properti Online Anda dengan Crowdfunding Properti](https://landx.id/blog/equity-crowdfunding/)
-
-- - -
-
-\#YukPatunganBisnis #LandX.id    #landx.id    #InvestasiBisnis    #EquityCrowdfunding    #InvestasiMenguntungkan    #Urundana    #BisnisPatungan    #InvestasiUsaha
+<!--EndFragment-->
