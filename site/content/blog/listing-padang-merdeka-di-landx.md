@@ -83,7 +83,7 @@ Setelah tahap pendanaan selesai pada bulan Desember ini, tahap selanjutnya adala
 
 Bagi kamu yang tertarik untuk berinvestasi dan menjadi owner bisnis seperti para investor project Padang Merdeka, kamu bisa mulai berinvestasi di **LandX**. **Platform LandX**, kamu bisa ikut patungan bisnis dan menjadi owner dari berbagai macam project bisnis dengan modal mulai dari 1 jutaan saja.
 
-**[LandX](https://landx.id/project/#/pmbb)** akan hadir kembali dengan berbagai project bisnis menarik lainnya.
+**LandX** akan hadir kembali dengan berbagai project bisnis menarik lainnya.
 
 ### [Tunggu apalagi, segera verifikasi akunmu di LandX agar tidak ketinggalan project-project bisnis menarik berikutnya.](https://app.landx.id/?utm_source=Organic+Page&utm_medium=Content+Blog&utm_campaign=BlogLandX&utm_id=Blog)
 
