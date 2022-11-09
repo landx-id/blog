@@ -82,9 +82,9 @@ Karena itu, memiliki rencana dana pensiun yang optimal menjadi salah satu cara m
 
 ## Menghitung Dana Pensiun yang Ideal
 
-Ada banyak cara atau rumus dana pensiun yang sering digunakan untuk menentukan berapa dana pensiun ideal. Namun, rumus yang paling umum untuk menghitung dana pensiun adalah The 4% Rule.
+Ada banyak cara atau rumus dana pensiun yang sering digunakan untuk menentukan berapa dana pensiun ideal. Namun, rumus yang paling umum untuk menghitung dana pensiun adalah **The 4% Rule.**
 
-Apa itu the 4% rule? The 4% rule adalah aturan perhitungan dana pensiun yang dapat digunakan oleh calon pensiunan untuk memutuskan berapa banyak uang yang harus mereka tabung setiap tahun di usia produktif. 
+**Apa itu the 4% rule? The 4% rule adalah aturan perhitungan dana pensiun yang dapat digunakan oleh calon pensiunan untuk memutuskan berapa banyak uang yang harus mereka tabung setiap tahun di usia produktif.** 
 
 Angka empat muncul dari perhitungan estimasi dari rata-rata return investasi tahun 1900-1990 yaitu 7% dikurangi rata-rata inflasi kala itu 3% oleh seorang financial planner, William Bengen.
 
@@ -190,19 +190,7 @@ Salah satu perusahaan ECF di Indonesia yang sudah berjalan sampai saat ini adala
 
 Di LandX kamu bisa membeli saham dari beragam jenis bidang usaha dengan harga saham mulai dari satu juta rupiah.
 
-## **[Yuk Siapkan Investasi Terbaik untuk Masa Depan Kamu Bareng LandX](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)**
+## **[Yuk Siapkan Investasi Terbaik untuk Masa Depan Kamu Bareng LandX](https://app.landx.id/?utm_source=Organic+Page&utm_medium=Content+Blog&utm_campaign=BlogLandX&utm_id=Blog)**
 
-[![miliki bisnis modal kecil cuma dengan 1 jutaan dapat 4 cabang ](https://accountgram-production.sfo2.cdn.digitaloceanspaces.com/landx_ghost/2021/11/jadi-owner-bisnis-hanya-1-jutaan-dengan-cuan-yang-sangat-menjanjikan.png)](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)[](https://landx.id/project/)
-
-**[Mau Berbagai info Terbaru Terkait Investasi? Yuk Follow @landx.id di Instagram](https://www.instagram.com/landx.id/?utm_medium=copy_link)**
-
-- - -
-
-**Baca Juga:**
-
-* [Mengenal Berbagai Modus Investasi Bodong dan Cara Terhindar dari Penipuan dengan Kedok Investasi](https://landx.id/blog/berbagai-skema-investasi-bodong-yang-wajib-investor-pemula-waspadai/)
-* [Manajemen Keuangan: Memahami Pengertian, Fungsi, Tujuan, dan Kenapa Manajemen Keuangan Sangat Penting Bagi Milenial](https://landx.id/blog/manajemen-keuangan-memahami-pengertian-fungsi-tujuan-dan-kenapa-manajemen-keuangan-sangat-penting-bagi-milenial/)
-
-- - -
-
-**\#SekarangBisa**
+[\
+![miliki bisnis modal kecil cuma dengan 1 jutaan dapat 4 cabang ](https://accountgram-production.sfo2.cdn.digitaloceanspaces.com/landx_ghost/2021/11/jadi-owner-bisnis-hanya-1-jutaan-dengan-cuan-yang-sangat-menjanjikan.png)](https://app.landx.id/?utm_source=Organic+Page&utm_medium=Content+Blog&utm_campaign=BlogLandX&utm_id=Blog)
