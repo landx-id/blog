@@ -118,7 +118,7 @@ Peer to Peer (P2P) Lending merupakan salah satu jenis investasi yang ikut berkem
 
 P2P Lending saat ini banyak dimanfaatkan untuk pengembangan UMKM. P2P Lending bekerja dengan memanfaatkan teknologi untuk mempertemukan orang atau pengusaha yang sedang membutuhkan dana (*borrower*) dengan orang yang memiliki dana yang ingin diinvestasikan (*lender* atau investor). Investor akan mendapatkan keuntungan dari pengembalian dana pinjaman serta keuntungan dari investasi.
 
-### [7. Investasi Saham Bisnis lewat Equity Crowdfunding](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)
+### 7. Investasi Saham Bisnis lewat Equity Crowdfunding
 
 Saham merupakan surat berharga yang diterbitkan oleh emiten yang dapat dibeli oleh investor, dengan penawaran keuntungan berupa pembagian dividen saat perusahaan memperoleh keuntungan. Dengan kata lain, investor akan mendapatkan keuntungan ketika perusahaan juga memperoleh keuntungan.
 
@@ -126,23 +126,23 @@ Investasi saham memiliki potensi keuntungan yang cukup tinggi, namun sangat berg
 
 Keuntungan lain dari investasi saham ialah dapat menjadi instrumen investasi jangka panjang maupun jangka pendek. Anda dapat terus menyimpan saham dan menikmati dividennya sebagai investasi jangka panjang, atau juga bisa memperjual-belikannya di pasar saham sebagai investasi jangka pendek, atau yang dikenal dengan istilah *trading* saham.
 
-Salah satu jenis investasi saham berbasis dividen yang bisa dipilih adalah[ **Equity Crowdfunding (ECF)**](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog), atau secara lebih sederhana biasa disebut dengan ‘patungan bisnis’. Melalui sistem ini, dana yang dibutuhkan untuk menjalankan atau mengembangkan suatu bisnis dapat dihimpun melalui lot saham yang dijual kepada para investor.
+Salah satu jenis investasi saham berbasis dividen yang bisa dipilih adalah **Equity Crowdfunding (ECF)**, atau secara lebih sederhana biasa disebut dengan ‘patungan bisnis’. Melalui sistem ini, dana yang dibutuhkan untuk menjalankan atau mengembangkan suatu bisnis dapat dihimpun melalui lot saham yang dijual kepada para investor.
 
 Meskipun hampir mirip dengan P2P Lending, ECF memiliki sistem yang cukup berbeda. ECF tidak menggunakan sistem surat utang, melainkan memberikan kepemilikan saham secara permanen kepada para investor yang telah ikut ‘patungan’ dalam suatu project usaha. Nantinya, para investor akan menerima keuntungan berupa pembagian dividen yang rutin diberikan setiap tahun.
 
-Salah satu perusahaan ECF di Indonesia yang sudah berjalan sampai saat ini adalah perusahaan **[LandX](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)**.
+Salah satu perusahaan ECF di Indonesia yang sudah berjalan sampai saat ini adalah perusahaan **LandX**.
 
-[LandX](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog) mempertemukan para investor dengan perusahaan atau pengusaha yang membutuhkan dana untuk pengembangan usahanya. Di [LandX](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog) Anda bisa membeli saham dari beragam jenis bidang usaha, dengan harga saham mulai dari satu juta rupiah.
+[LandX](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog) mempertemukan para investor dengan perusahaan atau pengusaha yang membutuhkan dana untuk pengembangan usahanya. Di LandX Anda bisa membeli saham dari beragam jenis bidang usaha, dengan harga saham mulai dari satu juta rupiah.
 
-## **[Yuk Temukan Bisnis Menjanjikan dengan Keuntungan Terbaik di LandX](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)**
+## **[Yuk Temukan Bisnis Menjanjikan dengan Keuntungan Terbaik di LandX](https://app.landx.id/?utm_source=Organic+Page&utm_medium=Content+Blog&utm_campaign=BlogLandX&utm_id=Blog)**
 
-[![miliki bisnis modal kecil cuma dengan 1 jutaan dapat 4 cabang ](https://accountgram-production.sfo2.cdn.digitaloceanspaces.com/landx_ghost/2021/11/jadi-owner-bisnis-hanya-1-jutaan-dengan-cuan-yang-sangat-menjanjikan.png)](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)**[Mau Berbagai Info Menarik Seputar Investasi Lainnya? Yuk Follow Instagram @landx.id](https://instagram.com/landx.id?utm_medium=copy_link)**
+<!--StartFragment-->
 
-- - -
+[\
+![miliki bisnis modal kecil cuma dengan 1 jutaan dapat 4 cabang ](https://accountgram-production.sfo2.cdn.digitaloceanspaces.com/landx_ghost/2021/11/jadi-owner-bisnis-hanya-1-jutaan-dengan-cuan-yang-sangat-menjanjikan.png)](https://app.landx.id/?utm_source=Organic+Page&utm_medium=Content+Blog&utm_campaign=BlogLandX&utm_id=Blog)
 
-* [Stock Split: Memahami Apa Itu Stock Split dan Pengaruhnya Terhadap Harga Saham](https://landx.id/blog/stock-split-memahami-apa-itu-stock-split-dan-pengaruhnya-terhadap-harga-saham/)
-* [Mau Mulai Investasi Saham? Kenali Perbedaan antara Trading dan Investasi dalam Saham](https://landx.id/blog/memahami-perbedaan-trading-dan-investasi/)
+[\#Manajemen Bisnis](https://landx.id/blog/tag/manajemen-bisnis)[\#Bisnis untuk Pemula](https://landx.id/blog/tag/bisnis-untuk-pemula)[\#Peluang Bisnis](https://landx.id/blog/tag/peluang-bisnis)[\#Analisis Bisnis](https://landx.id/blog/tag/analisis-bisnis)
 
-- - -
 
-**\#YukPatunganBisnis    #LandX.id    #landx         #landx.id     #InvestasiBisnis    #EquityCrowdfunding    #InvestasiMenguntungkan     #Urundana    #BisnisPatungan    #InvestasiUsaha**
+
+<!--EndFragment-->
