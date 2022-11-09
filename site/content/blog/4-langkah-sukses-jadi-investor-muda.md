@@ -94,16 +94,16 @@ Investasi saham masih memang menjadi favorit penanaman modal para investor muda.
 
 Jika investasi saham biasanya mengharuskan kamu membeli saham dari perusahaan-perusahaan besar (Tbk) yang tercantum di Bursa Efek Indonesia, melalui skema Securities Crowdfunding (SCF) yang merupakan pengembangan skema Equity Crowdfunding (ECF), kamu bisa beli saham bisnis UMKM.
 
-Melalui skema ini, investor muda seperti kamu punya banyak pilihan untuk mengalokasikan dana yang dimiliki ke **[banyak bisnis UMKM potensial](https://landx.id/project)**. Semakin masif perkembangan bisnis dari suntikan dana yang didapatkan dari urun dana saham UMKM, peluang investor muda untuk terus mendapatkan profit jangka panjang melalui bagi hasil juga akan semakin besar. 
+Melalui skema ini, investor muda seperti kamu punya banyak pilihan untuk mengalokasikan dana yang dimiliki ke **banyak bisnis UMKM potensial**. Semakin masif perkembangan bisnis dari suntikan dana yang didapatkan dari urun dana saham UMKM, peluang investor muda untuk terus mendapatkan profit jangka panjang melalui bagi hasil juga akan semakin besar. 
 
 Hal ini menjadikan investasi beli saham dengan skema equity crowdfunding menawarkan risiko yang rendah sehingga cocok untuk investor muda pemula seperti kamu.
 
 Jika kamu merasa tertarik untuk berinvestasi saham UMKM, pastikan untuk memilih platform urun dana yang sudah berpengalaman dan di bawah pengawasan OJK seperti **[LandX](https://landx.id/)** ya!
 
-## [Sukses Jadi Investor Muda Hanya Dengan 1 Juta Dengan Investasi di LandX Sekarang!](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)
+## [Sukses Jadi Investor Muda Hanya Dengan 1 Juta Dengan Investasi di LandX Sekarang!](https://app.landx.id/?utm_source=Organic+Page&utm_medium=Content+Blog&utm_campaign=BlogLandX&utm_id=Blog)
 
-<!--StartFragment-->
+[![miliki bisnis modal kecil cuma dengan 1 jutaan dapat 4 cabang ](https://accountgram-production.sfo2.cdn.digitaloceanspaces.com/landx_ghost/2021/11/jadi-owner-bisnis-hanya-1-jutaan-dengan-cuan-yang-sangat-menjanjikan.png)](https://app.landx.id/?utm_source=Organic+Page&utm_medium=Content+Blog&utm_campaign=BlogLandX&utm_id=Blog)
 
-[![miliki bisnis modal kecil cuma dengan 1 jutaan dapat 4 cabang ](https://accountgram-production.sfo2.cdn.digitaloceanspaces.com/landx_ghost/2021/11/jadi-owner-bisnis-hanya-1-jutaan-dengan-cuan-yang-sangat-menjanjikan.png)](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)
+<!--EndFragment-->
 
 <!--EndFragment-->
