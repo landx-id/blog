@@ -22,8 +22,6 @@ image: https://accountgram-production.sfo2.cdn.digitaloceanspaces.com/landx_ghos
 category:
   - Cara Investasi di Securities Crowdfunding
 ---
-
-
 [LandX](https://landx.id/) baru saja menginisiasi Indonesia Securities Crowdfunding Forum (ISCFF) dalam rangka untuk meningkatkan pemahaman dan kesadaran masyarakat tentang investasi.
 
 ISCFF adalah kegiatan edukasi inklusi keuangan kepada berbagai kalangan masyarakat mulai dari pelaku bisnis/ UMKM, pakar keuangan, dan investor yang berasal dari berbagai generasi.
@@ -60,17 +58,10 @@ Sejak berizin OJK, LandX sudah berhasil menyalurkan dana hingga 110,51 miliar ru
 
 Karena itu..
 
-> **[YUK PATUNGAN BISNIS BARENG LANDX](https://landx.id/project/)**
+> **[YUK PATUNGAN BISNIS BARENG LANDX](https://app.landx.id/?utm_source=Organic+Page&utm_medium=Content+Blog&utm_campaign=BlogLandX&utm_id=Blog)**
 
-[![Equity-Crowdfunding-di-Indonesia-1--5](https://accountgram-production.sfo2.cdn.digitaloceanspaces.com/landx_ghost/2021/09/Equity-Crowdfunding-di-Indonesia-1--5.png)](https://landx.id/project/)
+<!--StartFragment-->
 
-[**Jangan Lupa Follow Instagram @landx.id Untuk Berbagai Tips Investasi Menguntungkan Lainnya**](https://www.instagram.com/landx.id/?utm_medium=copy_link)
+[![miliki bisnis modal kecil cuma dengan 1 jutaan dapat 4 cabang ](https://accountgram-production.sfo2.cdn.digitaloceanspaces.com/landx_ghost/2021/11/jadi-owner-bisnis-hanya-1-jutaan-dengan-cuan-yang-sangat-menjanjikan.png)](https://app.landx.id/?utm_source=Organic+Page&utm_medium=Content+Blog&utm_campaign=BlogLandX&utm_id=Blog)
 
-#YukPatunganBisnis    #LandX.id    #landx.id    #InvestasiBisnis    #EquityCrowdfunding    #InvestasiMenguntungkan    #Urundana    #BisnisPatungan    #InvestasiUsaha
-
-**Baca Juga**
-
-* [Memahami Konsep Cashflow Quadrant Berdasarkan Teori Robert Kiyosaki](https://landx.id/blog/konsep-cashflow-quadrant-robert-kiyosaki/)
-* [Mau Memulai Bisnis? Simak Cara Membangun Bisnis Menguntungkan untuk Pemula](https://landx.id/blog/mau-memulai-bisnis-simak-cara-membangun-bisnis-menguntungkan-untuk-pemula/)
-* [Keuntungan Jangka Panjang Menjanjikan dari Usaha Perikanan di Indonesia](https://landx.id/blog/bisnis-perikanan-tangkap-di-indonesia/)
-
+<!--EndFragment-->
