@@ -93,16 +93,11 @@ Pihak penerbit diharuskan untuk mengajukan proposal atau prospektus yang berisi 
 
 Setelah itu, LandX akan melakukan verifikasi secara menyeluruh tentang prospektus yang diajukan hingga akhirnya, saham UMKM tersebut bisa listing atau tercatat dibuka kepada publik secara online agar investor yang tertarik dapat membeli sejumlah lot saham UMKM penerbit atau disebut juga pendanaan bagi bisnisnya.
 
-
 Umumnya, saham UMKM yang listing di LandX menawarkan pembagian dividen secara rutin dan persentasenya sudah tertera di prospektus. 
 
 Tidak perlu khawatir tentang tingkat sekuritas skema investasi saham UMKM atau urun dana. Karena, skema SCF telah diatur dalam peraturan OJK (otoritas jasa keuangan) lewat POJK No. 57/POJK.04/2020 tentang penawaran efek melalui layanan urunan dana berbasis teknologi Informasi (Securities Crowdfunding).
 
 Karena platform LandX  sepenuhnya diawasi oleh OJK, maka investasi sistem urun dana ini pastinya aman dan terpercaya.
-
-
-
-
 
 ## Mengubah Gaya Hidup
 
@@ -114,11 +109,13 @@ Hal ini mungkin tidak akan anda rasakan sekarang, namun dalam beberapa tahun ke 
 
 **Oleh sebab itu,** \*\*\*\*\*\* ayo mulai [investasi urun dana](https://landx.id/) anda bersama LandX dengan [modal hanya 1 juta](https://landx.id/). LandX menyediakan berbagai pilihan bisnis yang tepat untuk membangun aset investasi jangka panjang anda. Yuk bangun aset investasi anda dengan urun dana bersama [LandX](https://landx.id/).
 
-## [Yuk, Jadi Bos Bisnis dengan Sistem Urun Dana Lewat LandX!](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)
+## [Yuk, Jadi Bos Bisnis dengan Sistem Urun Dana Lewat LandX!](https://app.landx.id/?utm_source=Organic+Page&utm_medium=Content+Blog&utm_campaign=BlogLandX&utm_id=Blog)
 
-[![miliki bisnis modal kecil cuma dengan 1 jutaan dapat 4 cabang ](https://accountgram-production.sfo2.cdn.digitaloceanspaces.com/landx_ghost/2021/11/jadi-owner-bisnis-hanya-1-jutaan-dengan-cuan-yang-sangat-menjanjikan.png)](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)
+<!--StartFragment-->
 
-> **[Yuk Follow @landx.id di Instagram Supaya Info Seputar Investasi Bisa Terus Update](https://www.instagram.com/landx.id/?utm_medium=copy_link)**
+[![miliki bisnis modal kecil cuma dengan 1 jutaan dapat 4 cabang ](https://accountgram-production.sfo2.cdn.digitaloceanspaces.com/landx_ghost/2021/11/jadi-owner-bisnis-hanya-1-jutaan-dengan-cuan-yang-sangat-menjanjikan.png)](https://app.landx.id/?utm_source=Organic+Page&utm_medium=Content+Blog&utm_campaign=BlogLandX&utm_id=Blog)
+
+<!--EndFragment-->
 
 - - -
 
