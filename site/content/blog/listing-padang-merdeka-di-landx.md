@@ -39,7 +39,7 @@ Berbicara tentang kuliner sehari-hari, siapa yang tidak terpikir masakan Padang.
 
 Oleh karena itu, tidak heran jika bisnis Restoran Padang Merdeka yang listing di [LandX](https://landx.id/) langsung diserbu habis oleh para investor hanya dalam hitungan menit.
 
-**[Restoran Padang Merdeka](https://landx.id/project/#/pmbb)**  hadir dengan membawa semangat kemerdekaan dan kekayaan kuliner Indonesia. Dengan menyajikan lebih dari 30 menu, Rerstoran Padang Merdeka berambisi untuk memberikan cita rasa yang otentik dan siap memuaskan pelanggan.
+**[Restoran Padang Merdeka](https://landx.id/)**  hadir dengan membawa semangat kemerdekaan dan kekayaan kuliner Indonesia. Dengan menyajikan lebih dari 30 menu, Rerstoran Padang Merdeka berambisi untuk memberikan cita rasa yang otentik dan siap memuaskan pelanggan.
 
 - - -
 
@@ -73,7 +73,7 @@ Anda dapat merasakan sendiri suasana dan cita rasa berkualitas tersebut dengan l
 
 ### Project Padang Merdeka SOLD OUT dalam Hitungan Menit
 
-**[Restoran Padang Merdeka](https://landx.id/project/#/pmbb)** berencana untuk mengembangkan bisnisnya melalui platform LandX, dan membuka kesempatan kepada para investor untuk ikut menjadi bagian atau owner dengan cara membeli saham yang di-listing di LandX. Project tersebut nantinya akan digunakan untuk membuka outlet restoran baru di Jl. Lada No.1, RT.4/RW.6, Pinangsia, Taman Sari, Jakarta Barat.
+**Restoran Padang Merdeka** berencana untuk mengembangkan bisnisnya melalui platform LandX, dan membuka kesempatan kepada para investor untuk ikut menjadi bagian atau owner dengan cara membeli saham yang di-listing di LandX. Project tersebut nantinya akan digunakan untuk membuka outlet restoran baru di Jl. Lada No.1, RT.4/RW.6, Pinangsia, Taman Sari, Jakarta Barat.
 
 Sejak awal direncanakan, project investasi di sektor kuliner masakan Padang ini dinilai akan menerima respons positif dan animo yang cukup tinggi dari masyarakat atau investor. Terbukti, sejak pertama kali *public sale* pada Kamis, 16 Desember 2021 pukul 11:00 WIB, seluruh lot saham yang tersedia langsung habis terjual hanya dalam hitungan menit.
 
