@@ -120,19 +120,10 @@ Kedua, karena jumlah pelaku startup sebagai penyelenggara *equity crowdfunding* 
 
 Gimana, kamu sekarang sudah makin akrab dengan *equity crowdfunding* kan
 
-**[Yuk Temukan Bisnis Menjanjikan dengan Keuntungan Terbaik di LandX](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)**
+**[Yuk Temukan Bisnis Menjanjikan dengan Keuntungan Terbaik di LandX](https://app.landx.id/?utm_source=Organic+Page&utm_medium=Content+Blog&utm_campaign=BlogLandX&utm_id=Blog)**
 
-[![miliki bisnis modal kecil cuma dengan 1 jutaan dapat 4 cabang ](https://accountgram-production.sfo2.cdn.digitaloceanspaces.com/landx_ghost/2021/11/jadi-owner-bisnis-hanya-1-jutaan-dengan-cuan-yang-sangat-menjanjikan.png)](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)
+<!--StartFragment-->
 
-**[Mau Info Terbaru Seputar Bisnis dan Investasi ? Yuk Follow Instagram Kami di @landx.id untuk Berbagai Info Investasi Terbaru](https://instagram.com/landx.id?utm_medium=copy_link)**
+[![miliki bisnis modal kecil cuma dengan 1 jutaan dapat 4 cabang ](https://accountgram-production.sfo2.cdn.digitaloceanspaces.com/landx_ghost/2021/11/jadi-owner-bisnis-hanya-1-jutaan-dengan-cuan-yang-sangat-menjanjikan.png)](https://app.landx.id/?utm_source=Organic+Page&utm_medium=Content+Blog&utm_campaign=BlogLandX&utm_id=Blog)
 
-- - -
-
-**Baca Juga:**
-
-* [Mau Investasi Dengan Modal Kecil? Simak Cara Mengembangkan Investasi Modal 1 Juta](https://landx.id/blog/mau-investasi-dengan-modal-kecil-simak-cara-mengembangkan-investasi-modal-1-juta/)
-* [Kenali Berbagai Istilah dalam Securities Crowdfunding Agar Investasi Anda Menjadi Semakin Mudah](https://landx.id/blog/kenali-berbagai-istilah-dalam-securities-crowdfunding-agar-investasi-anda-menjadi-semakin-mudah/)
-
-- - -
-
-\#LandX.id      #landx.id    #landx 	#YukPatunganBisnis	#InvestasiBisnis     #EquityCrowdfunding     #InvestasiMenguntungkan    #Urundana     #BisnisPatungan    #InvestasiUsaha #InvestasiModalKecil
+<!--EndFragment-->
