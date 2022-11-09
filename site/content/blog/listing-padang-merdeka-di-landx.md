@@ -81,7 +81,7 @@ Project Padang Merdeka menawarkan harga 1 juta rupiah per lot dengan total jumla
 
 Setelah tahap pendanaan selesai pada bulan Desember ini, tahap selanjutnya adalah renovasi dan training karyawan dengan target restoran beroperasi pada bulan April. Sehingga, dividen pertama akan mulai dibagikan pada periode April-Juni 2022 mendatang.
 
-Bagi kamu yang tertarik untuk berinvestasi dan menjadi owner bisnis seperti para investor project Padang Merdeka, kamu bisa mulai berinvestasi di **LandX**. Di **Platform LandX**, kamu bisa ikut patungan bisnis dan menjadi owner dari berbagai macam project bisnis dengan modal mulai dari 1 jutaan saja.
+Bagi kamu yang tertarik untuk berinvestasi dan menjadi owner bisnis seperti para investor project Padang Merdeka, kamu bisa mulai berinvestasi di **LandX**. **Platform LandX**, kamu bisa ikut patungan bisnis dan menjadi owner dari berbagai macam project bisnis dengan modal mulai dari 1 jutaan saja.
 
 **[LandX](https://landx.id/project/#/pmbb)** akan hadir kembali dengan berbagai project bisnis menarik lainnya.
 
