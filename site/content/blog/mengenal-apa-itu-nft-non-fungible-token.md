@@ -14,7 +14,7 @@ intro: >-
 
 
   Tapi bagaimana sih sistem NFT (Non Fungible Token) bekerja? Apa itu NFT? Yuk kita bahas lebih lanjut tentang bagaimana aset digital satu ini bisa menjadi sumber cuan baru untuk kamu.
-isPinned: true
+isPinned: false
 slug: mengenal-apa-itu-nft-non-fungible-token
 date: 2022-01-21T04:48:22.000Z
 tag:
@@ -32,8 +32,6 @@ category:
   - Blockchain
   - Investasi
 ---
-
-
 “Ghozali Everyday, jualan foto selfie dapat untung miliaran rupiah”, menjadi headline berita diberbagai situs media. Pria kelahiran tahun 1999 ini mendadak viral karena memiliki pendapatan fantastis dari hasil berjualan 933 swafoto dirinya sebagai **aset NFT (Non Fungible Token)**
 
 Ghozali mulai menjual foto selfienya sejak tahun 2017 dengan harga 0,0001 ETH atau berkisar Rp 48 ribu. Setelah 4 tahun berjalan, kini terdapat kenaikan harga pada harga aset digital NTF milik Ghozali menjadi 0,3 ETH yang setara dengan Rp 13-14 juta.
@@ -44,7 +42,7 @@ Tapi bagaimana sih sistem **NFT (Non Fungible Token)** bekerja? Apa itu NFT? Yuk
 
 ## Apa Itu NFT (Non Fungible Token)?
 
-**_Non fungible token_**  **atau NFT  adalah** aset karya digital yang unik dan tidak tergantikan. Seperti yang kita tahu, aset digital tidak memiliki bentuk nyata yang bisa disentuh dan rentan di download oleh siapa pun. Aset digital juga terkadang sulit menemukan pemilik originalnya, nah kehadiran NFT menjadi solusi untuk permasalahan ini.
+***Non fungible token***  **atau NFT  adalah** aset karya digital yang unik dan tidak tergantikan. Seperti yang kita tahu, aset digital tidak memiliki bentuk nyata yang bisa disentuh dan rentan di download oleh siapa pun. Aset digital juga terkadang sulit menemukan pemilik originalnya, nah kehadiran NFT menjadi solusi untuk permasalahan ini.
 
 Dengan NFT, karya digital Anda kini memiliki sertifikat yang diakui orisinalitasnya dan dapat dibenarkan status kepemilikannya karena memiliki identitas sertifikat digital dan kode unik.
 
@@ -97,14 +95,14 @@ Seperti baru-baru ini brand Adidas yang membeli tanah virtual di Sandbox. Tanah 
 
 Selain fashion brand Nike hingga Balenciaga, Anda juga dapat membeli produk dari Apple yang mengembangkan produk Metaverse berupa headset yang memiliki fungsi AR dan VR.
 
----
+- - -
 
 **Baca Juga:**
 
 * [Apa Itu Blockchain? Ini Pengertian, Kelebihan, Karakteristik, dan Cara Kerjanya](https://landx.id/blog/apa-itu-blockchain-ini-pengertian-kelebihan-dan-cara-kerjanya/)
 * [Tertarik Berinvestasi dengan Crypto? Kenali Dulu Pengertian, Jenis, Serta Untung Ruginya Ini!](https://landx.id/blog/tertarik-berinvestasi-dengan-crypto-kenali-dulu-pengertian-jenis-serta-untung-ruginya-ini/)
 
----
+- - -
 
 ## Investasi NFT dan KRYPTO
 
@@ -122,24 +120,14 @@ Karena itu, kamu butuh diversifikasi ke dalam instrumen lain agar sebagai  strat
 
 [**Investasi NFT** ](https://landx.id/) kini dikenal sebagai investasi dengan untung miliaran, namun setiap investasi tentu memiliki risikonyo sendiri. Apalagi untuk memulai berinvestasi aset NFT yang likuid perlu modal yang besar.
 
-Sebagai solusi investasi NFT yang tidak bisa dipecah kepemilikan lot sahamnya kini terdapat investasi dengan [ **sistem equity crowdfunding**]. Crowdfunding juga dikenal juga sebagai investasi patungan bisnis, Anda dapat memiliki bisnis prospek cuan miliaran hanya dengan modal Rp 1 juta saja melalui platform crowdfunding [[**LandX.**]
+Sebagai solusi investasi NFT yang tidak bisa dipecah kepemilikan lot sahamnya kini terdapat investasi dengan [ **sistem equity crowdfunding**]. Crowdfunding juga dikenal juga sebagai investasi patungan bisnis, Anda dapat memiliki bisnis prospek cuan miliaran hanya dengan modal Rp 1 juta saja melalui platform crowdfunding.
 
-**[Berinvestasi di LandX.]** Anda bisa mendapat keuntungan dividen serta profit capital gain dengan mdoal sejutaan saja. Tinggal duduk manis jadi owner bisnis tanpa repot kelola operasional dan cari pelanggan.
+Anda bisa mendapat keuntungan dividen serta profit capital gain dengan mdoal sejutaan saja. Tinggal duduk manis jadi owner bisnis tanpa repot kelola operasional dan cari pelanggan.
 
 **Karena itu.....**
 
-## [Yuk, berinvestasi patungan bisnis dan jadi pemilik bisnis prospek cuan!]((https://landx.id/project/utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog))
+## [Yuk, berinvestasi patungan bisnis dan jadi pemilik bisnis prospek cuan!](https://app.landx.id/?utm_source=Organic+Page&utm_medium=Content+Blog&utm_campaign=BlogLandX&utm_id=Blog)
 
-[![Yuk mulai patungan bisnis menguntungkan jangka panja g bersama LandX](https://accountgram-production.sfo2.cdn.digitaloceanspaces.com/landx_ghost/2021/09/Equity-Crowdfunding-di-Indonesia-1--3.png)](https://landx.id/project/utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)
+<!--StartFragment-->
 
----
-
-**Baca Juga:**
-
-* [Diversifikasi Adalah: Memahami Apa Itu Diversifikasi dan Pentingnya Strategi Diversifikasi dalam Investasi](https://landx.id/blog/diversifikasi-dalam-investasi/)
-* [Mitigasi Risiko: Menyusun Strategi Mitigasi Risiko Terbaik dalam Berinvestasi](https://landx.id/blog/alasan-kenapa-mitigasi-risiko-berperan-penting-terhadap-investasi-jangka-panjang-anda/)
-
----
-
-**#YukPatunganBisnis**
-
+[![miliki bisnis modal kecil cuma dengan 1 jutaan dapat 4 cabang ](https://accountgram-production.sfo2.cdn.digitaloceanspaces.com/landx_ghost/2021/11/jadi-owner-bisnis-hanya-1-jutaan-dengan-cuan-yang-sangat-menjanjikan.png)](https://app.landx.id/?utm_source=Organic+Page&utm_medium=Content+Blog&utm_campaign=BlogLandX&utm_id=Blog)
