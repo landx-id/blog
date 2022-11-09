@@ -8,7 +8,7 @@ metaDescription: Restoran Padang Merdeka baru saja listing di LandX dan langsung
   project LandX
 intro: "Rumah Makan Padang Merdeka listing di LandX dan sold out hanya dalam
   beberapa waktu beberapa menit "
-isPinned: true
+isPinned: false
 slug: listing-padang-merdeka-di-landx
 date: 2021-12-17T17:27:15.000Z
 tag:
@@ -29,8 +29,6 @@ category:
   - Bisnis
   - Investasi
 ---
-
-
 ### Lagi-lagi Bisnis Kuliner Jadi Incaran Peternak Cuan!
 
 Setelah menghadapi fenomena pandemi di tanah air, bisnis makanan kini jadi incaran para investor di Indonesia.
@@ -41,9 +39,9 @@ Berbicara tentang kuliner sehari-hari, siapa yang tidak terpikir masakan Padang.
 
 Oleh karena itu, tidak heran jika bisnis Restoran Padang Merdeka yang listing di [LandX](https://landx.id/) langsung diserbu habis oleh para investor hanya dalam hitungan menit.
 
-**[Restoran Padang Merdeka](https://landx.id/project/#/pmbb) ** hadir dengan membawa semangat kemerdekaan dan kekayaan kuliner Indonesia. Dengan menyajikan lebih dari 30 menu, Rerstoran Padang Merdeka berambisi untuk memberikan cita rasa yang otentik dan siap memuaskan pelanggan.
+**[Restoran Padang Merdeka](https://landx.id/project/#/pmbb)**  hadir dengan membawa semangat kemerdekaan dan kekayaan kuliner Indonesia. Dengan menyajikan lebih dari 30 menu, Rerstoran Padang Merdeka berambisi untuk memberikan cita rasa yang otentik dan siap memuaskan pelanggan.
 
----
+- - -
 
 **Baca Juga:**
 
@@ -51,7 +49,7 @@ Oleh karena itu, tidak heran jika bisnis Restoran Padang Merdeka yang listing di
 * [Peluang Bisnis Franchise Menjanjikan Tahun 2022, Siap Sambut Cuan](https://landx.id/blog/peluang-bisnis-franchise-terbaik-di-tahun-2022/)
 * [DRAGON HOT POT, Bisnis FnB yang Sukses Listing di LandX](https://landx.id/blog/dragon-hot-pot-bisnis-fnb-yang-sukses-listing-di-landx/)
 
----
+- - -
 
 Meskipun baru berdiri sejak tahun 2017 dan masih terbilang muda, Restoran Padang Merdeka hadir dengan membawa visi besar dan siap bersaing di industri masakan Padang di Indonesia.
 
@@ -69,38 +67,28 @@ Oleh karena itu, Restoran Padang Merdeka mendatangkan juru masak berpengalaman l
 
 Ada lebih dari 30 menu yang bisa dinikmati di Restoran Padang Merdeka. Mulai dari menu-menu andalan seperti rendang, ayam pop, dendeng batokok, gulai kepala ikan, sampai menu-menu pelengkap seperti rendang jengkol, telur dadar, dan perkedel.
 
-Restoran Padang Merdeka juga selalu mengutamakan pelayanan dan kepuasan pelanggan, salah satunya ialah dengan menjaga sajian makanan dengan lapisan plastik agar makanan tetap higienis pada saat dihidangkan. ****
+Restoran Padang Merdeka juga selalu mengutamakan pelayanan dan kepuasan pelanggan, salah satunya ialah dengan menjaga sajian makanan dengan lapisan plastik agar makanan tetap higienis pada saat dihidangkan. \*\*\*\*
 
 Anda dapat merasakan sendiri suasana dan cita rasa berkualitas tersebut dengan langsung datang ke salah satu cabang Restoran Padang Merdeka. Beberapa outlet yang bisa dikunjungi antara lain terdapat di Kelapa Gading, Kuningan City, Kota Tua, Outlet Pluit, Outlet Tebet, Outlet Sunter, Harmoni, Gading Serpong, Bandung, dan Cikarang.
 
 ### Project Padang Merdeka SOLD OUT dalam Hitungan Menit
 
-[**Restoran Padang Merdeka**](https://landx.id/project/#/pmbb) berencana untuk mengembangkan bisnisnya melalui platform LandX, dan membuka kesempatan kepada para investor untuk ikut menjadi bagian atau owner dengan cara membeli saham yang di-listing di LandX. Project tersebut nantinya akan digunakan untuk membuka outlet restoran baru di Jl. Lada No.1, RT.4/RW.6, Pinangsia, Taman Sari, Jakarta Barat.
+**[Restoran Padang Merdeka](https://landx.id/project/#/pmbb)** berencana untuk mengembangkan bisnisnya melalui platform LandX, dan membuka kesempatan kepada para investor untuk ikut menjadi bagian atau owner dengan cara membeli saham yang di-listing di LandX. Project tersebut nantinya akan digunakan untuk membuka outlet restoran baru di Jl. Lada No.1, RT.4/RW.6, Pinangsia, Taman Sari, Jakarta Barat.
 
-Sejak awal direncanakan, project investasi di sektor kuliner masakan Padang ini dinilai akan menerima respons positif dan animo yang cukup tinggi dari masyarakat atau investor. Terbukti, sejak pertama kali _public sale_ pada Kamis, 16 Desember 2021 pukul 11:00 WIB, seluruh lot saham yang tersedia langsung habis terjual hanya dalam hitungan menit.
+Sejak awal direncanakan, project investasi di sektor kuliner masakan Padang ini dinilai akan menerima respons positif dan animo yang cukup tinggi dari masyarakat atau investor. Terbukti, sejak pertama kali *public sale* pada Kamis, 16 Desember 2021 pukul 11:00 WIB, seluruh lot saham yang tersedia langsung habis terjual hanya dalam hitungan menit.
 
 Project Padang Merdeka menawarkan harga 1 juta rupiah per lot dengan total jumlah pendanaan sebesar Rp3.750.000.000. Pengembalian yang ditawarkan kepada investor berupa dividen dengan estimasi sebesar 10-20% yang akan didistribusikan per tiga bulan.
 
 Setelah tahap pendanaan selesai pada bulan Desember ini, tahap selanjutnya adalah renovasi dan training karyawan dengan target restoran beroperasi pada bulan April. Sehingga, dividen pertama akan mulai dibagikan pada periode April-Juni 2022 mendatang.
 
-Bagi kamu yang tertarik untuk berinvestasi dan menjadi owner bisnis seperti para investor project Padang Merdeka, kamu bisa mulai berinvestasi di [**LandX**](https://landx.id/project/#/pmbb). Di [**Platform LandX**](https://landx.id/project/#/pmbb), kamu bisa ikut patungan bisnis dan menjadi owner dari berbagai macam project bisnis dengan modal mulai dari 1 jutaan saja.
+Bagi kamu yang tertarik untuk berinvestasi dan menjadi owner bisnis seperti para investor project Padang Merdeka, kamu bisa mulai berinvestasi di **LandX**. Di **Platform LandX**, kamu bisa ikut patungan bisnis dan menjadi owner dari berbagai macam project bisnis dengan modal mulai dari 1 jutaan saja.
 
 **[LandX](https://landx.id/project/#/pmbb)** akan hadir kembali dengan berbagai project bisnis menarik lainnya.
 
-### Tunggu apalagi, segera verifikasi akunmu di LandX agar tidak ketinggalan [project-project bisnis menarik berikutnya.](https://landx.id/project/)
+### [Tunggu apalagi, segera verifikasi akunmu di LandX agar tidak ketinggalan project-project bisnis menarik berikutnya.](https://app.landx.id/?utm_source=Organic+Page&utm_medium=Content+Blog&utm_campaign=BlogLandX&utm_id=Blog)
 
-[![Bagaimana? Kamu lebih suka bisnis dengan buyback guarantee atau yang bisa disimpan dalam jangka panjang? Apapun pilihan kamu.. Yuk Patungan  dengan Keuntungan Menjanjikan Bareng LandX](https://accountgram-production.sfo2.cdn.digitaloceanspaces.com/landx_ghost/2021/10/Equity-Crowdfunding-di-Indonesia-1--3.png)](http://landx.id/project/)
+<!--StartFragment-->
 
-[**Jangan Lupa Follow Instagram @landx.id Untuk Berbagai Tips Investasi Menguntungkan Lainnya**](https://www.instagram.com/landx.id/?utm_medium=copy_link)
+[![miliki bisnis modal kecil cuma dengan 1 jutaan dapat 4 cabang ](https://accountgram-production.sfo2.cdn.digitaloceanspaces.com/landx_ghost/2021/11/jadi-owner-bisnis-hanya-1-jutaan-dengan-cuan-yang-sangat-menjanjikan.png)](https://app.landx.id/?utm_source=Organic+Page&utm_medium=Content+Blog&utm_campaign=BlogLandX&utm_id=Blog)
 
----
-
-**Baca Juga:**
-
-* [Investasi dengan Passive Income untuk Masa Depan](https://landx.id/blog/investasi-dengan-passive-income-untuk-masa-depan/)
-* [Investasi Selalu Rugi? Coba Lakukan Diversifikasi. Ini 4 Cara Melakukannya!](https://landx.id/blog/arti-penting-diversifikasi-dalam-investasi/)
-
----
-
-**#YukPatunganBisnis    #LandX.id    #landx         #landx.id    #InvestasiBisnis  #SecuritiesCrowdfunding   #EquityCrowdfunding    #InvestasiMenguntungkan     #Urundana    #BisnisPatungan    #InvestasiUsaha**
-
+<!--EndFragment-->
