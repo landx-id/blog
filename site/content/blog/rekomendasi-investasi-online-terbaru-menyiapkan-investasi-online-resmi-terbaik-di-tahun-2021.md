@@ -31,7 +31,7 @@ category:
   - Investasi
   - Bisnis
 ---
-**[Investasi Online Terbaru 2021](https://landx.id/project/),** menyiapkan investasi sedini mungkin merupakan hal penting yang harus anda siapkan untuk mencapai masa depan yang anda inginkan. Memulai investasi juga merupakan cara untuk menghindari penurunan nilai uang yang anda miliki karena inflasi.
+**[Investasi Online Terbaru 2021](https://landx.id/),** menyiapkan investasi sedini mungkin merupakan hal penting yang harus anda siapkan untuk mencapai masa depan yang anda inginkan. Memulai investasi juga merupakan cara untuk menghindari penurunan nilai uang yang anda miliki karena inflasi.
 
 karena uang 10 juta yang anda miliki hari ini belum tentu bisa membeli barang yang sama pada tahun berikutnya karena tergerus inflasi. Untuk itu anda perlu menyiapkan investasi yang baik agar nilai uang anda dapat terus berkembang seiring berjalannya waktu.
 
@@ -63,25 +63,27 @@ Salah satu contoh investasi online terbaru adalah crowdfunding atau urun dana ya
 
 Berkembangnya sistem online membuka peluang untuk investor pemula dapat mulai [berinvestasi dengan modal yang kecil](https://landx.id/). Untuk itu berikut adalah beberapa investasi online terbaru yang cocok untuk pemula:
 
-1. **[Equity Crowdfunding](https://landx.id/)**\
-   \
-   equity crowdfunding adalah pilihan investasi online terbaru yang akan memberikan kesempatan kepada para investor untuk menyalurkan dana mereka ke dalam berbagai jenis bisnis yang telah mendaftarkan diri ke dalam platform equity crowdfunding. Sistem ini akan memberikan return berupa dividen yang akan disesuaikan kepemilikan modal anda dalam sebuah bisnis. \
-   \
-   Investasi ini sepenuhnya berbasis digital sehingga proses transaksi hingga pembagian dividen pun dilakukan secara digital. 
-   Dalam melakukan investasi ini hal penting yang perlu dipertimbangkan adalah bagaimana memilih platform equity crowdfunding terpercaya agar proses investasi online anda menjadi lebih minim risiko kerugian. 
-2. **[Investasi Properti Online](https://landx.id/)** \
-   \
-   Perkembangan zaman membuat kini investasi properti dapat dilakukan dengan sistem online. Dalam hal ini anda memiliki berbagai pilihan seperti berinvestasi lewat crowdfunding properti yang akan memudahkan investor pemula untuk memulai investasi properti walaupun dengan modal yang kecil karena properti dapat dibeli secara patungan. \
-   \
-   Walaupun investasi properti sering dianggap sebagai investasi yang dengan risiko rendah, anda tetap harus memahami bisnis properti dengan baik agar anda dapat memilih properti terbaik yang bisa memberikan anda keuntungan dalam jangka panjang. 
-3. **Nabung Emas Online**\
-    \
-   Investasi ke dalam emas merupakan investasi yang sudah kita kenal sejak dulu. Kini anda bisa melakukan transaksi emas dengan lebih mudah karena sudah tersedia di berbagai platform digital. Sistem ini sangat memudahkan proses investasi emas yang dilakukan karena emas yang dimiliki dapat diperjualbelikan dengan lebih cepat. \
-   \
-   Selain itu sistem ini juga lebih aman karena anda tidak harus menyimpan emas anda secara langsung sehingga terhindar dari berbagai risiko seperti pencurian atau kehilangan..
+### **[Equity Crowdfunding](https://landx.id/)**
 
-**Investasi Saham Online**\
+equity crowdfunding adalah pilihan investasi online terbaru yang akan memberikan kesempatan kepada para investor untuk menyalurkan dana mereka ke dalam berbagai jenis bisnis yang telah mendaftarkan diri ke dalam platform equity crowdfunding. Sistem ini akan memberikan return berupa dividen yang akan disesuaikan kepemilikan modal anda dalam sebuah bisnis. \
 \
+Investasi ini sepenuhnya berbasis digital sehingga proses transaksi hingga pembagian dividen pun dilakukan secara digital. 
+Dalam melakukan investasi ini hal penting yang perlu dipertimbangkan adalah bagaimana memilih platform equity crowdfunding terpercaya agar proses investasi online anda menjadi lebih minim risiko kerugian. 
+
+### **[Investasi Properti Online](https://landx.id/)** 
+
+Perkembangan zaman membuat kini investasi properti dapat dilakukan dengan sistem online. Dalam hal ini anda memiliki berbagai pilihan seperti berinvestasi lewat crowdfunding properti yang akan memudahkan investor pemula untuk memulai investasi properti walaupun dengan modal yang kecil karena properti dapat dibeli secara patungan. \
+\
+Walaupun investasi properti sering dianggap sebagai investasi yang dengan risiko rendah, anda tetap harus memahami bisnis properti dengan baik agar anda dapat memilih properti terbaik yang bisa memberikan anda keuntungan dalam jangka panjang. 
+
+### **Nabung Emas Online**
+
+Investasi ke dalam emas merupakan investasi yang sudah kita kenal sejak dulu. Kini anda bisa melakukan transaksi emas dengan lebih mudah karena sudah tersedia di berbagai platform digital. Sistem ini sangat memudahkan proses investasi emas yang dilakukan karena emas yang dimiliki dapat diperjualbelikan dengan lebih cepat. \
+\
+Selain itu sistem ini juga lebih aman karena anda tidak harus menyimpan emas anda secara langsung sehingga terhindar dari berbagai risiko seperti pencurian atau kehilangan..
+
+### **Investasi Saham Online**
+
 Kemajuan sistem informasi membuat investasi saham kini makin mudah dengan sistem online melalui platform berbasis web atau aplikasi. Dengan sistem ini investor dapat memantau harga saham mereka secara real-time dan dapat mengambil keputusan cepat. \
 \
 Oleh sebab itu sekarang saham dapat diakses oleh investor dalam dalam lingkup yang lebih luas lagi. Karena itu tidak ada lagi alasan tidak berinvestasi karena investasi kini dapat diakses dengan sangat mudah.
@@ -100,11 +102,6 @@ Sebelum berinvestasi anda harus tahu posisi keuangan anda pada saat ini, untuk i
 
 Biasanya dihitung dengan menghitung total kebutuhan anda dalam kurun waktu 6 bulan, akan tetapi perhitungan ini tidak baku dan menyesuaikan kebutuhan masing-masing orang. 
 
-> **Baca Juga:**
->
-> * [Alasan Kenapa Dana Darurat Sangat Penting Disiapkan Sedini Mungkin](https://landx.id/blog/menyiapkan-dana-darurat-yang-ideal/)
-> * [Skala Prioritas: Memahami Pengertian dan Tujuan Menyusun Skala Prioritas dalam Mengelola Keuangan](https://landx.id/blog/konsep-skala-prioritas/)
-
 ### **3. Pahami dasar-dasar manajemen keuangan**
 
 Saat berinvestasi anda harus paham bagaimana manajemen uang yang baik agar anda bisa mengembangkan modal yang anda miliki. Selain itu hal ini juga akan membantu anda menyusun rencana diversifikasi investasi yang akan anda lakukan dalam beberapa waktu ke depan.
@@ -117,30 +114,10 @@ Setiap orang tentu saja memiliki profil risiko yang berbeda-beda. Untuk itu anda
 
 Karena maraknya penipuan berkedok investasi membuat anda harus benar-benar waspada dalam memilih platform investasi yang akan anda gunakan. Pastikan platform yang anda pilih merupakan investasi online resmi yang sudah sesuai dengan aturan yang ada saat ini.
 
-## [Yuk Mulai Investasi Online Anda Bersama LandX](https://landx.id/)
+## [Yuk Mulai Investasi Online Anda Bersama LandX](https://app.landx.id/?utm_source=Organic+Page&utm_medium=Content+Blog&utm_campaign=BlogLandX&utm_id=Blog)
 
-[![Mau punya bisnis menguntungkan modal 1 juta aja? ya landX solusinya](https://accountgram-production.sfo2.cdn.digitaloceanspaces.com/landx_ghost/2021/10/Equity-Crowdfunding-di-Indonesia-1--3.png)](https://landx.id/project/#/ximi)
+<!--StartFragment-->
 
-## **[Mau Berbagai info Terbaru Terkait Investasi? Yuk Follow @landx.id di Instagram](https://www.instagram.com/landx.id/?utm_medium=copy_link)**
+[![miliki bisnis modal kecil cuma dengan 1 jutaan dapat 4 cabang ](https://accountgram-production.sfo2.cdn.digitaloceanspaces.com/landx_ghost/2021/11/jadi-owner-bisnis-hanya-1-jutaan-dengan-cuan-yang-sangat-menjanjikan.png)](https://app.landx.id/?utm_source=Organic+Page&utm_medium=Content+Blog&utm_campaign=BlogLandX&utm_id=Blog)
 
-- - -
-
-**Baca Juga:**
-
-* **[Rekomendasi Investasi Online Terbaru Yang Bisa Anda Coba di 2021](https://landx.id/blog/rekomendasi-investasi-online-terbaru-menyiapkan-investasi-online-resmi-terbaik-di-tahun-2021/)**
-* **[Tips dan Strategi Investasi Rumah Kost Untuk Pemula](https://landx.id/blog/tips-dan-strategi-investasi-rumah-kost-untuk-pemula/)**
-
-- - -
-
-* **Situs Resmi** : <https://landx.id/>
-* **Contact** :
-* **Telepon** : (+62) 21 2245 5061
-* **WhatsApp** : (+62) 813 8186 2878
-* **Email** : \[hello@landx.id]
-* **Instagram** : @landx.id
-* **Twitter** : @LandX_id
-* **YouTube** : LandX ID
-* **LinkedIn** : LandX
-* **Alamat** : Italian Walk C.15-16, Mall of Indonesia, Jl. Yos Sudarso, RT.18,RT.18/RW.8, Kelapa Gading Barat, Kelapa Gading, Kota Jakarta Utara,  Jakarta 14240
-
-- - -
+<!--EndFragment-->
