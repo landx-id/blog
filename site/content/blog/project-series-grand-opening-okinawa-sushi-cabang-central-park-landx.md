@@ -39,17 +39,17 @@ category:
 {{< button link="https://www.youtube.com/watch?v=s46i5RS8z8U" text="Watch This Video" >}}
 {{< youtube id="s46i5RS8z8U" >}}
 
-**[Okinawa Sushi](https://landx.id/project/#/okin)** hadir sebagai restoran makanan Jepang yang menghidangkan sajian dengan cita rasa mewah dan instagramable. Selain tatanan sushi yang terlihat menggugah selera, penyajiannya juga unik. Seperti sushi yang disusun di atas anak tangga, serta pohon sushi menjadi daya tarik tersendiri.
+**[Okinawa Sushi](https://landx.id/)** hadir sebagai restoran makanan Jepang yang menghidangkan sajian dengan cita rasa mewah dan instagramable. Selain tatanan sushi yang terlihat menggugah selera, penyajiannya juga unik. Seperti sushi yang disusun di atas anak tangga, serta pohon sushi menjadi daya tarik tersendiri.
 
-**[Okinawa Sushi](https://landx.id/project/#/okin)** memiliki 400 menu dengan sajian andalan berupa Abura Sushi dan House of Dream yang wajib di coba. Restoran fusion ini mengusung interior yang modern nan elegan yang menawarkan rasa nyaman saat kamu menikmati jam makan.
+**[Okinawa Sushi](https://landx.id/)** memiliki 400 menu dengan sajian andalan berupa Abura Sushi dan House of Dream yang wajib di coba. Restoran fusion ini mengusung interior yang modern nan elegan yang menawarkan rasa nyaman saat kamu menikmati jam makan.
 
 Restoran yang berdiri sejak tahun 2018, ikut melewati masa pandemi, dan tergolong masih muda ini tetap bisa menjaga omzetnya dalam posisi positif. Membuktikan Okinawa Sushi memiliki strategi bisnis yang kuat, bahkan masih menyempatkan diri untuk ekspansi.
 
-Menjelang akhir tahun 2021, Okinawa Sushi bermitra dengan para investor melalui **[platform equity crowdfunding](https://landx.id/project/)** yaitu LandX, untuk membuka outlet baru.
+Menjelang akhir tahun 2021, Okinawa Sushi bermitra dengan para investor melalui **[platform equity crowdfunding](https://landx.id/)** yaitu LandX, untuk membuka outlet baru.
 
 Antusiasme dari para pemodal saat pembukaan saham membuat bisnis ini berhasil mengumpulkan pendanaan sebesar Rp 7,1 miliar dalam waktu 10 menit. Akhir November lalu, Okinawa Sushi sukses menggelar grand opening outlet barunya di Mall Central Park, Jakarta.
 
-Grand opening ini dihadiri manajemen Okinawa Sushi, Tim LandX serta para investor. **[Outlet Okinawa Sushi](https://landx.id/project/#/okin)** pun semakin menggurita di Indonesia. Ditambah 11 outlet yang telah tersebar di Jakarta, Bandung, Tangerang, Medan, Pekanbaru, Surabaya hingga Bali yang siap menyambut pelanggannya.
+Grand opening ini dihadiri manajemen Okinawa Sushi, Tim LandX serta para investor. **[Outlet Okinawa Sushi](https://landx.id/)** pun semakin menggurita di Indonesia. Ditambah 11 outlet yang telah tersebar di Jakarta, Bandung, Tangerang, Medan, Pekanbaru, Surabaya hingga Bali yang siap menyambut pelanggannya.
 
 ## Jadi Investor Sekaligus Pemilik Bisnis dengan Rp 1 Juta
 
@@ -83,7 +83,7 @@ Memahami potensi pemilik bisnis dan UKM, LandX membuka kesempatan bagi para pemi
 
 Untuk bisa masuk dalam ekosistem ini dan mendapat pendanaan, setiap bisnis akan diseleksi secara ketat. Dari prospek kinerja, pertumbuhan operasional bisnis yang positif, pemilik bisnis yang harus memiliki aset bernilai tinggi, serta memahami penanggulangan risiko mitigasi.
 
-Dari perusahaan yang telah melakukan **[listing bersama LandX](https://landx.id/project/)**, telah dibagikan kepada pemegang saham masing-masing keuntungan dividen secara rutin. Dividen yang dibagikan memiliki total nilai lebih dari Rp 2,2 miliar.
+Dari perusahaan yang telah melakukan **[listing bersama LandX](https://landx.id/)**, telah dibagikan kepada pemegang saham masing-masing keuntungan dividen secara rutin. Dividen yang dibagikan memiliki total nilai lebih dari Rp 2,2 miliar.
 
 Di kala pandemi pun, perusahaan tidak redup memberikan dividen kepada investornya. Bahkan perusahaan pemilik properti kos-kosan yang umumnya diberitakan menghadapi masa sulit pada awal pandemi Covid-19.
 
@@ -91,28 +91,13 @@ Di kala pandemi pun, perusahaan tidak redup memberikan dividen kepada investorny
 
 - - -
 
-**Baca Juga:**
-
-* [Dividen Adalah: Memahami Apa Itu Dividen sebagai Komponen Penting dalam Investasi](https://landx.id/blog/memahami-apa-itu-dividen/)
-* [Tahun Depan Mau Investasi Apa? Yuk Pahami Hal ini Sebelum Mulai Investasi di Tahun 2022](https://landx.id/blog/hal-penting-yang-harus-dipahami-saat-berinvestasi-di-tahun-2022/)
-
-- - -
-
 Bagi pemilik bisnis yang berkeinginan menggaet investor melalui LandX, bisa berkunjung ke website LandX dan mengisi formulir pada tombol ‘Pendaftaran Perusahaan’. Mari buktikan model bisnis yang dimiliki dan jangkau konsumen dari seluruh sisi.
 
-[Bersama **LandX**, investasi patungan bisnis semakin mudah.](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)
+[Bersama **LandX**, investasi patungan bisnis semakin mudah.](https://landx.id/)
 
-## [Yuk Miliki Bisnis Terbaik Cuma Modal 1 Jutaan](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)
+## [Yuk Miliki Bisnis Terbaik Cuma Modal 1 Jutaan](https://app.landx.id/?utm_source=Organic+Page&utm_medium=Content+Blog&utm_campaign=BlogLandX&utm_id=Blog)
 
-[![Bagaimana? Kamu lebih suka bisnis dengan buyback guarantee atau yang bisa disimpan dalam jangka panjang? Apapun pilihan kamu.. Yuk Patungan  dengan Keuntungan Menjanjikan Bareng LandX](https://media.discordapp.net/attachments/913743599844343808/948451446548992000/LandX_OPIM_ads_1080-x-565px_02.png?width=1042&height=545)](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)
-
-- - -
-
-**Baca  Juga:**
-
-* [Dana Pensiun: Menyusun Rencana Keuangan dan Investasi untuk Hari Tua yang Tenang](https://landx.id/blog/perencanaan-keuangan-untuk-hari-tua/)
-* [Skala Prioritas: Memahami Pengertian dan Tujuan Menyusun Skala Prioritas dalam Mengelola Keuangan](https://landx.id/blog/konsep-skala-prioritas/)
+[![Bagaimana? Kamu lebih suka bisnis dengan buyback guarantee atau yang bisa disimpan dalam jangka panjang? Apapun pilihan kamu.. Yuk Patungan  dengan Keuntungan Menjanjikan Bareng LandX](https://media.discordapp.net/attachments/913743599844343808/948451446548992000/LandX_OPIM_ads_1080-x-565px_02.png?width=1042&height=545)](https://app.landx.id/?utm_source=Organic+Page&utm_medium=Content+Blog&utm_campaign=BlogLandX&utm_id=Blog)
 
 - - -
 
-**\#YukPatunganBisnis     #LandX.id    #landx         #landx.id    #InvestasiBisnis   #SecuritiesCrowdfunding   #EquityCrowdfunding     #InvestasiMenguntungkan     #Urundana    #BisnisPatungan     #InvestasiUsaha**
