@@ -145,20 +145,20 @@ Manfaat lainnya yang didapatkan setiap perusahaan dalam menghitung biaya overhea
 
 Nah, bagaimana Anda tertarik untuk menjalankan suatu perusahaan? Memang dalam menjalankan suatu perusahaan tidak mudah dan banyak hal-hal yang harus dilakukan.
 
-Jika Anda memiliki keinginan untuk menjadi pemilik suatu perusahaan atau bisnis tapi tidak mau menjalankannya dan tidak mau susah. Anda bisa menjadi salah satu pemilik bisnis dengan cara investasi melalui [equity crowdfunding](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog).
+Jika Anda memiliki keinginan untuk menjadi pemilik suatu perusahaan atau bisnis tapi tidak mau menjalankannya dan tidak mau susah. Anda bisa menjadi salah satu pemilik bisnis dengan cara investasi melalui [equity crowdfunding](https://app.landx.id/?utm_source=Organic+Page&utm_medium=Content+Blog&utm_campaign=BlogLandX&utm_id=Blog).
 
-[Equity crowdfunding](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog) sendiri merupakan skema pendanaan untuk bisnis kecil dengan cara patungan masyarakat luas untuk mendanai UMKM. Disini kamu bisa menjadi salah satu pemilik bisnis yang kamu danai.
+[Equity crowdfunding](https://app.landx.id/?utm_source=Organic+Page&utm_medium=Content+Blog&utm_campaign=BlogLandX&utm_id=Blog) sendiri merupakan skema pendanaan untuk bisnis kecil dengan cara patungan masyarakat luas untuk mendanai UMKM. Disini kamu bisa menjadi salah satu pemilik bisnis yang kamu danai.
 
 Kamu juga akan mendapatkan keuntungan dari [equity crowdfunding](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog), yaitu kamu akan menerima return dividen dari project bisnis yang telah kamu danai. 
 
 [LandX](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog) merupakan salah satu platform [equity crowdfunding](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog) yang dapat membantu kamu mendanai bisnis yang memiliki prospek bagus dengan modal kecil dan untung besar.
 
-[LandX](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog), [platform equity crowdfunding terpercaya](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog), transparan, dan telah memiliki izin dari Otoritas Jasa Keuangan (OJK). Kamu bisa mendapatkan potensi keuntungan dengan modal kecil.
+[LandX](https://app.landx.id/?utm_source=Organic+Page&utm_medium=Content+Blog&utm_campaign=BlogLandX&utm_id=Blog), [platform equity crowdfunding terpercaya](https://app.landx.id/?utm_source=Organic+Page&utm_medium=Content+Blog&utm_campaign=BlogLandX&utm_id=Blog), transparan, dan telah memiliki izin dari Otoritas Jasa Keuangan (OJK). Kamu bisa mendapatkan potensi keuntungan dengan modal kecil.
 
-## **[Wujudkan Impian Menjadi Pemilik Bisnis dengan Investasi di LandX Sekarang Juga!](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)**
+## **[Wujudkan Impian Menjadi Pemilik Bisnis dengan Investasi di LandX Sekarang Juga!](https://app.landx.id/?utm_source=Organic+Page&utm_medium=Content+Blog&utm_campaign=BlogLandX&utm_id=Blog)**
 
 <!--StartFragment-->
 
-[![miliki bisnis modal kecil cuma dengan 1 jutaan dapat 4 cabang ](https://accountgram-production.sfo2.cdn.digitaloceanspaces.com/landx_ghost/2021/11/jadi-owner-bisnis-hanya-1-jutaan-dengan-cuan-yang-sangat-menjanjikan.png)](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)
+[![miliki bisnis modal kecil cuma dengan 1 jutaan dapat 4 cabang ](https://accountgram-production.sfo2.cdn.digitaloceanspaces.com/landx_ghost/2021/11/jadi-owner-bisnis-hanya-1-jutaan-dengan-cuan-yang-sangat-menjanjikan.png)](https://app.landx.id/?utm_source=Organic+Page&utm_medium=Content+Blog&utm_campaign=BlogLandX&utm_id=Blog)
 
 <!--EndFragment-->
