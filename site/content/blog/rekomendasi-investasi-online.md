@@ -53,7 +53,7 @@ Berinvestasi dengan sistem ini juga akan memberikan investor porsi kepemilikan d
 
 Sistem ini sangat cocok untuk investor pemula  karena analisis bisnis jauh lebih mudah karena platform penyelenggara equity crowdfunding  akan membantu proses kurasi dari bisnis yang akan didanai.
 
-**[LandX](https://landx.id/)** merupakan platfotm equity crowdfunding yang bisa jadi pilihan kamu yang ingin berinvestasi ke dalam berbagai bisnis potensial yang telah melewati kurasi sebelumnya. Yuk temukan bisnis terbaik untuk investasi kamu **[di sini](https://landx.id/project/)**
+**[LandX](https://landx.id/)** merupakan platfotm equity crowdfunding yang bisa jadi pilihan kamu yang ingin berinvestasi ke dalam berbagai bisnis potensial yang telah melewati kurasi sebelumnya. Yuk temukan bisnis terbaik untuk investasi kamu **[di sini](https://app.landx.id/?utm_source=Organic+Page&utm_medium=Content+Blog&utm_campaign=BlogLandX&utm_id=Blog)**
 
 ### 2. P2P Lending (P2PL)
 
@@ -94,11 +94,6 @@ Sistem berinvestasi secara [online](https://landx.id/) ini sangat cocok untuk pe
 
 Akses membeli reksa dana kini kian mudah karena sudah banyak agen reksa dana yang bekerjasama dengan berbagai platform online seperti *e-commerce untuk* memudahkan transaksn.  Reksa dana memiliki beberapa jenis yang bisa anda pilih menyesuaikan profil risiko anda seperti reksa dana pasar uang, saham, atau reksa dana campuran.
 
-**Artikel Terkait:**
-
-* **[Mengenal Investasi Mutual Fund: Definisi, Cara Kerja, dan Jenis Mutual Fund](https://landx.id/blog/mengenal-investasi-mutual-fund-definisi-cara-kerja-dan-jenis-mutual-fund/)**
-* **[Hedge Fund: Pengertian, Tujuan, Karakteristik, dan Memulai Hedge Fund](https://landx.id/blog/hedge-fund-pengertian-tujuan-karakteristik-dan-memulai-hedge-fund/)**
-
 ### 6. Emas Online
 
 Emas merupakan investasi yang sudah ada dari zaman dahulu. Berinvestasi ke dalam emas sebenarnya bisa dibilang lumayan berisiko karena selain risiko karena Anda harus menyiapkan penyimpanan yang aman dari berbagai ancaman.
@@ -133,22 +128,12 @@ Karena itu, kamu butuh diversifikasi sebagai mitigasi risiko apabila sesuatu tid
 
 Karena itu....
 
-## [Yuk, jadi bos bisnis dan terima keuntungan rutin di LandX](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)
+## [Yuk, jadi bos bisnis dan terima keuntungan rutin di LandX](https://app.landx.id/?utm_source=Organic+Page&utm_medium=Content+Blog&utm_campaign=BlogLandX&utm_id=Blog)
 
-[![miliki bisnis modal kecil cuma dengan 1 jutaan dapat 4 cabang ](https://accountgram-production.sfo2.cdn.digitaloceanspaces.com/landx_ghost/2021/11/jadi-owner-bisnis-hanya-1-jutaan-dengan-cuan-yang-sangat-menjanjikan.png)](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)
+<!--StartFragment-->
 
-- - -
+[![miliki bisnis modal kecil cuma dengan 1 jutaan dapat 4 cabang ](https://accountgram-production.sfo2.cdn.digitaloceanspaces.com/landx_ghost/2021/11/jadi-owner-bisnis-hanya-1-jutaan-dengan-cuan-yang-sangat-menjanjikan.png)](https://app.landx.id/?utm_source=Organic+Page&utm_medium=Content+Blog&utm_campaign=BlogLandX&utm_id=Blog)
 
-**[Mau Informasi Menarik Lain Seputar Investasi? Yuk Kunjungi Instagram Kami di @landx.id](https://www.instagram.com/landx.id/?utm_medium=copy_link)**
-
-- - -
-
-**Baca Juga:**
-
-* [Gaji UMR Mau Investasi? Yuk Simak Tips dan Caranya Investasi dengan Gaji UMR](https://landx.id/blog/cara-investasi-dengan-gaji-umr/)
-* [Investasi dengan Passive Income untuk Masa Depan](https://landx.id/blog/investasi-dengan-passive-income-untuk-masa-depan/)
-* [Investasi Selalu Rugi? Coba Lakukan Diversifikasi. Ini 4 Cara Melakukannya!](https://landx.id/blog/arti-penting-diversifikasi-dalam-investasi/)
+<!--EndFragment-->
 
 - - -
-
-**\#YukPatunganBisnis**
