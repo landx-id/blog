@@ -69,16 +69,20 @@ Berikut lokasi 6 outlet Ayam Tempong Ibu Sri:
 * Ayam Tempong Ibu Sri Legian
 * Ayam Tempong Ibu Sri Seminyak
 
-Keenam oulet ini belum cukup puaskan pelanggan, permintaan yang tinggi dari pelanggan buat Ayam Tempong Ibu Sri bersiap menabah 2 outlet baru. Outlet-outlet ini akan hadir dengan konsep lebih baik dengan gandeng [platform crowdfunding LandX](https://landx.id/project/ATBS).
+Keenam oulet ini belum cukup puaskan pelanggan, permintaan yang tinggi dari pelanggan buat Ayam Tempong Ibu Sri bersiap menabah 2 outlet baru. Outlet-outlet ini akan hadir dengan konsep lebih baik dengan gandeng [platform crowdfunding LandX](https://landx.id/).
 
 ## Ayam Tempong Ibu Sri Hadir di LandX
 
 Memiliki basis penggemar yang ramai setiap harinya buat Ayam Tempong Ibu Sri ingin berikan pengalaman terbaik bagi pelanggannya. Keinginan ingin menjangkau pelanggan diberbagai lokasi buat pemilik brand ini siapkan strategi ekspansi.
 
-Bersama [platform crowdfunding terdepan di Indonesia](https://landx.id/) yaitu [LandX](https://landx.id/project/ATBS), Ayam Tempong Ibu Sri mengajak para pemilik modal untuk mengembangkan 2 outlet baru bersama. Dengan lokasi strategis pilihan yang ramai penduduk di Bali, wilayah Kuta dan Tukad Batanghari siap taklukan.
+Bersama [platform crowdfunding terdepan di Indonesia](https://app.landx.id/?utm_source=Organic+Page&utm_medium=Content+Blog&utm_campaign=BlogLandX&utm_id=Blog) yaitu [LandX](https://landx.id/), Ayam Tempong Ibu Sri mengajak para pemilik modal untuk mengembangkan 2 outlet baru bersama. Dengan lokasi strategis pilihan yang ramai penduduk di Bali, wilayah Kuta dan Tukad Batanghari siap taklukan.
 
 Dengan modal mulai sejutaan, setiap investor otomatis dapat miliki 2 outlet terbaru dengan konsep yang lebih baik. Selain itu, Ayam Tempong Ibu Sri juga menawarkan keuntungan bagi hasil berupa estimasi dividen hingga 25% per tahun sesuai kepemilikan modal. Karena itu, 
 
-## [Yuk, Jadi Pemilik Outlet Restoran Ayam Tempong Ibu Sri di LandX, Klik di Sini!](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)
+## [Yuk, Jadi Pemilik Outlet Restoran Ayam Tempong Ibu Sri di LandX, Klik di Sini!](https://app.landx.id/?utm_source=Organic+Page&utm_medium=Content+Blog&utm_campaign=BlogLandX&utm_id=Blog)
 
-[![miliki bisnis modal kecil cuma dengan 1 jutaan dapat 4 cabang ](https://accountgram-production.sfo2.cdn.digitaloceanspaces.com/landx_ghost/2021/11/jadi-owner-bisnis-hanya-1-jutaan-dengan-cuan-yang-sangat-menjanjikan.png)](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)
+<!--StartFragment-->
+
+[![miliki bisnis modal kecil cuma dengan 1 jutaan dapat 4 cabang ](https://accountgram-production.sfo2.cdn.digitaloceanspaces.com/landx_ghost/2021/11/jadi-owner-bisnis-hanya-1-jutaan-dengan-cuan-yang-sangat-menjanjikan.png)](https://app.landx.id/?utm_source=Organic+Page&utm_medium=Content+Blog&utm_campaign=BlogLandX&utm_id=Blog)
+
+<!--EndFragment-->
