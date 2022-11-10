@@ -207,16 +207,12 @@ Karenanya, Anda dapat menginvestasikan dana Anda di platform online seperti [Lan
 
 Di [LandX](https://landx.id/) kami memastikan setiap transaksi dan setiap langkah yang dilakukan aman, dan tentu Anda dapat memperoleh keuntungan yang bisa anda mulai dengan modal sekecil mungkin
 
-## [Yuk, jadi bos bisnis dan terima keuntungan rutin di LandX](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)
+## [Yuk, jadi bos bisnis dan terima keuntungan rutin di LandX](https://app.landx.id/?utm_source=Organic+Page&utm_medium=Content+Blog&utm_campaign=BlogLandX&utm_id=Blog)
 
-[![miliki bisnis modal kecil cuma dengan 1 jutaan dapat 4 cabang ](https://accountgram-production.sfo2.cdn.digitaloceanspaces.com/landx_ghost/2021/11/jadi-owner-bisnis-hanya-1-jutaan-dengan-cuan-yang-sangat-menjanjikan.png)](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)
+<!--StartFragment-->
 
-- - -
+[![miliki bisnis modal kecil cuma dengan 1 jutaan dapat 4 cabang ](https://accountgram-production.sfo2.cdn.digitaloceanspaces.com/landx_ghost/2021/11/jadi-owner-bisnis-hanya-1-jutaan-dengan-cuan-yang-sangat-menjanjikan.png)](https://app.landx.id/?utm_source=Organic+Page&utm_medium=Content+Blog&utm_campaign=BlogLandX&utm_id=Blog)
 
-**Baca Juga:**
-
-* [Mau Investasi Rumah? Berikut Hal yang Wajib Kamu Ketahui Tentang Investasi Rumah](https://landx.id/blog/memulai-investasi-rumah/)
-* [Simak Berbagai Strategi Memulai Bisnis Properti Modal Kecil Terbaik yang Bisa Anda Terapkan](https://landx.id/blog/bisnis-properti-modal-kecil/)
-* [10 Rekomendasi Situs Jual Beli Rumah Terpercaya 2021](https://landx.id/blog/10-rekomendasi-situs-jual-beli-rumah-terpercaya-2021/)
+<!--EndFragment-->
 
 - - -
