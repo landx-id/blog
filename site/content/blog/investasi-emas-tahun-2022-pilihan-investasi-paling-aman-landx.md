@@ -1,6 +1,6 @@
 ---
 author: Vlora Riyandi
-title: Investasi Emas Tahun 2022, PIlihan Investasi Paling Aman? | LandX
+title: Investasi Emas Tahun 2022, PIlihan Investasi Paling Aman?
 metaTitle: Investasi Emas Tahun 2022, PIlihan Investasi Paling Aman? | LandX
 metaDescription: Banyak keuntungan investasi emas, seperti likuid, nilai yang
   stabil dan pilihan investasi jangka panjang yang aman. Cara investasi emas di
@@ -106,6 +106,10 @@ Keuntungan berinvestasi [crowdfunding](https://landx.id/) adalah persentase imba
 
 [Investasi crowdfunding](https://landx.id/) dapat dilakukan di[ platform crowdfunding dengan market cap terbesar di Indonesia](https://landx.id/) yaitu [LandX](https://landx.id/). Investasi modal kecil sekarang bisa jadikan Anda bos bisnis. 
 
-## [Yuk, jadi bos bisnis dan terima keuntungan rutin di LandX](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)
+## [Yuk, jadi bos bisnis dan terima keuntungan rutin di LandX](https://app.landx.id/?utm_source=Organic+Page&utm_medium=Content+Blog&utm_campaign=BlogLandX&utm_id=Blog)
 
-[![miliki bisnis modal kecil cuma dengan 1 jutaan dapat 4 cabang ](https://accountgram-production.sfo2.cdn.digitaloceanspaces.com/landx_ghost/2021/11/jadi-owner-bisnis-hanya-1-jutaan-dengan-cuan-yang-sangat-menjanjikan.png)](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)
+<!--StartFragment-->
+
+[![miliki bisnis modal kecil cuma dengan 1 jutaan dapat 4 cabang ](https://accountgram-production.sfo2.cdn.digitaloceanspaces.com/landx_ghost/2021/11/jadi-owner-bisnis-hanya-1-jutaan-dengan-cuan-yang-sangat-menjanjikan.png)](https://app.landx.id/?utm_source=Organic+Page&utm_medium=Content+Blog&utm_campaign=BlogLandX&utm_id=Blog)
+
+<!--EndFragment-->
