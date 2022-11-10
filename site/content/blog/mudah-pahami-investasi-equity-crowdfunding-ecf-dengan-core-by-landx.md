@@ -30,9 +30,13 @@ Kenalan lebih lanjut sama **[CORE by LandX](https://core.landx.id/)** serta fitu
 
 **Ada fitur apa aja di [CORE by LandX](https://core.landx.id/)?**
 
+![](https://lh5.googleusercontent.com/vKkraxY039kM9ZABlFm4snlBhE5dMYYakHKVT0ytRKxlrWn0x1c8Qu_55WC2JwNacjhOAKU-WKPC4-VhHCup51Cn9vHaE3JB5sOuoFecASCfzu9x8R-ShBaQt5HIgceYVtM1zi0_bKampAGgNHWvW8VXdMLuUVbztc_d1sOonPWu64GYDbazYSCFCSqCDQ)
+
 * ### Kinerja Asset
 
 Fitur Kinerja Asset menyediakan detail informasi terkait kinerja bisnis yang sudah kamu danai secara real time melalui aplikasi LandX. Kamu dapat memantau perkembangan bisnis mulai dari proses pembangunan hingga transparansi laporan keuangan dari outlet yang berhasil beroperasi berkat pendanaan dari modal yang kamu berikan.
+
+![](https://lh5.googleusercontent.com/XhsWsZRzh3vvUP9lKl1QU80WR-iDa-Yw-XxnEsl-7PLUpYhlIVy7qVqUwP2Q-9I0z66ex_9vHZINkWSMErx1ZsMKghzhZ0R5VKoWRJHLeyexAFLiRN7hsEu1hJj833PuXs2ODBhcQ5_OYJ84EqWIIdqFv7_SrUfih_ypHF3aYbIUYK8FKKdSo4R7F-SrVg)
 
 * ### e-RUPS
 
@@ -45,6 +49,8 @@ Akses informasi dan berita terkini seputar keuangan dan industri ECF untuk memba
 * ### FLOW
 
 Bagi kamu yang ingin investasi namun masih takut, tepis kekhawatiran kamu dengan ikuti kuis mengenal Profil Risiko Investasi pada fitur Flow di CORE by landX. Kenali potensi diri kamu dalam mengelola keuangan dan memilih investasi yang sesuai dengan tingkat profil risiko.
+
+![](https://lh3.googleusercontent.com/MQXvs4_gY_hYdinv2WqhZ0adz5-UgdMjxcaNieNCUtGxpcUPmDykPKzTcAyYWyzfLMSXsnBKB-YkZuw3qcgyoygZ7WeMimP9eNkqBJb1UVz2silhMbyeiiPSkxe5omSGa_TBTnO35psFfJc9fLPLfcEZsIumx1chMKyLWPA67GCGiHrZT_18CuiqfpUmAg)
 
 * ### LandX Play 
 
@@ -61,6 +67,8 @@ Ingin meningkatkan networking dengan sesama investor like-minded? Akses informas
 Klaim voucher promo khusus untuk kamu yang investasi dengan cek fitur Deals di CORE by LandX!
 
 Nikmati penawaran menarik berupa diskon pembelian produk bisnis favorit pilihan kamu. Promo ini khusus untuk investor terdaftar di LandX dengan kepemilikan minimal 10 lot. Yuk, tingkatkan kepemilikan lot saham kamu untuk raih benefit yang lebih menguntungkan!
+
+![](https://lh4.googleusercontent.com/UpPkN-KduV5u_8BlcI-do5Bm0BZDfYqlbg9pvOeHQ1C1QTCsqxlbIqTTcqIW0wzLvKLDD2es6UmzH5C_zhieA0xrxKDUzQ7TcMaBr1XFcEtexTvVSMaMqUn-oBiiC4ycRCKoEubwxJLWSlUUwhQsI8Sw3kG3J8ZiH381YCg8jggtsPax3MeNWT6KqG9dWg)
 
 * ### CS Support (CRISP)
 
@@ -87,8 +95,6 @@ Berinvestasi merupakan keputusan pribadi yang dipilih untuk memaksimalkan aset y
 Caranya?
 
 ## [Download dan Verifikasi Data KYC Kamu di Aplikasi LandX](https://app.landx.id/?utm_source=Organic+Page&utm_medium=Content+Blog&utm_campaign=BlogLandX&utm_id=Blog)
-
-<!--StartFragment-->
 
 [![miliki bisnis modal kecil cuma dengan 1 jutaan dapat 4 cabang ](https://accountgram-production.sfo2.cdn.digitaloceanspaces.com/landx_ghost/2021/11/jadi-owner-bisnis-hanya-1-jutaan-dengan-cuan-yang-sangat-menjanjikan.png)](https://app.landx.id/?utm_source=Organic+Page&utm_medium=Content+Blog&utm_campaign=BlogLandX&utm_id=Blog)
 
