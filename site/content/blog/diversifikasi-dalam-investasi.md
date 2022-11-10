@@ -38,7 +38,7 @@ Apabila kamu mendalami dunia [bisnis dan investasi](https://landx.id/blog/tag/bi
 
 Dalam dunia bisnis, diversifikasi mengacu pada pengembangan produk dan layanan baru yang serupa dengan yang sudah Anda jual. Diversifikasi adalah strategi pengembangan bisnis di mana perusahaan mengembangkan produk dan layanan baru, atau memasuki pasar baru di luar pasar yang sudah ada.
 
-Selain dalam bidang bisnis, [diversifikasi](https://landx.id/) juga merupakan istilah yang sering digunakan di dunia keuangan dan investasi. dalam dunia investasi, strategi [diversifikasi](https://landx.id/) itu apa? 
+Selain dalam bidang bisnis, diversifikasi juga merupakan istilah yang sering digunakan di dunia keuangan dan investasi. dalam dunia investasi, strategi diversifikasi itu apa? 
 
 Diversifikasi adalah strategi manajemen risiko yang memadukan berbagai macam instrumen investasi dalam portofolio. Portofolio yang terdiversifikasi berisi campuran jenis aset dan instrumen investasi yang berbeda dalam upaya membatasi eksposur terhadap risiko tunggal.
 
@@ -74,7 +74,7 @@ Karena itu, diversifikasi portofolio adalah bagaimana kita mengkombinasikan bebe
 
 Contohnya dalam investasi saham, diversifikasi saham adalah bagaimana seorang investor memilih saham dari dari sektor yang berbeda dalam portofolio mereka untuk agar apabila satu sektor tidak dalam kondisi baik kita masih bisa mendapatkan keuntungan dari saham sektor lain yang sedang bertumbuh dengan baik. 
 
-Strategi ini juga berlaku untuk kamu yang berinvestasi lewat **[equity crowdfunding](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)** di mana kamu bisa membeli saham dari bisnis-bisnis dari sektor berbeda agar kamu bisa tetap mendapatkan dividen yang optimal walaupun salah satu bisnis di portofolio kamu sedang berjalan dengan tidak baik.
+Strategi ini juga berlaku untuk kamu yang berinvestasi lewat **[equity crowdfunding](https://app.landx.id/?utm_source=Organic+Page&utm_medium=Content+Blog&utm_campaign=BlogLandX&utm_id=Blog)** di mana kamu bisa membeli saham dari bisnis-bisnis dari sektor berbeda agar kamu bisa tetap mendapatkan dividen yang optimal walaupun salah satu bisnis di portofolio kamu sedang berjalan dengan tidak baik.
 
 ## Bagaimana Cara Menyusun Strategi Diversifikasi dalam Investasi?
 
@@ -112,21 +112,12 @@ Investasi bisnis melalui [skema equity crowdfunding](https://landx.id/) juga mem
 
 Apabila anda ikut patungan bisnis, maka diversifikasi dapat dilakukan dengan berinvestasi ke bisnis dari sektor yang berbeda-beda. Contohnya, kamu bisa mengalokasikan sebagian dana anda ke bisnis dari sektor F&B dan sebagian lainnya ke sektor lain seperti car wash atau berbagai bisnis menguntungkan lain yang disediakan [platform equity crowdfunding.](https://landx.id/)
 
-Di LandX, kamu bisa menemukan berbagai bisnis potensial dari berbagai sektor yang bisa menjadi pilihan untuk [diversifikasi portofolio](https://landx.id/project/) investasi kamu. Karena itu..
+Di LandX, kamu bisa menemukan berbagai bisnis potensial dari berbagai sektor yang bisa menjadi pilihan untuk [diversifikasi portofolio](https://landx.id/) investasi kamu. Karena itu..
 
-**[Yuk Temukan Bisnis Terbaik untuk Investasi Jangka Panjang Kamu di LandX](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)**
+**[Yuk Temukan Bisnis Terbaik untuk Investasi Jangka Panjang Kamu di LandX](https://app.landx.id/?utm_source=Organic+Page&utm_medium=Content+Blog&utm_campaign=BlogLandX&utm_id=Blog)**
 
-[![Yuk Temukan Bisnis Terbaik untuk Investasi Jangka Panjang Kamu di LandX](https://accountgram-production.sfo2.cdn.digitaloceanspaces.com/landx_ghost/2021/10/patungan-bisnis-menguntungkan-bareng-landx.png)](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)
+<!--StartFragment-->
 
-**Mau Tau Berbagai Info Terbaru Seputar Keuangan Lainnya? Yuk Follow @landx.id di Instagram**
+[![miliki bisnis modal kecil cuma dengan 1 jutaan dapat 4 cabang ](https://accountgram-production.sfo2.cdn.digitaloceanspaces.com/landx_ghost/2021/11/jadi-owner-bisnis-hanya-1-jutaan-dengan-cuan-yang-sangat-menjanjikan.png)](https://app.landx.id/?utm_source=Organic+Page&utm_medium=Content+Blog&utm_campaign=BlogLandX&utm_id=Blog)
 
-- - -
-
-**Baca Juga:**
-
-* \***\*[**Mau Jadi Investor? Simak Cara Mudah Menjadi Investor Hanya dengan Modal Kecil**](https://landx.id/blog/cara-menjadi-investor/)\*\***
-* \***\*[**Tips Penting dalam Menyusun Rencana Investasi Jangka Panjang Terbaik**](https://landx.id/blog/investasi-jangka-panjang-adalah/)\*\***
-
-- - -
-
-**\#YukPatunganBisnis    #LandX.id    #landx         #landx.id    #InvestasiBisnis  #SecuritiesCrowdfunding   #EquityCrowdfunding    #InvestasiMenguntungkan     #Urundana    #BisnisPatungan    #InvestasiUsaha**
+<!--EndFragment-->[](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)
