@@ -39,27 +39,27 @@ Manfaat utama reksadana adalah memberi investor akses diversifikasi portofolio i
 
 Reksadana juga ada jenis-jenisnya. Hal yang membedakan setiap jenis reksadana adalah return dan risiko yang dikandungnya.
 
-1. ### Reksadana Pasar Uang (RDPS)
+### Reksadana Pasar Uang (RDPS)
 
 Biasanya reksadana pasar uang adalah produk-produk keuangan yang jatuh temponya 1 tahun. Contohnya deposito bank, obligasi yang dibayar kurang dari setahun, serta surat berharga lainnya.
 
 Reksadana pasar uang dikenal sebagai reksadana dengan risiko rendah (low risk).
 
-2. ### Reksadana Pendapatan Tetap (RDPT)
+### Reksadana Pendapatan Tetap (RDPT)
 
 Merupakan produk keuangan yang dapat memberikan pendapatan tetap. Contoh reksadana pendapatan tetap adalah obligasi dan deposito lebih dari 1 tahun. 
 
-3. ### Reksadana Saham
+### Reksadana Saham
 
 Reksadana saham berisi saham-saham perusahaan terbuka atau telah tercatat di bursa efek. Reksadana ini cocok digunakan sebagai reksadana jangka panjang seperti jangka waktu lebih dari 5 tahun.
 
 Seperti sifat saham, investasi reksadana saham memiliki return dan risiko yang tinggi. 
 
-4. ### Reksadana Campuran
+### Reksadana Campuran
 
 Reksadana campuran sifatnya berada diantara reksadana saham dan pendapatan tetap. Proporsi saham dan obligasi besar dari 1 tahun biasanya sebanding di reksadana campuran.
 
-5. ### Reksadana Indeks
+### Reksadana Indeks
 
 Indeks adalah nilai. Indeks berarti nilai yang ditentukan berdasarkan suatu kriteria tertentu. Indeks saham adalah nilai yang mencerminkan pergerakan saham suatu kelompok saham.
 
@@ -91,8 +91,6 @@ Berikut merupakan perbedaan ETF dengan reksadana (stock mutual fund) yang telah 
 
 ![Memahami apa itu reksa dana dan cara kerja instrumen investasi ](https://lh4.googleusercontent.com/VnAyC3RND6CZ3S2NdceSRqj0vohfdOPD6zCj9wuPK2yvlYLSvbh01uygyq8bT3ynTzSLECiYqD9eikQxhOLQOTeyEf79tMbxFDDYxEzhX0A2phKTsIkMmEM1feXPn5vZL5BmXAa76x_IRaHnxQ "Yuk simak perbedaan antara reksa dan dan ETF")
 
-> **[Baca juga perbedaan ETF dan reksadana di sini](https://landx.id/blog/etf-adalah/)**
-
 ## Diversifikasi Portofolio Investasi
 
 Reksa dana merupakan sarana investasi yang semakin populer dari tahun ke tahun. Mereka memberi investor akses diversifikasi portofolio investasi yang dikelola secara profesional. 
@@ -107,6 +105,6 @@ Kamu juga dapat berinvestasi [crowdfunding](https://landx.id/) melalui [platform
 
 Dengan demikian, kamu bisa meraih keuntungan investasi dengan investasi bisnis di [crowdfunding](https://landx.id/).
 
-## [Yuk, Download Aplikasi Landx Sekarang Untuk Akses Proyek Bisnis Potensial Menguntungkan](https://landx.id/)
+## [Yuk, Download Aplikasi Landx Sekarang Untuk Akses Proyek Bisnis Potensial Menguntungkan](https://app.landx.id/?utm_source=Organic+Page&utm_medium=Content+Blog&utm_campaign=BlogLandX&utm_id=Blog)
 
-## [![miliki bisnis modal kecil cuma dengan 1 jutaan dapat 4 cabang ](https://accountgram-production.sfo2.cdn.digitaloceanspaces.com/landx_ghost/2021/11/jadi-owner-bisnis-hanya-1-jutaan-dengan-cuan-yang-sangat-menjanjikan.png)](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)
+## [![miliki bisnis modal kecil cuma dengan 1 jutaan dapat 4 cabang ](https://accountgram-production.sfo2.cdn.digitaloceanspaces.com/landx_ghost/2021/11/jadi-owner-bisnis-hanya-1-jutaan-dengan-cuan-yang-sangat-menjanjikan.png)](https://app.landx.id/?utm_source=Organic+Page&utm_medium=Content+Blog&utm_campaign=BlogLandX&utm_id=Blog)
