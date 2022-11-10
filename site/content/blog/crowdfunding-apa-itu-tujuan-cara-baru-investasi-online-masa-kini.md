@@ -122,16 +122,8 @@ Jika dana sudah terkumpul dan bisnis yang tepat sudah anda temukan  maka Anda ha
 
 <!--StartFragment-->
 
-\## \[Yuk, jadi bos bisnis dan terima keuntungan rutin di LandX]([https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog "https\://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog")) \[![miliki bisnis modal kecil cuma dengan 1 jutaan dapat 4 cabang ]([https://accountgram-production.sfo2.cdn.digitaloceanspaces.com/landx_ghost/2021/11/jadi-owner-bisnis-hanya-1-jutaan-dengan-cuan-yang-sangat-menjanjikan.png)](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)](<https://accountgram-production.sfo2.cdn.digitaloceanspaces.com/landx_ghost/2021/11/jadi-owner-bisnis-hanya-1-jutaan-dengan-cuan-yang-sangat-menjanjikan.png)](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)> "https\://accountgram-production.sfo2.cdn.digitaloceanspaces.com/landx_ghost/2021/11/jadi-owner-bisnis-hanya-1-jutaan-dengan-cuan-yang-sangat-menjanjikan.png)](https\://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)")
+## [Akses Saham Perusahaan Privat Melalui Platform Equity Crowdfunding](https://app.landx.id/?utm_source=Organic+Page&utm_medium=Content+Blog&utm_campaign=BlogLandX&utm_id=Blog)
 
-<!--EndFragment-->
-
-- - -
-
-**Baca Juga:**
-
-* [Cara Miliarder Jeff Bezos Kelola Amazon dan Pentingnya Mulai Berinvestasi](https://landx.id/blog/cara-jeff-bezos-kelola-amazon-dan-jadi-miliarder-dunia-pentingnya-mulai-berinvestasi/)
-* [Berinvestasi Gaya Elon Musk atau Warren Buffet? 2 Pandangan Buat Kamu yang Ingin Ikutan Bitcoin](https://landx.id/blog/berinvestasi-gaya-elon-musk-atau-warren-buffet-2-pandangan-buat-kamu-yang-ingin-ikutan-bitcoin/)
-* [Pinjol Legal Berguguran, Penyebab, dan Tips Agar Tergoda Pinjol Ilegal](https://landx.id/blog/pinjol-legal-ojk-berguguran/)
+[![miliki bisnis modal kecil cuma dengan 1 jutaan dapat 4 cabang ](https://accountgram-production.sfo2.cdn.digitaloceanspaces.com/landx_ghost/2021/11/jadi-owner-bisnis-hanya-1-jutaan-dengan-cuan-yang-sangat-menjanjikan.png)](https://app.landx.id/?utm_source=Organic+Page&utm_medium=Content+Blog&utm_campaign=BlogLandX&utm_id=Blog)
 
 - - -
