@@ -70,7 +70,7 @@ Pertimbangkan seberapa besar resiko yang bisa kamu tolerir. Coba buat risk toler
 
 ### 2. Tentukan Target dan Tujuan dalam Diversifikasi
 
-Setelah memahami *risk tolerance*, selanjutnya tentukan target dan tujuan yang ingin kamu capai. Ingat, target dan tujuan kamu tersebut harus berdasarkan _risk toleranc_e yang sudah dibuat.
+Setelah memahami *risk tolerance*, selanjutnya tentukan target dan tujuan yang ingin kamu capai. Ingat, target dan tujuan kamu tersebut harus berdasarkan risk tolerance yang sudah dibuat.
 
 Misal, jika kamu adalah tipe investor yang punya *risk tolerance* tinggi, maka kamu bisa pilih saham. Sebaliknya, jika kamu investor dengan *risk tolerance* rendah, kamu bisa memilih obligasi ritel maupun reksadana.
 
@@ -106,21 +106,12 @@ Nah itulah penjelasan diversifikasi dari pengertian, cara melakukannya, sampai â
 
 Land X adalah sebuah tempat dimana kamu bisa berinvestasi sekaligus memajukan ekonomi Indonesia. Kok bisa? Karena di LandX, perusahaan yang terdaftar adalah UMKM yang sudah dikurasi dengan ketat.
 
-Karena itu..
+Karena itu..[](https://app.landx.id/?utm_source=Organic+Page&utm_medium=Content+Blog&utm_campaign=BlogLandX&utm_id=Blog)
 
-**[Yuk Temukan Bisnis Menjanjikan dengan Keuntungan Terbaik di LandX](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)**
+**[Yuk Temukan Bisnis Menjanjikan dengan Keuntungan Terbaik di LandX](https://app.landx.id/?utm_source=Organic+Page&utm_medium=Content+Blog&utm_campaign=BlogLandX&utm_id=Blog)**
 
-[![miliki bisnis modal kecil cuma dengan 1 jutaan dapat 4 cabang ](https://accountgram-production.sfo2.cdn.digitaloceanspaces.com/landx_ghost/2021/11/jadi-owner-bisnis-hanya-1-jutaan-dengan-cuan-yang-sangat-menjanjikan.png)](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)
+<!--StartFragment-->
 
-**[Mau Berbagai info Terbaru Terkait Investasi? Yuk Follow @landx.id di Instagram](https://www.instagram.com/landx.id/?utm_medium=copy_link)**
+[![miliki bisnis modal kecil cuma dengan 1 jutaan dapat 4 cabang ](https://accountgram-production.sfo2.cdn.digitaloceanspaces.com/landx_ghost/2021/11/jadi-owner-bisnis-hanya-1-jutaan-dengan-cuan-yang-sangat-menjanjikan.png)](https://app.landx.id/?utm_source=Organic+Page&utm_medium=Content+Blog&utm_campaign=BlogLandX&utm_id=Blog)
 
-- - -
-
-**Baca Juga:**
-
-* [Mau Jadi Investor? Simak Cara Mudah Menjadi Investor Hanya dengan Modal Kecil](https://landx.id/blog/cara-menjadi-investor/)
-* [Tips Penting dalam Menyusun Rencana Investasi Jangka Panjang Terbaik](https://landx.id/blog/investasi-jangka-panjang-adalah/)
-
-**\#YukPatunganBisnis    #LandX.id    #landx         #landx.id    #InvestasiBisnis  #SecuritiesCrowdfunding   #EquityCrowdfunding    #InvestasiMenguntungkan     #Urundana    #BisnisPatungan    #InvestasiUsaha**
-
-*Writer: Galih*
+<!--EndFragment-->
