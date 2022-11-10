@@ -68,14 +68,10 @@ Sistem securities crowdfunding memiliki sistem yang jelas dan sudah diatur oleh 
 
 Penggunaan skema yang jelas ini menjadikan pihak investor dan penerbit akan sama-sama diuntungkan. Satu sisi penerbit mendapatkan pendanaan untuk ekspansi bisnis yang mereka miliki dan di sisi lain investor akan mendapatkan keuntungan berupa dividen atau bunga dari investasi bisnis yang telah mereka lakukan.
 
-## [Yuk, jadi bos bisnis dan terima keuntungan rutin di LandX](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)
+## [Yuk, jadi bos bisnis dan terima keuntungan rutin di LandX](https://app.landx.id/?utm_source=Organic+Page&utm_medium=Content+Blog&utm_campaign=BlogLandX&utm_id=Blog)
 
-[![miliki bisnis modal kecil cuma dengan 1 jutaan dapat 4 cabang ](https://accountgram-production.sfo2.cdn.digitaloceanspaces.com/landx_ghost/2021/11/jadi-owner-bisnis-hanya-1-jutaan-dengan-cuan-yang-sangat-menjanjikan.png)](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)
+<!--StartFragment-->
 
+[![miliki bisnis modal kecil cuma dengan 1 jutaan dapat 4 cabang ](https://accountgram-production.sfo2.cdn.digitaloceanspaces.com/landx_ghost/2021/11/jadi-owner-bisnis-hanya-1-jutaan-dengan-cuan-yang-sangat-menjanjikan.png)](https://app.landx.id/?utm_source=Organic+Page&utm_medium=Content+Blog&utm_campaign=BlogLandX&utm_id=Blog)
 
-
-- - -
-
-> **[Jangan Lupa Follow Juga Instagram Kami @landx.id Supaya Terus Update Info Investasi Lainnya](https://www.instagram.com/landx.id/?utm_medium=copy_link)**
-
-\#LandX.id	#landx.id	#InvestasiBisnis	#EquityCrowdfunding	#InvestasiMenguntungkan	#Urundana	#BisnisPatungan	#InvestasiUsaha
+<!--EndFragment-->
