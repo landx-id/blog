@@ -1,6 +1,6 @@
 ---
 author: Nadya A. Faatihah
-title: 10 Ide Bisnis Makanan 2022, Usaha yang Menjanjikan Laris | LandX
+title: 10 Ide Bisnis Makanan 2022, Usaha yang Menjanjikan Laris
 metaTitle: 10 Ide Bisnis Makanan 2022, Usaha yang Menjanjikan Laris | LandX
 metaDescription: Butuh ide usaha 2022? Buat kamu yang ini memulai usaha kuliner,
   berikut ide bisnis kuliner 2022 paling laris untuk bisnis jangka panjang.
@@ -108,6 +108,10 @@ Keuntungan yang didapat dari **[equity crowdfunding](https://www.landx.id/)** ad
 
 Segera realisasikan keinginanmu jadi pemilik bisnis kuliner dengan investasi melalui **[platform equity crowdfunding](https://landx.id/)** terpercaya, transparan, dan telah mengantongi izin dari OJK. 
 
-[Miliki Bisnis Kuliner Menjanjikan Hanya Modal 1 Juta Melalui Investasi di LandX!](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)
+[Miliki Bisnis Kuliner Menjanjikan Hanya Modal 1 Juta Melalui Investasi di LandX!](https://app.landx.id/?utm_source=Organic+Page&utm_medium=Content+Blog&utm_campaign=BlogLandX&utm_id=Blog)
 
-[![miliki bisnis modal kecil cuma dengan 1 jutaan dapat 4 cabang ](https://accountgram-production.sfo2.cdn.digitaloceanspaces.com/landx_ghost/2021/11/jadi-owner-bisnis-hanya-1-jutaan-dengan-cuan-yang-sangat-menjanjikan.png)](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)
+<!--StartFragment-->
+
+[![miliki bisnis modal kecil cuma dengan 1 jutaan dapat 4 cabang ](https://accountgram-production.sfo2.cdn.digitaloceanspaces.com/landx_ghost/2021/11/jadi-owner-bisnis-hanya-1-jutaan-dengan-cuan-yang-sangat-menjanjikan.png)](https://app.landx.id/?utm_source=Organic+Page&utm_medium=Content+Blog&utm_campaign=BlogLandX&utm_id=Blog)
+
+<!--EndFragment-->
