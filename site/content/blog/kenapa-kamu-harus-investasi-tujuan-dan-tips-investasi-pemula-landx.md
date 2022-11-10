@@ -64,8 +64,6 @@ Selain itu, berikut adalah hal-hal sederhana yang bisa kamu jadikan referensi se
 * Membeli handphone baru untuk mendukung pekerjaan saat ini
 * Menambah simpanan dana darurat untuk mengantisipasi situasi krisis yang mungkin terjadi seperti pandemi
 
-
-
 ## Tips Berinvestasi Bagi Pemula
 
 Berbagai perusahaan manajemen investasi mengatakan investasi dalam jumlah besar dapat memberikan keuntungan atau return yang menguntungkan. Namun, tidak semua orang punya keberanian berinvestasi dengan jumlah modal yang besar.
@@ -123,6 +121,10 @@ Investasi [crowdfunding](https://landx.id/) umumnya adalah investasi jangka panj
 
 Kamu dapat memilih sendiri bisnis yang kamu ingin danai sesuai industri yang kamu yakin potensi di masa depannya menguntungkan. Seperti di [platform crowdfunding](https://landx.id/) [LandX](https://landx.id/), terdapat bisnis dari industri F&B, lifestyle, maritim, jasa, hingga ritel untuk dimiliki dengan modal minim.
 
-### [Yuk, investasi crowdfunding dan jadi pemilik bisnis di LandX!](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)
+### [Yuk, investasi crowdfunding dan jadi pemilik bisnis di LandX!](https://app.landx.id/?utm_source=Organic+Page&utm_medium=Content+Blog&utm_campaign=BlogLandX&utm_id=Blog)
 
-[![miliki bisnis modal kecil cuma dengan 1 jutaan dapat 4 cabang ](https://accountgram-production.sfo2.cdn.digitaloceanspaces.com/landx_ghost/2021/11/jadi-owner-bisnis-hanya-1-jutaan-dengan-cuan-yang-sangat-menjanjikan.png)](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)[](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)
+<!--StartFragment-->
+
+[![miliki bisnis modal kecil cuma dengan 1 jutaan dapat 4 cabang ](https://accountgram-production.sfo2.cdn.digitaloceanspaces.com/landx_ghost/2021/11/jadi-owner-bisnis-hanya-1-jutaan-dengan-cuan-yang-sangat-menjanjikan.png)](https://app.landx.id/?utm_source=Organic+Page&utm_medium=Content+Blog&utm_campaign=BlogLandX&utm_id=Blog)
+
+<!--EndFragment-->[](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)
