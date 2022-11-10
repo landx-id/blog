@@ -142,23 +142,18 @@ Karena investasi akan dijalankan dalam jangka panjang, maka anda perlu  menyusun
 
 Memilih investasi yang bisa menghasilkan passive income akan sangat membantu mempercepat perkembangan investasi yang anda milik karena keuntungan ini bisa anda investasikan kembali sehingga memberikan keuntungan yang lebih besar lagi.
 
-Hal ini disebut [efek compounding](https://landx.id/project/index.html) yang bisa anda terapkan agar investasi yang anda lakukan bisa memberikan keuntungan yang lebih besar.
+Hal ini disebut [efek compounding](https://landx.id/) yang bisa anda terapkan agar investasi yang anda lakukan bisa memberikan keuntungan yang lebih besar.
 
 ## **Kesimpulan**
 
 Dalam melakukan investasi jangka panjang anda harus bisa memperkirakan tujuan dan kemampuan investasi yang anda miliki sehingga anda bisa memprediksi berapa waktu yang anda butuhkan untuk mencapai tujuan yang anda miliki. Karena itu anda sebaiknya memilih investasi yang sesuai dengan kemampuan investasi yang anda miliki. Karena Itu…..
 
-**[Yuk Mulai Investasi Bisnis di LandX Agar Investasi Jangka Panjang Anda Menguntungkan](https://landx.id/project/index.html)**
+**[Yuk Mulai Investasi Bisnis di LandX Agar Investasi Jangka Panjang Anda Menguntungkan](https://app.landx.id/?utm_source=Organic+Page&utm_medium=Content+Blog&utm_campaign=BlogLandX&utm_id=Blog)**
 
-**[Mau Info dan Tips Seputar Investasi Lainnya? Yuk Follow Instagram Kami @landx.id](https://instagram.com/landx.id?utm_medium=copy_link)**
+<!--StartFragment-->
+
+[![miliki bisnis modal kecil cuma dengan 1 jutaan dapat 4 cabang ](https://accountgram-production.sfo2.cdn.digitaloceanspaces.com/landx_ghost/2021/11/jadi-owner-bisnis-hanya-1-jutaan-dengan-cuan-yang-sangat-menjanjikan.png)](https://app.landx.id/?utm_source=Organic+Page&utm_medium=Content+Blog&utm_campaign=BlogLandX&utm_id=Blog)
+
+<!--EndFragment-->
 
 ‌
-
-\#LandX.id    #landx.id    #InvestasiBisnis    #EquityCrowdfunding    #InvestasiMenguntungkan    #Urundana    #BisnisPatungan    #InvestasiUsaha
-
-- - -
-
-Baca Juga:
-
-* [Tips Cara Investasi Saham Dengan Modal Kecil Untuk Pemula](https://landx.id/blog/tips-cara-investasi-saham-dengan-modal-kecil-untuk-pemula/)
-* [Kenali Berbagai Istilah dalam Securities Crowdfunding Agar Investasi Anda Menjadi Semakin Mudah](https://landx.id/blog/kenali-berbagai-istilah-dalam-securities-crowdfunding-agar-investasi-anda-menjadi-semakin-mudah/)
