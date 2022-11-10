@@ -69,11 +69,11 @@ Misalnya, Anda ingin mencari tahu tingkat kenaikan inflasi pada harga beras di t
 
 <!--StartFragment-->
 
-![](https://cdn.discordapp.com/attachments/976381310857773066/981812374954725416/rumus_aktiva_lancar.PNG)
+![perhitungan indeks inflasi](https://cdn.discordapp.com/attachments/976381310857773066/981812374954725416/rumus_aktiva_lancar.PNG "cara menghitung inflasi di suatu negara")
 
 <!--StartFragment-->
 
-![](https://cdn.discordapp.com/attachments/976381310857773066/980886986011316264/Contoh_Cara_Menghitung_Inflasi.PNG)
+![Cara menghitung tingkat inflasi](https://cdn.discordapp.com/attachments/976381310857773066/980886986011316264/Contoh_Cara_Menghitung_Inflasi.PNG "rumus menghitung inflasi")
 
 <!--EndFragment-->
 
@@ -111,20 +111,20 @@ Singkatnya, dengan Anda mengalokasikan dana untuk berinvestasi, dana tersebut ak
 
 ## Peluang Investasi dengan Modal Minim
 
-Tidak seperti dulu, sekarang instrumen investasi dapat diakses oleh siapa pun dan dimana pun. Dulu investasi identik dengan membutuhkan nominal alokasi dana besar untuk logam mulia, obligasi, properti, saham, atau deposito. Pada era sekarang, terdapat opsi untuk investasi menjanjikan dengan modal minim misalnya reksa dana atau [equity crowdfunding](https://landx.id/). 
+Tidak seperti dulu, sekarang instrumen investasi dapat diakses oleh siapa pun dan dimana pun. Dulu investasi identik dengan membutuhkan nominal alokasi dana besar untuk logam mulia, obligasi, properti, saham, atau deposito. Pada era sekarang, terdapat opsi untuk investasi menjanjikan dengan modal minim misalnya reksa dana atau [equity crowdfunding](https://app.landx.id/?utm_source=Organic+Page&utm_medium=Content+Blog&utm_campaign=BlogLandX&utm_id=Blog). 
 
 Misalnya, jika dulu investor hanya bisa membeli saham perusahaan besar (Tbk) di Bursa Efek Indonesia, saat ini badan usaha UMKM seperti CV, NV, Firma, dan lainnya juga dapat listing penawaran saham melalui skema securities crowdfunding (SCF) yang merupakan pengembangan skema Equity Crowdfunding (ECF).
 
 Equity crowdfunding pada dasarnya hanya menerbitkan efek berupa saham yang ditawarkan kepada investor guna pendanaan pengembangan bisnis UMKM. Sementara dalam securities crowdfunding, instrumen keuangan yang ditawarkan lebih beragam. Mulai dari saham, obligasi, hingga sukuk sehingga investor bisa diversifikasi profil risiko mereka.
 
-**[LandX](https://landx.id/)** merupakan salah satu platform equity crowdfunding yang sedang berproses menjadi securities crowdfunding. Tentunya, platform ini telah berpengalaman melakukan crowdfunding bagi berbagai **[bisnis potensial di berbagai sektor industri](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog).**
+**[LandX](https://app.landx.id/?utm_source=Organic+Page&utm_medium=Content+Blog&utm_campaign=BlogLandX&utm_id=Blog)** merupakan salah satu platform equity crowdfunding yang sedang berproses menjadi securities crowdfunding. Tentunya, platform ini telah berpengalaman melakukan crowdfunding bagi berbagai **[bisnis potensial di berbagai sektor industri](https://app.landx.id/?utm_source=Organic+Page&utm_medium=Content+Blog&utm_campaign=BlogLandX&utm_id=Blog).**
 
 Jadi, jika Anda ingin tahu lebih banyak lagi tentang investasi dengan skema ini, pastikan untuk berinvestasi melalui platform yang terpercaya, aman, dan pastinya mengantongi izin OJK seperti LandX ya!
 
-## [Mulai Persiapan Menghadapi Inflasi dengan Investasi Modal 1 Juta di LandX Sekarang Juga!](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)
+## [Mulai Persiapan Menghadapi Inflasi dengan Investasi Modal 1 Juta di LandX Sekarang Juga!](https://app.landx.id/?utm_source=Organic+Page&utm_medium=Content+Blog&utm_campaign=BlogLandX&utm_id=Blog)
 
 <!--StartFragment-->
 
-[![miliki bisnis modal kecil cuma dengan 1 jutaan dapat 4 cabang ](https://accountgram-production.sfo2.cdn.digitaloceanspaces.com/landx_ghost/2021/11/jadi-owner-bisnis-hanya-1-jutaan-dengan-cuan-yang-sangat-menjanjikan.png)](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)
+[![miliki bisnis modal kecil cuma dengan 1 jutaan dapat 4 cabang ](https://accountgram-production.sfo2.cdn.digitaloceanspaces.com/landx_ghost/2021/11/jadi-owner-bisnis-hanya-1-jutaan-dengan-cuan-yang-sangat-menjanjikan.png)](https://app.landx.id/?utm_source=Organic+Page&utm_medium=Content+Blog&utm_campaign=BlogLandX&utm_id=Blog)
 
 <!--EndFragment-->
