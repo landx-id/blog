@@ -86,4 +86,10 @@ Berinvestasi merupakan keputusan pribadi yang dipilih untuk memaksimalkan aset y
 
 Caranya?
 
-## [Download dan Verifikasi Data KYC Kamu di Aplikasi ECF LandX](https://core.landx.id/)
+## [Download dan Verifikasi Data KYC Kamu di Aplikasi LandX](https://app.landx.id/?utm_source=Organic+Page&utm_medium=Content+Blog&utm_campaign=BlogLandX&utm_id=Blog)
+
+<!--StartFragment-->
+
+[![miliki bisnis modal kecil cuma dengan 1 jutaan dapat 4 cabang ](https://accountgram-production.sfo2.cdn.digitaloceanspaces.com/landx_ghost/2021/11/jadi-owner-bisnis-hanya-1-jutaan-dengan-cuan-yang-sangat-menjanjikan.png)](https://app.landx.id/?utm_source=Organic+Page&utm_medium=Content+Blog&utm_campaign=BlogLandX&utm_id=Blog)
+
+<!--EndFragment-->
