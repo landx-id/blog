@@ -26,7 +26,7 @@ category:
   - Bisnis
   - Investasi
 ---
-**[Memiliki passive income](https://landx.id/project/)** adalah hal yang diinginkan setiap orang, namun banyak orang yang tidak paham bagaimana menyiapkan investasi yang bisa memberikan mereka passive income dalam jangka panjang.
+**[Memiliki passive income](https://app.landx.id/?utm_source=Organic+Page&utm_medium=Content+Blog&utm_campaign=BlogLandX&utm_id=Blog)** adalah hal yang diinginkan setiap orang, namun banyak orang yang tidak paham bagaimana menyiapkan investasi yang bisa memberikan mereka passive income dalam jangka panjang.
 
 Sumber passive income adalah aset yang dimiliki tetapi dapat menghasilkan nilai. Karena pada dasarnya passive income adalah penghasilan yang kita dapatkan tanpa perlu melakukan suatu kegiatan ekonomi.
 
@@ -72,7 +72,7 @@ Properti yang disewakan pun bisa dalam berbagai bentuk seperti rumah kontrakan, 
 
 [Properti sewaan](https://landx.id/) ini sangat potensial memberikan anda keuntungan jangka panjang karena seperti yang kita tahu permintaan akan hunian yang semakin meningkat sedangkan lahan yang tersedia kian mahal dan terbatas sehingga penyewaan properti adalah solusi.
 
-Kalau Anda masih berpikir investasi properti yang menghasilkan [passive income](https://landx.id/) membutuhkan dana yang besar di awal, Anda harus membuang pikiran anda jauh-jauh. Saat ini, modal yang dibutuhkan untuk investasi properti yang bisa menghasilkan passive income adalah mulai dari Rp1 jutaan saja. Caranya adalah dengan[ **equity crowdfunding.**](https://landx.id/project/)
+Kalau Anda masih berpikir investasi properti yang menghasilkan [passive income](https://landx.id/) membutuhkan dana yang besar di awal, Anda harus membuang pikiran anda jauh-jauh. Saat ini, modal yang dibutuhkan untuk investasi properti yang bisa menghasilkan passive income adalah mulai dari Rp1 jutaan saja. Caranya adalah dengan[ **equity crowdfunding.**](https://landx.id/)
 
 Kalau Anda belum tahu, equity crowdfunding merupakan sistem investasi urun dana yang memberikan kesempatan untuk investor terlibat patungan dalam berbagai proyek dan bisnis termasuk salah satunya adalah properti.
 
@@ -124,7 +124,7 @@ Kegiatan ini sekarang sangat populer ditambah lagi banyak *e-commerce* membuka p
 
 Investasi bisa menjadi salah satu sumber passive income apabila kamu dapat memilih investasi aman yang bisa memberikan kamu pendapatan passive dari keuntungan investasi yang kamu dapatkan. 
 
-Salah investasi passive income yang bisa kamu lakukan adalah **i[nvestasi bisnis](https://landx.id/project/)** yang bisamemberikan kamu passive income melalui dividen yang dibagikan sesuai keuntungan yang didapatkan bisnis tersebut. 
+Salah investasi passive income yang bisa kamu lakukan adalah **i[nvestasi bisnis](https://landx.id/)** yang bisamemberikan kamu passive income melalui dividen yang dibagikan sesuai keuntungan yang didapatkan bisnis tersebut. 
 
 Apabila anda tidak memiliki waktu dan kemampuan untuk menjalankan sebuah bisnis, anda bisa melakukannya dengan berinvestasi ke dalam bisnis sehingga uang yang anda miliki akan dikelola oleh pebisnis profesional.
 
@@ -140,20 +140,10 @@ Arti passive income adalah segala income yang akan kita terima tanpa perlu terli
 
 Investasi bisnis di LandX bisa jadi salah satu pilihan investasi yang bisa memberikan kamu passive income jangka panjang lewat dividen yang berasal dari keuntungan bisnis tempat Anda berinvestasi sebelumnya.
 
-**[Yuk Patungan Bisnis Bareng LandX untuk Passive Income Jangka Panjang Anda](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)**
+**[Yuk Patungan Bisnis Bareng LandX untuk Passive Income Jangka Panjang Anda](https://app.landx.id/?utm_source=Organic+Page&utm_medium=Content+Blog&utm_campaign=BlogLandX&utm_id=Blog)**
 
-[![miliki bisnis modal kecil cuma dengan 1 jutaan dapat 4 cabang ](https://accountgram-production.sfo2.cdn.digitaloceanspaces.com/landx_ghost/2021/11/jadi-owner-bisnis-hanya-1-jutaan-dengan-cuan-yang-sangat-menjanjikan.png)](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)[](http://landx.id/)
+<!--StartFragment-->
 
-**[Jangan Lupa Follow Instagram @landx.id Untuk Berbagai Tips Investasi Menguntungkan Lainnya](https://www.instagram.com/landx.id/?utm_medium=copy_link)**
+[![miliki bisnis modal kecil cuma dengan 1 jutaan dapat 4 cabang ](https://accountgram-production.sfo2.cdn.digitaloceanspaces.com/landx_ghost/2021/11/jadi-owner-bisnis-hanya-1-jutaan-dengan-cuan-yang-sangat-menjanjikan.png)](https://app.landx.id/?utm_source=Organic+Page&utm_medium=Content+Blog&utm_campaign=BlogLandX&utm_id=Blog)
 
-- - -
-
-**Baca Juga**
-
-* [Memahami Konsep Cashflow Quadrant Berdasarkan Teori Robert Kiyosaki](https://landx.id/blog/konsep-cashflow-quadrant-robert-kiyosaki/)
-* [Mau Memulai Bisnis? Simak Cara Membangun Bisnis Menguntungkan untuk Pemula](https://landx.id/blog/mau-memulai-bisnis-simak-cara-membangun-bisnis-menguntungkan-untuk-pemula/)
-* [Keuntungan Jangka Panjang Menjanjikan dari Usaha Perikanan di Indonesia](https://landx.id/blog/bisnis-perikanan-tangkap-di-indonesia/)
-
-- - -
-
-**\#SekarangBisa**
+<!--EndFragment-->[](http://landx.id/)
