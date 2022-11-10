@@ -8,13 +8,13 @@ metaDescription: Kenaikan harga BBM sudah terjadi tiga kali di tahun 2022. Yuk
 intro: Kenaikan harga BBM sudah terjadi tiga kali di tahun 2022. Harga BBM dari
   tahun ke tahun umumnya selalu naik. Lihat fakta dampak dan pengaruh harga BBM
   di Indonesia.
-date: 2022-11-10T04:32:04.457Z
+date: 2022-11-07T04:32:04.457Z
 featuredImage:
   src: img/landx_infografis_kenaikan-bbm_01.png
   alt: harga bbm naik
   title: harga bbm 2022
 ---
-![](https://lh3.googleusercontent.com/WI4UGwVkuCDu7UFadwUyLLhhrbQr2LXv05foDgmz5UCE2GTl3A4XtJrQiFSQN5tiFu044gsEDAWbp-dzL97sW5t48IDxbG6HJ3ohjCrSezCdSz2QtETjTU6Ia-AYPQDQNHtxMFUVo4Ha58NnXJ6jbM77dM89IIpxqz8Fk9OV0xf5yhdIjwr0fOFkGPSGDg)
+![infografik kenaikan harga bbm](https://lh3.googleusercontent.com/WI4UGwVkuCDu7UFadwUyLLhhrbQr2LXv05foDgmz5UCE2GTl3A4XtJrQiFSQN5tiFu044gsEDAWbp-dzL97sW5t48IDxbG6HJ3ohjCrSezCdSz2QtETjTU6Ia-AYPQDQNHtxMFUVo4Ha58NnXJ6jbM77dM89IIpxqz8Fk9OV0xf5yhdIjwr0fOFkGPSGDg "infografik kenaikan harga bbm")
 
 **Walaupun harga mendaki, BBM tetap bikin antri.**
 
@@ -24,7 +24,7 @@ Harga BBM di Indonesia menjadi hal yang sangat penting bagi berbagai sudut aspek
 
 Dengan kenaikan harga BBM terbaru November ini, LandX telah merangkum fakta dibalik harga BBM 2022 mulai dari alasan harga BBM naik hingga dampak kenaikannya. Yuk simak lebih lanjut.
 
-![](https://lh4.googleusercontent.com/6zCb2AAd-AqB0Wi2kCpLn-3oQvypH_Gmx0bBSXX_pxOHVcts-yMqtM-gDX5Y0R85G5MHeJL4mlx2x28pd1nmlZLuREjaxU1D7cMS2p81vBLh6u9zGddgOSWE-JcuP43-3Py6Fomc8hXBsRoGnYI0Ot39uKdB16IzqVxXM3CGW0DxNT-Xw6mpKzqhtcFg1g)
+![harga bbm 2022 naik](https://lh4.googleusercontent.com/6zCb2AAd-AqB0Wi2kCpLn-3oQvypH_Gmx0bBSXX_pxOHVcts-yMqtM-gDX5Y0R85G5MHeJL4mlx2x28pd1nmlZLuREjaxU1D7cMS2p81vBLh6u9zGddgOSWE-JcuP43-3Py6Fomc8hXBsRoGnYI0Ot39uKdB16IzqVxXM3CGW0DxNT-Xw6mpKzqhtcFg1g "harga bbm 2022 naik")
 
 ## Signifikansi Kenaikan Harga BBM 2020-2022
 
@@ -36,7 +36,7 @@ Begitu pun Pertamax, sempat mengalami penurunan harga pada tahun 2021 dari 2020 
 
 Kenapa harga BBM naik? Apa saja alasan kenaikan harga BBM?
 
-![](https://lh5.googleusercontent.com/CfMlgWkOXHzUGF_GWzY0bqkjvzE_4dzLnB6SWwvKnSizcNWUVV01nKBbqvwdcny-JOnHX1cIZgorq37GVqeRLRP8g85txJ6rWFgQkIjWlWe04hfyVjHAvLW9IannEjYMdLyt8aGejtA8NT_Ps1Isif7PqraK-5jPAjVzU9rCh5SKjeUtNZt1q-hQEoAYUw)
+![faktor kenaikan bbm](https://lh5.googleusercontent.com/CfMlgWkOXHzUGF_GWzY0bqkjvzE_4dzLnB6SWwvKnSizcNWUVV01nKBbqvwdcny-JOnHX1cIZgorq37GVqeRLRP8g85txJ6rWFgQkIjWlWe04hfyVjHAvLW9IannEjYMdLyt8aGejtA8NT_Ps1Isif7PqraK-5jPAjVzU9rCh5SKjeUtNZt1q-hQEoAYUw "alasan harga bbm naik")
 
 ## 3 Alasan Harga BBM Naik 
 
@@ -54,7 +54,7 @@ Jumlah impor BBM Indonesia setiap tahunnya dari 2020 hingga 2022 mencapai lebih 
 
 Besaran jumlah anggaran subsidi dari Anggaran Belanja dan Pendapatan Negara (APBN) terpantau selalu meningkat. Namun, diketahui Presiden Jokowi menyampaikan pada konferensi pers perihal Pengalihan Subsidi BBM di Indonesia bahwa lebih dari 70% subsidi dinikmati kelompok masyarakat yang mampu, yaitu yang memiliki mobil-mobil pribadi.
 
-![](https://lh3.googleusercontent.com/jwb99vItK2Q4fAPa7krjrhkTlEEyHFrmGLAdhPIRztQkey04afL_079UqFu3JMEzArqmr72RcMgbmuqq7w5jqm9xMRCK29MYaJuI32FrdSDZ82Up-CciffbeOaIfL9qSgprEavwvUzZ-4IM6W7LNH6wBOXooqFQwumjDivZQv2IEYW6CyQkcm4gP66FQPQ)
+![dampak kenaikan bbm](https://lh3.googleusercontent.com/jwb99vItK2Q4fAPa7krjrhkTlEEyHFrmGLAdhPIRztQkey04afL_079UqFu3JMEzArqmr72RcMgbmuqq7w5jqm9xMRCK29MYaJuI32FrdSDZ82Up-CciffbeOaIfL9qSgprEavwvUzZ-4IM6W7LNH6wBOXooqFQwumjDivZQv2IEYW6CyQkcm4gP66FQPQ "dampak kenaikan bbm")
 
 ## Dampak Kenaikan BBM 2022
 
@@ -74,10 +74,6 @@ Namun begitu, diharapkan kinerja seluruh lembaga di Indonesia mampu mengatasi be
 
 Oleh karena itu, untuk menghadapi berbagai tantangan keuangan yang dapat disebabkan oleh kenaikan harga BBM maka mari kita bekali diri dengan meningkatkan strategi keuangan yang lebih baik dengan berhemat dan investasi cermat.
 
-Yuk Hadapai Tantangan Keuangan dengan Strategi Keuangan Cermat
+## [Hadapai Tantangan Keuangan dengan Strategi Keuangan Cermat](https://app.landx.id/?utm_source=Organic+Page&utm_medium=Content+Blog&utm_campaign=BlogLandX&utm_id=Blog)
 
-![](https://lh3.googleusercontent.com/1pxPsKPYYdCgTbUGq6_0FectjZX7ywV-Xz3orAnae0KyXelqjucFSoIfhbVQSBUjXcDfNvwqVbJOZUKDBZHxfCAkdMIisR90cqta1uth7lf0kNPl4e3po76Yy3ANNW5XSFBysWyCoi_D4tbMhDG2SxjcVIJFeFbKs3zKEW65ilLc6F2sCdY7AjhBpSih8g)
-
-
-
-<!--EndFragment-->
+![strategi keuangan bbm naik](https://lh3.googleusercontent.com/1pxPsKPYYdCgTbUGq6_0FectjZX7ywV-Xz3orAnae0KyXelqjucFSoIfhbVQSBUjXcDfNvwqVbJOZUKDBZHxfCAkdMIisR90cqta1uth7lf0kNPl4e3po76Yy3ANNW5XSFBysWyCoi_D4tbMhDG2SxjcVIJFeFbKs3zKEW65ilLc6F2sCdY7AjhBpSih8g "strategi keuangan bbm naik")
