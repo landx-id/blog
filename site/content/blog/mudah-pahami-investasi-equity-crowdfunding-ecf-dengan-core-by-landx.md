@@ -74,15 +74,15 @@ Nikmati penawaran menarik berupa diskon pembelian produk bisnis favorit pilihan 
 
 Akses CS Support (CRISP) untuk mendapatkan jawaban permasalahan kamu dalam menggunakan layanan aplikasi LandX, menyampaikan komplain, dan pengalaman dalam berinvestasi.
 
-* ### 1 on 1 Schedule
-
-Fitur khusus LandX Prioritas untuk  dapat berkomunikasi langsung dengan Digital Sales Executive terkait dengan pertanyaan seputar ECF dan project yang sedang listing di LandX.
-
 * ### LandX Investor+
 
 Dapat cashback investasi dengan ajak teman! Gabung referral code program dari LandX.
 
 Senang dengan sistem investasi ECF melalui LandX dan berharap teman kamu ikutan? #MulaiSekarang ajak teman bisa dapat keuntungan hingga Rp100.000 per orang loh! Detail lebih lanjut cek di CORE by LandX ya.
+
+* ### 1 on 1 Schedule
+
+Fitur khusus LandX Prioritas untuk  dapat berkomunikasi langsung dengan Digital Sales Executive terkait dengan pertanyaan seputar ECF dan project yang sedang listing di LandX.
 
 * ### Booking Lot
 
