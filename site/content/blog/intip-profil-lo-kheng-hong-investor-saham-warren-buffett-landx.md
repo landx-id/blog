@@ -1,6 +1,6 @@
 ---
 author: "Aulia Putri Andrika "
-title: " Intip Profil Lo Kheng Hong, Bapak Saham Indonesia | LandX"
+title: " Intip Profil Lo Kheng Hong, Bapak Saham Indonesia"
 metaTitle: Intip Profil Lo Kheng Hong, Bapak Saham Indonesia | LandX
 metaDescription: " Lo Kheng Hong sukses menjadi miliarder dari investasi saham.
   Perjalanan hidupnya penuh liku dan jatuh bangun."
