@@ -44,12 +44,6 @@ Untuk melihat faktanya, berikut data pertumbuhan ekonomi Indonesia tahun 2019-20
 
 Walaupun masih jauh dari urutan pertama, masa depan adalah keadaan yang belum terjadi. Oleh karena itu, penting bagi kita sebagai masyarakat memersiapkan kondisi keuangan yang sehat seperti memiliki dana darurat serta mengikuti perkembangan berita seputar ekonomi dan bisnis.
 
-<!--StartFragment-->
-
-![](blob:https://keen-mestorf-9781e3.netlify.app/962780b9-9f78-40ff-8045-cfbb20bc84d0)
-
-<!--EndFragment-->
-
 ## Pertumbuhan PDB Kembali Positif di 2021
 
 Indonesia memiliki pertumbuhan PDB yang baik pada tahun 2019, namun keadaan berubah pada tahun berikutnya. Situasi ekonomi seluruh dunia yang terdampak pandemi, ikut menyebabkan ekonomi Indonesia turun hingga negatif.
@@ -57,12 +51,6 @@ Indonesia memiliki pertumbuhan PDB yang baik pada tahun 2019, namun keadaan beru
 Adaptasi terhadap kondisi dan berbagai kebijakan yang diturunkan ternyata mampu membawa grafik PDB Indonesia naik kembali ke angka positif. Indonesia mencatatkan pertumbuhan PDB hingga 3,59% di tahun 2021.
 
 > Produk Domestik Bruto (PDB) = Gross Domestic Product (GDP)
->
-> <!--StartFragment-->
->
-> ![](blob:https://keen-mestorf-9781e3.netlify.app/c6197315-500c-47f6-9efd-968b82a1c8ab)
->
-> <!--EndFragment-->
 
 ## 5 Sektor Lapangan Usaha Dominasi PDB 2021
 
@@ -94,12 +82,6 @@ Contoh belanja negara adalah tercantum dalam Anggaran Pendapatan dan Belanja Neg
 
 Berdasarkan data BPS, nilai ekspor-impor Indonesia yang tercatat stabil di tahun 2019 mengalami penurunan di tahun 2020 dikarenakan aturan ketat di berbagai negara. Namun, terlihat pemulihan nilai ekspor-impor di tahun 2021 dengan nilai ekspor yang lebih besar daripada nilai impor.
 
-<!--StartFragment-->
-
-![](blob:https://keen-mestorf-9781e3.netlify.app/e3e7c0bb-a0d6-4271-802e-e2af58088c06)
-
-<!--EndFragment-->
-
 ## Indonesia Diprediksi Tumbuh Positif 2023!
 
 Pertumbuhan ekonomi nasional tahun 2021 menunjukkan angka positif yaitu 3,69 atau 3,7% dan membuat proyeksi terhadap masa depan terlihat cerah. Didukung oleh data perekonomian Indonesia yang dicatatkan oleh BPS bahwa triwulan II 2022 tumbuh 5,4% dibandingkan triwulan II tahun 2021.
@@ -117,10 +99,10 @@ Melihat kabar terkini, ada empat faktor yang harus Anda ikuti terkait pertumbuha
 
 Dengan mengetahui dan mengikuti berita perekonomian dan bisnis, diharapkan kita bisa #RaihKebebasan sebagai masyarakat dapat memilih opsi terbaik dalam manajemen keuangan yang tahan banting segala kondisi seperti memiliki dana darurat, cash, serta alokasi investasi sesuai profil risiko.
 
-## [Persiapkan Finansial Hadapi Ekonomi Masa Depan](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)
+## [Persiapkan Finansial Hadapi Ekonomi Masa Depan](https://app.landx.id/?utm_source=Organic+Page&utm_medium=Content+Blog&utm_campaign=BlogLandX&utm_id=Blog)
 
 <!--StartFragment-->
 
-[![miliki bisnis modal kecil cuma dengan 1 jutaan dapat 4 cabang ](https://accountgram-production.sfo2.cdn.digitaloceanspaces.com/landx_ghost/2021/11/jadi-owner-bisnis-hanya-1-jutaan-dengan-cuan-yang-sangat-menjanjikan.png)](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)
+[![miliki bisnis modal kecil cuma dengan 1 jutaan dapat 4 cabang ](https://accountgram-production.sfo2.cdn.digitaloceanspaces.com/landx_ghost/2021/11/jadi-owner-bisnis-hanya-1-jutaan-dengan-cuan-yang-sangat-menjanjikan.png)](https://app.landx.id/?utm_source=Organic+Page&utm_medium=Content+Blog&utm_campaign=BlogLandX&utm_id=Blog)
 
 <!--EndFragment-->
