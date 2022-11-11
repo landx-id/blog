@@ -117,25 +117,16 @@ Apabila kamu belum memiliki kemampuan untuk melakukan ini, maka kamu bisa mulai 
 
 Setelah ikut patungan, bisnis kamu akan dikelola oleh tim profesional dan sebagai investor kamu akan mendapatkan dividen sesuai dengan besar keuntungan yang dihasilkan dari bisnis tersebut...
 
-Sekarang, di LandX sedang[listing **Ximivogue**](https://landx.id/project/#/ximi) yang merupakan salah satu bisnis *retail* potensial dengan skala global.
+Sekarang, di LandX sedang [listing **Ximivogue**](https://app.landx.id/?utm_source=Organic+Page&utm_medium=Content+Blog&utm_campaign=BlogLandX&utm_id=Blog) yang merupakan salah satu bisnis *retail* potensial dengan skala global.
 
 Di LandX cuma dengan **modal 1 juta** kamu jadi pemilik 2 cabang Ximivogue demham potensi keuntungan yang sangat menjanjikan.
 
 **Karena itu..**
 
-## [Yuk Patungan  dengan Keuntungan Menjanjikan Bareng LandX](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)
+## [Yuk Patungan  dengan Keuntungan Menjanjikan Bareng LandX](https://app.landx.id/?utm_source=Organic+Page&utm_medium=Content+Blog&utm_campaign=BlogLandX&utm_id=Blog)
 
-[![Bagaimana? Kamu lebih suka bisnis dengan buyback guarantee atau yang bisa disimpan dalam jangka panjang? Apapun pilihan kamu.. Yuk Patungan  dengan Keuntungan Menjanjikan Bareng LandX](https://accountgram-production.sfo2.cdn.digitaloceanspaces.com/landx_ghost/2021/10/Equity-Crowdfunding-di-Indonesia-1--3.png)](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)
+<!--StartFragment-->
 
-## [Mau Berbagai info Terbaru Terkait Investasi? Yuk Follow @landx.id di Instagram](https://www.instagram.com/landx.id/?utm_medium=copy_link)
+[![miliki bisnis modal kecil cuma dengan 1 jutaan dapat 4 cabang ](https://accountgram-production.sfo2.cdn.digitaloceanspaces.com/landx_ghost/2021/11/jadi-owner-bisnis-hanya-1-jutaan-dengan-cuan-yang-sangat-menjanjikan.png)](https://app.landx.id/?utm_source=Organic+Page&utm_medium=Content+Blog&utm_campaign=BlogLandX&utm_id=Blog)
 
-- - -
-
-**Baca Juga:**
-
-* \***\*[**Mau Jadi Investor? Simak Cara Mudah Menjadi Investor Hanya dengan Modal Kecil**](https://landx.id/blog/cara-menjadi-investor/)\*\***
-* \***\*[**Tips Penting dalam Menyusun Rencana Investasi Jangka Panjang Terbaik**](https://landx.id/blog/investasi-jangka-panjang-adalah/)\*\***
-
-- - -
-
-**\#YukPatunganBisnis    #LandX.id    #landx         #landx.id    #InvestasiBisnis  #SecuritiesCrowdfunding   #EquityCrowdfunding    #InvestasiMenguntungkan     #Urundana    #BisnisPatungan    #InvestasiUsaha**
+<!--EndFragment-->
