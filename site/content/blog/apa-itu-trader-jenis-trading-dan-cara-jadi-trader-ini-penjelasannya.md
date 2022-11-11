@@ -97,6 +97,10 @@ Namun, kerugian dari menjadi seorang trader utamanya dipengaruhi karena tingkat 
 
 Itu dia berbagai penjelasan dasar tentang kegiatan trading. Memang menjadi seorang trader adalah profesi yang menawarkan keuntungan besar dengan waktu singkat sehingga terdengar sangat menjanjikan. Namun, tidak dapat dipungkiri prospek menggiurkan ini dibarengi dengan risiko kerugian yang tinggi juga. 
 
-## [Yuk Coba Berinvestasi untuk Dapat Dividen Rutin Menjanjikan Hanya dengan Modal 1 Juta Melalui LandX!](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)
+## [Yuk Coba Berinvestasi untuk Dapat Dividen Rutin Menjanjikan Hanya dengan Modal 1 Juta Melalui LandX!](https://app.landx.id/?utm_source=Organic+Page&utm_medium=Content+Blog&utm_campaign=BlogLandX&utm_id=Blog)
 
-[![miliki bisnis modal kecil cuma dengan 1 jutaan dapat 4 cabang ](https://accountgram-production.sfo2.cdn.digitaloceanspaces.com/landx_ghost/2021/11/jadi-owner-bisnis-hanya-1-jutaan-dengan-cuan-yang-sangat-menjanjikan.png)](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)
+<!--StartFragment-->
+
+[![miliki bisnis modal kecil cuma dengan 1 jutaan dapat 4 cabang ](https://accountgram-production.sfo2.cdn.digitaloceanspaces.com/landx_ghost/2021/11/jadi-owner-bisnis-hanya-1-jutaan-dengan-cuan-yang-sangat-menjanjikan.png)](https://app.landx.id/?utm_source=Organic+Page&utm_medium=Content+Blog&utm_campaign=BlogLandX&utm_id=Blog)
+
+<!--EndFragment-->
