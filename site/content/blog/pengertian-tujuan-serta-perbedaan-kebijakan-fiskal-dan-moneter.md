@@ -180,24 +180,24 @@ Nah, kita telah membahas seputar kebijakan fiskal hingga perbedaannya dengan keb
 
 Dari kebijakan fiskal ternyata dapat mendorong investasi dari kondisi ekonomi yang stabil. Sehingga mendorong para investor untuk menanamkan modalnya di negara.
 
-Jadi, jika kalian ingin memanfaatkan momen kebijakan fiskal ini kalian bisa lho melakukannya dengan cara investasi. Salah satu metode investasi yang saat ini sedang banyak digandrungi adalah investasi dengan metode [equity crowdfunding](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog).
+Jadi, jika kalian ingin memanfaatkan momen kebijakan fiskal ini kalian bisa lho melakukannya dengan cara investasi. Salah satu metode investasi yang saat ini sedang banyak digandrungi adalah investasi dengan metode [equity crowdfunding](https://app.landx.id/?utm_source=Organic+Page&utm_medium=Content+Blog&utm_campaign=BlogLandX&utm_id=Blog).
 
-[Equity crowdfunding](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog) merupakan skema pendanaan untuk bisnis kecil dengan cara patungan masyarakat luas untuk mendanai UMKM. Melalui [equity crowdfunding](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog), kalian bisa menjadi salah satu pemilik saham bisnis potensial yang menguntungkan untuk bisa didanai.
+[Equity crowdfunding](https://app.landx.id/?utm_source=Organic+Page&utm_medium=Content+Blog&utm_campaign=BlogLandX&utm_id=Blog) merupakan skema pendanaan untuk bisnis kecil dengan cara patungan masyarakat luas untuk mendanai UMKM. Melalui [equity crowdfunding](https://app.landx.id/?utm_source=Organic+Page&utm_medium=Content+Blog&utm_campaign=BlogLandX&utm_id=Blog), kalian bisa menjadi salah satu pemilik saham bisnis potensial yang menguntungkan untuk bisa didanai.
 
-Kalian dapat memperoleh keuntungan dari metode investasi [equity crowdfunding](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog) ini. Dimana kalian akan menerima return dividen dari project bisnis yang telah kalian danai.
+Kalian dapat memperoleh keuntungan dari metode investasi [equity crowdfunding](https://app.landx.id/?utm_source=Organic+Page&utm_medium=Content+Blog&utm_campaign=BlogLandX&utm_id=Blog) ini. Dimana kalian akan menerima return dividen dari project bisnis yang telah kalian danai.
 
 Selain mendapat keuntungan, kalian juga akan berperan langsung dalam menambah penerimaan negara yang dapat digunakan untuk pembangunan.
 
-Platform [equity crowdfunding](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog) dimana kalian bisa mendanai bisnis yang memiliki prospek bagus dan potensi keuntungan adalah di [LandX](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog).
+Platform [equity crowdfunding](https://app.landx.id/?utm_source=Organic+Page&utm_medium=Content+Blog&utm_campaign=BlogLandX&utm_id=Blog) dimana kalian bisa mendanai bisnis yang memiliki prospek bagus dan potensi keuntungan adalah di [LandX](https://app.landx.id/?utm_source=Organic+Page&utm_medium=Content+Blog&utm_campaign=BlogLandX&utm_id=Blog).
 
-[LandX](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog) merupakan salah satu platform [equity crowdfunding](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog) yang dapat membantu kalian mendanai bisnis yang memiliki prospek bagus dengan modal kecil dan terdapat potensi untung besar.
+[LandX](https://app.landx.id/?utm_source=Organic+Page&utm_medium=Content+Blog&utm_campaign=BlogLandX&utm_id=Blog) merupakan salah satu platform [equity crowdfunding](https://app.landx.id/?utm_source=Organic+Page&utm_medium=Content+Blog&utm_campaign=BlogLandX&utm_id=Blog) yang dapat membantu kalian mendanai bisnis yang memiliki prospek bagus dengan modal kecil dan terdapat potensi untung besar.
 
-[LandX](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog), platform [equity crowdfunding](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog) terpercaya, transparan, dan telah mengantongi izin dari Otoritas Jasa Keuangan (OJK). Kalian bisa memperoleh keuntungan besar dengan modal kecil.
+[LandX](https://app.landx.id/?utm_source=Organic+Page&utm_medium=Content+Blog&utm_campaign=BlogLandX&utm_id=Blog), platform [equity crowdfunding](https://app.landx.id/?utm_source=Organic+Page&utm_medium=Content+Blog&utm_campaign=BlogLandX&utm_id=Blog) terpercaya, transparan, dan telah mengantongi izin dari Otoritas Jasa Keuangan (OJK). Kalian bisa memperoleh keuntungan besar dengan modal kecil.
 
-## [Manfaatkan Kebijakan Fiskal dengan Investasi di LandX Sekarang Juga!](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)
+## [Manfaatkan Kebijakan Fiskal dengan Investasi di LandX Sekarang Juga!](https://app.landx.id/?utm_source=Organic+Page&utm_medium=Content+Blog&utm_campaign=BlogLandX&utm_id=Blog\)
 
 <!--StartFragment-->
 
-[![Bagaimana? Kamu lebih suka bisnis dengan buyback guarantee atau yang bisa disimpan dalam jangka panjang? Apapun pilihan kamu.. Yuk Patungan  dengan Keuntungan Menjanjikan Bareng LandX](https://accountgram-production.sfo2.cdn.digitaloceanspaces.com/landx_ghost/2021/10/Equity-Crowdfunding-di-Indonesia-1--3.png)](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)
+[![miliki bisnis modal kecil cuma dengan 1 jutaan dapat 4 cabang ](https://accountgram-production.sfo2.cdn.digitaloceanspaces.com/landx_ghost/2021/11/jadi-owner-bisnis-hanya-1-jutaan-dengan-cuan-yang-sangat-menjanjikan.png)](https://app.landx.id/?utm_source=Organic+Page&utm_medium=Content+Blog&utm_campaign=BlogLandX&utm_id=Blog)
 
-<!--EndFragment-->[](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)
+<!--EndFragment-->
