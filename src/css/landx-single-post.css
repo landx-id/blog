@@ -1,14 +1,5 @@
 .toc-container {
-  padding: 16px 0px;
-  border-bottom: 1px solid #ccd7df;
-  border-top: 1px solid #ccd7df;
-  margin: 64px 0px;
-}
-
-.post-container .description {
-  background-color: #ebebebd7;
-  padding: 16px;
-  font-weight: 700;
+  padding: 32px 0px;
 }
 
 .post-container h1,
