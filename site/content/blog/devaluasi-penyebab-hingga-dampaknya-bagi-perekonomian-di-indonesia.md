@@ -181,22 +181,22 @@ Secara berkala, kondisi ini membuat penurunan permintaan yang pada akirnya dapat
 
 Karena itu, pengambilan kebijakan devaluasi mata uang rupiah yang diterapkan pemerintah harus melalui proses pertimbangan menyeluruh. 
 
-## **Gimana sekarang Anda sudah mengetahui seputar devaluasi kan?** 
+## **Gimana sekarang Anda sudah mengetahui seputar devaluasi kan?**
 
 Dengan diterapkannya devaluasi yang dapat menguntungkan suatu bisnis dari meningkatnya demand baik dari dalam dan luar negeri banyak dimanfaatkan untuk membuka peluang usaha.
 
-Jika Anda salah satunya yang akan memanfaatkan keuntungan  devaluasi dengan keinginan untuk memiliki usaha tanpa cara yang sulit dan tidak memakan waktu banyak. Anda bisa sekali melakukan investasi melalui skema [equity crowdfunding](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog).
+Jika Anda salah satunya yang akan memanfaatkan keuntungan  devaluasi dengan keinginan untuk memiliki usaha tanpa cara yang sulit dan tidak memakan waktu banyak. Anda bisa sekali melakukan investasi melalui skema [equity crowdfunding](https://app.landx.id/?utm_source=Organic+Page&utm_medium=Content+Blog&utm_campaign=BlogLandX&utm_id=Blog).
 
 Disini Anda akan menjadi salah satu pemilik sebuah usaha dengan melakukan pendanaan untuk bisnis kecil dengan cara patungan masyarakat luas untuk mendanai UMKM. Anda akan berperan sebagai investor yang berinvestasi pada bisnis-bisnis yang memiliki potensial besar dengan hanya modal kecil.
 
-[LandX](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog) merupakan salah satu platform [equity crowdfunding](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog) yang dapat membantu kamu mendanai bisnis yang memiliki prospek bagus dengan modal kecil dan untung besar.
+[LandX](https://app.landx.id/?utm_source=Organic+Page&utm_medium=Content+Blog&utm_campaign=BlogLandX&utm_id=Blog) merupakan salah satu platform [equity crowdfunding](https://app.landx.id/?utm_source=Organic+Page&utm_medium=Content+Blog&utm_campaign=BlogLandX&utm_id=Blog) yang dapat membantu kamu mendanai bisnis yang memiliki prospek bagus dengan modal kecil dan untung besar.
 
-[LandX](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog), platform [equity crowdfunding terpercaya](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog), transparan, dan telah memiliki izin dari Otoritas Jasa Keuangan (OJK). Kamu bisa mendapatkan keuntungan besar dan modal kecil.
+[LandX](https://app.landx.id/?utm_source=Organic+Page&utm_medium=Content+Blog&utm_campaign=BlogLandX&utm_id=Blog), platform [equity crowdfunding terpercaya](https://app.landx.id/?utm_source=Organic+Page&utm_medium=Content+Blog&utm_campaign=BlogLandX&utm_id=Blog), transparan, dan telah memiliki izin dari Otoritas Jasa Keuangan (OJK). Kamu bisa mendapatkan keuntungan besar dan modal kecil.
 
-## [Jadi Owner Bisnis Secara Cepat dan Mudah Dengan Investasi di LandX Sekarang Juga!](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)
+## [Jadi Owner Bisnis Secara Cepat dan Mudah Dengan Investasi di LandX Sekarang Juga!](https://app.landx.id/?utm_source=Organic+Page&utm_medium=Content+Blog&utm_campaign=BlogLandX&utm_id=Blog)
 
 <!--StartFragment-->
 
-![miliki bisnis modal kecil cuma dengan 1 jutaan dapat 4 cabang ](https://accountgram-production.sfo2.cdn.digitaloceanspaces.com/landx_ghost/2021/11/jadi-owner-bisnis-hanya-1-jutaan-dengan-cuan-yang-sangat-menjanjikan.png)
+[![miliki bisnis modal kecil cuma dengan 1 jutaan dapat 4 cabang ](https://accountgram-production.sfo2.cdn.digitaloceanspaces.com/landx_ghost/2021/11/jadi-owner-bisnis-hanya-1-jutaan-dengan-cuan-yang-sangat-menjanjikan.png)](https://app.landx.id/?utm_source=Organic+Page&utm_medium=Content+Blog&utm_campaign=BlogLandX&utm_id=Blog)
 
 <!--EndFragment-->
