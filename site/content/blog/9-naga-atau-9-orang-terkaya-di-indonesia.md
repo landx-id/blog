@@ -145,13 +145,13 @@ Alumni jurusan kedokteran Universitas Trisakti ini mengembangkan perusahaannya d
 
 Sebagai pemain kuat di industri fast moving consumer goods (FMCG), Mayora Group ternyata sangat tertantang dengan tren produk-produk dari negara ginseng, Korea Selatan. Walaupun masih memiliki kedaulatan market share biskuit hingga 40% di Indonesia, Mayora Group terus berinovasi untuk tetap menjadi yang terkuat di industri ini.
 
-## [Meraup Untung dengan Patungan Bisnis](https://landx.id/project/)
+## [Meraup Untung dengan Patungan Bisnis](https://app.landx.id/?utm_source=Organic+Page&utm_medium=Content+Blog&utm_campaign=BlogLandX&utm_id=Blog\)
 
-**[Setiap bisnis](https://landx.id/project/)** tentu memiliki scene jatuh bangun serta kisah panjang dalam perjalanannya hingga dapat berkembang dan akrab dikenal. Berbisnis juga menjadi salah satu cara paling tepat untuk mengembangkan diri serta meraup keuntungan yang terbuka.
+**[Setiap bisnis](https://app.landx.id/?utm_source=Organic+Page&utm_medium=Content+Blog&utm_campaign=BlogLandX&utm_id=Blog)** tentu memiliki scene jatuh bangun serta kisah panjang dalam perjalanannya hingga dapat berkembang dan akrab dikenal. Berbisnis juga menjadi salah satu cara paling tepat untuk mengembangkan diri serta meraup keuntungan yang terbuka.
 
 **Namun,** membangun bisnis sangatlah jauh dari kata mudah dan tanpa stres. Bisnis yang hadir di lingkungan kita dan bertahan hingga hari ini adalah karena memiliki manajemen yang baik. Tentu kita juga ingin menjadi bagian lingkungan bisnis dengan manajemen yang baik.
 
-[Ikut patungan bisnis](https://landx.id/project/) menjadi salah satu jalan dapat belajar tips suatu industri bisnis serta menilik bisnis dengan cuan potensial. Melalui platform investasi **[crowdfunding LandX](https://landx.id/project/)**, patungan bisnis dapat mendatangkan cuan potensial.
+Ikut patungan bisnis menjadi salah satu jalan dapat belajar tips suatu industri bisnis serta menilik bisnis dengan cuan potensial. Melalui platform investasi **crowdfunding LandX**, patungan bisnis dapat mendatangkan cuan potensial.
 
 Berinvestasi pada bisnis pilihan yang kamu inginkan serta belajar seluk-beluk industrinya sambil menantikan cuan datang.
 
