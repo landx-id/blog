@@ -41,9 +41,26 @@
   </div>
 
   <div class="cms mw7 center">
-    <div class="image-container">
-      <img src="{{.Site.Params.pathUrl}}/img/landxV3.svg" class="image" alt="icx-logo" />
-    </div>
+    {{if .Params.image}} {{if in .Params.image "http"}}
+    <img src="{{.Params.image}}" class="image" />
+    {{else}}
+    <img src="{{.Site.Params.pathUrl}}/{{.Params.image}}" class="image" />
+    {{end}} {{else if .Params.featuredImage.src}} {{if in
+    .Params.featuredImage.src "http"}}
+    <img
+      src="{{.Params.featuredImage.src}}"
+      class="image"
+      alt="{{.Params.featuredImage.alt}}"
+      title="{{.Params.featuredImage.title}}"
+    />
+    {{else}}
+    <img
+      src="{{.Site.Params.pathUrl}}/{{.Params.featuredImage.src}}"
+      class="image"
+      alt="{{.Params.featuredImage.alt}}"
+      title="{{.Params.featuredImage.title}}"
+    />
+    {{end}} {{end}}
 
     <p class="description">{{ .Params.intro }}</p>
     <div class="toc-container">
