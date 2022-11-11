@@ -30,13 +30,11 @@ category:
   - Bisnis
   - Investasi
 ---
-
-
-Kultur kopi di Indonesia telah berkembang cukup pesat. Beragam jenis _coffee shop_ kini telah menjamur di hampir setiap penjuru kota. Masing-masingnya juga memiliki segmen pelanggan yang beragam, mulai dari anak-anak remaja, orang dewasa hingga orang tua.
+Kultur kopi di Indonesia telah berkembang cukup pesat. Beragam jenis *coffee shop* kini telah menjamur di hampir setiap penjuru kota. Masing-masingnya juga memiliki segmen pelanggan yang beragam, mulai dari anak-anak remaja, orang dewasa hingga orang tua.
 
 Arah Kopi adalah bisnis coffee shop yang berdiri pada tahun 2018 dan berkembang pesat hingga hari ini dengan total 46 cabang. Hal ini tentu saja mengesankan melihat bagaimana bisnis coffee shop yang menawarkan berbagai olahan biji kopi lokal ini dapat bersaing dengan berbagai bisnis sejenis yang semakin marak belakangan ini.
 
----
+- - -
 
 ## Perkembangan Arah Kopi
 
@@ -44,43 +42,35 @@ Arah Kopi adalah bisnis coffee shop yang berdiri pada tahun 2018 dan berkembang 
 
 Perkembangan **Arah Kopi** ini tentu saja sangat mengagumkan mengingat bagaimana banyak bisnis fnb yang kesulitan bertahan di tengah pandemi dan Arah Kopi tetap berkembang di tengah kondisi tersebut.
 
-Bisnis _coffee shop_ telah melalui berbagai transformasi dari masa ke masa. Kini, kedai-kedai kopi tradisional telah berubah menjadi _coffee shop_ modern, dengan sajian kopi yang lebih beragam.
+Bisnis *coffee shop* telah melalui berbagai transformasi dari masa ke masa. Kini, kedai-kedai kopi tradisional telah berubah menjadi *coffee shop* modern, dengan sajian kopi yang lebih beragam.
 
-_Coffee shop_ bahkan telah mampu memenuhi permintaan pelanggan melalui layanan pesan-antar _online_ hingga layanan _grab and go._ Hal ini tentu saja menjadi peluang baru bagi banyak bisnis termasuk Arah Kopi yang mengoptimalkan channel pesan-antar via aplikasi sehingga dapat mencakup konsumen yang lebih luas.
+*Coffee shop* bahkan telah mampu memenuhi permintaan pelanggan melalui layanan pesan-antar *online* hingga layanan *grab and go.* Hal ini tentu saja menjadi peluang baru bagi banyak bisnis termasuk Arah Kopi yang mengoptimalkan channel pesan-antar via aplikasi sehingga dapat mencakup konsumen yang lebih luas.
 
-Melihat bisnis _coffee shop_ yang kian menjamur dengan kisaran omset yang besar, cukup membuat siapa saja tergiur dan ikut bermimpi untuk bisa membuka bisnis tersebut. Namun, hal itu ternyata bukan perkara yang mudah. Dibutuhkan modal yang besar serta strategi sekaligus segmentasi [bisnis](https://landx.id/project/) yang matang.
+Melihat bisnis *coffee shop* yang kian menjamur dengan kisaran omset yang besar, cukup membuat siapa saja tergiur dan ikut bermimpi untuk bisa membuka bisnis tersebut. Namun, hal itu ternyata bukan perkara yang mudah. Dibutuhkan modal yang besar serta strategi sekaligus segmentasi [bisnis](https://landx.id/project/) yang matang.
 
 Ada banyak cara yang bisa Anda lakukan jika ingin membuka bisnis coffee shop. Anda bisa membuka kedai kopi sendiri atau mengikuti franchise coffee shop yang sudah ada.
 
-Jika Anda ingin membuka bisnis coffee shop sendiri, Anda perlu melakukan berbagai langkah persiapan untuk membuka bisnis _coffee shop_ yang matang. Membuka franchise yang sudah ada cenderung lebih mudah. Cukup mengeluarkan sejumlah uang untuk membeli lisensinya, lalu kedai Anda siap untuk dibuka.
+Jika Anda ingin membuka bisnis coffee shop sendiri, Anda perlu melakukan berbagai langkah persiapan untuk membuka bisnis *coffee shop* yang matang. Membuka franchise yang sudah ada cenderung lebih mudah. Cukup mengeluarkan sejumlah uang untuk membeli lisensinya, lalu kedai Anda siap untuk dibuka.
 
-Jika Anda berminat untuk memulai bisnis _coffee shop_ namun tidak memiliki modal yang besar, Anda juga bisa mengikuti project patungan bisnis seperti yang tengah dijalankan oleh Arah Kopi. ****
+Jika Anda berminat untuk memulai bisnis *coffee shop* namun tidak memiliki modal yang besar, Anda juga bisa mengikuti project patungan bisnis seperti yang tengah dijalankan oleh Arah Kopi. \*\*\*\*
 
-**[Melalui sistem _crowdfunding,_ Arah Kopi membuka kesempatan kepada masyarakat untuk dapat ikut menjadi investor dengan modal yang lebih kecil.](https://landx.id/project/)**
+**[Melalui sistem *crowdfunding,* Arah Kopi membuka kesempatan kepada masyarakat untuk dapat ikut menjadi investor dengan modal yang lebih kecil.](https://app.landx.id/?utm_source=Organic+Page&utm_medium=Content+Blog&utm_campaign=BlogLandX&utm_id=Blog)**
 
-**Arah Kopi** merupakan _coffee shop_ asli Indonesia yang menyajikan kopi-kopi lokal berkualitas. Menu-menu kopi di Arah Kopi menggunakan biji kopi berkualitas asli Indonesia yang disajikan dengan konsep _fresh to cup,_ sehingga meskipun disajikan dengan lebih sederhana, cita rasa kopinya tetap terjaga dan terasa kuat.
+**Arah Kopi** merupakan *coffee shop* asli Indonesia yang menyajikan kopi-kopi lokal berkualitas. Menu-menu kopi di Arah Kopi menggunakan biji kopi berkualitas asli Indonesia yang disajikan dengan konsep *fresh to cup,* sehingga meskipun disajikan dengan lebih sederhana, cita rasa kopinya tetap terjaga dan terasa kuat.
 
-Arah Kopi menjadi salah satu _coffee shop_ yang bertahan di masa pandemi karena memiliki manajemen [bisnis](https://landx.id/) yang baik. Dengan menggunakan metode bisnis _partnership,_ Arah Kopi dapat terus berkembang dan menjangkau berbagai daerah di Indonesia, serta tetap konsisten memberikan rasa yang khas dengan harga yang lebih terjangkau.
+Arah Kopi menjadi salah satu *coffee shop* yang bertahan di masa pandemi karena memiliki manajemen [bisnis](https://landx.id/) yang baik. Dengan menggunakan metode bisnis *partnership,* Arah Kopi dapat terus berkembang dan menjangkau berbagai daerah di Indonesia, serta tetap konsisten memberikan rasa yang khas dengan harga yang lebih terjangkau.
 
----
-
-**Baca Juga:**
-
-* [Kopi Kenangan Resmi Unicorn: Mengenal Kisah Sukses Coffee-Chain Kopi Kekinian](https://landx.id/blog/kopi-kenangan-unicorn-mengenal-kisah-sukses-coffee-chain-kopi-kekinian/)
-* [Peluang Bisnis Franchise Menjanjikan Tahun 2022, Siap Sambut Cuan!](https://landx.id/blog/peluang-bisnis-franchise-terbaik-di-tahun-2022/)
-* [Hong Tang: Kesegaran Berbagai Dessert Khas Asia dengan Konsep Cloud Kitchen](https://landx.id/blog/hong-tang-dengan-berbagai-menu-dessert-oriental-khas-taiwan-dan-hongkong/)
-
----
+- - -
 
 ## Arah Kopi Punya 46 Cabang
 
-Arah Kopi pertama kali dibuka pada tahun 2018. Meskipun baru berdiri selama 4 tahun, kini Arah Kopi sudah memiliki 46 outlet dan _partner_ di seluruh wilayah Jabodetabek, Semarang, dan Solo.
+Arah Kopi pertama kali dibuka pada tahun 2018. Meskipun baru berdiri selama 4 tahun, kini Arah Kopi sudah memiliki 46 outlet dan *partner* di seluruh wilayah Jabodetabek, Semarang, dan Solo.
 
-Melalui metode [bisnis](https://landx.id/) _partnership,_ Arah Kopi memiliki target untuk membuka lebih banyak outlet lagi pada tahun 2022 mendatang.
+Melalui metode [bisnis](https://landx.id/) *partnership,* Arah Kopi memiliki target untuk membuka lebih banyak outlet lagi pada tahun 2022 mendatang.
 
-Para penggemar kopi bisa menikmati berbagai varian menu seperti Es Kopi Susu, Coffee Latte, Americano, dan Cappucino, dengan takaran _espresso shot_ yang bisa diracik sesuai selera. Selain itu, Arah Kopi juga menyediakan berbagai menu non kopi seperti Gray Latte, Matcha Latte, dan Cookies and Cream.
+Para penggemar kopi bisa menikmati berbagai varian menu seperti Es Kopi Susu, Coffee Latte, Americano, dan Cappucino, dengan takaran *espresso shot* yang bisa diracik sesuai selera. Selain itu, Arah Kopi juga menyediakan berbagai menu non kopi seperti Gray Latte, Matcha Latte, dan Cookies and Cream.
 
-Arah _Ko_pi juga telah melakukan berbagai kolaborasi untuk meningkatkan _brand awareness-_nya_,_ salah satunya kolaborasi dengan Viki Rahardja dan brand Vespa Pvlen yang menghasilkan dua menu kolaborasi, yakni Es Kopi Asli Pulen dan Es Kopi Asli Vespa.
+Arah *Ko_pi juga telah melakukan berbagai kolaborasi untuk meningkatkan _brand awareness-_nya*,_ salah satunya kolaborasi dengan Viki Rahardja dan brand Vespa Pvlen yang menghasilkan dua menu kolaborasi, yakni Es Kopi Asli Pulen dan Es Kopi Asli Vespa.
 
 ## Mengapa Arah Kopi?
 
@@ -88,7 +78,7 @@ Berikut alasan kenapa kamu harus berinvestasi ke project Arah Kopi yang akan lis
 
 ### 1. Tidak Ada Franchise Fee
 
-Arah Kopi menerapkan sistem _partnership_ untuk setiap cabang outlet yang dimilikinya. Artinya, tidak ada _franchise fee_ atau biaya lisensi yang perlu dibayarkan oleh pihak yang akan membuka outlet baru. Setiap outlet dijalankan berdasarkan perjanjian formal antara pihak manajemen Arah Kopi dengan pihak investor/pengelola, serta menerapkan sistem pembagian keuntungan yang sudah disepakati sebelumnya.
+Arah Kopi menerapkan sistem *partnership* untuk setiap cabang outlet yang dimilikinya. Artinya, tidak ada *franchise fee* atau biaya lisensi yang perlu dibayarkan oleh pihak yang akan membuka outlet baru. Setiap outlet dijalankan berdasarkan perjanjian formal antara pihak manajemen Arah Kopi dengan pihak investor/pengelola, serta menerapkan sistem pembagian keuntungan yang sudah disepakati sebelumnya.
 
 ### 2. Manajemen Terpusat
 
@@ -100,35 +90,24 @@ Untuk menjaga integritas perusahaan, salah satu hal yang perlu diperhatikan adal
 
 ### 4. Mesin Kopi dengan Standar Internasional
 
-Salah satu aspek yang cukup penting dalam berbisnis _coffee shop_ adalah berinvestasi pada mesin-mesin pembuat kopi terbaik. Setiap jenis mesin akan menghasilkan karakter dan kualitas kopi yang berbeda-beda pula.
+Salah satu aspek yang cukup penting dalam berbisnis *coffee shop* adalah berinvestasi pada mesin-mesin pembuat kopi terbaik. Setiap jenis mesin akan menghasilkan karakter dan kualitas kopi yang berbeda-beda pula.
 
 Arah Kopi menggunakan mesin kopi berkualitas tinggi dan berstandar internasional, sehingga mampu meningkatkan cita rasa yang dihasilkan sampai ke tingkat yang  paling maksimal.
 
 ### 5. Produk Lokal Berkualitas Tinggi
 
-Indonesia merupakan salah satu negara penghasil kopi terbaik di dunia. Selain memiliki kualitas yang tinggi, Indonesia juga memiliki beragam jenis kopi dengan karakter dan cita rasa yang kuat.Dengan menggunakan konsep _fresh to cup,_ Arah Kopi bertekad untuk menjaga keotentikan dan memaksimalkan cita rasa kopi lokal Indonesia agar dapat dengan mudah dinikmati oleh masyarakat luas.
+Indonesia merupakan salah satu negara penghasil kopi terbaik di dunia. Selain memiliki kualitas yang tinggi, Indonesia juga memiliki beragam jenis kopi dengan karakter dan cita rasa yang kuat.Dengan menggunakan konsep *fresh to cup,* Arah Kopi bertekad untuk menjaga keotentikan dan memaksimalkan cita rasa kopi lokal Indonesia agar dapat dengan mudah dinikmati oleh masyarakat luas.
 
-## [Biaya Punya Arah Kopi Cuma Modal 1 Juta?](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)
+## [Biaya Punya Arah Kopi Cuma Modal 1 Juta?](https://app.landx.id/?utm_source=Organic+Page&utm_medium=Content+Blog&utm_campaign=BlogLandX&utm_id=Blog)
 
-Bagi Anda yang tertarik untuk memulai bisnis _coffee shop_ namun belum memiliki cukup modal, project Arah Kopi bersama dengan LandX adalah pilihan yang tepat untuk Anda coba.
+Bagi Anda yang tertarik untuk memulai bisnis *coffee shop* namun belum memiliki cukup modal, project Arah Kopi bersama dengan LandX adalah pilihan yang tepat untuk Anda coba.
 
-Hanya dengan modal mulai dari satu juta rupiah, Anda sudah bisa memiliki saham dan menjadi owner dari _coffee shop_ Arah Kopi beserta pengembalian berupa dividen sebesar 15-25% yang akan dibagikan setiap 3 bulan.
+Hanya dengan modal mulai dari satu juta rupiah, Anda sudah bisa memiliki saham dan menjadi owner dari *coffee shop* Arah Kopi beserta pengembalian berupa dividen sebesar 15-25% yang akan dibagikan setiap 3 bulan.
 
-## [Tunggu apalagi, segera verifikasi akun Anda di LandX agar tidak kehabisan project Arah Kopi atau project-project bisnis menarik lainnya.***](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)
+## [Tunggu apalagi, segera verifikasi akun Anda di LandX agar tidak kehabisan project Arah Kopi atau project-project bisnis menarik lainnya.](https://app.landx.id/?utm_source=Organic+Page&utm_medium=Content+Blog&utm_campaign=BlogLandX&utm_id=Blog)
 
-[![Yuk mulai patungan bisnis menguntungkan jangka panja g bersama LandX](https://accountgram-production.sfo2.cdn.digitaloceanspaces.com/landx_ghost/2021/09/Equity-Crowdfunding-di-Indonesia-1--3.png)](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)
+<!--StartFragment-->
 
-**[Mau Informasi Menarik Lain Seputar Investasi? Yuk Kunjungi Instagram Kami di @landx.id](https://www.instagram.com/landx.id/?utm_medium=copy_link)**
+[![miliki bisnis modal kecil cuma dengan 1 jutaan dapat 4 cabang ](https://accountgram-production.sfo2.cdn.digitaloceanspaces.com/landx_ghost/2021/11/jadi-owner-bisnis-hanya-1-jutaan-dengan-cuan-yang-sangat-menjanjikan.png)](https://app.landx.id/?utm_source=Organic+Page&utm_medium=Content+Blog&utm_campaign=BlogLandX&utm_id=Blog)
 
----
-
-**Baca Juga:**
-
-* [Gaji UMR Mau Investasi? Yuk Simak Tips dan Caranya Investasi dengan Gaji UMR](https://landx.id/blog/cara-investasi-dengan-gaji-umr/)
-* [Investasi dengan Passive Income untuk Masa Depan](https://landx.id/blog/investasi-dengan-passive-income-untuk-masa-depan/)
-* [Investasi Selalu Rugi? Coba Lakukan Diversifikasi. Ini 4 Cara Melakukannya!](https://landx.id/blog/arti-penting-diversifikasi-dalam-investasi/)
-
----
-
-**#YukPatunganBisnis**
-
+<!--EndFragment-->
