@@ -1,9 +1,17 @@
 {{ define "main" }}
 
 <style>
-  .blog-container .image {
-    width: 100%;
+  .blog-container .image-container .image {
+    width: 100vw;
+    height: 700px;
+    position: absolute;
     object-fit: cover;
+    left: 0;
+  }
+
+  .blog-container .image-container {
+    height: 700px;
+    margin-bottom: 50px;
   }
 
   .blog-title {
@@ -20,39 +28,22 @@
   <h1 class="f2 lh-title b mb3 blog-title">{{.Title}}</h1>
 
   <div class="flex grey-3 information">
-    <p>{{ .Date.Format "Monday, 2 Jan 2006" }}</p>
-    <p>Read in {{ .ReadingTime }} minutes</p>
-  </div>
-
-  <div
-    class="grey-4 mb-3"
-    style="font-size: 0.8rem; cursor: pointer; margin-bottom: 24px"
-    onclick="window.location.href = '/blog/author/{{.Params.author | urlize}}'"
-  >
-    Author: {{.Params.author}}
+    <p style="color: #868e96">{{ .Date.Format "2 January 2006" }}</p>
+    <p style="color: #868e96">|</p>
+    <p style="color: #868e96">{{ .ReadingTime }} Min Read</p>
+    <p style="color: #868e96">|</p>
+    <div
+      style="color: #868e96; cursor: pointer"
+      onclick="window.location.href = '/blog/author/{{.Params.author | urlize}}'"
+    >
+      Author: {{.Params.author}}
+    </div>
   </div>
 
   <div class="cms mw7 center">
-    {{if .Params.image}} {{if in .Params.image "http"}}
-    <img src="{{.Params.image}}" class="image" />
-    {{else}}
-    <img src="{{.Site.Params.pathUrl}}/{{.Params.image}}" class="image" />
-    {{end}} {{else if .Params.featuredImage.src}} {{if in
-    .Params.featuredImage.src "http"}}
-    <img
-      src="{{.Params.featuredImage.src}}"
-      class="image"
-      alt="{{.Params.featuredImage.alt}}"
-      title="{{.Params.featuredImage.title}}"
-    />
-    {{else}}
-    <img
-      src="{{.Site.Params.pathUrl}}/{{.Params.featuredImage.src}}"
-      class="image"
-      alt="{{.Params.featuredImage.alt}}"
-      title="{{.Params.featuredImage.title}}"
-    />
-    {{end}} {{end}}
+    <div class="image-container">
+      <img src="{{.Site.Params.pathUrl}}/img/landxV3.svg" class="image" alt="icx-logo" />
+    </div>
 
     <p class="description">{{ .Params.intro }}</p>
     <div class="toc-container">

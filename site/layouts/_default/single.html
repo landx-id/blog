@@ -3,21 +3,32 @@
 <div class="mw6 center ph3 pv4 post-container">
   <h1 class="f2 lh-title b mb3">{{.Title}}</h1>
 
-  <div class="flex justify-between grey-3">
-    <p>{{ .Date.Format "Monday, 2 Jan 2006" }}</p>
-    <p>Read in {{ .ReadingTime }} minutes</p>
+  <div class="flex grey-3 information">
+    <p style="color: #868e96">{{ .Date.Format "2 January 2006" }}</p>
+    <p style="color: #868e96">|</p>
+    <p style="color: #868e96">{{ .ReadingTime }} Min Read</p>
+    <p style="color: #868e96">|</p>
+    <div
+      style="color: #868e96; cursor: pointer"
+      onclick="window.location.href = '/blog/author/{{.Params.author | urlize}}'"
+    >
+      Author: {{.Params.author}}
+    </div>
   </div>
 
   <div class="terms-container">
     <div class="chip-container in-content">
       {{ range .Params.tags }}
-      <a href="{{$.Site.Params.pathUrl}}/tags/{{. | urlize }}" class="chip">#{{.}}</a>
+      <a href="{{$.Site.Params.pathUrl}}/tags/{{. | urlize }}" class="chip"
+        >#{{.}}</a
+      >
       {{ end }}
     </div>
   </div>
 
   <div class="cms mw6">
-    {{ if .Params.image }}<img src="{{ .Params.image }}" alt="{{ .Title }}" />{{ end }}
+    {{ if .Params.image }}<img src="{{ .Params.image }}" alt="{{ .Title }}" />{{
+    end }}
     <p class="description">{{ .Description }}</p>
     <div class="toc-container">
       <h2>Table Of Contents</h2>
@@ -26,18 +37,19 @@
     {{ .Content }}
   </div>
 
-  <div class="paginator-container" style="padding-top: 32px; border-top: 1px solid #ccd7df">
+  <div
+    class="paginator-container"
+    style="padding-top: 32px; border-top: 1px solid #ccd7df"
+  >
     {{with .Next}}
-    <a title='Previous Page' href="{{.Permalink}}">
+    <a title="Previous Page" href="{{.Permalink}}">
       <i class="fas fa-arrow-left"></i>
       <span>Previous</span>
     </a>
     {{ else }}
     <div>&nbsp;</div>
-    {{ end }}
-
-    {{with .Prev}}
-    <a title='Previous Page' href="{{.Permalink}}">
+    {{ end }} {{with .Prev}}
+    <a title="Previous Page" href="{{.Permalink}}">
       <span>Next</span>
       <i class="fas fa-arrow-right"></i>
     </a>
@@ -48,18 +60,20 @@
 </div>
 
 <script>
-  window.addEventListener('DOMContentLoaded', () => {
+  window.addEventListener("DOMContentLoaded", () => {
     const toc = document.getElementById("TableOfContents");
-    const anchor = toc.getElementsByTagName('a')
-    const loc = window.location
+    const anchor = toc.getElementsByTagName("a");
+    const loc = window.location;
     for (let i = 0; i < anchor.length; i++) {
-      anchor[i].href = loc.origin + loc.pathname + anchor[i].hash
+      anchor[i].href = loc.origin + loc.pathname + anchor[i].hash;
     }
 
-    const headings = document.querySelectorAll("h1[id], h2[id], h3[id], h4[id], h5[id], h6[id")
-    headings.forEach(item => {
-      item.style.scrollMarginTop = '3em'
-    })
+    const headings = document.querySelectorAll(
+      "h1[id], h2[id], h3[id], h4[id], h5[id], h6[id"
+    );
+    headings.forEach((item) => {
+      item.style.scrollMarginTop = "3em";
+    });
   });
 </script>
 

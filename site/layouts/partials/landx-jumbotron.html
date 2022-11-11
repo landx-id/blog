@@ -6,8 +6,12 @@
   {{end}}
 
   <div class="jumbotron-text">{{.title}}</div>
+
   <div class="jumbotron-description">
-    Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo
-    ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis
+    {{if in .imageUrl "http"}}
+    <div>Author</div>
+    {{else}}
+    <div></div>
+    {{end}}
   </div>
 </div>
