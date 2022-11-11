@@ -82,10 +82,10 @@ Selain itu, Anda juga bisa  investasi untuk jangka panjang melalui skema [equity
 
 Dengan skema [equity crowdfunding](https://landx.id/), Anda hanya perlu modal yang kecil untuk memulai investasi ke bisnis yang nanti Anda danai, dan mendapatkan potensi keuntungan berupa dividen secara rutin sesuai performa bisnis. Tentunya melalui platform berizin OJK dan berpengalaman mendanai bisnis potensial seperti [LandX](https://landx.id/) ya!
 
-## [Yuk Mulai Investasi Bisnis Potensial di LandX Sekarang Juga!](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)
+## [Yuk Mulai Investasi Bisnis Potensial di LandX Sekarang Juga!](https://app.landx.id/?utm_source=Organic+Page&utm_medium=Content+Blog&utm_campaign=BlogLandX&utm_id=Blog)
 
 <!--StartFragment-->
 
-[![Yuk mulai patungan bisnis menguntungkan jangka panja g bersama LandX](https://accountgram-production.sfo2.cdn.digitaloceanspaces.com/landx_ghost/2021/09/Equity-Crowdfunding-di-Indonesia-1--3.png)](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)
+[![miliki bisnis modal kecil cuma dengan 1 jutaan dapat 4 cabang ](https://accountgram-production.sfo2.cdn.digitaloceanspaces.com/landx_ghost/2021/11/jadi-owner-bisnis-hanya-1-jutaan-dengan-cuan-yang-sangat-menjanjikan.png)](https://app.landx.id/?utm_source=Organic+Page&utm_medium=Content+Blog&utm_campaign=BlogLandX&utm_id=Blog)
 
 <!--EndFragment-->
