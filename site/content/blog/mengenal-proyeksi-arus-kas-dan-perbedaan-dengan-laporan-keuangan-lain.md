@@ -1,8 +1,8 @@
 ---
 draft: false
 author: Alula
-title: Mengenal Proyeksi Arus Kas dan Perbedaan dengan Laporan Keuangan Lain
-metaTitle: Mengenal Proyeksi Arus Kas dan Perbedaan dengan Laporan Keuangan Lain
+title: Mengenal Proyeksi Arus Kas dan Keuntungan Membuat Laporan Proyeksi
+metaTitle: Mengenal Proyeksi Arus Kas dan Keuntungan Membuat Laporan Proyeksi
 metaDescription: "Proyeksi arus kas adalah salah satu alat yang paling berguna
   dalam melakukan bisnis. Yuk ketahui cara membuat laporan arus kas! "
 intro: Salah satu hal terpenting dalam menjalankan bisnis adalah membuat laporan
