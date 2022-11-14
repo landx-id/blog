@@ -200,10 +200,10 @@ Melalui skema securities crowdfunding, perusahaan kamu yang terdaftar akan didan
 
 LandX adalah platform securities crowdfunding yang berpengalaman untuk membantu bisnis potensial saat ini. Mulai dari industri F&B, seperti cloud kitchen, resto sushi dan gelato hits, hingga bisnis di industri properti seperti kos-kosan.
 
-## [Yuk, Listing Perusahaanmu lewat LandX untuk Mengembangkan Bisnis Kamu!](https://landx.id/)
+## [Yuk, Listing Perusahaanmu lewat LandX untuk Mengembangkan Bisnis Kamu!](https://app.landx.id/?utm_source=Organic+Page&utm_medium=Content+Blog&utm_campaign=BlogLandX&utm_id=Blog)
 
 <!--StartFragment-->
 
-[![Bagaimana? Kamu lebih suka bisnis dengan buyback guarantee atau yang bisa disimpan dalam jangka panjang? Apapun pilihan kamu.. Yuk Patungan  dengan Keuntungan Menjanjikan Bareng LandX](https://accountgram-production.sfo2.cdn.digitaloceanspaces.com/landx_ghost/2021/10/Equity-Crowdfunding-di-Indonesia-1--3.png)](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)
+[![miliki bisnis modal kecil cuma dengan 1 jutaan dapat 4 cabang ](https://accountgram-production.sfo2.cdn.digitaloceanspaces.com/landx_ghost/2021/11/jadi-owner-bisnis-hanya-1-jutaan-dengan-cuan-yang-sangat-menjanjikan.png)](https://app.landx.id/?utm_source=Organic+Page&utm_medium=Content+Blog&utm_campaign=BlogLandX&utm_id=Blog)
 
 <!--EndFragment-->
