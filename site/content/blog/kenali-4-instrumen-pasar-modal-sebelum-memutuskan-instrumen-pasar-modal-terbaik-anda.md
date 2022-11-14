@@ -126,7 +126,7 @@ Emiten biasanya akan mengeluarkan warrant bersamaan dengan surat berharga lain s
 
 Saham Warrant adalah akses kepada investor untuk mendapatkan saham dalam jumlah yang mereka inginkan. Warrant juga dapat diperjualbelikan apabila pemilik warrant tidak mau menggunakan hak mereka.
 
-## Berinvestasi Lewat Crowdfunding Bersama LandX
+## [Berinvestasi Lewat Crowdfunding Bersama LandX](https://app.landx.id/?utm_source=Organic+Page&utm_medium=Content+Blog&utm_campaign=BlogLandX&utm_id=Blog)
 
 LandX sebagai platform equity crowdfunding memberikan anda kesempatan untuk berinvestasi ke dalam berbagai bisnis potensial yang berpotensi memberikan anda keuntungan lewat dividen dan capital gain.
 
