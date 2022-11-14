@@ -106,7 +106,7 @@ Apa kamu juga tertarik **[berdiversifikasi](https://landx.id/blog/diversifikasi-
 
 Sosok yang terkenal sebagai investor terbaik di dunia, berkat kemampuannya dalam berinvestasi melalui perusahaan konglomerasi Berkshire Hathaway. Selain itu, ia juga memiliki perusahaan asuransi Geico, perusahaan baterai Duracell, dan jaringan restoran Dairy Queen.
 
-Dalam **ber[investasi](https://landx.id/project/)**, Warren selalu belajar terkait bisnis yang akan ia investasikan. Ia mementingkan *competitive advantage* dari sebuah perusahaan agar dapat terproyeksi bahwa bisnis dapat bertahan dalam kompetisi dan tidak terkalahkan oleh kompetitor. Hal ini berarti juga bahwa bisnis tersebut akan dapat bertahan dalam jangka waktu yang lama.
+Dalam **ber[investasi](https://app.landx.id/?utm_source=Organic+Page&utm_medium=Content+Blog&utm_campaign=BlogLandX&utm_id=Blog)**, Warren selalu belajar terkait bisnis yang akan ia investasikan. Ia mementingkan *competitive advantage* dari sebuah perusahaan agar dapat terproyeksi bahwa bisnis dapat bertahan dalam kompetisi dan tidak terkalahkan oleh kompetitor. Hal ini berarti juga bahwa bisnis tersebut akan dapat bertahan dalam jangka waktu yang lama.
 
 ## Melihat Portofolio Warren Buffet
 
@@ -130,7 +130,7 @@ Financial service company yang berdiri tahun 1850. Warren beberapa kali menjadi 
 
 ### 5. Kraft Heinz
 
-Gabungan dua perusahaan ** [produk F&B](https://landx.id/project/)**  yang merger ini mengambil tempat 4,2% dari portofolionya yang bernilai $9,4 miliar dolar.
+Gabungan dua perusahaan ** [produk F&B](https://app.landx.id/?utm_source=Organic+Page&utm_medium=Content+Blog&utm_campaign=BlogLandX&utm_id=Blog)**  yang merger ini mengambil tempat 4,2% dari portofolionya yang bernilai $9,4 miliar dolar.
 
 > *Tips berinvestasi Warren Buffet -- sebuah bisnis harus menunjukkan business model yang kuat, arus pendapatan yang kuat, dan potensi pertumbuhan yang berkelanjutan.*
 
@@ -146,36 +146,22 @@ Jadi bagaimana cara berinvestasi dengan strategi terbaik? Dengan memahami strate
 
 Dengan memahami strategi dan tips para jenius investor, kamu dapat mengkombinasikan strategi tersebut untuk mendapatkan *the ideal mix*. Karena setiap orang memiliki profil yang berbeda dalam merespon sebuah situasi risiko investasi.
 
-## [Mulai Berinvestasi](https://landx.id/project/)
+## [Mulai Berinvestasi](https://app.landx.id/?utm_source=Organic+Page&utm_medium=Content+Blog&utm_campaign=BlogLandX&utm_id=Blog)
 
 Apakah kamu seorang pebisnis? Atau pegawai kantoran yang menginginkan punya  **[*passive income*? ](https://landx.id/blog/investasi-dengan-passive-income-untuk-masa-depan/)** Kadang pernah terbayang ingin memiliki bisnis sebagai tambahan pendapatan tetapi sibuk dengan kerjaan. Mau investasi tapi takut risiko yang besar, punya rencana deposito tapi untungnya terasa kekecilan.
 
 Kamu bisa berinvestasi dengan risiko kecil tapi keuntungan yang membahagiakan dengan cara memilih jenis investasi yang sesuai profil risiko kamu.
 
-Jika profil kamu adalah seorang yang ingin berinvestasi tapi risiko kecil, investasi dengan patungan bisnis lewat  ***[equity crowdfunding](https://landx.id/)***  bisa jadi pilihan kamu.Kamu bisa berinvestasi dengan konsep patungan bisnis melalui **[LandX](https://landx.id/project/)**.
+Jika profil kamu adalah seorang yang ingin berinvestasi tapi risiko kecil, investasi dengan patungan bisnis lewat  ***[equity crowdfunding](https://landx.id/)***  bisa jadi pilihan kamu.Kamu bisa berinvestasi dengan konsep patungan bisnis melalui **[LandX](https://app.landx.id/?utm_source=Organic+Page&utm_medium=Content+Blog&utm_campaign=BlogLandX&utm_id=Blog)**.
 
-**[Di LandX](https://landx.id/project/)**, sebagai investor kamu juga merupakan seorang pemilik dari bisnis yang kamu investasikan. LandX akan membantu kamu menemukan bisnis terbaik yang bisa memberikan kamu keuntungan jangka panjang yang menjanjikan.
+**[Di LandX](https://app.landx.id/?utm_source=Organic+Page&utm_medium=Content+Blog&utm_campaign=BlogLandX&utm_id=Blog)**, sebagai investor kamu juga merupakan seorang pemilik dari bisnis yang kamu investasikan. LandX akan membantu kamu menemukan bisnis terbaik yang bisa memberikan kamu keuntungan jangka panjang yang menjanjikan.
 
 Karena itu...
 
-## [Mari mulai berinvestasi dan saatnya memiliki passive income!](https://landx.id/project/)
+## [Mari mulai berinvestasi dan saatnya memiliki passive income](https://app.landx.id/?utm_source=Organic+Page&utm_medium=Content+Blog&utm_campaign=BlogLandX&utm_id=Blog)
 
-[![Bagaimana? Kamu lebih suka bisnis dengan buyback guarantee atau yang bisa disimpan dalam jangka panjang? Apapun pilihan kamu.. Yuk Patungan  dengan Keuntungan Menjanjikan Bareng LandX](https://accountgram-production.sfo2.cdn.digitaloceanspaces.com/landx_ghost/2021/10/Equity-Crowdfunding-di-Indonesia-1--3.png)](http://landx.id/project/)
+<!--StartFragment-->
 
-**\#YukPatunganBisnis**
+[![miliki bisnis modal kecil cuma dengan 1 jutaan dapat 4 cabang ](https://accountgram-production.sfo2.cdn.digitaloceanspaces.com/landx_ghost/2021/11/jadi-owner-bisnis-hanya-1-jutaan-dengan-cuan-yang-sangat-menjanjikan.png)](https://app.landx.id/?utm_source=Organic+Page&utm_medium=Content+Blog&utm_campaign=BlogLandX&utm_id=Blog)
 
-**[Jangan Lupa Follow Instagram @landx.id Untuk Berbagai Tips Investasi Menguntungkan Lainnya](https://www.instagram.com/landx.id/?utm_medium=copy_link)**
-
-- - -
-
-**Baca Juga:**
-
-* [Investasi dengan Passive Income untuk Masa Depan](https://landx.id/blog/investasi-dengan-passive-income-untuk-masa-depan/)
-* [Memahami Konsep Cashflow Quadrant Berdasarkan Teori Robert Kiyosaki](https://landx.id/blog/konsep-cashflow-quadrant-robert-kiyosaki/)
-* [Memahami Arti dari Financial Freedom dan Cara Mencapai Financial Freedom di Usia Muda](https://landx.id/blog/mencapai-financial-freedom-di-usia-muda/)
-
-- - -
-
-**\#YukPatunganBisnis    #LandX.id    #landx         #landx.id     #InvestasiBisnis    #SecuritiesCrowdfunding #EquityCrowdfunding     #InvestasiMenguntungkan    #Urundana    #BisnisPatungan     #InvestasiUsaha**
-
-- - -
+<!--EndFragment-->
