@@ -33,7 +33,7 @@ Perkembangan crowdfunding di Indonesia telah menjadikan banyak platform crowdfun
 
 ## Jenis Crowdfunding
 
-Perkembangan crowdfunding di Indonesia menjadikan berdirinya beberapa jenis skema platform crowdfunding. Platform crowdfunding adalah situs web yang memungkinkan interaksi antara dua pihak yaitu pihak yang menggalang dana dan masyarakat luas. Yuk ketahui beberapa 4 jenis crowdfunding secara umum.
+Perkembangan sistem crowdfunding di dunia menjadikan berdirinya beberapa jenis skema platform crowdfunding. Platform crowdfunding adalah situs web yang memungkinkan interaksi antara dua pihak yaitu pihak yang menggalang dana dan masyarakat luas. Yuk ketahui beberapa 4 jenis crowdfunding secara umum.
 
 ### 1. Donation Based
 
@@ -85,7 +85,7 @@ Perkembangan crowdfunding di Indonesia menjadikan semua pihak untuk dapat mengin
 
 Perkembangan crowdfunding di Indonesia yang kian beragam menjadikan Investasi crowdfunding dapat meningkatkan ekonomi lokal dan nasional melalui pembentukan bisnis baru yang akan menciptakan lapangan kerja.
 
-## Tips Investasi Crowdfunding 
+## Tips Investasi Crowdfunding
 
 Investasi urun dana atau crowdfunding merupakan teknik pengumpulan dana dari sejumlah orang dengan bentuk kepemilikan saham. Perkembangan crowdfunding di Indonesia memungkinkan semua kalangan untuk melakukan investasi melalui platform crowdfunding yang dapat  membantu meningkatkan ekonomi lokal dan nasional. 
 
