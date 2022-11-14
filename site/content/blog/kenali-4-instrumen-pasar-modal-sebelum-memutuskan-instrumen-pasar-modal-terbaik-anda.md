@@ -56,7 +56,7 @@ Karena itu, yuk kita bahas satu persatu berbagai jenis instrumen investasi di pa
 
 Berinvestasi ke dalam saham artinya anda menanamkan sejumlah modal ke dalam perusahaan atau bisnis yang akan memberikan anda bagian kepemilikan dari bisnis tersebut sesuai dengan besaran modal yang anda tanamkan.
 
-Sebagai investor saham, anda berhak mendapatkan keuntungan berupa dividen saat bisnis mendapatkan [profit](https://landx.id/) yang akan dibagikan kepada investor pemegang saham. Selain dividen investor juga bisa mendapatkan keuntungan melalui *capital gain* dengan menjual saham pada saat nilainya naik sehingga anda mendapatkan keuntungan dari selisih nilai jual dan beli saham.
+Sebagai investor saham, anda berhak mendapatkan keuntungan berupa dividen saat bisnis mendapatkan [profit](https://app.landx.id/?utm_source=Organic+Page&utm_medium=Content+Blog&utm_campaign=BlogLandX&utm_id=Blog) yang akan dibagikan kepada investor pemegang saham. Selain dividen investor juga bisa mendapatkan keuntungan melalui *capital gain* dengan menjual saham pada saat nilainya naik sehingga anda mendapatkan keuntungan dari selisih nilai jual dan beli saham.
 
 Pasar modal menawarkan dua jenis saham yaitu saham biasa**(*common stock)*** dan saham**Preferen (*Preferred Stock).*** Karena itu, yuk kita bahas dua jenis saham ini agar kamu paham perbedaan ***common stock dan preffered stock.***
 
@@ -130,24 +130,6 @@ Saham Warrant adalah akses kepada investor untuk mendapatkan saham dalam jumlah 
 
 LandX sebagai platform equity crowdfunding memberikan anda kesempatan untuk berinvestasi ke dalam berbagai bisnis potensial yang berpotensi memberikan anda keuntungan lewat dividen dan capital gain.
 
-## Yuk m[ulai investasi melalui LandX dengan modal 1 Juta](https://app.landx.id/?utm_source=Organic+Page&utm_medium=Content+Blog&utm_campaign=BlogLandX&utm_id=Blog)
+## [Yuk mulai investasi melalui LandX dengan modal 1 Juta](https://app.landx.id/?utm_source=Organic+Page&utm_medium=Content+Blog&utm_campaign=BlogLandX&utm_id=Blog)
 
-[![miliki bisnis modal kecil cuma dengan 1 jutaan dapat 4 cabang ](https://accountgram-production.sfo2.cdn.digitaloceanspaces.com/landx_ghost/2021/11/jadi-owner-bisnis-hanya-1-jutaan-dengan-cuan-yang-sangat-menjanjikan.png)](https://app.landx.id/?utm_source=Organic+Page&utm_medium=Content+Blog&utm_campaign=BlogLandX&utm_id=Blog)
-
-<!--EndFragment-->
-
-- - -
-
-**[Mau Tau Lebih Banyak Seputar Instrumen Investasi? Yuk Follow Instagram Kami @landx.id](https://www.instagram.com/landx.id/)**
-
-- - -
-
-\#**Baca Juga:**
-
-* [4 Cara Diversifikasi untuk Memperkecil Risiko Investasi yang Dilakukan](https://landx.id/blog/arti-penting-diversifikasi-dalam-investasi/)
-* [Mau Jadi Investor? Simak Cara Mudah Menjadi Investor Hanya dengan Modal Kecil](https://landx.id/blog/cara-menjadi-investor/)
-* [Tips Penting dalam Menyusun Rencana Investasi Jangka Panjang Terbaik](https://landx.id/blog/investasi-jangka-panjang-adalah/)
-
-- - -
-
-**\#YukPatunganBisnis**
+[![miliki bisnis modal kecil cuma dengan 1 jutaan dapat 4 cabang ](https://accountgram-production.sfo2.cdn.digitaloceanspaces.com/landx_ghost/2021/11/jadi-owner-bisnis-hanya-1-jutaan-dengan-cuan-yang-sangat-menjanjikan.png)](https://app.landx.id/?utm_source=Organic+Page&utm_medium=Content+Blog&utm_campaign=BlogLandX&utm_id=Blog)![miliki bisnis modal kecil cuma dengan 1 jutaan dapat 4 cabang ](https://accountgram-production.sfo2.cdn.digitaloceanspaces.com/landx_ghost/2021/11/jadi-owner-bisnis-hanya-1-jutaan-dengan-cuan-yang-sangat-menjanjikan.png)
