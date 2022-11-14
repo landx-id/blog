@@ -46,7 +46,7 @@ Bisnis *coffee shop* telah melalui berbagai transformasi dari masa ke masa. Kini
 
 *Coffee shop* bahkan telah mampu memenuhi permintaan pelanggan melalui layanan pesan-antar *online* hingga layanan *grab and go.* Hal ini tentu saja menjadi peluang baru bagi banyak bisnis termasuk Arah Kopi yang mengoptimalkan channel pesan-antar via aplikasi sehingga dapat mencakup konsumen yang lebih luas.
 
-Melihat bisnis *coffee shop* yang kian menjamur dengan kisaran omset yang besar, cukup membuat siapa saja tergiur dan ikut bermimpi untuk bisa membuka bisnis tersebut. Namun, hal itu ternyata bukan perkara yang mudah. Dibutuhkan modal yang besar serta strategi sekaligus segmentasi [bisnis](https://landx.id/project/) yang matang.
+Melihat bisnis *coffee shop* yang kian menjamur dengan kisaran omset yang besar, cukup membuat siapa saja tergiur dan ikut bermimpi untuk bisa membuka bisnis tersebut. Namun, hal itu ternyata bukan perkara yang mudah. Dibutuhkan modal yang besar serta strategi sekaligus segmentasi [bisnis](https://app.landx.id/?utm_source=Organic+Page&utm_medium=Content+Blog&utm_campaign=BlogLandX&utm_id=Blog) yang matang.
 
 Ada banyak cara yang bisa Anda lakukan jika ingin membuka bisnis coffee shop. Anda bisa membuka kedai kopi sendiri atau mengikuti franchise coffee shop yang sudah ada.
 
