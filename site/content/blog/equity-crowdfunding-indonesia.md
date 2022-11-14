@@ -46,7 +46,7 @@ Selain itu, pengumpulan dana dari masyarakat juga sudah diterapkan di amerika se
 
 Sistem inilah yang yang terus berkembang hingga sekarang dan semakin pesat dengan pemanfaatan internet.
 
-## [Perkembangan Equity Crowdfunding Indonesia](https://landx.id/project/)
+## [Perkembangan Equity Crowdfunding Indonesia](https://app.landx.id/?utm_source=Organic+Page&utm_medium=Content+Blog&utm_campaign=BlogLandX&utm_id=Blog)
 
 Perkembangan internet diikuti juga dengan perkembangan [financial technology](https://landx.id/). Saat ini, kita sedang berada pada era financial technology 4.0 dimana sistem teknologi telah merambah ke beberapa kegiatan finansial seperti : peminjaman (*lending),* perencanaan keuangan (*personal finance),* pembayaran (*payment),* dan pembiayaan (*crowdfunding).* Hal ini menunjukkan bahwa teknologi telah memasuki merambah ke berbagai sektor krusial.
 
@@ -78,7 +78,7 @@ Sistem ini sering kali digunakan oleh bisnis kecil yang unik atau program amal y
 
 Dalam konsep ini, setelah memberikan hadiah pemilik usaha tidak memiliki kewajiban lagi untuk mengembalikan dana kepada investor. Contohnya, anda akan mendapatkan lencana ekslusif saat anda memberikan donasi kepada proyek penangkaran penyu.
 
-### [\- Equity-based Crowdfunding](https://landx.id/project/)
+### [\- Equity-based Crowdfunding](https://app.landx.id/?utm_source=Organic+Page&utm_medium=Content+Blog&utm_campaign=BlogLandX&utm_id=Blog)
 
 Jenis crowdfunding ini pada dasarnya sama seperti anda membeli saham sebuah perusahan. Anda akan menjadi bagian dari pemilik perusahaan mengikuti besar lot yang anda miliki.
 
@@ -94,18 +94,10 @@ Apabila anda ingin berinvestasi dalam [equity crowdfunding Indonesia](https://la
 
 **Tunggu apalagi...**
 
-## [Yuk, jadi bos bisnis dan terima keuntungan rutin di LandX](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)
+## [Yuk, jadi bos bisnis dan terima keuntungan rutin di LandX](https://app.landx.id/?utm_source=Organic+Page&utm_medium=Content+Blog&utm_campaign=BlogLandX&utm_id=Blog)
 
-[![miliki bisnis modal kecil cuma dengan 1 jutaan dapat 4 cabang ](https://accountgram-production.sfo2.cdn.digitaloceanspaces.com/landx_ghost/2021/11/jadi-owner-bisnis-hanya-1-jutaan-dengan-cuan-yang-sangat-menjanjikan.png)](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)
+<!--StartFragment-->
 
-- - -
+[![miliki bisnis modal kecil cuma dengan 1 jutaan dapat 4 cabang ](https://accountgram-production.sfo2.cdn.digitaloceanspaces.com/landx_ghost/2021/11/jadi-owner-bisnis-hanya-1-jutaan-dengan-cuan-yang-sangat-menjanjikan.png)](https://app.landx.id/?utm_source=Organic+Page&utm_medium=Content+Blog&utm_campaign=BlogLandX&utm_id=Blog)
 
-**Baca Juga:**
-
-* [Simak Bagaimana Peran Penting Real Estate Agents dalam Investasi Properti](https://landx.id/blog/peran-penting-real-estate-agents-dalam-investasi-properti/)
-* [Mau Investasi Rumah? Berikut Hal yang Wajib Kamu Ketahui Tentang Investasi Rumah](https://landx.id/blog/memulai-investasi-rumah/)
-* [10 Rekomendasi Situs Jual Beli Rumah Terpercaya 2021](https://landx.id/blog/10-rekomendasi-situs-jual-beli-rumah-terpercaya-2021/)
-
-- - -
-
-**\#LandX.id    #landx         #landx.id    #InvestasiBisnis     #EquityCrowdfunding    #InvestasiMenguntungkan    #Urundana     #BisnisPatungan    #InvestasiUsaha**
+<!--EndFragment-->
