@@ -74,7 +74,7 @@ Akan tetapi, anda harus waspada akan potensi gagal bayar dari peminjam dana deng
 
 ## [Equity crowdfunding di LandX](https://landx.id/)
 
-Pilihan lain untuk investasi dengan modal 1 juta adalah ***\* [**equity crowdfunding\*\*.](https://landx.id/) Sistem ini memberikan kesempatan kepada anda untuk ikut terlibat [patungan pendanaan bisnis](https://landx.id/) yang kesulitan dana untuk pengembangan bisnis mereka.
+Pilihan lain untuk investasi dengan modal 1 juta adalah equity crowdfunding. Sistem ini memberikan kesempatan kepada anda untuk ikut terlibat [patungan pendanaan bisnis](https://landx.id/) yang kesulitan dana untuk pengembangan bisnis mereka.
 
 Sistem ini memiliki konsep yang hampir sama dengan saham di mana investor akan diberikan porsi kepemilikan sesuai dengan modal yang mereka tanamkan. Investor yang terlibat berhak mendapatkan dividen saat bisnis berhasil mendapatkan keuntungan.  Artinya, secara tidak langsung anda bisa menjadi pemilik sebuah bisnis hanya dengan modal investasi 1 juta.
 
@@ -98,23 +98,16 @@ Karena itu, kita harus segera mulai berinvestasi sedini mungkin agar kita bisa l
 
 Apabila kamu punya uang 1 juta dan bingung mau investasi kemana, sekarang kamu bisa lo berinvestasi ke berbagai bisnis potensial yang bisa memberikan kamu *passive income* jangka panjang sesuai dari bagi hasil keuntungan bisnis yang kamu investasikan.
 
-**[LandX](https://landx.id/) adalah** platform equity crowdfunding yang mempermudah kamu untuk berinvestasi ke berbagai bisnis terbaik yang telah dikurasi secara ketat sehingga investasi bisnis kamu bisa menjadi lebih aman.
+**[LandX](https://app.landx.id/?utm_source=Organic+Page&utm_medium=Content+Blog&utm_campaign=BlogLandX&utm_id=Blog) adalah** platform equity crowdfunding yang mempermudah kamu untuk berinvestasi ke berbagai bisnis terbaik yang telah dikurasi secara ketat sehingga investasi bisnis kamu bisa menjadi lebih aman.
 
 **Karena itu tunggu apalagi....**
 
-## [Yuk Temukan Bisnis Terbaik untuk Investasi Jangka Panjang Kamu di LandX](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)
+## [Yuk Temukan Bisnis Terbaik untuk Investasi Jangka Panjang Kamu di LandX](https://app.landx.id/?utm_source=Organic+Page&utm_medium=Content+Blog&utm_campaign=BlogLandX&utm_id=Blog)
 
-[![Yuk mulai patungan bisnis menguntungkan jangka panja g bersama LandX](https://accountgram-production.sfo2.cdn.digitaloceanspaces.com/landx_ghost/2021/09/Equity-Crowdfunding-di-Indonesia-1--3.png)](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)
+<!--StartFragment-->
 
-- - -
+[![miliki bisnis modal kecil cuma dengan 1 jutaan dapat 4 cabang ](https://accountgram-production.sfo2.cdn.digitaloceanspaces.com/landx_ghost/2021/11/jadi-owner-bisnis-hanya-1-jutaan-dengan-cuan-yang-sangat-menjanjikan.png)](https://app.landx.id/?utm_source=Organic+Page&utm_medium=Content+Blog&utm_campaign=BlogLandX&utm_id=Blog)
 
-**[Yuk Follow Instagram Kami di @landx.id Untuk Berbagai Strategi Investasi Menguntungkan Lainnya](https://www.instagram.com/landx.id/?utm_medium=copy_link)**
-
-**Baca Juga:**
-
-* [8+ Investasi Menguntungkan Untuk Masa Depan Anda, Yuk Mulai Investasi Dari Sekarang](https://landx.id/blog/8-investasi-menguntungkan-untuk-masa-depan-anda-yuk-mulai-investasi-dari-sekarang/)
-* [Mau Mulai Investasi?  Pahami Dulu Perbedaan Crowdfunding dan Peer to Peer Lending](https://landx.id/blog/mau-mulai-investasi-pahami-dulu-perbedaan-crowdfunding-dan-peer-to-peer-lending/)
+<!--EndFragment-->
 
 - - -
-
-**\#YukPatunganBisnis**
