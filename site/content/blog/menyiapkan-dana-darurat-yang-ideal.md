@@ -171,28 +171,16 @@ Nah, itulah artikel lengkap tentang dana darurat. Mulai dari pengertian, manfaat
 
 Berbicara tentang soal persiapan keuangan, kamu bisa juga tidak boleh lupa menyiapkan rencana investasi untuk mencapai tujuan keuangan jangka panjang anda.
 
-**[Kamu bisa mulai dengan berinvestasi di LandX. Dengan modal mula1 1 juta saja](https://landx.id/project/)**, kamu sudah bisa memiliki saham perusahaan UMKM hebat di Indonesia __ sekaligus mendapatkan dividen dari keuntungan yang dihasilkan bisnis tersebut.
+**[Kamu bisa mulai dengan berinvestasi di LandX. Dengan modal mula1 1 juta saja](https://app.landx.id/?utm_source=Organic+Page&utm_medium=Content+Blog&utm_campaign=BlogLandX&utm_id=Blog)**, kamu sudah bisa memiliki saham perusahaan UMKM hebat di Indonesia sekaligus mendapatkan dividen dari keuntungan yang dihasilkan bisnis tersebut.
 
 **[LandX](https://landx.id/project/)** membantu anda menemukan bisnis terbaik dengan potensi keuntungan jangka panjang sehingga kamu semakin mudah memilih bisnis terbaik untuk investasi
 
 **karena itu...**
 
-**Tunggu apalagi, yuk patungan bisnis menguntungkan di LandX !**
+**[Tunggu apalagi, yuk patungan bisnis menguntungkan di LandX !](https://app.landx.id/?utm_source=Organic+Page&utm_medium=Content+Blog&utm_campaign=BlogLandX&utm_id=Blog)**
 
-[![Bagaimana? Kamu lebih suka bisnis dengan buyback guarantee atau yang bisa disimpan dalam jangka panjang? Apapun pilihan kamu.. Yuk Patungan  dengan Keuntungan Menjanjikan Bareng LandX](https://accountgram-production.sfo2.cdn.digitaloceanspaces.com/landx_ghost/2021/10/Equity-Crowdfunding-di-Indonesia-1--3.png)](http://landx.id/project/)
+<!--StartFragment-->
 
-**[Mau Berbagai info Terbaru Terkait Investasi? Yuk Follow @landx.id di Instagram](https://www.instagram.com/landx.id/?utm_medium=copy_link)**
+[![miliki bisnis modal kecil cuma dengan 1 jutaan dapat 4 cabang ](https://accountgram-production.sfo2.cdn.digitaloceanspaces.com/landx_ghost/2021/11/jadi-owner-bisnis-hanya-1-jutaan-dengan-cuan-yang-sangat-menjanjikan.png)](https://app.landx.id/?utm_source=Organic+Page&utm_medium=Content+Blog&utm_campaign=BlogLandX&utm_id=Blog)
 
-- - -
-
-**Baca Juga:**
-
-* [Dana Pensiun: Menyusun Rencana Keuangan dan Investasi untuk Hari Tua yang Tenang](https://landx.id/blog/perencanaan-keuangan-untuk-hari-tua/)
-* [Apakah Kamu Termasuk Sandwich Generation? Ini 6 Cara Memutus Rantai Generasi Sandwich](https://landx.id/blog/memutus-rantai-sandwich-generation/)
-* [Skala Prioritas: Memahami Pengertian dan Tujuan Menyusun Skala Prioritas dalam Mengelola Keuangan](https://landx.id/blog/konsep-skala-prioritas/)
-
-- - -
-
-**\#YukPatunganBisnis    #LandX.id    #landx         #landx.id    #InvestasiBisnis  #SecuritiesCrowdfunding   #EquityCrowdfunding    #InvestasiMenguntungkan     #Urundana    #BisnisPatungan    #InvestasiUsaha**
-
-*Writer: Galih*
+<!--EndFragment-->
