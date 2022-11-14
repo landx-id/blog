@@ -145,29 +145,18 @@ Berikutnya, modal kecil dalam pilihan investasi itu apa saja adalah Sukuk yang m
 
 Emiten diwajibkan untuk membayar pendapatan kepada pemegang Obligasi Syariah berupa bagi hasil, margin fee, dan membayar kembali dana obligasi pada saat jatuh tempo. Sederhananya, Sukuk adalah obligasi yang menghindari riba.
 
-## 10. [Equity Crowdfunding](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)
+## 10. [Equity Crowdfunding](https://app.landx.id/?utm_source=Organic+Page&utm_medium=Content+Blog&utm_campaign=BlogLandX&utm_id=Blog\)
 
 **Equity crowdfunding** termasuk juga ke dalam merupakan jenis pendanaan kepada bisnis berbasis ekuitas yang akan memberikan anda keuntungan dalam jangka panjang. Berinvestasi lewat equity crowdfunding memberikan anda bagian kepemilikan dari sebuah bisnis yang telah anda danai.
 
 Lewat sistem ini, anda akan mendapatkan bagian kepemilikan sehingga anda berhak mendapatkan keuntungan berupa dividen saat bisnis untung dan capital gain karena potensi kenaikan harga saham dari bisnis yang anda miliki.
 
-**[Di LandX](https://landx.id/project/)**, kamu akan menemukan bisnis-bisnis terbaik dengan potensi keuntungan jangka panjang sehingga bisa membantu mempercepat kamu mencapai tujuan finansial kamu.
+**[Di LandX](https://app.landx.id/?utm_source=Organic+Page&utm_medium=Content+Blog&utm_campaign=BlogLandX&utm_id=Blog)**, kamu akan menemukan bisnis-bisnis terbaik dengan potensi keuntungan jangka panjang sehingga bisa membantu mempercepat kamu mencapai tujuan finansial kamu.
 
-**[Karena itu...](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)**
+**[Karena itu...](https://app.landx.id/?utm_source=Organic+Page&utm_medium=Content+Blog&utm_campaign=BlogLandX&utm_id=Blog)**
 
-## [Yuk Temukan Bisnis Terbaik untuk Investasi Jangka Panjang Kamu di LandX](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)
+## [Yuk Temukan Bisnis Terbaik untuk Investasi Jangka Panjang Kamu di Land](https://app.landx.id/?utm_source=Organic+Page&utm_medium=Content+Blog&utm_campaign=BlogLandX&utm_id=Blog)
 
-[![Bagaimana? Kamu lebih suka bisnis dengan buyback guarantee atau yang bisa disimpan dalam jangka panjang? Apapun pilihan kamu.. Yuk Patungan  dengan Keuntungan Menjanjikan Bareng LandX](https://accountgram-production.sfo2.cdn.digitaloceanspaces.com/landx_ghost/2021/10/Equity-Crowdfunding-di-Indonesia-1--3.png)](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)
+[](https://app.landx.id/?utm_source=Organic+Page&utm_medium=Content+Blog&utm_campaign=BlogLandX&utm_id=Blog)[![miliki bisnis modal kecil cuma dengan 1 jutaan dapat 4 cabang ](https://accountgram-production.sfo2.cdn.digitaloceanspaces.com/landx_ghost/2021/11/jadi-owner-bisnis-hanya-1-jutaan-dengan-cuan-yang-sangat-menjanjikan.png)](https://app.landx.id/?utm_source=Organic+Page&utm_medium=Content+Blog&utm_campaign=BlogLandX&utm_id=Blog)
 
-**[Mau Berbagai info Terbaru Terkait Investasi? Yuk Follow @landx.id di Instagram](https://www.instagram.com/landx.id/?utm_medium=copy_link)**
-
-- - -
-
-**Baca Juga:**
-
-* [Kenali 4 Instrumen Pasar Modal Sebelum Memutuskan Instrumen Pasar Modal Terbaik Anda](https://landx.id/blog/kenali-4-instrumen-pasar-modal-sebelum-memutuskan-instrumen-pasar-modal-terbaik-anda/)
-* [4 Pilihan Investasi Jangka Pendek dan Tips Investasi Jangka Pendek yang Menguntungkan](https://landx.id/blog/4-pilihan-investasi-jangka-pendek-dan-tips-investasi-jangka-pendek-yang-menguntungkan/)
-
-- - -
-
-**\#YukPatunganBisnis**
+<!--EndFragment-->
