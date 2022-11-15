@@ -1,8 +1,8 @@
 ---
 draft: false
 author: Vlora Riyandi
-title: "Cut Loss Saham: Strategi, Perbedaan, dan Kapan Harus Cut Loss"
-metaTitle: "Cut Loss Saham: Strategi, Perbedaan, dan Kapan Harus Cut Loss"
+title: "Cut Loss Saham: Strategi Jual Rugi dan Kapan Harus Cut Loss"
+metaTitle: "Cut Loss Saham: Strategi Jual Rugi dan Kapan Harus Cut Loss"
 metaDescription: Cut loss adalah bagian dari manajemen risiko untuk memotong
   kerugian dan beralih pada peluang lain. Faktor penentu kapan cut loss saham
   yaitu
