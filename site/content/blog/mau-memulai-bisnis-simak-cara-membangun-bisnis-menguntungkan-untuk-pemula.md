@@ -92,29 +92,29 @@ Namun, anda tidak boleh lupa bahwa dalam bisnis kita mungkin saja menghadapi ber
 
 Bisnis skala besar maupun kecil memiliki tujuan sama, yaitu mendapatkan keuntungan atau laba. Ini dia cara membangun bisnis untuk pemula yang harus Anda terapkan:
 
-1. ### Memahami Finansial Perusahaan
+### Memahami Finansial Perusahaan
 
 Saat baru merintis usaha, mengelola keuangan perusahaan adalah hal yang harus diperhatikan. Karena mendapatkan keuntungan yang dapat diandalkan untuk pengembangan perusahaan sangatlah penting untuk keberlangsungan.
 
 Anda perlu memiliki pengetahuan dasar tentang istilah keuangan dan kemampuan membaca laporan keuangan. Mampu membaca neraca, laporan laba rugi, dan laporan arus kas mengartikan Anda akan dapat berpartisipasi penuh dalam percakapan tentang bagaimana menghasilkan keuntungan.
 
-2. ### Membuat Business Map
+### Membuat Business Map
 
 Business map adalah peta visual dari cara kerja bisnis atau alur proses bisnis dari awal hingga tahap akhir. Mengetahui business map atau memetakan perusahaan Anda akan membantu mengidentifikasi posisi perusahaan di mata konsumen, kompetitor, dan pasar.
 
 Membuat business map membantu melihat keunggulan apa yang dimiliki bisnis dibanding pesaing serta membantu menentukan tujuan jangka panjang yang ingin dicapai.
 
-3. ### Buatlah SMART Goals
+### Buatlah SMART Goals
 
 Memiliki tujuan (goals) yang realistis dengan metode SMART: Specific, Measurable, Achievable, Realistic dan ada Time Frame. Contoh tujuan tidak realistis adalah ketika perusahaan baru didirikan hari ini tapi minggu depan menginginkan pendapatan Rp 10 miliar, caranya gimana??
 
 Jadi cara menentukan tujuan dengan SMART goal yaitu menentukan tujuan yang spesifik serta dapat dicapai dan diukur atau ditrack hasilnya berkala dalam frame waktu yang ditentukan dan sesuai dengan visi perusahaan. 
 
-4. ### Mengetahui Celah untuk Meningkatkan Perusahaan
+### Mengetahui Celah untuk Meningkatkan Perusahaan
 
 Ketahui apa hambatan atau kekurangan dari internal perusahaan Anda. Misal leadership dari suatu tim kurang baik atau ada masalah dari suatu divisi? Selain itu, lihat juga diri Anda apakah emosi dan preferensi Anda menghambat perusahaan berkembang?
 
-5. ### Memiliki Tim yang Tepat
+### Memiliki Tim yang Tepat
 
 Identifikasi kekuatan dan kelemahan Anda dalam mengelola bisnis. Kemudian tentukan siapa yang perlu Anda pekerjakan untuk mengisi celah tersebut. Mungkin Anda membutuhkan seorang akuntan atau tim sales yang proaktif. Maka kata hire right atau memiliki dan memiliki tim yang tepat harus diterapkan.
 
@@ -150,23 +150,16 @@ Dibalik potensi keuntungan yang besar, membangun bisnis juga memiliki risiko yan
 
 Tingginya risiko kerugian ini juga disebabkan oleh masih kurangnya pengalaman anda sebagai pemula dalam mengelola bisnis. Oleh sebab itu, anda harus melakukan analisis dengan baik sebelum memulai suatu bisnis.
 
-Apabila anda belum sanggup untuk menanggung risiko yang besar, ada cara yang lebih mudah yaitu investasi bisnis dengan skema [**equity crowdfunding**.](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog) 
+Apabila anda belum sanggup untuk menanggung risiko yang besar, ada cara yang lebih mudah yaitu investasi bisnis dengan skema [**equity crowdfunding**.](https://app.landx.id/?utm_source=Organic+Page&utm_medium=Content+Blog&utm_campaign=BlogLandX&utm_id=Blog) 
 
 Sistem ini membuat risiko kerugian anda menjadi lebih kecil karena bisnis yang anda danai akan dikelola oleh pihak yang sudah berpengalaman. Selain itu, cara ini sangat cocok untuk pemula karena investasi ini bisa dimulai dengan modal kecil.
 
 Karena itu, tunggu apalagi yuk…
 
-**[Yuk Temukan Bisnis Menjanjikan dengan Keuntungan Terbaik di LandX](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)**
+**[Yuk Temukan Bisnis Menjanjikan dengan Keuntungan Terbaik di LandX](https://app.landx.id/?utm_source=Organic+Page&utm_medium=Content+Blog&utm_campaign=BlogLandX&utm_id=Blog)**
 
-[![miliki bisnis modal kecil cuma dengan 1 jutaan dapat 4 cabang ](https://accountgram-production.sfo2.cdn.digitaloceanspaces.com/landx_ghost/2021/11/jadi-owner-bisnis-hanya-1-jutaan-dengan-cuan-yang-sangat-menjanjikan.png)](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)**[Biar Terus Update Berbagai Info Terbaru Seputar Bisnis, Yuk Follow Instagram Kami di @landx.id](https://instagram.com/landx.id?utm_medium=copy_link)**
+<!--StartFragment-->
 
-- - -
+[![miliki bisnis modal kecil cuma dengan 1 jutaan dapat 4 cabang ](https://accountgram-production.sfo2.cdn.digitaloceanspaces.com/landx_ghost/2021/11/jadi-owner-bisnis-hanya-1-jutaan-dengan-cuan-yang-sangat-menjanjikan.png)](https://app.landx.id/?utm_source=Organic+Page&utm_medium=Content+Blog&utm_campaign=BlogLandX&utm_id=Blog)
 
-**Baca Juga:**
-
-* [Mau Mulai Usaha? Berikut Rekomendasi Usaha yang Menjanjikan dengan Modal Kecil yang Bisa Dicoba](https://landx.id/blog/usaha-yang-menjanjikan-dengan-modal-kecil/)
-* [Tips Sukses Membangun Bisnis F&B yang Sukses dan Menguntungkan](https://landx.id/blog/memulai-bisnis-f-b/)
-
-- - -
-
-**\#SekarangBisa**
+<!--EndFragment-->
