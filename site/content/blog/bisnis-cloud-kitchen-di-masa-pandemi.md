@@ -32,7 +32,7 @@ Bisnis F&B menjadi salah satu sektor yang mendapatkan pengaruh cukup besar karen
 
 Karena itu, banyak bisnis F&B di Indonesia beralih ke model cloud kitchen untuk mengoptimalkan proses bisnis mereka semasa pembatasan sosial seperti sekarang ini.
 
-Sebenarnya,*[](https://landx.id/project/index.html) [cloud kitchen](https://landx.id/project/index.html)*  bisa dibilang merupakan konsep bisnis F&B yang bisa dibilang cocok untuk jangka panjang karena sebelum pandemi pun pemesanan makanan lewat online sudah menjadi kebiasaan baru di tengah masyarakat.
+Sebenarnya,[](https://landx.id/project/index.html)* [cloud kitchen](https://app.landx.id/?utm_source=Organic+Page&utm_medium=Content+Blog&utm_campaign=BlogLandX&utm_id=Blog)*  bisa dibilang merupakan konsep bisnis F&B yang bisa dibilang cocok untuk jangka panjang karena sebelum pandemi pun pemesanan makanan lewat online sudah menjadi kebiasaan baru di tengah masyarakat.
 
 Karena itu, yuk kita bahas lebih lanjut tentang apa cloud kitchen dan bagaimana cara membangun bisnis cloud kitchen dengan modal kecil.
 
@@ -46,11 +46,11 @@ Konsep cloud kitchen ini juga sering disebut dnegan istilah dapur bersama karena
 
 Apabila anda masih belum familiar dengan sistem ini, cloud kitchen di Indonesia diadopsi oleh banyak bisnis fnb dalam beberapa waktu belakangan di mana usaha makanan hanya menerima pesanan melalui virtual seperti lewat website, aplikasi, dan berbagai jaringan internet lain.
 
-Contohnya adalah **[Hangry](https://landx.id/project/index.html)**  sebagai salah satu bisnis *cloud kitchen* Indonesia yang mengembangkan aplikasi untuk mendukung bisnis berjalan dengan *cloud kitchen* berjalan dengan lebih optimal.
+Contohnya adalah **[Hangry](https://app.landx.id/?utm_source=Organic+Page&utm_medium=Content+Blog&utm_campaign=BlogLandX&utm_id=Blog)**  sebagai salah satu bisnis *cloud kitchen* Indonesia yang mengembangkan aplikasi untuk mendukung bisnis berjalan dengan *cloud kitchen* berjalan dengan lebih optimal.
 
 Bisnis dengan konsep ini membuat menghemat biaya karena tidak perlu menyediakan meja dan bangku untuk konsumen sehingga dapat menghemat biaya operasional. Selain itu,  sistem ini menjadi solusi bagi pebisnis untuk memperkecil biaya yang akan mereka keluarkan saat memulai bisnis, apalagi sistem *dine-in* belum bisa dioperasikan secara optimal mengacu pada pembatasan selama masa pandemi.
 
-[Model bisnis F&B](https://landx.id/project/index.html) ini kini semakin mudah untuk diadopsi dengan adanya dukungan dari berbagai platform pemesanan makanan online sehingga adopsi sistem ini semakin cepat. Dalam model bisnis ini pebisnis dapat fokus dalam menyiapkan dapur yang optimal untuk produksi produk makanan yang akan anda jual.
+[Model bisnis F&B](https://app.landx.id/?utm_source=Organic+Page&utm_medium=Content+Blog&utm_campaign=BlogLandX&utm_id=Blog) ini kini semakin mudah untuk diadopsi dengan adanya dukungan dari berbagai platform pemesanan makanan online sehingga adopsi sistem ini semakin cepat. Dalam model bisnis ini pebisnis dapat fokus dalam menyiapkan dapur yang optimal untuk produksi produk makanan yang akan anda jual.
 
 Akan tetapi bisnis ini tentu saja tetap membutuhkan modal yang cukup banyak dan kemampuan anda dalam manajemen bisnis F&B yang akan anda lakukan mulai dari produksi hingga perawatan dapur yang harus anda lakukan.
 
@@ -92,15 +92,10 @@ Dalam [equity crowdfunding](https://landx.id/) anda akan diberikan kesempatan un
 
 Karena itu anda perlu [platform equity crowdfunding terpercaya](https://landx.id/) yang memberikan anda pilihan investasi bisnis terbaik.
 
-## **[Yuk Mulai Investasi Bisnis Pertama Anda bersama LandX](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)**
+## **[Yuk Mulai Investasi Bisnis Pertama Anda bersama LandX](https://app.landx.id/?utm_source=Organic+Page&utm_medium=Content+Blog&utm_campaign=BlogLandX&utm_id=Blog)**
 
-[![miliki bisnis modal kecil cuma dengan 1 jutaan dapat 4 cabang ](https://accountgram-production.sfo2.cdn.digitaloceanspaces.com/landx_ghost/2021/11/jadi-owner-bisnis-hanya-1-jutaan-dengan-cuan-yang-sangat-menjanjikan.png)](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)
+<!--StartFragment-->
 
-### [Mau Berbagai Informasi Seputar Bisnis Lainnya? Yuk Follow @landx.id di Instagram](https://www.instagram.com/landx.id/?utm_medium=copy_link)
+[![miliki bisnis modal kecil cuma dengan 1 jutaan dapat 4 cabang ](https://accountgram-production.sfo2.cdn.digitaloceanspaces.com/landx_ghost/2021/11/jadi-owner-bisnis-hanya-1-jutaan-dengan-cuan-yang-sangat-menjanjikan.png)](https://app.landx.id/?utm_source=Organic+Page&utm_medium=Content+Blog&utm_campaign=BlogLandX&utm_id=Blog)
 
-**\#SekarangBisa**
-
-**Baca Juga :**
-
-* **[Franchise Makanan: Kelebihan dan Kekurangan Memulai Bisnis Makanan dengan Sistem Franchise](https://landx.id/blog/memulai-bisnis-franchise-makanan/)**
-* **[Pahami 10+ Istilah Penting dalam Investasi agar Investasi Bisnis Anda menjadi Lebih Mudah](https://landx.id/blog/pahami-10-istilah-penting-dalam-investasi-agar-investasi-bisnis-anda-menjadi-lebih-mudah/)**
+<!--EndFragment-->
