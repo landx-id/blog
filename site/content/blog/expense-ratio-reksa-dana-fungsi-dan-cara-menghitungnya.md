@@ -116,14 +116,14 @@ Asset under management atau AUM adalah total nilai investasi yang dikelola di re
 
 Begitulah pengertian dan cara menghitung expense ratio reksa dana. Semoga tulisan ini dapat membantu Anda dalam menganalisis aset reksa dana.
 
-Berinvestasi pada reksa dana memang praktis, karena terdapat beberapa produk diversifikasi investasi yang cocok untuk jangka panjang di dalamnya. Selain itu, Anda juga dapat diversifikasi investasi pada saham bisnis di [equity crowdfunding](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog). 
+Berinvestasi pada reksa dana memang praktis, karena terdapat beberapa produk diversifikasi investasi yang cocok untuk jangka panjang di dalamnya. Selain itu, Anda juga dapat diversifikasi investasi pada saham bisnis di [equity crowdfunding](https://app.landx.id/?utm_source=Organic+Page&utm_medium=Content+Blog&utm_campaign=BlogLandX&utm_id=Blog). 
 
-Berinvestasi di [equity crowdfunding](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog) juga dapat menjadi strategi jangka panjang untuk memaksimalkan keuntungan diversifikasi investasi Anda.
+Berinvestasi di [equity crowdfunding](https://app.landx.id/?utm_source=Organic+Page&utm_medium=Content+Blog&utm_campaign=BlogLandX&utm_id=Blog) juga dapat menjadi strategi jangka panjang untuk memaksimalkan keuntungan diversifikasi investasi Anda.
 
-## **[Apa Anda tertarik Investasi di Equity Crowdfunding? Yuk, Lihat Caranya di Sini](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)**
+## **[Apa Anda tertarik Investasi di Equity Crowdfunding? Yuk, Lihat Caranya di Sini](https://app.landx.id/?utm_source=Organic+Page&utm_medium=Content+Blog&utm_campaign=BlogLandX&utm_id=Blog)**
 
 <!--StartFragment-->
 
-![miliki bisnis modal kecil cuma dengan 1 jutaan dapat 4 cabang ](https://accountgram-production.sfo2.cdn.digitaloceanspaces.com/landx_ghost/2021/11/jadi-owner-bisnis-hanya-1-jutaan-dengan-cuan-yang-sangat-menjanjikan.png)
+[![miliki bisnis modal kecil cuma dengan 1 jutaan dapat 4 cabang ](https://accountgram-production.sfo2.cdn.digitaloceanspaces.com/landx_ghost/2021/11/jadi-owner-bisnis-hanya-1-jutaan-dengan-cuan-yang-sangat-menjanjikan.png)](https://app.landx.id/?utm_source=Organic+Page&utm_medium=Content+Blog&utm_campaign=BlogLandX&utm_id=Blog)
 
 <!--EndFragment-->
