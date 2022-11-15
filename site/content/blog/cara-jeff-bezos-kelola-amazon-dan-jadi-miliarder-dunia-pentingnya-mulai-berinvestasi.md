@@ -102,7 +102,7 @@ Dengan bantuan teknologi, investasi semakin mudah dilakukan. Hanya dengan melalu
 
 Menurut Investopedia ada dua cara untuk kamu bisa mendapatkan uang. Pertama dengan memiliki pendapatan, entah dengan bekerja untuk dirimu sendiri atau bekerja untuk orang lain.
 
-Kedua ialah dengan keuntungan dari investasi, ada banyak instrumen investasi yang bisa kamu pilih sesuai **[profil risiko](https://landx.id/blog/alasan-kenapa-mitigasi-risiko-berperan-penting-terhadap-investasi-jangka-panjang-anda/)** anda. Seperti[saham, reksadana, properti, emas, deposito dan *cryptocurrency* yang *booming*](https://landx.id/blog/tag/instrumen-investasi/) saat ini.
+Kedua ialah dengan keuntungan dari investasi, ada banyak instrumen investasi yang bisa kamu pilih sesuai **[profil risiko](https://landx.id/blog/alasan-kenapa-mitigasi-risiko-berperan-penting-terhadap-investasi-jangka-panjang-anda/)** anda. Seperti [saham, reksadana, properti, emas, deposito dan *cryptocurrency* yang *booming*](https://landx.id/blog/tag/instrumen-investasi/) saat ini.
 
 Melindungi dari inflasi, inflasi akan membuat kekuatan daya beli uangmu mengalami penurunan jika disimpan dalam bentuk *cash*. Dapat kamu rasakan sendiri jika 10 tahun yang lalu dengan uang Rp 50.000 kamu bisa membeli beberapa barang, namun hari ini dengan jumlah yang sama kamu hanya bisa mendapatkan segelas kopi saja.
 
@@ -114,9 +114,9 @@ Hal ini akan menguntungkan bagi kamu karena keuntungan dari aset investasi terse
 
 ## Cara Mudah Mulai Berinvestasi
 
-Situasi serba digital saat ini sangat membantu kita mudah mengakses informasi terkait investasi. Juga, tentunya semakin mudah untuk memulai berinvestasi itu sendiri. Banyak pilihan *platform* penyedia jasa investasi yang bisa kamu pilih mulai dari saham, reksadana, bitcoin, krypto, hingga ***[crowdfunding](https://landx.id/project/)***.
+Situasi serba digital saat ini sangat membantu kita mudah mengakses informasi terkait investasi. Juga, tentunya semakin mudah untuk memulai berinvestasi itu sendiri. Banyak pilihan *platform* penyedia jasa investasi yang bisa kamu pilih mulai dari saham, reksadana, bitcoin, krypto, hingga ***[crowdfunding](https://app.landx.id/?utm_source=Organic+Page&utm_medium=Content+Blog&utm_campaign=BlogLandX&utm_id=Blog)***.
 
-Solusi untuk kamu yang ingin berinvestasi juga menjadi pemilik sebuah bisnis ialah melalui **[investasi patungan bisnis](https://landx.id/project/)** atau [***equity crowdfunding***.](https://landx.id/project/) Kamu bisa memilih sebuah bisnis untuk didanai dan mendapatkan keuntungan dari dividen. Dividen ini berasal dari keuntungan bisnis dari penjualan yang mereka lakukan dan dibagi sesuai perjanjian yang mereka tawarkan.
+Solusi untuk kamu yang ingin berinvestasi juga menjadi pemilik sebuah bisnis ialah melalui **[investasi patungan bisnis](https://app.landx.id/?utm_source=Organic+Page&utm_medium=Content+Blog&utm_campaign=BlogLandX&utm_id=Blog)** atau [***equity crowdfunding***.](https://app.landx.id/?utm_source=Organic+Page&utm_medium=Content+Blog&utm_campaign=BlogLandX&utm_id=Blog) Kamu bisa memilih sebuah bisnis untuk didanai dan mendapatkan keuntungan dari dividen. Dividen ini berasal dari keuntungan bisnis dari penjualan yang mereka lakukan dan dibagi sesuai perjanjian yang mereka tawarkan.
 
 - - -
 
@@ -135,21 +135,10 @@ Namun, melalui investasi patungan bisnis akan menjamin kamu sebagai investor tet
 
 Karena itu, jika kamu menginginkan investasi dengan risiko minim bisa mencoba pelajari sistem *equity crowdfunding*. Dengan berinvestasi pada suatu bisnis, tentu kamu bisa mendapatkan *[passive income](https://landx.id/blog/investasi-dengan-passive-income-untuk-masa-depan/)* tanpa harus berhenti dari pekerjaanmu yang sekarang.
 
-## [Yuk, nambah passive income lewat investasi patungan bisnis!](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)
+## [Yuk, nambah passive income lewat investasi patungan bisnis!](https://app.landx.id/?utm_source=Organic+Page&utm_medium=Content+Blog&utm_campaign=BlogLandX&utm_id=Blog)
 
-[![miliki bisnis modal kecil cuma dengan 1 jutaan dapat 4 cabang ](https://accountgram-production.sfo2.cdn.digitaloceanspaces.com/landx_ghost/2021/11/jadi-owner-bisnis-hanya-1-jutaan-dengan-cuan-yang-sangat-menjanjikan.png)](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)
+<!--StartFragment-->
 
-[](http://landx.id/project/)**\#YukPatunganBisnis**
+[![miliki bisnis modal kecil cuma dengan 1 jutaan dapat 4 cabang ](https://accountgram-production.sfo2.cdn.digitaloceanspaces.com/landx_ghost/2021/11/jadi-owner-bisnis-hanya-1-jutaan-dengan-cuan-yang-sangat-menjanjikan.png)](https://app.landx.id/?utm_source=Organic+Page&utm_medium=Content+Blog&utm_campaign=BlogLandX&utm_id=Blog)
 
-**[Jangan Lupa Follow Instagram @landx.id Untuk Berbagai Tips Investasi Menguntungkan Lainnya](https://www.instagram.com/landx.id/?utm_medium=copy_link)**
-
-- - -
-
-**Baca Juga:**
-
-* [Investasi dengan Passive Income untuk Masa Depan](https://landx.id/blog/investasi-dengan-passive-income-untuk-masa-depan/)
-* [Investasi Selalu Rugi? Coba Lakukan Diversifikasi. Ini 4 Cara Melakukannya!](https://landx.id/blog/arti-penting-diversifikasi-dalam-investasi/)
-
-- - -
-
-**\#YukPatunganBisnis    #LandX.id    #landx         #landx.id    #InvestasiBisnis  #SecuritiesCrowdfunding   #EquityCrowdfunding    #InvestasiMenguntungkan     #Urundana    #BisnisPatungan    #InvestasiUsaha**
+<!--EndFragment-->
