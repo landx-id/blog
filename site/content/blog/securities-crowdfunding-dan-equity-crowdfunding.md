@@ -38,7 +38,7 @@ SCF memberikan menawarkan jenis efek yang beragam seperti saham, obligasi, dan s
 
 Supaya lebih jelas mari kita bahas lebih lanjut *tentang* [securities crowdfunding.](https://landx.id/)_
 
-## Perkembangan Securities Crowdfunding di Indonesia 
+## Perkembangan Securities Crowdfunding di Indonesia
 
 Securities crowdfunding (SCF) adalah sistem pendanaan usaha yang dilakukan dengan sistem patungan dari beberapa investor melalui platform crowdfunding yang bertugas menghimpun dan menyalurkan modal yang telah dikumpulkan kepada bisnis.
 
@@ -106,27 +106,16 @@ Selain itu, anda juga harus memilih platform yang sudah berpengalaman dalam mela
 
 Hal ini karena platform crowdfunding pihak yang akan membantu anda mengevaluasi apakah suatu bisnis potensial atau tidak dalam jangka panjang.
 
-[LandX](https://landx.id/project/index.html) merupakan salah satu platform equity crowdfunding yang sedang berproses menjadi securities crowdfunding dengan pengalaman melakukan crowdfunding bagi berbagai [bisnis potensial](https://landx.id/project/index.html) dari berbagai bidang.
+[LandX](https://app.landx.id/?utm_source=Organic+Page&utm_medium=Content+Blog&utm_campaign=BlogLandX&utm_id=Blog) merupakan salah satu platform equity crowdfunding yang sedang berproses menjadi securities crowdfunding dengan pengalaman melakukan crowdfunding bagi berbagai [bisnis potensial](https://landx.id/project/index.html) dari berbagai bidang.
 
 Dalam beberapa waktu terakhir [LandX](https://landx.id/project/index.html) telah melakukan listing beberapa bisnis dari sektor jasa, F&B, properti, hingga klinik kecantikan dengan potensi pertumbuhan yang menjanjikan.
 
 Karena itu, tunggu apalagi….
 
-**[Yuk Temukan Bisnis Terbaik untuk Investasi Anda di LandX](https://landx.id/project/index.html)**
+**[Yuk Temukan Bisnis Menjanjikan dengan Keuntungan Terbaik di LandX](https://app.landx.id/?utm_source=Organic+Page&utm_medium=Content+Blog&utm_campaign=BlogLandX&utm_id=Blog)**
 
-**[Yuk Temukan Bisnis Menjanjikan dengan Keuntungan Terbaik di LandX](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)**
+<!--StartFragment-->
 
-[![miliki bisnis modal kecil cuma dengan 1 jutaan dapat 4 cabang ](https://accountgram-production.sfo2.cdn.digitaloceanspaces.com/landx_ghost/2021/11/jadi-owner-bisnis-hanya-1-jutaan-dengan-cuan-yang-sangat-menjanjikan.png)](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)
+[![miliki bisnis modal kecil cuma dengan 1 jutaan dapat 4 cabang ](https://accountgram-production.sfo2.cdn.digitaloceanspaces.com/landx_ghost/2021/11/jadi-owner-bisnis-hanya-1-jutaan-dengan-cuan-yang-sangat-menjanjikan.png)](https://app.landx.id/?utm_source=Organic+Page&utm_medium=Content+Blog&utm_campaign=BlogLandX&utm_id=Blog)
 
-**[Follow Kami Yuk di Instagram @landx.id Untuk Berbagai Update Terbaru Terkait Investasi](https://www.instagram.com/landx.id/?utm_medium=copy_link)**
-
-- - -
-
-**Baca Juga:**
-
-* [Resmi Diluncurkan, Berikut Perbedaan antara Securities Crowdfunding (SCF) dan Equity Crowdfunding (ECF)](https://landx.id/blog/kenali-berbagai-istilah-dalam-securities-crowdfunding-agar-investasi-anda-menjadi-semakin-mudah/)
-* [Kemudahan Investasi Bisnis Jangka Panjang melalui Securities Crowdfunding](https://landx.id/blog/securities-crowdfunding/)
-
-- - -
-
-‌#LandX.id    #landx.id    #InvestasiBisnis    #SecuritiesCrowdfunding #EquityCrowdfunding    #InvestasiMenguntungkan    #Urundana    #BisnisPatungan    #InvestasiUsaha
+<!--EndFragment-->
