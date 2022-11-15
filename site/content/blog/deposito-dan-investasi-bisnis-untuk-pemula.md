@@ -94,7 +94,7 @@ Tiap investasi memiliki kelebihan dan kekurangan tertentu, berikut kelebihan dep
 * Sertifikat deposito juga bisa dijadikan jaminan untuk kredit.
 * Nilai suku bunga yang cenderung lebih tinggi dibanding menabung biasa
 
-### **2. Kekurangan Deposito** 
+### **2. Kekurangan Deposito**
 
 * Hasil *return* yang rendah. Meski deposito adalah instrumen investasi paling aman, imbal balik keuntungannya juga dapat dikatakan paling rendah dibanding instrumen lainnya.
 * Uang anda akan tertahan sampai dengan akhir periode penyimpanan. 
@@ -129,19 +129,10 @@ Apabila anda rasa cocok untuk mulai investasi bisnis, maka anda butuh memilih [p
 
 **[LandX merupakan platform equity crowdfunding](https://landx.id/)** \*\*\*\* yang akan membantu anda dalam memulai investasi bisnis dengan modal kecil. LandX akan membantu menyalurkan investasi anda ke dalam berbagai bisnis potensial.
 
-### **[Yuk Temukan Bisnis Menjanjikan dengan Keuntungan Terbaik di LandX](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)**
+### **[Yuk Temukan Bisnis Menjanjikan dengan Keuntungan Terbaik di LandX](https://app.landx.id/?utm_source=Organic+Page&utm_medium=Content+Blog&utm_campaign=BlogLandX&utm_id=Blog)**
 
-[![miliki bisnis modal kecil cuma dengan 1 jutaan dapat 4 cabang ](https://accountgram-production.sfo2.cdn.digitaloceanspaces.com/landx_ghost/2021/11/jadi-owner-bisnis-hanya-1-jutaan-dengan-cuan-yang-sangat-menjanjikan.png)](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)
+<!--StartFragment-->
 
-**[Yuk Patungan Bisnis Menguntungkan Bareng LandX](https://landx.id/project/)**
+[![miliki bisnis modal kecil cuma dengan 1 jutaan dapat 4 cabang ](https://accountgram-production.sfo2.cdn.digitaloceanspaces.com/landx_ghost/2021/11/jadi-owner-bisnis-hanya-1-jutaan-dengan-cuan-yang-sangat-menjanjikan.png)](https://app.landx.id/?utm_source=Organic+Page&utm_medium=Content+Blog&utm_campaign=BlogLandX&utm_id=Blog)
 
-- - -
-
-**Baca Juga :**
-
-* **[Rekomendasi Bisnis Investasi Online Terbaik yang Aman untuk Pemula](https://landx.id/blog/rekomendasi-bisnis-investasi-online-terbaik-yang-aman-untuk-pemula/)**
-* **[Cara  Investasi Bagi Hasil Terpercaya agar Investasi Usaha Anda bisa Memberikan Passive Income yang Maksimal](https://landx.id/blog/investasi-dengan-passive-income-untuk-masa-depan/)**
-
-- - -
-
-**\#YukPatunganBisnis	#LandX.id    #landx.id    #InvestasiBisnis    #SecuritiesCrowdfunding    #EquityCrowdfunding    #InvestasiMenguntungkan    #Urundana    #BisnisPatungan    #InvestasiUsaha**
+<!--EndFragment-->
