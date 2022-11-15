@@ -28,8 +28,6 @@ featuredImage:
 Bisnis fnb dessert satu ini gencar banget ekspansi, Hong Tang sukses gelar grand opening gerai terbarunya di Pondok Indah Mall 2. 
 Outlet Hong Tang PIM 2 dapat hadir setelah meraih pendanaan hingga lebih Rp 7M melalui platform crowdfunding [LandX](https://landx.id/). Grand opening Hong Tang PIM 2 sendiri telah digelar pada Sabtu, 9 April 2022 secara meriah.
 
-https://www.youtube.com/watch?v=A8_TAWqrd7c
-
 {{< youtube id="A8_TAWqrd7c" >}}
 
 {{< button link="https://www.youtube.com/watch?v=A8_TAWqrd7c" text="Watch This Video" >}}
@@ -77,8 +75,10 @@ Keuntungan investasi bisnis di [LandX](https://landx.id/) adalah kamu bisa jadi 
 
 Ingin jadi investor bisnis dan dapat keuntungan rutin?
 
-## [Yuk, download aplikasi LandX dan pilih bisnisnya sekarang juga!](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)
+## [Yuk, download aplikasi LandX dan pilih bisnisnya sekarang juga!](https://app.landx.id/?utm_source=Organic+Page&utm_medium=Content+Blog&utm_campaign=BlogLandX&utm_id=Blog)
 
-**Yuk Temukan Bisnis Menjanjikan dengan Keuntungan Terbaik di LandX**
+<!--StartFragment-->
 
-[![miliki bisnis modal kecil cuma dengan 1 jutaan dapat 4 cabang ](https://accountgram-production.sfo2.cdn.digitaloceanspaces.com/landx_ghost/2021/11/jadi-owner-bisnis-hanya-1-jutaan-dengan-cuan-yang-sangat-menjanjikan.png)](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)
+[![miliki bisnis modal kecil cuma dengan 1 jutaan dapat 4 cabang ](https://accountgram-production.sfo2.cdn.digitaloceanspaces.com/landx_ghost/2021/11/jadi-owner-bisnis-hanya-1-jutaan-dengan-cuan-yang-sangat-menjanjikan.png)](https://app.landx.id/?utm_source=Organic+Page&utm_medium=Content+Blog&utm_campaign=BlogLandX&utm_id=Blog)
+
+<!--EndFragment-->
