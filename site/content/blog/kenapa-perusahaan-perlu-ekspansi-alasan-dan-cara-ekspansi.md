@@ -126,9 +126,9 @@ Dengan menawarkan value perusahaan Anda didampingi kinerja perusahaan selama ini
 
 Cara mendapatkan modal usaha selanjutnya adalah dengan menawarkan saham perusahaan Anda kepada masyarakat melalui sistem [equity crowdfunding](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog). [Equity crowdfunding](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog) adalah skema pendanaan usaha dari masyarakat luas dengan bentuk kepemilikan saham.
 
-Anda dapat menawarkan saham perusahaan Anda kepada masyarakat melalui platform [equity crowdfunding](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog). Sebagai pemilik bisnis Anda bisa mendapatkan modal dengan mudah dengan waktu yang efisien (sekitar 45 hari) dan berkomunikasi dengan investor.
+Anda dapat menawarkan saham perusahaan Anda kepada masyarakat melalui platform [equity crowdfunding](https://app.landx.id/?utm_source=Organic+Page&utm_medium=Content+Blog&utm_campaign=BlogLandX&utm_id=Blog). Sebagai pemilik bisnis Anda bisa mendapatkan modal dengan mudah dengan waktu yang efisien (sekitar 45 hari) dan berkomunikasi dengan investor.
 
-Investor [equity crowdfunding](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog) dapat berinvestasi dengan modal kecil untuk membantu proyek perusahaan menjalankan strategi ekspansi dan mendapat imbal hasil berupa dividen. Dividen dibagikan oleh perusahaan dari profit operasional proyek yang dijalankan.
+Investor [equity crowdfunding](https://app.landx.id/?utm_source=Organic+Page&utm_medium=Content+Blog&utm_campaign=BlogLandX&utm_id=Blog) dapat berinvestasi dengan modal kecil untuk membantu proyek perusahaan menjalankan strategi ekspansi dan mendapat imbal hasil berupa dividen. Dividen dibagikan oleh perusahaan dari profit operasional proyek yang dijalankan.
 
 **Setelah mengetahui** alasan sebuah perusahaan melakukan bisnis, apakah perusahaan Anda sudah di tahap siap untuk menjalankan ekspansi bisnis? Dengan ekspansi bisnis, perusahaan Anda dapat menjangkau pasar lebih luas sembari meningkatkan value perusahaan.
 
@@ -136,10 +136,10 @@ Banyak cara untuk dapatkan modal untuk ekspansi bisnis Anda, mulai dari dana sen
 
 Bagaimana? Apakah Anda tertarik menjalin kerja sama dengan para pemilik modal?
 
-## **[Dapatkan Modal Ekspansi Bisnis Mudah dan Efisien Lewat LandX](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)**
+## **[Dapatkan Modal Ekspansi Bisnis Mudah dan Efisien Lewat LandX](https://app.landx.id/?utm_source=Organic+Page&utm_medium=Content+Blog&utm_campaign=BlogLandX&utm_id=Blog)**
 
 <!--StartFragment-->
 
-![miliki bisnis modal kecil cuma dengan 1 jutaan dapat 4 cabang ](https://accountgram-production.sfo2.cdn.digitaloceanspaces.com/landx_ghost/2021/11/jadi-owner-bisnis-hanya-1-jutaan-dengan-cuan-yang-sangat-menjanjikan.png)
+[![miliki bisnis modal kecil cuma dengan 1 jutaan dapat 4 cabang ](https://accountgram-production.sfo2.cdn.digitaloceanspaces.com/landx_ghost/2021/11/jadi-owner-bisnis-hanya-1-jutaan-dengan-cuan-yang-sangat-menjanjikan.png)](https://app.landx.id/?utm_source=Organic+Page&utm_medium=Content+Blog&utm_campaign=BlogLandX&utm_id=Blog)
 
 <!--EndFragment-->
