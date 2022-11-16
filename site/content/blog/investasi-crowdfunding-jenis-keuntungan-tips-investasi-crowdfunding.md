@@ -1,5 +1,5 @@
 ---
-draft: true
+draft: false
 author: Alula
 title: "Investasi Crowdfunding: Jenis, Keuntungan, Tips Investasi Crowdfunding"
 metaTitle: "Jenis Crowdfunding: Tips dan Perbedaan Investasi ECF dan SCF"
