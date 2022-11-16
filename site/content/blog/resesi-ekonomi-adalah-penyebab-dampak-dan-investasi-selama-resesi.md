@@ -5,10 +5,10 @@ title: "Resesi Ekonomi Adalah: Penyebab, Dampak, dan Investasi Selama Resesi"
 metaTitle: "Masa Resesi Adalah: Memahami Investasi Selama Resesi Ekonomi Indonesia"
 metaDescription: Resesi ekonomi adalah kondisi suatu negara yang mengalami
   penurunan aktivitas ekonomi dalam waktu berbulan-bulan hingga bertahun-tahun.
-intro: "Resesi ekonomi adalah kondisi yang sangat ditakuti oleh seluruh negara
-  di dunia. Apa yang terjadi jika resesi? Sektor perekonomian suatu negara dapat
-  kolaps akibat dampak resesi ekonomi. "
-date: 2022-08-12T08:00:45.192Z
+intro: Resesi ekonomi adalah kondisi yang sangat ditakuti oleh seluruh negara di
+  dunia. Apa yang terjadi jika resesi ekonomi adalah sektor perekonomian suatu
+  negara dapat kolaps. Pahami lengkapnya akibat dampak resesi ekonomi yuk!
+date: 2022-11-16T08:22:56.018Z
 tag:
   - Resesi Ekonomi
   - Resesi
