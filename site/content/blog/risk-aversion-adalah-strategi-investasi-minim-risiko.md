@@ -93,3 +93,9 @@ Equity crowdfunding adalah pendanaan proyek bisnis dari masyarakat dengan bentuk
 Jika kamu tertarik diversifikasi portofolio dengan investasi [equity crowdfunding](https://landx.id/) maka kamu dapat kenalan dengan platform [equity crowdfunding](https://landx.id/) terdepan di Indonesia yaitu [LandX](https://landx.id/).[](https://app.landx.id/?utm_source=Organic+Page&utm_medium=Content+Blog&utm_campaign=BlogLandX&utm_id=Blog)
 
 ## [\#MulaiSekarang Meminimalisir Potensi Kerugian Investasi Bisa dengan Diversifikasi Portofolio](https://app.landx.id/?utm_source=Organic+Page&utm_medium=Content+Blog&utm_campaign=BlogLandX&utm_id=Blog)
+
+<!--StartFragment-->
+
+[![miliki bisnis modal kecil cuma dengan 1 jutaan dapat 4 cabang ](https://accountgram-production.sfo2.cdn.digitaloceanspaces.com/landx_ghost/2021/11/jadi-owner-bisnis-hanya-1-jutaan-dengan-cuan-yang-sangat-menjanjikan.png)](https://app.landx.id/?utm_source=Organic+Page&utm_medium=Content+Blog&utm_campaign=BlogLandX&utm_id=Blog)
+
+<!--EndFragment-->
