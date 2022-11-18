@@ -231,7 +231,7 @@ Selain itu, data inflasi bulanan Bank Indonesia yang sebelumnya sempat mencapai 
 
 
 
-Karena itu, isu resesi global 2023 sebenarnya dapat dikatakan tidak akan berdampak terlalu signifikan pada ekonomi Indonesia.Hal ini karena jika resesi ekonomi didefinisikan dengan penurunan PDB setidaknya dua kuartal berturut-turut, maka data-data di atas mematahkan isu resesi ekonomi 2023 akan menggoyahkan Indonesia.
+Karena itu, isu resesi global 2023 sebenarnya dapat dikatakan tidak akan berdampak terlalu signifikan pada ekonomi Indonesia. Hal ini karena jika resesi ekonomi didefinisikan dengan penurunan PDB setidaknya dua kuartal berturut-turut, maka data-data di atas mematahkan isu resesi ekonomi 2023 akan menggoyahkan Indonesia.
 
 ## Investasi di Tengah Resesi Ekonomi
 
