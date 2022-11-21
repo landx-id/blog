@@ -1,6 +1,6 @@
 ---
 author: Vlora Riyandi
-title: "Investasi Bodong: Memahami Sistem Binary Option Harus Kamu Waspadai"
+title: Memahami Sistem Binary Option Harus Kamu Waspadai
 metaTitle: "Investasi Bodong: Memahami Sistem Binary Option Harus Kamu Waspadai"
 metaDescription: Asal katanya bi artinya dua dan option yaitu pilihan. Binary
   option adalah aktivitas menebak di antara dua pilihan. Binary option bukanlah
@@ -10,7 +10,7 @@ intro: Binary option atau opsi biner kini jadi perbincangan para trader saham
   Sudahkan Anda memahami apa itu binary option? Yuk, pahami mekanisme dan risiko
   di opsi biner dalam mencapai untung besar.
 isPinned: false
-date: 2022-07-22T07:38:50.151Z
+date: 2022-11-21T06:16:29.643Z
 tag:
   - investasi bodong
   - Penipuan telegram
