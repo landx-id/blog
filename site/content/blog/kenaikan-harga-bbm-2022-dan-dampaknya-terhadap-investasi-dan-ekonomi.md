@@ -9,7 +9,7 @@ metaDescription: Kenaikan harga BBM 2022 berpotensi menimbulkan efek domino
 intro: Fluktuasi harga minyak dunia telah memberi tekanan yang cukup besar
   terhadap perekonomian global. Fenomena ini memicu kenaikan harga bbm pada
   beberapa negara di belahan dunia, termasuk negara yang berada di kawasan ASEAN
-date: 2022-09-14T06:22:42.765Z
+date: 2022-11-22T10:29:36.569Z
 tag:
   - Ekonomi
 category:
