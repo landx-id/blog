@@ -89,7 +89,7 @@ Wajib untuk memiliki dana darurat bagi setiap individu dengan tanggungannya. Min
 
 **2. Melakukan Diversifikasi Portofolio Investasi**
 
-Strategi [diversifikasi portofolio](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog) dapat Anda lakukan dengan memiliki saham komoditas, emas, uang tunai dana darurat, dan lainnya. Namun, tidak ada jaminan keuangan Anda terhindar dari gerusan inflasi karena pertumbuhan ekonomi yang dapat tumbuh secara unik. 
+Strategi [diversifikasi portofolio](https://landx.id/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog) dapat Anda lakukan dengan memiliki saham komoditas, emas, uang tunai dana darurat, dan lainnya. Namun, tidak ada jaminan keuangan Anda terhindar dari gerusan inflasi karena pertumbuhan ekonomi yang dapat tumbuh secara unik. 
 
 Karena itu, penting melakukan investasi sedari dini atau mulai hari ini agar Anda dapat memersiapkan diri lebih baik sebelum inflasi terjadi. Salah satunya dengan berinvestasi pada saham bisnis privat di equity crowdfunding.
 
@@ -97,12 +97,10 @@ Equity crowdfunding adalah cara Anda dapat berinvestasi pada berbagai sektor bis
 
 Sehingga sembari Anda berinvestasi, berarti Anda ikut mendorong pertumbuhan ekonomi agar dapat memperlambat laju inflasi. Oleh karena itu.. 
 
-## [Yuk, Berinvestasi Agar Keuangan Ready Menghadapi Inflasi](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)
+## [Yuk, Berinvestasi Agar Keuangan Ready Menghadapi Inflasi](https://landx.id/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)
 
+<!--StartFragment-->
 
-
-[![miliki bisnis modal kecil cuma dengan 1 jutaan dapat 4 cabang ](https://accountgram-production.sfo2.cdn.digitaloceanspaces.com/landx_ghost/2021/11/jadi-owner-bisnis-hanya-1-jutaan-dengan-cuan-yang-sangat-menjanjikan.png)](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)
-
-<!--EndFragment-->
+[![miliki bisnis modal kecil cuma dengan 1 jutaan dapat 4 cabang ](https://accountgram-production.sfo2.cdn.digitaloceanspaces.com/landx_ghost/2021/11/jadi-owner-bisnis-hanya-1-jutaan-dengan-cuan-yang-sangat-menjanjikan.png)](https://app.landx.id/?utm_source=Organic+Page&utm_medium=Content+Blog&utm_campaign=BlogLandX&utm_id=Blog)
 
 <!--EndFragment-->
