@@ -4,10 +4,10 @@ author: Abdul Wahhab
 title: Apa Itu Blockchain? Cara Kerja, Karakteristik, dan Contoh di Indonesia
 metaTitle: Apa Itu Blockchain? Cara Kerja, Karakteristik, dan Contoh di Indonesia
 metaDescription: Teknologi blockchain adalah database tempat menyimpan transaksi
-  cryptocurrency. Contoh penerapan teknologi blockchain di Indonesia mencakup
-  sektor
+  cryptocurrency. Contoh penggunaan teknologi blockchain itu apa saja ya? Pahami
+  yuk!
 intro: >-
-  Teknologi blockchain adalah database tempat menyimpan transaksi
+  Penggunaan teknologi blockchain adalah database tempat menyimpan transaksi
   cryptocurrency. Contoh penerapan teknologi blockchain di Indonesia mencakup
   sektor finansial, makanan buah segar, hingga investasi emas digital..
 
@@ -15,7 +15,7 @@ intro: >-
   Karena itu, yuk kita bahas lebih lanjut tentang apa itu blockchain dan bagaimana cara kerja blockchain ini.
 isPinned: false
 slug: apa-itu-blockchain-ini-pengertian-kelebihan-dan-cara-kerjanya
-date: 2022-11-21T10:01:53.635Z
+date: 2022-11-25T07:04:04.788Z
 tag:
   - Instrumen Investasi
   - Blockchain
@@ -29,37 +29,39 @@ category:
   - Blockchain
   - Investasi
 ---
-Seiring meleknya masyarakat Indonesia terhadap cryptocurrency atau kripto, istilah yang mendukung seperti Blockchain juga mulai mendapat perhatian. Namun tidak semua orang paham dengan istilah tersebut.
+<!--StartFragment-->
 
-Blockchain adalah pengembangan teknologi dengan sistem digital yang membuat penyimpanan data jadi terintegrasi satu sama lain. Sistem ini menjadi populer belakangan karena sistem ini dinilai bisa digunakan diberbagai sektor bisnis.
+Seiring meleknya masyarakat Indonesia terhadap cryptocurrency atau kripto, istilah yang mendukung seperti Blockchain juga mulai mendapat perhatian. Namun tidak semua orang paham dengan apa itu blockchain.
 
-Akan tetapi, masih banyak orang yang tidak memahami baik dengan konsep ini dan berpikir bahwa blockchain hanya terbatas tentang sistem kripto semata. Padahal sistem ini sebenarnya memiliki berbagai manfaat.
+Menyelami pengertiannya, apa itu blockchain adalah pengembangan teknologi dengan sistem digital yang membuat penyimpanan data jadi terintegrasi satu sama lain. Sistem ini menjadi populer belakangan karena sistem ini dinilai bisa digunakan di berbagai sektor bisnis.
 
-Lalu, apa sebenarnya blockchain? Kenapa blockchain saat ini penting terutama bagi dunia kripto? Berikut MinLand bakal jelasin semuanya dengan lengkap melalui melalui artikel di bawah ini. Simak, ya!
+Akan tetapi, masih banyak orang yang tidak memahami baik dengan konsep ini dan berpikir bahwa apa itu blockchain hanya terbatas tentang sistem kripto semata. Padahal sistem ini sebenarnya memiliki berbagai manfaat.
+
+Lalu, apa itu blockchain? Kenapa blockchain saat ini penting terutama bagi dunia kripto? Berikut penjelasan semuanya dengan lengkap melalui melalui artikel di bawah ini. Simak, ya!
 
 - - -
 
 ## Apa Itu Blockchain?
 
-Diperkenalkan pertama kali oleh **Satoshi Nakamoto** pada tahun 2008, Blockchain sederhananya adalah sebuah buku besar digital yang mencatat transaksi kripto. Dilansir dari [investopedia](https://www.investopedia.com/terms/b/blockchain.asp), meski terkesan rumit, blockchain sejatinya hanyalah sebuah database.
+Diperkenalkan pertama kali oleh Satoshi Nakamoto pada tahun 2008, Blockchain sederhananya adalah sebuah buku besar digital yang mencatat transaksi kripto. Dilansir dari [investopedia](https://www.investopedia.com/terms/b/blockchain.asp), meski terkesan rumit, apa itu blockchain sejatinya hanyalah sebuah database.
 
-Sebelum lebih lanjut membahas pengertian tentang blockchain, mari kita bahas database terlebih dahulu. Database adalah kumpulan informasi yang disimpan secara virtual pada sistem komputer.
+Sebelum lebih lanjut membahas pengertian blockchain, mari kita bahas database terlebih dahulu. Database adalah kumpulan informasi yang disimpan secara virtual pada sistem komputer.
 
-Blockchain melakukan pencatatan mata uang virtual yang disimpan dalam database. Setiap catatan transaksi yang dilakukan individu, yang sering disebut block, kemudian dihubungkan bersama dalam sebuah daftar yang bernama chain dengan prinsip kriptografi. Kedua kata itulah yang akhirnya membentuk sebuah istilah bernama blockchain.
+Lalu, apa itu blockchain selanjutnya akan melakukan pencatatan mata uang virtual yang disimpan dalam database. Setiap catatan transaksi yang dilakukan individu, yang sering disebut block, kemudian dihubungkan bersama dalam sebuah daftar yang bernama chain dengan prinsip kriptografi. Kedua kata itulah yang akhirnya membentuk sebuah istilah bernama blockchain.
 
-Lantas, kenapa blockchain istimewa dan dianggap aman? Karena jaringan didalamnya tidak memiliki otoritas pusat. Artinya, setiap individu memiliki fasilitas yang sama dalam mengakses jaringan blockchain.
+Lantas, kenapa teknologi blockchain istimewa dan dianggap aman? Karena jaringan di dalamnya tidak memiliki otoritas pusat. Artinya, setiap individu memiliki fasilitas yang sama dalam mengakses jaringan blockchain.
 
-Selain itu, blockchain juga merupakan sebuah sistem yang aman dan terproteksi dari tangan jahil seperti hacker. Setiap blok baru terhubung ke semua blok sebelumnya dalam rantai kriptografi, sehingga hampir tidak mungkin untuk diutak-atik.
+Selain itu, apa itu blockchain juga merupakan sebuah sistem yang aman dan terproteksi dari tangan jahil seperti hacker. Setiap blok baru terhubung ke semua blok sebelumnya dalam rantai kriptografi, sehingga hampir tidak mungkin untuk diutak-atik.
 
 Selanjutnya, semua transaksi yang terjadi dalam blok akan divalidasi dan disetujui oleh mekanisme konsensus, memastikan bahwa setiap transaksi sudah benar dan tepat.
 
 ## Cara Kerja Blockchain
 
-Membahas tentang bitcoin tentu akan lepas dari membicarakan teknologi blockchain. Kamu tahu nggak apa hubungannya teknologi blockchain sama kripto? Terus gimana sih cara kerja teknologi blockchain. Teknologi blockchain adalah sistem yang menyimpan data transaksi mata uang digital, sistem ini tidak dikelola oleh pihak ketiga seperti bank melainkan dapat dikelola oleh semua pengguna komputer internet.
+Membahas tentang bitcoin tentu akan lepas dari membicarakan teknologi blockchain. Kamu tahu nggak apa hubungannya teknologi blockchain sama kripto? Terus gimana sih cara kerja blockchain. Teknologi blockchain adalah sistem yang menyimpan data transaksi mata uang digital, sistem ini tidak dikelola oleh pihak ketiga seperti bank melainkan dapat dikelola oleh semua pengguna komputer internet.
 
 Tujuan dari blockchain adalah untuk memungkinkan informasi digital direkam dan didistribusikan, tetapi tidak bisa diedit. Lalu bagaimana jika perlu merubah data? Bagaimana cara kerja blockchain? Berikut langkah proses cara kerja teknologi blockchain.
 
-1. Blockchain terdiri serangkaian transaksi yang dikelompokkan ke dalam blok blok-blok. 
+1. Apa itu blockchain terdiri serangkaian transaksi yang dikelompokkan ke dalam blok blok-blok. 
 2. Blok-blok ini saling terhubung melalui kode enkripsi yang membuat data tersimpan secara aman serta mencegah seseorang merubah rantai blok. Sebuah blok terdiri dari data (nama pengirim, jumlah, nama penerima), kode enkripsi baru, dan kode lama.
 3. Bagaimana jika suatu data dalam blok membutuhkan perubahan? Maka data akan disetor sebagai blok baru dengan mencatut kode enkripsi blok lama. Data tetap tersimpan dan tidak terlihat karena diwakilkan oleh kode enkripsi acak.
 4. Hubungan rantai-rantai blok ini membentuk ledger (buku besar). Sistem ledger mengacu pada cara pencatatan akuntansi dalam mengompilasi setiap transaksi sehingga tidak dapat diubah.
@@ -78,9 +80,9 @@ Sistem ini menyebabkan pengubahan data tidak mungkin untuk dilakukan oleh siapap
 
 ### 2. Hanya Bisa Ditambahkan (Append Only)
 
-Sistem blockchain tidak memungkinkan adanya perubahan dan penghapusan karena sistem ini hanya bisa melakukan penambahan data saja sehingga sistem lebih aman. 
+Sistem blockchain tidak memungkinkan adanya perubahan dan penghapusan karena sistem ini hanya bisa melakukan penambahan data saja sehingga sistem lebih aman.
 
-Setiap data dalam sistem teknologi blockchain berisifat abadi dan tidak bisa diubah karena sistem desentralisasi atau pihak ketiga. Sehingga apabila terjadi perpindahan transaksi sehingga membutuhkan perubahan data maka, data transaksi baru akan dicatat sebagai blok baru. Sehingga menciptakan rantai blok baru.
+Setiap data dalam sistem teknologi blockchain bersifat abadi dan tidak bisa diubah karena sistem desentralisasi atau pihak ketiga. Sehingga apabila terjadi perpindahan transaksi sehingga membutuhkan perubahan data maka, data transaksi baru akan dicatat sebagai blok baru. Sehingga menciptakan rantai blok baru.
 
 ### 3. Ledger
 
@@ -88,11 +90,25 @@ Ledger atau Distributed Ledger Technology (DLT) merupakan sistem atau protokol d
 
 ## Perbedaan Blockchain dan Cryptocurrency
 
-Blockchain dan cryptocurrency sering kali dianggap sebagai suatu hal yang sama sehingga menyebabkan mispersepsi di kalangan masyarakat.
+Perbedaan dari apa itu blockchain dan cryptocurrency sering kali dianggap sebagai suatu hal yang sama sehingga menyebabkan mispersepsi di kalangan masyarakat.
 
-Seperti yang sudah kita bahas sebelumnya, blockchain simpelnya adalah sebuah teknologi atau sistem penyimpanan yang transaparan sehingga banyak bermanfaat diberbagai bidang termasuk di dalamnya cryptocurrency atau berbagai mata uang digital.
+Seperti yang sudah kita bahas sebelumnya, perbedaan blockchain dan cryptocurrency simpelnya adalah sebuah teknologi atau sistem penyimpanan yang transparan sehingga banyak bermanfaat di berbagai bidang termasuk di dalamnya cryptocurrency atau berbagai mata uang digital.
 
 Jadi bisa dibilang blockchain merupakan teknologinya dan cryptocurrency merupakan produk yang menggunakan sistem ini dalam sistem transaksinya karena blockchain bisa membantu proses smart contracts yang mendukung proses transaksi.
+
+## Smart Contract dalam Penggunaan Teknologi Blockchain
+
+Smart contract adalah istilah yang dipakai untuk mendefinisikan kontrak otomatis antara dua pihak di dalam sistem blockchain. Boleh dikatakan penggunaan teknologi blockchain pasti dilakukan atas dasar smart contract, sehingga tidak ada pihak ketiga yang ikut terlibat dalam transaksinya.
+
+
+
+Pada dasarnya, smart contract adalah bagian dari jaringan blockchain, sehingga teknologi ini akan menyimpan data penggunanya di dalam database publik dan tidak dapat diubah. Pada beberapa situasi, banyak orang menggunakan smart contract bersamaan dengan menambahkan komponen tanda tangan dalam sebuah dokumen agar risiko penipuan yang dapat terjadi dalam sistem smart contact semakin diminimalisir.
+
+
+
+Cara kerja smart contract dapat dianalogikan dalam pembelian barang melalui vending machine. Transaksi pembelian dengan menggunakan jumlah cryptocurrency yang diperlukan sesuai dengan smart contract yang ada, lalu secara otomatis purchase akan terjadi setelah jumlah cryptocurrency tersebut dibayarkan. Smart contract dalam penggunaan teknologi blockchain ini tentunya punya dasar hukum, yaitu buku Hukum Kontrak Elektronik E-Contract Law.
+
+
 
 ## Kelebihan dan Kelemahan Sistem Blockchain
 
@@ -130,7 +146,7 @@ Kedua, fakta bahwa setiap informasi yang ada disimpan di jaringan komputer, buka
 
 #### 4. Memangkas Biaya
 
-Selain memangkas waktu, blockchain juga berguna untuk mengurangi biaya. Pasalnya, jika kamu menggunakan sistem ini, kamu tidak perlu lagi membayar pihak ketiga untuk melakukan sebuah transaksi.
+Selain memangkas waktu, kelebihan dari apa itu blockchain juga berguna untuk mengurangi biaya. Pasalnya, jika kamu menggunakan sistem ini, kamu tidak perlu lagi membayar pihak ketiga untuk melakukan sebuah transaksi.
 
 Selain itu, kamu juga tidak perlu ribet dengan urusan administrasi yang terkadang memakan dana yang besar. Pasalnya, dengan blockchain, tidak ada syarat rumit yang terkadang melelahkan secara finansial dan waktu.
 
@@ -140,27 +156,27 @@ Dengan berbagai kelebihan dari penerapan sistem blockchain, terdapat kelemahan y
 
 #### 1. Membutuhkan Resourse Besar
 
-Jika keunggulan teknologi blockchain adalah tidak dapat diubah oleh siapa pun termasuk diri kita sendiri, maka terkadang hal ini dapat menyulitkan. Karena apabila kita membuat sebuah transaksi yang membuat terjadi perpindahan kripto ke akun lain maka perlu perubahan isi data blok. 
+Jika keunggulan teknologi blockchain adalah tidak dapat diubah oleh siapa pun termasuk diri kita sendiri, maka terkadang hal ini dapat menyulitkan. Karena apabila kita membuat sebuah transaksi yang membuat terjadi perpindahan kripto ke akun lain maka perlu perubahan isi data blok.
 
 Memang, perubahan data ini akan diregistrasi sebagai blok baru. Walaupun hanya perubahan sederhana maka akan disimpan dalam blok baru pada rantai yang sama, sehingga hal ini memakan kapasitas penyimpanan (disk space).
 
 #### 2. Data Terlihat oleh Semua Orang
 
-Keamanan yang menjadi kelebihan blockchain adalah setiap data tidak dapat diubah maupun dipalsukan oleh siapapun. Namun, tidak memungkiri bahwa data kamu akan terbaca oleh semua orang bahkan di analisis. Karena sifat teknologi blockchain yaitu transparansi. tetapi tetap saja kamu sebagai pemilik data tidak akan ditemukan oleh orang yang melihat data tesebut.
+Keamanan yang menjadi kelebihan blockchain adalah setiap data tidak dapat diubah maupun dipalsukan oleh siapapun. Namun, tidak memungkiri bahwa data kamu akan terbaca oleh semua orang bahkan di analisis. Karena sifat teknologi blockchain yaitu transparansi. tetapi tetap saja kamu sebagai pemilik data tidak akan ditemukan oleh orang yang melihat data tersebut.
 
 ## Penggunaan teknologi blockchain di Indonesia
 
 Penggunaan teknologi blockchain dipercaya dapat meningkatkan efisiensi perusahaan terutama bidang operasional. Perusahaan-perusahaan di Indonesia mulai mengadopsi teknologi  blockchain ini dari berbagai sektor.
 
-* **Sektor Finansial**
+* Sektor Finansial
 
 Pelaku sistem blockchain dalam cryptocurrency di Indonesia semakin meningkat jumlahnya. Memberi akses pada peningkatan jumlah investor kripto di Indonesia dan mendukung revolusi industri 4.0. 
 
-* **Sektor Makanan Buah Segar**
+* Sektor Makanan Buah Segar
 
 Perusahaan terkemuka di bidang distribusi buah segar yaitu Sunpride telah mengimplementasikan teknologi blockchain traceability. Tujuan digunakannya teknologi untuk menelusuri setiap tahapan untuk menjamin kualitas produknya terkhusus buah pisang mas hingga sampai ke tangan pelanggan. 
 
-* **Sektor Komoditas – Emas Digital**
+* Sektor Komoditas – Emas Digital
 
 Kehadiran token emas digital di marketplace teknologi blockchain di Indonesia Tokocrypto membuka cara baru investasi emas. Harga emas digital token bernama DGX ini mewakili harga asli emas. Sehingga membuat investor emas digital tak perlu menyimpan emas asli dan khawatir kehilangan. Serta dapat dicairkan dengan harga yang setara harga emas di pasaran.
 
@@ -172,7 +188,7 @@ Akan tetapi, kamu harus paham bahwa setiap investasi memiliki risiko
 
 Nah, ngomongin soal investasi, kamu bisa mencoba melakukan investasi patungan lewat LandX. Tidak perlu dana besar lho, hanya dengan Rp 1 Juta saja kamu sudah bisa berinvestasi dan mendapatkan keuntungan.
 
-**[Tunggu apalagi, ayo patungan investasi di LandX sekarang juga!](https://landx.id/#ongoing-projects)**
+[Tunggu apalagi, ayo patungan investasi di LandX sekarang juga!](https://landx.id/#ongoing-projects)
 
 [![jadi pemiliki bisnis dengan modal 1 jutaan melalui investasi bisnis lewat securities crowdfunding di LandX-platform equity crowdfunding terpercaya](https://accountgram-production.sfo2.cdn.digitaloceanspaces.com/landx_ghost/2021/11/jadi-owner-bisnis-hanya-1-jutaan-dengan-cuan-yang-sangat-menjanjikan.png)](https://landx.id/project/)
 
