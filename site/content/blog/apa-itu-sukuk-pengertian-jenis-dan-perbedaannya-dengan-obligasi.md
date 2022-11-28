@@ -7,7 +7,7 @@ metaDescription: Sukuk adalah surat berharga atau sertifikat tanda kepemilikan
 intro: Sukuk adalah salah satu instrumen investasi syariah yang bisa jadi
   pilihan investasi kamu, karena itu yuk kita bahas lebih lanjut tentang
   instrumen investasi satu ini.
-date: 2022-02-17T09:23:58.426Z
+date: 2022-11-28T13:52:55.374Z
 tag:
   - Instrumen Investasi
   - Securities Crowdfunding
