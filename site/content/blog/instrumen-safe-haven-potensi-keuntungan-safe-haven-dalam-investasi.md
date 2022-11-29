@@ -9,7 +9,7 @@ metaDescription: Instrumen safe haven adalah aset yang risiko fluktuasi nilainya
 intro: Instrumen safe haven adalah aset yang risiko fluktuasi nilainya rendah
   jika dihadapkan tidak stabilnya ekonomi. Ini dia penjelasan lengkap jenis,
   fungsi, dan potensi keuntungan instrumen safe haven di Indonesia.
-date: 2022-09-29T09:45:12.720Z
+date: 2022-11-29T06:26:45.436Z
 tag:
   - Investasi Aman
   - Investasi Aman untuk Pemula
