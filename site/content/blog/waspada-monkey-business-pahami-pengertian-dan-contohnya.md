@@ -7,7 +7,7 @@ metaDescription: Yuk pahami apa itu monkey business dan perbedaannya dengan
 intro: Waspada dengan monkey business atau metode bisnis yang menawarkan untung
   besar dari komoditas yang tidak begitu signifikan. Berikut adalah penjelasan
   lengkap dan contohnya.
-date: 2022-05-25T03:23:06.386Z
+date: 2022-11-30T10:56:58.605Z
 tag:
   - Bisnis Jangka Panjang
   - Manajemen Bisnis
