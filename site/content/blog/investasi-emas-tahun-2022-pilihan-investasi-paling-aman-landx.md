@@ -1,14 +1,14 @@
 ---
 author: Vlora Riyandi
-title: Investasi Emas Tahun 2022, PIlihan Investasi Paling Aman?
-metaTitle: Investasi Emas Tahun 2022, PIlihan Investasi Paling Aman? | LandX
+title: Investasi Emas Tahun 2023, PIlihan Investasi Paling Aman?
+metaTitle: Investasi Emas Tahun 2023, PIlihan Investasi Paling Aman? | LandX
 metaDescription: Banyak keuntungan investasi emas, seperti likuid, nilai yang
   stabil dan pilihan investasi jangka panjang yang aman. Cara investasi emas di
-  tahun 2022
+  tahun 2023
 intro: Banyak keuntungan investasi emas, seperti likuid, nilai yang stabil dan
   pilihan investasi jangka panjang yang aman.  Akan tetapi, jangan lupa setiap
   instrumen investasi memiliki risiko yang harus kamu waspadai
-date: 2022-04-08T06:09:00.410Z
+date: 2022-12-12T04:51:57.752Z
 tag:
   - Instrumen Investasi
   - Investasi
@@ -20,9 +20,9 @@ category:
   - Investasi
   - Keuangan
 featuredImage:
-  title: Benarkan Investasi Emas Tahun 2022, PIlihan Investasi Paling Aman?
+  title: Benarkan Investasi Emas Tahun 2023, PIlihan Investasi Paling Aman?
   src: https://images.unsplash.com/photo-1624365169364-0640dd10e180?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80
-  alt: Cara investasi emas yang aman dan menguntungkan di tahun 2022
+  alt: Cara investasi emas yang aman dan menguntungkan di tahun 2023
 ---
 Emas banyak dipilih oleh investor pemula hingga para penguasa ekonomi karena dianggap sebagai instrumen investasi yang menguntungkan. Emas dianggap sebagai pilihan aman karena memiliki nilai yang stabil dan mudah dicairkan dalam keadaan mendesak.
 
