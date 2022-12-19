@@ -10,6 +10,12 @@ intro: Sistem ekonomi kapitalis membuka peluang besar untuk tiap orang meraih
   perekonomian juga. Pelajari kelebihan dan kekurangan sistem ekonomi kapitalis
   lewat artikel ini yuk!
 date: 2022-12-12T05:01:08.589Z
+tag:
+  - Ekonomi
+  - Investasi Keuangan
+category:
+  - Bisnis
+  - Keuangan
 featuredImage:
   src: https://images.unsplash.com/photo-1623150109491-fb49ca11b7f4?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80
   alt: Konsep kapitalisme
