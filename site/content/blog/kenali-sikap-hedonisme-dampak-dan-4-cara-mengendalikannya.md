@@ -10,7 +10,7 @@ intro: Arti hedon adalah sikap mengedepankan kepuasaan dunia tanpa bisa menata
   panjang dan pendek lengkap dengan skala prioritasnya. Mari kita kenali apa itu
   sikap hedonisme dan bagaimana cara mengatasi sikap hedon agar keuangan kamu
   makin teratur.
-date: 2022-03-08T01:44:42.059Z
+date: 2022-12-19T07:06:00.209Z
 tag:
   - Mengatur Keuangan
   - Investasi untuk Pemula
