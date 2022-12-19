@@ -1,6 +1,6 @@
 ---
 author: Nadya A. Faatihah
-title: 10 Aplikasi Investasi Resmi OJK Terpercaya di Indonesia Tahun 2022
+title: TEST
 metaTitle: 10 Rekomendasi Aplikasi Investasi Resmi OJK Terpercaya Tahun 2022
 metaDescription: Gak perlu bingung lagi, ini dia rekomendasi aplikasi investasi
   resmi OJK yang bisa kamu jadikan opsi untuk meraih passive income.
