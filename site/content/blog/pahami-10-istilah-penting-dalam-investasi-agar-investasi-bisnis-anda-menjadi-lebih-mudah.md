@@ -5,7 +5,7 @@ slug: pahami-10-istilah-penting-dalam-investasi-agar-investasi-bisnis-anda-menja
 title: Berbagai Istilah dalam Investasi yang Penting untuk Investor Pemula
 metaTitle: Berbagai Istilah dalam Investasi yang Penting untuk Investor Pemula
 metaDescription: Yuk pahami berbagai istilah penting dalam investasi yang
-  penting untuk anda pahami
+  penting untuk anda pahami.
 intro: Yuk pahami berbagai istilah dalam investasi yang penting diketahui jika
   Anda ingin memulai investasi untuk meraih passive income untuk tambahan cuan
   di masa depan.
