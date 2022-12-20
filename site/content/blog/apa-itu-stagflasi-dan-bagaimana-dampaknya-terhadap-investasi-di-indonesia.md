@@ -130,25 +130,8 @@ Seperti strategi untuk memperkecil risiko investasi yang telah dibahas, pilihlah
 
 Kamu dapat memilih saham dari bisnis yang berpengalaman dengan mengecek situs dan aplikasi [LandX](https://landx.id/). Pilih dan pelajari bisnis yang ingin kamu investasikan dan pastikan dividen yang ditawarkan menyenangkan.
 
-### [Karena itu, yuk investasi pada bisnis berpengalaman dan dapatkan dividen tinggi tanpa takut dilanda stagflasi.](https://app.landx.id/?utm_source=Organic+Page&utm_medium=Content+Blog&utm_campaign=BlogLandX&utm_id=Blog)
+### [Karena itu, yuk investasi pada bisnis berpengalaman dan dapatkan dividen tinggi tanpa takut dilanda stagflasi.](https://landx.id/?utm_source=Blog&utm_medium=Organic+Search&utm_id=LANDXBLOG)
 
 <!--StartFragment-->
 
 [![miliki bisnis modal kecil cuma dengan 1 jutaan dapat 4 cabang ](https://accountgram-production.sfo2.cdn.digitaloceanspaces.com/landx_ghost/2021/11/jadi-owner-bisnis-hanya-1-jutaan-dengan-cuan-yang-sangat-menjanjikan.png)](https://app.landx.id/?utm_source=Organic+Page&utm_medium=Content+Blog&utm_campaign=BlogLandX&utm_id=Blog)
-
-<!--EndFragment-->
-
-**[Mau Berbagai Info Menarik Seputar Investasi Lainnya? Yuk Follow Instagram @landx.id](https://instagram.com/landx.id?utm_medium=copy_link)**
-
-- - -
-
-**Artikel Terkait:**
-
-* **[Mengenal Apa Itu Tapering Off dan Dampaknya Bagi Investasi](https://landx.id/blog/tapering-adalah/)**
-* **[Laju Inflasi: Memahami Apa Itu Inflasi dan Cara Menghitung Laju Inflasi](https://landx.id/blog/laju-inflasi-adalah/)**
-
-- - -
-
-**\#LandX.id    #landx         #landx.id    #InvestasiBisnis     #EquityCrowdfunding    #InvestasiMenguntungkan    #Urundana     #BisnisPatungan    #InvestasiUsaha**
-
-- - -
