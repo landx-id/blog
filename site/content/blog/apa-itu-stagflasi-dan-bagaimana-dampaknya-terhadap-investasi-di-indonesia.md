@@ -124,7 +124,7 @@ Bagi investor, balik lagi kepada pentingnya bagi kita untuk mempelajari terlebih
 
 Berinvestasi ke dalam sektor privat bisa menjadi salah satu pilihan investasi yang bisa kamu jadikan pilihan investasi selama stagflasi terjadi. Sektor privat ini bisa dengan lebih mudah kamu pahami karena biasanya merupakan bisnis-bisnis yang dekat dengan kita.
 
-Pilihlah bisnis yang memiliki *story* yang kuat dan memiliki pengalaman atau operasionalnya telah berjalan dalam jangka waktu yang lama. Serta saham *new economy* juga dapat menjadi pilihan baik bagi **[portofolio investasi](https://landx.id/project/)** kamu.
+Pilihlah bisnis yang memiliki *story* yang kuat dan memiliki pengalaman atau operasionalnya telah berjalan dalam jangka waktu yang lama. Serta saham *new economy* juga dapat menjadi pilihan baik bagi **[portofolio investasi](https://landx.id/?utm_source=Blog&utm_medium=Organic+Search&utm_id=LANDXBLOG)** kamu.
 
 Seperti strategi untuk memperkecil risiko investasi yang telah dibahas, pilihlah saham yang kamu pahami dengan baik bagaimana potensi industri ini dan apakah bisnis ini dikelola secara profesional oleh orang yang berpengalaman.
 
