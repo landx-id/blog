@@ -31,20 +31,17 @@ Pemahaman akan istilah ini akan sangat membantu anda dalam memilih investasi yan
 
 ## **1. [Equity Crowdfunding](http://landx.id/)**
 
-
 Pertama, istilah dalam investasi yaitu equity crowdfunding sebagai skema yang sering digunakan dalam investasi bisnis. 
 
 Maksud istilah dalam investasi dalam equity crowdfunding adalah sistem bisnis patungan yang mengumpulkan dana dari investor untuk mendanai sebuah proyek. Dalam sistem ini, penanam modal akan mendapatkan bagian kepemilikan dari bisnis yang diberikan modal dan berpotensi mendapatkan dividen. 
 
 ## **2. Listing**
 
-
 Istilah dalam investasi selajutnya adalah listing. Dalam dunia saham, istilah dalam investasi ini adalah  pencatatan saham perusahaan di Bursa Efek Indonesia (BEI). Dalam investasi bisnis dengan equity crowdfunding, listing adalah penawaran perdana saham sebuah bisnis di platform crowdfunding.  
 
 Platform crowdfunding akan melakukan penawaran perdana kepada para investor saat bisnis yang mendaftar sudah memenuhi syarat untuk melakukan [equity crowdfunding](http://landx.id/). 
 
 ## **[3. Prospektus](https://landx.id/project/)**
-
 
 Istilah dalam investasi selanjutnya adalah prospektus atau bentuk dokumen yang berisikan data-data penting terkait perusahaan yang akan anda tanami modal. Dalam investasi bisnis, prospektus akan diberikan kepada calon investor agar mereka paham terkait bisnis dan mau menanamkan modalnya. 
 
@@ -53,13 +50,11 @@ Prospektus biasanya berisikan ringkasan perusahaan, besaran saham yang ditawarka
 
 ## **4. Portofolio**
 
-
 Anda tentu sering mendengar istilah dalam investasi yaitu portofolio investor. Portofolio mengacu pada kumpulan aset finansial yang dimiliki oleh individu atau instansi. Jadi portofolio bisa dibilang total aset investasi yang anda miliki.
 
 Dalam equity crowdfunding, portofolio bisa diartikan jumlah total lot saham yang anda miliki dari beberapa bisnis yang didanai. 
 
 ## [**5. BuyBack** ](https://landx.id/blog/buyback-adalah/)
-
 
 Buyback adalah istilah dalam investasi bisnis. Istilah buyback seringkali muncul dalam prospektus. Buyback adalah dimana perusahaan melakukan pembelian kembali terhadap saham yang ada di tangan para investor. 
 
@@ -72,7 +67,6 @@ Hal ini ditujukan untuk memperkecil jumlah saham yang beredar. Dalam investasi b
 
 ## **[6. Return on Investment (ROI)](https://landx.id/blog/return-on-investment-roi-adalah/)**
 
-
 Return on investment (ROI) adalah istilah dalam investasi yang merupakan perhitungan berapa besar keuntungan yang diterima setelah menanamkan modal mereka. 
 
 Istilah dalam investasi ROI juga sering disebut sebagai besar pengembalian atau *return* yang akan investor terima setelah menanamkan modal mereka. 
@@ -81,20 +75,17 @@ ROI dihitung dengan pembagian pendapatan bersih dengan modal awal yang dikeluark
 
 ## **7. RUPS**
 
-
 Istilah dalam investasi selanjtnya adalah RUPS merupakan singkatan dari Papat Umum Pemegang Saham. Rapat ini dilakukan dalam periode tertentu untuk menentukan kebijakan yang akan dilakukan kedepannya. 
 
 Rapat ini akan mengumpul para pemegang saham untuk menentukan kebijakan yang akan mereka ambil seperti kebijakan pembagian dividen yang akan mereka lakukan. 
 
-## **8. Dividen** 
-
+## **8. Dividen**
 
 Dividen adalah istilah dalam investasi yang merupakan persenan atau nominal keuntungan yang akan dibagikan sesuai tempo yang telah disepakati. 
 
 Jumlah dividen yang akan dibagikan menyesuaikan bagian kepemilikan Anda akan sebuah bisnis, semakin besar saham anda maka akan besar pula dividen yang anda terima.
 
-## **9. Capital Gain** 
-
+## **9. Capital Gain**
 
 Capital gain adalah istilah dalam investasi yang mendefinisikan keuntungan yang akan dapatkan melalui selisih nilai beli dan jual saham Anda. Contohnya seperti ini, saat anda membeli saham bisnis A dengan harga 2000 dan dalam beberapa bulan mengalami kenaikan nilai menjadi 3000 lalu anda jual, maka nilai selisih itu merupakan keuntungan yang anda dapatkan atau sering disebut capital gain. 
 
@@ -105,18 +96,15 @@ Capital gain adalah istilah dalam investasi yang mendefinisikan keuntungan yang 
 
 ## **10. Break Even Point (BEP)**
 
-
 Break Even Point (BEP) adalah istilah dalam investasi yang merupakan tahapan di mana pendapatan sebuah bisnis sudah memiliki nilai yang sama dengan modal yang dikeluarkan. 
 
 Titik ini juga disebut titik zero di mana bisnis menjadi titik impas yang mana bisnis tidak untung dan tidak juga rugi. Tahap ini menjadi awal perkembangan bisnis karena ke depan bisnis akan mulai memperhitungkan keuntungan yang akan didapatkan. 
 
 ## **11. Laba Ditahan**
 
-
 Laba ditahan merupakan laba kotor perusahaan yang belum dibagikan kepada para pemilik saham. Hal ini biasanya dilakukan dengan kesepakatan para pemilik saham dengan berbagai alasan seperti sebagai modal untuk ekspansi bisnis ke depan atau sebagai modal cadangan perusahaan untuk menghadapi berbagai kondisi kedepan. 
 
 ## **12. Secondary Market (Pasar Sekunder)**
-
 
 Secondary market atau pasar sekunder adalah pasar uang yang digunakan untuk menjual dan membeli saham bisnis yang telah diterbitkan. Dengan kata lain, pasar sekunder adalah pasar yang mempertemukan para investor untuk saling transaksi saham yang mereka miliki. 
 
@@ -124,12 +112,11 @@ Pasar sekunder ini bisa anda jadikan sebagai tempat mendapatkan keuntungan inves
 
 ## **13. Bank Kustodian**
 
-
 Bank kustodian merupakan lembaga yang bertindak sebagai bertanggung jawab untuk mengurus administrasi dan pengawasan aset keuangan milik perorangan atau perusahaan. 
 
 Bank ini juga memiliki tanggung jawab menyimpan berbagai aset investasi secara kolektif. Jadi bisa disimpulkan bahwa bank kustodian merupakan pihak yang membantu menjaga dan mengawasi proses investasi agar tetap aman.
 
-## **14. Trading** 
+## **14. Trading**
 
 Trading adalah kegiatan berfokus hanya membeli instrumen investasi saat harga turun, lalu menjual dengan cepat saat ada momentum yang memicu harganya naik. 
 
@@ -141,7 +128,6 @@ Istilah dalam investasi ini merujuk pada penarikan atau pencairan uang (withdraw
 
 ## 16. Diversifikasi
 
-
 Diversifikasi adalah salah satu strategi untuk meminimalisir risiko dan mengoptimalkan return. Diversifikasi ini adalah menempatkan investasi pada lebih dari satu instrumen, baik saham maupun non saham. 
 
 Pengelolaan portofolio investasi akan semakin optimal untuk mencapai tujuan investasi.
@@ -151,15 +137,8 @@ Misalnya, Anda mengalokasikan modal ke saham di Bursa Efek, saham bisnis di equi
 
 Setelah memahami istilah ini, kini saat Anda mulai investasi bisnis pertama anda bersama [LandX](https://landx.id/) dengan berbagai bisnis pilihan yang akan membuat investasi bisnis anda menjadi menguntungkan.
 
-## [Yuk, jadi bos bisnis dan terima keuntungan rutin di LandX](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)
+## [Yuk, jadi bos bisnis dan terima keuntungan rutin di LandX](https://landx.id/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)
 
-[![miliki bisnis modal kecil cuma dengan 1 jutaan dapat 4 cabang ](https://accountgram-production.sfo2.cdn.digitaloceanspaces.com/landx_ghost/2021/11/jadi-owner-bisnis-hanya-1-jutaan-dengan-cuan-yang-sangat-menjanjikan.png)](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)
-
-> **[Mau Tau Lebih Banya Tentang Bisnis dan Investasi? Yuk Follow Instagram Kami di @landx.id](https://www.instagram.com/landx.id/?utm_medium=copy_link)**
-
-**Baca Juga:**
-
-* [Mengenal Securities Crowdfunding (SCF) Sebagai Alternatif Pendanaan UMKM dan Pilihan Investasi Bisnis](https://landx.id/blog/securities-crowdfunding-dan-equity-crowdfunding/)
-* [Mau Mulai Investasi? Begini Cara Investasi Menguntungkan dengan Modal 10 Juta](https://landx.id/blog)
+[![miliki bisnis modal kecil cuma dengan 1 jutaan dapat 4 cabang ](https://accountgram-production.sfo2.cdn.digitaloceanspaces.com/landx_ghost/2021/11/jadi-owner-bisnis-hanya-1-jutaan-dengan-cuan-yang-sangat-menjanjikan.png)](https://landx.id/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)
 
 - - -
