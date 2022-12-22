@@ -20,7 +20,7 @@ tag:
 featuredImage:
   src: https://images.unsplash.com/photo-1536825211030-094de935f680?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxMTc3M3wwfDF8c2VhcmNofDIwfHxpbnZlc3RtZW50fGVufDB8fHx8MTYzODgxMjMzNA&ixlib=rb-1.2.1&q=80&w=1080
   alt: Istilah-istilah dalam investasi
-  title: Istilah penting dalam investasi
+  title: Istilah penting dalam investasi.
 image: https://images.unsplash.com/photo-1536825211030-094de935f680?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxMTc3M3wwfDF8c2VhcmNofDIwfHxpbnZlc3RtZW50fGVufDB8fHx8MTYzODgxMjMzNA&ixlib=rb-1.2.1&q=80&w=1080
 category:
   - Bisnis
