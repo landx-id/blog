@@ -1,8 +1,8 @@
 ---
 draft: false
 author: LandX
-title: "[News] LandX Menangkan Penghargaan The Best Performance Platform 2022!"
-metaTitle: "[News] LandX Menangkan Penghargaan The Best Performance Platform 2022!"
+title: "[News] LandX Raih Penghargaan The Best Performance Platform 2022!"
+metaTitle: "[News] LandX Raih Penghargaan The Best Performance Platform 2022!"
 metaDescription: "Indonesia Crowdfunding Outlook 2022 telah resmi
   diselenggarakan bersama platform-platform SCF di Indonesia. "
 intro: Indonesia Crowdfunding Outlook 2022 telah resmi diselenggarakan bersama
