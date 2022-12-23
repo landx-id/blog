@@ -9,6 +9,11 @@ intro: Indonesia Crowdfunding Outlook 2022 telah resmi diselenggarakan bersama
   platform-platform SCF di Indonesia. Tunjukkan kinerja baik sepanjang tahun
   2022, LandX berhasil meraih penghargaan The Best Performance Platform.
 date: 2022-12-23T02:19:13.030Z
+tag:
+  - LandX
+  - Equity Crowdfunding
+category:
+  - Investasi
 featuredImage:
   src: img/whatsapp-image-2022-12-20-at-2.21.27-pm-1-.jpeg
   alt: SCF Indonesia
@@ -47,3 +52,9 @@ Tidak hanya dua kabar baik ini, Romario juga memberitahukan bahwa ada satu kabar
 Melangkah menuju tahun 2023, LandX optimis terus berkontribusi pada ekonomi dalam negeri dengan menyediakan fasilitas akses pendanaan UKM sebagai penggerak ekonomi Indonesia.
 
 ## [A﻿yo Turut Bangun UKM dan Berkontribusi pada Ekonomi Indonesia!](https://app.landx.id/?utm_source=Organic+Page&utm_medium=Content+Blog&utm_campaign=BlogLandX&utm_id=Blog)
+
+<!--StartFragment-->
+
+[![miliki bisnis modal kecil cuma dengan 1 jutaan dapat 4 cabang ](https://accountgram-production.sfo2.cdn.digitaloceanspaces.com/landx_ghost/2021/11/jadi-owner-bisnis-hanya-1-jutaan-dengan-cuan-yang-sangat-menjanjikan.png)](https://app.landx.id/?utm_source=Organic+Page&utm_medium=Content+Blog&utm_campaign=BlogLandX&utm_id=Blog)
+
+<!--EndFragment-->
