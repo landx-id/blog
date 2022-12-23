@@ -45,6 +45,7 @@ stages:
   script:
     # Authenticate using the service account
     - echo $GCLOUD_SERVICE_KEY | base64 --decode -i > ~/gcloud-service-key.json
+    - export USE_GKE_GCLOUD_AUTH_PLUGIN=True
     - gcloud auth activate-service-account --key-file ~/gcloud-service-key.json
     - gcloud config set project $GCLOUD_PROJECT_NAME
     - gcloud --quiet container clusters get-credentials $CLUSTER_NAME --region $CLUSTER_REGION
