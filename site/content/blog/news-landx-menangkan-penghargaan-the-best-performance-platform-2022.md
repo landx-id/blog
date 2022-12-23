@@ -18,7 +18,7 @@ Halo Sobat LandX, 
 
 Kabar baik datang dari penyelenggara securities crowdfunding (SCF) di Indonesia, LandX, berhasil meraih penghargaan “The Best Performance Platform 2022” pada acara Indonesia Crowdfunding Outlook 2022 (19/12/2022) yang diselenggarakan di Hotel Kempinski, Jakarta. 
 
-![](https://lh6.googleusercontent.com/ff69QBLAboFQDDirxUgDy92kIoqQn8Il59OshlaVTsLE9i4g8bMK746fZ1K7VLGhaR1exSCcMz-BO3_wQwQB5X5PUH94oZHppf4wy67bdACD-CTGQ7QVVI-KDkIX-2Zs7I5vX-p8m2rw9nntrax4fv0Vz2zHRRpx8wLo2NRajLWr_DZF2rn0N9ZrSmk5TQ)
+![landx scf indonesia](https://lh6.googleusercontent.com/ff69QBLAboFQDDirxUgDy92kIoqQn8Il59OshlaVTsLE9i4g8bMK746fZ1K7VLGhaR1exSCcMz-BO3_wQwQB5X5PUH94oZHppf4wy67bdACD-CTGQ7QVVI-KDkIX-2Zs7I5vX-p8m2rw9nntrax4fv0Vz2zHRRpx8wLo2NRajLWr_DZF2rn0N9ZrSmk5TQ "landx scf indonesia")
 
 ## Indonesia Crowdfunding Outlook 2022
 
