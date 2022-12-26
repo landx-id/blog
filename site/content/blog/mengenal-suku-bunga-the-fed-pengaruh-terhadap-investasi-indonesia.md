@@ -12,7 +12,7 @@ date: 2022-12-26T07:58:23.825Z
 featuredImage:
   alt: Suku Bunga The Fed 2023
   title: Suku Bunga The Fed 2023
-  src: https://images.pexels.com/photos/5239566/pexels-photo-5239566.jpeg?auto=compress&cs=tinysrgb&w=600
+  src: https://images.pexels.com/photos/8353820/pexels-photo-8353820.jpeg?auto=compress&cs=tinysrgb&w=600
 ---
 Federal Reserve, umumnya dikenal sebagai The Fed, adalah bank sentral Amerika Serikat dan bertanggung jawab untuk menerapkan kebijakan moneter di negara tersebut. Salah satu alat utama yang digunakan The Fed untuk mencapai tujuan kebijakannya adalah suku bunga, yaitu tingkat di mana bank dapat meminjamkan atau meminjam uang dari Fed.
 
