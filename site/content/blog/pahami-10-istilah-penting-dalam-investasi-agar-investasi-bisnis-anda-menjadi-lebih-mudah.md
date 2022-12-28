@@ -47,7 +47,7 @@ Platform crowdfunding akan melakukan penawaran perdana kepada para investor saat
 Istilah dalam investasi selanjutnya adalah prospektus atau bentuk dokumen yang berisikan data-data penting terkait perusahaan yang akan anda tanami modal. Dalam investasi bisnis, prospektus akan diberikan kepada calon investor agar mereka paham terkait bisnis dan mau menanamkan modalnya. 
 
 Prospektus biasanya berisikan ringkasan perusahaan, besaran saham yang ditawarkan, bidang usaha, dan kebijakan dividen yang berlaku. Karena itu mulai sekarang anda harus lebih jeli dalam berinvestasi dengan melihat prospektus terlebih dahulu. 
-**[Yuk cek berbagai prospektus bisnis menguntungkan di sini](https://landx.id/project/)**
+**[Yuk cek berbagai prospektus bisnis menguntungkan di sini](https://landx.id/)**
 
 ## **4. Portofolio**
 
