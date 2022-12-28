@@ -192,7 +192,7 @@ Platform [equity crowdfunding](https://app.landx.id/?utm_source=Organic+Page&utm
 
 [LandX](https://app.landx.id/?utm_source=Organic+Page&utm_medium=Content+Blog&utm_campaign=BlogLandX&utm_id=Blog) merupakan salah satu platform [equity crowdfunding](https://app.landx.id/?utm_source=Organic+Page&utm_medium=Content+Blog&utm_campaign=BlogLandX&utm_id=Blog) yang dapat membantu kalian mendanai bisnis yang memiliki prospek bagus dengan modal kecil dan terdapat potensi untung besar.
 
-[LandX](https://app.landx.id/?utm_source=Organic+Page&utm_medium=Content+Blog&utm_campaign=BlogLandX&utm_id=Blog), platform [equity crowdfunding](https://app.landx.id/?utm_source=Organic+Page&utm_medium=Content+Blog&utm_campaign=BlogLandX&utm_id=Blog) terpercaya, transparan, dan telah mengantongi izin dari Otoritas Jasa Keuangan (OJK). Kalian bisa memperoleh keuntungan besar dengan modal kecil.
+[LandX](https://landx.id/?utm_source=Organic+Page&utm_medium=Content+Blog&utm_campaign=BlogLandX&utm_id=Blog), platform [equity crowdfunding](https://app.landx.id/?utm_source=Organic+Page&utm_medium=Content+Blog&utm_campaign=BlogLandX&utm_id=Blog) terpercaya, transparan, dan telah mengantongi izin dari Otoritas Jasa Keuangan (OJK). Kalian bisa memperoleh keuntungan besar dengan modal kecil.
 
 ## [Manfaatkan Kebijakan Fiskal dengan Investasi di LandX Sekarang Juga!](https://app.landx.id/?utm_source=Organic+Page&utm_medium=Content+Blog&utm_campaign=BlogLandX&utm_id=Blog\)
 
