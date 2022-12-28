@@ -105,8 +105,9 @@ Dengan mendaftarkan perusahaan Anda pada sistem yang menyediakan layanan crowdfu
 
 Terdapat dua jenis sistem crowdfunding, walaupun dasarnya namun memiliki sedikit perbedaan:
 
-1. **Equity Crowdfunding** – Equity crowdfunding atau disingkat ECF adalah pendanaan pada bisnis kecil, UKM atau startup pemula. 
-2. **Securities Crowdfunding** – Securities crowdfunding adalah skema pendanaan yang dihimpun secara online dari sejumlah masyarakat untuk pengembangan bisnis. Mirip dengan equity crowdfunding, namun pada securities crowdfunding juga menyediakan produk seperti saham, obligasi, saham syariah, dan sukuk.
+**1. Equity Crowdfunding** – Equity crowdfunding atau disingkat ECF adalah pendanaan pada bisnis kecil, UKM atau startup pemula. 
+
+**2. Securities Crowdfunding** – Securities crowdfunding adalah skema pendanaan yang dihimpun secara online dari sejumlah masyarakat untuk pengembangan bisnis. Mirip dengan equity crowdfunding, namun pada securities crowdfunding juga menyediakan produk seperti saham, obligasi, saham syariah, dan sukuk.
 
 ### **Keuntungan mendaftarkan bisnis pada pendanaan crowdfunding** adalah sebagai berikut:
 
@@ -133,10 +134,8 @@ Memiliki bisnis, berinvestasi dan mendapat keuntungan dividen sekarang bisa deng
 
 Karena itu,
 
-## [Yuk, download aplikasi LandX, verifikasi akun dan pilih bisnisnya sekarang!](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog) 
+## [Yuk, download aplikasi LandX, verifikasi akun dan pilih bisnisnya sekarang!](https://landx.id/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog) 
 
-\*kuota terbatas untuk setiap project bisnis
+**[Yuk Temukan Bisnis Menjanjikan dengan Keuntungan Terbaik di LandX](https://landx.id/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)**
 
-**[Yuk Temukan Bisnis Menjanjikan dengan Keuntungan Terbaik di LandX](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)**
-
-[![miliki bisnis modal kecil cuma dengan 1 jutaan dapat 4 cabang ](https://accountgram-production.sfo2.cdn.digitaloceanspaces.com/landx_ghost/2021/11/jadi-owner-bisnis-hanya-1-jutaan-dengan-cuan-yang-sangat-menjanjikan.png)](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)
+[![miliki bisnis modal kecil cuma dengan 1 jutaan dapat 4 cabang ](https://accountgram-production.sfo2.cdn.digitaloceanspaces.com/landx_ghost/2021/11/jadi-owner-bisnis-hanya-1-jutaan-dengan-cuan-yang-sangat-menjanjikan.png)](https://landx.id/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)
