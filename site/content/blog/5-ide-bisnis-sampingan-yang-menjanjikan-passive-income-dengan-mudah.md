@@ -72,10 +72,10 @@ Pihak penerbit diharuskan untuk mengajukan proposal berisi informasi bisnis, pro
 
 Skema ini merupakan pendanaan untuk bisnis kecil dengan cara patungan masyarakat luas untuk mendanai UMKM dengan modal kurang dari Rp30 miliar. Bentuk aset yang dimiliki oleh investor nantinya adalah lot saham yang dibeli dari pemilik bisnis (penerbit). Nantinya, penghasilan yang didapatkan oleh investor adalah berupa dividen. 
 
-Skema ini tentunya sangat menjanjikan bagi kamu yang ingin mulai mencari peluang bisnis sampingan modal kecil. Karena skemanya memungkinkan kamu mengalokasikan dana ke sejumlah proyek atau bisnis potensial, risiko kerugian pun bisa diminimalisir. Tentunya, agar lebih meminimalisir risiko kerugian, pastikan untuk memilih platform **[equity crowdfunding](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)** terpercaya, transparan, dan telah mengantongi izin dari OJK ya!
+Skema ini tentunya sangat menjanjikan bagi kamu yang ingin mulai mencari peluang bisnis sampingan modal kecil. Karena skemanya memungkinkan kamu mengalokasikan dana ke sejumlah proyek atau bisnis potensial, risiko kerugian pun bisa diminimalisir. Tentunya, agar lebih meminimalisir risiko kerugian, pastikan untuk memilih platform **[equity crowdfunding](https://landx.id/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)** terpercaya, transparan, dan telah mengantongi izin dari OJK ya!
 
 Jadi, opsi manakah yang akan menjadi pilihan kamu untuk cari uang tambahan? Segera mulai sekarang juga jika kamu ingin cepat-cepat meraih kebebasan finansial melalui passive income ya!
 
-### [Dapatkan Tambahan Passive Income dengan Jadi Investor Modal 1 Juta!](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)
+### [Dapatkan Tambahan Passive Income dengan Jadi Investor Modal 1 Juta!](https://landx.id/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)
 
-[![miliki bisnis modal kecil cuma dengan 1 jutaan dapat 4 cabang ](https://accountgram-production.sfo2.cdn.digitaloceanspaces.com/landx_ghost/2021/11/jadi-owner-bisnis-hanya-1-jutaan-dengan-cuan-yang-sangat-menjanjikan.png)](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)
+[![miliki bisnis modal kecil cuma dengan 1 jutaan dapat 4 cabang ](https://accountgram-production.sfo2.cdn.digitaloceanspaces.com/landx_ghost/2021/11/jadi-owner-bisnis-hanya-1-jutaan-dengan-cuan-yang-sangat-menjanjikan.png)](https://landx.id/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)
