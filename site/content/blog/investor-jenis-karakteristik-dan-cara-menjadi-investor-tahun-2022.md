@@ -118,8 +118,8 @@ Jika kamu ingin mengetahui cara menjadi investor bisnis bisa menjadi investor si
 
 Berinvestasi dengan modal kecil pada project bisnis terbaik pilihan dan mendapat keuntungan persenan rutin setiap 3-6 bulan sesuai persetujuan kamu. Kamu otomatis akan didaftarkan juga menjadi investor di pasar modal dengan melakukan verifikasi data atau KYC saat membuat akun di aplikasi LandX.
 
-## [Yuk, kunjungi LandX dan kenali crowdfunding lebih lanjut untuk menjadi investor menguntungka](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)n
+## [Yuk, kunjungi LandX dan kenali crowdfunding lebih lanjut untuk menjadi investor menguntungka](https://landx.id/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)n
 
 **Yuk Temukan Bisnis Menjanjikan dengan Keuntungan Terbaik di LandX**
 
-[![miliki bisnis modal kecil cuma dengan 1 jutaan dapat 4 cabang ](https://accountgram-production.sfo2.cdn.digitaloceanspaces.com/landx_ghost/2021/11/jadi-owner-bisnis-hanya-1-jutaan-dengan-cuan-yang-sangat-menjanjikan.png)](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)
+[![miliki bisnis modal kecil cuma dengan 1 jutaan dapat 4 cabang ](https://accountgram-production.sfo2.cdn.digitaloceanspaces.com/landx_ghost/2021/11/jadi-owner-bisnis-hanya-1-jutaan-dengan-cuan-yang-sangat-menjanjikan.png)](https://landx.id/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)
