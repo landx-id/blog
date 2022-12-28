@@ -42,7 +42,7 @@ Istilah dalam investasi selajutnya adalah listing. Dalam dunia saham, istilah da
 
 Platform crowdfunding akan melakukan penawaran perdana kepada para investor saat bisnis yang mendaftar sudah memenuhi syarat untuk melakukan [equity crowdfunding](http://landx.id/). 
 
-## **[3. Prospektus](https://landx.id/project/)**
+## **[3. Prospektus](https://landx.id/)**
 
 Istilah dalam investasi selanjutnya adalah prospektus atau bentuk dokumen yang berisikan data-data penting terkait perusahaan yang akan anda tanami modal. Dalam investasi bisnis, prospektus akan diberikan kepada calon investor agar mereka paham terkait bisnis dan mau menanamkan modalnya. 
 
