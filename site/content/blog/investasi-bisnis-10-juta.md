@@ -28,7 +28,7 @@ image: https://images.unsplash.com/photo-1579621970795-87facc2f976d?crop=entropy
 category:
   - Investasi
 ---
-**[Investasi menguntungkan dengan modal 10 juta](https://landx.id/) -** tahun 2020 menjadi pembelajaran bagi masyarakat agar mempersiapkan dana darurat untuk menghadapi kondisi yang tidak terduga seperti saat ini. Kondisi seperti ini menggambarkan bahwa kita harus mulai berinvestasi sedini mungkin agar bisa bertahan di berbagai kondisi yang tidak terduga. Karena itu anda perlu menyiapkan rencana investasi yang baik untuk menghadapi permasalahan seperti saat ini.
+**Investasi menguntungkan dengan modal 10 juta -** tahun 2020 menjadi pembelajaran bagi masyarakat agar mempersiapkan dana darurat untuk menghadapi kondisi yang tidak terduga seperti saat ini. Kondisi seperti ini menggambarkan bahwa kita harus mulai berinvestasi sedini mungkin agar bisa bertahan di berbagai kondisi yang tidak terduga. Karena itu anda perlu menyiapkan rencana investasi yang baik untuk menghadapi permasalahan seperti saat ini.
 
 Strategi investasi yang baik akan meningkatkan kestabilan finansial anda sehingga anda memiliki bekal yang cukup untuk menghadapi berbagai kondisi yang tidak terduga di masa akan datang.
 
@@ -76,9 +76,9 @@ Apabila anda berinvestasi dalam saham, maka anda perlu membeli beberapa jenis sa
 
 ## Pilihan Investasi Menguntungkan Modal 10 Juta
 
-Investor  pemula kini  dapat berinvestasi  dengan modal kecil  dengan lebih mudah  karena tersedia beberapa jenis investasi yang dapat dimulai dengan  modal kecil seperti: reksa dana, logam mulia, deposito berjangka dan  [*equity crowdfunding.* ](https://landx.id/)
+Investor  pemula kini  dapat berinvestasi  dengan modal kecil  dengan lebih mudah  karena tersedia beberapa jenis investasi yang dapat dimulai dengan  modal kecil seperti: reksa dana, logam mulia, deposito berjangka dan  *equity crowdfunding.* 
 
-### **[Reksa Dana](https://landx.id/blog/cara-kerja-reksa-dana/)** 
+### **[Reksa Dana](https://landx.id/blog/cara-kerja-reksa-dana/)**
 
 Reksa  dana merupakan salah satu instrumen investasi yang cocok untuk  pemodal  kecil dan pemodal yang memiliki keterbatasan kemampuan dan waktu untuk  menghitung resiko yang akan timbul dari investasi mereka. Investasi ini  juga ditujukan untuk mendorong investor lokal untuk bisa memulai  investasi di pasar modal Indonesia. Selain dapat dimulai dengan modal  kecil, reksa dana ini juga sangat memudahkan investor pemula dengan  resiko  lebih rendah karena dana akan dikelola oleh manajer investasi  profesional.
 
@@ -90,13 +90,16 @@ Emas merupakan salah  investasi yang digemari untuk investor pemula karena dinil
 
 Deposito  berjangka merupakan investasi yang memiliki risiko yang sangat kecil  dan bisa dimulai dengan modal yang tidak begitu besar. Deposito  berjangka ini juga memberikan akses bunga yang jelas juga menjadikan  deposito sebagai investasi pilihan mereka. Cara investasi ke  dalam deposito pun kini semakin muda karena bermunculannya bank digital  yang mempermudah seseorang mengakses berbagai produk perbankan termasuk  salah satunya deposito.
 
-### **Equity Crowdfunding** 
+### **Equity Crowdfunding**
 
 Equity [Crowdfunding](https://landx.id/) adalah skema investasi bagi hasil yang memberikan kesempatan kepada  investor untuk menanamkan modal mereka ke dalam bisnis yang membutuhkan  dana untuk perkembangan bisnis. Investor akan mendapatkan dividen sesuai  dengan keuntungan yang dihasilkan oleh bisnis. Proses crowdfunding  membutuhkan platform penyelenggara Equity Crowdfunding yang menghimpun  dana investor.
 
 **[Sistem Equity Crowdfunding (EFC)](https://landx.id/)** bisa  memberikan keuntungan kepada pemodal melalui capital gain dan dividen  yang akan dibagikan kepada pemodal. Sistem ini juga memudahkan investor  untuk memilih bisnis yang potensial karena platform crowdfunding  menyeleksi bisnis sebelum dilakukan pengumpulan dana.  Karena itu  investor perlu memilih platform equity crowdfunding terpercaya.
 
-## [Yuk Investasi dengan Passive Income Jangka Panjang](https://landx.id/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)
+## [Yuk Investasi dengan Passive Income Jangka Panjang](https://app.landx.id/?utm_source=Organic+Page&utm_medium=Content+Blog&utm_campaign=BlogLandX&utm_id=Blog)
 
-[![Bagaimana? Kamu lebih suka bisnis dengan buyback guarantee atau yang bisa disimpan dalam jangka panjang? Apapun pilihan kamu.. Yuk Patungan  dengan Keuntungan Menjanjikan Bareng LandX](https://accountgram-production.sfo2.cdn.digitaloceanspaces.com/landx_ghost/2021/10/Equity-Crowdfunding-di-Indonesia-1--3.png)](https://landx.id/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)
+<!--StartFragment-->
 
+[![miliki bisnis modal kecil cuma dengan 1 jutaan dapat 4 cabang ](https://accountgram-production.sfo2.cdn.digitaloceanspaces.com/landx_ghost/2021/11/jadi-owner-bisnis-hanya-1-jutaan-dengan-cuan-yang-sangat-menjanjikan.png)](https://app.landx.id/?utm_source=Organic+Page&utm_medium=Content+Blog&utm_campaign=BlogLandX&utm_id=Blog)
+
+<!--EndFragment-->
