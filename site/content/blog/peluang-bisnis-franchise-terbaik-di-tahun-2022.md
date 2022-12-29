@@ -32,29 +32,26 @@ category:
   - Bisnis
   - Investasi
 ---
-
-
 **[Bisnis franchise atau waralaba adalah](https://landx.id/blog/tag/franchise-f-b/)** metode kepemilikan pada suatu bisnis model untuk mendapatkan hak mendistribusikan produk atau jasa sebuah bisnis yang sudah terbukti sukses di bawah perjanjian waralaba.
 
 Dalam dunia franchise terdapat istilah franchisor atau pemberi izin waralaba dan penerima waralaba yaitu franchisee. Sistem bisnis ini diminati banyak calon wirausaha karena terbilang praktis. Franchisee akan dibantu dari izin lokasi, bentuk gerai, produk yang siap dijual, training operasional bisnis, hingga pemasaran.
 
-Franchise terdiri dari berbagai industri bisnis, dari yang populer seperti [**franchise F&B**](https://landx.id/blog/tag/franchise-f-b/), retail minimarket, salon, hingga otomotif yang dapat dipilih. Kali ini, ada daftar bisnis franchise F&B kekinian yang siap mempercepat lajunya di tahun 2022.
+Franchise terdiri dari berbagai industri bisnis, dari yang populer seperti **[franchise F&B](https://landx.id/blog/tag/franchise-f-b/)**, retail minimarket, salon, hingga otomotif yang dapat dipilih. Kali ini, ada daftar bisnis franchise F&B kekinian yang siap mempercepat lajunya di tahun 2022.
 
-
----
+- - -
 
 ### [1. Dessert Oriental Premium Hong Tang](https://landx.id/)
 
 Brand Hong Tang terasa familiar karena sering dijumpai saat main ke mall. Atau kamu familiar karena ternyata pelanggannya brand dessert manis ini? Menyuguhkan dessert sebagai menu utama sejak tahun 2012 jadi keunikan dari brand ini hingga diliput media nasional.
 
----
+- - -
 
 **Artikel Terkait:**
 
 * [Hong Tang: Kesegaran Berbagai Dessert Khas Asia dengan Konsep Cloud Kitchen](https://landx.id/blog/hong-tang-dengan-berbagai-menu-dessert-oriental-khas-taiwan-dan-hongkong/)
 * [Hong Tang Listing di LandX](https://landx.id/blog/punya-bisnis-hong-tang/)
 
----
+- - -
 
 Pelopor oriental dessert Asia ini menyediakan dessert segar manis cincau Taiwan, dessert hangat Hongkong, hingga rasa legit dari durian Thailand bisa kamu cicip.
 
@@ -66,7 +63,7 @@ Cincau yang dipadukan dengan tapioca pearl, kacang merah, base es yang bisa dipi
 
 Pertumbuhan yang pesat membuat Byurger mengajak konsumennya ekspansi outlet baru lewat sistem crowdfunding. Sukses urun dana, Byurger akan buka 4 cabang barunya dan mengjangkau lebih banyak konsumen.
 
-### [3. Kopi yang Lembut dari Arah Kopi](https://landx.id/project/)
+### [3. Kopi yang Lembut dari Arah Kopi](https://landx.id/)
 
 Fresh to cup, merupakan konsep dari coffee shop Arah Kopi untuk menyajikan produk-produk kopi lokal berkualitas demi menjaga cita rasa khas. Berkembang dengan sistem partnership membuat Arah Kopi dapat bertahan di tengah pandemi yang melanda pemilik bisnis secara tak karuan tahun lalu.
 
@@ -76,7 +73,7 @@ Menu kopi racikan yang beragam seperti americano, cafe latte, caramel machiato d
 
 Belum berakhir dengan inovasinya, Arah Kopi juga menyajikan berbagai dessert unik menggugah selera. Seperti bomboloni atau donat khas Italia, stroopwaffle yang manis dan kriuk, croissant, muffin, hingga danish yang cocok jadi teman minumanmu. Dari menu yang menarik udah kebukti Coffee Shop ini digandrungi hingga outletnya siap memencar di seluruh wilayah Indonesia.
 
-### [**4. Rumah Makan Incaran Padang Merdeka**](https://landx.id/project/#/pmbb)
+### **[4. Rumah Makan Incaran Padang Merdeka](https://landx.id/)**
 
 Ga diragukan lagi usaha rumah makan nasi Padang memang selalu menjanjikan. Rasa bumbu yang kuat sesuai di lidah semua umat, pilihan lauk yang beragam pun membuat mata kelabakan milih menu andalan.
 
@@ -94,14 +91,14 @@ Makanan asal Timur Tengah satu ini sangat populer di Indonesia. Potongan daging 
 
 Di Indonesia banyak merek penjual kebab yang populer karena sistem franchise seperti Baba Rafi, Istanbul Kebab, Kabobs, Black Kebab, Kebab Kings dan masih banyak lagi. Untuk bisa mendapat izin berjualan merek kebab populer ini, kamu bisa menyiapkan modal investasi kisaran 15 juta hingga ratusan juta tergantung paket dan brand yang dipilih.
 
----
+- - -
 
 **Baca Juga:**
 
 * [DRAGON HOT POT, Bisnis FnB yang Sukses Listing di LandX](https://landx.id/blog/dragon-hot-pot-bisnis-fnb-yang-sukses-listing-di-landx/)
 * [Pahami Bagaimana Cara Membangun Bisnis F&B yang Menguntungkan pada Masa Pandemi](https://landx.id/blog/apa-itu-bisnis-f-b/https://landx.id/blog/apa-itu-bisnis-f-b/)
 
----
+- - -
 
 ### 6. Olahan Ayam Krispi Favorit Semua
 
@@ -129,9 +126,9 @@ Menurut [Halodoc](https://www.halodoc.com/artikel/ini-5-makanan-indonesia-dengan
 
 Brand yang populer ada Martabak Orins, Martabak Joeragan, Martabak San Fransisco yang butuh modal berkisar mulai Rp 20 juta hingga ratusan juta tergantung konsep gerainya. Atau mau langsung melejit dengan brand Markobar milik anak Presiden bisa siapkan modal investasi Rp 300 juta.
 
-### [10. Bebek Goreng Bikin Cuan, Bebek BKB](https://landx.id/project/)
+### [10. Bebek Goreng Bikin Cuan, Bebek BKB](https://landx.id/)
 
-Bebek merupakan olahan sajian yang nikmat jika diolah dengan penuh perhatian. Rasa yang gurih dan daging yang empuk tentu akan membuat orang mabuk kepayang untuk dapat menikmatinya. Bebek BKB yang melihat peluang ini pun melebarkan jangkauannya dengan membuka [**sistem franchise.**](https://landx.id/blog/tag/bisnis-franchise/)
+Bebek merupakan olahan sajian yang nikmat jika diolah dengan penuh perhatian. Rasa yang gurih dan daging yang empuk tentu akan membuat orang mabuk kepayang untuk dapat menikmatinya. Bebek BKB yang melihat peluang ini pun melebarkan jangkauannya dengan membuka **[sistem franchise.](https://landx.id/blog/tag/bisnis-franchise/)**
 
 Bebek BKB berdiri sejak tahun 2017 dengan keunggulan bumbu khas Kepahiang yang membuat daging bebeknya berwarna hitam namun terasa  lembut. Baru 3 tahun berjalan bisnis ini sudah mempunyai 19 outlet tersebar di Jabodetabek. Permintaan yang ramai membuat Bebek BKB bahkan membuka 10 outlet auto pilot baru di masa pandemi.
 
@@ -143,32 +140,20 @@ Bebek memang terkenal dengan rasa gurihnya, daging yang empuk bikin Bebek BKB se
 
 Daging bebek empuk dengan cita rasa dalam yang nikmat, serta keramaham pelayanan di setiap gerai yang tersebar membuat Bebek BKB terpatri di hati penikmatnya. Modal franchise Bebek BKB sekitar Rp 1.5 miliar, hal ini sebanding dengan fasilitas yang akan dibantu survei lokasi yang strategis serta proyeksi balik modal hanya dalam 1,5 tahun saja.
 
-Namun, kini kamu bisa memiliki outlet modern Bebek BKB hanya dengan Rp 1 juta saja! Kenapa bisa? Bebek BKB membuka peluang bagi para pemilik modal untuk menjadi investor outlet baru mereka yang akan dibuka pada tahun depan. Kamu bisa jadi investor dari bisnis yang sepi kompetitor ini melalui investasi patungan [**bisnis, LandX.**](https://landx.id/project/)
+Namun, kini kamu bisa memiliki outlet modern Bebek BKB hanya dengan Rp 1 juta saja! Kenapa bisa? Bebek BKB membuka peluang bagi para pemilik modal untuk menjadi investor outlet baru mereka yang akan dibuka pada tahun depan. Kamu bisa jadi investor dari bisnis yang sepi kompetitor ini melalui investasi patungan **[bisnis, LandX.](https://landx.id/)**
 
-## [Yuk Punya Bisnis Menjanjikan Cuma denga Modal 1 Jutaan](https://landx.id/project/)
+## [Yuk Punya Bisnis Menjanjikan Cuma denga Modal 1 Jutaan](https://landx.id/)
 
-[**LandX**](https://landx.id/), [platform equity crowdfunding](https://landx.id/) atau investasi patungan bisnis menjadi pemilik berbagai [**bisnis fnb**](https://landx.id/project/) mulai dari [Rumah Makan Padang Merdeka](https://landx.id/project/), [**Bebek BKB,**](https://landx.id/project/) dan berbagai bisnis potensial lainnya yang bisa memberikan keuntungan jangka panjang bagi para investor. Kini investasi semudah belanja online, tinggal duduk manis tanpa kelola bisnis dengan [**aplikasi LandX**](https://landx.id/).
+**[LandX](https://landx.id/)**, [platform equity crowdfunding](https://landx.id/) atau investasi patungan bisnis menjadi pemilik berbagai **bisnis fnb** mulai dari [Rumah Makan Padang Merdeka](https://landx.id/), **Bebek BKB,** dan berbagai bisnis potensial lainnya yang bisa memberikan keuntungan jangka panjang bagi para investor. Kini investasi semudah belanja online, tinggal duduk manis tanpa kelola bisnis dengan **aplikasi LandX**.
 
 Karena itu,
 
-## [Yuk Gabung Bareng LandX Biar](https://landx.id/project/) 2022 Makin Cuan
+<!--StartFragment-->
 
-[![Bagaimana? Kamu lebih suka bisnis dengan buyback guarantee atau yang bisa disimpan dalam jangka panjang? Apapun pilihan kamu.. Yuk Patungan  dengan Keuntungan Menjanjikan Bareng LandX](https://accountgram-production.sfo2.cdn.digitaloceanspaces.com/landx_ghost/2021/10/Equity-Crowdfunding-di-Indonesia-1--3.png)](http://landx.id/project/)
+### [\#SekarangBisa berinvestasi dengan modal dan capai keuntungan di LandX](https://landx.id/blog/apa-itu-sukuk-pengertian-jenis-dan-perbedaannya-dengan-obligasi/)
 
-**#YukPatunganBisnis**
+[![miliki bisnis modal kecil cuma dengan 1 jutaan dapat 4 cabang ](https://accountgram-production.sfo2.cdn.digitaloceanspaces.com/landx_ghost/2021/11/jadi-owner-bisnis-hanya-1-jutaan-dengan-cuan-yang-sangat-menjanjikan.png)](https://app.landx.id/?utm_source=Organic+Page&utm_medium=Content+Blog&utm_campaign=BlogLandX&utm_id=Blog)
 
-[**Jangan Lupa!! Follow @landx.id di Instagram Supaya Terus Update Berbagai Info Seputar Investas**](https://instagram.com/landx.id?utm_medium=copy_link)**i**
+<!--EndFragment-->
 
----
-
-**Baca Juga:**
-
-* [Berikut 5+ Bisnis Modal Kecil dengan Keuntungan Menjanjikan di Masa Pandemi](https://landx.id/blog/5-bisnis-menguntungkan-dengan-modal-kecil/)
-* [13+ Peluang Usaha Modal Kecil yang Tidak Boleh Anda Lewatkan](https://landx.id/blog/peluang-usaha-modal-kecil-di-masa-pandemi-yang-cocok-untuk-pemula/)
-* [Bisnis di Masa Pandemi - Melihat Bagaimana Strategi Bisnis F&B Cloud Kitchen Bertahan di Masa Pandemi](https://landx.id/blog/bisnis-cloud-kitchen-di-masa-pandemi/)
-* [Mau Memulai Franchise Laundry? Berikut Rekomendasi dan Tips Menemukan Franchise Laundry Terbaik yang Menguntungkan](https://landx.id/blog/memulai-bisnis-franchise-laundry/)
-
----
-
-**#LandX.id    #landx         #landx.id    #InvestasiBisnis     #SecuritiesCrowdfunding #EquityCrowdfunding    #InvestasiMenguntungkan     #Urundana    #BisnisPatungan    #InvestasiUsaha**
-
+[](http://landx.id/project/)
