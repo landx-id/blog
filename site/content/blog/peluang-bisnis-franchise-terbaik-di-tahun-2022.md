@@ -1,16 +1,16 @@
 ---
 draft: false
 author: Vlora Riyandi
-title: Peluang Bisnis Franchise Menjanjikan Tahun 2022, Siap Sambut Cuan!
-metaTitle: Peluang Bisnis Franchise Menjanjikan Tahun 2022, Siap Sambut Cuan!
+title: Peluang Bisnis Franchise Menjanjikan Tahun 2023, Siap Sambut Cuan!
+metaTitle: Peluang Bisnis Franchise Menjanjikan Tahun 2023, Siap Sambut Cuan!
 metaDescription: Mau punya bisnis dengan sistem franchise tapi modal masih
   terbatas? Yuk simak peluang bisnis franchise modal kecil yang bisa jadi sumber
   cuan di 2022
-intro: 2022 mau panen cuan? Yuk cek berbagai pilihan bisnis franchise terbaik
+intro: 2023 mau panen cuan? Yuk cek berbagai pilihan bisnis franchise terbaik
   yang bisa jadi lahan investasi menguntungkan kamu
 isPinned: false
 slug: peluang-bisnis-franchise-terbaik-di-tahun-2022
-date: 2021-12-16T03:49:47.000Z
+date: 2022-12-29T07:40:47.411Z
 tag:
   - Bisnis Franchise Modal Kecil
   - sistem franchise
@@ -40,28 +40,10 @@ Dalam dunia franchise terdapat istilah franchisor atau pemberi izin waralaba dan
 
 Franchise terdiri dari berbagai industri bisnis, dari yang populer seperti [**franchise F&B**](https://landx.id/blog/tag/franchise-f-b/), retail minimarket, salon, hingga otomotif yang dapat dipilih. Kali ini, ada daftar bisnis franchise F&B kekinian yang siap mempercepat lajunya di tahun 2022.
 
----
-
-## Table of Content
-
-* **Peluang Bisnis Menjanjikan di Tahun 2022**
-
-1. [Dessert Oriental Premium Hong Tang](https://landx.id/blog/peluang-bisnis-franchise-terbaik-di-tahun-2022/#1-dessert-oriental-premium-hong-tang)
-2. [Artisan Fast Food Gurihnya Byurger](https://landx.id/blog/peluang-bisnis-franchise-terbaik-di-tahun-2022/#2-artisan-fast-food-gurihnya-byurger)
-3. [Kopi yang lembut dari Arah Kopi](https://landx.id/blog/peluang-bisnis-franchise-terbaik-di-tahun-2022/#3-kopi-yang-lembut-dari-arah-kopi)
-4. [Rumah Makan Incaran Padang Merdeka](https://landx.id/blog/peluang-bisnis-franchise-terbaik-di-tahun-2022/#4-rumah-makan-incaran-padang-merdeka)
-5. [Rasa Smoky Kebab](https://landx.id/blog/peluang-bisnis-franchise-terbaik-di-tahun-2022/#5-rasa-smoky-kebab)
-6. [Olahan Ayam Krispi Favorit Semua](https://landx.id/blog/peluang-bisnis-franchise-terbaik-di-tahun-2022/#6-olahan-ayam-krispi-favorit-semua)
-7. [Cemilan Tahu Kekinian Teman Nonton](https://landx.id/blog/peluang-bisnis-franchise-terbaik-di-tahun-2022/#7-cemilan-tahu-kekinian-teman-nonton)
-8. [Nikmatnya Cita Rasa Khas Bakso](#8-nikmatnya-cita-rasa-khas-bakso)
-9. [Martabak yang Bikin Lupa Hitung Kalori](https://landx.id/blog/peluang-bisnis-franchise-terbaik-di-tahun-2022/#9-martabak-yang-bikin-lupa-hitung-kalori)
-10. [Bebek Goreng Bikin Cuan, Bebek BKB](https://landx.id/blog/peluang-bisnis-franchise-terbaik-di-tahun-2022/#10-bebek-goreng-bikin-cuan-bebek-bkb)
-
-* [**Yuk Punya Bisnis Menjanjikan Cuma denga Modal 1 Jutaan**](https://landx.id/blog/peluang-bisnis-franchise-terbaik-di-tahun-2022/#yuk-gabung-bareng-landx-biar-2022-makin-cuan)
 
 ---
 
-### [1. Dessert Oriental Premium Hong Tang](https://landx.id/project/#/hong)
+### [1. Dessert Oriental Premium Hong Tang](https://landx.id/)
 
 Brand Hong Tang terasa familiar karena sering dijumpai saat main ke mall. Atau kamu familiar karena ternyata pelanggannya brand dessert manis ini? Menyuguhkan dessert sebagai menu utama sejak tahun 2012 jadi keunikan dari brand ini hingga diliput media nasional.
 
@@ -78,9 +60,9 @@ Pelopor oriental dessert Asia ini menyediakan dessert segar manis cincau Taiwan,
 
 Cincau yang dipadukan dengan tapioca pearl, kacang merah, base es yang bisa dipilih dari 7 rasa, serta es krim matcha memberi rasa creamy yang dicari penggemar makanan manis. Tertarik jadi bagian franchise Hong Tang? Bisa gabung lewat **[LandX](https://landx.id/project/)**, loh. Kesempatan langka!
 
-### [2. Artisan Fast Food Gurihnya Byurger](https://landx.id/project/#/byr1)
+### [2. Artisan Fast Food Gurihnya Byurger](https://landx.id/)
 
-[S](https://landx.id/project/#/byr1)iapa yang ga suka kalo bisa makan praktis tapi bisa ngerasain cita rasa yang mewah? Byurger menghidangkan burger gaya Amerika, Korea, dan Jepang yang diracik oleh profesional chef. Rasa yang gurih dan daging yang juicy bikin Byurger selalu dicari bahkan malah sempat ekspansi di awal pandemi tahun 2020.
+[S](https://landx.id/)iapa yang ga suka kalo bisa makan praktis tapi bisa ngerasain cita rasa yang mewah? Byurger menghidangkan burger gaya Amerika, Korea, dan Jepang yang diracik oleh profesional chef. Rasa yang gurih dan daging yang juicy bikin Byurger selalu dicari bahkan malah sempat ekspansi di awal pandemi tahun 2020.
 
 Pertumbuhan yang pesat membuat Byurger mengajak konsumennya ekspansi outlet baru lewat sistem crowdfunding. Sukses urun dana, Byurger akan buka 4 cabang barunya dan mengjangkau lebih banyak konsumen.
 
