@@ -91,8 +91,6 @@ Jenis obligasi konversi adalah surat utang yang dikeluarkan oleh perusahan. Nant
 
 Jenis obligasi konversi ada yang diterbitkan oleh pemerintah dan juga oleh korporasi. [Keuntungan obligasi konversi](https://landx.id/blog/obligasi-konversi/) salah satunya adalah  investor menerima pembayaran bunga suku bunga tetap dengan opsi untuk mengkonversi ke saham dan mendapatkan keuntungan dari apresiasi harga saham.
 
-
-
 ### Jenis Obligasi Berdasarkan Pembayaran Kupon/ Bunga
 
 Pembayaran kupon atau bunga merupakan bagian penting yang harus anda perhatikan sebelum memutuskan untuk berinvestasi ke dalam obligasi karena obligasi memiliki beberapa jenis kupon. Berikut beberapa jenis kupon dalam obligasi:
@@ -164,7 +162,8 @@ Saat ini anda juga bisa membeli obligasi atau surat utang dari bisnis-bisnis pot
 
 Dengan adanya sistem ini, anda bisa ikut berinvestasi untuk membangun berbagai bisnis potensial yang ada di sekitar anda.
 
-**[Yuk Temukan Bisnis Menjanjikan dengan Keuntungan Terbaik di LandX](https://landx.id/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)**
+<!--StartFragment-->
 
-[![miliki bisnis modal kecil cuma dengan 1 jutaan dapat 4 cabang ](https://accountgram-production.sfo2.cdn.digitaloceanspaces.com/landx_ghost/2021/11/jadi-owner-bisnis-hanya-1-jutaan-dengan-cuan-yang-sangat-menjanjikan.png)](https://landx.id/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)**[Sebagai Investor Kamu Harus Selalu Update Berbagai Info Seputar Investasi, Karena Itu Yuk Follow Instagram Kami @landx.id](https://www.instagram.com/landx.id/?utm_medium=copy_link)**
+## [Akses Saham Perusahaan Privat Melalui Platform Equity Crowdfunding](https://app.landx.id/?utm_source=Organic+Page&utm_medium=Content+Blog&utm_campaign=BlogLandX&utm_id=Blog)
 
+[![miliki bisnis modal kecil cuma dengan 1 jutaan dapat 4 cabang ](https://accountgram-production.sfo2.cdn.digitaloceanspaces.com/landx_ghost/2021/11/jadi-owner-bisnis-hanya-1-jutaan-dengan-cuan-yang-sangat-menjanjikan.png)](https://landx.id/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)
