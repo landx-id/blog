@@ -140,7 +140,7 @@ Bebek memang terkenal dengan rasa gurihnya, daging yang empuk bikin Bebek BKB se
 
 Daging bebek empuk dengan cita rasa dalam yang nikmat, serta keramaham pelayanan di setiap gerai yang tersebar membuat Bebek BKB terpatri di hati penikmatnya. Modal franchise Bebek BKB sekitar Rp 1.5 miliar, hal ini sebanding dengan fasilitas yang akan dibantu survei lokasi yang strategis serta proyeksi balik modal hanya dalam 1,5 tahun saja.
 
-Namun, kini kamu bisa memiliki outlet modern Bebek BKB hanya dengan Rp 1 juta saja! Kenapa bisa? Bebek BKB membuka peluang bagi para pemilik modal untuk menjadi investor outlet baru mereka yang akan dibuka pada tahun depan. Kamu bisa jadi investor dari bisnis yang sepi kompetitor ini melalui investasi patungan **[bisnis, LandX.](https://landx.id/)**
+Namun, kini kamu bisa memiliki outlet modern Bebek BKB hanya dengan Rp 1 juta saja! Kenapa bisa? Bebek BKB membuka peluang bagi para pemilik modal untuk menjadi investor outlet baru mereka yang akan dibuka pada tahun depan. Kamu bisa jadi investor dari bisnis yang sepi kompetitor ini melalui investasi patungan **[bisnis](https://landx.id/)**
 
 ## [Yuk Punya Bisnis Menjanjikan Cuma denga Modal 1 Jutaan](https://landx.id/)
 
