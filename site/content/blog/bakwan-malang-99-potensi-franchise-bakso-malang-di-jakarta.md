@@ -89,7 +89,7 @@ Franchise bakwan Malang di Jakarta yang dapat Anda kunjungi diantaranya ada  Bak
 
 Kedepannya, franchise bakwan Malang akan terus berkembang hingga ke seluruh wilayah di Indonesia.
 
-## [Raih Kesempatan Menjadi Investor Bisnis Hanya dengan Modal 1 Juta](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)
+## [Raih Kesempatan Menjadi Investor Bisnis Hanya dengan Modal 1 Juta](https://landx.id/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)
 
 Bagaimana menarik bukan, potensi yang bisa Anda dapatkan dengan franchise bisnis kuliner?
 
@@ -97,18 +97,18 @@ Memiliki bisnis franchise memang menarik tapi, jangan lupa jika ingin mengelola 
 
 Namun, jika Anda masih khawatir akan sulit dan repotnya mengelola franchise bisnis kuliner sendiri, Anda bisa kok menjadi pemilik bisnis dengan minim risiko dan minim modal pula.
 
-Anda dapat menjadi salah satu pemilik bisnis yang memiliki prospek bagus dengan cara investasi metode [equity crowdfunding](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog).
+Anda dapat menjadi salah satu pemilik bisnis yang memiliki prospek bagus dengan cara investasi metode [equity crowdfunding](https://landx.id/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog).
 
-Dengan metode [equity crowdfunding](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog) Anda akan menjadi investor untuk bisnis yang akan Anda danai. Nantinya, Anda akan memperoleh dividen hasil dari bisnis yang Anda danai. Bagaimana, menarik bukan?
+Dengan metode [equity crowdfunding](https://landx.id/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog) Anda akan menjadi investor untuk bisnis yang akan Anda danai. Nantinya, Anda akan memperoleh dividen hasil dari bisnis yang Anda danai. Bagaimana, menarik bukan?
 
-Salah satu platform [equity crowdfunding](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog) terpercaya, transparan, memiliki market cap terbesar se Indonesia, dan telah mengantongi izin dari Otoritas Jasa Keuangan (OJK) adalah [LandX](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog).
+Salah satu platform [equity crowdfunding](https://landx.id/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog) terpercaya, transparan, memiliki market cap terbesar se Indonesia, dan telah mengantongi izin dari Otoritas Jasa Keuangan (OJK) adalah [LandX](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog).
 
-Anda bisa menjadi investor dengan modal kecil mulai dari 1 juta langsung di [LandX](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog). Tunggu Apalagi? 
+Anda bisa menjadi investor dengan modal kecil mulai dari 1 juta langsung di [LandX](https://landx.id/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog). Tunggu Apalagi? 
 
-## [Jadi Investor dengan Modal Kecil Melalui LandX Sekarang Juga!](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)
+## [Jadi Investor dengan Modal Kecil Melalui LandX Sekarang Juga!](https://landx.id/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)
 
 <!--StartFragment-->
 
-[![miliki bisnis modal kecil cuma dengan 1 jutaan dapat 4 cabang ](https://accountgram-production.sfo2.cdn.digitaloceanspaces.com/landx_ghost/2021/11/jadi-owner-bisnis-hanya-1-jutaan-dengan-cuan-yang-sangat-menjanjikan.png)](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)
+[![miliki bisnis modal kecil cuma dengan 1 jutaan dapat 4 cabang ](https://accountgram-production.sfo2.cdn.digitaloceanspaces.com/landx_ghost/2021/11/jadi-owner-bisnis-hanya-1-jutaan-dengan-cuan-yang-sangat-menjanjikan.png)](https://landx.id/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)
 
 <!--EndFragment-->
