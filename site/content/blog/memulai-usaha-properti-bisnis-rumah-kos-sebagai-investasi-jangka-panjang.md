@@ -108,9 +108,9 @@ Seperti yang anda tau, membangun sebuah rumah kos membutuhkan biaya awal yang cu
 
 Akan tetapi, anda tidak perlu khawatir karena kini telah tersedia **[sistem equity crowdfunding](https://landx.id/)** [](https://landx.id/) memberikan anda kesempatan untuk memiliki properti yang bisa memberikan anda keuntungan dengan sistem patungan. Sistem ini membuat anda bisa memiliki **[properti rumah kost menguntungkan](https://landx.id/)** hanya dengan modal kecil.
 
-## [Yuk Jadi Juragan Properti Cuma dengan Modal 1 Jutaan di LandX](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)
+## [Yuk Jadi Juragan Properti Cuma dengan Modal 1 Jutaan di LandX](https://landx.id/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)
 
-[![Yuk mulai patungan bisnis menguntungkan jangka panja g bersama LandX](https://accountgram-production.sfo2.cdn.digitaloceanspaces.com/landx_ghost/2021/09/Equity-Crowdfunding-di-Indonesia-1--3.png)](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)
+[![Yuk mulai patungan bisnis menguntungkan jangka panja g bersama LandX](https://accountgram-production.sfo2.cdn.digitaloceanspaces.com/landx_ghost/2021/09/Equity-Crowdfunding-di-Indonesia-1--3.png)](https://landx.id/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)
 
 - - -
 
