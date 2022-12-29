@@ -14,6 +14,7 @@ tag:
   - Bisnis Modal Kecil
 category:
   - Bisnis
+  - Keuangan
 featuredImage:
   title: Mengenal Apa Itu Side Hustle Tren Pekerjaan Sampingan Generasi Milenial
   alt: side hustle dan side job, pekerjaan sampingan milenial
