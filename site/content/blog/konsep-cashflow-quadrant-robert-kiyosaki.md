@@ -86,7 +86,7 @@ Karena itu, orang yang sudah berada di tahap ini tidak harus turun langsung untu
 
 ### 4. Quadrant I (Investor)
 
-Quadrant I atau investor adalah kelompok orang yang mendapatkan penghasilan dari hasil investasi mereka terhadap suatu bisnis atau perusahaan. Kelompok orang yang ada dalam quadrant I ini tidak terlibat langsung lagi ke bisnis karena mereka hanya berperan sebagai investor yang akan mendapatkan ***[passive income](https://landx.id/project/)*** dari bisnis atau perusahaan yang telah mereka danai.
+Quadrant I atau investor adalah kelompok orang yang mendapatkan penghasilan dari hasil investasi mereka terhadap suatu bisnis atau perusahaan. Kelompok orang yang ada dalam quadrant I ini tidak terlibat langsung lagi ke bisnis karena mereka hanya berperan sebagai investor yang akan mendapatkan ***[passive income](https://landx.id/)*** dari bisnis atau perusahaan yang telah mereka danai.
 
 Orang dalam kelompok ini sudah dalam tahap kebebasan finansial karena uang mereka sudah bisa berkerja sendiri untuk menghasilkan keuntungan-keuntungan berikutnya.
 
@@ -104,17 +104,17 @@ Selain itu, anda harus ingat bahwa segala sesuatu butuh proses sehingga anda har
 
 Karena itu, selain bekerja lebih keras untuk menghasilkan uang, anda juga butuh strategi investasi yang lebih baik lagi untuk mempercepat kebebasan finansial yang anda inginkan.
 
-Salah satunya adalah dengan memilih investasi yang menghasilkan passive income yaitu dengan **[ikut patungan bisnis.](https://landx.id/project/)**
+Salah satunya adalah dengan memilih investasi yang menghasilkan passive income yaitu dengan **[ikut patungan bisnis.](https://landx.id/)**
 
 Sistem ini memberikan kesempatan kamu untuk berinvestasi dengan ikut membangun suatu bisnis dengan sistem patungan yang nantinya bisa memberikan anda cashflow rutin dari keutnungan bisnis tersebut.
 
-**[LandX](https://landx.id/project/)** merupakan platform **equity crowdfunding** berizin OJK yang memberikan anda kesempatan untuk ikut patungan membangun berbagai bisnis menguntungkan dengan modal kecil.
+**[LandX](https://landx.id/)** merupakan platform **equity crowdfunding** berizin OJK yang memberikan anda kesempatan untuk ikut patungan membangun berbagai bisnis menguntungkan dengan modal kecil.
 
 Karena itu,..
 
-**[Yuk Temukan Bisnis Menjanjikan dengan Keuntungan Terbaik di LandX](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)**
+**[Yuk Temukan Bisnis Menjanjikan dengan Keuntungan Terbaik di LandX](https://landx.id/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)**
 
-[![miliki bisnis modal kecil cuma dengan 1 jutaan dapat 4 cabang ](https://accountgram-production.sfo2.cdn.digitaloceanspaces.com/landx_ghost/2021/11/jadi-owner-bisnis-hanya-1-jutaan-dengan-cuan-yang-sangat-menjanjikan.png)](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)
+[![miliki bisnis modal kecil cuma dengan 1 jutaan dapat 4 cabang ](https://accountgram-production.sfo2.cdn.digitaloceanspaces.com/landx_ghost/2021/11/jadi-owner-bisnis-hanya-1-jutaan-dengan-cuan-yang-sangat-menjanjikan.png)](https://landx.id/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)
 
 - - -
 
