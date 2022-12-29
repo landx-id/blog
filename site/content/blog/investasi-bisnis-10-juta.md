@@ -34,7 +34,7 @@ Strategi investasi yang baik akan meningkatkan kestabilan finansial anda sehingg
 
 Investasi yang tepat akan membantu meningkatkan perkembangan finansial, oleh sebab itu anda perlu memulai investasi sedini mungkin. Investasi memang sering di salah artikan sebagai sesuatu yang harus dimulai dengan modal besar, padahal investasi dapat dimulai dengan sedini mungkin walau dengan modal yang terbatas.
 
-Untuk itu, artikel ini akan membahas bagaimana **[cara terbaik investasi menguntungkan dengan modal 10 juta.](https://landx.id/project/)**
+Untuk itu, artikel ini akan membahas bagaimana **[cara terbaik investasi menguntungkan dengan modal 10 juta.](https://landx.id/)**
 
 ## Cara Terbaik Memulai Investasi dengan Modal 10 Juta
 
@@ -92,24 +92,11 @@ Deposito  berjangka merupakan investasi yang memiliki risiko yang sangat kecil  
 
 ### **Equity Crowdfunding** 
 
-Equity [Crowdfunding](https://landx.id/) adalah skema investasi bagi hasil yang memberikan kesempatan kepada  investor untuk menanamkan modal mereka ke dalam bisnis yang membutuhkan  dana untuk perkembangan bisnis. Investor akan mendapatkan dividen sesuai  dengan keuntungan yang dihasilkan oleh bisnis. Proses crowdfunding  membutuhkan platform penyelenggara Equity Crowdfunding yang menghimpun  dana investor. \
-\
-**[Sistem Equity Crowdfunding (EFC)](https://landx.id/project/)** bisa  memberikan keuntungan kepada pemodal melalui capital gain dan dividen  yang akan dibagikan kepada pemodal. Sistem ini juga memudahkan investor  untuk memilih bisnis yang potensial karena platform crowdfunding  menyeleksi bisnis sebelum dilakukan pengumpulan dana.  Karena itu  investor perlu memilih platform equity crowdfunding terpercaya.
+Equity [Crowdfunding](https://landx.id/) adalah skema investasi bagi hasil yang memberikan kesempatan kepada  investor untuk menanamkan modal mereka ke dalam bisnis yang membutuhkan  dana untuk perkembangan bisnis. Investor akan mendapatkan dividen sesuai  dengan keuntungan yang dihasilkan oleh bisnis. Proses crowdfunding  membutuhkan platform penyelenggara Equity Crowdfunding yang menghimpun  dana investor.
 
-## [Yuk Investasi dengan Passive Income Jangka Panjang](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)
+**[Sistem Equity Crowdfunding (EFC)](https://landx.id/)** bisa  memberikan keuntungan kepada pemodal melalui capital gain dan dividen  yang akan dibagikan kepada pemodal. Sistem ini juga memudahkan investor  untuk memilih bisnis yang potensial karena platform crowdfunding  menyeleksi bisnis sebelum dilakukan pengumpulan dana.  Karena itu  investor perlu memilih platform equity crowdfunding terpercaya.
 
-[![Bagaimana? Kamu lebih suka bisnis dengan buyback guarantee atau yang bisa disimpan dalam jangka panjang? Apapun pilihan kamu.. Yuk Patungan  dengan Keuntungan Menjanjikan Bareng LandX](https://accountgram-production.sfo2.cdn.digitaloceanspaces.com/landx_ghost/2021/10/Equity-Crowdfunding-di-Indonesia-1--3.png)](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)
+## [Yuk Investasi dengan Passive Income Jangka Panjang](https://landx.id/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)
 
-**[Mau Tau Berbagai Info Terbaru Seputar Keuangan Lainnya? Yuk Follow @landx.id di Instagram](https://www.instagram.com/landx.id/?utm_medium=copy_link)**
+[![Bagaimana? Kamu lebih suka bisnis dengan buyback guarantee atau yang bisa disimpan dalam jangka panjang? Apapun pilihan kamu.. Yuk Patungan  dengan Keuntungan Menjanjikan Bareng LandX](https://accountgram-production.sfo2.cdn.digitaloceanspaces.com/landx_ghost/2021/10/Equity-Crowdfunding-di-Indonesia-1--3.png)](https://landx.id/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)
 
-- - -
-
-**Baca Juga:**
-
-* [Ingin Terhindar Dari FOMO saat Berinvestasi? 5 Hal Ini Wajib Kamu Lakukan](https://landx.id/blog/fomo-dalam-kehidupan-dan-investasi/)
-* [Investasi Selalu Rugi? Coba Lakukan Diversifikasi. Ini 4 Cara Melakukannya!](https://landx.id/blog/arti-penting-diversifikasi-dalam-investasi/)
-* [Alasan Kenapa Dana Darurat Sangat Penting Disiapkan Sedini Mungkin](https://landx.id/blog/menyiapkan-dana-darurat-yang-ideal/)
-
-- - -
-
-**\#SekarangBisa**
