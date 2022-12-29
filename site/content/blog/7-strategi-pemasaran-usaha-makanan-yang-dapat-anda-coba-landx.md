@@ -105,14 +105,10 @@ Selain fokus mengelola bisnis kuliner yang Anda miliki, Anda dapat menjadi pemeg
 
 Anda juga dapat memberikan masukan pada manajemen bisnis yang Anda investasikan layaknya pemilik bisnis. Dalam satu [aplikasi crowdfunding LandX](https://landx.id/), Anda dapat berinvestasi pada bisnis dan mendapatkan keuntungan bagi hasil serta memberi masukan langsung sebagai bagian pemilik bisnis.
 
-## [Yuk, Investasi Bisnis di Crowdfunding LandX Sekarang](<Yuk, jadi bos bisnis dan terima keuntungan rutin di LandX](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog>)
+## [Yuk, Investasi Bisnis di Crowdfunding LandX Sekarang](https://app.landx.id/?utm_source=Organic+Page&utm_medium=Content+Blog&utm_campaign=BlogLandX&utm_id=Blog)
 
 <!--StartFragment-->
 
-[![Yuk mulai patungan bisnis menguntungkan jangka panja g bersama LandX](https://accountgram-production.sfo2.cdn.digitaloceanspaces.com/landx_ghost/2021/09/Equity-Crowdfunding-di-Indonesia-1--3.png)](https://landx.id/project/utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)
+[![miliki bisnis modal kecil cuma dengan 1 jutaan dapat 4 cabang ](https://accountgram-production.sfo2.cdn.digitaloceanspaces.com/landx_ghost/2021/11/jadi-owner-bisnis-hanya-1-jutaan-dengan-cuan-yang-sangat-menjanjikan.png)](https://app.landx.id/?utm_source=Organic+Page&utm_medium=Content+Blog&utm_campaign=BlogLandX&utm_id=Blog)
 
 <!--EndFragment-->
-
-> Yuk Download Aplikasi LandX Sekarang!!!
-> {{< button link="https://play.google.com/store/apps/details?id=store.numoney.landxapp&hl=in&gl=US" text="Android" >}}
-> {{< button link="https://apps.apple.com/id/app/landx/id1453823676" text="IOS" >}}
