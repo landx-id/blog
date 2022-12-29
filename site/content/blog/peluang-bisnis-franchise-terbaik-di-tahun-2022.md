@@ -25,8 +25,8 @@ tag:
 featuredImage:
   src: https://images.unsplash.com/photo-1637291454111-1d115acb5023?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxMTc3M3wwfDF8c2VhcmNofDExfHwyMDIyfGVufDB8fHx8MTY0MDE0OTU5NA&ixlib=rb-1.2.1&q=80&w=1080
   alt: Berbagai bisnis franchise terbaik yang bisa jadi sumber cuan kamu di tahun
-    2022
-  title: Peluang Bisnis Franchise Menjanjikan Tahun 2022, Siap Sambut Cuan!
+    2023
+  title: Peluang Bisnis Franchise Menjanjikan Tahun 2023, Siap Sambut Cuan!
 image: https://images.unsplash.com/photo-1637291454111-1d115acb5023?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxMTc3M3wwfDF8c2VhcmNofDExfHwyMDIyfGVufDB8fHx8MTY0MDE0OTU5NA&ixlib=rb-1.2.1&q=80&w=1080
 category:
   - Bisnis
@@ -36,7 +36,7 @@ category:
 
 Dalam dunia franchise terdapat istilah franchisor atau pemberi izin waralaba dan penerima waralaba yaitu franchisee. Sistem bisnis ini diminati banyak calon wirausaha karena terbilang praktis. Franchisee akan dibantu dari izin lokasi, bentuk gerai, produk yang siap dijual, training operasional bisnis, hingga pemasaran.
 
-Franchise terdiri dari berbagai industri bisnis, dari yang populer seperti **[franchise F&B](https://landx.id/blog/tag/franchise-f-b/)**, retail minimarket, salon, hingga otomotif yang dapat dipilih. Kali ini, ada daftar bisnis franchise F&B kekinian yang siap mempercepat lajunya di tahun 2022.
+Franchise terdiri dari berbagai industri bisnis, dari yang populer seperti **[franchise F&B](https://landx.id/blog/tag/franchise-f-b/)**, retail minimarket, salon, hingga otomotif yang dapat dipilih. Kali ini, ada daftar bisnis franchise F&B kekinian yang siap mempercepat lajunya di tahun 2023.
 
 - - -
 
@@ -77,7 +77,7 @@ Belum berakhir dengan inovasinya, Arah Kopi juga menyajikan berbagai dessert uni
 
 Ga diragukan lagi usaha rumah makan nasi Padang memang selalu menjanjikan. Rasa bumbu yang kuat sesuai di lidah semua umat, pilihan lauk yang beragam pun membuat mata kelabakan milih menu andalan.
 
-Padang Merdeka adalah salah satu bisnis rumah makan franchise yang siap lanjut tempur di tahun 2022. Memiliki 9 gerai tersebar di sepanjang pulau Jawa, rumah makan Padang Merdeka siap memperluas posisinya.
+Padang Merdeka adalah salah satu bisnis rumah makan franchise yang siap lanjut tempur di tahun 2023. Memiliki 9 gerai tersebar di sepanjang pulau Jawa, rumah makan Padang Merdeka siap memperluas posisinya.
 
 Selain tersedia di berbagai kota dan aplikasi antar makanan, rumah makan dengan logo berwarna merah ini juga menyediakan paket hampers dan tumpeng yang cocok untuk acara besar perayaan. Terdapat menu top pilihan pelanggan yaitu ayam pop, ayam goreng, ayam nanas, dendeng, dan tentunya rendang nan gurih.
 
