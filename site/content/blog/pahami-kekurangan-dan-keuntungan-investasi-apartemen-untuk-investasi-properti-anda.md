@@ -93,14 +93,8 @@ Bagaimana, investasi properti penuh risiko dan butuh kemampuan manajemen yang ba
 
 ## [Yuk, jadi bos bisnis dan terima keuntungan rutin di LandX](https://landx.id/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)
 
+<!--StartFragment-->
+
 [![miliki bisnis modal kecil cuma dengan 1 jutaan dapat 4 cabang ](https://accountgram-production.sfo2.cdn.digitaloceanspaces.com/landx_ghost/2021/11/jadi-owner-bisnis-hanya-1-jutaan-dengan-cuan-yang-sangat-menjanjikan.png)](https://landx.id/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)
 
-> **[Jangan Lupa Follow @landx.id di Instagram Untuk Berbagai Informasi Menarik Seputar Investasi Lainnya.](https://www.instagram.com/landx.id/?utm_medium=copy_link)**
-
-- - -
-
-**Baca Juga:**
-
-* [Saham: Mengenal Apa Itu Indeks Saham dan Fungsinya dalam Investasi](https://landx.id/blog/apa-itu-indeks-saham-dan-indeks-harga-saham/)
-* [Saham Syariah: Mengenal Apa Itu Saham Syariah dan Perbedaannya dengan Konvensional](https://landx.id/blog/mengenal-saham-syariah-dan-perberdaannya-dengan-saham-konvesional/)
-* [Mau Mulai Main Saham? Kenali Perbedaan antara Trading dan Investasi dalam Saham](https://landx.id/blog/memahami-perbedaan-trading-dan-investasi/)
+<!--EndFragment-->
