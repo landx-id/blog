@@ -35,9 +35,9 @@ category:
   - Investasi
   - Keuangan
 ---
-**[Mutual fund](https://landx.id/blog/)** merupakan salah satu pilihan investasi untuk [investor pemula](https://landx.id/) dengan keterbatasan pengetahuan terkait bagaimana manajemen risiko dan peluang keuntungan dari berbagai **[instrumen investasi](https://landx.id/project/)**.
+**[Mutual fund](https://landx.id/blog/)** merupakan salah satu pilihan investasi untuk [investor pemula](https://landx.id/) dengan keterbatasan pengetahuan terkait bagaimana manajemen risiko dan peluang keuntungan dari berbagai **[instrumen investasi](https://landx.id/)**.
 
-***Mutual fund** dalam bahasa Indonesia disebut **reksa dana**, instrumen investasi  reksa dana atau mutual fund* adalahsalah satu instrumen investasi yang sering direkomendasikan untuk investor pemula yang tidak memiliki kemampuan dan waktu untuk mengatur investasi yang dilakukan.
+**\*Mutual fund** dalam bahasa Indonesia disebut **reksa dana**, instrumen investasi  reksa dana atau mutual fund* adalahsalah satu instrumen investasi yang sering direkomendasikan untuk investor pemula yang tidak memiliki kemampuan dan waktu untuk mengatur investasi yang dilakukan.
 
 ***Mutual fund* adalah investasi** dengan risiko rendah akan tetapi masih belum populer dan dipahami masyarakat luas. Karena itu, mari kita bahas lebih lanjut terkait *mutual fund* atau reksa dana.
 
@@ -132,16 +132,10 @@ Sistem ini memberikan kamu kesempatan untuk berinvestasi ke dalam berbagai bisni
 
 **Karena itu......** 
 
-## [Yuk Temukan Bisnis Terbaik untuk Investasi Jangka Panjang Kamu di LandX](https://landx.id/project/)
+## [Yuk Temukan Bisnis Terbaik untuk Investasi Jangka Panjang Kamu di LandX](https://landx.id/)
 
-[![Bagaimana? Kamu lebih suka bisnis dengan buyback guarantee atau yang bisa disimpan dalam jangka panjang? Apapun pilihan kamu.. Yuk Patungan  dengan Keuntungan Menjanjikan Bareng LandX](https://accountgram-production.sfo2.cdn.digitaloceanspaces.com/landx_ghost/2021/10/Equity-Crowdfunding-di-Indonesia-1--3.png)](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)
+<!--StartFragment-->
 
-**Baca Juga:**
+[![miliki bisnis modal kecil cuma dengan 1 jutaan dapat 4 cabang ](https://accountgram-production.sfo2.cdn.digitaloceanspaces.com/landx_ghost/2021/11/jadi-owner-bisnis-hanya-1-jutaan-dengan-cuan-yang-sangat-menjanjikan.png)](https://landx.id/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)
 
-* [4 Cara Diversifikasi untuk Memperkecil Risiko Investasi yang Dilakukan](https://landx.id/blog/arti-penting-diversifikasi-dalam-investasi/)
-* [Mau Jadi Investor? Simak Cara Mudah Menjadi Investor Hanya dengan Modal Kecil](https://landx.id/blog/cara-menjadi-investor/)
-* [Tips Penting dalam Menyusun Rencana Investasi Jangka Panjang Terbaik](https://landx.id/blog/investasi-jangka-panjang-adalah/)
-
-- - -
-
-**\#YukPatunganBisnis**
+<!--EndFragment-->
