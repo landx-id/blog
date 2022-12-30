@@ -18,7 +18,7 @@ featuredImage:
   alt: Mengenal Bank digital di Indonesia dan perkembangannya
   src: img/bank-digital-adalah.jpg
 ---
-Kamu pasti pernah kan, lagi jalan di mall tiba-tiba ditarik untuk membuat akun bank digital? 
+FKamu pasti pernah kan, lagi jalan di mall tiba-tiba ditarik untuk membuat akun bank digital? 
 
 Saat ini bank digital sedang menjadi tren di kalangan masyarakat Indonesia. Hal ini dibuktikan pada beberapa tahun belakangan ini banyak bermunculan bank digital baru maupun bank konvensional yang bertransformasi ke bank digital.
 
@@ -205,17 +205,17 @@ Mulai dari pembukaan rekening hingga penutupan rekening, kamu dapat melakukannya
 
 Nah, selain menggunakan bank digital atau bank konvensional sebagai tempat menyimpan uang dan melakukan pengelolaan keuangan. Kamu juga dapat menyimpan dan mengelola keuangan mu dengan keuntungan yang konsisten dengan melakukan investasi.
 
-Salah satu metode investasi yang juga sedang banyak dilirik para investor adalah investasi dengan metode [equity crowdfunding](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog).
+Salah satu metode investasi yang juga sedang banyak dilirik para investor adalah investasi dengan metode [equity crowdfunding](https://landx.id/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog).
 
-[Equity crowdfunding](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog) sendiri merupakan skema pendanaan untuk bisnis kecil dengan cara patungan masyarakat luas untuk mendanai UMKM. Disini Anda bisa menjadi salah satu pemilik bisnis yang telah didanai.
+[Equity crowdfunding](https://landx.id/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog) sendiri merupakan skema pendanaan untuk bisnis kecil dengan cara patungan masyarakat luas untuk mendanai UMKM. Disini Anda bisa menjadi salah satu pemilik bisnis yang telah didanai.
 
-Anda juga akan mendapatkan keuntungan dari [equity crowdfunding](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog), yaitu Anda akan menerima return dividen dari project bisnis yang telah Anda danai. 
+Anda juga akan mendapatkan keuntungan dari [equity crowdfunding](https://landx.id/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog), yaitu Anda akan menerima return dividen dari project bisnis yang telah Anda danai. 
 
-[LandX](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog) merupakan salah satu platform [equity crowdfunding](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog) yang dapat membantu Anda mendanai bisnis yang memiliki prospek bagus dengan modal kecil dan untung besar.
+[LandX](https://landx.id/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog) merupakan salah satu platform [equity crowdfunding](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog) yang dapat membantu Anda mendanai bisnis yang memiliki prospek bagus dengan modal kecil dan untung besar.
 
-[LandX](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog), platform [equity crowdfunding](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog) terpercaya, transparan, dan telah memiliki izin dari Otoritas Jasa Keuangan (OJK). Kamu bisa mendapatkan keuntungan besar dan modal kecil.
+[LandX](https://landx.id/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog), platform [equity crowdfunding](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog) terpercaya, transparan, dan telah memiliki izin dari Otoritas Jasa Keuangan (OJK). Kamu bisa mendapatkan keuntungan besar dan modal kecil.
 
-## **[Kelola Keuanganmu dengan Investasi di LandX Saat Ini Juga!](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)**
+## **[Kelola Keuanganmu dengan Investasi di LandX Saat Ini Juga!](https://landx.id/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)**
 
 <!--StartFragment-->
 
