@@ -121,29 +121,19 @@ Agar efek compounding lebih optimal, Anda bisa sebaiknya mulai dengan investasi 
 
 Memilih instrumen investasi juga harus memperhatikan profil risiko dan modal yang Anda miliki. Apabila Anda memiliki modal yang terbatas maka Anda bisa mulai dengan instrumen yang sesuai dengan anggaran  yang Anda buat setiap bulan untuk investasi.
 
-Salah satu investasi modal kecil adalah investasi bisnis lewat [equity crowdfunding](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog) yang bisa Anda mulai hanya dengan modal 1 juta.
+Salah satu investasi modal kecil adalah investasi bisnis lewat [equity crowdfunding](https://landx.id/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog) yang bisa Anda mulai hanya dengan modal 1 juta.
 
 ### 3. Mulai Sekarang Investasi Sedini Mungkin
 
 Hal penting lain adalah jangan menunda untuk memulai investasi dan mulailah sesegera mungkin walaupun dengan modal kecil. Karena itu Anda harus mulai memilih instrumen investasi yang cocok dengan modal yang Anda miliki.
 
-Salah satu pilihan yang bisa Anda lakukan adalah memulai [investasi bisnis](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog) yang bisa memberikan Anda keuntungan berupa dividen. Dividen tersebut bisa Anda investasikan kembali ke dalam berbagai bisnis lain sehingga Anda bisa menerima manfaat dari penerapan efek compounding.
+Salah satu pilihan yang bisa Anda lakukan adalah memulai [investasi bisnis](https://landx.id/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog) yang bisa memberikan Anda keuntungan berupa dividen. Dividen tersebut bisa Anda investasikan kembali ke dalam berbagai bisnis lain sehingga Anda bisa menerima manfaat dari penerapan efek compounding.
 
-Karena itu…[](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)
+Karena itu…[](https://landx.id/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)
 
-## **[Yuk Mulai Investasi Bisnis Lewat Equity Crowdfunding di LandX](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)**
+## **[Yuk Mulai Investasi Bisnis Lewat Equity Crowdfunding di LandX](https://landx.id/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)**
 
-[![Bagaimana? Kamu lebih suka bisnis dengan buyback guarantee atau yang bisa disimpan dalam jangka panjang? Apapun pilihan kamu.. Yuk Patungan  dengan Keuntungan Menjanjikan Bareng LandX](https://accountgram-production.sfo2.cdn.digitaloceanspaces.com/landx_ghost/2021/10/Equity-Crowdfunding-di-Indonesia-1--3.png)](https://landx.id/project/#/ximi)
+[![Bagaimana? Kamu lebih suka bisnis dengan buyback guarantee atau yang bisa disimpan dalam jangka panjang? Apapun pilihan kamu.. Yuk Patungan  dengan Keuntungan Menjanjikan Bareng LandX](https://accountgram-production.sfo2.cdn.digitaloceanspaces.com/landx_ghost/2021/10/Equity-Crowdfunding-di-Indonesia-1--3.png)](https://landx.id/)
 
 **[Mau Tips Investasi Lain? Yuk Follow Kami di Instagram @landx.id](https://instagram.com/landx.id?utm_medium=copy_link)**
 
-- - -
-
-**Baca Juga:**
-
-* **[Pahami Berbagai Jenis Return on Investment untuk Investasi Jangka Panjang Anda](https://landx.id/blog/return-on-investment-adalah/)**
-* **[Cara Mengembangkan Uang dengan Cepat: Mulai Mengatur Uang dengan Baik di Tahun 2021](https://landx.id/blog/cara-mengembangkan-uang-dengan-cepat-mulai-mengatur-uang-dengan-baik-di-tahun-2021/)**
-
-- - -
-
-**\#YukPatunganBisnsi**
