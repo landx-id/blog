@@ -131,8 +131,10 @@ Salah satu pilihan yang bisa Anda lakukan adalah memulai [investasi bisnis](http
 
 Karena itu…[](https://landx.id/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)
 
-## **[Yuk Mulai Investasi Bisnis Lewat Equity Crowdfunding di LandX](https://landx.id/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)**
-
 <!--StartFragment-->
+
+## [Yuk, kunjungi LandX dan kenali crowdfunding lebih lanjut untuk menjadi investor menguntungkan](https://landx.id/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)
+
+<!--EndFragment-->
 
 [![miliki bisnis modal kecil cuma dengan 1 jutaan dapat 4 cabang ](https://accountgram-production.sfo2.cdn.digitaloceanspaces.com/landx_ghost/2021/11/jadi-owner-bisnis-hanya-1-jutaan-dengan-cuan-yang-sangat-menjanjikan.png)](https://landx.id/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)
