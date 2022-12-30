@@ -96,8 +96,4 @@ Anda harus melihat kematangan konsep dari bisnis tersebut dan apakah dijalankan 
 
 ## [Yuk, jadi bos bisnis dan terima keuntungan rutin di LandX](https://landx.id/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)
 
-**[LandX](https://landx.id/)**  telah berpengalaman menghimpun dana untuk membangun berbagai jenis bisnis patungan yang membantu perkembangan dana investasi investor.
-
-**[LandX](https://landx.id/)** merupakan [p\[latform equity crowdfunding](https://landx.id/)](https://landx.id/) terpercaya resmi OJK yang telah berpengalaman membantu investor menyalurkan dana mereka ke berbagai macam investasi bisnis menguntungkan.
-
 [![miliki bisnis modal kecil cuma dengan 1 jutaan dapat 4 cabang ](https://accountgram-production.sfo2.cdn.digitaloceanspaces.com/landx_ghost/2021/11/jadi-owner-bisnis-hanya-1-jutaan-dengan-cuan-yang-sangat-menjanjikan.png)](https://landx.id/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)
