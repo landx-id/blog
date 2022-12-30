@@ -133,9 +133,9 @@ Jika Anda ingin membaca dan pelajari prospektus perusahaan-perusahaan yang IPO d
 3. Pilih sub menu Prospektus yang ada di kanan
 4. Pilih tahun pencatatannya dan Anda dapat langsung mengunduh prospektus yang tersedia
 
-> *Perlu diketahui: Di [LandX](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog), kegiatan perusahaan yang menawarkan saham kepada publik disebut sebagai listing, bukan IPO.* 
+> *Perlu diketahui: Di [LandX](https://landx.id/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog), kegiatan perusahaan yang menawarkan saham kepada publik disebut sebagai listing, bukan IPO.* 
 
-Di [LandX](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog), Anda juga dapat mengakses prospektus dari perusahaan yang listing di situs [crowdfunding LandX](https://landx.id/), berikut cara akses prospektus di [LandX](https://landx.id/):
+Di [LandX](https://landx.id/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog), Anda juga dapat mengakses prospektus dari perusahaan yang listing di situs [crowdfunding LandX](https://landx.id/), berikut cara akses prospektus di [LandX](https://landx.id/):
 
 1. Download aplikasi [LandX](https://landx.id/) di app store dan play store Anda
 2. Lakukan registrasi dan verifikasi data
@@ -149,6 +149,6 @@ Sebagai pemilik modal dan pengatur penuh keuangan Anda, sebaiknya baca dengan se
 
 Karena itu, sebagai investor cerdas jangan sampai ‘skip’ membaca dokumen penting ini, ya!
 
-### [Di LandX, Anda bisa akses dan pelajari prospektus sebelum berinvestasi pada project bisnis potensial pilihan!](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)
+### [Di LandX, Anda bisa akses dan pelajari prospektus sebelum berinvestasi pada project bisnis potensial pilihan!](https://landx.id/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)
 
-[![miliki bisnis modal kecil cuma dengan 1 jutaan dapat 4 cabang ](https://accountgram-production.sfo2.cdn.digitaloceanspaces.com/landx_ghost/2021/11/jadi-owner-bisnis-hanya-1-jutaan-dengan-cuan-yang-sangat-menjanjikan.png)](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)
+[![miliki bisnis modal kecil cuma dengan 1 jutaan dapat 4 cabang ](https://accountgram-production.sfo2.cdn.digitaloceanspaces.com/landx_ghost/2021/11/jadi-owner-bisnis-hanya-1-jutaan-dengan-cuan-yang-sangat-menjanjikan.png)](https://landx.id/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)
