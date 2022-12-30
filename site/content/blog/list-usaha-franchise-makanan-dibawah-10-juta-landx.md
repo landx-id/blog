@@ -132,12 +132,12 @@ Di LandX, dengan modal sejutaan Anda dapat langsung berinvestasi pada bisnis pot
 
 Keuntungan bagi hasil yang kemudian disebut dividen ini didapatkan setelah bisnis berjalan dan mendapat profit penjualan yang umumnya berkisar 10-30%. Dengan modal sejutaan tadi, keuntungan dapat Anda terima hanya dalam 3, 6 atau 9 bulan sesuai perjanjian yang ditawarkan kepada Anda.
 
-[Mendapat keuntungan dari bisnis potensial dan brand ternama #SekarangBisa dengan sejutaan.](https://landx.id/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)
-
-## [Yuk, jadi bos bisnis dan terima keuntungan rutin di LandX](https://app.landx.id/?utm_source=Organic+Page&utm_medium=Content+Blog&utm_campaign=BlogLandX&utm_id=Blog)
-
 <!--StartFragment-->
 
-[![miliki bisnis modal kecil cuma dengan 1 jutaan dapat 4 cabang ](https://accountgram-production.sfo2.cdn.digitaloceanspaces.com/landx_ghost/2021/11/jadi-owner-bisnis-hanya-1-jutaan-dengan-cuan-yang-sangat-menjanjikan.png)](https://app.landx.id/?utm_source=Organic+Page&utm_medium=Content+Blog&utm_campaign=BlogLandX&utm_id=Blog)
+## [Yuk, kunjungi LandX dan kenali crowdfunding lebih lanjut untuk menjadi investor menguntungka](https://landx.id/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)n
+
+**Yuk Temukan Bisnis Menjanjikan dengan Keuntungan Terbaik di LandX**
+
+[![miliki bisnis modal kecil cuma dengan 1 jutaan dapat 4 cabang ](https://accountgram-production.sfo2.cdn.digitaloceanspaces.com/landx_ghost/2021/11/jadi-owner-bisnis-hanya-1-jutaan-dengan-cuan-yang-sangat-menjanjikan.png)](https://landx.id/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)
 
 <!--EndFragment-->
