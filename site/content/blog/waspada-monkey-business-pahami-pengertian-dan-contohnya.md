@@ -24,9 +24,11 @@ featuredImage:
 ---
 Apa itu monkey business? Mungkin kamu pernah mendengar istilah ini sebelumnya. Secara garis besar, monkey business adalah strategi yang digunakan dalam bisnis atau investasi yang bertujuan untuk meraup keuntungan sebesar-besarnya dengan cara merugikan orang lain. Agar bisa mendapatkan profit besar ini, melakukan kebohongan dan penipuan pun tidak dipermasalahkan. 
 
-M﻿onkey business adalah salah satu fenomena yang menjebak banyak orang dengan melibatkan banyak komoditas. Secara lebih lanjut, yuk kita bahas lebih lanjut tentang fenomena satu ini,
+M﻿onkey business adalah salah satu fenomena yang menjebak banyak orang dengan melibatkan banyak komoditas. Secara lebih lanjut, yuk kita bahas lebih lanjut tentang fenomena satu ini.
 
 ## Apa yang dimaksud dengan monkey business?
+
+M﻿onkey business adalah metode bisnis kotor yang direncakan secara sistematis dengan iming-iming untung besar sehingga menjerat banyak pihak Monkey business atau bisnis kera dalam istilah bahasa Indonesia merupakan salah satu strategi bisnis yang menjebak banyak korban dengan iming-iming suatu komoditas dapat memberikan keuntungan besar di masa mendatang.
 
 Untuk memahami lebih dalam tentang konsep monkey business, ilustrasi singkat ini adalah penggambaran relevan mengenai monkey business:
 
