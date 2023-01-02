@@ -47,16 +47,11 @@ Instrumen investasi yang akan digunakan oleh manajer investasi akan berbeda-beda
 
 Karena itu anda harus memilih reksa dana yang sesuai dengan profil risiko yang anda miliki karena setiap jenis reksa dana tingkat *return* yang berbeda-beda.
 
-## Memulai Investasi dengan Reksa Dana
+## Cara Investasi Reksadana untuk Pemula
 
 Kemajuan teknologi membuat reksa dana semakin mudah anda dapatkan melalui berbagai platform investasi online. Akan tetapi anda tidak boleh lupa untuk memahami terlebih dahulu jenis reksa dana yang anda pilih setiap jenis reksa dana memiliki risiko yang berbeda-beda.
 
-Oleh sebab itu saat [memulai investasi](https://landx.id/) dengan instrumen ini anda harus paham dulu tujuan investasi dan profil risiko yang anda miliki agar bisa menemukan reksa dana yang ideal untuk anda.
-
-**Artikel Terkait:**
-
-* [Mengenal Investasi Mutual Fund: Definisi, Cara Kerja, dan Jenis Mutual Fund](https://landx.id/blog/mengenal-investasi-mutual-fund-definisi-cara-kerja-dan-jenis-mutual-fund/)
-* [Mau Mulai Investasi Menguntungkan? Berikut Beberapa Hal Penting dalam Membangun Investasi yang Menguntungkan](https://landx.id/blog/memulai-investasi-menguntungkan/)
+Oleh sebab itu saat [memulai investasi](https://landx.id/) dengan instrumen ini anda harus paham dulu tujuan investasi dan profil risiko yang anda miliki agar bisa menemukan reksa dana yang ideal untuk investor pemula. Akan tetapi investasi reksadana untuk pemula tetap harus tetap memperhatikan beberapa hal karena reksadana sendiri memiliki beberapa jenis yang harus dipahami dengan baik oleh investor pemula. 
 
 ## Hal yang Harus Diperhatikan dalam Investasi Reksa Dana
 
