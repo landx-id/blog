@@ -2,8 +2,8 @@
 author: Nadya A. Faatihah
 title: "Monkey Business Adalah: Memahami Apa Itu Monkey Business dan Cirinya"
 metaTitle: "Monkey Business Adalah: Memahami Apa Itu Monkey Business dan Cirinya"
-metaDescription: Yuk pahami apa itu monkey business dan perbedaannya dengan
-  sustainable bisnis yang harus anda pahami dengan baik
+metaDescription: "Monkey business adalah salah satu jenis bisnis komoditas yang
+  menjebak banyak orang dengan keuntungan yang "
 intro: Waspada dengan monkey business atau metode bisnis yang menawarkan untung
   besar dari komoditas yang tidak begitu signifikan. Berikut adalah penjelasan
   lengkap dan contohnya.
@@ -24,7 +24,7 @@ featuredImage:
 ---
 Apa itu monkey business? Mungkin kamu pernah mendengar istilah ini sebelumnya. Secara garis besar, monkey business adalah strategi yang digunakan dalam bisnis atau investasi yang bertujuan untuk meraup keuntungan sebesar-besarnya dengan cara merugikan orang lain. Agar bisa mendapatkan profit besar ini, melakukan kebohongan dan penipuan pun tidak dipermasalahkan. 
 
-Baca terus artikel ini untuk lebih paham tentang modus bisnis merugikan ini, beserta contoh monkey business yang perlu diwaspadai.
+M﻿onkey business adalah salah satu fenomena yang menjebak banyak orang dengan melibatkan banyak komoditas. Secara lebih lanjut, yuk kita bahas lebih lanjut tentang fenomena satu ini,
 
 ## Apa yang dimaksud dengan monkey business?
 
@@ -47,7 +47,9 @@ Warga pun berbondong-bondong membeli kucing hutan dari Asisten Y dengan anggapan
 Beberapa waktu berlalu, Asisten Y kembali ke kota A dengan alasan akan menjemput pengusaha X. Banyak warga yang sekarang mengandangi puluhan ekor kucing hutan menunggu kembalinya Pengusaha A dengan penuh pengharapan akan keuntungan. Namun, Pengusaha X dan Asisten Y yang telah mengantongi keuntungan dari uang warga tentunya tidak pernah kembali lagi.
 
 Selain warga yang dirugikan secara finansial, dampak lingkungan yang ditimbulkan karena ekosistem hutan yang rusak pun menjadi tanggungan warga. Karena kucing hutan yang merupakan karnivora utama di rantai makanan hutan ditangkap, populasi hama yang meningkat drastis akhirnya menyerang dan merusak perkebunan warga. 
+
 - - -
+
 ## Contoh Monkey Business yang Pernah Muncul di Indonesia
 
 Dari ilustrasi di atas, dapat dikatakan bahwa monkey business adalah metode yang digunakan oleh pengusaha licik dengan memanfaatkan kelengahan pembeli atau investor yang terfokus pada iming-iming untung besar. 
@@ -86,6 +88,10 @@ Tentunya, untuk memastikan sebuah bisnis bisa berjalan secara berkelanjutan, seb
 
 Itu dia penjelasan mengenai monkey business yang bisa kamu jadikan bahan pertimbangan sebelum terjun ke dalam tren bisnis tertentu. Perlu diingat bahwa produk atau skema bisnis apapun pada dasarnya memiliki prinsip keuntungan yang sebanding dengan risiko kerugian. Nyaris mustahil terdapat skema bisnis yang menawarkan keuntungan tinggi tanpa ada risiko kerugian sama sekali.
 
-## [Temukan Peluang Investasi Terpercaya Dengan Modal 1 Juta di Platform Resmi LandX](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)
+## [Temukan Peluang Investasi Terpercaya Dengan Modal 1 Juta di Platform Resmi LandX](https://landx.id/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)
 
-![Bagaimana? Kamu lebih suka bisnis dengan buyback guarantee atau yang bisa disimpan dalam jangka panjang? Apapun pilihan kamu.. Yuk Patungan  dengan Keuntungan Menjanjikan Bareng LandX](https://accountgram-production.sfo2.cdn.digitaloceanspaces.com/landx_ghost/2021/10/Equity-Crowdfunding-di-Indonesia-1--3.png)
+<!--StartFragment-->
+
+[![miliki bisnis modal kecil cuma dengan 1 jutaan dapat 4 cabang ](https://accountgram-production.sfo2.cdn.digitaloceanspaces.com/landx_ghost/2021/11/jadi-owner-bisnis-hanya-1-jutaan-dengan-cuan-yang-sangat-menjanjikan.png)](https://landx.id/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)
+
+<!--EndFragment-->
