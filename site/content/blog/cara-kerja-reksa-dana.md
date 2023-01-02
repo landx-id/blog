@@ -35,7 +35,7 @@ Instrumen investasi reksa dana sendiri cukup populer terutama bagi pemula yang b
 
 Reksadana merupakan salah satu jenis investasi yang populer di masyarakat karena merupakan instrumen investasi dengan risiko minim dengan *return* yang cukup besar. Karena itu, mari kita pahami dulu bagaimana cara kerja dari reksadana yang merupakan salah satu intrumen investasi populer di kalangan masyarakat. 
 
-Selain itu reksa dana merupakan salah satu instrumen investasi yang mudah didapatkan oleh masyarakat baik secara online maupun offline.
+K﻿arena itu, mari kita bahas dulu bagaimana reksadana bekerja agar kita paham bagaimana proses intrumen ini menghasilkan keuntungan dan risiko seperti apa saja yang mungkin muncul dalam prosesnya. 
 
 Secara garis besar reksa dana bekerja dengan cara menghimpun dana masyarakat kemudian manajer investasi mendistribusikannya ke dalam berbagai portofolio efek.
 
