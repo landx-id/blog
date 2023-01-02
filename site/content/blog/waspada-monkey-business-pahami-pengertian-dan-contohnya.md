@@ -1,7 +1,7 @@
 ---
 author: Nadya A. Faatihah
 title: "Monkey Business Adalah: Memahami Apa Itu Monkey Business dan Cirinya"
-metaTitle: "Monkey Business Adalah: Memahami Apa Itu Monkey Business dan Cirinya"
+metaTitle: Apa Itu Monkey Business dan Berbagai Jenis Monkey Business
 metaDescription: "Monkey business adalah salah satu jenis bisnis komoditas yang
   menjebak banyak orang dengan keuntungan yang "
 intro: Waspada dengan monkey business atau metode bisnis yang menawarkan untung
@@ -56,7 +56,9 @@ Dari ilustrasi di atas, dapat dikatakan bahwa monkey business adalah metode yang
 
 Selain itu, ciri dari monkey business ini umumnya menjual barang atau makhluk hidup yang tidak memiliki nilai jual sama sekali dengan harga fantastis. Hal ini lah yang membuat banyak orang secara tiba-tiba memburu komoditas tersebut. 
 
-Singkatnya, komoditas yang diperjualbelikan dengan skema seperti ini cenderung meningkat dengan cepat, namun meredup dengan cepat juga. Berikut adalah beberapa contohnya.
+M﻿onkey business adalah salah satu fenomena yang banyak terjadi di Indonesia dalam beberapa waktu belakangan dengan berbagai komoditas yang menjadi objek bisnisnya. 
+
+Singkatnya, komoditas yang diperjualbelikan dengan skema seperti ini cenderung meningkat dengan cepat, namun meredup dengan cepat juga. Berikut adalah beberapa contoh monkey business yang terjadi di Indonesia. 
 
 ### 1. Tren Batu Akik
 
