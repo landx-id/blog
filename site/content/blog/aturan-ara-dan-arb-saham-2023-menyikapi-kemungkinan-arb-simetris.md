@@ -18,7 +18,7 @@ featuredImage:
 ---
 **Auto-rejection** atau penolakan otomatis adalah fitur yang ditawarkan oleh beberapa perusahaan pialang online yang memungkinkan investor menetapkan aturan penolakan otomatis untuk perdagangan saham (juga crypto) yang tidak memenuhi kriteria tertentu. Kriteria ini dapat mencakup harga, volume, dan faktor lainnya.
 
-Misalnya, seorang investor mungkin mengalami auto rejection ketika melakukan penjualan saham yang lebih dari 10% di atas atau di bawah harga pasar. Namun, fitur ini dapat bermanfaat bagi investor yang ingin membatasi jumlah risiko yang mereka hadapi atau memastikan bahwa mereka tidak membayar lebih untuk saham tertentu.
+Misalnya, seorang investor mungkin mengalami auto rejection ketika melakukan penjualan saham yang lebih dari 10% di atas atau di bawah harga pasar (aturan ARA dan ARB saham). Namun, fitur ini dapat bermanfaat bagi investor yang ingin membatasi jumlah risiko yang mereka hadapi atau memastikan bahwa mereka tidak membayar lebih untuk saham tertentu
 
 **Manfaat auto-rejection** juga dapat digunakan untuk melindungi investor dari kesalahan tidak sengaja. Misalnya, jika seorang investor secara tidak sengaja memasukkan harga atau jumlah yang salah untuk suatu perdagangan, fitur penolakan otomatis dapat mencegah perdagangan dieksekusi pada harga yang tidak menguntungkan.
 
