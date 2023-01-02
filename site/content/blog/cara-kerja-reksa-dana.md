@@ -94,9 +94,8 @@ Apabila berinvestasi dengan sistem ini anda harus terlebih dahulu menemukan plat
 
 ## [Yuk, download aplikasi LandX dan pilih bisnisnya sekarang juga!](https://landx.id/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)
 
+<!--StartFragment-->
+
 [![miliki bisnis modal kecil cuma dengan 1 jutaan dapat 4 cabang ](https://accountgram-production.sfo2.cdn.digitaloceanspaces.com/landx_ghost/2021/11/jadi-owner-bisnis-hanya-1-jutaan-dengan-cuan-yang-sangat-menjanjikan.png)](https://landx.id/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)
 
-**Baca Juga:**
-
-* [Investasi Modal Kecil:  Jenis dan Memilih Investasi dengan Modal Kecil yang Menguntungkan untuk Anda](https://landx.id/blog/investasi-modal-kecil-jenis-dan-memilih-investasi-dengan-modal-kecil-yang-menguntungkan-untuk-anda/)
-* [Mau Mulai Investasi Menguntungkan? Berikut Beberapa Hal Penting dalam Membangun Investasi yang Menguntungkan](https://landx.id/blog/memulai-investasi-menguntungkan/)
+<!--EndFragment-->
