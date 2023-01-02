@@ -1,14 +1,16 @@
 ---
 author: Nadya A. Faatihah
 title: 5 Metode Penilaian Investasi untuk Analisis Investasi Anda
-metaTitle: Yuk Simak Analisis Kelayakan Investasi yang Penting Kamu Lakukan
+metaTitle: Metode Analisis Kelayakan Investasi yang Penting Kamu Pahami
 metaDescription: Metode penilaian investasi wajib dilakukan agar investor dapat
   memilih investasi pada bisnis perusahaan yang paling menjanjikan. Simak
   penjelasannya!
-intro: Agar investor bisa mengoptimalkan alokasi dana investasi untuk bisnis
-  perusahaan yang paling menjanjikan, metode penilaian investasi wajib dilakukan
-  dengan didasari modal, arus kas, profitabilitas jangka panjang, dan periode
-  investasi.
+intro: "Analisis investasi adalah penilaian investasi yang perlu dilakukan oleh
+  investor untuk penilaian kelayakan terhadapa investasi yang akan dilakukan.
+  Analisis investasi ini perlu dilakukan terutama untuk investor pemula yang
+  akan memilih suatu instrumen investasi. Karena itu, yuk kita bahas lebih
+  lanjut berbagai metode analisis agar keputusan investasi kamu jadi lebih
+  optimal. "
 date: 2022-06-20T06:22:13.225Z
 tag:
   - Valuasi Saham
@@ -21,8 +23,10 @@ category:
   - Keuangan
 featuredImage:
   src: https://images.unsplash.com/photo-1594980596870-8aa52a78d8cd?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=725&q=80
-  alt: "5 metode analisis kelayakan investasi yang harus kamu pahami "
-  title: Metode penilaian investasi yang harus kamu pahami dengan baik
+  alt: 5 metode analisis kelayakan investasi yang harus kamu pahami. Analisis
+    kelayakan investasi perlu dilakukan agar keputusan investasi
+    dapat  memberikan keuntungan lebih optimal
+  title: "Metode penilaian investasi yang harus kamu pahami dengan baik, "
 ---
 <!--StartFragment-->
 
