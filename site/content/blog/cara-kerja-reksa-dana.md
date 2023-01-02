@@ -53,6 +53,10 @@ Kemajuan teknologi membuat reksa dana semakin mudah anda dapatkan melalui berbag
 
 Oleh sebab itu saat [memulai investasi](https://landx.id/) dengan instrumen ini anda harus paham dulu tujuan investasi dan profil risiko yang anda miliki agar bisa menemukan reksa dana yang ideal untuk investor pemula. Akan tetapi investasi reksadana untuk pemula tetap harus tetap memperhatikan beberapa hal karena reksadana sendiri memiliki beberapa jenis yang harus dipahami dengan baik oleh investor pemula. 
 
+B﻿agi pemula yang ingin berinvestasi ke reksadana, anda perlu memahami dengan baik seberapa besar risiko yang dapat anda tanggung saat berinvestasi karena setiap jenis reksadana memiliki risiko berbeda-beda. Setelah paham dengan baik, maka anda bisa mulai memilih platform investasi credibel yang dapat membantu anda melakukan transaksi. 
+
+A﻿kan tetapi, sebelum transaksi terdapat beberapa hal penting yang harus anda pahami dengan baik terlebih dahulu: 
+
 ## Hal yang Harus Diperhatikan dalam Investasi Reksa Dana
 
 Walaupun dianggap memiliki risiko yang rendah, anda tetap harus memperhatikan beberapa hal dalam berinvestasi dengan instrumen investasi jenis ini. Berikut beberapa hal yang harus anda perhatikan dalam berinvestasi melalui reksa dana:
