@@ -31,9 +31,9 @@ Cara kerja reksa dana sendiri sudah diatur dalam Undang-Undang Pasar Modal Nomor
 
 Instrumen investasi reksa dana sendiri cukup populer terutama bagi pemula yang belum memiliki kemampuan dan waktu yang cukup untuk mengelola investasi mereka sendiri sehingga reksa dana bisa menjadi salah satu opsi investasi yang bisa mereka lakukan. Selanjutnya, agar anda lebih paham mari kita bahas lebih lanjut tentang cara kerja dari reksa dana.
 
-## Memahami Cara Kerja Reksa Dana
+## B﻿agaimana Cara Kerja Reksadana?
 
-Reksa dana merupakan salah satu jenis investasi yang populer di masyarakat karena merupakan instrumen investasi dengan risiko minim dengan *return* yang cukup besar.
+Reksadana merupakan salah satu jenis investasi yang populer di masyarakat karena merupakan instrumen investasi dengan risiko minim dengan *return* yang cukup besar. Karena itu, mari kita pahami dulu bagaimana cara kerja dari reksadana yang merupakan salah satu intrumen investasi populer di kalangan masyarakat. 
 
 Selain itu reksa dana merupakan salah satu instrumen investasi yang mudah didapatkan oleh masyarakat baik secara online maupun offline.
 
