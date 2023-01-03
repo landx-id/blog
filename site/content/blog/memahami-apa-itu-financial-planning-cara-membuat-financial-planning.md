@@ -126,13 +126,15 @@ Dengan menerapkan perencanaan keuangan, kita dapat memprediksi perhitungan dana 
 
 ### 6. Estate Planning
 
-Jika pengelolaan aset merupakan tujuan finansial kita, maka kita telah melakukan proses penting secara mendasar dalam area planning. Estate planning meliputi perencanaan properti seperti bagaimana properti kita akan dikelola ketika kita sudah pensiun atau meninggal.
+E﻿state planning merupakan perencanaan keuangan terkait pengelolaan aset saat pemilik sudah meninggal. Perencanaan ini dilakukan untuk memastikan bahwa harta yang dimiliki akan dikelola dengan baik dan sesuai keinginan pemiliknya. Dalam prosesnya, pemilik akan menentukan siapa penerima dana dan bagaimana suatu dana akan dikelola. Hal ini penting dilakukan untuk memastikan dana yang ditinggalkan bisa digunakan dengan baik seperti menjamin kehidupan keluarga yang ditinggalkan. 
+
+
 
 ## Cara Membuat Financial Planning
 
 Setelah menyimak penjelasan tadi hingga area-area mengenai financial planning. Dengan menerapkan financial planning, kita bisa menghindari kekhawatiran, melindungi aset serta meraih tujuan jangka panjang.
 
-Kita bisa melakukan financial planning untuk jangka pendek dulu sebagai pelatihan dan mengenal dasar kondisi keuangan kita. Lantas, bagaimana cara membuat financial planning jangka panjang?
+Kita bisa melakukan financial plaanning untuk jangka pendek dulu sebagai pelatihan dan mengenal dasar kondisi keuangan kita. Lantas, bagaimana cara membuat financial planning jangka panjang?
 
 ### 1. Menyusun Tujuan untuk Jangka Pendek, Menengah, dan Panjang
 
