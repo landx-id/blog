@@ -80,16 +80,20 @@ Itu dia berbagai rekomendasi outlet sushi di kawasan Surabaya yang patut kamu co
 
 Gak cuma bisa jadi konsumen, kamu juga punya kesempatan untuk punya restoran sushi lho. Tenang, gak perlu modal puluhan juta dan mulai dari nol membangun restoran sushi sendiri. Caranya gampang banget hanya dengan beli saham dengan skema equity crowdfunding. 
 
-Skema ini merupakan pendanaan untuk pengembangan bisnis dengan cara patungan masyarakat luas untuk mendanai UMKM. Sehingga kamu bisa berinvestasi pada beberapa project bisnis kuliner menjanjikan dengan modal minim. Keuntungan yang didapat dari **[equity crowdfunding](https://www.landx.id/)** adalah kamu menerima return dividen dari project bisnis yang didanai. 
+Skema ini merupakan pendanaan untuk pengembangan bisnis dengan cara patungan masyarakat luas untuk mendanai UMKM. Sehingga kamu bisa berinvestasi pada beberapa project bisnis kuliner menjanjikan dengan modal minim. Keuntungan yang didapat dari **equity crowdfunding** adalah kamu menerima return dividen dari project bisnis yang didanai. 
 
 Dividen ini adalah pembagian laba perusahaan pada pemegang saham sesuai porsi saham yang dimiliki. Dengan berinvestasi pada salah satu project bisnis di LandX seperti Okinawa Sushi, kamu bisa mendapatkan pembagian dividen secara rutin dari salah satu resto sushi favorit di Indonesia saat ini lho.
 
-Misalnya baru-baru ini, cabang Okinawa Sushi di kawasan Surabaya lainnya baru saja listing dan sudah sold out di **[LandX](https://landx.id/).** Nantinya, cabang baru ini akan didirikan di Pakuwon Mall, Jl. Mayjend. Jonosewojo, Babatan, Kec. Wiyung, Kota Surabaya, Jawa Timur.
+Misalnya baru-baru ini, cabang Okinawa Sushi di kawasan Surabaya lainnya baru saja listing dan sudah sold out di **LandX.** Nantinya, cabang baru ini akan didirikan di Pakuwon Mall, Jl. Mayjend. Jonosewojo, Babatan, Kec. Wiyung, Kota Surabaya, Jawa Timur.
 
-Kalau kamu tertarik untuk jadi salah satu pemilik bisnis sushi atau jenis bisnis kuliner lain, nantikan berbagai **[project bisnis potensial](https://landx.id/)** dengan memantau terus laman platform equity crowdfunding terpercaya dan mengantongi izin OJK seperti LandX ya!
+Kalau kamu tertarik untuk jadi salah satu pemilik bisnis sushi atau jenis bisnis kuliner lain, nantikan berbagai project bisnis potensial dengan memantau terus laman platform equity crowdfunding terpercaya dan mengantongi izin OJK seperti LandX ya!
 
 ## [Miliki Bisnis Kuliner Menjanjikan Hanya Dengan Modal 1 Juta Melalui Investasi di LandX!](https://landx.id/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)
 
+<!--StartFragment-->
+
 [![miliki bisnis modal kecil cuma dengan 1 jutaan dapat 4 cabang ](https://accountgram-production.sfo2.cdn.digitaloceanspaces.com/landx_ghost/2021/11/jadi-owner-bisnis-hanya-1-jutaan-dengan-cuan-yang-sangat-menjanjikan.png)](https://landx.id/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)
+
+<!--EndFragment-->
 
 <!--EndFragment-->
