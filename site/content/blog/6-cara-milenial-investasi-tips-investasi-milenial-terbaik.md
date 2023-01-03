@@ -38,6 +38,8 @@ Perkembangan teknologi yang semakin maju dan kepekaan kaum milenial terhadap tek
 
 Inovasi  investasi mudah dan aman yang dilakukan para perusahaan sekuritas di Indonesia ini pun membuahkan hasil, investasi milenial pun semakin banyak digandrungi. Banyaknya kaum milenial yang mulai berinvestasi dapat dilihat dari data Kustodian Sentral Efek Indonesia (KSEI) yang menyebutkan demografi investor per September 2021 di Indonesia didominasi oleh kaum milenial, yaitu sebesar 59,23%. 
 
+I﻿nvestasi saham untuk milenial saat ini semakin berkembang dan mudah diakses seiring berkembangnya sistem investasi berbasis digital yang mempermudah akses milenial ke berbagai instrumen investasi. Akan tetapi, sebagai generasi milenial kita tetap butuh melakukan riset mendalam tentang suatu saham dan cara kerja dari suatu instrumen saham.
+
 Walaupun investasi milenial semakin digandrungi dan pasar modal didominasi oleh kaum milenial, tetapi bila melihat jumlah keseluruhan generasi milenial di Indonesia, hanya 3% saja dari mereka yang telah melakukan investasi. Ini artinya masih jauh lebih banyak dari mereka yang belum melakukan investasi. Mengapa demikian? Hal ini karena gaya hidup kaum milenial yang terkenal konsumtif, jadi mereka masih belum terpikir untuk melakukan investasi.
 
 Ya, generasi milenial dikenal sebagai generasi konsumtif. Mereka lebih mementingkan keinginan mereka yang dapat memberikan kesenangan sementara, daripada harus membatasi pengeluaran mereka. Jadi, bisa dibilang untuk menabung dan investasi pun masih kerap dilupakan oleh generasi ini. Makanya banyak juga  generasi milenial yang mengalami krisis finansial akibat dari gaya hidup mereka yang konsumtif.
