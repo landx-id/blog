@@ -15,8 +15,10 @@ tag:
   - Perencanaan Keuangan
 featuredImage:
   src: https://img.freepik.com/free-photo/youth-happiness-good-vibes-concept_53876-123633.jpg?w=740&t=st=1661160931~exp=1661161531~hmac=c0677122f4dbd38679060e8e898df5829e9d49413f95f772838f0c546b1064c1
-  alt: Memahami cara mengendalikan gaya hidup YOLO
-  title: Dampak gaya hidup YOLO dan cara mengaturnya
+  alt: Yuk pahami dengan baik apa itu gaya hidup YOLO dan cara terhindari dari
+    gaya hidup YOLO
+  title: Yuk simak lebih lanjut tentang apa itu gaya hidup YOLO dan bagaimana
+    mengatur gaya hidup agar terhindar dari YOLO
 ---
 <!--StartFragment-->
 
@@ -128,10 +130,10 @@ Nantinya, kalian akan menanamkan modal secara patungan dengan beberapa investor 
 
 [LandX](https://landx.id/) adalah platform equity crowdfunding yang mengantongi izin OJK dan berpengalaman.  Bersama LandX kalian bisa punya opsi untuk mewujudkan kondisi finansial impian dengan menjadi pemilik bisnis potensial dengan konsep patungan.
 
-## [Jadilah Pemilik Bisnis Potensial dengan Modal Rp1 Jutan Lewat LandX Sekarang!](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)
+## [Jadilah Pemilik Bisnis Potensial dengan Modal Rp1 Jutan Lewat LandX Sekarang!](https://landx.id/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)
 
 <!--StartFragment-->
 
-[![miliki bisnis modal kecil cuma dengan 1 jutaan dapat 4 cabang ](https://accountgram-production.sfo2.cdn.digitaloceanspaces.com/landx_ghost/2021/11/jadi-owner-bisnis-hanya-1-jutaan-dengan-cuan-yang-sangat-menjanjikan.png)](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)
+[![miliki bisnis modal kecil cuma dengan 1 jutaan dapat 4 cabang ](https://accountgram-production.sfo2.cdn.digitaloceanspaces.com/landx_ghost/2021/11/jadi-owner-bisnis-hanya-1-jutaan-dengan-cuan-yang-sangat-menjanjikan.png)](https://landx.id/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)
 
 <!--EndFragment-->
