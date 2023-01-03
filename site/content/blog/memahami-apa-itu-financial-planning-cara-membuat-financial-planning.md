@@ -34,7 +34,7 @@ Konsep financial plan ini akan membantu kita membedakan kebutuhan primer, sekund
 
 Untuk lebih jelas yuk kita simak penjelasan mengenai apa itu financial planning dan cara membuat financial planning.
 
-## Apa itu Financial Planning?
+## Apa Itu Financial Planning?
 
 Financial planning adalah proses untuk mengelola keuangan baik seseorang atau perusahaan berdasarkan tujuan finansialnya. Dalam penerapannya, apa itu financial planning biasanya tujuan perencanaan keuangan ini ditargetkan untuk kebutuhan jangka panjang.
 
@@ -174,11 +174,11 @@ Berikut perencanaan keuangan pribadi Tika:
 
 <!--StartFragment-->
 
-![](https://cdn.discordapp.com/attachments/995954280559284304/999976239379005520/Screenshot_2022-07-22_164245.png)
+![Cara perencanaan keuangan pribadi yang penting dipahami oleh pemula](https://cdn.discordapp.com/attachments/995954280559284304/999976239379005520/Screenshot_2022-07-22_164245.png "Financial planning untuk pemula yang perlu dipahami dengan baik|cara perencanaan keuangan pribadi yang penting dipahami pemula.")
 
 Berikut adalah tabel pemasukan Tika:
 
-![](https://cdn.discordapp.com/attachments/995954280559284304/999976239706165319/Screenshot_2022-07-22_164309.png)
+![Cara perencanaan keuangan pribadi](https://cdn.discordapp.com/attachments/995954280559284304/999976239706165319/Screenshot_2022-07-22_164309.png "Sistem perencanaan keuangan pribadi yang penting dipahami oleh pemula")
 
 **Menghitung dan membuat perencanaan**
 Dari tujuan yang sudah ditetapkan dan melihat sumber pemasukan, Tika memutuskan untuk menggunakan gaji utama sebagai sumber dana tujuan jangka panjang 6 tahunnya.
@@ -208,10 +208,6 @@ Kamu perlu memilih platform terpercaya yang sudah berizin resmi dari Otoritas Ja
 LandX merupakan salah satu platform equity crowdfunding yang sedang bertansisi ke securities crowdfunding. LandX juga berpengalaman dalam mengembangkan bisnis potensial dari berbagai industri F&B, seperti Cloud Kitchen, Resto Sushi, dan Gelato Hits, bisnis pusat kebugaran mega gym, hingga bisnis di industri properti seperti kos-kosan.
 
 [Yuk Wujudkan Target Financial Planning dengan Investasi di Bisnis Potensial Lewat LandX Sekarang!](https://landx.id/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)
-
-<!--StartFragment-->
-
-<!--StartFragment-->
 
 [![miliki bisnis modal kecil cuma dengan 1 jutaan dapat 4 cabang ](https://accountgram-production.sfo2.cdn.digitaloceanspaces.com/landx_ghost/2021/11/jadi-owner-bisnis-hanya-1-jutaan-dengan-cuan-yang-sangat-menjanjikan.png)](https://landx.id/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)
 
