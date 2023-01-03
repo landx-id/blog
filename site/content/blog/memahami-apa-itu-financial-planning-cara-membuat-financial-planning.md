@@ -180,8 +180,6 @@ Berikut adalah tabel pemasukan Tika:
 
 ![](https://cdn.discordapp.com/attachments/995954280559284304/999976239706165319/Screenshot_2022-07-22_164309.png)
 
-
-
 **Menghitung dan membuat perencanaan**
 Dari tujuan yang sudah ditetapkan dan melihat sumber pemasukan, Tika memutuskan untuk menggunakan gaji utama sebagai sumber dana tujuan jangka panjang 6 tahunnya.
 
@@ -195,7 +193,7 @@ Untuk memenuhi kebutuhan sehari-sehari, Tika bisa membuat anggaran rutin per bul
 
 <!--StartFragment-->
 
-![](https://cdn.discordapp.com/attachments/995954280559284304/999976240092020797/Screenshot_2022-07-22_164327.png)
+![Cara perencanaan keuangan yang penting untuk kamu pahami](https://cdn.discordapp.com/attachments/995954280559284304/999976240092020797/Screenshot_2022-07-22_164327.png "Merencanakan keuangan dengan baik yang penting dipahami oleh pemula")
 
 <!--EndFragment-->
 
@@ -209,14 +207,12 @@ Kamu perlu memilih platform terpercaya yang sudah berizin resmi dari Otoritas Ja
 
 LandX merupakan salah satu platform equity crowdfunding yang sedang bertansisi ke securities crowdfunding. LandX juga berpengalaman dalam mengembangkan bisnis potensial dari berbagai industri F&B, seperti Cloud Kitchen, Resto Sushi, dan Gelato Hits, bisnis pusat kebugaran mega gym, hingga bisnis di industri properti seperti kos-kosan.
 
-[Yuk Wujudkan Target Financial Planning dengan Investasi di Bisnis Potensial Lewat LandX Sekarang!](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)
+[Yuk Wujudkan Target Financial Planning dengan Investasi di Bisnis Potensial Lewat LandX Sekarang!](https://landx.id/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)
 
 <!--StartFragment-->
 
-[![Bagaimana? Kamu lebih suka bisnis dengan buyback guarantee atau yang bisa disimpan dalam jangka panjang? Apapun pilihan kamu.. Yuk Patungan  dengan Keuntungan Menjanjikan Bareng LandX](https://accountgram-production.sfo2.cdn.digitaloceanspaces.com/landx_ghost/2021/10/Equity-Crowdfunding-di-Indonesia-1--3.png)](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)
+<!--StartFragment-->
 
-[\#Instrumen Investasi](https://landx.id/blog/tag/instrumen-investasi)[\#Cara Investasi](https://landx.id/blog/tag/cara-investasi)[\#Investasi untuk Pemula](https://landx.id/blog/tag/investasi-untuk-pemula)[\#Tips Investasi](https://landx.id/blog/tag/tips-investasi)[\#Diversifikasi Investasi](https://landx.id/blog/tag/diversifikasi-investasi)
-
-
+[![miliki bisnis modal kecil cuma dengan 1 jutaan dapat 4 cabang ](https://accountgram-production.sfo2.cdn.digitaloceanspaces.com/landx_ghost/2021/11/jadi-owner-bisnis-hanya-1-jutaan-dengan-cuan-yang-sangat-menjanjikan.png)](https://landx.id/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)
 
 <!--EndFragment-->
