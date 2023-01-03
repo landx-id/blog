@@ -68,7 +68,7 @@ Diversifikasi dilakukan demi menekan risiko dan meningkatkan potensi keuntungan 
 
 Tips cara milenial investasi selanjutnya adalah dengan memutuskan apakah kalian ingin menjadi investor yang aktif atau pasif. Untuk investor aktif sendiri bertujuan untuk mencari return yang tinggi dalam jangka pendek. Biasanya investor aktif ini sering menjual dan membeli saham guna mendapatkan return yang besar. Sedangkan untuk investor pasif biasanya dilakukan untuk jangka waktu panjang. Dimana mereka lebih membatasi perputaran dana yang ada atau lebih menahan sahamnya.
 
-## 6 Investasi Masa Kini Untuk Milenial
+## 6 Investasi Masa Kini untuk Milenial
 
 Setelah kita membahas tips investasi untuk milenial, selanjutnya kita akan membahas 6 investasi milenial masa kini yang sedang digandrungi dan berpotensi mendapatkan keuntungan. Ada apa saja? Berikut ini 6 investasi masa kini untuk milenial, yaitu:
 
