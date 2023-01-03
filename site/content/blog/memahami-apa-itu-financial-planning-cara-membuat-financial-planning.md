@@ -128,7 +128,7 @@ Dengan menerapkan perencanaan keuangan, kita dapat memprediksi perhitungan dana 
 
 E﻿state planning merupakan perencanaan keuangan terkait pengelolaan aset saat pemilik sudah meninggal. Perencanaan ini dilakukan untuk memastikan bahwa harta yang dimiliki akan dikelola dengan baik dan sesuai keinginan pemiliknya. Dalam prosesnya, pemilik akan menentukan siapa penerima dana dan bagaimana suatu dana akan dikelola. Hal ini penting dilakukan untuk memastikan dana yang ditinggalkan bisa digunakan dengan baik seperti menjamin kehidupan keluarga yang ditinggalkan. 
 
-
+P﻿roses ini sangat penting dilakukan terutama untuk pihak yang memiliki aset dengan skala besar dan memiliki banyak pihak yang bergantung seperti kepala keluarga atau pemilik perusahaan. 
 
 ## Cara Membuat Financial Planning
 
