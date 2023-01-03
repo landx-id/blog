@@ -3,15 +3,12 @@ draft: false
 author: Abdul Wahhab
 slug: apa-itu-forex-dan-cara-trading-serta-investasi-dalam-forex
 title: Apa Itu Forex Adalah Penipuan Bodong? Ini Penjelasan Forex Trading!
-metaTitle: "Forex Adalah: Pelajari Apa Itu Forex agar Terhindar Investasi Bodong"
+metaTitle: "Forex Adalah: Pelajari Apa Itu Forex Trading dan Modus Penipuannya"
 metaDescription: Apa itu forex adalah instrumen mata uang asing untuk opsi
   investasi dan objek trading karena volatility yang tinggi. Ini penjelasannya!
-intro: >-
-  Apa itu forex adalah instrumen mata uang asing untuk opsi investasi. Karena
-  volatility yang tinggi, trading forex adalah strategi untuk dapat keuntungan
-  high risk high return yang umumnya dilakukan. 
-
-  Karena ini, Forex atau Foreign Exchange sering dijadikan kedok investasi bodong. Yuk, pelajari!
+intro: "Supaya tidak tertipu berbagai modus penipuan berkedok forex trading, yuk
+  kita pahami dengan baik apa itu forex dan bagaimana sistem trading melalui
+  instrumen forex. "
 date: 2022-08-03T18:06:58.373Z
 tag:
   - Robot Trading
@@ -88,12 +85,23 @@ Kegiatan trading ini mengambil memanfaatkan pasar forex yang terbilang cukup flu
 
 Seiring perkembangan teknologi, kini muncul sebuah algoritma atau sistem yang membantu para trader dalam proses trading mereka yang disebut **robot trading.**
 
+## Trading dan Investasi Forex
+
+Forex atau foreign exchange merupakan mata uang asing yang sering dijadikan sebagai objek trading karena tingkat volatilitas yang tinggi dari aset ini. Akan tetapi, forex juga bisa dijadikan sebagai aset investasi karena kita bisa saja menyimpan uang dengan mata uang suatu negara dengan harapan nilai mata uang tersebut akan meningkat di masa mendatang sehingga bisa menghasilkan keuntungan berupa capital gain karena kenaikan harga. 
+
+A﻿kan tetapi, trading dan investasi forex memiliki risiko yang cukup tinggi karena nilai mata uang dipengaruhi berbagai faktor sehingga harganya cenderung tidak stabil. 
+
+P﻿ada dasarnya, pemilihan forex untuk trading dan investasi tergantung kepada kemampuan dari investor. Apabila anda memiliki waktu yang cukup banyak untuk monitoring dan analisis perkembangan pasar, maka anda bisa menjadikan forex sebagai objek trading. Namun, jika kamu tipe yang lebih pasif maka forex dapat dijadikan sebagai pilihan investasi anda.
+
+
+
+
+
 ## Apakah Forex Adalah Penipuan?
 
 Baru-baru ini marak tersebar promosi investasi trading forex dengan iming-iming keuntungan besar jika investor menanamkan sejumlah uang ke manajemen trading tertentu. 
 
 Salah satu contoh penipuan trading forex adalah dengan skema "titip investasi." Dalam prosesnya, calon investor diminta menanamkan modal untuk investasi. Tidak hanya itu, calon investor juga diharuskan untuk menjadi member dan membayar biaya *membership* di manajemen trading tersebut.
-
 
 Membership ini terbagi dalam beberapa level dengan biaya membership yang berbeda. Promosinya adalah semakin tinggi levelnya, semakin tinggi juga persenan keuntungan yang bisa diraih. Level tertinggi diharuskan "tanam modal" dengan jumlah yang besar. 
 
@@ -163,19 +171,8 @@ Bersama LandX, kamu bisa menemukan bisnis  terbaik yang kamu bisa terlibat patun
 
 **Karena itu,**
 
-### [Yuk Temukan Bisnis Terbaik untuk Keuntungan Jangka Panjang Anda](https://landx.id/project/)
+### [Yuk Temukan Bisnis Terbaik untuk Keuntungan Jangka Panjang Anda](https://landx.id/)
 
-[![miliki bisnis modal kecil cuma dengan 1 jutaan dapat 4 cabang ](https://accountgram-production.sfo2.cdn.digitaloceanspaces.com/landx_ghost/2021/11/jadi-owner-bisnis-hanya-1-jutaan-dengan-cuan-yang-sangat-menjanjikan.png)](https://landx.id/project/)
+[![miliki bisnis modal kecil cuma dengan 1 jutaan dapat 4 cabang ](https://accountgram-production.sfo2.cdn.digitaloceanspaces.com/landx_ghost/2021/11/jadi-owner-bisnis-hanya-1-jutaan-dengan-cuan-yang-sangat-menjanjikan.png)](https://landx.id/)
 
 **[Mau Berbagai Info Menarik Seputar Investasi Lainnya? Yuk Follow Instagram @landx.id](https://instagram.com/landx.id?utm_medium=copy_link)**
-
-- - -
-
-**Baca Juga:**
-
-* [Apakah Kamu Termasuk Sandwich Generation? Ini 6 Cara Memutus Rantai Generasi Sandwich](https://landx.id/blog/memutus-rantai-sandwich-generation/)
-* [Hong Tang: Kesegaran Berbagai Dessert Khas Asia dengan Konsep Cloud Kitchen](https://landx.id/blog/hong-tang-dengan-berbagai-menu-dessert-oriental-khas-taiwan-dan-hongkong/)
-
-- - -
-
-**\#YukPatunganBisnis    #LandX.id    #landx         #landx.id     #InvestasiBisnis  #SecuritiesCrowdfunding   #EquityCrowdfunding     #InvestasiMenguntungkan     #Urundana    #BisnisPatungan     #InvestasiUsaha**
