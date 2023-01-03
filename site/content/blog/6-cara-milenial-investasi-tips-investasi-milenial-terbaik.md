@@ -1,12 +1,14 @@
 ---
 draft: false
 author: Della Octavilia
-title: 6 Tips dan Cara Investasi Terbaik untuk Milenial
-metaTitle: Yuk Simak Tips Investasi dan Mengatur Dana untuk Milenial
+title: 6 Tips Investasi untuk Generasi Milenial yang Bisa Kamu Coba
+metaTitle: "Investasi Milenial: Tips  dan Cara Memilih Investasi untuk Milenial"
 metaDescription: Simak 6 cara milenial investasi untuk masa depan yang lebih baik|
-intro: Tren investasi semakin didominasi kaum milenial dengan harapan memiliki
-  masa depan yang lebih baik. Dalam artikel ini akan dibahas tips investasi uang
-  terbaik untuk milenial.
+intro: Investasi untuk milenial menjadi salah satu bagian dalam pengelolaan
+  keuangan milenial agar memiliki kondisi finansial yang stabil di masa depan.
+  Oleh sebab itu, penting bagi generasi milenial memahami dengan baik strategi
+  investasi yang mengoptimalkan aset yang mereka miliki. Karena itu, yuk kita
+  bahas lebih lanjut tentang investasi untuk milenial.
 date: 2022-08-29T09:13:49.983Z
 tag:
   - Investasi untuk Pemula
