@@ -86,8 +86,12 @@ Dividen ini adalah pembagian laba perusahaan pada pemegang saham sesuai porsi sa
 
 Misalnya baru-baru ini, cabang Okinawa Sushi di kawasan Surabaya lainnya baru saja listing dan sudah sold out di **[LandX](https://landx.id/).** Nantinya, cabang baru ini akan didirikan di Pakuwon Mall, Jl. Mayjend. Jonosewojo, Babatan, Kec. Wiyung, Kota Surabaya, Jawa Timur.
 
-Kalau kamu tertarik untuk jadi salah satu pemilik bisnis sushi atau jenis bisnis kuliner lain, nantikan berbagai **[project bisnis potensial](https://landx.id/#ongoing-projects)** dengan memantau terus laman platform equity crowdfunding terpercaya dan mengantongi izin OJK seperti LandX ya!
+Kalau kamu tertarik untuk jadi salah satu pemilik bisnis sushi atau jenis bisnis kuliner lain, nantikan berbagai **[project bisnis potensial](https://landx.id/)** dengan memantau terus laman platform equity crowdfunding terpercaya dan mengantongi izin OJK seperti LandX ya!
 
-## [Miliki Bisnis Kuliner Menjanjikan Hanya Dengan Modal 1 Juta Melalui Investasi di LandX!](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)
+## [Miliki Bisnis Kuliner Menjanjikan Hanya Dengan Modal 1 Juta Melalui Investasi di LandX!](https://landx.id/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)
 
-[![miliki bisnis modal kecil cuma dengan 1 jutaan dapat 4 cabang ](https://accountgram-production.sfo2.cdn.digitaloceanspaces.com/landx_ghost/2021/11/jadi-owner-bisnis-hanya-1-jutaan-dengan-cuan-yang-sangat-menjanjikan.png)](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)
+<!--StartFragment-->
+
+[![miliki bisnis modal kecil cuma dengan 1 jutaan dapat 4 cabang ](https://accountgram-production.sfo2.cdn.digitaloceanspaces.com/landx_ghost/2021/11/jadi-owner-bisnis-hanya-1-jutaan-dengan-cuan-yang-sangat-menjanjikan.png)](https://landx.id/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)
+
+<!--EndFragment-->
