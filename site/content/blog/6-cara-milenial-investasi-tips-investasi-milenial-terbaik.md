@@ -112,10 +112,10 @@ Nah, dari bisnis yang sudah Anda danai secara patungan, nantinya Anda juga berpo
 
 [LandX](https://landx.id/) merupakan platform [equity crowdfunding](https://landx.id/) yang dapat dipilih untuk menanamkan modal kalian di berbagai bisnis yang telah listing. [LandX](https://landx.id/) juga telah memiliki market cap terbesar se-Indonesia dan telah mengantongi izin dari Otoritas Jasa Keuangan (OJK). memulai investasi di LandX juga dapat dilakukan dengan modal yang kecil, yaitu mulai dari 1 jutaan, saja.
 
-## [Persiapkan Masa Depan Terjamin dengan Investasi di LandX Sekarang Juga](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)
+## [Persiapkan Masa Depan Terjamin dengan Investasi di LandX Sekarang Juga](https://landx.id/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)
 
 <!--StartFragment-->
 
-[![miliki bisnis modal kecil cuma dengan 1 jutaan dapat 4 cabang ](https://accountgram-production.sfo2.cdn.digitaloceanspaces.com/landx_ghost/2021/11/jadi-owner-bisnis-hanya-1-jutaan-dengan-cuan-yang-sangat-menjanjikan.png)](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)
+[![miliki bisnis modal kecil cuma dengan 1 jutaan dapat 4 cabang ](https://accountgram-production.sfo2.cdn.digitaloceanspaces.com/landx_ghost/2021/11/jadi-owner-bisnis-hanya-1-jutaan-dengan-cuan-yang-sangat-menjanjikan.png)](https://landx.id/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)
 
 <!--EndFragment-->
