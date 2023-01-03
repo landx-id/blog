@@ -21,7 +21,8 @@ category:
   - Bisnis
 featuredImage:
   src: https://images.unsplash.com/photo-1611143669185-af224c5e3252?crop=entropy&cs=tinysrgb&fm=jpg&ixlib=rb-1.2.1&q=80&raw_url=true&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1032
-  alt: 5 Outlet Sushi Surabaya Terpopuler
+  alt: 5 Outlet Sushi Surabaya Terpopuler yang wajib kamu coba|OKINAWA SUSHI
+    SURABAYA
   title: 5 Sushi di Kawasan Surabaya Lengkap Dengan Menu
 ---
 Popularitas makanan Jepang di Indonesia sudah ada sejak lama. Karena itu, restoran yang khusus menyajikan sushi semakin menjamur di Indonesia, tidak terkecuali resto sushi di  kawasan Surabaya. Jika kamu akan berkunjung ke daerah Surabaya, berikut ini adalah 5 rekomendasi tempat makan sushi di kawasan Surabaya lengkap dengan menunya. Mulai dari Okinawa Sushi Surabaya, Sushi Tei, Genki Sushi, Ichiban Sushi, hingga Sushi Toku.
