@@ -1,7 +1,7 @@
 ---
 author: Della Octavilia
 title: 9 Tips Cara Hidup Hemat yang Cocok untuk Kaum Milenial
-metaTitle: Yuk Simak 9 Tips dan Cara Membangun Gaya Hidup Hemat untuk Milenial
+metaTitle: Tips Hidup Hemat yang Penting untuk Generasi Milenial
 metaDescription: Generasi millenial harus mulai menerapkan hidup hemat. Berikut
   tips hidup hemat yang cocok bagi generasi milenial
 intro: Apa itu hidup hemat? Hidup hemat adalah gaya hidup yang tidak berlebihan
@@ -47,7 +47,15 @@ Saat ini generasi milenial sudah harus mempersiapkan diri untuk masa depan yang 
 
 Yuk, kita bahas tips hidup hemat yang cocok diterapkan bagi kamu para generasi milenial untuk masa depan cerah.
 
-## Tips Hidup Hemat Bagi Generasi Milenial
+## G﻿aya Hidup Hemat untuk Anak Muda
+
+P﻿ada dasarnya, gaya hidup hemat adalah bagaimana melakukan penghematan terhadap uang dan sumber daya yang dimiliki dengan berbagai tindakan agar mencegah pemborosan sumber daya yang dimiliki oleh perusahaan. P﻿enerapan gaya hidup hemat bagi anak muda menjadi salah satu hal yang sulit untuk karena berbagai faktor seperti lingkungan sosial yang mendorong perilaku konsumtif dan gaya hidup boros.
+
+D﻿alam kehidupan sehari-hari, gaya hidup hemat berkaitan dengan bagaimana kita mengelola keuangan pribadi untuk mencegah pemborosan sehingga hidup lebih sederhana dan sesuai kebutuhan. Gaya hidup ini penting untuk diadopsi oleh anak muda karena pengelolaan keuangan bijak menjadi salah satu bagian penting untuk kestabilan keuangan di masa depan. 
+
+S﻿elain itu, gaya hidup hemat dan sesuai dengan kebutuhan ini juga membantu seseorang terlepas dari hutang dan berbagai masalah keuangan lainnya yang disebabkan oleh buruknya pengelolaan keuangan seseorang. 
+
+## Tips Cara Hidup Hemat Bagi Generasi Milenial
 
 Saat ini generasi milenial dinilai masih rendah dalam mengatur keuangannya. Gaya hidup yang semakin beragam menjadi salah satu faktor yang mempengaruhinya. Mereka cenderung ingin selalu mengikuti tren, sehingga membuat mereka memiliki hidup yang boros.
 
