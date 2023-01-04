@@ -53,7 +53,7 @@ P﻿ada dasarnya, gaya hidup hemat adalah bagaimana melakukan penghematan terhad
 
 D﻿alam kehidupan sehari-hari, gaya hidup hemat berkaitan dengan bagaimana kita mengelola keuangan pribadi untuk mencegah pemborosan sehingga hidup lebih sederhana dan sesuai kebutuhan. Gaya hidup ini penting untuk diadopsi oleh anak muda karena pengelolaan keuangan bijak menjadi salah satu bagian penting untuk kestabilan keuangan di masa depan. 
 
-S﻿elain itu, gaya hidup hemat dan sesuai dengan kebutuhan ini juga membantu seseorang terlepas dari hutang dan berbagai masalah keuangan lainnya yang disebabkan oleh buruknya pengelolaan keuangan seseorang. 
+S﻿elain itu, gaya hidup hemat dan sesuai dengan kebutuhan ini juga membantu seseorang terlepas dari hutang dan berbagai masalah keuangan lainnya yang disebabkan oleh buruknya pengelolaan keuangan seseorang. Pola hidup hemat ini perlu ditekankan agar sikap hemat dapat terbentuk yang akan mempengaruhi berbagai keputusan keuangan kita di masa mendatang. 
 
 ## Tips Cara Hidup Hemat Bagi Generasi Milenial
 
