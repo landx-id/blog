@@ -23,7 +23,7 @@ tag:
   - patungan bisnis
   - HGY1
 featuredImage:
-  src: https://accountgram-production.sfo2.cdn.digitaloceanspaces.com/landx_ghost/2021/09/Screenshot-2021-09-20-at-00-24-27-LandX-Investasi-Bisnis-dan-Properti-Semudah-Belanja-Online.png
+  src: https://media.discordapp.net/attachments/905280638955962378/1060405778932060220/Screenshot-2021-09-20-at-00-24-27-LandX-Investasi-Bisnis-dan-Properti-Semudah-Belanja-Online.png
   alt: Jadi pemilik franchise hangry cuma modal 1 juta
   title: Cara jadi pemilik franchise hangry cuma modal 1 juta
 image: https://accountgram-production.sfo2.cdn.digitaloceanspaces.com/landx_ghost/2021/09/Screenshot-2021-09-20-at-00-24-27-LandX-Investasi-Bisnis-dan-Properti-Semudah-Belanja-Online.png
@@ -31,9 +31,7 @@ category:
   - Bisnis
   - Investasi
 ---
-
-
-**[Hangry](https://landx.id/project/#/hgy1) –** bisnis dengan konsep cloud kitchen bisa dikatakan salah satu konsep bisnis yang paling potensial dan cocok dengan kondisi pandemi di mana segala sesuatu serba virtual termasuk urusan makanan.
+**[Hangry](https://landx.id/)–** bisnis dengankan konsep cloud kitchen bisa dikatakan salah satu konsep bisnis yang paling potensial dan cocok dengan kondisi pandemi di mana segala sesuatu serba virtual termasuk urusan makanan.
 
 Konsep virtual restaurant menjadi semakin potensial karena berbagai pembatasan yang membuat layanan pada bisnis F&B berfokus pada delivery atau take away.
 
@@ -47,13 +45,13 @@ Karena itu, yuk kita bahas lebih dalam tentang Hangry dan bagaimana potensi bisn
 
 ## **Hangry di Indonesia**
 
-**[Hangry](https://landx.id/project/#/hgy1) ** merupakan bisnis F&B dengan konsep virtual restaurant yang mengoptimalkan sistem pemesanan melalui sistem aplikasi. Hangry sendiri memiliki beberapa brand yang mereka kembangkan sehingga Hangry menjadi _one-stop-solution_ untuk konsumen yang sedang makanan dan minuman.
+**[Hangry](https://landx.id/)**  merupakan bisnis F&B dengan konsep virtual restaurant yang mengoptimalkan sistem pemesanan melalui sistem aplikasi. Hangry sendiri memiliki beberapa brand yang mereka kembangkan sehingga Hangry menjadi *one-stop-solution* untuk konsumen yang sedang makanan dan minuman.
 
 Konsep ini tentu saja sangat menarik terutama karena kemudahan pemesanan melalui aplikasi dan sistem delivery yang membuat konsumen tetap bisa menikmati berbagai menu yang ditawarkan walaupun hanya diam di rumah. Karena itu,
 
 Sejak September 2019 dan mulai beroperasi pada November 2019, Hangry telah memiliki 47 cabang dan terus berkembang dalam beberapa waktu ke depan. Hal ini membuktikan bahwa bisnis F&B dengan konsep ini tetap terus berkembang walaupun di tengah masa pandemi.
 
-[Konsep virtual restaurant](https://landx.id/project/#/hgy1) sendiri sebetulnya menjadi salah satu konsep yang banyak diadopsi oleh banyak bisnis F&B selama masa pandemi untuk mengoptimalkan bisnis mereka sehingga bisa terus bertahan di tengah masa pandemi.
+[Konsep virtual restaurant](https://landx.id/) sendiri sebetulnya menjadi salah satu konsep yang banyak diadopsi oleh banyak bisnis F&B selama masa pandemi untuk mengoptimalkan bisnis mereka sehingga bisa terus bertahan di tengah masa pandemi.
 
 Selain meminimalisir biaya, konsep virtual restaurant juga membuat bisnis F&B dapat lebih fokus pada proses produksi dan inovasi agar bisa terus menjaga kualitas makanan yang akan ditawarkan kepada konsumen.
 
@@ -69,7 +67,7 @@ Selama proses pengembangan bisnisnya, Hungry telah berhasil mengembangkan bebera
 
 Moon Chicken merupakan salah satu brand makanan yang dikembangkan dalam virtual restaurant milik Hangry. Moon Chicken merupakan brand berfokus pada berbagai sajian ayam goreng khas Korea yang biasa dinikmati untuk camilan.
 
-![Moon-chiken-by-Hangry-merupakan-salah-satu-produk-andalan-Hangry](https://accountgram-production.sfo2.cdn.digitaloceanspaces.com/landx_ghost/2021/09/Moon-chiken-by-Hangry-merupakan-salah-satu-produk-andalan-Hangry.png)
+![Moon-chiken-by-Hangry-merupakan-salah-satu-produk-andalan-Hangry](https://accountgram-production.sfo2.cdn.digitaloceanspaces.com/landx_ghost/2021/09/Moon-chiken-by-Hangry-merupakan-salah-satu-produk-andalan-Hangry.png "Menu Hangry")
 
 Karena itu, Moon Chicken menawarkan olahan ayam goreng dengan berbagai rasa yang sangat cocok untuk dijadikan sebagai cemilan dengan berbagai varian rasa yang menarik.
 
@@ -77,7 +75,7 @@ Karena itu, Moon Chicken menawarkan olahan ayam goreng dengan berbagai rasa yang
 
 Berikutnya, Hangry juga memiliki brand San Gyu yang menawarkan makanan dengan  konsep rice bowl yang dikombinasikan dengan daging sapi dan katsu. Selain itu, San Gyu juga memiliki beberapa pilihan kombinasi saus yang bisa disesuaikan dengan selera pelanggan.
 
-![San-Gyu-by-Hangry-salah-satu-brand-yang-dikembangkan-oleh-hangry-1](https://accountgram-production.sfo2.cdn.digitaloceanspaces.com/landx_ghost/2021/09/San-Gyu-by-Hangry-salah-satu-brand-yang-dikembangkan-oleh-hangry-1.jpg)
+![San-Gyu-by-Hangry-salah-satu-brand-yang-dikembangkan-oleh-hangry-1](https://accountgram-production.sfo2.cdn.digitaloceanspaces.com/landx_ghost/2021/09/San-Gyu-by-Hangry-salah-satu-brand-yang-dikembangkan-oleh-hangry-1.jpg "Menu Hangry")
 
 San Gyu sendiri memiliki banyak pilihan menu yang terus dikembangkan agar konsumen bisa terus mendapatkan cita rasa baru di San Gyu by Hangry.
 
@@ -85,7 +83,7 @@ San Gyu sendiri memiliki banyak pilihan menu yang terus dikembangkan agar konsum
 
 Apabila dua brand sebelumnya merupakan makanan dengan konsep yang berasal dari luar, Ayam Koplo merupakan makanan dengan cita rasa yang sangat dekat masyarakat Indonesia. Ayam Koplo adalah salah satu brand yang dikembangkan oleh Hangry yang menawarkan olahan ayam geprek yang diolah dengan cita rasa khas Indonesia.
 
-![franchise-ayam-koplo-by-hangry-dikembangkan-untuk-pilihan-menu-khas-nusantara-di-hangry](https://accountgram-production.sfo2.cdn.digitaloceanspaces.com/landx_ghost/2021/09/franchise-ayam-koplo-by-hangry-dikembangkan-untuk-pilihan-menu-khas-nusantara-di-hangry.png)
+![franchise-ayam-koplo-by-hangry-dikembangkan-untuk-pilihan-menu-khas-nusantara-di-hangry](https://accountgram-production.sfo2.cdn.digitaloceanspaces.com/landx_ghost/2021/09/franchise-ayam-koplo-by-hangry-dikembangkan-untuk-pilihan-menu-khas-nusantara-di-hangry.png "Ayam koplo by Hangry")
 
 Karena itu, menu ayam geprek yang ditawarkan dikombinasikan dengan sambal matah yang tersedia dalam beberapa level.
 
@@ -93,26 +91,16 @@ Karena itu, menu ayam geprek yang ditawarkan dikombinasikan dengan sambal matah 
 
 Selain berbagai menu makanan, Hangry juga mengembangkan brand minuman untuk melengkapi bisnis mereka. Dari Pada by Hangry merupakan brand yang berfokus pada pengembangan berbagai minuman seperti kopi, teh, coklat, dan Yakult.
 
-![kopi-dari-pada-merupakan-brand-yang-dikembangkan-hangry-yang-menyediakan-berbagai-pilihan-minuman-](https://accountgram-production.sfo2.cdn.digitaloceanspaces.com/landx_ghost/2021/09/kopi-dari-pada-merupakan-brand-yang-dikembangkan-hangry-yang-menyediakan-berbagai-pilihan-minuman-.png)
+![kopi-dari-pada-merupakan-brand-yang-dikembangkan-hangry-yang-menyediakan-berbagai-pilihan-minuman-](https://accountgram-production.sfo2.cdn.digitaloceanspaces.com/landx_ghost/2021/09/kopi-dari-pada-merupakan-brand-yang-dikembangkan-hangry-yang-menyediakan-berbagai-pilihan-minuman-.png "Kopi daripada by hangry")
 
 Dengan adanya Dari Pada maka Hangry menjadi bisnis virtual restaurant yang menawarkan paket lengkap bagi konsumen mulai dari makanan hingga minuman.
 
 Gimana? Bisnis ini memiliki potensi perkembangan yang sangat menarik bukan.
 
-Apabila anda tertarik ingin memiliki bisnis ini dengan modal kecil, maka anda bisa ikut patungan bisnis melalui equity crowdfunding sehingga anda bisa menjadi mempunyai bagian kepemilikan di berbagai [cabang bisnis Hangry.](https://landx.id/project/#/hgy1)
+Apabila anda tertarik ingin memiliki bisnis ini dengan modal kecil, maka anda bisa ikut patungan bisnis melalui equity crowdfunding sehingga anda bisa menjadi mempunyai bagian kepemilikan di berbagai [cabang bisnis Hangry.](https://landx.id/)
 
 Kalau kamu tertarik, hanya dengan 1 jutaan kamu sudah bisa ikut patungan membangun cabang terbaru dari Hangry dan akan mendapatkan keuntungan berupa dividen berdasarkan keuntungan yang dihasilkan dari bisnis tersebut. Karena itu, tunggu apalagi…
 
-**[Yuk Miliki Bisnis Hangry Hanya dengan Modal 1 Jutaan di LandX](https://landx.id/project/#/hgy1)**
+**[Yuk Miliki Bisnis Hangry Hanya dengan Modal 1 Jutaan di LandX](https://landx.id/)**
 
-[![Jadi Pemilik Vilo Gelato Cuma dengan Modal 1 Juta](https://media.discordapp.net/attachments/913743599844343808/939222534199582800/Jadi_pemilik_franchise_gelato_cuma_dengan_modal_1_juta.png)](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)
-
-{{< button link="https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog" text="Yuk Investasi Sekarang" >}}
-
----
-
-**Baca Juga:**
-
-* [Bisnis di Masa Pandemi - Melihat Bagaimana Strategi Bisnis F&B Cloud Kitchen Bertahan di Masa Pandemi](https://landx.id/blog/bisnis-cloud-kitchen-di-masa-pandemi/)
-* [Franchise Makanan: Kelebihan dan Kekurangan Memulai Bisnis Makanan dengan Sistem Franchise](https://landx.id/blog/memulai-bisnis-franchise-makanan/) 
-
+[![Jadi Pemilik Vilo Gelato Cuma dengan Modal 1 Juta](https://media.discordapp.net/attachments/913743599844343808/939222534199582800/Jadi_pemilik_franchise_gelato_cuma_dengan_modal_1_juta.png)](https://landx.id/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)
