@@ -21,8 +21,6 @@ featuredImage:
   alt: "Mengenal sistem bisnis cloud kitchen "
   title: Prospek Bisnis Cloud Kitchen Indonesia dan harga sewa space cloud kitchen
 ---
-
-
 Bisnis cloud kitchen adalah tren kuliner baru di tengah badai Pandemi COVID-19. Dikenal dengan sebutan dapur satelit, cara kerja cloud kitchen mirip dengan konsep “dapur bersama” yang berfokus ke layanan pengiriman makanan saja. Baca terus artikel ini untuk memahami apa itu cloud kitchen, keunggulan dan kekurangannya, serta prospek bisnis cloud kitchen di Indonesia.
 
 ## Apa Itu Cloud Kitchen?
@@ -32,11 +30,8 @@ Pandemi COVID-19 pada awal tahun 2019 menuntut banyak restoran menutup fasilitas
 Penyebab semakin trendingnya konsep cloud kitchen adalah kondisi-kondisi tersebut. Berbeda dengan restoran konvensional yang membutuhkan modal besar untuk biaya bangunan usaha dengan lokasi yang strategis agar punya space luas untuk menampung dan menarik banyak pelanggan, cloud kitchen adalah solusi untuk pemilik bisnis kuliner yang memiliki modal terbatas. Cara kerja cloud kitchen adalah sebagai berikut:
 
 1. Penyedia atau pengelola cloud kitchen Indonesia membangun sebuah dapur pusat yang space-nya dibagi untuk beberapa tenant.
-
 2. Pemilik bisnis kuliner akan menyewa space tenant yang tersedia di dapur pusat tersebut untuk kegiatan produksi makanan dan minuman yang dimiliki brand-nya.
-
 3. Ketika konsumen melakukan order online ke brand yang tergabung di cloud kitchen, pihak pengelola akan meneruskan ke pihak brand kuliner di dapur tersebut agar pesanan segera disiapkan.
-
 4. Setelah pesanan selesai dan dikemas, pesanan langsung diberikan ke jasa kurir pengantaran makanan untuk akhirnya dinikmati oleh konsumen.
 
 ## Kelebihan dan Kekurangan Konsep Cloud Kitchen
@@ -50,6 +45,8 @@ Sementara itu, kekurangan dari konsep cloud kitchen adalah jika lokasi berdiriny
 ## Harga Sewa Cloud Kitchen 
 
 Umumnya yang menentukan harga sewa cloud kitchen adalah faktor lokasi, fasilitas yang tersedia, dan ukuran space setiap tenant. Misalnya, di kawasan pendidikan Kota Bandung harga sewa cloud kitchen adalah Rp4.000.000/bulan dengan luas 10 m² dilengkapi fasilitas dapur lengkap dan AC. Namun, di kawasan perkantoran Jakarta Pusat harga sewa tenant fasilitas serupa cloud kitchen adalah Rp8.000.000/bulan.
+
+B﻿isnis cloud kitchen menjadi solusi di tengah terbatasnya lahan untuk bisnis di kawasan-kawasan strategis. Penerapan model bisnis cloud kitchen menjadi solusi untuk membuka bisnis FnB dengan modal yang lebih kecil. Selain itu, model bisnis ini berjalan secara lebih efisien karena tidak perlu mengeluarkan biaya untuk pemberian layanan dine-in.
 
 ## Prospek Bisnis Cloud Kitchen Indonesia
 
