@@ -127,13 +127,10 @@ Penting bagi seorang investor untuk paham berbagai istilah dalam investasi agar 
 
 Tapi anda juga tahu bahwa sekarang anda investasi yang mudah dan cocok untuk pemula yaitu *Equity Crowdfunding (ECF)* yang konsepnya hampir sama dengan investasi saham. Karena anda akan mendapatkan bagian kepemilikan dari sebuah bisnis yang sudah anda danai dan bisa mendapatkan dividen dari keuntungan bisnis tersebut. Kalau anda mau investasi bisnis jangka panjang dengan modal kecil….
 
-**Yuk Investasi Bisnis Jangka Panjang Dengan Modal Kecil Bersama LandX.**
+**[Yuk Investasi Bisnis Jangka Panjang Dengan Modal Kecil Bersama LandX.](https://landx.id/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)**
 
-[![Yuk mulai patungan bisnis menguntungkan jangka panja g bersama LandX](https://accountgram-production.sfo2.cdn.digitaloceanspaces.com/landx_ghost/2021/09/Equity-Crowdfunding-di-Indonesia-1--3.png)](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)
+<!--StartFragment-->
 
-> **[Yuk Follow Instagram @landx.id Untuk Berbagai Info Menarik Seputar Keuangan Lainnya](https://instagram.com/landx.id?utm_medium=copy_link)**
+[![miliki bisnis modal kecil cuma dengan 1 jutaan dapat 4 cabang ](https://accountgram-production.sfo2.cdn.digitaloceanspaces.com/landx_ghost/2021/11/jadi-owner-bisnis-hanya-1-jutaan-dengan-cuan-yang-sangat-menjanjikan.png)](https://landx.id/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)
 
-**Baca Juga:**
-
-* **[Kenali 4 Instrumen Pasar Modal Sebelum Memutuskan Instrumen Pasar Modal Terbaik Anda](https://landx.id/blog/kenali-4-instrumen-pasar-modal-sebelum-memutuskan-instrumen-pasar-modal-terbaik-anda/)**
-* **[Memahami Istilah Laba Ditahan dalam Investasi](https://landx.id/blog/pahami-perbedaan-dividen-dan-capital-gain-sebelum-memulai-investasi/)**
+<!--EndFragment-->
