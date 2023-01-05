@@ -50,6 +50,8 @@ A﻿kan tetapi, harga cloud kitchen cukup beragam karena bergantung dari beberap
 
 B﻿isnis cloud kitchen menjadi solusi di tengah terbatasnya lahan untuk bisnis di kawasan-kawasan strategis. Penerapan model bisnis cloud kitchen menjadi solusi untuk membuka bisnis FnB dengan modal yang lebih kecil. Selain itu, model bisnis ini berjalan secara lebih efisien karena tidak perlu mengeluarkan biaya untuk pemberian layanan dine-in.
 
+K﻿arena itu, konsep cloud kitchen menjadi salah satu model bisnis yang sangat potensial dalam jangka panjang. 
+
 ## Prospek Bisnis Cloud Kitchen Indonesia
 
 Berdasarkan data dari Badan Pusat Statistik (BPS), pada kuartal I-2021, pertumbuhan industri kuliner mencapai 2,45% dan menjadi salah satu pertumbuhan tertinggi di sektor industri pengolahan. Data ini juga semakin menguatkan bahwa dengan konsep bisnis F&B yang relevan, modal yang memadai, dan dilengkapi dengan strategi bisnis yang baik, bukan tidak mungkin bagi kamu untuk meraup keuntungan yang menjanjikan.
