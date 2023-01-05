@@ -60,9 +60,9 @@ Banyak contoh bisnis F&B yang berhasil menjadi brand populer yang telah memiliki
 
 Jika kamu tidak memiliki modal yang cukup untuk memulai bisnis kuliner dari nol, tetapi kamu tetap termotivasi untuk  memulai bisnis di sektor kuliner, tidak perlu khawatir! Kamu bisa coba untuk melirik investasi bisnis kuliner dengan skema equity crowdfunding.
 
-Skema ini adalah pendanaan untuk bisnis kecil dengan cara patungan masyarakat luas untuk mendanai UMKM. Sehingga kamu bisa berinvestasi pada beberapa project bisnis kuliner menjanjikan dengan modal minim. Keuntungan yang didapat dari** [equity crowdfunding](https://www.landx.id/)** adalah kamu menerima return dividen dari project bisnis yang didanai sesuai dengan porsi saham yang dimiliki. 
+Skema ini adalah pendanaan untuk bisnis kecil dengan cara patungan masyarakat luas untuk mendanai UMKM. Sehingga kamu bisa berinvestasi pada beberapa project bisnis kuliner menjanjikan dengan modal minim. Keuntungan yang didapat dari **equity crowdfunding** adalah kamu menerima return dividen dari project bisnis yang didanai sesuai dengan porsi saham yang dimiliki. 
 
-Jika kamu ingin terhindar dari kerugian, maka pilihlah platform investasi berpengalaman dan telah memiliki izin dari OJK seperti **[LandX](https://landx.id/).** Melalui platform ini, terdapat banyak pilihan project investasi bisnis F&B yang menjanjikan mulai dari cloud kitchen, sushi restaurant, ice cream dan dessert, hingga brand rice bowl. Sebelum kamu berivestasi, jangan lupa untuk menyesuaikan dengan profil risiko yang ingin dimiliki ya!
+Jika kamu ingin terhindar dari kerugian, maka pilihlah platform investasi berpengalaman dan telah memiliki izin dari OJK seperti **LandX.** Melalui platform ini, terdapat banyak pilihan project investasi bisnis F&B yang menjanjikan mulai dari cloud kitchen, sushi restaurant, ice cream dan dessert, hingga brand rice bowl. Sebelum kamu berivestasi, jangan lupa untuk menyesuaikan dengan profil risiko yang ingin dimiliki ya!
 
 ## [Jadi Owner Bisnis Kuliner Menjanjikan Hanya Modal 1 Juta? Yuk, Investasi di LandX Sekarang!](https://landx.id/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)
 
