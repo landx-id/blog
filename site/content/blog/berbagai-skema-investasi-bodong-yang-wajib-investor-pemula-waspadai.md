@@ -40,16 +40,6 @@ Supaya Anda jauh dari kata korban dari investasi bodong di Indonesia, yuk kita b
 
 - - -
 
-## Table of Content
-
-* **[Korban Investasi Bodong](https://landx.id/blog/berbagai-skema-investasi-bodong-yang-wajib-investor-pemula-waspadai/#kerugian-korban-investasi-bodong-capai-117-triliun)**
-* **[Ciri-ciri Investasi Bodong](https://landx.id/blog/berbagai-skema-investasi-bodong-yang-wajib-investor-pemula-waspadai/#ciri-ciri-investasi-bodong)**[1. Keuntungan Tinggi Tanpa Risiko](#1-keuntungan-tinggi-tanpa-risiko)[2. Sistem Komisi](#2-sistem-komisi)[3. Rekam Jejak yang Fiktif](#3-rekam-jejak-yang-fiktif)[4. Membatasi Kontak Komunikasi](#4-membatasi-kontak-komunikasi)
-* **[Berbagai Modus Investasi Bodong](https://landx.id/blog/berbagai-skema-investasi-bodong-yang-wajib-investor-pemula-waspadai/#berbagai-modus-investasi-bodong)**
-* **[Penipuan Menggunakan Nama LandX](https://landx.id/blog/berbagai-skema-investasi-bodong-yang-wajib-investor-pemula-waspadai/#penipuan-menggunakan-nama-landx)**
-* **[Cara Melindungi Dirimu dengan Investasi Aman](https://landx.id/blog/berbagai-skema-investasi-bodong-yang-wajib-investor-pemula-waspadai/#cara-melindungi-dirimu-dengan-investasi-aman)**
-
-- - -
-
 ## Kerugian Korban Investasi Bodong Capai 117 Triliun
 
 [Data OJK](https://www.cnbcindonesia.com/investment/20210805111927-21-266285/alamak-kerugian-investasi-bodong-capai-rp-117-t) sebut kerugian dari  penipuan investasi (investment scam) atau investasi bodong mencapai 117 triliun. Penipuan dengan jubah investasi untung besar kerap memangsa banyak korban. Penyebaran informasi melalui internet dan berbagai channel digital lainnya membuat sulitnya mengidentifikasi kejahatan ini.
@@ -167,24 +157,10 @@ Saat ini, LandX telah berhasil menyalurkan 2,29 miliar dividen kepada para inves
 
 Karena itu....
 
-## [Yuk Investasi Bisnis yang Aman Bersama LandX](https://app.landx.id/?utm_source=Organic+Page&utm_medium=Content+Blog&utm_campaign=BlogLandX&utm_id=Blog)
+## [Yuk Investasi Bisnis yang Aman Bersama LandX](https://landx.id/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)
 
 <!--StartFragment-->
 
-[![miliki bisnis modal kecil cuma dengan 1 jutaan dapat 4 cabang ](https://accountgram-production.sfo2.cdn.digitaloceanspaces.com/landx_ghost/2021/11/jadi-owner-bisnis-hanya-1-jutaan-dengan-cuan-yang-sangat-menjanjikan.png)](https://app.landx.id/?utm_source=Organic+Page&utm_medium=Content+Blog&utm_campaign=BlogLandX&utm_id=Blog)
+[![miliki bisnis modal kecil cuma dengan 1 jutaan dapat 4 cabang ](https://accountgram-production.sfo2.cdn.digitaloceanspaces.com/landx_ghost/2021/11/jadi-owner-bisnis-hanya-1-jutaan-dengan-cuan-yang-sangat-menjanjikan.png)](https://landx.id/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)
 
 <!--EndFragment-->
-
-- - -
-
-* **Situs Resmi** : <https://landx.id/>
-* **Telepon** : (+62) 21 2245 5061
-* **WhatsApp** : <https://bit.ly/CSLandX1><https://bit.ly/CSLandX2> 
-* **Email** : \[hello@landx.id]
-* **Instagram** : @landx.id
-* **Twitter** : @LandX_id
-* **YouTube** : LandX ID
-* **LinkedIn** : LandX
-* **Alamat** : Italian Walk C.15-16, Mall of Indonesia, Jl. Yos Sudarso, RT.18,RT.18/RW.8, Kelapa Gading Barat, Kelapa Gading, Kota Jakarta Utara,  Jakarta 14240
-
-- - -
