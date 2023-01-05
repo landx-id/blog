@@ -151,9 +151,9 @@ Jika Anda memiliki keinginan untuk menjadi pemilik suatu perusahaan atau bisnis 
 
 [Equity crowdfunding](https://app.landx.id/?utm_source=Organic+Page&utm_medium=Content+Blog&utm_campaign=BlogLandX&utm_id=Blog) sendiri merupakan skema pendanaan untuk bisnis kecil dengan cara patungan masyarakat luas untuk mendanai UMKM. Disini kamu bisa menjadi salah satu pemilik bisnis yang kamu danai.
 
-Kamu juga akan mendapatkan keuntungan dari [equity crowdfunding](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog), yaitu kamu akan menerima return dividen dari project bisnis yang telah kamu danai. 
+Kamu juga akan mendapatkan keuntungan dari [equity crowdfunding](https://landx.id/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog), yaitu kamu akan menerima return dividen dari project bisnis yang telah kamu danai. 
 
-[LandX](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog) merupakan salah satu platform [equity crowdfunding](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog) yang dapat membantu kamu mendanai bisnis yang memiliki prospek bagus dengan modal kecil dan untung besar.
+[LandX](https://landx.id/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog) merupakan salah satu platform [equity crowdfunding](https://landx.id/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog) yang dapat membantu kamu mendanai bisnis yang memiliki prospek bagus dengan modal kecil dan untung besar.
 
 [LandX](https://app.landx.id/?utm_source=Organic+Page&utm_medium=Content+Blog&utm_campaign=BlogLandX&utm_id=Blog), [platform equity crowdfunding terpercaya](https://app.landx.id/?utm_source=Organic+Page&utm_medium=Content+Blog&utm_campaign=BlogLandX&utm_id=Blog), transparan, dan telah memiliki izin dari Otoritas Jasa Keuangan (OJK). Kamu bisa mendapatkan potensi keuntungan dengan modal kecil.
 
@@ -161,6 +161,4 @@ Kamu juga akan mendapatkan keuntungan dari [equity crowdfunding](https://landx.i
 
 <!--StartFragment-->
 
-[![miliki bisnis modal kecil cuma dengan 1 jutaan dapat 4 cabang ](https://accountgram-production.sfo2.cdn.digitaloceanspaces.com/landx_ghost/2021/11/jadi-owner-bisnis-hanya-1-jutaan-dengan-cuan-yang-sangat-menjanjikan.png)](https://app.landx.id/?utm_source=Organic+Page&utm_medium=Content+Blog&utm_campaign=BlogLandX&utm_id=Blog)
-
-<!--EndFragment-->
+[![miliki bisnis modal kecil cuma dengan 1 jutaan dapat 4 cabang ](https://accountgram-production.sfo2.cdn.digitaloceanspaces.com/landx_ghost/2021/11/jadi-owner-bisnis-hanya-1-jutaan-dengan-cuan-yang-sangat-menjanjikan.png)](https://landx.id/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)
