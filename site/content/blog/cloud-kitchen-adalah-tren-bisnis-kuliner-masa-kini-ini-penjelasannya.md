@@ -46,6 +46,8 @@ Sementara itu, kekurangan dari konsep cloud kitchen adalah jika lokasi berdiriny
 
 Umumnya yang menentukan harga sewa cloud kitchen adalah faktor lokasi, fasilitas yang tersedia, dan ukuran space setiap tenant. Misalnya, di kawasan pendidikan Kota Bandung harga sewa cloud kitchen adalah Rp4.000.000/bulan dengan luas 10 m² dilengkapi fasilitas dapur lengkap dan AC. Namun, di kawasan perkantoran Jakarta Pusat harga sewa tenant fasilitas serupa cloud kitchen adalah Rp8.000.000/bulan.
 
+A﻿kan tetapi, harga cloud kitchen cukup beragam karena bergantung dari beberapa faktor seperti ukuran dapur dan lokasi tempat yang akan disewa untuk bisnis cloud kitchen. 
+
 B﻿isnis cloud kitchen menjadi solusi di tengah terbatasnya lahan untuk bisnis di kawasan-kawasan strategis. Penerapan model bisnis cloud kitchen menjadi solusi untuk membuka bisnis FnB dengan modal yang lebih kecil. Selain itu, model bisnis ini berjalan secara lebih efisien karena tidak perlu mengeluarkan biaya untuk pemberian layanan dine-in.
 
 ## Prospek Bisnis Cloud Kitchen Indonesia
