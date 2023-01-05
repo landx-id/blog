@@ -6,14 +6,15 @@ metaDescription: Biaya overhead adalah biaya yang wajib dikeluarkan perusahaan
   untuk keberlangsungan dalam bisnis tetapi tidak terkait langsung dengan biaya
   produksi.
 intro: Kamu memiliki rencana untuk membuat perusahaan? Sebaiknya kamu mengetahui
-  terlebih dahulu mengenai biaya overhead yang merupakan biaya wajib dikeluarkan
-  tiap perusahaan.
+  terlebih dahulu mengenai apa yang dimaksud biaya overhead merupakan biaya
+  wajib dikeluarkan tiap perusahaan.
 date: 2022-06-22T05:37:41.187Z
 tag:
   - Rasio Keuangan
   - Investasi Bisnis
 category:
   - Keuangan
+  - Bisnis
 featuredImage:
   title: "Biaya Overhead: Biaya Wajib Bagi Perusahaan dan Cara Menghitungnya"
   alt: Biaya Overhead, Cara Menghitung Biaya Overhead
@@ -27,7 +28,7 @@ Di artikel ini, kita akan membahas secara lengkap seputar biaya overhead.
 
 ## Definisi Biaya Overhead
 
-Apa itu biaya overhead?
+P﻿ertama, mari kita bahas apa itu biaya overhead agar kita paham dulu apa yang dimaksud dengan biaya overhead. 
 
 Merujuk dari Business encyclopedia, biaya overhead adalah semua biaya yang terdapat pada laporan laba rugi perusahaan yang tidak berkaitan langsung dengan biaya pembuatan atau penjualan produk.
 
@@ -45,14 +46,15 @@ Setiap perusahaan akan selalu membayar biaya overhead, terlepas dari besar-kecil
 
 Setiap perusahaan wajib untuk membuat anggaran biaya overhead demi kelangsungan proses produksi. Berikut ini fungsi menghitung biaya overhead bagi perusahaan.
 
-* **Mengawasi pengeluaran**
-  Dengan perusahaan selalu mencatat biaya overhead secara rutin, mereka juga dapat melakukan pengawasan terhadap besarnya pengeluaran yang dikeluarkan. 
+**1. Mengawasi pengeluaran**
+Dengan perusahaan selalu mencatat biaya overhead secara rutin, mereka juga dapat melakukan pengawasan terhadap besarnya pengeluaran yang dikeluarkan. 
 
-  Apakah pengeluaran sesuai dengan perencanaan yang telah dibuat di awal dan sudah berjalan efisien atau tidak berjalan dengan baik.
-* **Membuat alokasi anggaran**
-  Perusahaan dapat membuat perbandingan besaran biaya overhead dengan biaya lainnya.
+Apakah pengeluaran sesuai dengan perencanaan yang telah dibuat di awal dan sudah berjalan efisien atau tidak berjalan dengan baik.
 
-  Apakah biaya overhead mengalami pembengkakan jika dibandingkan dengan biaya lainnya. Jika iya, maka perusahaan dapat melakukan penyesuaian untuk besaran biaya overhead di periode selanjutnya untuk menghindari pengeluaran yang bengkak atau over budget.
+**2﻿. Membuat alokasi anggaran**
+Perusahaan dapat membuat perbandingan besaran biaya overhead dengan biaya lainnya.
+
+Apakah biaya overhead mengalami pembengkakan jika dibandingkan dengan biaya lainnya. Jika iya, maka perusahaan dapat melakukan penyesuaian untuk besaran biaya overhead di periode selanjutnya untuk menghindari pengeluaran yang bengkak atau over budget.
 
 ## Klasifikasi Biaya Overhead
 
