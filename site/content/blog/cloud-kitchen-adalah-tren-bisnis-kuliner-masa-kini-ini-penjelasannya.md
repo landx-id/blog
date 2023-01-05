@@ -1,7 +1,7 @@
 ---
 author: Nadya A. Faatihah
 title: "Cloud Kitchen: Mengenal Cara Kerja Cloud Kitchen dan Keuntungnya"
-metaTitle: "Bisnis Cloud Kitchen: Keuntungan dan Cara Kerja Cloud Kitchen"
+metaTitle: "Konsep Bisnis Cloud Kitchen: Keuntungan dan Cara Kerja Cloud Kitchen"
 metaDescription: Cloud kitchen adalah tren bisnis kuliner yang memiliki prospek
   jangka panjang menjanjikan. Simak penjelasannya!
 intro: Cloud kitchen adalah solusi untuk pemilik bisnis kuliner yang memiliki
