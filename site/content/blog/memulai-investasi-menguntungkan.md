@@ -102,13 +102,10 @@ Selain itu dalam berinvestasi anda tidak boleh melakukan investasi hanya karena 
 
 Apabila anda sudah paham..
 
-## [Yuk, jadi bos bisnis dan terima keuntungan rutin di LandX](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)
+## [Yuk, jadi bos bisnis dan terima keuntungan rutin di LandX](https://landx.id/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)
 
-[![miliki bisnis modal kecil cuma dengan 1 jutaan dapat 4 cabang ](https://accountgram-production.sfo2.cdn.digitaloceanspaces.com/landx_ghost/2021/11/jadi-owner-bisnis-hanya-1-jutaan-dengan-cuan-yang-sangat-menjanjikan.png)](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)
+<!--StartFragment-->
 
-**[Supaya Gak Ketinggalan Berbagai Info Seputar Investasi Menguntungkan Lainnya, Jangan Lupa Follow Instagram Kami di @landx.id](https://instagram.com/landx.id?utm_medium=copy_link)**
+[![miliki bisnis modal kecil cuma dengan 1 jutaan dapat 4 cabang ](https://accountgram-production.sfo2.cdn.digitaloceanspaces.com/landx_ghost/2021/11/jadi-owner-bisnis-hanya-1-jutaan-dengan-cuan-yang-sangat-menjanjikan.png)](https://landx.id/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)
 
-**Baca Juga:**
-
-* [Buat Investor Pemula Yuk Simak Bagaimana Memilih Bisnis Investasi Terpercaya untuk Rencana Keuangan Jangka Panjang Anda](https://landx.id/blog/buat-investor-pemula-yuk-simak-bagaimana-memilih-bisnis-investasi-terpercaya-untuk-rencana-keuangan-jangka-panjang-anda/)
-* [Untuk Investor Pemula, Yuk Simak Bagaimana Cara Memulai Investasi yang Cocok untuk Pemula](https://landx.id/blog/investasi-yang-cocok-untuk-pemula/)
+<!--EndFragment-->
