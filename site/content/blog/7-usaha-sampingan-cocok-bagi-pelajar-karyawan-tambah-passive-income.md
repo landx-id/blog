@@ -108,6 +108,6 @@ Kamu dapat berinvestasi pada project bisnis melalui [platform equity crowdfundin
 
 Umumnya project bisnis di LandX membagikan dividen secara rutin 3 hingga 6 bulan selama setahun. Dengan memiliki akun aplikasi LandX sebagai investor, kamu dapat memantau project bisnis yang didanai secara real-time dan memberikan masukan layaknya owner.
 
-## [Karena Itu, Yuk Investasi Bisnis Di Crowdfunding Landx Dan Pantau Bisnisnya Secara Real-Time](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)
+## [Karena Itu, Yuk Investasi Bisnis Di Crowdfunding Landx Dan Pantau Bisnisnya Secara Real-Time](https://landx.id/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)
 
-[![miliki bisnis modal kecil cuma dengan 1 jutaan dapat 4 cabang ](https://accountgram-production.sfo2.cdn.digitaloceanspaces.com/landx_ghost/2021/11/jadi-owner-bisnis-hanya-1-jutaan-dengan-cuan-yang-sangat-menjanjikan.png)](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)
+[![miliki bisnis modal kecil cuma dengan 1 jutaan dapat 4 cabang ](https://accountgram-production.sfo2.cdn.digitaloceanspaces.com/landx_ghost/2021/11/jadi-owner-bisnis-hanya-1-jutaan-dengan-cuan-yang-sangat-menjanjikan.png)](https://landx.id/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)
