@@ -9,7 +9,7 @@ metaDescription: Investasi alternatif adalah investasi yang tidak termasuk dalam
 intro: Investasi alternatif adalah investasi yang tidak termasuk dalam kelas
   aset saham, obligasi, dan uang tunai. Jenis investasi alternatif yaitu
   properti,
-date: 2023-01-08T22:43:17.852Z
+date: 2023-01-05T22:43:17.852Z
 featuredImage:
   alt: "Investasi alternatif adalah "
   title: "Investasi alternatif adalah "
