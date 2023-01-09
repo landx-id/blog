@@ -154,24 +154,26 @@ Dapat kita simpulkan, bahwa sekuritas itu memiliki porsi penting dalam proses in
 
 Selain itu, perusahaan sekuritas dan pasar sekuritas juga sama pentingnya sebagai penunjang jalannya kegiatan investasi Anda. Makanya, Anda harus teliti saat memutuskan untuk investasi sekuritas.
 
-## [Mulai Sekarang Bisa Investasi Modal Kecil](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)
+## [Mulai Sekarang Bisa Investasi Modal Kecil](https://landx.id/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)
 
 Nah, Anda telah mempelajari seputar sekuritas sebelumnya. Bagaimana, menarik bukan? Tertarik untuk investasi sekuritas?
 
 Apakah Anda tahu kalau Anda juga bisa memiliki sekuritas dengan modal kecil mulai 1 juta, saja!
 
-Anda bisa memiliki sekuritas dengan cara investasi metode [equity crowdfunding](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog), lho!
+Anda bisa memiliki sekuritas dengan cara investasi metode [equity crowdfunding](https://landx.id/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog), lho!
 
-[Equity crowdfunding](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog) merupakan skema pendanaan untuk bisnis kecil dengan cara patungan masyarakat luas untuk mendanai UMKM.
+[Equity crowdfunding](https://landx.id/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog) merupakan skema pendanaan untuk bisnis kecil dengan cara patungan masyarakat luas untuk mendanai UMKM.
 
-Dengan metode [equity crowdfunding](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog) Anda akan menjadi investor untuk bisnis yang akan Anda danai. Nantinya, Anda akan memperoleh dividen hasil dari bisnis yang Anda danai. 
+Dengan metode [equity crowdfunding](https://landx.id/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog) Anda akan menjadi investor untuk bisnis yang akan Anda danai. Nantinya, Anda akan memperoleh dividen hasil dari bisnis yang Anda danai. 
 
-[LandX](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog) merupakan platform [equity crowdfunding](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog) terpercaya, transparan, memiliki market cap terbesar se Indonesia, dan telah mengantongi izin dari Otoritas Jasa Keuangan (OJK). Tunggu apalagi, jadi salah satu investor di [LandX](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog) ya, sebelum kehabisan
+[LandX](https://landx.id/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog) merupakan platform [equity crowdfunding](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog) terpercaya, transparan, memiliki market cap terbesar se Indonesia, dan telah mengantongi izin dari Otoritas Jasa Keuangan (OJK). Tunggu apalagi, jadi salah satu investor di [LandX](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog) ya, sebelum kehabisan
 
-### [Miliki Sekuritas Bisnis Privat Melalui Equity Crowdfunding di Sini!](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)
+### [Miliki Sekuritas Bisnis Privat Melalui Equity Crowdfunding di Sini!](https://landx.id/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)
 
-<!--StartFragment-->
 
-[![miliki bisnis modal kecil cuma dengan 1 jutaan dapat 4 cabang ](https://accountgram-production.sfo2.cdn.digitaloceanspaces.com/landx_ghost/2021/11/jadi-owner-bisnis-hanya-1-jutaan-dengan-cuan-yang-sangat-menjanjikan.png)](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)
+
+[![miliki bisnis modal kecil cuma dengan 1 jutaan dapat 4 cabang ](https://accountgram-production.sfo2.cdn.digitaloceanspaces.com/landx_ghost/2021/11/jadi-owner-bisnis-hanya-1-jutaan-dengan-cuan-yang-sangat-menjanjikan.png)](https://landx.id/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)
+
+<!--EndFragment-->[](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)
 
 <!--EndFragment-->
