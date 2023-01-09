@@ -54,13 +54,11 @@ Besarannya tidak akan berubah dari awal hingga akhir periode. Contoh dari perhit
 
 <!--StartFragment-->
 
-![](https://cdn.discordapp.com/attachments/976381310857773066/1014851668803846275/Cara_menghitung_bunga_tunggal.PNG)
+![cara menghitung suku bunga tunggal yang penting untuk dipahami dengan baik](https://cdn.discordapp.com/attachments/976381310857773066/1014851668803846275/Cara_menghitung_bunga_tunggal.PNG "Rumus dan Cara menghitung Bunga Tunggal")
 
-![](https://cdn.discordapp.com/attachments/976381310857773066/1014851668443140157/Contoh_cara_menghitung_bunga_tunggal.PNG)
+![Cara menghitung bunga tunggal](https://cdn.discordapp.com/attachments/976381310857773066/1014851668443140157/Contoh_cara_menghitung_bunga_tunggal.PNG "Cara menghitung bunga tunggal")
 
 <!--EndFragment-->
-
-
 
 ### 2. Bunga Majemuk
 
@@ -76,11 +74,11 @@ Tidak sampai situ, besarannya ditambah lagi dengan akumulasi bunga yang didapatk
 
 <!--StartFragment-->
 
-![](https://cdn.discordapp.com/attachments/976381310857773066/1014851668015325214/Cara_menghitung_bunga_majemuk.PNG)
+![Menghitung Bunga Manjemuk](https://cdn.discordapp.com/attachments/976381310857773066/1014851668015325214/Cara_menghitung_bunga_majemuk.PNG "Cara menghitung suku bunga bank")
 
 <!--StartFragment-->
 
-![](https://cdn.discordapp.com/attachments/976381310857773066/1014851667679789187/Contoh_cara_menghitung_bunga_majemuk.PNG)
+![Cara menghitung suku bunga](https://cdn.discordapp.com/attachments/976381310857773066/1014851667679789187/Contoh_cara_menghitung_bunga_majemuk.PNG "Menghitung suku bunga bankRumus")
 
 <!--EndFragment-->
 
@@ -98,7 +96,7 @@ Misalnya, pembelian secara kredit alat elektronik, perlengkapan rumah tangga, ke
 
 <!--StartFragment-->
 
-![](https://cdn.discordapp.com/attachments/976381310857773066/1014851667218403389/Cara_menghitung_bunga_flat.PNG)
+![Rumus menghitung suku bunga flat](https://cdn.discordapp.com/attachments/976381310857773066/1014851667218403389/Cara_menghitung_bunga_flat.PNG "cara menghitung suku bunga flat, angsuran flat")
 
 <!--EndFragment-->
 
@@ -116,7 +114,7 @@ Contohnya adalah suku bunga KPR (kredit Pemilikan Rumah) untuk periode tertentu.
 
 <!--StartFragment-->
 
-![](https://cdn.discordapp.com/attachments/976381310857773066/1014851666815754241/Cara_menghitung_floating_rate.PNG)
+![bunga efektif ke flat](https://cdn.discordapp.com/attachments/976381310857773066/1014851666815754241/Cara_menghitung_floating_rate.PNG "mencari suku bunga")
 
 <!--EndFragment-->
 
@@ -132,19 +130,17 @@ Dalam jenis-jenis bunga bank anuitas ini, suku bunga yang dibayarkan adalah gabu
 
 <!--StartFragment-->
 
-![](https://cdn.discordapp.com/attachments/976381310857773066/1014851666450862160/Cara_menghitung_bunga_efektif_dan_anuitas.PNG)
+![Menghitung suku bunga pinjaman](https://cdn.discordapp.com/attachments/976381310857773066/1014851666450862160/Cara_menghitung_bunga_efektif_dan_anuitas.PNG "mencari suku bunga")
 
-
-
-![](https://cdn.discordapp.com/attachments/976381310857773066/1014851665968513054/Contoh_cara_menghitung_bunga_efektif_dan_anuitas.PNG)
+![cara mencari suku bunga](https://cdn.discordapp.com/attachments/976381310857773066/1014851665968513054/Contoh_cara_menghitung_bunga_efektif_dan_anuitas.PNG "cara perhitungan bunga bank")
 
 <!--EndFragment-->
 
-![](https://cdn.discordapp.com/attachments/976381310857773066/1014851665607790664/Contoh_cara_menghitung_bunga_efektif_dan_anuitas_1.PNG)
+![mencari suku bunga bank](https://cdn.discordapp.com/attachments/976381310857773066/1014851665607790664/Contoh_cara_menghitung_bunga_efektif_dan_anuitas_1.PNG "cara menghitung suku bunga bank")
 
 <!--StartFragment-->
 
-![](https://cdn.discordapp.com/attachments/976381310857773066/1014851665221918770/Contoh_cara_menghitung_bunga_efektif_dan_anuitas_2.PNG)
+![perhitungan suku bunga bank](https://cdn.discordapp.com/attachments/976381310857773066/1014851665221918770/Contoh_cara_menghitung_bunga_efektif_dan_anuitas_2.PNG "cara menghitung suku bunga bank")
 
 <!--EndFragment-->
 
@@ -172,8 +168,10 @@ Skema ini adalah urun dana lewat patungan investor dari seluruh Indonesia bagi b
 
 Lewat skema ini, Anda tidak perlu turun tangan langsung mencari ide bisnis, mengurus operasional, atau membangun dari nol strategi marketing. Jadi, Anda tinggal menunggu keuntungan lewat dividen yang memiliki jadwal pembagian rutin.
 
-## [Siap #RaihKebebasan Finansial dengan Modal 1 Jutaan? Yuk, Investasi Lewat LandX Sekarang!](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)
+## [Siap #RaihKebebasan Finansial dengan Modal 1 Jutaan? Yuk, Investasi Lewat LandX Sekarang!](https://landx.id/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)
 
-[![miliki bisnis modal kecil cuma dengan 1 jutaan dapat 4 cabang ](https://accountgram-production.sfo2.cdn.digitaloceanspaces.com/landx_ghost/2021/11/jadi-owner-bisnis-hanya-1-jutaan-dengan-cuan-yang-sangat-menjanjikan.png)](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)
+<!--StartFragment-->
+
+[![miliki bisnis modal kecil cuma dengan 1 jutaan dapat 4 cabang ](https://accountgram-production.sfo2.cdn.digitaloceanspaces.com/landx_ghost/2021/11/jadi-owner-bisnis-hanya-1-jutaan-dengan-cuan-yang-sangat-menjanjikan.png)](https://landx.id/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)
 
 <!--EndFragment-->
