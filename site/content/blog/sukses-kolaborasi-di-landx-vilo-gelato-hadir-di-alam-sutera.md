@@ -59,7 +59,7 @@ Bagi yang ingin berkunjung ke outlet Vilo Gelato cabang Alam Sutera, waktu opera
 
 Dengan cabang terbaru di Alam Sutera, kini Vilo Gelato kini memiliki 10 outlet premium gelato. Outlet ini tersebar di Jabodetabek, Puncak Bogor, dan Bandung.
 
-Dalam perkembangan bisnisnya di awal tahun 2022, Vilo Gelato bekerja sama dengan [LandX](https://landx.id/) untuk membuka cabang baru. Melalui project pendanaan di [LandX](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog), mengajak investor bisa berinvestasi pada bisnis premium dessert project Vilo Gelato x [LandX](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog). 
+Dalam perkembangan bisnisnya di awal tahun 2022, Vilo Gelato bekerja sama dengan [LandX](https://landx.id/) untuk membuka cabang baru. Melalui project pendanaan di [LandX](https://landx.id/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog), mengajak investor bisa berinvestasi pada bisnis premium dessert project Vilo Gelato x [LandX](https://landx.id/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog). 
 
 ## Tertarik Menjadi Investor?
 
@@ -69,12 +69,10 @@ Setelah sukses dengan pendanaan project pertama di Alam Sutera, Vilo Gelato akan
 
 Para investor Vilo Gelato juga akan mendapatkan keuntungan bagi hasil yang kemudian disebut dividen dengan nilai hingga 25% modal setiap tahunnya. Investor bisa memiliki outlet premium dengan modal mulai sejutaan dan keuntungan dividen setiap 3 bulan.
 
-Apa Anda tertarik untuk menjadi investor dan memiliki bisnis potensial dengan modal sejutaan? Anda dapat kunjungi situs dan download aplikasi [LandX](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog) untuk dapat mulai berinvestasi pada bisnis pilihan Anda. 
+Apa Anda tertarik untuk menjadi investor dan memiliki bisnis potensial dengan modal sejutaan? Anda dapat kunjungi situs dan download aplikasi [LandX](https://landx.id/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog) untuk dapat mulai berinvestasi pada bisnis pilihan Anda. 
 
-**[Yuk, segera kunjungi LandX karena #SekarangBisa miliki bisnis dengan modal mulai sejutaan aja.](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)**
+**[Yuk, segera kunjungi LandX karena #SekarangBisa miliki bisnis dengan modal mulai sejutaan aja.](https://landx.id/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)**
 
-[![Jadi Pemilik Vilo Gelato Cuma dengan Modal 1 Juta](https://media.discordapp.net/attachments/913743599844343808/939222534199582800/Jadi_pemilik_franchise_gelato_cuma_dengan_modal_1_juta.png)](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)
+[![Jadi Pemilik Vilo Gelato Cuma dengan Modal 1 Juta](https://media.discordapp.net/attachments/913743599844343808/939222534199582800/Jadi_pemilik_franchise_gelato_cuma_dengan_modal_1_juta.png)](https://landx.id/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)
 
-{{< button link="https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog" text="Yuk Investasi Sekarang" >}}
-
-**NB:** Project ini memang sudah terjual habis, namun jangan khawatir, ya.[ LandX ](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)akan hadir kembali dengan berbagai project bisnis menarik lainnya. Tunggu apalagi, segera download dan verifikasi akunmu di aplikasi [LandX](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog) agar tidak ketinggalan project-project bisnis menarik berikutnya.
+**NB:** Project ini memang sudah terjual habis, namun jangan khawatir, ya.[ LandX ](https://landx.id/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)akan hadir kembali dengan berbagai project bisnis menarik lainnya. Tunggu apalagi, segera download dan verifikasi akunmu di aplikasi [LandX](https://landx.id/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog) agar tidak ketinggalan project-project bisnis menarik berikutnya.
