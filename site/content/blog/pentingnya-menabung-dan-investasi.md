@@ -119,7 +119,7 @@ Sistem investasi bisnis dengan bagi hasil ini merupakan pilihan investasi yang c
 
 Namun sebagai investor anda perlu teliti dalam menilai sebuah bisnis layak atau tidak untuk tempat investasi anda agar keuntungan yang anda dapatkan bisa maksimal.
 
-Dalam hal ini investor harus jeli melihat bagaimana pergerakan pasar pada saat ini, misalnya anda ingin investasi ke dalam[ **bisnis F&B**](https://landx.id/project/) maka anda harus melihat bagaimana [pasar F&B](https://landx.id/) pada saat ini dan apakah bisnis ini memiliki potensi perkembangan yang baik dalam jangka panjang.
+Dalam hal ini investor harus jeli melihat bagaimana pergerakan pasar pada saat ini, misalnya anda ingin investasi ke dalam[ **bisnis F&B**](https://landx.id/) maka anda harus melihat bagaimana [pasar F&B](https://landx.id/) pada saat ini dan apakah bisnis ini memiliki potensi perkembangan yang baik dalam jangka panjang.
 
 Oleh sebab itu anda harus memiliki pengetahuan yang cukup sebelum memutuskan bisnis mana yang akan anda berikan modal.
 
@@ -131,7 +131,7 @@ Investasi memiliki berbagai jenis instrumen sehingga bisa menyesuaikan dengan tu
 
 Selain itu, dalam investasi kita harus selalu ingat bahwa risiko dan keuntungan merupakan hal yang beriringan sehingga anda harus bisa menyusun strategi untuk mitigasi risiko.
 
-Untuk Pemula, kamu bisa lo punya berbagai bisnis menguntungkan cuma dengan 1 jutaan aja dengan ikut **[patungan bisnis bareng LandX](https://landx.id/project/)**
+Untuk Pemula, kamu bisa lo punya berbagai bisnis menguntungkan cuma dengan 1 jutaan aja dengan ikut **[patungan bisnis bareng LandX](https://landx.id/)**
 
 ## **Mulai Investasi Bisnis Menguntungkan dengan Modal 1 Juta**
 
@@ -139,19 +139,6 @@ Untuk Pemula, kamu bisa lo punya berbagai bisnis menguntungkan cuma dengan 1 jut
 
 **[LandX](https://landx.id/)** akan menyediakan anda berbagai pilihan bisnis untuk tempat investasi pengembangan modal yang anda miliki. [Yuk mulai sekarang](https://landx.id/)!
 
-**[Yuk Temukan Bisnis Menjanjikan dengan Keuntungan Terbaik di LandX](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)**
+**[Yuk Temukan Bisnis Menjanjikan dengan Keuntungan Terbaik di LandX](https://landx.id/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)**
 
-[![miliki bisnis modal kecil cuma dengan 1 jutaan dapat 4 cabang ](https://accountgram-production.sfo2.cdn.digitaloceanspaces.com/landx_ghost/2021/11/jadi-owner-bisnis-hanya-1-jutaan-dengan-cuan-yang-sangat-menjanjikan.png)](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)
-
-**[Yuk Follow Kami di Instagram @landx.id Untuk Berbagai Update Terbaru Seputar Investasi](https://www.instagram.com/landx.id/?utm_medium=copy_link)**
-
-- - -
-
-**Baca Juga:**
-
-* [Simak Cara Menabung dengan Benar untuk Mencapai Tujuan Finansial Anda](https://landx.id/blog/cara-menabung-dengan-benar-untuk-masa-depan/)
-* [Masih Bingung Cara Mengelola Uang? Simak Tips Pengelolaan Keuangan yang Baik untuk Pemula Berikut Ini](https://landx.id/blog/pengelolaan-keuangan-yang-baik/)
-
-- - -
-
-**\#SekarangBisa**
+[![miliki bisnis modal kecil cuma dengan 1 jutaan dapat 4 cabang ](https://accountgram-production.sfo2.cdn.digitaloceanspaces.com/landx_ghost/2021/11/jadi-owner-bisnis-hanya-1-jutaan-dengan-cuan-yang-sangat-menjanjikan.png)](https://landx.id/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)
