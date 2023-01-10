@@ -114,9 +114,9 @@ Apabila berinvestasi dengan sistem ini, anda harus menemukan platform terbaik ya
 
 **[LandX](https://landx.id/)** merupakan salah satu platform equity crowdfunding terpercaya untuk investasi bisnis anda yang dengan berbagai pilihan berbagai bisnis potensial di sekitar anda.
 
-## [Yuk Mulai Investasi Bisnis Jangka Panjang Bersama LandX](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)
+## [Yuk Mulai Investasi Bisnis Jangka Panjang Bersama LandX](https://landx.id/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)
 
-[![Bagaimana? Kamu lebih suka bisnis dengan buyback guarantee atau yang bisa disimpan dalam jangka panjang? Apapun pilihan kamu.. Yuk Patungan  dengan Keuntungan Menjanjikan Bareng LandX](https://accountgram-production.sfo2.cdn.digitaloceanspaces.com/landx_ghost/2021/10/Equity-Crowdfunding-di-Indonesia-1--3.png)](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)
+[![Bagaimana? Kamu lebih suka bisnis dengan buyback guarantee atau yang bisa disimpan dalam jangka panjang? Apapun pilihan kamu.. Yuk Patungan  dengan Keuntungan Menjanjikan Bareng LandX](https://accountgram-production.sfo2.cdn.digitaloceanspaces.com/landx_ghost/2021/10/Equity-Crowdfunding-di-Indonesia-1--3.png)](https://landx.id/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)
 
 **[Yuk Follow @landx.id di Instagram untuk Berbagai Informasi Menarik Seputar Investasi Lainnya.](https://instagram.com/landx.id?utm_medium=copy_link)**
 
