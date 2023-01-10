@@ -132,7 +132,7 @@ Hal ini yang membuat pasar saham menarik, ketika setiap terjadi pergerakan saham
 
 Berinvestasi pada instrumen investasi apapun tentu memiliki risiko investasi bawaan masing-masing. Termasuk pada saham dan kripto yang cenderung memiliki risiko lebih tinggi karena sering terjadi fluktuasi atau pergerakan saham.
 
-Selain berinvestasi pada instrumen dengan risiko tinggi, kamu juga dapat berinvestasi pada instrumen dengan investasi rendah risiko seperti [investasi bisnis](https://landx.id/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog). Investasi bisnis melalui sistem [equity crowdfunding](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog).
+Selain berinvestasi pada instrumen dengan risiko tinggi, kamu juga dapat berinvestasi pada instrumen dengan investasi rendah risiko seperti [investasi bisnis](https://landx.id/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog). Investasi bisnis melalui sistem [equity crowdfunding](https://landx.id/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog).
 
 [Equity crowdfunding](https://landx.id/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog) memungkinkan kamu memiliki saham bisnis dengan harga tetap tanpa perubahan. Serta mendapat kesempatan pembagian dividen secara rutin dari operasional laba perusahaan.
 
