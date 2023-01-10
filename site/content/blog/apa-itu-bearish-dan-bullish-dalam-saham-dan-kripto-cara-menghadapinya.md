@@ -132,14 +132,14 @@ Hal ini yang membuat pasar saham menarik, ketika setiap terjadi pergerakan saham
 
 Berinvestasi pada instrumen investasi apapun tentu memiliki risiko investasi bawaan masing-masing. Termasuk pada saham dan kripto yang cenderung memiliki risiko lebih tinggi karena sering terjadi fluktuasi atau pergerakan saham.
 
-Selain berinvestasi pada instrumen dengan risiko tinggi, kamu juga dapat berinvestasi pada instrumen dengan investasi rendah risiko seperti [investasi bisnis](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog). Investasi bisnis melalui sistem [equity crowdfunding](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog).
+Selain berinvestasi pada instrumen dengan risiko tinggi, kamu juga dapat berinvestasi pada instrumen dengan investasi rendah risiko seperti [investasi bisnis](https://landx.id/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog). Investasi bisnis melalui sistem [equity crowdfunding](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog).
 
-[Equity crowdfunding](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog) memungkinkan kamu memiliki saham bisnis dengan harga tetap tanpa perubahan. Serta mendapat kesempatan pembagian dividen secara rutin dari operasional laba perusahaan.
+[Equity crowdfunding](https://landx.id/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog) memungkinkan kamu memiliki saham bisnis dengan harga tetap tanpa perubahan. Serta mendapat kesempatan pembagian dividen secara rutin dari operasional laba perusahaan.
 
-## **[Yuk, Investasi Saham Bisnis Jangka Panjang di LandX](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)**
+## **[Yuk, Investasi Saham Bisnis Jangka Panjang di LandX](https://landx.id/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)**
 
 <!--StartFragment-->
 
-[![miliki bisnis modal kecil cuma dengan 1 jutaan dapat 4 cabang ](https://accountgram-production.sfo2.cdn.digitaloceanspaces.com/landx_ghost/2021/11/jadi-owner-bisnis-hanya-1-jutaan-dengan-cuan-yang-sangat-menjanjikan.png)](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)
+[![miliki bisnis modal kecil cuma dengan 1 jutaan dapat 4 cabang ](https://accountgram-production.sfo2.cdn.digitaloceanspaces.com/landx_ghost/2021/11/jadi-owner-bisnis-hanya-1-jutaan-dengan-cuan-yang-sangat-menjanjikan.png)](https://landx.id/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)
 
 <!--EndFragment-->
