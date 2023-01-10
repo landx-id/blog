@@ -114,13 +114,13 @@ Investasi bisnis merupakan salah satu instrumen investasi yang bisa anda terapka
 
 Investasi bisnis berpotensi memberikan anda keuntungan berupa dividen yang bisa anda investasikan kembali ke berbagai bisnis potensial lainnya yang membuat jumlah keuntungan pada periode-periode berikutnya bisa berlipat ganda. Karena itu…
 
-**[Yuk Mulai Investasi Bisnis di LandX untuk Pengembangan Aset Jangka Panjang Anda](https://landx.id/project/index.html)**
+**[Yuk Mulai Investasi Bisnis di LandX untuk Pengembangan Aset Jangka Panjang Anda](https://landx.id/)**
 
 [LandX](https://landx.id/) sebagai ***[platform equity crowdfunding](https://landx.id/)*** terpercaya memberikan anda kesempatan mengembangkan modal yang anda miliki dengan dengan investasi modal kecil.
 
-## **[Yuk mulai investasi sekarang](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog).**
+## **[Yuk mulai investasi sekarang](https://landx.id/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog).**
 
-[![miliki bisnis modal kecil cuma dengan 1 jutaan dapat 4 cabang ](https://accountgram-production.sfo2.cdn.digitaloceanspaces.com/landx_ghost/2021/11/jadi-owner-bisnis-hanya-1-jutaan-dengan-cuan-yang-sangat-menjanjikan.png)](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)
+[![miliki bisnis modal kecil cuma dengan 1 jutaan dapat 4 cabang ](https://accountgram-production.sfo2.cdn.digitaloceanspaces.com/landx_ghost/2021/11/jadi-owner-bisnis-hanya-1-jutaan-dengan-cuan-yang-sangat-menjanjikan.png)](https://landx.id/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)
 
 **[Biar Semakin Melek Investasi, Yuk Follow @landx.id di Instagram untuk Berbagai Info Terbaru Seputar Investasi Lainnya](https://instagram.com/landx.id?utm_medium=copy_link)**
 
