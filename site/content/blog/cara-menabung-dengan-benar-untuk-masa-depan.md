@@ -125,7 +125,12 @@ Investasi bisnis merupakan salah satu pilihan yang bisa anda coba karena investa
 Hal ini akan membuat uang yang anda miliki bisa berkembang dengan lebih cepat. Apabila anda tertarik, anda bisa memilih berbagai bisnis dengan potensi menjanjikan dengan mengunjungi laman [LandX](https://landx.id/).
 
 **[Yuk Mulai Investasi Bisnis Menjanjikan Bareng LandX](https://landx.id/)**
-[![Yuk mulai patungan bisnis menguntungkan jangka panja g bersama LandX](https://accountgram-production.sfo2.cdn.digitaloceanspaces.com/landx_ghost/2021/09/Equity-Crowdfunding-di-Indonesia-1--3.png)](https://landx.id/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)
+
+<!--StartFragment-->
+
+[![miliki bisnis modal kecil cuma dengan 1 jutaan dapat 4 cabang ](https://accountgram-production.sfo2.cdn.digitaloceanspaces.com/landx_ghost/2021/11/jadi-owner-bisnis-hanya-1-jutaan-dengan-cuan-yang-sangat-menjanjikan.png)](https://landx.id/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)
+
+<!--EndFragment-->
 
 **[Yuk Follow Kami di Instagram @landx.id Untuk Berbagai Update Terbaru Seputar Investasi](https://www.instagram.com/landx.id/?utm_medium=copy_link)**
 #SekarangBisa
