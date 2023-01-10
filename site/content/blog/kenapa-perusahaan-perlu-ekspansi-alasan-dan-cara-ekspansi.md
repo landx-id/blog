@@ -6,7 +6,7 @@ metaDescription: Ekspansi bisnis adalah aktivitas memperbesar atau memperluas
   jaringan usaha sebuah perusahaan. Beragam cara untuk dapatkan modal ekspansi.
 intro: Ekspansi bisnis adalah aktivitas memperbesar atau memperluas jaringan
   usaha sebuah perusahaan. Beragam cara untuk dapatkan modal ekspansi.
-date: 2022-06-27T01:42:56.281Z
+date: 2023-01-10T08:28:33.794Z
 tag:
   - Investasi Bisnis
 category:
