@@ -22,7 +22,7 @@ category:
   - Keuangan
   - Investasi
 featuredImage:
-  src: https://images.unsplash.com/photo-1633158829585-23ba8f7c8caf?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8OXx8c2F2aW5nfGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60
+  src: https://images.unsplash.com/photo-1633158829556-6ea20ad39b4f?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80
   alt: Cara menabung yang benar penting dipahami agar kamu memiliki manajemen
     finansial yang baik
   title: Pahami bagaimana cara menabung terbaik yang memberikan keuntungan di masa
@@ -39,11 +39,6 @@ Tabungan ini biasanya disiapkan dengan berbagai tujuan tergantung dengan apa yan
 Menyiapkan tabungan juga bentuk persiapan anda menghadapi berbagai kondisi tak terduga di masa mendatang. Hal ini sangat penting karena kita tidak pernah tau apa yang akan terjadi di masa mendatang sehingga anda menabung menjadi salah satu cara untuk persiapan menghadapi berbagai risiko di masa mendatang.
 
 Selain itu, menabung juga menunjukkan komitmen dan kemampuan anda dalam menentukan prioritas keuangan. Oleh sebab itu, mari kita bahas bagaimana cara menabung yang baik untuk mencapai tujuan finansial jangka panjang anda.
-
-## Table of Content
-
-* **[Bagaimana Cara Menabung dengan Benar?](#bagaimana-cara-menabung-dengan-benar)**1. Membuat Rekening Terpisah untuk Tabungan2. [Memanfaatkan Fitur Auto Debit](#memanfaatkan-fitur-auto-debit)3. [Komitmen Menabung dalam Jangka Panjang](#komitmen-menabung-dalam-jangka-panjang)4. [Mengatur Budget](#mengatur-budget) **\*\*\*\*** 5[. Menyusun Program Tabungan Jangka Panjang](#menyusun-program-tabungan-jangka-panjang)6. [Mencatat Keuangan dengan Baik](#mencatat-keuangan-dengan-baik)7. [Proyeksi Keuangan dengan Baik](#proyeksi-keuangan-dengan-baik)
-* **[Membangun Kondisi Finansial yang Lebih Baik](#membangun-kondisi-finansial-yang-lebih-baik)**1. [Meningkatkan Penghasilan](#meningkatkan-penghasilan)2. [Meningkatkan Kualitas Diri](#meningkatkan-kualitas-diri)3. [Mulai Berinvestas](#mulai-berinvestasi)i
 
 ## Bagaimana Cara Menabung dengan Benar?
 
@@ -130,7 +125,7 @@ Investasi bisnis merupakan salah satu pilihan yang bisa anda coba karena investa
 Hal ini akan membuat uang yang anda miliki bisa berkembang dengan lebih cepat. Apabila anda tertarik, anda bisa memilih berbagai bisnis dengan potensi menjanjikan dengan mengunjungi laman [LandX](https://landx.id/).
 
 **[Yuk Mulai Investasi Bisnis Menjanjikan Bareng LandX](https://landx.id/)**
-[![Yuk mulai patungan bisnis menguntungkan jangka panja g bersama LandX](https://accountgram-production.sfo2.cdn.digitaloceanspaces.com/landx_ghost/2021/09/Equity-Crowdfunding-di-Indonesia-1--3.png)](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)
+[![Yuk mulai patungan bisnis menguntungkan jangka panja g bersama LandX](https://accountgram-production.sfo2.cdn.digitaloceanspaces.com/landx_ghost/2021/09/Equity-Crowdfunding-di-Indonesia-1--3.png)](https://landx.id/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)
 
 **[Yuk Follow Kami di Instagram @landx.id Untuk Berbagai Update Terbaru Seputar Investasi](https://www.instagram.com/landx.id/?utm_medium=copy_link)**
 #SekarangBisa
