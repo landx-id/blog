@@ -175,4 +175,10 @@ Keputusan untuk ekspansi atau menambah cabang baru, buktikan bisnis telah capai 
 
 Caranya mudah dengan download [aplikasi LandX](https://landx.id/) dan verifikasi akun kamu untuk aktif terdaftar sebagai investor. 
 
-## [Yuk, miliki bisnis potensial yang telah miliki manajemen bisnis yang baik di LandX!](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)
+## [Yuk, miliki bisnis potensial yang telah miliki manajemen bisnis yang baik di LandX!](https://landx.id/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)
+
+<!--StartFragment-->
+
+[![miliki bisnis modal kecil cuma dengan 1 jutaan dapat 4 cabang ](https://accountgram-production.sfo2.cdn.digitaloceanspaces.com/landx_ghost/2021/11/jadi-owner-bisnis-hanya-1-jutaan-dengan-cuan-yang-sangat-menjanjikan.png)](https://landx.id/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)
+
+<!--EndFragment-->
