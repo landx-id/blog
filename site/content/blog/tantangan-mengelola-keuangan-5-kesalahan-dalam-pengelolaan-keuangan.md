@@ -19,7 +19,7 @@ Dengan perubahan dinamis ekonomi global, mengelola keuangan di tahun 2023 bisa m
 
 Hal yang harus diperhatikan dalam mengelola keuangan tidak hanya eksternal seperti tren ekonomi, tetapi juga harus sadar kondisi keuangan pribadi. Memperbaiki cara mengelola keuangan dengan memperbarui selalu dengan keadaan akan sangat membantu kamu mengelola keuangan dalam berbagai kondisi. 
 
-Jadi, apa saja masalah dan tantangan mengelola keuangan, serta bagaimana agar keuangan dapat terus meningkat nilainya di berbagai kondisi ekonomi? Mari kita bahas lebih lanjut berikut ini.
+Jadi, apa saja masalah dan tantangan mengelola keuangan, serta bagaimana agar keuangan dapat terus meningkat nilainya di berbagai kondisi ekonomi? Mari kita bahas lebih lanjut berikut ini
 
 ## Tantangan Mengelola Keuangan 
 
