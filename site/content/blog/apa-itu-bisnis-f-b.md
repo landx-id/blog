@@ -52,7 +52,7 @@ Apabila anda masih belum familiar dengan sistem ini, cloud kitchen merupakan sis
 
 Bisnis ini tidak akan menyediakan meja dan bangku untuk konsumen karena hanya melayani *take-away*. Sistem ini menjadi solusi bagi pebisnis untuk memperkecil biaya yang akan mereka keluarkan saat memulai bisnis, apalagi sistem dine-in belum bisa dioperasikan secara optimal mengacu pada aturan new normal dari pemerintah.
 
-**[Model bisnis F&B](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)** ini kini semakin mudah untuk diadopsi dengan adanya dukungan dari berbagai platform pemesanan makanan online sehingga adopsi sistem ini semakin cepat. Dalam model bisnis ini pebisnis dapat fokus dalam menyiapkan dapur yang optimal untuk produksi produk makanan yang akan anda jual.
+**[Model bisnis F&B](https://landx.id/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)** ini kini semakin mudah untuk diadopsi dengan adanya dukungan dari berbagai platform pemesanan makanan online sehingga adopsi sistem ini semakin cepat. Dalam model bisnis ini pebisnis dapat fokus dalam menyiapkan dapur yang optimal untuk produksi produk makanan yang akan anda jual.
 
 Akan tetapi bisnis ini tentu saja tetap membutuhkan modal yang cukup banyak dan kemampuan anda dalam manajemen bisnis F&B yang akan anda lakukan mulai dari produksi hingga perawatan dapur yang harus anda lakukan.
 
@@ -64,7 +64,7 @@ Apabila modal yang anda miliki terbatas dan belum bisa memulai cloud kitchen mak
 
 Dalam menjual hal ini anda perlu menyusun strategi pemasaran yang tepat dan manajemen stok yang baik agar produk dapat sampai dalam kondisi baik di tangan konsumen. 
 
-Hal lain yang perlu diperhitungkan dengan baik adalah bagaimana memilih supplier terpercaya agar anda bisa konsisten memberikan produk makanan atau minuman yang berkualitas kepada konsumen agar **[bisnis makanan](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)** anda bisa terus memberikan keuntungan kepada anda dalam jangka panjang.
+Hal lain yang perlu diperhitungkan dengan baik adalah bagaimana memilih supplier terpercaya agar anda bisa konsisten memberikan produk makanan atau minuman yang berkualitas kepada konsumen agar **[bisnis makanan](https://landx.id/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)** anda bisa terus memberikan keuntungan kepada anda dalam jangka panjang.
 
 **Cloud kitchen** sebenarnya menjadi pilihan yang sangat tepat apabila kamu ingin bisnis fnb modal kecil karena kamu tidak perlu mengeluarkan biaya untuk set up area dine-in yang menyerap cukup banyak biaya. Model bisnis ini muncul karena adanya perilaku masyarakat yang melakukan pemesanan secara online sehingga proses bisnis menjadi lebih simpel. 
 
@@ -81,7 +81,7 @@ Namun, apabila opsi ini masih sulit anda lakukan, berikut adalah rekomendasi bis
 
 - - -
 
-## [Jadi Pemilik Bisnis FnB Modal 1 Jutaan](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)
+## [Jadi Pemilik Bisnis FnB Modal 1 Jutaan](https://landx.id/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)
 
 Apabila anda ingin memulai bisnis F&B tapi terkendala dan waktu untuk mengatur bisnis, maka anda bisa mulai dengan melakukan investasi bisnis dengan skema equity crowdfunding.
 
@@ -89,24 +89,12 @@ Skema ini bisa menjadikan anda seorang pemilik bisnis hanya dengan modal awal mu
 
 Hal ini tentu saja solusi yang amat tepat bagi orang-orang yang ingin memulai bisnis tapi masih terhalang oleh dana dan pengetahuan terkait bisnis yang akan anda jalankan. Karena resiko kegagalan dalam bisnis sangat tinggi apabila tidak dikelola oleh profesional.
 
-Dalam **[equity crowdfunding](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)** anda akan diberikan kesempatan untuk memilih bisnis mana yang anda rasa potensial sehingga dapat anda tanami modal yang akan membuat memiliki bagian kepemilikan dalam bisnis tersebut sesuai dengan modal yang anda miliki.
+Dalam **[equity crowdfunding](https://landx.id/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)** anda akan diberikan kesempatan untuk memilih bisnis mana yang anda rasa potensial sehingga dapat anda tanami modal yang akan membuat memiliki bagian kepemilikan dalam bisnis tersebut sesuai dengan modal yang anda miliki.
 
 Karena itu anda perlu [platform equity crowdfunding terpercaya](https://landx.id/) yang memberikan anda pilihan investasi bisnis terbaik.
 
-## [Yuk Mulai Investasi Bisnis Pertama Anda bersama LandX](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)
+## [Yuk Mulai Investasi Bisnis Pertama Anda bersama LandX](https://landx.id/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)
 
-[![Bagaimana? Kamu lebih suka bisnis dengan buyback guarantee atau yang bisa disimpan dalam jangka panjang? Apapun pilihan kamu.. Yuk Patungan  dengan Keuntungan Menjanjikan Bareng LandX](https://accountgram-production.sfo2.cdn.digitaloceanspaces.com/landx_ghost/2021/10/Equity-Crowdfunding-di-Indonesia-1--3.png)](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)
+[![Bagaimana? Kamu lebih suka bisnis dengan buyback guarantee atau yang bisa disimpan dalam jangka panjang? Apapun pilihan kamu.. Yuk Patungan  dengan Keuntungan Menjanjikan Bareng LandX](https://accountgram-production.sfo2.cdn.digitaloceanspaces.com/landx_ghost/2021/10/Equity-Crowdfunding-di-Indonesia-1--3.png)](https://landx.id/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)
 
 **[Mau Berbagai Informasi Seputar Bisnis Lainnya? Yuk Follow @landx.id di Instagram](https://www.instagram.com/landx.id/?utm_medium=copy_link)**
-
-- - -
-
-**Baca Juga :**
-
-* [Pahami 10+ Istilah Penting dalam Investasi agar Investasi Bisnis Anda menjadi Lebih Mudah](https://landx.id/blog/pahami-10-istilah-penting-dalam-investasi-agar-investasi-bisnis-anda-menjadi-lebih-mudah/)
-* [Mau Jadi Investor? Simak Cara Mudah Menjadi Investor Hanya dengan Modal Kecil](https://landx.id/blog/cara-menjadi-investor/)
-* [Tips Penting dalam Menyusun Rencana Investasi Jangka Panjang Terbaik](https://landx.id/blog/investasi-jangka-panjang-adalah/)
-
-- - -
-
-**\#SekarangBisa**
