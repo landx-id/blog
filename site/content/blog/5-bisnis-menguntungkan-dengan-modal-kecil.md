@@ -23,13 +23,13 @@ featuredImage:
   alt: Bisnis yang cocok di  masa pandemi dengan modal kecil
   title: Bisnis terbaik di masa pandemi
 ---
-**[Bisnis modal kecil](https://landx.id/project/index.html)**, selam pandemi banyak orang kehilangan sumber penghasilan mereka sehingga banyak orang memutuskan untuk membangun bisnis sendiri sebagai sumber pendapatan tambahan mereka.
+**[Bisnis modal kecil](https://landx.id/)**, selam pandemi banyak orang kehilangan sumber penghasilan mereka sehingga banyak orang memutuskan untuk membangun bisnis sendiri sebagai sumber pendapatan tambahan mereka.
 
 Membangun bisnis modal kecil di situasi seperti ini tentu saja bukanlah hal yang mudah dan membutuhkan berbagai penyesuaian agar bisa bertahan di tengah kondisi seperti saat ini.
 
 Karena itu, untuk menemukan bisnis terbaik untuk kondisi seperti saat ini anda perlu menyusun strategi terbaik agar bisnis modal kecil yang anda bangun dapat memberikan keuntungan yang optimal.
 
-Untuk anda yang belum memiliki ide, berikut beberapa ide [bisnis modal kecil di masa pandemi](https://landx.id/project/index.html) yang bisa anda coba.
+Untuk anda yang belum memiliki ide, berikut beberapa ide [bisnis modal kecil di masa pandemi](https://landx.id/) yang bisa anda coba.
 
 ## 5 Pilihan Bisnis Modal Kecil di Masa Pandemi
 
@@ -53,13 +53,13 @@ Untuk membuka bisnis ini sendiri kini semakin mudah karena beberapa perusahaan d
 
 Perubahan gaya hidup menjadi lebih sehat merupakan salah satu efek pandemi yang dirasakan banyak orang.  Hal ini karena orang-orang semakin aware dengan berbagai ancaman yang muncul selama pandemi sehingga perlu mengubah gaya hidup ke arah yang lebih sehat agar memiliki sistem imun yang baik untuk menghadapi situasi ini. Salah satu langkah awal yang banyak diambil orang untuk melakukan ini adalah mengubah apa yang mereka makan dan minum menjadi produk yang lebih sehat. Oleh sebab itu, bisnis ini sangat potensial untuk anda mulai di masa pandemi. Selain itu, bisnis ini juga sangat potensial untuk jangka panjang karena gaya hidup sehat ini akan menjadi kebiasaan baru masyarakat walaupun masa pandemi ini telah usai nantinya.
 
-### [4. Bisnis Laundry](https://landx.id/project/index.html)
+### [4. Bisnis Laundry](https://landx.id/)
 
 Masyarakat yang semakin sibuk membuat bisnis laundry menjadi salah satu bisnis dengan potensi perkembangan jangka panjang yang bisa anda coba. Bisnis ini sangat potensial terutama apabila anda berada di kawasan yang mendukung seperti area kostan atau kampus yang memiliki banyak konsumen potensial.
 
 Bisnis laundry pun bisa dibilang merupakan bisnis yang tetap berjalan dengan baik selama pandemi karena jasa ini tetap dibutuhkan walaupun orang hanya di rumah. Bisnis ini pun membutuhkan modal yang relatif kecil sehingga bisa jadi pilihan bisnis yang anda mulai di masa pandemi.
 
-### [5. Cloud Kitchen](https://landx.id/project/index.html)
+### [5. Cloud Kitchen](https://landx.id/)
 
 Walaupun pandemi membuat banyak bisnis F&B gulung tikar karena berbagai pembatasan, tapi *cloud kitchen* merupakan salah satu yang tetap bertahan dan berkembang selama pandemi.
 
@@ -67,23 +67,16 @@ Konsep bisnis cloud kitchen merupakan konsep bisnis F&B yang sangat optimal di m
 
 Karena tidak memakan biaya untuk makan di tempat, modal bisnis menjadi lebih kecil dan keuntungan menjadi lebih optimal lagi. Biaya yang dibutuhkan pun menjadi semakin kecil karena persiapan akan berfokus pada bagaimana membangun dapur produksi yang baik.
 
-Selain itu, bisnis ini sangat cocok dengan era yang serba digital seperti saat ini yang membuat pemesanan makanan pun bisa dilakukan via aplikasi. Pengembangan [bisnis cloud kitchen](https://landx.id/project/index.html) berbasis pemesanan online membuat proses bisnis bisa berjalan dengan lebih optimal dan mencakup target pasar yang lebih luas lagi. Oleh sebab itu, bisnis makanan dengan model cloud kitchen pun tetap sangat potensial walaupun masa pandemi telah usai.
+Selain itu, bisnis ini sangat cocok dengan era yang serba digital seperti saat ini yang membuat pemesanan makanan pun bisa dilakukan via aplikasi. Pengembangan [bisnis cloud kitchen](https://landx.id/) berbasis pemesanan online membuat proses bisnis bisa berjalan dengan lebih optimal dan mencakup target pasar yang lebih luas lagi. Oleh sebab itu, bisnis makanan dengan model cloud kitchen pun tetap sangat potensial walaupun masa pandemi telah usai.
 
-[Hangry](https://landx.id/project/index.html) merupakan salah satu contoh brand *cloud kitchen* yang sukses berkembangan dalam beberapa tahun belakangan dan mengembangkan pemesanan lewat aplikasi miliki mereka sendiri. Konsep ini sangat potensial karena dalam satu lokasi, bisa isi bangun beberapa brand makanan dan minuman sekaligus sehingga keuntungan menjadi lebih optimal.
+[Hangry](https://landx.id/) merupakan salah satu contoh brand *cloud kitchen* yang sukses berkembangan dalam beberapa tahun belakangan dan mengembangkan pemesanan lewat aplikasi miliki mereka sendiri. Konsep ini sangat potensial karena dalam satu lokasi, bisa isi bangun beberapa brand makanan dan minuman sekaligus sehingga keuntungan menjadi lebih optimal.
 
-Sekarang, anda bisa ikut[patungan membangun bisnis *cloud kitchen*](https://landx.id/project/index.html) potensial ini hanya modal mulai 1 juta. Investasi bisnis dengan skema [equity crowdfunding](https://landx.id/) memberikan anda kesempatan untuk memiliki bagian kepemilikan dari berbagai bisnis potensial yang ada di sekitar anda.
+Sekarang, anda bisa ikut[patungan membangun bisnis *cloud kitchen*](https://landx.id/) potensial ini hanya modal mulai 1 juta. Investasi bisnis dengan skema [equity crowdfunding](https://landx.id/) memberikan anda kesempatan untuk memiliki bagian kepemilikan dari berbagai bisnis potensial yang ada di sekitar anda.
 
 [LandX](https://landx.id/) merupakan platform equity crowdfunding terpercaya yang membantu anda menemukan bisnis dengan potensi keuntungan terbaik dari berbagai sektor seperti properti, klinik kecantikan, hingga bisnis F&B.
 
-**[Yuk Temukan Bisnis Menjanjikan dengan Keuntungan Terbaik di LandX](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)**
+**[Yuk Temukan Bisnis Menjanjikan dengan Keuntungan Terbaik di LandX](https://landx.id/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)**
 
-[![miliki bisnis modal kecil cuma dengan 1 jutaan dapat 4 cabang ](https://accountgram-production.sfo2.cdn.digitaloceanspaces.com/landx_ghost/2021/11/jadi-owner-bisnis-hanya-1-jutaan-dengan-cuan-yang-sangat-menjanjikan.png)](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)
+[![miliki bisnis modal kecil cuma dengan 1 jutaan dapat 4 cabang ](https://accountgram-production.sfo2.cdn.digitaloceanspaces.com/landx_ghost/2021/11/jadi-owner-bisnis-hanya-1-jutaan-dengan-cuan-yang-sangat-menjanjikan.png)](https://landx.id/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)
 
 **[Jangan Lupa!! Follow @landx.id di Instagram Supaya Terus Update Berbagai Info Seputar Investas](https://instagram.com/landx.id?utm_medium=copy_link)i.**
-
-**\#LandX.id    #landx         #landx.id    #InvestasiBisnis    #SecuritiesCrowdfunding #EquityCrowdfunding    #InvestasiMenguntungkan    #Urundana    #BisnisPatungan    #InvestasiUsaha**
-
-**Baca Juga:**
-
-* [Bisnis di Masa Pandemi - Melihat Bagaimana Strategi Bisnis F&B Cloud Kitchen Bertahan di Masa Pandemi](https://landx.id/blog/bisnis-cloud-kitchen-di-masa-pandemi/)
-* [Mau Memulai Franchise Laundry? Berikut Rekomendasi dan Tips Menemukan Franchise Laundry Terbaik yang Menguntungkan](https://landx.id/blog/memulai-bisnis-franchise-laundry/)
