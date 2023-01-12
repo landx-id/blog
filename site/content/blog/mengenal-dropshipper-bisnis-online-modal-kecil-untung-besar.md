@@ -21,7 +21,7 @@ featuredImage:
   src: img/cara-dropship.jpg
   alt: Usaha dropshipping modal kecil untung besar yang cocok untuk pemula
 ---
-\-Profesi sebagai dropshipper saat ini banyak digemari oleh berbagai kalangan masyarakat Indonesia. Mulai dari remaja hingga ibu rumah tangga memutuskan menjalani bisnis dropship karena memiliki risiko kecil dan modal yang diperlukan juga sedikit.
+l\-Profesi sebagai dropshipper saat ini banyak digemari oleh berbagai kalangan masyarakat Indonesia. Mulai dari remaja hingga ibu rumah tangga memutuskan menjalani bisnis dropship karena memiliki risiko kecil dan modal yang diperlukan juga sedikit.
 
 Kamu hanya membutuhkan gadget dan koneksi internet yang stabil untuk memulai bisnis dropshipping.
 
@@ -188,20 +188,18 @@ Dengan branding, bisnis online kamu akan berjalan dengan lancar dan akan membent
 
 Nah, kita telah membahas seputar dropshipper, hingga cara menjadi dropshipper yang baik dan sukses. Bagaimana, kamu tertarik menjadi dropshipper?
 
-Jika kamu ingin memiliki keuntungan besar dari suatu bisnis, tapi kamu tidak mau mengurusi bisnis tersebut, kamu tetap dapat melakukannya! Caranya, kamu melakukan investasi menggunakan metode [equity crowdfunding](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog).
+Jika kamu ingin memiliki keuntungan besar dari suatu bisnis, tapi kamu tidak mau mengurusi bisnis tersebut, kamu tetap dapat melakukannya! Caranya, kamu melakukan investasi menggunakan metode [equity crowdfunding](https://landx.id/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog).
 
-[Equity crowdfunding](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog) sendiri merupakan skema pendanaan untuk bisnis kecil dengan cara patungan masyarakat luas untuk mendanai UMKM. Disini kamu bisa menjadi salah satu pemilik bisnis yang telah didanai.
+[Equity crowdfunding](https://landx.id/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog) sendiri merupakan skema pendanaan untuk bisnis kecil dengan cara patungan masyarakat luas untuk mendanai UMKM. Disini kamu bisa menjadi salah satu pemilik bisnis yang telah didanai.
 
-Kamu juga akan mendapatkan keuntungan dari [equity crowdfunding](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog), yaitu kamu akan menerima return dividen dari project bisnis yang telah didanai.
+Kamu juga akan mendapatkan keuntungan dari [equity crowdfunding](https://landx.id/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog), yaitu kamu akan menerima return dividen dari project bisnis yang telah didanai.
 
-[LandX](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog) merupakan salah satu platform [equity crowdfunding](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog) yang dapat membantu kamu mendanai bisnis yang memiliki prospek bagus dengan modal kecil dan untung besar.
+[LandX](https://landx.id/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog) merupakan salah satu platform [equity crowdfunding](https://landx.id/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog) yang dapat membantu kamu mendanai bisnis yang memiliki prospek bagus dengan modal kecil dan untung besar.
 
-[LandX](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog), platform [equity crowdfunding](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog) terpercaya, transparan, dan telah memiliki izin dari Otoritas Jasa Keuangan (OJK). Kamu bisa mendapatkan keuntungan besar dan modal kecil.
+[LandX](https://landx.id/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog), platform [equity crowdfunding](https://landx.id/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog) terpercaya, transparan, dan telah memiliki izin dari Otoritas Jasa Keuangan (OJK). Kamu bisa mendapatkan keuntungan besar dan modal kecil.
 
-## **[Ingin Punya Bisnis dengan Untung Banyak dan Nggak Ribet? Investasikan Saja di LandX!](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)**
+## **[Ingin Punya Bisnis dengan Untung Banyak dan Nggak Ribet? Investasikan Saja di LandX!](https://landx.id/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)**
 
-<!--StartFragment-->
-
-![miliki bisnis modal kecil cuma dengan 1 jutaan dapat 4 cabang ](https://accountgram-production.sfo2.cdn.digitaloceanspaces.com/landx_ghost/2021/11/jadi-owner-bisnis-hanya-1-jutaan-dengan-cuan-yang-sangat-menjanjikan.png)
+![miliki bisnis modal kecil cuma dengan 1 jutaan dapat 4 cabang ](https://accountgram-production.sfo2.cdn.digitaloceanspaces.com/landx_ghost/2021/11/jadi-owner-bisnis-hanya-1-jutaan-dengan-cuan-yang-sangat-menjanjikan.png "Investasi patungan bisnis di LandX")
 
 <!--EndFragment-->
