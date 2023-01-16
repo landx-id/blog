@@ -37,7 +37,7 @@ Karena itu, memahami bagaimana cara mengelola uang dengan baik merupakan hal pen
 
 ## Mengelola Keuangan dengan Baik
 
-Mengelola keuangan adalah bagaimana anda mengatur keuangan yang dimiliki saat ini agar bisa mencapai tujuan finansial anda di masa mendatang. Oleh sebab itu, langkah awal dari mengelola uang dengan baik adalah menentukan **[tujuan finansial](https://landx.id/project/)** yang ingin anda capai dalam beberapa tahun ke depan. Jika tujuan sudah ditentukan dengan jelas di awal, maka proses menyusun strategi cara mengatur keuangan dapat dilakukan dengan lebih mudah.
+Mengelola keuangan adalah bagaimana anda mengatur keuangan yang dimiliki saat ini agar bisa mencapai tujuan finansial anda di masa mendatang. Oleh sebab itu, langkah awal dari mengelola uang dengan baik adalah menentukan **[tujuan finansial](https://landx.id/)** yang ingin anda capai dalam beberapa tahun ke depan. Jika tujuan sudah ditentukan dengan jelas di awal, maka proses menyusun strategi cara mengatur keuangan dapat dilakukan dengan lebih mudah.
 
 Memiliki keuangan yang teratur akan sangat membantu anda menyusun rencana masa depan dengan lebih baik, terutama bagi anda yang memiliki rencana keuangan jangka panjang yang ingin dicapai. Karena, pengelolaan yang baik akan membantu proyeksi masa depan anda menjadi lebih jelas. Oleh sebab itu, mari kita bahas lebih lanjut tentang langkah-langkah pengelolaan keuangan yang baik.
 
@@ -174,7 +174,7 @@ Eits, jajan-jajan mulu tahunya jeblos kekurangan sebelum uang jajan dikirim lagi
 
 Sisihkan sebagian uang kamu untuk menabung agar bisa miliki keuangan yang sehat. Kini banyak aplikasi tabungan yang menyediakan akun yang bisa dirancang untuk diatur khusus tabungan. Jika ingin memaksimalkan tabungan kamu, mengalihkannya untuk investasi tentu lebih baik. Jangan lupa pelajari banyak hal tentang investasi dan platform investasi yang dipilih ya.
 
-## [Memulai Investasi](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)
+## [Memulai Investasi](https://landx.id/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)
 
 Apabila anda sudah bisa mengelola uang dengan baik, anda tidak boleh lupa menyusun juga rencana investasi berdasarkan rencana finansial anda.
 
@@ -184,11 +184,11 @@ Karena saat ini tersedia banyak sekali instrumen investasi maka anda bisa harus 
 
 Investasi bisnis merupakan salah satu pilihan yang bisa anda coba karena investasi ini bisa memberikan anda [passive income](https://landx.id/) berupa dividen yang akan didapatkan sesuai keuntungan dari bisnis yang anda danai.
 
-Hal ini akan membuat uang yang anda miliki bisa berkembang dengan lebih cepat. Apabila anda tertarik, anda bisa memilih berbagai bisnis dengan potensi menjanjikan dengan mengunjungi laman [LandX](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog).
+Hal ini akan membuat uang yang anda miliki bisa berkembang dengan lebih cepat. Apabila anda tertarik, anda bisa memilih berbagai bisnis dengan potensi menjanjikan dengan mengunjungi laman [LandX](https://landx.id/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog).
 
-## [Yuk, jadi bos bisnis dan terima keuntungan rutin di LandX](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)
+## [Yuk, jadi bos bisnis dan terima keuntungan rutin di LandX](https://landx.id/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)
 
-[![miliki bisnis modal kecil cuma dengan 1 jutaan dapat 4 cabang ](https://accountgram-production.sfo2.cdn.digitaloceanspaces.com/landx_ghost/2021/11/jadi-owner-bisnis-hanya-1-jutaan-dengan-cuan-yang-sangat-menjanjikan.png)](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)
+[![miliki bisnis modal kecil cuma dengan 1 jutaan dapat 4 cabang ](https://accountgram-production.sfo2.cdn.digitaloceanspaces.com/landx_ghost/2021/11/jadi-owner-bisnis-hanya-1-jutaan-dengan-cuan-yang-sangat-menjanjikan.png)](https://landx.id/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)
 
 **[Yuk Follow Kami di Instagram @landx.id Untuk Berbagai Update Terbaru Seputar Investasi](https://www.instagram.com/landx.id/?utm_medium=copy_link)**
 
