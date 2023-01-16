@@ -58,20 +58,20 @@ Lokasi mal gerai Ximivogue tersebut ialah Pluit Village Mall, Gandaria City Mall
 
 Jl. Kartika Utama No.1, RT.6/RW.16, Pd. Pinang, Kec. Kby. Lama, Kota Jakarta Selatan, Jakarta 12310.
 
-## [Miliki Bisnis Sekeren XIMIVOGUE Hanya di LandX](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)
+## [Miliki Bisnis Sekeren XIMIVOGUE Hanya di LandX](https://landx.id/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)
 
 Tahukah kamu, investor di [LandX](https://landx.id/) dapat memiliki project Ximivogue ini dengan modal mulai sejutaan aja. [LandX](https://landx.id/) sebagai platform investasi crowdfunding memungkinkan setiap masyarakat Indonesia untuk memiliki bisnis menguntungkan dengan modal minim.
 
 Project Ximivogue adalah project yang telah menerima pendanaan dari pemilik modal di [LandX](https://landx.id/) dengan total sebesar Rp 10 miliar. Dana ini digunakan untuk membuka 2 cabang baru, salah satunya Ximivogue cabang PIM 3. 
 
-Dengan \[berinvestasi pada project bisnis di LandX](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog), pemilik modal akan mendapatkan keuntungan dividen setelah bisnis resmi berjalan. Investor Ximivogue sendiri akan menerima keuntungan dividen rutin setiap 3 bulan.
+Dengan \[berinvestasi pada project bisnis di LandX](https://landx.id/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog), pemilik modal akan mendapatkan keuntungan dividen setelah bisnis resmi berjalan. Investor Ximivogue sendiri akan menerima keuntungan dividen rutin setiap 3 bulan.
 
 Kamu juga dapat memiliki bisnis dan menjadi investor project sekeren Ximivogue ini, loh! Dengan berinvestasi mulai Rp 1 jutaan, kamu dapat menjadi owner bisnis menguntungkan dan menerima keuntungan rutin.
 
-Cara berinvestasi di [LandX](https://landx.id/) adalah dengan download aplikasi LandX dan verifikasi akun kamu agar dapat menerima informasi project bisnis yang hadir di [LandX](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog). Sebagai calon investor, kamu memiliki pilihan penuh untuk berinvestasi pada project bisnis yang kamu inginkan serta menyetujui keuntungan yang akan kamu terima nantinya. Ingin segera jadi investor project bisnis di [LandX](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)?
+Cara berinvestasi di [LandX](https://landx.id/) adalah dengan download aplikasi LandX dan verifikasi akun kamu agar dapat menerima informasi project bisnis yang hadir di [LandX](https://landx.id/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog). Sebagai calon investor, kamu memiliki pilihan penuh untuk berinvestasi pada project bisnis yang kamu inginkan serta menyetujui keuntungan yang akan kamu terima nantinya. Ingin segera jadi investor project bisnis di [LandX](https://landx.id/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)?
 
-## Yuk, segera download aplikasi [LandX](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog) dan jangan lupa verifikasi akun kamu, ya!
+## Yuk, segera download aplikasi [LandX](https://landx.id/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog) dan jangan lupa verifikasi akun kamu, ya!
 
-[![miliki bisnis modal kecil cuma dengan 1 jutaan dapat 4 cabang ](https://accountgram-production.sfo2.cdn.digitaloceanspaces.com/landx_ghost/2021/11/jadi-owner-bisnis-hanya-1-jutaan-dengan-cuan-yang-sangat-menjanjikan.png)](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)
+[![miliki bisnis modal kecil cuma dengan 1 jutaan dapat 4 cabang ](https://accountgram-production.sfo2.cdn.digitaloceanspaces.com/landx_ghost/2021/11/jadi-owner-bisnis-hanya-1-jutaan-dengan-cuan-yang-sangat-menjanjikan.png)](https://landx.id/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)
 
-\#SekarangBisa
+#SekarangBisa
