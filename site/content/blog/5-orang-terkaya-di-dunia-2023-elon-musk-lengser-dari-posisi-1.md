@@ -21,7 +21,7 @@ Setiap tahunnya akan selalu dirilis informasi terkait orang terkaya di dunia ter
 
 Dikabarkan media terdapat 2.668 miliarder di dunia dan diantaranya berikut daftar 5 orang terkaya 2023 berdasarkan jumlah kekayaan bersih. 
 
-![](https://lh5.googleusercontent.com/s1mVoL6rh0rLure7AReHEXe2s6SheYVXZg-QKyZLuZATjzAT_LORRjbZfcwqf2kU2t-H9v8x_q8CCkFg2J7R0sdV0mYwGoBlZCqNecmL0nIJFQlhqxW1-QR5G6_HUDD2SSw7O--9BcSikwUNsO9oJi7xC7qeJqYNXhrJcbezuKORvOsZluulxgROAM7KXg)
+![bernart arnault adalah](https://lh5.googleusercontent.com/s1mVoL6rh0rLure7AReHEXe2s6SheYVXZg-QKyZLuZATjzAT_LORRjbZfcwqf2kU2t-H9v8x_q8CCkFg2J7R0sdV0mYwGoBlZCqNecmL0nIJFQlhqxW1-QR5G6_HUDD2SSw7O--9BcSikwUNsO9oJi7xC7qeJqYNXhrJcbezuKORvOsZluulxgROAM7KXg "bernart arnault adalah")
 
 ## 1 Bernard Arnault & Family ($186.2B)
 
@@ -30,6 +30,8 @@ Chairman sekaligus CEO dari grup konglomerat LVMH Moët Hennessy Louis Vuitton m
 Tidak membatasi industri yang dikelola, Bernard Arnault, orang terkaya di industri fashion ini juga merambah ke pengelolaan bisnis kosmetik, wine, parfum, restoran, jam tangan, hingga hospitality mewah. 
 
 Bersama dengan 4 dari 5 anaknya, Arnault Family juga terus memperluas kerajaannya dengan salah satunya mengakuisisi brand luxury lainnya seperti brand jewelry Tiffany & Co pada tahun 2021 sebesar 15,8 miliar USD.
+
+![elon musk ceo twitter](img/324722040_911926129994722_1409510911418728510_n.jpg "elon musk ceo twitter")
 
 ## 2 Elon Musk ($181.3B)
 
@@ -41,6 +43,8 @@ Selain mengembangkan perusahaan, Musk juga aktif berinvestasi untuk meningkatkan
 
 Media Bloomberg mengabarkan bahwa Elon Musk telah kehilangan sekitar $200 miliar dolar AS (setara Rp3.400 triliun) dari total kekayaannya dalam 14 bulan terakhir.
 
+![gautam adani siapa](img/324840945_707333897712903_3114749121111774535_n.jpg "gautam adani siapa")
+
 ## 3 Gautam Adani ($134.4B)
 
 Berfokus pada industri infrastruktur dan komoditas, Gautam Adani kini menjadi orang terkaya di Asia 2023 dan tercatat memiliki kekayaan bersih ketiga di dunia berdasarkan list terbaru orang terkaya di dunia. 
@@ -51,6 +55,8 @@ Adani menguasai Pelabuhan Mundra, pelabuhan terbesar di India, di negara bagian 
 
 Terus mengembangkan jiwa entrepreneur dalam dirinya, tahun 2022 lalu Adani mengakuisisi aset perusahaan Swiss Holcim senilai $10,5 miliar di India agar menjadi produsen semen terbesar kedua di India. 
 
+![jeff bezos orang terkaya](img/324445232_690526482715194_7134376842361276127_n.jpg "jeff bezos orang terkaya")
+
 ## 4 Jeff Bezos ($109.3B)
 
 Jeff Bezos mendirikan situs Amazon pada tahun 1994 dan membawa Amazon IPO tahun 1997. Keberhasilan situs terkemuka dunia yang lahir di Amerika Serikat ini dalam melantai di bursa efek membuat Bezos menjadi orang pertama setelah Bill Gates yang memiliki kekayaan bersih mencapai $100 miliar. 
@@ -58,6 +64,8 @@ Jeff Bezos mendirikan situs Amazon pada tahun 1994 dan membawa Amazon IPO tahun 
 Selain perusahaan multinasional Amazon yang ia bangun, Bezos juga memiliki proyek lain yaitu perusahaan media The Washington Post dan Blue Origin. Blue Origin merupakan perusahaan kedirgantaraan yang mengembangkan roket, Bezos bahkan pernah terbang ke luar angkasa pada Juli 2021.
 
 Menurut laporan Forbes Real Time Billionaires, Jeff Bezos kehilangan kekayaan sebanyak $8,2 miliar dolar atau sekitar Rp120 triliun pada pertengahan Mei 2022 lalu.
+
+![bill gates](img/324702729_561063765899297_5738101014243507524_n.jpg "bill gates")
 
 ## 5 Bill Gates ($109B)
 
