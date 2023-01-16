@@ -224,7 +224,7 @@ Apabila Anda masih kekurangan terhadap tiga poin di atas, tidak perlu khawatir k
 
 Bareng LandX Anda bisa ikut patungan membangun berbagai bisnis potensial yang nantinya akan dikelola oleh profesional hanya dengan 1 juta. Setelah ikut patungan, Anda nanti bisa menikmati dividen dari bagi hasil keuntungan yang didapatkan oleh bisnis tersebut.
 
-Karena itu...
+Karena itu......
 
 ## [Yuk Patungan Bisnis Potensial Bareng LandX](https://landx.id/)
 
