@@ -84,12 +84,12 @@ Bagi yang baru ingin mencoba bisnis pet shop, sebaiknya dimulai dengan menyediak
 
 Untuk melengkapi berbagai kebutuhan di atas, rata-rata modal yang dibutuhkan berkisar antara Rp12-15 juta, itu belum termasuk biaya sewa tempat serta berbagai pengeluaran lain, seperti anggaran listrik, biaya renovasi, gaji karyawan, dan lain-lain. Kemudian, jika bisnis sudah mulai berjalan lancar, Anda bisa menambahkan berbagai perlengkapan serta fasilitas lainnya.
 
-## [Bisnis Pet Hotel dengan Sistem Equity Crowdfunding](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)
+## [Bisnis Pet Hotel dengan Sistem Equity Crowdfunding](https://landx.id/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)
 
 Jika Anda yang tertarik untuk memulai bisnis pet shop namun belum memiliki cukup modal atau ingin memulai bisnis dari rumah, investasi pada crowdfunding adalah pilihan yang tepat untuk Anda coba. 
 
 Investasi yang didapatkan berupa persentase imbal hasil dari laba perusahaan kepemilikan modal. Dengan crowdfunding, Anda sudah bisa memiliki saham dan menjadi owner dari berbagai bisnis potensial dan menerima hasil investasi secara rutin.
 
-## [Tunggu apalagi, segera daftar dan verifikasikan akun Anda di LandX agar tidak kehabisan project bisnis yang aman dan profit.](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)
+## [Tunggu apalagi, segera daftar dan verifikasikan akun Anda di LandX agar tidak kehabisan project bisnis yang aman dan profit.](https://landx.id/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)
 
-[![miliki bisnis modal kecil cuma dengan 1 jutaan dapat 4 cabang ](https://accountgram-production.sfo2.cdn.digitaloceanspaces.com/landx_ghost/2021/11/jadi-owner-bisnis-hanya-1-jutaan-dengan-cuan-yang-sangat-menjanjikan.png)](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)
+[![miliki bisnis modal kecil cuma dengan 1 jutaan dapat 4 cabang ](https://accountgram-production.sfo2.cdn.digitaloceanspaces.com/landx_ghost/2021/11/jadi-owner-bisnis-hanya-1-jutaan-dengan-cuan-yang-sangat-menjanjikan.png)](https://landx.id/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)
