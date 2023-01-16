@@ -54,21 +54,21 @@ Cara kerja investasi saham sangat penting untuk dipahami terutama untuk pemula y
 
 Bagi kamu yang masih bingung tentang gimana sih cara mulai investasi saham. LandX telah bantu rangkum untuk agar mudah dipahami, yuk dibaca lebih lanjut cara investasi saham untuk pemula.
 
-1. #### Daftar dan Download
+#### 1. Daftar dan Download
 
 Hal pertama yang harus kamu lakukan tentu saja memiliki akun untuk investasi dengan mendaftar dan download aplikasi [perusahaan sekuritas](https://landx.id/blog/apa-itu-sekuritas-definisi-jenis-dan-tips-memilih-sekuritas-terbaik/). Perusahaan sekuritas adalah lembaga yang mendapat izin OJK untuk melakukan perdagangan efek (saham).
 
-2. #### Verifikasi Data KYC
+#### 2. Verifikasi Data KYC
 
 Lakukan verifikasi data dengan melengkapi berbagai syarat dan ketentuan agar kamu dan dana kamu aman dan terdaftar di lembaga keuangan resmi seperti KSEI. 
 
 Mudahnya, semua transaksi saham akan dicatat oleh KSEI sehingga saat aplikasi perusahaan sekuritas kamu tutup pun dana tetap aman. Jadi, penting untuk melengkapi data dan melakukan [verifikasi data](https://landx.id/blog/cara-verifikasi-data-kyc-dan-tutorial-investasi-di-aplikasi-landx/) [KYC](https://landx.id/blog/cara-verifikasi-data-kyc-dan-tutorial-investasi-di-aplikasi-landx/) ya. 
 
-3. #### Deposit Dana
+#### 3. Deposit Dana
 
 Setelah akun kamu terverifikasi, kamu dapat melakukan transaksi pembelian saham dengan cara melakukan deposit dana terlebih dahulu. Deposit dilakukan dengan cara transfer sejumlah anggaran investasi kamu ke rekening investasi pada aplikasi terdaftar. 
 
-4. #### Pembelian Saham
+#### 4. Pembelian Saham
 
 Kenali setiap saham yang ingin kamu beli dan lakukan analisis fundamental dengan cara lihat laporan keuangan laba rugi perusahaan. Cara mudahnya juga lihat prospek pertumbuhan perusahaan dengan pahami kondisi ekonomi yang sedang terjadi. Hal ini akan membantu kamu dalam menentukan saham terbaik.
 
@@ -122,13 +122,6 @@ Diversifikasi akan membantu kamu bertahan apabila terjadi sesuatu yang membuat s
 
 - - -
 
-Baca Juga:
-
-* **[4 Pilihan Investasi Jangka Pendek dan Tips Investasi Jangka Pendek yang Menguntungkan](https://landx.id/blog/4-pilihan-investasi-jangka-pendek-dan-tips-investasi-jangka-pendek-yang-menguntungkan/)**
-* **[Kenali 4 Instrumen Pasar Modal Sebelum Memutuskan Instrumen Pasar Modal Terbaik Anda](https://landx.id/blog/kenali-4-instrumen-pasar-modal-sebelum-memutuskan-instrumen-pasar-modal-terbaik-anda/)**
-
-- - -
-
 ## Mulai Sekarang
 
 Saran yang akan kamu sering dengan adalah kamu harus mulai investasi sedini mungkin agar kamu bisa sesegera mungkin membangun aset finansial yang lebih baik.
@@ -144,7 +137,5 @@ Karena itu penting bagi kamu untuk menyisihkan penghasilan untuk investasi secar
 Oleh sebab itu, tidak ada lagi alasan kamu untuk ragu mulai berinvestasi sedini mungkin.
 
 **[Hanya Dengan 1 Juta Kini Anda Bisa Menjadi Investor di Berbagai Bisnis Potensial di Sekitar Anda Bersama LandX](https://landx.id/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)**
-
-<!--StartFragment-->
 
 [![miliki bisnis modal kecil cuma dengan 1 jutaan dapat 4 cabang ](https://accountgram-production.sfo2.cdn.digitaloceanspaces.com/landx_ghost/2021/11/jadi-owner-bisnis-hanya-1-jutaan-dengan-cuan-yang-sangat-menjanjikan.png)](https://landx.id/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)
