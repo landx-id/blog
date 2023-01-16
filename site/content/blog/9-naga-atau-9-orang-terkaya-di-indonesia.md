@@ -139,7 +139,7 @@ Sebagai pemain kuat di industri fast moving consumer goods (FMCG), Mayora Group 
 
 **[Setiap bisnis](https://app.landx.id/?utm_source=Organic+Page&utm_medium=Content+Blog&utm_campaign=BlogLandX&utm_id=Blog)** tentu memiliki scene jatuh bangun serta kisah panjang dalam perjalanannya hingga dapat berkembang dan akrab dikenal. Berbisnis juga menjadi salah satu cara paling tepat untuk mengembangkan diri serta meraup keuntungan yang terbuka.
 
-**Namun,** membangun bisnis sangatlah jauh dari kata mudah dan tanpa stres. Bisnis yang hadir di lingkungan kita dan bertahan hingga hari ini adalah karena memiliki manajemen yang baik. Tentu kita juga ingin menjadi bagian lingkungan bisnis dengan manajemen yang baik.
+Namun, membangun bisnis sangatlah jauh dari kata mudah dan tanpa stres. Bisnis yang hadir di lingkungan kita dan bertahan hingga hari ini adalah karena memiliki manajemen yang baik. Tentu kita juga ingin menjadi bagian lingkungan bisnis dengan manajemen yang baik.
 
 Ikut patungan bisnis menjadi salah satu jalan dapat belajar tips suatu industri bisnis serta menilik bisnis dengan cuan potensial. Melalui platform investasi **crowdfunding LandX**, patungan bisnis dapat mendatangkan cuan potensial.
 
