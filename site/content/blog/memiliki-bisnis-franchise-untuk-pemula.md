@@ -144,7 +144,7 @@ Semakin besar suatu brand, maka biaya franchise yang harus anda tanggung ikut me
 
 Dalam mengatur hubungan antara franchisee dan franchisor dalam mendistribusikan dan menjual produk, terdapat beberapa sistem bisnis franchise. Berikut sistem franchise pada laman  International Franchise Association (IFA):
 
-1. ### Product Distribution Franchise
+### 1. Product Distribution Franchise
 
 **Product distribution franchise adalah** sistem franchise perusahaan yang mengizinkan pihak franchisee untuk menjual produknya tanpa menggunakan metode khusus.
 
@@ -152,7 +152,7 @@ Dengan sistem franchise ini seorang franchisee dapat secara luwes menjual produk
 
 Pada product distribution franchise atau waralaba distribusi produk yang harus dilakukan seorang franchisor adalah menyediakan produknya. **Contoh perusahaan dengan sistem product franchise** adalah minuman Coca Cola, Pepsi, serta perusahaan mobil Ford.
 
-2. ### Business Format Franchise
+### 2. Business Format Franchise
 
 **Business format franchise adalah** jenis waralaba yang tidak hanya mengizinkan franchisee untuk menjual produk, layanan, dan merek dagang. Tetapi juga metode lengkap untuk menjalankan bisnis tersebut seperti rencana pemasaran dan manual operasi.
 
