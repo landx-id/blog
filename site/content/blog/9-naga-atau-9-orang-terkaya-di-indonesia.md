@@ -135,7 +135,7 @@ Alumni jurusan kedokteran Universitas Trisakti ini mengembangkan perusahaannya d
 
 Sebagai pemain kuat di industri fast moving consumer goods (FMCG), Mayora Group ternyata sangat tertantang dengan tren produk-produk dari negara ginseng, Korea Selatan. Walaupun masih memiliki kedaulatan market share biskuit hingga 40% di Indonesia, Mayora Group terus berinovasi untuk tetap menjadi yang terkuat di industri ini.
 
-## [Meraup Untung dengan Patungan Bisnis](https://app.landx.id/?utm_source=Organic+Page&utm_medium=Content+Blog&utm_campaign=BlogLandX&utm_id=Blog\)
+## [Meraup Untung dengan Patungan Bisnis](https://app.landx.id/?utm_source=Organic+Page&utm_medium=Content+Blog&utm_campaign=BlogLandX&utm_id=Blog)
 
 **[Setiap bisnis](https://app.landx.id/?utm_source=Organic+Page&utm_medium=Content+Blog&utm_campaign=BlogLandX&utm_id=Blog)** tentu memiliki scene jatuh bangun serta kisah panjang dalam perjalanannya hingga dapat berkembang dan akrab dikenal. Berbisnis juga menjadi salah satu cara paling tepat untuk mengembangkan diri serta meraup keuntungan yang terbuka.
 
