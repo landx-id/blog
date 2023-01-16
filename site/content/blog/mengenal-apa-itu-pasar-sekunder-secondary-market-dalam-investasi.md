@@ -29,7 +29,7 @@ image: https://images.unsplash.com/photo-1516321497487-e288fb19713f?crop=entropy
 category:
   - Investasi
 ---
-**[Pasar primer](https://landx.id/project/)** dan sekunder adalah dua istilah yang sangat penting kamu pahami apabila kamu berinvestasi ke dalam instrumen pasar modal seperti saham atau berinvestasi dengan sistem **[equity crowdfunding.](https://landx.id/)**
+**[Pasar primer](https://landx.id/)** dan sekunder adalah dua istilah yang sangat penting kamu pahami apabila kamu berinvestasi ke dalam instrumen pasar modal seperti saham atau berinvestasi dengan sistem **[equity crowdfunding.](https://landx.id/)**
 
 Sebelum memahami apa itu secondary dan fungsinya, kamu harus paham dulu apa itu penawaran perdana atau bisa disebut juga *primary market* yang menjadi bagian penting dalam proses pelepasan suatu saham kepada publik.
 
@@ -37,15 +37,15 @@ Sebelum memahami apa itu secondary dan fungsinya, kamu harus paham dulu apa itu 
 
 ## Mengenal Istilah Pasar Sekunder dan Primer (Secondary and Primary Market)
 
-Sebelum mengenal apa itu ***secondary market***, anda harus paham dahulu perbedaan pasar primer dan sekunder. Istilah ***[primary market](https://landx.id/project/)*** yang merupakan tempat sebuah efek diterbitkan untuk pertama kalinya.
+Sebelum mengenal apa itu ***secondary market***, anda harus paham dahulu perbedaan pasar primer dan sekunder. Istilah ***[primary market](https://landx.id/)*** yang merupakan tempat sebuah efek diterbitkan untuk pertama kalinya.
 
-**Primary market** adalah pasar perdana di mana emiten atau pihak yang membutuhkan dana melakukan penawaran pertama kepada investor dalam kurun waktu tertentu sebelum akhirnya ditawarkan ke **secondary market** s*aat periode penawaran awal sudah selesai. Penawaran awal ini juga sering disebut dengan istilah [Initial Public Offering](https://landx.id/project/)* [(IPO)](https://landx.id/).
+**Primary market** adalah pasar perdana di mana emiten atau pihak yang membutuhkan dana melakukan penawaran pertama kepada investor dalam kurun waktu tertentu sebelum akhirnya ditawarkan ke **secondary market** s*aat periode penawaran awal sudah selesai. Penawaran awal ini juga sering disebut dengan istilah [Initial Public Offering](https://landx.id/)* [(IPO)](https://landx.id/).
 
 ***Secondary market***  adalah tempat transaksi jual beli efek secara luas yang dilakukan oleh para investor setelah masa penawaran perdana berakhir. *Secondary market* bisa digambarkan sebagai pasar tempat jual beli saham yang dilakukan antar investor.
 
 Pengertian pasar sekunder adalah tempat bagi para investor untuk menjual saham yang mereka beli saat primary market sehingga investor yang tidak bisa membeli saham saat primary market atau pasar perdana dapat memiliki saham yang mereka inginkan.
 
-Ini kesempatan kedua bagi investor yang belum berhasil memiliki sebuah sekuritas pada penawaran perdana. Periode pembukaan pasar sekunder ini sendiri berbeda-beda tergantung efek yang anda miliki, untuk ***[equity crowdfunding](https://landx.id/project/)*** sendiri *secondary market* akan dibuka 1 tahun setelah sebuah proyek berhasil didanai.
+Ini kesempatan kedua bagi investor yang belum berhasil memiliki sebuah sekuritas pada penawaran perdana. Periode pembukaan pasar sekunder ini sendiri berbeda-beda tergantung efek yang anda miliki, untuk ***[equity crowdfunding](https://landx.id/)*** sendiri *secondary market* akan dibuka 1 tahun setelah sebuah proyek berhasil didanai.
 
 - - -
 
@@ -91,7 +91,7 @@ Dalam investasi investor harus bisa membangun analis dan pertimbangan mereka sen
 
 Saat ini, kamu harus tau bahwa kamu bisa membeli saham berbagai bisnis potensial yang ada di sekitar kamu cuma dengan modal 1 jutaan saja melalui platform equity crowdfunding.
 
-Kamu bisa membeli saham dari bisnis-bisnis potensial dari berbagai sektor yang telah dikurasi secara ketat oleh tim **[LandX](https://landx.id/project/).** Membeli saham di pada saat bisnis listing ini sama seperti kamu membeli saham saat IPO sehingga kamu berpotensi mendapatkan keuntungan berupa ***capital gain*** saat ***secondary market.***
+Kamu bisa membeli saham dari bisnis-bisnis potensial dari berbagai sektor yang telah dikurasi secara ketat oleh tim **[LandX](https://landx.id/).** Membeli saham di pada saat bisnis listing ini sama seperti kamu membeli saham saat IPO sehingga kamu berpotensi mendapatkan keuntungan berupa ***capital gain*** saat ***secondary market.***
 
 Karena itu, berinvestasi lewat equity crowdfunding bisa jadi pilihan bagi kamu yang ingin membeli saham bisnis saat penawaran perdana.
 
@@ -102,21 +102,3 @@ Karena itu..
 <!--StartFragment-->
 
 [![miliki bisnis modal kecil cuma dengan 1 jutaan dapat 4 cabang ](https://accountgram-production.sfo2.cdn.digitaloceanspaces.com/landx_ghost/2021/11/jadi-owner-bisnis-hanya-1-jutaan-dengan-cuan-yang-sangat-menjanjikan.png)](https://app.landx.id/?utm_source=Organic+Page&utm_medium=Content+Blog&utm_campaign=BlogLandX&utm_id=Blog)
-
-<!--EndFragment-->
-
-- - -
-
-> **[Supaya Tidak ketinggalan Info Investasi Terbaru Yuk Follow @landx.id di Instagram](https://www.instagram.com/landx.id/?utm_medium=copy_link)**
-
-- - -
-
-**Baca Juga:**
-
-* [Dividen Adalah: Memahami Apa Itu Dividen sebagai Komponen Penting dalam Investasi](https://landx.id/blog/memahami-apa-itu-dividen/)
-* [Mau Jadi Investor? Simak Cara Mudah Menjadi Investor Hanya dengan Modal Kecil](https://landx.id/blog/cara-menjadi-investor/)
-* [Tips Penting dalam Menyusun Rencana Investasi Jangka Panjang Terbaik](https://landx.id/blog/investasi-jangka-panjang-adalah/)
-
-- - -
-
-**\#YukPatunganBisnis    #LandX.id    #landx         #landx.id    #InvestasiBisnis  #SecuritiesCrowdfunding   #EquityCrowdfunding    #InvestasiMenguntungkan     #Urundana    #BisnisPatungan    #InvestasiUsaha**
