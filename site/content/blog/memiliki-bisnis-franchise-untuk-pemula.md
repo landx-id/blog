@@ -229,8 +229,3 @@ Karena itu...
 ## [Yuk Patungan Bisnis Potensial Bareng LandX](https://landx.id/)
 
 [![Equity crowdfunding merupakan salah satu instrumen investasi dengan potensi keuntungan menjanjikan untuk pemula yang mau berinvestasi](https://accountgram-production.sfo2.cdn.digitaloceanspaces.com/landx_ghost/2021/10/Equity-Crowdfunding-di-Indonesia-1--4.png)](https://landx.id/)
-
-- - -
-
-**[Yuk Follow Kami di Instagram @landx.id Untuk Berbagai Update Terbaru Seputar Investasi](https://www.instagram.com/landx.id/?utm_medium=copy_link)**
-
