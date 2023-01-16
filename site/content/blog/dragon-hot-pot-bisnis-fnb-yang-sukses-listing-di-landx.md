@@ -32,7 +32,7 @@ category:
 
 {{< youtube id="J2NZwZobSMA" >}}
 
-**[Bisnis kuliner](https://landx.id/project/)** merupakan salah satu bisnis yang memiliki ketahanan dan kemampuan beradaptasi yang tinggi. Terbukti, sejak pandemi mulai mempengaruhi keadaan perekonomian di berbagai sektor bisnis, bisnis kuliner menjadi salah satu yang tetap bertahan.
+**[Bisnis kuliner](https://landx.id/)** merupakan salah satu bisnis yang memiliki ketahanan dan kemampuan beradaptasi yang tinggi. Terbukti, sejak pandemi mulai mempengaruhi keadaan perekonomian di berbagai sektor bisnis, bisnis kuliner menjadi salah satu yang tetap bertahan.
 
 Tidak sedikit masyarakat Indonesia terdampak pengurangan karyawan yang akhirnya memilih terjun ke dunia bisnis kuliner untuk bisa bertahan di masa pandemi.
 
@@ -73,7 +73,7 @@ Dragon Hot Pot memiliki 4 restoran di Jakarta dan 1 restoran di Bandung. Outlet 
 
 Lalu untuk outlet di Bandung terletak di Paskal Hyper Square. Saat ini Dragon Hot Pot fokus untuk melebarkan outlet sampai ke seluruh kota di Indonesia, terutama kota-kota besar. Pada bulan Mei 2021, Dragon Hot Pot telah membuka cabang di kota Semarang yang terletak di Jalan Majapahit.
 
-Dalam pengembangan bisnisnya di Indonesia, Dragon Hot Pot bekerja sama dengan **[LandX](https://landx.id/)** telah berhasil membuka beberapa cabang baru melalui **[project DHP1](https://landx.id/project/)** dan **[DHP2](https://landx.id/project/)**.
+Dalam pengembangan bisnisnya di Indonesia, Dragon Hot Pot bekerja sama dengan **[LandX](https://landx.id/)** telah berhasil membuka beberapa cabang baru melalui **[project DHP1](https://landx.id/)** dan **[DHP2](https://landx.id/)**.
 
 **[Project DHP](https://landx.id/)** merupakan project patungan bisnis di platform LandX, di mana Dragon Hot Pot mengumpulkan dana untuk pengembangan outlet baru melalui listing saham yang bisa dibeli oleh masyarakat melalui platform LandX.
 
@@ -83,24 +83,14 @@ Selain memiliki produk kuliner unggulan berupa restoran Dragon Hot Pot, Project 
 
 Bagi kamu yang tertarik untuk berinvestasi dan menjadi owner bisnis seperti para investor project DHP, kamu bisa mulai berinvestasi di [LandX](https://landx.id/). Di Platform LandX, kamu bisa ikut patungan bisnis dan menjadi owner dari berbagai macam project bisnis dengan modal mulai dari 1 jutaan saja.
 
-**[LandX](https://landx.id/)** akan hadir kembali dengan berbagai project bisnis menarik lainnya. Tunggu apalagi, segera verifikasi akunmu di [LandX](https://landx.id/) agar tidak ketinggalan **[project-project bisnis menarik berikutnya](https://landx.id/project/)**.
+**[LandX](https://landx.id/)** akan hadir kembali dengan berbagai project bisnis menarik lainnya. Tunggu apalagi, segera verifikasi akunmu di [LandX](https://landx.id/) agar tidak ketinggalan **[project-project bisnis menarik berikutnya](https://landx.id/)**.
 
 - - -
 
-## \#SekarangBisa investasi sekaligus jadi pemilik bisnis hanya di LandX!
+## [Sekarang bisa investasi sekaligus jadi pemilik bisnis hanya di LandX!](https://landx.id/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)
 
-[![Bagaimana? Kamu lebih suka bisnis dengan buyback guarantee atau yang bisa disimpan dalam jangka panjang? Apapun pilihan kamu.. Yuk Patungan  dengan Keuntungan Menjanjikan Bareng LandX](https://accountgram-production.sfo2.cdn.digitaloceanspaces.com/landx_ghost/2021/10/Equity-Crowdfunding-di-Indonesia-1--3.png)](http://landx.id/project/)
+<!--StartFragment-->
 
-**[Jangan Lupa Follow Instagram @landx.id Untuk Berbagai Tips Investasi Menguntungkan Lainnya](https://www.instagram.com/landx.id/?utm_medium=copy_link)**
+[![miliki bisnis modal kecil cuma dengan 1 jutaan dapat 4 cabang ](https://accountgram-production.sfo2.cdn.digitaloceanspaces.com/landx_ghost/2021/11/jadi-owner-bisnis-hanya-1-jutaan-dengan-cuan-yang-sangat-menjanjikan.png)](https://landx.id/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)
 
-- - -
-
-**Baca Juga:**
-
-* [Menuju Akhir Tahun, Berikut Prospek dan Rekomendasi Investasi Aman untuk Tahun 2022](https://landx.id/blog/rekomendasi-investasi-di-tahun-2022/)
-* [Simak Cara Mengatur Keuangan di Masa Pandemi untuk Agar Keuangan Anda Tetap Stabil](https://landx.id/blog/simak-cara-mengatur-keuangan-di-masa-pandemi-untuk-agar-keuangan-anda-tetap-stabil/)
-* [8+ Pilihan Investasi yang Aman dan Cara Menentukan Instrumen Investasi Aman untuk Jangka Panjang](https://landx.id/blog/cara-menentukan-intrumen-investasi-yang-aman-untuk-pemula/)
-
-- - -
-
-**\#YukPatunganBisnis    #LandX.id    #landx         #landx.id     #InvestasiBisnis  #SecuritiesCrowdfunding   #EquityCrowdfunding     #InvestasiMenguntungkan     #Urundana    #BisnisPatungan     #InvestasiUsaha**
+<!--EndFragment-->
