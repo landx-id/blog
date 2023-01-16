@@ -119,16 +119,6 @@ Dilansir Forbes, pria kelahiran tahun 1956 ini memiliki harta kekayaan senilai l
 
 Pada 1 Januari 2022 lalu pemerintah menaikkan cukai tembakau hingga rata-rata 12%, namun nilai ini lebih rendah dibanding prediksi tarif naik tahunan. Karena produk Gudang Garam dikenal sebagai konsumsi kelas middle to low, kenaikan harga pun menjadi sentimen bagi emiten rokok berkode GGRM satu ini.
 
-- - -
-
-**Baca Juga:**
-
-* [Kopi Kenangan Resmi Unicorn: Mengenal Kisah Sukses Coffee-Chain Kopi Kekinian](https://landx.id/blog/kopi-kenangan-unicorn-mengenal-kisah-sukses-coffee-chain-kopi-kekinian/)
-* [Menanti Merah Putih Fund, Venture Capital Milik Indonesia yang Akan Danai Startup Dalam Negeri](https://landx.id/blog/memahami-seluk-beluk-merah-putih-fund/)
-* [Venture Capital: Mengenal Peran Venture Capital dalam Bisnis](https://landx.id/blog/venture-capital-adalah/)
-
-- - -
-
 ## 8. Benjamin Setiawan
 
 **dr. Boenjamin Setiawan, Ph.D.** lahir tahun 1933 silam dan mendirikan PT kalbe Farma Tbk sehingga menjelma menjadi salah satu orang terkaya di Indonesia. Biasa di sapa sebagai dr. Boen, ia mengembangkan perusahaan di bidang farmasi ini bersama 6 saudaranya sehingga menjadi Kalbe Group.
