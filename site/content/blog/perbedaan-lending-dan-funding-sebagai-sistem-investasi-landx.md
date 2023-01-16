@@ -105,6 +105,6 @@ Dengan crowdfunding, Anda dapat menjadi bagian pemilik bisnis dan mendapat keunt
 
 Salah satunya ialah [LandX](https://landx.id/) yang merupakan penyelenggara crowdfunding terdepan di Indonesia. Anda dapat dengan mudan memiliki bisnis dan mendapatkan informasi potensi bisnis serta keuntungannya dalam satu aplikasi. Karena itu,
 
-## [Yuk, Download Aplikasi LandX dan Investasi pada Bisnis Potensial!](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)
+## [Yuk, Download Aplikasi LandX dan Investasi pada Bisnis Potensial!](https://landx.id/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)
 
-[![miliki bisnis modal kecil cuma dengan 1 jutaan dapat 4 cabang ](https://accountgram-production.sfo2.cdn.digitaloceanspaces.com/landx_ghost/2021/11/jadi-owner-bisnis-hanya-1-jutaan-dengan-cuan-yang-sangat-menjanjikan.png)](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)
+[![miliki bisnis modal kecil cuma dengan 1 jutaan dapat 4 cabang ](https://accountgram-production.sfo2.cdn.digitaloceanspaces.com/landx_ghost/2021/11/jadi-owner-bisnis-hanya-1-jutaan-dengan-cuan-yang-sangat-menjanjikan.png)](https://landx.id/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)
