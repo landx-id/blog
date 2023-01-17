@@ -159,9 +159,7 @@ Tapi platform [equity crowdfunding](https://landx.id/?utm_source=Blog&utm_medium
 
 [LandX](https://landx.id/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog), platform [equity crowdfunding](https://landx.id/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog) terpercaya, transparan, dan telah memiliki izin dari Otoritas Jasa Keuangan (OJK). Anda bisa mendapatkan keuntungan besar dengan modal kecil.
 
-## [Supaya Tidak Ketinggalan Kehadiran Saham Mixue di Aplikasi Land](https://landx.id/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)
-
-## [ Yuk Download Aplikasinya Sekarang Juga!](https://landx.id/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)
+## [Yuk Download Aplikasinya Sekarang Juga!](https://landx.id/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)
 
 <!--StartFragment-->
 
