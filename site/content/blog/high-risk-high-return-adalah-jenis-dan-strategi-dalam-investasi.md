@@ -119,10 +119,10 @@ Dengan skema ini, kamu bersama masyarakat luas bersama-sama mendanai bisnis pote
 
 Melalui platform equity crowdfunding yang berpengalaman, [LandX](https://landx.id/) membantu perkembangan dan ekspansi bisnis potensial dan telah berizin Otoritas Jasa Keuangan, sehingga membantu kamu menemukan bisnis terbaik untuk investasi jangka panjang kamu.
 
-## [Temukan Bisnis Menjanjikan dengan Keuntungan Terbaik Lewat LandX Sekarang Juga!](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)
+## [Temukan Bisnis Menjanjikan dengan Keuntungan Terbaik Lewat LandX Sekarang Juga!](https://landx.id/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)
 
 <!--StartFragment-->
 
-[![Yuk mulai patungan bisnis menguntungkan jangka panja g bersama LandX](https://accountgram-production.sfo2.cdn.digitaloceanspaces.com/landx_ghost/2021/09/Equity-Crowdfunding-di-Indonesia-1--3.png)](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)
+[![Yuk mulai patungan bisnis menguntungkan jangka panja g bersama LandX](https://accountgram-production.sfo2.cdn.digitaloceanspaces.com/landx_ghost/2021/09/Equity-Crowdfunding-di-Indonesia-1--3.png)](https://landx.id/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)
 
 <!--EndFragment-->
