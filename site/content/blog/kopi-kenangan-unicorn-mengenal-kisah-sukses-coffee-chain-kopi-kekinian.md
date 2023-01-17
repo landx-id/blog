@@ -112,7 +112,7 @@ Lihat kisah sukses bisnis F&B lokal satu ini jadi tertarik punya usaha FnB juga,
 
 Hmm, kalau bisnisnya melakukan **[penawaran saham perdana (IPO)](https://landx.id/blog/ipo-dalam-saham-adalah/)** sih bisa, tapi mungkin butuh waktu yang cukup lama. Bisnis potensial yang menawarkan sahamnya dengan **[sistem *crowdfunding*](https://landx.id/)** sepertinya bisa jadi pilihan.
 
-***[Crowdfunding](https://landx.id/)*  adalah sistem urun dana untuk penggalangan modal sebuah bisnis yang dikumpulkan dari masyarakat. Keuntungan yang bisa didapatkan adalah persentase dividen yang disetujui.**
+***[Crowdfunding](https://landx.id/)* adalah sistem urun dana untuk penggalangan modal sebuah bisnis yang dikumpulkan dari masyarakat. Keuntungan yang bisa didapatkan adalah persentase dividen yang disetujui.**
 
 ## **[Yuk Temukan Bisnis Menjanjikan dengan Keuntungan Terbaik di LandX](https://landx.id/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)**
 
