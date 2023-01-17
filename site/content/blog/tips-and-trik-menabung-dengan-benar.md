@@ -127,7 +127,7 @@ Selain memudahkan Anda menabung, sistem ini juga dapat membantu Anda agar lebih 
 
 ## Berinvestasi Adalah Salah Satu Cara Menabung dengan Cepat
 
-Selain menabung dengan cara konvensional, salah satu cara menabung yang baik untuk masa depan dan dapat menambah nominal tabungan adalah dengan **[berinvestasi](https://landx.id/project/)**. Dengan berinvestasi di aset yang tepat dan disesuaikan dengan profil risiko yang diinginkan, investasi adalah salah satu tips tentang bagaimana cara menabung yang baik untuk masa depan.
+Selain menabung dengan cara konvensional, salah satu cara menabung yang baik untuk masa depan dan dapat menambah nominal tabungan adalah dengan **[berinvestasi](https://landx.id/)**. Dengan berinvestasi di aset yang tepat dan disesuaikan dengan profil risiko yang diinginkan, investasi adalah salah satu tips tentang bagaimana cara menabung yang baik untuk masa depan.
 
 Pada sistem tabungan biasa, uang yang Anda miliki hanya akan berdiam di dalam penyimpanan. Meskipun bank memberikan bunga dari simpanan Anda, nominalnya tidak seberapa.
 
@@ -139,27 +139,19 @@ Selain tabungan deposito, ada banyak **[instrumen investasi](https://landx.id/)*
 
 Melalui [investasi](https://landx.id/?gclid=Cj0KCQiAwqCOBhCdARIsAEPyW9nwi5NqHHR49GyAePUYL0Od4dF99zKuM6A-0DRLjtKLAAZuyxzPJM4aAuAYEALw_wcB) saham emiten, investor dapat menerima pembagian dividen secara rutin yang akan terus menambah pundi-pundi tabungan.
 
-Jika Anda tertarik berinvestasi saham namun tidak memiliki modal yang tinggi, Anda bisa mencoba berinvestasi saham melalui **[platform LandX](https://landx.id/project/)**.
+Jika Anda tertarik berinvestasi saham namun tidak memiliki modal yang tinggi, Anda bisa mencoba berinvestasi saham melalui **[platform LandX](https://landx.id/)**.
 
-**[LandX](https://landx.id/project/)** merupakan platform equity crowdfunding yang mempertemukan para pebisnis dengan para investor. Sistem crowdfunding yang diterapkan di LandX memungkinkan Anda untuk ikut berinvestasi dengan modal yang kecil.
+**[LandX](https://landx.id/)** merupakan platform equity crowdfunding yang mempertemukan para pebisnis dengan para investor. Sistem crowdfunding yang diterapkan di LandX memungkinkan Anda untuk ikut berinvestasi dengan modal yang kecil.
 
 LandX menyediakan berbagai project bisnis menarik dan menjanjikan. Di LandX kamu akan menemukan bisnis-bisnis terbaik yang telah melewati kurasi ketat sebelumnya sehingga membantu mengoptimalkan keuntungan investasi jangka panajang kamu.
 
 **Karena itu....**
 
-## [Yuk Temukan Bisnis Terbaik untuk Investasi Jangka Panjang Kamu di LandX](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)
+## [Yuk Temukan Bisnis Terbaik untuk Investasi Jangka Panjang Kamu di LandX](https://landx.id/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)
 
-[![Yuk mulai patungan bisnis menguntungkan jangka panja g bersama LandX](https://accountgram-production.sfo2.cdn.digitaloceanspaces.com/landx_ghost/2021/09/Equity-Crowdfunding-di-Indonesia-1--3.png)](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)
+[![Yuk mulai patungan bisnis menguntungkan jangka panja g bersama LandX](https://accountgram-production.sfo2.cdn.digitaloceanspaces.com/landx_ghost/2021/09/Equity-Crowdfunding-di-Indonesia-1--3.png)](https://landx.id/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)
 
 **[Mau Informasi Menarik Lain Seputar Investasi? Yuk Kunjungi Instagram Kami di @landx.id](https://www.instagram.com/landx.id/?utm_medium=copy_link)**
 
 - - -
 
-**Baca Juga:**
-
-* [Investasi dengan Passive Income untuk Masa Depan](https://landx.id/blog/investasi-dengan-passive-income-untuk-masa-depan/)
-* [Investasi Selalu Rugi? Coba Lakukan Diversifikasi. Ini 4 Cara Melakukannya!](https://landx.id/blog/arti-penting-diversifikasi-dalam-investasi/)
-
-- - -
-
-**\#YukPatunganBisnis**
