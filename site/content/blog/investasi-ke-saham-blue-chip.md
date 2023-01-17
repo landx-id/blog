@@ -150,36 +150,16 @@ Dari daftar saham blue chip 2022 indeks LQ45, terdapat emiten yang dikategorikan
 
 **Kamu harus tahu,,,**
 
-Selain berinvestasi ke saham perusahaan publik, kamu juga bisa membeli saham dari perusahaan privat dengan sistem **[equity crowdfunding](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)**.
+Selain berinvestasi ke saham perusahaan publik, kamu juga bisa membeli saham dari perusahaan privat dengan sistem **[equity crowdfunding](https://landx.id/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)**.
 
 Sistem ini sebenarnya hampir sama dengan investasi saham, namun dalam skala bisnis yang lebih kecil sehingga memudahkan kamu untuk menganalisis bagaimana potensi bisnis ini di pasaran.
 
-**[Platform equity crowdfunding](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)** akan memberikan kamu pilihan berbagai jenis bisnis potensial yang bisa kamu tanami modal sehingga kamu berhak mendapatkan dividen saat bisnis tersebut menghasilkan keuntungan.
+**[Platform equity crowdfunding](https://landx.id/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)** akan memberikan kamu pilihan berbagai jenis bisnis potensial yang bisa kamu tanami modal sehingga kamu berhak mendapatkan dividen saat bisnis tersebut menghasilkan keuntungan.
 
-**[LandX](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)** merupakan [platform equity crowdfunding](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)[](https://landx.id/) terpercaya yang memberikan kamu pilihan berbagai bisnis terpercaya untuk diversifikasi investasi kamu agar lebih menguntungkan.
+**[LandX](https://landx.id/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)** merupakan [platform equity crowdfunding](https://landx.id/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)[](https://landx.id/) terpercaya yang memberikan kamu pilihan berbagai bisnis terpercaya untuk diversifikasi investasi kamu agar lebih menguntungkan.
 
-## **[Yuk Temukan Saham Bisnis Privat di LandX](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)**
+## **[Yuk Temukan Saham Bisnis Privat di LandX](https://landx.id/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)**
 
-[![miliki bisnis modal kecil cuma dengan 1 jutaan dapat 4 cabang ](https://accountgram-production.sfo2.cdn.digitaloceanspaces.com/landx_ghost/2021/11/jadi-owner-bisnis-hanya-1-jutaan-dengan-cuan-yang-sangat-menjanjikan.png)](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)
+[![miliki bisnis modal kecil cuma dengan 1 jutaan dapat 4 cabang ](https://accountgram-production.sfo2.cdn.digitaloceanspaces.com/landx_ghost/2021/11/jadi-owner-bisnis-hanya-1-jutaan-dengan-cuan-yang-sangat-menjanjikan.png)](https://landx.id/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)
 
 **[Jangan Lupa Follow Instagram @landx.id Untuk Berbagai Tips Investasi Menguntungkan Lainnya](https://www.instagram.com/landx.id/?utm_medium=copy_link)**
-
-- - -
-
-* [Investasi Saham: Mengenal Apa Itu Indeks Saham dan Fungsinya dalam Investasi](https://landx.id/blog/apa-itu-indeks-saham-dan-indeks-harga-saham/)
-* [Saham Syariah: Mengenal Apa Itu Saham Syariah dan Perbedaannya dengan Konvensional](https://landx.id/blog/mengenal-saham-syariah-dan-perberdaannya-dengan-saham-konvesional/)
-* [Mau Mulai Investasi Saham? Kenali Perbedaan antara Trading dan Investasi dalam Saham](https://landx.id/blog/memahami-perbedaan-trading-dan-investasi/)
-
-- - -
-
-**\#YukPatungaBisnis     #LandX.id    #landx         #landx.id    #InvestasiBisnis     #EquityCrowdfunding    #InvestasiMenguntungkan    #Urundana     #BisnisPatungan    #InvestasiUsah**
-
-Beberapa sumber:
-
-* Mengenal Apa Itu Saham Blue Chip dan Contohnya Halaman 2 - Kompas.com
-  Apa Itu Indeks LQ45 dan KOMPAS100 Halaman all - Kompas.com
-* Rekomendasi Saham Blue Chip untuk Investor Pemula, Lirik TLKM Hingga ASII  - Market Bisnis.com
-* Pemula di Dunia Saham? Berikut Rekomendasi Saham Blue Chip 2021 (superyou.co.id)
-* Benarkah Saham Blue Chip Cocok Untuk Investor Pemula?? Yuk Kita Pelajari (finance.my.id)
-* Tertarik Saham Blue Chip? Yuk, Cek Harga 1 Lot Sahamnya! - Ajaib
-* Mengenal Saham Blue Chip dan 3 Keuntungan Bisa Diraup - Bisnis Tempo.co
