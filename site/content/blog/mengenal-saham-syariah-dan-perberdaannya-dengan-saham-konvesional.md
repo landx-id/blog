@@ -147,7 +147,7 @@ IDX Islamic menuturkan, perbedaan pasar modal syariah dan konvensional adalah pe
 * **Emiten** – emiten atau perusahaan penerbit efek di pasar modal syariah harus sesuai kriteria, mekanisme, dan syarat saham syariah. Sedangkan pada pasar modal konvensional, emiten tidak perlu memerhatikan prinsip Islam saat melakukan penawaran efek.
 * **Mekanisme Pasar Modal** – mekanisme pasar modal konvensional tidak memiliki batasan khusus atau bebas melakukan transaksi sehingga memiliki konsep imbalan bunga. Sedangkan mekanisme transaksi pasar modal syariah dilarang mengandung unsur maysir (perjudian), gharar (spekulasi), dan riba (penetapan bunga).
 
-## [Yuk Mulai Investas](https://landx.id/project/)i
+## [Yuk Mulai Investas](https://landx.id/)
 
 Setelah  paham perbedaan antara saham syariah dan konvensional kini tentu Anda  semakin paham dan mengerti tentang berbagai pilihan saham yang bisa Anda jadikan instrumen investasi.
 
@@ -155,19 +155,11 @@ Namun, Anda apabila Anda masih belum mau  berinvestasi saham, Anda mungkin bisa 
 
 [LandX](https://landx.id/) memberikan Anda kesempatan untuk Anda memulai investasi bagi hasil  menguntungkan dengan mulai investasi bisnis ke dalam berbagai bisnis  dengan potensi keuntungan jangka panjang.
 
-**[Yuk Investasi Bisnis Menguntungkan Bersama LandX.](https://landx.id/project/)**
+**[Yuk Investasi Bisnis Menguntungkan Bersama LandX.](https://landx.id/)**
 
-[![jadi-owner-bisnis-hanya-1-jutaan-dengan-cuan-yang-sangat-menjanjikan](https://accountgram-production.sfo2.cdn.digitaloceanspaces.com/landx_ghost/2021/11/jadi-owner-bisnis-hanya-1-jutaan-dengan-cuan-yang-sangat-menjanjikan.png)](https://landx.id/project/)
+[![jadi-owner-bisnis-hanya-1-jutaan-dengan-cuan-yang-sangat-menjanjikan](https://accountgram-production.sfo2.cdn.digitaloceanspaces.com/landx_ghost/2021/11/jadi-owner-bisnis-hanya-1-jutaan-dengan-cuan-yang-sangat-menjanjikan.png)](https://landx.id/)
 
 **[Mau Berbagai Info Menarik Seputar Investasi Lainnya? Yuk Follow Instagram @landx.id](https://instagram.com/landx.id?utm_medium=copy_link)**
 
 - - -
 
-## Baca Juga:
-
-* [Apa itu Saham Property, Prospek Keuntungan dan Cara Investasi Properti](https://landx.id/blog/apa-itu-saham-property-prospek-keuntungan-dan-cara-investasi-properti/)
-* [Sebelum Memulai Investasi Yuk Pahami Dulu Perbedaan Antara Reksa Dana dan Saham](https://landx.id/blog/sebelum-memulai-investasi-yuk-pahami-dulu-perbedaan-antara-reksa-dana-dan-saham/)
-
-- - -
-
-\#LandX.id     #landx.id    #InvestasiBisnis    #EquityCrowdfunding     #InvestasiMenguntungkan    #Urundana    #BisnisPatungan     #InvestasiUsaha
