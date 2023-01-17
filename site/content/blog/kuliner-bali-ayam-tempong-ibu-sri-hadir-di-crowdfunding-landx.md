@@ -116,4 +116,4 @@ Kupas Tuntas Project Ayam Tempong Ibu Sri
 
 ## [Rasakan Sensasi Miliki 2 Outlet Kuliner Hits di Bali dengan Modal Sejutaan Aja di LandX!](https://landx.id/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)
 
-![ayam tempong bu sri Bali, investasi, kuliner hits bali](https://landx.id/blog/img/landx_ayam-tempong-ibu-sri_ads_1080-x-565px_02.png)
+![ayam tempong bu sri Bali, investasi, kuliner hits bali](https://landx.id/blog/img/landx_ayam-tempong-ibu-sri_ads_1080-x-565px_02.png "Ayam tempong bu sri bali bisa dimiliki mulai dengan modal 1 jutaan")
