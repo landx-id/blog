@@ -113,7 +113,7 @@ Equity crowdfunding pada dasarnya hanya menerbitkan efek berupa saham yang ditaw
 
 Jadi, jika Anda ingin tahu lebih banyak lagi tentang investasi dengan skema ini, pastikan untuk berinvestasi melalui platform yang terpercaya, aman, dan pastinya mengantongi izin OJK seperti** [LandX](https://landx.id/)** ya!
 
-## [Ingin Mulai Pengelolaan Portofolio Investasi? Yuk, Temukan Peluang Investasi Menjanjikan di LandX Sekarang!](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)
+## [Ingin Mulai Pengelolaan Portofolio Investasi? Yuk, Temukan Peluang Investasi Menjanjikan di LandX Sekarang!](https://landx.id/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)
 
 <!--StartFragment-->
 
