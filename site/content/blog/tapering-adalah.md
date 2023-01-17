@@ -112,15 +112,12 @@ Di [LandX](https://landx.id/) Aamu bisa investasi ke berbagai bisnis privat deng
 
 **[Yuk Patungan Bisnis Menguntungkan Bareng LandX](https://landx.id/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)**
 
+<!--StartFragment-->
+
+[![miliki bisnis modal kecil cuma dengan 1 jutaan dapat 4 cabang ](https://accountgram-production.sfo2.cdn.digitaloceanspaces.com/landx_ghost/2021/11/jadi-owner-bisnis-hanya-1-jutaan-dengan-cuan-yang-sangat-menjanjikan.png)](https://landx.id/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)
+
+<!--EndFragment-->
+
 **[Mau Informasi Terupdate Lain Seputar Investasi dan Keuangan? Yuk Follow Kami di Instagram @landx.id](https://www.instagram.com/landx.id/?utm_medium=copy_link)**
 
 - - -
-
-**Baca Juga:**
-
-* [Mau Mulai Usaha? Berikut Rekomendasi Usaha yang Menjanjikan dengan Modal Kecil yang Bisa Dicoba](https://landx.id/blog/usaha-yang-menjanjikan-dengan-modal-kecil/)
-* [Tips Sukses Membangun Bisnis F&B yang Sukses dan Menguntungkan](https://landx.id/blog/memulai-bisnis-f-b/)
-
-- - -
-
-\#PatunganBisnis 	#LandX.id	#landx.id	#landx  #InvestasiBisnis	#EquityCrowdfunding	#InvestasiMenguntungkan	#Urundana	#BisnisPatungan	#InvestasiUsaha
