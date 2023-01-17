@@ -96,12 +96,12 @@ Memang memulai bisnis dessert atau bisnis lainnya tidak mudah. Khususnya dessert
 
 **Bagaimana cari menjadi investor bisnis gelato?** Kini menjadi investor bisnis gelato dapat dilakukan mulai dengan Rp 1 juta saja di platform LandX. Berinvestasi pada bisnis potensial yang terbukti profit dan mendapat keuntung bagi hasil dividen sebagai investor. 
 
-### [\#SekarangBisa memiliki bisnis gelato mulai dengan Rp 1 juta di LandX](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)
+### [\#SekarangBisa memiliki bisnis gelato mulai dengan Rp 1 juta di LandX](https://landx.id/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)
 
-**[Tunggu apalagi, segera verifikasi akun Anda di LandX agar tidak kehabisan project Vilo Gelato atau project-project bisnis menarik lainnya.\*\**](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)**
+**[Tunggu apalagi, segera verifikasi akun Anda di LandX agar tidak kehabisan project Vilo Gelato atau project-project bisnis menarik lainnya.\*\**](https://landx.id/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)**
 
-[![Jadi Pemilik Vilo Gelato Cuma dengan Modal 1 Juta](https://media.discordapp.net/attachments/913743599844343808/939222534199582800/Jadi_pemilik_franchise_gelato_cuma_dengan_modal_1_juta.png)](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)
+[![Jadi Pemilik Vilo Gelato Cuma dengan Modal 1 Juta](https://media.discordapp.net/attachments/913743599844343808/939222534199582800/Jadi_pemilik_franchise_gelato_cuma_dengan_modal_1_juta.png)](https://landx.id/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)
 
-{{< button link="https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog" text="Yuk Investasi Sekarang" >}}
+{{< button link="https://landx.id/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog" text="Yuk Investasi Sekarang" >}}
 
 - - -
