@@ -145,17 +145,15 @@ Selain boba sundae-nya, ada berbagai variasi lain yang banyak digemari. Seperti,
 
 Mixue menjadi tren karena rasanya yang enak, variasinya yang baru dan belum ada, packaging nya yang unik, dan harganya yang sangat amat terjangkau.
 
-Untuk memiliki usaha mixue ini? Tenang, modal yang diperlukan kecil kok!
+## Investasi Franchise Lewat LandX
 
-## Investasi Franchise Mixue Indonesia
+Nah, seperti yang sudah disebutkan sebelumnya kamu bisa menjadi pemilik franchise hanya dengan modal kecil. Iya, modal kecil aja kok!
 
-Nah, seperti yang sudah disebutkan sebelumnya kamu bisa menjadi pemilik franchise Mixue hanya dengan modal kecil. Iya, modal kecil aja kok!
+Gimana caranya? Kamu bisa banget jadi bos bisnis franchise dengan investasi skema e[equity crowdfunding](https://landx.id/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog).
 
-Gimana caranya? Kamu bisa banget jadi bos bisnis Mixue dengan investasi skema [equity crowdfunding](https://landx.id/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog).
+Dengan skema [equity crowdfunding](https://landx.id/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog), kamu bisa jadi pemilik bisnis hanya dengan modal Rp 1 jutaan aja, lho!
 
-Dengan skema [equity crowdfunding](https://landx.id/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog), kamu bisa jadi pemilik bisnis Mixue hanya dengan modal Rp 1 jutaan aja, lho!
-
-Tapi platform [equity crowdfunding](https://landx.id/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog) apa yang dapat dipercaya, terjamin keamanannya untuk investasi di Mixue? Jawabannya, di [LandX](https://landx.id/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog).
+Tapi platform [equity crowdfunding](https://landx.id/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog) apa yang dapat dipercaya, terjamin keamanannya untuk investasi? Jawabannya, di [LandX](https://landx.id/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog).
 
 [LandX](https://landx.id/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog), platform [equity crowdfunding](https://landx.id/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog) terpercaya, transparan, dan telah memiliki izin dari Otoritas Jasa Keuangan (OJK). Anda bisa mendapatkan keuntungan besar dengan modal kecil.
 
