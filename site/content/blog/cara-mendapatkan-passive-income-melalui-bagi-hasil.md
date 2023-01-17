@@ -90,20 +90,8 @@ Saat ada sudah memilih investasi yang cocok, yang anda butuhkan adalah konsisten
 
 **LandX merupakan platform investasi bagi hasil terpercaya yang melakukan equity crowdfunding untuk menyalurkan investasi anda kedalam berbagai usaha potensial.**
 
-**[Yuk Temukan Bisnis Menjanjikan dengan Keuntungan Terbaik di LandX](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)**
+**[Yuk Temukan Bisnis Menjanjikan dengan Keuntungan Terbaik di LandX](https://landx.id/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)**
 
-[![miliki bisnis modal kecil cuma dengan 1 jutaan dapat 4 cabang ](https://accountgram-production.sfo2.cdn.digitaloceanspaces.com/landx_ghost/2021/11/jadi-owner-bisnis-hanya-1-jutaan-dengan-cuan-yang-sangat-menjanjikan.png)](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)[](http://landx.id/)
+[![miliki bisnis modal kecil cuma dengan 1 jutaan dapat 4 cabang ](https://accountgram-production.sfo2.cdn.digitaloceanspaces.com/landx_ghost/2021/11/jadi-owner-bisnis-hanya-1-jutaan-dengan-cuan-yang-sangat-menjanjikan.png)](https://landx.id/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)[](http://landx.id/)
 
 > **[Jangan Lupa Follow Juga Instagram Kami @landx.id Supaya Anda Lebih Paham Lagi Cara Investasi](https://www.instagram.com/landx.id/?utm_medium=copy_link)**
-
-- - -
-
-**Baca Juga:**
-
-* [Menuju Akhir Tahun, Berikut Prospek dan Rekomendasi Investasi Aman untuk Tahun 2022](https://landx.id/blog/rekomendasi-investasi-di-tahun-2022/)
-* [Ekonomi Kreatif: Memahami Apa yang Dimaksud dengan Ekonomi Kreatif dan Perkembangan Ekonomi Kreatif di Indonesia](https://landx.id/blog/pentingnya-perkembangan-ekonomi-kreatif-di-indonesia/)
-* [Memahami Apa yang Dimaksud dengan Investasi dan Instrumen Investasi yang Cocok untuk Pemula](https://landx.id/blog/apa-yang-dimaskud-dengan-investasi-untuk-investasi/)
-
-- - -
-
-**\#SekarangBisa**
