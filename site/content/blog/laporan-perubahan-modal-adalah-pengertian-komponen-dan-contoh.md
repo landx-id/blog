@@ -129,10 +129,10 @@ Contoh laporan perubahan modal di atas tentu tidak menggambarkan secara detail t
 
 Itu dia penjelasan mengenai seluruh informasi penting yang ada di dalam laporan perubahan modal. Kalau kamu tertarik untuk mulai investasi atau membangun bisnis yang menarik bagi investor, maka laporan perubahan modal harus ada di daftar pembelajaran kamu ya!
 
-## [Jadi Bos Bisnis Cuan Menjanjikan Cuma Butuh Modal 1 Juta, Mulai Investasi di LandX Sekarang!](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)
+## [Jadi Bos Bisnis Cuan Menjanjikan Cuma Butuh Modal 1 Juta, Mulai Investasi di LandX Sekarang!](https://landx.id/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)
 
 <!--StartFragment-->
 
-[![miliki bisnis modal kecil cuma dengan 1 jutaan dapat 4 cabang ](https://accountgram-production.sfo2.cdn.digitaloceanspaces.com/landx_ghost/2021/11/jadi-owner-bisnis-hanya-1-jutaan-dengan-cuan-yang-sangat-menjanjikan.png)](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)
+[![miliki bisnis modal kecil cuma dengan 1 jutaan dapat 4 cabang ](https://accountgram-production.sfo2.cdn.digitaloceanspaces.com/landx_ghost/2021/11/jadi-owner-bisnis-hanya-1-jutaan-dengan-cuan-yang-sangat-menjanjikan.png)](https://landx.id/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)
 
 <!--EndFragment-->
