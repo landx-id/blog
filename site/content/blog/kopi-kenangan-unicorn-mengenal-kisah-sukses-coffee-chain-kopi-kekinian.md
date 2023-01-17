@@ -110,24 +110,12 @@ Lihat kisah sukses bisnis F&B lokal satu ini jadi tertarik punya usaha FnB juga,
 
 ### Ada caranya ga ya untuk bisa ikut [investasi](https://landx.id/) juga di kedai kopi potensial?
 
-Hmm, kalau bisnisnya melakukan **[penawaran saham perdana (IPO)](https://landx.id/blog/ipo-dalam-saham-adalah/)** sih bisa, tapi mungkin butuh waktu yang cukup lama. Bisnis potensial yang menawarkan sahamnya dengan **[sistem *crowdfunding*](https://landx.id/project/)** sepertinya bisa jadi pilihan.
+Hmm, kalau bisnisnya melakukan **[penawaran saham perdana (IPO)](https://landx.id/blog/ipo-dalam-saham-adalah/)** sih bisa, tapi mungkin butuh waktu yang cukup lama. Bisnis potensial yang menawarkan sahamnya dengan **[sistem *crowdfunding*](https://landx.id/)** sepertinya bisa jadi pilihan.
 
 ***[Crowdfunding](https://landx.id/)*  adalah sistem urun dana untuk penggalangan modal sebuah bisnis yang dikumpulkan dari masyarakat. Keuntungan yang bisa didapatkan adalah persentase dividen yang disetujui.**
 
-## **[Yuk Temukan Bisnis Menjanjikan dengan Keuntungan Terbaik di LandX](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)**
+## **[Yuk Temukan Bisnis Menjanjikan dengan Keuntungan Terbaik di LandX](https://landx.id/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)**
 
-[![miliki bisnis modal kecil cuma dengan 1 jutaan dapat 4 cabang ](https://accountgram-production.sfo2.cdn.digitaloceanspaces.com/landx_ghost/2021/11/jadi-owner-bisnis-hanya-1-jutaan-dengan-cuan-yang-sangat-menjanjikan.png)](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)
+[![miliki bisnis modal kecil cuma dengan 1 jutaan dapat 4 cabang ](https://accountgram-production.sfo2.cdn.digitaloceanspaces.com/landx_ghost/2021/11/jadi-owner-bisnis-hanya-1-jutaan-dengan-cuan-yang-sangat-menjanjikan.png)](https://landx.id/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)
 
 **[Mau Informasi Menarik Lain Seputar Investasi? Yuk Kunjungi Instagram Kami di @landx.id](https://www.instagram.com/landx.id/?utm_medium=copy_link)**
-
-- - -
-
-**Baca Juga:**
-
-* [Gaji UMR Mau Investasi? Yuk Simak Tips dan Caranya Investasi dengan Gaji UMR](https://landx.id/blog/cara-investasi-dengan-gaji-umr/)
-* [Investasi dengan Passive Income untuk Masa Depan](https://landx.id/blog/investasi-dengan-passive-income-untuk-masa-depan/)
-* [Investasi Selalu Rugi? Coba Lakukan Diversifikasi. Ini 4 Cara Melakukannya!](https://landx.id/blog/arti-penting-diversifikasi-dalam-investasi/)
-
-- - -
-
-**\#YukPatunganBisnis**
