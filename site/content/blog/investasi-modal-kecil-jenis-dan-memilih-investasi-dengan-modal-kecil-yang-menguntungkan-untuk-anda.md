@@ -40,7 +40,7 @@ Berinvestasi dengan **modal kecil** juga sangat cocok untuk investor pemula yang
 
 Buat kamu yang baru mau memulai investasi dengan modal kecil, yuk simak beberapa jenis investasi modal kecil yang bisa anda mulai.
 
-## [Investasi Modal Kecil](https://landx.id/project/)
+## [Investasi Modal Kecil](https://landx.id/)
 
 Investasi modal kecil merupakan instrumen investasi yang bisa dilakukan dengan modal yang terbilang minim sehingga investor bisa mengakses instrumen tersebut dengan modal yang terbatas.
 
@@ -130,17 +130,10 @@ Hal ini membuat anda menjadi paham bagaimana prospek bisnis tersebut dalam beber
 
 Memilih investasi terbaik bukanlah hal yang mudah, karena itu anda harus memulai sesegera mungkin agar anda bisa menemukan investasi terbaik yang sesuai dengan tujuan investasi anda. Karena itu yuk…
 
-## [Yuk, jadi bos bisnis dan terima keuntungan rutin di LandX](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)
+## [Yuk, jadi bos bisnis dan terima keuntungan rutin di LandX](https://landx.id/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)
 
-[![miliki bisnis modal kecil cuma dengan 1 jutaan dapat 4 cabang ](https://accountgram-production.sfo2.cdn.digitaloceanspaces.com/landx_ghost/2021/11/jadi-owner-bisnis-hanya-1-jutaan-dengan-cuan-yang-sangat-menjanjikan.png)](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)
+[![miliki bisnis modal kecil cuma dengan 1 jutaan dapat 4 cabang ](https://accountgram-production.sfo2.cdn.digitaloceanspaces.com/landx_ghost/2021/11/jadi-owner-bisnis-hanya-1-jutaan-dengan-cuan-yang-sangat-menjanjikan.png)](https://landx.id/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)
 
 **[LandX](https://landx.id/)** memberikan anda kesempatan untuk mulai investasi bisnis dengan modal kecil, karena itu yuk mulai investasi bisnis modal kecil bersama LandX sekarang.
 
 **[Butuh Informasi Menarik Seputar Investasi dan Bisnis Lainnya? Yuk Follow Juga Instagram Kami di @landx.id agar Terus Update Informasi Terbaru Seputar Bisnis dan Investasi](https://instagram.com/landx.id?utm_medium=copy_link)**
-
-\#LandX.id	#landx.id	#InvestasiBisnis	#EquityCrowdfunding	#InvestasiMenguntungkan	#Urundana	#BisnisPatungan	#InvestasiUsaha
-
-**Baca Juga:**
-
-* [8+ Investasi Menguntungkan Untuk Masa Depan Anda, Yuk Mulai Investasi Dari Sekarang](https://landx.id/blog/8-investasi-menguntungkan-untuk-masa-depan-anda-yuk-mulai-investasi-dari-sekarang/)
-* [4 Pilihan Investasi Jangka Pendek dan Tips Investasi Jangka Pendek yang Menguntungkan](https://landx.id/blog/4-pilihan-investasi-jangka-pendek-dan-tips-investasi-jangka-pendek-yang-menguntungkan/)
