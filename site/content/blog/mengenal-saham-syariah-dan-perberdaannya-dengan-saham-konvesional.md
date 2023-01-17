@@ -79,7 +79,7 @@ Perusahaan  yang menawarkan saham syariah harus memenuhi syarat rasio keuangan d
 
 Hal  lain yang membedakan antara saham syariah dan konvensional adalah  sumber pendapatan dari perusahaan. Dalam saham syariah, pendapatan non  halal seperti bunga tidak boleh melebihi pendapatan hasil usaha dan  tidak lebih dari 10% pendapatan secara keseluruhan.
 
-## Saham Syariah Bluechip 
+## Saham Syariah Bluechip
 
 Apabila Anda masih bingung cara berinvestasi saham syariah dan menemukan saham syariah yang sesuai dengan tujuan investasi Anda, maka Anda sebenarnya bisa mulai dengan mengecek indek saham syariah yang kini ada beberapa jenis. 
 
@@ -117,21 +117,21 @@ Saham syariah adalah saham yang diterbitkan oleh perusahaan yang berbasis syaria
 
 Saat ini di Bursa Efek Indonesia, terdapat lebih dari 400 saham syariah yang dapat Anda pilih. Lalu bagaimana cara investasi di saham syariah? Berikut cara membeli saham syariah.
 
-1. ### **Tentukan Perusahaan Sekuritas** 
+### **1﻿. Tentukan Perusahaan Sekuritas** 
 
 Perusahaan sekuritas adalah perusahaan yang telah mendapat izin dari Otoritas Jasa Keuangan (OJK) sebagai perantara perdagangan efek. Di Indonesia telah banyak platform atau perusahaan sekuritas yang memiliki aplikasi yang menjual saham syariah untuk Anda pilih.
 
 Anda tinggal membandingkannya dan mendownload aplikasi tersebut di smartphone. 
 
-2. ### **Mendaftarkan Diri (Registrasi)**
+### **2﻿. Mendaftarkan Diri (Registrasi)**
 
 Untuk membeli saham syariah di aplikasi manapun, wajib membuka rekening efek dengan melakukan registrasi foto KTP, NPWP, dan syarat lain yang diminta. 
 
-3. ### Menganalisa Saham Syariah
+### 3﻿. Menganalisa Saham Syariah
 
 Setelah berhasil terdaftar dan dikonfirmasi oleh perusahaan sekuritas, Anda dapat langsung menganalisa saham syariah yang tersedia. Cara menemukan saham syariah adalah mudah, dengan menuju pada kolom pencarian dan mengetik syariah.
 
-4. ### Melakukan Transaksi Beli Saham Syariah
+### 4﻿. Melakukan Transaksi Beli Saham Syariah
 
 Setelah menemukan saham syariah terbaik pilihan Anda, silakan untuk melakukan transfer modal awal ke aplikasi untuk membeli saham syariah pilihan.
 
@@ -162,4 +162,3 @@ Namun, Anda apabila Anda masih belum mau  berinvestasi saham, Anda mungkin bisa 
 **[Mau Berbagai Info Menarik Seputar Investasi Lainnya? Yuk Follow Instagram @landx.id](https://instagram.com/landx.id?utm_medium=copy_link)**
 
 - - -
-
