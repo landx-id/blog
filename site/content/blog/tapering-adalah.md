@@ -110,7 +110,7 @@ Di [LandX](https://landx.id/) Aamu bisa investasi ke berbagai bisnis privat deng
 
 **Karena itu…**
 
-**[Yuk Patungan Bisnis Menguntungkan Bareng LandX](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)**
+**[Yuk Patungan Bisnis Menguntungkan Bareng LandX](https://landx.id/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)**
 
 **[Mau Informasi Terupdate Lain Seputar Investasi dan Keuangan? Yuk Follow Kami di Instagram @landx.id](https://www.instagram.com/landx.id/?utm_medium=copy_link)**
 
