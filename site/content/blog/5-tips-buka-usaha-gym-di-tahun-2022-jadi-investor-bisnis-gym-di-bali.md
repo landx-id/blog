@@ -51,7 +51,7 @@ Fitness center biasanya terdapat ragam disiplin kegiatan olahraga seperti berena
 
 ## Manfaat Berolahraga Rutin di Gym
 
-Berolahraga dan mendaftar sebagai member gym membuat kita membangun komitmen agar terdorong berolahraga atau workout dengan rutin. Berikut [LandX](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog) bahas berbagai manfaat berolahraga dengan rutin.
+Berolahraga dan mendaftar sebagai member gym membuat kita membangun komitmen agar terdorong berolahraga atau workout dengan rutin. Berikut [LandX](https://landx.id/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog) bahas berbagai manfaat berolahraga dengan rutin.
 
 **1. Olahraga pelepas rasa stres** \
 Berolahraga sejatinya tentu membuat kesehatan lebih meningkat. Namun, ternyata terdapat keuntungan dari berolahraga terhadap rasa stres.Kegiatan olahraga memicu hormon endorfin muncul. Hormon endorfin adalah kunci dari rasa bahagia Anda, sehingga sekaligus mengurangi rasa stres dalam diri. \
@@ -142,7 +142,7 @@ Itulah berbagai tips membangun bisnis gym di tahun 2022 dan berbagai alasan kena
 
 Menjadi investor sebuah bisnis dikenal harus memiliki modal bagai sultan. Namun, ragam diversifikasi investasi membuat Anda dapat berinvestasi dengan modal minim. Anda bisa menjadi investor bisnis dengan modal mulai Rp 1 juta saja.
 
-Yuk, menjadi investor bisnis gym potensial dan banyak cabang di [LandX](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog). Dengan sejutaan, Anda **\#SekarangBisa** miliki usaha fitness dan mega gym paling populer di Bali. 
+Yuk, menjadi investor bisnis gym potensial dan banyak cabang di [LandX](https://landx.id/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog). Dengan sejutaan, Anda **\#SekarangBisa** miliki usaha fitness dan mega gym paling populer di Bali. 
 
 ### [Segera kunjungi LandX sekarang! Kuota terbatas.](https://app.landx.id/?utm_source=Content+Listing&utm_medium=Content+Blog&utm_campaign=BlogLandX&utm_id=Blog)
 
