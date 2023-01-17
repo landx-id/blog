@@ -50,7 +50,7 @@ Pada awalnya, sejak tahun 1971 perusahaan kopi asal Seattle, Washington, AS ini 
 
 ## Cabang Starbucks di Indonesia
 
-Starbucks pertama kali masuk ke Indonesia melalui **PT MAP Boga Adiperkasa**, anak perusahaan dari **PT Mitra Adi Perkasa** yang khusus mengurusi **[sektor *food and beverage*](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog).** Kedai pertamanya dibuka di Plaza Indonesia pada 17 Mei 2002. Tercatat hingga tahun 2020, Starbucks telah membuka 326 gerai yang tersebar di 22 kota di seluruh Indonesia.
+Starbucks pertama kali masuk ke Indonesia melalui **PT MAP Boga Adiperkasa**, anak perusahaan dari **PT Mitra Adi Perkasa** yang khusus mengurusi **[sektor *food and beverage*](https://landx.id/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog).** Kedai pertamanya dibuka di Plaza Indonesia pada 17 Mei 2002. Tercatat hingga tahun 2020, Starbucks telah membuka 326 gerai yang tersebar di 22 kota di seluruh Indonesia.
 
 ## Apakah Starbucks Membuka Kemitraan dengan Sistem Franchise?
 
@@ -121,13 +121,13 @@ Berdasarkan sistem serta syarat yang perlu dipenuhi, **bisnis *coffee shop* Star
 
 Namun, jika Anda merupakan pebisnis kelas atas yang memiliki aset menganggung sebesar yang telah disebutkan, Anda bisa ikut **membeli lisensi Starbucks** dan menjadikannya sebagai bisnis atau pemasukan sampingan.
 
-Ada banyak franchise maupun **[project bisnis *coffee shop*](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)** lain di luar sana yang masih bisa Anda ikuti, tentu dengan modal yang jauh lebih kecil dibanding Starbucks. Sebagai investor pemula, Anda bisa mencoba salah satu project bisnis yang tersedia **[di platform LandX.](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)**
+Ada banyak franchise maupun **[project bisnis *coffee shop*](https://landx.id/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)** lain di luar sana yang masih bisa Anda ikuti, tentu dengan modal yang jauh lebih kecil dibanding Starbucks. Sebagai investor pemula, Anda bisa mencoba salah satu project bisnis yang tersedia **[di platform LandX.](https://landx.id/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)**
 
-**[LandX](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)** merupakan sebuah **[platform *equity crowdfunding*](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)***,* yakni tempat bertemunya para investor dengan para pebisnis yang tengah mengembangkan bisnisnya.
+**[LandX](https://landx.id/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)** merupakan sebuah **[platform *equity crowdfunding*](https://landx.id/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)***,* yakni tempat bertemunya para investor dengan para pebisnis yang tengah mengembangkan bisnisnya.
 
 Dengan sistem patungan bisnis atau *crowdfunding*, Anda bisa ikut menjadi investor atau owner dari project bisnis di LandX dengan modal yang lebih ringan, mulai dari **1 juta rupiah.**
 
-**[Tunggu apalagi, segera verifikasi akun Anda di LandX agar tidak kehabisan project coffee shop dan project-project bisnis menarik lainnya.](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)**
+**[Tunggu apalagi, segera verifikasi akun Anda di LandX agar tidak kehabisan project coffee shop dan project-project bisnis menarik lainnya.](https://landx.id/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)**
 
 - - -
 
@@ -143,12 +143,3 @@ Dengan sistem patungan bisnis atau *crowdfunding*, Anda bisa ikut menjadi invest
 
 - - -
 
-**Baca Juga:**
-
-* [Gaji UMR Mau Investasi? Yuk Simak Tips dan Caranya Investasi dengan Gaji UMR](https://landx.id/blog/cara-investasi-dengan-gaji-umr/)
-* [Investasi dengan Passive Income untuk Masa Depan](https://landx.id/blog/investasi-dengan-passive-income-untuk-masa-depan/)
-* [Investasi Selalu Rugi? Coba Lakukan Diversifikasi. Ini 4 Cara Melakukannya!](https://landx.id/blog/arti-penting-diversifikasi-dalam-investasi/)
-
-- - -
-
-**\#YukPatunganBisnis**
