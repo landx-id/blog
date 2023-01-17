@@ -110,18 +110,8 @@ Namun, apabila anda masih belum memiliki modal…
 
 ## [Mulai Patungan Bisnis untuk Bangun Bisnis Franchise Terbaik Hanya Dengan 1 Juta melalui LandX](https://landx.id/)
 
-[![Bagaimana? Kamu lebih suka bisnis dengan buyback guarantee atau yang bisa disimpan dalam jangka panjang? Apapun pilihan kamu.. Yuk Patungan  dengan Keuntungan Menjanjikan Bareng LandX](https://accountgram-production.sfo2.cdn.digitaloceanspaces.com/landx_ghost/2021/10/Equity-Crowdfunding-di-Indonesia-1--3.png)](http://landx.id/project/)
+[![Bagaimana? Kamu lebih suka bisnis dengan buyback guarantee atau yang bisa disimpan dalam jangka panjang? Apapun pilihan kamu.. Yuk Patungan  dengan Keuntungan Menjanjikan Bareng LandX](https://accountgram-production.sfo2.cdn.digitaloceanspaces.com/landx_ghost/2021/10/Equity-Crowdfunding-di-Indonesia-1--3.png)](http://landx.id/)
 
 **[Mau Informasi Menarik Lain Seputar Investasi? Yuk Kunjungi Instagram Kami di @landx.id](https://www.instagram.com/landx.id/?utm_medium=copy_link)**
 
 - - -
-
-**Baca Juga:**
-
-* [Gaji UMR Mau Investasi? Yuk Simak Tips dan Caranya Investasi dengan Gaji UMR](https://landx.id/blog/cara-investasi-dengan-gaji-umr/)
-* [Investasi dengan Passive Income untuk Masa Depan](https://landx.id/blog/investasi-dengan-passive-income-untuk-masa-depan/)
-* [Investasi Selalu Rugi? Coba Lakukan Diversifikasi. Ini 4 Cara Melakukannya!](https://landx.id/blog/arti-penting-diversifikasi-dalam-investasi/)
-
-- - -
-
-**\#YukPatunganBisnis**
