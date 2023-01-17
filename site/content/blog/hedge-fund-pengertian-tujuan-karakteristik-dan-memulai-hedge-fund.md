@@ -112,9 +112,9 @@ Dalam *hedge fund* anda harus memikirkan target yang ingin anda capai saat berin
 
 Di LandX, kamu akan menemukan bisnis menguntungkan dari berbagai sektor yang bisa kamu danai dengan 1 jutaan saja.
 
-## [Yuk Patungan Bisnis Menguntungkan Bareng LandX Platform Equity Crowdfunding Terpercaya](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)
+## [Yuk Patungan Bisnis Menguntungkan Bareng LandX Platform Equity Crowdfunding Terpercaya](https://landx.id/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)
 
-[![yuk patungan bisnis menguntungkan bersama landx cuma dengan modal 1 jutaan](https://accountgram-production.sfo2.cdn.digitaloceanspaces.com/landx_ghost/2021/10/patungan-bisnis-menguntungkan-bareng-landx-5.png)](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)
+[![yuk patungan bisnis menguntungkan bersama landx cuma dengan modal 1 jutaan](https://accountgram-production.sfo2.cdn.digitaloceanspaces.com/landx_ghost/2021/10/patungan-bisnis-menguntungkan-bareng-landx-5.png)](https://landx.id/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)
 
 - - -
 
@@ -126,5 +126,3 @@ Di LandX, kamu akan menemukan bisnis menguntungkan dari berbagai sektor yang bis
 - - -
 
 > **[Yuk Follow Instagram Kami @landx.id Supaya Makin Paham Apa Itu Investasi](https://www.instagram.com/landx.id/?utm_medium=copy_link)**
-
-\#LandX.id	#landx.id	#InvestasiBisnis	#EquityCrowdfunding	#InvestasiMenguntungkan	#Urundana	#BisnisPatungan	#InvestasiUsaha
