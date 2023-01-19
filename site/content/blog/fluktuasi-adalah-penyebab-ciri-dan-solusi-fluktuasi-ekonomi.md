@@ -117,10 +117,10 @@ Dalam menghadapi fluktuasi, investasi adalah salah satu langkah preventif yang b
 
 Jika Anda mengalokasikan dana untuk berinvestasi, dana tersebut bisa berpotensi untuk meningkat terus nominalnya. Peningkatan nilai aset investasi ini artinya peningkatan passive income, yang bisa Anda gunakan untuk menabung dana darurat, menyiapkan dana hari tua, atau kebutuhan lainnya.
 
-## **[Hindari Risiko Fluktuasi Ekonomi, Yuk Investasi dengan Modal 1 Jutaan di LandX Sekarang Juga!](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)**
+## **[Hindari Risiko Fluktuasi Ekonomi, Yuk Investasi dengan Modal 1 Jutaan di LandX Sekarang Juga!](https://landx.id/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)**
 
 <!--StartFragment-->
 
-[![Yuk mulai patungan bisnis menguntungkan jangka panja g bersama LandX](https://accountgram-production.sfo2.cdn.digitaloceanspaces.com/landx_ghost/2021/09/Equity-Crowdfunding-di-Indonesia-1--3.png)](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)
+[![Yuk mulai patungan bisnis menguntungkan jangka panja g bersama LandX](https://accountgram-production.sfo2.cdn.digitaloceanspaces.com/landx_ghost/2021/09/Equity-Crowdfunding-di-Indonesia-1--3.png)](https://landx.id/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)
 
 <!--EndFragment-->
