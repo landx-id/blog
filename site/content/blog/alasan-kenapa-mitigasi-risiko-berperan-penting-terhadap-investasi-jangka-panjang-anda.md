@@ -139,19 +139,11 @@ Memilih **[platform crowdfunding](https://landx.id/)** yang baik merupakan salah
 
 **[LandX](https://landx.id/)** merupakan [platform equity crowdfunding](https://landx.id/) yang sudah berpengalaman menyalurkan dana investor ke dalam berbagai bisnis potensial di sekitar anda.
 
-## [Yuk Patungan Bisnis Menguntungkan Bareng LandX](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)
+## [Yuk Patungan Bisnis Menguntungkan Bareng LandX](https://landx.id/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)
 
-[![miliki bisnis modal kecil cuma dengan 1 jutaan dapat 4 cabang ](https://accountgram-production.sfo2.cdn.digitaloceanspaces.com/landx_ghost/2021/11/jadi-owner-bisnis-hanya-1-jutaan-dengan-cuan-yang-sangat-menjanjikan.png)](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)
+[![miliki bisnis modal kecil cuma dengan 1 jutaan dapat 4 cabang ](https://accountgram-production.sfo2.cdn.digitaloceanspaces.com/landx_ghost/2021/11/jadi-owner-bisnis-hanya-1-jutaan-dengan-cuan-yang-sangat-menjanjikan.png)](https://landx.id/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)
 
 **[Yuk Tetap Update Info Seputar Investasi Terbaru Dengan Follow Instagram Kami @landx.id](https://www.instagram.com/landx.id/?utm_medium=copy_link)**
 
 - - -
 
-**Baca Juga:**
-
-* **[Rahasia Bisnis Kapal Cumi yang Tak Diketahui Orang](https://landx.id/project/#/asm1)**
-* **[Investor Pemula Wajib Tau, Berbagai Jenis dan Risiko Obligasi](https://landx.id/blog/apa-itu-obligasi/)**
-
-- - -
-
-\#LandX.id    #landx.id    #YukPatunganBisnis    #InvestasiBisnis    #SecuritiesCrowdfunding    #EquityCrowdfunding    #InvestasiMenguntungkan    #Urundana    #BisnisPatungan    #InvestasiUsaha
