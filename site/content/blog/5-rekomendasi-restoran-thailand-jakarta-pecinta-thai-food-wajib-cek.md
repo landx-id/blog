@@ -47,7 +47,7 @@ White Elephant merupakan restoran Thailand di Jakarta yang cenderung terbilang m
 
 Selain itu, menu dessertnya dapat dijadikan penyegar mulut dari pedasnya rasa tom yam goong di White Elephant.
 
-![](https://lh5.googleusercontent.com/XX6_zNEMAX0bBsyGFM6o9yBh8DZZNWT9J0moEF68amdjJX9CChs0_MaiUhO4oCcjHkR1wtQ76KauzEjUodjjdd7hpMMhwlsGrk-vBOuwcxvFtfrXeElUHd1SFTtw_1oaHV0LNrwLvFbCGJEk2tEnMVuVmx1Gh7UcVcFYhTyXhDVp4YMgD7K6ZAcT40_xyw)
+![santhai](https://lh5.googleusercontent.com/XX6_zNEMAX0bBsyGFM6o9yBh8DZZNWT9J0moEF68amdjJX9CChs0_MaiUhO4oCcjHkR1wtQ76KauzEjUodjjdd7hpMMhwlsGrk-vBOuwcxvFtfrXeElUHd1SFTtw_1oaHV0LNrwLvFbCGJEk2tEnMVuVmx1Gh7UcVcFYhTyXhDVp4YMgD7K6ZAcT40_xyw "santhai")
 
 ## 5 Santhai
 
@@ -57,7 +57,7 @@ Santhai menawarkan hingga 200 menu otentik Thailand yang diracik langsung oleh c
 
 Untuk rekomendasi menu Santhai, kamu bisa mencoba nasi goreng nanas yang gurih dan seger selain tom yam sup. Buat makanan penutupnya  kamu bisa coba mango sticky rice atau durian sticky rice yang nendang rasanya. Menikmati sajian Thai food di Santhai bikin kamu merasa lagi di restoran dekat pantai karena vibe dan interiornya yang cerah ala pantai tropis. 
 
-Baca juga: [\[News] LandX Raih Penghargaan The Best Performance 2022](https://landx.id/blog/news-landx-menangkan-penghargaan-the-best-performance-platform-2022/)
+Baca juga: \[[News] LandX Raih Penghargaan The Best Performance 2022](https://landx.id/blog/news-landx-menangkan-penghargaan-the-best-performance-platform-2022/)
 
 Memiliki dan mengelola bisnis memang hal yang tidak mduah dan penuh tantangan, apalagi jika memiliki lebih dari satu bisnis dari industri yang berbeda. Namun, hal ini dapat diwujudkan dengan cara menjadi pemegang saham bisnis.
 
