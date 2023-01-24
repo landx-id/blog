@@ -39,7 +39,7 @@ Bersama dengan 4 dari 5 anaknya, Arnault Family juga terus memperluas kerajaanny
 
 ## 2 Elon Musk ($181.3B)
 
-![kekayaan elon musk 2023](img/324722040_911926129994722_1409510911418728510_n.jpg "Total kekayaan elon musk 2023")
+![kekayaan elon musk 2023](https://media.discordapp.net/attachments/905280638955962378/1067339287927984209/324722040_911926129994722_1409510911418728510_n.jpg?width=524&height=655 "Total kekayaan elon musk 2023")
 
 Elon Musk sang pemilik Twitter saat ini mengalami turun peringkat dari tahun lalu sebagai orang terkaya di dunia. Selain menjadi pemilik Twitter, Elon Musk juga merupakan seorang yang dikenal sebagai CEO Tesla, perusahaan mobil listrik populer di dunia.
 
@@ -51,7 +51,7 @@ Media Bloomberg mengabarkan bahwa Elon Musk telah kehilangan sekitar $200 miliar
 
 ## 3 Gautam Adani ($134.4B)
 
-![Orang terkaya no 3 di dunia](img/324840945_707333897712903_3114749121111774535_n.jpg "Orang terkaya di dunia")
+![Orang terkaya no 3 di dunia](https://media.discordapp.net/attachments/905280638955962378/1067339287638581279/324840945_707333897712903_3114749121111774535_n.jpg?width=524&height=655 "Orang terkaya di dunia")
 
 Berfokus pada industri infrastruktur dan komoditas, Gautam Adani kini menjadi orang terkaya di Asia 2023 dan tercatat memiliki kekayaan bersih ketiga di dunia berdasarkan list terbaru orang terkaya di dunia. 
 
@@ -63,7 +63,7 @@ Terus mengembangkan jiwa entrepreneur dalam dirinya, tahun 2022 lalu Adani menga
 
 ## 4 Jeff Bezos ($109.3B)
 
-![Kekayaan jeff bezos 2023](img/324445232_690526482715194_7134376842361276127_n.jpg "kekayaan jeff bezos 2023")
+![Kekayaan jeff bezos 2023](https://media.discordapp.net/attachments/905280638955962378/1067339287403708466/324445232_690526482715194_7134376842361276127_n.jpg?width=524&height=655 "kekayaan jeff bezos 2023")
 
 Jeff Bezos mendirikan situs Amazon pada tahun 1994 dan membawa Amazon IPO tahun 1997. Keberhasilan situs terkemuka dunia yang lahir di Amerika Serikat ini dalam melantai di bursa efek membuat Bezos menjadi orang pertama setelah Bill Gates yang memiliki kekayaan bersih mencapai $100 miliar. 
 
@@ -73,7 +73,7 @@ Menurut laporan Forbes Real Time Billionaires, Jeff Bezos kehilangan kekayaan se
 
 ## 5 Bill Gates ($109B)
 
-![kekayaan bill gates 2023](img/324702729_561063765899297_5738101014243507524_n.jpg "berapa kekayaan bill gates 2023")
+![kekayaan bill gates 2023](https://media.discordapp.net/attachments/905280638955962378/1067339287160430622/324702729_561063765899297_5738101014243507524_n.jpg?width=524&height=655 "berapa kekayaan bill gates 2023")
 
 Berusia 68 tahun ini,Bill Gates adalah ketua Microsoft Corporation sekaligus pemimpin industri perangkat lunak dunia. Karyanya telah menjadi  layanan dan solusi yang membantu orang dan bisnis mewujudkan potensi penuh bisnis mereka. 
 
