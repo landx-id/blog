@@ -60,7 +60,7 @@ Karena itu, kebijakan dividen merupakan hal yang sangat penting untuk dipahami o
 
 Seperti yang sudah kita bahas sebelumnya, dividen dibagikan setelah persetujuan dalam Rapat Umum Pemegang Saham (RUPS) yang dilakukan sekali setahun. Namun, ada juga dividen interim yang mungkin saja dibagikan lebih dari satu kali dalam setahun.
 
-Karena itu, kamu jangan kaget kalau ada saham-saham tertentu yang pembagiannya 2 kali dalam setahun. Misalnya, seperti opsi investasi lewat platform [securities crowdfunding](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog). Kamu bisa mendapat kesempatan untuk memperoleh dividen rutin sampai dengan 4 kali setahun, tergantung dengan project yang kamu pilih untuk mengalokasikan modal berinvestasi.
+Karena itu, kamu jangan kaget kalau ada saham-saham tertentu yang pembagiannya 2 kali dalam setahun. Misalnya, seperti opsi investasi lewat platform [securities crowdfunding](https://landx.id/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog). Kamu bisa mendapat kesempatan untuk memperoleh dividen rutin sampai dengan 4 kali setahun, tergantung dengan project yang kamu pilih untuk mengalokasikan modal berinvestasi.
 
 Cara pembagian dividen biasanya ditentukan setelah RUPS. Dalam menentukan sistem apa itu dividen, RUPS biasanya akan diadakan pada kuartal I/ II setiap tahunnya sehingga tanggal tepatnya kapan pembagian dividen biasanya akan jatuh setelah rapat ini.
 
