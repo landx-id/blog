@@ -97,11 +97,11 @@ Pembelian paket gerai Alfamart yang telah beroperasi adalah seharga mulai dari R
 
 Apabila kamu ingin investasi ke bisnis Alfamart, maka salah satu cara yang bisa kamu lakukan adalah dengan ikut patungan bisnis dengan sistem equity crowdfunding yang memberikan kamu kesempatan berinvestasi ke bisnis privat. 
 
-Sistem ini memberikan kamu kesempatan untuk berinvestasi ke berbagai bisnis potensial cuma dengan [modal 1 juta](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog) dan sebagai pemegang saham kamu bisa mendapatkan keuntungan berupa dividen dari bagi hasil keuntungan bisnis tersebut. 
+Sistem ini memberikan kamu kesempatan untuk berinvestasi ke berbagai bisnis potensial cuma dengan [modal 1 juta](https://landx.id/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog) dan sebagai pemegang saham kamu bisa mendapatkan keuntungan berupa dividen dari bagi hasil keuntungan bisnis tersebut. 
 
 Instrumen ini bisa jadi pilihan untuk kamu yang lagi cari instrumen investasi dengan keuntungan jangka panjang yang menjanjikan. 
 
-## [\#SekarangBisa Miliki Bisnis dengan Modal Sejutaan](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)
+## [\#SekarangBisa Miliki Bisnis dengan Modal Sejutaan](https://landx.id/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)
 
 [LandX ](https://landx.id/)sudah bahas harga fanchise Alfamart dan bagaimana cara punya franchise Alfamart. Bagaimana? Apa ketertarikan Anda untuk memiliki gerai yang identik dengan warna merah ini semakin kuat?
 
@@ -113,10 +113,10 @@ Dengan berinvestasi pada bisnis yang ada di platform equity crowdfunding [LandX]
 
 Anda akan menerima keuntungan dividen dari bisnis ternama di [LandX](https://landx.id/) berkisar 3 hingga 6 bulan sesuai perjanjian.  Menambah passive income dengan membuat uang yang bekerja untuk Anda. Jadikan uang adalah kendaraan untuk Anda mencapai financial dan life goals yang diharapkan.
 
-# [Karena itu, yuk berinvestasi di LandX dan dapatkan keuntungan dividen rutin setiap 3 bulan!](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)
+# [Karena itu, yuk berinvestasi di LandX dan dapatkan keuntungan dividen rutin setiap 3 bulan!](https://landx.id/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)
 
-## **[Yuk Temukan Bisnis Menjanjikan dengan Keuntungan Terbaik di LandX](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)**
+## **[Yuk Temukan Bisnis Menjanjikan dengan Keuntungan Terbaik di LandX](https://landx.id/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)**
 
-[![miliki bisnis modal kecil cuma dengan 1 jutaan dapat 4 cabang ](https://accountgram-production.sfo2.cdn.digitaloceanspaces.com/landx_ghost/2021/11/jadi-owner-bisnis-hanya-1-jutaan-dengan-cuan-yang-sangat-menjanjikan.png)](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)
+[![miliki bisnis modal kecil cuma dengan 1 jutaan dapat 4 cabang ](https://accountgram-production.sfo2.cdn.digitaloceanspaces.com/landx_ghost/2021/11/jadi-owner-bisnis-hanya-1-jutaan-dengan-cuan-yang-sangat-menjanjikan.png)](https://landx.id/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)
 
 \#SekarangBisa
