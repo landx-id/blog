@@ -17,6 +17,8 @@ tag:
   - Instrumen Investasi
   - Investasi untuk Pemula
   - Investasi Jangka Panjang
+category:
+  - Keuangan
 featuredImage:
   src: https://images.unsplash.com/photo-1631603090989-93f9ef6f9d80?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=872&q=80
   alt: Apa itu market cap dan cara menghitung market cap (market capitalization)
@@ -152,6 +154,8 @@ Itu dia penjelasan lengkap mengenai market cap dalam aset investasi, khususnya s
 
 Namun, karena terdapat beberapa faktor lain juga yang bisa berimbas pada perubahan nilai market cap tersebut, maka Anda sebagai investor harus selalu up to date dalam menilai situasi dan kondisi pasar investasi yang ada agar bisa mendapat keuntungan optimal.
 
-![miliki bisnis modal kecil cuma dengan 1 jutaan dapat 4 cabang ](https://accountgram-production.sfo2.cdn.digitaloceanspaces.com/landx_ghost/2021/11/jadi-owner-bisnis-hanya-1-jutaan-dengan-cuan-yang-sangat-menjanjikan.png "Cara jadi pemilik bisnis dengan modal 1 jutaan ")
+<!--StartFragment-->
 
-<!--EndFragment-->
+## [Persiapkan Masa Depan Terjamin dengan Investasi di LandX Sekarang Juga](https://landx.id/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)[Y﻿uk Mulai Jadi Investor Bisnis Sekarang](https://landx.id/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)
+
+[![miliki bisnis modal kecil cuma dengan 1 jutaan dapat 4 cabang ](https://accountgram-production.sfo2.cdn.digitaloceanspaces.com/landx_ghost/2021/11/jadi-owner-bisnis-hanya-1-jutaan-dengan-cuan-yang-sangat-menjanjikan.png)](https://landx.id/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)
