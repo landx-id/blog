@@ -128,17 +128,17 @@ Memasuki kuartal ketiga tahun ini, informasi pasti tentang Merah Putih Fund adal
 
 Nantinya, dari General Partner tersebut ditambah dengan dua orang perwakilan independen akan menjadi anggota dewan direksi yang menentukan keputusan startup mana yang akan mendapat suntikan modal investasi dari dana Merah Putih Fund.
 
-## [Yuk Ikut Pendanaan Startup Bisnis Lokal](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)
+## [Yuk Ikut Pendanaan Startup Bisnis Lokal](https://landx.id/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)
 
 Bisnis lokal dengan pancaran potensi yang dimiliki menjadi peluang menjanjikan. Berandai-andai dapat ikut berpartisipasi pada bisnis yang sedang berjalan dan arus kas terlihat cuan tentu pernah terlintas di pikiran.
 
-Tidak lagi hanya jadi angan, kini kamu bisa ikut mendanai bisnis lokal dengan investasi dengan **[sistem equity crowdfunding](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)**. Pilih sendiri bisnis yang ingin didanai, otomatis jadi bagian pemilik bisnis dan dapat cuan tambahan.
+Tidak lagi hanya jadi angan, kini kamu bisa ikut mendanai bisnis lokal dengan investasi dengan **[sistem equity crowdfunding](https://landx.id/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)**. Pilih sendiri bisnis yang ingin didanai, otomatis jadi bagian pemilik bisnis dan dapat cuan tambahan.
 
 Berinvestasi patungan bisnis atau *crowdfunding*, kamu bisa jadi investor sekaligus pemilik bisnis tanpa repot kelola bisnis. Bersama LandX yang selalu menyeleksi bisnis terbaik, kamu bisa kebagian cuan dan berkontribusi pada perkembangan bisnis lokal.
 
-## [\#SekarangBisa investasi sekaligus jadi pemilik bisnis hanya di LandX!](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)
+## [\#SekarangBisa investasi sekaligus jadi pemilik bisnis hanya di LandX!](https://landx.id/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)
 
-[![Bagaimana? Kamu lebih suka bisnis dengan buyback guarantee atau yang bisa disimpan dalam jangka panjang? Apapun pilihan kamu.. Yuk Patungan  dengan Keuntungan Menjanjikan Bareng LandX](https://accountgram-production.sfo2.cdn.digitaloceanspaces.com/landx_ghost/2021/10/Equity-Crowdfunding-di-Indonesia-1--3.png)](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)
+[![Bagaimana? Kamu lebih suka bisnis dengan buyback guarantee atau yang bisa disimpan dalam jangka panjang? Apapun pilihan kamu.. Yuk Patungan  dengan Keuntungan Menjanjikan Bareng LandX](https://accountgram-production.sfo2.cdn.digitaloceanspaces.com/landx_ghost/2021/10/Equity-Crowdfunding-di-Indonesia-1--3.png)](https://landx.id/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)
 
 **[Jangan Lupa Follow Instagram @landx.id Untuk Berbagai Tips Investasi Menguntungkan Lainnya](https://www.instagram.com/landx.id/?utm_medium=copy_link)**
 
