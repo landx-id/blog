@@ -31,13 +31,13 @@ Mau kenal lebih lanjut tentang Hong Tang? Yuk simak video ini dulu
 
 Bagi pecinta jajanan manis, nama Hong Tang tentu sudah tidak asing lagi. Dessert segar dengan berbagai varian menu dan topping ini sudah ada di Indonesia sejak tahun 2012. Tidak heran jika saat ini penggemar dan pelanggan setianya semakin banyak.
 
-**[Hong Tang](https://landx.id/project/#/hong)** adalah restoran dessert terbaik yang mengusung tema makanan penutup menyegarkan dengan bahan-bahan alami seperti *grass jelly,* ubi merah, ubi kuning, dan ubi ungu yang kaya akan vitamin dan serat yang baik bagi pencernaan dan peredaran darah.
+**[Hong Tang](https://landx.id/)** adalah restoran dessert terbaik yang mengusung tema makanan penutup menyegarkan dengan bahan-bahan alami seperti *grass jelly,* ubi merah, ubi kuning, dan ubi ungu yang kaya akan vitamin dan serat yang baik bagi pencernaan dan peredaran darah.
 
 Ada lebih dari 100 menu dessert, minuman, serta makanan ringan lainnya yang dapat dinikmati. Namun, Hong Tang tetap memiliki beberapa menu wajib coba seperti Q Ball Ice series, Grass Jelly Ice series, atau Taro series yang sayang untuk dilewatkan. Salah satu menu andalannya, Q Ball, merupakan bola-bola lezat warna-warni berbahan dasar ubi yang menyehatkan.
 
 Meski sudah memiliki lebih dari 20 outlet di seluruh Indonesia, Hong Tang saat ini tengah berencana untuk membuka 5 outlet baru, serta yang paling spesial, 2 outlet multibrand baru bernama Tang Kitchen.
 
-[**Tang Kitchen** ](https://landx.id/project/#/hong) merupakan sebuah outlet multibrand cloud kitchen, di mana di dalam satu outlet tersebut pelanggan bisa *dine-in* dan menikmati kolaborasi antara Hong Tang dengan berbagai brand FnB lainnya yang pastinya seru banget. Inilah 4 produk FnB yang akan bergabung dan bisa dinikmati di Tang Kitchen:
+[**Tang Kitchen** ](https://landx.id/) merupakan sebuah outlet multibrand cloud kitchen, di mana di dalam satu outlet tersebut pelanggan bisa *dine-in* dan menikmati kolaborasi antara Hong Tang dengan berbagai brand FnB lainnya yang pastinya seru banget. Inilah 4 produk FnB yang akan bergabung dan bisa dinikmati di Tang Kitchen:
 
 ### 1. 1868 Curry House
 
@@ -71,7 +71,7 @@ Bagi pengunjung Tang Kitchen yang lebih menyukai minuman menyegarkan, Tian Tang 
 
 Outlet Tang Kitchen akan segera dibuka di dua lokasi sekaligus. Tepatnya di Taman Palem Citra 6 Jakarta Barat dan Taman Galaxy Bekasi. Sedangkan 5 outlet baru Hong Tang akan segera dibuka di Pondok Indah Mall 2, Gandaria City, Summarecon Mall Kelapa Gading 3, Summarecon Mall Bekasi, dan Broadway Alam Sutera.
 
-## [Listing di LandX](https://landx.id/project/#/hong)
+## [Listing di LandX](https://landx.id/)
 
 Secara umum, dessert dan makanan manis sudah menjadi subkategori industri FnB yang cukup mapan di Indonesia, melebihi subkategori makanan lainnya. Dessert memiliki keunggulan yakni bisa dinikmati kapan saja dan di mana saja, serta disukai oleh hampir semua kalangan. Sehingga, jangkauan konsumennya juga menjadi lebih luas.
 
@@ -81,11 +81,11 @@ Selain itu, Hong Tang juga selalu konsisten dalam menciptakan menu baru dan mela
 
 Kini, kamu juga memiliki kesempatan untuk menjadi owner Hong Tang. Project Hong Tang sebentar lagi akan listing di LandX. Kamu bisa menjadi owner dan bagian dari proyek pengembangan outlet baru Hong Tang dan Tang Kitchen.
 
-**[Di LandX](https://landx.id/project/#/hong)**, kamu bisa ikut patungan bisnis dan menjadi owner dari Hong Tang, hanya dengan modal mulai dari 1 jutaan saja.
+**[Di LandX](https://landx.id/)**, kamu bisa ikut patungan bisnis dan menjadi owner dari Hong Tang, hanya dengan modal mulai dari 1 jutaan saja.
 
-### [Tunggu apalagi, segera verifikasi akunmu di LandX agar tidak ketinggalan Project Hong Tang dan project menarik lainnya..](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)
+### [Tunggu apalagi, segera verifikasi akunmu di LandX agar tidak ketinggalan Project Hong Tang dan project menarik lainnya..](https://landx.id/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)
 
-[![miliki bisnis modal kecil cuma dengan 1 jutaan dapat 4 cabang ](https://accountgram-production.sfo2.cdn.digitaloceanspaces.com/landx_ghost/2021/11/jadi-owner-bisnis-hanya-1-jutaan-dengan-cuan-yang-sangat-menjanjikan.png)](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)
+[![miliki bisnis modal kecil cuma dengan 1 jutaan dapat 4 cabang ](https://accountgram-production.sfo2.cdn.digitaloceanspaces.com/landx_ghost/2021/11/jadi-owner-bisnis-hanya-1-jutaan-dengan-cuan-yang-sangat-menjanjikan.png)](https://landx.id/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)
 
 - - -
 
