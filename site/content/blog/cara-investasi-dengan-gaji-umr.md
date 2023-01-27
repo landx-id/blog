@@ -82,27 +82,17 @@ Pilih instrumen investasi yang sesuai dengan tujuan finansial yang ingin kamu ca
 
 Sementara untuk investasi jangka pendek atau menengah, kamu bisa memilih instrumen investasi dengan potensi keuntungan yang lebih besar, seperti saham, reksadana, obligasi, dan pasar uang.
 
-## [Investasi dengan Modal 1 Juta di Platform LandX](https://landx.id/project/)
+## [Investasi dengan Modal 1 Juta di Platform LandX](https://landx.id/)
 
 Salah satu kendala investasi bagi orang yang memiliki penghasilan UMR adalah merasa tidak memiliki cukup dana untuk berinvestasi. Padahal, kini berinvestasi bisa dimulai dengan modal rendah. Salah satunya adalah investasi melalui platform LandX.
 
-**[LandX](https://landx.id/project/)** merupakan salah satu perusahaan *Equity Crowdfunding* (ECF) di Indonesia yang mempertemukan para investor dengan perusahaan atau pengusaha yang membutuhkan dana untuk pengembangan usahanya. Di LandX kamu bisa membeli saham dari beragam jenis bidang usaha, dengan harga saham mulai dari satu juta rupiah. Sehingga, sangat cocok bagi kamu yang memiliki penghasilan UMR.
+**[LandX](https://landx.id/)** merupakan salah satu perusahaan *Equity Crowdfunding* (ECF) di Indonesia yang mempertemukan para investor dengan perusahaan atau pengusaha yang membutuhkan dana untuk pengembangan usahanya. Di LandX kamu bisa membeli saham dari beragam jenis bidang usaha, dengan harga saham mulai dari satu juta rupiah. Sehingga, sangat cocok bagi kamu yang memiliki penghasilan UMR.
 
 Tidak ada lagi alasan untuk menunda-nunda. Jika sebelumnya kamu merasa tidak memiliki cukup modal untuk melakukan investasi karena berpenghasilan UMR, maka tahun 2022 adalah saat yang tepat untuk memperbaiki resolusi finansial. Ada banyak jenis investasi yang bisa kamu mulai sebagai investor di aplikasi LandX.
 
 ## \#SekarangBisa investasi sekaligus jadi pemilik bisnis hanya di LandX!
 
-[![Bagaimana? Kamu lebih suka bisnis dengan buyback guarantee atau yang bisa disimpan dalam jangka panjang? Apapun pilihan kamu.. Yuk Patungan  dengan Keuntungan Menjanjikan Bareng LandX](https://accountgram-production.sfo2.cdn.digitaloceanspaces.com/landx_ghost/2021/10/Equity-Crowdfunding-di-Indonesia-1--3.png)](http://landx.id/project/)
+[![Bagaimana? Kamu lebih suka bisnis dengan buyback guarantee atau yang bisa disimpan dalam jangka panjang? Apapun pilihan kamu.. Yuk Patungan  dengan Keuntungan Menjanjikan Bareng LandX](https://accountgram-production.sfo2.cdn.digitaloceanspaces.com/landx_ghost/2021/10/Equity-Crowdfunding-di-Indonesia-1--3.png)](http://landx.id/)
 
 **[Jangan Lupa Follow Instagram @landx.id Untuk Berbagai Tips Investasi Menguntungkan Lainnya](https://www.instagram.com/landx.id/?utm_medium=copy_link)**
 
-- - -
-
-**Baca Juga:**
-
-* [Investasi dengan Passive Income untuk Masa Depan](https://landx.id/blog/investasi-dengan-passive-income-untuk-masa-depan/)
-* [Investasi Selalu Rugi? Coba Lakukan Diversifikasi. Ini 4 Cara Melakukannya!](https://landx.id/blog/arti-penting-diversifikasi-dalam-investasi/)
-
-- - -
-
-**\#YukPatunganBisnis    #LandX.id    #landx         #landx.id    #InvestasiBisnis  #SecuritiesCrowdfunding   #EquityCrowdfunding    #InvestasiMenguntungkan     #Urundana    #BisnisPatungan    #InvestasiUsaha**
