@@ -143,23 +143,17 @@ Melihat dari sejarah resesi Indonesia, sebenarnya negara ini sudah beberapa kali
 
 Pada masa kepemimpinan Presiden Soekarno, selama dua kuartal berturut-turut Indonesia mengalami penurunan ekonomi yang mengantarkan pada defisit anggaran hingga 600% pada dua tahun setelahnya.
 
-
-
 Masa resesi ekonomi Indonesia 1963 dipicu oleh hiperinflasi yang dipicu oleh tindakan konfrontatif keluar dari Perserikatan Bangsa-Bangsa (PBB). Alhasil, PDB Indonesia kontraksi karena buruknya transaksi investasi asing dan ekspor-impor. Hal inilah yang membuat anggaran belanja pemerintah membengkak dan kemudian menyebabkan hiperinflasi.
 
 ## 2.  Sejarah Resesi Ekonomi Indonesia 1998
 
 Masa resesi Indonesia 1998 dipicu oleh Krisis Keuangan Asia yang telah terjadi lebih dulu. Pada dasarnya, PDB Indonesia sudah minus selama 6 bulan berturut-turut  di tahun 1997. Lalu, pada 1998 negara Thailand yang meninggalkan fixed exchange rate terhadap dolar AS sehingga harganya menguat dan rupiah pun melemah.
 
-
-
 Kondisi PDB Indonesia yang sudah minus, ditambah menukiknya nilai rupiah membuat banyak perusahaan dan bahkan pemerintah mengalami gagal bayar. Saat itu, nilai tukar rupiah terjun dari Rp2.500 menjadi Rp16.900 per dolar AS.
 
 ## 3. Sejarah Resesi Ekonomi Indonesia 2008
 
 Setelah berhasil bertahan di tengah masa resesi ekonomi 1998 dan bangkit, Indonesia kembali mengalami penurunan ekonomi karena tekanan resesi global yang dipicu oleh Amerika Serikat. Saat itu, krisis keuangan 2008-2009 dipicu oleh kredit macet di sektor properti Amerika Serikat (subprime mortgage) yang berhasil membuat perusahaan besar seperti Lehman Brother tumbang.
-
-
 
 Akhirnya, masa resesi ekonomi Indonesia 1998 terjadi ketika bursa keuangan seperti saham, kurs mata uang, hingga obligasi jatuh akibat aksi jual besar-besaran yang berakhir pada derasnya arus modal ke luar (capital outflow).
 
@@ -213,23 +207,13 @@ Jika pemerintah bisa menjaga defisit anggaran, pemerintah akan mampu mendorong b
 
 Memasuki akhir tahun 2022, kencangnya isu resesi ekonomi 2023 semakin gempar dibicarakan. Lalu, kenapa 2023 diprediksi akan resesi? Ternyata, ketidakstabilan kondisi ekonomi global setelah perang Rusia-Ukraina yang membuat harga pangan dan energi melonjak di negara-negara pemegang super power seperti Amerika, China, dan Eropa semakin terlihat.
 
-
-
 Isu resesi global 2023 ini juga sempat disinggung oleh Menteri Keuangan Indonesia, Sri Mulyani yang memprediksi bahwa akan mulai terjadi karena dipicu oleh kenaikan agresif suku bunga bank sentral di beberapa negara seperti Amerika dan Eropa untuk meredam laju inflasi yang terus melambung. 
-
-
 
 Namun, meski resesi global 2023 disinyalir akan terjadi, memasuki Q4 pertumbuhan ekonomi Indonesia menunjukkan pertumbuhan positif. Dilansir dari laman data [Badan Pusat Statistik Republik Indonesia](https://www.bps.go.id/pressrelease/2022/11/07/1914/ekonomi-indonesia-triwulan-iii-2022-tumbuh-5-72-persen--y-on-y-.html) menyebutkan bahwa pertumbuhan PDB Indonesia Q3 2022 mencapai 5,72% (yoy) atau tumbuh 1,8% (qoq). 
 
-
-
 Selain itu, angka rasio utang Indonesia terhadap PDB per September pun masih tergolong aman, yaitu 39,30%. Artinya, jika mengacu pada Undang-undang Nomor 17 Tahun 2003 tentang Keuangan Negara, rasio utang maksimal sebesar 60%, maka Indonesia dapat dikatakan belum punya utang luar negeri yang berlebihan.
 
-
-
 Selain itu, data inflasi bulanan Bank Indonesia yang sebelumnya sempat mencapai angka tertinggi 5,95% pada September pun mengalami [penurunan inflasi ke kisaran 5,71%](https://landx.id/blog/inflasi-indonesia-turun-jadi-5-71-simak-dampaknya/) pada akhir bulan Oktober. 
-
-
 
 Karena itu, isu resesi global 2023 sebenarnya dapat dikatakan tidak akan berdampak terlalu signifikan pada ekonomi Indonesia. Hal ini karena jika resesi ekonomi didefinisikan dengan penurunan PDB setidaknya dua kuartal berturut-turut, maka data-data di atas mematahkan isu resesi ekonomi 2023 akan menggoyahkan Indonesia.
 
@@ -257,12 +241,10 @@ Dengan memilih instrumen investasi yang punya prospek menguat jika kondisi reses
 
 Di LandX Anda bisa memulai pendanaan dari modal mulai Rp1 Jutaan saja, lho. LandX juga merupakan platform terpercaya dan telah mengantongi izin dari Otoritas Jasa Keuangan (OJK).
 
-## [Danai Bisnis Pilihan Anda dan Nikmati Untung Kemudian Hari di LandX Sekarang Juga!](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)
+## [Danai Bisnis Pilihan Anda dan Nikmati Untung Kemudian Hari di LandX Sekarang Juga!](https://landx.id/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)
 
 <!--EndFragment-->
 
-<!--StartFragment-->
-
-[![miliki bisnis modal kecil cuma dengan 1 jutaan dapat 4 cabang ](https://accountgram-production.sfo2.cdn.digitaloceanspaces.com/landx_ghost/2021/11/jadi-owner-bisnis-hanya-1-jutaan-dengan-cuan-yang-sangat-menjanjikan.png)](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)
+[![miliki bisnis modal kecil cuma dengan 1 jutaan dapat 4 cabang ](https://accountgram-production.sfo2.cdn.digitaloceanspaces.com/landx_ghost/2021/11/jadi-owner-bisnis-hanya-1-jutaan-dengan-cuan-yang-sangat-menjanjikan.png)](https://landx.id/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)
 
 <!--EndFragment-->
