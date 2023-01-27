@@ -75,14 +75,14 @@ Buka pukul 10.00 - 21.00
 
 Investor project Hong Tang di [LandX](https://landx.id/) bisa miliki bisnis dengan modal minim mulai sejutaan dan akan menerima keuntungan bagi hasil dividen pada pertengahan tahun 2022 ini. Anda tertarik jadi investor?
 
-\#SekarangBisa miliki project bisnis potensial profit dan dapatkan keuntungan dividen berkala melalui aplikasi [investasi crowdfunding LandX](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog). Di [LandX](https://landx.id/), Anda bisa memilih sendiri project bisnis yang ingin Anda danai dan setujui jumlah persentase keuntungannya sesuai perjanjian yang ditawarkan.
+\#SekarangBisa miliki project bisnis potensial profit dan dapatkan keuntungan dividen berkala melalui aplikasi [investasi crowdfunding LandX](https://landx.id/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog). Di [LandX](https://landx.id/), Anda bisa memilih sendiri project bisnis yang ingin Anda danai dan setujui jumlah persentase keuntungannya sesuai perjanjian yang ditawarkan.
 
 [Investasi sistem crowdfunding](https://landx.id/) merupakan pilihan diversifikasi portofolio menguntungkan bagi Anda. Dengan [crowdfunding](https://landx.id/), Anda dapat memiliki bisnis secara patungan dengan modal mulai sejutaan.
 
-Yuk, download aplikasi[ LandX](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog) dan miliki bisnis dengan modal mulai sejutaan aja
+Yuk, download aplikasi[ LandX](https://landx.id/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog) dan miliki bisnis dengan modal mulai sejutaan aja
 
-**[Yuk Temukan Bisnis Menjanjikan dengan Keuntungan Terbaik di LandX](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)**
+**[Yuk Temukan Bisnis Menjanjikan dengan Keuntungan Terbaik di LandX](https://landx.id/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)**
 
-[![miliki bisnis modal kecil cuma dengan 1 jutaan dapat 4 cabang ](https://accountgram-production.sfo2.cdn.digitaloceanspaces.com/landx_ghost/2021/11/jadi-owner-bisnis-hanya-1-jutaan-dengan-cuan-yang-sangat-menjanjikan.png)](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)
+[![miliki bisnis modal kecil cuma dengan 1 jutaan dapat 4 cabang ](https://accountgram-production.sfo2.cdn.digitaloceanspaces.com/landx_ghost/2021/11/jadi-owner-bisnis-hanya-1-jutaan-dengan-cuan-yang-sangat-menjanjikan.png)](https://landx.id/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)
 
 <!--EndFragment-->
