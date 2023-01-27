@@ -124,9 +124,9 @@ Sebagai pebisnis pemula anda harus bisa berhati-hati mengambil franchise karena 
 
 Franchise memang memang membuka berbagai potensi keuntungan baru untuk anda, tapi anda harus paham bahwa keuntungan ini juga diikuti dengan berbagai risiko yang bisa membuat anda merugi.
 
-**Namun, jika anda memang belum siap terjun langsung ke bisnis anda bisa mulai dengan investasi bisnis bersama [LandX dengan modal mulai 1 juta.](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)**
+**Namun, jika anda memang belum siap terjun langsung ke bisnis anda bisa mulai dengan investasi bisnis bersama [LandX dengan modal mulai 1 juta.](https://landx.id/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)**
 
-[![Yuk mulai patungan bisnis menguntungkan jangka panja g bersama LandX](https://accountgram-production.sfo2.cdn.digitaloceanspaces.com/landx_ghost/2021/09/Equity-Crowdfunding-di-Indonesia-1--3.png)](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)
+[![Yuk mulai patungan bisnis menguntungkan jangka panja g bersama LandX](https://accountgram-production.sfo2.cdn.digitaloceanspaces.com/landx_ghost/2021/09/Equity-Crowdfunding-di-Indonesia-1--3.png)](https://landx.id/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)
 
 ---
 
