@@ -99,7 +99,7 @@ Modal untuk bisnis *laundry* tergantung lokasi usaha kamu di rumah atau sewa tok
 
 Untuk dapat memulai bisnis jasa *laundry*, kamu perlu mempelajari terkait bidang ini terlebih dahulu. Kemudian survei apakah tempat kamu strategis dan apakah ada kompetitor di lokasi yang kamu incar. Hitung modal, tentukan harga jasa, dan manfaatkan teknik pemasaran digital.
 
-### [8. Kedai Kopi](https://landx.id/project/)
+### [8. Kedai Kopi](https://landx.id/)
 
 Ingin berbisnis kedai kopi atau kedai minuman karena melihat menjamurnya kedai kopi yang nampak ramai dan terlihat cuan, boleh kok.
 
@@ -140,21 +140,22 @@ Penting untuk membangun rencana bisnis yang matang, perhatikan dan belajar strat
 
 Kuatkan komitmen kamu dalam menjalankan bisnis apa pun situasi yang terjadi. Jaga mood kamu agar selalu semangat dan gali terus apa yang bisa dikembangkan dari bisnis kamu.
 
-## [Bisnis Aman dengan Crowdfunding](https://landx.id/project/)
+## [Bisnis Aman dengan Crowdfunding](https://landx.id/)
 
-Mau jadi pemilik bisnis tapi ingin selalu nyaman apa pun situasi yang melanda? Bisnis aman kamu cuan, bisnis kewalahan kamu tetap aman apa bisa, ya? Bisa, dengan cara jadi bagian **[crowdfunding (investasi patungan bisnis)](https://landx.id/project/)**.
+Mau jadi pemilik bisnis tapi ingin selalu nyaman apa pun situasi yang melanda? Bisnis aman kamu cuan, bisnis kewalahan kamu tetap aman apa bisa, ya? Bisa, dengan cara jadi bagian **[crowdfunding (investasi patungan bisnis)](https://landx.id/)**.
 
-**[Crowdfunding adalah](https://landx.id/project/)** sistem mengumpulkan dana dari masyarakat yang digunakan untuk mengembangkan bisnis yang sudah tersistem. Dengan gabung crowdfunding, kamu adalah seorang owner bisnis sekaligus investor. Keuntungan yang kamu dapatkan adalah bagi hasil dari laba bisnis sesuasi modal investasi kamu atau disebut dividen.
+**[Crowdfunding adalah](https://landx.id/)** sistem mengumpulkan dana dari masyarakat yang digunakan untuk mengembangkan bisnis yang sudah tersistem. Dengan gabung crowdfunding, kamu adalah seorang owner bisnis sekaligus investor. Keuntungan yang kamu dapatkan adalah bagi hasil dari laba bisnis sesuasi modal investasi kamu atau disebut dividen.
 
-Punya bisnis yang dikelola profesional, bisa investasi, dan dapat cuan rutin berkala tiap 3 bulan? Menarik, sih. Tapi modal investasi berapa, ya? Dengan 1 juta bisa jadi investor bisnis yang *sustain* **[di LandX.](https://landx.id/project/)** 
+Punya bisnis yang dikelola profesional, bisa investasi, dan dapat cuan rutin berkala tiap 3 bulan? Menarik, sih. Tapi modal investasi berapa, ya? Dengan 1 juta bisa jadi investor bisnis yang *sustain* **[di LandX.](https://landx.id/)** 
 
-**[*Equity crowdfunding* di LandX](https://landx.id/project/)**, kamu bisa pilih mau bergabung di bisnis industri yang kamu inginkan. Di jamin bisnis sudah terbukti siap cuan dan modal kamu tetap aman karena ada jaminan.
+**[*Equity crowdfunding* di LandX](https://landx.id/)**, kamu bisa pilih mau bergabung di bisnis industri yang kamu inginkan. Di jamin bisnis sudah terbukti siap cuan dan modal kamu tetap aman karena ada jaminan.
 
 Karen itu...
 
-**[Yuk Temukan Bisnis Menjanjikan dengan Keuntungan Terbaik di LandX](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)**
+**[Yuk Temukan Bisnis Menjanjikan dengan Keuntungan Terbaik di LandX](https://landx.id/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)**
 
-[![miliki bisnis modal kecil cuma dengan 1 jutaan dapat 4 cabang ](https://accountgram-production.sfo2.cdn.digitaloceanspaces.com/landx_ghost/2021/11/jadi-owner-bisnis-hanya-1-jutaan-dengan-cuan-yang-sangat-menjanjikan.png)](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)**Baca Juga:**
+[![miliki bisnis modal kecil cuma dengan 1 jutaan dapat 4 cabang ](https://accountgram-production.sfo2.cdn.digitaloceanspaces.com/landx_ghost/2021/11/jadi-owner-bisnis-hanya-1-jutaan-dengan-cuan-yang-sangat-menjanjikan.png)](https://landx.id/
+?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)**Baca Juga:**
 
 * [Investasi dengan Passive Income untuk Masa Depan](https://landx.id/blog/investasi-dengan-passive-income-untuk-masa-depan/)
 * [Investasi Selalu Rugi? Coba Lakukan Diversifikasi. Ini 4 Cara Melakukannya!](https://landx.id/blog/arti-penting-diversifikasi-dalam-investasi/)
