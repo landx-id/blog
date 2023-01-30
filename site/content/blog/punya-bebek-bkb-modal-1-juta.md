@@ -124,7 +124,7 @@ Selain itu, investor akan mendapatkan estimasi pengembalian berupa dividen yang 
 
 Oleh karena itu, tunggu apa lagi. Segera **[verifikasi akunmu di LandX](https://landx.id/)** agar tidak ketinggalan [project BKB dan project-project bisnis menarik lainnya.](https://landx.id/)
 
-## [Yuk Temukan Bisnis Terbaik untuk Investasi Kamu di LandX](Yhttps://landx.id/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)
+## [Yuk Temukan Bisnis Terbaik untuk Investasi Kamu di LandX](https://landx.id/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)
 
 <!--StartFragment-->
 
