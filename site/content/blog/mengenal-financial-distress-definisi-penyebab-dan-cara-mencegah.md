@@ -108,8 +108,8 @@ Bangun dana darurat sejumlah minimal tiga kali pengeluaran Anda dalam satu bulan
 
 Lakukan pengelolaan keuangan yang baik untuk menjaga arus keuangan yang lancar. Membuat anggaran, melunasi utang, hingga rutin menginvestasikan pendapatan yang dapat mencegah kondisi financial distress.
 
-## [Yuk, Cegah Kondisi Financial Distress Melanda dengan Kelola Keuangan yang Baik](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)
+## [Yuk, Cegah Kondisi Financial Distress Melanda dengan Kelola Keuangan yang Baik](https://landx.id/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)
 
-[![miliki bisnis modal kecil cuma dengan 1 jutaan dapat 4 cabang ](https://accountgram-production.sfo2.cdn.digitaloceanspaces.com/landx_ghost/2021/11/jadi-owner-bisnis-hanya-1-jutaan-dengan-cuan-yang-sangat-menjanjikan.png)](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)
+[![miliki bisnis modal kecil cuma dengan 1 jutaan dapat 4 cabang ](https://accountgram-production.sfo2.cdn.digitaloceanspaces.com/landx_ghost/2021/11/jadi-owner-bisnis-hanya-1-jutaan-dengan-cuan-yang-sangat-menjanjikan.png)](https://landx.id/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)
 
 <!--EndFragment-->
