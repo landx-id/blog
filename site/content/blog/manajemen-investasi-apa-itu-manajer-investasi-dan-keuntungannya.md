@@ -150,7 +150,7 @@ Salah satu investasi yang juga akan memberikan potensi keuntungan untuk jangka w
 
 Jika Anda memutuskan untuk memilih equity crowdfunding dalam investasi, nantinya Anda akan melakukan pendanaan secara patungan bersama investor lainnya terhadap bisnis berpotensi.
 
-Sebelum Anda menanamkan modal pada salah satu bisnis berpotensi, terlebih dahulu Anda dapat melakukan analisis terhadap bisnis berpotensi yang tersedia di setiap prospektus pada [laman platform equity crowdfunding](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog) yang Anda pilih. 
+Sebelum Anda menanamkan modal pada salah satu bisnis berpotensi, terlebih dahulu Anda dapat melakukan analisis terhadap bisnis berpotensi yang tersedia di setiap prospektus pada [laman platform equity crowdfunding](https://landx.id/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog) yang Anda pilih. 
 
 Analisis ini penting dilakukan karena akan membantu Anda menemukan bisnis yang sesuai dengan portofolio Anda untuk meminimalisir segala risiko yang mungkin dihadapi. Selain itu, Anda juga bisa mengidentifikasi bisnis-bisnis yang berpotensi mendatangkan keuntungan. 
 
@@ -161,9 +161,3 @@ Dengan investasi lewat skema equity crowdfunding, Anda berkesempatan mendapatkan
 ## [Persiapkan Dana untuk Masa Mendatang dengan Investasi di LandX Sekarang Juga!](https://app.landx.id/?utm_source=BLOGCONTENT&utm_medium=SEO&utm_campaign=SEO&utm_id=BLOGLANDX)
 
 [![miliki bisnis modal kecil cuma dengan 1 jutaan dapat 4 cabang ](https://accountgram-production.sfo2.cdn.digitaloceanspaces.com/landx_ghost/2021/11/jadi-owner-bisnis-hanya-1-jutaan-dengan-cuan-yang-sangat-menjanjikan.png)](https://app.landx.id/?utm_source=BLOGCONTENT&utm_medium=SEO&utm_campaign=SEO&utm_id=BLOGLANDX)
-
-[\#Patungan Bisnis](https://landx.id/blog/tag/patungan-bisnis)[\#Analisis Bisnis](https://landx.id/blog/tag/analisis-bisnis)[\#Laporan Keuangan](https://landx.id/blog/tag/laporan-keuangan)
-
-
-
-<!--EndFragment-->
