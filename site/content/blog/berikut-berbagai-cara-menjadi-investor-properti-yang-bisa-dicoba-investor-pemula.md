@@ -121,23 +121,23 @@ Salah satu cara mudah untuk menjadi investor properti adalah dengan membeli saha
 
 Pembelian saham ini bisa anda lakukan berbasis online melalui berbagai aplikasi pembelian saham yang tersedia saat ini. Dalam investasi saham anda akan mendapatkan keuntungan berupa dividen dan capital sehingga bisa memberikan anda keuntungan.
 
-### [4. Equity Crowdfunding](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)
+### [4. Equity Crowdfunding](https://landx.id/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)
 
-[Equity crowdfunding](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog) merupakan sistem investasi yang mempertemukan para investor untuk mendanai sebuah bisnis atau properti yang memiliki potensi keuntungan.
+[Equity crowdfunding](https://landx.id/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog) merupakan sistem investasi yang mempertemukan para investor untuk mendanai sebuah bisnis atau properti yang memiliki potensi keuntungan.
 
 Sistem ini memberikan kesempatan kepada investor dalam cakupan yang luas baik yang memiliki modal kecil maupun besar.
 
 Investor yang memiliki modal kecil namun tertarik berinvestasi properti bisa mulai dengan menggunakan sistem ini.
 
-[Equity crowdfunding](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog) memberikan kesempatan para investor untuk patungan dalam membangun sebuah properti yang bisa memberikan anda keuntungan, hal ini menjadi solusi bagi investor yang masih memiliki dana terbatas.
+[Equity crowdfunding](https://landx.id/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog) memberikan kesempatan para investor untuk patungan dalam membangun sebuah properti yang bisa memberikan anda keuntungan, hal ini menjadi solusi bagi investor yang masih memiliki dana terbatas.
 
 Investor akan mendapatkan keuntungan berupa dividen dan capital gain. Sistem ini sebenarnya hampir sama dengan sistem saham di pasar modal di mana potensi keuntungan yang anda dapatkan disesuaikan dengan besar modal yang anda miliki.
 
-Dalam [equity crowdfunding](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog) salah satu hal penting yang harus diperhatikan investor adalah memilih platform yang kredibel dan terpercaya agar investasi yang anda lakukan aman dan lebih minim risiko.
+Dalam [equity crowdfunding](https://landx.id/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog) salah satu hal penting yang harus diperhatikan investor adalah memilih platform yang kredibel dan terpercaya agar investasi yang anda lakukan aman dan lebih minim risiko.
 
-**[Yuk Mulai Jadi Investor Properti Hanya Dengan Modal 1 Juta Bersama LandX](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)**
+**[Yuk Mulai Jadi Investor Properti Hanya Dengan Modal 1 Juta Bersama LandX](https://landx.id/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)**
 
-[![miliki bisnis modal kecil cuma dengan 1 jutaan dapat 4 cabang ](https://accountgram-production.sfo2.cdn.digitaloceanspaces.com/landx_ghost/2021/11/jadi-owner-bisnis-hanya-1-jutaan-dengan-cuan-yang-sangat-menjanjikan.png)](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)
+[![miliki bisnis modal kecil cuma dengan 1 jutaan dapat 4 cabang ](https://accountgram-production.sfo2.cdn.digitaloceanspaces.com/landx_ghost/2021/11/jadi-owner-bisnis-hanya-1-jutaan-dengan-cuan-yang-sangat-menjanjikan.png)](https://landx.id/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)
 
 [LandX](https://landx.id/) memberikan anda kesempatan menjadi investor untuk berbagai properti strategis yang bisa memberikan anda keuntungan jangka panjang.
 
