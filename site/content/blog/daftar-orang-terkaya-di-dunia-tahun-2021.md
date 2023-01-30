@@ -129,19 +129,12 @@ Selalu berinvestasi sehingga mampu menjadi pengaruh dalam dunia bisnis. Bahkan d
 
 **Karena itu,**
 
-## **[Yuk Temukan Bisnis Menjanjikan dengan Keuntungan Terbaik di LandX](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)**
+## **[Yuk Temukan Bisnis Menjanjikan dengan Keuntungan Terbaik di LandX](https://landx.id/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)**
 
-[![miliki bisnis modal kecil cuma dengan 1 jutaan dapat 4 cabang ](https://accountgram-production.sfo2.cdn.digitaloceanspaces.com/landx_ghost/2021/11/jadi-owner-bisnis-hanya-1-jutaan-dengan-cuan-yang-sangat-menjanjikan.png)](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)
+[![miliki bisnis modal kecil cuma dengan 1 jutaan dapat 4 cabang ](https://accountgram-production.sfo2.cdn.digitaloceanspaces.com/landx_ghost/2021/11/jadi-owner-bisnis-hanya-1-jutaan-dengan-cuan-yang-sangat-menjanjikan.png)](https://landx.id/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)
 
 Untuk membangun fondasi finansial yang kuat kamu butuh investasi mulai dari sekarang, LandX merupakan platform equity crowdfunding berizin OJK yang akan membantu kamu menemukan bisnis terbaik untuk investasi jangka panjang kamu.
 
 - - -
 
-**Baca Juga:**
-
-* [Mau Jadi Investor? Simak Cara Mudah Menjadi Investor Hanya dengan Modal Kecil](https://landx.id/blog/cara-menjadi-investor/)
-* [Tips Penting dalam Menyusun Rencana Investasi Jangka Panjang Terbaik](<* **https://landx.id/blog/investasi-jangka-panjang-adalah/**>)
-
-- - -
-
-**\#SekarangBisa**
+**\#﻿SekarangBisa**
