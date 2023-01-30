@@ -102,8 +102,8 @@ Seperti yang dijelaskan dalam matrik SWOT, tujuan analisis SWOT adalah untuk mem
 
 Itu dia informasi lengkap tentang pentingnya analisis SWOT bagi sebuah perusahaan. Tanpa adanya analisa SWOT, sebuah perusahaan akan berdiri tanpa visi dan misi yang jelas. Jika hal ini terjadi, maka perusahaan tersebut tidak dapat mempertahankan bisnisnya agar berjalan dengan efektif, optimal, profitable, dan tetap relevan untuk jangka waktu yang lama. 
 
-## [Temukan Peluang Jadi Bos Bisnis yang Menjanjikan Hanya dengan Modal 1 Juta di LandX Sekarang Juga!](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)
+## [Temukan Peluang Jadi Bos Bisnis yang Menjanjikan Hanya dengan Modal 1 Juta di LandX Sekarang Juga!](https://landx.id/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)
 
-[![miliki bisnis modal kecil cuma dengan 1 jutaan dapat 4 cabang ](https://accountgram-production.sfo2.cdn.digitaloceanspaces.com/landx_ghost/2021/11/jadi-owner-bisnis-hanya-1-jutaan-dengan-cuan-yang-sangat-menjanjikan.png)](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)
+[![miliki bisnis modal kecil cuma dengan 1 jutaan dapat 4 cabang ](https://accountgram-production.sfo2.cdn.digitaloceanspaces.com/landx_ghost/2021/11/jadi-owner-bisnis-hanya-1-jutaan-dengan-cuan-yang-sangat-menjanjikan.png)](https://landx.id/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)
 
 <!--EndFragment-->
