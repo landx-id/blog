@@ -29,11 +29,9 @@ category:
   - Jeff Bezos
   - Investasi Tahun 2022
 ---
+Bagi kamu yang mendalami dunia cryptocurrency, **[harga Bitcoin](https://www.rekeningku.com/trade/BTC-IDR)** tentu saja menjadi salah satu hal yang sangat diperhatikan karena merupakan salah satu aset kripto dengan market capital terbesar.
 
-
-Bagi kamu yang mendalami dunia cryptocurrency, [**harga Bitcoin**](https://www.rekeningku.com/trade/BTC-IDR) tentu saja menjadi salah satu hal yang sangat diperhatikan karena merupakan salah satu aset kripto dengan market capital terbesar.
-
-[**Harga Bitcoin**](https://www.rekeningku.com/trade/BTC-IDR) **** memang menjadi perhatian banyak orang terutama para trader yang menggunakan aset kripto satu ini untuk trading mereka karena harganya fluktuatif.
+**[Harga Bitcoin](https://www.rekeningku.com/trade/BTC-IDR)** \*\*\*\* memang menjadi perhatian banyak orang terutama para trader yang menggunakan aset kripto satu ini untuk trading mereka karena harganya fluktuatif.
 
 Fluktuasi harga yang cukup tinggi ini menjadi daya tarik sendiri sehingga banyak orang menjadikan bitcoin sebagai aset investasinya walaupun harganya terbilang tidak stabil.
 
@@ -41,15 +39,7 @@ Karena itu, untuk apabila kamu ingin berinvestasi ke dalam aset satu ini kamu ha
 
 Lebih lengkapnya, yuk kita bahas bagaimana **perubahan harga Bitcoin** dan faktor penyebabnya.
 
----
-
-## Table of Content
-
-* [Naik Turun Harga Aset Kripto](https://landx.id/blog/memahami-naik-turun-harga-bitcoin/#naik-turun-harga-aset-kripto)
-* [Faktor-faktor yang Mempengaruhi Harga Aset Kripto](https://landx.id/blog/memahami-naik-turun-harga-bitcoin/#faktor-faktor-yang-mempengaruhi-harga-aset-kripto)[1. Permintaan dan Penawaran](https://landx.id/blog/memahami-naik-turun-harga-bitcoin/#1-permintaan-dan-penawaran)[2. Pemberitaan dan Persebaran Informasi](https://landx.id/blog/memahami-naik-turun-harga-bitcoin/#2-pemberitaan-dan-persebaran-informasi)[3. Regulasi](https://landx.id/blog/memahami-naik-turun-harga-bitcoin/#3-regulasi)[4. Penggunaan Aset Cryptocurrency](https://landx.id/blog/memahami-naik-turun-harga-bitcoin/#4-penggunaan-aset-cryptocurrency)[5. _Market Capital_/ Kapitalisasi Pasar](https://landx.id/blog/memahami-naik-turun-harga-bitcoin/#5-market-capital-kapitalitasi-pasar)
-* [Berinvestasi Kripto dengan Aman](https://landx.id/blog/memahami-naik-turun-harga-bitcoin/#berinvestasi-kripto-dengan-aman)
-
----
+- - -
 
 ## Naik Turun Harga Aset Kripto
 
@@ -61,7 +51,7 @@ Akan tetapi, kita harus paham bahwa **high risk** membawa potensi **high return*
 
 Sebenarnya, naik turun harga sebuah kripto dipengaruhi oleh banyak faktor untuk dipahami agar kamu bisa memprediksi pergerakan harga kripto dan mengambil keputusan investasi terbaik.
 
----
+- - -
 
 **Baca Juga:**
 
@@ -69,7 +59,7 @@ Sebenarnya, naik turun harga sebuah kripto dipengaruhi oleh banyak faktor untuk 
 * [Berinvestasi Bitcoin Gaya Elon Musk](https://landx.id/blog/berinvestasi-gaya-elon-musk-atau-warren-buffet-2-pandangan-buat-kamu-yang-ingin-ikutan-bitcoin/)
 * [Tertarik Berinvestasi dengan Crypto? Kenali Dulu Pengertian, Jenis, Serta Untung Ruginya Ini!](https://landx.id/blog/tertarik-berinvestasi-dengan-crypto-kenali-dulu-pengertian-jenis-serta-untung-ruginya-ini/)
 
----
+- - -
 
 ## Faktor-faktor yang Mempengaruhi Harga Aset Kripto
 
@@ -103,7 +93,7 @@ Setiap kripto biasanya memiliki proyek yang berbeda-beda dan menggunakan koin ya
 
 Semakin banyak penggunaan suatu aset, maka semakin biasanya harga akan cenderung naik dan begitu juga sebaliknya.
 
-### 5. _Market Capital_/ Kapitalisasi Pasar
+### 5. *Market Capital*/ Kapitalisasi Pasar
 
 Kapitalisasi pasar adalah ukuran yang menggambarkan nilai pasar dari suatu aset kripto. Kapitalitasi dihitung dengan mengalikan jumlah token yang beredar dengan harga dari koin tersebut.
 
@@ -119,9 +109,9 @@ Apabila kamu memilih kripto seperti Bitcoin sebagai instrumen investasi kamu, ma
 
 Maka dari itu, kamu harus menyusun tujuan investasi dalam jangka panjang dan pendek agar kamu paham kapan kamu harus membeli dan menjual aset kripto tersebut. Selain itu, hal ini sangat penting agar kita bisa mengendalikan diri saat menghadapi fluktuasi pasar yang terkadang membuat orang-orang membuat keputusan investasi yang tidak rasional.
 
-**Selain itu,** kamu butuh[ **diversifikasi**](https://landx.id/blog/arti-penting-diversifikasi-dalam-investasi/) **** sebagai cara untuk mengurangi risiko dan memaksimalkan keuntungan dari investasi kamu. Kamu perlu membagi investasi kamu ke instrumen yang berbeda-beda sehingga kamu tidak bergantung kepada satu instrumen investasi saja yang mungkin terkadang tidak berjalan dengan baik.
+**Selain itu,** kamu butuh[ **diversifikasi**](https://landx.id/blog/arti-penting-diversifikasi-dalam-investasi/) sebagai cara untuk mengurangi risiko dan memaksimalkan keuntungan dari investasi kamu. Kamu perlu membagi investasi kamu ke instrumen yang berbeda-beda sehingga kamu tidak bergantung kepada satu instrumen investasi saja yang mungkin terkadang tidak berjalan dengan baik.
 
-Salah satu pilihan  **[diversifikasi](https://landx.id/blog/arti-penting-diversifikasi-dalam-investasi/) ** yang bisa kamu coba adalah  **[investasi bisnis](https://landx.id/) ** dengan  **[skema equity crowdfunding](https://landx.id/blog/arti-penting-diversifikasi-dalam-investasi/) ** yang bisa memberikan kamu kesempatan untuk jadi pemilik bisnis dan menikmati **[passive income](https://landx.id/blog/arti-penting-diversifikasi-dalam-investasi/)** dari keuntungan bisnis tersebut dengan **1 jutaan saja.** 
+Salah satu pilihan  **[diversifikasi](https://landx.id/blog/arti-penting-diversifikasi-dalam-investasi/)**  yang bisa kamu coba adalah  **[investasi bisnis](https://landx.id/)**  dengan  **[skema equity crowdfunding](https://landx.id/blog/arti-penting-diversifikasi-dalam-investasi/)**  yang bisa memberikan kamu kesempatan untuk jadi pemilik bisnis dan menikmati **[passive income](https://landx.id/blog/arti-penting-diversifikasi-dalam-investasi/)** dari keuntungan bisnis tersebut dengan **1 jutaan saja.** 
 
 Karena itu....
 
@@ -131,7 +121,7 @@ Karena itu....
 
 **[Mau Berbagai info Terbaru Terkait Investasi? Yuk Follow @landx.id di Instagram](https://www.instagram.com/landx.id/?utm_medium=copy_link)**
 
----
+- - -
 
 **Baca Juga:**
 
@@ -139,4 +129,4 @@ Karena itu....
 * [Mau Jadi Investor? Simak Cara Mudah Menjadi Investor Hanya dengan Modal Kecil](https://landx.id/blog/cara-menjadi-investor/)
 * [Tips Penting dalam Menyusun Rencana Investasi Jangka Panjang Terbaik](https://landx.id/blog/investasi-jangka-panjang-adalah/)
 
----
+- - -
