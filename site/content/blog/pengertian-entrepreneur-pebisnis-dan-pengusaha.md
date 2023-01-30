@@ -89,6 +89,6 @@ Menjadi seorang entrepreneur artinya tidak takut akan suatu risiko yang muncul d
 
 Itu dia penjelasan lengkap mengenai pengertian entrepreneur, pengusaha, pebisnis, dan peluang karier dari ketiga profesi tersebut. Tentunya, dalam proses mencapai tujuan sebagai entrepreneur tidak akan mudah tetapi, asal kamu selalu memiliki keinginan untuk belajar memiliki kualitas utama yang telah disebutkan, pasti kamu bisa segera memulai langkah kamu menjadi entrepreneur muda.
 
-## [Cari Peluang Bisnis Menjanjikan? Investasi Hanya dengan Modal 1 Juta di LandX Sekarang Juga!](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)
+## [Cari Peluang Bisnis Menjanjikan? Investasi Hanya dengan Modal 1 Juta di LandX Sekarang Juga!](https://landx.id/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)
 
-[![miliki bisnis modal kecil cuma dengan 1 jutaan dapat 4 cabang ](https://accountgram-production.sfo2.cdn.digitaloceanspaces.com/landx_ghost/2021/11/jadi-owner-bisnis-hanya-1-jutaan-dengan-cuan-yang-sangat-menjanjikan.png)](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)
+[![miliki bisnis modal kecil cuma dengan 1 jutaan dapat 4 cabang ](https://accountgram-production.sfo2.cdn.digitaloceanspaces.com/landx_ghost/2021/11/jadi-owner-bisnis-hanya-1-jutaan-dengan-cuan-yang-sangat-menjanjikan.png)](https://landx.id/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)
