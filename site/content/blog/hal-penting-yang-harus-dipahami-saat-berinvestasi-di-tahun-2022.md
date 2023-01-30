@@ -28,7 +28,7 @@ category:
   - Investasi
   - Keuangan
 ---
-**[Investasi](https://landx.id/project/)** saat ini sudah bukan lagi barang yang asing bagi masyarakat Indonesia, bahkan bagi generasi muda. Pandangan yang menganggap bahwa investasi hanyalah milik generasi tua atau kalangan masyarakat tertantu saja, kini sudah tidak berlaku.
+**[Investasi](https://landx.id/)** saat ini sudah bukan lagi barang yang asing bagi masyarakat Indonesia, bahkan bagi generasi muda. Pandangan yang menganggap bahwa investasi hanyalah milik generasi tua atau kalangan masyarakat tertantu saja, kini sudah tidak berlaku.
 
 Berdasarkan data demografi investor yang diterbitkan oleh KSEI pada Oktober 2021, investor di Indonesia didominasi oleh usia di bawah 30 tahun dengan persentase 59.23%.
 
@@ -110,21 +110,21 @@ Jika kamu melakukan diversifikasi dengan cara membeli saham dari dua perusahaan 
 
 Jika Kamu tertarik untuk mencoba diversifikasi investasi, Kamu bisa mulai dengan berinvestasi di **[LandX](https://landx.id/)** yang merupakan **[platform Equity Crowdfunding (ECF)](https://landx.id/)** yang mempertemukan berbagai jenis bisnis yang tengah berkembang dengan para calon investor.
 
-LandX bekerja dengan sistem **[“patungan bisnis”](https://landx.id/project/)**, artinya Kamu bisa menjadi salah satu owner dari bisnis yang sahamnya Kamu beli, dengan keuntungan berupa dividen yang akan Kamu terima setiap tahunnya.
+LandX bekerja dengan sistem **[“patungan bisnis”](https://landx.id/)**, artinya Kamu bisa menjadi salah satu owner dari bisnis yang sahamnya Kamu beli, dengan keuntungan berupa dividen yang akan Kamu terima setiap tahunnya.
 
-Ada banyak project menarik yang tersedia di **[LandX](https://landx.id/)**. Kamu bisa belajar menerapkan **[metode diversifikasi](https://landx.id/blog/diversifikasi-dalam-investasi/)** dengan mencoba berinvestasi di berbagai project bisnis yang tersedia. Karena ini merupakan project patungan bisnis, Kamu bisa berinvestasi dengan modal mulai dari **[Rp1 jutaan](https://landx.id/project/)** saja untuk setiap projectnya. Sangat cocok bagi investor pemula dengan modal investasi minimal.
+Ada banyak project menarik yang tersedia di **[LandX](https://landx.id/)**. Kamu bisa belajar menerapkan **[metode diversifikasi](https://landx.id/blog/diversifikasi-dalam-investasi/)** dengan mencoba berinvestasi di berbagai project bisnis yang tersedia. Karena ini merupakan project patungan bisnis, Kamu bisa berinvestasi dengan modal mulai dari **[Rp1 jutaan](https://landx.id/)** saja untuk setiap projectnya. Sangat cocok bagi investor pemula dengan modal investasi minimal.
 
 Pada dasarnya, setiap investasi adalah upaya untuk mengejar keuntungan jangka panjang. Kamu mungkin bisa memantaunya setiap 1-2 bulan sekali. Dengan melihat gejolak dan fluktuasi yang terjadi selama 1 atau 2 bulan, Kamu akan memiliki data yang lebih kuat untuk melakukan analisis dan perhitungan, sehingga dapat mengambil keputusan dengan lebih baik.
 
 Gejolak perekonomian dunia selama masa pandemi semakin memperkuat alasan untuk mulai menata finansial dengan lebih baik, salah satunya melalui investasi. Jika Kamu merasa selama ini masih belum cukup baik dalam mengatur finansial, maka tahun 2022 adalah saat yang tepat untuk mulai memperbaiki resolusi finansialmu. Ada banyak jenis investasi yang bisa Kamu mulai sebagai investor pemula.
 
-**[LandX](https://landx.id/project/)**  menjadi pilihan investasi dengan prospek yang menjanjikan di tahun 2022. Sebagai platform ECF, LandX terus berkembang dan terus berkolaborasi dengan bisnis-bisnis menarik, dan Kamu sangat bisa menjadi bagian dari **[project-project bisnis LandX.](https://landx.id/project/)** Verifikasi akunmu sekarang juga dan pastikan Kamu tidak kehabisan project bisnis impianmu di **[LandX](https://landx.id/project/)**.
+**[LandX](https://landx.id/)**  menjadi pilihan investasi dengan prospek yang menjanjikan di tahun 2022. Sebagai platform ECF, LandX terus berkembang dan terus berkolaborasi dengan bisnis-bisnis menarik, dan Kamu sangat bisa menjadi bagian dari **[project-project bisnis LandX.](https://landx.id/)** Verifikasi akunmu sekarang juga dan pastikan Kamu tidak kehabisan project bisnis impianmu di **[LandX](https://landx.id/)**.
 
 - - -
 
-## **[Yuk Temukan Bisnis Menjanjikan dengan Keuntungan Terbaik di LandX](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)**
+## **[Yuk Temukan Bisnis Menjanjikan dengan Keuntungan Terbaik di LandX](https://landx.id/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)**
 
-[![miliki bisnis modal kecil cuma dengan 1 jutaan dapat 4 cabang ](https://accountgram-production.sfo2.cdn.digitaloceanspaces.com/landx_ghost/2021/11/jadi-owner-bisnis-hanya-1-jutaan-dengan-cuan-yang-sangat-menjanjikan.png)](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)
+[![miliki bisnis modal kecil cuma dengan 1 jutaan dapat 4 cabang ](https://accountgram-production.sfo2.cdn.digitaloceanspaces.com/landx_ghost/2021/11/jadi-owner-bisnis-hanya-1-jutaan-dengan-cuan-yang-sangat-menjanjikan.png)](https://landx.id/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)
 
 ## **[Mau Berbagai info Terbaru Terkait Investasi? Yuk Follow @landx.id di Instagram](https://www.instagram.com/landx.id/?utm_medium=copy_link)**
 
