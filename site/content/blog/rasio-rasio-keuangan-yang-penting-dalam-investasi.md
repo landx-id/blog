@@ -35,7 +35,7 @@ Sebelum memilih investasi terbaik, anda tentu perlu melakukan analisis untuk mem
 
 Oleh sebab itu, investor perlu paham rasio-rasio keuangan yang bisa membantu anda menemukan investasi terbaik berdasarkan laporan keuangan suatu perusahaan.
 
-Memahami rasio keuangan akan membantu anda melakukan analisis laporan keuangan yang bisa membantu anda melihat bagaimana kinerja dan potensi dari [perusahaan yang akan danai.](https://landx.id/project/index.html)
+Memahami rasio keuangan akan membantu anda melakukan analisis laporan keuangan yang bisa membantu anda melihat bagaimana kinerja dan potensi dari [perusahaan yang akan danai.](https://landx.id/)
 
 Sebagai investor yang cerdas, anda harus paham berbagai rasio keuangan yang bisa menjadi acuan anda dalam menilai laporan keuangan suatu perusahaan. Untuk itu, mari kita bahas lebih lanjut terkait rasio-rasio keuangan yang bisa membantu anda memilih investasi terbaik.
 
