@@ -1,15 +1,34 @@
-+++
-author = "Abdul Wahhab"
-category = ["diversifikasi dalam investasi", "Instrumen Investasi", "Blockchain", "Ellon Musk", "Jeff Bezos", "Investasi Tahun 2022"]
-date = 2021-12-26T15:01:20Z
-metaDescription = "Harga bitcoin terbilang cukup fluktuatif sehingga kamu harus paham faktor penyebab naik turun dari aset kripto satu ini agar investasi kamu lebih mudah"
-draft = false
-image = "https://images.unsplash.com/photo-1625806786037-2af608423424?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxMTc3M3wwfDF8c2VhcmNofDIwfHxiaXRjb2lufGVufDB8fHx8MTY0MDUzODg2OQ&ixlib=rb-1.2.1&q=80&w=1080"
-slug = "memahami-naik-turun-harga-bitcoin"
-tag = ["diversifikasi dalam investasi", "Instrumen Investasi", "Blockchain", "Ellon Musk", "Jeff Bezos", "Investasi Tahun 2022"]
-title = "Memahami Naik Turun Harga Bitcoin dan Faktor-faktor yang Mempengaruhinya"
-
-+++
+---
+draft: false
+author: Abdul Wahhab
+slug: memahami-naik-turun-harga-bitcoin
+title: Memahami Penyebab Naik Turunnya Bitcoin
+metaTitle: Faktor-faktor Penyebab Naik Turunnya Aset Bitcoin
+metaDescription: "Harga bitcoin terbilang cukup fluktuatif sehingga kamu harus
+  paham faktor penyebab naik turun dari aset kripto satu ini agar investasi "
+intro: Yuk pahami dengan baik tentang faktor penyebab naik turunnya bitcoin dan
+  cara mengatasinya
+date: 2021-12-26T15:01:20.000Z
+tag:
+  - diversifikasi dalam investasi
+  - Instrumen Investasi
+  - Blockchain
+  - Ellon Musk
+  - Jeff Bezos
+  - Investasi Tahun 2022
+featuredImage:
+  src: https://images.unsplash.com/photo-1625806786037-2af608423424?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxMTc3M3wwfDF8c2VhcmNofDIwfHxiaXRjb2lufGVufDB8fHx8MTY0MDUzODg2OQ&ixlib=rb-1.2.1&q=80&w=1080
+  alt: "Naik turun harga bitcoin "
+  title: "alasan naik turunnya harga  "
+image: https://images.unsplash.com/photo-1625806786037-2af608423424?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxMTc3M3wwfDF8c2VhcmNofDIwfHxiaXRjb2lufGVufDB8fHx8MTY0MDUzODg2OQ&ixlib=rb-1.2.1&q=80&w=1080
+category:
+  - diversifikasi dalam investasi
+  - Instrumen Investasi
+  - Blockchain
+  - Ellon Musk
+  - Jeff Bezos
+  - Investasi Tahun 2022
+---
 
 
 Bagi kamu yang mendalami dunia cryptocurrency, [**harga Bitcoin**](https://www.rekeningku.com/trade/BTC-IDR) tentu saja menjadi salah satu hal yang sangat diperhatikan karena merupakan salah satu aset kripto dengan market capital terbesar.
@@ -102,11 +121,11 @@ Maka dari itu, kamu harus menyusun tujuan investasi dalam jangka panjang dan pen
 
 **Selain itu,** kamu butuh[ **diversifikasi**](https://landx.id/blog/arti-penting-diversifikasi-dalam-investasi/) **** sebagai cara untuk mengurangi risiko dan memaksimalkan keuntungan dari investasi kamu. Kamu perlu membagi investasi kamu ke instrumen yang berbeda-beda sehingga kamu tidak bergantung kepada satu instrumen investasi saja yang mungkin terkadang tidak berjalan dengan baik.
 
-Salah satu pilihan  **[diversifikasi](https://landx.id/blog/arti-penting-diversifikasi-dalam-investasi/) ** yang bisa kamu coba adalah  **[investasi bisnis](https://landx.id/project/) ** dengan  **[skema equity crowdfunding](https://landx.id/blog/arti-penting-diversifikasi-dalam-investasi/) ** yang bisa memberikan kamu kesempatan untuk jadi pemilik bisnis dan menikmati **[passive income](https://landx.id/blog/arti-penting-diversifikasi-dalam-investasi/)** dari keuntungan bisnis tersebut dengan **1 jutaan saja.** 
+Salah satu pilihan  **[diversifikasi](https://landx.id/blog/arti-penting-diversifikasi-dalam-investasi/) ** yang bisa kamu coba adalah  **[investasi bisnis](https://landx.id/) ** dengan  **[skema equity crowdfunding](https://landx.id/blog/arti-penting-diversifikasi-dalam-investasi/) ** yang bisa memberikan kamu kesempatan untuk jadi pemilik bisnis dan menikmati **[passive income](https://landx.id/blog/arti-penting-diversifikasi-dalam-investasi/)** dari keuntungan bisnis tersebut dengan **1 jutaan saja.** 
 
 Karena itu....
 
-## [Yuk Temukan Bisnis Terbaik untuk Investasi Jangka Panjang Kamu di LandX](https://landx.id/project/)
+## [Yuk Temukan Bisnis Terbaik untuk Investasi Jangka Panjang Kamu di LandX](https://landx.id/)
 
 [![Bagaimana? Kamu lebih suka bisnis dengan buyback guarantee atau yang bisa disimpan dalam jangka panjang? Apapun pilihan kamu.. Yuk Patungan  dengan Keuntungan Menjanjikan Bareng LandX](https://accountgram-production.sfo2.cdn.digitaloceanspaces.com/landx_ghost/2021/10/Equity-Crowdfunding-di-Indonesia-1--3.png)](http://landx.id/)
 
@@ -121,6 +140,3 @@ Karena itu....
 * [Tips Penting dalam Menyusun Rencana Investasi Jangka Panjang Terbaik](https://landx.id/blog/investasi-jangka-panjang-adalah/)
 
 ---
-
-**#YukPatunganBisnis    #LandX.id    #landx         #landx.id    #InvestasiBisnis  #SecuritiesCrowdfunding   #EquityCrowdfunding    #InvestasiMenguntungkan     #Urundana    #BisnisPatungan    #InvestasiUsaha**
-
