@@ -16,7 +16,7 @@ category:
   - Investasi
 featuredImage:
   title: BARU! Fitur Kinerja Aset Bantu Pantau Project Bisnis Kamu | Aplikasi LandX
-  src: img/landx_ig-1080x565_ads_fitur-terbaru_may-2022.png
+  src: https://media.discordapp.net/attachments/905280638955962378/1069453376607232041/5bd41746-d986-461b-b369-c9490bc04e3d.png
   alt: "fitur baru, aplikasi crowdfunding, equity crowdfunding indonesia, "
 ---
 Hai Sobat MinLand!
@@ -129,6 +129,6 @@ Masukan dan laporan dari semua investor dipastikan akan sampai ke telinga penerb
 
 Informasi terakhir pada laman fitur Kinerja Aset adalah informasi saham project bisnis yang sedang berlangsung pendanaannya. Kamu dapat terkoneksi dengan project bisnis pilihan yang dapat ramaikan portofolio investasi dan ramaikan jadwal pembagian dividen rutin. 
 
-## [Mau terima dividen setiap bulan? Yuk, jadi pemegang saham banyak project bisnis di LandX](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)
+## [Mau terima dividen setiap bulan? Yuk, jadi pemegang saham banyak project bisnis di LandX](https://landx.id/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)
 
-[![miliki bisnis modal kecil cuma dengan 1 jutaan dapat 4 cabang ](https://accountgram-production.sfo2.cdn.digitaloceanspaces.com/landx_ghost/2021/11/jadi-owner-bisnis-hanya-1-jutaan-dengan-cuan-yang-sangat-menjanjikan.png)](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)
+[![miliki bisnis modal kecil cuma dengan 1 jutaan dapat 4 cabang ](https://accountgram-production.sfo2.cdn.digitaloceanspaces.com/landx_ghost/2021/11/jadi-owner-bisnis-hanya-1-jutaan-dengan-cuan-yang-sangat-menjanjikan.png)](https://landx.id/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)
