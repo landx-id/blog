@@ -96,7 +96,7 @@ Jika Anda belum familiar dengan skema equity crowdfunding, skema ini adalah pend
 
 Jadi, jika Anda ingin tahu lebih banyak lagi tentang investasi dengan skema ini, pastikan untuk berinvestasi melalui platform yang terpercaya, aman, dan pastinya mengantongi izin OJK seperti **[LandX](https://landx.id/)** ya!
 
-## [Ingin Investasi dengan Modal Minim Agar Cuan Meningkat? Yuk, Temukan Peluang Bisnis Menjanjikan di LandX Sekarang!](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)
+## [Ingin Investasi dengan Modal Minim Agar Cuan Meningkat? Yuk, Temukan Peluang Bisnis Menjanjikan di LandX Sekarang!](https://landx.id/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)
 
 <!--StartFragment-->
 
