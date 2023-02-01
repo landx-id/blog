@@ -136,13 +136,13 @@ Agar anda lebih mudah [mengatur keuangan](https://landx.id/), sebaiknya anda mem
 
 Misal satu rekening untuk kebutuhan sehari-hari, satu lagi untuk kebutuhan hiburan dan satu lagi rekening khusus untuk menyimpan dana darurat dan investasi yang anda lakukan. Dengan begitu anda bisa memperkecil kemungkinan dana tabungan anda tercampur dan terpakai untuk hal-hal lain
 
-### [7. Mulailah Belajar Investasi Secara Bertahap](https://landx.id/project/)
+### [7. Mulailah Belajar Investasi Secara Bertahap](https://landx.id/)
 
 Setelah anda bisa mengelola keuangan dengan baik, tidak ada salahnya anda mulai melakukan investasi ke dalam berbagai instrumen yang tersedia di pasaran. Investasi akan merupakan cara yang baik untuk menyimpan dana yang anda miliki dalam jangka panjang dibandingkan sekedar menabung yang nilai uang anda bisa menurun karena dipengaruhi inflasi dari waktu ke waktu.
 
 Anda bisa mulai dengan investasi dengan risiko rendah dahulu seperti reksa dana atau [equity crowdfunding](https://landx.id/) yang memiliki risiko dengan dan memiliki potensi keuntungan dalam jangka panjang. Apabila anda sudah paham dan bisa menerima risiko investasi yang lebih tinggi anda bisa mulai belajar investasi di pasar modal atau instrumen investasi lain dengan risiko yang lebih tinggi lagi.
 
-## **[Memulai Investasi](https://landx.id/project/index.html)**
+## **[Memulai Investasi](https://landx.id/)**
 
 Apabila anda sudah bisa mengelola uang dengan baik, anda tidak boleh lupa menyusun juga rencana investasi berdasarkan rencana finansial anda.
 
@@ -154,9 +154,9 @@ Investasi bisnis merupakan salah satu pilihan yang bisa anda coba karena investa
 
 Hal ini akan membuat uang yang anda miliki bisa berkembang dengan lebih cepat. Apabila anda tertarik, anda bisa memilih berbagai bisnis dengan potensi menjanjikan dengan mengunjungi laman [LandX](https://landx.id/).
 
-**[Yuk Temukan Bisnis Menjanjikan dengan Keuntungan Terbaik di LandX](https://landx.id/project/)**
+**[Yuk Temukan Bisnis Menjanjikan dengan Keuntungan Terbaik di LandX](https://landx.id/)**
 
-[![miliki bisnis modal kecil cuma dengan 1 jutaan dapat 4 cabang ](https://accountgram-production.sfo2.cdn.digitaloceanspaces.com/landx_ghost/2021/11/jadi-owner-bisnis-hanya-1-jutaan-dengan-cuan-yang-sangat-menjanjikan.png)](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)
+[![miliki bisnis modal kecil cuma dengan 1 jutaan dapat 4 cabang ](https://accountgram-production.sfo2.cdn.digitaloceanspaces.com/landx_ghost/2021/11/jadi-owner-bisnis-hanya-1-jutaan-dengan-cuan-yang-sangat-menjanjikan.png)](https://landx.id/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)
 
 **[Yuk Follow Kami di Instagram @landx.id Untuk Berbagai Update Terbaru Seputar Investasi](https://www.instagram.com/landx.id/?utm_medium=copy_link)**
 
