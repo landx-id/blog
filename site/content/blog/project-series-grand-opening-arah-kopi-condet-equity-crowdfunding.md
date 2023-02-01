@@ -25,7 +25,7 @@ Kedai kopi atau coffee shop telah menjadi lifestyle bagi berbagai kalangan sosia
 
 Arah Kopi merupakan bisnis franchise coffee shop yang sukses eksis di kawasan Jakarta, Banten, hingga Jawa Barat. Gencarkan puluhan kedai kopi dengan membuka partnership atau franchise Arah Kopi.
 
-Selain itu, Arah Kopi menggandeng investor di [LandX](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog) untuk memaksimalkan strategi bisnisnya untuk jangkau lebih banyak pelanggan. Hadir sebagai project bisnis [equity crowdfunding](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog) dan berhasil meraih pendanaan hingga Rp 4M, Arah Kopi gelar peresmian proyek cabang terbarunya di kawasan Condet.
+Selain itu, Arah Kopi menggandeng investor di [LandX](https://landx.id/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog) untuk memaksimalkan strategi bisnisnya untuk jangkau lebih banyak pelanggan. Hadir sebagai project bisnis [equity crowdfunding](https://landx.id/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog) dan berhasil meraih pendanaan hingga Rp 4M, Arah Kopi gelar peresmian proyek cabang terbarunya di kawasan Condet.
 
 Yuk, kita lihat gimana ramenya outlet cabang terbaru Arah Kopi Condet ini!
 
@@ -55,11 +55,11 @@ Tersedia donat bomboloni yang lembut, stroopwafel yang krispi, almond roll, butt
 
 Sekarang, kamu dengan mudah dapat menikmati semua menu Arah Kopi di berbagai lokasi cabang Arah Kopi terdekat. Arah Kopi secara gesit berkembang hingga miliki puluhan cabang tersebar.
 
-Strategi ekspansi bisnis melalui pendanaan modal usaha [crowdfunding](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog) yang dipilih kuatkan kehadiran Arah kopi ditengah pilihan pelanggan. Kini, Arah Kopi telah tancapkan bendera di lokasi populer baru yaitu Jakarta Timur tepatnya kawasan Condet. 
+Strategi ekspansi bisnis melalui pendanaan modal usaha [crowdfunding](https://landx.id/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog) yang dipilih kuatkan kehadiran Arah kopi ditengah pilihan pelanggan. Kini, Arah Kopi telah tancapkan bendera di lokasi populer baru yaitu Jakarta Timur tepatnya kawasan Condet. 
 
 ## Arah Kopi Condet
 
-Ini dia Arah Kopi Condet yang hadir berkat pendanaan investor di platform [equity crowdfunding LandX](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog). Raih pendanaan hingga miliaran rupiah untuk hadirkan 3 outlet keren yang salah satunya telah resmi dibuka di kawasan Condet, Jakarta Timur ini.
+Ini dia Arah Kopi Condet yang hadir berkat pendanaan investor di platform [equity crowdfunding LandX](https://landx.id/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog). Raih pendanaan hingga miliaran rupiah untuk hadirkan 3 outlet keren yang salah satunya telah resmi dibuka di kawasan Condet, Jakarta Timur ini.
 
 Resmikan outlet kedai kopi terbaru melalui grand opening Arah Kopi Condet pada tanggal 26 Juni 2022 lalu perkuatkan eksistensi coffee shop yang akan jadi pilihan baru ini. Menikmati sajian ekstrak biji kopi Arabika lebih dekat dan lebih mudah diakses.
 
@@ -79,28 +79,28 @@ Lokasi Arah Kopi Condet
 
 Dengan cabang terbaru Arah Kopi Condet, kini Arah Kopi memiliki lebih dari 46 outlet coffee shop minimalis. Dalam perkembangan bisnisnya di tahun 2022, Arah Kopi bekerja sama dengan LandX untuk membuka cabang baru.
 
-Hadir sebagai project bisnis di [LandX](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog) untuk mendapatkan pendanaan bisnis dari investor. Masyarakat Indonesia dapat berinvestasi dan menjadi investor bisnis franchise coffee shop keren dengan modal mulai sejutaan aja.
+Hadir sebagai project bisnis di [LandX](https://landx.id/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog) untuk mendapatkan pendanaan bisnis dari investor. Masyarakat Indonesia dapat berinvestasi dan menjadi investor bisnis franchise coffee shop keren dengan modal mulai sejutaan aja.
 
 ## Miliki Saham Bisnis dengan Modal Rp 1 Jutaan
 
-Investor di [LandX](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog) telah miliki saham bisnis keren seperti franchise coffee shop dari Arah Kopi. Melalui sistem [equity crowdfunding](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog), investor bisa memiliki hingga 3 outlet Arah Kopi dengan bentuk kepemilikan saham bisnis di [LandX](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog). 
+Investor di [LandX](https://landx.id/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog) telah miliki saham bisnis keren seperti franchise coffee shop dari Arah Kopi. Melalui sistem [equity crowdfunding](https://landx.id/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog), investor bisa memiliki hingga 3 outlet Arah Kopi dengan bentuk kepemilikan saham bisnis di [LandX](https://landx.id/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog). 
 
-Resminya beroperasi Arah Kopi Condet menandakan pengelolaan dana investor yang efisien. Serta mengindikasikan kehadiran dua outlet lagi dari proyek yang didanai investor di [LandX](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog). Nantikan kehadiran Arah Kopi Gandaria, Jakarta Selatan dan Arah Kopi Citra Garden City, Jakarta Barat juga ya.
+Resminya beroperasi Arah Kopi Condet menandakan pengelolaan dana investor yang efisien. Serta mengindikasikan kehadiran dua outlet lagi dari proyek yang didanai investor di [LandX](https://landx.id/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog). Nantikan kehadiran Arah Kopi Gandaria, Jakarta Selatan dan Arah Kopi Citra Garden City, Jakarta Barat juga ya.
 
-Gimana Sobat [LandX](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)? Investor dari Arah Kopi akan segera miliki outlet coffee shop yang semuanya akan beroperasi dan terima orderan. 
+Gimana Sobat [LandX](https://landx.id/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)? Investor dari Arah Kopi akan segera miliki outlet coffee shop yang semuanya akan beroperasi dan terima orderan. 
 
 Beroperasi artinya menerima pelanggan, menerima pelanggan artinya mendapatkan pendapatan. Pendapatan yang menjadi profit perusahaan akan didistribusikan kembali sesuai persentase kepemilikan saham para investor, disebut sebagai dividen.
 
-Jika kamu tertarik memiliki saham bisnis sekeren franchise coffee shop ini, yuk segera buat akun di aplikasi [LandX](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog). Pilih sendiri bisnis yang ingin kamu danai, tersedia project bisnis restoran, F&B, hingga lifestyle.
+Jika kamu tertarik memiliki saham bisnis sekeren franchise coffee shop ini, yuk segera buat akun di aplikasi [LandX](https://landx.id/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog). Pilih sendiri bisnis yang ingin kamu danai, tersedia project bisnis restoran, F&B, hingga lifestyle.
 
-Apa keuntungan investasi [equity crowdfunding](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)? Selain berkontribusi bangun perkembangan bisnis Indonesia, kamu juga berkesempatan memiliki potensi keuntungan berupa dividen dari operasional bisnis yang didanai. 
+Apa keuntungan investasi [equity crowdfunding](https://landx.id/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)? Selain berkontribusi bangun perkembangan bisnis Indonesia, kamu juga berkesempatan memiliki potensi keuntungan berupa dividen dari operasional bisnis yang didanai. 
 
-Berinvestasi secara mudah dalam satu aplikasi dan pantau bisnis yang didanai secara mandiri melalui fitur yang tersedia maupun berkunjung langsung ke lokasi bisnis. Jangan lupa juga ikuti berita terbaru seputar bisnis melalui sosial media [Instagram](https://www.instagram.com/landx.id/?utm_source=Blog&utm_medium=Blog&utm_campaign=artikel) dan [TikTok](https://www.tiktok.com/@landx.id?lang=en&utm_source=Blog&utm_medium=Blog&utm_campaign=artikel) [LandX](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog). ([LandX](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog) tidak punya Telegram, hati-hati penipuan mengatasnamakan [LandX](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog))
+Berinvestasi secara mudah dalam satu aplikasi dan pantau bisnis yang didanai secara mandiri melalui fitur yang tersedia maupun berkunjung langsung ke lokasi bisnis. Jangan lupa juga ikuti berita terbaru seputar bisnis melalui sosial media [Instagram](https://www.instagram.com/landx.id/?utm_source=Blog&utm_medium=Blog&utm_campaign=artikel) dan [TikTok](https://www.tiktok.com/@landx.id?lang=en&utm_source=Blog&utm_medium=Blog&utm_campaign=artikel) [LandX](https://landx.id/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog). ([LandX](https://landx.id/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog) tidak punya Telegram, hati-hati penipuan mengatasnamakan [LandX](https://landx.id/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog))
 
-## [Mau Punya Saham Bisnis Sekeren Franchise Coffee Shop? Yuk, Download Aplikasi LandX Sekarang!](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)
+## [Mau Punya Saham Bisnis Sekeren Franchise Coffee Shop? Yuk, Download Aplikasi LandX Sekarang!](https://landx.id/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)
 
 <!--StartFragment-->
 
-[![miliki bisnis modal kecil cuma dengan 1 jutaan dapat 4 cabang ](https://accountgram-production.sfo2.cdn.digitaloceanspaces.com/landx_ghost/2021/11/jadi-owner-bisnis-hanya-1-jutaan-dengan-cuan-yang-sangat-menjanjikan.png)](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)
+[![miliki bisnis modal kecil cuma dengan 1 jutaan dapat 4 cabang ](https://accountgram-production.sfo2.cdn.digitaloceanspaces.com/landx_ghost/2021/11/jadi-owner-bisnis-hanya-1-jutaan-dengan-cuan-yang-sangat-menjanjikan.png)](https://landx.id/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)
 
 <!--EndFragment-->
