@@ -143,15 +143,15 @@ Dengan melakukan investasi tentunya kamu dapat menciptakan finansial yang sehat.
 
 Jadi, dari pada uang kamu habiskan untuk memenuhi keinginan yang tidak ada habisnya, kamu bisa melakukan investasi untuk kebutuhan di masa mendatang.
 
-Salah satu investasi yang dapat kamu coba dengan menggunakan modal kecil melalui patungan bisnis yaitu di [LandX](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog).
+Salah satu investasi yang dapat kamu coba dengan menggunakan modal kecil melalui patungan bisnis yaitu di [LandX](https://landx.id/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog).
 
-[LandX](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog) merupakan platform [equity crowdfunding](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog) memberikan kamu kesempatan untuk melakukan investasi modal kecil dengan patungan ke berbagai bisnis yang menguntungan.
+[LandX](https://landx.id/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog) merupakan platform [equity crowdfunding](https://landx.id/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog) memberikan kamu kesempatan untuk melakukan investasi modal kecil dengan patungan ke berbagai bisnis yang menguntungan.
 
-[Atasi Hidup Konsumtif dengan Investasi di LandX Sekarang Juga!](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)
+[Atasi Hidup Konsumtif dengan Investasi di LandX Sekarang Juga!](https://landx.id/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)
 
 <!--StartFragment-->
 
-[![miliki bisnis modal kecil cuma dengan 1 jutaan dapat 4 cabang ](https://accountgram-production.sfo2.cdn.digitaloceanspaces.com/landx_ghost/2021/11/jadi-owner-bisnis-hanya-1-jutaan-dengan-cuan-yang-sangat-menjanjikan.png)](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)
+[![miliki bisnis modal kecil cuma dengan 1 jutaan dapat 4 cabang ](https://accountgram-production.sfo2.cdn.digitaloceanspaces.com/landx_ghost/2021/11/jadi-owner-bisnis-hanya-1-jutaan-dengan-cuan-yang-sangat-menjanjikan.png)](https://landx.id/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)
 
 > Yuk Download Aplikasi LandX Sekarang!!!
 > {{< button link="https://play.google.com/store/apps/details?id=store.numoney.landxapp&hl=in&gl=US" text="Android" >}}
