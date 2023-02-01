@@ -41,12 +41,6 @@ Soal harga, cepat atau lambat properti pasti naik. Oleh sebab itu, investasi pro
 
 ---
 
-## Table of Content
-
-* **[Penyebab Gagalnya Investasi Properti Bagi Pemula](https://landx.id/blog/investasi-properti-untuk-pemula/#penyebab-gagalnya-investasi-properti-bagi-pemula)**[1. Mengalokasikan Dana untuk Mencegah Kebocoran](#1-mengalokasikan-dana-untuk-mencegah-kebocoran)[2. Tersedia Jaringan Listrik yang Aman dan Tidak Ada Masalah](#2-tersedia-jaringan-listrik-yang-aman-dan-tidak-ada-masalah)[3. Terhindar dari Hama](#3-terhindar-dari-hama)
-
----
-
 ## Penyebab Gagalnya Investasi Properti Bagi Pemula
 
 Tidak bisa dipungkiri jika investasi properti bisa memberikan keuntungan yang besar. Namun, jangan sampai Anda lupa jika tidak ada instrumen investasi sempurna atau tidak adanya risiko. Tanpa ilmu yang memadai, investasi apa saja bisa membuat Anda rugi, termasuk investasi properti.
@@ -88,7 +82,7 @@ Permasalahan tersebut sebenarnya bisa terhindari sekalipun Anda adalah pemula. H
 
 [Dengan demikian bagi Anda yang ingin melakukan inves](https://landx.id/)tasi tetap dengan modal terbatas tetap dapat melakukannya. Kalau sudah ada LandX, kenapa harus menunggu lama lagi?
 
-[![cara investasi properti untuk pemula yang aman dan anti gagal untuk investasi jangka panjang yang menjanjikan](https://accountgram-production.sfo2.cdn.digitaloceanspaces.com/landx_ghost/2021/11/jadi-owner-bisnis-hanya-1-jutaan-dengan-cuan-yang-sangat-menjanjikan-2.png)](https://landx.id/blog/)
+[![cara investasi properti untuk pemula yang aman dan anti gagal untuk investasi jangka panjang yang menjanjikan](https://accountgram-production.sfo2.cdn.digitaloceanspaces.com/landx_ghost/2021/11/jadi-owner-bisnis-hanya-1-jutaan-dengan-cuan-yang-sangat-menjanjikan-2.png)](https://landx.id/)
 
 ---
 
@@ -96,5 +90,4 @@ Permasalahan tersebut sebenarnya bisa terhindari sekalipun Anda adalah pemula. H
 
 ---
 
-#LandX.id	#landx.id	#InvestasiBisnis	#EquityCrowdfunding	#InvestasiMenguntungkan	#Urundana	#BisnisPatungan	#InvestasiUsaha
 
