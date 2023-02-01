@@ -57,9 +57,9 @@ Investasi bisnis merupakan investasi dengan potensi yang ROI yang bisa dibilang 
 
 Setelah paham apa itu ROI, ke depan anda harus bisa lebih bijak memilih investasi berdasarkan return on investment yang ditawarkan. Akan tetapi anda juga harus berhati-hati menggunakan rasio ini dalam memilih investasi karena ada berbagai faktor pertimbangan lain yang perlu dianalisis saat membangun aset investasi anda.
 
-## [Yuk, jadi bos bisnis dan terima keuntungan rutin di LandX](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)
+## [Yuk, jadi bos bisnis dan terima keuntungan rutin di LandX](https://landx.id/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)
 
-[![miliki bisnis modal kecil cuma dengan 1 jutaan dapat 4 cabang ](https://accountgram-production.sfo2.cdn.digitaloceanspaces.com/landx_ghost/2021/11/jadi-owner-bisnis-hanya-1-jutaan-dengan-cuan-yang-sangat-menjanjikan.png)](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)
+[![miliki bisnis modal kecil cuma dengan 1 jutaan dapat 4 cabang ](https://accountgram-production.sfo2.cdn.digitaloceanspaces.com/landx_ghost/2021/11/jadi-owner-bisnis-hanya-1-jutaan-dengan-cuan-yang-sangat-menjanjikan.png)](https://landx.id/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)
 
 - - -
 
