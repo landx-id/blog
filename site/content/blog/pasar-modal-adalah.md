@@ -106,9 +106,9 @@ Setelah anda paham pasar modal anda harus mulai mengatur bagaimana konsisten men
 
 E[quity crowdfunding](https://landx.id/) yang konsepnya hampir sama dengan pasar modal namun dalam cakupan bisnis yang lebih kecil sehingga mempermudah analisis yang anda lakukan. Selain itu, sistem equity crowdfunding juga memberikan anda kesempatan investasi bisnis dengan modal kecil yang sangat cocok untuk pemula.
 
-[LandX](https://landx.id/) merupakan platform equity crowdfunding yang memberikan anda kesempatan untuk melakukan investasi di berbagai bisnis potensial dari berbagai sektor. **[Yuk Mulai Investasi Bisnis Hanya dengan 1 Jutaan di LandX](https://landx.id/project/index.html)**
+[LandX](https://landx.id/) merupakan platform equity crowdfunding yang memberikan anda kesempatan untuk melakukan investasi di berbagai bisnis potensial dari berbagai sektor. **[Yuk Mulai Investasi Bisnis Hanya dengan 1 Jutaan di LandX](https://landx.id/)**
 
-[![Yuk mulai patungan bisnis menguntungkan jangka panja g bersama LandX](https://accountgram-production.sfo2.cdn.digitaloceanspaces.com/landx_ghost/2021/09/Equity-Crowdfunding-di-Indonesia-1--3.png)](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)
+[![Yuk mulai patungan bisnis menguntungkan jangka panja g bersama LandX](https://accountgram-production.sfo2.cdn.digitaloceanspaces.com/landx_ghost/2021/09/Equity-Crowdfunding-di-Indonesia-1--3.png)](https://landx.id/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)
 
 **[Supaya Tetap Update Berbagai Info Terbaru Seputar Investasi Yuk Follow Instagram Kami di @landx.id](https://www.instagram.com/landx.id/?utm_medium=copy_link)**
 
