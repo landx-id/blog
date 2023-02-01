@@ -93,9 +93,9 @@ Program afiliasi umumnya tidak terikat kontrak yang mengikat kamu untuk clock-in
 
 Dengan ini, kamu memiliki fleksibilitas kapan akan memulai promosi tersebut sesuai dengan ketersediaan waktu dan tempat kamu. Ini menjadi keuntungan karena kamu bisa tetap bekerja tanpa harus mengenyampingkan prioritas kamu sebagai mahasiswa.
 
-## [Ingin Menjadi Investor Muda? Mulai Investasi Hanya Dengan 1 Juta Melalui LandX Sekarang Juga!](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)
+## [Ingin Menjadi Investor Muda? Mulai Investasi Hanya Dengan 1 Juta Melalui LandX Sekarang Juga!](https://landx.id/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)
 
-[![miliki bisnis modal kecil cuma dengan 1 jutaan dapat 4 cabang ](https://accountgram-production.sfo2.cdn.digitaloceanspaces.com/landx_ghost/2021/11/jadi-owner-bisnis-hanya-1-jutaan-dengan-cuan-yang-sangat-menjanjikan.png)](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)
+[![miliki bisnis modal kecil cuma dengan 1 jutaan dapat 4 cabang ](https://accountgram-production.sfo2.cdn.digitaloceanspaces.com/landx_ghost/2021/11/jadi-owner-bisnis-hanya-1-jutaan-dengan-cuan-yang-sangat-menjanjikan.png)](https://landx.id/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)
 
 > Yuk Download Aplikasi LandX Sekarang!!!
 > {{< button link="https://play.google.com/store/apps/details?id=store.numoney.landxapp&hl=in&gl=US" text="Android" >}}
