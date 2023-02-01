@@ -116,7 +116,7 @@ Selain itu, dalam sistem ini anda bisa ikut patungan membangun berbagai bisnis d
 
 ## [Yuk Temukan Bisnis Terbaik untuk Investasi Jangka Panjang Kamu di LandX](https://landx.id/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)
 
-[![Yuk mulai patungan bisnis menguntungkan jangka panjang bersama LandX](https://accountgram-production.sfo2.cdn.digitaloceanspaces.com/landx_ghost/2021/09/Equity-Crowdfunding-di-Indonesia-1--3.png)](https://?
+![Yuk mulai patungan bisnis menguntungkan jangka panjang bersama LandX](https://accountgram-production.sfo2.cdn.digitaloceanspaces.com/landx_ghost/2021/09/Equity-Crowdfunding-di-Indonesia-1--3.png)
 
 - - -
 
