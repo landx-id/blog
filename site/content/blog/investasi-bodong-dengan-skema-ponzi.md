@@ -164,15 +164,15 @@ Pada bisnis MLM, pebisnis memiliki produk yang jelas untuk dijual. Bonus bagi an
 3. Cari tahu lebih dalam produk dan bentuk investasi serta resikonya.
 4. Pilih instrumen investasi yang aman, terpercaya, dan sudah berizin OJK
 
-Salah satu[ **platform investasi yang aman dan terpercaya**](https://landx.id/project/) adalah **[LandX](https://landx.id/)**. LandX merupakan sebuah platform *equity crowdfunding,* yakni tempat bertemunya para investor dengan para pebisnis yang tengah mengembangkan bisnisnya.
+Salah satu[ **platform investasi yang aman dan terpercaya**](https://landx.id/) adalah **[LandX](https://landx.id/)**. LandX merupakan sebuah platform *equity crowdfunding,* yakni tempat bertemunya para investor dengan para pebisnis yang tengah mengembangkan bisnisnya.
 
-Dengan**[sistem patungan bisnis atau *crowdfunding*](https://landx.id/project/)**, Anda bisa ikut menjadi investor atau owner dari berbagai project bisnis di LandX dengan modal yang lebih ringan, yakni mulai dari **1 juta rupiah.**
+Dengan**[sistem patungan bisnis atau *crowdfunding*](https://landx.id/)**, Anda bisa ikut menjadi investor atau owner dari berbagai project bisnis di LandX dengan modal yang lebih ringan, yakni mulai dari **1 juta rupiah.**
 
 **LandX telah berizin resmi dan diawasi oleh OJK, sehingga Anda dapat berinvestasi dengan aman dan mudah.**
 
-### [Tunggu apalagi, segera verifikasi akun Anda di LandX agar dapat bergabung dengan berbagai project bisnis menarik di LandX.\*\**](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)
+### [Tunggu apalagi, segera verifikasi akun Anda di LandX agar dapat bergabung dengan berbagai project bisnis menarik di LandX.\*\**](https://landx.id/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)
 
-[![Yuk mulai patungan bisnis menguntungkan jangka panja g bersama LandX](https://accountgram-production.sfo2.cdn.digitaloceanspaces.com/landx_ghost/2021/09/Equity-Crowdfunding-di-Indonesia-1--3.png)](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)
+[![Yuk mulai patungan bisnis menguntungkan jangka panja g bersama LandX](https://accountgram-production.sfo2.cdn.digitaloceanspaces.com/landx_ghost/2021/09/Equity-Crowdfunding-di-Indonesia-1--3.png)](https://landx.id/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)
 
 **[Jangan Lupa!!! Follow Instagram @landx.id dengan Berbagai Informasi Terbaru Seputar Investasi dan Bisnis](https://docs.google.com/spreadsheets/d/1D6tUyLGN8I9Cea83cPmrYOW1-y4JNH3a3Yb0yjHW6m4/edit?usp=sharing)**
 
