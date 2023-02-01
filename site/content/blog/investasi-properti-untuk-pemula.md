@@ -1,15 +1,34 @@
-+++
-author = "Gunawan Aldy"
-category = ["investasi", "landx", "Getting Started", "properti", "investasi properti", "Investasi untuk Pemula", "crowdfunding properti"]
-date = 2019-04-03T05:49:25Z
-metaDescription = "Tidak sedikit pemula yang mengalami rugi karena tidak bisa menganalisa dan mengurus properti. Jika Anda termasuk pemula, ada baiknya Anda membaca ulasan ini"
-draft = false
-image = "https://accountgram-production.sfo2.cdn.digitaloceanspaces.com/landx_ghost/2019/05/investasi-properti-untuk-pemula-1.jpg"
-slug = "investasi-properti-untuk-pemula"
-tag = ["investasi", "landx", "Getting Started", "properti", "investasi properti", "Investasi untuk Pemula", "crowdfunding properti"]
-title = "Investasi Properti untuk Pemula"
-
-+++
+---
+draft: false
+author: Gunawan Aldy
+slug: investasi-properti-untuk-pemula
+title: Investasi Properti untuk Pemula
+metaTitle: Cara Investasi Properti untuk Pemula yang Bisa Kamu Coba
+metaDescription: Simak pilihan cara investasi properti untuk pemula yang bisa kamu terapkan
+intro: Yuk simak cara investasi properti untu pemula
+date: 2019-04-03T05:49:25.000Z
+tag:
+  - investasi
+  - landx
+  - Getting Started
+  - properti
+  - investasi properti
+  - Investasi untuk Pemula
+  - crowdfunding properti
+featuredImage:
+  src: https://images.unsplash.com/photo-1560518883-ce09059eeffa?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1073&q=80
+  alt: Cara investasi properti untuk pemula
+  title: Simak cara investasi untuk pemula yang penting untuk anda pahami
+image: https://accountgram-production.sfo2.cdn.digitaloceanspaces.com/landx_ghost/2019/05/investasi-properti-untuk-pemula-1.jpg
+category:
+  - investasi
+  - landx
+  - Getting Started
+  - properti
+  - investasi properti
+  - Investasi untuk Pemula
+  - crowdfunding properti
+---
 
 
 Hampir semua orang pasti menginginkan sebuah keuntungan besar. Lantas, bagaimana caranya? Cara yang bisa Anda lakukan adalah dengan investasi properti yang disebut sebagai investasi paling menguntungkan dan minim risiko.
@@ -65,9 +84,9 @@ Selain masalah di atas, ada risiko lain yang bisa Anda alami ketika investasi pr
 
 Alhasil, properti Anda akan mengalami kekosongan, khususnya pendapatan. Jika tidak segera mendapatkan peminat, perlahan-lahan Anda akan mengalami kerugian. Pasalnya, pemasukan pasif pun tidak diperoleh, tetapi Anda harus mengeluarkan banyak biaya untuk kepentingan perawatan rumah yang tidak berpenghuni.
 
-Permasalahan tersebut sebenarnya bisa terhindari sekalipun Anda adalah pemula. Hadirnya platform [LandX](https://landx.id/) akan memudahkan masalah **[investasi properti untuk pemula](https://landx.id/blog/)**. Pasalnya, [LandX](https://landx.id/project/) memberikan kemudahan, mulai dari membeli properti terbaik yang sudah dianalisis oleh tim profesional, serta [sistem equity crowdfunding.](https://landx.id/project/)
+Permasalahan tersebut sebenarnya bisa terhindari sekalipun Anda adalah pemula. Hadirnya platform [LandX](https://landx.id/) akan memudahkan masalah **[investasi properti untuk pemula](https://landx.id/blog/)**. Pasalnya, [LandX](https://landx.id/) memberikan kemudahan, mulai dari membeli properti terbaik yang sudah dianalisis oleh tim profesional, serta [sistem equity crowdfunding.](https://landx.id/)
 
-[Dengan demikian bagi Anda yang ingin melakukan inves](https://landx.id/project/)tasi tetap dengan modal terbatas tetap dapat melakukannya. Kalau sudah ada LandX, kenapa harus menunggu lama lagi?
+[Dengan demikian bagi Anda yang ingin melakukan inves](https://landx.id/)tasi tetap dengan modal terbatas tetap dapat melakukannya. Kalau sudah ada LandX, kenapa harus menunggu lama lagi?
 
 [![cara investasi properti untuk pemula yang aman dan anti gagal untuk investasi jangka panjang yang menjanjikan](https://accountgram-production.sfo2.cdn.digitaloceanspaces.com/landx_ghost/2021/11/jadi-owner-bisnis-hanya-1-jutaan-dengan-cuan-yang-sangat-menjanjikan-2.png)](https://landx.id/blog/)
 
