@@ -85,15 +85,9 @@ Selain itu, investasi bisnis kini semakin mudah dan dapat dimulai dengan modal k
 
 [LandX](https://landx.id/) merupakan platform equity crowdfunding terpercaya yang akan membantu anda menemukan bisnis terbaik yang bisa anda danai untuk [memaksimalkan passive income](https://landx.id/) anda.
 
-### **[Yuk Mulai Investasi Bisnis Modal Kecil di LandX untuk Cash Flow Lebih Optimal](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)**
+### **[Yuk Mulai Investasi Bisnis Modal Kecil di LandX untuk Cash Flow Lebih Optimal](https://landx.id/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)**
 
-[![miliki bisnis modal kecil cuma dengan 1 jutaan dapat 4 cabang ](https://accountgram-production.sfo2.cdn.digitaloceanspaces.com/landx_ghost/2021/11/jadi-owner-bisnis-hanya-1-jutaan-dengan-cuan-yang-sangat-menjanjikan.png)](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)
+[![miliki bisnis modal kecil cuma dengan 1 jutaan dapat 4 cabang ](https://accountgram-production.sfo2.cdn.digitaloceanspaces.com/landx_ghost/2021/11/jadi-owner-bisnis-hanya-1-jutaan-dengan-cuan-yang-sangat-menjanjikan.png)](https://landx.id/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)
 
 **[Jangan Lupa!! Follow @landx.id di Instagram Supaya Terus Update Berbagai Info Seputar Investas](https://instagram.com/landx.id?utm_medium=copy_link)i.**
 
-**Baca Juga:**
-
-* [Rasio-Rasio Keuangan yang Penting Dipahami Investor Pemula dalam Memulai Investasi](https://landx.id/blog/rasio-rasio-keuangan-yang-penting-dalam-investasi/)
-* [Rasio Likuiditas: Pentingnya Memahami Rasio Likuiditas Sebelum Berinvestasi](https://landx.id/blog/rasio-likuiditas-adalah/)
-
-**\#SekarangBisa**
