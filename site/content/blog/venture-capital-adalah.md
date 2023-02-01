@@ -118,9 +118,9 @@ Namun anda bisa mencoba investasi dengan sistem *[equity crowdfunding](https://l
 
 Sistem ini memberikan anda kesempatan berinvestasi ke berbagai bisnis dengan potensi keuntungan yang menjanjikan. Anda bisa mulai investasi bisnis menguntungkan bersama **[LandX](https://landx.id/)** yang memberikan anda pilihan berbagai jenis.
 
-**[Yuk Investasi Bangun Investasi Jangka Panjang Anda Bersama LandX](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)**
+**[Yuk Investasi Bangun Investasi Jangka Panjang Anda Bersama LandX](https://landx.id/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)**
 
-[![Bagaimana? Kamu lebih suka bisnis dengan buyback guarantee atau yang bisa disimpan dalam jangka panjang? Apapun pilihan kamu.. Yuk Patungan  dengan Keuntungan Menjanjikan Bareng LandX](https://accountgram-production.sfo2.cdn.digitaloceanspaces.com/landx_ghost/2021/10/Equity-Crowdfunding-di-Indonesia-1--3.png)](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)
+[![Bagaimana? Kamu lebih suka bisnis dengan buyback guarantee atau yang bisa disimpan dalam jangka panjang? Apapun pilihan kamu.. Yuk Patungan  dengan Keuntungan Menjanjikan Bareng LandX](https://accountgram-production.sfo2.cdn.digitaloceanspaces.com/landx_ghost/2021/10/Equity-Crowdfunding-di-Indonesia-1--3.png)](https://landx.id/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)
 
 **[Agar Gak Kelewatan Berbagai Info Seputar Bisnis dan Investasi Lainnya Follow Instagram Kami di @landx.id Ya..](https://instagram.com/landx.id?utm_medium=copy_link)**
 
