@@ -27,7 +27,7 @@ category:
 ---
 ## Korean BBQ MangGang Listing di LandX!
 
-[![jadi pemilik manggang 3 cabang manggang cloud kitchen cuma dengan modal 1 jutaan aja](https://accountgram-production.sfo2.cdn.digitaloceanspaces.com/landx_ghost/2022/01/Cara-punya-franchise-manggang--cloud-kitchen-fnb-modal-1-jutaan-min.png)](https://landx.id/project/mang)
+[![jadi pemilik manggang 3 cabang manggang cloud kitchen cuma dengan modal 1 jutaan aja](https://accountgram-production.sfo2.cdn.digitaloceanspaces.com/landx_ghost/2022/01/Cara-punya-franchise-manggang--cloud-kitchen-fnb-modal-1-jutaan-min.png)](https://landx.id/)
 
 Salah satu kuliner yang hits selama kurang lebih 3 tahun belakangan ini adalah **rice bowl**. Di tengah kesibukan beraktivitas dan pekerjaan, rice bowl sering menjadi pilihan makan siang yang pas.
 
@@ -45,7 +45,7 @@ Sebelum itu, yuk cek video grebek gerai MangGang berikut ini:
 
 
 
-**[MangGang Grilled Beef Bowl](https://landx.id/project/mang)**  merupakan rice bowl ala Korean BBQ yang mengusung tema **“Luxury Sensation in a Simple Way”**. Di Indonesia, rata-rata restoran BBQ ala Korea hadir dengan konsep yang mewah serta harga yang relatif tinggi.
+**[MangGang Grilled Beef Bowl](https://landx.id/)**  merupakan rice bowl ala Korean BBQ yang mengusung tema **“Luxury Sensation in a Simple Way”**. Di Indonesia, rata-rata restoran BBQ ala Korea hadir dengan konsep yang mewah serta harga yang relatif tinggi.
 
 Menyadari hal itu, MangGang mencoba untuk menghadirkan kelezatan dan kemewahan BBQ ala Korea, namun dibalut dalam konsep rice bowl yang lebih praktis dan sederhana.
 
@@ -53,13 +53,13 @@ Rice bowl terkenal dengan kepraktisan penyajiannya. Melalui konsep ini, MangGang
 
 Namun, meski dengan konsep kesederhanaan dan kepraktisan ala rice bowl, makanan yang disajikan MangGang tetap menggunakan bahan-bahan premium. Sehingga, kualitas dan cita rasa mewah ala Korean BBQ tetap dapat dirasakan oleh pelanggan.
 
-**[MangGang Grilled Beef Bowl](https://landx.id/project/mang)** baru mulai berdiri pada tahun 2019. Meski tergolong masih sangat muda, namun MangGang telah sukses mengembangkan bisnisnya hingga MangGang kini memiliki 31 gerai yang tersebar di beberapa wilayah seperti **Jakarta, Bekasi, Tangerang Selatan, Yogyakarta, hingga Palembang dan Samarinda.**
+**[MangGang Grilled Beef Bowl](https://landx.id/)** baru mulai berdiri pada tahun 2019. Meski tergolong masih sangat muda, namun MangGang telah sukses mengembangkan bisnisnya hingga MangGang kini memiliki 31 gerai yang tersebar di beberapa wilayah seperti **Jakarta, Bekasi, Tangerang Selatan, Yogyakarta, hingga Palembang dan Samarinda.**
 
-## [Menu MangGang **Grilled Beef Bowl**](https://landx.id/project/mang)
+## [Menu MangGang **Grilled Beef Bowl**](https://landx.id/)
 
-**[Menu andalan MangGang](https://landx.id/project/mang)** yang paling banyak digemari pelanggan di antaranya ialah Grilled Beef and Egg Bowl, Grilled Beef and Mozzarella, dan Volcano Bowl untuk penggemar selera pedas.
+**[Menu andalan MangGang](https://landx.id/)** yang paling banyak digemari pelanggan di antaranya ialah Grilled Beef and Egg Bowl, Grilled Beef and Mozzarella, dan Volcano Bowl untuk penggemar selera pedas.
 
-[![Menu pilihan maanggang yang wajib kamu coba](https://accountgram-production.sfo2.cdn.digitaloceanspaces.com/landx_ghost/2022/01/berbagai-menu-beef-bowl-cloud-kitchen-hanya-di-manggang-min.png)](https://landx.id/project/utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)
+[![Menu pilihan maanggang yang wajib kamu coba](https://accountgram-production.sfo2.cdn.digitaloceanspaces.com/landx_ghost/2022/01/berbagai-menu-beef-bowl-cloud-kitchen-hanya-di-manggang-min.png)](https://landx.id/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)
 
 Semua menu ini bisa dipesan langsung melalui jasa pesan-antar online, sehingga sangat bisa dinikmati kapanpun dan di mana pun.
 
@@ -82,21 +82,21 @@ Berdasarkan data yang telah dihimpun, pada bulan pertama restoran beroperasi, Ma
 
 Selain itu, keberhasilan manajemen bisnisnya juga dapat dilihat dari perkembangan jumlah outlet yang signifikan. Dalam waktu kurang dari tiga tahun, MangGang sudah berhasil membuka hingga 31 outlet yang tersebar di berbagai wilayah, bahkan hingga ke luar pulau Jawa.
 
-## [Punya  3 Cabang MangGang Cuma Modal 1 Juta](https://landx.id/project/mang)
+## [Punya  3 Cabang MangGang Cuma Modal 1 Juta](https://landx.id/)
 
 **MangGang masih** akan terus mengembangkan bisnisnya dan berencana untuk membuka lebih banyak outlet di lebih banyak daerah di Indonesia.
 
 Jika Anda tertarik untuk berinvestasi dan menjadi bagian dari perkembangan bisnis MangGang, kesempatan itu kini terbuka dengan sangat lebar. Anda bisa berinvestasi pada project patungan bisnis MangGang yang tersedia di platform [**LandX**.](https://landx.id/) 
 
-**[LandX](https://landx.id/)** merupakan **[platform *equity crowdfunding*](https://landx.id/project/mang)**, yakni tempat bertemunya para investor dengan para pengusaha yang tengah mengembangkan bisnis.
+**[LandX](https://landx.id/)** merupakan **[platform *equity crowdfunding*](https://landx.id/)**, yakni tempat bertemunya para investor dengan para pengusaha yang tengah mengembangkan bisnis.
 
-Melalui **[sistem *crowdfunding*](https://landx.id/project/mang)** atau **[patungan bisnis](https://landx.id/project/mang)**, Anda bisa menjadi investor dengan modal yang lebih kecil. Pada **[Project MangGang](https://landx.id/project/mang)** ini, Anda sudah bisa menjadi investor sekaligus owner dengan modal investasi mulai dari 1 juta rupiah, dengan pengembalian berupa **[estimasi dividen sebesar 15-25% yang akan dibagikan per 6 bulan.](https://landx.id/project/mang)**
+Melalui **[sistem *crowdfunding*](https://landx.id/)** atau **[patungan bisnis](https://landx.id/)**, Anda bisa menjadi investor dengan modal yang lebih kecil. Pada **[Project MangGang](https://landx.id/)** ini, Anda sudah bisa menjadi investor sekaligus owner dengan modal investasi mulai dari 1 juta rupiah, dengan pengembalian berupa **[estimasi dividen sebesar 15-25% yang akan dibagikan per 6 bulan.](https://landx.id/)**
 
 ## Tunggu apalagi!
 
 Segera verifikasi akun Anda di platform atau aplikasi LandX agar tidak kehabisan Project MangGang atau project-project bisnis menarik lainnya dari LandX.
 
-[![Yuk mulai patungan bisnis menguntungkan jangka panja g bersama LandX](https://accountgram-production.sfo2.cdn.digitaloceanspaces.com/landx_ghost/2021/09/Equity-Crowdfunding-di-Indonesia-1--3.png)](https://landx.id/project/utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)
+[![Yuk mulai patungan bisnis menguntungkan jangka panja g bersama LandX](https://accountgram-production.sfo2.cdn.digitaloceanspaces.com/landx_ghost/2021/09/Equity-Crowdfunding-di-Indonesia-1--3.png)](https://landx.id/)
 
 - - -
 
