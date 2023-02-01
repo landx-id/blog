@@ -39,7 +39,9 @@ Setelah menghitung seluruh aset yang dimiliki, selanjutnya hitung besar angka ke
 
 Adapun jika kamu tidak mempunyai kewajiban maka total aset yang ada otomatis adalah kekayaan yang bersih. Sederhananya kamu bisa memperhatikan rumus berikut ini:
 
-Rumus kekayaan bersih (net worth) = Jumlah Aset – Jumlah Kewajiban
+> Rumus kekayaan bersih (net worth) = Jumlah Aset – Jumlah Kewajiban
+
+### Contoh Menghitung Kekayaan Bersih
 
 Apabila masih bingung, kamu dapat menyimak contoh menghitung kekayaan bersih yang dipaparkan berikut ini. Misalnya saja kamu mempunyai beberapa aset yang nilai asetnya sudah disesuaikan dengan nilai pasar dan inflasi saat ini yaitu sebagai berikut:
 
@@ -94,7 +96,5 @@ Terlepas dari fakta negatif maupun positif jumlah kekayaan bersih seseorang, hal
 Sebagai investor, tentu penting melakukan analisis investasi sebelum memutuskan untuk menanamkan modal pada suatu instrumen. Analisis investasi dapat dilakukan secara fundamental dan teknikal, jika analisis secara teknikal belum dikuasai, melakukan analisis investasi secara fundamental pun cukup. 
 
 Analisis fundamental investasi dapat dilakukan dengan mengetahui profil perusahaan, siapa manajemen perusahaan, serta melihat kekayaan bersih dalam laporan keuangan. Kekayaan bersih dalam laporan keuangan suatu perusahaan akan membantu kamu melihat potensi pertumbuhan perusahaan. Karena jika asetnya lebih tinggi dari kewajiban maka perusahaan berpotensi memiliki ruang tumbuh yang lebih potensial.
-
-
 
 <!--EndFragment-->
