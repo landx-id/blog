@@ -140,14 +140,16 @@ Belajar mengelola permasalahan financial juga dapat kamu lakukan secara mandiri 
 
 LandX merupakan platform equity crowdfunding yang menjadi tempat bertemu para investor dengan para pengusaha atau pebisnis yang tengah berkembang dan telah terdaftar serta diawasi oleh Otoritas Jasa Keuangan (OJK). 
 
-Sistem investasi kami menggunakan media berupa platform aplikasi patungan bisnis yang menyediakan berbagai [project bisnis](https://landx.id/#ongoing-projects) dari berbagai sektor dengan imbal hasil berupa dividen. 
+Sistem investasi kami menggunakan media berupa platform aplikasi patungan bisnis yang menyediakan berbagai [project bisnis](https://landx.id/) dari berbagai sektor dengan imbal hasil berupa dividen. 
 
 LandX juga menyediakan wadah bagi siapa pun yang ingin belajar dan mengenal dunia investasi. Topik terhangat seputar investasi, berita terkini di dunia keuangan, hingga tips mengelola finansial bisa kamu temukan dalam [blog LandX.](https://landx.id/blog) 
 
 Kunjungi LandX jika kamu tertarik untuk berinvestasi pada saham dan bisnis. Dengan modal mulai dari Rp1 juta, kamu dapat memulai berinvestasi secara lebih bijak. 
 
-## [Segera kunjungi LandX dan temukan project bisnis impianmu!](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)
+## [Segera kunjungi LandX dan temukan project bisnis impianmu!](https://landx.id/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)
 
+<!--StartFragment-->
 
+[![miliki bisnis modal kecil cuma dengan 1 jutaan dapat 4 cabang ](https://accountgram-production.sfo2.cdn.digitaloceanspaces.com/landx_ghost/2021/11/jadi-owner-bisnis-hanya-1-jutaan-dengan-cuan-yang-sangat-menjanjikan.png)](https://app.landx.id/?utm_source=Organic+Page&utm_medium=Content+Blog&utm_campaign=BlogLandX&utm_id=Blog)
 
 <!--EndFragment-->
