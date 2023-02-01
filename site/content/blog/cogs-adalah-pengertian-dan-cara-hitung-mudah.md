@@ -129,13 +129,13 @@ Manfaat menghitung COGS yaitu dapat mengetahui posisi laba rugi perusahaan, meng
 
 Setiap bisnis tentu diharapkan mendapat untung selalu, sehingga seluruh bagian perusahaan hingga stakeholder seperti investor dapat merasa aman. Menjadi pemilik bisnis adalah impian banyak orang dan Anda dapat mewujudkan impian tersebut.
 
-Wujudkan impian Anda menjadi bos bisnis dengan memiliki berbagai saham bisnis menguntungkan. Jadi investor bisnis melalui investasi [equity crowdfunding](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog). [Equity crowdfunding](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog) adalah aktivitas pendanaan bisnis dari masyarakat dengan modal kecil. 
+Wujudkan impian Anda menjadi bos bisnis dengan memiliki berbagai saham bisnis menguntungkan. Jadi investor bisnis melalui investasi [equity crowdfunding](https://landx.id/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog). [Equity crowdfunding](https://landx.id/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog) adalah aktivitas pendanaan bisnis dari masyarakat dengan modal kecil. 
 
-Berinvestasi pada bisnis di [equity crowdfunding](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog) dengan bentuk kepemilikan saham artinya memiliki potensi mendapat keuntungan berupa dividen. Dividen dibagikan hingga 4 kali dalam setahun oleh bisnis yang Anda danai.
+Berinvestasi pada bisnis di [equity crowdfunding](https://landx.id/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog) dengan bentuk kepemilikan saham artinya memiliki potensi mendapat keuntungan berupa dividen. Dividen dibagikan hingga 4 kali dalam setahun oleh bisnis yang Anda danai.
 
-Anda dapat memilih sendiri bisnis yang ingin didanai sekaligus mewujudkan impian memiliki beragam bisnis tanpa repot kelola sendiri. Lihat laporan keuangannya langsung untuk mengetahui proyeksi laba rugi perusahaan di platform [equity crowdfunding LandX](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog).
+Anda dapat memilih sendiri bisnis yang ingin didanai sekaligus mewujudkan impian memiliki beragam bisnis tanpa repot kelola sendiri. Lihat laporan keuangannya langsung untuk mengetahui proyeksi laba rugi perusahaan di platform [equity crowdfunding LandX](https://landx.id/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog).
 
-## **[Miliki Bisnis dan Lihat Laporan Keuangannya di LandX](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)**
+## **[Miliki Bisnis dan Lihat Laporan Keuangannya di LandX](https://landx.id/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)**
 
 <!--StartFragment-->
 
