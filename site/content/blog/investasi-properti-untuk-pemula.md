@@ -5,7 +5,7 @@ slug: investasi-properti-untuk-pemula
 title: Investasi Properti untuk Pemula
 metaTitle: Cara Investasi Properti untuk Pemula yang Bisa Kamu Coba
 metaDescription: Simak pilihan cara investasi properti untuk pemula yang bisa kamu terapkan
-intro: Yuk simak cara investasi properti untu pemula
+intro: Yuk simak cara investasi properti untuk pemula
 date: 2019-04-03T05:49:25.000Z
 tag:
   - investasi
