@@ -24,7 +24,7 @@ featuredImage:
   alt: Arah Kopi Gandaria Jakarta Selatan Open!
   src: img/arah-kopi-gandaria.jpg
 ---
-Arah Kopi sukses rampungkan 3 cabang terbaru dari rangkaian kerja sama pendanaan [equity crowdfunding](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog) bersama investor di [LandX](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog). Setelah resmikan Arah Kopi Condet dan cabang Arah Kopi Garden City, kini telah hadir Arah Kopi Gandaria yang diresmikan bersama investor pada Minggu, 17 Juli 2022.
+Arah Kopi sukses rampungkan 3 cabang terbaru dari rangkaian kerja sama pendanaan [equity crowdfunding](https://landx.id/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog) bersama investor di [LandX](https://landx.id/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog). Setelah resmikan Arah Kopi Condet dan cabang Arah Kopi Garden City, kini telah hadir Arah Kopi Gandaria yang diresmikan bersama investor pada Minggu, 17 Juli 2022.
 
 **Yuk, lihat outlet terbaru Arah Kopi Gandaria!**
 
@@ -34,7 +34,7 @@ Arah Kopi sukses rampungkan 3 cabang terbaru dari rangkaian kerja sama pendanaan
 
 Arah Kopi merupakan bisnis franchise coffee shop yang sukses eksis di kawasan Jakarta, Banten, hingga Jawa Barat. Gencarkan puluhan kedai kopi dengan membuka partnership atau franchise Arah Kopi.
 
-Selain itu, Arah Kopi menggandeng investor di [LandX](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog) untuk memaksimalkan strategi bisnisnya untuk jangkau lebih banyak pelanggan. Hadir sebagai project bisnis [equity crowdfunding](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog) dan berhasil meraih pendanaan hingga lebih Rp 4 M. Pertengahan Juli ini Arah Kopi gelar peresmian outlet cabang terbarunya di kawasan Gandaria, Jakarta Selatan.
+Selain itu, Arah Kopi menggandeng investor di [LandX](https://landx.id/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog) untuk memaksimalkan strategi bisnisnya untuk jangkau lebih banyak pelanggan. Hadir sebagai project bisnis [equity crowdfunding](https://landx.id/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog) dan berhasil meraih pendanaan hingga lebih Rp 4 M. Pertengahan Juli ini Arah Kopi gelar peresmian outlet cabang terbarunya di kawasan Gandaria, Jakarta Selatan.
 
 Arah Kopi sajikan seduhan biji kopi Arabika lokal yang lembut sejak kehadirannya di tahun 2018. Biji kopi Arabika merupakan salah satu jenis biji kopi dengan nilai tertinggi dan terpopuler di seluruh dunia. Hal ini dikarenakan seduhan ekstrak biji kopi Arabika dikenal memiliki rasa yang ringan dan lembut, serta memiliki aroma khas menyerupai madu dan cokelat. 
 
@@ -56,7 +56,7 @@ Sekarang, kamu dengan mudah dapat menikmati semua menu Arah Kopi di berbagai lok
 
 ## Arah Kopi Gandaria
 
-Bisnis franchise coffee shop yang jadi langganan kopi muda-mudi ini telah selesai menggelar pendanaan di platform [equity crowdfunding LandX](<[equity crowdfunding](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)>). Arah Kopi sukses menghimpun modal dari investor untuk mewujudkan 3 outlet baru di Jakarta.
+Bisnis franchise coffee shop yang jadi langganan kopi muda-mudi ini telah selesai menggelar pendanaan di platform [equity crowdfunding LandX](<[equity crowdfunding](https://landx.id/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)>). Arah Kopi sukses menghimpun modal dari investor untuk mewujudkan 3 outlet baru di Jakarta.
 
 Setelah resmikan 2 outlet sebelumnya, kini dengan formasi lengkap Arah Kopi Gandaria hadir di wilayah Jakarta Selatan. Bersama para investor, Arah Kopi adakan grand opening pada pertengahan Juli 2022.
 
@@ -68,25 +68,25 @@ Outlet Arah Kopi dikenal miliki desain minimalis dengan dominasi warna putih dan
 
 Kehadiran outlet terbaru Arah Kopi Gandaria adalah bukti bisnis coffee shop ini fokus dalam memberikan layanan terbaik yang menyeluruh.
 
-Ketiga outlet yang hadir melalui pendanaan investor di [LandX](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog) ini mengindikasikan bahwa masyarakat bisa miliki bisnis coffee shop modal kecil, yakni mulai sejutaan saja. Memiliki banyak cabang bisnis yang dikelola oleh manajemen profesional sembari santai menunggu potensi distribusi keuntungan. 
+Ketiga outlet yang hadir melalui pendanaan investor di [LandX](https://landx.id/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog) ini mengindikasikan bahwa masyarakat bisa miliki bisnis coffee shop modal kecil, yakni mulai sejutaan saja. Memiliki banyak cabang bisnis yang dikelola oleh manajemen profesional sembari santai menunggu potensi distribusi keuntungan. 
 
 ## Jadi Investor Bisnis Keren di LandX
 
-Kesuksesan urun dana Arah Kopi ini disebabkan oleh kemudahan dalam berinvestasi patungan bisnis hanya dengan Rp 1 juta saja. Melalui platform [equity crowdfunding](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog) [LandX](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog) yang ketat melakukan pemilihan bisnis pun membuat setiap project bisnis yang ditawarkan kepada calon investor dapat menjadi cuan yang potensial.
+Kesuksesan urun dana Arah Kopi ini disebabkan oleh kemudahan dalam berinvestasi patungan bisnis hanya dengan Rp 1 juta saja. Melalui platform [equity crowdfunding](https://landx.id/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog) [LandX](https://landx.id/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog) yang ketat melakukan pemilihan bisnis pun membuat setiap project bisnis yang ditawarkan kepada calon investor dapat menjadi cuan yang potensial.
 
-[Equity crowdfunding](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog) merupakan sistem urun dana yang memanfaatkan teknologi digital atau dapat disebut juga investasi patungan bisnis. [LandX](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)[](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog) adalah penyelenggara [equity crowdfunding](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog) yang berizin dan diawasi OJK. Serta demi menjaga keamaan data pelanggan, [LandX](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)[](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog) mengantongi Sertifikasi ISO 27001 terkait keamaan data.
+[Equity crowdfunding](https://landx.id/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog) merupakan sistem urun dana yang memanfaatkan teknologi digital atau dapat disebut juga investasi patungan bisnis. [LandX](https://landx.id/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)[](https://landx.id/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog) adalah penyelenggara [equity crowdfunding](https://landx.id/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog) yang berizin dan diawasi OJK. Serta demi menjaga keamaan data pelanggan, [LandX](https://landx.id/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)[](https://landx.id/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog) mengantongi Sertifikasi ISO 27001 terkait keamaan data.
 
 Investasi kini sudah seharusnya dapat diakses oleh semua kalangan. Dengan teknologi digital yang bisa diakses semua orang, kini berinvestasi menjadi semakin mudah melalui telepon pintar masing-masing. Walau semakin mudah, tentu saja sebelum berinvestasi harus memahami profil risiko diri.
 
-Setiap investasi pasti memiliki risiko, tergantung instrumennya bisa berisiko besar dengan return besar dan sebaliknya. Jika kamu ingin berinvestasi dengan risiko yang minim, dapat berkenalan dengan [equity crowdfunding](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)atau investasi patungan bisnis. Berinvestasi pada bisnis yang kamu inginkan dan mendapatkan dividen dalam jangka waktu tertentu.
+Setiap investasi pasti memiliki risiko, tergantung instrumennya bisa berisiko besar dengan return besar dan sebaliknya. Jika kamu ingin berinvestasi dengan risiko yang minim, dapat berkenalan dengan [equity crowdfunding](https://landx.id/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)atau investasi patungan bisnis. Berinvestasi pada bisnis yang kamu inginkan dan mendapatkan dividen dalam jangka waktu tertentu.
 
-Di [LandX](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog) kamu bisa memilih sendiri perusahaan yang ingin kamu danai, dan mendapat keuntungan dividen umumnya berkisar 10-25% per tahun.
+Di [LandX](https://landx.id/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog) kamu bisa memilih sendiri perusahaan yang ingin kamu danai, dan mendapat keuntungan dividen umumnya berkisar 10-25% per tahun.
 
 Dividen ini akan dibagikan kepada kamu sebagai investor sesuai perjanjian awal yang umumnya 3 atau 6 bulan bersamaan dengan laporan keuangan. Menjadi investor sekaligus bagian owner dari perusahaan tersebut.
 
 Menjadi owner suatu bisnis ternama dengan modal Rp 1 jutaan pada project bisnis atau perusahaan yang ingin kamu modali. Perusahaan akan dikelola oleh para profesional berpengalaman dan kamu tinggal duduk manis tanpa repot kelola bisnis sekaligus mendapat dividen legit berkala.
 
-Investasi juga secara mudah hanya melalui aplikasi [LandX](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog) pada smartphone kamu. Berinvestasi layaknya belanja online! Jika kamu memiliki pertanyaan yang belum tersedia di website dan aplikasi, [LandX](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog) menyediakan fasilitas untuk kamu bisa mendiskusikannya di sini.
+Investasi juga secara mudah hanya melalui aplikasi [LandX](https://landx.id/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog) pada smartphone kamu. Berinvestasi layaknya belanja online! Jika kamu memiliki pertanyaan yang belum tersedia di website dan aplikasi, [LandX](https://landx.id/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog) menyediakan fasilitas untuk kamu bisa mendiskusikannya di sini.
 
 ## [Mau Investasi Miliki Saham Bisnis? Download Aplikasi LandX Sekarang!](https://app.landx.id/?utm_source=Content+Listing&utm_medium=Content+Blog&utm_campaign=BlogLandX&utm_id=Blog)
 
