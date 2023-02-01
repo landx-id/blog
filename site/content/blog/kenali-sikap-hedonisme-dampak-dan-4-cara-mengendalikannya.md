@@ -117,8 +117,8 @@ Tahun 2022 adalah tahun dengan akses digital tak terbatas dengan berbagai piliha
 
 Berinvestasi sistem crowdfunding di LandX memungkinkan kamu untuk memiliki bisnis menguntungkan dengan konsep patungan. Berinvestasi dengan memilih sendiri bisnis dan nilai keuntungan dividen dengan modal mulai sejutaan.
 
-## [Di LandX, #SekarangBisa dapat dividen dari bisnis menguntungkan dengan modal sejutaan!](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)
+## [Di LandX, #SekarangBisa dapat dividen dari bisnis menguntungkan dengan modal sejutaan!](https://landx.id/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)
 
 **Yuk Temukan Bisnis Menjanjikan dengan Keuntungan Terbaik di LandX**
 
-[![miliki bisnis modal kecil cuma dengan 1 jutaan dapat 4 cabang ](https://accountgram-production.sfo2.cdn.digitaloceanspaces.com/landx_ghost/2021/11/jadi-owner-bisnis-hanya-1-jutaan-dengan-cuan-yang-sangat-menjanjikan.png)](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)[Kunjungi LandX sekarang](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)
+[![miliki bisnis modal kecil cuma dengan 1 jutaan dapat 4 cabang ](https://accountgram-production.sfo2.cdn.digitaloceanspaces.com/landx_ghost/2021/11/jadi-owner-bisnis-hanya-1-jutaan-dengan-cuan-yang-sangat-menjanjikan.png)](https://landx.id/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)[Kunjungi LandX sekarang](https://landx.id/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)
