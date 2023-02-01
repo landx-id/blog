@@ -29,7 +29,7 @@ Hamburger atau burger merupakan salah satu makanan cepat saji yang disukai banya
 
 Walaupun burger merupakan makanan yang berasal dari luar, saat ini banyak sekali brand lokal yang berhasil memproduksi burger dengan kualitas dan cita rasa yang tidak kalah dari brand luar.
 
-**[Byurger](https://landx.id/project/#/byr1)** merupakan salah satu brand burger kekinian yang sangat populer dan berkembang belakangan ini, walaupun di tengah pandemi byurger menjadi salah satu bisnis F&B yang mengalami pertumbuhan pesat di tengah pandemi.
+**[Byurger](https://landx.id/)** merupakan salah satu brand burger kekinian yang sangat populer dan berkembang belakangan ini, walaupun di tengah pandemi byurger menjadi salah satu bisnis F&B yang mengalami pertumbuhan pesat di tengah pandemi.
 
 Selengkapnya, yuk kita bahas bagaimana konsep bisnis ini bisa berkembang dalam jangka panjang.
 
@@ -85,11 +85,11 @@ Hal ini menjadi inovasi baru yang mempermudah konsumen untuk membuat burger sesu
 
 Hal ini menjadikan Byurger salah satu burger yang banyak digemari masyarakat karena memberikan mereka kebebasan untuk membuat variasi menu mereka sendiri.
 
-[![cuma-dengan-1-jutaan-kamu-bisa-memiliki-4-cabang-byurger](https://accountgram-production.sfo2.cdn.digitaloceanspaces.com/landx_ghost/2021/09/cuma-dengan-1-jutaan-kamu-bisa-memiliki-4-cabang-byurger.png)](https://landx.id/project/)
+[![cuma-dengan-1-jutaan-kamu-bisa-memiliki-4-cabang-byurger](https://accountgram-production.sfo2.cdn.digitaloceanspaces.com/landx_ghost/2021/09/cuma-dengan-1-jutaan-kamu-bisa-memiliki-4-cabang-byurger.png)](https://landx.id/)
 
-## [Franchise Byurger Modal 1 Jutaaa](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)
+## [Franchise Byurger Modal 1 Jutaaa](https://landx.id/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)
 
-Untuk saat ini, Byurger belum membuka sistem kemitraaan melalui franchise. Namun kamu jangan khawatir karena kamu bisa memiliki **[4 cabang baru Byurger cuma dengan modal 1 jutaan aja](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)**.
+Untuk saat ini, Byurger belum membuka sistem kemitraaan melalui franchise. Namun kamu jangan khawatir karena kamu bisa memiliki **[4 cabang baru Byurger cuma dengan modal 1 jutaan aja](https://landx.id/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)**.
 
 Caranya mudah, kamu bisa ikut patungan bisnis untuk membangun 4 cabang terbaru dari Byurger dengan modal cuma 1 jutaan sehingga kamu bisa ikut menikmati keuntungan dari 4 cabang terbaru Byurger.
 
@@ -97,9 +97,9 @@ Dengan ikut patungan bisnis, maka kamu akan memiliki bagian kepemilikan berupa s
 
 Bersama LandX kamu bisa ikut patungan membangun berbagai bisnis potensial dengan keuntungan yang sangat menjanjikan dalam jangka panjang.
 
-## [Yuk Patungan Bisnis Menguntungkan Cuma Modal 1 Jutaan bareng LandX](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)
+## [Yuk Patungan Bisnis Menguntungkan Cuma Modal 1 Jutaan bareng LandX](https://landx.id/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)
 
-[![Yuk patungan Bisnis Bersama LandX, Platform Equity Crowdfunding Terpercaya dan Beirizin OJK](https://accountgram-production.sfo2.cdn.digitaloceanspaces.com/landx_ghost/2021/09/Equity-Crowdfunding-di-Indonesia-1--4.png)](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)
+[![Yuk patungan Bisnis Bersama LandX, Platform Equity Crowdfunding Terpercaya dan Beirizin OJK](https://accountgram-production.sfo2.cdn.digitaloceanspaces.com/landx_ghost/2021/09/Equity-Crowdfunding-di-Indonesia-1--4.png)](https://landx.id/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)
 
 **[Mau Berbagai Info Terbaru Seputar Investasi dan Bisnis Lainnya? Yuk Follow Instagram Kami @landx.i](https://www.instagram.com/landx.id/?utm_medium=copy_link)d**
 
