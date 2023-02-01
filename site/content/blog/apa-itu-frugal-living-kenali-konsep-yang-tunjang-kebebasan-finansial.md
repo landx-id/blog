@@ -110,14 +110,14 @@ Untuk menerapkan gaya hidup frugal living, meninggalkan rasa gengsi dan FOMO sud
 
 Penerapan frugal living ini adalah salah satu cara untuk Anda melatih mindset Anda terhadap uang. Untuk mencapai kebebasan finansial, tak hanya pengeluaran saja yang perlu ditekan, namun Anda juga bisa menambah pemasukan lebih dari satu sumber.
 
-Salah satunya adalah dengan berinvestasi melalui [patungan bisnis](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog) yang akan memberikan Anda sumber income tambahan berupa dividen dari bisnis yang Anda beli sahamnya.
+Salah satunya adalah dengan berinvestasi melalui [patungan bisnis](https://landx.id/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog) yang akan memberikan Anda sumber income tambahan berupa dividen dari bisnis yang Anda beli sahamnya.
 
-[LandX](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog) merupakan platform [securities crowdfunding](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog) yang memberikan Anda pilihan bisnis terbaik untuk Anda tanamkan modalnya. Mulai dari satu jutaan saja, Anda bisa investasi saham bisnis dari berbagai sektor. Punya bisnis sendiri, bisa jadi satu langkah kecil untuk menuju kebebasan finansial.
+[LandX](https://landx.id/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog) merupakan platform [securities crowdfunding](https://landx.id/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog) yang memberikan Anda pilihan bisnis terbaik untuk Anda tanamkan modalnya. Mulai dari satu jutaan saja, Anda bisa investasi saham bisnis dari berbagai sektor. Punya bisnis sendiri, bisa jadi satu langkah kecil untuk menuju kebebasan finansial.
 
-### [Yuk, Tunjang Kebebasan Finansial Anda dengan Menambah Passive Income Melalui LandX!](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)
+### [Yuk, Tunjang Kebebasan Finansial Anda dengan Menambah Passive Income Melalui LandX!](https://landx.id/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)
 
 <!--StartFragment-->
 
-[![Bagaimana? Kamu lebih suka bisnis dengan buyback guarantee atau yang bisa disimpan dalam jangka panjang? Apapun pilihan kamu.. Yuk Patungan  dengan Keuntungan Menjanjikan Bareng LandX](https://accountgram-production.sfo2.cdn.digitaloceanspaces.com/landx_ghost/2021/10/Equity-Crowdfunding-di-Indonesia-1--3.png)](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)
+[![Bagaimana? Kamu lebih suka bisnis dengan buyback guarantee atau yang bisa disimpan dalam jangka panjang? Apapun pilihan kamu.. Yuk Patungan  dengan Keuntungan Menjanjikan Bareng LandX](https://accountgram-production.sfo2.cdn.digitaloceanspaces.com/landx_ghost/2021/10/Equity-Crowdfunding-di-Indonesia-1--3.png)](https://landx.id/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)
 
 <!--EndFragment-->
