@@ -110,13 +110,13 @@ Dalam investasi, anda harus melakukan diversifikasi agar investasi anda menjadi 
 
 [Equity crowdfunding](https://landx.id/) merupakan instrumen investasi yang sangat cocok untuk diversifikasi dan mewarnai portofolio investasi anda.
 
-[Equity crowdfunding](https://landx.id/project/) bisa dibilang sebagai penawaran pasar modal namun dalam skala yang lebih kecil sehingga analisis investasi anda jauh lebih mudah.
+[Equity crowdfunding](https://landx.id/) bisa dibilang sebagai penawaran pasar modal namun dalam skala yang lebih kecil sehingga analisis investasi anda jauh lebih mudah.
 
 Selain itu, dalam sistem ini anda bisa ikut patungan membangun berbagai bisnis dan UKM potensial yang berada di sekitar anda dan bisa ikut menikmati keuntungan dari bisnis tersebut.
 
-## [Yuk Temukan Bisnis Terbaik untuk Investasi Jangka Panjang Kamu di LandX](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)
+## [Yuk Temukan Bisnis Terbaik untuk Investasi Jangka Panjang Kamu di LandX](https://landx.id/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)
 
-[![Yuk mulai patungan bisnis menguntungkan jangka panjang bersama LandX](https://accountgram-production.sfo2.cdn.digitaloceanspaces.com/landx_ghost/2021/09/Equity-Crowdfunding-di-Indonesia-1--3.png)](https://landx.id/project/?
+[![Yuk mulai patungan bisnis menguntungkan jangka panjang bersama LandX](https://accountgram-production.sfo2.cdn.digitaloceanspaces.com/landx_ghost/2021/09/Equity-Crowdfunding-di-Indonesia-1--3.png)](https://?
 
 - - -
 
