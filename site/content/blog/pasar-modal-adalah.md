@@ -111,5 +111,3 @@ E[quity crowdfunding](https://landx.id/) yang konsepnya hampir sama dengan pasar
 [![Yuk mulai patungan bisnis menguntungkan jangka panja g bersama LandX](https://accountgram-production.sfo2.cdn.digitaloceanspaces.com/landx_ghost/2021/09/Equity-Crowdfunding-di-Indonesia-1--3.png)](https://landx.id/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)
 
 **[Supaya Tetap Update Berbagai Info Terbaru Seputar Investasi Yuk Follow Instagram Kami di @landx.id](https://www.instagram.com/landx.id/?utm_medium=copy_link)**
-
-**\#SekarangBisa**
