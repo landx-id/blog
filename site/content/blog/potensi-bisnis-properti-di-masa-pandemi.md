@@ -85,10 +85,3 @@ Selain itu, berinvestasi dengan sistem ini juga memperkecil risiko kerugian bisn
 [![miliki bisnis modal kecil cuma dengan 1 jutaan dapat 4 cabang ](https://accountgram-production.sfo2.cdn.digitaloceanspaces.com/landx_ghost/2021/11/jadi-owner-bisnis-hanya-1-jutaan-dengan-cuan-yang-sangat-menjanjikan.png)](https://landx.id/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)
 
 **[Jangan Lupa!!!! Follow Instagram Kami @landx.id untuk Berbagai Info Menarik Seputar Bisnis dan Investasi Lainnya](https://instagram.com/landx.id?utm_medium=copy_link)**
-
-**\#LandX.id    #landx         #landx.id    #InvestasiBisnis #SecuritiesCrowdfundin   #EquityCrowdfunding    #InvestasiMenguntungkan    #Urundana    #BisnisPatungan    #InvestasiUsaha**
-
-**Baca Juga:**
-
-* [Cara Investasi ke Dalam Bisnis Properti: Bagaimana Cara Terbaik Memulai Investasi Properti dengan Modal Kecil.](https://landx.id/blog/cara-bisnis-properti-modal-kecil/)
-* [Bisnis di Masa Pandemi - Melihat Bagaimana Strategi Bisnis F&B Cloud Kitchen Bertahan di Masa Pandemi](https://landx.id/blog/bisnis-cloud-kitchen-di-masa-pandemi/)
