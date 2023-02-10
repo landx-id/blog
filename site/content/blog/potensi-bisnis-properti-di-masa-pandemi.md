@@ -27,7 +27,7 @@ Properti merupakan salah satu sektor bisnis yang dinilai stabil sehingga banyak 
 
 Selain itu, bisnis properti memiliki prospek yang semakin cerah dikarenakan beberapa kebijakan baru pemerintah dalam rangka pemulihan ekonomi.
 
-[Bisnis properti](https://landx.id/project/index.html) mungkin bisa dibilang menjadi salah satu sektor yang tetap bersinar di masa pandemi, pasalnya masih banyak orang tertarik membeli properti di masa pandemi karena beranggapan bisa mendapatkan harga yang lebih murah dibandingkan situasi biasa. Selain itu, penjualan properti ini juga semakin meningkat karena berbagai inovasi yang dilakukan untuk menyesuaikan situasi saat ini.
+[Bisnis properti](https://landx.id/) mungkin bisa dibilang menjadi salah satu sektor yang tetap bersinar di masa pandemi, pasalnya masih banyak orang tertarik membeli properti di masa pandemi karena beranggapan bisa mendapatkan harga yang lebih murah dibandingkan situasi biasa. Selain itu, penjualan properti ini juga semakin meningkat karena berbagai inovasi yang dilakukan untuk menyesuaikan situasi saat ini.
 
 Oleh sebab itu, mari kita bahas berbagai bisnis properti yang terus berkembang walaupun di masa pandemi.
 
@@ -60,7 +60,7 @@ Peningkatan permintaan ini membuat kostan jenis ini semakin berkembang dengan fa
 
 Apabila anda berpikir bahwa bisnis ini membutuhkan modal besar, anda tidak perlu khawatir karena anda bisa ikut patungan bisnis untuk membangun kos-kosan eksklusif dengan modal kecil. Anda bisa ikut gabung di patungan di LandX untuk menemukan properti terbaik untuk investasi bisnis anda.
 
-### [3. Real Estate Agency](https://landx.id/project/#/snp1/)
+### [3. Real Estate Agency](https://landx.id/)
 
 Real estate agency merupakan salah satu bisnis properti yang semakin berkembang dalam beberapa waktu belakangan. Pasalnya, agensi real estate memiliki peran penting dalam proses pemasaran dan penjualan suatu properti. Selama pandemi, sektor ini pun semakin berkembang terutama untuk agensi real estate yang berhasil mengoptimalkan sistem digital mereka semasa pandemi.
 
@@ -80,9 +80,9 @@ Selain itu, berinvestasi dengan sistem ini juga memperkecil risiko kerugian bisn
 
 **[LandX](https://landx.id/)** memberikan anda kesempatan untuk mulai investasi ke dalam berbagai properti potensial di sekitar anda.
 
-**[Yuk Temukan Bisnis Menjanjikan dengan Keuntungan Terbaik di LandX](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)**
+**[Yuk Temukan Bisnis Menjanjikan dengan Keuntungan Terbaik di LandX](https://landx.id/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)**
 
-[![miliki bisnis modal kecil cuma dengan 1 jutaan dapat 4 cabang ](https://accountgram-production.sfo2.cdn.digitaloceanspaces.com/landx_ghost/2021/11/jadi-owner-bisnis-hanya-1-jutaan-dengan-cuan-yang-sangat-menjanjikan.png)](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)
+[![miliki bisnis modal kecil cuma dengan 1 jutaan dapat 4 cabang ](https://accountgram-production.sfo2.cdn.digitaloceanspaces.com/landx_ghost/2021/11/jadi-owner-bisnis-hanya-1-jutaan-dengan-cuan-yang-sangat-menjanjikan.png)](https://landx.id/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)
 
 **[Jangan Lupa!!!! Follow Instagram Kami @landx.id untuk Berbagai Info Menarik Seputar Bisnis dan Investasi Lainnya](https://instagram.com/landx.id?utm_medium=copy_link)**
 
