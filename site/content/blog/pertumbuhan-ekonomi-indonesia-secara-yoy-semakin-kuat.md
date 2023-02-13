@@ -1,5 +1,5 @@
 ---
-draft: false
+draft: true
 author: Vlora Riyandi
 title: Pertumbuhan Ekonomi Indonesia secara YoY Semakin Kuat
 metaTitle: Pertumbuhan Ekonomi Indonesia secara YoY Semakin Kuat
