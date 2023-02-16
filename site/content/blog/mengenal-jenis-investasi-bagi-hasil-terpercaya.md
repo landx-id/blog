@@ -63,7 +63,7 @@ salah satu cara investasi bagi hasil adalah dengan terlibat [equity crowdfunding
 
 Mengajukan pinjaman dari bank merupakan cara yang efektif untuk memperoleh modal komersial. Namun, suku bunga bank yang tinggi membuat para pelaku bisnis skeptis, apalagi jika perusahaan tersebut beroperasi semaunya dalam pemasaran. Untungnya, ada crowdfunding, yang merupakan salah satu bentuk pembiayaan komersial yang disediakan oleh beberapa investor. Dana yang terkumpul nantinya akan diberikan kepada para pebisnis di masa depan untuk mendukung perjalanan bisnis.
 
-## [Cara Kerja Crowdfunding](https://landx.id/project/)
+## [Cara Kerja Crowdfunding](https://landx.id/)
 
 Pilar utama crowdfunding adalah pemilik situs web. Bisnis yang ingin Anda jalankan akan didaftarkan terlebih dahulu di situs web. Siapapun yang tertarik dengan bisnis ini dan menyetujui syarat dan ketentuan terlampir dapat berinvestasi langsung di sini. Tunggu beberapa hari untuk berkolaborasi, lalu alokasikan dana dari pemilik modal ke rekening para peserta bisnis.
 
@@ -83,7 +83,7 @@ Setelah mendaftar di [website crowdfunding](https://landx.id/), upload proposal 
 
 Jika salah satu investor menanyakan prospek bisnis yang tercantum dalam crowdfunding, mohon dijawab dengan singkat, ringkas, dan jelas. Jangan melebih-lebihkan bisnis yang akan Anda jalankan, karena hal ini justru akan membuat pemilik modal mempertanyakan prospek bisnis masa depan.
 
-## **[Keuntungan Crowdfunding](https://landx.id/project/)**
+## **[Keuntungan Crowdfunding](https://landx.id/)**
 
 ### 1. Pengajuan Dilakukan Secara Online
 
@@ -103,13 +103,13 @@ Proses pendaftaran di website crowdfunding memang sangat mudah, dan tidak memaka
 
 Platform crowdfunding memberi para profesional bisnis fleksibilitas untuk mendapatkan modal tanpa harus menyediakan uang muka atau jaminan dalam bentuk aset kepada situs itu sendiri. Ketika pelaku usaha mampu membayar dana yang diberikan, sesuai kesepakatan awal, proses pembiayaan akan berjalan lancar.
 
-## [LandX Crowdfunding, Metode Pembiayaan Terbaru dan Efektif](https://landx.id/project/)
+## [LandX Crowdfunding, Metode Pembiayaan Terbaru dan Efektif](https://landx.id/)
 
 Anda tidak perlu lagi khawatir menaruh dana anda di investasi bisnis yang salah . Sistem penggalangan dana berdasarkan [crowdfunding](https://landx.id/) dapat digunakan sebagai cara baru dan efektif untuk mengumpulkan dana untuk membangun bisnis yang akan memberikan keuntungan bagi banyak pihak.
 
 ## Yuk Temukan Bisnis Terbaik untuk Investasi Jangka Panjang Kamu di LandX
 
-[![jadi-owner-bisnis-hanya-1-jutaan-dengan-cuan-yang-sangat-menjanjikan](https://accountgram-production.sfo2.cdn.digitaloceanspaces.com/landx_ghost/2021/11/jadi-owner-bisnis-hanya-1-jutaan-dengan-cuan-yang-sangat-menjanjikan.png)](https://landx.id/project/)
+[![jadi-owner-bisnis-hanya-1-jutaan-dengan-cuan-yang-sangat-menjanjikan](https://accountgram-production.sfo2.cdn.digitaloceanspaces.com/landx_ghost/2021/11/jadi-owner-bisnis-hanya-1-jutaan-dengan-cuan-yang-sangat-menjanjikan.png)](https://landx.id/)
 
 **[Mau Berbagai info Terbaru Terkait Investasi? Yuk Follow @landx.id di Instagram](https://www.instagram.com/landx.id/?utm_medium=copy_link)**
 
