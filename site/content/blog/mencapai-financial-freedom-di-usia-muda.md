@@ -30,9 +30,9 @@ category:
   - Investasi
   - "Bisnis "
 ---
-Salah satu tujuan keuangan yang ingin dicapai hampir semua orang adalah *financial freedom* atau kebebasan finansial. Apa itu ***[financial freedom](https://landx.id/)*** adalah kondisi di mana seseorang bisa tetap hidup bercukupan tanpa bekerja karena mereka sudah memiliki *[passive income](https://landx.id/project/)* yang sudah bisa mencukupi berbagai kebutuhan hidup mereka.
+Salah satu tujuan keuangan yang ingin dicapai hampir semua orang adalah *financial freedom* atau kebebasan finansial. Apa itu ***[financial freedom](https://landx.id/)*** adalah kondisi di mana seseorang bisa tetap hidup bercukupan tanpa bekerja karena mereka sudah memiliki *[passive income](https://landx.id/)* yang sudah bisa mencukupi berbagai kebutuhan hidup mereka.
 
-Dengan kata lain, apa itu *financial freedom* dapat diartikan sebagai kondisi di mana aset yang kita miliki sudah bisa memberikan *[passive income](https://landx.id/project/)* yang cukup untuk memenuhi semua kebutuhan hidup mereka.
+Dengan kata lain, apa itu *financial freedom* dapat diartikan sebagai kondisi di mana aset yang kita miliki sudah bisa memberikan *[passive income](https://landx.id/)* yang cukup untuk memenuhi semua kebutuhan hidup mereka.
 
 Tahap ini sering juga disebut dengan finansial independent di mana seseorang tidak mengalami berbagai kendala finansial walaupun tidak bekerja karena sudah didukung dengan *passive income* yang lebih besar dari penghasilannya.
 
@@ -124,15 +124,15 @@ Karena itu, kamu harus menghitung berapa jumlah investasi yang harus kamu lakuka
 
 ## Investasi Bisnis dengan *Passive Income*
 
-Investasi bisnis melalui ***[equity crowdfunding](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)*** merupakan salah satu instrumen investasi yang bisa membantu kamu mencapai financial freedom karena bisa memberikan kamu dividen dari keuntungan bisnis yang kamu danai.
+Investasi bisnis melalui ***[equity crowdfunding](https://landx.id/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)*** merupakan salah satu instrumen investasi yang bisa membantu kamu mencapai financial freedom karena bisa memberikan kamu dividen dari keuntungan bisnis yang kamu danai.
 
 Apabila kamu berinvestasi melalui skema ini, maka kamu bisa mendapatkan dividen rutin yang besarnya mengikuti keuntungan dari bisnis yang kamu danai. Karena itu, patungan bisnis melalui equity crowdfunding merupakan salah satu instrumen investasi yang sangat cocok untuk mempermudah kamu mencapai financial freedom.
 
 **Karena itu..**
 
-## [Yuk Ikut Patungan Bisnis Menguntungkan Lewat LandX](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)!
+## [Yuk Ikut Patungan Bisnis Menguntungkan Lewat LandX](https://landx.id/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)!
 
-[![miliki bisnis modal kecil cuma dengan 1 jutaan dapat 4 cabang ](https://accountgram-production.sfo2.cdn.digitaloceanspaces.com/landx_ghost/2021/11/jadi-owner-bisnis-hanya-1-jutaan-dengan-cuan-yang-sangat-menjanjikan.png)](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)
+[![miliki bisnis modal kecil cuma dengan 1 jutaan dapat 4 cabang ](https://accountgram-production.sfo2.cdn.digitaloceanspaces.com/landx_ghost/2021/11/jadi-owner-bisnis-hanya-1-jutaan-dengan-cuan-yang-sangat-menjanjikan.png)](https://landx.id/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)
 
 **[Jangan Lupa!! Follow @landx.id di Instagram Supaya Terus Update Berbagai Info Seputar Investas](https://instagram.com/landx.id?utm_medium=copy_link)i**
 
