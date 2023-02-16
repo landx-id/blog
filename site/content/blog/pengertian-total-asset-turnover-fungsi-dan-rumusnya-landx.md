@@ -87,11 +87,11 @@ Ada banyak bentuk aset, salah satunya terdapat aset yang diinvestasikan. Investa
 
 Pengembalian investasi ini diindikasi oleh seberapa baik perusahaan memiliki pendapatan. Dan kemampuan perusahaan menghasilkan pendapatan ini ditunjukkan oleh total asset turnover ratio.
 
-Jika kamu sebagai pribadi ingin pengembalian investasi dari berinvestasi pada bisnis, kamu dapat melakukan strategi diversifikasi portofolio dengan investasi bisnis di [crowdfunding](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog). Melalui [crowdfunding](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog), kau dapat berinvestasi pada bisnis dan melihat estimasi pengembalian investasinya.
+Jika kamu sebagai pribadi ingin pengembalian investasi dari berinvestasi pada bisnis, kamu dapat melakukan strategi diversifikasi portofolio dengan investasi bisnis di [crowdfunding](https://landx.id/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog). Melalui [crowdfunding](https://landx.id/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog), kau dapat berinvestasi pada bisnis dan melihat estimasi pengembalian investasinya.
 
-## [Y﻿uk Mulai Investasi Menguntungkan di LandX](https://app.landx.id/?utm_source=Organic+Page&utm_medium=Content+Blog&utm_campaign=BlogLandX&utm_id=Blog)[](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)
+## [Y﻿uk Mulai Investasi Menguntungkan di LandX](https://app.landx.id/?utm_source=Organic+Page&utm_medium=Content+Blog&utm_campaign=BlogLandX&utm_id=Blog)[](https://landx.id/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)
 
-[](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)
+[](https://landx.id/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)
 
 [![miliki bisnis modal kecil cuma dengan 1 jutaan dapat 4 cabang ](https://accountgram-production.sfo2.cdn.digitaloceanspaces.com/landx_ghost/2021/11/jadi-owner-bisnis-hanya-1-jutaan-dengan-cuan-yang-sangat-menjanjikan.png)](https://app.landx.id/?utm_source=Organic+Page&utm_medium=Content+Blog&utm_campaign=BlogLandX&utm_id=Blog)
 
