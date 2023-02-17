@@ -172,19 +172,19 @@ Selain modal, proses pembangunan bisnis ini juga membutuhkan analisis yang cukup
 
 Cara ini memperkecil risiko kerugian dan potensi keuntungan yang lebih besar karena bisnis akan dikelola oleh pihak profesional yang sudah lama bergerak di bisnis ini. Oleh sebab itu, memberikan anda kesempatan untuk memiliki usaha cuci mobil menguntungkan dengan modal kecil.
 
-**[Mau Punya Cabang Yellow Car Wash Modal 1 Juta? Yuk Ikut Patungan di LandX!](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)**
+**[Mau Punya Cabang Yellow Car Wash Modal 1 Juta? Yuk Ikut Patungan di LandX!](https://landx.id/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)**
 
 **Caranya Mudah!**
 
 **Download aplikasi LandX lewat link ini dan lakukan pendaftaran agar kamu bisa ikut patungan bisnis dan memiliki cabang terbaru dari Yellow Car Wash.**
 
-**[Daftar di sini](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)**
+**[Daftar di sini](https://landx.id/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)**
 
-## [Yuk, kunjungi LandX dan kenali crowdfunding lebih lanjut untuk menjadi investor menguntungka](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)n
+## [Yuk, kunjungi LandX dan kenali crowdfunding lebih lanjut untuk menjadi investor menguntungka](https://landx.id/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)n
 
 **Yuk Temukan Bisnis Menjanjikan dengan Keuntungan Terbaik di LandX**
 
-[![miliki bisnis modal kecil cuma dengan 1 jutaan dapat 4 cabang ](https://accountgram-production.sfo2.cdn.digitaloceanspaces.com/landx_ghost/2021/11/jadi-owner-bisnis-hanya-1-jutaan-dengan-cuan-yang-sangat-menjanjikan.png)](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)
+[![miliki bisnis modal kecil cuma dengan 1 jutaan dapat 4 cabang ](https://accountgram-production.sfo2.cdn.digitaloceanspaces.com/landx_ghost/2021/11/jadi-owner-bisnis-hanya-1-jutaan-dengan-cuan-yang-sangat-menjanjikan.png)](https://landx.id/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)
 
 **Baca Juga:**
 
