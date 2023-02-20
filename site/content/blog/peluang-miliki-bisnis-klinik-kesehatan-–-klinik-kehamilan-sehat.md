@@ -8,7 +8,7 @@ metaDescription: Klinik Kehamilan Sehat memiliki keunggulan dari sisi pasien dan
 intro: Klinik Kehamilan Sehat memiliki keunggulan dari sisi pasien dan menarik
   untuk dikembangkan menjadi franchise klinik kesehatan yang didukung dengan
   layanan profesional.
-date: 2023-02-20T02:02:47.683Z
+date: 2023-02-17T09:02:47.683Z
 featuredImage:
   alt: Franchise klinik kesehatan
   title: Franchise klinik kesehatan
