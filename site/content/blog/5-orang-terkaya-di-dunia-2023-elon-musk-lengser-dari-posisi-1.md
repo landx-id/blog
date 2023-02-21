@@ -9,6 +9,7 @@ metaDescription: Ini dia list terbaru orang terkaya di dunia serta informasi
 intro: Ini dia list terbaru orang terkaya di dunia serta informasi perusahaan
   dan investasi yang dilakukan. Posisi pertama dari Top 5 orang terkaya di dunia
   kini tidak lagi dihuni Elon Musk tapi Chairman luxury brand LVMH group.
+isPinned: true
 date: 2023-01-13T00:12:24.671Z
 tag:
   - Elon Musk
