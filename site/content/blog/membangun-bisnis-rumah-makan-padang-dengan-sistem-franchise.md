@@ -9,7 +9,7 @@ metaDescription: Restoran padang saat ini mulai membuka kemitraan dengan sistem
 intro: Bisnis rumah makan padang dengan sistem franchise kini semakin berkembang
   sehingga banyak restoran padang membuka kemitraan melalui sistem ini. Karena
   itu, yuk kita lihat bagaimana potensi bisnis fnb ini dalam jangka panjang
-isPinned: true
+isPinned: false
 slug: membangun-bisnis-rumah-makan-padang-dengan-sistem-franchise
 date: 2021-10-05T10:48:00.000Z
 tag:
@@ -28,7 +28,7 @@ image: https://accountgram-production.sfo2.cdn.digitaloceanspaces.com/landx_ghos
 category:
   - Bisnis
 ---
-[Rumah Padang](\) merupakan salah satu [bisnis F&B](https://landx.id/project/) yang sangat potensial dan memiliki *demand* yang tetap stabil, hal ini karena nasi Padang sudah menjadi *shortcut* makan siang untuk banyak orang. Karena itu, franchise nasi Padang bisa dibilang sebagai salah satu bisnis F&B yang paling banyak di sekitar kita.
+Rumah Padang merupakan salah satu [bisnis F&B](https://landx.id/) yang sangat potensial dan memiliki *demand* yang tetap stabil, hal ini karena nasi Padang sudah menjadi *shortcut* makan siang untuk banyak orang. Karena itu, franchise nasi Padang bisa dibilang sebagai salah satu bisnis F&B yang paling banyak di sekitar kita.
 
 Hal ini karena nasi Padang merupakan makanan yang sangat cocok untuk lidah Indonesia sehingga masakan Padang menjadi makanan andalan untuk banyak orang.
 
