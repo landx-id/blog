@@ -11,7 +11,7 @@ intro: >-
 
 
   Karena itu, yuk kita simak lebih lanjut tentang bisnis gelato kualitas premium satu ini...
-isPinned: true
+isPinned: false
 date: 2022-02-04T17:34:40.916Z
 tag:
   - Bisnis F&B
