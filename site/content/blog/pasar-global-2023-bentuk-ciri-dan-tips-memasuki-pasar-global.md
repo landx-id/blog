@@ -8,6 +8,9 @@ metaDescription: Pasar global adalah istilah yang merujuk pada interaksi dan
 intro: Pasar global adalah istilah yang merujuk pada interaksi dan perdagangan
   ekonomi antara berbagai negara di seluruh dunia.
 date: 2023-02-15T09:35:47.742Z
+category:
+  - News
+  - Ekonomi
 featuredImage:
   title: Pasar global
   alt: Pasar global
