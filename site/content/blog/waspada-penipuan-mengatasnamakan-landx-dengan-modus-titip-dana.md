@@ -8,7 +8,7 @@ metaDescription: Waspada berbagai modus investasi penipuan yang mengatasnamakan
   resmi LandX
 intro: “LandX saat ini tidak memiliki grup telegram untuk investasi, media
   sosial resmi LandX bisa anda lihat melalui halaman utama LandX”
-isPinned: true
+isPinned: false
 slug: waspada-penipuan-mengatasnamakan-landx-dengan-modus-titip-dana
 date: 2021-04-15T06:18:00.000Z
 tag:
