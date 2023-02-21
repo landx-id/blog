@@ -8,7 +8,7 @@ metaDescription: "Dirgahayu RI ke-77: Pulih Lebih Cepat, Bangkit Lebih Kuat –
   ada apa aja!"
 intro: "Dirgahayu RI ke-77: Pulih Lebih Cepat, Bangkit Lebih Kuat – Ini dia data
   yang buktikan terjadi pertumbuhan ekonomi Indonesia. Yuk lihat ada apa aja!"
-isPinned: true
+isPinned: false
 date: 2022-08-17T08:55:02.392Z
 tag:
   - Ekonomi
