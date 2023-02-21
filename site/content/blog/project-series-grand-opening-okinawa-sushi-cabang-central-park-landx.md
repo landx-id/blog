@@ -12,7 +12,7 @@ intro: >-
 
 
   Yuk simak keseruan grand opening Okinawa Sushi cabang Central Park
-isPinned: true
+isPinned: false
 slug: project-series-grand-opening-okinawa-sushi-cabang-central-park-landx
 date: 2021-12-10T20:05:17.000Z
 tag:
@@ -34,7 +34,7 @@ category:
 ---
 - - -
 
-**[Gandeng LandX,](https://landx.id/project/)** restoran fusion makanan Jepang Okinawa Sushi mengumumkan pembukaan outlet barunya yang berlokasi di Mall Central Park, Jakarta, pada Jumat, 26 November 2021 lalu.
+**[Gandeng LandX,](https://landx.id/)** restoran fusion makanan Jepang Okinawa Sushi mengumumkan pembukaan outlet barunya yang berlokasi di Mall Central Park, Jakarta, pada Jumat, 26 November 2021 lalu.
 
 {{< button link="https://www.youtube.com/watch?v=s46i5RS8z8U" text="Watch This Video" >}}
 {{< youtube id="s46i5RS8z8U" >}}
@@ -65,9 +65,9 @@ Di LandX kamu bisa memilih sendiri perusahaan yang ingin kamu danai, dan mendapa
 
 Dividen ini akan dibagikan kepada kamu sebagai investor sesuai perjanjian awal yang umumnya 3 atau 6 bulan bersamaan dengan laporan keuangan. Menjadi investor sekaligus bagian owner dari perusahaan tersebut.
 
-Menjadi owner suatu bisnis ternama dengan modal Rp 1 jutaan pada **[project bisnis](https://landx.id/project/)** atau perusahaan yang ingin kamu modali. Perusahaan akan dikelola oleh para profesional berpengalaman dan kamu tinggal duduk manis tanpa repot kelola bisnis sekaligus mendapat dividen legit berkala.
+Menjadi owner suatu bisnis ternama dengan modal Rp 1 jutaan pada **[project bisnis](https://landx.id/)** atau perusahaan yang ingin kamu modali. Perusahaan akan dikelola oleh para profesional berpengalaman dan kamu tinggal duduk manis tanpa repot kelola bisnis sekaligus mendapat dividen legit berkala.
 
-Investasi juga secara mudah hanya melalui aplikasi LandX pada smartphone kamu. Berinvestasi layaknya belanja online! Jika kamu memiliki pertanyaan yang belum tersedia di website dan aplikasi, **[LandX](https://landx.id/project/)** menyediakan fasilitas untuk kamu bisa mendiskusikannya di sini.
+Investasi juga secara mudah hanya melalui aplikasi LandX pada smartphone kamu. Berinvestasi layaknya belanja online! Jika kamu memiliki pertanyaan yang belum tersedia di website dan aplikasi, **[LandX](https://landx.id/)** menyediakan fasilitas untuk kamu bisa mendiskusikannya di sini.
 
 ## Mempermudah Ekspansi Bisnis dan UMK
 
@@ -87,7 +87,7 @@ Dari perusahaan yang telah melakukan **[listing bersama LandX](https://landx.id/
 
 Di kala pandemi pun, perusahaan tidak redup memberikan dividen kepada investornya. Bahkan perusahaan pemilik properti kos-kosan yang umumnya diberitakan menghadapi masa sulit pada awal pandemi Covid-19.
 
-**[Dividen](https://landx.id/project/#/okin)** yang lancar didistribukan tanpa gundah,karena situasi yang tidak terduga, membuktikan bahwa perusahaan yang listing di LandX adalah perusahaan yang memiliki pondasi bisnis yang kuat. Strategi yang dinamis yang siap beradaptasi dengan kondisi dan kebijakan.
+**[Dividen](https://landx.id/)** yang lancar didistribukan tanpa gundah,karena situasi yang tidak terduga, membuktikan bahwa perusahaan yang listing di LandX adalah perusahaan yang memiliki pondasi bisnis yang kuat. Strategi yang dinamis yang siap beradaptasi dengan kondisi dan kebijakan.
 
 - - -
 
