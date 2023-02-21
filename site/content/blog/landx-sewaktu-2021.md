@@ -12,7 +12,7 @@ intro: >-
 
 
   Walaupun krisis pandemi masih berkembang, fenomena ini tidak membuat geliat bisnis teknologi redam. Yuk simak perjalanan LandX sewaktu 2021.....
-isPinned: true
+isPinned: false
 slug: landx-sewaktu-2021
 date: 2022-01-03T06:47:41.000Z
 tag:
