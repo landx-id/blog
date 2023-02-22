@@ -9,7 +9,11 @@ metaDescription: Suku bunga acuan adalah besaran tingkat bunga bulanan oleh bank
 intro: "Suku bunga acuan adalah besaran tingkat bunga bulanan yang ditetapkan
   bank sentral untuk mengatur produk keuangan simpan-pinjam. Apa dampak kenaikan
   suku bunga? Serta pengaruh suku bunga The Fed terhadap Indonesia? "
+isPinned: true
 date: 2022-12-22T02:40:39.619Z
+category:
+  - News
+  - Keuangan
 featuredImage:
   alt: suku bunga the fed naik
   title: suku bunga the fed naik
