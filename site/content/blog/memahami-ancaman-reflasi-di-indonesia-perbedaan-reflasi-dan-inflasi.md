@@ -29,7 +29,7 @@ Akibat dari kesulitan pasokan energi yang menyebabkan inflasi yang semakin menin
 
 ## Apa Itu Reflasi
 
-Setelah kenaikan inflasi, potensi resesi, dan kemungkinan stagflasi, kini ada lagi guncangan ekonomi yang bernama reflasi. Apa itu reflasi? Bagaimana ancaman reflasi di Indonesia? 
+Setelah kenaikan inflasi, potensi resesi, dan kemungkinan stagflasi, kini ada lagi guncangan ekonomi yang bernama reflasi. Apa itu reflasi? Bagaimana ancaman reflasi di Indonesia?  
 
 Reflasi adalah pertumbuhan ekonomi yang menghadapi resesi dengan inflasi tinggi. Artinya kondisi perekonomian suatu negara cenderung melambat dengan inflasi yang terus naik, sehingga konsumsi masyarakat terpantau lesu.
 
