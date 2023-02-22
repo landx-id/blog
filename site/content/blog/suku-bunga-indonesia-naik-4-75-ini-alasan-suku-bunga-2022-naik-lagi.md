@@ -18,6 +18,7 @@ tag:
 category:
   - Investasi
   - Keuangan
+  - News
 featuredImage:
   src: https://cdn.discordapp.com/attachments/977943413909487668/1032652659716534343/unknown.png
   alt: Kenaikan suku bunga Indonesia terbaru
