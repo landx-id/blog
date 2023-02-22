@@ -11,6 +11,8 @@ intro: Keuntungan demonetisasi adalah untuk mencegah adanya penggelapan pajak
   tidak selamanya memberikan keuntungan, artikel ini akan membahas kenapa hal
   tersebut dapat terjadi.
 date: 2022-11-23T05:05:29.275Z
+category:
+  - Ekonomi
 featuredImage:
   alt: demonetisasi adalah
   title: demonetisasi adalah
