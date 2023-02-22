@@ -85,9 +85,9 @@ Jika hal ini terjadi di banyak bisnis di berbagai sektor maka situasi ekonomi te
 
 Kamus Istilah Ekonomi
 
-* Reflasi adalah kondisi perekonomian yang resesi dan inflasi tinggi.
-* Resesi adalah pertumbuhan ekonomi yang menurun dua periode berturut-turut. 
-* Inflasi adalah kenaikan harga barang dan jasa secara umum dan terus-menerus.
-* Stagflasi adalah kondisi perekonomian stagnan cenderung turun dengan inflasi.
+* **Reflasi** adalah kondisi perekonomian yang resesi dan inflasi tinggi.
+* **Resesi** adalah pertumbuhan ekonomi yang menurun dua periode berturut-turut. 
+* **Inflasi** adalah kenaikan harga barang dan jasa secara umum dan terus-menerus.
+* **Stagflasi** adalah kondisi perekonomian stagnan cenderung turun dengan inflasi.
 
 [Mari Persiapkan Keuangan yang Kuat Menghadapi Berbagai Situasi Ekonomi](https://app.landx.id/?utm_source=Organic+Page&utm_medium=Content+Blog&utm_campaign=BlogLandX&utm_id=Blog)
