@@ -8,7 +8,11 @@ metaDescription: Tingkat pertumbuhan ekonomi Indonesia tahun ke tahun (YoY)
   satu tahun
 intro: Tingkat pertumbuhan ekonomi Indonesia tahun ke tahun (YoY) adalah tingkat
   pertumbuhan Produk Domestik Bruto (PDB) Indonesia dalam periode satu tahun
+isPinned: true
 date: 2023-02-20T10:14:16.482Z
+category:
+  - News
+  - Ekonomi
 featuredImage:
   alt: pertumbuhan ekonomi Indonesia
   title: pertumbuhan ekonomi Indonesia
