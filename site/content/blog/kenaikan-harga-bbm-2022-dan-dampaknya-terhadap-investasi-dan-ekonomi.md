@@ -14,6 +14,8 @@ tag:
   - Ekonomi
 category:
   - Bisnis
+  - Ekonomi
+  - News
 featuredImage:
   src: https://media.discordapp.net/attachments/913743599844343808/1024564905237549067/305378680_134376085985688_3483545428208405903_n.jpg?width=525&height=656
   alt: Memahami dampak kenaikan BBM terhadap investasi
