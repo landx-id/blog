@@ -9,6 +9,8 @@ intro: "Zombie bank adalah bank bankrut yang masih beroperasi berkat dukungan
   dari pemerintah. Pihak yang terlibat dari keuntungan dan kerugian zombie bank
   adalah pemerintah, bank yang sehat, dan masyarakat. "
 date: 2022-11-21T09:56:43.766Z
+category:
+  - Ekonomi
 featuredImage:
   src: https://images.unsplash.com/photo-1501167786227-4cba60f6d58f?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80
   alt: Contoh zombie bank di Indonesia
