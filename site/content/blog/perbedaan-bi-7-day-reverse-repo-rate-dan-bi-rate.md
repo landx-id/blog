@@ -9,6 +9,9 @@ intro: "Perbedaan BI rate dan BI 7-day terletak pada teknis laju uang yang
   ditarik atau dikeluarkan oleh Bank Indonesia. Teknis ini akan mempengaruhi
   cepat atau lambatnya perubahan inflasi. "
 date: 2022-11-21T09:49:17.981Z
+category:
+  - Investasi
+  - Keuangan
 featuredImage:
   src: https://images.unsplash.com/photo-1607944024060-0450380ddd33?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1032&q=80
   alt: Perbedaan BI rate dan BI 7-day
