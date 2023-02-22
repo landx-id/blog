@@ -11,6 +11,9 @@ intro: >
   Indonesia Q3 2022 menunjukan pencapaian positif, yaitu mencapai 5,72%. Yuk,
   intip pertumbuhan ekonomi Indonesia di sini!
 date: 2022-11-09T08:02:59.704Z
+category:
+  - Ekonomi
+  - News
 featuredImage:
   src: https://t4.ftcdn.net/jpg/00/90/72/33/240_F_90723370_lgm9NHvqN0bBB99Qvx4EGfz4e7ybNtDy.jpg
   alt: ekonomi Indonesia tumbuh
