@@ -10,6 +10,9 @@ intro: >
   saat melakukan transaksi kredit. Yuk, ketahui lebih lanjut seputar arti tenor
   dalam pinjaman di artikel ini!
 date: 2022-11-09T08:24:39.520Z
+category:
+  - Ekonomi
+  - Keuangan
 featuredImage:
   src: https://img.freepik.com/free-photo/loan-buy-house-pressure-buy-house_1205-11226.jpg?w=740&t=st=1667812467~exp=1667813067~hmac=ecee33ef92fefd17a4af87d32864044458a8e6c2a4d569a52624f71f6f4e79c7
   alt: tenor pinjaman adalah
