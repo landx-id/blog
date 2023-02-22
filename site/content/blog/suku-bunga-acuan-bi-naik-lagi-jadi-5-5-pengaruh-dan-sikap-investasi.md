@@ -8,6 +8,10 @@ metaDescription: Suku bunga Indonesia naik mengikuti The Fed, langkah kenaikan
 intro: Suku bunga Indonesia naik mengikuti The Fed, langkah kenaikan suku bunga
   dipilih untuk menjaga stabilitas dan pemulihan ekonomi Indonesia.
 date: 2022-12-28T08:19:44.015Z
+category:
+  - News
+  - Keuangan
+  - Keuangan
 featuredImage:
   alt: "Suku bunga Indonesia naik "
   title: "Suku bunga Indonesia naik "
