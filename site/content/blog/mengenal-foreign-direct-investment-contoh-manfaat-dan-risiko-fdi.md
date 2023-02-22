@@ -15,6 +15,7 @@ tag:
 category:
   - Investasi
   - Keuangan
+  - Ekonomi
 featuredImage:
   title: FDI adalah
   alt: foreign direct investment
