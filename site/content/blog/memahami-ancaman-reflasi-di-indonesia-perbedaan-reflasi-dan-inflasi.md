@@ -10,6 +10,12 @@ intro: Reflasi adalah kondisi perekonomian yang resesi dan inflasi tinggi.
   Resesi merujuk pada perekonomian yang menurun selama dua periode
   berturut-turut. Apa yang terjadi jika ancaman reflasi di Indonesia terjadi?
 date: 2023-02-22T04:19:10.514Z
+tag:
+  - Inflasi
+  - Investasi Keuangan
+category:
+  - Ekonomi
+  - News
 featuredImage:
   alt: reflasi adalah
   title: reflasi adalah
