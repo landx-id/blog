@@ -15,6 +15,7 @@ tag:
   - Lembaga Keuangan
 category:
   - Keuangan
+  - Bisnis
 featuredImage:
   src: https://img.freepik.com/free-photo/car-model-calculator-coins-white-table_1387-584.jpg?w=740&t=st=1666008714~exp=1666009314~hmac=0e41bdae7551eaf0ac9d07a5962637e8e6463d9c10ce66485a63e937bd783922
   alt: Pengertian refinancing dan syarat refinancing
