@@ -10,7 +10,11 @@ intro: Aturan ARA dan ARB saat ini masih serupa dengan jadwal perdagangan bursa
   selama pandemi. Kabar penetapan perubahan ARB menjadi simetris masih dalam
   tahap kajian. Namun, ada baiknya sebagai investor ritel, kita mempersiapkan
   diri menyambut perubahan aturan ARA dan ARB saham
+isPinned: true
 date: 2023-01-02T04:15:48.480Z
+category:
+  - News
+  - Investasi
 featuredImage:
   alt: "aturan ara dan arb saham "
   title: "aturan ara dan arb saham "
