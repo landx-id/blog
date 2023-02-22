@@ -11,6 +11,8 @@ intro: Kondisi hiperinflasi akan berdampak pada perekonomian suatu negara.
   mengalami hiperinflasi dapat disebabkan oleh beberapa faktor, salah satunya
   faktor internal negara itu sendiri.
 date: 2022-11-29T02:35:55.478Z
+category:
+  - Ekonomi
 featuredImage:
   alt: apa itu hiperinflasi
   title: apa itu hiperinflasi
