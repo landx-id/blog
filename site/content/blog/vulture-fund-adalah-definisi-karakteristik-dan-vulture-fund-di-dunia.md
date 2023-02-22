@@ -10,6 +10,8 @@ intro: Vulture fund adalah pendanaan investasi yang dilakukan oleh perusahaan
   fund yaitu mengincar keuntungan besar yang didapatkan dengan taruhan berisiko
   tinggi.
 date: 2022-11-28T13:41:10.957Z
+category:
+  - Ekonomi
 featuredImage:
   src: https://images.pexels.com/photos/797670/pexels-photo-797670.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2
   alt: vulture fund adalah
