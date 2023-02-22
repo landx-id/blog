@@ -8,7 +8,11 @@ metaDescription: Jenis-jenis inflasi dapat dipahami dari penyebab dan dampaknya.
 intro: Ramai dibicarakan, inflasi di Indonesia hampir mencapai angka 6% lho!
   Tapi, apa artinya ya? Yuk pelajari dulu Jenis-jenis inflasi, penyebab,
   dampaknya, serta indikator inflasi di sini!
+isPinned: true
 date: 2022-11-01T08:03:08.260Z
+category:
+  - Ekonomi
+  - News
 featuredImage:
   src: https://images.unsplash.com/photo-1625605079052-e7fcb98994ca?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80
   alt: Jenis-jenis Inflasi
