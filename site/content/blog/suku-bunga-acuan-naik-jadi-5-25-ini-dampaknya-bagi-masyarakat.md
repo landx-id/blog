@@ -9,6 +9,9 @@ intro: Kenaikan suku bunga acuan akan berdampak positif dan negatif bagi
   masyarakat. Apa saja dampak naik turun suku bunga di Indonesia? Yuk lihat
   penjelasannya melalui artikel berikut ini.
 date: 2022-11-22T10:02:29.999Z
+category:
+  - News
+  - Ekonomi
 featuredImage:
   src: https://cdn.discordapp.com/attachments/977943413909487668/1044555258430492723/image.png
   alt: Alasan kenaikan suku bunga
