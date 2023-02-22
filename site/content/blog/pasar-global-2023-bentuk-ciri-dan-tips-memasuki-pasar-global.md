@@ -11,6 +11,8 @@ date: 2023-02-15T09:35:47.742Z
 category:
   - News
   - Ekonomi
+  - Ekonomi
+  - News
 featuredImage:
   title: Pasar global
   alt: Pasar global
