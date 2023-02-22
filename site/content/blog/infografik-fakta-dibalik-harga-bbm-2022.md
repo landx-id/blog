@@ -9,6 +9,9 @@ intro: Kenaikan harga BBM sudah terjadi tiga kali di tahun 2022. Harga BBM dari
   tahun ke tahun umumnya selalu naik. Lihat fakta dampak dan pengaruh harga BBM
   di Indonesia.
 date: 2022-11-07T04:32:04.457Z
+category:
+  - Ekonomi
+  - News
 featuredImage:
   src: img/landx_infografis_kenaikan-bbm_01.png
   alt: harga bbm naik
