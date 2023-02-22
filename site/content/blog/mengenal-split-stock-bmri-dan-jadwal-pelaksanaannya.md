@@ -10,6 +10,9 @@ intro: Split stock adalah memecah nilai nominal saham menjadi beberapa saham
   baru. Mengapa perusahaan melakukan split stock dan apa keuntungan bagi
   investor? Yuk cari tahu dalam tulisan ini!
 date: 2023-02-14T08:17:57.269Z
+category:
+  - News
+  - Investasi
 featuredImage:
   src: https://images.unsplash.com/photo-1538688423619-a81d3f23454b?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80
   alt: split stock bmri
