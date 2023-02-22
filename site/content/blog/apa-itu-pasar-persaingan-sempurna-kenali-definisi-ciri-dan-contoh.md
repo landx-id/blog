@@ -9,6 +9,9 @@ intro: Pasar persaingan sempurna adalah struktur pasar yang ideal bagi
   perekonomian untuk operasional. Lalu, apa yang membuatnya menjadi ideal? Untuk
   penjelasannya yuk simak artikel berikut ini.
 date: 2022-11-09T06:16:44.415Z
+category:
+  - Ekonomi
+  - News
 featuredImage:
   src: https://images.unsplash.com/photo-1589470288084-ecad61835772?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2070&q=80
   alt: contoh pasar persaingan sempurna
