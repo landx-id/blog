@@ -15,6 +15,7 @@ tag:
   - investor pemula
 category:
   - Bisnis
+  - Startup Indonesia
 featuredImage:
   src: https://img.freepik.com/free-photo/smart-confidence-asian-female-startup-entrepreneur-small-business-owner-businesswoman-wear-smart-casual-cloth-smile-hand-use-tablet-woking-inventory-checking-showroom-office-daytime-background_609648-342.jpg?w=740&t=st=1665472644~exp=1665473244~hmac=43da4ae6f1af16f75e40188e22b87220e56c579cd2e1d7bf04021a48d0fd0344
   alt: Pengertian dan contoh sociopreneur Indonesia
