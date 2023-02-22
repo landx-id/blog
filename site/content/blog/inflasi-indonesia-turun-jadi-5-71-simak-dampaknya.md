@@ -10,6 +10,9 @@ intro: Inflasi Indonesia turun ke angka 5,71% dikarenakan turunnya harga
   beberapa barang. Turunnya harga barang tidak terlepas dari cara pemerintah
   menurunkan inflasi dengan menaikan suku bunga acuan.
 date: 2022-11-04T10:59:48.611Z
+category:
+  - News
+  - Ekonomi
 featuredImage:
   src: https://images.unsplash.com/photo-1645226880663-81561dcab0ae?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80
   alt: Penurunan inflasi Indonesia
