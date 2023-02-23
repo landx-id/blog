@@ -18,6 +18,8 @@ tag:
 category:
   - Investasi
   - Keuangan
+  - News
+  - Economy
 featuredImage:
   alt: Quantitative Easing adalah
   title: Quantitative Easing adalah
