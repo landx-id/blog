@@ -16,6 +16,7 @@ category:
   - Investasi
   - Keuangan
   - Ekonomi
+  - Startup Indonesia
 featuredImage:
   title: FDI adalah
   alt: foreign direct investment
