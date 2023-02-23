@@ -2,8 +2,8 @@
 nice: okay nice
 headerCategory:
   - News
-  - Startup Indonesia
-  - Investasi
-  - Keuangan
   - Ekonomi
+  - Keuangan
+  - Investasi
+  - Startup Indonesia
 ---
