@@ -9,6 +9,13 @@ intro: Suku bunga The Fed adalah tolok ukur utama untuk suku bunga lain dalam
   perekonomian Amerika dan global termasuk Indonesia. Lihat bagaimana pengaruh
   suku bunga the fed terhadap investasi di Indonesia.
 date: 2022-12-26T07:58:23.825Z
+tag:
+  - Suku Bunga
+  - Laju Inflasi
+category:
+  - News
+  - Ekonomi
+  - Keuangan
 featuredImage:
   alt: Suku Bunga The Fed 2023
   title: Suku Bunga The Fed 2023
