@@ -18,6 +18,8 @@ tag:
 category:
   - Investasi
   - Keuangan
+  - News
+  - Ekonomi
 featuredImage:
   title: Suku Bunga Indonesia Naik Menjadi 4,25% Simak Dampaknya!
   alt: Suku Bunga Indonesia Naik Menjadi 4,25% Simak Dampaknya!
