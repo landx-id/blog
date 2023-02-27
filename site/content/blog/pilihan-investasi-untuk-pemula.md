@@ -73,7 +73,7 @@ Jadi, tunggu apalagi?
 Mulai investasi sekarang, sebelum properti incaranmu habis terjual!
 
 
-[![miliki bisnis modal kecil cuma dengan 1 jutaan dapat 4 cabang ](https://accountgram-production.sfo2.cdn.digitaloceanspaces.com/landx_ghost/2021/11/jadi-owner-bisnis-hanya-1-jutaan-dengan-cuan-yang-sangat-menjanjikan.png)](https://landx.id/project/)
+[![miliki bisnis modal kecil cuma dengan 1 jutaan dapat 4 cabang ](https://accountgram-production.sfo2.cdn.digitaloceanspaces.com/landx_ghost/2021/11/jadi-owner-bisnis-hanya-1-jutaan-dengan-cuan-yang-sangat-menjanjikan.png)](https://landx.id/)
 
 **[Mau Berbagai Info Menarik Seputar Investasi Lainnya? Yuk Follow Instagram @landx.id](https://instagram.com/landx.id?utm_medium=copy_link)**
 
