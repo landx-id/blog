@@ -18,6 +18,8 @@ tag:
 category:
   - Investasi
   - Keuangan
+  - News
+  - Ekonomi
 featuredImage:
   src: https://media.discordapp.net/attachments/913743599844343808/1024590612244213822/-_Slide_1.1_1.jpg?width=435&height=543
   alt: Memahami indikator kebangkrutan suatu negara
