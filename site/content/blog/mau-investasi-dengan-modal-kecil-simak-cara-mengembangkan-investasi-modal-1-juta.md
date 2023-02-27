@@ -2,8 +2,8 @@
 draft: false
 author: Abdul Wahhab
 slug: mau-investasi-dengan-modal-kecil-simak-cara-mengembangkan-investasi-modal-1-juta
-title: Investasi Modal 1 Juta yang Bisa Memberikan Keuntungan Jangka Panjang
-metaTitle: Investasi Modal 1 Juta yang Bisa Memberikan Keuntungan Jangka Panjang
+title: Investasi Modal 1 Juta yang Bisa Jadi Pilihan Investasi Kamu
+metaTitle: Investasi Modal 1 Juta yang Bisa Jadi Pilihan Kamu
 metaDescription: Punya uang 1 juta tapi bingung investasi apa? Yuk simak
   investasi modal 1 juta yang bisa kamu coba
 intro: Yuk simak berbagai investasi menguntungkan dengan modal 1 juta yang bisa
