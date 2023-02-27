@@ -68,13 +68,13 @@ Menyusun rencana diversifikasi yang  baik merupakan bagian dari mitigasi risiko 
 
 Dalam melakukan investasi tentu saja anda harus bersiap untuk menghadapi kondisi yang tidak terduga di masa yang akan datang. Karena itu anda perlu memperkecil resiko investasi anda perlu memiliki beberapa instrumen investasi untuk menghadapi ketidakpastian kondisi pasar.
 
-Contohnya dalam [equity crowdfunding](https://landx.id/about-landx.html) anda bisa menanamkan sebagian modal anda ke dalam investasi bisnis properti dan sisanya ke dalam lini bisnis lain agar resiko yang dihadapi menjadi lebih kecil.
+Contohnya dalam equity crowdfunding anda bisa menanamkan sebagian modal anda ke dalam investasi bisnis properti dan sisanya ke dalam lini bisnis lain agar resiko yang dihadapi menjadi lebih kecil.
 
-LandX memberikan kesempatan Investasi online modal kecil yang dapat memberikan keuntungan besar kepada para investor yang memiliki modal kecil. Di LandX, anda bisa memulai investasi bisnis melalui crowdfunding hanya dengan [1 juta.](https://landx.id/)
+LandX memberikan kesempatan Investasi online modal kecil yang dapat memberikan keuntungan besar kepada para investor yang memiliki modal kecil. Di LandX, anda bisa memulai investasi bisnis melalui crowdfunding hanya dengan 1 juta.
 
-**[Yuk Temukan Bisnis Menjanjikan dengan Keuntungan Terbaik di LandX](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)**
+**[Yuk Temukan Bisnis Menjanjikan dengan Keuntungan Terbaik di LandX](https://landx.id/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)**
 
-[![miliki bisnis modal kecil cuma dengan 1 jutaan dapat 4 cabang ](https://accountgram-production.sfo2.cdn.digitaloceanspaces.com/landx_ghost/2021/11/jadi-owner-bisnis-hanya-1-jutaan-dengan-cuan-yang-sangat-menjanjikan.png)](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)
+[![miliki bisnis modal kecil cuma dengan 1 jutaan dapat 4 cabang ](https://accountgram-production.sfo2.cdn.digitaloceanspaces.com/landx_ghost/2021/11/jadi-owner-bisnis-hanya-1-jutaan-dengan-cuan-yang-sangat-menjanjikan.png)](https://landx.id/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)
 
 **[Supaya Lebih Paham Cara Investasi Terbaik, Yuk Follow Kami di Instagram @landx.id](https://www.instagram.com/landx.id/?utm_medium=copy_link)**
 
@@ -84,5 +84,3 @@ LandX memberikan kesempatan Investasi online modal kecil yang dapat memberikan k
 * **[Cara  Investasi Bagi Hasil Terpercaya agar Investasi Usaha Anda Bisa Memberikan Passive Income yang Maksimal](https://landx.id/blog/investasi-dengan-passive-income-untuk-masa-depan/)**
 
 - - -
-
-\#LandX.id    #landx.id    #InvestasiBisnis    #EquityCrowdfunding    #InvestasiMenguntungkan    #Urundana    #BisnisPatungan    #InvestasiUsaha
