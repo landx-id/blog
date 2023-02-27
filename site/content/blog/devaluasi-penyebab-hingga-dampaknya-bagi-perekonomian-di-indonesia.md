@@ -14,6 +14,8 @@ tag:
   - Inflasi
   - Investasi Keuangan
   - Investasi Jangka Panjang
+category:
+  - News
 featuredImage:
   title: Memahami apa itu devaluasi dan tujuan devaluasi untuk investasi
   alt: pengaruh  devaluasi mata uang terhadap investasi jangka panjang
