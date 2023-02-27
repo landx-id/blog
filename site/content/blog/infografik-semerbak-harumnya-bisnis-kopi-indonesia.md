@@ -8,6 +8,9 @@ metaDescription: Industri kopi Indonesia semakin meningkat, terlihat data
   coffee shop.
 intro: Yuk Tangkap Peluang Bisnis Coffee Shop Kekinian!
 date: 2022-09-22T15:31:38.132Z
+category:
+  - News
+  - Ekonomi
 featuredImage:
   alt: Peluang bisnis kopi Indonesia
   title: peluang bisnis coffee shop indonesia
