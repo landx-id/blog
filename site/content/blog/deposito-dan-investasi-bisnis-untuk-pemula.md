@@ -103,7 +103,9 @@ Tiap investasi memiliki kelebihan dan kekurangan tertentu, berikut kelebihan dep
 
 ## **Investasi Bisnis**
 
-Berbeda dengan deposito, investasi merupakan instrumen investasi dengan tingkat[ *return*](https://landx.id/) yang lebih besar apabila anda bisa memilih bisnis yang tepat untuk anda tanamkan modal. Investasi ini berpotensi memberikan hasil yang besar karena keuntungan dari investasi bisnis bisa anda dapatkan dari *capital gain* dan [dividen](https://landx.id/) yang akan dibagikan pada saat akhir periode saat bisnis mendapatkan keuntungan. Konsep ini hampir sama seperti kepemilikan saham, namun dalam investasi bisnis anda berkesempatan memiliki saham di perusahaan privat. Berbagai bisnis privat kini lebih mudah anda akses melalui [investasi equity crowdfunding](https://landx.id/).
+Berbeda dengan deposito, investasi merupakan instrumen investasi dengan tingkat[ *return*](https://landx.id/) yang lebih besar apabila anda bisa memilih bisnis yang tepat untuk anda tanamkan modal. Investasi ini berpotensi memberikan hasil yang besar karena keuntungan dari investasi bisnis bisa anda dapatkan dari *capital gain* dan [dividen](https://landx.id/) yang akan dibagikan pada saat akhir periode saat bisnis mendapatkan keuntungan. 
+
+Konsep ini hampir sama seperti kepemilikan saham, namun dalam investasi bisnis anda berkesempatan memiliki saham di perusahaan privat. Berbagai bisnis privat kini lebih mudah anda akses melalui [investasi equity crowdfunding](https://landx.id/).
 
 Untuk keuntungan sendiri, anda memiliki potensi keuntungan dari capital gain dan dividen, berikut penjelasannya.
 
@@ -127,7 +129,7 @@ Setelah memahami deposito dan [investasi bisnis](https://landx.id/), anda tentu 
 
 Apabila anda rasa cocok untuk mulai investasi bisnis, maka anda butuh memilih [platform yang kredibel dan tepat](https://landx.id/).
 
-**[LandX merupakan platform equity crowdfunding](https://landx.id/)** \*\*\*\* yang akan membantu anda dalam memulai investasi bisnis dengan modal kecil. LandX akan membantu menyalurkan investasi anda ke dalam berbagai bisnis potensial.
+**[LandX merupakan platform equity crowdfunding](https://landx.id/)** yang akan membantu anda dalam memulai investasi bisnis dengan modal kecil. LandX akan membantu menyalurkan investasi anda ke dalam berbagai bisnis potensial.
 
 ### **[Yuk Temukan Bisnis Menjanjikan dengan Keuntungan Terbaik di LandX](https://app.landx.id/?utm_source=Organic+Page&utm_medium=Content+Blog&utm_campaign=BlogLandX&utm_id=Blog)**
 
