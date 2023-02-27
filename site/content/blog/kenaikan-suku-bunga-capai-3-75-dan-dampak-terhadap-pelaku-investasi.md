@@ -18,6 +18,7 @@ tag:
 category:
   - Investasi
   - Keuangan
+  - Ekonomi
 featuredImage:
   title: Kenaikan Suku Bunga Capai 3,75% dan Dampak Terhadap Pelaku Investasi
   alt: Dampak Kenaikan Suku Bunga Terhadap Pelaku Investasi
