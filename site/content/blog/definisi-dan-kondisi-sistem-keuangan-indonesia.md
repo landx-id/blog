@@ -17,6 +17,8 @@ tag:
 category:
   - Investasi
   - Keuangan
+  - News
+  - Ekonomi
 featuredImage:
   src: https://img.freepik.com/free-photo/rolled-banknotes-plaster-wooden-table_176474-7196.jpg?w=740&t=st=1662371768~exp=1662372368~hmac=7c65a2c7bc1f5e644c34f03ab293b7b3631e0b6d80080bbc3824ab662cfcfcdc
   alt: Memahami kondisi terkini stabilitas sistem keuangan di Indonesia
