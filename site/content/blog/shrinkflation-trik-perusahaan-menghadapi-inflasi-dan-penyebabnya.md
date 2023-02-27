@@ -17,6 +17,7 @@ tag:
 category:
   - Investasi
   - Keuangan
+  - Ekonomi
 featuredImage:
   title: "Shrinkflation: Trik Perusahaan Menghadapi Inflasi dan Penyebabnya"
   alt: "Shrinkflation: Trik Perusahaan Menghadapi Inflasi dan Penyebabnya"
