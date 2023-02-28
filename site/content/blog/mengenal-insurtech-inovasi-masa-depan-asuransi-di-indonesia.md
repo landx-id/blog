@@ -14,6 +14,7 @@ tag:
   - Investasi
 category:
   - Bisnis
+  - Startup Indonesia
 featuredImage:
   src: https://images.unsplash.com/photo-1596510915124-38eaa5517966?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80
   alt: Apa Itu Digital Insurance (InsurTech)
