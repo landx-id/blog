@@ -17,6 +17,7 @@ tag:
 category:
   - Investasi
   - Keuangan
+  - Ekonomi
 featuredImage:
   title: "Mengenal Financial Distress: Definisi, Penyebab, Jenis dan Cara Mencegah"
   src: https://images.unsplash.com/photo-1585829364536-ce348dd72ebc?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80
