@@ -16,6 +16,7 @@ tag:
   - Venture Capital
 category:
   - Bisnis
+  - Startup Indonesia
 featuredImage:
   title: "  Mengenal Tahapan Pendanaan Startup: Berapa Seed Funding yang Dibutuhkan?"
   src: https://images.unsplash.com/photo-1517048676732-d65bc937f952?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80
