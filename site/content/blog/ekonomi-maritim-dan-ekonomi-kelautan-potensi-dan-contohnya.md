@@ -14,6 +14,7 @@ tag:
 category:
   - Investasi
   - Bisnis
+  - Ekonomi
 featuredImage:
   title: Contoh ekonomi kelautan atau maritim di Indonesia
   alt: Ekonomi Maritim dan Ekonomi Kelautan dan berbagai ekonomi maritim atau
