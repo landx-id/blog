@@ -14,6 +14,7 @@ tag:
   - Investasi untuk Pemula
 category:
   - Investasi
+  - Ekonomi
 featuredImage:
   title: Yuk simak berbagai jenis biaya investasi dan cara menghitungnya
   alt: Memahami apa itu biaya investasi dan jenis-jenisnya
