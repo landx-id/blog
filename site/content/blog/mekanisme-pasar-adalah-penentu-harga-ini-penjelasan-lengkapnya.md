@@ -15,6 +15,7 @@ tag:
 category:
   - Investasi
   - Keuangan
+  - Ekonomi
 featuredImage:
   src: https://images.unsplash.com/photo-1521097384973-2fbcdc69f31a?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=876&q=80
   alt: Contoh Mekanisme Pasar di Indonesia
