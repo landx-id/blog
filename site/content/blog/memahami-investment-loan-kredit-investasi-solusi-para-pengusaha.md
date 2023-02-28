@@ -16,6 +16,8 @@ category:
   - Bisnis
   - Investasi
   - Keuangan
+  - Startup Indonesia
+  - Ekonomi
 featuredImage:
   alt: Memahami Investment Loan, Kredit Investasi Solusi Para Pengusaha
   title: Memahami Investment Loan, Kredit Investasi Solusi Para Pengusaha
