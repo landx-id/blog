@@ -22,6 +22,7 @@ image: https://images.unsplash.com/photo-1593510987459-9a1489817a3b?crop=entropy
 category:
   - Bisnis
   - Investasi
+  - Startup Indonesia
 ---
 Beberapa waktu belakangan, rencana peluncuran venture capital Indonesia yaitu Merah Putih Fund menjadi salah satu hal yang banyak diperbincangkan banyak orang. 
 
