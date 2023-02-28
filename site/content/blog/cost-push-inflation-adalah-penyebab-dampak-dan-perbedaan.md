@@ -16,6 +16,8 @@ tag:
   - Laju Inflasi
 category:
   - Bisnis
+  - Ekonomi
+  - News
 featuredImage:
   title: "Cost Push Inflation Adalah: Penyebab, Dampak, dan Perbedaan dengan
     Demand Push Inflation"
