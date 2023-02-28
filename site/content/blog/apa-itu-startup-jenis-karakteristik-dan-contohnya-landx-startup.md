@@ -19,6 +19,7 @@ tag:
   - Venture Capital
 category:
   - Bisnis
+  - Startup Indonesia
 featuredImage:
   title: Mengenal bisnis startup adalah perusahaan baru dan karakteristik startup
   src: https://images.unsplash.com/photo-1559136555-9303baea8ebd?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80
