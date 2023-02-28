@@ -17,6 +17,8 @@ tag:
   - Securities Crowdfunding
 category:
   - Investasi
+  - Ekonomi
+  - Startup Indonesia
 featuredImage:
   title: "Capital Investment Adalah: Kelebihan dan Kekurangannya"
   alt: Memahami apa itu capital investment atau investment capital
