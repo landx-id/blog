@@ -19,6 +19,7 @@ tag:
 category:
   - Investasi
   - Keuangan
+  - Startup Indonesia
 featuredImage:
   src: https://images.unsplash.com/photo-1590530294835-cb060f18a970?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80
   alt: Tips Bagaimana Cara Jadi Sleeping Investor
