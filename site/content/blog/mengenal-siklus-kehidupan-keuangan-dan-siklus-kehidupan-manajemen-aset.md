@@ -18,6 +18,7 @@ tag:
 category:
   - Keuangan
   - Investasi
+  - Ekonomi
 featuredImage:
   alt: Mengenal Siklus Kehidupan Keuangan dan Siklus Kehidupan Manajemen Aset
   title: Mengenal Siklus Kehidupan Keuangan dan Siklus Kehidupan Manajemen Aset
