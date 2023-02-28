@@ -23,6 +23,7 @@ featuredImage:
 image: https://accountgram-production.sfo2.cdn.digitaloceanspaces.com/landx_ghost/2021/11/Pinjol-legal-mulai-berguguran--jangan-pindah-pinjol-ilegal-ya.jpg
 category:
   - Investasi
+  - News
 ---
 Layanan pinjaman online berizin atau pinjol legal OJK yang dikenal sebagai fintech lending atau P2P lending sedang dihadapkan dengan isu beberapa tahun belakang ini.
 
@@ -98,7 +99,7 @@ Ada berbagai permasalahan dari layanan pinjaman online ilegal seperti penuturan 
 2. Modus langsung transfer ke rekening. Jika suatu saat rekening kamu tiba-tiba dikirim sejumlah uang dari nama akun yang tidak dikenal, segera telusuri! Bisa jadi kamu sedang dijadikan target dari oknum pinjol ilegal. Modus mengirim langsung sejumlah uang ke rekening korban ditujukan agar mereka bisa meneror dan menagih denda saat jatuh tempo.
 3. Modus mereplika nama menjadi mirip dengan fintech ilegal. Demi membuat calon konsumen terjebak menjadi korban kejahatan, mereka akan membuat nama yang mirip dengan perusahaan yang telah memiliki identitas populer.
 
-Hal ini juga pernah terjadi pada **[LandX,](https://landx.id/project/)** LandX bukanlah *fintech lending* tetapi**[ *fintech equity crowdfunding*](https://landx.id/project/)** __ berizin OJK yang membantu konsumen dapat menjadi investor dengan mudah dan mendapat keuntungan yang nyaman. Namun, ternyata terdapat oknum penjahat yang menggunakan nama brand LandX.
+Hal ini juga pernah terjadi pada **[LandX,](https://landx.id/)** LandX bukanlah *fintech lending* tetapi**[ *fintech equity crowdfunding*](https://landx.id/)** __ berizin OJK yang membantu konsumen dapat menjadi investor dengan mudah dan mendapat keuntungan yang nyaman. Namun, ternyata terdapat oknum penjahat yang menggunakan nama brand LandX.
 
 Oknum ini menambah embel-embel di belakang nama LandX dan menjaring korbannya di saluran Telegram.
 
@@ -124,9 +125,9 @@ Sudah dipastikan penting untuk menjaga data pribadimu, apalagi jika diunggah sec
 
 Ga usah pinjol, tabung dana dingin kamu dengan [investasi **patungan bisnis**](https://landx.id/) dan dapetin juga keuntungan dividen biar bisa nambah budget dana darurat. Dana darurat bisa bantu kondisi kamu yang tidak terduga sehingga terhindar dari jerat dan godaan pinjaman *online*.
 
-## **[Yuk Temukan Bisnis Menjanjikan dengan Keuntungan Terbaik di LandX](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)**
+## **[Yuk Temukan Bisnis Menjanjikan dengan Keuntungan Terbaik di LandX](https://landx.id/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)**
 
-[![miliki bisnis modal kecil cuma dengan 1 jutaan dapat 4 cabang ](https://accountgram-production.sfo2.cdn.digitaloceanspaces.com/landx_ghost/2021/11/jadi-owner-bisnis-hanya-1-jutaan-dengan-cuan-yang-sangat-menjanjikan.png)](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)
+[![miliki bisnis modal kecil cuma dengan 1 jutaan dapat 4 cabang ](https://accountgram-production.sfo2.cdn.digitaloceanspaces.com/landx_ghost/2021/11/jadi-owner-bisnis-hanya-1-jutaan-dengan-cuan-yang-sangat-menjanjikan.png)](https://landx.id/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)
 
 **[Mau Berbagai Info Menarik Seputar Investasi Lainnya? Yuk Follow Instagram @landx.id](https://instagram.com/landx.id?utm_medium=copy_link)**
 
