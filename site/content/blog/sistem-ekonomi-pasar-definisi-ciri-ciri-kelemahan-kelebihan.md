@@ -16,6 +16,7 @@ tag:
 category:
   - Ekonomi
   - Keuangan
+  - Ekonomi
 featuredImage:
   alt: "Sistem Ekonomi Pasar: Definisi, Ciri-ciri, Kelemahan & Kelebihan"
   title: "Sistem Ekonomi Pasar: Definisi, Ciri-ciri, Kelemahan & Kelebihan"
@@ -92,10 +93,10 @@ Melalui sistem [equity crowdfunding](https://landx.id/), perusahaan kamu yang su
 
 Jadi tunggu apalagi?
 
-## [Yuk, Daftarkan Perusahaan Kamu untuk Ekspansi Lebih Cepat Melalui LandX Sekarang Juga!](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)
+## [Yuk, Daftarkan Perusahaan Kamu untuk Ekspansi Lebih Cepat Melalui LandX Sekarang Juga!](https://landx.id/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)
 
 <!--StartFragment-->
 
-[![miliki bisnis modal kecil cuma dengan 1 jutaan dapat 4 cabang ](https://accountgram-production.sfo2.cdn.digitaloceanspaces.com/landx_ghost/2021/11/jadi-owner-bisnis-hanya-1-jutaan-dengan-cuan-yang-sangat-menjanjikan.png)](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)
+[![miliki bisnis modal kecil cuma dengan 1 jutaan dapat 4 cabang ](https://accountgram-production.sfo2.cdn.digitaloceanspaces.com/landx_ghost/2021/11/jadi-owner-bisnis-hanya-1-jutaan-dengan-cuan-yang-sangat-menjanjikan.png)](https://landx.id/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)
 
 <!--EndFragment-->
