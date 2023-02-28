@@ -10,6 +10,10 @@ intro: Perusahaan rintisan saat ini berkembang pesat di Indonesia. Macam-macam
   pendanaan yang membantu operasional perusahaan salah satunya adalah dengan
   modal ventura yang akan di simak dalam artikel ini.
 date: 2022-08-08T09:34:16.128Z
+category:
+  - Investasi
+  - Startup Indonesia
+  - Ekonomi
 featuredImage:
   title: "Modal Ventura Adalah: Definisi & Perusahaan Modal Ventura di Indonesia"
   alt: Modal Ventura Adalah, Perusahaan Modal Ventura di Indonesia
