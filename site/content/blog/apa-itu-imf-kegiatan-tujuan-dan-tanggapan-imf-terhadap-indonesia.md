@@ -14,6 +14,8 @@ tag:
   - Investasi
 category:
   - Keuangan
+  - Ekonomi
+  - News
 featuredImage:
   title: "  Apa itu IMF? Kegiatan, Tujuan, dan Tanggapan IMF Terhadap Indonesia"
   alt: "  Apa itu IMF? Kegiatan, Tujuan, dan Tanggapan IMF Terhadap Indonesia"
