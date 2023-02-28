@@ -15,6 +15,8 @@ tag:
   - Inflasi
 category:
   - Keuangan
+  - News
+  - Ekonomi
 featuredImage:
   src: img/landx_infografis_raih-kebebasan_multiple-post_01.png
   alt: "Dirgahayu RI ke-77: Pulih Lebih Cepat, Bangkit Lebih Kuat – Ini dia data
