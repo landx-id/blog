@@ -1,11 +1,11 @@
 ---
 draft: false
 author: Vlora Riyandi
-title: Pertumbuhan Ekonomi Indonesia secara YoY Semakin Kuat
+title: Pertumbuhan Ekonomi Indonesia 2023 secara YoY Semakin Kuat
 metaTitle: Pertumbuhan Ekonomi Indonesia secara YoY Semakin Kuat
-metaDescription: Tingkat pertumbuhan ekonomi Indonesia tahun ke tahun (YoY)
-  adalah tingkat pertumbuhan Produk Domestik Bruto (PDB) Indonesia dalam periode
-  satu tahun
+metaDescription: Tingkat pertumbuhan ekonomi Indonesia 2023 secara YoY adalah
+  tingkat pertumbuhan Produk Domestik Bruto (PDB) Indonesia dalam periode satu
+  tahun
 intro: Tingkat pertumbuhan ekonomi Indonesia tahun ke tahun (YoY) adalah tingkat
   pertumbuhan Produk Domestik Bruto (PDB) Indonesia dalam periode satu tahun
 isPinned: true
