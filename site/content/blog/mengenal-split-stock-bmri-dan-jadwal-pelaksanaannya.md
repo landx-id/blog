@@ -1,8 +1,8 @@
 ---
 draft: false
 author: Vlora Riyandi
-title: Mengenal Split Stock BMRI dan Jadwal Pelaksanaannya 
-metaTitle: Mengenal Split Stock BMRI dan Jadwal Pelaksanaannya 
+title: BMRI Lakukan Stock Split! Berikut Rasio dan Jadwal Pelaksanaannya 
+metaTitle: BMRI Akan Lakukan Stock Split Saham, Berikut Jadwal dan Rasionya
 metaDescription: Split stock adalah memecah nilai nominal saham menjadi beberapa
   saham baru. Mengapa perusahaan melakukan split stock dan apa keuntungan bagi
   investor?
@@ -44,7 +44,11 @@ Lainnya, alasan stock split dilakukan adalah berpotensi menaikkan harga saham. J
 
 Lakukan riset lebih banyak mengenai saham-saham yang pernah melakukan split stock dan lihat kondisi setelah pelaksanaannya. 
 
-## Stock Split BMRI
+## R﻿asio Stock Split BMRI 2023
+
+P﻿T Bank Mandiri Tbk (BMRI) akan melakukan kebijakan stock split atau pemecahan saham dengan rasio 1:2 yang artinya setiap satu saham investor akan dipecah menjadi dua. Kebijakan pemecahan nominal saham atau stock split ini dilakukan sesuai keputusan yang RUPS pada 3 Februari 2023. Artinya, setelah aksi korporasi ini jumlah saham BMRI akan menjadi 93,33 miliar dua kali lipat sebelumnya yaitu 46,66 miliar. 
+
+## Stock Split BMRI 2023
 
 Saham perbankan BMRI mengumumkan akan melakukan aksi korporasi stock split. Saham Mandiri stock split ini akan digelar dengan rasio 1:2 (satu banding dua). Artinya jumlah saham yang beredar saat ini nantinya akan menjadi 2 kali lipat setelah stock split.
 
