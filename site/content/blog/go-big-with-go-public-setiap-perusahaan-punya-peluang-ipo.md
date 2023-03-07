@@ -10,6 +10,10 @@ intro: Direktur Penilaian Perusahaan BEI menyatakan setiap perusahaan terbuka
   mempersiapkan bisnis Anda menuju IPO dengan SCF
 isPinned: true
 date: 2023-03-01T09:31:10.347Z
+tag:
+  - LandX
+category:
+  - Keuangan
 featuredImage:
   src: https://media.discordapp.net/attachments/883183567843233862/1080167070504865872/DCB4FA1A-903D-4F59-B1F5-AB41E14B447E.jpg
   alt: IPO BEI
