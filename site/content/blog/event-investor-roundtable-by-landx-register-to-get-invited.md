@@ -8,7 +8,10 @@ metaDescription: Daftarkan diri Anda pada event investasi 2023 bersama platform
   eksklusif.
 intro: Daftarkan diri Anda pada event investasi 2023 bersama platform investasi
   di lingkup industri securities crowdfunding dan terima undangan eksklusif.
+isPinned: true
 date: 2023-03-01T02:43:02.830Z
+tag:
+  - LandX
 featuredImage:
   src: img/landx_investors-roundtable_banner_1200-x-800px_rev.png
   alt: investors roundtable
