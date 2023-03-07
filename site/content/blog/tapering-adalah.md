@@ -29,6 +29,7 @@ image: https://images.unsplash.com/photo-1569025690938-a00729c9e1f9?crop=entropy
 category:
   - Keuangan
   - Investasi
+  - Ekonomi
 ---
 Beberapa waktu belakangan Anda mungkin bingung tentang apa itu tapering yang banyak dibahas belakangan ini.
 
