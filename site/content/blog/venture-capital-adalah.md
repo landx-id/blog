@@ -21,6 +21,8 @@ featuredImage:
 image: https://images.unsplash.com/photo-1593510987459-9a1489817a3b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxMTc3M3wwfDF8c2VhcmNofDF8fHZlbnR1cmV8ZW58MHx8fHwxNjQzMzA2NTE0&ixlib=rb-1.2.1&q=80&w=1080
 category:
   - Bisnis
+  - Ekonomi
+  - Startup Indonesia
 ---
 Pada era ini, bisnis jenis startup semakin banyak bermunculan dengan berbagai inovasi baru untuk mempermudah kehidupan masyarakat. Akan tetapi tahukah kamu bahwa ada **venture capital dan venture capitalist** yang memberikan pendanaan bagi bisnis agar dapat berkembang dengan pesat?
 
