@@ -26,8 +26,10 @@ featuredImage:
 image: https://images.unsplash.com/photo-1549923746-c502d488b3ea?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxMTc3M3wwfDF8c2VhcmNofDJ8fGpvaW50JTIwdmVudHVyZXxlbnwwfHx8fDE2NDAxNDc4NTA&ixlib=rb-1.2.1&q=80&w=1080
 category:
   - Bisnis
+  - Startup Indonesia
+  - Ekonomi
 ---
-Dalam dunia bisnis, kamu pasti pernah mendengar istilah joint venture atau [perusahaan patungan](https://landx.id/project/) yang merupakan strategi yang diambil beberapa perusahaan.
+Dalam dunia bisnis, kamu pasti pernah mendengar istilah joint venture atau [perusahaan patungan](https://landx.id/) yang merupakan strategi yang diambil beberapa perusahaan.
 
 Apa itu joint venture dan contohnya?
 
@@ -148,7 +150,7 @@ Joint venture merupakan bentuk kolaborasi dari dua atau lebih entitas bisnis/ pe
 
 Berbicara tentang patungan, LandX merupakan **[platform equity crowdfunding](https://landx.id/)** yang memberikan kamu kesempatan untuk ikut patungan membangun bisnis dengan potensi keuntungan yang sangat menjanjikan untuk jangka panjang anda.
 
-**[Bersama LandX](https://landx.id/project/)**, kamu akan menemukan bisnis-bisnis terbaik yang sudah diseleksi ketat oleh pihak LandX sebelumnya sehingga investasi bisnis kamu menjadi jauh lebih mudah.
+**[Bersama LandX](https://landx.id/)**, kamu akan menemukan bisnis-bisnis terbaik yang sudah diseleksi ketat oleh pihak LandX sebelumnya sehingga investasi bisnis kamu menjadi jauh lebih mudah.
 
 Karena itu,,,,
 
