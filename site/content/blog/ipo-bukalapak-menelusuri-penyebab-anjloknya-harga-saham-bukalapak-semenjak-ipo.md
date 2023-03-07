@@ -23,6 +23,8 @@ featuredImage:
 image: https://images.unsplash.com/photo-1612178991541-b48cc8e92a4d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxMTc3M3wwfDF8c2VhcmNofDF8fHN0b2NrJTIwZXhjaGFuZ2V8ZW58MHx8fHwxNjM5OTkzODAx&ixlib=rb-1.2.1&q=80&w=1080
 category:
   - Investasi
+  - Ekonomi
+  - Startup Indonesia
 ---
 
 
@@ -128,17 +130,17 @@ Merangkum tips beli saham IPO, hal paling penting sebagai investor yang perlu ka
 
 Terkhusus investor pemula, disarankan untuk jangan berinvestasi dahulu pada saham-saham perusahaan yang masih merugi. Tidak hanya deg-degan, tapi bisa memutus harapan untuk mendapat dividen secara rutin. Namun, keputusan tentu tetap di tangan kamu.
 
-## [Investasi dengan Dividen Rutin](https://landx.id/project/)
+## [Investasi dengan Dividen Rutin](https://landx.id/)
 
 Tentu saja tidak hanya Bukalapak, terdapat banyak perusahaan lain dalam posisi profit yang membuka kesempatan untuk sahamnya kamu investasikan. Berinvestasi baiknya pada perusahaan yang selalu untung, selalu rutin bagi dividen, dan beroperasi pada industri dengan prospek yang kuat.
 
 Harga yang dapat dijangkau untuk berinvestasi dan jadi pemilik perusahaan tentu juga jadi pertimbangan lebih baik.
 
-Investasi dengan risiko minim sekaligus jadi pemilik perusahaan, tanpa repot kelola bisnis bisa terima dividen rutin. [**Di LandX**](https://landx.id/project/), berinvestasi pada saham perusahaan pilihanmu dan terima dividen rutin setiap 3 bulan. Perusahaan yang listing di **[aplikasi LandX](https://landx.id/project/)** adalah perusahaan yang telah melalui seleksi penilaian yang ketat dengan standar aset yang tinggi. Sehingga kamu sebagai investor akan diamankan LandX dari kata rugi.
+Investasi dengan risiko minim sekaligus jadi pemilik perusahaan, tanpa repot kelola bisnis bisa terima dividen rutin. [**Di LandX**](https://landx.id/), berinvestasi pada saham perusahaan pilihanmu dan terima dividen rutin setiap 3 bulan. Perusahaan yang listing di **[aplikasi LandX](https://landx.id/)** adalah perusahaan yang telah melalui seleksi penilaian yang ketat dengan standar aset yang tinggi. Sehingga kamu sebagai investor akan diamankan LandX dari kata rugi.
 
 Kunjungi website dan aplikasi LandX untuk melihat perusahaan yang sedang buka untuk didanai. Kamu bisa dapat keuntungan dividen rutin setiap 3 bulan dengan [**berinvestasi Rp 1 jutaan**](https://landx.id/).
 
-Jangan lupa kamu juga bisa mempraktekkan Tips Beli Saham di atas. Baca prospektus untuk pahami suatu perusahaan lebih lanjut. Sekarang di [**LandX**](https://landx.id/project/) lagi buka pendanaan untuk bisnis kapal tongkang batubara dari Kapal Satria.
+Jangan lupa kamu juga bisa mempraktekkan Tips Beli Saham di atas. Baca prospektus untuk pahami suatu perusahaan lebih lanjut. Sekarang di [**LandX**](https://landx.id/) lagi buka pendanaan untuk bisnis kapal tongkang batubara dari Kapal Satria.
 
 **B[isnis yang dinilai kuat karena prospek batubara yang diprediksi tetap kuat di tahun 2022 dan telah melalui pandemi tanpa rasa.](https://landx.id/blog/melihat-potensi-kapal-tongkang-batubara/)**
 
@@ -148,9 +150,9 @@ Penawaran saham terbatas dan peminat bisnis yang banyak buat kamu harus sigap. G
 
 Karena itu,
 
-## [Kenalan yuk dengan bisnisnya untuk memutuskan apakah bisnis kapal tongkang batubara suatu yang cocok dengan kamu, sebelum kehabisaan!](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)
+## [Kenalan yuk dengan bisnisnya untuk memutuskan apakah bisnis kapal tongkang batubara suatu yang cocok dengan kamu, sebelum kehabisaan!](https://landx.id/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)
 
-[![Bagaimana? Kamu lebih suka bisnis dengan buyback guarantee atau yang bisa disimpan dalam jangka panjang? Apapun pilihan kamu.. Yuk Patungan  dengan Keuntungan Menjanjikan Bareng LandX](https://accountgram-production.sfo2.cdn.digitaloceanspaces.com/landx_ghost/2021/10/Equity-Crowdfunding-di-Indonesia-1--3.png)](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)
+[![Bagaimana? Kamu lebih suka bisnis dengan buyback guarantee atau yang bisa disimpan dalam jangka panjang? Apapun pilihan kamu.. Yuk Patungan  dengan Keuntungan Menjanjikan Bareng LandX](https://accountgram-production.sfo2.cdn.digitaloceanspaces.com/landx_ghost/2021/10/Equity-Crowdfunding-di-Indonesia-1--3.png)](https://landx.id/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)
 
 #YukPatunganBisnis
 
