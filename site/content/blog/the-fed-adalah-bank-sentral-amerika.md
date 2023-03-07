@@ -26,6 +26,8 @@ featuredImage:
 image: https://images.unsplash.com/photo-1499092346589-b9b6be3e94b2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxMTc3M3wwfDF8c2VhcmNofDV8fGFtZXJpY2F8ZW58MHx8fHwxNjQwMjUxMzE0&ixlib=rb-1.2.1&q=80&w=1080
 category:
   - Keuangan
+  - Ekonomi
+  - News
 ---
 The Fed adalah singkatan dari The Federal Reserve System yang merupakan Bank Sentral Amerika Serikat. Sebagai Bank Sentral AS, The Fed menerapkan berbagai kebijakan moneter untuk menjaga stabilitas ekonomi di AS.
 
@@ -141,7 +143,7 @@ Investasi melalui **[equity crowdfunding](https://landx.id/)** bisa menjadi sala
 
 **Karena itu, tunggu apa lagi...**
 
-**[Yuk Patungan Bisnis Menguntungkan Bareng LandX](https://landx.id/project/)**
+**[Yuk Patungan Bisnis Menguntungkan Bareng LandX](https://landx.id/)**
 
 **[Mau Informasi Terupdate Lain Seputar Investasi dan Keuangan? Yuk Follow Kami di Instagram @landx.id](https://www.instagram.com/landx.id/?utm_medium=copy_link)**
 
