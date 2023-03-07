@@ -16,7 +16,9 @@ tag:
   - crowdfunding indonesia
   - Situs Crowdfunding
 category:
-  - Cara Investasi di Securities Crowdfunding
+  - Ekonomi
+  - Keuangan
+  - Investasi
 featuredImage:
   src: https://images.unsplash.com/photo-1633158829875-e5316a358c6f?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80
   alt: Simak perkembang platfrom equity crowdfunding di Indonesia
