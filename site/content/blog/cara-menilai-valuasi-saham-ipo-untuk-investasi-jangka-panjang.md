@@ -17,6 +17,8 @@ tag:
 category:
   - Investasi
   - Keuangan
+  - Startup Indonesia
+  - News
 featuredImage:
   alt: Cara melalukan valuasi saham untuk membeli saham IPO bagi pemula
   title: Cara membeli saham IPO bagi investor pemula
