@@ -32,6 +32,7 @@ category:
   - Bisnis
   - Investasi
   - Keuangan
+  - Startup Indonesia
 ---
 **Kopi Kenangan –** Unicorn F&B pertama di Indonesia dan Asia Tenggara. Status ini diraih setelah Kopi Kenangan mendapat pendanaan Seri C tahap pertama senilai $96 juta atau setara Rp 1,3 triliun.
 
