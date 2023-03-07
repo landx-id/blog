@@ -16,6 +16,7 @@ tag:
 category:
   - Investasi
   - Keuangan
+  - Ekonomi
 featuredImage:
   alt: "Lo Kheng Hong adalah investor saham kawakan dari Indonesia. Berikut quote
     Lo Kheng Hong terbaik mengenai investasi. "
