@@ -147,6 +147,3 @@ Investasi melalui **[equity crowdfunding](https://landx.id/)** bisa menjadi sala
 
 **[Mau Informasi Terupdate Lain Seputar Investasi dan Keuangan? Yuk Follow Kami di Instagram @landx.id](https://www.instagram.com/landx.id/?utm_medium=copy_link)**
 
-- - -
-
-\#PatunganBisnis 	#LandX.id	#landx.id	#landx  #InvestasiBisnis	#EquityCrowdfunding	#InvestasiMenguntungkan	#Urundana	#BisnisPatungan	#InvestasiUsaha
