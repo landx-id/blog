@@ -17,6 +17,8 @@ tag:
 category:
   - Cara Investasi di Securities Crowdfuding
   - Investasi
+  - Keuangan
+  - Startup Indonesia
 featuredImage:
   title: Perbedaan Lending dan Funding Sebagai Sistem Investasi | LandX
   src: https://images.unsplash.com/photo-1584134239909-eb4800257d6a?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80
