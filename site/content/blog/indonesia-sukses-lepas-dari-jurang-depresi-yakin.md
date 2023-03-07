@@ -15,6 +15,7 @@ tag:
 category:
   - Investasi
   - Keuangan
+  - Ekonomi
 featuredImage:
   src: https://images.unsplash.com/photo-1635840420670-5470266ffa39?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=869&q=80
   alt: "Yuk simak beda depresi dan resesi dalam kondisi ekonomi "
