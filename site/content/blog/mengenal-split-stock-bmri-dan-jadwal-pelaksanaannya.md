@@ -26,7 +26,7 @@ Split artinya memecah atau membelah dan stock artinya saham, sehingga split stoc
 
 Ketika sebuah perusahaan melakukan split stock, artinya perusahaan membagi setiap saham yang ada menjadi beberapa saham baru. Split stock dilaksanakan dengan beberapa rasio, seperti 1:2, 1:3, hingga 1:5 seperti yang pernah diterapkan bank BCA, kebijakan ini merupakan keputusan manajemen.  
 
-### Keuntungan Split Stock 
+## Keuntungan Split Stock 
 
 Ada beberapa keuntungan potensial dari split stock bagi perusahaan maupun investor:
 
