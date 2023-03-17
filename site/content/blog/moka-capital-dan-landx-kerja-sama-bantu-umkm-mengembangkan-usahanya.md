@@ -1,5 +1,5 @@
 ---
-draft: false
+draft: true
 author: Della Octavilia
 title: Moka Capital dan LandX Kerja Sama Bantu UMKM Mengembangkan Usahanya
 metaTitle: Moka Capital dan LandX Kerja Sama Bantu UMKM Mengembangkan Usahanya
