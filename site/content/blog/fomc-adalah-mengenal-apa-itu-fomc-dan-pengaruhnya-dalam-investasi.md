@@ -9,7 +9,7 @@ metaDescription: Apa itu FOMC? FOMC adalah dewan rapat kebijakan bank sentral
 intro: Anda seorang investor? Sudah tahu seputar FOMC? Apa itu FOMC? FOMC adalah
   dewan rapat kebijakan bank sentral Amerika Serikat  yang setiap keputusannya
   sangat mempengaruhi dunia, terutama investasi.
-date: 2022-11-10T09:09:51.705Z
+date: 2023-03-27T09:06:14.949Z
 tag:
   - Suku Bunga
   - Laju Inflasi
