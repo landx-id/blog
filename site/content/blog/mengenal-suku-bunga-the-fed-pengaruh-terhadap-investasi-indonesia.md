@@ -95,4 +95,4 @@ Sedangkan suku bunga acuan di Indonesia utamanya ditujukan untuk mencapai tujuan
 
 Secara umum, suku bunga The Fed dan suku bunga acuan di Indonesia dapat dipengaruhi oleh faktor ekonomi yang serupa, seperti inflasi, pertumbuhan ekonomi, dan stabilitas keuangan. Namun, tingkat dan tren tertentu dari setiap suku bunga akan bergantung pada kondisi ekonomi yang unik dan tujuan kebijakan masing-masing negara.[](https://app.landx.id/?utm_source=Organic+Page&utm_medium=Content+Blog&utm_campaign=BlogLandX&utm_id=Blog)
 
-**[Lebih Aware dengan Tingkat Suku Bunga Dunia dan Indonesia Agar Investasi Kamu Terjaga](https://app.landx.id/?utm_source=Organic+Page&utm_medium=Content+Blog&utm_campaign=BlogLandX&utm_id=Blog)**
+## **[Lebih Aware dengan Tingkat Suku Bunga Dunia dan Indonesia Agar Investasi Kamu Terjaga](https://app.landx.id/?utm_source=Organic+Page&utm_medium=Content+Blog&utm_campaign=BlogLandX&utm_id=Blog)**
