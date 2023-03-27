@@ -65,6 +65,12 @@ Suku bunga The Fed merupakan alat utama yang digunakan bank sentral untuk mencap
 
 Berapa suku bunga The Fed sekarang? Seperti yang kita ketahui, pengumuman kenaikan suku bunga the fed pada 14 Desember 2022 mengungkapkan telah terjadi kenaikan tingkat suku bunganya sebanyak 50 basis poin. Seehingga[**suku bunga The Fed saat ini** ](https://landx.id/blog/suku-bunga-the-fed-naik-lagi-bagaimana-nasib-suku-bunga-dalam-negeri/)menjadi 4,25-4,50%. The Fed menetapkan suku bunga berdasarkan penilaiannya terhadap kondisi ekonomi dan tujuan kebijakannya.
 
+
+
+Pada 2023, The Fed hati-hati menetapkan kebijakan suku bunga untuk menjaga stabilitas ekonomi AS. Inflasi naik pada awal tahun, namun The Fed menahan suku bunga untuk memprioritaskan pemulihan ekonomi. Setelah pertumbuhan ekonomi kuat di paruh kedua, The Fed menaikkan suku bunga 0,25% pada Maret 2023 dan diprediksi akan dilakukan beberapa kali sepanjang tahun 2023.
+
+ Kenaikan suku bunga membantu mencegah inflasi berlebihan dan menjaga stabilitas harga jangka panjang. The Fed responsif dan berhati-hati dalam mengambil tindakan untuk menjaga kesehatan perekonomian AS meskipun ada pengaruh pada pasar keuangan dan permintaan konsumen.
+
 Tidak ada aturan pasti kapan suku bunga The Fed tertinggi, karena tingkat suku bunga ditentukan oleh evaluasi bank sentral terhadap kondisi ekonomi dan tujuan kebijakannya.
 
 Perlu dicatat bahwa suku bunga The Fed bukanlah angka statis, dan dapat berfluktuasi dari waktu ke waktu sebagai respons terhadap perubahan kondisi ekonomi. The Fed dapat menaikkan atau menurunkan suku bunga melalui proses yang dikenal sebagai kebijakan moneter, yang melibatkan penyesuaian pasokan uang dalam perekonomian.
