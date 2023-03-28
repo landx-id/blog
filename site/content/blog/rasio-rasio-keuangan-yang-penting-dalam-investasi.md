@@ -166,20 +166,8 @@ Rasio ini hampir sama dengan rasio sebelumnya yang mengukur efektivitas pengguna
 
 Nah gimana, anda kini semakin mengertikan bagaimana menganalisis laporan keuangan sebelum berinvestasi.
 
-Tapi anda harus tahu bahwa setiap investasi memiliki risiko sehingga anda harus terus waspada dengan berbagai risiko yang muncul saat anda berinvestasi.
+Tapi anda harus tahu bahwa setiap investasi memiliki risiko sehingga anda harus terus waspada dengan berbagai risiko yang muncul saat anda berinvestasi. 
 
-Namun, apakah anda tahu bahwa anda sistem [investasi equity crowdfunding](https://landx.id/) yang sistemnya hampir sama dengan investasi saham, tapi memberikan anda kesempatan untuk berinvestasi ke dalam bisnis privat. Kalau belum…
+K﻿arena itu, agar bisa membuat keputusan investasi yang tepat, kita butuh analisis yang cermat.
 
-**[Yuk Mulai Investasi Bisnis Bersama LandX, Platform Equity Crowdfunding Terpercaya](https://app.landx.id/?utm_source=Organic+Page&utm_medium=Content+Blog&utm_campaign=BlogLandX&utm_id=Blog)**
-
-<!--StartFragment-->
-
-[![miliki bisnis modal kecil cuma dengan 1 jutaan dapat 4 cabang ](https://accountgram-production.sfo2.cdn.digitaloceanspaces.com/landx_ghost/2021/11/jadi-owner-bisnis-hanya-1-jutaan-dengan-cuan-yang-sangat-menjanjikan.png)](https://app.landx.id/?utm_source=Organic+Page&utm_medium=Content+Blog&utm_campaign=BlogLandX&utm_id=Blog)
-
-<!--EndFragment-->
-
-[LandX](https://landx.id/) memberikan kesempatan untuk anda melakukan investasi bisnis dengan modal kecil ke dalam berbagai bisnis potensial yang ada di sekitar anda.[ **Yuk Investasi Sekarang**](https://landx.id/)
-
-**[Supaya Gak Ketinggalan Berbagai Informasi Seputar Investasi Lainnya, Yuk Follow @landx.id di Instagram](https://instagram.com/landx.id?utm_medium=copy_link)**
-
-\#LandX.id    #landx.id    #landx #InvestasiBisnis    #EquityCrowdfunding    #InvestasiMenguntungkan    #Urundana    #BisnisPatungan    #InvestasiUsah
+> I﻿nvestasi yang Tepat Dimulai dengan Analisis Cermat[](https://app.landx.id/?utm_source=Organic+Page&utm_medium=Content+Blog&utm_campaign=BlogLandX&utm_id=Blog)
