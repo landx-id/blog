@@ -2,7 +2,7 @@
 draft: false
 author: Abdul Wahhab
 slug: rasio-rasio-keuangan-yang-penting-dalam-investasi
-title: 5 Rasio Keuangan yang Penting untuk Rasio Investasi Anda
+title: Investasi Lebih Cerdas dengan Mengenal 5 Rasio Keuangan Penting Ini
 metaTitle: 5 Rasio Keuangan yang Penting untuk Rasio Investasi Anda
 metaDescription: Jenis-jenis rasio keuangan yang penting untuk kamu pahami agar
   analisis investasi kamu menjadi lebih mudah
@@ -11,7 +11,7 @@ intro: Kegunaan informasi akuntansi bagi investor adalah untuk membantu proses
   lebih optimal dan menguntungkan dalam jangka panjang. Karen itu, yuk kita
   bahas macam-macam rasio keuangan yang dapat membantu proses investasi yang
   kamu lakukan.
-date: 2021-07-22T05:55:16.000Z
+date: 2023-01-01T05:55:16.000Z
 tag:
   - rasio keuangan
   - agio saham
