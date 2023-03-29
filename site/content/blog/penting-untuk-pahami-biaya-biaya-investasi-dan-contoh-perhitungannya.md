@@ -40,6 +40,10 @@ Sebagian biaya investasi atau investment cost adalah biaya yang hanya dibayarkan
 
 Ketika Anda berinvestasi saham langsung di sekuritas untuk membeli suatu ekuitas atau obligasi, Anda akan dikenakan komisi broker (brokerage fee). Sekuritas telah menggabungkan berbagai jenis biaya dalam bentuk komisi broker.
 
+Fee broker atau broker fee adalah biaya yang dikenakan oleh broker kepada kliennya sebagai kompensasi atas layanan yang diberikan dalam memfasilitasi transaksi keuangan seperti jual-beli saham, obligasi, atau instrumen keuangan lainnya. 
+
+Biaya ini dapat berupa komisi berbasis persentase dari nilai transaksi, biaya tetap, atau gabungan keduanya. Fee broker dapat bervariasi tergantung pada jenis layanan yang diberikan dan juga bergantung pada peraturan dan persyaratan dari broker yang bersangkutan. Oleh karena itu, sebelum melakukan transaksi keuangan, penting bagi klien untuk memahami fee broker yang akan dikenakan dan bagaimana biaya tersebut akan mempengaruhi hasil investasi mereka.
+
 Biaya-biaya yang termasuk komisi broker yaitu:
 
 * **Biaya Transaksi atau Levy**
@@ -140,14 +144,8 @@ Misalkan Anda ingin membeli sebuah bangunan sebagai bentuk investasi. Maka terda
 
 Anda juga dapat melakukan diversifikasi investasi dengan berinvestasi pada banyak jenis instrumen investasi seperti yang telah disebutkan untuk memaksimalkan keuntungan. Selain itu, merupakan bentuk menekan biaya agar tidak membayar biaya yang terlalu besar di suatu jenis investasi saja.
 
-Selain investasi di atas, jika Anda tertarik berinvestasi di properti namun dengan biaya yang lebih rendah, pilihan investasi pada properti bisnis di [equity crowdfunding](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog) dapat menjadi pilihan.
+Selain investasi di atas, jika Anda tertarik berinvestasi di properti namun dengan biaya yang lebih rendah, pilihan investasi pada properti bisnis di equity crowdfunding dapat menjadi pilihan.
 
-[Equity crowdfunding](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog) adalah jenis investasi yang membuat Anda bisa memiliki saham bisnis tanpa harus repot mengelola izin dan mempromosikannya. Anda juga bisa mendapat keuntungan dari laba operasional bisnis dari nilai dana yang Anda investasikan.
+Equity crowdfunding adalah jenis investasi yang membuat Anda bisa memiliki saham bisnis tanpa harus repot mengelola izin dan mempromosikannya. Anda juga bisa mendapat keuntungan dari laba operasional bisnis dari nilai dana yang Anda investasikan.
 
-## **[Yuk, Investasi Bisnis Tanpa Repot Kelola Bisnis dengan Modal Minim](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)**
-
-<!--StartFragment-->
-
-![miliki bisnis modal kecil cuma dengan 1 jutaan dapat 4 cabang ](https://accountgram-production.sfo2.cdn.digitaloceanspaces.com/landx_ghost/2021/11/jadi-owner-bisnis-hanya-1-jutaan-dengan-cuan-yang-sangat-menjanjikan.png)
-
-<!--EndFragment-->
+> **Y﻿uk Mulai Investasi Bisnis Sekarang............**
