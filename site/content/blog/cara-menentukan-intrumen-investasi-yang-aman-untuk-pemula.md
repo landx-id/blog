@@ -126,7 +126,7 @@ Konsep pemberian pinjaman dalam peer-to-peer lending memberikan anda kesempatan 
 
 Investasi melalui equity crowdfunding adalah bentuk pendanaan bisnis berbasis ekuitas yang menjanjikan keuntungan jangka panjang. Dengan berinvestasi dalam equity crowdfunding, Anda akan memperoleh bagian kepemilikan dalam bisnis yang Anda danai, yang pada gilirannya dapat memberikan keuntungan berupa dividen sesuai dengan kinerja bisnis tersebut.
 
-Oleh karena itu, penting bagi Anda untuk mencari platform equity crowdfunding yang aman dan terpercaya agar dapat menemukan bisnis yang menjanjikan dengan potensi keuntungan jangka panjang yang optimal.
+Oleh karena itu, penting bagi Anda untuk mencari platform equity crowdfunding yang aman dan terpercaya agar dapat menemukan bisnis yang menjanjikan dengan potensi keuntungan jangka panjang. Dalam berinvestasi dalam sistem ini, Anda perlu menemukan platform crowdfunding kredibel agar anda dapat berinvestasi dengan aman dan nyaman. 
 
 **Karena itu...**
 
