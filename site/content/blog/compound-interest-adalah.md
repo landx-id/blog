@@ -60,11 +60,11 @@ Bunga tunggal adalah imbalan bunga yang didapat dari modal pokok saja. Sehingga 
 
 Seperti yang telah kita bahas sebelumnya bahwa bunga majemuk adalah situasi imbalan bunga berbunga, sehingga keuntungan lebih besar. Bagaimana cara menghitung bunga majemuk? LandX akan bahas berikut rumus dan contoh perhitungan bunga majemuk.
 
-![](https://lh6.googleusercontent.com/4JALMGktGh7M0D4j8FSgu51n9j-Yce7Cd6v6sLpKrFqW1rk8kplEP2_Gx_Vf7w4M9vGN3KuAIC8CdBny18CML3YQIB-eKkjExqbCDkwU94DcsdZgLU4FfKfZ7TLWCaXMPIW6sO-_qMMmMxHJ43I)
+![rumus perhitungan bunga majemuk](https://lh6.googleusercontent.com/4JALMGktGh7M0D4j8FSgu51n9j-Yce7Cd6v6sLpKrFqW1rk8kplEP2_Gx_Vf7w4M9vGN3KuAIC8CdBny18CML3YQIB-eKkjExqbCDkwU94DcsdZgLU4FfKfZ7TLWCaXMPIW6sO-_qMMmMxHJ43I "Cara perhitungan bunga majemuk , compound interest di indonesia ")
 
 Contoh bunga majemuk, misalkan kamu berinvestasi pada produk investasi negara yaitu sukuk dengan menyetorkan modal pokok sebesar Rp 10 juta. Imbalan atau kupon yang berlaku adalah 6% per tahun bunga majemuk dengan jatuh tempo dalam 3 tahun. Berikut cara menghitung bunga majemuk:
 
-![](https://lh6.googleusercontent.com/FpS0OLCklt0_wx9Tb-KOh7ibQ0PicmNQM0sh7guVdKHzRF_W7szTkEqjDYf2uInaq_YhHo8qQwGKUGp6WFOw3E0KZibJebAN8SRpcPgXliHpqS5DVwBsfW8wtR87n5kqqrBQyJdceenDxK2m05s)
+![cara perhitungan compound interest](https://lh6.googleusercontent.com/FpS0OLCklt0_wx9Tb-KOh7ibQ0PicmNQM0sh7guVdKHzRF_W7szTkEqjDYf2uInaq_YhHo8qQwGKUGp6WFOw3E0KZibJebAN8SRpcPgXliHpqS5DVwBsfW8wtR87n5kqqrBQyJdceenDxK2m05s "Menghitung bunga majemuk, menghitung bunga majemuk")
 
 Jadi, pengembalian modal dari investasi sukuk yang akan didapatkan dengan bunga majemuk adalah Rp 11.900.000.
 
@@ -72,7 +72,7 @@ Dari perhitungan ini terlihat bukan bahwa sistem bunga majemuk memberikan bunga 
 
 Hal ini karena besar bunga yang akan anda terima akan meningkat setiap periodenya mengikuti perkembangan bunga periode sebelumnya.
 
-## Bunga Majemuk Digunakan Untuk Apa?
+## Bunga Majemuk Digunakan untuk Apa?
 
 Bunga majemuk adalah compound interest. Perhitungan bunga majemuk dapat digunakan dalam berbagai hal. Seperti hal yang menguntungkan seperti produk investasi dan hal yang dapat memberatkan yaitu pembayaran utang.
 
@@ -92,16 +92,6 @@ Pengaruh bunga majemuk pada investasi dapat menguntungkan sisi investor karena n
 
 Selanjutnya bunga majemuk bisa digunakan untuk menghitung obligasi. Obligasi adalah surat utang jangka menengah maupun jangka panjang yang dapat diperjualbelikan.  Obligasi bisa dikeluarkan oleh pemerintah maupun oleh korporasi untuk membiayai suatu proyek
 
-- - -
-
-**Artikel Terkait:**
-
-* [Memahami Konsep Time Value of Money (TVM) yang Sangat Penting untuk Investasi](https://landx.id/blog/time-value-of-money-adalah/)
-* [Price Earning Ratio: Memahami Apa Itu Price Earning Ratio (PER) dan Manfaatnya dalam Investasi](https://landx.id/blog/price-earning-ratio-adalah/)
-* [Mengenal Apa Itu Net Present Value atau NPV: Definisi, Fungsi, dan Cara Menghitung NPV](https://landx.id/blog/mengenal-apa-itu-net-present-value-atau-npv-definisi-fungsi-dan-cara-menghitung-npv/)
-
-- - -
-
 ## Compounding dalam Investasi
 
 Dalam investasi, kita sering mendengar istilah *compounding effect* di mana keuntungan investasi anda bisa menjadi berlipat karena return dari investasi sebelumnya diinvestasikan kembali sehingga keuntungan yang diterima dari setiap periode semakin meningkat.
@@ -112,16 +102,8 @@ Oleh sebab itu, anda harus bisa menemukan instrumen investasi terbaik yang bisa 
 
 Investasi bisnis merupakan salah satu instrumen investasi yang bisa anda terapkan gunakan untuk menerapkan konsep *compounding effect.*
 
-Investasi bisnis berpotensi memberikan anda keuntungan berupa dividen yang bisa anda investasikan kembali ke berbagai bisnis potensial lainnya yang membuat jumlah keuntungan pada periode-periode berikutnya bisa berlipat ganda. Karena itu…
+Investasi bisnis berpotensi memberikan anda keuntungan berupa dividen berdasarkan peforma dari bisnis yang bisa diinvestasikan kembali ke berbagai bisnis lain sehingga berpotensi memberikan keuntungan yang lebih besar lagi pada periode berikutnya. 
 
-**[Yuk Mulai Investasi Bisnis di LandX untuk Pengembangan Aset Jangka Panjang Anda](https://landx.id/)**
+ yang bisa anda investasikan kembali ke berbagai bisnis potensial lainnya yang membuat jumlah keuntungan pada periode-periode berikutnya bisa berlipat ganda. Karena itu…
 
-[LandX](https://landx.id/) sebagai ***[platform equity crowdfunding](https://landx.id/)*** terpercaya memberikan anda kesempatan mengembangkan modal yang anda miliki dengan dengan investasi modal kecil.
-
-## **[Yuk mulai investasi sekarang](https://landx.id/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog).**
-
-[![miliki bisnis modal kecil cuma dengan 1 jutaan dapat 4 cabang ](https://accountgram-production.sfo2.cdn.digitaloceanspaces.com/landx_ghost/2021/11/jadi-owner-bisnis-hanya-1-jutaan-dengan-cuan-yang-sangat-menjanjikan.png)](https://landx.id/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)
-
-**[Biar Semakin Melek Investasi, Yuk Follow @landx.id di Instagram untuk Berbagai Info Terbaru Seputar Investasi Lainnya](https://instagram.com/landx.id?utm_medium=copy_link)**
-
-#### **\#LandX.id    #landx.id    #landx  #InvestasiBisnis    #EquityCrowdfunding    #InvestasiMenguntungkan    #Urundana    #BisnisPatungan    #InvestasiUsaha**
+**Yuk Mulai Investasi Bisnis untuk Pengembangan Aset Jangka Panjang Anda**
