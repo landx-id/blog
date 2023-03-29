@@ -8,7 +8,12 @@ metaDescription: Laporan neraca adalah dokumen yang menampilkan total aset
   ekuitas.
 intro: Fungsi laporan neraca sangat penting bagi perusahaan dalam menentukan
   risiko dan mengamankan modal. Kenapa demikian?  Yuk simak artikel berikut!
-date: 2022-11-10T01:44:25.209Z
+date: 2023-02-23T01:44:25.209Z
+tag:
+  - Laporan Keuangan
+category:
+  - Ekonomi
+  - Keuangan
 featuredImage:
   title: laporan neraca
   alt: laporan neraca
@@ -87,9 +92,7 @@ Aset lancar merupakan aset yang diharapkan perusahaan untuk dapat dikonversi den
 Aset tetap dikatakan sebagai aset tidak lancar. Hal ini karena untuk mengkonversi aset menjadi uang tunai membutuhkan waktu lebih dari satu tahun. Kategori aset jangka panjang adalah sebagai berikut :
 
 1. Investasi,  merupakan kegiatan penanaman modal.
-
 2. Peralatan, tanaman dan alat serta laba
-
 3. Aset tidak berwujud, berupa goodwill
 
     berupa goodwill.
@@ -164,8 +167,10 @@ Neraca memungkinkan penggunanya untuk mendapatkan pandangan sekilas tentang aset
 
 Total aset dihitung dari jumlah semua aset jangka pendek, jangka panjang, dan lainnya. Total kewajiban dihitung dari jumlah semua kewajiban jangka pendek, jangka panjang dan lainnya. sedangkan untuk total ekuitas dihitung dari jumlah laba bersih, laba ditahan, kontribusi pemilik, dan bagian dari saham yang diterbitkan.
 
-Investasi merupakan aset jangka panjang yang berfungsi untuk meningkatkan perolehan aset di masa yang akan datang. Dengan melakukan investasi, kamu berkesempatan untuk memperoleh pendapatan pasif tanpa harus bekerja keras. 
+Investasi merupakan aset jangka panjang yang berfungsi untuk meningkatkan perolehan aset di masa yang akan datang. Investasi menjadi salah satu cara yang dapat dilakukan untuk pengembangan aset yang Anda miliki. 
 
-Kamu bisa memulai investasi [equity crowdfunding](https://landx.id/) di [LandX](https://landx.id/). LandX merupakan salah satu platform [equity crowdfunding](https://landx.id/) yang terjamin aman dan diawasi OJK (Otoritas Jasa Keuangan).
+E﻿quity crowdfunding bisa menjadi salah satu pilihan investasi jangka panjang untuk pegembangan aset jangka panjang yang anda miliki. Melalui sistem ini, Anda bisa membeli saham bisnis privat dan mendapatkan dividen sesuai dengan performa bisnisnya. 
 
-#### [Yuk Tingkatkan Aset dengan Mulai Investasi Equity Crowdfunding](https://app.landx.id/?utm_source=Organic+Page&utm_medium=Content+Blog&utm_campaign=BlogLandX&utm_id=Blog)
+ LandX merupakan salah satu platform equity crowdfunding yang terjamin aman dan diawasi OJK (Otoritas Jasa Keuangan) yang bisa jadi pilihan investasi jangka panjang Anda. Karena itu,....
+
+#### [Yuk Tingkatkan Aset Anda ](https://app.landx.id/?utm_source=Organic+Page&utm_medium=Content+Blog&utm_campaign=BlogLandX&utm_id=Blog)[Lewat ](https://app.landx.id/?utm_source=Organic+Page&utm_medium=Content+Blog&utm_campaign=BlogLandX&utm_id=Blog)[Equity Crowdfunding](https://app.landx.id/?utm_source=Organic+Page&utm_medium=Content+Blog&utm_campaign=BlogLandX&utm_id=Blog)
