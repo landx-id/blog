@@ -118,24 +118,12 @@ Dalam KOMPAS100, fokus pengukuran indeks saham adalah pada sekitar 100 saham yan
 
 Indeks KOMPAS100 diluncurkan dan dikelola bekerjasama dengan perusahaan media Kompas Gramedia Group (penerbit surat kabar harian Kompas).
 
+## [](https://landx.id/)Investasi Saham Bisnis Lewat Equity Crowdfunding
 
+D﻿iversifikasi menjadi salah satu bagian penting dalam investasi untuk mengurangi risiko kerugian yang mungkin muncul. Dengan berinvestasi dalam beberapa saham, investor dapat mengurangi paparan risiko tunggal yang dapat menyebabkan kerugian besar jika hanya bergantung pada satu instrumen atau saham saja. 
 
-## [](https://landx.id/)Investasi Saham Bisnis Modal Kecil
+Salah satu cara untuk diversifikasi dalam saham adalah dengan melakukan investasi melalui equity crowdfunding. Equity crowdfunding memungkinkan investor untuk membeli saham di berbagai bisnis kecil dan menengah yang bisa dibeli melalui platform equity crowdfunding yang telat berizin OJK. 
 
-Salah satu kunci mengembangkan investasi adalah dengan diversifikasi yang membuat keuntungan menjadi lebih maksimal dengan risiko yang lebih minim.
+Dengan cara ini, investor dapat memperoleh eksposur ke berbagai jenis bisnis dan industri yang berbeda, sehingga meminimalkan risiko investasi tunggal dan meningkatkan potensi keuntungan jangka panjang. Selain itu, investasi melalui equity crowdfunding juga dapat memberikan akses ke bisnis-bisnis yang tidak tersedia untuk investor ritel biasa.
 
-Selain berinvestasi di pasar modal, investasi bisnis dengan [equity crowdfunding](https://landx.id/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog) merupakan instrumen investasi yang dapat anda coba untuk diversifikasi investasi.
-
-Sistem ini sebenarnya hampir sama dengan investasi saham, namun dalam skala bisnis yang lebih kecil sehingga memudahkan anda untuk menganalisis bagaimana potensi bisnis ini di pasaran.
-
-[Platform equity crowdfunding](https://landx.id/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog) akan memberikan anda pilihan berbagai jenis bisnis potensial yang bisa anda tanami modal sehingga anda berhak mendapatkan dividen saat bisnis tersebut menghasilkan keuntungan.
-
-[LandX](https://landx.id/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog) merupakan [platform equity crowdfunding](https://landx.id/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog) terpercaya yang memberikan anda pilihan berbagai bisnis terpercaya untuk diversifikasi investasi anda agar lebih menguntungkan.
-
-**[Yuk Temukan Bisnis Menjanjikan dengan Keuntungan Terbaik di LandX](https://landx.id/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)**
-
-[![miliki bisnis modal kecil cuma dengan 1 jutaan dapat 4 cabang ](https://accountgram-production.sfo2.cdn.digitaloceanspaces.com/landx_ghost/2021/11/jadi-owner-bisnis-hanya-1-jutaan-dengan-cuan-yang-sangat-menjanjikan.png)](https://landx.id/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)
-
-**[Jangan Lupa!!! Follow Instagram @landx.id dengan Berbagai Informasi Terbaru Seputar Investasi dan Bisnis](https://www.instagram.com/landx.id/?utm_medium=copy_link)**
-
-- - -
+> **Y﻿uk Mulai Diversifikasi Portofolio Investasi anda Sekarang**
