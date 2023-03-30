@@ -25,6 +25,7 @@ category:
   - Cara Investasi di Securities Crowdfunding
   - Keuangan
 ---
+
 Sebagai investor , memilih investasi yang tepat merupakan langkah awal yang perlu dipersiapkan secara matang. Apalagi saat ini kita dihadapkan dengan berbagai pilihan investasi dengan **berbagai return** yang dijanjikan.
 
 Salah satu investasi bisnis yang cocok untuk jangka panjang [equity crowdfunding](https://landx.id/) atau urun dana yang memberikan investor kesempatan investasi bisnis dengan modal kecil.
@@ -87,4 +88,4 @@ Dalam setiap investasi tentu saja anda akan dihadapkan oleh berbagai risiko. Div
 
 Karena anda tidak bisa mengharapkan satu jenis bisnis selalu untung karena pasar yang terus berubah. Dengan diversifikasi maka anda akan dapat memperkecil risiko kerugian yang akan timbul.
 
-**Yuk Mulai Kembangkan Portofolio Investasi Anda Sekarang.....**[](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)
+**Yuk Mulai Kembangkan Portofolio Investasi Anda Sekarang.....**
