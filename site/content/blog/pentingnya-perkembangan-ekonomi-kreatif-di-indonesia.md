@@ -29,9 +29,7 @@ category:
   - Bisnis
   - Keuangan
 ---
-
-
-[**Ekonomi Kreatif**](https://landx.id/project/) **–** dalam beberapa waktu belakangan, kamu pasti sering mendengar tentang perkembangan ekonomi kreatif di Indonesia yang diharapkan sebagai salah satu sektor yang bisa memberikan kontribusi positif terhadap perekonomian Indonesia.
+**Ekonomi Kreatif** **–** dalam beberapa waktu belakangan, Anda pasti sering mendengar tentang perkembangan ekonomi kreatif di Indonesia yang diharapkan sebagai salah satu sektor yang bisa memberikan kontribusi positif terhadap perekonomian Indonesia.
 
 Ekonomi kreatif adalah ekonomi yang berfokus pada berbagai pengembangan berbagai ide dan gagasan kreatif sebagai acuan utama dalam pergerakan suatu ekonomi. Sistem ini mengandalkan kreativitas dan ide dari sumber daya manusia sebagai poin utama dalam suatu kegiatan ekonomi.
 
@@ -39,23 +37,11 @@ Pengembangan ekonomi kreatif di Indonesia saat ini sedang menjadi fokus utama pe
 
 Supaya lebih paham lagi apa itu ekonomi kreatif dan bagaimana manfaat  dari sistem ini, mari kita bahas lebih lanjut tentang ini.
 
----
-
-## Table of Content
-
-* [**Apa Itu Ekonomi Kreatif?**](#apa-itu-ekonomi-kreatif)
-* [**Ciri-Ciri Ekonomi Kreatif**](#ciri-ciri-ekonomi-kreatif)
-* **[Kenapa Pengembangan Ekonomi Kreatif Sangat Penting?](#kenapa-pengembangan-ekonomi-kreatif-sangat-penting)**
-* [**Manfaat dari Ekonomi Kreatif**](#manfaat-dari-ekonomi-kreatif)
-* [**Perkembangan Ekonomi Kreatif di Indonesia**](#perkembangan-ekonomi-kreatif-di-indonesia)
-
----
-
 ## Apa Itu Ekonomi Kreatif?
 
-Kamu pasti sering mendengar istilah ini dan penasaran dengan apa itu ekonomi kreatif bukan? Yuk kita bahas secara detail tentang konsep ini.
+Anda pasti sering mendengar istilah ini dan penasaran dengan apa itu ekonomi kreatif bukan? Yuk kita bahas secara detail tentang konsep ini.
 
-Ekonomi kreatif adalah istilah yang pertama kali dikenalkan oleh John Hawkins dalam buku [_The Creative Economy: How People Make Money from Ideas_](https://id.wikipedia.org/w/index.php?title=The_Creative_Economy:_How_People_Make_Money_from_Ideas&action=edit&redlink=1) yang menjelaskan tentang adanya gelombang ekonomi baru yang berdasarkan kreativ dari gagasan atau idea yang menghasilkan suatu _value_ atau nilai ekonomi.
+Ekonomi kreatif adalah istilah yang pertama kali dikenalkan oleh John Hawkins dalam buku *[The Creative Economy: How People Make Money from Ideas](https://id.wikipedia.org/w/index.php?title=The_Creative_Economy:_How_People_Make_Money_from_Ideas&action=edit&redlink=1)* yang menjelaskan tentang adanya gelombang ekonomi baru yang berdasarkan kreativ dari gagasan atau idea yang menghasilkan suatu *value* atau nilai ekonomi.
 
 Sistem ini menjadi gelombang baru dari perekonomian yang sebelumnya berbasis pada informasi.
 
@@ -65,7 +51,7 @@ Gelombang ekonomi kreatif ini menuntut pelaku industri fokus menghasilkan gagasa
 
 Karena itu, dalam sistem kreativitas untuk menghasilkan ide dan gagasan baru merupakan senjata utama yang bisa menghasilkan keuntungan dan berbagai lapangan kerja baru sehingga pergerakan ekonomi dapat berjalan dengan lebih cepat.
 
-Supaya kamu lebih paham lagi tentang konsep ekonomi kreatif, mari kita bahas ciri-ciri dari ekonomi yang saat ini sedang berkembang di Indonesia.
+Supaya Anda lebih paham lagi tentang konsep ekonomi kreatif, mari kita bahas ciri-ciri dari ekonomi yang saat ini sedang berkembang di Indonesia.
 
 ## Ciri-Ciri Ekonomi Kreatif
 
@@ -112,24 +98,6 @@ Selain itu, dari sektor jasa pun kini kita melihat berbagai inovasi baru yang me
 
 Salah satu yang contohnya adalah pengembangan bisnis F&B dengan konsep cloud kitchen yang mempermudah proses bisnis di tengah pandemi sepeti sekarang ini.
 
-Karena itu, ekonomi kreatif menjadi sektor baru yang menjadi acuan pergerakan ekonomi di suatu negara.
+Karena itu, ekonomi kreatif menjadi sektor baru yang menjadi acuan pergerakan ekonomi di suatu negara sehingga menjadi salah satu sektor yang sangat menjanjikan untuk jangka panjang. Sekarang anda bisa mulai investasi ke berbagai bisnis potensial di industri ini lewat sistem urun dana atau equity crowdfunding.
 
-**Sebagai masyarakat umum**, kamu bisa ikut berkontribusi dalam perkembangan industri kreatif dengan ikut patungan membangun berbagai bisnis potensial dengan keuntungan yang sangat menjanjikan untuk anda.
-
-Di LandX, kamu bisa menemukan berbagai bisnis terbaik dari berbagai sektor yang bisa memberikan akan memberikan kamu keuntungan dengan sistem bagi hasil.
-
-Karena itu..
-
-**[Yuk Patungan Bisnis Menguntungkan Bareng LandX](https://landx.id/project/)**
-
-[![patungan bisnis melalui skema equity crowdfunding bareng landx](https://accountgram-production.sfo2.cdn.digitaloceanspaces.com/landx_ghost/2021/10/patungan-bisnis-menguntungkan-bareng-landx-6.png)](https://landx.id/project/)
-
-[**Follow Juga Kami di Instagram @landx.id Supaya Anda Terus Update Berbagai Info Seputar Investasi Lainnya**](https://instagram.com/landx.id?utm_medium=copy_link)
-
-**#YukPatungaBisnis  #LandX.id    #landx         #landx.id    #InvestasiBisnis    #EquityCrowdfunding    #InvestasiMenguntungkan    #Urundana    #BisnisPatungan    #InvestasiUsaha**
-
-**Baca Juga:**
-
-* [Pahami Bagaimana Efek Compounding Dapat Membantu Pengembangan Investasi Anda](https://landx.id/blog/pahami-bagaimana-efek-compounding-dapat-membantu-pengembangan-investasi-anda/)
-* [Bisnis Jangka Panjang: Memilih Bisnis yang Menguntungkan untuk Jangka Panjang](https://landx.id/blog/bisnis-menguntungkan-jangka-panjang/)
-
+**Y﻿uk Temukan Bisnis Terbaik untuk Investasi Jangka Panjang Anda....**
