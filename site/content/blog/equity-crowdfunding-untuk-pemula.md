@@ -87,4 +87,4 @@ Dalam setiap investasi tentu saja anda akan dihadapkan oleh berbagai risiko. Div
 
 Karena anda tidak bisa mengharapkan satu jenis bisnis selalu untung karena pasar yang terus berubah. Dengan diversifikasi maka anda akan dapat memperkecil risiko kerugian yang akan timbul.
 
-**Y﻿uk Mulai Investasi Bisnis Sekarang....**[](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)
+**Yuk Mulai Kembangkan Portofolio Investasi Anda Sekarang.....**[](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)
