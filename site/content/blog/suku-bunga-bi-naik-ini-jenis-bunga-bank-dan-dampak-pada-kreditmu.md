@@ -162,16 +162,10 @@ Inflasi dapat mengurangi nilai uang karena penurunan daya beli. Untuk itu, uang 
 
 Sederhananya, dengan mengalokasikan dana untuk berinvestasi, dana tersebut akan meningkat nominalnya. Lalu, ketika nanti inflasi terjadi, dana yang kamu miliki pasti akan ikut meningkat jauh dari modal awal investasi. 
 
-Bingung mencari opsi investasi karena hanya memiliki modal yang minim? Skema [equity crowdfunding](https://landx.id/) bisa menjadi solusi kondisi ini.
+Bingung mencari opsi investasi karena hanya memiliki modal yang minim? Skema equity crowdfunding bisa menjadi solusi kondisi ini.
 
-Skema ini adalah urun dana lewat patungan investor dari seluruh Indonesia bagi bisnis UMKM. Sistemnya yaitu listing saham yang dirilis secara publik melalui platform terpercaya dan diawasi OJK seperti [LandX](https://landx.id/). 
+Skema ini adalah urun dana lewat patungan investor dari seluruh Indonesia bagi bisnis UMKM. Sistemnya yaitu listing saham yang dirilis secara publik melalui platform terpercaya dan diawasi OJK seperti LandX. 
 
 Lewat skema ini, Anda tidak perlu turun tangan langsung mencari ide bisnis, mengurus operasional, atau membangun dari nol strategi marketing. Jadi, Anda tinggal menunggu keuntungan lewat dividen yang memiliki jadwal pembagian rutin.
 
-## [Siap #RaihKebebasan Finansial dengan Modal 1 Jutaan? Yuk, Investasi Lewat LandX Sekarang!](https://landx.id/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)
-
-<!--StartFragment-->
-
-[![miliki bisnis modal kecil cuma dengan 1 jutaan dapat 4 cabang ](https://accountgram-production.sfo2.cdn.digitaloceanspaces.com/landx_ghost/2021/11/jadi-owner-bisnis-hanya-1-jutaan-dengan-cuan-yang-sangat-menjanjikan.png)](https://landx.id/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)
-
-<!--EndFragment-->
+## [](https://landx.id/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)Y﻿uk Kembangkan Investasimu Sekarang..
