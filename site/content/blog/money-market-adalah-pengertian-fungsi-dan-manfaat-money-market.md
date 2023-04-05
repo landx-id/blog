@@ -27,19 +27,23 @@ Untuk lebih lengkapnya, apa itu money market? Simak pengertiannya, fungsi dan ma
 
 ## Pengertian Money Market
 
-Melansir Otoritas Jasa Keuangan, money market adalah pasar instrumen jangka pendek sertifikat deposito yang dapat dipindahtangankan, misalnya sertifikat Eurodollar, surat berharga komersial (commercial paper), dan treasury bills. Kesamaan di antara instrumen tersebut adalah bersifat likuid dan aman; pasar uang ini dioperasikan oleh para dealer. 
 
-Menurut Eko Sudarmanto, dkk, money market adalah tempat pertemuan abstrak di mana para pemilik dana jangka pendek menawarkan kepada calon pemakai yang membutuhkan baik secara langsung maupun lewat perantara. 
 
-Melansir dari Bank Indonesia, money market adalah bagian dari sistem keuangan yang berhubungan dengan kegiatan perdagangan, pinjam-meminjam, atau pendanaan berjangka pendek dengan 1 (satu) tahun dalam mata uang rupiah dan valuta asing yang berperan dalam transmisi kebijakan moneter, pencapaian stabilitas sistem keuangan, dan kelancaraan sistem pembayaran.
+Dalam ranah keuangan, istilah money market tidak asing lagi. Menurut Otoritas Jasa Keuangan, money market merupakan pasar instrumen jangka pendek yang dapat dipindahtangankan seperti sertifikat deposito Eurodollar, surat berharga komersial, dan treasury bills. Terdapat kesamaan dalam instrumen-instrumen tersebut, yaitu likuiditas yang tinggi dan keamanan yang terjamin, sehingga pasar uang dioperasikan oleh para dealer. 
 
-Secara sederhana, pasar uang adalah tempat instrumen yang diperdagangkan oleh pemilik modal kepada peminjam modal dengan jangka pendek. Instrumen money market dapat dikonversi menjadi uang tunai dengan cepat dan dengan biaya relatif rendah. Tingkat keuntungan atau return yang ditawarkan oleh produk money market biasanya lebih rendah karena memiliki risiko harga rendah akibat rentan waktu yang singkat.
+**Menurut Eko Sudarmanto, dkk**, money market adalah sebuah tempat pertemuan abstrak antara pemilik dana jangka pendek dan calon pemakai yang membutuhkan dana baik secara langsung maupun tidak langsung. Sedangkan menurut Bank Indonesia, money market adalah bagian dari sistem keuangan yang berhubungan dengan perdagangan, pinjam-meminjam, atau pendanaan berjangka pendek dengan 1 (satu) tahun dalam mata uang rupiah dan valuta asing. 
+
+Pasar uang memiliki kemampuan untuk menunjang transmisi kebijakan moneter, menjaga stabilitas sistem keuangan, dan memperlancar sistem pembayaran. Dalam kesederhanaannya, pasar uang adalah tempat instrumen yang diperdagangkan antara pemilik modal dengan peminjam modal dengan jangka pendek. 
+
+Instrumen-instrumen money market dapat diubah menjadi uang tunai dengan cepat dan biaya relatif rendah. Sehingga, meskipun return dari produk money market cenderung lebih rendah karena risiko harga yang rendah akibat jangka waktu yang singkat, pasar uang masih menjadi pilihan untuk mengelola kebutuhan jangka pendek.
 
 ## Fungsi Pasar Uang
 
-Seperti yang dilansir dari laman Bank Indonesia, untuk menetapkan dan melaksanakan kebijakan moneter maka Bank Indonesia melakukan pengendalian moneter melalui pasar uang rupiah maupun valuta asing. Untuk meningkatkan efektivitas kebijakan moneter, makroprudensial, sistem pembayaran dan pengelolaan uang rupiah yang dilakukan oleh Bank Indonesia, perlu adanya pendalaman pasar keuangan untuk mencapai pasar uang domestik yang efisien, likuid, dan dalam. 
+Bank Indonesia menggunakan pasar uang rupiah dan valuta asing untuk mengendalikan kebijakan moneter. Dalam rangka meningkatkan efektivitas kebijakan moneter, Bank Indonesia juga melakukan pengaturan terhadap sistem pembayaran, pengelolaan uang rupiah, dan tindakan makroprudensial. Pendalaman pasar keuangan diperlukan untuk menciptakan pasar uang domestik yang efisien, likuid, dan teratur.
 
-Jika diminta jelaskan apa yang menjadi fungsi pasar uang atau manfaat pasar uang, berikut adalah fungsi money market:
+Fungsi pasar uang adalah sebagai tempat terjadinya transaksi jangka pendek antara pihak yang memiliki kelebihan dana dengan pihak yang membutuhkan dana. Pasar uang juga dapat digunakan sebagai sarana investasi jangka pendek yang aman dan likuid. Dengan adanya pasar uang yang efisien, pelaku ekonomi dapat memperoleh dana dengan biaya yang lebih rendah, serta memanfaatkan dana yang dimiliki dengan lebih efektif.
+
+S﻿ecara lebih lanjut, berikut fungsi dari pasar uang:
 
 ### 1. Fungsi Likuiditas
 
@@ -68,6 +72,10 @@ Ketika seseorang meminjamkan kekayaan atau menjualnya dalam money market, surat 
 ## Perbedaan Money Market dan Capital Market
 
 Money market dan capital market merupakan sarana bagi para investor untuk melakukan investasi. Keduanya memiliki perbedaan karakteristik tertentu baik dari segi jangka waktu, instrumen yang diperjualbelikan, tempat penjualan maupun tujuan para penjual dan pembelinya. 
+
+P﻿ada dasarnya, money market dan capital market adalah dua jenis pasar keuangan yang berbeda dengan karakteristik dan tujuan yang berbeda pula. Money market adalah pasar keuangan jangka pendek yang menyediakan instrumen-instrumen keuangan dengan tenor pendek seperti surat berharga komersial, sertifikat deposito, dan treasury bills. Instrumen-instrumen ini diperdagangkan untuk memenuhi kebutuhan pembiayaan jangka pendek, seperti untuk membiayai persediaan dan pembayaran hutang dagang. 
+
+Sementara itu, capital market adalah pasar keuangan jangka panjang yang menyediakan instrumen-instrumen keuangan dengan tenor yang lebih panjang seperti saham, obligasi, dan reksa dana. Instrumen-instrumen ini digunakan untuk membiayai investasi jangka panjang seperti ekspansi bisnis, pengembangan infrastruktur, atau proyek-proyek besar lainnya. Oleh karena itu, money market dan capital market memiliki perbedaan utama dalam 
 
 Pada money market lebih bersifat abstrak yang tidak memiliki tempat khusus seperti capital market. Untuk lebih jelasnya, berikut adalah perbedaan money market dan capital market:
 
@@ -123,6 +131,10 @@ Secara umum, para pelaku utama di money market adalah sebagai berikut:
 
 Security Market Line adalah garis yang menghubungkan antara tingkat return yang diharapkan investor dari sebuah aset sekuritas dengan risiko sistematis yang ada. Security Market Line kerap disingkat sebagai SML sering dipergunakan untuk menilai sekuritas secara individual dalam kondisi serta situasi pasar yang relatif netral. SML sering disebut juga dengan Garis Pasar Sekuritas.
 
+Security Market Line (SML) merupakan garis paling penting yang terdapat dalam teori harga aset modal (CAPM) dan digunakan dalam analisis portofolio. Garis ini memperlihatkan hubungan antara risiko dan imbal hasil yang diharapkan dari suatu portofolio yang efisien. 
+
+Konsep SML membantu investor memperkirakan imbal hasil yang dapat diperoleh dari suatu investasi tertentu dalam kaitannya dengan risiko. Dengan memahami SML, investor dapat membuat keputusan investasi yang lebih tepat dan mengurangi risiko investasi yang tidak diinginkan. Oleh karena itu, pemahaman tentang SML sangat penting dalam dunia keuangan.
+
 Security Market Line merupakan visualisasi CAPM (Capital Asset Pricing Models), ketika sumbu x pada grafik mewakili risiko, serta sumbu y pada grafik mewakili pengembalian yang diharapkan. Risiko sistematis dapat diukur dengan menggunakan Beta (β).
 
 Security Market Line dapat digunakan untuk membantu investor dalam menentukan apakah suatu produk investasi akan menawarkan pengembalian yang diharapkan dan menguntungkan apabila dibandingkan dengan tingkat risikonya.
@@ -149,16 +161,10 @@ Selain itu juga, money market mampu mengendalikan stabilitas perekonomian negara
 
 Dari artikel diatas kita telah mengetahui mengenai money market secara lengkap. Pada umumnya, money market merupakan sarana pinjam-meminjam dan jual beli dengan jangka waktu yang pendek.
 
-Jika kamu tertarik untuk melakukan investasi jangka panjang, kamu bisa juga loh berinvestasi melalui skema [equity crowdfunding](https://landx.id/). Melalui skema [equity crowdfunding](https://landx.id/) kamu bisa berinvestasi ke bisnis potensial dengan urun dana bersama masyarakat luas.
+Jika kamu tertarik untuk melakukan investasi jangka panjang, kamu bisa juga loh berinvestasi melalui skema equity crowdfunding. Melalui skema equity crowdfunding kamu bisa berinvestasi ke bisnis potensial dengan urun dana bersama masyarakat luas.
 
-Tentunya kamu perlu menyesuaikan profil risiko terhadap bisnis yang kamu danai. Bisnis yang kamu pilih tadi akan berkembang dan memiliki potensi untuk bertahan dalam kurun waktu jangka panjang. Kamu juga akan mendapatkan keuntungan berupa dividen dari bisnis yang kamu danai secara rutin.
+Tentunya kamu perlu menyesuaikan profil risiko terhadap bisnis yang kamu danai. Bisnis yang kamu pilih tadi akan berkembang dan memiliki potensi untuk bertahan dalam kurun waktu jangka panjang. Kamu juga akan mendapatkan keuntungan sesuai performa dari bisnis anda. 
 
-LandX merupakan platform [equity crowdfunding](https://landx.id/) terpercaya dan telah memiliki izin dari Otoritas Jasa Keuangan yang membantu kamu untuk mendapatkan keuntungan dengan mendanai bisnis potensial dengan jangka panjang.
+K﻿arena itu, 
 
-## **[Yuk, Jadi Investor Bisnis Potensial untuk Mendapat Keuntungan Jangka Panjang Bersama LandX!](https://app.landx.id/?utm_source=Organic+Page&utm_medium=Content+Blog&utm_campaign=BlogLandX&utm_id=Blog)**
-
-<!--StartFragment-->
-
-[![miliki bisnis modal kecil cuma dengan 1 jutaan dapat 4 cabang ](https://accountgram-production.sfo2.cdn.digitaloceanspaces.com/landx_ghost/2021/11/jadi-owner-bisnis-hanya-1-jutaan-dengan-cuan-yang-sangat-menjanjikan.png)](https://app.landx.id/?utm_source=Organic+Page&utm_medium=Content+Blog&utm_campaign=BlogLandX&utm_id=Blog)
-
-<!--EndFragment-->
+## Y﻿uk Mulai Tingkatkan Level Investasi Anda Sekarang....
