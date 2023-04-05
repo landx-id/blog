@@ -1,14 +1,19 @@
 ---
 draft: false
 author: Vlora Riyandi
-title: "Hati-hati Pig Butchering: Modus Penipuan Kripto Berdasar Chat Romansa"
-metaTitle: "Hati-hati Pig Butchering: Modus Penipuan Kripto Berdasar Chat Romansa"
+title: "Hati-hati Pig Butchering: Modus Baru Penipuan yang Perlu Anda Pahami"
+metaTitle: "Hati-hati Pig Butchering: Modus Baru Penipuan yang Perlu Anda Pahami"
 metaDescription: Pig butchering scam adalah modus penipuan investasi kripto yang
   dibangun atas dasar kepercayaan hubungan romansa dari aplikasi chatting.
 intro: Pig butchering scam adalah modus penipuan investasi kripto yang dibangun
   atas dasar kepercayaan hubungan romansa dari aplikasi chatting. Yuk kenali
   tanda-tanda pig butchering agar terhindar dari penipuan investasi!
 date: 2022-11-08T16:16:57.306Z
+tag:
+  - Investasi Bodong
+category:
+  - News
+  - Investasi
 featuredImage:
   alt: pig butchering scam adalah
   title: pig butchering scam adalah
@@ -96,12 +101,6 @@ Kamu dapat memilih berinvestasi pada kripto, saham di bursa, obligasi, hingga sa
 
 Oleh karena itu, jika kamu berminat melakukan diversifikasi portofolio dengan memiliki saham bisnis privat melalui [equity crowdfunding](https://landx.id/) maka kamu dapat kenalan dengan platform [LandX](https://landx.id/). [LandX](https://landx.id/) adalah platform [equity crowdfunding](https://landx.id/) terdepan yang berhasil menyalurkan dana dari investor pada bisnis dengan jumlah terbesar di tahun ini. Sebagai aplikasi investasi berizin dan diawasi OJK, [LandX](https://landx.id/) selalu berusaha menjaga kepatuhan regulasi demi kenyamanan investor. 
 
-Jika kamu berminat diversifikasi portofolio dengan miliki saham bisnis, yuk [download aplikasi LandX](https://app.landx.id/?utm_source=Organic+Page&utm_medium=Content+Blog&utm_campaign=BlogLandX&utm_id=Blog)
+## Y﻿uk Mulai Kembangkan Aset Investasimu Sekarang...
 
-## [Diversifikasi Portofolio untuk Terhindar Pig Butchering Scam](https://app.landx.id/?utm_source=Organic+Page&utm_medium=Content+Blog&utm_campaign=BlogLandX&utm_id=Blog)
-
-<!--StartFragment-->
-
-[![miliki bisnis modal kecil cuma dengan 1 jutaan dapat 4 cabang ](https://accountgram-production.sfo2.cdn.digitaloceanspaces.com/landx_ghost/2021/11/jadi-owner-bisnis-hanya-1-jutaan-dengan-cuan-yang-sangat-menjanjikan.png)](https://app.landx.id/?utm_source=Organic+Page&utm_medium=Content+Blog&utm_campaign=BlogLandX&utm_id=Blog)
-
-<!--EndFragment-->
+[](https://app.landx.id/?utm_source=Organic+Page&utm_medium=Content+Blog&utm_campaign=BlogLandX&utm_id=Blog)
