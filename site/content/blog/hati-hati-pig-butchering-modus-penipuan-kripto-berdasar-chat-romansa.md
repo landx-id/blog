@@ -73,7 +73,7 @@ Berhati-hatilah terhadap peluang investasi yang tidak realistis dan skema cepat 
 
 Sebuah kripto yang baik pasti memiliki dokumen alasan penerbitannya atau dikenal sebagai whitepaper. Cari tahu keberadaan whitepaper kripto sebelum memutuskan berinvestasi. Terhindari dari pig butchering scam dan modus penipuan kripto lainnya dengan tetap waspada sembari meningkatkan literasi keuangan. 
 
-## Kasus Pig Butchering
+## Kasus Pig Butchering di Indonesia
 
 Kasus pig butchering nyata adanya, bahkan korbannya telah cerita pengalaman buruknya.
 
