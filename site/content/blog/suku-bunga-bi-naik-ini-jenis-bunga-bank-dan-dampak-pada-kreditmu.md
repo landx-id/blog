@@ -154,7 +154,7 @@ Namun memang di satu sisi, kenaikan suku bunga akan menurunkan kemampuan masyara
 
 Pada akhirnya, keputusan ini akan berpengaruh pada pertumbuhan ekonomi bisa relatif melambat sehingga lebih stabilnya tingkat inflasi dan lebih terkontrolnya harga-harga kebutuhan pokok di pasaran.
 
-## Mengapa Harus Mulai Investasi?
+## I﻿nvestasi di Tengah Fluktuasi Suku Bunga
 
 Menaikkan suku bunga ini tentu adalah strategi Pemerintah Indonesia dan Bank Indonesia mengontrol penyebab inflasi. Namun, sebagai masyarakat kamu bisa melakukan tindakan untuk menghindari dan menghadapi dampak inflasi, salah satunya adalah melakukan investasi. 
 
@@ -162,10 +162,10 @@ Inflasi dapat mengurangi nilai uang karena penurunan daya beli. Untuk itu, uang 
 
 Sederhananya, dengan mengalokasikan dana untuk berinvestasi, dana tersebut akan meningkat nominalnya. Lalu, ketika nanti inflasi terjadi, dana yang kamu miliki pasti akan ikut meningkat jauh dari modal awal investasi. 
 
-Bingung mencari opsi investasi karena hanya memiliki modal yang minim? Skema equity crowdfunding bisa menjadi solusi kondisi ini.
+I﻿nvestasi dengan skema equity crowdfunding bisa jadi salah satu opsi untuk diversifikasi portofolio kamu untuk menghadapi fluktuasi suku bunga. E﻿quity crowdfunding merupakan investasi dengan skema urun data lewat patungan investor untuk mendanai berbagai bisnis potensial di seluruh Indonesia. 
 
-Skema ini adalah urun dana lewat patungan investor dari seluruh Indonesia bagi bisnis UMKM. Sistemnya yaitu listing saham yang dirilis secara publik melalui platform terpercaya dan diawasi OJK seperti LandX. 
+Lewat skema ini, Anda tidak perlu turun tangan langsung mencari ide bisnis, mengurus operasional, atau membangun dari nol strategi marketing. Investor dalam skema akan mendapatkan keuntungan berupa dividen sesuai dengan performa bisnis yang anda investasikan. 
 
-Lewat skema ini, Anda tidak perlu turun tangan langsung mencari ide bisnis, mengurus operasional, atau membangun dari nol strategi marketing. Jadi, Anda tinggal menunggu keuntungan lewat dividen yang memiliki jadwal pembagian rutin.
+I﻿nvestasi lewat skema ini bisa kamu lakukan lewat platform crowdfunding terpercaya yang telah berizin OJK agar kamu bisa berinvestasi dengan aman dan nyaman.
 
-## [](https://landx.id/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)Y﻿uk Kembangkan Investasimu Sekarang..
+## [](https://landx.id/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)Y﻿uk Mulai Kembangkan Investasimu Sekarang.....
