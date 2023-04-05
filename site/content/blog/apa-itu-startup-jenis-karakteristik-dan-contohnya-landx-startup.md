@@ -1,6 +1,6 @@
 ---
 author: Vlora Riyandi
-title: "Bisnis Startup Adalah: Apa Itu Startup, Karakteristik dan Contohnya"
+title: Mengenal Karakterisik dan Jenis Bisnis Startup di Indonesia
 metaTitle: "Apa Itu Startup: Jenis. Karakteristik dan Contoh Startup di Indonesia"
 metaDescription: "Startup adalah bisnis atau perusahaan baru yang mencoba
   mendisrupsi pasar. Perusahaan rintisan masih berada pada fase mengembangkan
@@ -37,7 +37,6 @@ Dalam artikel ini, [LandX](https://landx.id/) akan bahas untuk kamu agar lebih m
 ## Apa Itu Startup?
 
 Bisnis startup adalah perusahaan baru yang mencoba mendisrupsi pasar. Berdasarkan arti kata, start up artinya memulai atau perusahaan yang baru mulai pada fase mengembangkan produk dan menemukan pasar.
-
 
 Perusahaan-perusahaan ini memiliki tingkat kegagalan yang tinggi. Namun, startup paling sukses dapat menjadi legenda dunia bisnis dengan inovasi bisnisnya.
 
@@ -152,8 +151,8 @@ Ide model bisnis [crowdfunding LandX](https://landx.id/) adalah kegiatan urun da
 
 Melalui equity crowdfunding, setiap masyarakat Indonesia dapat berkontribusi membantu pengembangan bisnis dengan memberikan modal sebagai investor. Imbalan bagi setiap investor skema crowdfunding adalah bagi hasil keuntungan profit project bisnis yang didanai.
 
-Tertarik jadi investor bisnis dan ingin lihat bentuk pendanaan [crowdfunding](https://landx.id/)?
+K﻿arena itu, 
 
-## [Kunjungi situs LandX dan download aplikasi equity crowdfunding terdepan di Indonesia!](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)
+## Y﻿uk Mulai TIngkatkan Level Investasi Anda Sekarang....
 
-[![miliki bisnis modal kecil cuma dengan 1 jutaan dapat 4 cabang ](https://accountgram-production.sfo2.cdn.digitaloceanspaces.com/landx_ghost/2021/11/jadi-owner-bisnis-hanya-1-jutaan-dengan-cuan-yang-sangat-menjanjikan.png)](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)
+[](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)
