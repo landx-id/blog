@@ -125,17 +125,13 @@ Dalam startup ada yang paling rendah adalah unicorn, kedua ada decacorn, dan yan
 
 Perusahaan bisnis startup Indonesia banyak yang mulai berkembang cepat. Namun, berikut adalah perusahaan-perusahaan startupnya.
 
-**1. Gojek**
+<!--StartFragment-->
 
-**2. Traveloka**
-
-**3. Bukalapak**
-
-**4. Sociolla**
-
-**5. Ruangguru**
-
-**6. LandX**
+1. **Gojek** - Perusahaan ride-hailing dan super app terbesar di Indonesia yang menawarkan berbagai layanan seperti transportasi, pengiriman makanan, pembayaran online, dan lain-lain.
+2. T**okopedia -** Platform e-commerce terbesar di Indonesia yang menawarkan jutaan produk dari berbagai kategori dan memfasilitasi ribuan penjual untuk berjualan secara online.
+3. **Traveloka -** Platform travel booking online yang menawarkan pemesanan tiket pesawat, hotel, kereta, dan aktivitas wisata di Indonesia dan sekitarnya.
+4. **Ruangguru -** Startup edtech terbesar di Indonesia yang menyediakan platform belajar online dan les privat untuk siswa dari sekolah dasar hingga menengah atas.
+5. **Bukalapak -** Platform *e-commerce* yang menawarkan berbagai produk dari berbagai kategori dan memfasilitasi penjual untuk berjualan secara online, terutama bagi UMKM.
 
 ## LandX Sebagai Startup Crowdfunding Indonesia
 
