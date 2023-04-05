@@ -70,25 +70,11 @@ Modal saham adalah jumlah atau nominal saham yang beredar. Sedangkan agio saham 
 
 - - -
 
-**Artikel Terkait:**
-
-* **[Yuk Pahami Apa Itu Aset Lancar Beserta Jenisnya!](https://landx.id/blog/apa-itu-aktiva-lancar-ini-dia-penjelasannya/)**
-* **[Investor Pemula Wajib Tau, Berbagai Jenis dan Risiko Obligasi](https://landx.id/blog/apa-itu-obligasi/)**
-
-- - -
-
 ### 2. Laba Ditahan
 
 Laba ditahan merupakan keuntungan didapatkan oleh perusahaan tapi belum dibagikan kepada investor atau pemegang saham karena berbagai alasan sehingga perusahaan menjadi uang ini sebagai ekuitas cadangan.
 
 Dalam konteks perusahaan terbuka, laba ditahan adalah keputusan yang dibuat dalam RUPS yang untuk mengambil keputusan apakah keuntungan akan dibagikan melalui dividen atau tidak. Akan tetapi, biasanya modal ini dijadikan sebagai cadangan modal saja karena pada dasarnya modal ini merupakan hak para investor.
-
-- - -
-
-**Artikel Terkait:**
-
-* **[Memahami Konsep Laba Ditahan](https://landx.id/blog/beda-antara-laba-ditahan-dan-laba-tahun-berjalan/)**
-* **[Liabilitas Adalah Penentu Masa Depan Perusahaan, Ini Penjelasannya](https://landx.id/blog/liabilitas-adalah-penentu-masa-depan-perusahaan-ini-penjelasannya/)****[!](https://landx.id/blog/liabilitas-adalah-penentu-masa-depan-perusahaan-ini-penjelasannya/)**
 
 - - -
 
@@ -138,20 +124,12 @@ Selain itu melalui IPO pendanaan juga kini bisa dilakukan dengan skema equity cr
 
 IPO biasanya dilakukan untuk bisnis atau korporasi dengan skala yang besar sehingga tidak semua perusahaan dengan mudah melakukan IPO.
 
-**[Equity crowdfunding](https://landx.id/)** merupakan sistem yang mempermudah bisnis dan UKM potensial untuk mendapatkan pembiayaan dengan memberikan masyarakat luas untuk memberi saham mereka.
+**Equity crowdfunding** merupakan sistem yang mempermudah bisnis dan UKM potensial untuk mendapatkan pembiayaan dengan memberikan masyarakat luas untuk memberi saham mereka.
 
-**[LandX](https://landx.id/)**  merupakan platform equity crowdfunding yang membantu bisnis potensial bertemu dengan investor. Sebagai pemegang saham, investor nantinya bisa mendapatkan keuntungan berupa dividen dari bagi hasil keuntungan yang didapatkan oleh bisnis.
+Platform equity crowdfunding membantu mempertemukan investor dengan bisnis potensial yang nantinya akan memberikan return berupa dividen yang sesuai dengan performa bisnis. 
 
-Karena itu, selain membantu bisnis berkembang dengan lebih cepat, equity crowdfunding juga menjadi instrumen investasi jangka panjang yang sangat menjanjikan.
-
-- - -
-
-**[Yuk Temukan Bisnis Menjanjikan dengan Keuntungan Terbaik di LandX](https://landx.id/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)**
-
-[![miliki bisnis modal kecil cuma dengan 1 jutaan dapat 4 cabang ](https://accountgram-production.sfo2.cdn.digitaloceanspaces.com/landx_ghost/2021/11/jadi-owner-bisnis-hanya-1-jutaan-dengan-cuan-yang-sangat-menjanjikan.png)](https://landx.id/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)
-
-**[Yuk Follow Kami di Instagram @landx.id Untuk Berbagai Update Terbaru Seputar Investasi](https://www.instagram.com/landx.id/?utm_medium=copy_link)**
+Karena itu, selain membantu bisnis berkembang dengan lebih cepat, equity crowdfunding juga menjadi instrumen investasi jangka panjang yang sangat menjanjikan
 
 - - -
 
-**\#SekarangBisa**
+## Y﻿uk Tingkatkan Investasi Anda Sekarang....
