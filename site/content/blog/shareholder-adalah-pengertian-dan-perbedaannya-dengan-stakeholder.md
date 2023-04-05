@@ -102,14 +102,6 @@ Untuk itu, para investor wajib memeriksa secara seksama terkait hukum yang berla
 
 Kalau kamu yang ingin menjadi shareholder, ada yang harus kamu perhatikan dahulu. Sebagai contoh dengan belajar ilmu investasi dahulu. Karena selain meraih keuntungan, investasi memiliki risiko kerugian juga, jadi pastikan kamu benar-benar mempelajari profil risiko dahulu. Untuk menjadi investor pemula, kamu bisa memulai investasi bisnis potensial lewat skema securities crowdfunding. 
 
-Securities crowdfunding ini merupakan skema pendanaan untuk bisnis kecil dengan cara urun dana masyarakat secara luas mendanai bisnis potensial. Melalui skema securities crowdfunding ini kamu bisa menjadi investor dengan modal kecil, serta mendapatkan keuntungan dividen secara rutin. 
+Securities crowdfunding ini merupakan skema pendanaan untuk bisnis kecil dengan cara urun dana masyarakat secara luas mendanai bisnis potensial. Melalui skema securities crowdfunding ini kamu bisa menjadi investor dengan modal kecil, serta mendapatkan keuntungan beruapa dividen yang disesuaikan dengan performa bisnis. 
 
-**[LandX](https://landx.id/)** merupakan platform securities crowdfunding yang sudah berizin OJK dan berpengalaman. Dengan pilihan bisnis yang beragam, dari FnB seperti *coffee shop*, sushi resto, dan cloud kitchen, hingga bisnis industri properti seperti kos-kosan. Tentunya, kamu berpeluang berinvestasi pada bisnis dengan prospek yang menjanjikan. 
-
-## [Mau Jadi Investor Bisnis Potensial? Gabung Sekarang Lewat LandX!](https://app.landx.id/?utm_source=Organic+Page&utm_medium=Content+Blog&utm_campaign=BlogLandX&utm_id=Blog)
-
-<!--StartFragment-->
-
-[![miliki bisnis modal kecil cuma dengan 1 jutaan dapat 4 cabang ](https://accountgram-production.sfo2.cdn.digitaloceanspaces.com/landx_ghost/2021/11/jadi-owner-bisnis-hanya-1-jutaan-dengan-cuan-yang-sangat-menjanjikan.png)](https://app.landx.id/?utm_source=Organic+Page&utm_medium=Content+Blog&utm_campaign=BlogLandX&utm_id=Blog)
-
-<!--EndFragment-->
+## Y﻿uk Mulai Siapkan Investasi Jangka Panjang Anda Sekarang...
