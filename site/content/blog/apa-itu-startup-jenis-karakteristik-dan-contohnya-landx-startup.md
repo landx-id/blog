@@ -139,20 +139,14 @@ Perusahaan bisnis startup Indonesia banyak yang mulai berkembang cepat. Namun, b
 
 ## LandX Sebagai Startup Crowdfunding Indonesia
 
-Istilah [crowdfunding](https://landx.id/) terasa masih asing secara umum. [Crowdfunding](https://landx.id/) sendiri memiliki arti kata penggalangan dana. Startup crowdfunding merujuk pada kegiatan bisnis yang mengumpulkan dana secara kolektif dari masyarakat luas untuk sebuah project.
+Skema equity crowdfunding di Indonesia terus mengalami perkembangan yang pesat dalam beberapa tahun terakhir. Pada awalnya, skema ini hanya tersedia untuk perusahaan kecil dan menengah yang kesulitan dalam mendapatkan pendanaan. 
 
-Project bisnis [startup crowdfunding](https://landx.id/) dapat berbasis sosial dan keuangan. Contoh [startup crowdfunding](https://landx.id/) berbasis sosial adalah kegiatan penggalangan dana untuk membantu penanggulangan isu sosial dan dapat juga membantu manusia lainnya.
+Namun sekarang, skema ini telah menjangkau hampir semua jenis bisnis dan investor. Banyak platform equity crowdfunding yang muncul dan memberikan akses ke pasar investasi kepada masyarakat yang sebelumnya sulit dilakukan. 
 
-Isu sosial seperti meningkatkan tanggung jawab terhadap pengelolaan sampah yang dilakukan dapat sekaligus memperbaiki lingkungan. Kegiatan bisnis ini juga didasari pada salah satu dari 17 tujuan Sustainable Development Goals (SDGs) yaitu konsumsi dan produksi yang bertanggun jawab.
+Melalui skema ini, investor dapat memiliki akses ke investasi yang sebelumnya hanya tersedia untuk investor institusional atau individu dengan kekayaan yang sangat tinggi. Oleh karena itu, skema ini bisa menjadi pilihan kamu untuk mengembangkan aset investasi dalam jangka panjang. 
 
-Bentuk lain project bisnis [startup crowdfunding keuangan](https://landx.id/) biasanya didasari pemanfaatan teknologi (fintech). Contoh startup [crowdfunding fintech di Indonesia](https://landx.id/) ada [LandX](https://landx.id/). 
+karena itu, 
 
-Ide model bisnis [crowdfunding LandX](https://landx.id/) adalah kegiatan urun dana dari sejumlah besar masyarakat Indonesia untuk mendanai sebuah project bisnis atau unit usaha. Model bisnis ini dikenal sebagai equity crowdfunding.
-
-Melalui equity crowdfunding, setiap masyarakat Indonesia dapat berkontribusi membantu pengembangan bisnis dengan memberikan modal sebagai investor. Imbalan bagi setiap investor skema crowdfunding adalah bagi hasil keuntungan profit project bisnis yang didanai.
-
-K﻿arena itu, 
-
-## Y﻿uk Mulai TIngkatkan Level Investasi Anda Sekarang....
+## Y﻿uk Mulai Tingkatkan Level Investasi Anda Sekarang....
 
 [](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)
