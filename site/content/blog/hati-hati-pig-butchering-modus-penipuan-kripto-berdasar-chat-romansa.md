@@ -95,11 +95,11 @@ Bagi investor pemula maupun yang telah pernah berinvestasi tentu harus paham bah
 
 Ada pilihan investasi high risk high return bagi mereka yang memiliki profil risiko tinggi. Serta, ada jenis investasi jangka panjang dengan tingkat risiko lebih rendah. Tentunya kamu juga dapat berinvestasi pada beberapa jenis instrumen investasi dengan beragam tingkat risikonya untuk memaksimalkan potensi aset dan keuntungan.
 
-Cara berinvestasi pada beberapa jenis instrumen investasi dikenal juga dengan strategi diversifikasi portofolio investasi. [Diversifikasi portofolio investasi](https://landx.id/) berfungsi untuk meminimalisir potensi risiko investasi jika semua dana yang dimiliki ditaruh pada satu wadah yang sama.
+Cara berinvestasi pada beberapa jenis instrumen investasi dikenal juga dengan strategi diversifikasi portofolio investasi. Diversifikasi portofolio investasi berfungsi untuk meminimalisir potensi risiko investasi jika semua dana yang dimiliki ditaruh pada satu wadah yang sama.
 
 Kamu dapat memilih berinvestasi pada kripto, saham di bursa, obligasi, hingga saham bisnis melalui platform [equity crowdfunding](https://landx.id/). [Equity crowdfunding](https://landx.id/) adalah cara untuk memiliki saham bisnis privat ternama dan potensial menguntungkan. Saham bisnis melalui equity crowdfunding hanya tersedia selama 45 hari paling lama.
 
-Oleh karena itu, jika kamu berminat melakukan diversifikasi portofolio dengan memiliki saham bisnis privat melalui [equity crowdfunding](https://landx.id/) maka kamu dapat kenalan dengan platform [LandX](https://landx.id/). [LandX](https://landx.id/) adalah platform [equity crowdfunding](https://landx.id/) terdepan yang berhasil menyalurkan dana dari investor pada bisnis dengan jumlah terbesar di tahun ini. Sebagai aplikasi investasi berizin dan diawasi OJK, [LandX](https://landx.id/) selalu berusaha menjaga kepatuhan regulasi demi kenyamanan investor. 
+Oleh karena itu, jika kamu berminat melakukan diversifikasi portofolio dengan memiliki saham bisnis privat melalui equity crowdfunding maka kamu dapat kenalan dengan platform [LandX](https://landx.id/). [LandX](https://landx.id/) adalah platform [equity crowdfunding](https://landx.id/) terdepan yang berhasil menyalurkan dana dari investor pada bisnis dengan jumlah terbesar di tahun ini. Sebagai aplikasi investasi berizin dan diawasi OJK, [LandX](https://landx.id/) selalu berusaha menjaga kepatuhan regulasi demi kenyamanan investor. 
 
 ## Y﻿uk Mulai Kembangkan Aset Investasimu Sekarang...
 
