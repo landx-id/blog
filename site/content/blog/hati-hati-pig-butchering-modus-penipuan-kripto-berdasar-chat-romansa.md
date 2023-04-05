@@ -99,7 +99,9 @@ Cara berinvestasi pada beberapa jenis instrumen investasi dikenal juga dengan st
 
 Kamu dapat memilih berinvestasi pada kripto, saham di bursa, obligasi, hingga saham bisnis melalui platform [equity crowdfunding](https://landx.id/). [Equity crowdfunding](https://landx.id/) adalah cara untuk memiliki saham bisnis privat ternama dan potensial menguntungkan. Saham bisnis melalui equity crowdfunding hanya tersedia selama 45 hari paling lama.
 
-Oleh karena itu, jika kamu berminat melakukan diversifikasi portofolio dengan memiliki saham bisnis privat melalui equity crowdfunding maka kamu dapat kenalan dengan platform [LandX](https://landx.id/). [LandX](https://landx.id/) adalah platform [equity crowdfunding](https://landx.id/) terdepan yang berhasil menyalurkan dana dari investor pada bisnis dengan jumlah terbesar di tahun ini. Sebagai aplikasi investasi berizin dan diawasi OJK, [LandX](https://landx.id/) selalu berusaha menjaga kepatuhan regulasi demi kenyamanan investor. 
+Oleh karena itu, jika kamu berminat melakukan diversifikasi portofolio dengan memiliki saham bisnis privat melalui equity crowdfunding maka kamu dapat kenalan dengan platform equity crowdfunding yang berizin OJK sehingga kamu bisa berinvestasi dengan aman dan nyaman.  
+
+Karena itu,
 
 ## Y﻿uk Mulai Kembangkan Aset Investasimu Sekarang...
 
