@@ -170,20 +170,14 @@ Jika Anda ingin menjadi pemilik usaha namun tidak ada waktu atau modal besar, ka
 
 Bagaimana? Anda tertarik untuk menjadi salah satu pemilik usaha Ayam Tempong Ibu Sri?
 
-Jika iya, caranya adalah dengan ikut patungan bisnis Ayam Tempong Ibu Sri melalui [platform equity crowdfunding LandX](https://landx.id/)[](https://landx.id/).
+Jika iya, caranya adalah dengan ikut patungan bisnis Ayam Tempong Ibu Sri melalui platform equity crowdfunding LandX[](https://landx.id/).
 
 Anda bisa membeli saham bisnis-bisnis potensial lewat LandX. Misalnya, Anda bisa jadi pemilik bisnis Ayam Tempong Ibu Sri dengan melakukan pendanaan lewat LandX hanya dengan modal yang kecil mulai dari Rp1 jutaan saja!
 
 Selanjutnya, Anda akan mendapatkan keuntungan dari dividen atas usaha yang telah Anda danai sebelumnya.
 
-[**LandX** ](https://landx.id/)merupakan platform equity crowdfunding yang telah mengantongi izin dari Otoritas Jasa Keuangan (OJK), dan telah memiliki market cap terbesar di Indonesia.
+**LandX** merupakan platform equity crowdfunding yang telah mengantongi izin dari Otoritas Jasa Keuangan (OJK), dan telah memiliki market cap terbesar di Indonesia.
 
 Jadi tunggu apalagi? Jadilah salah satu investor di LandX sebelum bisnis yang kamu impikan habis!
 
-## [Yuk Jadi Bos Bisnis Hits Ayam Tempong Bu Sri di Bali Lewat LandX!](https://app.landx.id/?utm_source=Organic+Page&utm_medium=Content+Blog&utm_campaign=BlogLandX&utm_id=Blog)
-
-[![miliki bisnis modal kecil cuma dengan 1 jutaan dapat 4 cabang ](https://accountgram-production.sfo2.cdn.digitaloceanspaces.com/landx_ghost/2021/11/jadi-owner-bisnis-hanya-1-jutaan-dengan-cuan-yang-sangat-menjanjikan.png)](https://app.landx.id/?utm_source=Organic+Page&utm_medium=Content+Blog&utm_campaign=BlogLandX&utm_id=Blog)
-
-<!--EndFragment-->
-
-<!--EndFragment-->
+## Yuk Jadi Bos Bisnis Hits Ayam Tempong Bu Sri di Bali Lewat LandX
