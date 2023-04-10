@@ -121,4 +121,4 @@ Dalam jenis ekonomi ini, semua perusahaan harus menawarkan harga serendah mungki
 
 Meskipun ini hanya model teoritis, persaingan sempurna berguna untuk menunjukkan bagaimana pelaku ekonomi berperilaku di pasar bebas.
 
-## Y﻿uk Siapkan Investasi untuk Berbagai Kondisi Ekonomi
+## Y﻿uk Siapkan Investasi untuk Berbagai Kondisi Ekonomi Sekarang
