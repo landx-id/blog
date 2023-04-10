@@ -35,8 +35,6 @@ Untuk menghitung NPV, kamu hanya perlu menggunakan rumus net present value (NPV)
 
 adi, mari kita bahas lebih lanjut tentang konsep Net Present Value agar kamu siap mengambil keputusan investasi yang lebih baik dan cerdas!
 
-
-
 <!--EndFragment-->
 
 - - -
@@ -100,7 +98,7 @@ Anda sedang menjalankan bisnis restoran dan memutuskan untuk memasang set dapur 
 
 Dalam perhitungan present value anda akan mengasumsikan dana dengan jumlah yang sama akan dimasukkan ke dalam deposito dengan tingkat bunga di asumsi 5 % dan periode waktu 3 tahun sehingga dilakukan perhitungan sebagai berikut:
 
-{{< figure src="https://accountgram-production.sfo2.cdn.digitaloceanspaces.com/landx_ghost/2021/09/Screenshot-2021-09-13-at-16-34-54-Mengenal-Apa-Itu-Net-Present-Value-atau-NPV-Definisi--Fungsi--dan-Cara-Menghitung-NPV---L-...-.png" caption="Menghitung NPV menggunakan rumus" >}}
+![Perhitungan npv](https://accountgram-production.sfo2.cdn.digitaloceanspaces.com/landx_ghost/2021/09/Screenshot-2021-09-13-at-16-34-54-Mengenal-Apa-Itu-Net-Present-Value-atau-NPV-Definisi--Fungsi--dan-Cara-Menghitung-NPV---L-...-.png "rumus perhitungan npv")
 
 Penghasilan diasumsikan sebagai berikut:
 
@@ -124,16 +122,12 @@ Namun, jika angka NPV negatif artinya proyek atau investasi akan mengalami kerug
 
 - - -
 
-## Apa Itu NPV Dalam Investasi?
+## A﻿nalisis Dalam Investasi
 
 Setelah paham bagaimana menghitung NPV diharapkan anda bisa mengambil keputusan lebih baik dalam investasi dan bisnis yang sedang anda jalankan. Karena teknik mengitung NPV adalah metode dalam melihat prospek keuntungan dan juga risiko kerugian, maka hasil perhitungannya akan membantu penganggaran modal untuk mengukur profitabilitas proyek atau investasi tersebut.
 
 NPV adalah metode analisis yang akan sangat bermanfaat untuk memastikan bahwa tindakan yang anda ambil saat ini sudah sesuai dengan tujuan yang ingin anda capai di masa mendatang. Kini tentu anda semakin paham kriteria bisnis dan investasi seperti apa yang cocok dan menguntungkan anda dalam jangka panjang.
 
-Salah satu instrumen investasi yang wajib anda coba adalah investasi bisnis melalui skema ***[equity crowdfunding](https://landx.id/)***. Sistem ini membuat anda bisa melakukan investasi bisnis yang menguntungkan dalam jangka panjang dengan modal kecil. Karena itu…
+K﻿arena itu, analisis ini memiliki bagian penting bagi anda dalam menentukan pilihan investasi terbaik untuk anda. 
 
-## [Yuk Investasi Bisnis di LandX dengan Berbagai Pilihan Bisnis Potensial untuk Investasi Anda](https://landx.id/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)
-
-[![Bagaimana? Kamu lebih suka bisnis dengan buyback guarantee atau yang bisa disimpan dalam jangka panjang? Apapun pilihan kamu.. Yuk Patungan  dengan Keuntungan Menjanjikan Bareng LandX](https://accountgram-production.sfo2.cdn.digitaloceanspaces.com/landx_ghost/2021/10/Equity-Crowdfunding-di-Indonesia-1--3.png)](https://landx.id/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)
-
-**[Mau Terus Update Info Seputar Investasi? Yuk Follow Kami di Instagram @landx.id untuk Berbagai Info Terupdate Seputar Investasi](https://instagram.com/landx.id?utm_medium=copy_link)**
+## Y﻿uk Mulai Tingkatkan Investasi Anda Sekarang
