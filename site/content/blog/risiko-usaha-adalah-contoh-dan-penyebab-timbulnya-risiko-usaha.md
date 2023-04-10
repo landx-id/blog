@@ -1,7 +1,7 @@
 ---
 draft: false
 author: Della Octavilia
-title: "Risiko Usaha Adalah: Contoh dan  Penyebab Timbulnya Risiko Usaha"
+title: Memahami Apa Itu Risiko Usaha dan Penyebab Timbulnya Risiko Usaha
 metaTitle: "Risiko Usaha Adalah: Contoh dan  Penyebab Timbulnya Risiko Usaha"
 metaDescription: Risiko usaha adalah hasil dari kegiatan usaha atau bisnis yang
   dapat  menimbulkan masalah atau kerugian pada jangka waktu tertentu
@@ -13,6 +13,7 @@ tag:
   - Mitigasi Risiko
 category:
   - Bisnis
+  - Keuangan
 featuredImage:
   src: https://img.freepik.com/free-photo/person-holding-fallen-wooden-piece_23-2148783043.jpg?w=826&t=st=1665390756~exp=1665391356~hmac=0eee7bc562dbe87b501ea26bc99ee052e1124e288a11b35355eb6e59f4d7c66c
   alt: Memahami macam-macam risiko usaha perusahaan
@@ -146,22 +147,12 @@ Ya, itu tadi pembahasan seputar risiko usaha yang dapat menimpa setiap bisnis at
 
 Nah, jika kamu ingin memiliki pendapatan sampingan untuk simpanan jangka panjang tanpa banyak usaha kamu bisa lho mendapatkannya. Bagaimana caranya? Caranya adalah kamu melakukan investasi!
 
-Salah satu investasi yang memiliki potensi keuntungan jangka panjang adalah investasi dengan sekam [equity crowdfunding](https://landx.id/). Sesuai dengan namanya equity crowdfunding, maka kamu akan melakukan pendanaan secara patungan dengan banyak investor pada bisnis UMKM berpotensi.
+Salah satu investasi yang memiliki potensi keuntungan jangka panjang adalah investasi dengan skema equity crowdfunding. Sesuai dengan namanya equity crowdfunding, maka kamu akan melakukan pendanaan secara patungan dengan banyak investor ke berbagai bisnis potensial.
 
 Tapi, sebelum mendandani bisnis UMKM berpotensi kamu bisa dulu nih mengecek portofolio profil bisnis untuk meminimalisir segala macam risiko yang akan terjadi di depannya.
 
-Salah satu platform equity crowdfunding terbaik se-Indonesia dan dapat menjadi tempat kamu mendanai berbagai bisnis UMKM berpotensi adalah LandX.
+L﻿ewat sistem ini, anda bisa melakukan pendanaan ke berbagai jenis bisnis potensial dan mendapatkan keuntungan berupa dividen sesuai dengan peforma bisnis yang anda miliki sahamnya. 
 
-[LandX](https://landx.id/) adalah platform equity crowdfunding di Indonesia yang terpercaya dan telah memiliki market cap terbesar se-Indonesia. Sebagai platform equity crowdfunding, LandX juga telah dipercayai oleh lebih dari 80 ribu investor terdaftar di dalamnya.
+K﻿arena itu, sistem ini sngat cocok untuk diversifikasi portofolio investasi jangka panjang anda. 
 
-Di [LandX](https://landx.id/) kamu dapat melakukan pendanaan terhadap bisnis-bisnis UMKM berpotensi, mulai dari bisnis kuliner, hingga bisnis properti. Nantinya, kamu berkesempatan memperoleh keuntungan berupa dividen dari bisnis yang telah didanai.
-
-Jadi, raih keuntungan melalui pendanaan di LandX, yuk!
-
-## [Danai Bisnis UMKM Berpotensi di LandX dan Raih Potensi Keuntungannya Sekarang Juga!](https://app.landx.id/?utm_source=Organic+Page&utm_medium=Content+Blog&utm_campaign=BlogLandX&utm_id=Blog)
-
-<!--StartFragment-->
-
-[![miliki bisnis modal kecil cuma dengan 1 jutaan dapat 4 cabang ](https://accountgram-production.sfo2.cdn.digitaloceanspaces.com/landx_ghost/2021/11/jadi-owner-bisnis-hanya-1-jutaan-dengan-cuan-yang-sangat-menjanjikan.png)](https://app.landx.id/?utm_source=Organic+Page&utm_medium=Content+Blog&utm_campaign=BlogLandX&utm_id=Blog)
-
-<!--EndFragment-->
+## Y﻿uk Mulai Kembangkan dan Diversifikasi Aset Investasi Anda
