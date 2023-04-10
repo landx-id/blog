@@ -31,6 +31,10 @@ Jadi ikuti terus artikel ini, ya!
 
 ## Risiko Usaha Adalah
 
+Risiko usaha adalah sesuatu yang selalu terjadi saat menjalankan bisnis, tak peduli bisnisnya kecil atau besar. Risiko usaha terjadi ketika bisnis mengalami masalah atau kerugian dalam jangka waktu tertentu akibat dari kegiatan bisnis. 
+
+Semakin besar risiko usaha, semakin besar kemungkinan bisnis mengalami kerugian. Risiko usaha bisa berasal dari faktor internal dan eksternal seperti bencana alam atau gangguan ekonomi. Oleh karena itu, penting bagi bisnis untuk mendeteksi risiko usaha sejak dini agar kerugian bisa diminimalkan. Bisnis dapat melakukan deteksi risiko usaha dengan mengenali jenis risiko dan sumber penyebabnya.
+
 Risiko usaha adalah suatu kondisi yang tidak dapat dipisahkan saat menjalankan suatu bisnis, baik bisnis kecil, menengah, hingga bisnis besar tidak luput dari risiko usaha. Lalu, apa yang dimaksud dengan risiko usaha yang tidak dapat dipisahkan setiap menjalankan bisnis?
 
 Risiko usaha adalah hasil dari kegiatan usaha atau bisnis yang menimbulkan suatu masalah atau kerugian pada jangka waktu tertentu. Semakin besar risiko usaha yang terjadi pada suatu bisnis, maka semakin besar pula peluang suatu bisnis akan mengalami kerugian.
