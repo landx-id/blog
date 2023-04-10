@@ -1,7 +1,7 @@
 ---
 draft: false
 author: Alula
-title: Apa itu Pasar Persaingan Sempurna? Kenali Definisi, Ciri, dan Contoh
+title: "Pasar Persaingan Sempurna: Definisi, Ciri, dan Contohnya"
 metaTitle: Apa itu Pasar Persaingan Sempurna? Kenali Definisi, Ciri, dan Contoh
 metaDescription: Perusahaan di pasar persaingan sempurna adalah price taker
   karena  mereka hanya dapat menerima harga keseimbangan yang berlaku di pasar.
@@ -79,19 +79,12 @@ Di pasar persaingan sempurna, sangat minim terjadinya kesulitan saat sumber daya
 Pasar persaingan sempurna adalah struktur persaingan pasar yang dianggap paling ideal dalam menciptakan efisiensi produksi barang atau jasa. Adapun kelebihan dari pasar persaingan sempurna sebagai berikut :
 
 1. Pembeli dan penjual paham tentang informasi produk dan harga pasar, sehingga kecil kemungkinannya terjadi kerugian atau rasa kecewa.
-
 2. Pasar persaingan sempurna adalah pasar yang akan membuat konsumen merasa sejahtera, karena tidak ada hambatan dalam memasuki pasar.
-
 3. Pesaing di pasar persaingan sempurna adalah murni
-
 4. Produk yang dijual di pasar persaingan sempurna adalah homogen, jadi produsen tidak perlu mengeluarkan uang lebih untuk promosi iklan
-
 5. Sangat mudah untuk menentukan barang yang diperjualbelikan.
-
 6. Harga barang cenderung stabil.
-
 7. Barang yang diproduksi dapat diperoleh dengan ongkos yang rendah.
-
 8. Adanya persaingan murni, karena barang yang diperjualbelikan homogen
 
 ## Kelemahan Pasar Persaingan Sempurna
@@ -99,13 +92,9 @@ Pasar persaingan sempurna adalah struktur persaingan pasar yang dianggap paling 
 Pasar persaingan sempurna memiliki persaingan pasar yang cukup sulit. Adapun kelemahan dari pasar persaingan sempurna antara lain :
 
 1. Barang yang diperjualbelikan bersifat homogen menjadikan konsumen merasa tidak bebas atau terbatas dalam membeli produk lain. Karena hanya ada satu atau dua pasar yang mendekati pasar persaingan sempurna.
-
 2. Terdapat faktor eksternal yang tidak diperhitungkan dalam posisi kesejahteraan optimum konsumen.
-
 3. Tidak adanya barang substitusi, karena semuanya bersifat homogen.
-
 4. Adanya kesulitan untuk memasarkan produk yang tidak memiliki ‘nama’ di dalam daftar produk yang homogen.
-
 5. Pasar ini membatasi produsen untuk berinovasi yang tujuannya adalah mengembangkan produk. Karena mereka sudah merasa puas dan nyaman untuk menghasilkan barang yang bersifat homogen.
 
 ## Contoh Pasar Persaingan Sempurna
@@ -132,12 +121,4 @@ Dalam jenis ekonomi ini, semua perusahaan harus menawarkan harga serendah mungki
 
 Meskipun ini hanya model teoritis, persaingan sempurna berguna untuk menunjukkan bagaimana pelaku ekonomi berperilaku di pasar bebas.
 
-Untuk menjadi salah satu pelaku ekonomi, kamu dapat bergabung dengan LandX.
-
-[LandX](https://landx.id/) memiliki pengalaman menjadi penyelenggara crowdfunding dari berbagai jenis bisnis potensial di berbagai sektor industri.
-
-Platform ini juga sudah mendapat izin penyelenggara oleh OJK (Otoritas Jasa Keuangan).
-
-Jadi tunggu apa lagi?
-
-#### [Yuk bangun bisnismu bersama LandX!](https://app.landx.id/?utm_source=Organic+Page&utm_medium=Content+Blog&utm_campaign=BlogLandX&utm_id=Blog)
+## Y﻿uk Siapkan Investasi untuk Berbagai Kondisi Ekonomi
