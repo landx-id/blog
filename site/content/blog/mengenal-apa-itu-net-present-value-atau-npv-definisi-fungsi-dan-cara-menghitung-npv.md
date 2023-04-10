@@ -2,7 +2,7 @@
 draft: false
 author: Abdul Wahhab
 slug: mengenal-apa-itu-net-present-value-atau-npv-definisi-fungsi-dan-cara-menghitung-npv
-title: '"Mengukur Potensi Keuntungan Investasi dengan Menghitung NPV'
+title: Mengukur Potensi Keuntungan Investasi dengan Menghitung NPV
 metaTitle: "Apa Itu Net Present Value Adalah: Fungsi dan Cara Menghitungnya"
 metaDescription: Apa itu net present value adalah hal penting untuk kamu yang
   berinvestasi. NPV adalah cara cari tahu nilai keuntungan di masa mendatang.
