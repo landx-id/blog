@@ -103,6 +103,8 @@ Membership ini terbagi dalam beberapa level dengan biaya membership yang berbeda
 
 Jelas yang katanya skema trading forex adalah penipuan dan bukan trading forex yang sebenarnya.
 
+Dalam industri perdagangan valuta asing, atau forex, seringkali terdapat tindakan penipuan dan kegiatan ilegal lainnya yang dilakukan oleh oknum yang tidak bertanggung jawab. Meskipun demikian, forex pada dasarnya adalah pasar global yang sah untuk memperdagangkan mata uang negara-negara di seluruh dunia, yang menawarkan peluang besar bagi para investor yang cerdas dan hati-hati. Oleh karena itu, bagi investor yang ingin mencoba peruntungan dalam perdagangan forex, sangat penting untuk melakukan penelitian terlebih dahulu, memahami risiko yang terkait, dan memastikan bahwa mereka hanya berurusan dengan broker yang terpercaya dan diakui secara internasional.
+
 ## Robot Trading Forex
 
 **Foreign Exchange atau forex adalah** valuta asing yang sering dijadikan objek trading menggunakan robot karena harganya yang terbilang fluktuatif sehingga bisa dimanfaatkan oleh para trader.
@@ -121,9 +123,13 @@ Perlu dicatat jika trading forex adalah salah satu aktivitas yang punya resiko t
 
 Agar tak salah langkah, kamu harus membuat dulu tujuan dari trading forex. Berapa sebenarnya keuntungan yang ingin kamu  peroleh? Dengan begitu, kamu sudah tahu apa strategi yang akan kamu pilih dan berapa jangka waktu kamu untuk mencapainya.
 
-Untuk menghitung keuntungan, kamu bisa menggunakan *direct* maupun *indirect rate pair.* Misal untuk menghitung direct, kamu bisa menggunakan USD sebagai akhiran. Selanjutnya gunakan rumus **Profit/loss = (harga jual – harga beli) x Contract Size x Lot.**
+Untuk menghitung keuntungan, kamu bisa menggunakan *direct* maupun *indirect rate pair.* Misal untuk menghitung direct, kamu bisa menggunakan USD sebagai akhiran. Selanjutnya gunakan rumus:
 
-Selanjutnya, untuk menghitung indirect rate pair, USD digunakan sebagai awalan. Lalu gunakan rumus **Profit/loss = (harga jual – harga beli) / harga likuidasi X contract size X lot.**
+**Profit/loss = (harga jual – harga beli) x Contract Size x Lot.**
+
+Selanjutnya, untuk menghitung indirect rate pair, USD digunakan sebagai awalan. Lalu gunakan rumus: 
+
+**Profit/loss = (harga jual – harga beli) / harga likuidasi X contract size X lot.**
 
 ### 2. Buat Akun Demo
 
@@ -153,7 +159,7 @@ Yang perlu dicatat adalah, tinggi rendahnya leverage tidak berbanding lurus deng
 
 Beberapa trader forex proporsional menyarankan rasio proporsi 1 : 100 dan 1 : 200. Meskipun begitu, rasio ini juga kembali tergantung dari margin yang digunakan. Namun proporsi tersebut dapat memberikan kamu profit yang bisa dibilang ideal.
 
-## Kesimpulan
+## D﻿iversifikasi dalam Investasi
 
 Forex atau foreign exchange merupakan salah satu instrumen investasi dengan volatilitas cukup tinggi sehingga banyak digunakan oleh trader sebagai saran trading.
 
@@ -161,14 +167,8 @@ Forex bisa saja memberikan kamu keuntungan yang besar asalkan kamu memahami deng
 
 Akan tetapi, kamu harus selalu ingat bahwa setiap investasi memiliki risiko yang berbeda-beda sehingga kamu butuh diversifikasi sebagai mitigasi risiko yang harus kamu lakukan.
 
-Apabila kamu sedang mencari investasi yang aman dan menguntungkan  untuk jangak panjang, maka mungkin kamu harus mencoba investasi bisnis  dengan skema equity crowdfunding yang bisa memberikan kamu passive  income jangka panjang.
+Apabila kamu sedang mencari investasi yang aman dan menguntungkan  untuk jangak panjang, maka mungkin kamu harus mencoba investasi bisnis  dengan skema equity crowdfunding yang bisa memberikan kamu passive  income jangka panjang dari dividen yang akan besarannya akan sesuai dengan performa bisnis anda. 
 
-Bersama LandX, kamu bisa menemukan bisnis  terbaik yang kamu bisa terlibat patungan dan ikut menikmati passive  income dari bagi hasil keuntungan bisnis.
+**K﻿arena itu,** 
 
-<!--StartFragment-->
-
-## [Ingin Jadi Bos Bisnis Menjanjikan dengan Modal 1 Juta? Mulai Pelajari Peluang Investasi di LandX Sekarang!](https://landx.id/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)
-
-[![miliki bisnis modal kecil cuma dengan 1 jutaan dapat 4 cabang ](https://accountgram-production.sfo2.cdn.digitaloceanspaces.com/landx_ghost/2021/11/jadi-owner-bisnis-hanya-1-jutaan-dengan-cuan-yang-sangat-menjanjikan.png)](https://landx.id/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)
-
-<!--EndFragment-->
+## Y﻿uk Mulai Diversifikasi Portofolio Anda Sekarang
