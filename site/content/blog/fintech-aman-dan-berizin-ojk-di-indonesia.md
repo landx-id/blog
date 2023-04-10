@@ -2,7 +2,7 @@
 draft: false
 author: Abdul Wahhab
 slug: fintech-aman-dan-berizin-ojk-di-indonesia
-title: "Apa Itu Fintech: Definisi, Sejarah, dan Jenis Fintech di Indonesia"
+title: Memahami Sejarahn Perkembangan Fintech dan Jenis-jenisnya
 metaTitle: "Apa Itu Fintech: Definisi, Sejarah, dan Jenis Fintech di Indonesia"
 metaDescription: Fintech adalah singkatan dari financial technology dimana
   berbagai jasa keuangan memanfaat kemajuan teknologi untuk mempermudah proses
@@ -25,6 +25,7 @@ image: https://images.unsplash.com/photo-1556742031-c6961e8560b0?crop=entropy&cs
 category:
   - Keuangan
   - Cara Investasi di Securities Crowdfunding
+  - Investasi
 ---
 Jika kamu adalah orang yang suka melihat berita, mungkin kamu sudah tidak asing lagi dengan fintech. Akhir-akhir ini istilah fintech sering kali dikaitkan dengan pinjaman online yang belakangan sedang hangat diperbincangkan.
 
@@ -52,27 +53,17 @@ Mudah bukan? Itulah ajaibnya fintech. Meski begitu, justru kemudahan dan kecepat
 
 ## Sejarah dan Perkembangan Fintech di Indonesia
 
-Secara global, fintech mulai dikembangkan pada tahun 1960-an. Kala itu revolusi komputer mulai membuka peluang bagi berbagai sektor, termasuk sektor keuangan. Di tahun 1980an, bank-bank di dunia mulai memanfaatkan komputer untuk pencatatan data.
+Fintech, singkatan dari financial technology, merupakan industri yang menggabungkan teknologi dengan sektor keuangan. Industri ini telah mengalami perkembangan yang pesat di seluruh dunia, dimulai pada tahun 1960-an ketika revolusi komputer membuka peluang bagi berbagai sektor termasuk sektor keuangan. Pada tahun 1980-an, bank-bank mulai memanfaatkan komputer untuk pencatatan data.
 
-Kemajuan fintech yang terasa drastis terjadi pada tahun 1990an. Kala itu, internet mulai merubah segalanya dan sektor keuangan terkena dampaknya.
+Namun, perkembangan fintech yang drastis terjadi pada tahun 1990-an ketika internet mulai mengubah segalanya dan sektor keuangan tidak terkecuali. Jual beli saham dapat dilakukan secara online, beberapa bank mulai menyediakan online banking, dan e-commerce merubah pasar tradisional.
 
-Hal ini ditandai dengan jual beli saham yang sudah bisa dilakukan secara online, beberapa bank yang sudah menyediakan online banking, serta kehadiran e-commerce yang merevolusi pasar tradisional.
+Pada tahun 2005, fintech P2P lending pertama di Inggris, Zopa, diluncurkan. Sejak saat itu, fintech terus berkembang dan merubah sektor keuangan secara digital.
 
-Pada tahun 2005, muncul sebuah fintech p2p lending asal Inggris dengan nama Zopa. Setelah itu, perkembangan fintech menjadi tidak terbendung dan mulai merubah sektor keuangan secara digital.
+Di Indonesia, meskipun fintech mulai berkembang sejak tahun 2006, Asosiasi Fintech Indonesia (AFI) baru dibentuk pada tahun 2015. Namun, sejak itu, fintech di Indonesia mengalami pertumbuhan yang sangat pesat. Saat ini, ada sekitar 147 perusahaan fintech yang terdaftar secara resmi di Indonesia dan jumlah tersebut terus bertumbuh.
 
-Di Indonesia, perkembangan fintech bisa dibilang cukup telat. Meski sejak tahun 2006 sudah mulai berkembang, namun baru di tahun 2015 organisasi Asosiasi Fintech Indonesia (AFI) dibentuk.
+Fintech telah memungkinkan banyak orang untuk mengakses layanan keuangan yang sebelumnya sulit dijangkau, seperti layanan pinjaman dan investasi. Banyak perusahaan fintech rintisan atau startup yang memanfaatkan teknologi untuk mendukung berbagai proses finansial mulai dari pembayaran, pendanaan, hingga investasi.
 
-Setelah tahun 2015 itulah fintech di Indonesia mulai menunjukan tren positif. Sekedar catatan, sampai saat ini fintech terus bertumbuh sampai 80% di Indonesia. Ada sekitar 147 perusahaan fintech yang terdaftar secara resmi di Indonesia dan angka tersebut akan terus mengalami pertumbuhan.
-
-Fintech kini berkembang sangat pesat dengan semakin banyaknya perusahaan rintisan atau startup fintech yang memanfaatkan teknologi untuk mendukung berbagai proses finansial mulai dari pembayaran, pendanaan, hingga investasi.
-
-Dalam prosesnya fintech ini berjalan di bawah pengawasan OJK (Otoritas Jasa Keuangan) sehingga kamu harus kamu harus memperhatikan perizinan dari suatu fintech sebelum menggunakan sistem yang mereka tawarkan.
-
-Belakangan banyak sekali fintech ilegal yang tidak berizin OJK yang memakan banyak korban seperti pinjaman online ilegal dan investasi bodong yang tidak memiliki izin dari OJK.
-
-Karena itu, kita harus hati-hati dalam memilih fintech yang akan kita gunakan dalam kehidupan sehari-hari kita.
-
-Supaya kamu lebih paham lagi tentang fintech, yuk kita bahas jenis-jenis fintech yang akan sering kamu temui.
+Namun, perlu diingat bahwa fintech di Indonesia harus diawasi oleh OJK (Otoritas Jasa Keuangan), dan kamu harus memperhatikan perizinan dari suatu fintech sebelum menggunakan sistem yang mereka tawarkan. Banyak fintech ilegal yang tidak berizin yang dapat menimbulkan kerugian, seperti pinjaman online ilegal dan investasi bodong.
 
 ## Jenis-jenis Fintech
 
@@ -108,37 +99,12 @@ Jenis yang satu ini semakin berkembang terutama setelah e-commerce banyak digand
 
 Fintech ini memberikan kamu layanan untuk mengelola keuangan dengan benar. Jenis yang satu ini dapat membimbingmu untuk membuat perencanaan keuangan yang baik serta mewujudkan impian finansialmu di masa depan.
 
-Selain tentang perencanaan keuangan, fintech ini juga memberikan kamu akses kepada investasi maupun asuransi. Dengan hanya bermodalkan *smartphone* saja, kamu sudah mendapatkan paket lengkap dalam pengelolaan keuangan.
+Selain tentang perencanaan keuangan, fintech ini juga memberikan kamu akses kepada investasi maupun asuransi. Dengan hanya bermodalkan *smartphone* saja, kamu sudah mendapatkan paket lengkap dalam pengelolaan keuangan. 
 
 ### 5. Equity Crowdfunding
 
-Seperti namanya, crowdfunding adalah layanan fintech dalam penggalangan dana. Nantinya dana tersebut bisa didonasikan kepada sebuah organisasi sosial ataupun diinvestasikan kepada sebuah bisnis.
+Seperti namanya, crowdfunding adalah layanan fintech dalam penggalangan dana. Nantinya dana tersebut bisa didonasikan kepada sebuah organisasi sosial ataupun diinvestasikan kepada sebuah bisnis. Melalui sistem ini, investor akan mendapatkan kepemilikan berupa saham bisnis dan berhak mendapatkan dividen sesuai dengan performa dari bisnis yang diinvestasikan. 
 
-Fintech yang satu ini cukup mirip dengan P2P Lending. Bedanya, dalam *crowdfunding* investor diposisikan sebagai pemilik usaha.
+K﻿arena itu, instrumen ini bisa salah satu pilihan untuk diversifikasi portofolio jangka panjang anda. 
 
-LandX merupakan salah fintech crowdfunding yang sudah punya izin dan diawasi oleh OJK. Dengan modal mulai dari Rp 1 Juta, kamu sudah bisa berinvestasi sekaligus memiliki perusahaan UMKM yang sudah dikurasi dengan ketat.
-
-Nah itulah artikel lengkap tentang Fintech mulai dari definisinya sampai jenis-jenis yang beredar. Sudah paham kan? Buat kamu yang mau coba fintech crowdfunding, kamu bisa coba investasi di LandX ya.
-
-**Tunggu apalagi...**
-
-## [Yuk Patungan Bisnis dengan Keuntungan Jangka Panjang Bareng LandX](https://app.landx.id/?utm_source=Organic+Page&utm_medium=Content+Blog&utm_campaign=BlogLandX&utm_id=Blog)
-
-<!--StartFragment-->
-
-[![miliki bisnis modal kecil cuma dengan 1 jutaan dapat 4 cabang ](https://accountgram-production.sfo2.cdn.digitaloceanspaces.com/landx_ghost/2021/11/jadi-owner-bisnis-hanya-1-jutaan-dengan-cuan-yang-sangat-menjanjikan.png)](https://app.landx.id/?utm_source=Organic+Page&utm_medium=Content+Blog&utm_campaign=BlogLandX&utm_id=Blog)
-
-<!--EndFragment-->
-
-**[Mau Berbagai info Terbaru Terkait Investasi? Yuk Follow @landx.id di Instagram](https://www.instagram.com/landx.id/?utm_medium=copy_link)**
-
-- - -
-
-**Baca Juga:**
-
-* [Mengenal Berbagai Modus Investasi Bodong dan Cara Terhindar dari Penipuan dengan Kedok Investasi](https://landx.id/blog/berbagai-skema-investasi-bodong-yang-wajib-investor-pemula-waspadai/)
-* [Manajemen Keuangan: Memahami Pengertian, Fungsi, Tujuan, dan Kenapa Manajemen Keuangan Sangat Penting Bagi Milenial](https://landx.id/blog/manajemen-keuangan-memahami-pengertian-fungsi-tujuan-dan-kenapa-manajemen-keuangan-sangat-penting-bagi-milenial/)
-
-- - -
-
-**\#YukPatunganBisnis    #LandX.id    #landx         #landx.id     #InvestasiBisnis  #SecuritiesCrowdfunding   #EquityCrowdfunding     #InvestasiMenguntungkan     #Urundana    #BisnisPatungan     #InvestasiUsaha**
+**Y﻿uk Mulai Kembangkan Investasi Anda Sekarang**
