@@ -10,7 +10,7 @@ metaDescription: "Apa itu joint venture dan contoh joint venture di Indonesia?
 intro: Joint Venture adalah proses Mengoptimalkan Sumber Daya untuk Ekspansi
   Pasar dan Pengembangan Produk Baru. Yuk Simak Contoh Praktis Joint Venture di
   Indonesia yang Sukses Melalui Kolaborasi Strategis Antara Dua Belah Pihak!"
-date: 2021-10-17T07:45:00.000Z
+date: 2023-04-11T08:56:55.896Z
 tag:
   - tips investasi
   - bisnis patungan
