@@ -10,7 +10,7 @@ intro: Aktiva atau lebih dikenal dengan aset adalah komponen paling utama dalam
   tidak lancar dan aktiva lancar. Dalam laporan keuangan perusahaan, aktiva
   lancar dan tidak lancar ini dapat menunjukkan kekayaan dan kestabilan sebuah
   perusahaan.
-date: 2022-06-02T06:32:17.049Z
+date: 2023-04-11T08:59:16.819Z
 tag:
   - Rasio Keuangan
   - Investasi
