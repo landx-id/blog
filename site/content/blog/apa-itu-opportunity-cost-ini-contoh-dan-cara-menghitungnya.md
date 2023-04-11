@@ -14,6 +14,7 @@ tag:
   - Bisnis Menguntungkan
 category:
   - Keuangan
+  - Ekonomi
 featuredImage:
   src: https://images.unsplash.com/photo-1533073526757-2c8ca1df9f1c?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80
   alt: Apa Itu Opportunity Cost
@@ -114,6 +115,4 @@ Dilihat dari ketiga situasi ini apakah cukup terbayang biaya peluang yang dihada
 
 Itu dia penjelasan mengenai apa itu *opportunity cost*, fungsi, cara menghitung, dan contoh ilustrasinya Tidak hanya bagi investor atau pebisnis saja, memahami konsep ini tentu akan membantu siapa pun untuk menentukan pilihan terbaik dengan nilai ekonomi yang paling bermanfaat dalam menjalani kehidupan sehari-hari.
 
-## [Jadi Bos Bisnis Hanya Butuh Modal 1 Juta? Yuk, Temukan Peluang Bisnis Menjanjikan di LandX Sekarang!](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)
-
-[![miliki bisnis modal kecil cuma dengan 1 jutaan dapat 4 cabang ](https://accountgram-production.sfo2.cdn.digitaloceanspaces.com/landx_ghost/2021/11/jadi-owner-bisnis-hanya-1-jutaan-dengan-cuan-yang-sangat-menjanjikan.png)](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)
+## Y﻿uk Mulai Tingkatkan Level Investasimu Sekarang
