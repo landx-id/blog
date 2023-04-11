@@ -6,7 +6,7 @@ metaDescription: Apa itu Surat Utang Negara dan prospeknya untuk investasi? Baca
   artikel ini untuk lebih tahu info lengkapnya!
 intro: Yuk kenali Surat Utang Negara (SUN) dan Obligasi Ritel Indonesia (ORI)
   untuk potensi instrumen investasi jangka panjang anda
-date: 2022-08-15T08:10:26.465Z
+date: 2023-04-11T09:29:10.334Z
 tag:
   - Instrumen Investasi
   - Investasi untuk pemula
