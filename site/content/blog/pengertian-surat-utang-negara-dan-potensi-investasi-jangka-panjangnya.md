@@ -94,14 +94,10 @@ Saat ini, badan usaha seperti CV, NV, Firma, dan lainnya juga dapat listing pena
 
 Equity crowdfunding pada dasarnya hanya menerbitkan efek berupa saham yang ditawarkan kepada investor guna pendanaan pengembangan bisnis UMKM. Sementara dalam securities crowdfunding, instrumen keuangan yang ditawarkan lebih beragam. Mulai dari saham, obligasi, hingga sukuk sehingga investor bisa diversifikasi profil risiko mereka.
 
-**[LandX](https://landx.id/)** merupakan salah satu platform equity crowdfunding yang sedang berproses menjadi securities crowdfunding. Tentunya, platform ini telah berpengalaman melakukan crowdfunding bagi berbagai bisnis potensial di berbagai sektor industri.
+**LandX** merupakan salah satu platform equity crowdfunding yang sedang berproses menjadi securities crowdfunding. Tentunya, platform ini telah berpengalaman melakukan crowdfunding bagi berbagai bisnis potensial di berbagai sektor industri.
 
-Jadi, jika kamu ingin tahu lebih banyak lagi tentang investasi dengan skema ini, pastikan untuk berinvestasi melalui platform yang terpercaya, aman, dan pastinya mengantongi izin OJK seperti **[LandX](https://landx.id/).**
+O﻿leh sebab itu...
 
-## [Temukan Opsi Investasi Menjanjikan Hanya dengan Modal 1 Juta di LandX](https://landx.id/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)
-
-<!--StartFragment-->
-
-[![miliki bisnis modal kecil cuma dengan 1 jutaan dapat 4 cabang ](https://accountgram-production.sfo2.cdn.digitaloceanspaces.com/landx_ghost/2021/11/jadi-owner-bisnis-hanya-1-jutaan-dengan-cuan-yang-sangat-menjanjikan.png)](https://landx.id/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)
+## Y﻿uk Tingkatkan Level Investasi Anda Sekarang. 
 
 <!--EndFragment-->
