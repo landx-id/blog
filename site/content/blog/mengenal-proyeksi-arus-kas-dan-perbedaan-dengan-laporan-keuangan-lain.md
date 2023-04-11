@@ -9,6 +9,13 @@ intro: Salah satu hal terpenting dalam menjalankan bisnis adalah membuat laporan
   arus kas, hal ini merupakan kunci penting dari kesuksesan suatu bisnis karena
   dapat membantu membuat laporan proyeksi arus kas.
 date: 2022-11-14T02:11:54.756Z
+tag:
+  - Investasi
+  - Keuangan
+category:
+  - Investasi
+  - Bisnis
+  - Keuangan
 featuredImage:
   title: proyeksi arus kas
   alt: proyeksi arus kas
@@ -116,6 +123,6 @@ Proyeksi arus kas dapat menunjukkan persentase bahwa penjualan mengalami penurun
 
 Investor dapat melakukan analisis fundamental dengan membaca laporan arus kas untuk membantu keputusan berinvestasi. Saat ini sangat mudah untuk melakukan investasi, bahkan kamu dapat berinvestasi hanya dari handphone dengan investasi crowdfunding.
 
-Crowdfunding merupakan investasi dengan model penggalangan dana yang dilakukan sejumlah orang atau parungan berbasis digital dengan berbagai tujuan. Salah satu platform equity crowdfunding yang telah mengantongi izin OJK (Otoritas Jasa Keuangan) adalah [LandX](https://landx.id/).
+Crowdfunding merupakan investasi dengan model penggalangan dana yang dilakukan sejumlah orang atau patungan berbasis digital untuk bisnis potensial dari berbagai industri. Oleh sebab itu sistem ini bisa jadi pilihan untuk diversifikasi investasi jangka panjang anda. 
 
-##### [Ayo Mulai Investasi Bisnis di LandX Sekarang Juga!](https://app.landx.id/?utm_source=Organic+Page&utm_medium=Content+Blog&utm_campaign=BlogLandX&utm_id=Blog)
+## Y﻿uk Mulai Tingkatkan Level Investasi Anda
