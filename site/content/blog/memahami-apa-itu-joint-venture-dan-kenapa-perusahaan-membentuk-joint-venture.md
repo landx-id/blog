@@ -7,13 +7,9 @@ metaTitle: Memahami Apa Itu Joint Venture dan Kenapa Perusahaan Joint Venture
 metaDescription: "Apa itu joint venture dan contoh joint venture di Indonesia?
   Joint venture adalah gabungan 2 perusahaan untuk melakukan kegiatan bisnis
   bersama. "
-intro: >-
-  Joint venture adalah strategi yang dilakukan untuk berbagai tujuan seperti
-  ekspansi pasar baru atau pengembangan produk baru yang dilakukan dengan
-  kolaborasi sumber daya yang dimiliki oleh kedua belah pihak.
-
-
-  Pahami lebih lanjut apa itu joint venture dan contoh joint venture di Indonesia dengan simak penjelasan di bawah ini.
+intro: Joint Venture adalah proses Mengoptimalkan Sumber Daya untuk Ekspansi
+  Pasar dan Pengembangan Produk Baru. Yuk Simak Contoh Praktis Joint Venture di
+  Indonesia yang Sukses Melalui Kolaborasi Strategis Antara Dua Belah Pihak!"
 date: 2021-10-17T07:45:00.000Z
 tag:
   - tips investasi
@@ -144,33 +140,10 @@ Karena itu, perjanjian ini akan berbeda-beda menyesuaikan tujuan yang ingin dica
 
 Umumnya perjanjian berisikan hal-hal penting seperti siapa saja yang terlibat dan bagaimana peran dari pihak-pihak tersebut, pembagian kepemilikan dan keuntungan dari hasil kolaborasi, penggunaan sumber daya, dan status hukum dari perusahaan patungan yang dibentuk.
 
-## Kesimpulan
+## P﻿atungan Bisnis Lewat Equity Crowdfunding
 
-Joint venture merupakan bentuk kolaborasi dari dua atau lebih entitas bisnis/ perusahaan untuk menghasilkan suatu perusahaan baru. Sistem ini memberikan banyak keuntungan karena perusahaan dapat mengkombinasikan keahlian yang mereka miliki satu sama lain sehingga menghasilkan suatu produk baru yang sedang dibutuhkan pasar.
+B﻿erbicara terkait patungan, kini anda bisa ikut patungan membangun suatu bisnis dengan skema equity crowdfunding dimana sebagai investor anda akan menjadi pemilik saham bisnis dan berhak mendapatkan dividen sesuai dengan performa dari bisnis anda. 
 
-Berbicara tentang patungan, LandX merupakan **[platform equity crowdfunding](https://landx.id/)** yang memberikan kamu kesempatan untuk ikut patungan membangun bisnis dengan potensi keuntungan yang sangat menjanjikan untuk jangka panjang anda.
+O﻿leh sebab itu, instrumen ini bisa jadi pilihan diversifikasi portofolio investasi jangka panjang anda. 
 
-**[Bersama LandX](https://landx.id/)**, kamu akan menemukan bisnis-bisnis terbaik yang sudah diseleksi ketat oleh pihak LandX sebelumnya sehingga investasi bisnis kamu menjadi jauh lebih mudah.
-
-Karena itu,,,,
-
-### **[Yuk Temukan Bisnis Terbaik untuk Investasi Jangka Panjang Kamu di LandX](https://app.landx.id/?utm_source=Organic+Page&utm_medium=Content+Blog&utm_campaign=BlogLandX&utm_id=Blog)**
-
-<!--StartFragment-->
-
-[![miliki bisnis modal kecil cuma dengan 1 jutaan dapat 4 cabang ](https://accountgram-production.sfo2.cdn.digitaloceanspaces.com/landx_ghost/2021/11/jadi-owner-bisnis-hanya-1-jutaan-dengan-cuan-yang-sangat-menjanjikan.png)](https://app.landx.id/?utm_source=Organic+Page&utm_medium=Content+Blog&utm_campaign=BlogLandX&utm_id=Blog)
-
-<!--EndFragment-->
-
-**[Mau Berbagai Informasi Menarik Seputar Keuangan Lainnya? Yuk Follow Instagram Kami @landx.id](https://www.instagram.com/landx.id/?utm_medium=copy_link)**
-
-- - -
-
-**Baca Juga:**
-
-* [Untuk Para Investor Pemula, Pahami Apa Itu Agio Saham dan Berbagai Jenisnya](https://landx.id/blog/kenali-apa-itu-agio-saham-dalam-investasi/)
-* [Volatilitas: Definisi, Jenis, dan Penyebab Terjadinya Volatilitas](https://landx.id/blog/volatilitas-definisi-jenis-cara-dan-penyebab-terjadinya-volatilitas/)
-
-- - -
-
-**\#YukPatunganBisnis #LandX.id    #landx.id    #InvestasiBisnis    #EquityCrowdfunding    #InvestasiMenguntungkan    #Urundana    #BisnisPatungan    #InvestasiUsaha**
+## Y﻿uk Mulai Kembangkan Investasi Anda Sekarang
