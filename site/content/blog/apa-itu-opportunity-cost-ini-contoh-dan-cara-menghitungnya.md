@@ -8,7 +8,7 @@ metaDescription: Opportunity cost atau biaya peluang adalah biaya yang ada
 intro: Opportunity cost adalah konsep yang dapat membantu Anda untuk menemukan
   opsi yang berpeluang memberi keuntungan terbaik dengan cara menentukan
   pilihan.
-date: 2022-11-02T07:25:36.977Z
+date: 2023-04-11T09:02:54.518Z
 tag:
   - Rasio Keuangan
   - Bisnis Menguntungkan
