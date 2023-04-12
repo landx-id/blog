@@ -8,7 +8,7 @@ intro: "Liabilitas adalah salah satu komponen paling penting yang harus dimiliki
   oleh sebuah perusahaan dalam neraca akuntansi. Liabilitas juga berfungsi
   sebagai strategi sebuah perusahaan untuk mengembangkan bisnisnya dengan
   konsisten. "
-date: 2022-06-16T09:55:53.401Z
+date: 2023-02-08T09:55:53.401Z
 tag:
   - Rasio Keuangan
   - Rasio Solvabilitas
@@ -111,10 +111,4 @@ Jika sebuah perusahaan memiliki perusahaan afiliasi maka utang pemegang saham ad
 
 Itu dia penjelasan lengkap tentang liabilitas. Jika dibarengi dengan pengelolaan aset yang baik, adanya liabilitas justru bisa mengoptimalkan keuntungan perusahaan. Tentunya, keuntungan ini juga bisa dirasakan manfaatnya oleh para investor perusahaan tersebut.
 
-## [Cari Opsi Investasi Menjanjikan Hanya dengan Modal 1 Juta? Yuk, ](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)[Investasi](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)[ di LandX Sekarang!](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)
-
-<!--StartFragment-->
-
-[![miliki bisnis modal kecil cuma dengan 1 jutaan dapat 4 cabang ](https://accountgram-production.sfo2.cdn.digitaloceanspaces.com/landx_ghost/2021/11/jadi-owner-bisnis-hanya-1-jutaan-dengan-cuan-yang-sangat-menjanjikan.png)](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)
-
-<!--EndFragment-->
+## Y﻿uk Mulai Diversifikasi dan Tingkatkan Investasi Anda Sekarang....
