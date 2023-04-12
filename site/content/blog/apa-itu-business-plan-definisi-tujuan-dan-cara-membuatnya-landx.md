@@ -108,10 +108,8 @@ Budget atau anggaran business plan berisi biaya-biaya terkait rekrutmen karyawan
 
 Untuk membangun dan mengembangkan sebuah bisnis tentu bukan hal yang gampang. Perlu ide yang menarik perhatian konsumen dan strategi untuk bertahan secara kompetitif di industri yang dipilih.
 
-Namun, terdapat opsi lain untuk bisa jadi bagian pemilik bisnis menguntungkan yang telah berjalan dengan menjadi investor bisnis. Berinvestasi pada bisnis pilihan sekarang bisa di [LandX](https://landx.id/).
+Namun, terdapat opsi lain untuk bisa jadi bagian pemilik bisnis menguntungkan yang telah berjalan dengan menjadi investor bisnis dan mendapatkan **dividen sesuai kinerja bisnis sebagai return.** 
 
-Memiliki bisnis menguntungkan dengan modal minim dan mendapat kesempatan terima keuntungan dari bagi hasil keuntungan perusahaan. Ingin menjadi investor bisnis dan mendapat keuntungan?
+K﻿arena itu, sistem ini sangat cocok untuk pilihan instrumen investasi jangka panjang anda. 
 
-## [Yuk, download aplikasi LandX dan jadi pemilik bisnis sekarang!](https://landx.id/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)
-
-[![miliki bisnis modal kecil cuma dengan 1 jutaan dapat 4 cabang ](https://accountgram-production.sfo2.cdn.digitaloceanspaces.com/landx_ghost/2021/11/jadi-owner-bisnis-hanya-1-jutaan-dengan-cuan-yang-sangat-menjanjikan.png)](https://landx.id/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)
+## Y﻿uk Mulai Tingkatkan Investasi Anda Sekarang...
