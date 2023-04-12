@@ -9,7 +9,7 @@ intro: >
   Jika kamu ingin menjadi investor atau trader, maka kamu harus mengerti apa itu
   teknikal analisis sebagai salah satu cara untuk melihat pergerakan harga
   saham.
-date: 2022-07-26T07:51:17.188Z
+date: 2023-04-12T06:14:31.510Z
 tag:
   - Cara Investasi Saham
   - Valuasi Saham
@@ -171,6 +171,4 @@ Melalui equity crowdfunding, anda dapat melakukan patungan bersama masyarakat lu
 
 K﻿arena itu, instrumen ini bisa jadi pilihan investasi jangka panjang untuk menghiasi portofolio anda. 
 
-## Y﻿uk Tingkatkan Portofolio Investasi Anda Sekarang.......
-
-[](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)
+## Y﻿uk Tingkatkan Portofolio Investasi Anda Sekarang.......[](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)
