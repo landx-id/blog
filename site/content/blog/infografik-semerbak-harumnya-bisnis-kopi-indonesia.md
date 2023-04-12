@@ -2,12 +2,15 @@
 draft: false
 author: Vlora Riyandi
 title: "[INFOGRAFIK] Semerbak Harumnya Bisnis Kopi Indonesia"
-metaTitle: "[INFOGRAFIK] Semerbak Harumnya Bisnis Kopi Indonesia"
+metaTitle: Pertumbuhan dan Potensi Bisnis Kopi di Indonesia
 metaDescription: Industri kopi Indonesia semakin meningkat, terlihat data
   konsumsi kopi yang menanjak, lifestyle ngopi, hingga kemudahan memiliki bisnis
   coffee shop.
 intro: Yuk Tangkap Peluang Bisnis Coffee Shop Kekinian!
 date: 2022-09-22T15:31:38.132Z
+tag:
+  - Investasi
+  - Bisnis Kopi
 category:
   - News
   - Ekonomi
@@ -70,13 +73,13 @@ Kamu tahu gak kalo ternyata sekarang bisa punya bisnis dengan modal sejutaan aja
 
 Caranya gimana? Yuk download platform [equity crowdfunding](https://landx.id/) [LandX](https://landx.id/), verifikasi data, dan nantikan kehadiran bisnis coffee shop hits kekinian segera di [LandX](https://landx.id/).
 
-## [Y﻿uk Jadi Pemilik Bisnis Coffee Shop Sekarang!](https://app.landx.id/?utm_source=Content+Listing&utm_medium=Content+Blog&utm_campaign=BlogLandX&utm_id=Blog)
+## Y﻿uk Jadi Pemilik Bisnis Coffee Shop Sekarang!
 
 - - -
 
-[LandX](https://landx.id/) merupakan sebuah platform [equity crowdfunding](https://app.landx.id/?utm_source=Content+Listing&utm_medium=Content+Blog&utm_campaign=BlogLandX&utm_id=Blog), yakni tempat bertemunya para investor dengan para pebisnis yang tengah mengembangkan bisnisnya.
+LandX merupakan sebuah platform [equity crowdfunding](https://app.landx.id/?utm_source=Content+Listing&utm_medium=Content+Blog&utm_campaign=BlogLandX&utm_id=Blog), yakni tempat bertemunya para investor dengan para pebisnis yang tengah mengembangkan bisnisnya.
 
-Dengan sistem patungan bisnis [equity crowdfunding](https://app.landx.id/?utm_source=Content+Listing&utm_medium=Content+Blog&utm_campaign=BlogLandX&utm_id=Blog), Anda bisa ikut menjadi investor atau owner dari project bisnis di [LandX](https://landx.id/) dengan modal yang lebih ringan, mulai dari 1 juta rupiah.
+Dengan sistem patungan bisnis [equity crowdfunding](https://app.landx.id/?utm_source=Content+Listing&utm_medium=Content+Blog&utm_campaign=BlogLandX&utm_id=Blog), Anda bisa ikut menjadi investor atau owner dari project bisnis di LandX dengan modal yang lebih ringan, mulai dari 1 juta rupiah.
 
 <!--StartFragment-->
 
