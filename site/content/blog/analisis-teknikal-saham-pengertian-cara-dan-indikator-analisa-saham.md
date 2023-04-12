@@ -16,6 +16,7 @@ tag:
   - Investasi untuk Pemula
 category:
   - Investasi
+  - Bisnis
 featuredImage:
   src: https://images.unsplash.com/photo-1626342766970-73cab95398a4?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2831&q=80
   title: Memahami Analisis Teknikal Saham dan Indikator Analisa Saham untuk investasi
