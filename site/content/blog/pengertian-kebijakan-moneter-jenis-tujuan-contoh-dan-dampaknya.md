@@ -124,16 +124,10 @@ Singkatnya, dengan Anda mengalokasikan dana untuk berinvestasi, dana tersebut ak
 
 Tidak seperti dulu, sekarang instrumen investasi dapat diakses oleh siapa pun dan dimana pun. Dulu investasi identik dengan membutuhkan nominal alokasi dana besar untuk logam mulia, obligasi, properti, saham, atau deposito. Pada era sekarang, terdapat opsi untuk investasi menjanjikan dengan modal minim misalnya reksa dana atau [equity crowdfunding](https://landx.id/). 
 
-Melalui skema ini, badan usaha UMKM seperti CV, NV, Firma, dan lainnya juga dapat listing penawaran saham melalui skema securities crowdfunding (SCF) yang merupakan pengembangan skema Equity Crowdfunding (ECF).
+Melalui skema ini, bisnis dapat listing penawaran saham melalui skema crowdfunding (SCF) yang merupakan pengembangan skema Equity Crowdfunding (ECF).
 
-Jadi, jika kamu ingin tahu lebih banyak lagi tentang investasi dengan skema ini, pastikan untuk berinvestasi melalui platform yang terpercaya, aman, dan pastinya mengantongi izin OJK seperti [LandX](https://landx.id/) ya!
+Jadi, jika kamu ingin tahu lebih banyak lagi tentang investasi dengan skema ini, pastikan untuk berinvestasi melalui platform yang terpercaya, aman, dan pastinya mengantongi izin OJK supaya investasi anda aman dan dapat memberikan keuntungan jangka panjang. 
 
-Itu dia penjelasan mengenai pengertian kebijakan moneter lengkap dengan jenis dan contoh yang pernah diterapkan di Indonesia. Pada dasarnya, tolak ukur berhasilnya sebuah kebijakan moneter adalah apakah keputusan tersebut dapat memberi dampak positif bagi perekonomian dan masyarakat atau tidak. Mulai dari meningkatkan pertumbuhan ekonomi, kesejahteraan masyarakat, inklusivitas finansial, atau pun meningkatkan kesempatan kerja.
+K﻿arena itu, 
 
-## [Ingin Investasi Agar Turut Membantu Laju Inflasi? Yuk, Temukan Peluang Bisnis Menjanjikan di LandX Sekarang!](https://app.landx.id/?utm_source=Organic+Page&utm_medium=Content+Blog&utm_campaign=BlogLandX&utm_id=Blog)
-
-<!--StartFragment-->
-
-[![miliki bisnis modal kecil cuma dengan 1 jutaan dapat 4 cabang ](https://accountgram-production.sfo2.cdn.digitaloceanspaces.com/landx_ghost/2021/11/jadi-owner-bisnis-hanya-1-jutaan-dengan-cuan-yang-sangat-menjanjikan.png)](https://app.landx.id/?utm_source=Organic+Page&utm_medium=Content+Blog&utm_campaign=BlogLandX&utm_id=Blog)
-
-<!--EndFragment-->
+## Y﻿uk Mulai Investasi untuk Lawan laju Inflasi...
