@@ -119,12 +119,4 @@ Jika terdapat perubahan yang disebabkan oleh faktor kebijakan pemerintah, peruba
 
 Itu dia penjelasan mengenai kegiatan ekonomi masyarakat di Indonesia dan berbagai faktor yang bisa mempengaruhi kestabilan dan kelancaran prosesnya. Dengan memahami penjelasan di atas, Anda memiliki konsep dasar yang bisa membantu Anda memahami konsep ekonomi lainnya seperti konsep harga pasar modal, harga barang, dan banyak lainnya.
 
-### [Ingin Jadi Pemilik Bisnis Menjanjikan Hanya Dengan 1 Juta? Mulai Investasi di LandX Sekarang!](https://app.landx.id/?utm_source=Organic+Page&utm_medium=Content+Blog&utm_campaign=BlogLandX&utm_id=Blog)
-
-<!--StartFragment-->
-
-[![miliki bisnis modal kecil cuma dengan 1 jutaan dapat 4 cabang ](https://accountgram-production.sfo2.cdn.digitaloceanspaces.com/landx_ghost/2021/11/jadi-owner-bisnis-hanya-1-jutaan-dengan-cuan-yang-sangat-menjanjikan.png)](https://app.landx.id/?utm_source=Organic+Page&utm_medium=Content+Blog&utm_campaign=BlogLandX&utm_id=Blog)
-
-<!--EndFragment-->
-
-<!--EndFragment-->
+### Ingin Investasi ke Berbagai Bisnis Potensial? Yuk Mulai Investasi Sekarang.....
