@@ -102,14 +102,8 @@ Untuk pihak yang dijamin bank garansi juga perlu memperhatikan biaya-biaya yang 
 
 Tetapi, kamu bisa lho memiliki bisnis berpotensi tanpa perlu mengajukan bank garansi untuk operasionalnya, memikirkan ekspansi bisnis dan lain-lain. Kamu bisa melakukan pendanaan UMKM yang memiliki potensi di Indonesia, selain itu juga kamu ikut serta berperan dalam meningkatkan perekonomian negara dengan pendanaan tadi.
 
-Pendanaan tersebut yang kamu lakukan merupakan investasi dengan sistem [equity crowdfunding](https://landx.id/). E[quity crowdfunding](https://landx.id/)sendiri merupakan metode investasi yang melakukan pendanaan bersama masyarakat luas untuk bisnis yang kamu pilih dan sesuai dengan profil risiko kamu.
+Pendanaan tersebut yang kamu lakukan merupakan investasi dengan sistem equity crowdfunding. Equity crowdfunding sendiri merupakan metode investasi yang melakukan pendanaan bersama masyarakat luas untuk bisnis yang kamu pilih dan sesuai dengan profil risiko kamu.
 
-Tentunya melalui aplikasi [equity crowdfunding](https://landx.id/) seperti [LandX](https://landx.id/) yang sudah berpengalaman mendanai bisnis potensial di berbagai sektor industri dan sudah mendapatkan izin dari Otoritas Jasa Keuangan. Sehingga investasi kamu tetap aman dan menguntungkan.
+Tentunya melalui aplikasi [equity crowdfunding](https://landx.id/) yang sudah berpengalaman mendanai bisnis potensial di berbagai sektor industri dan sudah mendapatkan izin dari Otoritas Jasa Keuangan. Sehingga investasi kamu tetap aman dan menguntungkan.
 
-#### [Yuk Download Aplikasi LandX dan Mulai Melakukan Pendanaan Bisnis Potensial Sekarang! ](https://app.landx.id/?utm_source=Organic+Page&utm_medium=Content+Blog&utm_campaign=BlogLandX&utm_id=Blog)
-
-<!--StartFragment-->
-
-[![miliki bisnis modal kecil cuma dengan 1 jutaan dapat 4 cabang ](https://accountgram-production.sfo2.cdn.digitaloceanspaces.com/landx_ghost/2021/11/jadi-owner-bisnis-hanya-1-jutaan-dengan-cuan-yang-sangat-menjanjikan.png)](https://app.landx.id/?utm_source=Organic+Page&utm_medium=Content+Blog&utm_campaign=BlogLandX&utm_id=Blog)
-
-<!--EndFragment-->
+#### Y﻿uk Mulai Investasi ke Berbagai Bisnis Potensial Sekarang....
