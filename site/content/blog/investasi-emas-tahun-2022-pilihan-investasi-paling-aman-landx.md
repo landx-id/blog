@@ -100,16 +100,10 @@ Harga emas bisa naik turun sepanjang tahun, karena itu dapat terjadi beberapa mo
 
 ## Investasi Jangka Panjang dengan Crowdfunding
 
-Selain emas, jika Anda menyusun rencana investasi jangka panjang, investasi pada [crowdfunding](https://landx.id/) dapat menjadi pilihan diversifikasi. [Crowdfunding](https://landx.id/) adalah kegiatan pendanaan bisnis secara gotong-royong dari sejumlah besar masyarakat. 
+Selain emas, jika Anda menyusun rencana investasi jangka panjang, investasi pada crowdfunding dapat menjadi pilihan diversifikasi. Crowdfunding adalah kegiatan pendanaan bisnis secara gotong-royong dari sejumlah besar masyarakat. 
 
-Keuntungan berinvestasi [crowdfunding](https://landx.id/) adalah persentase imbal hasil dari laba perusahaan sesuai kepemilikan modal. Dengan investasi [crowdfunding](https://landx.id/), Anda dapat menjadi jajaran pemilik bisnis potensial serta menerima pembagian keuntungan rutin.
+Keuntungan berinvestasi [crowdfunding](https://landx.id/) adalah persentase imbal hasil dari laba perusahaan sesuai kepemilikan modal. Dengan investasi crowdfunding, Anda dapat menjadi jajaran pemilik bisnis potensial serta mendapatkan keuntungan berupa dividen sesuai dari performa bisnis. 
 
-[Investasi crowdfunding](https://landx.id/) dapat dilakukan di[ platform crowdfunding dengan market cap terbesar di Indonesia](https://landx.id/) yaitu [LandX](https://landx.id/). Investasi modal kecil sekarang bisa jadikan Anda bos bisnis. 
+K﻿arena itu, 
 
-## [Yuk, jadi bos bisnis dan terima keuntungan rutin di LandX](https://app.landx.id/?utm_source=Organic+Page&utm_medium=Content+Blog&utm_campaign=BlogLandX&utm_id=Blog)
-
-<!--StartFragment-->
-
-[![miliki bisnis modal kecil cuma dengan 1 jutaan dapat 4 cabang ](https://accountgram-production.sfo2.cdn.digitaloceanspaces.com/landx_ghost/2021/11/jadi-owner-bisnis-hanya-1-jutaan-dengan-cuan-yang-sangat-menjanjikan.png)](https://app.landx.id/?utm_source=Organic+Page&utm_medium=Content+Blog&utm_campaign=BlogLandX&utm_id=Blog)
-
-<!--EndFragment-->
+## Yuk Mulai Diversifikasi dan Kembangkan Investasi Anda Sekarang[](https://app.landx.id/?utm_source=Organic+Page&utm_medium=Content+Blog&utm_campaign=BlogLandX&utm_id=Blog)
