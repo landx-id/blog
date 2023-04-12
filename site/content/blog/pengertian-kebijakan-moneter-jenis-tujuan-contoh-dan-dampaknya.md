@@ -10,7 +10,7 @@ intro: Pengertian kebijakan moneter adalah keputusan yang diambil oleh
   untuk mengontrol laju inflasi, meningkatkan lapangan pekerjaan di masyarakat,
   dan mendukung kegiatan produksi perusahaan melalui kondisi perekonomian dan
   peredaran uang yang stabil.
-date: 2022-11-03T14:21:19.424Z
+date: 2023-04-12T06:47:00.020Z
 tag:
   - Inflasi
   - Tips Investasi
