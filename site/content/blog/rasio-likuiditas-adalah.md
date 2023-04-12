@@ -115,19 +115,6 @@ Kini kamu semakin paham bukan bagaimana memilih perusahaan atau bisnis terbaik u
 
 Kini tentu kamu semakin paham kriteria bisnis dan investasi seperti apa yang cocok dan menguntungkan dalam jangka panjang.
 
-Salah satu instrumen investasi yang wajib kamu coba adalah investasi bisnis melalui jenis[ ***equity crowdfunding***](https://landx.id/). Sistem ini membuat kamu bisa melakukan investasi bisnis yang menguntungkan dalam jangka panjang dengan modal kecil. Karena itu…
+Salah satu instrumen investasi yang wajib kamu coba adalah investasi bisnis melalui jenis ***equity crowdfunding***. Sistem ini membuat kamu bisa melakukan investasi bisnis yang bisa memberikan anda keuntungan jangka panjang.
 
-## **[Yuk Investasi Bisnis di Equity Crowdfunding dengan Berbagai Pilihan Bisnis Potensial](https://landx.id/)**
-
-[![Yuk mulai patungan bisnis menguntungkan jangka panjang bersama LandX](https://accountgram-production.sfo2.cdn.digitaloceanspaces.com/landx_ghost/2021/09/Equity-Crowdfunding-di-Indonesia-1--3.png)](https://landx.id/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)
-
-- - -
-
-**[Mau Tau Lebih Banyak Seputar Instrumen Investasi? Yuk Follow Instagram Kami @landx.id](https://www.instagram.com/landx.id/)**
-
-- - -
-
-**Baca Juga:**
-
-* [Rasio-Rasio Keuangan yang Penting Dipahami Investor Pemula dalam Memulai Investasi](https://landx.id/blog/rasio-rasio-keuangan-yang-penting-dalam-investasi/)
-* [Yuk Pahami Cara Menggunakan Price to Sales Ratio (P/S) untuk Menilai Suatu Saham](https://landx.id/blog/price-to-sales-ratio-adalah/)
+## Y﻿uk Mulai Investasi Anda Sekarang...
