@@ -1,4 +1,5 @@
 ---
+draft: true
 author: Vlora Riyandi
 title: "Vodka & Latte: Destinasi One-Stop Dog Pet Shop Terbaik di Jakarta"
 metaTitle: "Vodka & Latte: Destinasi One-Stop Dog Pet Shop Terbaik di Jakarta"
