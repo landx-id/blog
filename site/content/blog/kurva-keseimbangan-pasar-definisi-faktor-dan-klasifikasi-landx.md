@@ -13,6 +13,7 @@ tag:
 category:
   - Keuangan
   - Investasi
+  - Ekonomi
 featuredImage:
   title: "Kurva Keseimbangan Pasar (Ekuilibrium Pasar): Definisi, Faktor, dan
     Klasifikasi"
@@ -104,34 +105,22 @@ Premi produsen adalah keuntungan bagi penjual karena menjual barang dengan harga
 
 **Klasifikasi konsumen berdasarkan daya beli:**
 
-1. **Pembeli Potensial**
+* **Pembeli Potensial**
 
 Pembeli absolut adalah pembeli yang ingin membeli serta memiliki daya beli, namun belum melakukan pembelian.
 
-2. **Pembeli Efektif**
+* **Pembeli Efektif**
 
 Pembeli efektif adalah pembeli yang ingin membeli serta memiliki daya beli dan melakukan pembelian.
 
-3. **Pembeli Absolut**
+* **Pembeli Absolut**
 
 Pembeli absolut adalah pembeli yang ingin membeli namun tidak disertai daya beli.
 
 Tentunya lebih nyaman menjadi seorang pembeli potensial dan efektif karena memiliki daya beli. Daya beli dimiliki setiap orang karena diikuti tingkat pendapatan yang dimiliki serta keinginan untuk membeli.
 
-Agar pendapatan kita tidak selalu habis untuk dikonsumsi, jaga dan tingkatkan pendapatan dengan menabung serta [investasi](https://landx.id/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog). [Investasi](https://landx.id/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog) berguna menjaga dan dapat menambah jumlah uang yang dimiliki dengan strategi yang baik.
+Agar pendapatan kita tidak selalu habis untuk dikonsumsi, jaga dan tingkatkan pendapatan dengan menabung serta investasi. Investasi berguna menjaga dan dapat menambah jumlah uang yang dimiliki dengan strategi yang baik.
 
-[Berinvestasi](https://landx.id/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog) pada berbagai [instrumen investasi](https://landx.id/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog) demi memaksimalkan keuntungan dari berbagai sisi. Serta sebagai bentuk [diversifikasi portofolio investasi](https://landx.id/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog). 
+K﻿arena itu, kita perlu terus mengembangkan investasi dan melakukan diversifikasi untuk mengoptimalkan investasi jangka panjang anda. 
 
-<!--StartFragment-->
-
-## [Yuk, Jalankan Strategi Diversifikasi dengan Investasi Mulai Hari Ini!](https://app.landx.id/?utm_source=Organic+Page&utm_medium=Content+Blog&utm_campaign=BlogLandX&utm_id=Blog)
-
-<!--StartFragment-->
-
-[![miliki bisnis modal kecil cuma dengan 1 jutaan dapat 4 cabang ](https://accountgram-production.sfo2.cdn.digitaloceanspaces.com/landx_ghost/2021/11/jadi-owner-bisnis-hanya-1-jutaan-dengan-cuan-yang-sangat-menjanjikan.png)](https://app.landx.id/?utm_source=Organic+Page&utm_medium=Content+Blog&utm_campaign=BlogLandX&utm_id=Blog)
-
-
-
-> Yuk Download Aplikasi LandX Sekarang!!!
-> {{< button link="https://play.google.com/store/apps/details?id=store.numoney.landxapp&hl=in&gl=US" text="Android" >}}
-> {{< button link="https://apps.apple.com/id/app/landx/id1453823676" text="IOS" >}}
+## Y﻿uk Mulai Tingkatkan Level Investasi Anda Sekarang
