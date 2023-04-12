@@ -165,16 +165,12 @@ Selain itu juga, adanya teknik analisis saham dapat memudahkan untuk para calon 
 
 Dalam kegiatan investasi, biasanya beberapa dari kita melakukan investasi untuk bertujuan untuk mencapai tujuan finansial. Oleh karena itu kamu perlu mengetahui berbagai instrumen investasi yang cocok dengan kamu sebagai pemula. 
 
-Nah, jika kamu tertarik menjadi investor dengan investasi yang minim risiko dan dimulai dengan modal kecil, kamu bisa memilih berinvestasi dengan skema securities crowdfunding.
+Nah, jika anda tertarik untuk berinvestasi ke dalam bisnis potensial maka anda bisa mencoba investasi lewat sistem equity crowdfunding.
 
-Melalui securities crowdfunding kamu bersama masyarakat luas bersama-sama patungan mendanai bisnis yang nantinya akan berkembang menjadi bisnis potensial dan bertahan dalam waktu jangka panjang. Pastinya kamu akan mendapatkan keuntungan secara rutin berupa dividen dari bisnis potensial yang kamu danai tadi.
+Melalui equity crowdfunding, anda dapat melakukan patungan bersama masyarakat luas untuk mendanai suatu bisnis dan mendaptkan kepemilikan berupa saham. Sebagai pemegang saham, nantinya anda akan mendaptkan keuntungan berupa dividen sesuai dengan kinerja bisnis anda. 
 
-[LandX](https://landx.id/) merupakan platform securities crowdfunding yang telah berizin dari Otoritas Jasa Keuangan, dan berpengalaman dalam mengelola bisnis-bisnis potensial yang membuat investasi kamu berjalan dengan baik dalam kurun waktu jangka panjang. 
+K﻿arena itu, instrumen ini bisa jadi pilihan investasi jangka panjang untuk menghiasi portofolio anda. 
 
-## [Yuk, Raih Keuntungan Kamu dengan Investasi lewat LandX Sekarang!](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)
+## Y﻿uk Tingkatkan Portofolio Investasi Anda Sekarang.......
 
-<!--StartFragment-->
-
-[![Bagaimana? Kamu lebih suka bisnis dengan buyback guarantee atau yang bisa disimpan dalam jangka panjang? Apapun pilihan kamu.. Yuk Patungan  dengan Keuntungan Menjanjikan Bareng LandX](https://accountgram-production.sfo2.cdn.digitaloceanspaces.com/landx_ghost/2021/10/Equity-Crowdfunding-di-Indonesia-1--3.png)](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)
-
-<!--EndFragment-->
+[](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)
