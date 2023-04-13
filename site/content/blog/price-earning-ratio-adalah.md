@@ -8,7 +8,7 @@ metaDescription: Price to earning ratio adalah salah satu rasio keuangan yang
   bisa digunakan untuk menilai saham. PER adalah rasio valuasi saham
 intro: Kalau kamu sedang berinvestasi saham, yuk pahami apa itu PER saham dan
   kenapa rasio satu ini sangat penting dalam investasi anda
-date: 2021-06-25T10:29:54.000Z
+date: 2023-01-12T10:29:54.000Z
 tag:
   - investasi saham
   - Cara Investasi Saham
@@ -71,4 +71,8 @@ Saham dengan PER rendah sekalipun sebenanrnya belum tentu memastikan bahwa saham
 
 Selain itu anda harus paham bahwa price earning ratio bukanlah satu-satunya indikator yang menentukan bahwa saham menguntungkan atau tidak, maka dari itu anda perlu mempelajari berbagai jenis indikator lain agar investasi yang anda lakukan lebih mudah.
 
-Akan tetapi, tahukah anda bahwa [equity crowdfunding](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog) merupakan sistem investasi yang konsepnya hampir sama dengan saham, namun dalam [equity crowdfunding](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog) anda diberikan kesempatan untuk berinvestasi ke dalam bisnis privat. Sistem ini membuat anda bisa memiliki dari berbagai bisnis privat dengan potensi keuntungan yang menjanjikan.
+Akan tetapi, harus diingat bahwa dalam investasi kita perlu melakukaj diversifikasi sebagai mitigasi berbagai risiko yang mungkin muncul. Oleh sebab itu, kamu bisa menjadikan investasi bisnis lewat equity crowdfunding salah satu instrumen dalam portofolio anda.
+
+S﻿istem ini mempermudah anda untuk berinvestasi ke dalam berbagai bisnis potensial dan kemudian mendapatkan dividen sesuai kinerja bisnis sebagai return. Karena itu, instrumen ini bisa jadi pilihan investasi jangka panjang anda. 
+
+## Y﻿uk Mulai Tingkatkan Portofolio Investasi Anda Sekarang
