@@ -72,15 +72,3 @@ Saham dengan PER rendah sekalipun sebenanrnya belum tentu memastikan bahwa saham
 Selain itu anda harus paham bahwa price earning ratio bukanlah satu-satunya indikator yang menentukan bahwa saham menguntungkan atau tidak, maka dari itu anda perlu mempelajari berbagai jenis indikator lain agar investasi yang anda lakukan lebih mudah.
 
 Akan tetapi, tahukah anda bahwa [equity crowdfunding](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog) merupakan sistem investasi yang konsepnya hampir sama dengan saham, namun dalam [equity crowdfunding](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog) anda diberikan kesempatan untuk berinvestasi ke dalam bisnis privat. Sistem ini membuat anda bisa memiliki dari berbagai bisnis privat dengan potensi keuntungan yang menjanjikan.
-
-**[Yuk Mulai Investasi Equity Crowdfunding di LandX](https://app.landx.id/?utm_source=Organic+Page&utm_medium=Content+Blog&utm_campaign=BlogLandX&utm_id=Blog)**
-
-<!--StartFragment-->
-
-[![miliki bisnis modal kecil cuma dengan 1 jutaan dapat 4 cabang ](https://accountgram-production.sfo2.cdn.digitaloceanspaces.com/landx_ghost/2021/11/jadi-owner-bisnis-hanya-1-jutaan-dengan-cuan-yang-sangat-menjanjikan.png)](https://app.landx.id/?utm_source=Organic+Page&utm_medium=Content+Blog&utm_campaign=BlogLandX&utm_id=Blog)
-
-<!--EndFragment-->
-
-**[Jangan Lupa!! Follow @landx.id di Instagram Supaya Terus Update Berbagai Info Seputar Investasi.](https://instagram.com/landx.id?utm_medium=copy_link)** 
-
-**\#LandX.id    #landx         #landx.id    #InvestasiBisnis    #EquityCrowdfunding    #InvestasiMenguntungkan    #Urundana    #BisnisPatungan    #InvestasiUsaha**
