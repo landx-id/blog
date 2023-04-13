@@ -38,7 +38,7 @@ Setiap orang tentu saja mengingingkan investasi modal kecil untung besar yang bi
 
 Menyiapkan [investasi terbaik](https://www.akseleran.co.id/blog/investasi-terbaik/) yang menguntungkan buat masa depan adalah sesuatu yang harus disiapkan sejak dini sehingga sebaiknya kita mulai sedini mungkin. Hal ini menjadi sangat penting karena inflasi terus meningkat dari waktu ke waktu sehingga kamu ada baiknya kamu mulai secepat mungkin.
 
-Kini, menyusun instrumen **[investasi terbaik](https://www.akseleran.co.id/blog/investasi-terbaik/)** untuk masa depan bukanlah sesuatu yang sulit karena akses investasi semakin mudah dan bisa dimulai dengan modal yang relatif kecil sehingga kita bisa mulai berinvestasi se-dini mungkin.
+Kini, menyusun instrumen **investasi terbaik** untuk masa depan bukanlah sesuatu yang sulit karena akses investasi semakin mudah dan bisa dimulai dengan modal yang relatif kecil sehingga kita bisa mulai berinvestasi se-dini mungkin.
 
 Pilihan instrumen pun kini kian beragam sehingga kita dapat dengan lebih mudah menyesuaikan jenis instrumen dengan tujuan finansial kamu di masa mendatang. Mari ketahui instrumen investasi itu apa saja serta macam-macam investasi lewat pembahasan berikut!
 
@@ -66,16 +66,6 @@ Dalam [](https://landx.id/) memilih properti, kamu harus memilih properti dengan
 
 Properti menjadi salah satu instrumen investasi masa kini yang bisa diakses dengan modal 1 jutaan lewat crowdfunding properti yang memberikan kamu kesempatan untuk ikut patungan membangun sebuah properti yang bisa memberikan kamu keuntungan jangka panjang.
 
-- - -
-
-**Baca Juga:**
-
-* [Memulai Usaha Properti: Bisnis Rumah Kos Sebagai Investasi Jangka Panjang](https://landx.id/blog/memulai-usaha-properti-bisnis-rumah-kos-sebagai-investasi-jangka-panjang/)
-* [Tips dan Strategi Investasi Rumah Kost Untuk Pemula](https://landx.id/blog/tips-dan-strategi-investasi-rumah-kost-untuk-pemula/)
-* [Cara Investasi ke Dalam Bisnis Properti: Bagaimana Cara Terbaik Memulai Investasi Properti dengan Modal Kecil.](https://landx.id/blog/memulai-bisnis-laundry-kiloan/)
-
-- - -
-
 ## 2. Investasi Agribisnis
 
 Indonesia memiliki potensi pertanian yang sangat besar di masa mendatang. Jadi, pilihan investasi itu apa saja, tentu berinvestasi lewat pertanian bisa menjadi pilihan tepat dan bisa memberikan keuntungan besar di masa mendatang.
@@ -92,17 +82,7 @@ Pilihan modal minim investasi itu apa saja? tentu emas kini masuk ke rekomendasi
 
 **Saham adalah** instrumen investasi menguntungkan untuk masa depan anda karena saham bisa memberikan kamu keuntungan berupa dividen dan capital gain sehingga bisa membantu kamu memiliki aset menguntungkan untuk masa depan.
 
-Agar lebih aman, anda bisa mulai dengan  **[saham *blue-chip* ](https://landx.id/blog/investasi-ke-saham-blue-chip/)** yang harganya cenderung stabil sehingga memperkecil risiko kerugian yang mungkin muncul di masa mendatang. Kini akses bursa saham semakin mudah karena perkembangan teknologi dan informasi. Karena itu tidak ada lagi alasan anda untuk tidak berinvestasi.
-
-- - -
-
-**Baca Juga:**
-
-* [Mau Mulai Investasi Saham? Yuk Cek Saham Blue Chip untuk Pemula](https://landx.id/blog/investasi-ke-saham-blue-chip/)
-* [Investasi Saham: Mengenal Apa Itu Indeks Saham dan Fungsinya dalam Investasi](https://landx.id/blog/apa-itu-indeks-saham-dan-indeks-harga-saham/)
-* [Saham Syariah: Mengenal Apa Itu Saham Syariah dan Perbedaannya dengan Konvensional](https://landx.id/blog/mengenal-saham-syariah-dan-perberdaannya-dengan-saham-konvesional/)
-
-- - -
+Agar lebih aman, anda bisa mulai dengan  **saham *blue-chip***  yang harganya cenderung stabil sehingga memperkecil risiko kerugian yang mungkin muncul di masa mendatang. Kini akses bursa saham semakin mudah karena perkembangan teknologi dan informasi. Karena itu tidak ada lagi alasan anda untuk tidak berinvestasi.
 
 ## 4. Reksa Dana
 
@@ -145,18 +125,14 @@ Berikutnya, modal kecil dalam pilihan investasi itu apa saja adalah Sukuk yang m
 
 Emiten diwajibkan untuk membayar pendapatan kepada pemegang Obligasi Syariah berupa bagi hasil, margin fee, dan membayar kembali dana obligasi pada saat jatuh tempo. Sederhananya, Sukuk adalah obligasi yang menghindari riba.
 
-## 10. [Equity Crowdfunding](https://app.landx.id/?utm_source=Organic+Page&utm_medium=Content+Blog&utm_campaign=BlogLandX&utm_id=Blog\)
+## 10. Equity Crowdfunding
 
 **Equity crowdfunding** termasuk juga ke dalam merupakan jenis pendanaan kepada bisnis berbasis ekuitas yang akan memberikan anda keuntungan dalam jangka panjang. Berinvestasi lewat equity crowdfunding memberikan anda bagian kepemilikan dari sebuah bisnis yang telah anda danai.
 
-Lewat sistem ini, anda akan mendapatkan bagian kepemilikan sehingga anda berhak mendapatkan keuntungan berupa dividen saat bisnis untung dan capital gain karena potensi kenaikan harga saham dari bisnis yang anda miliki.
+Lewat sistem ini, anda akan mendapatkan bagian kepemilikan sehingga anda berhak mendapatkan keuntungan berupa dividen sesuai kinerja bisnis yang anda danai. Oleh sebab itu, sistem ini cocok untuk investasi keuangan jangka panjang anda. 
 
-**[Di LandX](https://app.landx.id/?utm_source=Organic+Page&utm_medium=Content+Blog&utm_campaign=BlogLandX&utm_id=Blog)**, kamu akan menemukan bisnis-bisnis terbaik dengan potensi keuntungan jangka panjang sehingga bisa membantu mempercepat kamu mencapai tujuan finansial kamu.
+**Karena itu,** 
 
-**[Karena itu...](https://app.landx.id/?utm_source=Organic+Page&utm_medium=Content+Blog&utm_campaign=BlogLandX&utm_id=Blog)**
+## **Y﻿uk Mulai Siapkan Investasi Jangka Panjang Anda Sekarang**
 
-## [Yuk Temukan Bisnis Terbaik untuk Investasi Jangka Panjang Kamu di Land](https://app.landx.id/?utm_source=Organic+Page&utm_medium=Content+Blog&utm_campaign=BlogLandX&utm_id=Blog)
-
-[](https://app.landx.id/?utm_source=Organic+Page&utm_medium=Content+Blog&utm_campaign=BlogLandX&utm_id=Blog)[![miliki bisnis modal kecil cuma dengan 1 jutaan dapat 4 cabang ](https://accountgram-production.sfo2.cdn.digitaloceanspaces.com/landx_ghost/2021/11/jadi-owner-bisnis-hanya-1-jutaan-dengan-cuan-yang-sangat-menjanjikan.png)](https://app.landx.id/?utm_source=Organic+Page&utm_medium=Content+Blog&utm_campaign=BlogLandX&utm_id=Blog)
-
-<!--EndFragment-->
+[](https://app.landx.id/?utm_source=Organic+Page&utm_medium=Content+Blog&utm_campaign=BlogLandX&utm_id=Blog)
