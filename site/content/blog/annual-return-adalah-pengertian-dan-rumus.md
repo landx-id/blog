@@ -1,8 +1,8 @@
 ---
 draft: false
 author: Umar Tusin
-title: "Annual Return Adalah: Pengertian dan Rumus"
-metaTitle: Cara Menghitung Pengembalian Investasi dalam 1 Tahun
+title: "Annual Return Adalah: Apa Itu Annual Return dan Cara Menghitungnya"
+metaTitle: Memahami Apa Itu Annual Return dan Cara Menghitungnya dalam Investasi
 metaDescription: Annual return adalah jumlah atau tingkat pendapatan yang
   dihasilkan investasi dalam setahun
 intro: Annual return biasa digunakan untuk menghitung keuntungan investasi
@@ -16,8 +16,6 @@ featuredImage:
 <!--StartFragment-->
 
 Apa itu annual return? Annualized return atau yang disebut juga annual return adalah pengembalian atau pendapatan dari investasi yang dihasilkan selama setahun dan dihitung sebagai persentase dari jumlah investasi awal. Pengembalian investasi dalam 1 tahun akan bervariasi tergantung tingkat risiko investasi tersebut.
-
-
 
 Annual return atau 1 year return adalah proses perhitungan yang kerap digunakan karena mencakup perhitungan bunga dan dianggap lebih akurat. Untuk menghitung pengembalian investasi dalam 1 tahun, rumus annual return dapat digunakan di berbagai instrumen investasi seperti saham, obligasi, komoditas, dan beberapa jenis derivatif. Perhitungan 1 year return juga dapat digunakan untuk melihat kinerja investasi dari waktu ke waktu atau membandingkan dua investasi dengan periode waktu yang berbeda.
 
@@ -37,11 +35,7 @@ Perubahan harga yang terjadi pada suatu instrumen investasi tentu akan merubah a
 
 Saat Bank Indonesia menaikkan suku bunga acuan, maka bank konvensional juga akan menaikkan suku bunga. Kenaikkan suku bunga tersebut mempengaruhi bunga instrumen investasi yang ditawarkan oleh bank.
 
-
-
 Ada beberapa instrumen investasi yang ditawarkan oleh bank yaitu reksadana, deposito, dan SBN (Surat Berharga Negara). Dengan naiknya bunga terhadap ketiga instrumen investasi tersebut, maka investor yang mempunyai reksadana, deposito atau SBN akan mendapat keuntungan lebih karena imbal hasil dari bunga yang meningkat.
-
-
 
 ## Cara Menghitung Annual Return
 
@@ -55,8 +49,6 @@ Untuk lebih jelas memahami rumus annual return dan cara menghitungnya, akan lebi
 
 Seorang investor membeli 200 saham dengan harga Rp1.000 per lembar saham. Setelah satu tahun, harga saham tersebut diperdagangkan dengan harga Rp950 per lembar. Selain itu investor juga mendapat dividen Rp100 per lembar saham selama satu tahun.
 
-
-
 Berdasarkan kasus tersebut, kamu perlu menghitung jumlah nilai akhir investasi terlebih dahulu.
 
 > **Nilai Akhir Investasi = (200 x 950) + (200 x 100)**
@@ -65,11 +57,7 @@ Berdasarkan kasus tersebut, kamu perlu menghitung jumlah nilai akhir investasi t
 >
 > **\= Rp210.000**
 
-
-
 Setelah mendapatkan nilai akhir investasi, kamu bisa langsung menghitung annual return menggunakan rumus yang sudah dijelaskan diatas.
-
-
 
 > **Annual Return = ((210.000 — 200.000) / 200.000)) x 100%**
 >
@@ -125,13 +113,9 @@ Jika sudah mendapatkan nilai akhir dan nilai awal investasi, maka jawaban untuk 
 
 Dengan menggunakan rumus annual return dan data nilai akhir investasi kamu, hasil nilai total return rata-rata kamu selama tiga tahun adalah **14,47%.**
 
- 
-
 ## Return Investasi Equity Crowdfunding
 
 Annual return adalah perhitungan untuk mencari nilai keuntungan dari investasi secara tahunan. Perhitungan annual return bisa digunakan untuk berbagai macam instrumen investasi, asalkan diketahui nilai investasi awal dan nilai investasi akhir.
-
-
 
 Seperti yang sudah dijelaskan sebelumnya, annual return dapat menghitung berbagai instrumen investasi termasuk saham. Selain saham yang tersedia di pasar modal, saham juga tersedia pada sistem investasi equity crowdfunding.
 
@@ -139,14 +123,10 @@ Equity crowdfunding adalah sistem urun dana yang dilakukan oleh investor untuk m
 
 Sama seperti saham di pasar modal, saham di equity crowdfunding juga menawarkan keuntungan melalui dividen. Semakin besar saham yang dimiliki maka semakin besar potensi dividen yang akan didapatkan, artinya semakin besar pula potensi nilai annual return yang akan didapat.
 
-Jika kamu sudah paham menghitung annual return, kamu bisa mencoba investasi di platform equity. Salah satu equity crowdfunding berizin OJK adalah LandX. Selain membeli saham bisnis, kamu juga bisa menghitung potensi annual return dengan cara mendownload prospektus yang ada di platform [LandX](https://app.landx.id/?utm_source=Organic+Page&utm_medium=Content+Blog&utm_campaign=BlogLandX&utm_id=Blog). 
+Jika kamu sudah paham menghitung annual return, kamu bisa mencoba investasi di platform equity. Salah satu equity crowdfunding berizin OJK adalah LandX. Selain membeli saham bisnis, kamu juga bisa menghitung potensi annual return dengan cara mendownload prospektus dari bisnis yang telah listing. 
 
-Dalam dokumen prospektus, kamu akan mendapatkan informasi bisnis seputar latar belakang bisnis, laporan keuangan, hingga estimasi dividen yang akan didapat selama kurun waktu tertentu.
+Dalam dokumen prospektus, kamu akan mendapatkan informasi bisnis seputar latar belakang bisnis, laporan keuangan, hingga estimasi dividen yang akan didapat selama kurun waktu tertentu sehingga kamu bisa memperhitungkan return dari investasi yang anda lakukan. 
 
- 
+K﻿arena itu, tunggu apalagi... 
 
-
-
-## [Yuk, Ambil Potensi Keuntungan Melalui Investasi di LandX!](https://landx.id/)
-
-<!--EndFragment-->
+## Y﻿uk Mulai Tingkatkan Level Investasi Anda Sekarang...
