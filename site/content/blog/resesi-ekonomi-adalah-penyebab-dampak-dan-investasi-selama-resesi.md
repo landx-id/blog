@@ -9,7 +9,7 @@ intro: Resesi ekonomi adalah kondisi yang sangat ditakuti oleh seluruh negara di
   dunia. Apa yang terjadi jika ancaman resesi ekonomi 2023 terealisasi? Lalu,
   apakah Indonesia akan terdampak? Pahami lengkapnya lewat akibat dampak resesi
   ekonomi yuk!
-date: 2022-11-16T08:22:56.018Z
+date: 2023-04-14T05:10:06.661Z
 tag:
   - Resesi Ekonomi
   - Resesi
@@ -233,18 +233,10 @@ Investasi emas di tengah resesi ekonomi secara historis berkinerja baik. Emas te
 
 Kedua pilihan tersebut dapat Anda pilih sebagai investasi di tengah kondisi negara yang mengalami resesi ekonomi.
 
-Nah, jika Anda tetap ingin bertahan secara finansial di tengah kondisi negara yang mengalami resesi ekonomi. Anda juga bisa lho melakukan investasi dengan pendanaan terhadap bisnis UMKM di Indonesia. Seperti yang telah kita bahas sebelumnya mengenai cara mengatasi resesi ekonomi adalah dengan memberi bantuan terhadap UMKM. 
+S﻿elain itu, anda juga bisa berinvestasi ke berbagai bisnis privat potensial lewat skema equity crowdfunding yang mempermudah anda memiliki saham berbagai bisnis potensial. Lewat sistem ini, investor akan mendapatkan keuntungan berupa dividen sesuai kinerja bisnis sehingga sangat cocok untuk investasi jangka panjang anda. 
 
-Dengan memilih instrumen investasi yang punya prospek menguat jika kondisi resesi telah berhasil dilewati, selain Anda bisa mendapatkan keuntungan di masa depan, Anda juga telah membantu UMKM tetap tumbuh di tengah resesi ekonomi. Anda bisa memulai investasi pendanaan bisnis UMKM melalui LandX.
+K﻿arena itu, 
 
-[LandX](https://landx.id/) adalah platform equity crowdfunding yang membantu Anda melakukan pendanaan terhadap bisnis UMKM yang tersedia di LandX. Nantinya jika dana sudah terkumpul semua, Anda berkesempatan mendapatkan keuntungan dalam bentuk dividen dari bisnis yang telah Anda danai.
-
-Di LandX Anda bisa memulai pendanaan dari modal mulai Rp1 Jutaan saja, lho. LandX juga merupakan platform terpercaya dan telah mengantongi izin dari Otoritas Jasa Keuangan (OJK).
-
-## [Danai Bisnis Pilihan Anda dan Nikmati Untung Kemudian Hari di LandX Sekarang Juga!](https://landx.id/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)
-
-<!--EndFragment-->
-
-[![miliki bisnis modal kecil cuma dengan 1 jutaan dapat 4 cabang ](https://accountgram-production.sfo2.cdn.digitaloceanspaces.com/landx_ghost/2021/11/jadi-owner-bisnis-hanya-1-jutaan-dengan-cuan-yang-sangat-menjanjikan.png)](https://landx.id/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)
+## Y﻿uk Siapkan Aset Investasi Jangka Panjang Anda Sekarang...
 
 <!--EndFragment-->
