@@ -2,7 +2,7 @@
 draft: false
 author: Umar Tusin
 title: "EBITDA Adalah: Pengertian dan Rumus EBITDA"
-metaTitle: Apa Itu EBITDA? Pelajari Pengertian dan Rumus EBITDA
+metaTitle: Yuk Pahami Apa Itu EBITDA dan Cara Menghitungnya
 metaDescription: Apa itu EBITDA? EBITDA adalah pendapatan sebelum bunga, pajak
   dan amortisasi. Pelajari mendalam yuk!
 intro: EBITDA adalah pendapatan sebelum bunga, pajak dan amortisasi. Melalui
@@ -19,8 +19,6 @@ featuredImage:
 Apa itu EBITDA? EBITDA adalah singkatan dari Earning Before Interest, Taxes, Depreciation, and Amortization yang artinya pendapatan sebelum bunga, pajak dan amortisasi. EBITDA dalam laporan keuangan digunakan sebagai indikator finansial yang digunakan untuk mengetahui profit sebuah perusahaan.
 
 Dengan menghapus beban pajak, bunga, depresiasi, dan amortisasi, tujuan EBITDA margin adalah untuk mewakili laba tunai yang dihasilkan oleh operasional perusahaan. Bisa disimpulkan bahwa EBITDA adalah suatu ukuran kinerja keuangan sebuah perusahaan yang menjadi alternatif untuk mengukur pendapatan bersih. EBITDA tersebut biasa dimanfaatkan oleh pemilik perusahaan, para investor, dan lembaga pemeringkat untuk menentukan nilai bisnis.
-
- 
 
 Sebelum memahami rumus EBITDA dan EBITDA dalam laporan keuangan, kamu perlu mengetahui fungsi EBITDA dan komponen dari EBITDA itu sendiri. Berikut adalah penjelasannya.
 
@@ -52,8 +50,6 @@ Selain memiliki fungsi yang positif, EBITDA juga memiliki kekurangan yang harus 
 
 Bunga adalah uang yang dipinjam perusahaan untuk membiayai bisnisnya. Setiap perusahaan memiliki struktur modal yang berbeda dan memperoleh beban bunga yang berbeda. Beban bunga berasal dari uang yang dipinjam perusahaan untuk mendanai kegiatan usahanya.
 
- 
-
 Oleh karena itu, lebih mudah untuk membandingkan kinerja perusahaan dengan menambahkan bunga kembali dan mengabaikan dampak struktur modal pada bisnis.
 
 ### 2. Tax/Pajak
@@ -83,9 +79,7 @@ Ada dua cara untuk menghitung EBITDA, yang pertama menggunakan laba bersih sebag
 > **Rumus pertama:**
 >
 > **EBITDA = Laba Bersih + Pajak + Bunga + Depresiasi + Amortisasi**
-
- 
-
+>
 > **Rumus kedua:**
 >
 > **EBITDA = Pendapatan Operasional + Depresiasi + Amortisasi**
@@ -104,8 +98,6 @@ Berdasarkan laporan keuangan di atas, berikut adalah cara menghitung EBITDA meng
 >
 > **\= Rp60.000.000**
 >
->
->
 > **EBITDA = Pendapatan Operasional + Depresiasi + Amortisasi**
 >
 > **\= Rp48.000.000 + Rp6.000.000 + Rp6.000.000**
@@ -120,8 +112,6 @@ Tidak ada patokan nilai untuk menentukan EBITDA dikatakan bagus. Namun, melihat 
 
 EBITDA margin adalah rasio EBITDA dalam mengukur berapa banyak pendapatan yang dihasilkan perusahaan sebelum bunga, pajak, depresiasi, dan amortisasi, sebagai persentase dari pendapatan. Nilai tersebut menunjukkan seberapa banyak laba yang diperoleh perusahaan selama setahun.
 
-
-
 Apabila margin EBITDA perusahaan besar, maka akan lebih menarik bagi investor karena potensi pertumbuhan lebih besar. Jika kamu penasaran, berikut adalah rumus dan cara hitung margin EBITDA perusahaan di atas.
 
 > **Margin EBITDA = EBITDA Terhitung : Total Penghasilan x 100%**
@@ -134,24 +124,12 @@ Apabila margin EBITDA perusahaan besar, maka akan lebih menarik bagi investor ka
 
 Perhitungan EBITDA penting untuk dipahami para investor. Salah satu tujuan memahami EBITDA adalah agar investor lebih memahami profitabilitas dan potensi pertumbuhan suatu perusahaan atau pelaku usaha. Dengan pemahaman tersebut, investor bisa mengetahui potensi keuntungan jika menanamkan modal di perusahaan tersebut.
 
-
-
 Jika kamu sudah paham dengan EBITDA, kamu bisa mencoba potensi keuntungan melalui investasi equity crowdfunding. Equity crowdfunding adalah sistem mengumpulkan dana dengan skema patungan (urun dana) untuk perusahaan atau pelaku usaha yang memulai atau mengembangkan bisnisnya.
-
-
 
 Investor bisa membeli saham project bisnis potensial dari beragam perusahaan yang listing di [platform equity crowdfunding](https://landx.id/). Lewat kepemilikan saham ini, nantinya investor berpotensi mendapatkan passive income berupa dividen dari bisnis yang dimiliki.
 
+Salah satu platform equity crowdfunding yang mempertemukan investor dengan pelaku usaha. Melalui platform ini, anda bisa menemukan berbagai bisnis potensial dan ikut patungan membangun bisnis tersebut. Sebagai return investor akan mendapatkan keuntungan berupa dividen sesuai dari kinerja bisnis. 
 
+K﻿arena itu, 
 
-Salah satu platform equity crowdfunding yang mempertemukan investor dengan pelaku usaha adalah [LandX](https://landx.id/). Melalui aplikasinya, kamu bisa melihat berbagai perusahaan yang listing di LandX dan prospek investasinya untuk masa depan keuanganmu.
-
-
-
-Caranya? Mudah! Kamu bisa melihat informasi bisnis, riwayat laporan keuangan, dan potensi skema bagi hasil melalui prospektus yang tersedia di platform equity crowdfunding.
-
-LandX adalah platform equity crowdfunding berizin OJK yang sudah berhasil mempertemukan 44 pelaku usaha dengan 88.000 investor terdaftar dari seluruh Indonesia. Tentunya, berinvestasi di LandX sudah pasti aman. Tunggu apa lagi?  
-
-## [Yuk Investasi Mulai Dari Rp1 Jutaan di Aplikasi LandX!](https://app.landx.id/?utm_source=Organic+Page&utm_medium=Content+Blog&utm_campaign=BlogLandX&utm_id=Blog)  
-
-<!--EndFragment-->
+## Yuk Mulai Kembangkan Investasi Anda Sekarang....
