@@ -8,7 +8,7 @@ metaDescription: Akuisisi adalah tindakan penggabungan usaha yang dilakukan oleh
 intro: Sebagian dari kamu, mungkin pernah mendengar akuisisi. Akuisisi adalah
   pengambilalihan sebuah kepemilikan, baik perusahaan maupun aset oleh salah
   satu perusahaan yang ditetapkan dalam perjanjian dan kesepakatan sebelumnya.
-date: 2022-10-10T01:12:20.152Z
+date: 2023-02-14T01:12:20.152Z
 tag:
   - Investasi Bisnis
   - Ventute Capital
