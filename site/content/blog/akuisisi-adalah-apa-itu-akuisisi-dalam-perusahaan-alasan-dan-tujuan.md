@@ -98,12 +98,8 @@ Jenis terakhir ini merupakan jenis akuisisi dengan pengambilalihan kepemilikan p
 
 Perusahaan mesti melakukan pertimbangan dalam melakukan akuisisi dan memahami risiko yang mungkin akan ditimbulkan ketika melakukan proses akuisisi, perlunya meninjau kembali hubungan bisnis pada perusahaan yang akan diakuisisi sehingga dapat memperkecil munculnya masalah baru. Sehingga, perusahaan pun dapat mlancarkan strategi  ekspansi bisnisnya. 
 
-Tahukah kamu...
+Tahukah Anda... 
 
-Selain dengan akuisisi ada cara lain untuk ekspansi yaitu dengan melakukan pengembangan usaha dan meningkatkan modal. Kamu dapat meningkatkan modal usaha dari investor dengan mendaftarkan bisnis kamu melalui aplikasi [equity crowdfunding ](https://landx.id/)(ECF) loh. Melalui skema ECF, bisnis kamu yang terdaftar akan didanai oleh investor yang tertarik untuk mengembangkan bisnis kamu. Bisnis kamu pun dapat berkembang dan menjadi bisnis potensial secara jangka panjang.
+S﻿aat ini anda dapat berinvestasi ke berbagai bisnis potensial yang ingin melakukan ekspansi melalui sistem equity crowdfunding yang membantu mempertemukan investor dan bisnis yang butuh pendanaan. Melalui sistem ini, anda dapat berinvestasi ke berbagai bisnis potensial dan mendapatkan keuntungan berupa dividen sesuai dari kinerja bisnis yang anda danai. 
 
-[LandX](https://landx.id/) merupakan platform [equity crowdfunding](https://landx.id/) yang sudah berpengalaman untuk membantu bisnis-bisnis potensial saat ini dari berbagai sektor industri seperti, FnB, industri properti, kebugaran, dan masih banyak lagi.
-
-**Mau Ekspansi Bisnis? Kenalan Equity Crowdfunding Yuk**
-
-[![miliki bisnis modal kecil cuma dengan 1 jutaan dapat 4 cabang ](https://accountgram-production.sfo2.cdn.digitaloceanspaces.com/landx_ghost/2021/11/jadi-owner-bisnis-hanya-1-jutaan-dengan-cuan-yang-sangat-menjanjikan.png)](https://app.landx.id/?utm_source=Organic+Page&utm_medium=Content+Blog&utm_campaign=BlogLandX&utm_id=Blog)
+## Y﻿uk Mulai Kembangkan Investasi Anda Sekarang...
