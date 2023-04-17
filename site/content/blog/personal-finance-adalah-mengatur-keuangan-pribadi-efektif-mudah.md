@@ -10,7 +10,7 @@ intro: Mengatur keuangan pribadi harus dilakukan sejak dini. Keuangan pribadi
   atau Personal finance adalah proses perencanaan dan pengendalian keuangan
   seseorang untuk mewujudkan finansial yang stabil. Yuk, belajar memahami
   keuangan pribadi dan investasi untuk masa depan.
-date: 2022-09-01T17:02:32.444Z
+date: 2023-02-21T17:02:32.444Z
 tag:
   - Mengatur Keuangan
   - Menabung dengan Benar
@@ -135,22 +135,8 @@ Oiya, cara lainnya dari mengatur keuangan pribadi yang dapat kamu lakukan dan ak
 
 Jika menabung uang kamu tidak akan berkembang jika tidak kamu masukkan lagi, namun saat investasi kamu berkesempatan mendapatkan keuntungan yang bisa terus bertambah. Salah satu metode investasi yang dapat kamu coba dengan modal yang minim, yaitu investasi dengan sistem *equity crowdfunding*. 
 
-[Equity crowdfunding](https://landx.id/) adalah salah satu metode investasi dengan melakukan pendanaan secara patungan pada salah satu bisnis UMKM potensial di Indonesia. Nantinya, kamu bersama beberapa investor lainnya akan patungan mendanai salah satu bisnis yang berpotensi. Selanjutnya, kamu juga berpotensi mendapat keuntungan berupa dividen dari bisnis yang telah kamu danai.
+[Equity crowdfunding](https://landx.id/) adalah salah satu metode investasi dengan melakukan pendanaan secara patungan pada bisnis potensial di Indonesia. Nantinya, kamu bersama beberapa investor lainnya akan patungan mendanai salah satu bisnis yang berpotensi. Selanjutnya, kamu juga berpotensi mendapat keuntungan berupa dividen dari bisnis yang telah kamu danai.
 
-Di LandX kamu bisa memulai pendanaan untuk berbagai industri bisnis berpotensi. Kamu bisa menjadi salah satu pemegang saham bisnis di LandX. Adapun beberapa bisnis di LandX yang bisa kamu danai seperti bisnis *dessert* hits Vilo Gelato, resto sushi premium Okinawa Sushis, kuliner jagoan pulau Bali Ayam Tempong Bu Sri, hingga bisnis properti Kos-kosan di Jakarta, dan bisnis lainnya.
+O﻿leh sebab itu, instrumen ini bisa menjadi salah satu pilihan instrumen investasi jangka panjang yang cocok untuk portofolio anda. 
 
-[LandX](https://landx.id/) adalah platform equity crowdfunding yang telah memiliki *market cap* terbesar se-Indonesia, terpercaya, dan yang paling penting telah mengantongi izin dari OJK.
-
-Jadi, tunggu apa lagi? Segera download aplikasi LandX dan pilih bisnis UMKM berpotensi yang akan kamu danai, ya!
-
-## **[Bangun Personal Finance yang Aman, Yuk Investasi di LandX Sekarang Juga!](https://app.landx.id/?utm_source=BLOGCONTENT&utm_medium=SEO&utm_campaign=SEO&utm_id=BLOGLANDX)**
-
-<!--StartFragment-->
-
-[![miliki bisnis modal kecil cuma dengan 1 jutaan dapat 4 cabang ](https://accountgram-production.sfo2.cdn.digitaloceanspaces.com/landx_ghost/2021/11/jadi-owner-bisnis-hanya-1-jutaan-dengan-cuan-yang-sangat-menjanjikan.png)](https://app.landx.id/?utm_source=BLOGCONTENT&utm_medium=SEO&utm_campaign=SEO&utm_id=BLOGLANDX)
-
-[\#Patungan Bisnis](https://landx.id/blog/tag/patungan-bisnis)[\#Analisis Bisnis](https://landx.id/blog/tag/analisis-bisnis)[\#Laporan Keuangan](https://landx.id/blog/tag/laporan-keuangan)
-
-
-
-<!--EndFragment-->
+## Y﻿uk Mulai Kembangkan Investasi Anda Sekarang.....
