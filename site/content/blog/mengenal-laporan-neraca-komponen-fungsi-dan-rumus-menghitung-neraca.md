@@ -153,7 +153,7 @@ Adapun fungsi neraca keuangan bagi perusahaan antara lain sebagai berikut :
 
 Neraca menunjukkan semua yang dimiliki perusahaan dan utangnya. Neraca akan mempermudah perusahaan untuk menilai dengan cepat apakah mereka telah meminjam terlalu banyak uang, apakah aset yang dimilikinya tidak cukup likuid, atau apakah ia memiliki cukup uang tunai untuk memenuhi permintaan saat ini.
 
-Neraca menentukan risiko dan juga berfungsi untuk mengamankan modal. Perusahaan biasanya harus memberikan neraca kepada pemberi pinjaman untuk mengamankan pinjaman bisnis. Perusahaan juga harus menyediakan neraca kepada investor swasta ketika mencoba untuk mengamankan pendanaan ekuitas swasta.
+Neraca menentukan risikoT dan juga berfungsi untuk mengamankan modal. Perusahaan biasanya harus memberikan neraca kepada pemberi pinjaman untuk mengamankan pinjaman bisnis. Perusahaan juga harus menyediakan neraca kepada investor swasta ketika mencoba untuk mengamankan pendanaan ekuitas swasta.
 
 Hal tersebut agar pihak eksternal dapat menilai kesehatan keuangan perusahaan, kelayakan kredit bisnis, dan apakah perusahaan akan mampu membayar utang jangka pendeknya.
 
@@ -171,6 +171,6 @@ Investasi merupakan aset jangka panjang yang berfungsi untuk meningkatkan perole
 
 E﻿quity crowdfunding bisa menjadi salah satu pilihan investasi jangka panjang untuk pegembangan aset jangka panjang yang anda miliki. Melalui sistem ini, Anda bisa membeli saham bisnis privat dan mendapatkan dividen sesuai dengan performa bisnisnya. 
 
- LandX merupakan salah satu platform equity crowdfunding yang terjamin aman dan diawasi OJK (Otoritas Jasa Keuangan) yang bisa jadi pilihan investasi jangka panjang Anda. Karena itu,....
+K﻿arena itu, sistem ini bisa jadi salah satu pilihan instrumen investasi jangka panjang anda. 
 
-#### [Yuk Tingkatkan Aset Anda ](https://app.landx.id/?utm_source=Organic+Page&utm_medium=Content+Blog&utm_campaign=BlogLandX&utm_id=Blog)[Lewat ](https://app.landx.id/?utm_source=Organic+Page&utm_medium=Content+Blog&utm_campaign=BlogLandX&utm_id=Blog)[Equity Crowdfunding](https://app.landx.id/?utm_source=Organic+Page&utm_medium=Content+Blog&utm_campaign=BlogLandX&utm_id=Blog)
+## Y﻿uk Mulai Tingkatkan Investasi Anda Sekarang.....
