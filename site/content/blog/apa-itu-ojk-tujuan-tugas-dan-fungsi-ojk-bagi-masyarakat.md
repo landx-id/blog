@@ -13,6 +13,9 @@ date: 2022-08-16T08:29:46.077Z
 tag:
   - Lembaga Keuangan
   - Investasi
+category:
+  - Investasi
+  - Keuangan
 featuredImage:
   src: https://elibrary.ojk.go.id/OJK/assets/frontend/images/logo-ojk.png
   alt: Apa itu OJK dan fungsi OJK bagi masyarakat Indonesia
@@ -170,28 +173,14 @@ Bagi calon investor yang ingin melakukan investasi dengan adanya OJK dapat menge
 
 Oleh karena itu, OJK sangat berperan penting dalam investasi. Karena dengan adanya OJK, kegiatan investasi akan selalu diawasi. Jadi investor dapat mengetahui bagaimana pergerakan uang mereka. Juga investor akan merasa aman bila telah mengetahui lembaga-lembaga mana yang telah terdaftar di OJK sehingga dapat terhindar dari segala macam penipuan.
 
-## Investasi Aman Berizin OJK Lewat LandX
+## Investasi Crowdfunding Aman Berizin OJK
 
 Nah, kita telah membahas seputar OJK, mulai dari apa itu OJK, tujuan OJK, tugas OJK, hingga peranan OJK dalam investasi. Bagaimana? Sudah lebih tahu seputar OJK? 
 
-OJK memiliki peranan penting terhadap sektor keuangan baik dalam melakukan pengawasan atau penyelenggaraan sistem pengaturannya. Dengan adanya OJK aktivitas keuangan jauh lebih aman karena telah diawasi setiap harinya. Bahkan hadirnya OJK pun sangat berperan penting dalam investasi. Karena investasi yang sedang dijalankan jauh lebih aman karena adanya OJK.
+OJK memiliki peranan penting terhadap sektor keuangan baik dalam melakukan pengawasan atau penyelenggaraan sistem pengaturannya. Dengan adanya OJK aktivitas keuangan jauh lebih aman karena telah diawasi setiap harinya. Bahkan hadirnya OJK pun sangat berperan penting dalam investasi. Karena investasi yang sedang dijalankan jauh lebih aman karena adanya OJK. Salah satu investasi aman berizin OJK adalah Equity Crowdfuding.
 
-Di masa Pandemi Covid-19 yang masih terus berlanjut, banyak sekali usaha-usaha skala UMKM yang mencoba terus bangkit agar usaha yang mereka jalankan dapat bertahan dan berkembang. Kesulitan paling utama yang kerap dirasakan oleh UMKM ini adalah masalah pendanaan. Mereka kerap mengalami keterbatasan dalam dana. 
+Equity crowdfunding adalah metode investasi melakukan pendanaan dengan skema patungan yang dilakukan oleh banyak investor. Nantinya para investor akan menanamkan dananya terhadap usaha yang sudah tersedia di platform equity crowdfunding. Kemudian, para investor tersebut berkesempatan mendapatkan potensi keuntungan berupa dividen sesuai kinerja dari bisnis anda.
 
-Padahal jika UMKM di Indonesia dapat terus berkembang, potensi UMKM ini dapat membantu pertumbuhan perekonomian di Indonesia. Makanya saat ini untuk membantu UMKM berkembang telah hadir investasi metode equity crowdfunding.
+O﻿leh sebab itu, sistem ini bisa jadi pilihan instrumen untuk investasi jangka panjang anda.
 
-Equity crowdfunding adalah metode investasi melakukan pendanaan dengan skema patungan yang dilakukan oleh banyak investor. Nantinya para investor akan menanamkan dananya terhadap usaha yang sudah tersedia di platform equity crowdfunding. Kemudian, para investor tersebut berkesempatan mendapatkan potensi keuntungan berupa dividen dari usaha yang mereka danai.
-
-[LandX](https://landx.id/) adalah platform equity crowdfunding yang telah mengantongi izin dari Otoritas Jasa Keuangan. Jadi jika Anda memilih LandX sebagai tempat berinvestasi, maka semua aktivitas keuangan Anda telah diawasi oleh OJK dan lebih terjamin keamanannya. 
-
-Bersama LandX Anda bisa mendanai berbagai usaha yang telah memiliki prospek bagus dengan modal mulai Rp1 jutaan saja, lho!
-
-Jadi tunggu apalagi?
-
-## [Segera Registrasi Akun Anda dan Danai Bisnis melalui Aplikasi LandX Sekarang Juga!](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)
-
-<!--StartFragment-->
-
-[![miliki bisnis modal kecil cuma dengan 1 jutaan dapat 4 cabang ](https://accountgram-production.sfo2.cdn.digitaloceanspaces.com/landx_ghost/2021/11/jadi-owner-bisnis-hanya-1-jutaan-dengan-cuan-yang-sangat-menjanjikan.png)](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)
-
-<!--EndFragment-->
+## Y﻿uk Mulai Kembangkan Investasi Jangka Panjang Anda Sekarang...
