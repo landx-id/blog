@@ -167,22 +167,8 @@ Dari wewenang yang dimiliki bank sentral tersebut akan menarik banyak orang untu
 
 Salah satu investasi yang dapat kalian lakukan dengan modal kecil dan untung yang signifikan adalah investasi dengan metode equity crowdfunding.
 
-[Equity crowdfunding](https://landx.id/) merupakan skema pendanaan untuk bisnis  dengan cara patungan masyarakat luas untuk mendanai UMKM. Melalui equity crowdfunding, kalian bisa menjadi salah satu pemilik saham bisnis potensial yang menguntungkan untuk bisa didanai.
+[Equity crowdfunding](https://landx.id/) merupakan skema pendanaan untuk bisnis  dengan cara patungan masyarakat luas untuk mendanai bisnis potensial dari berbagai sektor. Melalui sistem ini investor dapat menjadi pemilik saham dari bisnis privat dan akan mendapatkan keuntungan berupa dividen sesuai performa bisnis yang anda danai. 
 
-Kalian dapat memperoleh keuntungan dari metode investasi equity crowdfunding ini. Di mana kalian akan menerima return dividen dari project bisnis yang telah kalian danai.
+K﻿arena itu, 
 
-Selain mendapat keuntungan, kalian juga akan berperan langsung dalam menambah penerimaan negara yang dapat digunakan untuk pembangunan.
-
-Platform equity crowdfunding di mana kalian bisa mendanai bisnis yang memiliki prospek bagus dan potensi keuntungan adalah di LandX.
-
-LandX merupakan salah satu platform equity crowdfunding yang dapat membantu kalian mendanai bisnis yang memiliki platform dengan market cap terbesar di industri equity crowdfunding.
-
-LandX, platform equity crowdfunding terpercaya, transparan, dan telah mengantongi izin dari Otoritas Jasa Keuangan (OJK). 
-
-## [Tentukan Bisnis Impianmu dengan Download Aplikasi LandX Sekarang Juga!](https://landx.id/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)
-
-<!--StartFragment-->
-
-[![Bagaimana? Kamu lebih suka bisnis dengan buyback guarantee atau yang bisa disimpan dalam jangka panjang? Apapun pilihan kamu.. Yuk Patungan  dengan Keuntungan Menjanjikan Bareng LandX](https://accountgram-production.sfo2.cdn.digitaloceanspaces.com/landx_ghost/2021/10/Equity-Crowdfunding-di-Indonesia-1--3.png)](https://landx.id/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)
-
-<!--EndFragment-->
+## Y﻿uk Mulai Kembangkan Portofolio Investasi Anda Sekarang....
