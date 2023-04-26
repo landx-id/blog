@@ -196,7 +196,7 @@ Setelah mengetahui seputar leverage, kita akan membahas kelebihan dan kekurangan
 
   Hal ini akan menjadi risiko di kemudian hari bagi perusahaan jika tidak menghasilkan keuntungan yang signifikan. Apalagi jika ditambah kondisi finansial perusahaan yang tidak stabil maka perusahaan memiliki kemungkinan tidak dapat membayar kewajiban dan bunga pada para investor.
 
-## Investasikan Dana Anda Pada Perusahaan Privat
+## Investasi Bisnis Lewat Equity Crowdfunding
 
 Kita telah membahas seputar leverage, mulai dari pengertian leverage, leverage ratio, jenis-jenis leverage, hingga kelebihan dan kekurangan leverage.
 
@@ -204,18 +204,8 @@ Bagaimana, kalian tertarik untuk menggunakan leverage untuk bisnis maupun invest
 
 Jika Anda memutuskan berinvestasi menggunakan leverage maka Anda harus mempertimbangkan segala risiko yang dimiliki oleh leverage. Jangan sampai dengan menggunakan leverage, bukan return yang didapatkan malah mendapatkan kerugian.
 
-Maka dari itu, kalau Anda masih bimbang untuk menggunakan leverage dalam berinvestasi karena resikonya tinggi dan prosesnya yang cukup rumit, Anda dapat mulai investasi dengan menggunakan dana mulai dari Rp 1 jutaan saja! Investasi yang akan Anda lakukan adalah dengan menggunakan metode [equity crowdfunding](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog).
+Maka dari itu, kalau Anda masih bimbang untuk menggunakan leverage dalam berinvestasi karena resikonya tinggi dan prosesnya yang cukup rumit, Anda dapat mulai investasi dengan sistem equity crowdfunding yang memungkinkan anda memiliki berbagai saham dari berbagai bisnis potensial. 
 
-[Equity crowdfunding](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog) adalah metode investasi yang sedang tren saat ini. Dengan metode [equity crowdfunding](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog) Anda akan melakukan investasi patungan bisnis alias mendanai usaha yang memiliki prospek bagus.
+L﻿ewat sistem ini, anda sebagai investor anda mendaptkan keuntungan berupa dividen sesuai dengan kinerja bisnsi sehingga aset ini bisa jadi salah satu pilihan investasi jangka panjang anda. 
 
-Anda juga berkesempatan mendapatkan potensi dividen dari bisnis yang kalian danai melalui [equity crowdfunding](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog).
-
-[LandX](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog) merupakan platform [equity crowdfunding](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog) dengan market cap terbesar di Indonesia yang terpercaya, transparan, dan telah mengantongi izin dari Otoritas Jasa Keuangan (OJK). 
-
-## [Mulai Investasikan Dana Anda di LandX Sekarang Juga!](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)
-
-<!--StartFragment-->
-
-[![Bagaimana? Kamu lebih suka bisnis dengan buyback guarantee atau yang bisa disimpan dalam jangka panjang? Apapun pilihan kamu.. Yuk Patungan  dengan Keuntungan Menjanjikan Bareng LandX](https://accountgram-production.sfo2.cdn.digitaloceanspaces.com/landx_ghost/2021/10/Equity-Crowdfunding-di-Indonesia-1--3.png)](https://landx.id/project/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)
-
-<!--EndFragment-->
+## Y﻿uk Mulai Kembangkan Portofolio Investasi Anda Sekarang
