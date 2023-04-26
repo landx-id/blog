@@ -127,11 +127,7 @@ Selain itu, investor juga dilindungi oleh regulasi yang ada dan memiliki akses p
 
 K﻿arena itu, 
 
-## Y﻿uk Mulai Kembangkan Investasi Anda Sekarang
-
-
-
-<!--EndFragment-->
+## Y﻿uk Mulai Kembangkan Investasi Anda Sekarang....
 
  
 
