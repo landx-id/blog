@@ -17,6 +17,7 @@ tag:
   - Diversifikasi Investasi
 category:
   - Investasi
+  - Keuangan
 featuredImage:
   title: "Apa itu Leverage: Leverage Ratio Hingga Jenis-jenis Leverage"
   alt: "Apa itu Leverage: Leverage Ratio, Jenis-jenis Leverage"
