@@ -115,22 +115,26 @@ Dari kelima status kolektibilitas tersebut, yang membedakan NPL dan loan at risk
 
 ## Potensi Keuntungan Lewat Equity Crowdfunding
 
-Nah, kita telah membahas mengenai NPL serta faktor yang memengaruhi NPL dan rumus perhitungan NPL itu sendiri. Kepanjangan NPL merupakan **non performing loan** adalah kredit dengan kualitas yang diragukan, kurang lancar dan macet. Hal ini sering mengacu pada kondisi ketika debitur tidak dapat membayar angsuran sesuai kesepakatan sebelumnya. NPL pun sering digunakan  sebagai tolak ukur kesehatan aset dari bank itu sendiri.
+Nah, kita telah membahas mengenai NPL serta faktor yang memengaruhi NPL dan rumus perhitungan NPL itu sendiri. Kepanjangan NPL merupakan **non performing loan** adalah kredit dengan kualitas yang diragukan, kurang lancar dan macet. Karena itu, rasio ini bisa menjadi salah satu cara memperkecil risiko anda dalam memilih investasi jangka panjang.
 
-Merupakan hal yang penting memiliki kondisi nilai NPL serta kondisi keuangan yang baik untuk usaha kamu. Hal ini karena memiliki kredit yang lancar serta pendanaan yang baik dapat membantu perkembangan bisnis kamu yang sedang dijalankan.
-
-**Kamu bisa juga loh membantu usaha yang sedang membutuhkan sokongan modal untuk mengembangkan bisnisnya dan terjauhkan dari kondisi kredit macet, selain itu kamu juga akan mendapatkan keuntungan dimulai dengan modal Rp1 juta saja.** 
-
-Bagaimana caranya? Kamu bisa memilih investasi minim risiko melalui skema [equity crowdfunding](https://landx.id/). Dengan skema ini, kamu bersama investor lain melakukan pendanaan untuk mendapatkan keuntungan berupa dividen sesuai porsi saham yang kamu tanamkan.
-
-Dengan pendanaan tersebut, bisnis yang kamu danai dapat berkembang, melakukan ekspansi bisnis, lalu investasi kamu pun berjangka panjang. Melalui aplikasi [equity crowdfunding ](https://app.landx.id/?utm_source=Organic+Page&utm_medium=Content+Blog&utm_campaign=BlogLandX&utm_id=Blog)seperti [LandX](https://app.landx.id/?utm_source=Organic+Page&utm_medium=Content+Blog&utm_campaign=BlogLandX&utm_id=Blog) yang sudah berpengalaman dalam mendanai bisnis potensial, terpercaya, dan memiliki market cap terbesar se-Indonesia. 
-
-Jadi, tunggu apa lagi?
-
-#### [Yuk, Bantu Bisnis Jauh dari NPL dan Raih Potensi Menguntungkan Melalui Equity Crowdfunding](https://app.landx.id/?utm_source=Organic+Page&utm_medium=Content+Blog&utm_campaign=BlogLandX&utm_id=Blog)
+Dengan memilih investasi jangka panjang yang terdiversifikasi dengan baik, Anda dapat meningkatkan peluang keuntungan dan mengurangi risiko kerugian yang mungkin terjadi. Jangan ragu untuk mencari informasi lebih lanjut tentang opsi investasi ini dan mempertimbangkan untuk menjadi investor di pasar modal dengan cara yang aman dan terpercaya.
 
 <!--StartFragment-->
 
-[![miliki bisnis modal kecil cuma dengan 1 jutaan dapat 4 cabang ](https://accountgram-production.sfo2.cdn.digitaloceanspaces.com/landx_ghost/2021/11/jadi-owner-bisnis-hanya-1-jutaan-dengan-cuan-yang-sangat-menjanjikan.png)](https://app.landx.id/?utm_source=Organic+Page&utm_medium=Content+Blog&utm_campaign=BlogLandX&utm_id=Blog)
+Equity crowdfunding bisa jadi pilihan instrumen investasi yang aman dan terpercaya bagi investor yang ingin melakukan diversifikasi portofolio dengan risiko yang terukur. Dalam equity crowdfunding, investor dapat berinvestasi di perusahaan-perusahaan yang telah melewati tahap screening dan seleksi ketat oleh platform crowdfunding yang terdaftar di Otoritas Jasa Keuangan (OJK). 
+
+Selain itu, investor juga dilindungi oleh regulasi yang ada dan memiliki akses pada informasinmengenai perusahaan yang mereka investasikan. Dengan demikian, equity crowdfunding dapat menjadi salah satu pilihan investasi yang menarik dan aman bagi investor yang ingin mendiversifikasi portofolio mereka dengan risiko yang terkendali.
+
+K﻿arena itu, 
+
+## Y﻿uk Mulai Kembangkan Investasi Anda Sekarang
+
+
 
 <!--EndFragment-->
+
+ 
+
+Bagaimana caranya? Kamu bisa memilih investasi minim risiko melalui skema [equity crowdfunding](https://landx.id/). Dengan skema ini, kamu bersama investor lain melakukan pendanaan untuk mendapatkan keuntungan berupa dividen sesuai porsi saham yang kamu tanamkan.
+
+Dengan pendanaan tersebut, bisnis yang kamu danai dapat berkembang, melakukan ekspansi bisnis, lalu investasi kamu pun berjangka panjang. Melalui aplikasi [equity crowdfunding ](https://app.landx.id/?utm_source=Organic+Page&utm_medium=Content+Blog&utm_campaign=BlogLandX&utm_id=Blog)seperti [LandX](https://app.landx.id/?utm_source=Organic+Page&utm_medium=Content+Blog&utm_campaign=BlogLandX&utm_id=Blog) yang sudah berpengalaman dalam mendanai bisnis potensial, terpercaya, dan memiliki market cap terbesar se-Indone
