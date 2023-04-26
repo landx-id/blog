@@ -133,12 +133,10 @@ Nah, dengan ini kita sudah mengetahui apa itu piutang. **Piutang adalah** kegiat
 
 Piutang muncul karena adanya transaksi jual beli secara kredit. Perusahaan juga sering memberikan kemudahan jika ada pelanggan yang tidak dapat melunasi sesuai jatuh tempo, selain itu memberikan potongan harga atau diskon sebelum jatuh tempo dengan harapan pihak pembeli akan membayar sebelum waktu jatuh tempo. 
 
-**Tujuan perusahaan yang menanamkan modal pada piutang** biasanya untuk meningkatkan penjualan, meningkatkan keuntungan, dan menghadapi persaingan dengan perusahaan kompetitor lainnya. Perusahaan perlu melakukan pengelolaan piutang dengan baik sehingga kerugian dapat dicegah ketika melakukan investasi pada piutang.
+**Tujuan perusahaan yang menanamkan modal pada piutang** biasanya untuk meningkatkan penjualan, meningkatkan keuntungan, dan menghadapi persaingan dengan perusahaan kompetitor lainnya. Perusahaan perlu melakukan pengelolaan piutang dengan baik sehingga kerugian dapat dicegah ketika melakukan investasi pada piutang. 
 
-Selain menerima keuntungan dari investasi piutang sebagai pemilik bisnis, kamu juga bisa berkesempatan terima keuntungan dari [investasi bisnis](https://landx.id/) melalui urun dana atau crowdfunding.
+S﻿aat ini, selain dengan sistem piutang, anda juga dapat berinvestasi ke berbagai bisnis potensial dengan skema equity crowdfunding dimana sebagai investor anda akan diberikan kepemilikan saham yang akan memberikan return berupa dividen yang menyesuaikan kinerja bisnis yang telah anda danai. 
 
-## [Pilih Bisnis Impian Kamu di Sini](https://landx.id/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)
+O﻿leh sebab itu, sistem instrumen ini bisa jadi salah satu pilihan instrumen jangka panjang yang memenuhi portofolio investasi anda. 
 
-[![miliki bisnis modal kecil cuma dengan 1 jutaan dapat 4 cabang ](https://accountgram-production.sfo2.cdn.digitaloceanspaces.com/landx_ghost/2021/11/jadi-owner-bisnis-hanya-1-jutaan-dengan-cuan-yang-sangat-menjanjikan.png)](https://landx.id/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)
-
-<!--EndFragment-->
+## Y﻿uk Mulai Kembangkan Investasi Anda Sekarang....
