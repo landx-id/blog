@@ -135,7 +135,7 @@ Nantinya produk anyaman tersebut akan dipasarkan oleh Du Anyam dan keuntungannya
 
 ### 5. LandX
 
-Selanjutnya dari contoh sociopreneur adalah [LandX](https://landx.id/). LandX adalah platform investasi dengan skema equity crowdfunding. 
+Selanjutnya dari contoh sociopreneur adalah LandX. LandX adalah platform investasi dengan skema equity crowdfunding. 
 
 Terbentuknya LandX dilandasi dari banyak ditemukannya bisnis UMKM berpotensi yang mengalami kesulitan dalam pertumbuhannya. Kesulitan utama yang dirasakan oleh bisnis UMKM Indonesia yakni dari segi modalnya. Mereka masih memiliki keterbatasan modal, sehingga bisnis yang mereka jalankan sulit untuk berkembang besar.
 
@@ -147,16 +147,10 @@ Biasanya, para investor sebelum melakukan pendanaan akan melakukan pengecekkan t
 
 Setelah pendanaan dan dana terkumpul akan disalurkan pada bisnis UMKM untuk mengembangkan bisnisnya, nantinya para investor berpotensi mendapatkan keuntungan berupa dividen dari bisnis UMKM yang telah mereka danai.
 
-Sebagai platform [equity crowdfunding](https://landx.id/) yang telah berhasil membantu berbagai bisnis UMKM berpotensi, LandX diketahui telah dipercayai oleh lebih dari 80 ribu investor terdaftar di dalamnya. Selain itu, [LandX](https://landx.id/) juga telah memiliki 44 bisnis UMKM yang telah terdaftar di dalamnya dan telah berhasil membagikan total dividen sebesar 8,15 miliar rupiah.
+Sebagai platform equity crowdfunding yang telah berhasil membantu berbagai bisnis UMKM berpotensi, LandX diketahui telah dipercayai oleh lebih dari 80 ribu investor terdaftar di dalamnya. Selain itu, [LandX](https://landx.id/) juga telah memiliki 44 bisnis UMKM yang telah terdaftar di dalamnya dan telah berhasil membagikan total dividen sebesar 8,15 miliar rupiah.
 
-Di [LandX](https://landx.id/) kamu dapat memulai pendanaan dengan mudah, karena seluruh prosesnya dilakukan melalui aplikasi yang dapat di-download di Appstore. Nantinya kamu dapat memilih berbagai bisnis UMKM  berpotensi dari berbagai industri, mulai dari industri kuliner, hingga properti.
+Di LandX kamu dapat memulai pendanaan dengan mudah, karena seluruh prosesnya dilakukan melalui aplikasi yang dapat di-download di Appstore. Nantinya kamu dapat memilih berbagai bisnis UMKM  berpotensi dari berbagai industri, mulai dari industri kuliner, hingga properti.
 
 Juga, LandX telah terdaftar izinnya di OJk, sehingga seluruh kegiatannya akan diawasi oleh pihak OJK, jadi lebih terjamin proses pendanaannya!
 
-## [Bantu Pertumbuhan Bisnis UMKM dan Dapatkan Potensi Untung Dari Investasi di LandX Sekarang Juga!](https://app.landx.id/?utm_source=Organic+Page&utm_medium=Content+Blog&utm_campaign=BlogLandX&utm_id=Blog)
-
-<!--StartFragment-->
-
-[![miliki bisnis modal kecil cuma dengan 1 jutaan dapat 4 cabang ](https://accountgram-production.sfo2.cdn.digitaloceanspaces.com/landx_ghost/2021/11/jadi-owner-bisnis-hanya-1-jutaan-dengan-cuan-yang-sangat-menjanjikan.png)](https://app.landx.id/?utm_source=Organic+Page&utm_medium=Content+Blog&utm_campaign=BlogLandX&utm_id=Blog)
-
-<!--EndFragment-->
+## Y﻿uk Kembangkan Investasi Anda Sekarang....
