@@ -9,7 +9,7 @@ metaDescription: "Mau tau seputar apa itu OJK? Ikuti artikel ini karena  kita
 intro: Apa itu OJK dan tugasnya? OJK adalah lembaga independen yang berperan
   dalam menyelenggarakan sistem dan pengawasan di sektor keuangan. OJK memiliki
   beberapa tujuan untuk menjamin aktivitas keuangan.
-date: 2022-08-16T08:29:46.077Z
+date: 2023-01-20T08:29:46.077Z
 tag:
   - Lembaga Keuangan
   - Investasi
