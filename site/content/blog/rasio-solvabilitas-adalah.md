@@ -114,14 +114,7 @@ Setelah mengetahui berbagai jenis dan rumus rasio solvabilitas, berikut manfaat 
 
 Pemahaman akan rasio solvabilitas ini menjadi hal yang sangat penting terutama saat anda akan menganalisis laporan keuangan dari suatu perusahaan. Rasio ini menjadi salah satu hal penting untuk membantu anda memahami bagaimana keadaan dari suatu bisnis yang anda danai.
 
-Akan tetapi, sebaiknya anda juga memahami berbagai rasio keuangan lain untuk membangun analisis yang lebih baik lagi. Berikut beberapa artikel terkait yang bisa mendukung anda melakukan analisis keuangan dengan lebih baik:
-
-- - -
-
-* [Rasio-Rasio Keuangan yang Penting Dipahami Investor Pemula dalam Memulai Investasi](https://landx.id/blog/rasio-rasio-keuangan-yang-penting-dalam-investasi/)
-* [Rasio likuiditas](https://landx.id/blog/rasio-likuiditas-adalah/)
-
-- - -
+Akan tetapi, sebaiknya anda juga memahami berbagai rasio keuangan lain untuk membangun analisis yang lebih baik lagi. Berikut beberapa artikel terkait yang bisa mendukung anda melakukan analisis keuangan dengan lebih baik. 
 
 ## Kesimpulan
 
@@ -131,21 +124,8 @@ Solvabilitas adalah rasio yang membantu Anda melakukan analisis terhadap perusah
 
 Kini tentu Anda semakin paham kriteria bisnis dan investasi seperti apa yang cocok dan menguntungkan Anda dalam jangka panjang.
 
-Salah satu instrumen investasi yang wajib Anda coba adalah investasi bisnis melalui skema[ ***equity crowdfunding***](https://landx.id/). Sistem ini membuat Anda bisa melakukan investasi bisnis yang menguntungkan dalam jangka panjang dengan modal kecil. Karena itu…
+Salah satu instrumen investasi yang wajib Anda coba adalah investasi bisnis melalui skema[ ***equity crowdfunding***](https://landx.id/). Sistem ini memungkinkan anda memiliki saham berbagai bisnis potensial dan akan mendapatkan dividen sesuai dengan kinerja dari bisnis yang anda danai. 
 
-## **[Yuk Investasi Bisnis di LandX dengan Berbagai Pilihan Bisnis Potensial untuk Investasi Anda](https://landx.id/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)**
+K﻿arena itu, 
 
-[![Yuk mulai patungan bisnis menguntungkan jangka panja g bersama LandX](https://accountgram-production.sfo2.cdn.digitaloceanspaces.com/landx_ghost/2021/09/Equity-Crowdfunding-di-Indonesia-1--3.png)](https://landx.id/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)
-
-**[Mau Terus Update Info Seputar Investasi? Yuk Follow Kami di Instagram @landx.id untuk Berbagai Info Terupdate Seputar Investasi](https://instagram.com/landx.id?utm_medium=copy_link)**
-
-- - -
-
-**Baca Juga:**
-
-* [Rasio-Rasio Keuangan yang Penting Dipahami Investor Pemula dalam Memulai Investasi](https://landx.id/blog/rasio-rasio-keuangan-yang-penting-dalam-investasi/)
-* [Yuk Pahami Cara Menggunakan Price to Sales Ratio (P/S) untuk Menilai Suatu Saham](https://landx.id/blog/price-to-sales-ratio-adalah/)
-
-- - -
-
-\#YukPatunganBisnis
+## Y﻿uk Mulai Kembangkan Investasi Anda Sekarang....
