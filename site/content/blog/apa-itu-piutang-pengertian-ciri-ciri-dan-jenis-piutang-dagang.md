@@ -8,7 +8,7 @@ metaDescription: Piutang adalah dana dan hak milik sebuah perusahaan yang berada
 intro: Piutang (account receivable) adalah dana serta hak milik sebuah
   perusahaan yang berada di tangan pihak lain berupa aset, barang atau jasa yang
   belum dibayar. Yuk, cari tahu jenis-jenis piutang dagang sebuah bisnis.
-date: 2022-08-24T03:19:02.164Z
+date: 2023-02-07T03:19:02.164Z
 tag:
   - Rasio Keuangan
   - Laporan Keuangan
