@@ -22,7 +22,7 @@ featuredImage:
 
 Apa itu dumping? dumping adalah istilah yang berhubungan dengan perdagangan internasional. Politik dumping adalah kebijakan suatu negara yang menjual produknya ke luar negeri dengan harga yang jauh lebih murah daripada harga jual di dalam negeri itu sendiri.
 
-Tapi tahukah kamu bahwa kebijakan dumping itu sangat meresahkan dan dapat mematikan produsen lokal di negara tujuan ekspor tersebut? Karena nantinya produsen lokal akan sulit bersaing dengan produk luar negeri yang sejenis dan harganya jauh di bawah harga normal.
+Tapi tahukah anda bahwa kebijakan dumping itu sangat meresahkan dan dapat mematikan produsen lokal di negara tujuan ekspor tersebut? Karena nantinya produsen lokal akan sulit bersaing dengan produk luar negeri yang sejenis dan harganya jauh di bawah harga normal.
 
 Makanya banyak negara yang terus berusaha untuk menanggulangi politik dumping ini yang kian lama semakin meresahkan.
 
@@ -172,7 +172,7 @@ Contoh lain dari politik dumping adalah dilakukan oleh Jepang dengan produk elek
 
 ## Dukung Produk Lokal Melalui Investasi
 
-Nah, kita telah membahas seputar politik dumping adalah kebijakan suatu negara yang menjual produk ke luar negeri dengan harga yang lebih murah daripada harga jual di dalam negeri.
+Nah, kita telah membahas seputar politik dumping adalah kebijakan suatu negara yang menjual produk ke luar negeri dengan harga yang lebih murah daripada harga jual di dalam negeri. 
 
 Adanya politik dumping ini ternyata banyak memberikan kerugian bagi negara importir, karena dapat mematikan produsen lokal akibat dari adanya perbedaan harga yang sangat signifikan.
 
@@ -180,18 +180,12 @@ Nah, untuk mendukung produk lokal agar tetap terus bertahan dan dapat bersaing d
 
 Melalui equity crowdfunding, kita akan membantu perkembangan dari berbagai bisnis UMKM berpotensi di Indonesia agar terus dapat bersaing dengan pasar luar negeri.
 
-Sesuai dengan namanya, equity crowdfunding merupakan investasi dengan pendanaan secara patungan. Nantinya kamu akan mendanai salah satu bisnis UMKM berpotensi secara patungan bersama dengan beberapa investor lainnya.
+Sesuai dengan namanya, equity crowdfunding merupakan investasi dengan pendanaan secara patungan. Nantinya anda akan mendanai salah satu bisnis UMKM berpotensi secara patungan bersama dengan beberapa investor lainnya.
 
-Setelah dana terkumpul, kamu akan berpotensi mendapatkan keuntungan berupa dividen dari bisnis UMKM berpotensi yang telah kamu danai.
+Setelah dana terkumpul anda akan berpotensi mendapatkan keuntungan berupa dividen dari bisnis UMKM berpotensi yang telah anda danai.
 
-LandX merupakan platform equity crowdfunding yang telah memiliki market cap terbesar se Indonesia, terpercaya, dan telah mengantongi izin dari OJK. Kamu bisa memulai pendanaan bisnis UMKM berpotensi di LandX dengan modal yang kecil saja, yaitu mulai dari Rp1 jutaan saja, lho!
+M﻿elalui sistem ini, investor akan lebih mudah berinvestasi ke berbagai bisnis privat yang bisa jadi pilihan portofolio jangka panjang anda. 
 
-Selain menjadi salah satu pemegang saham bisnis berpotensi dan mendapatkan keuntungan dividen, kamu juga berperan dalam mendukung daya saing produk lokal.
+K﻿arena itu, 
 
-## [Tambah Passive Income-mu dengan Investasi di LandX Sekarang Juga!](https://app.landx.id/?utm_source=Organic+Page&utm_medium=Content+Blog&utm_campaign=BlogLandX&utm_id=Blog)
-
-<!--StartFragment-->
-
-[![miliki bisnis modal kecil cuma dengan 1 jutaan dapat 4 cabang ](https://accountgram-production.sfo2.cdn.digitaloceanspaces.com/landx_ghost/2021/11/jadi-owner-bisnis-hanya-1-jutaan-dengan-cuan-yang-sangat-menjanjikan.png)](https://app.landx.id/?utm_source=Organic+Page&utm_medium=Content+Blog&utm_campaign=BlogLandX&utm_id=Blog)
-
-<!--EndFragment-->
+## Y﻿uk Mulai Tingkatkan Investasi Anda Sekarang....
