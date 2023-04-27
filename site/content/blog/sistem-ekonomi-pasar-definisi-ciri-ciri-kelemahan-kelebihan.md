@@ -87,16 +87,10 @@ Pemerintah memiliki peran pada sistem ekonomi ini, seperti melaksanakan kebijaka
 
 Secara singkat, keuntungan pada sistem ini tentunya mendorong produk yang kreatif dan inovatif. Namun, tingginya kompetisi dalam usaha ini tentunya akan memengaruhi kegiatan ekonomi seperti kesenjangan sosial dan ekonomi. Para pelaku bisnis perlu mengetahui kekurangan dan kelebihan mengenai sistem ekonomi pada negara yang akan dijadikan tempat untuk berusaha.
 
-Untuk itu para setiap pelaku usaha perlu mengendalikan modalnya dengan baik. Jika kamu seorang pelaku bisnis yang membutuhkan suntikan dana untuk pengembangan bisnis kamu atau ingin melakukan [ekspansi bisnis](<[equity crowdfunding](https://landx.id/)>) maka kamu bisa loh mendaftarkan bisnis kamu lewat aplikasi [equity crowdfunding](https://landx.id/) seperti [LandX](https://landx.id/) yang sudah berpengalaman dalam melakukan pendanaan bisnis potensial di berbagai sektor industri dan sudah berizin Otoritas Jasa Keuangan.
+Untuk itu para setiap pelaku usaha perlu mengendalikan modalnya dengan baik. Jika kamu seorang pelaku bisnis yang membutuhkan suntikan dana untuk pengembangan bisnis kamu atau ingin melakukan [ekspansi bisnis](<[equity crowdfunding](https://landx.id/)>) maka kamu bisa loh mendaftarkan bisnis kamu lewat aplikasi [equity crowdfunding](https://landx.id/) yang sudah berpengalaman dalam melakukan pendanaan bisnis potensial di berbagai sektor industri dan sudah berizin Otoritas Jasa Keuangan.
 
-Melalui sistem [equity crowdfunding](https://landx.id/), perusahaan kamu yang sudah melalui proses verifikasi, akan terdaftar dan didanai oleh para investor-investor yang tertarik untuk mengembangkan bisnis kamu. Bisnis kamu dapat berkembang untuk jangka waktu yang panjang dan melakukan ekspansi bisnis juga.
+S﻿elain bagi pebisnis, sistem ini juga membuat investor menjadi lebih mudah berinvestasi ke bisnis privat sehingga bisa jadi salah satu pilihan instrumen investasi jangka panjang anda. 
 
-Jadi tunggu apalagi?
+K﻿arena itu, 
 
-## [Yuk, Daftarkan Perusahaan Kamu untuk Ekspansi Lebih Cepat Melalui LandX Sekarang Juga!](https://landx.id/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)
-
-<!--StartFragment-->
-
-[![miliki bisnis modal kecil cuma dengan 1 jutaan dapat 4 cabang ](https://accountgram-production.sfo2.cdn.digitaloceanspaces.com/landx_ghost/2021/11/jadi-owner-bisnis-hanya-1-jutaan-dengan-cuan-yang-sangat-menjanjikan.png)](https://landx.id/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog)
-
-<!--EndFragment-->
+## Y﻿uk Kembangkan Portofolio Investasi Anda Sekarang....
