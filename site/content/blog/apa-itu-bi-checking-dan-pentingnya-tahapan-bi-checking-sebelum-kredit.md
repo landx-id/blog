@@ -186,18 +186,8 @@ Mengapa menabung saja tidak cukup dan harus disertai dengan investasi? Hal ini k
 
 Untuk menghindari berkurangnya nilai uang, melakukan investasi di aset yang tepat adalah cara paling strategis. Karena dengan berinvestasi, modal awal yang kamu tanamkan berpotensi untuk mendulang keuntungan yang lebih besar di masa depan. 
 
-Saat ini, terdapat banyak opsi investasi modal minim yang dapat kamu akses dengan mudah, salah satunya adalah kepemilikan saham bisnis UMKM dengan [skema equity crowdfunding lewat platform LandX](https://landx.id/). 
+Saat ini, terdapat banyak opsi investasi modal minim yang dapat kamu akses dengan mudah, salah satunya adalah investasi lewat sistem equity crowdfunding yang mempermudah anda berinvestasi ke perusahaan privat untuk investasi jangka panjang anda. 
 
-Bersama LandX, kamu memiliki pilihan untuk brand bisnis potensial di sektor industri mana pun. Mulai dari sektor F&B seperti Taiwan dessert bowl HongTang, Korean premium rice bowl MangGang, Vilo Gelato yang kekinian, resto sushi hits yaitu Okinawa Sushi, serta bisnis properti kos-kosan di kota besar seperti Jakarta. 
+S﻿istem ini bisa melengkapi diversifikasi portofolio anda sehingga bisa memberikan keuntungan yang optimal. 
 
-Peluang investasi ini bisa kamu raih hanya dengan modal Rp1 jutaan saja lewat platform [equity crowdfunding  LandX](https://landx.id/) berpengalaman, terpercaya, dan telah mengantongi izin dari OJK. 
-
-Karena itu, segera download aplikasinya dan jangan sampai ketinggalan peluang jadi pemilik bisnis potensial lainnya ya!
-
-## [Miliki Saham Bisnis Potensial untuk #RaihKebebasan dari Utang Sekarang Juga!](https://app.landx.id/?utm_source=Organic+Page&utm_medium=Content+Blog&utm_campaign=BlogLandX&utm_id=Blog)
-
-<!--StartFragment-->
-
-[![miliki bisnis modal kecil cuma dengan 1 jutaan dapat 4 cabang ](https://accountgram-production.sfo2.cdn.digitaloceanspaces.com/landx_ghost/2021/11/jadi-owner-bisnis-hanya-1-jutaan-dengan-cuan-yang-sangat-menjanjikan.png)](https://app.landx.id/?utm_source=Organic+Page&utm_medium=Content+Blog&utm_campaign=BlogLandX&utm_id=Blog)
-
-<!--EndFragment-->
+## Yuk Kembangkan Portofolio Anda Sekarang....
