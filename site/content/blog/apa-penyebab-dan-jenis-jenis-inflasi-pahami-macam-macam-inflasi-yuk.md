@@ -18,6 +18,7 @@ featuredImage:
   alt: Jenis-jenis Inflasi
   title: Penyebab dan jenis-jenis Inflasi
 ---
+
 <!--StartFragment-->
 
 Inflasi adalah topik yang ramai dibicarakan belakangan ini karena naiknya harga barang dan BBM di masyarakat. Namun, terdapat jenis-jenis inflasi yang masing-masing di antaranya tentu berbeda dampak dan penyebabnya. 
@@ -162,7 +163,7 @@ Dari penjelasan di atas dapat disimpulkan bahwa inflasi dapat menyebabkan efek d
 
 Saat inflasi terus menerus terjadi, daya beli masyarakat akan semakin menurun. Padahal, penggerak laju ekonomi suatu negara salah satunya penopang utamanya adalah tingkat konsumsi masyarakat. Jika laju inflasi terus bertambah, maka harga produk dan jasa pun akan ikut naik. 
 
-Mulai dari harga pangan, jasa transportasi umum, tarif dasar listrik dan ojek online, hingga [kenaikan suku bunga acuan](https://landx.id/blog/suku-bunga-indonesia-naik-4-75-ini-alasan-suku-bunga-2022-naik-lagi/) yang merupakan kebijakan bank sentral untuk menekan laju inflasi. Namun, sebagai masyarakat kamu bisa melakukan tindakan untuk menghindari dan menghadapi kemungkinan jenis-jenis inflasi yang terjadi, salah satunya adalah melakukan investasi.
+Mulai dari harga pangan, jasa transportasi umum, tarif dasar listrik dan ojek online, hingga kenaikan suku bunga acuan yang merupakan kebijakan bank sentral untuk menekan laju inflasi. Namun, sebagai masyarakat kamu bisa melakukan tindakan untuk menghindari dan menghadapi kemungkinan jenis-jenis inflasi yang terjadi, salah satunya adalah melakukan investasi.
 
 Melalui investasi, untuk melindungi nilai uang dari penurunan daya beli, uang tersebut perlu diinvestasikan dalam aset yang bisa menghasilkan imbal hasil yang lebih tinggi dibandingkan dengan laju inflasi. 
 
@@ -172,20 +173,12 @@ Seiring dengan peningkatan pendapatan dari investasi, semakin leluasa juga kamu 
 
 ## Peluang Investasi dengan Skema Equity Crowdfunding
 
-Tidak seperti dulu, sekarang instrumen investasi dapat diakses oleh siapa pun dan dimana pun. Dulu investasi identik dengan membutuhkan nominal alokasi dana besar untuk logam mulia, obligasi, properti, saham, atau deposito. Pada era terkini, terdapat opsi untuk investasi menjanjikan dengan modal minim misalnya reksa dana atau [equity crowdfunding](https://landx.id/). 
+Tidak seperti dulu, sekarang instrumen investasi dapat diakses oleh siapa pun dan dimana pun. Dulu investasi identik dengan membutuhkan nominal alokasi dana besar untuk logam mulia, obligasi, properti, saham, atau deposito. Pada era terkini, terdapat opsi untuk investasi menjanjikan dengan modal minim misalnya reksa dana atau equity crowdfunding. 
 
 Misalnya, jika dulu investor hanya bisa membeli saham perusahaan besar (Tbk) di Bursa Efek Indonesia, saat ini badan usaha UMKM seperti CV, NV, Firma, dan lainnya juga dapat listing penawaran saham melalui skema securities crowdfunding (SCF) yang merupakan pengembangan skema Equity Crowdfunding (ECF).
 
-Equity crowdfunding pada dasarnya hanya menerbitkan efek berupa saham yang ditawarkan kepada investor guna pendanaan pengembangan bisnis UMKM. Sementara dalam securities crowdfunding, instrumen keuangan yang ditawarkan lebih beragam. Mulai dari saham, obligasi, hingga sukuk sehingga investor bisa diversifikasi profil risiko mereka.
+Equity crowdfunding pada dasarnya hanya menerbitkan efek berupa saham yang ditawarkan kepada investor guna pendanaan dan ekspansi bisnis. Sementara dalam securities crowdfunding, instrumen keuangan yang ditawarkan lebih beragam. Mulai dari saham, obligasi, hingga sukuk sehingga investor bisa diversifikasi profil risiko mereka.
 
-[LandX](https://landx.id/) merupakan salah satu platform equity crowdfunding yang sedang berproses menjadi securities crowdfunding. Tentunya, platform ini telah berpengalaman melakukan crowdfunding bagi berbagai [bisnis potensial di berbagai sektor industri](https://landx.id/?utm_source=Blog&utm_medium=organic+keyword&utm_campaign=blog&utm_id=Blog).
+K﻿arena itu, instrumen ini bisa jadi pilihan anda untuk diversifikasi portofolio jangka panjang anda. 
 
-Jadi, jika kamu ingin tahu lebih banyak lagi tentang investasi dengan skema ini, pastikan untuk berinvestasi melalui platform yang terpercaya, aman, dan pastinya mengantongi izin OJK seperti LandX ya!
-
-## [\#MulaiSekarang Persiapan Hadapi Inflasi dengan Investasi Modal 1 Jutaan Lewat LandX!](https://app.landx.id/?utm_source=Organic+Page&utm_medium=Content+Blog&utm_campaign=BlogLandX&utm_id=Blog)
-
-<!--StartFragment-->
-
-[![miliki bisnis modal kecil cuma dengan 1 jutaan dapat 4 cabang ](https://accountgram-production.sfo2.cdn.digitaloceanspaces.com/landx_ghost/2021/11/jadi-owner-bisnis-hanya-1-jutaan-dengan-cuan-yang-sangat-menjanjikan.png)](https://app.landx.id/?utm_source=Organic+Page&utm_medium=Content+Blog&utm_campaign=BlogLandX&utm_id=Blog)
-
-<!--EndFragment-->
+## Y﻿uk Mulai Kembangkan Portofolio Investasi Anda Sekarang....
