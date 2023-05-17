@@ -24,16 +24,7 @@ featuredImage:
   src: https://images.unsplash.com/photo-1584134239909-eb4800257d6a?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80
   alt: Perbedaan funding dan lending dalam pendanaan dan investasi
 ---
-Kebanyakan orang banyak mendengar tentang saham sebagai instrumen investasi. Tetapi ada beragam cara lain untuk menginvestasikan uang Anda seperti reksadana, protperti atau real estate, P2P, kripto atau mata uang digital, [crowdfunding](https://landx.id/) dan lainnya. 
 
-Sebelumnya, Anda mungkin menemukan beberapa **istilah yang terkait dengan investasi**, tetapi mari kita tinjau kembali beberapa diantaranya:
-
-* **Aset**, adalah sumber daya dan harta kekayaan seseorang atau perusahaan yang berwujud maupun tidak berwujud. Adanya aset diharapkan dapat memberi keuntungan berupa kenaikan nilai atau menghasilkan uang lainnya.
-* **Instrumen investasi** adalah media yang digunakan untuk melindungi aset dengan cara menanamkan modal di dalamnya. Beberapa contoh instrumen investasi adalah saham, reksadana, kripto, emas, obligasi, [crowdfunding](https://landx.id/), dan lainnya.
-* **Portofolio investasi**, adalah kumpulan aset investasi yang ditanamkan pada instrumen investasi. Jika Anda menanamkan pada lebih dari satu jenis instrumen, berarti Anda telah melakukan strategi diversifikasi portofolio investasi.
-* **Fluktuatif** adalah keadaan tidak pasti karena terlihat naik-turunnya harga. Dapat diaplikasikan pada saham.
-
-Nah, karena telah memahami berbagai istilah dalam dunia investasi, berikut panduan referensi [LandX](https://landx.id/) tentang jenis investasi berdasarkan peminjaman (lending) dan pendanaan (funding).
 
 ## LENDING OVERVIEW
 
